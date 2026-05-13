@@ -1,0 +1,321 @@
+﻿{
+  "stats": {
+    "boilerplatesRemoved": 140,
+    "duplicateParagraphsRemoved": 0,
+    "punctuationFixes": 0,
+    "capitalizationFixes": 0,
+    "readingTimeUpdates": 181,
+    "affectedCards": [
+      "kcd-bohemia",
+      "ghost-tsushima-invasion",
+      "rdr2-frontier",
+      "chernobyl-disaster",
+      "oppenheimer-trinity",
+      "gladiator-colosseum",
+      "vikings-raid",
+      "shogun-edo",
+      "ac2-davinci-tank",
+      "bf1-harlem-hellfighters",
+      "shogun2-shinobi",
+      "ghost-onna-musha",
+      "napoleon-height",
+      "prestige-currents",
+      "got-roses",
+      "1917-trenches",
+      "ryan-higgins-boats",
+      "last-kingdom-danelaw",
+      "viking-horned-helmet",
+      "iron-maiden-myth",
+      "medieval-hygiene",
+      "london-fire-plague",
+      "roman-fast-food",
+      "ac-unity-revolution",
+      "ac-mirage-baghdad",
+      "ac-valhalla-vikings",
+      "napoleon-myth-reality",
+      "medieval-lifespan-myth",
+      "pentiment-printing-press",
+      "lanoire-policing",
+      "mafia-prohibition",
+      "valiant-hearts-wwi",
+      "civ-linear-history",
+      "kcd2-medieval-law",
+      "last-samurai-rebellion",
+      "band-of-brothers-airborne",
+      "the-terror-arctic",
+      "kingdom-of-heaven-crusades",
+      "rome-series-spectacle",
+      "pirate-maps-myth",
+      "nero-fiddling-myth",
+      "spartan-war-machines-myth",
+      "witch-hunts-period",
+      "ancient-roman-day",
+      "medieval-night-life",
+      "ancient-city-smells",
+      "rome2-legions",
+      "tsushima-samurai-power",
+      "mongol-efficiency-yam",
+      "ottoman-gunpowder-1453",
+      "flat-earth-myth-medieval",
+      "ottoman-harem-reality",
+      "three-kingdoms-legend",
+      "house-wisdom-baghdad",
+      "persian-empire-admin",
+      "mongol-horse-archery",
+      "empire-collapse-speed",
+      "sengoku-japan-hostage",
+      "shogun-trade-sakoku",
+      "cold-war-proxy-wars",
+      "utopia-political-history",
+      "last-emperor-china-fall",
+      "marco-polo-court",
+      "crusader-states-daily",
+      "early-islamic-expansion",
+      "chernobyl-secrecy",
+      "mongols-culture-exchange",
+      "ottoman-beyond-war",
+      "mesopotamia-legacy",
+      "baghdad-daily-life-new",
+      "ottoman-diet-culture",
+      "silk-road-travel-new",
+      "medieval-japan-daily-life",
+      "mesopotamian-markets-new",
+      "constantinople-fall-turning-new",
+      "silk-road-network-turning",
+      "onna-musha-samurai-women",
+      "ac-brotherhood-rome",
+      "ac-revelations-istanbul",
+      "ac-syndicate-london",
+      "ac-valhalla-settlement",
+      "total-war-attila-collapse",
+      "aoe4-mongol-logistics",
+      "aoe2-castles-politics",
+      "rdr-railroads-frontier",
+      "kcd-medieval-crime",
+      "total-war-three-kingdoms-warlords",
+      "lanoire-postwar-trauma",
+      "rome-patronage-mobs",
+      "gladiator-political-theater",
+      "shogun-hostage-politics",
+      "last-kingdom-alfred-england",
+      "chernobyl-bureaucracy-truth",
+      "band-of-brothers-heroism",
+      "oppenheimer-science-state",
+      "medieval-magic-vs-reason",
+      "vikings-not-only-raiders",
+      "pirates-democracy-myth",
+      "samurai-loyalty-myth",
+      "harem-pleasure-myth",
+      "wild-west-gunfights-myth",
+      "ancient-travel-myth",
+      "pre-news-news",
+      "pre-clock-time",
+      "black-death-labor-shift",
+      "printing-press-authority",
+      "ottoman-bazaar-shopping",
+      "industrial-rev-daily-life",
+      "cold-war-fear-system",
+      "decolonization-complexity",
+      "mafia-immigration-crime",
+      "roman-empire-stability-myth",
+      "medieval-road-travel",
+      "civ-great-leaders-simplification",
+      "last-emperor-court-ritual",
+      "crown-monarchy-symbol",
+      "ancient-childhood",
+      "night-fears-pre-lighting",
+      "crusaders-poverty-myth",
+      "ancient-gods-explanation",
+      "medieval-monastery-science",
+      "modern-propaganda-origins",
+      "roman-entertainment-ordinary",
+      "pre-modern-hospitals",
+      "gladiator-bread-circuses",
+      "medieval-knights-reality",
+      "ac-assassin-order-real",
+      "rdr-pinkerton-agency",
+      "shogun-christian-daimyo",
+      "ghost-mongol-navy",
+      "mafia-prohibition-economics",
+      "ac-crusader-urban-life",
+      "rdr-railroad-conquest",
+      "shogun-sankin-kotai",
+      "mafia-five-families",
+      "ac-templar-fall",
+      "ghost-samurai-reality",
+      "kcd-medieval-diet",
+      "oppenheimer-trinity-reality",
+      "chernobyl-biorobots-cost",
+      "gladiator-commodus-real",
+      "got-war-of-roses-real",
+      "shogun-tokugawa-rise-real",
+      "napoleon-egypt-propaganda",
+      "300-persian-immortals-real",
+      "oppenheimer-los-alamos-culture",
+      "gladiator-arena-economics",
+      "chernobyl-rbmk-flaw",
+      "crown-tv-coronation-1953",
+      "vikings-silk-road-trade",
+      "last-kingdom-alfred-dream",
+      "saving-private-ryan-omaha",
+      "napoleon-code-legacy-real",
+      "300-hoplite-phalanx-real",
+      "oppenheimer-rad-downwinders",
+      "gladiator-female-gladiatrix",
+      "chernobyl-pripyat-delay",
+      "crown-commonwealth-empire",
+      "napoleon-waterloo-masterclass",
+      "300-thermopylae-masterclass",
+      "1917-trench-comms-real",
+      "valiant-hearts-war-dogs-real",
+      "pentiment-printing-press-clash",
+      "the-terror-franklin-canning",
+      "last-emperor-manchukuo-propaganda",
+      "1917-no-mans-land-reality",
+      "1917-siper-savasi-flagship",
+      "the-terror-arctic-tragedy-flagship",
+      "band-of-brothers-hedgerows-real",
+      "saving-private-ryan-higgins-boat",
+      "got-battle-of-bastards-hastings-real",
+      "vikings-funeral-fadlan-real",
+      "the-crown-aberfan-tragedy-real",
+      "the-crown-suez-crisis-empire-end",
+      "civ-alphabet-revolution-real",
+      "total-war-siege-starvation-real",
+      "mafia-rico-law-impact-real",
+      "oppenheimer-gray-board-1954-real",
+      "napoleon-painting-image-propaganda-real",
+      "300-spartan-women-rights-real",
+      "gladiator-spartacus-legacy-real",
+      "1917-gas-masks-evolution-real",
+      "last-emperor-forbidden-city-eunuchs-real",
+      "civ-great-library-alexandria-real",
+      "total-war-medieval-diplomacy-real",
+      "saving-private-ryan-snipers-reality"
+    ],
+    "emptyFieldsDetected": [
+      {
+        "cardId": "ghost-tsushima-invasion",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "chernobyl-disaster",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "shogun2-shinobi",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "ghost-onna-musha",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "ac-mirage-baghdad",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "medieval-lifespan-myth",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "pirate-maps-myth",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "nero-fiddling-myth",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "witch-hunts-period",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "ancient-roman-day",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "medieval-night-life",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "ancient-city-smells",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "tsushima-samurai-power",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "mongol-efficiency-yam",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "flat-earth-myth-medieval",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "house-wisdom-baghdad",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "sengoku-japan-hostage",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "shogun-trade-sakoku",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "chernobyl-secrecy",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "mongols-culture-exchange",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "ottoman-beyond-war",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "mesopotamia-legacy",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "baghdad-daily-life-new",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "ottoman-diet-culture",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "silk-road-travel-new",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "medieval-japan-daily-life",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "mesopotamian-markets-new",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "constantinople-fall-turning-new",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "silk-road-network-turning",
+        "field": "mediaConnection"
+      },
+      {
+        "cardId": "onna-musha-samurai-women",
+        "field": "mediaConnection"
+      }
+    ],
+    "brokenTextList": [],
+    "affectedCardsCount": 186
+  }
+}

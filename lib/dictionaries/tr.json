@@ -1,0 +1,258 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "explore": "Keşfet",
+    "routes": "Rotalar",
+    "saved": "Kitaplık"
+  },
+  "home": {
+    "greeting": "İyi günler,",
+    "welcome": "Neyi keşfetmek istersiniz?",
+    "dailyDossier": "Günün Dosyası",
+    "popularRoutes": "Popüler Rotalar",
+    "recentMedia": "Son Medya Dosyaları",
+    "dailyRealityCheckSignal": "Her gün yeni bir gerçeklik kontrolü"
+  },
+  "card": {
+    "realityCheck": "Gerçeklik Kontrolü",
+    "mediaChanged": "Medya Neyi Değiştirdi?",
+    "mediaConnection": "Medya Bağlantısı",
+    "realHistory": "Gerçek Tarih",
+    "whyItMatters": "Neden Önemli?",
+    "continueReading": "Okumaya Devam Et",
+    "guessAccuracy": "Doğruluğu Tahmin Et",
+    "highAccuracy": "Yüksek Doğruluk",
+    "medAccuracy": "Orta Doğruluk",
+    "lowAccuracy": "Düşük Doğruluk",
+    "spoilers": "Spoiler İçerebilir",
+    "noSpoilers": "Spoiler Yok",
+    "heavySpoilers": "Ağır Spoiler",
+    "nextDiscoveryTitle": "Sıradaki keşif",
+    "nextDiscoveryDesc": "Bu konudan devam etmek ister misin?",
+    "nextDiscoveryCta": "Devam et",
+    "nextDiscoveryFallback": "Keşfet’e dön"
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu.",
+    "back": "Geri",
+    "close": "Kapat",
+    "save": "Kaydet",
+    "saved": "Kaydedildi",
+    "remove": "Kaldır",
+    "minutes": "dakika",
+    "readTime": "okuma süresi",
+    "historicalImage": "Tarihi Görsel",
+    "representativeImage": "Temsilî Görsel",
+    "spoilerTitle": "Sürprizbozan İçerik",
+    "seeAll": "Hepsini Gör",
+    "exploreLibrary": "Tüm Kitaplığı Keşfet",
+    "brandingTitle": "Medyadan Gerçeğe",
+    "brandingSubtitle": "Tarihin Ötesine Yolculuk",
+    "status": {
+      "draft": "Taslak",
+      "review": "İnceleme",
+      "verified": "Onaylı"
+    },
+    "dailyRealityCheck": "Bugünün Gerçeklik Kontrolü",
+    "seeReality": "Gerçeği Gör",
+    "readTimeSuffixFull": "DK OKUMA",
+    "mediaTypes": {
+      "game": "Oyun",
+      "film": "Film",
+      "series": "Dizi",
+      "book": "Kitap"
+    },
+    "vsReality": "VS GERÇEK",
+    "featuredDossier": "Öne Çıkan Medya Dosyası",
+    "featuredDossiers": "Öne Çıkan Dosyalar",
+    "cardsCount": "KART",
+    "cardCount": "KART",
+    "cardsRead": "KART OKUNDU",
+    "cardRead": "KART OKUNDU",
+    "mediaDossierTitle": "MEDYA DOSYASI",
+    "exploreDossier": "DOSYAYI KEŞFET",
+    "dossierDescription": "Bu yapımın ardındaki tarihi gerçekleri, karakterlerin kökenlerini ve unutulan detayları derinlemesine inceleyin.",
+    "flagship": "DERİN DOSYA",
+    "flagships": "DERİN DOSYA",
+    "contentCount": "İÇERİK",
+    "thematicExploration": "Tematik Keşif",
+    "continueReadingTitle": "Kaldığın Yerden Devam Et",
+    "deepDossier": "DERİN DOSYA",
+    "deepDossiers": "DERİN DOSYALAR",
+    "simpleRealityCheck": "GERÇEKLİK KONTROLÜ",
+    "quickDiscoveries": "HIZLI KEŞİFLER",
+    "dossierProgress": "DOSYA İLERLEMESİ",
+    "nextStep": "SIRADAKİ ADIM",
+    "realityAnalysis": "GERÇEKLİK ANALİZİ",
+    "dossierHeader": "DOSYA",
+    "dossierCompleted": "DOSYA TAMAMLANDI",
+    "readAgain": "YENİDEN OKU",
+    "continueJourney": "YOLCULUĞA DEVAM ET",
+    "exploreSimilarDossiers": "BENZER DOSYALARI KEŞFET",
+    "totalCards": "TOPLAM KART",
+    "totalTime": "TOPLAM SÜRE",
+    "continueAction": "DEVAM ET",
+    "keepReadingAction": "OKUMAYA DEVAM ET",
+    "readStatus": "OKUNDU",
+    "containsSpoilers": "Sürprizbozan içeriyor.",
+    "reOpen": "YENİDEN AÇ",
+    "startJourney": "YOLCULUĞA BAŞLA",
+    "viewContent": "İÇERİĞİ GÖR",
+    "markAsRead": "TAMAMLANDI OLARAK İŞARETLE",
+    "explorationComplete": "Keşif Tamamlandı",
+    "returnHome": "Ana Sayfaya Dön",
+    "dossierCompletedTitle": "Dosya Tamamlandı",
+    "dossierCompletedDesc": "Bu keşfi başarıyla tamamladın. Şimdi kaldığın yerden rotana veya dosyana devam edebilirsin.",
+    "goBackAndContinue": "Geri Dön ve Devam Et",
+    "completeJourney": "YOLCULUĞU TAMAMLA",
+    "continue": "DEVAM ET",
+    "startingNote": "BAŞLANGIÇ NOTU",
+    "knowThisFirst": "ÖNCE ŞUNU BİL",
+    "whatInFiction": "KURGUDA NE OLDU?",
+    "keyDetail": "KİLİT DETAY",
+    "conclusionImportance": "SONUÇ VE ÖNEM",
+    "sourcesReading": "KAYNAKLAR VE OKUMA",
+    "feelQuestion": "Bu içerik hakkında ne hissettin?",
+    "similarDiscoveries": "BENZER KEŞİFLER",
+    "accuracyGuessTitle": "Gerçeklik Tahmini",
+    "accuracyGuessSubtitle": "Sence bu medya ne kadar doğru?",
+    "congrats": "Tebrikler!",
+    "actualRating": "Gerçek Değerlendirme",
+    "accuracyOptions": {
+      "real": "Gerçek",
+      "partly-real": "Kısmen Gerçek",
+      "inspired-by-reality": "Gerçekten Esinlenmiş",
+      "fictionalized": "Dramatize Edilmiş",
+      "fiction": "Kurgu"
+    },
+    "accuracyFeedback": {
+      "real": "Bu içerik tarihsel gerçeklere sadık kalarak aktarılmıştır.",
+      "partly-real": "Tarihsel zemin korunmuş ancak anlatım için bazı kısımlar değiştirilmiştir.",
+      "inspired-by-reality": "Gerçek bir olaydan yola çıkılmış ancak hikaye büyük oranda kurgulanmıştır.",
+      "fictionalized": "Dramatik etkiyi artırmak için tarihsel gerçekler üzerinde ciddi değişiklikler yapılmıştır.",
+      "fiction": "Tarihsel bir atmosfer sunsa da anlatılan olaylar tamamen kurgusaldır."
+    },
+    "traceHistory": "Tarihin İzini Sür",
+    "filter": "Filtrele",
+    "searchPlaceholder": "Oyun, film, dizi veya konu ara...",
+    "contentType": "İÇERİK TÜRÜ",
+    "accuracy": "GERÇEKLİK ORANI",
+    "onlyFlagship": "SADECE DERİN DOSYALAR",
+    "chooseMood": "NASIL BİR KEŞİF?",
+    "results": "Sonuç",
+    "noResults": "Sonuç Bulunamadı",
+    "resetFilters": "Filtreleri Sıfırla",
+    "clearFilter": "Filtreyi Temizle",
+    "showAll": "Tümünü Göster",
+    "mediaFilterLabels": {
+      "all": "Hepsi",
+      "game": "Oyun",
+      "film": "Film",
+      "series": "Dizi",
+      "book": "Kitap"
+    },
+    "accuracyFilterLabels": {
+      "all": "Hepsi",
+      "inspired": "Esinlenilmiş",
+      "fictionalized": "Dramatize"
+    },
+    "moodLabels": {
+      "war": "Savaş ve Cephe",
+      "myth": "Efsane mi Gerçek mi?",
+      "samurai": "Samuray ve Japonya",
+      "crime": "Suç ve Mafya",
+      "cold-war": "Soğuk Savaş",
+      "ancient-world": "Antik Dünya",
+      "empires": "İmparatorluklar",
+      "propaganda": "Propaganda",
+      "daily-life": "Günlük Yaşam",
+      "science-tech": "Bilim ve Teknoloji"
+    },
+    "realitySummary": "GERÇEKLİK ÖZETİ",
+    "historicalBackground": "TARİHİ ARKA PLAN",
+    "whyItMattersHeader": "NEDEN ÖNEMLİ?",
+    "sourcesTitle": "KAYNAKLAR",
+    "onboarding": {
+      "welcome": "Hoş Geldiniz",
+      "subtitle": "Bu sadece bir tarih uygulaması değil. Medyanın arkasındaki gerçekleri keşfetmeniz için tasarlandı.",
+      "cta": "Keşfetmeye Başla",
+      "features": {
+        "media": {
+          "title": "Medya ve Gerçeklik",
+          "desc": "Oyun, film ve dizilerin arkasındaki gerçek tarihi olayları keşfedin."
+        },
+        "content": {
+          "title": "Derinlemesine İçerik",
+          "desc": "Kısa notlar yerine, kaynaklarla desteklenmiş anlamlı okumalar yapın."
+        },
+        "spoiler": {
+          "title": "Sürprizbozan Koruması",
+          "desc": "İstediğinizde aktifleşen spoiler koruması ile hikayenin tadını kaçırmayın."
+        }
+      }
+    },
+    "offline": {
+      "title": "Bağlantı Yok",
+      "message": "Çevrimdışı moddasınız. Bazı içerikler yüklenmeyebilir."
+    },
+    "reflectionLabels": {
+      "learned": "Bunu öğrendim",
+      "surprised": "Şaşırdım",
+      "later": "Tekrar bakacağım"
+    },
+    "share": "Paylaş",
+    "linkCopied": "LİNK KOPYALANDI",
+    "addToLibrary": "Kütüphaneye Ekle",
+    "removeFromLibrary": "Kütüphaneden Çıkar",
+    "restartFromBeginning": "Baştan başlat",
+    "onlyFlagshipToggleLabel": "Sadece Derin Dosyaları göster",
+    "journeyProgress": "Yolculuk ilerlemesi"
+  },
+  "saved": {
+    "title": "Kitaplığım",
+    "subtitle": "Kaydettiğin ve okuduğun hikayeler.",
+    "savedItems": "Kaydedilenler",
+    "emptySavedDesc": "Henüz bir hikaye kaydetmediniz. Beğendiğiniz içerikleri daha sonra okumak için kitaplığa ekleyebilirsiniz.",
+    "startExploring": "KEŞFETMEYE BAŞLA",
+    "recentlyViewed": "Son Bakılanlar",
+    "emptyRecentDesc": "Göz attığınız içerikler otomatik olarak burada listelenir.",
+    "completed": "Tamamlananlar",
+    "emptyCompletedDesc": "Henüz bir hikayeyi bitirmediniz. Yolculuğun sonuna ulaştığınızda burada görünecek.",
+    "startFirstStory": "İLK HİKAYENE BAŞLA",
+    "globalEmptyTitle": "Kitaplığın keşiflerle dolmayı bekliyor",
+    "globalEmptyDesc": "İlk hikayeni aç, ilgini çekenleri kaydet ve tamamladığın keşifleri burada takip et.",
+    "globalEmptyPrimaryCta": "İlk keşfe başla",
+    "globalEmptySecondaryCta": "Keşfet’e git"
+  },
+  "routes": {
+    "learningJourneys": "ÖĞRENME YOLCULUKLARI",
+    "subtitle": "Sevdiğin medya üzerinden gerçek tarihe adım adım ilerle.",
+    "continueJourney": "YOLCULUĞA DEVAM ET",
+    "continue": "DEVAM ET",
+    "allRoutes": "TÜM ROTALAR",
+    "completed": "TAMAMLANDI",
+    "explore": "KEŞFET"
+  },
+  "feedback": {
+    "title": "Bir şey mi eksik?",
+    "desc": "Eksik bir film, oyun, dizi ya da fark ettiğin bir sorun varsa bize bildir.",
+    "cta": "Geri Bildirim Gönder"
+  },
+  "legal": {
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları",
+    "localStorageInfo": "Verileriniz (ilerleme, kaydedilenler) sadece bu cihazda saklanır."
+  },
+  "error": {
+    "notFoundTitle": "Bu iz kaybolmuş gibi görünüyor",
+    "notFoundDesc": "Aradığın sayfa bulunamadı. Yeni bir keşfe dönmek için ana sayfaya ya da keşif alanına gidebilirsin.",
+    "goHome": "Ana Sayfa",
+    "goExplore": "Keşfet"
+  },
+  "explore": {
+    "missingMediaTitle": "Aradığın içerik yok mu?",
+    "missingMediaDesc": "Eksik bir oyun, film, dizi ya da tarihi konu fark ettiysen bize öner.",
+    "missingMediaCta": "İçerik Öner"
+  }
+}

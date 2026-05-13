@@ -1,0 +1,96 @@
+@import "tailwindcss";
+
+/* Reduced motion: respect OS/browser animation preferences */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+:root {
+  --font-serif: "Crimson Pro", serif;
+  --font-sans: "Inter", sans-serif;
+  
+  --color-brand-primary: #1a1a1a;
+  --color-brand-secondary: #c5a059;
+  --color-bg-main: #faf9f6;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-bg-main);
+    color: var(--color-brand-primary);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-serif);
+  }
+}
+
+@layer components {
+  .card-premium {
+    border-radius: 1rem;
+    box-shadow: var(--shadow-sm);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    overflow: hidden;
+    transition: transform 200ms;
+  }
+  
+  .card-premium:active {
+    transform: scale(0.98);
+  }
+  
+  .safe-area-bottom {
+    padding-bottom: env(safe-area-inset-bottom, 20px);
+  }
+
+  .safe-area-top {
+    padding-top: env(safe-area-inset-top, 20px);
+  }
+
+  .pt-safe {
+    padding-top: env(safe-area-inset-top, 20px);
+  }
+
+  .pb-safe {
+    padding-bottom: env(safe-area-inset-bottom, 20px);
+  }
+
+  .pb-mobile-nav {
+    padding-bottom: calc(120px + env(safe-area-inset-bottom, 20px));
+  }
+  
+  .glass {
+    background-color: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+  }
+}
+
+/* Custom transitions for page navigation */
+.page-transition-enter {
+  opacity: 0;
+  transform: translateY(10px);
+}
+.page-transition-enter-active {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 300ms, transform 300ms;
+}
+
+html.force-onboarding main,
+html.force-onboarding nav {
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
