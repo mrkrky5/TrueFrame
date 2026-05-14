@@ -147,7 +147,19 @@ export const ENGLISH_ACTIVE_IDS = [
   "ghost-mongol-navy",
   "ac-assassin-order-real",
   "ac-templar-fall",
-  "ac-crusader-urban-life"
+  "ac-crusader-urban-life",
+  "ottoman-beyond-war",
+  "ottoman-diet-culture",
+  "silk-road-travel-new",
+  "vikings-not-only-raiders",
+  "ancient-travel-myth",
+  "medieval-city-diet",
+  "ancient-childhood",
+  "night-fears-pre-lighting",
+  "medieval-monastery-science",
+  "roman-entertainment-ordinary",
+  "pre-modern-hospitals",
+  "medieval-knights-reality"
 ];
 
 /** @deprecated Use ENGLISH_ACTIVE_IDS */

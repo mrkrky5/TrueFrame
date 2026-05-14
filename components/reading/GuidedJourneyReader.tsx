@@ -19,7 +19,6 @@ interface GuidedJourneyReaderProps {
 }
 
 import { useLocale } from "@/hooks/useLocale";
-import NextDiscoveryCard from "@/components/ui/NextDiscoveryCard";
 import ShareButton from "@/components/ui/ShareButton";
 import SaveButton from "@/components/ui/SaveButton";
 
@@ -108,15 +107,6 @@ export default function GuidedJourneyReader({ card, learningState, similarCards,
           </Link>
         </div>
 
-        <div className="w-full mt-6">
-          <NextDiscoveryCard 
-            currentCard={card}
-            allCards={allCards}
-            readIds={readIds}
-            locale={locale}
-            dictionary={dictionary}
-          />
-        </div>
       </div>
     );
   }

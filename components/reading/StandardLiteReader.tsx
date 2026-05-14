@@ -18,7 +18,6 @@ interface StandardLiteReaderProps {
 }
 
 import { useLocale } from "@/hooks/useLocale";
-import NextDiscoveryCard from "@/components/ui/NextDiscoveryCard";
 
 export default function StandardLiteReader({ card, learningState, similarCards, allCards, readIds, dictionary }: StandardLiteReaderProps) {
   const locale = useLocale();
@@ -158,13 +157,6 @@ export default function StandardLiteReader({ card, learningState, similarCards, 
         </section>
       )}
 
-      <NextDiscoveryCard 
-        currentCard={card}
-        allCards={allCards}
-        readIds={readIds}
-        locale={locale}
-        dictionary={dictionary}
-      />
     </div>
   );
 }

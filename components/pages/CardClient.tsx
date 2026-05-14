@@ -14,6 +14,7 @@ import { formatMediaType } from "@/utils/format";
 import GuidedJourneyReader from "@/components/reading/GuidedJourneyReader";
 import StandardLiteReader from "@/components/reading/StandardLiteReader";
 import ShareButton from "@/components/ui/ShareButton";
+import NextDiscoveryCard from "@/components/ui/NextDiscoveryCard";
 import { Locale } from "@/lib/i18n-config";
 import { useRouter } from "next/navigation";
 
@@ -230,6 +231,18 @@ export default function CardClient({ card, allCards, locale, dictionary }: CardC
               </>
             )}
           </div>
+        )}
+      </div>
+
+      <div className="max-w-lg mx-auto px-6 pb-20">
+        {(!card.isFlagship || read) && (
+          <NextDiscoveryCard 
+            currentCard={card}
+            allCards={allCards}
+            readIds={readIds}
+            locale={locale}
+            dictionary={dictionary}
+          />
         )}
       </div>
     </div>
