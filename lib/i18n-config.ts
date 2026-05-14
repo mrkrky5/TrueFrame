@@ -159,7 +159,19 @@ export const ENGLISH_ACTIVE_IDS = [
   "medieval-monastery-science",
   "roman-entertainment-ordinary",
   "pre-modern-hospitals",
-  "medieval-knights-reality"
+  "medieval-knights-reality",
+  "1917-siper-savasi-flagship",
+  "the-terror-arctic-tragedy-flagship",
+  "napoleon-code-legacy-real",
+  "civ-great-library-alexandria-real",
+  "300-thermopylae-masterclass",
+  "saving-private-ryan-omaha",
+  "last-emperor-manchukuo-propaganda",
+  "gladiator-arena-economics",
+  "crusaders-poverty-myth",
+  "decolonization-complexity",
+  "300-persian-immortals-real",
+  "valiant-hearts-wwi"
 ];
 
 /** @deprecated Use ENGLISH_ACTIVE_IDS */

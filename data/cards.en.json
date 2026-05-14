@@ -5609,10 +5609,18 @@
     "mediaTitle": "Oppenheimer",
     "era": "Modern History",
     "region": "USA",
-    "themes": ["Modern History", "Politics", "Science"],
+    "themes": [
+      "Modern History",
+      "Politics",
+      "Science"
+    ],
     "realHistory": "In the early 1950s, the 'Red Scare' (McCarthyism) gripped the USA. J. Robert Oppenheimer, after witnessing the devastation of the atomic bomb, ethically opposed the development of the more powerful Hydrogen Bomb. This opposition made him a target. In the 1954 hearing, his past leftist connections were used to cast suspicion of 'treason.' Ultimately, his security clearance was revoked, effectively ending his scientific influence on government policy. It remains a tragic example of how free thought can be crushed when it clashes with national security interests.",
     "accuracyNote": "The intense interrogation in a small room, which forms the core of the Oppenheimer film, is based on the real 1954 'Gray Board' hearings.",
-    "nextTopics": ["McCarthyism", "Hydrogen Bomb", "Lewis Strauss"],
+    "nextTopics": [
+      "McCarthyism",
+      "Hydrogen Bomb",
+      "Lewis Strauss"
+    ],
     "sources": [
       {
         "title": "J. Robert Oppenheimer Security Hearing (Britannica)",
@@ -5625,7 +5633,9 @@
         "type": "academic"
       }
     ],
-    "relatedCardIds": ["oppenheimer-science-state"],
+    "relatedCardIds": [
+      "oppenheimer-science-state"
+    ],
     "difficulty": "deep",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -5634,7 +5644,12 @@
     "mediaConnection": "This card explores the central legal conflict in the film 'Oppenheimer'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["oppenheimer", "politics", "usa", "mccarthyism"],
+    "tags": [
+      "oppenheimer",
+      "politics",
+      "usa",
+      "mccarthyism"
+    ],
     "mediaChanged": "While the film emphasizes the personal rivalry with Lewis Strauss, the real hearing was a product of systemic Cold War paranoia.",
     "whyItMatters": "The Oppenheimer case was the first major event to spark a global debate on the political responsibility of scientists.",
     "isFlagship": false,
@@ -5648,10 +5663,18 @@
     "mediaTitle": "Oppenheimer",
     "era": "Modern History",
     "region": "USA",
-    "themes": ["Modern History", "Health", "USA"],
+    "themes": [
+      "Modern History",
+      "Health",
+      "USA"
+    ],
     "realHistory": "The Trinity test was not just a scientific milestone but an environmental catastrophe for local residents. Radioactive fallout from the July 16, 1945 explosion was carried by winds across New Mexico, settling on crops, livestock, and water supplies. These residents, now known as 'Downwinders,' saw a spike in rare cancers and infant mortality in the following decades. For years, the government denied the connection, and these communities were excluded from the Radiation Exposure Compensation Act (RECA). Their story highlights the 'human collateral' of the nuclear age.",
     "accuracyNote": "The film focuses on the scientists; however, historical records show significant impact on local civilian populations.",
-    "nextTopics": ["Trinity Test", "Radiation Exposure", "RECA"],
+    "nextTopics": [
+      "Trinity Test",
+      "Radiation Exposure",
+      "RECA"
+    ],
     "sources": [
       {
         "title": "The Downwinders (National Cancer Institute)",
@@ -5664,7 +5687,9 @@
         "type": "academic"
       }
     ],
-    "relatedCardIds": ["oppenheimer-trinity"],
+    "relatedCardIds": [
+      "oppenheimer-trinity"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -5673,7 +5698,12 @@
     "mediaConnection": "This card explores the environmental and human consequences often omitted from nuclear history.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["oppenheimer", "trinity", "radiation", "usa"],
+    "tags": [
+      "oppenheimer",
+      "trinity",
+      "radiation",
+      "usa"
+    ],
     "mediaChanged": "The film glosses over the impact on local populations in New Mexico.",
     "whyItMatters": "It serves as a reminder of the ethical duty to protect civilian populations during scientific advancement.",
     "isFlagship": false,
@@ -5687,10 +5717,18 @@
     "mediaTitle": "Modern History",
     "era": "Modern History",
     "region": "Global",
-    "themes": ["Psychology", "Politics", "Modern History"],
+    "themes": [
+      "Psychology",
+      "Politics",
+      "Modern History"
+    ],
     "realHistory": "The Cold War was as much a psychological conflict as a geopolitical one. In both the US and USSR, state-sponsored fear systems were implemented. 'Duck and Cover' drills in schools and the construction of massive fallout bunkers created a society constantly living on the edge of annihilation. This atmosphere of paranoia led to the 'Red Scare' in the West and intense surveillance in the East, where any deviation was seen as a potential security threat.",
     "accuracyNote": "Historical documentaries and archives confirm the systemic use of fear in civil defense programs.",
-    "nextTopics": ["Duck and Cover", "McCarthyism", "Fallout Shelters"],
+    "nextTopics": [
+      "Duck and Cover",
+      "McCarthyism",
+      "Fallout Shelters"
+    ],
     "sources": [
       {
         "title": "Cold War Civil Defense (Library of Congress)",
@@ -5698,7 +5736,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["cold-war-proxy-wars"],
+    "relatedCardIds": [
+      "cold-war-proxy-wars"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -5707,7 +5747,12 @@
     "mediaConnection": "This card explains the cultural backdrop of many Cold War era films and series.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["cold-war", "paranoia", "psychology", "politics"],
+    "tags": [
+      "cold-war",
+      "paranoia",
+      "psychology",
+      "politics"
+    ],
     "mediaChanged": "While often parodied today, these fear systems were a grim daily reality for millions.",
     "whyItMatters": "The 'psychology of fear' remains a tool in modern geopolitical communication.",
     "isFlagship": false,
@@ -5721,10 +5766,18 @@
     "mediaTitle": "The Crown",
     "era": "Modern History",
     "region": "Egypt / UK",
-    "themes": ["Modern History", "Politics", "UK"],
+    "themes": [
+      "Modern History",
+      "Politics",
+      "UK"
+    ],
     "realHistory": "The 1956 Suez Crisis was the definitive signal that Britain and France were no longer the world's primary superpowers. After Egypt nationalized the Suez Canal, a secret tripartite invasion was launched. However, pressure from the USA and USSR forced a humiliating withdrawal. This event accelerated decolonization and signaled the shift of power to Washington and Moscow, a central theme in the early seasons of The Crown.",
     "accuracyNote": "The Crown depicts the political fallout for Prime Minister Anthony Eden with high historical fidelity.",
-    "nextTopics": ["Gamal Abdel Nasser", "Decolonization", "Anthony Eden"],
+    "nextTopics": [
+      "Gamal Abdel Nasser",
+      "Decolonization",
+      "Anthony Eden"
+    ],
     "sources": [
       {
         "title": "The Suez Crisis (Britannica)",
@@ -5737,7 +5790,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["crown-empire-transition"],
+    "relatedCardIds": [
+      "crown-empire-transition"
+    ],
     "difficulty": "deep",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -5746,7 +5801,12 @@
     "mediaConnection": "This card explores the major geopolitical crisis of Queen Elizabeth II's early reign.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["the-crown", "suez-crisis", "uk", "modern-history"],
+    "tags": [
+      "the-crown",
+      "suez-crisis",
+      "uk",
+      "modern-history"
+    ],
     "mediaChanged": "The series focuses on the personal and domestic political impact, while the global shift was even more profound.",
     "whyItMatters": "Suez marked the moment the 'Old World' empires finally gave way to the Superpower era.",
     "isFlagship": false,
@@ -5760,10 +5820,18 @@
     "mediaTitle": "The Crown",
     "era": "Modern History",
     "region": "Wales",
-    "themes": ["UK", "Modern History", "Society"],
+    "themes": [
+      "UK",
+      "Modern History",
+      "Society"
+    ],
     "realHistory": "In 1966, a massive coal tip (waste heap) collapsed in the Welsh village of Aberfan, engulfing a primary school and killing 144 people, mostly children. The disaster was caused by corporate negligence and poor oversight. The Queen's delayed visit to the site became a significant moment of personal and institutional reflection, as depicted in The Crown. It led to stricter safety regulations for the mining industry.",
     "accuracyNote": "The depiction of the village's grief and the institutional response is widely regarded as accurate.",
-    "nextTopics": ["Coal Mining Safety", "National Coal Board", "Wales History"],
+    "nextTopics": [
+      "Coal Mining Safety",
+      "National Coal Board",
+      "Wales History"
+    ],
     "sources": [
       {
         "title": "The Aberfan Disaster (BBC Archive)",
@@ -5771,7 +5839,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["the-crown-monarchy"],
+    "relatedCardIds": [
+      "the-crown-monarchy"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -5780,7 +5850,12 @@
     "mediaConnection": "This card covers one of the most tragic and defining episodes of 'The Crown'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["the-crown", "aberfan", "uk", "modern-history"],
+    "tags": [
+      "the-crown",
+      "aberfan",
+      "uk",
+      "modern-history"
+    ],
     "mediaChanged": "The Queen's delay was a point of significant criticism in reality, which the series explores deeply.",
     "whyItMatters": "Aberfan is a somber lesson in the human cost of industrial negligence.",
     "isFlagship": false,
@@ -5794,10 +5869,18 @@
     "mediaTitle": "L.A. Noire",
     "era": "Modern History",
     "region": "USA",
-    "themes": ["Modern History", "Psychology", "Crime"],
+    "themes": [
+      "Modern History",
+      "Psychology",
+      "Crime"
+    ],
     "realHistory": "1947 Los Angeles was a city of deep contradictions. Behind the 'American Dream' lay a society scarred by WWII. Millions of returning veterans suffered from 'Battle Fatigue' (PTSD), often leading to domestic issues, alcoholism, and crime. L.A. Noire captures this dark undercurrent, showing how the trauma of the Pacific theater fueled the corruption and violence of the post-war era.",
     "accuracyNote": "The game uses the MotionScan technology to capture the nuances of postwar psychological distress accurately.",
-    "nextTopics": ["PTSD History", "Film Noir", "Los Angeles 1940s"],
+    "nextTopics": [
+      "PTSD History",
+      "Film Noir",
+      "Los Angeles 1940s"
+    ],
     "sources": [
       {
         "title": "Post-WWII America (Smithsonian)",
@@ -5810,7 +5893,9 @@
         "type": "archive"
       }
     ],
-    "relatedCardIds": ["mafia-immigration"],
+    "relatedCardIds": [
+      "mafia-immigration"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -5819,7 +5904,12 @@
     "mediaConnection": "This card explores the historical setting and character motivations in 'L.A. Noire'.",
     "accuracyType": "partly-real",
     "isPremium": false,
-    "tags": ["la-noire", "usa", "psychology", "modern-history"],
+    "tags": [
+      "la-noire",
+      "usa",
+      "psychology",
+      "modern-history"
+    ],
     "mediaChanged": "The game focuses on detective work, but the systemic trauma was even more widespread in society.",
     "whyItMatters": "Understanding postwar trauma is essential to understanding the evolution of modern mental health awareness.",
     "isFlagship": false,
@@ -5833,10 +5923,18 @@
     "mediaTitle": "Assassin's Creed",
     "era": "Modern History",
     "region": "UK",
-    "themes": ["Industrial Revolution", "London", "Politics"],
+    "themes": [
+      "Industrial Revolution",
+      "London",
+      "Politics"
+    ],
     "realHistory": "1868 London was the heart of the world's first industrial empire, but also a center of immense suffering. While factories drove massive wealth, the working class faced 14-hour days, rampant child labor, and the 'Great Stink' caused by a lack of proper sanitation. The game accurately depicts the smog-choked atmosphere and the rise of trade unions as workers fought back against the harsh 'Workhouse' system.\n\n### The Rise of the Working Class\nThe Industrial Revolution didn't just create machines; it created a new social class. The struggle for the 8-hour workday and safe conditions began in the d smoky pubs and factories of Victorian London. AC Syndicate captures this transition through its focus on labor leaders and social reformers like Charles Dickens and Karl Marx.",
     "accuracyNote": "The architectural reconstruction of London is peerless, capturing the grit and scale of the 19th-century city.",
-    "nextTopics": ["Child Labor Laws", "Victorian Medicine", "Trade Unions"],
+    "nextTopics": [
+      "Child Labor Laws",
+      "Victorian Medicine",
+      "Trade Unions"
+    ],
     "sources": [
       {
         "title": "Victorian London - Museum of London",
@@ -5844,7 +5942,9 @@
         "type": "archive"
       }
     ],
-    "relatedCardIds": ["industrial-rev-daily-life"],
+    "relatedCardIds": [
+      "industrial-rev-daily-life"
+    ],
     "difficulty": "deep",
     "readingTimeMinutes": 7,
     "verificationStatus": "Verified",
@@ -5853,7 +5953,12 @@
     "mediaConnection": "This card explores the industrial setting of 'Assassin's Creed Syndicate'.",
     "accuracyType": "partly-real",
     "isPremium": false,
-    "tags": ["assassins-creed", "london", "industrial-revolution", "uk"],
+    "tags": [
+      "assassins-creed",
+      "london",
+      "industrial-revolution",
+      "uk"
+    ],
     "mediaChanged": "The game stylizes the 'gang wars,' which in reality were more about economic survival than organized combat.",
     "whyItMatters": "The Victorian era defined the modern urban experience and the rights of workers globally.",
     "isFlagship": true,
@@ -5867,10 +5972,18 @@
     "mediaTitle": "Great Transformation",
     "era": "Modern History",
     "region": "Global",
-    "themes": ["Industrial Revolution", "Daily Life", "Technology"],
+    "themes": [
+      "Industrial Revolution",
+      "Daily Life",
+      "Technology"
+    ],
     "realHistory": "Before the Industrial Revolution, time was fluid, measured by seasons, sunrises, and Church bells. The factory system imposed 'standardized time' to coordinate labor. This shift from 'task-oriented' time to 'clock-oriented' time was a traumatic social change, leading to the rigid 9-to-5 schedules we follow today.",
     "accuracyNote": "Sociologists and historians identify the standardization of time as one of the most significant shifts in human behavior.",
-    "nextTopics": ["Standard Time", "Chronotypes", "Industrial Labor"],
+    "nextTopics": [
+      "Standard Time",
+      "Chronotypes",
+      "Industrial Labor"
+    ],
     "sources": [
       {
         "title": "Standard Time (Britannica)",
@@ -5878,7 +5991,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["industrial-rev-daily-life"],
+    "relatedCardIds": [
+      "industrial-rev-daily-life"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -5887,7 +6002,12 @@
     "mediaConnection": "This card explains why 'clock-watching' is a modern invention often seen in period dramas.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["time", "industrial-revolution", "daily-life", "society"],
+    "tags": [
+      "time",
+      "industrial-revolution",
+      "daily-life",
+      "society"
+    ],
     "mediaChanged": "We often take clocks for granted, but for a 19th-century worker, they were a tool of oppression.",
     "whyItMatters": "Modern burnout and stress are direct descendants of this shift in how we perceive time.",
     "isFlagship": false,
@@ -5901,10 +6021,18 @@
     "mediaTitle": "Mafia",
     "era": "Modern History",
     "region": "USA",
-    "themes": ["Crime", "Law", "USA"],
+    "themes": [
+      "Crime",
+      "Law",
+      "USA"
+    ],
     "realHistory": "For decades, Mafia bosses were untouchable because they never personally committed crimes. The 1970 RICO (Racketeer Influenced and Corrupt Organizations) Act changed everything by allowing prosecutors to charge bosses for the actions of their subordinates. This legal tool was the 'silver bullet' that eventually led to the collapse of the American Mafia's iron grip on New York.",
     "accuracyNote": "Legal experts agree that RICO was the most effective tool against organized crime in US history.",
-    "nextTopics": ["The Commission", "Rudy Giuliani", "Omerta"],
+    "nextTopics": [
+      "The Commission",
+      "Rudy Giuliani",
+      "Omerta"
+    ],
     "sources": [
       {
         "title": "RICO Act (Britannica)",
@@ -5917,7 +6045,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["mafia-five-families"],
+    "relatedCardIds": [
+      "mafia-five-families"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -5926,7 +6056,12 @@
     "mediaConnection": "This card explains the legal ending to the stories seen in 'Mafia' and 'The Godfather'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["mafia", "law", "usa", "crime"],
+    "tags": [
+      "mafia",
+      "law",
+      "usa",
+      "crime"
+    ],
     "mediaChanged": "While games focus on gunfights, the real war was won in the courtroom.",
     "whyItMatters": "RICO is now used against all forms of organized crime, from cartels to gang networks.",
     "isFlagship": false,
@@ -5940,10 +6075,18 @@
     "mediaTitle": "Mafia",
     "era": "Modern History",
     "region": "USA",
-    "themes": ["Crime", "Immigration", "USA"],
+    "themes": [
+      "Crime",
+      "Immigration",
+      "USA"
+    ],
     "realHistory": "The American Mafia was born from the massive wave of Italian immigration at the turn of the 20th century. Facing discrimination and poverty in the US, some immigrants turned to 'The Black Hand' for protection and economic survival. This evolved into the structured 'Cosa Nostra,' blending Sicilian codes of silence (Omerta) with American corporate efficiency.",
     "accuracyNote": "The game 'Mafia' captures the immigrant experience and the rise of organized crime during Prohibition with high accuracy.",
-    "nextTopics": ["The Black Hand", "Sicilian Immigration", "Prohibition"],
+    "nextTopics": [
+      "The Black Hand",
+      "Sicilian Immigration",
+      "Prohibition"
+    ],
     "sources": [
       {
         "title": "History of the Mafia (Britannica)",
@@ -5951,7 +6094,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["mafia-prohibition"],
+    "relatedCardIds": [
+      "mafia-prohibition"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -5960,7 +6105,12 @@
     "mediaConnection": "This card provides the historical context for the 'Mafia' game series.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["mafia", "immigration", "usa", "history"],
+    "tags": [
+      "mafia",
+      "immigration",
+      "usa",
+      "history"
+    ],
     "mediaChanged": "The romanticized 'gangster' image often hides the desperate poverty that birthed these organizations.",
     "whyItMatters": "It shows how social exclusion can lead to the creation of alternative (and often criminal) power structures.",
     "isFlagship": false,
@@ -5974,10 +6124,18 @@
     "mediaTitle": "Total War",
     "era": "Ancient World",
     "region": "Europe",
-    "themes": ["War", "Politics", "Rome"],
+    "themes": [
+      "War",
+      "Politics",
+      "Rome"
+    ],
     "realHistory": "The 5th century was a time of terminal decline for the Western Roman Empire. Attila the Hun, known as the 'Scourge of God,' led a massive nomadic confederation that devastated the Roman heartland. This era, accurately captured in Total War: Attila, was characterized by climate change, crop failure, and mass migrations (Völkerwanderung), which overwhelmed the Roman administrative and military systems. The collapse was not a single event but a complex disintegration of the ancient world's order.",
     "accuracyNote": "The game's atmospheric focus on survival and the 'dark' tone accurately reflects the historical anxiety of the late Roman period.",
-    "nextTopics": ["The Huns", "Fall of Rome", "Migration Period"],
+    "nextTopics": [
+      "The Huns",
+      "Fall of Rome",
+      "Migration Period"
+    ],
     "sources": [
       {
         "title": "The Fall of Rome (Britannica)",
@@ -5985,7 +6143,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["rome2-legions"],
+    "relatedCardIds": [
+      "rome2-legions"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -5994,7 +6154,12 @@
     "mediaConnection": "This card explores the historical setting of 'Total War: Attila'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["total-war", "rome", "attila", "ancient-world"],
+    "tags": [
+      "total-war",
+      "rome",
+      "attila",
+      "ancient-world"
+    ],
     "mediaChanged": "While the game treats it as an apocalypse, many Roman institutions survived and evolved into the early medieval period.",
     "whyItMatters": "The fall of Rome is the foundation of the medieval European identity.",
     "isFlagship": false,
@@ -6008,10 +6173,18 @@
     "mediaTitle": "Assassin's Creed",
     "era": "Middle Ages",
     "region": "Turkey",
-    "themes": ["War", "Politics", "Ottoman"],
+    "themes": [
+      "War",
+      "Politics",
+      "Ottoman"
+    ],
     "realHistory": "In 1453, Mehmed II led the Ottoman forces in the siege of Constantinople, the capital of the Byzantine Empire. The city's 'Theodosian Walls' had stood for a thousand years, but they were finally breached by the 'Dardanelles Gun,' a massive cannon that signaled the end of medieval fortification dominance. This event, central to the backdrop of AC Revelations, marked the official end of the Middle Ages and the rise of the Ottoman Empire as a global superpower.",
     "accuracyNote": "The game's depiction of Istanbul's (Constantinople's) grandeur and the transition period is architecturally and culturally rich.",
-    "nextTopics": ["Mehmed the Conqueror", "Byzantine Empire", "Siege of Constantinople"],
+    "nextTopics": [
+      "Mehmed the Conqueror",
+      "Byzantine Empire",
+      "Siege of Constantinople"
+    ],
     "sources": [
       {
         "title": "The Fall of Constantinople (Britannica)",
@@ -6019,7 +6192,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["ac-revelations-istanbul"],
+    "relatedCardIds": [
+      "ac-revelations-istanbul"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -6028,7 +6203,12 @@
     "mediaConnection": "This card explores the historical turning point seen in 'Assassin's Creed Revelations'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["assassins-creed", "ottoman", "istanbul", "war"],
+    "tags": [
+      "assassins-creed",
+      "ottoman",
+      "istanbul",
+      "war"
+    ],
     "mediaChanged": "Media often portrays it as a sudden shock, but Byzantium had been in decline for centuries before 1453.",
     "whyItMatters": "The fall of the city forced European traders to look for new routes, leading to the Age of Discovery.",
     "isFlagship": false,
@@ -6042,10 +6222,18 @@
     "mediaTitle": "Ancient World",
     "era": "Ancient World",
     "region": "Iraq",
-    "themes": ["Economy", "History", "Mesopotamia"],
+    "themes": [
+      "Economy",
+      "History",
+      "Mesopotamia"
+    ],
     "realHistory": "Long before paper money, Mesopotamian temples functioned as the world's first banks. Farmers deposited their grain for safekeeping, receiving clay tablets as 'receipts.' These tablets could be traded, effectively creating the first credit system. This complex market structure allowed Mesopotamian cities to grow into the first true urban centers, as seen in the broader historical context of games like Civilization.",
     "accuracyNote": "Archaeological finds of thousands of economic tablets confirm the sophisticated nature of Sumerian and Babylonian banking.",
-    "nextTopics": ["Sumerian Economics", "Cuneiform Tablets", "Babylon"],
+    "nextTopics": [
+      "Sumerian Economics",
+      "Cuneiform Tablets",
+      "Babylon"
+    ],
     "sources": [
       {
         "title": "Banking in Ancient Mesopotamia (World History Encyclopedia)",
@@ -6053,7 +6241,9 @@
         "type": "academic"
       }
     ],
-    "relatedCardIds": ["mesopotamia-legacy"],
+    "relatedCardIds": [
+      "mesopotamia-legacy"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -6062,7 +6252,12 @@
     "mediaConnection": "This card explains the economic foundation of the first civilizations.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["mesopotamia", "economy", "ancient-world", "banking"],
+    "tags": [
+      "mesopotamia",
+      "economy",
+      "ancient-world",
+      "banking"
+    ],
     "mediaChanged": "While often simplified as 'primitive' in games, these economies were highly bureaucratic and efficient.",
     "whyItMatters": "The concepts of debt, interest, and credit were invented in the fertile crescent 5,000 years ago.",
     "isFlagship": false,
@@ -6076,10 +6271,18 @@
     "mediaTitle": "Age of Empires",
     "era": "Middle Ages",
     "region": "Asia / Global",
-    "themes": ["War", "Technology", "Mongol"],
+    "themes": [
+      "War",
+      "Technology",
+      "Mongol"
+    ],
     "realHistory": "The secret to Mongol dominance was not just horse archery but their 'Yam' (Örtöö) postal system. It was a network of relay stations spaced about 25-40 miles apart, where messengers could swap tired horses for fresh ones. This allowed news and imperial orders to travel across the vast empire at speeds of up to 120 miles a day—unmatched until the invention of the telegraph. This system is a core unique ability for the Mongols in Age of Empires IV.",
     "accuracyNote": "Marco Polo's travelogues provide extensive first-hand descriptions of the efficiency of the Yam system.",
-    "nextTopics": ["Genghis Khan", "Marco Polo", "Silk Road"],
+    "nextTopics": [
+      "Genghis Khan",
+      "Marco Polo",
+      "Silk Road"
+    ],
     "sources": [
       {
         "title": "The Mongol Yam (Britannica)",
@@ -6087,7 +6290,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["mongol-efficiency-yam"],
+    "relatedCardIds": [
+      "mongol-efficiency-yam"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -6096,7 +6301,12 @@
     "mediaConnection": "This card explains the strategic mobility of the Mongol Empire.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["mongol", "technology", "aoe4", "communication"],
+    "tags": [
+      "mongol",
+      "technology",
+      "aoe4",
+      "communication"
+    ],
     "mediaChanged": "In games, it provides a speed boost; in reality, it was the administrative spine of the empire.",
     "whyItMatters": "The Yam system facilitated the first truly global exchange of ideas, technologies, and diseases (like the Black Death).",
     "isFlagship": false,
@@ -6110,10 +6320,18 @@
     "mediaTitle": "Age of Empires",
     "era": "Middle Ages",
     "region": "Europe",
-    "themes": ["Architecture", "Politics", "Middle Ages"],
+    "themes": [
+      "Architecture",
+      "Politics",
+      "Middle Ages"
+    ],
     "realHistory": "In Age of Empires II, castles are massive military hubs. Historically, however, they were primarily administrative and judicial centers. A castle was a physical manifestation of a lord's authority over the land and its people. It was where taxes were collected, justice was dispensed, and the local community sought refuge. The 'keep' was the ultimate symbol of the feudal contract: protection in exchange for labor.",
     "accuracyNote": "Archaeological studies of castles like Carcassonne and Warwick confirm their dual role as homes and hubs.",
-    "nextTopics": ["Feudalism", "Siege Warfare", "Medieval Architecture"],
+    "nextTopics": [
+      "Feudalism",
+      "Siege Warfare",
+      "Medieval Architecture"
+    ],
     "sources": [
       {
         "title": "Medieval Castles (Britannica)",
@@ -6121,7 +6339,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["aoe2-castles-politics"],
+    "relatedCardIds": [
+      "aoe2-castles-politics"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -6130,7 +6350,12 @@
     "mediaConnection": "This card explains the social and political reality behind medieval fortifications.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["aoe2", "middle-ages", "architecture", "politics"],
+    "tags": [
+      "aoe2",
+      "middle-ages",
+      "architecture",
+      "politics"
+    ],
     "mediaChanged": "While games emphasize their defensive power, their primary role for 90% of their existence was peacetime administration.",
     "whyItMatters": "The castle system defined the European landscape and power structures for over 500 years.",
     "isFlagship": false,
@@ -6144,10 +6369,18 @@
     "mediaTitle": "Kingdom Come: Deliverance",
     "era": "Middle Ages",
     "region": "Bohemia / Europe",
-    "themes": ["Law", "Society", "Middle Ages"],
+    "themes": [
+      "Law",
+      "Society",
+      "Middle Ages"
+    ],
     "realHistory": "Justice in 15th-century Bohemia was a mix of written law and ancient traditions. In Kingdom Come: Deliverance, we see the harsh reality of public executions and the 'pillory.' Punishments were often designed to be public and symbolic, intended to restore social order rather than rehabilitate the individual. Trials by ordeal were fading, but the belief that God would favor the innocent remained a powerful psychological force.",
     "accuracyNote": "The game's commitment to historical legal systems and social hierarchy is remarkably high.",
-    "nextTopics": ["Magna Carta", "Common Law", "Medieval Punishments"],
+    "nextTopics": [
+      "Magna Carta",
+      "Common Law",
+      "Medieval Punishments"
+    ],
     "sources": [
       {
         "title": "Medieval Law and Order (BBC Bitesize)",
@@ -6155,7 +6388,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["kcd-bohemia"],
+    "relatedCardIds": [
+      "kcd-bohemia"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -6164,7 +6399,12 @@
     "mediaConnection": "This card explores the legal setting of 'Kingdom Come: Deliverance'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["kcd", "middle-ages", "law", "society"],
+    "tags": [
+      "kcd",
+      "middle-ages",
+      "law",
+      "society"
+    ],
     "mediaChanged": "While the game is realistic, modern players often find the lack of 'rights' in the medieval sense jarring.",
     "whyItMatters": "Modern legal systems were born from the slow evolution and eventual rejection of these harsh medieval practices.",
     "isFlagship": false,
@@ -6178,10 +6418,18 @@
     "mediaTitle": "The Last Emperor",
     "era": "Modern History",
     "region": "China",
-    "themes": ["China", "Politics", "Culture"],
+    "themes": [
+      "China",
+      "Politics",
+      "Culture"
+    ],
     "realHistory": "For two millennia, eunuchs (castrated men) were the primary administrators of the Chinese imperial court. They were seen as the most loyal servants because they could not start their own dynasties. By the time of Puyi, the Last Emperor, they had become a powerful and often corrupt caste. In 1923, after discovering they were looting the palace treasures, Puyi expelled over 1,000 eunuchs in a single night, effectively ending an institution that had survived for centuries.",
     "accuracyNote": "The film 'The Last Emperor' was the first Western production allowed to film in the Forbidden City, providing unparalleled visual accuracy.",
-    "nextTopics": ["Forbidden City", "Qing Dynasty", "Puyi"],
+    "nextTopics": [
+      "Forbidden City",
+      "Qing Dynasty",
+      "Puyi"
+    ],
     "sources": [
       {
         "title": "Eunuchs in Imperial China (Britannica)",
@@ -6194,7 +6442,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["last-emperor-china-fall"],
+    "relatedCardIds": [
+      "last-emperor-china-fall"
+    ],
     "difficulty": "deep",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -6203,7 +6453,12 @@
     "mediaConnection": "This card explores the internal court politics shown in 'The Last Emperor'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["china", "last-emperor", "politics", "culture"],
+    "tags": [
+      "china",
+      "last-emperor",
+      "politics",
+      "culture"
+    ],
     "mediaChanged": "The film captures the tragedy of their expulsion, but the eunuchs' political power was often even more significant than shown.",
     "whyItMatters": "The fall of the eunuchs symbolized the final collapse of the traditional Chinese imperial order.",
     "isFlagship": false,
@@ -6217,10 +6472,18 @@
     "mediaTitle": "The Crown",
     "era": "Modern History",
     "region": "UK / Global",
-    "themes": ["Modern History", "Politics", "UK"],
+    "themes": [
+      "Modern History",
+      "Politics",
+      "UK"
+    ],
     "realHistory": "The mid-20th century saw the rapid dismantling of the British Empire. This transition from 'Empire' to the 'Commonwealth of Nations' is a key narrative arc in The Crown. As countries like India, Ghana, and Nigeria gained independence, the Monarchy had to reinvent its role from 'Imperial Ruler' to 'Symbolic Head' of a voluntary association of independent states. This was a painful and complex process that redefined Britain's place in the modern world.",
     "accuracyNote": "The series accurately reflects the Monarchy's emotional and symbolic attachment to the Commonwealth.",
-    "nextTopics": ["Indian Independence", "Decolonization", "Commonwealth of Nations"],
+    "nextTopics": [
+      "Indian Independence",
+      "Decolonization",
+      "Commonwealth of Nations"
+    ],
     "sources": [
       {
         "title": "The British Commonwealth (Britannica)",
@@ -6228,7 +6491,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["the-crown-monarchy"],
+    "relatedCardIds": [
+      "the-crown-monarchy"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -6237,7 +6502,12 @@
     "mediaConnection": "This card explores the political evolution of the British Monarchy in 'The Crown'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["the-crown", "uk", "empire", "politics"],
+    "tags": [
+      "the-crown",
+      "uk",
+      "empire",
+      "politics"
+    ],
     "mediaChanged": "While the series shows the Monarchy's perspective, the nationalist movements in the colonies were the true drivers of this change.",
     "whyItMatters": "The Commonwealth remains a significant (though debated) legacy of the British Empire today.",
     "isFlagship": false,
@@ -6251,10 +6521,18 @@
     "mediaTitle": "Band of Brothers",
     "era": "Modern History",
     "region": "France",
-    "themes": ["War", "II. World War", "Military"],
+    "themes": [
+      "War",
+      "II. World War",
+      "Military"
+    ],
     "realHistory": "After the D-Day landings, the Allies entered the 'Bocage'—a landscape of ancient, thick hedgerows that had existed for centuries. These turned Normandy into a nightmare of close-quarters combat. Every field became a fortress for German defenders. Band of Brothers accurately depicts the confusion and lethality of the 'Hedgerow War,' where tanks were often useless until soldiers invented the 'Rhino Tank' with metal cutters to bash through the roots.",
     "accuracyNote": "The series is praised by veterans for its realistic portrayal of the tactical challenges of the Normandy landscape.",
-    "nextTopics": ["D-Day", "Operation Overlord", "Rhino Tanks"],
+    "nextTopics": [
+      "D-Day",
+      "Operation Overlord",
+      "Rhino Tanks"
+    ],
     "sources": [
       {
         "title": "The Battle of the Hedgerows (National WWII Museum)",
@@ -6262,7 +6540,9 @@
         "type": "museum"
       }
     ],
-    "relatedCardIds": ["band-of-brothers-airborne"],
+    "relatedCardIds": [
+      "band-of-brothers-airborne"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -6271,7 +6551,12 @@
     "mediaConnection": "This card explores the tactical reality of 'Band of Brothers' Episode 3.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["band-of-brothers", "wwii", "military", "france"],
+    "tags": [
+      "band-of-brothers",
+      "wwii",
+      "military",
+      "france"
+    ],
     "mediaChanged": "The intensity of the combat was even more prolonged; many units spent weeks stuck in just a few miles of hedgerow territory.",
     "whyItMatters": "The Bocage taught the Allies that technological superiority can be negated by terrain, a lesson still relevant in modern warfare.",
     "isFlagship": false,
@@ -6285,10 +6570,18 @@
     "mediaTitle": "The Last Samurai",
     "era": "Modern History",
     "region": "Japan",
-    "themes": ["Samurai", "Japan", "Politics"],
+    "themes": [
+      "Samurai",
+      "Japan",
+      "Politics"
+    ],
     "realHistory": "The 1877 Satsuma Rebellion was the final resistance of the samurai class against the modernization of the Meiji government. Led by Saigo Takamori (the inspiration for Katsumoto), 30,000 samurai fought against a modern conscript army. Unlike the film, the samurai did use modern firearms, but their eventual defeat marked the end of the warrior class's 700-year dominance in Japan. Saigo Takamori's ritual suicide made him a national hero and a symbol of traditional Japanese values.",
     "accuracyNote": "While the film's 'Tom Cruise' narrative is fictional, the core conflict between tradition and modernization is historically grounded.",
-    "nextTopics": ["Meiji Restoration", "Saigo Takamori", "Bushido"],
+    "nextTopics": [
+      "Meiji Restoration",
+      "Saigo Takamori",
+      "Bushido"
+    ],
     "sources": [
       {
         "title": "The Satsuma Rebellion (Britannica)",
@@ -6296,7 +6589,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["shogun-edo"],
+    "relatedCardIds": [
+      "shogun-edo"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -6305,7 +6600,12 @@
     "mediaConnection": "This card explores the historical event that inspired 'The Last Samurai'.",
     "accuracyType": "partly-real",
     "isPremium": false,
-    "tags": ["the-last-samurai", "japan", "samurai", "history"],
+    "tags": [
+      "the-last-samurai",
+      "japan",
+      "samurai",
+      "history"
+    ],
     "mediaChanged": "The real samurai were not 'bow and arrow only' purists; they were expert riflemen who were simply outnumbered and out-industrialized.",
     "whyItMatters": "The Satsuma Rebellion was the birth of modern Japan, a nation that successfully blended industrial power with ancient identity.",
     "isFlagship": false,
@@ -6319,10 +6619,18 @@
     "mediaTitle": "Rome",
     "era": "Ancient World",
     "region": "Italy",
-    "themes": ["Politics", "Society", "Rome"],
+    "themes": [
+      "Politics",
+      "Society",
+      "Rome"
+    ],
     "realHistory": "The true motor of Roman politics was not the grand speeches in the Senate, but the 'Clientela' (patronage) system operating in the backstreets. This system was based on a mutual exchange between a wealthy 'Patron' and their 'Clients.' A patron provided jobs, legal protection, or food during shortages; in return, the client provided political support, votes, and a visible presence on the streets. The Roman 'mob,' often dismissed as an unruly crowd, was actually a highly organized political force managed through these patronage networks and local neighborhood leaders (collegia). Leaders like Caesar and Pompey derived their true power from these deep, local roots.",
     "accuracyNote": "HBO's Rome captures this dynamic perfectly through Lucius Vorenus's role as a neighborhood leader, illustrating how local authority functioned alongside imperial ambition.",
-    "nextTopics": ["Clientela", "The Roman Senate", "Bread and Circuses"],
+    "nextTopics": [
+      "Clientela",
+      "The Roman Senate",
+      "Bread and Circuses"
+    ],
     "sources": [
       {
         "title": "Patronage in Ancient Rome (Britannica)",
@@ -6330,7 +6638,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["gladiator-political-theater"],
+    "relatedCardIds": [
+      "gladiator-political-theater"
+    ],
     "difficulty": "deep",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -6339,7 +6649,12 @@
     "mediaConnection": "This card explores the social hierarchy seen in HBO's 'Rome'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["rome", "politics", "society", "ancient-world"],
+    "tags": [
+      "rome",
+      "politics",
+      "society",
+      "ancient-world"
+    ],
     "mediaChanged": "While the series is accurate, it often simplifies the sheer scale of these networks, which involved tens of thousands of people.",
     "whyItMatters": "This system is the historical ancestor of the 'Godfather' figure and remains a template for understanding informal power structures today.",
     "isFlagship": false,
@@ -6353,10 +6668,18 @@
     "mediaTitle": "Gladiator",
     "era": "Ancient World",
     "region": "Italy",
-    "themes": ["Entertainment", "Politics", "Rome"],
+    "themes": [
+      "Entertainment",
+      "Politics",
+      "Rome"
+    ],
     "realHistory": "Roman arenas were not just venues for bloodsport; they were the primary communication platform between the Emperor and the people. The 'Munera' (games) allowed the Emperor to showcase his generosity, power, and sense of justice. In the arena, the public could shout their demands (like tax relief or grain subsidies), and the Emperor's response would directly impact his popularity. While gladiators were often slaves, those who succeeded became superstars with massive followings. The policy of 'Bread and Circuses' (Panem et Circenses) was a deliberate strategy to keep the population fed and entertained to prevent political unrest.",
     "accuracyNote": "The film 'Gladiator' captures the atmosphere of the arena, but simplifies the 'thumbs up/down' gesture. Historically, 'pollice verso' (the turned thumb) likely signaled a death blow, while a tucked-in thumb signaled mercy.",
-    "nextTopics": ["The Colosseum", "Spartacus", "Ludi"],
+    "nextTopics": [
+      "The Colosseum",
+      "Spartacus",
+      "Ludi"
+    ],
     "sources": [
       {
         "title": "Gladiators and the Colosseum (Britannica)",
@@ -6364,7 +6687,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["rome-patronage-mobs"],
+    "relatedCardIds": [
+      "rome-patronage-mobs"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -6373,7 +6698,12 @@
     "mediaConnection": "This card explores the political function of the games in Ridley Scott's 'Gladiator'.",
     "accuracyType": "fictionalized",
     "isPremium": false,
-    "tags": ["gladiator", "rome", "politics", "entertainment"],
+    "tags": [
+      "gladiator",
+      "rome",
+      "politics",
+      "entertainment"
+    ],
     "mediaChanged": "Media focuses on the gore; history focuses on the complex state ritual and the 'contract' between ruler and ruled.",
     "whyItMatters": "The arena was a mirror of the Roman soul—disciplined, violent, and deeply political.",
     "isFlagship": false,
@@ -6387,10 +6717,18 @@
     "mediaTitle": "Gladiator",
     "era": "Ancient World",
     "region": "Italy",
-    "themes": ["Politics", "Biography", "Rome"],
+    "themes": [
+      "Politics",
+      "Biography",
+      "Rome"
+    ],
     "realHistory": "In 'Gladiator,' Commodus is a fragile usurper. In reality, he ruled for 12 years and was the legitimate successor to Marcus Aurelius. His reign marked the end of the 'Five Good Emperors' era. Commodus's true downfall was his obsession with being a gladiator; he frequently entered the arena himself, though his 'opponents' were often disabled or frightened animals. He spent the imperial treasury on lavish games and eventually declared himself the reincarnation of Hercules. His erratic behavior led to a palace conspiracy, and he was eventually strangled in his bath by his wrestling partner, Narcissus, in 192 AD.",
     "accuracyNote": "Joaquin Phoenix captures the character's instability, but the film's timeline is highly compressed and the circumstances of his death are purely fictional.",
-    "nextTopics": ["Marcus Aurelius", "The Five Good Emperors", "The Crisis of the Third Century"],
+    "nextTopics": [
+      "Marcus Aurelius",
+      "The Five Good Emperors",
+      "The Crisis of the Third Century"
+    ],
     "sources": [
       {
         "title": "Commodus (Britannica)",
@@ -6398,7 +6736,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["gladiator-political-theater"],
+    "relatedCardIds": [
+      "gladiator-political-theater"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -6407,7 +6747,12 @@
     "mediaConnection": "This card provides the real history behind the antagonist of 'Gladiator'.",
     "accuracyType": "partly-real",
     "isPremium": false,
-    "tags": ["gladiator", "rome", "biography", "politics"],
+    "tags": [
+      "gladiator",
+      "rome",
+      "biography",
+      "politics"
+    ],
     "mediaChanged": "The film portrays him as dying in the arena; history shows a much longer, more drawn-out political collapse.",
     "whyItMatters": "Commodus is the classic example of how a single bad leader can dismantle a century of stability.",
     "isFlagship": false,
@@ -6421,10 +6766,18 @@
     "mediaTitle": "Gladiator",
     "era": "Ancient World",
     "region": "Italy",
-    "themes": ["War", "Politics", "Rome"],
+    "themes": [
+      "War",
+      "Politics",
+      "Rome"
+    ],
     "realHistory": "While 'Gladiator' focuses on a fictional general, its themes of liberty echo the real story of Spartacus. In 73 BC, Spartacus led 70 gladiators in an escape from a school in Capua. This sparked the Third Servile War, a massive rebellion that grew to involve over 100,000 escaped slaves. Spartacus proved to be a brilliant guerrilla leader, defeating several professional Roman legions. The revolt was eventually crushed by Crassus, Rome's wealthiest man, leading to the crucifixion of 6,000 survivors along the Appian Way. Spartacus's body was never found, turning him into an eternal symbol of resistance.",
     "accuracyNote": "Films often portray Spartacus as a modern democrat; historically, he was likely a Thracian soldier who was simply trying to lead his people back to their homelands.",
-    "nextTopics": ["Crassus", "Slave Revolts", "The Appian Way"],
+    "nextTopics": [
+      "Crassus",
+      "Slave Revolts",
+      "The Appian Way"
+    ],
     "sources": [
       {
         "title": "Spartacus (Britannica)",
@@ -6432,7 +6785,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["gladiator-political-theater"],
+    "relatedCardIds": [
+      "gladiator-political-theater"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -6441,7 +6796,12 @@
     "mediaConnection": "This card explores the historical archetype of the 'rebel gladiator' seen in modern media.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["gladiator", "rome", "rebellion", "war"],
+    "tags": [
+      "gladiator",
+      "rome",
+      "rebellion",
+      "war"
+    ],
     "mediaChanged": "Modern media gives him a political ideology; history shows a desperate and pragmatic fight for survival.",
     "whyItMatters": "Spartacus remains the first and most powerful symbol of the oppressed fighting against a superpower.",
     "isFlagship": false,
@@ -6455,10 +6815,18 @@
     "mediaTitle": "Oppenheimer",
     "era": "Modern History",
     "region": "USA",
-    "themes": ["Science", "War", "Modern History"],
+    "themes": [
+      "Science",
+      "War",
+      "Modern History"
+    ],
     "realHistory": "The Trinity test, conducted on July 16, 1945, in the New Mexico desert, was the culmination of three years of secret scientific work. The 'Gadget' was a plutonium implosion device, and the scientists were so uncertain of its outcome that they famously held a betting pool on whether it would ignite the atmosphere. The logistics were immense: a secret city at Los Alamos, thousands of workers who didn't know what they were building, and a massive 100-foot tower to hold the device. The explosion turned the desert sand into 'Trinitite,' a green radioactive glass, and was visible for 200 miles.",
     "accuracyNote": "Christopher Nolan's 'Oppenheimer' is praised for its historical accuracy regarding the technical and psychological tension of the test.",
-    "nextTopics": ["Manhattan Project", "Hiroshima", "Atomic Age"],
+    "nextTopics": [
+      "Manhattan Project",
+      "Hiroshima",
+      "Atomic Age"
+    ],
     "sources": [
       {
         "title": "The Trinity Test (Los Alamos National Laboratory)",
@@ -6466,7 +6834,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["oppenheimer-feynman"],
+    "relatedCardIds": [
+      "oppenheimer-feynman"
+    ],
     "difficulty": "deep",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -6475,7 +6845,12 @@
     "mediaConnection": "This card explores the climax of the film 'Oppenheimer'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["oppenheimer", "science", "wwii", "modern-history"],
+    "tags": [
+      "oppenheimer",
+      "science",
+      "wwii",
+      "modern-history"
+    ],
     "mediaChanged": "The film focuses on the spectacle; history also remembers the 'Downwinders,' the local residents who were unknowingly exposed to the fallout.",
     "whyItMatters": "Trinity was the moment humanity gained a power that could never be taken back—the power to destroy itself.",
     "isFlagship": false,
@@ -6489,10 +6864,18 @@
     "mediaTitle": "Chernobyl",
     "era": "Modern History",
     "region": "Soviet Union",
-    "themes": ["Modern History", "Science", "Disaster"],
+    "themes": [
+      "Modern History",
+      "Science",
+      "Disaster"
+    ],
     "realHistory": "In the aftermath of the Chernobyl disaster, robots sent to clear the highly radioactive graphite from the roof of Reactor 4 failed within seconds as their electronics were fried. The Soviet leadership decided to use 'Biorobots'—over 3,800 soldiers and workers who were sent onto the roof in 90-second shifts. Wearing handmade lead shielding, they had just enough time to shovel a single pile of graphite back into the core before reaching their lifetime radiation limit. Over 600,000 'liquidators' eventually worked on the cleanup, many facing lifelong health issues as a result of their sacrifice.",
     "accuracyNote": "The HBO series accurately captures the 90-second shifts and the el-capito (lead) armor used by the soldiers.",
-    "nextTopics": ["Chernobyl Exclusion Zone", "Nuclear Energy", "Pripyat"],
+    "nextTopics": [
+      "Chernobyl Exclusion Zone",
+      "Nuclear Energy",
+      "Pripyat"
+    ],
     "sources": [
       {
         "title": "Chernobyl Liquidators (IAEA)",
@@ -6500,7 +6883,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["chernobyl-pripyat-evacuation-real"],
+    "relatedCardIds": [
+      "chernobyl-pripyat-evacuation-real"
+    ],
     "difficulty": "deep",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -6509,7 +6894,12 @@
     "mediaConnection": "This card explores one of the most intense sequences in the 'Chernobyl' series.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["chernobyl", "soviet-union", "modern-history", "disaster"],
+    "tags": [
+      "chernobyl",
+      "soviet-union",
+      "modern-history",
+      "disaster"
+    ],
     "mediaChanged": "The series portrays it as a quick sequence; in reality, this operation lasted for months and involved a massive military mobilization.",
     "whyItMatters": "The liquidators' sacrifice is the ultimate example of how human courage is often the final defense against technological failure.",
     "isFlagship": false,
@@ -6523,10 +6913,18 @@
     "mediaTitle": "Chernobyl",
     "era": "Modern History",
     "region": "Soviet Union",
-    "themes": ["Modern History", "Politics", "Disaster"],
+    "themes": [
+      "Modern History",
+      "Politics",
+      "Disaster"
+    ],
     "realHistory": "On the morning of April 26, 1986, life in Pripyat seemed normal. Children played outside while the wind carried radioactive dust from the nearby reactor. Despite radiation levels being 15,000 times higher than normal, the evacuation order didn't come for 36 hours. The delay was caused by a rigid Soviet hierarchy that discouraged reporting bad news. When the 1,200 buses finally arrived, residents were told they would be gone for only three days. They never returned. Pripyat remains a ghost city today, a preserved time capsule of Soviet life.",
     "accuracyNote": "The series' depiction of the 'Bridge of Death'—where residents watched the fire—is based on local witness accounts, though the immediate lethality of that bridge is debated by some historians.",
-    "nextTopics": ["The Bridge of Death", "Mikhail Gorbachev", "Nuclear Safety"],
+    "nextTopics": [
+      "The Bridge of Death",
+      "Mikhail Gorbachev",
+      "Nuclear Safety"
+    ],
     "sources": [
       {
         "title": "The Evacuation of Pripyat (IAEA)",
@@ -6534,7 +6932,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["chernobyl-biorobots-cost"],
+    "relatedCardIds": [
+      "chernobyl-biorobots-cost"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -6543,7 +6943,12 @@
     "mediaConnection": "This card explores the social impact of the disaster seen in 'Chernobyl'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["chernobyl", "pripyat", "soviet-union", "disaster"],
+    "tags": [
+      "chernobyl",
+      "pripyat",
+      "soviet-union",
+      "disaster"
+    ],
     "mediaChanged": "The series focuses on the bureaucratic panic; history also highlights the sheer confusion and lack of information among the general public.",
     "whyItMatters": "The Pripyat evacuation proved that transparency and rapid decision-making are essential for public survival in the industrial age.",
     "isFlagship": false,
@@ -6557,10 +6962,18 @@
     "mediaTitle": "Band of Brothers",
     "era": "Modern History",
     "region": "Europe",
-    "themes": ["War", "Psychology", "Modern History"],
+    "themes": [
+      "War",
+      "Psychology",
+      "Modern History"
+    ],
     "realHistory": "In 'Band of Brothers,' soldiers are not just war machines; they are humans experiencing 'combat fatigue' (now known as PTSD). During the Siege of Bastogne, Easy Company faced freezing temperatures and constant shelling. Historical records show that primary group loyalty—the bond with the man next to you—was the single most important factor for survival, more so than patriotism. The transition back to civilian life for these men was often silent and painful, a phenomenon characteristic of the 'Quiet Generation' of WWII veterans.",
     "accuracyNote": "Based on Stephen Ambrose's interviews, the series is one of the most accurate portrayals of the soldier's perspective in history.",
-    "nextTopics": ["Bastogne", "Normandy Landings", "PTSD in History"],
+    "nextTopics": [
+      "Bastogne",
+      "Normandy Landings",
+      "PTSD in History"
+    ],
     "sources": [
       {
         "title": "Combat Fatigue in WWII (Britannica)",
@@ -6568,7 +6981,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["saving-private-ryan-snipers-reality"],
+    "relatedCardIds": [
+      "saving-private-ryan-snipers-reality"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -6577,7 +6992,12 @@
     "mediaConnection": "This card explores the psychological depth of 'Band of Brothers'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["band-of-brothers", "wwii", "psychology", "war"],
+    "tags": [
+      "band-of-brothers",
+      "wwii",
+      "psychology",
+      "war"
+    ],
     "mediaChanged": "The series focuses on the bond; history also notes the severe internal divisions and the sheer sefection rates in some units.",
     "whyItMatters": "It reminds us that war is 90% waiting in misery and 10% pure terror.",
     "isFlagship": false,
@@ -6591,10 +7011,18 @@
     "mediaTitle": "Saving Private Ryan",
     "era": "Modern History",
     "region": "Europe",
-    "themes": ["War", "Military", "Modern History"],
+    "themes": [
+      "War",
+      "Military",
+      "Modern History"
+    ],
     "realHistory": "The duel between Jackson and the German sniper in 'Saving Private Ryan' is a cinematic masterpiece, but real WWII sniping was less about 'duels' and more about psychological attrition. Snipers like Simo Häyhä (The White Death) would wait motionless in the cold for days. A single shot could stop an entire platoon's advance by creating a constant fear of 'the invisible death.' In reality, staying in a bell tower like Jackson is a death sentence, as such positions were the first targets for artillery.",
     "accuracyNote": "The film accurately captures the fear a sniper can instill, but dramatizes the individual duels for narrative tension.",
-    "nextTopics": ["Simo Häyhä", "Stalingrad Snipers", "Military Camouflage"],
+    "nextTopics": [
+      "Simo Häyhä",
+      "Stalingrad Snipers",
+      "Military Camouflage"
+    ],
     "sources": [
       {
         "title": "Snipers in WWII (Imperial War Museums)",
@@ -6602,7 +7030,9 @@
         "type": "museum"
       }
     ],
-    "relatedCardIds": ["band-of-brothers-heroism"],
+    "relatedCardIds": [
+      "band-of-brothers-heroism"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -6611,7 +7041,12 @@
     "mediaConnection": "This card explores the role of Private Jackson in 'Saving Private Ryan'.",
     "accuracyType": "partly-real",
     "isPremium": false,
-    "tags": ["saving-private-ryan", "wwii", "military", "war"],
+    "tags": [
+      "saving-private-ryan",
+      "wwii",
+      "military",
+      "war"
+    ],
     "mediaChanged": "Media turns snipers into heroes; history shows they were often the most feared and least-mercifully treated prisoners of war.",
     "whyItMatters": "Sniping proved that a single disciplined individual can negate the power of a much larger industrial force.",
     "isFlagship": false,
@@ -6625,10 +7060,18 @@
     "mediaTitle": "1917",
     "era": "Modern History",
     "region": "Europe",
-    "themes": ["War", "Technology", "WWI"],
+    "themes": [
+      "War",
+      "Technology",
+      "WWI"
+    ],
     "realHistory": "The terrifying masks seen in '1917' were the only defense against the poison gases that defined WWI. When chlorine gas was first used in 1915, soldiers had no protection; the first 'masks' were actually rags soaked in their own urine (the ammonia helped neutralize the chlorine). By the time of the film's setting, the 'Small Box Respirator' had been developed. It was a complex device made of rubber and glass with a charcoal filter. Failure to put the mask on within six seconds of a 'Gas!' warning meant permanent lung damage or a slow, excruciating death.",
     "accuracyNote": "The film's visual depiction of WWI equipment is exceptionally high, reflecting the industrialization of mass slaughter.",
-    "nextTopics": ["Chemical Warfare", "Battle of Ypres", "WWI Technology"],
+    "nextTopics": [
+      "Chemical Warfare",
+      "Battle of Ypres",
+      "WWI Technology"
+    ],
     "sources": [
       {
         "title": "Gas Masks in WWI (National WWI Museum)",
@@ -6636,7 +7079,9 @@
         "type": "museum"
       }
     ],
-    "relatedCardIds": ["band-of-brothers-heroism"],
+    "relatedCardIds": [
+      "band-of-brothers-heroism"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -6645,7 +7090,12 @@
     "mediaConnection": "This card explores the survival equipment seen in Sam Mendes' '1917'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["1917", "wwi", "technology", "war"],
+    "tags": [
+      "1917",
+      "wwi",
+      "technology",
+      "war"
+    ],
     "mediaChanged": "Media often treats them as accessories; history shows the claustrophobic panic and physical strain of wearing them for hours.",
     "whyItMatters": "The gas mask is the symbol of when war stopped being 'noble' and became a cold, industrial science.",
     "isFlagship": false,
@@ -6659,10 +7109,18 @@
     "mediaTitle": "Game of Thrones",
     "era": "Middle Ages",
     "region": "England",
-    "themes": ["Politics", "War", "Middle Ages"],
+    "themes": [
+      "Politics",
+      "War",
+      "Middle Ages"
+    ],
     "realHistory": "### The Dynasty Clash: York vs. Lancaster (Stark vs. Lannister)\nThe Wars of the Roses (1455-1487) was a series of dynastic civil wars for the throne of England between supporters of two rival cadet branches of the royal House of Plantagenet: the House of Lancaster (Red Rose) and the House of York (White Rose). This is the primary historical blueprint for the Stark vs. Lannister conflict. The Yorks, much like the Starks, were seen as northern-aligned military men, while the Lancasters represented the southern, wealthier establishment. It was a 30-year game of musical chairs that decimated the English nobility.\n\n### The 'Kingmaker': Warwick the Powerful\nWesteros has Lord Varys and Littlefinger, but real history had Richard Neville, 16th Earl of Warwick. Known as 'The Kingmaker,' he was the wealthiest and most powerful man in England. He could raise armies that rivaled the King's. He famously switched sides between York and Lancaster based on his personal interests, proving that in medieval politics, power wasn't just in the crown, but in the hands of the men who made kings. His eventual fall is a reminder that in the game of thrones, you win or you die.\n\n### The Black Dinner: The Real Red Wedding\nGeorge R.R. Martin famously based the 'Red Wedding' on the 'Black Dinner' of 1440. In Scottish history, the young Earl of Douglas and his brother were invited to dinner with the King at Edinburgh Castle. During the meal, a black bull's head—the symbol of death—was brought in. The brothers were then dragged out and executed, violating the 'sacred law of hospitality.' This event shows that the most dangerous place in the Middle Ages wasn't the battlefield, but the dinner table.\n\n### The Wall and Hadrian: The Northern Boundary\nThe massive ice wall in the North is inspired by Hadrian's Wall, which Martin visited in Northern England. Built by Emperor Hadrian in 122 AD, it marked the boundary of the Roman Empire against the 'barbarians' to the north. The feeling of isolation and the constant watch for an unknown threat from the wilderness is exactly what inspired the 'Night's Watch.'",
     "accuracyNote": "The series captures the ham-fisted brutality and shifting alliances of the era, though the 'Red Wedding' in history was even more politically complex than the show depicts.",
-    "nextTopics": ["The Tudor Dynasty", "Hadrian's Wall", "Richard III"],
+    "nextTopics": [
+      "The Tudor Dynasty",
+      "Hadrian's Wall",
+      "Richard III"
+    ],
     "sources": [
       {
         "title": "Wars of the Roses (Britannica)",
@@ -6675,7 +7133,9 @@
         "type": "academic"
       }
     ],
-    "relatedCardIds": ["got-battle-of-bastards-hastings-real"],
+    "relatedCardIds": [
+      "got-battle-of-bastards-hastings-real"
+    ],
     "difficulty": "deep",
     "readingTimeMinutes": 6,
     "verificationStatus": "Verified",
@@ -6684,7 +7144,12 @@
     "mediaConnection": "This flagship card explores the deep historical roots of the entire 'Game of Thrones' universe.",
     "accuracyType": "inspired-by-reality",
     "isPremium": true,
-    "tags": ["game-of-thrones", "england", "middle-ages", "politics"],
+    "tags": [
+      "game-of-thrones",
+      "england",
+      "middle-ages",
+      "politics"
+    ],
     "mediaChanged": "Martin added dragons and magic; history provided the even-more-shocking betrayals and the slow-motion collapse of a royal house.",
     "whyItMatters": "The Wars of the Roses shaped the modern English identity and led to the rise of the Tudor dynasty, which changed the world.",
     "isFlagship": true,
@@ -6698,10 +7163,18 @@
     "mediaTitle": "Game of Thrones",
     "era": "Middle Ages",
     "region": "England",
-    "themes": ["War", "Tactic", "Middle Ages"],
+    "themes": [
+      "War",
+      "Tactic",
+      "Middle Ages"
+    ],
     "realHistory": "The claustrophobic intensity of the 'Battle of the Bastards' is famously inspired by the Battle of Hastings in 1066. At Hastings, the Saxon King Harold formed a 'shield wall' on a ridge that the Norman cavalry couldn't break for hours. The piles of bodies grew so high that both sides struggled to move—a detail vividly captured when Jon Snow is nearly crushed by his own men. The battle ended when the shield wall finally broke, leading to a massacre that changed the course of English history.",
     "accuracyNote": "The show uses giants and fiction, but the 'shield wall' and the physical reality of a pre-modern slaughter are historically accurate.",
-    "nextTopics": ["Battle of Hastings", "William the Conqueror", "Medieval Tactics"],
+    "nextTopics": [
+      "Battle of Hastings",
+      "William the Conqueror",
+      "Medieval Tactics"
+    ],
     "sources": [
       {
         "title": "The Battle of Hastings (Britannica)",
@@ -6709,7 +7182,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["got-war-of-roses-real"],
+    "relatedCardIds": [
+      "got-war-of-roses-real"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -6718,7 +7193,12 @@
     "mediaConnection": "This card explores the tactical inspiration for the 'Battle of the Bastards'.",
     "accuracyType": "inspired-by-reality",
     "isPremium": false,
-    "tags": ["game-of-thrones", "hastings", "middle-ages", "war"],
+    "tags": [
+      "game-of-thrones",
+      "hastings",
+      "middle-ages",
+      "war"
+    ],
     "mediaChanged": "The show focuses on the individual hero; history shows it was a clash of two rigid military cultures.",
     "whyItMatters": "Hastings is the reason the English language is a mix of Germanic and French today.",
     "isFlagship": false,
@@ -6732,10 +7212,18 @@
     "mediaTitle": "The Last Kingdom",
     "era": "Middle Ages",
     "region": "England",
-    "themes": ["Politics", "War", "Middle Ages"],
+    "themes": [
+      "Politics",
+      "War",
+      "Middle Ages"
+    ],
     "realHistory": "King Alfred 'the Great' was the only Saxon king to successfully defend his kingdom (Wessex) against the Viking Great Heathen Army. His victory at the Battle of Edington in 878 saved Anglo-Saxon culture. However, his true legacy wasn't just on the battlefield; it was his 'Burh' system (fortified towns) and his promotion of the English language over Latin. Alfred was the first to envision 'Englaland'—a unified nation of all Saxons. While he never ruled all of England, he laid the administrative and cultural foundation for his grandson, Athelstan, to become the first true King of all England.",
     "accuracyNote": "The series accurately portrays Alfred as a sickly but brilliant strategist, a depiction grounded in the contemporary biography by Asser.",
-    "nextTopics": ["Wessex", "The Danelaw", "Anglo-Saxons"],
+    "nextTopics": [
+      "Wessex",
+      "The Danelaw",
+      "Anglo-Saxons"
+    ],
     "sources": [
       {
         "title": "King Alfred the Great (British Library)",
@@ -6743,7 +7231,9 @@
         "type": "archive"
       }
     ],
-    "relatedCardIds": ["ac-valhalla-settlement"],
+    "relatedCardIds": [
+      "ac-valhalla-settlement"
+    ],
     "difficulty": "deep",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -6752,7 +7242,12 @@
     "mediaConnection": "This card explores the historical figure of King Alfred in 'The Last Kingdom'.",
     "accuracyType": "partly-real",
     "isPremium": false,
-    "tags": ["the-last-kingdom", "england", "middle-ages", "politics"],
+    "tags": [
+      "the-last-kingdom",
+      "england",
+      "middle-ages",
+      "politics"
+    ],
     "mediaChanged": "The show focuses on the Viking conflict; history emphasizes Alfred's role as a scholar and law-giver.",
     "whyItMatters": "Alfred is the reason England exists as a distinct cultural and linguistic entity today.",
     "isFlagship": false,
@@ -6766,10 +7261,18 @@
     "mediaTitle": "Kingdom Come: Deliverance",
     "era": "Middle Ages",
     "region": "Bohemia",
-    "themes": ["Daily Life", "Middle Ages", "Culture"],
+    "themes": [
+      "Daily Life",
+      "Middle Ages",
+      "Culture"
+    ],
     "realHistory": "In 1403 Bohemia, the diet was strictly defined by social class. For 90% of the population, the staple was 'pottage'—a thick vegetable and grain stew. Meat was a luxury, especially since forest game was the exclusive property of the lords. Interestingly, because water was often contaminated, people of all ages drank 'small ale' (low alcohol beer) throughout the day as their primary source of hydration. Potatoes, corn, and tomatoes were completely unknown, as they hadn't yet arrived from the Americas.",
     "accuracyNote": "Kingdom Come: Deliverance is celebrated for its accurate depiction of medieval food, including the specific herbs and grains of the era.",
-    "nextTopics": ["Medieval Ale", "Feudal Law", "Middle Ages Agriculture"],
+    "nextTopics": [
+      "Medieval Ale",
+      "Feudal Law",
+      "Middle Ages Agriculture"
+    ],
     "sources": [
       {
         "title": "Medieval Diet (British Library)",
@@ -6777,7 +7280,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["medieval-justice-kcd"],
+    "relatedCardIds": [
+      "medieval-justice-kcd"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -6786,7 +7291,12 @@
     "mediaConnection": "This card explores the survival mechanics in 'Kingdom Come: Deliverance'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["kcd", "middle-ages", "daily-life", "culture"],
+    "tags": [
+      "kcd",
+      "middle-ages",
+      "daily-life",
+      "culture"
+    ],
     "mediaChanged": "Media shows massive roasts; history shows that for most people, a good piece of bacon was a once-a-month celebration.",
     "whyItMatters": "The diet explains the physical health and economic constraints of the people who built the cathedrals.",
     "isFlagship": false,
@@ -6800,10 +7310,18 @@
     "mediaTitle": "Total War",
     "era": "Middle Ages",
     "region": "Europe",
-    "themes": ["War", "Lojistics", "Middle Ages"],
+    "themes": [
+      "War",
+      "Lojistics",
+      "Middle Ages"
+    ],
     "realHistory": "In Total War, sieges are dramatic assaults with towers and rams. In reality, 90% of sieges were won by starvation. An army would simply surround a castle and wait. For the defenders, the greatest enemies were dysentery (from bad water) and hunger. For the attackers, the challenge was feeding thousands of soldiers in a single spot for months. Most castles didn't fall to a heroic breach, but to a bribe—a single guard opening a side gate for a loaf of bread or a bag of gold.",
     "accuracyNote": "The game focuses on the combat for fun, but the 'attrition' mechanic in the campaign map is a nod to this historical reality.",
-    "nextTopics": ["Medieval Siege Weapons", "Castle Life", "Logistics of War"],
+    "nextTopics": [
+      "Medieval Siege Weapons",
+      "Castle Life",
+      "Logistics of War"
+    ],
     "sources": [
       {
         "title": "Medieval Siege Warfare (Britannica)",
@@ -6811,7 +7329,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["medieval-castles-power"],
+    "relatedCardIds": [
+      "medieval-castles-power"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -6820,7 +7340,12 @@
     "mediaConnection": "This card explores the strategic reality behind 'Total War' sieges.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["total-war", "middle-ages", "war", "logistics"],
+    "tags": [
+      "total-war",
+      "middle-ages",
+      "war",
+      "logistics"
+    ],
     "mediaChanged": "Media focuses on the action; history shows that a siege was a long, boring, and disease-ridden endurance test.",
     "whyItMatters": "It reminds us that logisticians win wars, not just generals.",
     "isFlagship": false,
@@ -6834,10 +7359,18 @@
     "mediaTitle": "Total War",
     "era": "Middle Ages",
     "region": "Europe",
-    "themes": ["Politics", "Middle Ages", "Society"],
+    "themes": [
+      "Politics",
+      "Middle Ages",
+      "Society"
+    ],
     "realHistory": "Medieval diplomacy wasn't just about treaties; it was about family. In the 11th-15th centuries, a princess was often a 'peace-weaver,' sent to a rival kingdom to cement an alliance. These marriages created a massive web of kinship that defined European borders. The Hundred Years' War, for example, was essentially a family dispute over inheritance. Ambassadors were not just messengers, but legal experts who spent months negotiating 'dowries'—which were often entire provinces or strategic castles.",
     "accuracyNote": "Total War: Medieval II captures this through its 'Princess' agent, whose primary job is to secure alliances through marriage.",
-    "nextTopics": ["Feudalism", "The Hundred Years' War", "Royal Bloodlines"],
+    "nextTopics": [
+      "Feudalism",
+      "The Hundred Years' War",
+      "Royal Bloodlines"
+    ],
     "sources": [
       {
         "title": "Medieval Diplomacy (Britannica)",
@@ -6845,7 +7378,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["got-war-of-roses-real"],
+    "relatedCardIds": [
+      "got-war-of-roses-real"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -6854,7 +7389,12 @@
     "mediaConnection": "This card explores the political layer of 'Total War: Medieval II'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["total-war", "middle-ages", "politics", "diplomacy"],
+    "tags": [
+      "total-war",
+      "middle-ages",
+      "politics",
+      "diplomacy"
+    ],
     "mediaChanged": "Games use a simple 'trust score'; history shows it was a complex legal and personal contract that could last for generations.",
     "whyItMatters": "It explains why modern European royalty is still so closely related today.",
     "isFlagship": false,
@@ -6868,10 +7408,18 @@
     "mediaTitle": "Shogun",
     "era": "Feudal Japan",
     "region": "Japan",
-    "themes": ["Daily Life", "Economy", "Feudalism"],
+    "themes": [
+      "Daily Life",
+      "Economy",
+      "Feudalism"
+    ],
     "realHistory": "Over 90% of the population in Feudal Japan were peasants, and their lives revolved entirely around rice. Rice was not just food; it was the currency (Koku). A single 'Koku' was defined as the amount of rice one adult needed to survive for a year. Samurai were paid in rice, and the wealth of a Daimyo was measured by his land's rice production. While peasants paid high taxes, they often enjoyed significant local autonomy, managing their own village disputes as long as the quotas were met. Buddhist temples served as the community hubs—places of education, safety, and local governance.",
     "accuracyNote": "The series 'Shogun' accurately reflects the high value placed on rice and the strict social hierarchy that governed everyday interactions.",
-    "nextTopics": ["The Koku System", "Sengoku Period", "Buddhist Temples"],
+    "nextTopics": [
+      "The Koku System",
+      "Sengoku Period",
+      "Buddhist Temples"
+    ],
     "sources": [
       {
         "title": "Daily Life in Medieval Japan (Britannica)",
@@ -6879,7 +7427,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["ghost-samurai-reality"],
+    "relatedCardIds": [
+      "ghost-samurai-reality"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -6888,7 +7438,12 @@
     "mediaConnection": "This card provides the social context for the world of 'Shogun'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["shogun", "japan", "daily-life", "economy"],
+    "tags": [
+      "shogun",
+      "japan",
+      "daily-life",
+      "economy"
+    ],
     "mediaChanged": "Media focuses on the samurai; history shows that the economic power of the peasant class was the true foundation of the Sengoku period.",
     "whyItMatters": "The rice economy explains why Japanese feudalism was so remarkably stable despite constant internal warfare.",
     "isFlagship": false,
@@ -6902,10 +7457,18 @@
     "mediaTitle": "Ghost of Tsushima",
     "era": "Feudal Japan",
     "region": "Japan",
-    "themes": ["Samurai", "War", "Japan"],
+    "themes": [
+      "Samurai",
+      "War",
+      "Japan"
+    ],
     "realHistory": "Traditional 13th-century Japanese warfare was centered around individual 'Standoffs' (Meigen), where warriors would shout their lineage and challenge opponents to single combat. This changed forever during the Mongol invasions. The Mongols fought as a disciplined, collective unit using gunpowder bombs (Tetsuhau) and coordinated arrow storms directed by drums. The samurai were forced to adapt, moving away from individual duels toward fortified defenses and mounted archery. Interestingly, the 'Katana' didn't yet exist in its modern form; Jin Sakai would have likely used a 'Tachi,' a longer and more curved blade designed for cavalry.",
     "accuracyNote": "Ghost of Tsushima uses Jin's struggle to reflect the historical shift from traditional to pragmatic warfare, though it takes creative liberty with the weaponry.",
-    "nextTopics": ["The Tachi vs Katana", "Mongol Invasions of Japan", "Kamikaze"],
+    "nextTopics": [
+      "The Tachi vs Katana",
+      "Mongol Invasions of Japan",
+      "Kamikaze"
+    ],
     "sources": [
       {
         "title": "Samurai (Britannica)",
@@ -6913,7 +7476,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["ghost-mongol-navy"],
+    "relatedCardIds": [
+      "ghost-mongol-navy"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -6922,7 +7487,12 @@
     "mediaConnection": "This card explores the historical shift seen in 'Ghost of Tsushima'.",
     "accuracyType": "partly-real",
     "isPremium": false,
-    "tags": ["ghost-of-tsushima", "samurai", "war", "japan"],
+    "tags": [
+      "ghost-of-tsushima",
+      "samurai",
+      "war",
+      "japan"
+    ],
     "mediaChanged": "The game turns it into a personal moral choice; history shows it was a brutal necessity for national survival.",
     "whyItMatters": "This conflict gave birth to the 'Bushido' myth that later came to define the samurai identity.",
     "isFlagship": false,
@@ -6936,10 +7506,18 @@
     "mediaTitle": "Ghost of Tsushima",
     "era": "Feudal Japan",
     "region": "Japan",
-    "themes": ["Mongol", "Navy", "Japan"],
+    "themes": [
+      "Mongol",
+      "Navy",
+      "Japan"
+    ],
     "realHistory": "Kublai Khan's invasions of Japan in 1274 and 1281 featured some of the largest armadas in pre-modern history. However, the Mongols were a steppe people, not sailors. Their fleet was built by conscripted Chinese and Korean shipwrights. Archaeological underwater research has shown that the ships were built in a hurry, with poor rivets and weak joints. When a massive typhoon (the 'Kamikaze' or Divine Wind) hit in 1281, 80% of the fleet was destroyed. This confirmed the Japanese belief that their islands were protected by the gods and effectively ended the Mongol expansion into the Pacific.",
     "accuracyNote": "Ghost of Tsushima captures the arrival of the fleet, but the eventual destruction was more due to the sea than the samurai.",
-    "nextTopics": ["Kublai Khan", "Yuan Dynasty", "Kamikaze in History"],
+    "nextTopics": [
+      "Kublai Khan",
+      "Yuan Dynasty",
+      "Kamikaze in History"
+    ],
     "sources": [
       {
         "title": "The Mongol Invasions (National Geographic)",
@@ -6947,7 +7525,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["ghost-samurai-reality"],
+    "relatedCardIds": [
+      "ghost-samurai-reality"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -6956,7 +7536,12 @@
     "mediaConnection": "This card explores the background of the invasion in 'Ghost of Tsushima'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["ghost-of-tsushima", "mongol", "japan", "navy"],
+    "tags": [
+      "ghost-of-tsushima",
+      "mongol",
+      "japan",
+      "navy"
+    ],
     "mediaChanged": "In the game, the Mongols are nearly unstoppable; in reality, they were profoundly out of their element on the water.",
     "whyItMatters": "It marks one of the few total failures of the Mongol military machine.",
     "isFlagship": false,
@@ -6970,10 +7555,18 @@
     "mediaTitle": "Assassin's Creed",
     "era": "Middle Ages",
     "region": "Middle East",
-    "themes": ["Assassins", "Politics", "Middle East"],
+    "themes": [
+      "Assassins",
+      "Politics",
+      "Middle East"
+    ],
     "realHistory": "The 'Assassins' of AC are a secret global order. In reality, they were a specific sect called the Nizari Ismailis, led by Hasan-i Sabbah from the mountain fortress of Alamut starting in 1090. Because they lacked a large army, they developed a doctrine of asymmetric warfare—using 'Fedayeen' (those who sacrifice themselves) to carry out high-profile assassinations of political rivals, like the Seljuk vizier Nizam al-Mulk. These agents were highly trained, often learning local languages and customs to infiltrate enemy courts for months before striking.",
     "accuracyNote": "While the game's 'Templar vs Assassin' conflict is fictional, the use of targeted assassination as a survival strategy is historically accurate.",
-    "nextTopics": ["Hasan-i Sabbah", "Alamut Castle", "The Seljuk Empire"],
+    "nextTopics": [
+      "Hasan-i Sabbah",
+      "Alamut Castle",
+      "The Seljuk Empire"
+    ],
     "sources": [
       {
         "title": "The Assassins (Britannica)",
@@ -6981,7 +7574,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["ac-templar-fall"],
+    "relatedCardIds": [
+      "ac-templar-fall"
+    ],
     "difficulty": "deep",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -6990,7 +7585,12 @@
     "mediaConnection": "This card explores the real-world origin of the 'Assassin's Creed' series.",
     "accuracyType": "partly-real",
     "isPremium": false,
-    "tags": ["assassins-creed", "middle-east", "history", "alamut"],
+    "tags": [
+      "assassins-creed",
+      "middle-east",
+      "history",
+      "alamut"
+    ],
     "mediaChanged": "The name 'Hashshashin' was likely a derogatory term used by their enemies to suggest they were drug-addled; there is no historical proof they used hashish.",
     "whyItMatters": "The Assassins invented a form of political warfare that changed the history of the Middle East.",
     "isFlagship": false,
@@ -7004,10 +7604,18 @@
     "mediaTitle": "Assassin's Creed",
     "era": "Middle Ages",
     "region": "Europe",
-    "themes": ["Templars", "Economy", "Middle Ages"],
+    "themes": [
+      "Templars",
+      "Economy",
+      "Middle Ages"
+    ],
     "realHistory": "The Templars were founded in 1119 to protect pilgrims in the Holy Land. However, they soon became the wealthiest and most powerful military order in Europe. They created the first modern banking system, allowing travelers to deposit money in Paris and withdraw it in Jerusalem via letters of credit. This wealth eventually led to their doom; King Philip IV of France, who was deeply in debt to them, accused them of heresy in 1307. On Friday, October 13th, hundreds were arrested, and their Grand Master, Jacques de Molay, was eventually burned at the stake in 1314.",
     "accuracyNote": "The game uses the Templars as a secret society; historically, they were a very public, Pope-sanctioned organization that was destroyed by the very state it served.",
-    "nextTopics": ["Friday the 13th", "The Crusades", "Jacques de Molay"],
+    "nextTopics": [
+      "Friday the 13th",
+      "The Crusades",
+      "Jacques de Molay"
+    ],
     "sources": [
       {
         "title": "Templars (Britannica)",
@@ -7015,7 +7623,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["ac-assassin-order-real"],
+    "relatedCardIds": [
+      "ac-assassin-order-real"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -7024,7 +7634,12 @@
     "mediaConnection": "This card explores the antagonists of 'Assassin's Creed'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["assassins-creed", "templars", "middle-ages", "economy"],
+    "tags": [
+      "assassins-creed",
+      "templars",
+      "middle-ages",
+      "economy"
+    ],
     "mediaChanged": "While they remain a secret organization in games, in reality they were so powerful that they lent money to kings.",
     "whyItMatters": "The fall of the Templars is the ultimate warning of what happens when a financial power challenges a sovereign state.",
     "isFlagship": false,
@@ -7038,10 +7653,18 @@
     "mediaTitle": "Assassin's Creed",
     "era": "Middle Ages",
     "region": "Middle East",
-    "themes": ["Daily Life", "Middle Ages", "Culture"],
+    "themes": [
+      "Daily Life",
+      "Middle Ages",
+      "Culture"
+    ],
     "realHistory": "In the first AC game, Acre and Jerusalem are tense war zones. Historically, they were also the most cosmopolitan cities in the world. Acre was a bustling trade hub where Venetian, Genoese, and Muslim traders operated side-by-side. Despite the warfare, cultural exchange was constant; the Crusaders adopted Eastern hygiene (hammams), medicines, and fashions, while Muslim officials often worked within the Crusader administrative systems. Jerusalem remained a spiritual magnet, with pilgrims of all faiths creating a linguistic and cultural melting pot in its streets.",
     "accuracyNote": "The game captures the architectural grandeur of these cities, though it emphasizes the tension over the daily commercial co-existence.",
-    "nextTopics": ["The Crusader States", "Acre (Akka)", "Saladin"],
+    "nextTopics": [
+      "The Crusader States",
+      "Acre (Akka)",
+      "Saladin"
+    ],
     "sources": [
       {
         "title": "Crusader States (Britannica)",
@@ -7049,7 +7672,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["ac-assassin-order-real"],
+    "relatedCardIds": [
+      "ac-assassin-order-real"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -7058,7 +7683,12 @@
     "mediaConnection": "This card provides the environmental context for the original 'Assassin's Creed'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["assassins-creed", "middle-east", "middle-ages", "culture"],
+    "tags": [
+      "assassins-creed",
+      "middle-east",
+      "middle-ages",
+      "culture"
+    ],
     "mediaChanged": "Media shows constant battle; history shows that people still had to buy bread and trade spices even during a crusade.",
     "whyItMatters": "These cities were the first 'global hubs' where East and West truly learned about each other.",
     "isFlagship": false,
@@ -7072,10 +7702,18 @@
     "mediaTitle": "The Magnificent Century",
     "era": "Early Modern",
     "region": "Middle East",
-    "themes": ["Ottoman", "Architecture", "Science"],
+    "themes": [
+      "Ottoman",
+      "Architecture",
+      "Science"
+    ],
     "realHistory": "While series focusing on the Ottoman period often prioritize military conquests, the empire's true longevity was built on institutionalized laws and complex urban planning. Ottoman architecture reached its peak with Mimar Sinan, whose engineering innovations allowed for massive domes and earthquake-resistant structures. Beyond the battlefield, the 'Millet System' offered a unique form of pluralism, where different religious communities were governed by their own internal laws. In urban planning, the 'Imaret' system ensured that social institutions like libraries, hospitals, and soup kitchens clustered around mosques, creating one of history's first 'social state' models.",
     "accuracyNote": "The social structure (Waqf system) was one of the most advanced examples of a welfare state in history, funded by private endowments rather than just taxes.",
-    "nextTopics": ["Mimar Sinan", "The Millet System", "Waqf Endowments"],
+    "nextTopics": [
+      "Mimar Sinan",
+      "The Millet System",
+      "Waqf Endowments"
+    ],
     "sources": [
       {
         "title": "Ottoman Architecture (Britannica)",
@@ -7083,7 +7721,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["ac-revelations-istanbul"],
+    "relatedCardIds": [
+      "ac-revelations-istanbul"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -7092,7 +7732,11 @@
     "mediaConnection": "This card explores the institutional reality behind the 'warrior' image seen in Ottoman-era dramas.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["middle-east", "early-modern", "architecture"],
+    "tags": [
+      "middle-east",
+      "early-modern",
+      "architecture"
+    ],
     "mediaChanged": "Series focus on the sword; history shows the power was in the pen and the compass.",
     "whyItMatters": "The Ottoman model shows how a multi-faith empire could maintain social stability for centuries through institutional pluralism.",
     "isFlagship": false,
@@ -7106,10 +7750,18 @@
     "mediaTitle": "Daily Life",
     "era": "Early Modern",
     "region": "Middle East",
-    "themes": ["Culture", "Food", "Daily Life"],
+    "themes": [
+      "Culture",
+      "Food",
+      "Daily Life"
+    ],
     "realHistory": "The Ottoman kitchen was a massive synthesis of Central Asian, Anatolian, Balkan, and Arab flavors. The palace kitchen (Matbah-i Amire) operated with the precision of a pharmacy; ingredients were balanced not just for taste, but for health and digestion. Contrary to the 'oily and spicy' stereotype often seen in media, classical Ottoman cuisine emphasized the natural flavor of the product. Interestingly, staples like tomatoes, potatoes, and beans (New World crops) did not enter the Ottoman diet until the 18th and 19th centuries, meaning the great Sultans of the 16th century never tasted a tomato.",
     "accuracyNote": "Media portrayals often show 19th-century European-influenced tables; classical Ottoman meals were simpler, eaten at low tables with an emphasis on spoons and shared dishes.",
-    "nextTopics": ["Coffee Culture", "Sherbet", "Matbah-i Amire"],
+    "nextTopics": [
+      "Coffee Culture",
+      "Sherbet",
+      "Matbah-i Amire"
+    ],
     "sources": [
       {
         "title": "Ottoman Cuisine (Turkish Cultural Foundation)",
@@ -7117,7 +7769,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["ottoman-beyond-war"],
+    "relatedCardIds": [
+      "ottoman-beyond-war"
+    ],
     "difficulty": "basic",
     "readingTimeMinutes": 1,
     "verificationStatus": "Verified",
@@ -7126,7 +7780,11 @@
     "mediaConnection": "This card corrects the anachronistic food depictions in historical dramas.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["middle-east", "culture", "food"],
+    "tags": [
+      "middle-east",
+      "culture",
+      "food"
+    ],
     "mediaChanged": "The tomato-heavy dishes seen in dramas are anachronistic for the classical Ottoman era.",
     "whyItMatters": "Ottoman cuisine is the foundation of much of the modern Mediterranean and Middle Eastern food identity.",
     "isFlagship": false,
@@ -7140,10 +7798,18 @@
     "mediaTitle": "Turning Points",
     "era": "Middle Ages",
     "region": "Global",
-    "themes": ["Trade", "Logistics", "Middle Ages"],
+    "themes": [
+      "Trade",
+      "Logistics",
+      "Middle Ages"
+    ],
     "realHistory": "Caravanserais were the 'logistics hubs' of the ancient world, spaced every 30-40 kilometers (a single day's journey for a camel). These massive stone structures provided free lodging, animal care, and security for traders of all nationalities for up to three days. Beyond trade, they served as the primary nodes for information exchange; travelers shared news of wars, discoveries, and religions. The spread of papermaking from China to the Islamic world and eventually Europe was facilitated entirely by this network, leading to an intellectual revolution in the West.",
     "accuracyNote": "Caravanserais were often managed as 'Waqf' (endowments), offering their services free of charge regardless of the traveler's religion or nationality.",
-    "nextTopics": ["The Silk Road", "Marco Polo", "Paper Revolution"],
+    "nextTopics": [
+      "The Silk Road",
+      "Marco Polo",
+      "Paper Revolution"
+    ],
     "sources": [
       {
         "title": "The Silk Road (UNESCO)",
@@ -7151,7 +7817,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["silk-road-network-turning"],
+    "relatedCardIds": [
+      "silk-road-network-turning"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -7160,7 +7828,11 @@
     "mediaConnection": "This card provides the logistical background for the global trade seen in historical games.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["global", "trade", "middle-ages"],
+    "tags": [
+      "global",
+      "trade",
+      "middle-ages"
+    ],
     "mediaChanged": "Media often shows the Silk Road as a lonely desert path; in reality, it was a busy, highly managed highway with state-funded hotels.",
     "whyItMatters": "The Caravanserai system was the first global infrastructure designed specifically to facilitate cross-border trade and communication.",
     "isFlagship": false,
@@ -7174,10 +7846,18 @@
     "mediaTitle": "Vikings",
     "era": "Middle Ages",
     "region": "Northern Europe",
-    "themes": ["Vikings", "Trade", "History Myth"],
+    "themes": [
+      "Vikings",
+      "Trade",
+      "History Myth"
+    ],
     "realHistory": "The popular image of Vikings is one of pure destruction, but archaeology reveals they were the most successful traders of the Middle Ages. Between the 8th and 11th centuries, Vikings established a network that stretched from North America to Baghdad. Most Norsemen were actually farmers, fishermen, and craftsmen. Their longships were not just for war; they carried furs, walrus ivory, and amber to the markets of Constantinople and the Silk Road. They founded major trade cities like Dublin, York, and Kiev, effectively building the economic foundations of Northern and Eastern Europe.",
     "accuracyNote": "Archaeological excavations have proven this vast trade network with Islamic silver dirhams and Chinese silk found in Viking graves.",
-    "nextTopics": ["Viking Runes", "The Varangian Guard", "Norse Sagas"],
+    "nextTopics": [
+      "Viking Runes",
+      "The Varangian Guard",
+      "Norse Sagas"
+    ],
     "sources": [
       {
         "title": "The Vikings as Traders (British Museum)",
@@ -7185,7 +7865,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["ac-valhalla-vikings"],
+    "relatedCardIds": [
+      "ac-valhalla-vikings"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -7194,7 +7876,11 @@
     "mediaConnection": "This card explores the economic reality behind the characters in the 'Vikings' series.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["europe", "middle-ages", "history-myth"],
+    "tags": [
+      "europe",
+      "middle-ages",
+      "history-myth"
+    ],
     "mediaChanged": "The 'horned helmet' is a 19th-century opera myth; Vikings never wore them.",
     "whyItMatters": "Understanding Vikings as traders changes them from 'intruders' to 'integrators' of the early medieval world.",
     "isFlagship": false,
@@ -7208,10 +7894,18 @@
     "mediaTitle": "History Myth",
     "era": "Ancient History",
     "region": "Global",
-    "themes": ["Travel", "Society", "History Myth"],
+    "themes": [
+      "Travel",
+      "Society",
+      "History Myth"
+    ],
     "realHistory": "The idea that ancient people never left their villages is a modern misconception. During the height of the Roman Empire, a merchant could travel safely from Britain to Egypt on paved roads; a philosopher could journey from Athens to Alexandria for study. The Silk Road carried thousands of people annually across continents. Tombstones of ordinary soldiers often list service in ten different cities across the known world. While travel was slow and difficult, it was remarkably common for trade, pilgrimage, and military service, creating a level of global connectivity that wouldn't be seen again until the modern era.",
     "accuracyNote": "The first 'travel guides' (like Pausanias' Guide to Greece) were written in the 2nd century AD to help tourists find temples and lodging.",
-    "nextTopics": ["Roman Roads", "Ancient Tourism", "The Silk Road"],
+    "nextTopics": [
+      "Roman Roads",
+      "Ancient Tourism",
+      "The Silk Road"
+    ],
     "sources": [
       {
         "title": "Travel in the Ancient World (Britannica)",
@@ -7219,7 +7913,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["silk-road-travel-new"],
+    "relatedCardIds": [
+      "silk-road-travel-new"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -7228,7 +7924,11 @@
     "mediaConnection": "This card corrects the 'primitive and isolated' image of ancient life seen in many films.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["global", "ancient-history", "society"],
+    "tags": [
+      "global",
+      "ancient-history",
+      "society"
+    ],
     "mediaChanged": "Films depict ancient people as ignorant of the world beyond their hill; history shows a highly mobile, curious population.",
     "whyItMatters": "Recognizing ancient mobility helps us see humanity's long history of migration and exchange as a constant, not a recent development.",
     "isFlagship": false,
@@ -7242,10 +7942,18 @@
     "mediaTitle": "Kingdom Come: Deliverance",
     "era": "Middle Ages",
     "region": "Europe",
-    "themes": ["Daily Life", "Middle Ages", "Food"],
+    "themes": [
+      "Daily Life",
+      "Middle Ages",
+      "Food"
+    ],
     "realHistory": "Medieval city diets were strictly controlled by class. The 'Assize of Bread' (13th century) regulated the weight and quality of bread based on grain prices. While the poor ate dark 'maslin' bread (rye/wheat), the elite enjoyed 'paynemain' (white, fine-sifted wheat). Spices like black pepper were so valuable they were used as currency to pay rent. Because water was often unsafe, people drank 'ale'—which was thick, unpressurized, and considered 'liquid bread' due to its caloric value. Social washing of hands before a meal was the most important rule of etiquette, often done with rosewater even in modest households.",
     "accuracyNote": "Games often depict medieval food as grey and unappealing; in reality, medieval chefs loved color and used saffron or parsley to make dishes visually striking.",
-    "nextTopics": ["Medieval Hygiene", "The Spice Trade", "Bohemian Cuisine"],
+    "nextTopics": [
+      "Medieval Hygiene",
+      "The Spice Trade",
+      "Bohemian Cuisine"
+    ],
     "sources": [
       {
         "title": "Food in Medieval Europe (Britannica)",
@@ -7253,7 +7961,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["kcd-medieval-diet"],
+    "relatedCardIds": [
+      "kcd-medieval-diet"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -7262,7 +7972,11 @@
     "mediaConnection": "This card provides the wider urban context for the food seen in 'Kingdom Come: Deliverance'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["europe", "middle-ages", "food"],
+    "tags": [
+      "europe",
+      "middle-ages",
+      "food"
+    ],
     "mediaChanged": "Media shows only meat and bread; history shows a complex use of nuts, dried fruits, and intense spice blends.",
     "whyItMatters": "The medieval diet was a sophisticated system of social signaling and seasonal resource management.",
     "isFlagship": false,
@@ -7276,10 +7990,18 @@
     "mediaTitle": "Daily Life",
     "era": "Ancient History",
     "region": "Global",
-    "themes": ["Society", "Daily Life", "Ancient History"],
+    "themes": [
+      "Society",
+      "Daily Life",
+      "Ancient History"
+    ],
     "realHistory": "The idea that ancient people didn't care about children because of high mortality is a historical myth. Roman children wore a 'Bulla'—an amulet of gold or leather—to protect them from evil spirits until they became adults. Archaeology has uncovered articulate clay dolls, bone dice, and miniature chariots that mirror modern toys. In the Middle Ages, childhood transitioned into apprenticeship early, but the grief expressed on child tombstones proves that the emotional bond was as deep then as it is today. Even the harsh Spartan 'Agoge' system recognized childhood as a distinct, critical phase of human development, albeit for military purposes.",
     "accuracyNote": "Roman child burials often contain the favorite toys of the deceased, showing a high level of parental affection and mourning.",
-    "nextTopics": ["Roman Education", "Ancient Toys", "Spartan Agoge"],
+    "nextTopics": [
+      "Roman Education",
+      "Ancient Toys",
+      "Spartan Agoge"
+    ],
     "sources": [
       {
         "title": "Children in Ancient Greece and Rome (British Museum)",
@@ -7287,7 +8009,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["ancient-roman-day"],
+    "relatedCardIds": [
+      "ancient-roman-day"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -7296,7 +8020,11 @@
     "mediaConnection": "This card explores the human side of history often missing from epic battle films.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["global", "ancient-history", "society"],
+    "tags": [
+      "global",
+      "ancient-history",
+      "society"
+    ],
     "mediaChanged": "Media often shows children as either royalty or street thieves; history shows a nuanced period of play and early vocational training.",
     "whyItMatters": "Recognizing the value placed on childhood in the past helps us appreciate the universal nature of parental love across time.",
     "isFlagship": false,
@@ -7310,10 +8038,18 @@
     "mediaTitle": "Daily Life",
     "era": "Middle Ages",
     "region": "Global",
-    "themes": ["Psychology", "Daily Life", "Middle Ages"],
+    "themes": [
+      "Psychology",
+      "Daily Life",
+      "Middle Ages"
+    ],
     "realHistory": "In the pre-electric world, night was not just a time of day; it was a legal and psychological boundary where state authority ended and chaos began. People believed the night air carried 'Miasma' (poisonous smells that caused disease), so they shuttered themselves in tightly. In cities, poor children known as 'Link-boys' would carry torches to guide people through pitch-black streets for a fee. The first street lamps weren't installed until 1667 in Paris—specifically to fight crime. This total darkness meant that people's other senses, especially hearing, were far sharper than ours today, and every night noise was interpreted as a physical or supernatural threat.",
     "accuracyNote": "Film night scenes are often lit so the audience can see; in reality, you couldn't see your own hand, making the night a terrifyingly isolating experience.",
-    "nextTopics": ["History of Lighting", "Pre-Modern Sleep Patterns", "Early Policing"],
+    "nextTopics": [
+      "History of Lighting",
+      "Pre-Modern Sleep Patterns",
+      "Early Policing"
+    ],
     "sources": [
       {
         "title": "At Day's Close: Night in Times Past (A. Roger Ekirch)",
@@ -7321,7 +8057,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["medieval-night-life"],
+    "relatedCardIds": [
+      "medieval-night-life"
+    ],
     "difficulty": "deep",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -7330,7 +8068,11 @@
     "mediaConnection": "This card explains the historical atmosphere behind the fear of the dark in gothic games and films.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["global", "middle-ages", "psychology"],
+    "tags": [
+      "global",
+      "middle-ages",
+      "psychology"
+    ],
     "mediaChanged": "Media nights are 'blue' and visible; real history was a total, oppressive blackness.",
     "whyItMatters": "The history of the night shows how technology changed not just our visibility, but our entire psychology of fear and safety.",
     "isFlagship": false,
@@ -7344,10 +8086,18 @@
     "mediaTitle": "Turning Points",
     "era": "Middle Ages",
     "region": "Europe",
-    "themes": ["Science", "Middle Ages", "Religion"],
+    "themes": [
+      "Science",
+      "Middle Ages",
+      "Religion"
+    ],
     "realHistory": "For a thousand years before the printing press, monasteries were Europe's only 'data centers.' Monks didn't just pray; they were the continent's engineers and archivists. They preserved the ancient Greek and Roman texts in 'scriptoriums,' but they also innovated. Monasteries developed the first mechanical clocks, advanced agricultural rotation systems, and pioneered the scientific discipline of brewing and winemaking. They housed the most advanced hospitals and libraries of the time. The modern university system is a direct descendant of the cathedral schools and monastic training traditions that kept the flame of reason alive during the early Middle Ages.",
     "accuracyNote": "The 'Dark Ages' were actually a period of intense intellectual labor within monastic walls, laying the groundwork for the Renaissance.",
-    "nextTopics": ["The Printing Press", "Medieval Universities", "History of Brewing"],
+    "nextTopics": [
+      "The Printing Press",
+      "Medieval Universities",
+      "History of Brewing"
+    ],
     "sources": [
       {
         "title": "Monasticism and Science (Cambridge)",
@@ -7355,7 +8105,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["medieval-hygiene"],
+    "relatedCardIds": [
+      "medieval-hygiene"
+    ],
     "difficulty": "deep",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -7364,7 +8116,11 @@
     "mediaConnection": "This card corrects the 'anti-science' image of the church often seen in medieval fiction.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["europe", "middle-ages", "science"],
+    "tags": [
+      "europe",
+      "middle-ages",
+      "science"
+    ],
     "mediaChanged": "Media shows monks as just praying; history shows them as the era's primary inventors.",
     "whyItMatters": "Monasteries prove that even in 'unstable' eras, organized institutions can protect and advance human knowledge.",
     "isFlagship": false,
@@ -7378,10 +8134,18 @@
     "mediaTitle": "Gladiator",
     "era": "Ancient History",
     "region": "Italy",
-    "themes": ["Roma", "Daily Life", "Entertainment"],
+    "themes": [
+      "Roma",
+      "Daily Life",
+      "Entertainment"
+    ],
     "realHistory": "While films focus on the bloody arena, an ordinary Roman's daily social life centered around the 'Thermae' (public baths). These were massive complexes featuring gyms, libraries, and food courts—essentially the ancient world's community centers. However, the most popular sport was actually 'Chariot Racing' (Circus Maximus), which could seat 250,000 people—five times more than the Colosseum. Fans were fanatically loyal to their teams (the Blues and the Greens), sometimes leading to massive street riots. At home, Romans were obsessed with board games like 'Latrunculi' (similar to chess), proving that leisure was a vital part of the Roman political strategy to keep the population content.",
     "accuracyNote": "The entry fee to baths was so low that even the poorest citizens could afford a day of luxury, hygiene, and social networking.",
-    "nextTopics": ["Roman Baths", "Circus Maximus", "Roman Board Games"],
+    "nextTopics": [
+      "Roman Baths",
+      "Circus Maximus",
+      "Roman Board Games"
+    ],
     "sources": [
       {
         "title": "Ancient Roman Leisure (Britannica)",
@@ -7389,7 +8153,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["gladiator-political-theater"],
+    "relatedCardIds": [
+      "gladiator-political-theater"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -7398,7 +8164,11 @@
     "mediaConnection": "This card expands the world of 'Gladiator' into the daily lives of the citizens in the stands.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["italy", "ancient-history", "entertainment"],
+    "tags": [
+      "italy",
+      "ancient-history",
+      "entertainment"
+    ],
     "mediaChanged": "Films show Romans only as soldiers or arena fans; history shows they were obsessed with spa culture and board games.",
     "whyItMatters": "The Roman entertainment system was a sophisticated tool of 'soft power' used by emperors to manage a massive urban population.",
     "isFlagship": false,
@@ -7412,10 +8182,18 @@
     "mediaTitle": "Daily Life",
     "era": "Ancient History",
     "region": "Global",
-    "themes": ["Medicine", "Daily Life", "Middle Ages"],
+    "themes": [
+      "Medicine",
+      "Daily Life",
+      "Middle Ages"
+    ],
     "realHistory": "Hospitals before modern medicine were fascinating hybrids of religion and science. In ancient Greece, patients at 'Asklepieions' practiced 'Incubation'—sleeping in a temple so a god could heal them in their dreams. Roman 'Valetudinarium' were the first to use the modern hospital corridor layout, designed for military efficiency. The true breakthrough came in the 8th-century Islamic world with 'Bimaristans' in Baghdad and Cairo. These were the first rational medical centers, where surgeons operated, students were trained, and psychiatric patients were treated with music and flowing water rather than chains. They even had specialized wards for different diseases, a concept that wouldn't reach Europe for centuries.",
     "accuracyNote": "9th-century Baghdad's 'Adudi Hospital' had 24 specialist doctors and a formal residency system for students, mirroring modern medical schools.",
-    "nextTopics": ["Islamic Medicine", "History of Surgery", "Avicenna"],
+    "nextTopics": [
+      "Islamic Medicine",
+      "History of Surgery",
+      "Avicenna"
+    ],
     "sources": [
       {
         "title": "History of Hospitals (Britannica)",
@@ -7423,7 +8201,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["medieval-hygiene"],
+    "relatedCardIds": [
+      "medieval-hygiene"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -7432,7 +8212,11 @@
     "mediaConnection": "The high-stakes drama of medical series has its roots in these ancient centers of innovation and care.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["global", "medicine", "ancient-history"],
+    "tags": [
+      "global",
+      "medicine",
+      "ancient-history"
+    ],
     "mediaChanged": "Media often shows ancient medicine as only 'magic'; history shows a highly organized, observation-based hospital system.",
     "whyItMatters": "The history of hospitals shows that the desire to care for the sick is a universal trait that drove some of humanity's greatest scientific innovations.",
     "isFlagship": false,
@@ -7446,10 +8230,18 @@
     "mediaTitle": "Kingdom Come: Deliverance",
     "era": "Middle Ages",
     "region": "Europe",
-    "themes": ["Middle Ages", "War", "Society"],
+    "themes": [
+      "Middle Ages",
+      "War",
+      "Society"
+    ],
     "realHistory": "Popular culture's 'knight in shining armor' is a romantic myth that hides a complex military and administrative reality. Becoming a knight was so expensive (requiring a warhorse, full armor, and servants) that only the elite could afford it. Their primary job wasn't just fighting; it was managing 'fiefs' (land), collecting taxes, and acting as local judges. The 'Chivalry' code was actually a church-sponsored tool to control the violence of this warrior class. In actual war, knights rarely engaged in honorable duels; their job was 'chevauchée'—burning enemy crops and cutting supply lines to destroy the opponent's economy. A knight's greatest fear wasn't death, but being captured, which forced their family to pay a crippling financial ransom.",
     "accuracyNote": "The armor alone weighed 25-30 kg; if a knight fell without his squire, he was often physically unable to get back up in time to defend himself.",
-    "nextTopics": ["Feudalism", "Plate Armor Tech", "Chivalric Code"],
+    "nextTopics": [
+      "Feudalism",
+      "Plate Armor Tech",
+      "Chivalric Code"
+    ],
     "sources": [
       {
         "title": "The Knightly Class (Britannica)",
@@ -7457,7 +8249,9 @@
         "type": "official"
       }
     ],
-    "relatedCardIds": ["kcd-bohemia"],
+    "relatedCardIds": [
+      "kcd-bohemia"
+    ],
     "difficulty": "medium",
     "readingTimeMinutes": 2,
     "verificationStatus": "Verified",
@@ -7466,10 +8260,626 @@
     "mediaConnection": "This card explores the bureaucratic and economic reality behind the characters in 'Kingdom Come: Deliverance'.",
     "accuracyType": "real",
     "isPremium": false,
-    "tags": ["europe", "middle-ages", "society"],
+    "tags": [
+      "europe",
+      "middle-ages",
+      "society"
+    ],
     "mediaChanged": "Media shows knights as wandering heroes; history shows them as highly specialized, land-owning military officers.",
     "whyItMatters": "Knighthood was the primary intersection of wealth, power, and military service that defined the European Middle Ages.",
     "isFlagship": false,
     "quickRealityCheck": "True. A knight was essentially a 'mobile tank' whose maintenance required the economic output of an entire village."
+  },
+  {
+    "id": "1917-siper-savasi-flagship",
+    "title": "Trench Warfare: The Static Hell",
+    "subtitle": "The industrialization of death on the Western Front",
+    "mediaType": "film",
+    "mediaTitle": "1917",
+    "era": "World War I",
+    "region": "Europe",
+    "themes": [
+      "WWI",
+      "War History",
+      "Technology"
+    ],
+    "isFlagship": true,
+    "difficulty": "deep",
+    "readingTimeMinutes": 6,
+    "verificationStatus": "Verified",
+    "sourceQuality": "Strong",
+    "accuracyType": "real",
+    "spoilerLevel": "none",
+    "tags": [
+      "wwi",
+      "1917",
+      "trench-warfare",
+      "war-history"
+    ],
+    "mediaConnection": "Sam Mendes' '1917' captures the claustrophobic and terrifying visual reality of the trenches with its continuous-shot technique.",
+    "quickRealityCheck": "True. The Western Front was a 450-mile scar across Europe where millions lived and died in a space often no wider than a few hundred yards.",
+    "mediaChanged": "While the film shows a frantic, high-stakes run, most of trench warfare was a boring, exhausting, and filthy stalemate that lasted for years.",
+    "realHistory": "Trench warfare was the brutal solution to a new problem: the machine gun and modern artillery made open-field movement suicidal. By 1914, both sides had dug in from the Swiss border to the North Sea. The 'Static Hell' was not just a defensive line; it was a subterranean city with its own laws, hierarchy, and terrifying rhythm. Soldiers lived in a constant cycle of mud, rats, and the 'shell-shock' of incessant artillery fire. The tactical goal was rarely to win a territory, but to 'attrit' or wear down the enemy until their economy and population collapsed.",
+    "whyItMatters": "The horrors of the trenches ended the 19th-century romantic view of war, leading to a profound cultural shift in how we perceive honor, duty, and trauma.",
+    "blocks": [
+      {
+        "title": "The Landscape of Despair",
+        "content": "The trenches were more than just holes in the ground. They were complex systems of 'front lines,' 'support lines,' and 'communication trenches.' No Man's Land—the area between the opposing armies—was a nightmare of craters, barbed wire, and unburied bodies. The ground was so churned by artillery that in rainy seasons like 1916 and 1917, soldiers risked drowning in the thick, glutinous mud before even seeing an enemy.",
+        "type": "text"
+      },
+      {
+        "title": "The Scent and Sound of Death",
+        "content": "Survivors often recalled that the first thing they noticed wasn't the danger, but the smell. It was a cocktail of rotting organic matter, chloride of lime (used for disinfection), and the persistent odor of unwashed bodies. Above it all was the 'Drum Fire'—artillery barrages so constant they sounded like a continuous roll of thunder, capable of driving men to madness through sheer vibration and noise.",
+        "type": "text"
+      },
+      {
+        "title": "Trench Foot and the Daily Grind",
+        "content": "Most time in the trenches was spent on 'fatigue duty'—digging, repairing parapets, and carrying supplies. The constant dampness led to 'Trench Foot,' a fungal infection so severe it could lead to amputation if not treated with whale oil and dry socks. Combat was rare, but the threat of a sniper or a random artillery shell was constant, creating a state of perpetual high-tension anxiety.",
+        "type": "text"
+      },
+      {
+        "title": "The Myth of the 'Suicide Charge'",
+        "content": "While 'over the top' charges were terrifyingly lethal, they weren't random. By 1917, they were supported by 'creeping barrages'—artillery fire that moved forward at a set pace just ahead of the infantry. However, even with this cover, a single hidden machine gun could wipe out an entire platoon in seconds, proving that the industrial era had made traditional heroism obsolete.",
+        "type": "text"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Life in the Trenches (Imperial War Museum)",
+        "url": "https://www.iwm.org.uk/history/life-in-the-trenches",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "the-terror-arctic-tragedy-flagship",
+    "title": "The Franklin Expedition: The Lost Empire",
+    "subtitle": "129 men, two ships, and the ice that swallowed a dream",
+    "mediaType": "series",
+    "mediaTitle": "The Terror",
+    "era": "Victorian Era",
+    "region": "Arctic",
+    "themes": [
+      "Arctic Exploration",
+      "History Mystery",
+      "Victorian Pride"
+    ],
+    "isFlagship": true,
+    "difficulty": "deep",
+    "readingTimeMinutes": 7,
+    "verificationStatus": "Verified",
+    "sourceQuality": "Strong",
+    "accuracyType": "real",
+    "spoilerLevel": "none",
+    "tags": [
+      "arctic",
+      "the-terror",
+      "franklin-expedition",
+      "history-mystery"
+    ],
+    "mediaConnection": "The series 'The Terror' blends supernatural horror with the historical tragedy of Sir John Franklin's lost expedition to find the Northwest Passage.",
+    "quickRealityCheck": "True. All 129 men perished. While the show adds a monster, the reality of lead poisoning, scurvy, and cannibalism was arguably more horrific.",
+    "mediaChanged": "While the show focuses on the fear of the unknown, the real tragedy was a failure of Victorian technology and a refusal to listen to local Inuit knowledge.",
+    "realHistory": "In 1845, HMS Erebus and HMS Terror sailed from England with the most advanced technology of the time—steam engines and three years of canned food. They were searching for the Northwest Passage, a shortcut to Asia. They were never seen alive again. Locked in the ice for two years, the men eventually abandoned the ships and attempted a 1,000-mile walk to safety. None made it. Their fate remained the greatest mystery of the age until modern science and Inuit testimony pieced together a story of hubris, slow poisoning, and absolute desperation.",
+    "whyItMatters": "The Franklin tragedy remains a sobering reminder of the limits of technology and the importance of indigenous knowledge in extreme environments.",
+    "blocks": [
+      {
+        "title": "Victorian Hubris",
+        "content": "The expedition was designed to showcase British naval supremacy. The ships were fitted with library collections, fine china, and silver cutlery. However, the 'advanced' technology—specifically the newly invented tin cans—may have been their undoing. Poorly soldered cans likely leaked lead into the food, slowly poisoning the crew and clouding their judgment during the critical final months.",
+        "type": "text"
+      },
+      {
+        "title": "Inuit Knowledge vs. Royal Navy Pride",
+        "content": "Local Inuit groups told searchers they had seen 'white men' starving and even resorting to cannibalism. In London, these reports were dismissed as 'savage lies.' Charles Dickens himself defended the crew's honor. But 1980s forensic evidence confirmed the Inuit were right: cut marks on bones proved that, in their final days, the desperate survivors had indeed turned to cannibalism to stay alive.",
+        "type": "text"
+      },
+      {
+        "title": "The Discovery of Erebus and Terror",
+        "content": "For 170 years, the wrecks remained lost. In 2014 and 2016, Parks Canada finally found them on the sea floor—exactly where Inuit oral history said they would be. The cold Arctic waters preserved the ships like time capsules, with some windows still intact. This discovery proved that local memory was more accurate than a century of high-tech sonar searches.",
+        "type": "text"
+      },
+      {
+        "title": "The Death March",
+        "content": "When the ice refused to melt in 1848, the survivors attempted to drag heavy lifeboats across the tundra. Instead of packing only essentials, they were found with silver spoons and heavy books—relics of the world they were desperate to keep hold of. This 'death march' represents the final collapse of an empire's pride under the weight of the Arctic's indifferent silence.",
+        "type": "text"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Franklin Search (The Canadian Encyclopedia)",
+        "url": "https://www.thecanadianencyclopedia.ca/en/article/franklin-search",
+        "type": "official"
+      }
+    ]
+  },
+  {
+    "id": "napoleon-code-legacy-real",
+    "title": "The Napoleonic Code: Modern World's Code",
+    "subtitle": "The legal revolution that outlasted the Empire",
+    "mediaType": "film",
+    "mediaTitle": "Napoleon",
+    "era": "Napoleonic Era",
+    "region": "France / Europe",
+    "themes": [
+      "Law",
+      "Revolution",
+      "Napoleon"
+    ],
+    "realHistory": "While films focus on Napoleon's battles, his most enduring victory was the 'Code Civil' of 1804. Before the Code, France had no unified set of laws; it was a chaotic mix of feudal customs and royal edicts. Napoleon's Code replaced this with a single, clear, and logical system based on the principles of the French Revolution: religious tolerance, individual liberty, and the end of feudalism. It established that laws should be based on reason and common sense, not on the 'divine right' of kings or ancient tradition. Today, the legal systems of over 40 countries—including much of Europe and Latin America—are directly descendant from this one document.",
+    "accuracyNote": "Napoleon himself famously said: 'My real glory is not the forty battles I have won... but my Civil Code. It will live forever.'",
+    "nextTopics": [
+      "French Revolution",
+      "Battle of Austerlitz",
+      "Meritocracy"
+    ],
+    "sources": [
+      {
+        "title": "The Napoleonic Code (Britannica)",
+        "url": "https://www.britannica.com/topic/Napoleonic-Code",
+        "type": "official"
+      }
+    ],
+    "relatedCardIds": [
+      "napoleon-height"
+    ],
+    "difficulty": "medium",
+    "readingTimeMinutes": 2,
+    "verificationStatus": "Verified",
+    "sourceQuality": "Strong",
+    "spoilerLevel": "none",
+    "mediaConnection": "Ridley Scott's 'Napoleon' focuses on the soldier, but the real historical legacy lies in the bureaucrat who rewrote the laws of Europe.",
+    "accuracyType": "real",
+    "isPremium": false,
+    "tags": [
+      "napoleon",
+      "law",
+      "france",
+      "revolution"
+    ],
+    "mediaChanged": "Media often shows Napoleon as a tyrant; history shows him as the architect of modern civil rights and merit-based promotion.",
+    "whyItMatters": "The Code Civil was the first modern legal framework to treat all citizens as equal before the law, regardless of birth or social class.",
+    "isFlagship": false,
+    "quickRealityCheck": "True. The Code successfully ended the era of aristocratic privilege and laid the foundation for modern secular society."
+  },
+  {
+    "id": "civ-great-library-alexandria-real",
+    "title": "The Great Library: The Myth of Knowledge Loss",
+    "subtitle": "Did one fire really set humanity back 1,000 years?",
+    "mediaType": "game",
+    "mediaTitle": "Civilization",
+    "era": "Ancient World",
+    "region": "Egypt",
+    "themes": [
+      "Science",
+      "Knowledge",
+      "History Myth"
+    ],
+    "realHistory": "In 'Civilization,' building the Great Library gives you a massive tech boost. In popular culture, its destruction is seen as the moment humanity 'lost' its ancient knowledge. But history reveals a slower, more tragic reality. The library didn't perish in a single dramatic fire set by Julius Caesar or religious fanatics. Instead, it suffered from centuries of 'budget cuts.' As the Roman Empire's economy collapsed, the state stopped funding scholars, and the scrolls—made of fragile papyrus—simply rotted away from neglect. The 'loss of knowledge' was not a sudden catastrophe, but a gradual choice by a society that stopped valuing its own intellectual heritage.",
+    "accuracyNote": "Forensic history shows that many texts supposedly 'lost' in the fire were actually already preserved in other smaller libraries across the Mediterranean.",
+    "nextTopics": [
+      "Roman Economic Collapse",
+      "Scribes and Monasteries",
+      "Ancient Science"
+    ],
+    "sources": [
+      {
+        "title": "The Library of Alexandria (Britannica)",
+        "url": "https://www.britannica.com/topic/Library-of-Alexandria",
+        "type": "official"
+      }
+    ],
+    "relatedCardIds": [
+      "ancient-roman-day"
+    ],
+    "difficulty": "medium",
+    "readingTimeMinutes": 2,
+    "verificationStatus": "Verified",
+    "sourceQuality": "Strong",
+    "spoilerLevel": "none",
+    "mediaConnection": "This card challenges the 'one-fire catastrophe' narrative often seen in gaming and fiction.",
+    "accuracyType": "partly-real",
+    "isPremium": false,
+    "tags": [
+      "egypt",
+      "alexandria",
+      "science",
+      "history-myth"
+    ],
+    "mediaChanged": "Media depicts a single night of fire; history shows a century-long decline of institutional funding.",
+    "whyItMatters": "The Great Library's fate proves that knowledge isn't just lost to fire, but to the indifference of the societies that hold it.",
+    "isFlagship": false,
+    "quickRealityCheck": "Partly True. Fires happened, but the 'death by a thousand cuts' (neglect) was the final blow."
+  },
+  {
+    "id": "300-thermopylae-masterclass",
+    "title": "The Real 300: The Strategy of Thermopylae",
+    "subtitle": "Beyond the abs and the slow-motion combat",
+    "mediaType": "film",
+    "mediaTitle": "300",
+    "era": "Ancient History",
+    "region": "Greece",
+    "themes": [
+      "Warfare",
+      "Ancient Greece",
+      "Sparta"
+    ],
+    "realHistory": "The movie '300' shows a heroic suicide mission, but the real Battle of Thermopylae was a sophisticated strategic delaying action. Leonidas didn't just have 300 Spartans; he commanded at least 7,000 other Greeks from across the city-states. Their goal wasn't to 'die for glory,' but to hold the narrow pass long enough for the Greek navy (at Artemisium) to prevent the Persians from landing behind them. The Persians' numerical advantage was nullified by the geography of the 'Hot Gates'—a bottleneck where their superior cavalry and light infantry could not maneuver. The defeat only became inevitable when a local shepherd, Ephialtes, showed the Persians a mountain path that bypassed the Greek line.",
+    "accuracyNote": "The Spartans did not fight half-naked; they wore heavy bronze breastplates and carried massive shields that weighed over 15 kg.",
+    "nextTopics": [
+      "The Phalanx",
+      "Xerxes the Great",
+      "Greek Naval Power"
+    ],
+    "sources": [
+      {
+        "title": "Battle of Thermopylae (Britannica)",
+        "url": "https://www.britannica.com/event/Battle-of-Thermopylae-Greek-history-480-BC",
+        "type": "official"
+      }
+    ],
+    "relatedCardIds": [
+      "spartan-war-machines-myth"
+    ],
+    "difficulty": "medium",
+    "readingTimeMinutes": 2,
+    "verificationStatus": "Verified",
+    "sourceQuality": "Strong",
+    "spoilerLevel": "none",
+    "mediaConnection": "This card contrasts the hyper-stylized action of Zack Snyder's '300' with the logistical reality of the Greco-Persian wars.",
+    "accuracyType": "real",
+    "isPremium": false,
+    "tags": [
+      "greece",
+      "sparta",
+      "warfare",
+      "300"
+    ],
+    "mediaChanged": "Films emphasize individual heroism; history shows a collective, heavy-infantry meat-grinder determined by terrain.",
+    "whyItMatters": "Thermopylae became the foundational myth of 'Western defiance' against overwhelming odds, regardless of its tactical outcome.",
+    "isFlagship": false,
+    "quickRealityCheck": "True. The 300 Spartans did stay to the end, but they were joined by 700 Thespians who are almost always forgotten in media."
+  },
+  {
+    "id": "saving-private-ryan-omaha",
+    "title": "Omaha Beach: 20 Minutes vs. Reality",
+    "subtitle": "The bloodiest sector of D-Day",
+    "mediaType": "film",
+    "mediaTitle": "Saving Private Ryan",
+    "era": "World War II",
+    "region": "France",
+    "themes": [
+      "WWII",
+      "Warfare",
+      "D-Day"
+    ],
+    "realHistory": "The first 20 minutes of 'Saving Private Ryan' are widely cited by veterans as the most accurate depiction of combat ever filmed. But even Spielberg's chaos was organized compared to reality. At Omaha Beach, almost everything that could go wrong did. The preliminary naval bombardment missed the German bunkers entirely. The landing craft drifted off course in heavy seas. Most of the 'DD Tanks'—amphibious tanks designed to provide cover—sank in the deep water, leaving the infantry to face machine guns with no support. The 'victory' at Omaha wasn't a tactical masterplan, but a series of small, desperate actions by individual soldiers who refused to stay on the beach and die.",
+    "accuracyNote": "The water wasn't just red from blood; it was blackened by oil, soot, and the debris of hundreds of destroyed landing craft.",
+    "nextTopics": [
+      "Operation Overlord",
+      "Higgins Boats",
+      "Atlantic Wall"
+    ],
+    "sources": [
+      {
+        "title": "D-Day: Omaha Beach (National WWII Museum)",
+        "url": "https://www.nationalww2museum.org/war/articles/d-day-omaha-beach",
+        "type": "official"
+      }
+    ],
+    "relatedCardIds": [
+      "ryan-higgins-boats"
+    ],
+    "difficulty": "medium",
+    "readingTimeMinutes": 2,
+    "verificationStatus": "Verified",
+    "sourceQuality": "Strong",
+    "spoilerLevel": "none",
+    "mediaConnection": "This card explores the historical fog of war that the film 'Saving Private Ryan' so viscerally recreates.",
+    "accuracyType": "real",
+    "isPremium": false,
+    "tags": [
+      "wwii",
+      "d-day",
+      "omaha-beach",
+      "warfare"
+    ],
+    "mediaChanged": "Films focus on the 'heroic run'; history shows a three-hour stalemate where soldiers were pinned down and unable to move.",
+    "whyItMatters": "Omaha Beach is the ultimate testament to the failure of planning and the power of individual grit in the face of absolute disaster.",
+    "isFlagship": false,
+    "quickRealityCheck": "True. Omaha was the only sector where D-Day almost failed completely."
+  },
+  {
+    "id": "last-emperor-manchukuo-propaganda",
+    "title": "Manchukuo: The Puppet Empire",
+    "subtitle": "Puyi and the illusion of sovereignty",
+    "mediaType": "film",
+    "mediaTitle": "The Last Emperor",
+    "era": "Modern History",
+    "region": "China / Japan",
+    "themes": [
+      "Imperialism",
+      "Propaganda",
+      "WWII"
+    ],
+    "realHistory": "In 'The Last Emperor,' Puyi is installed as the ruler of Manchukuo, a state created by Japan in Northeast China. In reality, Manchukuo was the world's most elaborate 'puppet state.' Puyi was a monarch in name only; every decision, from tax policy to military orders, was dictated by the Japanese Kwantung Army. To the world, Japan promoted Manchukuo as a 'multicultural paradise' under the slogan 'Five Races Under One Union.' In reality, it was an extraction colony where the local population was subjected to forced labor and the horrific medical experiments of Unit 731. Puyi's 'throne' was a gilded cage designed to give a thin veneer of legitimacy to a brutal military occupation.",
+    "accuracyNote": "The 'Lytton Commission' by the League of Nations correctly identified Manchukuo as a violation of Chinese sovereignty, leading Japan to leave the League in protest.",
+    "nextTopics": [
+      "Unit 731",
+      "Puyi's Prison Years",
+      "Sino-Japanese War"
+    ],
+    "sources": [
+      {
+        "title": "The Puppet State of Manchukuo (Britannica)",
+        "url": "https://www.britannica.com/place/Manchukuo",
+        "type": "official"
+      }
+    ],
+    "relatedCardIds": [
+      "last-emperor-china-fall"
+    ],
+    "difficulty": "medium",
+    "readingTimeMinutes": 2,
+    "verificationStatus": "Verified",
+    "sourceQuality": "Strong",
+    "spoilerLevel": "none",
+    "mediaConnection": "Bertolucci's film captures the psychological isolation of Puyi within this false kingdom.",
+    "accuracyType": "real",
+    "isPremium": false,
+    "tags": [
+      "china",
+      "japan",
+      "manchukuo",
+      "wwii"
+    ],
+    "mediaChanged": "Films often focus on the court intrigue; history reveals a state built on systemic exploitation and war crimes.",
+    "whyItMatters": "Manchukuo was a pioneer in modern 'state-level propaganda,' using the symbols of tradition to mask the reality of occupation.",
+    "isFlagship": false,
+    "quickRealityCheck": "True. Puyi was essentially a prisoner of the Japanese, even while wearing the crown of an Emperor."
+  },
+  {
+    "id": "gladiator-arena-economics",
+    "title": "Bread and Games: The Economics of the Arena",
+    "subtitle": "Funding the world's most expensive distraction",
+    "mediaType": "film",
+    "mediaTitle": "Gladiator",
+    "era": "Ancient Rome",
+    "region": "Italy",
+    "themes": [
+      "Economy",
+      "Rome",
+      "Entertainment"
+    ],
+    "realHistory": "The games at the Colosseum weren't just about blood; they were a massive financial engine. The 'Bread and Circuses' policy required emperors to spend up to 10% of the imperial budget on free grain and entertainment to prevent urban riots. A single day of games could cost millions of sesterces—the equivalent of funding an entire legion for a year. Gladiators were high-value assets; killing one was a massive financial loss for the 'Lanista' (trainer), so they were often heavily armored and fed a high-carb 'gladiator diet' (barley and beans) to create a layer of fat that protected their vital organs from shallow cuts. The 'spectacle' was a calculated investment in social stability.",
+    "accuracyNote": "Contrary to the 'thumbs down' myth, referees were present in the arena to ensure a fair fight and protect the valuable human assets.",
+    "nextTopics": [
+      "Roman Budget",
+      "The Colosseum Architecture",
+      "Slavery in Rome"
+    ],
+    "sources": [
+      {
+        "title": "The Economics of Roman Spectacle (Britannica)",
+        "url": "https://www.britannica.com/topic/circus-ancient-Rome",
+        "type": "official"
+      }
+    ],
+    "relatedCardIds": [
+      "gladiator-political-theater"
+    ],
+    "difficulty": "medium",
+    "readingTimeMinutes": 2,
+    "verificationStatus": "Verified",
+    "sourceQuality": "Strong",
+    "spoilerLevel": "none",
+    "mediaConnection": "This card explains the 'business' behind the epic duels in Ridley Scott's 'Gladiator'.",
+    "accuracyType": "real",
+    "isPremium": false,
+    "tags": [
+      "rome",
+      "economy",
+      "gladiator",
+      "entertainment"
+    ],
+    "mediaChanged": "Media shows constant death; history shows a highly regulated sport where 'death matches' were rare and expensive special events.",
+    "whyItMatters": "The Colosseum proves that even ancient empires understood that an entertained population is less likely to revolt against a failing economy.",
+    "isFlagship": false,
+    "quickRealityCheck": "True. Managing the Roman masses was a logistical nightmare that required constant, state-funded distraction."
+  },
+  {
+    "id": "crusaders-poverty-myth",
+    "title": "Crusades: Faith vs. Financial Ruin",
+    "subtitle": "The high cost of a 'holy' journey",
+    "mediaType": "general",
+    "mediaTitle": "History Myth",
+    "era": "Middle Ages",
+    "region": "Europe / Middle East",
+    "themes": [
+      "Economy",
+      "Religion",
+      "Crusades"
+    ],
+    "realHistory": "Popular culture often depicts crusaders as greedy knights seeking gold in the East. But for the average noble, the Crusades were a financial disaster. To fund a journey to the Holy Land, a knight had to sell his land, horses, and family heirlooms—often at a loss. The cost was roughly five times their annual income. Most crusaders returned home bankrupt, if they returned at all. While the leaders sought power, the rank-and-file were driven by a sincere (if violent) religious zeal and the promise of a 'spiritual indulgence' (forgiveness of sins). The Crusades didn't enrich Europe; they drained it of its wealth and its elite warrior class.",
+    "accuracyNote": "Modern historians point to the 'famine and debt' in Europe as a driver for the commoners' participation, but for the elite, it was an economic sacrifice.",
+    "nextTopics": [
+      "The Knights Templar",
+      "Byzantine Wealth",
+      "Saladin's Economy"
+    ],
+    "sources": [
+      {
+        "title": "The Crusades: An Economic History (Cambridge)",
+        "url": "https://www.cambridge.org/core/books/crusades/",
+        "type": "official"
+      }
+    ],
+    "relatedCardIds": [
+      "kingdom-of-heaven-crusades"
+    ],
+    "difficulty": "medium",
+    "readingTimeMinutes": 2,
+    "verificationStatus": "Verified",
+    "sourceQuality": "Strong",
+    "spoilerLevel": "none",
+    "mediaConnection": "This card corrects the 'looter' stereotype found in many modern historical dramas.",
+    "accuracyType": "real",
+    "isPremium": false,
+    "tags": [
+      "crusades",
+      "middle-ages",
+      "economy",
+      "religion"
+    ],
+    "mediaChanged": "Media depicts the East as a treasure chest; history shows it as a logistical graveyard for European wealth.",
+    "whyItMatters": "Understanding the economic sacrifice of the crusaders reveals the terrifying power of ideology over personal self-interest.",
+    "isFlagship": false,
+    "quickRealityCheck": "True. Very few crusaders actually gained wealth; most died or returned home to find their estates in ruin."
+  },
+  {
+    "id": "decolonization-complexity",
+    "title": "The End of Empire? The Reality of Decolonization",
+    "subtitle": "A process of chaos, not just a flag-lowering",
+    "mediaType": "general",
+    "mediaTitle": "Modern History",
+    "era": "Modern History",
+    "region": "Global",
+    "themes": [
+      "Politics",
+      "Colonialism",
+      "Independence"
+    ],
+    "realHistory": "Decolonization is often pictured as a simple, heroic moment of independence. In reality, it was a messy, often violent withdrawal that left deep scars. Post-WWII, European powers like Britain and France were too broke to maintain their colonies, leading to 'hasty withdrawals.' In places like India (1947) and Algeria (1962), this led to massive displacements and civil wars because the departing empires had spent decades playing different ethnic groups against each other. The 'new nations' often inherited artificial borders drawn on a map with no regard for local history, ensuring that the legacy of empire would continue in the form of regional instability for decades to come.",
+    "accuracyNote": "The 'Partition of India' remains the largest mass migration in human history, with 15 million people displaced in just a few months.",
+    "nextTopics": [
+      "Partition of India",
+      "The Algerian War",
+      "Neocolonialism"
+    ],
+    "sources": [
+      {
+        "title": "Decolonization (Britannica)",
+        "url": "https://www.britannica.com/topic/decolonization",
+        "type": "official"
+      }
+    ],
+    "relatedCardIds": [
+      "crown-empire-transition"
+    ],
+    "difficulty": "medium",
+    "readingTimeMinutes": 2,
+    "verificationStatus": "Verified",
+    "sourceQuality": "Strong",
+    "spoilerLevel": "none",
+    "mediaConnection": "This card provides the global context for the 'Imperial sunset' seen in series like 'The Crown'.",
+    "accuracyType": "real",
+    "isPremium": false,
+    "tags": [
+      "politics",
+      "colonialism",
+      "modern-history",
+      "global"
+    ],
+    "mediaChanged": "Media shows 'peaceful handovers'; history shows a century of economic extraction followed by a chaotic and often bloody exit.",
+    "whyItMatters": "Decolonization explains why many modern regional conflicts are not 'ancient hatreds' but direct results of 20th-century imperial management.",
+    "isFlagship": false,
+    "quickRealityCheck": "True. Most decolonization was a desperate economic retreat by bankrupt European powers."
+  },
+  {
+    "id": "300-persian-immortals-real",
+    "title": "The Immortals: Masked Monsters vs. Reality",
+    "subtitle": "The elite heart of the Persian Empire",
+    "mediaType": "film",
+    "mediaTitle": "300",
+    "era": "Ancient History",
+    "region": "Persia / Iran",
+    "themes": [
+      "Warfare",
+      "Ancient Persia",
+      "300"
+    ],
+    "realHistory": "In the movie '300,' the Immortals are depicted as monstrous, masked demons with silver faces. In reality, they were the world's most disciplined and beautifully equipped infantry. Known as the 'Ten Thousand,' they were called 'Immortals' because their strength was always kept at exactly 10,000; as soon as one man died, a replacement was ready. They didn't wear masks; they wore elaborate robes over scale armor and carried silver-tipped spears. They were the King's personal guard and the ultimate symbol of the Persian Empire's logistical power—a force so vast and well-managed that it seemed impossible to diminish.",
+    "accuracyNote": "Herodotus, the Greek historian, described their equipment in detail, including their gold-pommeled daggers and their unique 'quilted' shields.",
+    "nextTopics": [
+      "Cyrus the Great",
+      "Persian Administration",
+      "Thermopylae"
+    ],
+    "sources": [
+      {
+        "title": "The Persian Immortals (World History Encyclopedia)",
+        "url": "https://www.worldhistory.org/Persian_Immortals/",
+        "type": "official"
+      }
+    ],
+    "relatedCardIds": [
+      "300-thermopylae-masterclass"
+    ],
+    "difficulty": "medium",
+    "readingTimeMinutes": 2,
+    "verificationStatus": "Verified",
+    "sourceQuality": "Strong",
+    "spoilerLevel": "none",
+    "mediaConnection": "This card deconstructs the 'monster' imagery of the Persian army in Zack Snyder's '300'.",
+    "accuracyType": "real",
+    "isPremium": false,
+    "tags": [
+      "persia",
+      "300",
+      "warfare",
+      "ancient-history"
+    ],
+    "mediaChanged": "Media 'otherizes' the Persians as monstrous; history shows a highly organized, professional military elite.",
+    "whyItMatters": "Restoring the reality of the Immortals helps us see the Greco-Persian wars as a clash of two sophisticated civilizations, not 'good vs. monsters'.",
+    "isFlagship": false,
+    "quickRealityCheck": "True. The 'Immortals' were real, but they were elite human soldiers, not supernatural entities."
+  },
+  {
+    "id": "valiant-hearts-wwi",
+    "title": "The Home Front: WWI Beyond the Trenches",
+    "subtitle": "The total mobilization of civilian life",
+    "mediaType": "game",
+    "mediaTitle": "Valiant Hearts",
+    "era": "World War I",
+    "region": "Global",
+    "themes": [
+      "WWI",
+      "Society",
+      "Daily Life"
+    ],
+    "realHistory": "'Valiant Hearts' is rare because it shows how WWI affected everyone—not just the soldiers. WWI was the first 'Total War,' meaning the entire economy and social structure were weaponized. On the 'Home Front,' women entered the factories in unprecedented numbers to produce the millions of shells needed for the front. Food was rationed, and children were recruited to collect scrap metal. This mobilization permanently changed society: it led directly to the women's suffrage movement (voting rights) because it became impossible to deny political rights to a population that had literally kept the nation running during its greatest crisis.",
+    "accuracyNote": "The term 'Home Front' was actually coined during WWI to remind civilians that their work in factories was as vital as the fighting in the trenches.",
+    "nextTopics": [
+      "Women's Suffrage",
+      "WWI Propaganda",
+      "Spanish Flu"
+    ],
+    "sources": [
+      {
+        "title": "The Home Front (Imperial War Museum)",
+        "url": "https://www.iwm.org.uk/history/the-home-front-in-the-first-world-war",
+        "type": "official"
+      }
+    ],
+    "relatedCardIds": [
+      "1917-siper-savasi-flagship"
+    ],
+    "difficulty": "medium",
+    "readingTimeMinutes": 2,
+    "verificationStatus": "Verified",
+    "sourceQuality": "Strong",
+    "spoilerLevel": "none",
+    "mediaConnection": "This card explores the social and domestic reality that 'Valiant Hearts' portrays with its unique art style.",
+    "accuracyType": "real",
+    "isPremium": false,
+    "tags": [
+      "wwi",
+      "society",
+      "valiant-hearts",
+      "daily-life"
+    ],
+    "mediaChanged": "Media often ignores the civilians; history shows that the war was won in the factories as much as in the mud.",
+    "whyItMatters": "The Home Front reveals how modern war reshapes not just borders, but the very definition of citizenship and equality.",
+    "isFlagship": false,
+    "quickRealityCheck": "True. Without the 'Home Front' mobilization, no army could have sustained the industrial warfare of 1914-1918."
   }
 ]
