@@ -33,7 +33,7 @@ export default function AccuracyGuess({ cardId, actualAccuracy, onGuess, savedGu
         </div>
         <div>
           <h3 className="text-sm font-black uppercase tracking-widest text-neutral-900">{dictionary.common.accuracyGuessTitle}</h3>
-          <p className="text-[10px] text-neutral-400 font-bold uppercase tracking-tight">{dictionary.common.accuracyGuessSubtitle}</p>
+          <p className="text-[10px] text-neutral-500 font-bold uppercase tracking-tight">{dictionary.common.accuracyGuessSubtitle}</p>
         </div>
       </div>
 
@@ -56,7 +56,7 @@ export default function AccuracyGuess({ cardId, actualAccuracy, onGuess, savedGu
               {isCorrect ? <Check size={20} strokeWidth={3} /> : <Info size={20} />}
             </div>
             <div>
-              <p className="text-[10px] font-black text-neutral-400 uppercase tracking-widest mb-1">
+              <p className="text-[10px] font-black text-neutral-500 uppercase tracking-widest mb-1">
                 {isCorrect ? dictionary.common.congrats : dictionary.common.actualRating}
               </p>
               <p className="text-sm font-bold text-neutral-900">

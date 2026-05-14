@@ -14,8 +14,8 @@ export default function FeedbackCard({ dictionary, locale }: { dictionary: any; 
   return (
     <section className="mt-8 mb-12">
       <div className="bg-brand-secondary/5 border border-brand-secondary/10 rounded-4xl p-8 relative overflow-hidden group">
-        <div className="absolute -right-4 -top-4 text-brand-secondary/5 rotate-12 group-hover:rotate-0 transition-transform duration-500">
-          <MessageSquare size={120} />
+        <div className="absolute -right-8 -top-8 text-brand-secondary opacity-[0.04] rotate-12 group-hover:rotate-0 transition-transform duration-500 pointer-events-none select-none">
+          <MessageSquare size={100} />
         </div>
         
         <div className="relative z-10">
@@ -28,9 +28,7 @@ export default function FeedbackCard({ dictionary, locale }: { dictionary: any; 
           </p>
           
           <a 
-            href={SITE_CONFIG.feedbackUrl}
-            target="_blank"
-            rel="noopener noreferrer"
+            href={`mailto:${(SITE_CONFIG.feedbackEmail as any)[locale] || SITE_CONFIG.feedbackEmail.tr}`}
             className="inline-flex items-center gap-2 px-6 py-3 bg-neutral-950 text-white rounded-xl text-[10px] font-black uppercase tracking-widest active:scale-95 transition-all shadow-lg"
           >
             {t.cta} <ArrowRight size={14} />

@@ -28,12 +28,12 @@ export default function ContinueReadingCarousel({ items }: ContinueReadingCarous
       return (
         <section className="mb-10 opacity-60">
           <div className="flex justify-between items-center mb-5">
-            <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-neutral-400 flex items-center gap-2">
+            <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-neutral-600 flex items-center gap-2">
               <Play size={12} className="text-neutral-300" fill="currentColor" /> {dictionary.common.continueReadingTitle}
             </h2>
           </div>
           <div className="bg-neutral-50 rounded-3xl p-6 border border-dashed border-neutral-200 flex flex-col items-center text-center">
-             <p className="text-[11px] font-bold text-neutral-400 uppercase tracking-widest mb-2">No active journeys</p>
+             <p className="text-[11px] font-bold text-neutral-600 uppercase tracking-widest mb-2">No active journeys</p>
              <p className="text-xs text-neutral-500 max-w-[200px]">Start reading your first story in the English pilot!</p>
           </div>
         </section>
@@ -45,7 +45,7 @@ export default function ContinueReadingCarousel({ items }: ContinueReadingCarous
   return (
     <section className="mb-10 animate-in fade-in slide-in-from-top-4 duration-700">
       <div className="flex justify-between items-center mb-5">
-        <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-neutral-400 flex items-center gap-2">
+        <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-neutral-600 flex items-center gap-2">
           <Play size={12} className="text-brand-secondary" fill="currentColor" /> {dictionary.common.continueReadingTitle}
         </h2>
       </div>
@@ -73,7 +73,7 @@ export default function ContinueReadingCarousel({ items }: ContinueReadingCarous
                 )}
               </div>
               <div className="flex-1 min-w-0 flex flex-col justify-center">
-                <h3 className="text-[11px] font-black uppercase tracking-tight text-neutral-400 line-clamp-1">
+                <h3 className="text-[11px] font-black uppercase tracking-tight text-neutral-600 line-clamp-1">
                   {card.mediaTitle}
                 </h3>
                 <h4 className="text-sm font-bold text-neutral-900 leading-tight line-clamp-2 group-hover:text-brand-secondary transition-colors">
@@ -84,7 +84,7 @@ export default function ContinueReadingCarousel({ items }: ContinueReadingCarous
 
             <div className="space-y-2">
               <div className="flex justify-between items-end">
-                <span className="text-[9px] font-black text-neutral-400 uppercase tracking-widest">
+                <span className="text-[9px] font-black text-neutral-600 uppercase tracking-widest">
                   {card.isFlagship ? dictionary.common.deepDossier : dictionary.common.simpleRealityCheck}
                 </span>
                 <span className="text-[10px] font-black text-brand-secondary tabular-nums">

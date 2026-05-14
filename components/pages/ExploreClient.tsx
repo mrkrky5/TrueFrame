@@ -93,9 +93,9 @@ function ExploreContent({ cards: allCards, locale, dictionary }: ExploreClientPr
       { id: "war", label: dictionary.common.moodLabels.war, icon: "⚔️", tag: locale === 'tr' ? "savas" : "war" },
       { id: "myth", label: dictionary.common.moodLabels.myth, icon: "✨", tag: locale === 'tr' ? "mitoloji" : "myth" },
       { id: "samurai", label: dictionary.common.moodLabels.samurai, icon: "⛩️", tag: locale === 'tr' ? "samuray" : "samurai" },
-      { id: "crime", label: dictionary.common.moodLabels.crime, icon: "🕵️", tag: locale === 'tr' ? "mafya" : "crime" },
-      { id: "cold-war", label: dictionary.common.moodLabels["cold-war"], icon: "☢️", tag: locale === 'tr' ? "sovyetler-birligi" : "cold-war" },
-      { id: "ancient-world", label: dictionary.common.moodLabels["ancient-world"], icon: "🏛️", tag: locale === 'tr' ? "antik-a" : "ancient-world" },
+      { id: "crime", label: dictionary.common.moodLabels.crime, icon: "🕵️", tag: locale === 'tr' ? "suc" : "crime" },
+      { id: "cold-war", label: dictionary.common.moodLabels["cold-war"], icon: "☢️", tag: locale === 'tr' ? "soguk-savas" : "cold-war" },
+      { id: "ancient-world", label: dictionary.common.moodLabels["ancient-world"], icon: "🏛️", tag: locale === 'tr' ? "antik-dnya" : "ancient-world" },
       { id: "empires", label: dictionary.common.moodLabels.empires, icon: "👑", tag: locale === 'tr' ? "imparatorluklar" : "empires" },
       { id: "propaganda", label: dictionary.common.moodLabels.propaganda, icon: "📢", tag: locale === 'tr' ? "propaganda" : "propaganda" },
       { id: "daily-life", label: dictionary.common.moodLabels["daily-life"], icon: "🥣", tag: locale === 'tr' ? "gnlk-hayat" : "daily-life" },
@@ -160,9 +160,9 @@ function ExploreContent({ cards: allCards, locale, dictionary }: ExploreClientPr
   const isAnyFilterActive = activeFilterCount > 0 || searchQuery.length > 0;
 
   return (
-    <div className="min-h-screen bg-bg-main pb-mobile-nav">
-      <div className="px-6 pt-safe max-w-lg mx-auto">
-        <header className="mb-8 mt-6">
+    <div className="min-h-screen bg-bg-main">
+      <div className="px-6 max-w-lg mx-auto">
+        <header className="mb-10 mt-8">
           <div className="flex justify-between items-end mb-6">
             <div>
               <h1 className="text-3xl font-serif text-neutral-950 mb-1">{dictionary.nav.explore}</h1>
@@ -192,7 +192,7 @@ function ExploreContent({ cards: allCards, locale, dictionary }: ExploreClientPr
 
           <EnglishPilotBanner locale={locale} />
 
-          <div className="relative mb-4">
+          <div className="relative mb-6">
             <input
               type="text"
               aria-label={dictionary.common.searchPlaceholder}
@@ -399,7 +399,7 @@ function ExploreContent({ cards: allCards, locale, dictionary }: ExploreClientPr
                 >
                   {dictionary.common.resetFilters}
                 </button>
-                <MissingMediaRequest dictionary={dictionary} />
+                <MissingMediaRequest dictionary={dictionary} locale={locale} />
             </div>
           )}
         </div>

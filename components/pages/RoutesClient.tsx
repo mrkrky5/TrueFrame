@@ -53,8 +53,8 @@ export default function RoutesClient({ routes, cards: allCards, locale, dictiona
   }, [routeStats, activeRoutes]);
 
   return (
-    <div className="bg-bg-main min-h-screen pb-mobile-nav">
-      <div className="px-6 pt-safe max-w-lg mx-auto">
+    <div className="bg-bg-main min-h-screen">
+      <div className="px-6 max-w-lg mx-auto">
         <header className="mb-12 mt-6">
           <div className="inline-flex items-center gap-2 px-3 py-1 bg-brand-secondary/10 text-brand-secondary rounded-full text-[10px] font-black uppercase tracking-widest mb-6">
             <Compass size={12} /> {t('learningJourneys')}

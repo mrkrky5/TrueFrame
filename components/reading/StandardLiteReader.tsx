@@ -27,14 +27,14 @@ export default function StandardLiteReader({ card, learningState, similarCards, 
   return (
     <div className="space-y-10 pb-20 pt-4">
       {/* Reality Summary */}
-      <section className="bg-white rounded-4xl p-7 border border-black/5 shadow-sm space-y-4 relative overflow-hidden">
+      <section className="archival-muted-bg rounded-4xl p-7 archival-border-double shadow-sm space-y-4 relative overflow-hidden">
         <div className="absolute top-0 right-0 w-32 h-32 bg-brand-secondary/5 rounded-full -mr-16 -mt-16" />
         <div className="flex items-center gap-2 text-brand-secondary relative z-10">
           <CheckCircle2 size={16} />
           <h2 className="text-[10px] font-black uppercase tracking-[0.2em]">{dictionary.common.realitySummary}</h2>
         </div>
         <div className="space-y-3 relative z-10">
-          <div className="inline-block px-3 py-1 bg-brand-secondary text-white text-[10px] font-black uppercase tracking-widest rounded-lg">
+          <div className="inline-block px-3 py-1 bg-brand-secondary/10 border border-brand-secondary/20 text-neutral-700 text-[10px] font-black uppercase tracking-widest rounded-lg">
             {formatAccuracyType(card.accuracyType || "fiction", dictionary)}
           </div>
           <p className="text-[15px] text-neutral-700 leading-relaxed font-medium">
@@ -46,11 +46,11 @@ export default function StandardLiteReader({ card, learningState, similarCards, 
       {/* Media Hook / What You Saw */}
       {card.mediaChanged && (
         <section className="space-y-4">
-          <div className="flex items-center gap-2 text-neutral-400">
+          <div className="flex items-center gap-2 text-neutral-600">
             <Split size={14} />
             <h2 className="text-[10px] font-black uppercase tracking-[0.2em]">{dictionary.common.vsReality}</h2>
           </div>
-          <div className="p-6 bg-neutral-50 rounded-3xl border border-black/5">
+          <div className="p-6 archival-muted-bg rounded-3xl archival-border-double">
             <p className="text-[15px] text-neutral-600 leading-relaxed italic">
               {card.mediaChanged}
             </p>
@@ -60,7 +60,7 @@ export default function StandardLiteReader({ card, learningState, similarCards, 
 
       {/* History Content */}
       <section className="space-y-6">
-        <div className="flex items-center gap-2 text-neutral-400">
+        <div className="flex items-center gap-2 text-neutral-600">
           <Archive size={14} />
           <h2 className="text-[10px] font-black uppercase tracking-[0.2em]">{dictionary.common.historicalBackground}</h2>
         </div>
@@ -95,7 +95,7 @@ export default function StandardLiteReader({ card, learningState, similarCards, 
       {/* Sources */}
       {card.sources && card.sources.length > 0 && (
         <section className="space-y-4">
-          <div className="flex items-center gap-2 text-neutral-400">
+          <div className="flex items-center gap-2 text-neutral-600">
             <FileText size={14} />
             <h2 className="text-[10px] font-black uppercase tracking-[0.2em]">{dictionary.common.sourcesTitle}</h2>
           </div>
@@ -106,13 +106,13 @@ export default function StandardLiteReader({ card, learningState, similarCards, 
                 href={source.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center justify-between p-4 bg-white border border-black/10 rounded-2xl active:bg-neutral-50 transition-all shadow-sm"
+                className="flex items-center justify-between p-4 bg-white/60 backdrop-blur-sm border border-black/10 rounded-2xl active:bg-white transition-all shadow-sm"
               >
                 <div className="flex flex-col">
                   <span className="text-[13px] font-bold text-neutral-900">{source.title}</span>
                   <span className="text-[8px] text-brand-secondary font-black uppercase tracking-widest mt-1">{source.type}</span>
                 </div>
-                <ExternalLink size={14} className="text-neutral-400" />
+                <ExternalLink size={14} className="text-neutral-600" />
               </a>
             ))}
           </div>
@@ -121,7 +121,7 @@ export default function StandardLiteReader({ card, learningState, similarCards, 
 
       {/* Reflection */}
       <section className="pt-6 border-t border-black/5 text-center space-y-6">
-        <p className="text-[10px] font-black uppercase tracking-widest text-neutral-400">{dictionary.common.feelQuestion}</p>
+        <p className="text-[10px] font-black uppercase tracking-widest text-neutral-600">{dictionary.common.feelQuestion}</p>
         <div className="flex justify-center">
           <ReadReflection
             cardId={card.id}
@@ -134,7 +134,7 @@ export default function StandardLiteReader({ card, learningState, similarCards, 
       {/* Similar Discoveries */}
       {similarCards.length > 0 && (
         <section className="space-y-6">
-          <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-neutral-400 text-center">{dictionary.common.similarDiscoveries}</h2>
+          <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-neutral-600 text-center">{dictionary.common.similarDiscoveries}</h2>
           <div className="space-y-3">
             {similarCards.map((rc) => (
               <Link key={rc.id} href={`/${locale}/card/${rc.id}`} className="flex items-center gap-4 p-4 bg-neutral-50 border border-black/5 rounded-3xl active:scale-[0.98] transition-transform">
@@ -149,9 +149,9 @@ export default function StandardLiteReader({ card, learningState, similarCards, 
                 </div>
                 <div className="flex-1 min-w-0">
                   <h4 className="font-serif text-base text-neutral-900 leading-tight truncate">{rc.title}</h4>
-                  <p className="text-[9px] text-neutral-400 font-bold uppercase tracking-widest mt-1 truncate">{formatMediaType(rc.mediaType, dictionary)} • {rc.mediaTitle}</p>
+                  <p className="text-[9px] text-neutral-600 font-bold uppercase tracking-widest mt-1 truncate">{formatMediaType(rc.mediaType, dictionary)} • {rc.mediaTitle}</p>
                 </div>
-                <ArrowRight size={14} className="text-neutral-400" />
+                <ArrowRight size={14} className="text-neutral-600" />
               </Link>
             ))}
           </div>

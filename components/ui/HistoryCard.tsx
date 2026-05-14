@@ -113,7 +113,7 @@ const HistoryCard = ({ card, variant = "full", className = "", theme = "light" }
             <div className={`flex items-center justify-between mt-5 pt-4 border-t ${isDarkBackground ? "border-white/10" : "border-black/5"} ${variant === "compact" ? "hidden" : ""}`}>
               <div className="flex gap-1.5">
                 {card.themes.slice(0, 2).map((theme) => (
-                  <span key={theme} className={`text-[9px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md border truncate max-w-[100px] ${isDarkBackground ? "bg-white/5 text-neutral-400 border-white/5" : "bg-neutral-50 text-neutral-500 border-neutral-100"}`}>
+                  <span key={theme} className={`text-[9px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md border truncate max-w-[100px] ${isDarkBackground ? "bg-white/5 text-neutral-400 border-white/5" : "bg-neutral-50 text-neutral-600 border-neutral-100"}`}>
                     {formatTag(theme, dictionary)}
                   </span>
                 ))}

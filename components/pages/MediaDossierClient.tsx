@@ -74,14 +74,14 @@ export default function MediaDossierClient({
   const standardCards = initialDossier.cards.filter(c => !c.isFlagship);
 
   return (
-    <div className="bg-bg-main min-h-screen pb-mobile-nav">
+    <div className="bg-bg-main min-h-screen">
       <div
         className={`fixed top-0 left-0 right-0 z-60 transition-all duration-300 ${isScrolled ? "bg-white/95 backdrop-blur-md shadow-sm opacity-100" : "bg-transparent opacity-0"}`}
         style={{ height: 'calc(env(safe-area-inset-top, 20px) + 72px)' }}
       />
 
-      <header className="fixed top-0 left-0 right-0 z-70 pointer-events-none pt-safe">
-        <div className="px-6 py-4 flex justify-between items-center max-w-lg mx-auto pointer-events-auto">
+      <header className="detail-floating-controls-safe">
+        <div className="px-6 flex justify-between items-center max-w-lg mx-auto pointer-events-auto h-16">
           <Link href={`/${locale}/explore`} className="w-10 h-10 rounded-full bg-white/80 backdrop-blur-md border border-black/5 flex items-center justify-center text-neutral-950 active:scale-95 transition-transform shadow-sm">
             <ArrowLeft size={20} />
           </Link>
@@ -164,9 +164,16 @@ export default function MediaDossierClient({
 
         <div className="px-6 space-y-10 mb-16">
           <section>
-            <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-neutral-400 mb-6 flex items-center gap-3">
-              {dictionary.common.realityAnalysis} <span className="flex-1 h-px bg-black/5"></span>
-            </h2>
+            <div className="flex flex-col gap-1 mb-6">
+              <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-neutral-400 flex items-center gap-3">
+                {dictionary.common.realityAnalysis} <span className="flex-1 h-px bg-black/5"></span>
+              </h2>
+              <p className="text-[9px] text-neutral-400 font-medium italic">
+                {locale === 'tr' 
+                  ? "Bu dağılım, dosyadaki kartların tarihsel gerçekliğe yakınlık durumunu gösterir."
+                  : "This breakdown shows how the cards in this dossier relate to historical reality."}
+              </p>
+            </div>
             <div className="bg-white rounded-4xl p-6 border border-black/5 shadow-sm space-y-6">
               <div className="grid grid-cols-2 gap-6">
                 <div className="space-y-1">
@@ -189,10 +196,14 @@ export default function MediaDossierClient({
                   return (
                     <div key={type} className="space-y-1.5">
                       <div className="flex justify-between items-end">
-                        <span className="text-[10px] font-black text-neutral-600 uppercase tracking-tight">{formatAccuracyType(type as AccuracyType, dictionary)}</span>
-                        <span className="text-[10px] font-bold text-neutral-400">{percentage}%</span>
+                        <span className="text-[10px] font-bold text-neutral-800 uppercase tracking-tight">
+                          {formatAccuracyType(type as AccuracyType, dictionary)}
+                        </span>
+                        <span className="text-[9px] font-black text-neutral-400 uppercase tracking-widest">
+                          {count} {count === 1 ? dictionary.common.cardUnit : dictionary.common.cardsUnit} ({percentage}%)
+                        </span>
                       </div>
-                      <div className="h-1 w-full bg-neutral-50 rounded-full overflow-hidden">
+                      <div className="h-1.5 w-full bg-neutral-50 rounded-full overflow-hidden">
                         <div
                           className={`h-full transition-all duration-1000 ${type === "real" ? "bg-green-500" :
                             type === "fictionalized" ? "bg-red-500" :

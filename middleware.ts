@@ -23,11 +23,28 @@ export function middleware(request: NextRequest) {
 
   // Redirect if there is no locale
   if (pathnameIsMissingLocale) {
-    const locale = i18n.defaultLocale
+    // 1. Check for manual preference cookie
+    const cookieLocale = request.cookies.get('preferred-locale')?.value
+    
+    // 2. Check Accept-Language header for device/browser language
+    const acceptLanguage = request.headers.get('accept-language')
+    
+    let detectedLocale: string | undefined;
+    
+    if (cookieLocale && i18n.locales.includes(cookieLocale as any)) {
+      detectedLocale = cookieLocale;
+    } else if (acceptLanguage) {
+      // Robust check: starts with tr or contains tr as a primary language
+      const isTurkish = acceptLanguage.toLowerCase().split(',').some(lang => lang.trim().startsWith('tr'));
+      detectedLocale = isTurkish ? 'tr' : 'en';
+    }
 
-    // Redirect to the default locale while preserving the rest of the path
+    // Final locale decision: Manual Preference > Device Language > Fallback (English)
+    const locale = detectedLocale || 'en';
+
+    // Redirect to the detected locale
     return NextResponse.redirect(
-      new URL(`/${locale}${pathname.startsWith('/') ? '' : '/'}${pathname}`, request.url)
+      new URL(`/${locale}${pathname === '/' ? '' : pathname}`, request.url)
     )
   }
 }

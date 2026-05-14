@@ -81,12 +81,35 @@ export default function CardClient({ card, allCards, locale, dictionary }: CardC
         className={`fixed top-0 left-0 right-0 z-50 safe-area-top transition-all duration-500 ${isScrolled ? "bg-bg-main shadow-md opacity-100" : "bg-transparent opacity-0"
           }`}
       />
-      <div className="fixed top-0 left-0 right-0 z-60 pointer-events-none">
-        <div className="safe-area-top pt-4" />
-      </div>
+
+      <header className="detail-floating-controls-safe">
+        <div className="flex justify-between items-center pointer-events-auto h-16 max-w-lg mx-auto px-6">
+          <button
+            onClick={() => {
+              if (window.history.length > 1) {
+                router.back();
+              } else {
+                router.push(`/${locale}`);
+              }
+            }}
+            aria-label={dictionary.common.back}
+            className="bg-white/95 backdrop-blur-xl w-10 h-10 rounded-full flex items-center justify-center text-neutral-950 active:scale-90 transition-all shadow-xl border border-black/5"
+          >
+            <ArrowLeft size={20} strokeWidth={3} />
+          </button>
+          
+          <div className="flex gap-4">
+            <ShareButton
+              title={`${card.title} | ${dictionary.common.brandingTitle}`}
+              text={`${card.mediaTitle} | ${card.title}`}
+            />
+            <SaveButton cardId={card.id} />
+          </div>
+        </div>
+      </header>
 
       {!(card.isFlagship && revealSpoiler) && (
-        <div className={`relative ${heroImage ? "h-[45vh]" : "h-[35vh]"} bg-bg-main flex flex-col justify-end border-b border-black/5 overflow-hidden`}>
+        <div className={`relative ${heroImage ? "h-[35vh] md:h-[40vh]" : "h-[20vh] md:h-[25vh]"} bg-bg-main flex flex-col justify-end border-b border-black/5 overflow-hidden`}>
         {heroImage && (
           <div className="absolute inset-0 z-0 bg-neutral-200">
             <Image
@@ -101,32 +124,7 @@ export default function CardClient({ card, allCards, locale, dictionary }: CardC
           </div>
         )}
 
-        <div className="absolute top-0 left-0 right-0 px-6 pt-safe z-70 pointer-events-none">
-          <div className="flex justify-between items-center pointer-events-auto h-16 mt-2">
-            <button
-              onClick={() => {
-                if (window.history.length > 1) {
-                  router.back();
-                } else {
-                  router.push(`/${locale}`);
-                }
-              }}
-              aria-label={dictionary.common.back}
-              className="bg-white/95 backdrop-blur-xl w-10 h-10 rounded-full flex items-center justify-center text-neutral-950 active:scale-90 transition-all shadow-xl border border-black/5"
-            >
-              <ArrowLeft size={20} strokeWidth={3} />
-            </button>
-            <div className="flex gap-4">
-              <ShareButton
-                title={`${card.title} | ${dictionary.common.brandingTitle}`}
-                text={`${card.mediaTitle} | ${card.title}`}
-              />
-              <SaveButton cardId={card.id} />
-            </div>
-          </div>
-        </div>
-
-        <div className="relative z-10 max-w-lg mx-auto w-full p-6 pb-12">
+        <div className="relative z-10 max-w-lg mx-auto w-full p-6 pb-6">
           <div className="flex items-center justify-between mb-3">
             <div className="flex items-center gap-2">
               {getDossierSlug(card.mediaTitle) ? (
@@ -159,11 +157,11 @@ export default function CardClient({ card, allCards, locale, dictionary }: CardC
       </div>
     )}
 
-      <div className={`px-6 relative z-20 pb-mobile-nav max-w-lg mx-auto ${card.isFlagship && revealSpoiler ? "mt-0 pt-0" : "mt-10"}`}>
+      <div className={`px-6 relative z-20 max-w-lg mx-auto ${card.isFlagship && revealSpoiler ? "mt-0 pt-0" : "mt-10"}`}>
         {card.isFlagship ? (
-          <div className="bg-white rounded-5xl p-7 shadow-2xl border border-black/5 min-h-[70vh]">
+          <div className={!revealSpoiler ? "reader-canvas" : ""}>
             {!revealSpoiler ? (
-              <section className="bg-neutral-50 p-10 rounded-4xl border border-dashed border-neutral-200 text-center space-y-4 my-10">
+              <section className="archival-muted-bg p-10 rounded-4xl archival-border-double text-center space-y-4 my-10 shadow-xl">
                 <AlertTriangle className="mx-auto text-amber-500" size={32} />
                 <div className="space-y-2">
                   <h3 className="text-sm font-black uppercase tracking-widest text-neutral-900">{dictionary.card.spoilers}</h3>
@@ -191,9 +189,9 @@ export default function CardClient({ card, allCards, locale, dictionary }: CardC
             )}
           </div>
         ) : (
-          <div className="bg-white rounded-5xl p-7 shadow-2xl border border-black/5 min-h-[70vh]">
+          <div className={(!revealSpoiler && card.spoilerNote) ? "reader-canvas" : ""}>
             {!revealSpoiler && card.spoilerNote ? (
-              <section className="bg-neutral-50 p-10 rounded-4xl border border-dashed border-neutral-200 text-center space-y-4 my-10">
+              <section className="archival-muted-bg p-10 rounded-4xl archival-border-double text-center space-y-4 my-10 shadow-xl">
                 <AlertTriangle className="mx-auto text-amber-500" size={32} />
                 <button
                   onClick={() => setRevealSpoiler(true)}

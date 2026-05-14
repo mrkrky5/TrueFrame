@@ -20,6 +20,8 @@ interface GuidedJourneyReaderProps {
 
 import { useLocale } from "@/hooks/useLocale";
 import NextDiscoveryCard from "@/components/ui/NextDiscoveryCard";
+import ShareButton from "@/components/ui/ShareButton";
+import SaveButton from "@/components/ui/SaveButton";
 
 export default function GuidedJourneyReader({ card, learningState, similarCards, allCards, readIds, dictionary, onComplete }: GuidedJourneyReaderProps) {
   const locale = useLocale();
@@ -82,7 +84,7 @@ export default function GuidedJourneyReader({ card, learningState, similarCards,
 
   if (isCompleted) {
     return (
-      <div ref={containerRef} className="flex flex-col items-center justify-center min-h-[60vh] py-12 px-6 animate-in fade-in zoom-in-95 duration-500">
+      <div ref={containerRef} className="flex flex-col items-center justify-center py-12 px-6 animate-in fade-in zoom-in-95 duration-500">
         <div className="w-16 h-16 bg-green-500/10 rounded-3xl flex items-center justify-center text-green-500 mb-6 mx-auto">
           <CheckCircle2 size={32} />
         </div>
@@ -127,45 +129,27 @@ export default function GuidedJourneyReader({ card, learningState, similarCards,
   const isNextDisabled = currentBlock.type === "accuracyGuess" && !learningState.getGuess(card.id);
 
   return (
-    <div ref={containerRef} className="relative flex flex-col min-h-[60vh]">
-      {/* Header Progress & Exit */}
-      <div className="fixed top-0 left-0 right-0 z-80 bg-bg-main/95 backdrop-blur-md pb-4 border-b border-black/5">
-        <div className="max-w-lg mx-auto pt-4 px-6 safe-area-top">
-          <div className="bg-white rounded-full py-2.5 px-4 shadow-sm border border-black/10 flex items-center justify-between pointer-events-auto">
-            <div className="flex items-center gap-3 flex-1">
-              <button
-                onClick={handleExit}
-                className="p-1.5 -ml-1 text-neutral-950 active:scale-90 transition-transform"
-                aria-label={dictionary.common.close}
-              >
-                <X size={20} strokeWidth={3} />
-              </button>
+    <div ref={containerRef} className="relative flex flex-col">
+      {/* Minimal Header for Progress */}
+      <div className="fixed top-0 left-0 right-0 z-60 pointer-events-none">
+        <div className="max-w-lg mx-auto pt-4 px-6 safe-area-top mt-16">
+          <div className="bg-white/80 backdrop-blur-md rounded-full py-1.5 px-4 shadow-sm border border-black/5 flex items-center justify-between pointer-events-auto max-w-[140px] mx-auto">
+            <div
+              role="progressbar"
+              aria-valuemin={0}
+              aria-valuemax={100}
+              aria-valuenow={progressPercent}
+              aria-label={dictionary.common.journeyProgress}
+              className="flex-1 h-1 bg-neutral-100 rounded-full overflow-hidden"
+            >
               <div
-                role="progressbar"
-                aria-valuemin={0}
-                aria-valuemax={100}
-                aria-valuenow={progressPercent}
-                aria-label={dictionary.common.journeyProgress}
-                className="flex-1 h-1.5 bg-neutral-100 rounded-full overflow-hidden mx-2"
-              >
-                <div
-                  className="h-full bg-brand-secondary transition-all duration-700 ease-out shadow-[0_0_8px_rgba(197,160,89,0.4)]"
-                  style={{ width: `${progressPercent}%` }}
-                />
-              </div>
-              <span className="text-[10px] font-black text-brand-secondary tabular-nums min-w-14 text-right">
-                {currentStep + 1} / {blocks.length}
-              </span>
+                className="h-full bg-brand-secondary transition-all duration-700 ease-out"
+                style={{ width: `${progressPercent}%` }}
+              />
             </div>
-            {currentStep > 0 && (
-              <button
-                onClick={() => setCurrentStep(0)}
-                className="ml-4 p-2 text-neutral-400 active:text-brand-secondary active:scale-90 transition-all"
-                aria-label={dictionary.common.restartFromBeginning}
-              >
-                <RotateCcw size={16} />
-              </button>
-            )}
+            <span className="text-[9px] font-black text-brand-secondary tabular-nums ml-3">
+              {currentStep + 1}/{blocks.length}
+            </span>
           </div>
         </div>
       </div>
@@ -175,7 +159,7 @@ export default function GuidedJourneyReader({ card, learningState, similarCards,
         className="flex-1 pt-28 animate-in fade-in slide-in-from-bottom-4 duration-700"
         style={{ paddingBottom: 'calc(env(safe-area-inset-bottom, 20px) + 160px)' }}
       >
-        <div className="min-h-[50vh] px-6">
+        <div className="px-6">
           <ContentBlockRenderer
             block={currentBlock}
             cardId={card.id}

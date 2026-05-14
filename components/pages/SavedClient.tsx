@@ -28,7 +28,7 @@ export default function SavedClient({
   const isGlobalEmpty = savedCards.length === 0 && recentCards.length === 0 && readCards.length === 0;
 
   return (
-    <div className="px-6 pt-safe max-w-lg mx-auto pb-mobile-nav">
+    <div className="px-6 max-w-lg mx-auto">
       <header className="mb-10 mt-6">
         <h1 className="text-3xl mb-2 font-serif">{t('title')}</h1>
         <p className="text-gray-400 font-medium text-sm">{t('subtitle')}</p>
@@ -86,7 +86,7 @@ export default function SavedClient({
               </div>
             ) : (
               <div className="bg-white border border-black/5 rounded-4xl p-10 text-center shadow-sm">
-                <Bookmark size={40} className="mx-auto text-neutral-100 mb-4" />
+                <Bookmark size={40} className="mx-auto text-neutral-300 mb-4" />
                 <p className="text-neutral-500 font-medium text-sm mb-6">
                   {t('emptySavedDesc')}
                 </p>
@@ -128,7 +128,7 @@ export default function SavedClient({
               </div>
             ) : (
               <div className="bg-white border border-black/5 rounded-4xl p-10 text-center shadow-sm">
-                <CheckCircle2 size={40} className="mx-auto text-neutral-100 mb-4" />
+                <CheckCircle2 size={40} className="mx-auto text-neutral-300 mb-4" />
                 <p className="text-neutral-500 font-medium text-sm mb-6">
                   {t('emptyCompletedDesc')}
                 </p>

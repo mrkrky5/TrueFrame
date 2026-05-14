@@ -1,7 +1,5 @@
 import type { Metadata, Viewport } from "next";
 import Script from "next/script";
-import { Inter, Crimson_Pro } from "next/font/google";
-import "../globals.css";
 import BottomNav from "@/components/layout/BottomNav";
 import Onboarding from "@/components/ui/Onboarding";
 import SWRegistration from "@/components/utils/SWRegistration";
@@ -11,9 +9,6 @@ import { getDictionary } from "@/lib/get-dictionary";
 import { DictionaryProvider } from "@/components/utils/DictionaryProvider";
 import { SITE_CONFIG } from "@/lib/config";
 
-const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
-const crimson = Crimson_Pro({ subsets: ["latin"], variable: "--font-serif" });
-
 export async function generateStaticParams() {
   return i18n.locales.map((locale) => ({ lang: locale }));
 }
@@ -21,7 +16,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
   const { lang } = await params;
   const dictionary = await getDictionary(lang as Locale);
-  
+
   return {
     metadataBase: new URL(SITE_CONFIG.baseUrl),
     title: {
@@ -32,7 +27,6 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
     manifest: "/manifest.json",
     appleWebApp: {
       capable: true,
-      statusBarStyle: "black-translucent",
       title: dictionary.common.brandingTitle,
     },
     icons: {
@@ -85,38 +79,18 @@ export default async function RootLayout({
   const dictionary = await getDictionary(lang as Locale);
 
   return (
-    <html lang={lang} className={`${inter.variable} ${crimson.variable}`} suppressHydrationWarning>
-      <head>
-        <meta name="apple-mobile-web-app-capable" content="yes" />
-      </head>
-      <body className="font-sans bg-bg-main text-neutral-950 antialiased selection:bg-brand-secondary/20 selection:text-brand-secondary">
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              try {
-                if (!localStorage.getItem('onboarding-completed')) {
-                  document.documentElement.classList.add('force-onboarding');
-                }
-              } catch (e) {}
-            `,
-          }}
-        />
-        <DictionaryProvider dictionary={dictionary}>
-          {/* Global Status Bar Safe-Area Mask */}
-          <div
-            className="fixed top-0 left-0 right-0 bg-bg-main z-90 pointer-events-none"
-            style={{ height: 'env(safe-area-inset-top, 20px)' }}
-          />
-          <Onboarding />
-          <main className="min-h-screen animate-in fade-in duration-700">
-            {children}
-          </main>
-          <BottomNav />
-          <OfflineNotification />
-          <SWRegistration />
-        </DictionaryProvider>
-      </body>
-    </html>
+    <DictionaryProvider dictionary={dictionary}>
+      <div className="app-shell">
+        <div className="top-system-safe-area" />
+        <Onboarding />
+        <main className="app-scroll-area">
+          {children}
+        </main>
+        <BottomNav />
+        <OfflineNotification />
+        <SWRegistration />
+      </div>
+    </DictionaryProvider>
   );
 }
 

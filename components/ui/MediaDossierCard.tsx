@@ -21,7 +21,7 @@ export default function MediaDossierCard({ dossier }: Props) {
           <span className="bg-brand-secondary/10 text-brand-secondary px-2 py-0.5 rounded text-[8px] font-black uppercase tracking-widest">
             {formatMediaType(dossier.mediaType, dictionary)}
           </span>
-          <div className="flex items-center gap-2 text-neutral-400 text-[9px] font-bold uppercase tracking-tight">
+          <div className="flex items-center gap-2 text-neutral-600 text-[9px] font-bold uppercase tracking-tight">
             <BookOpen size={10} />
             {dossier.cardIds.length} {dossier.cardIds.length === 1 ? dictionary.common.cardCount : dictionary.common.cardsCount}
           </div>
@@ -46,7 +46,7 @@ export default function MediaDossierCard({ dossier }: Props) {
         <div className="flex items-center justify-between pt-4 border-t border-black/5">
           <div className="flex gap-2 overflow-hidden flex-wrap max-h-4">
             {dossier.topTags.slice(0, 3).map(tag => (
-              <span key={tag} className="text-[8px] font-black text-neutral-400 uppercase tracking-widest whitespace-nowrap opacity-80">
+              <span key={tag} className="text-[8px] font-black text-neutral-600 uppercase tracking-widest whitespace-nowrap opacity-80">
                 #{formatTag(tag, dictionary)}
               </span>
             ))}

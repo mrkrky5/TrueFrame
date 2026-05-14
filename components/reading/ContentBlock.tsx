@@ -65,7 +65,7 @@ export default function ContentBlockRenderer({ block, cardId, learningState, isA
 
     case "shortContext":
       return (
-        <section className="bg-white p-8 rounded-4xl border border-brand-secondary/10 shadow-xl space-y-5 relative overflow-hidden">
+        <section className="archival-muted-bg p-8 rounded-4xl archival-border-double shadow-xl space-y-5 relative overflow-hidden">
           <div className="absolute top-0 right-0 w-24 h-24 bg-brand-secondary/5 rounded-full -mr-12 -mt-12" />
           <div className="flex items-center gap-2 text-brand-secondary relative z-10">
             <BookOpen size={16} />
@@ -92,14 +92,14 @@ export default function ContentBlockRenderer({ block, cardId, learningState, isA
 
     case "mediaChanged":
       return (
-        <section className="bg-white rounded-4xl p-8 border border-black/5 shadow-md space-y-6">
+        <section className="archival-muted-bg rounded-4xl p-8 archival-border-double shadow-md space-y-6">
           <div className="flex items-center gap-2 text-brand-secondary mb-1">
             <Split size={16} />
             <h2 className="text-[10px] font-black uppercase tracking-[0.2em]">{dictionary.vsReality}</h2>
           </div>
           <div className="space-y-4">
             <div className="p-5 bg-neutral-50 rounded-2xl border-l-4 border-l-neutral-300">
-              <span className="text-[9px] font-black uppercase tracking-widest text-neutral-400 block mb-2">{dictionary.whatInFiction}</span>
+              <span className="text-[9px] font-black uppercase tracking-widest text-neutral-600 block mb-2">{dictionary.whatInFiction}</span>
               <p className="text-[15px] text-neutral-700 leading-relaxed italic">
                 {block.content}
               </p>
@@ -115,7 +115,7 @@ export default function ContentBlockRenderer({ block, cardId, learningState, isA
       return (
         <section className="space-y-6">
           {block.title && (
-            <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-neutral-400 mb-4 flex items-center gap-3">
+            <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-neutral-600 mb-4 flex items-center gap-3">
               <Archive size={12} className="text-brand-secondary/40" />
               <span className="text-neutral-950 font-black">{block.title}</span>
               <span className="flex-1 h-px bg-neutral-100"></span>
@@ -160,8 +160,8 @@ export default function ContentBlockRenderer({ block, cardId, learningState, isA
       return (
         <section className="space-y-6 pt-6">
           <div className="flex items-center gap-3 mb-2">
-            <FileText size={16} className="text-neutral-400" />
-            <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-neutral-400">{dictionary.sourcesReading}</h2>
+            <FileText size={16} className="text-neutral-600" />
+            <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-neutral-600">{dictionary.sourcesReading}</h2>
             <span className="flex-1 h-px bg-neutral-100"></span>
           </div>
           <div className="grid gap-3">
@@ -171,7 +171,7 @@ export default function ContentBlockRenderer({ block, cardId, learningState, isA
                 href={source.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="group flex items-center justify-between p-5 bg-white border border-black/5 rounded-2xl active:bg-neutral-50 transition-all shadow-sm hover:shadow-md hover:border-brand-secondary/20"
+                className="group flex items-center justify-between p-5 bg-white/60 backdrop-blur-sm border border-black/5 rounded-2xl active:bg-white transition-all shadow-sm hover:shadow-md hover:border-brand-secondary/20"
               >
                 <div className="flex flex-col gap-1">
                   <span className="text-[13px] font-bold text-neutral-900 group-hover:text-brand-secondary transition-colors">{source.title}</span>
@@ -179,10 +179,10 @@ export default function ContentBlockRenderer({ block, cardId, learningState, isA
                     <span className="text-[8px] text-brand-secondary font-black uppercase tracking-widest bg-brand-secondary/5 px-1.5 py-0.5 rounded">
                       {source.type}
                     </span>
-                    <span className="text-[9px] text-neutral-400 truncate max-w-[150px]">{new URL(source.url).hostname}</span>
+                    <span className="text-[9px] text-neutral-600 truncate max-w-[150px]">{new URL(source.url).hostname}</span>
                   </div>
                 </div>
-                <div className="p-2 rounded-full bg-neutral-50 text-neutral-400 group-hover:bg-brand-secondary/10 group-hover:text-brand-secondary transition-all">
+                <div className="p-2 rounded-full bg-neutral-50 text-neutral-600 group-hover:bg-brand-secondary/10 group-hover:text-brand-secondary transition-all">
                   <ExternalLink size={14} />
                 </div>
               </a>
@@ -194,7 +194,7 @@ export default function ContentBlockRenderer({ block, cardId, learningState, isA
     case "reflection":
       return (
         <section className="pt-10 text-center space-y-6">
-          <p className="text-[10px] font-black uppercase tracking-widest text-neutral-400">{dictionary.feelQuestion}</p>
+          <p className="text-[10px] font-black uppercase tracking-widest text-neutral-600">{dictionary.feelQuestion}</p>
           <div className="flex justify-center">
             <ReadReflection
               cardId={cardId}
@@ -209,7 +209,7 @@ export default function ContentBlockRenderer({ block, cardId, learningState, isA
       if (!similarCards || similarCards.length === 0) return null;
       return (
         <section className="pt-10 space-y-6">
-          <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-neutral-400 text-center">{dictionary.similarDiscoveries}</h2>
+          <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-neutral-600 text-center">{dictionary.similarDiscoveries}</h2>
           <div className="space-y-3">
             {similarCards.map((rc) => (
               <Link key={rc.id} href={`/${locale}/card/${rc.id}`} className="flex items-center gap-4 p-4 bg-neutral-50 border border-black/5 rounded-3xl active:scale-[0.98] transition-transform">
@@ -224,9 +224,9 @@ export default function ContentBlockRenderer({ block, cardId, learningState, isA
                 </div>
                 <div className="flex-1 min-w-0">
                   <h4 className="font-serif text-base text-neutral-900 leading-tight truncate">{rc.title}</h4>
-                  <p className="text-[9px] text-neutral-400 font-bold uppercase tracking-widest mt-1 truncate">{formatMediaType(rc.mediaType, dictionary)} • {rc.mediaTitle}</p>
+                  <p className="text-[9px] text-neutral-600 font-bold uppercase tracking-widest mt-1 truncate">{formatMediaType(rc.mediaType, dictionary)} • {rc.mediaTitle}</p>
                 </div>
-                <ArrowRight size={14} className="text-neutral-400" />
+                <ArrowRight size={14} className="text-neutral-600" />
               </Link>
             ))}
           </div>

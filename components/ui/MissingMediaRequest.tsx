@@ -6,9 +6,10 @@ import { SITE_CONFIG } from "@/lib/config";
 
 interface MissingMediaRequestProps {
   dictionary: any;
+  locale: string;
 }
 
-export default function MissingMediaRequest({ dictionary }: MissingMediaRequestProps) {
+export default function MissingMediaRequest({ dictionary, locale }: MissingMediaRequestProps) {
   const t = dictionary.explore;
 
   return (
@@ -24,9 +25,7 @@ export default function MissingMediaRequest({ dictionary }: MissingMediaRequestP
       </div>
       
       <a 
-        href={SITE_CONFIG.feedbackUrl}
-        target="_blank"
-        rel="noopener noreferrer"
+        href={`mailto:${(SITE_CONFIG.feedbackEmail as any)[locale] || SITE_CONFIG.feedbackEmail.tr}`}
         className="inline-flex items-center gap-2 text-[10px] font-black uppercase tracking-widest text-brand-secondary bg-brand-secondary/5 px-6 py-2.5 rounded-xl border border-brand-secondary/10 active:scale-95 transition-all"
       >
         {t.missingMediaCta} <ArrowRight size={14} />

@@ -49,7 +49,7 @@ export default function HomeClient({ cards: allCards, routes: allRoutes, locale,
         if (!card) return null;
 
         const progressStr = localStorage.getItem(`progress_${id}`);
-        
+
         // If it's a whitelisted card in recent but no progress recorded yet
         if (!progressStr) {
           return { card, progress: card.isFlagship ? 0 : 10 };
@@ -131,16 +131,26 @@ export default function HomeClient({ cards: allCards, routes: allRoutes, locale,
   }).format(new Date());
 
   return (
-    <div className="px-6 pt-safe max-w-lg mx-auto pb-mobile-nav">
-      <header className="mb-6 mt-6 flex justify-between items-start">
-        <div>
-          <h1 className="text-3xl mb-1 font-serif text-neutral-950">{dictionary.common.brandingTitle}</h1>
-          <p className="text-neutral-400 font-bold text-[10px] uppercase tracking-widest flex items-center gap-2">
-            {dateString} • {dictionary.common.brandingSubtitle}
+    <div className="px-6 max-w-lg mx-auto">
+      <header className="mb-12 mt-6 flex justify-between items-start">
+        <div className="flex flex-col gap-2">
+          <div className="archival-label opacity-60 flex items-center gap-2">
+            <span className="w-5 h-px bg-current" />
+            {locale === 'tr' ? 'Dijital Arşiv' : 'Digital Archive'}
+            <span className="w-1 h-1 rounded-full bg-brand-secondary" />
+          </div>
+          <h1 className="text-4xl md:text-5xl font-serif text-neutral-950 tracking-tight leading-none">
+            {dictionary.common.brandingTitle}
+          </h1>
+          <p className="archival-label flex items-center gap-2 text-neutral-800 font-bold">
+            {dateString} <span className="opacity-40">|</span> {dictionary.common.brandingSubtitle}
           </p>
         </div>
-        <LanguageSwitch />
+        <div className="pt-3">
+          <LanguageSwitch />
+        </div>
       </header>
+
 
       <EnglishPilotBanner locale={locale} />
 
@@ -154,12 +164,16 @@ export default function HomeClient({ cards: allCards, routes: allRoutes, locale,
         <FeaturedDossier dossier={featuredDossier} locale={locale} />
       )}
 
-      <section className="mb-6">
-        <div className="flex justify-between items-center mb-4">
-          <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-neutral-400 flex items-center gap-2">
-            <Map size={12} className="text-brand-secondary" /> {dictionary.nav.routes}
-          </h2>
-          <Link href={`/${locale}/routes`} className="text-[9px] font-black uppercase tracking-widest text-brand-secondary">
+      <section className="mb-10">
+        <div className="flex justify-between items-end mb-5 px-1">
+          <div className="flex flex-col gap-1">
+            <h2 className="archival-label flex items-center gap-2 text-neutral-900!">
+              <Map size={12} className="text-brand-secondary" />
+              {dictionary.nav.routes}
+            </h2>
+            <div className="h-px w-8 bg-brand-secondary/40" />
+          </div>
+          <Link href={`/${locale}/routes`} className="archival-label text-brand-secondary! hover:underline transition-all">
             {dictionary.common.seeAll}
           </Link>
         </div>
@@ -167,17 +181,17 @@ export default function HomeClient({ cards: allCards, routes: allRoutes, locale,
           {recommendedRoutes.map(route => {
             const Icon = (LucideIcons as any)[route.icon] || Map;
             return (
-              <Link key={route.id} href={`/${locale}/routes/${route.id}`} className="bg-white p-5 rounded-4xl border border-black/5 shadow-sm active:scale-[0.98] transition-all flex items-center gap-5">
-                <div className="w-12 h-12 bg-neutral-50 rounded-2xl flex items-center justify-center text-brand-secondary shrink-0">
+              <Link key={route.id} href={`/${locale}/routes/${route.id}`} className="bg-white p-5 rounded-3xl archival-border-double shadow-sm active:scale-[0.98] transition-all flex items-center gap-5 border-black/5">
+                <div className="w-12 h-12 archival-muted-bg rounded-2xl flex items-center justify-center text-brand-secondary shrink-0 archival-border-double border-black/5">
                   <Icon size={20} strokeWidth={1.5} />
                 </div>
                 <div className="flex-1 min-w-0">
-                  <h3 className="text-sm font-bold text-neutral-900 leading-tight mb-2 line-clamp-1">{route.title}</h3>
+                  <h3 className="text-sm font-bold text-neutral-900 leading-tight mb-2.5 line-clamp-1">{route.title}</h3>
                   <div className="flex items-center gap-3">
                     <div className="flex-1 h-1.5 bg-neutral-100 rounded-full overflow-hidden">
                       <div className="h-full bg-brand-secondary" style={{ width: `${route.progress * 100}%` }}></div>
                     </div>
-                    <span className="text-[9px] font-black text-neutral-400 uppercase tracking-widest tabular-nums">
+                    <span className="archival-label tabular-nums opacity-60">
                       {locale === 'tr' ? `%${Math.round(route.progress * 100)}` : `${Math.round(route.progress * 100)}%`}
                     </span>
                   </div>
@@ -188,11 +202,11 @@ export default function HomeClient({ cards: allCards, routes: allRoutes, locale,
         </div>
       </section>
 
-      <ThematicChips />
+      <ThematicChips cards={allCards} />
 
-      <section className="mt-8 mb-8">
-        <Link href={`/${locale}/explore`} className="w-full py-4 flex items-center justify-center gap-3 rounded-2xl font-black uppercase tracking-widest text-[11px] text-white bg-neutral-950 active:scale-[0.98] transition-all shadow-xl">
-          {dictionary.common.exploreLibrary} <ArrowRight size={16} />
+      <section className="mt-10 mb-8">
+        <Link href={`/${locale}/explore`} className="w-full py-4.5 flex items-center justify-center gap-3 rounded-2xl archival-label text-white! bg-neutral-950 active:scale-[0.98] transition-all shadow-xl hover:bg-neutral-900">
+          {dictionary.common.exploreLibrary} <ArrowRight size={14} strokeWidth={3} />
         </Link>
       </section>
     </div>

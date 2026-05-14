@@ -13,6 +13,10 @@ export default function LanguageSwitch() {
 
   const toggleLocale = () => {
     const nextLocale = currentLocale === "tr" ? "en" : "tr";
+    
+    // Persist preference via cookie (1 year expiry)
+    document.cookie = `preferred-locale=${nextLocale}; path=/; max-age=31536000; SameSite=Lax`;
+    
     const nextPathname = pathname.replace(`/${currentLocale}`, `/${nextLocale}`);
     router.push(nextPathname);
   };

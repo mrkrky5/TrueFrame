@@ -1,6 +1,6 @@
 import { MetadataRoute } from 'next';
 import { SITE_CONFIG } from '@/lib/config';
-import { i18n } from '@/lib/i18n-config';
+import { i18n, ENGLISH_PILOT_IDS } from '@/lib/i18n-config';
 import fs from 'fs';
 import path from 'path';
 
@@ -32,14 +32,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }));
 
     // EN whitelisted cards only
-    // In a real environment we would import ENGLISH_PILOT_IDS
-    // Since this runs at build time, we can filter
-    const ENGLISH_PILOT_IDS = [
-      "oppenheimer-trinity", "shogun-edo", "assassins-creed-origins-medjay",
-      "chernobyl-legasov", "gladiator-maximus", "1917-schofield",
-      "ghost-of-tsushima-jin", "kingdom-come-henry", "rdr2-arthur", "vikings-ragnar"
-    ];
-
     const enCardUrls = trCards
       .filter((c: any) => ENGLISH_PILOT_IDS.includes(c.id))
       .map((card: any) => ({

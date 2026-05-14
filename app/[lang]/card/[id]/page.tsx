@@ -43,7 +43,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   };
 }
 
-export default async function CardPage({ params }: { params: Promise<{ lang: string, id: string }> }) {
+export default async function HistoryCardDetailPage({ params }: { params: Promise<{ lang: string, id: string }> }) {
   const { lang, id } = await params;
   const cards = await getCards(lang as Locale);
   const ALIAS_MAP: Record<string, string> = {
