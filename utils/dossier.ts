@@ -16,16 +16,25 @@ export interface MediaDossier {
 
 const EXCLUDED_TITLES = [
   "Günlük Hayat",
+  "Daily Life",
   "Tarihi Yanılgı",
+  "Historical Myth",
   "Popüler Kültür Yanılgıları",
+  "Pop-Culture Misconceptions",
   "Büyük Değişim",
+  "Great Change",
   "Büyük Dönüşüm",
+  "Great Transformation",
   "Modern Tarih",
-  "Atmosfer",
+  "Modern History",
+  "Atmosphere",
+  "Period Films",
   "Turning Points",
   "Unknown",
   "Genel",
-  "Diğer"
+  "General",
+  "Diğer",
+  "Other"
 ];
 
 export const NORMALIZATION_MAP: Record<string, string> = {

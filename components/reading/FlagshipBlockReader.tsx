@@ -11,10 +11,11 @@ interface FlagshipBlockReaderProps {
   learningState: any;
   similarCards: HistoryCard[];
   onComplete?: () => void;
+  dictionary: any;
 }
 
-export default function FlagshipBlockReader({ card, learningState, similarCards, onComplete }: FlagshipBlockReaderProps) {
-  const blocks = useMemo(() => deriveCardBlocks(card), [card]);
+export default function FlagshipBlockReader({ card, learningState, similarCards, onComplete, dictionary }: FlagshipBlockReaderProps) {
+  const blocks = useMemo(() => deriveCardBlocks(card, dictionary), [card, dictionary]);
   const [currentStep, setCurrentStep] = useState(0);
   const blockRefs = useRef<(HTMLElement | null)[]>([]);
 

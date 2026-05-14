@@ -31,16 +31,16 @@ const HistoryCard = ({ card, variant = "full", className = "", theme = "light" }
             href={`/${locale}/media/${dossierSlug}`}
             className="text-[9px] font-black uppercase tracking-[0.2em] text-brand-secondary hover:text-neutral-900 transition-colors truncate max-w-[80%]"
             onClick={(e) => e.stopPropagation()}
-            title={`${formatMediaType(card.mediaType, dictionary)} • ${formatMediaTitle(card.mediaTitle)}`}
+            title={`${formatMediaType(card.mediaType, dictionary, locale)} • ${formatMediaTitle(card.mediaTitle)}`}
           >
-            {dictionary.common.mediaTypes?.[card.mediaType]?.toUpperCase()} • {formatMediaTitle(card.mediaTitle)}
+            {formatMediaType(card.mediaType, dictionary, locale)} • {formatMediaTitle(card.mediaTitle)}
           </Link>
         ) : (
           <span 
             className="text-[9px] font-black uppercase tracking-[0.2em] text-brand-secondary truncate max-w-[80%]"
-            title={`${dictionary.common.mediaTypes?.[card.mediaType]?.toUpperCase()} • ${formatMediaTitle(card.mediaTitle)}`}
+            title={`${formatMediaType(card.mediaType, dictionary, locale)} • ${formatMediaTitle(card.mediaTitle)}`}
           >
-            {dictionary.common.mediaTypes?.[card.mediaType]?.toUpperCase()} • {formatMediaTitle(card.mediaTitle)}
+            {formatMediaType(card.mediaType, dictionary, locale)} • {formatMediaTitle(card.mediaTitle)}
           </span>
         )}
       </div>
@@ -114,12 +114,12 @@ const HistoryCard = ({ card, variant = "full", className = "", theme = "light" }
               <div className="flex gap-1.5">
                 {card.themes.slice(0, 2).map((theme) => (
                   <span key={theme} className={`text-[9px] font-black uppercase tracking-wider px-2 py-0.5 rounded-md border truncate max-w-[100px] ${isDarkBackground ? "bg-white/5 text-neutral-400 border-white/5" : "bg-neutral-50 text-neutral-600 border-neutral-100"}`}>
-                    {formatTag(theme, dictionary)}
+                    {formatTag(theme, dictionary, locale)}
                   </span>
                 ))}
               </div>
               <span className={`text-[10px] font-black uppercase tracking-widest flex items-center gap-1.5 ${isDarkBackground ? "text-white" : "text-neutral-800"}`}>
-                <Clock size={12} strokeWidth={2.5} /> {card.readingTimeMinutes} {dictionary.common.minutes?.toUpperCase()}
+                <Clock size={12} strokeWidth={2.5} /> {card.readingTimeMinutes} {locale === 'tr' ? dictionary.common.minutes?.toLocaleUpperCase('tr-TR') : dictionary.common.minutes?.toUpperCase()}
               </span>
             </div>
           </div>

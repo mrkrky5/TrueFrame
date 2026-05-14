@@ -10,7 +10,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="tr" className={`${inter.variable} ${crimson.variable}`} suppressHydrationWarning>
+    <html lang="en" className={`${inter.variable} ${crimson.variable}`} suppressHydrationWarning>
       <head>
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <script

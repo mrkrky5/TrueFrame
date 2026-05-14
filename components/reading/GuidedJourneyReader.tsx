@@ -25,7 +25,7 @@ import SaveButton from "@/components/ui/SaveButton";
 
 export default function GuidedJourneyReader({ card, learningState, similarCards, allCards, readIds, dictionary, onComplete }: GuidedJourneyReaderProps) {
   const locale = useLocale();
-  const blocks = useMemo(() => deriveCardBlocks(card), [card]);
+  const blocks = useMemo(() => deriveCardBlocks(card, dictionary), [card, dictionary]);
   const [currentStep, setCurrentStep] = useState(0);
   const [isCompleted, setIsCompleted] = useState(false);
   const containerRef = useRef<HTMLDivElement>(null);

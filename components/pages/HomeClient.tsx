@@ -57,7 +57,7 @@ export default function HomeClient({ cards: allCards, routes: allRoutes, locale,
 
         const step = parseInt(progressStr, 10);
         if (card.isFlagship) {
-          const blocks = deriveCardBlocks(card);
+          const blocks = deriveCardBlocks(card, dictionary);
           const progress = Math.min(100, Math.max(10, Math.round(((step + 1) / blocks.length) * 100)));
           return { card, progress: progress === 100 ? 95 : progress };
         }

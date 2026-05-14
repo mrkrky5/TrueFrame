@@ -1,0 +1,265 @@
+[
+  {
+    "id": "ottoman-beyond-war",
+    "title": "Osmanlı: Savaşın Ötesinde Bir Medeniyet",
+    "subtitle": "Mimari, tıp ve şehircilik mirası.",
+    "mediaType": "general",
+    "mediaTitle": "Atmosfer",
+    "difficulty": "medium",
+    "readingTimeMinutes": 2,
+    "verificationStatus": "verified",
+    "sourceQuality": "strong",
+    "themes": [
+      "Osmanlı",
+      "Mimari",
+      "Bilim"
+    ],
+    "realHistory": "Osmanlı, özellikle tıp (Darüşşifalar), su mimarisi (su kemerleri ve çeşmeler) ve Mimar Sinan ile zirveye ulaşan mimari bir dehaya sahipti. Osmanlı toplumsal yapısı, savaş meydanlarının çok ötesinde, 'Millet Sistemi' adı verilen ve farklı dini cemaatlerin kendi iç hukuklarına göre yönetildiği benzersiz bir çoğulculuğa dayanıyordu. Şehir planlamasında 'İmaret' sistemi, bir cami çevresinde kütüphane, hastane, okul ve aşevi gibi sosyal kurumların kümelenmesini sağlayarak tarihin ilk 'refah devleti' modellerinden birini sunmuştur.",
+    "accuracyNote": "Osmanlı’nın toplumsal yapısı (Vakıf sistemi), sosyal devlet anlayışının tarihteki en gelişmiş örneklerinden biridir.",
+    "sources": [
+      {
+        "title": "Ottoman Architecture (Britannica)",
+        "url": "https://www.britannica.com/art/Ottoman-art",
+        "type": "official"
+      }
+    ],
+    "mediaConnection": "Osmanlı dönemini işleyen diziler genellikle askeri zaferlere odaklansa da, imparatorluğun gerçek gücü kurumsallaşmış hukuk ve karmaşık bürokrasi yapısında saklıdır.",
+    "accuracyType": "real",
+    "tags": ["osmanli", "bilim", "mimari"]
+  },
+  {
+    "id": "ottoman-diet-culture",
+    "title": "Osmanlı Mutfağı ve Yemek Kültürü",
+    "subtitle": "Saray ziyafetlerinden sokak lezzetlerine.",
+    "mediaType": "general",
+    "mediaTitle": "Günlük Hayat",
+    "difficulty": "basic",
+    "readingTimeMinutes": 1,
+    "verificationStatus": "verified",
+    "sourceQuality": "strong",
+    "themes": [
+      "Osmanlı",
+      "Yemek Kültürü"
+    ],
+    "realHistory": "Osmanlı mutfağı, Orta Asya, Anadolu, Balkanlar ve Arap Yarımadası'nın lezzetlerini birleştiren devasa bir sentezdir. Saray mutfağı (Matbah-i Amire), yüzlerce aşçının çalıştığı, yemeklerin 'eczane' hassasiyetiyle hazırlandığı bir organizasyondu.",
+    "accuracyNote": "Osmanlı dizilerindeki sofra tasvirleri genellikle 19. yüzyıl sonrası Avrupa etkisiyle oluşan sofraları andırır.",
+    "sources": [
+      {
+        "title": "Ottoman Cuisine (Turkish Cultural Foundation)",
+        "url": "http://www.turkishculturalfoundation.org/",
+        "type": "official"
+      }
+    ],
+    "mediaConnection": "Osmanlı saray mutfağını konu alan yapımlar, yemek kültürünün sadece bir beslenme biçimi değil, aynı zamanda bir sosyal hiyerarşi ve diplomasi aracı olduğunu gösterir.",
+    "accuracyType": "real",
+    "tags": ["osmanli", "yemek-kulturu"]
+  },
+  {
+    "id": "silk-road-travel-new",
+    "title": "İpek Yolu’nda Yolculuk ve Kervansaraylar",
+    "subtitle": "Binlerce kilometrelik ticaretin güvenliği.",
+    "mediaType": "general",
+    "mediaTitle": "Günlük Hayat",
+    "difficulty": "medium",
+    "readingTimeMinutes": 2,
+    "verificationStatus": "verified",
+    "sourceQuality": "strong",
+    "themes": [
+      "İpek Yolu",
+      "Ticaret"
+    ],
+    "realHistory": "İpek Yolu üzerinde her 30-40 kilometrede bir yer alan Kervansaraylar, antik dünyanın 'lojistik merkezleri'ydi. Tüccarlar burada güvenle konaklıyor, hayvanlarını dinlendiriyor ve farklı milletlerden insanlarla bilgi alışverişinde bulunuyorlardı.",
+    "accuracyNote": "Kervansaraylar, tüccarların milliyetine bakılmaksızın 3 gün boyunca ücretsiz konaklama sunan bir vakıf sistemiyle yönetilirdi.",
+    "sources": [
+      {
+        "title": "The Silk Road (UNESCO)",
+        "url": "https://en.unesco.org/silkroad/about-silk-road",
+        "type": "official"
+      }
+    ],
+    "mediaConnection": "İpek Yolu üzerindeki kervansarayları betimleyen yapımlar, bu mekanların sadece durak değil, aynı zamanda küresel fikirlerin paylaşıldığı birer sosyal merkez olduğunu anlatır.",
+    "accuracyType": "real",
+    "tags": ["ipek-yolu", "ticaret"]
+  },
+  {
+    "id": "vikings-not-only-raiders",
+    "title": "Vikingler: Sadece Yağmacı mı, Yoksa Küresel Tüccar mı?",
+    "subtitle": "Vikinglerin kılıçtan çok gümüşle ilgilendiği o gerçek dünya.",
+    "mediaType": "general",
+    "mediaTitle": "Tarihi Yanılgı",
+    "verificationStatus": "verified",
+    "sourceQuality": "strong",
+    "realHistory": "Vikingler, 8. ve 11. yüzyıllar arasında aslında Kuzey Avrupa’nın en başarılı tüccarları ve kaşifleriydi. Yağma (viking) sadece belirli bir grubun, belirli dönemlerde yaptığı bir faaliyetti. Vikinglerin büyük çoğunluğu çiftçi, balıkçı ve zanaatkardı.",
+    "accuracyNote": "Popüler diziler (Vikings gibi) yağma sahnelerini öne çıkarır; ancak arkeolojik kazılar onların derin ticari bağlarını kanıtlar.",
+    "sources": [
+      {
+        "title": "The Vikings as Traders (British Museum)",
+        "url": "https://www.britishmuseum.org/collection/vikings",
+        "type": "official"
+      }
+    ],
+    "mediaConnection": "Viking dizileri genellikle sadece savaşa odaklanır, ancak tarih onların birer küresel ticaret dehası olduğunu gösterir.",
+    "accuracyType": "real",
+    "tags": ["vikingler", "ticaret"]
+  },
+  {
+    "id": "ancient-travel-myth",
+    "title": "Antik Dünyada Hareketlilik: Kimse Evinden Çıkmıyor muydu?",
+    "subtitle": "Kadim zamanlarda seyahat, ticaret ve küresel bağlantıların gerçekliği.",
+    "mediaType": "general",
+    "mediaTitle": "Tarihi Yanılgı",
+    "verificationStatus": "verified",
+    "realHistory": "Antik dünya, sanılanın aksine inanılmaz derecede hareketliydi. Roma İmparatorluğu döneminde bir tüccar, Britanya’dan Mısır’a kadar güvenli yollarda seyahat edebiliyor; bir filozof, Atina’dan İskenderiye’ye eğitim için gidebiliyordu.",
+    "accuracyNote": "Roma yolları ve Akdeniz’deki deniz ticareti rotaları, antik dünyanın bir 'küresel köy' gibi işlemesini sağlıyordu.",
+    "sources": [
+      {
+        "title": "Travel in the Ancient World (Britannica)",
+        "url": "https://www.britannica.com/topic/travel-and-tourism/History-of-travel",
+        "type": "official"
+      }
+    ],
+    "mediaConnection": "Filmlerin aksine, antik çağ insanları sandığımızdan çok daha gezgindi.",
+    "accuracyType": "real",
+    "tags": ["antik-cag", "seyahat"]
+  },
+  {
+    "id": "medieval-city-diet",
+    "title": "Orta Çağ Şehirlerinde Sofra: Sadece Ekmek mi?",
+    "subtitle": "Orta Çağ insanının beslenme alışkanlıkları ve mutfak kültürü.",
+    "mediaType": "general",
+    "mediaTitle": "Günlük Hayat",
+    "verificationStatus": "verified",
+    "realHistory": "Orta Çağ şehirlerinde beslenme, sıkı denetlenen bir hiyerarşi üzerine kuruluydu. Zengin sofralarında beyaz buğday ekmeği bulunurken; yoksullar çavdar ve buğday karışımı ekmeğe mahkumdu.",
+    "accuracyNote": "Oyunlar ve filmler mutfağı her zaman kirli ve iştah kaçırıcı resmeder, ancak o dönemde yemek hazırlamak büyük bir zanaattı.",
+    "sources": [
+      {
+        "title": "Food in Medieval Europe (Britannica)",
+        "url": "https://www.britannica.com/topic/food-preparation",
+        "type": "official"
+      }
+    ],
+    "mediaConnection": "Orta Çağ mutfağını konu alan yapımlar genellikle tekdüzeliğe odaklansa da, gerçek tarih baharatlı ve zengin bir sofra kültürü sunar.",
+    "accuracyType": "real",
+    "tags": ["orta-cag", "yemek"]
+  },
+  {
+    "id": "ancient-childhood",
+    "title": "Antik ve Orta Çağ’da Çocukluk: Sadece 'Küçük Yetişkinler' mi?",
+    "subtitle": "Oyun, eğitim ve çalışma: Geçmişte çocuk olmanın gerçekliği.",
+    "mediaType": "general",
+    "mediaTitle": "Günlük Hayat",
+    "verificationStatus": "verified",
+    "realHistory": "Antik Roma'da çocukluk bir 'kutsal korunma' dönemi kabul edilirdi. Ancak Sparta gibi askeri toplumlarda çocuklar 7 yaşında devlet kontrolündeki eğitim sistemine dahil edilirdi.",
+    "accuracyNote": "Mezar taşlarındaki yazıtlar, ebeveynlerin çocuk kaybı karşısında bugünle aynı derin acıyı yaşadığını gösterir.",
+    "sources": [
+      {
+        "title": "Children in Ancient Greece and Rome (British Museum)",
+        "url": "https://www.britishmuseum.org/blog/growing-ancient-greece-and-rome",
+        "type": "official"
+      }
+    ],
+    "mediaConnection": "Medyada genellikle işlenmeyen çocukluk kavramı, aslında tarihin en hassas ve korunmaya çalışılan dönemlerinden biriydi.",
+    "accuracyType": "real",
+    "tags": ["cocukluk", "tarih"]
+  },
+  {
+    "id": "night-fears-pre-lighting",
+    "title": "Karanlığın Hakimiyeti: Aydınlanma Öncesi Gece Korkusu",
+    "subtitle": "Modern ışıklandırmadan önce insanın geceyle olan tehlikeli ilişkisi.",
+    "mediaType": "general",
+    "mediaTitle": "Günlük Hayat",
+    "verificationStatus": "verified",
+    "realHistory": "Elektrik öncesi dünyada gece, sadece karanlık değil, devlet otoritesinin sona erdiği ve 'kaosun' başladığı hukuki bir sınırdı.",
+    "accuracyNote": "Gerçek bir Orta Çağ gecesinde elinizi önünüzde göremezdiniz; bu da insanların duyularının bugünkünden çok daha keskin olmasına neden olmuştur.",
+    "sources": [
+      {
+        "title": "At Days Close: Night in Times Past (Roger Ekirch)",
+        "url": "https://www.britannica.com/science/circadian-rhythm",
+        "type": "official"
+      }
+    ],
+    "mediaConnection": "Karanlık atmosferli oyunlardaki gece korkusu, aslında tarihsel bir hayatta kalma içgüdüsüdür.",
+    "accuracyType": "real",
+    "tags": ["gece", "psikoloji"]
+  },
+  {
+    "id": "medieval-monastery-science",
+    "title": "Manastırlar: Bilimin Bekçileri",
+    "subtitle": "Orta Çağ kütüphanelerinin ve bilgin keşişlerin gerçek rolü.",
+    "mediaType": "general",
+    "mediaTitle": "Büyük Dönüşüm",
+    "verificationStatus": "verified",
+    "realHistory": "Orta Çağ'da manastırlar sadece dua edilen yerler değil, Avrupa'nın 'bilgi bankaları'ydı. Antik metinler burada rahipler tarafından kopyalanarak korunmuştur.",
+    "accuracyNote": "Manastırlar modern üniversitelerin atasıdır.",
+    "sources": [
+      {
+        "title": "Monasticism and Science (Cambridge)",
+        "url": "https://www.cambridge.org/core/books/science-and-religion/",
+        "type": "official"
+      }
+    ],
+    "mediaConnection": "Medyada genellikle sessiz gösterilen keşişler, aslında dönemin en ileri bilimsel çalışmalarını yürüten mühendislerdi.",
+    "accuracyType": "real",
+    "tags": ["bilim", "orta-cag"]
+  },
+  {
+    "id": "roman-entertainment-ordinary",
+    "title": "Roma da Eğlence: Kolezyum Dışında Ne Vardı?",
+    "subtitle": "Sıradan bir Romalının boş zamanlarını nasıl geçirdiği.",
+    "mediaType": "general",
+    "mediaTitle": "Günlük Hayat",
+    "verificationStatus": "verified",
+    "realHistory": "Sıradan bir Romalı için eğlence sadece Kolezyum'dan ibaret değildi. Roma şehirlerinde halkın en büyük sosyalleşme alanı hamamlardı.",
+    "accuracyNote": "Roma hamamları bugün bizim için sosyal medya neyse oydu; haberler orada yayılır, ittifaklar orada kurulurdu.",
+    "sources": [
+      {
+        "title": "Ancient Roman Leisure (Britannica)",
+        "url": "https://www.britannica.com/place/ancient-Rome/Leisure-and-recreation",
+        "type": "official"
+      }
+    ],
+    "mediaConnection": "Gladyatör filmlerinin ötesindeki sivil Roma, oldukça sofistike bir eğlence kültürüne sahipti.",
+    "accuracyType": "real",
+    "tags": ["roma", "eglence"]
+  },
+  {
+    "id": "pre-modern-hospitals",
+    "title": "Antik Hastaneler: Şifa mı, Yoksa Dua mı?",
+    "subtitle": "Modern tıp öncesi tedavi ve bakım merkezleri.",
+    "mediaType": "general",
+    "mediaTitle": "Günlük Hayat",
+    "verificationStatus": "verified",
+    "realHistory": "İslam dünyasında 8. yüzyıldan itibaren Bağdat ve Kahire'de açılan 'Bimaristan'lar, cerrahinin yapıldığı ve akıl hastalarının tedavi edildiği ilk rasyonel tıp merkezleridir.",
+    "accuracyNote": "Roma askeri hastaneleri, bugünkü koridor sistemli hastane mimarisinin atasıdır.",
+    "sources": [
+      {
+        "title": "History of Hospitals (Britannica)",
+        "url": "https://www.britannica.com/topic/hospital/History-of-hospitals",
+        "type": "official"
+      }
+    ],
+    "mediaConnection": "Tıp dizilerinin kökeni, binlerce yıl önceki bu şifa merkezlerine dayanır.",
+    "accuracyType": "real",
+    "tags": ["tip", "tarih"]
+  },
+  {
+    "id": "medieval-knights-reality",
+    "title": "Şövalyelik: Onur mu, Yoksa Askeri Bürokrasi mi?",
+    "subtitle": "Zırhlı süvarilerin romantize edilen dünyasının gerçekleri.",
+    "mediaType": "general",
+    "mediaTitle": "Tarihi Yanılgı",
+    "verificationStatus": "verified",
+    "realHistory": "Şövalyelik, katı bir askeri ve idari bürokrasiydi. Bir şövalye olmak için gereken ekipman o kadar pahalıydı ki, sadece elit bir sınıf bu yükü taşıyabiliyordu.",
+    "accuracyNote": "Onur, çoğu zaman ganimet ve toprak elde etmenin diplomatik bir kılıfıydı.",
+    "sources": [
+      {
+        "title": "The Knightly Class (Britannica)",
+        "url": "https://www.britannica.com/topic/knight",
+        "type": "official"
+      }
+    ],
+    "mediaConnection": "Kingdom Come: Deliverance gibi oyunlar bu bürokratik yapıyı kısmen yansıtır.",
+    "accuracyType": "real",
+    "tags": ["sovalyelik", "orta-cag"]
+  }
+]

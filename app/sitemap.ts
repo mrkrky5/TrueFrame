@@ -1,6 +1,6 @@
 import { MetadataRoute } from 'next';
 import { SITE_CONFIG } from '@/lib/config';
-import { i18n, ENGLISH_PILOT_IDS } from '@/lib/i18n-config';
+import { i18n, ENGLISH_ACTIVE_IDS } from '@/lib/i18n-config';
 import fs from 'fs';
 import path from 'path';
 
@@ -22,8 +22,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
   let cardUrls: any[] = [];
   try {
     const trCards = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'data/cards.tr.json'), 'utf8'));
+    const enCards = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'data/cards.en.json'), 'utf8'));
     
-    // TR Cards
+    // TR Cards (Full Catalog)
     cardUrls = trCards.map((card: any) => ({
       url: `${baseUrl}/tr/card/${card.id}`,
       lastModified: new Date(),
@@ -31,9 +32,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.6,
     }));
 
-    // EN whitelisted cards only
-    const enCardUrls = trCards
-      .filter((c: any) => ENGLISH_PILOT_IDS.includes(c.id))
+    // EN Active Cards Only (Whitelisted)
+    const enCardUrls = enCards
+      .filter((c: any) => ENGLISH_ACTIVE_IDS.includes(c.id))
       .map((card: any) => ({
         url: `${baseUrl}/en/card/${card.id}`,
         lastModified: new Date(),

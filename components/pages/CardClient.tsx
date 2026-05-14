@@ -132,11 +132,11 @@ export default function CardClient({ card, allCards, locale, dictionary }: CardC
                   href={`/${locale}/media/${getDossierSlug(card.mediaTitle)}`}
                   className={`text-[10px] font-black uppercase tracking-[0.2em] underline decoration-brand-secondary/30 underline-offset-4 hover:decoration-brand-secondary active:scale-95 transition-all ${heroImage ? "text-neutral-950 drop-shadow-sm" : "text-brand-secondary"}`}
                 >
-                  {formatMediaType(card.mediaType, dictionary)} • {card.mediaTitle}
+                  {formatMediaType(card.mediaType, dictionary, locale)} • {card.mediaTitle}
                 </Link>
               ) : (
                 <span className={`text-[10px] font-black uppercase tracking-[0.2em] ${heroImage ? "text-neutral-950 drop-shadow-sm" : "text-brand-secondary"}`}>
-                  {formatMediaType(card.mediaType, dictionary)} • {card.mediaTitle}
+                  {formatMediaType(card.mediaType, dictionary, locale)} • {card.mediaTitle}
                 </span>
               )}
               {card.isFlagship && (

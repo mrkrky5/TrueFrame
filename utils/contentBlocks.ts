@@ -22,7 +22,7 @@ export interface ContentBlock {
 /**
  * Splits text into blocks while trying to maintain ideal word counts (60-140 words).
  */
-function refineSplitting(blocks: { title?: string; content: string }[]): { title?: string; content: string }[] {
+function refineSplitting(blocks: { title?: string; content: string }[], continuedLabel: string): { title?: string; content: string }[] {
   const result: { title?: string; content: string }[] = [];
   
   for (const block of blocks) {
@@ -33,7 +33,7 @@ function refineSplitting(blocks: { title?: string; content: string }[]): { title
       const paragraphs = block.content.split(/\n\n+/).filter(p => p.trim());
       if (paragraphs.length > 1) {
         paragraphs.forEach((p, i) => {
-          const partTitle = i === 0 ? block.title : (block.title ? `${block.title} — Devamı` : "Devamı");
+          const partTitle = i === 0 ? block.title : (block.title ? `${block.title} — ${continuedLabel}` : continuedLabel);
           result.push({
             title: partTitle,
             content: p.trim()
@@ -53,7 +53,7 @@ function refineSplitting(blocks: { title?: string; content: string }[]): { title
  * Splits the realHistory text into blocks based on markdown headings (###).
  * If no headings exist, it splits by paragraphs.
  */
-function splitHistoryIntoBlocks(text: string): { title?: string; content: string }[] {
+function splitHistoryIntoBlocks(text: string, continuedLabel: string): { title?: string; content: string }[] {
   if (!text) return [];
 
   let rawBlocks: { title?: string; content: string }[] = [];
@@ -88,13 +88,13 @@ function splitHistoryIntoBlocks(text: string): { title?: string; content: string
       });
   }
 
-  return refineSplitting(rawBlocks);
+  return refineSplitting(rawBlocks, continuedLabel);
 }
 
 /**
  * Derives an ordered list of content blocks for a flagship card.
  */
-export function deriveCardBlocks(card: HistoryCard): ContentBlock[] {
+export function deriveCardBlocks(card: HistoryCard, d: any): ContentBlock[] {
   const blocks: ContentBlock[] = [];
 
   // 1. Hook Block
@@ -102,7 +102,7 @@ export function deriveCardBlocks(card: HistoryCard): ContentBlock[] {
     id: "hook",
     type: "hook",
     title: card.title,
-    content: card.quickRealityCheck || card.subtitle || "Medya ve gerçek arasındaki çizgiyi keşfedin.",
+    content: card.quickRealityCheck || card.subtitle || d.common.journeyHookDefault,
     metadata: {
       mediaTitle: card.mediaTitle,
       mediaType: card.mediaType,
@@ -112,7 +112,7 @@ export function deriveCardBlocks(card: HistoryCard): ContentBlock[] {
 
   // 2. Short Context / Bite of Knowledge (Value First)
   // Take the first history block as context if it exists and isn't too long
-  const historyParts = splitHistoryIntoBlocks(card.realHistory || "");
+  const historyParts = splitHistoryIntoBlocks(card.realHistory || "", d.common.continuedLabel || d.common.continued);
   let contextPart: { title?: string; content: string } | null = null;
   
   if (historyParts.length > 0) {
@@ -120,7 +120,7 @@ export function deriveCardBlocks(card: HistoryCard): ContentBlock[] {
     blocks.push({
       id: "short-context",
       type: "shortContext",
-      title: contextPart.title || "Kısa Bağlam",
+      title: contextPart.title || d.common.quickContext,
       content: contextPart.content
     });
   }
@@ -141,7 +141,7 @@ export function deriveCardBlocks(card: HistoryCard): ContentBlock[] {
     blocks.push({
       id: "media-changed",
       type: "mediaChanged",
-      title: "Medya vs. Gerçeklik",
+      title: d.common.vsReality,
       content: card.mediaChanged
     });
   }
@@ -161,7 +161,7 @@ export function deriveCardBlocks(card: HistoryCard): ContentBlock[] {
     blocks.push({
       id: "why-it-matters",
       type: "whyItMatters",
-      title: "Neden Önemli?",
+      title: d.common.whyItMattersHeader || d.card.whyItMatters,
       content: card.whyItMatters
     });
   }
@@ -171,7 +171,7 @@ export function deriveCardBlocks(card: HistoryCard): ContentBlock[] {
     blocks.push({
       id: "sources",
       type: "sources",
-      title: "Kaynaklar",
+      title: d.common.sourcesTitle,
       content: card.sources
     });
   }

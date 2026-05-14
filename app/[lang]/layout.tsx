@@ -1,5 +1,4 @@
 import type { Metadata, Viewport } from "next";
-import Script from "next/script";
 import BottomNav from "@/components/layout/BottomNav";
 import Onboarding from "@/components/ui/Onboarding";
 import SWRegistration from "@/components/utils/SWRegistration";
@@ -68,7 +67,7 @@ export const viewport: Viewport = {
   themeColor: "#FAF9F6",
 };
 
-export default async function RootLayout({
+export default async function LocalizedLayout({
   children,
   params,
 }: Readonly<{
@@ -79,18 +78,19 @@ export default async function RootLayout({
   const dictionary = await getDictionary(lang as Locale);
 
   return (
-    <DictionaryProvider dictionary={dictionary}>
-      <div className="app-shell">
-        <div className="top-system-safe-area" />
-        <Onboarding />
-        <main className="app-scroll-area">
-          {children}
-        </main>
-        <BottomNav />
-        <OfflineNotification />
-        <SWRegistration />
-      </div>
-    </DictionaryProvider>
+    <div lang={lang} data-locale={lang} className="min-h-full">
+      <DictionaryProvider dictionary={dictionary}>
+        <div className="app-shell">
+          <div className="top-system-safe-area" />
+          <Onboarding />
+          <main className="app-scroll-area">
+            {children}
+          </main>
+          <BottomNav />
+          <OfflineNotification />
+          <SWRegistration />
+        </div>
+      </DictionaryProvider>
+    </div>
   );
 }
-

@@ -1,23 +1,34 @@
 import { AccuracyType, MediaType, SpoilerLevel } from "@/types";
 
-export const formatMediaType = (type: MediaType, dictionary?: any): string => {
-  if (dictionary?.common?.mediaTypes?.[type]) {
-    return dictionary.common.mediaTypes[type].toUpperCase();
+export const safeUpperCase = (str: string | undefined, locale: string): string => {
+  if (!str) return "";
+  try {
+    // English should be strictly en-US to avoid system locale leakage (like dotted I)
+    const normalizedLocale = locale === 'tr' ? 'tr-TR' : 'en-US';
+    return str.toLocaleUpperCase(normalizedLocale);
+  } catch (e) {
+    return str.toUpperCase();
   }
-  const map: Record<string, string> = {
-    game: "OYUN",
-    film: "FİLM",
-    series: "DİZİ",
-    book: "KİTAP",
-    general: "GENEL",
-    other: "DİĞER"
-  };
-  return map[type] || "DİĞER";
 };
 
-export const formatAccuracyType = (type: AccuracyType, dictionary?: any): string => {
+export const formatMediaType = (type: MediaType, dictionary?: any, locale: string = 'en'): string => {
+  if (dictionary?.common?.mediaTypes?.[type]) {
+    return safeUpperCase(dictionary.common.mediaTypes[type], locale);
+  }
+  const map: Record<string, string> = {
+    game: "GAME",
+    film: "MOVIE",
+    series: "SERIES",
+    book: "BOOK",
+    general: "GENERAL",
+    other: "OTHER"
+  };
+  return map[type] || "OTHER";
+};
+
+export const formatAccuracyType = (type: AccuracyType, dictionary?: any, locale: string = 'en'): string => {
   if (dictionary?.common?.accuracyOptions?.[type]) {
-    return dictionary.common.accuracyOptions[type].toUpperCase();
+    return safeUpperCase(dictionary.common.accuracyOptions[type], locale);
   }
   const map: Record<string, string> = {
     "real": "GERÇEK",
@@ -29,11 +40,11 @@ export const formatAccuracyType = (type: AccuracyType, dictionary?: any): string
   return map[type] || "BİLİNMİYOR";
 };
 
-export const formatSpoilerLevel = (level: SpoilerLevel, dictionary?: any): string => {
+export const formatSpoilerLevel = (level: SpoilerLevel, dictionary?: any, locale: string = 'en'): string => {
   if (dictionary?.card) {
-    if (level === "none") return dictionary.card.noSpoilers?.toUpperCase() || "";
-    if (level === "minor") return dictionary.card.spoilers?.toUpperCase() || "";
-    if (level === "major") return dictionary.card.heavySpoilers?.toUpperCase() || "";
+    if (level === "none") return safeUpperCase(dictionary.card.noSpoilers, locale);
+    if (level === "minor") return safeUpperCase(dictionary.card.spoilers, locale);
+    if (level === "major") return safeUpperCase(dictionary.card.heavySpoilers, locale);
   }
   const map: Record<string, string> = {
     none: "SÜRPRİZBOZAN YOK",
@@ -52,7 +63,7 @@ export const formatMediaTitle = (title: string | undefined): string => {
   return title;
 };
 
-export const formatTag = (tag: string, dictionary?: any): string => {
+export const formatTag = (tag: string, dictionary?: any, locale: string = 'en'): string => {
   if (!tag) return "";
   
   // Normalize tag for lookup: lowercase, trim, and collapse multiple dashes
@@ -63,51 +74,54 @@ export const formatTag = (tag: string, dictionary?: any): string => {
     return dictionary.common.tagLabels[normalizedTag];
   }
 
-  // Custom mappings for common malformed or technical tags (Turkish defaults)
+  // Custom mappings for common malformed or technical tags
   const customMap: Record<string, string> = {
-    "antik-dnya": "Antik Dünya",
-    "antik-dunya": "Antik Dünya",
-    "dunya-tarihi": "Dünya Tarihi",
-    "dnya-tarih": "Dünya Tarihi",
-    "ronesans": "Rönesans",
-    "rnesans": "Rönesans",
-    "orta-cag": "Orta Çağ",
-    "orta-a": "Orta Çağ",
-    "soguk-savas": "Soğuk Savaş",
-    "osmanli": "Osmanlı",
-    "samuray": "Samuray",
-    "denizcilik": "Denizcilik",
-    "savas": "Savaş",
+    "antik-dnya": "Ancient World",
+    "antik-dunya": "Ancient World",
+    "dunya-tarihi": "World History",
+    "dnya-tarih": "World History",
+    "ronesans": "Renaissance",
+    "rnesans": "Renaissance",
+    "orta-cag": "Middle Ages",
+    "orta-a": "Middle Ages",
+    "soguk-savas": "Cold War",
+    "osmanli": "Ottoman Empire",
+    "samuray": "Samurai",
+    "denizcilik": "Maritime",
+    "savas": "War",
     "shogun": "Shōgun",
-    "hacli-seferleri": "Haçlı Seferleri",
-    "orta-dogu": "Orta Doğu",
-    "sovalyelik": "Şövalyelik",
-    "eglence": "Eğlence",
-    "mitoloji": "Mitoloji",
-    "suc": "Suç ve Mafya",
-    "modern-tarih": "Modern Tarih",
-    "gnlk-yaam": "Günlük Yaşam",
-    "msr": "Mısır",
-    "ingiltere": "İngiltere",
-    "fransa": "Fransa",
+    "hacli-seferleri": "Crusades",
+    "orta-dogu": "Middle East",
+    "sovalyelik": "Chivalry",
+    "eglence": "Entertainment",
+    "mitoloji": "Mythology",
+    "suc": "Crime & Mafia",
+    "modern-tarih": "Modern History",
+    "gnlk-yaam": "Daily Life",
+    "msr": "Egypt",
+    "ingiltere": "England",
+    "fransa": "France",
     "viking": "Viking",
     "assassins-creed": "Assassin's Creed",
-    "turning-points": "Dönüm Noktaları",
-    "world-war-2": "II. Dünya Savaşı",
-    "ww2": "II. Dünya Savaşı",
-    "ww1": "I. Dünya Savaşı",
-    "roma": "Roma",
-    "teknoloji": "Teknoloji",
-    "sanat": "Sanat",
-    "mimari": "Mimari",
-    "kultur": "Kültür",
-    "kltr": "Kültür",
-    "bilim-tarihi": "Bilim Tarihi",
-    "korsanlik": "Korsanlık",
-    "vahsi-bati": "Vahşi Batı",
-    "ic-savas": "İç Savaş"
+    "turning-points": "Turning Points",
+    "world-war-2": "World War II",
+    "ww2": "World War II",
+    "ww1": "World War I",
+    "roma": "Rome",
+    "teknoloji": "Technology",
+    "sanat": "Art",
+    "mimari": "Architecture",
+    "kultur": "Culture",
+    "kltr": "Culture",
+    "bilim-tarihi": "History of Science",
+    "korsanlik": "Piracy",
+    "vahsi-bati": "Wild West",
+    "ic-savas": "Civil War"
   };
 
+  // If we have a dictionary, it takes precedence over the customMap
+  // because the dictionary is already localized.
+  // The customMap here acts as a "best guess" English fallback.
   if (customMap[normalizedTag]) return customMap[normalizedTag];
 
   // Generic formatting: kebab-case to Title Case
@@ -115,7 +129,7 @@ export const formatTag = (tag: string, dictionary?: any): string => {
     .split("-")
     .map(word => {
       if (!word) return "";
-      let firstChar = word.charAt(0).toUpperCase();
+      let firstChar = safeUpperCase(word.charAt(0), locale);
       const rest = word.slice(1).toLowerCase();
       return firstChar + rest;
     })
