@@ -119,7 +119,7 @@ export default function CardClient({ card, allCards, locale, dictionary }: CardC
 
       {/* Header Area */}
       {!(card.isFlagship && revealSpoiler) && (
-        <div className={`relative ${heroImage ? (isWebsite ? "h-[45vh]" : "h-[35vh]") : (isWebsite ? "h-[30vh]" : "h-[20vh]")} bg-bg-main flex flex-col justify-end border-b border-black/5 overflow-hidden`}>
+        <div className={`relative min-h-[45vh] bg-bg-main flex flex-col ${!isWebsite ? "justify-start pt-32" : "justify-end"} border-b border-black/5`}>
         {heroImage && (
           <div className="absolute inset-0 z-0 bg-neutral-200">
             <Image
@@ -134,7 +134,7 @@ export default function CardClient({ card, allCards, locale, dictionary }: CardC
           </div>
         )}
 
-        <div className={`relative z-10 w-full p-6 pb-12 ${isWebsite ? "max-w-4xl mx-auto md:px-12" : "max-w-lg mx-auto"}`}>
+        <div className={`relative z-10 w-full p-6 pb-12 ${isWebsite ? "max-w-4xl mx-auto md:px-12 pt-24" : "max-w-lg mx-auto pt-32"}`}>
           <div className="flex items-center justify-between mb-3">
             <div className="flex items-center gap-2">
               {getDossierSlug(card.mediaTitle) ? (
@@ -167,7 +167,7 @@ export default function CardClient({ card, allCards, locale, dictionary }: CardC
       </div>
     )}
 
-      <ResponsivePageContainer maxWidth="prose" className={`relative z-20 ${card.isFlagship && revealSpoiler ? "mt-0 pt-0" : "mt-10"}`}>
+      <ResponsivePageContainer maxWidth="prose" className={`relative z-20 ${card.isFlagship && revealSpoiler ? "mt-0 pt-0" : (isWebsite ? "mt-4" : "mt-10")}`}>
         {card.isFlagship ? (
           <div className={!revealSpoiler ? "reader-canvas" : ""}>
             {!revealSpoiler ? (

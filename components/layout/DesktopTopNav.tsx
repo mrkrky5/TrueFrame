@@ -27,13 +27,13 @@ export default function DesktopTopNav({ locale, dictionary }: DesktopTopNavProps
   ];
 
   return (
-    <nav className="hidden md:block sticky top-0 z-100 bg-white/80 backdrop-blur-md border-b border-black/5">
+    <nav className="hidden md:block sticky top-0 z-100 bg-white/80 backdrop-blur-md border-b border-black/5 transition-transform duration-500 in-[.hide-main-nav]:-translate-y-full">
       <div className="max-w-7xl mx-auto px-6 h-16 flex justify-between items-center">
         <div className="flex items-center gap-8">
           <Link href={`/${locale}`} className="text-lg font-serif font-black tracking-tight text-neutral-950">
             {dictionary.common.brandingTitle}
           </Link>
-          
+
           <div className="flex items-center gap-6">
             {navItems.map((item) => {
               const isActive = pathname === item.path || (item.path !== `/${locale}` && pathname.startsWith(item.path));
@@ -41,9 +41,8 @@ export default function DesktopTopNav({ locale, dictionary }: DesktopTopNavProps
                 <Link
                   key={item.path}
                   href={item.path}
-                  className={`flex items-center gap-2 text-[10px] font-black uppercase tracking-widest transition-all ${
-                    isActive ? "text-brand-secondary" : "text-neutral-400 hover:text-neutral-900"
-                  }`}
+                  className={`flex items-center gap-2 text-[10px] font-black uppercase tracking-widest transition-all ${isActive ? "text-brand-secondary" : "text-neutral-400 hover:text-neutral-900"
+                    }`}
                 >
                   {item.icon}
                   {item.label}

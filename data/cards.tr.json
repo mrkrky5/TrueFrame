@@ -7805,32 +7805,32 @@
   },
   {
     "id": "ghost-samurai-reality",
-    "title": "Samuray Savaşı: Düello mu Taktik mi?",
-    "subtitle": "Bireysel onur ve toplu imha savaşı.",
+    "title": "Samuray Gerçekliği: Onur mu, Pragmatizm mi?",
+    "subtitle": "Ghost of Tsushima ve gerçek samuray dünyası.",
     "mediaType": "game",
     "mediaTitle": "Ghost of Tsushima",
-    "difficulty": "medium",
-    "readingTimeMinutes": 1,
+    "difficulty": "deep",
+    "readingTimeMinutes": 4,
     "verificationStatus": "verified",
     "sourceQuality": "strong",
     "themes": [
       "Japonya",
       "Savaş",
-      "Samuray"
+      "Kültür"
     ],
-    "isFlagship": false,
+    "isFlagship": true,
     "accuracyType": "partly-real",
-    "spoilerLevel": "none",
+    "spoilerLevel": "minor",
     "tags": [
       "ghost-of-tsushima",
       "samuray",
       "japonya",
-      "savas"
+      "tarihsel-gerceklik"
     ],
-    "quickRealityCheck": "Ghost of Tsushima'daki 'teke tek düello' (Standoff) geleneği samuray kültüründe mevcuttu, ancak Moğollar gibi disiplinli bir orduyla karşılaştıklarında bu 'onurlu' yöntemler tam bir askeri intihara dönüştü.",
-    "mediaChanged": "Oyun Jin Sakai'nin bu geleneği bozmasını bir 'ahlaki kriz' gibi sunar, oysa gerçek hayatta samuraylar hayatta kalmak için hızla taktik değiştirmiş ve yay kullanımına kılıçtan daha fazla odaklanmışlardır.",
-    "realHistory": "13. yüzyıl Japon savaş sanatı, iki savaşçının isimlerini bağırıp birbirini düelloya davet etmesi (meigen) üzerine kuruluydu. Ancak Moğollar, bireysel dövüşe değil, davullarla yönetilen, toplu ok yağmuru ve barutlu bombalar (tetsuhau) kullanan bir 'modern' ordu yapısına sahipti. Japonlar ilk çarpışmalarda ağır kayıplar verince, kılıcı bırakıp atlı okçuluğa ve tahkimat (Mizuki duvarları) kurmaya odaklandılar. Ayrıca, oyundaki katanalar o dönemde henüz icat edilmemişti; samuraylar daha uzun ve kavisli olan 'Tachi' kılıçlarını kullanırlardı.",
-    "whyItMatters": "Samurayların dönüşümü, geleneksel askeri değerlerin yeni teknolojiler ve yabancı taktikler karşısında nasıl çöktüğünü gösterir.",
+    "quickRealityCheck": "Ghost of Tsushima, samuray onurunu merkezi bir tema olarak işler. Ancak 13. yüzyıldaki gerçek Moğol istilaları sırasında samuraylar, hayatta kalmak için her türlü taktiği kullanan pragmatik savaşçılardı.",
+    "mediaChanged": "Oyunda Jin Sakai, 'gizlilik' kullandığı için onurunu kaybettiğini düşünür. Gerçekte ise samuraylar, düşmanı yenmek için gece baskınları, pusular ve her türlü hileyi kullanmakta hiçbir sakınca görmezlerdi; asıl onursuzluk yenilmekti.",
+    "realHistory": "### 1274: Kamakura Dönemi Savaşçıları\nGhost of Tsushima, samurayları 19. yüzyılın romantize edilmiş 'Bushido' kurallarıyla (sadece kılıçla, yüz yüze savaşmak gibi) tasvir eder. Ancak Moğol istilalarının yaşandığı 1274 yılında samuraylar, her şeyden önce usta birer atlı okçuydu. Onur, bire bir düellodan ziyade, bağlı oldukları derebeyine (daimyo) olan sadakat ve savaş alanındaki başarıyla ölçülürdü. Samuraylar, Moğolların toplu savaş taktikleri ve barutlu silahları karşısında şok yaşasalar da, hızla uyum sağlamış ve düşmanı durdurmak için son derece acımasız yöntemler kullanmışlardır.\n\n### Bushido: Bir Barış Dönemi İcadı\nOyunda sıkça vurgulanan katı onur kurallarının çoğu, aslında savaşların sona erdiği barışçıl Edo Dönemi'nde (1603-1868) bir sınıf kimliği yaratmak için yazılmıştır. Kamakura samurayı için 'gizlilik' veya 'suikast' bir utanç kaynağı değil, askeri bir yetenekti. Ünlü samuray stratejisti Kusunoki Masashige, düşmanı yanıltmak için pusular kurduğu için bugün hala bir kahraman olarak anılır. Dolayısıyla Jin Sakai'nin yaşadığı 'Hayalet' (Ghost) olma ikilemi, tarihsel bir gerçeklikten ziyade modern bir kurgudur.\n\n### Silahlar ve Zırhlar\nOyundaki ikonik 'Katana', aslında 13. yüzyılda henüz yaygınlaşmamıştı. O dönemde samuraylar, 'Tachi' adı verilen daha kavisli ve at sırtında kullanıma uygun kılıçlar kullanırlardı. Ayrıca zırhlar (O-yoroi), Moğol oklarına karşı dayanıklı olması için deri ve metal plakaların karmaşık bir birleşimiydi. Oyundaki zırh tasarımları estetik olarak harika olsa da, çoğu birkaç yüzyıl sonrasının (Sengoku Dönemi) teknolojisini yansıtır.\n\n### Tsushima’nın Coğrafi Rolü\nTsushima adası gerçekten de Moğol istilasının ilk kurbanı olmuştur. Ancak istila sadece küçük bir grup samuray tarafından değil, Japonya'nın dört bir yanından gelen binlerce savaşçının katılımıyla durdurulabilmiştir. İlahi rüzgar (Kamikaze) olarak adlandırılan tayfunlar Moğol filosunu yok etmeseydi, samurayların direncinin ne kadar süreceği tarihçiler arasında hala bir tartışma konusudur. Yine de, bu savaş Japonya'nın 'istila edilemez' olduğu mitini doğurmuş ve samuray sınıfının otoritesini pekiştirmiştir.",
+    "whyItMatters": "Samurayların gerçek tarihini anlamak, onur kavramının zamanla nasıl evrildiğini ve bir siyasi araç haline geldiğini gösterir.",
     "sources": [
       {
         "title": "Samurai (Britannica)",
@@ -9285,8 +9285,8 @@
     "subtitle": "Bir kasabanın yok oluşu ve monarşinin tepkisi.",
     "mediaType": "series",
     "mediaTitle": "The Crown",
-    "difficulty": "medium",
-    "readingTimeMinutes": 1,
+    "difficulty": "deep",
+    "readingTimeMinutes": 4,
     "verificationStatus": "verified",
     "sourceQuality": "strong",
     "themes": [
@@ -9294,7 +9294,7 @@
       "Modern Tarih",
       "Toplum"
     ],
-    "isFlagship": false,
+    "isFlagship": true,
     "accuracyType": "real",
     "spoilerLevel": "minor",
     "tags": [
@@ -9305,7 +9305,7 @@
     ],
     "quickRealityCheck": "The Crown dizisinin en duygusal bölümlerinden biri olan Aberfan maden felaketi, 1966'da Galler'de gerçekleşen ve 116'sı çocuk 144 kişinin öldüğü gerçek bir trajedidir.",
     "mediaChanged": "Dizi Kraliçe Elizabeth II'nin duygusuzluğunu vurgular. Gerçekte Kraliçe, bölgeyi ziyaret etmekte 8 gün geciktiği için hayatı boyunca en büyük pişmanlığının bu olduğunu defalarca dile getirmiştir.",
-    "realHistory": "21 Ekim 1966 sabahı, yoğun yağışlar nedeniyle bir maden atığı yığını (tip) kayarak Aberfan kasabasındaki bir ilkokulun üzerine çöktü. Köylüler çocuklarını kurtarmak için elleriyle toprağı kazdılar. Kraliçe, 'bir monarkın ziyareti kurtarma çalışmalarını engeller' düşüncesiyle gitmeyi reddetti. Ancak kamuoyu baskısı ve trajedinin büyüklüğü üzerine 8 gün sonra bölgeye gitti. Bu olay, modern İngiliz tarihinde devletin ihmali ve monarşinin halkla olan duygusal bağı arasındaki en kritik kırılma noktalarından biridir. Felaketin asıl nedeni, Ulusal Kömür Kurulu'nun uyarılara rağmen atıkları tehlikeli bir yere depolamasıydı.",
+    "realHistory": "### 21 Ekim 1966: Siyah Bir Çığ\nO sabah Aberfan kasabası, Galler'in tipik yağmurlu havasıyla uyandı. Kasabanın üzerindeki Merthyr Dağı'nda, yıllardır biriktirilen maden atık yığınlarından biri (Tip 7), aşırı yağışlar ve altındaki gizli su kaynakları nedeniyle dengesini kaybetti. Saat 09:15'te, 100 bin tondan fazla kömür çamuru ve kaya parçası, saatte 30 kilometre hızla kasabaya doğru kaymaya başladı. İlk hedef Pantglas Ortaokulu'ydu. Çocuklar sınıflarında derslerine yeni başlamışken, okul devasa bir siyah yığının altında kaldı. Bu bir doğal afet değil, uyarılara kulak asmayan bir sanayi devinin (Ulusal Kömür Kurulu) neden olduğu bir katliamdı.\n\n### Sekiz Günlük Sessizlik ve Monarşi Krizi\nDizi, Kraliçe'nin felaket karşısındaki mesafeli duruşunu işlerken tarihi bir gerçeğe dayanır. Danışmanları ve hükümet, Kraliçe'nin bölgeye gitmesinin kurtarma çalışmalarını aksatacağını savundu. Ancak Kraliçe Elizabeth II, bu tavsiyeye uyarak bölgeye ancak 8 gün sonra gitti. Oysa eşi Prens Philip ve Başbakan Wilson çoktan olay yerine ulaşmıştı. Bu gecikme, monarşinin halkın acısına ne kadar uzak kalabileceğine dair bir sembole dönüştü. Kraliçe, yıllar sonra bu kararı hayatının en büyük hatası ve pişmanlığı olarak nitelendirecekti. O gün Aberfan'da döktüğü gözyaşları, sadece bir kasabanın değil, bir monarkın halkıyla olan bağının da sınavıydı.\n\n### İhmal, Yolsuzluk ve Adalet Arayışı\nFelaketten sonra kurulan Davies Komisyonu, Ulusal Kömür Kurulu'nun (NCB) yığının tehlikeli olduğunu bildiğini ancak maliyetleri düşürmek için hiçbir önlem almadığını ortaya çıkardı. Daha da kötüsü, NCB başkanı Lord Robens başlangıçta suçu aşırı yağmura atarak sorumluluktan kaçmaya çalıştı. Felaket kurbanlarının ailelerine verilen tazminatlar komik düzeydeydi ve NCB, atık yığınlarının kaldırılması için kurbanların bağış fonlarından bile para kesmeye çalıştı. Aberfan, sadece bir maden kazası değil, devlet kurumlarının halkın canını kâra kurban ettiği bir sistemik çöküşün adıdır.\n\n### Aberfan'ın Mirası: Güvenlik Yasaları\nBu trajedi, İngiltere'de maden güvenliği ve endüstriyel atık yönetimi konularında devrim niteliğinde yasaların (Mines and Quarries - Tips Act 1969) çıkmasını sağladı. Bugün Aberfan, hem Galler halkının hafızasında derin bir yara hem de 'kurumsal ihmalin' evrensel bir simgesidir. Kasabadaki anıt mezarlık ve her yıl yapılan anma törenleri, bir neslin yok oluşunun asla unutulmayacağının kanıtıdır. Kraliçe, saltanatı boyunca Aberfan'ı dört kez daha ziyaret ederek bu yarayı sarmaya çalışmıştır.",
     "whyItMatters": "Aberfan, sanayi devriminin getirdiği ihmallerin ve kriz anında liderliğin öneminin bir simgesidir.",
     "sources": [
       {
@@ -9327,7 +9327,7 @@
     "mediaType": "series",
     "mediaTitle": "The Crown",
     "difficulty": "deep",
-    "readingTimeMinutes": 1,
+    "readingTimeMinutes": 4,
     "verificationStatus": "verified",
     "sourceQuality": "strong",
     "themes": [
@@ -9335,7 +9335,7 @@
       "Siyaset",
       "İngiltere"
     ],
-    "isFlagship": false,
+    "isFlagship": true,
     "accuracyType": "real",
     "spoilerLevel": "none",
     "tags": [
@@ -9346,7 +9346,7 @@
     ],
     "quickRealityCheck": "The Crown dizisinde Başbakan Eden'ın sağlığını ve koltuğunu kaybettiği Süveyş Krizi, İngiltere'nin artık bir 'süper güç' olmadığını dünyaya ilan eden gerçek bir diplomatik intihardır.",
     "mediaChanged": "Dizi bu krizi bir 'erkeklik ve onur' meselesi gibi sunar. Gerçekte ise bu, ABD'nin onayı olmadan İngiltere'nin artık dünya siyasetinde tek başına hareket edemeyeceğinin kanıtlandığı stratejik bir kırılmadır.",
-    "realHistory": "1956'da Mısır lideri Cemal Abdünnasır, Süveyş Kanalı'nı millileştirince İngiltere, Fransa ve İsrail gizli bir ittifak kurarak Mısır'a saldırdı. Ancak bu 'eski dünya' operasyonu, ABD ve Sovyetler Birliği tarafından şiddetle kınandı. ABD Başkanı Eisenhower, İngiliz sterlinini çökerteceği tehdidini savurunca İngiltere geri çekilmek zorunda kaldı. Bu olay, İngiliz İmparatorluğu'nun tabutuna çakılan son çivi oldu. Başbakan Anthony Eden istifa etti ve İngiltere, dış politikasını tamamen ABD'ye endekslemek zorunda kaldı. Kraliçe Elizabeth II için bu kriz, saltanatının ilk büyük 'gerçek dünya' sınavıydı.",
+    "realHistory": "### Millileştirme ve Gizli Sevres Protokolü\n1956 yılında Mısır lideri Cemal Abdünnasır, Süveyş Kanalı'nı millileştirme kararı alınca, İngiltere ve Fransa bunu bir varoluşsal tehdit olarak algıladı. Kanal, hem deniz yolu ticareti hem de askeri strateji açısından hayati öneme sahipti. İngiltere Başbakanı Anthony Eden, Nasır'ı 'Müslüman bir Hitler' olarak nitelendiriyor ve onun devrilmesini istiyordu. Ancak ABD Başkanı Eisenhower, diplomasiden yanaydı. Bunun üzerine İngiltere, Fransa ve İsrail, tarihe 'Sevres Protokolü' olarak geçecek gizli bir anlaşma yaptılar. Plana göre İsrail Mısır'a saldıracak, İngiltere ve Fransa ise 'kanalı korumak için barış gücü' adı altında müdahale edecekti. Bu, tarihin en büyük diplomatik kumpaslarından biriydi.\n\n### ABD'nin Ekonomik Kırbacı\nOperasyon başladığında askeri olarak başarılı olunsa da, diplomatik ve ekonomik olarak tam bir felaket yaşandı. ABD Başkanı Eisenhower, müttefiklerinin kendisine haber vermeden böyle bir maceraya atılmasına çok öfkelendi. ABD, BM üzerinden İngiltere'ye ateşkes baskısı yaparken, çok daha etkili bir silah kullandı: Ekonomik yaptırım. ABD, İngiliz sterlinini piyasaya sürerek çökertme ve İngiltere'nin IMF kredilerini bloke etme tehdidinde bulundu. İngiltere, askeri olarak kazandığı bir sahada, ekonomik olarak diz çökerek çekilmek zorunda kaldı. Bu durum, finansal gücün askeri güçten daha etkili olabildiğinin ilk büyük örneğidir.\n\n### Süper Güçlerin Yeni Düzeni\nSüveyş Krizi, dünyanın artık 'Avrupa merkezli' olmadığını kesinleştirdi. İngiltere ve Fransa geri çekilirken, dünya siyasetine ABD ve Sovyetler Birliği'nin (ve nükleer caydırıcılığın) hakim olduğu yeni bir dönem başladı. Mısır'da Nasır, askeri olarak yenilmesine rağmen diplomatik olarak devleşti ve Pan-Arabizm'in kahramanı oldu. İngiltere için ise bu kriz, 'Güneş Batmayan İmparatorluk' imajının nihai çöküşüydü. Bu olaydan sonra İngiltere, dış politikasını tamamen ABD ile uyumlu hale getirmeye (Special Relationship) odaklanmak zorunda kaldı.\n\n### Eden’ın İstifası ve Kraliçe'nin Sınavı\nBaşbakan Anthony Eden, hem bozulan sağlığı hem de meclisteki ağır eleştiriler sonucunda istifa etmek zorunda kaldı. Kraliçe Elizabeth II için bu kriz, monarşinin siyaset üzerindeki sınırlı etkisini ve başbakanların kararlarının imparatorluğun kaderini nasıl bir gecede değiştirebileceğini gördüğü ilk büyük ders oldu. Süveyş, sadece bir kanalın mülkiyeti değil, 19. yüzyılın emperyalist mantığının 20. yüzyılın gerçeklerine çarpıp parçalandığı andır.",
     "whyItMatters": "Süveyş Krizi, 20. yüzyılda küresel güç dengesinin Avrupa'dan ABD ve Sovyetlere geçtiği kesin andır.",
     "sources": [
       {

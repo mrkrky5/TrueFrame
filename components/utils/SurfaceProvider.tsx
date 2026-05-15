@@ -24,6 +24,11 @@ function SurfaceInner({ children }: { children: React.ReactNode }) {
   const [mode, setMode] = useState<SurfaceMode>("website");
 
   useEffect(() => {
+    document.body.classList.remove("is-app", "is-website");
+    document.body.classList.add(`is-${mode}`);
+  }, [mode]);
+
+  useEffect(() => {
     const surfaceParam = searchParams.get("surface");
     
     if (surfaceParam === "app") {

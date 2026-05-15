@@ -145,9 +145,20 @@ html {
     position: fixed !important;
     left: 0 !important;
     right: 0 !important;
-    top: calc(var(--app-safe-top, 20px) + 16px) !important; /* Increased from 12px */
-    z-index: 80 !important;
+    z-index: 90 !important; /* Below DesktopTopNav (100) */
     pointer-events: none !important;
+    transition: top 0.5s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    top: calc(var(--app-safe-top, 20px) + 16px) !important;
+  }
+
+  /* Website Mode Adjustment: Place below nav by default */
+  body.is-website .detail-floating-controls-safe {
+    top: 80px !important; /* 64px Nav + 16px Padding */
+  }
+
+  /* When reading starts and Nav is hidden */
+  body.hide-main-nav .detail-floating-controls-safe {
+    top: calc(var(--app-safe-top, 0px) + 16px) !important;
   }
 
   .reader-canvas {

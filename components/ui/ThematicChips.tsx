@@ -7,6 +7,7 @@ import { HistoryCard as IHistoryCard } from "@/types";
 
 import { useLocale } from "@/hooks/useLocale";
 import { useDictionary } from "@/components/utils/DictionaryProvider";
+import { useSurface } from "@/components/utils/SurfaceProvider";
 
 const THEMES = [
   { 
@@ -62,6 +63,7 @@ const THEMES = [
 export default function ThematicChips({ cards = [] }: { cards?: IHistoryCard[] }) {
   const locale = useLocale();
   const dictionary = useDictionary();
+  const { isWebsite } = useSurface();
 
   // Filter themes that have at least one card in the current locale
   const activeThemes = useMemo(() => {
@@ -79,7 +81,7 @@ export default function ThematicChips({ cards = [] }: { cards?: IHistoryCard[] }
       <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-neutral-600 mb-5 flex items-center gap-2">
         <Sparkles size={12} className="text-brand-secondary" fill="currentColor" /> {dictionary.common.thematicExploration}
       </h2>
-      <div className="flex overflow-x-auto pb-4 -mx-6 px-6 no-scrollbar gap-2 snap-x">
+      <div className={`flex ${isWebsite ? "flex-wrap pb-0" : "overflow-x-auto no-scrollbar -mx-6 px-6 pb-4 snap-x"} lg:flex-wrap lg:overflow-x-visible lg:px-0 lg:mx-0 gap-2`}>
         {activeThemes.map((theme) => {
           const themeId = locale === 'tr' ? theme.trId : theme.enId;
           return (

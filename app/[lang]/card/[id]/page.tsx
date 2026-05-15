@@ -13,7 +13,23 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   const { lang, id } = await params;
   const cards = await getCards(lang as Locale);
   const ALIAS_MAP: Record<string, string> = {
-    "ac-mirage-baghdad": "house-wisdom-baghdad"
+    "ac-mirage-baghdad": "house-wisdom-baghdad",
+    "crown-aberfan": "the-crown-aberfan-tragedy-real",
+    "crown-suez-crisis": "the-crown-suez-crisis-empire-end",
+    "oppenheimer-hearing-1954": "oppenheimer-gray-board-1954-real",
+    "oppenheimer-downwinders": "oppenheimer-rad-downwinders",
+    "mafia-rico-law": "mafia-rico-law-impact-real",
+    "mafia-immigration": "mafia-immigration-crime",
+    "rome-collapse-attila": "total-war-attila-collapse",
+    "constantinople-1453": "constantinople-fall-turning-new",
+    "mesopotamia-banking": "mesopotamian-markets-new",
+    "mongol-yam-system": "aoe4-mongol-logistics",
+    "medieval-castles-power": "aoe2-castles-politics",
+    "medieval-justice-kcd": "kcd2-medieval-law",
+    "last-emperor-eunuchs": "last-emperor-forbidden-city-eunuchs-real",
+    "crown-empire-transition": "crown-commonwealth-empire",
+    "last-samurai-satsuma": "last-samurai-rebellion",
+    "chernobyl-pripyat-evacuation-real": "chernobyl-pripyat-delay"
   };
   const actualId = ALIAS_MAP[id] || id;
   const card = cards.find((c) => c.id === actualId);
@@ -49,7 +65,23 @@ export default async function HistoryCardDetailPage({ params }: { params: Promis
   const { lang, id } = await params;
   const cards = await getCards(lang as Locale);
   const ALIAS_MAP: Record<string, string> = {
-    "ac-mirage-baghdad": "house-wisdom-baghdad"
+    "ac-mirage-baghdad": "house-wisdom-baghdad",
+    "crown-aberfan": "the-crown-aberfan-tragedy-real",
+    "crown-suez-crisis": "the-crown-suez-crisis-empire-end",
+    "oppenheimer-hearing-1954": "oppenheimer-gray-board-1954-real",
+    "oppenheimer-downwinders": "oppenheimer-rad-downwinders",
+    "mafia-rico-law": "mafia-rico-law-impact-real",
+    "mafia-immigration": "mafia-immigration-crime",
+    "rome-collapse-attila": "total-war-attila-collapse",
+    "constantinople-1453": "constantinople-fall-turning-new",
+    "mesopotamia-banking": "mesopotamian-markets-new",
+    "mongol-yam-system": "aoe4-mongol-logistics",
+    "medieval-castles-power": "aoe2-castles-politics",
+    "medieval-justice-kcd": "kcd2-medieval-law",
+    "last-emperor-eunuchs": "last-emperor-forbidden-city-eunuchs-real",
+    "crown-empire-transition": "crown-commonwealth-empire",
+    "last-samurai-satsuma": "last-samurai-rebellion",
+    "chernobyl-pripyat-evacuation-real": "chernobyl-pripyat-delay"
   };
 
   const actualId = ALIAS_MAP[id] || id;

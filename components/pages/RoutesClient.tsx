@@ -73,7 +73,7 @@ export default function RoutesClient({ routes, cards: allCards, locale, dictiona
             <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-neutral-400 mb-6 flex items-center gap-3">
               {t('continueJourney')} <span className="flex-1 h-px bg-black/5"></span>
             </h2>
-            <div className={`grid gap-4 ${isWebsite ? "grid-cols-1 md:grid-cols-2 lg:grid-cols-3" : "space-y-4"}`}>
+            <div className={`grid gap-4 ${isWebsite ? (activeRoutes.length === 1 ? "grid-cols-1 max-w-md mx-auto" : "grid-cols-1 md:grid-cols-2 lg:grid-cols-3") : "space-y-4"}`}>
               {activeRoutes.map((route) => {
                 const IconComponent = (LucideIcons as any)[route.icon] || LucideIcons.Map;
                 return (

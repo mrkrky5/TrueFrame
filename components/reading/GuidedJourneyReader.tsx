@@ -21,9 +21,11 @@ interface GuidedJourneyReaderProps {
 import { useLocale } from "@/hooks/useLocale";
 import ShareButton from "@/components/ui/ShareButton";
 import SaveButton from "@/components/ui/SaveButton";
+import { useSurface } from "@/components/utils/SurfaceProvider";
 
 export default function GuidedJourneyReader({ card, learningState, similarCards, allCards, readIds, dictionary, onComplete }: GuidedJourneyReaderProps) {
   const locale = useLocale();
+  const { isWebsite } = useSurface();
   const blocks = useMemo(() => deriveCardBlocks(card, dictionary), [card, dictionary]);
   const [currentStep, setCurrentStep] = useState(0);
   const [isCompleted, setIsCompleted] = useState(false);
@@ -121,8 +123,8 @@ export default function GuidedJourneyReader({ card, learningState, similarCards,
   return (
     <div ref={containerRef} className="relative flex flex-col">
       {/* Minimal Header for Progress */}
-      <div className="fixed top-0 left-0 right-0 z-60 pointer-events-none">
-        <div className="max-w-lg mx-auto pt-4 px-6 safe-area-top mt-16">
+      <div className="fixed top-0 left-0 right-0 z-60 pointer-events-none transition-all duration-500">
+        <div className="max-w-lg mx-auto px-6 pt-4">
           <div className="bg-white/80 backdrop-blur-md rounded-full py-1.5 px-4 shadow-sm border border-black/5 flex items-center justify-between pointer-events-auto max-w-[140px] mx-auto">
             <div
               role="progressbar"
@@ -146,7 +148,7 @@ export default function GuidedJourneyReader({ card, learningState, similarCards,
 
       {/* Main Content Area */}
       <main
-        className="flex-1 pt-28 animate-in fade-in slide-in-from-bottom-4 duration-700"
+        className={`flex-1 animate-in fade-in slide-in-from-bottom-4 duration-700 ${isWebsite ? "pt-24" : "pt-36"}`}
         style={{ paddingBottom: 'calc(env(safe-area-inset-bottom, 20px) + 160px)' }}
       >
         <div className="px-6">

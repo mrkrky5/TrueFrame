@@ -7,6 +7,7 @@ import { Info, AlertTriangle, BookOpen, ExternalLink, ArrowRight, CheckCircle2, 
 import Link from "next/link";
 import Image from "next/image";
 import ReadReflection from "@/components/learning/ReadReflection";
+import { useSurface } from "@/components/utils/SurfaceProvider";
 
 interface StandardLiteReaderProps {
   card: HistoryCard;
@@ -21,10 +22,11 @@ import { useLocale } from "@/hooks/useLocale";
 
 export default function StandardLiteReader({ card, learningState, similarCards, allCards, readIds, dictionary }: StandardLiteReaderProps) {
   const locale = useLocale();
+  const { isWebsite } = useSurface();
   const { getReflections, toggleReflection } = learningState;
 
   return (
-    <div className="space-y-10 pb-20 pt-4">
+    <div className={`space-y-10 pb-20 ${isWebsite ? "pt-0" : "pt-4"}`}>
       {/* Reality Summary */}
       <section className="archival-muted-bg rounded-4xl p-7 archival-border-double shadow-sm space-y-4 relative overflow-hidden">
         <div className="absolute top-0 right-0 w-32 h-32 bg-brand-secondary/5 rounded-full -mr-16 -mt-16" />
@@ -72,9 +74,28 @@ export default function StandardLiteReader({ card, learningState, similarCards, 
                      !text.startsWith('### kaynakça') && 
                      !text.startsWith('### sources');
             })
-            .map((p, i) => (
-              <p key={i}>{p.trim()}</p>
-            ))}
+            .map((p, i) => {
+              const trimmed = p.trim();
+              if (trimmed.startsWith('### ')) {
+                return (
+                  <h3 key={i} className="text-xl font-bold text-neutral-900 mt-8 mb-4 border-l-4 border-brand-secondary pl-4 font-serif">
+                    {trimmed.replace('### ', '').trim()}
+                  </h3>
+                );
+              }
+              if (trimmed.startsWith('* ') || trimmed.startsWith('- ')) {
+                return (
+                  <ul key={i} className="list-disc pl-6 space-y-2 mb-4">
+                    {trimmed.split('\n').map((li, liIndex) => (
+                      <li key={liIndex} className="text-neutral-800 leading-relaxed">
+                        {li.replace(/^[\*\-]\s+/, '').trim()}
+                      </li>
+                    ))}
+                  </ul>
+                );
+              }
+              return <p key={i}>{trimmed}</p>;
+            })}
         </div>
       </section>
 

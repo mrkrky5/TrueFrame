@@ -5602,7 +5602,7 @@
     "quickRealityCheck": "True. The Industrial Revolution fundamentally permanently changed the human relationship with time, labor, and the environment."
   },
   {
-    "id": "oppenheimer-hearing-1954",
+    "id": "oppenheimer-gray-board-1954-real",
     "title": "The 1954 Security Hearing: Oppenheimer's Fall",
     "subtitle": "McCarthyism and the Father of the Atomic Bomb",
     "mediaType": "film",
@@ -5656,7 +5656,7 @@
     "quickRealityCheck": "The 'Gray Board' hearing was a real event that effectively ended Oppenheimer's career as a government advisor."
   },
   {
-    "id": "oppenheimer-downwinders",
+    "id": "oppenheimer-rad-downwinders",
     "title": "The Downwinders: The Unseen Cost of Trinity",
     "subtitle": "Radioactive fallout and the forgotten neighbors",
     "mediaType": "film",
@@ -5759,7 +5759,7 @@
     "quickRealityCheck": "True. Civil defense programs were a cornerstone of Cold War social policy."
   },
   {
-    "id": "crown-suez-crisis",
+    "id": "the-crown-suez-crisis-empire-end",
     "title": "The Suez Crisis: The End of Global Empire",
     "subtitle": "1956 and the collapse of Anglo-French prestige",
     "mediaType": "series",
@@ -5771,7 +5771,7 @@
       "Politics",
       "UK"
     ],
-    "realHistory": "The 1956 Suez Crisis was the definitive signal that Britain and France were no longer the world's primary superpowers. After Egypt nationalized the Suez Canal, a secret tripartite invasion was launched. However, pressure from the USA and USSR forced a humiliating withdrawal. This event accelerated decolonization and signaled the shift of power to Washington and Moscow, a central theme in the early seasons of The Crown.",
+    "realHistory": "### The Nationalization and the Sèvres Protocol\nIn 1956, Egyptian leader Gamal Abdel Nasser nationalized the Suez Canal, a move that Britain and France viewed as an existential threat to their maritime interests and imperial prestige. Prime Minister Anthony Eden, obsessed with stopping what he saw as an 'Arab Hitler,' entered into a clandestine agreement known as the Protocol of Sèvres with France and Israel. The plan was a classic piece of colonial-era duplicity: Israel would invade the Sinai, and Britain and France would then intervene as 'peacekeepers' to protect the canal. This conspiracy remains one of the most controversial diplomatic maneuvers in modern history.\n\n### The US Economic Hammer\nWhile the military operation was a tactical success, it was a strategic catastrophe. US President Dwight D. Eisenhower was furious that his closest allies had bypassed him. Washington didn't just use diplomatic pressure; they used the dollar. The US threatened to sell off the British Pound, which would have triggered a total collapse of the British economy, and blocked critical IMF loans. This forced a humiliating withdrawal. It was a stark lesson in the new world order: financial hegemony had superseded colonial muscle, and Britain could no longer act independently of American approval.\n\n### A New Superpower Reality\nThe Suez Crisis was the final nail in the coffin of the 'Old World' empires. As British and French forces retreated, the vacuum was filled by the United States and the Soviet Union, marking the beginning of a bipolar world defined by the Cold War. In Egypt, Nasser emerged as a hero of the Pan-Arab movement, despite the military defeat. For Britain, the crisis led to the rapid acceleration of decolonization across Africa and Asia. From this point forward, the 'Special Relationship' with the US became the cornerstone of British foreign policy—not as an equal partner, but as a junior ally.\n\n### The Fall of Eden and the Queen's Lesson\nPrime Minister Anthony Eden's health and career collapsed under the weight of the scandal, leading to his resignation. For a young Queen Elizabeth II, the crisis served as a brutal introduction to the realities of post-war power. She witnessed firsthand how quickly an empire's prestige could vanish when it ignored the shifting tides of history. Suez was more than just a dispute over a waterway; it was the moment the 19th century finally died, giving way to the complex, nuclear-armed reality of the late 20th century.",
     "accuracyNote": "The Crown depicts the political fallout for Prime Minister Anthony Eden with high historical fidelity.",
     "nextTopics": [
       "Gamal Abdel Nasser",
@@ -5794,7 +5794,7 @@
       "crown-empire-transition"
     ],
     "difficulty": "deep",
-    "readingTimeMinutes": 1,
+    "readingTimeMinutes": 4,
     "verificationStatus": "Verified",
     "sourceQuality": "Strong",
     "spoilerLevel": "none",
@@ -5809,11 +5809,11 @@
     ],
     "mediaChanged": "The series focuses on the personal and domestic political impact, while the global shift was even more profound.",
     "whyItMatters": "Suez marked the moment the 'Old World' empires finally gave way to the Superpower era.",
-    "isFlagship": false,
+    "isFlagship": true,
     "quickRealityCheck": "True. The crisis forced a humiliating retreat for the British and French forces."
   },
   {
-    "id": "crown-aberfan",
+    "id": "the-crown-aberfan-tragedy-real",
     "title": "The Aberfan Disaster: A National Mourning",
     "subtitle": "When industry, negligence, and nature collided",
     "mediaType": "series",
@@ -5858,7 +5858,7 @@
     ],
     "mediaChanged": "The Queen's delay was a point of significant criticism in reality, which the series explores deeply.",
     "whyItMatters": "Aberfan is a somber lesson in the human cost of industrial negligence.",
-    "isFlagship": false,
+    "isFlagship": true,
     "quickRealityCheck": "True. The disaster remains one of the darkest days in 20th-century British history."
   },
   {
@@ -6014,7 +6014,7 @@
     "quickRealityCheck": "True. The concept of 'being late' didn't exist in the same way before the factory clock."
   },
   {
-    "id": "mafia-rico-law",
+    "id": "mafia-rico-law-impact-real",
     "title": "The RICO Act: Ending the Mob's Golden Age",
     "subtitle": "How the law finally broke the 'Five Families'",
     "mediaType": "game",
@@ -6068,7 +6068,7 @@
     "quickRealityCheck": "True. RICO allowed the prosecution of an entire organization as a single criminal entity."
   },
   {
-    "id": "mafia-immigration",
+    "id": "mafia-immigration-crime",
     "title": "Mafia Origins: Poverty and the New World",
     "subtitle": "From Sicilian villages to American cities",
     "mediaType": "game",
@@ -6117,7 +6117,7 @@
     "quickRealityCheck": "True. The Mafia was a response to the lack of legal and social protection for Italian immigrants."
   },
   {
-    "id": "rome-collapse-attila",
+    "id": "total-war-attila-collapse",
     "title": "The Collapse: Rome and the Scourge of God",
     "subtitle": "Total War: Attila and the end of the ancient world",
     "mediaType": "game",
@@ -6166,7 +6166,7 @@
     "quickRealityCheck": "True. The arrival of the Huns triggered a domino effect that collapsed Roman authority in the West."
   },
   {
-    "id": "constantinople-1453",
+    "id": "constantinople-fall-turning-new",
     "title": "The Last Walls: The Fall of Constantinople",
     "subtitle": "1453 and the birth of the gunpowder era",
     "mediaType": "game",
@@ -6215,7 +6215,7 @@
     "quickRealityCheck": "True. 1453 is one of the most significant dates in world history, marking the end of the Roman legacy."
   },
   {
-    "id": "mesopotamia-banking",
+    "id": "mesopotamian-markets-new",
     "title": "The First Banks: Temples and Grain",
     "subtitle": "Mesopotamia's legacy of complex markets",
     "mediaType": "general",
@@ -6264,7 +6264,7 @@
     "quickRealityCheck": "True. Temples were the safest and most trusted institutions for financial transactions in antiquity."
   },
   {
-    "id": "mongol-yam-system",
+    "id": "aoe4-mongol-logistics",
     "title": "The Yam System: The First High-Speed Network",
     "subtitle": "Genghis Khan's pony express and global communication",
     "mediaType": "game",
@@ -6313,7 +6313,7 @@
     "quickRealityCheck": "True. The Yam was the fastest communication network in the pre-industrial world."
   },
   {
-    "id": "medieval-castles-power",
+    "id": "aoe2-castles-politics",
     "title": "Castles: More Than Just Fortresses",
     "subtitle": "The administrative heart of feudalism",
     "mediaType": "game",
@@ -6362,7 +6362,7 @@
     "quickRealityCheck": "True. Most castles saw very few actual sieges during their lifespan."
   },
   {
-    "id": "medieval-justice-kcd",
+    "id": "kcd2-medieval-law",
     "title": "Medieval Justice: Trials and Ordeals",
     "subtitle": "Kingdom Come: Deliverance and the law of the 1400s",
     "mediaType": "game",
@@ -6411,7 +6411,7 @@
     "quickRealityCheck": "True. Justice was decentralized and often depended on the mercy of the local lord."
   },
   {
-    "id": "last-emperor-eunuchs",
+    "id": "last-emperor-forbidden-city-eunuchs-real",
     "title": "The Forbidden City: Power of the Eunuchs",
     "subtitle": "The end of a 2,000-year bureaucratic class",
     "mediaType": "film",
@@ -6465,7 +6465,7 @@
     "quickRealityCheck": "True. The eunuch system was an essential (and eventually terminal) part of Chinese imperial governance."
   },
   {
-    "id": "crown-empire-transition",
+    "id": "crown-commonwealth-empire",
     "title": "The Commonwealth: Transition from Empire",
     "subtitle": "The Crown and the end of the British Raj",
     "mediaType": "series",
@@ -6514,7 +6514,7 @@
     "quickRealityCheck": "True. The transition to the Commonwealth saved the Monarchy from becoming an obsolete imperial relic."
   },
   {
-    "id": "band-of-brothers-hedgerows",
+    "id": "band-of-brothers-hedgerows-real",
     "title": "The Hedgerow War: Normandy's Green Labyrinth",
     "subtitle": "Band of Brothers and the Battle of the Bocage",
     "mediaType": "series",
@@ -6563,7 +6563,7 @@
     "quickRealityCheck": "True. The hedgerows were Normandy's most effective natural defense."
   },
   {
-    "id": "last-samurai-satsuma",
+    "id": "last-samurai-rebellion",
     "title": "The Satsuma Rebellion: The Last Stand",
     "subtitle": "The real history behind 'The Last Samurai'",
     "mediaType": "film",
@@ -6906,7 +6906,7 @@
     "quickRealityCheck": "True. The term 'Biorobot' was a real, chilling bureaucratic label used at the time."
   },
   {
-    "id": "chernobyl-pripyat-evacuation-real",
+    "id": "chernobyl-pripyat-delay",
     "title": "Pripyat: The 36-Hour Silence",
     "subtitle": "The delayed evacuation and the invisible death",
     "mediaType": "series",
@@ -7451,8 +7451,8 @@
   },
   {
     "id": "ghost-samurai-reality",
-    "title": "Samurai Warfare: Duel vs. Tactic",
-    "subtitle": "Honorable standoffs and the Mongol collision",
+    "title": "Samurai Reality: Honor or Pragmatism?",
+    "subtitle": "Ghost of Tsushima and the real world of the Shogun.",
     "mediaType": "game",
     "mediaTitle": "Ghost of Tsushima",
     "era": "Feudal Japan",
@@ -7462,7 +7462,7 @@
       "War",
       "Japan"
     ],
-    "realHistory": "Traditional 13th-century Japanese warfare was centered around individual 'Standoffs' (Meigen), where warriors would shout their lineage and challenge opponents to single combat. This changed forever during the Mongol invasions. The Mongols fought as a disciplined, collective unit using gunpowder bombs (Tetsuhau) and coordinated arrow storms directed by drums. The samurai were forced to adapt, moving away from individual duels toward fortified defenses and mounted archery. Interestingly, the 'Katana' didn't yet exist in its modern form; Jin Sakai would have likely used a 'Tachi,' a longer and more curved blade designed for cavalry.",
+    "realHistory": "### 1274: Kamakura Era Warriors\n*Ghost of Tsushima* portrays the samurai using the romanticized 'Bushido' rules of the 19th century (fighting face-to-face with only a sword). However, during the actual Mongol invasions of 1274, samurai were primarily master horse archers. Honor was measured by loyalty to one's lord (daimyo) and success on the battlefield, rather than a specific method of killing. While the samurai were initially shocked by the Mongols' collective tactics and gunpowder weapons, they adapted rapidly, using brutal and highly pragmatic methods to repel the invaders.\n\n### Bushido: A Peacetime Invention\nMany of the rigid codes of honor emphasized in the game were actually popularized during the peaceful Edo Period (1603–1868) to create a distinct class identity for warriors who were no longer fighting. For a Kamakura-era samurai, 'stealth' or 'assassination' were not sources of shame but valued military skills. The famous strategist Kusunoki Masashige is still celebrated today as a hero for using traps and ambushes to defeat superior forces. Thus, Jin Sakai's internal struggle over becoming 'The Ghost' is more of a modern narrative device than a historical reality.\n\n### Weapons and Armor\nThe iconic 'Katana' seen in the game had not yet become the standard sidearm in the 13th century. Warriors of that era used the 'Tachi,' a more curved sword designed for use on horseback. Armor (O-yoroi) was a complex combination of leather and metal plates designed to withstand arrow storms rather than just sword blows. While the game's armor designs are visually stunning, most reflect technologies from several centuries later (the Sengoku Period).\n\n### The Strategic Role of Tsushima\nTsushima Island was indeed the first victim of the Mongol onslaught. However, the invasion was stopped not by a small band of rebels, but by the mobilization of thousands of warriors from across Japan. Whether the samurai could have held out without the 'Kamikaze' (Divine Wind) typhoons that destroyed the Mongol fleets remains a subject of intense debate among historians. Nevertheless, this conflict birthed the myth of Japanese 'invincibility' and solidified the samurai class's authority for centuries to come.",
     "accuracyNote": "Ghost of Tsushima uses Jin's struggle to reflect the historical shift from traditional to pragmatic warfare, though it takes creative liberty with the weaponry.",
     "nextTopics": [
       "The Tachi vs Katana",
@@ -7474,16 +7474,21 @@
         "title": "Samurai (Britannica)",
         "url": "https://www.britannica.com/topic/samurai",
         "type": "official"
+      },
+      {
+        "title": "Mongol Invasions (The Japan Society)",
+        "url": "https://www.japansociety.org.uk/",
+        "type": "academic"
       }
     ],
     "relatedCardIds": [
       "ghost-mongol-navy"
     ],
-    "difficulty": "medium",
-    "readingTimeMinutes": 1,
+    "difficulty": "deep",
+    "readingTimeMinutes": 4,
     "verificationStatus": "Verified",
     "sourceQuality": "Strong",
-    "spoilerLevel": "none",
+    "spoilerLevel": "minor",
     "mediaConnection": "This card explores the historical shift seen in 'Ghost of Tsushima'.",
     "accuracyType": "partly-real",
     "isPremium": false,
@@ -7495,7 +7500,7 @@
     ],
     "mediaChanged": "The game turns it into a personal moral choice; history shows it was a brutal necessity for national survival.",
     "whyItMatters": "This conflict gave birth to the 'Bushido' myth that later came to define the samurai identity.",
-    "isFlagship": false,
+    "isFlagship": true,
     "quickRealityCheck": "True. The Mongol invasion was the first time Japan faced a truly foreign military culture."
   },
   {

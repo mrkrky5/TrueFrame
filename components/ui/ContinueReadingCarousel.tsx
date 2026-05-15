@@ -7,6 +7,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { useLocale } from "@/hooks/useLocale";
 import { useDictionary } from "@/components/utils/DictionaryProvider";
+import { useSurface } from "@/components/utils/SurfaceProvider";
 
 interface ProgressItem {
   card: HistoryCard;
@@ -22,6 +23,7 @@ interface ContinueReadingCarouselProps {
 export default function ContinueReadingCarousel({ items }: ContinueReadingCarouselProps) {
   const locale = useLocale();
   const dictionary = useDictionary();
+  const { isWebsite } = useSurface();
   
   if (items.length === 0) {
     if (locale === 'en') {
@@ -50,57 +52,96 @@ export default function ContinueReadingCarousel({ items }: ContinueReadingCarous
         </h2>
       </div>
 
-      <div className="flex overflow-x-auto pb-6 -mx-6 px-6 no-scrollbar gap-4 snap-x">
+      <div className={isWebsite ? "flex flex-col gap-4" : "flex overflow-x-auto pb-6 -mx-6 px-6 no-scrollbar gap-4 snap-x"}>
         {items.map(({ card, progress, currentStep, totalSteps }) => (
           <Link
             key={card.id}
             href={`/${locale}/card/${card.id}`}
-            className="flex-none w-72 bg-white rounded-3xl p-5 border border-black/5 shadow-sm active:scale-95 transition-all snap-start group"
+            className={isWebsite 
+              ? "flex bg-white rounded-3xl p-4 border border-black/5 shadow-sm active:scale-[0.98] transition-all group gap-4 items-center" 
+              : "flex-none w-72 bg-white rounded-3xl p-5 border border-black/5 shadow-sm active:scale-95 transition-all snap-start group"
+            }
           >
-            <div className="flex gap-4 mb-4">
-              <div className="relative w-16 h-16 rounded-2xl overflow-hidden bg-neutral-100 shrink-0 border border-black/5">
-                {card.images?.thumbnail?.src ? (
-                  <Image 
-                    src={card.images.thumbnail.src} 
-                    alt={card.title}
-                    fill
-                    className="object-cover"
-                  />
-                ) : (
-                  <div className="w-full h-full flex items-center justify-center text-neutral-300">
-                    <Play size={20} />
+            {isWebsite ? (
+              // Desktop Sidebar Layout (Stacked)
+              <>
+                <div className="relative w-20 h-20 rounded-2xl overflow-hidden bg-neutral-100 shrink-0 border border-black/5">
+                  {card.images?.thumbnail?.src ? (
+                    <Image src={card.images.thumbnail.src} alt={card.title} fill className="object-cover" />
+                  ) : (
+                    <div className="w-full h-full flex items-center justify-center text-neutral-300">
+                      <Play size={20} />
+                    </div>
+                  )}
+                </div>
+                <div className="flex-1 min-w-0 space-y-2">
+                  <div className="flex justify-between items-start gap-2">
+                    <h4 className="text-sm font-bold text-neutral-900 leading-tight line-clamp-2 group-hover:text-brand-secondary transition-colors">
+                      {card.title}
+                    </h4>
+                    <span className="text-[10px] font-black text-brand-secondary tabular-nums shrink-0">
+                      {locale === 'tr' ? `%${Math.round(progress)}` : `${Math.round(progress)}%`}
+                    </span>
                   </div>
-                )}
-              </div>
-              <div className="flex-1 min-w-0 flex flex-col justify-center">
-                <h3 className="text-[11px] font-black uppercase tracking-tight text-neutral-600 line-clamp-1">
-                  {card.mediaTitle}
-                </h3>
-                <h4 className="text-sm font-bold text-neutral-900 leading-tight line-clamp-2 group-hover:text-brand-secondary transition-colors">
-                  {card.title}
-                </h4>
-              </div>
-            </div>
-
-            <div className="space-y-2">
-              <div className="flex justify-between items-end">
-                <span className="text-[9px] font-black text-neutral-600 uppercase tracking-widest">
-                  {card.isFlagship ? dictionary.common.deepDossier : dictionary.common.simpleRealityCheck}
-                </span>
-                <span className="text-[10px] font-black text-brand-secondary tabular-nums">
-                  {locale === 'tr' ? `%${Math.round(progress)}` : `${Math.round(progress)}%`}
-                </span>
-              </div>
-              <div className="h-1.5 w-full bg-neutral-50 rounded-full overflow-hidden border border-black/5">
-                <div 
-                  className="h-full bg-brand-secondary transition-all duration-1000 ease-out"
-                  style={{ width: `${progress}%` }}
-                />
-              </div>
-              <div className="pt-2 flex items-center justify-end gap-1 text-[9px] font-black uppercase tracking-widest text-neutral-950">
-                {card.isFlagship ? dictionary.common.continueAction : dictionary.common.keepReadingAction} <ArrowRight size={10} />
-              </div>
-            </div>
+                  <div className="h-1 w-full bg-neutral-50 rounded-full overflow-hidden border border-black/5">
+                    <div className="h-full bg-brand-secondary transition-all duration-1000 ease-out" style={{ width: `${progress}%` }} />
+                  </div>
+                  <div className="flex items-center justify-between text-[9px] font-black uppercase tracking-widest text-neutral-400">
+                    <span>{card.mediaTitle}</span>
+                    <span className="text-neutral-950 flex items-center gap-1 group-hover:text-brand-secondary transition-colors">
+                       {dictionary.common.continueAction} <ArrowRight size={10} />
+                    </span>
+                  </div>
+                </div>
+              </>
+            ) : (
+              // Mobile/App Carousel Layout
+              <>
+                <div className="flex gap-4 mb-4">
+                  <div className="relative w-16 h-16 rounded-2xl overflow-hidden bg-neutral-100 shrink-0 border border-black/5">
+                    {card.images?.thumbnail?.src ? (
+                      <Image 
+                        src={card.images.thumbnail.src} 
+                        alt={card.title}
+                        fill
+                        className="object-cover"
+                      />
+                    ) : (
+                      <div className="w-full h-full flex items-center justify-center text-neutral-300">
+                        <Play size={20} />
+                      </div>
+                    )}
+                  </div>
+                  <div className="flex-1 min-w-0 flex flex-col justify-center">
+                    <h3 className="text-[11px] font-black uppercase tracking-tight text-neutral-600 line-clamp-1">
+                      {card.mediaTitle}
+                    </h3>
+                    <h4 className="text-sm font-bold text-neutral-900 leading-tight line-clamp-2 group-hover:text-brand-secondary transition-colors">
+                      {card.title}
+                    </h4>
+                  </div>
+                </div>
+                <div className="space-y-2">
+                  <div className="flex justify-between items-end">
+                    <span className="text-[9px] font-black text-neutral-600 uppercase tracking-widest">
+                      {card.isFlagship ? dictionary.common.deepDossier : dictionary.common.simpleRealityCheck}
+                    </span>
+                    <span className="text-[10px] font-black text-brand-secondary tabular-nums">
+                      {locale === 'tr' ? `%${Math.round(progress)}` : `${Math.round(progress)}%`}
+                    </span>
+                  </div>
+                  <div className="h-1.5 w-full bg-neutral-50 rounded-full overflow-hidden border border-black/5">
+                    <div 
+                      className="h-full bg-brand-secondary transition-all duration-1000 ease-out"
+                      style={{ width: `${progress}%` }}
+                    />
+                  </div>
+                  <div className="pt-2 flex items-center justify-end gap-1 text-[9px] font-black uppercase tracking-widest text-neutral-950">
+                    {card.isFlagship ? dictionary.common.continueAction : dictionary.common.keepReadingAction} <ArrowRight size={10} />
+                  </div>
+                </div>
+              </>
+            )}
           </Link>
         ))}
       </div>

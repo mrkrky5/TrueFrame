@@ -133,8 +133,22 @@ export default function ContentBlockRenderer({ block, cardId, learningState, isA
               </div>
             </div>
           ) : (
-            <div className="leading-[1.8] font-serif text-[20px] whitespace-pre-wrap text-neutral-950 px-1">
-              {block.content}
+            <div className="leading-[1.8] font-serif text-[20px] text-neutral-950 px-1 space-y-4">
+              {block.content.split('\n\n').map((p: string, i: number) => {
+                const trimmed = p.trim();
+                if (trimmed.startsWith('* ') || trimmed.startsWith('- ')) {
+                  return (
+                    <ul key={i} className="list-disc pl-8 space-y-3 my-4">
+                      {trimmed.split('\n').map((li, liIndex) => (
+                        <li key={liIndex} className="text-neutral-900">
+                          {li.replace(/^[\*\-]\s+/, '').trim()}
+                        </li>
+                      ))}
+                    </ul>
+                  );
+                }
+                return <p key={i} className="whitespace-pre-wrap">{trimmed}</p>;
+              })}
             </div>
           )}
         </section>
