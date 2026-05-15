@@ -10,8 +10,9 @@ import { Search as SearchIcon, Compass, Filter, X, Sparkles, Flame, Layers } fro
 import { formatTag } from "@/utils/format";
 import Link from "next/link";
 import { Locale } from "@/lib/i18n-config";
-import EnglishPilotBanner from "@/components/ui/EnglishPilotBanner";
 import MissingMediaRequest from "@/components/ui/MissingMediaRequest";
+import ResponsivePageContainer from "@/components/layout/ResponsivePageContainer";
+import { useSurface } from "@/components/utils/SurfaceProvider";
 
 interface ExploreClientProps {
   cards: IHistoryCard[];
@@ -32,6 +33,7 @@ const TRENDING_SEARCHES = [
 
 function ExploreContent({ cards: allCards, locale, dictionary }: ExploreClientProps) {
   const router = useRouter();
+  const { isWebsite } = useSurface();
   const pathname = usePathname();
   const searchParams = useSearchParams();
   const tagParam = searchParams.get("tag");
@@ -160,8 +162,8 @@ function ExploreContent({ cards: allCards, locale, dictionary }: ExploreClientPr
   const isAnyFilterActive = activeFilterCount > 0 || searchQuery.length > 0;
 
   return (
-    <div className="min-h-screen bg-bg-main">
-      <div className="px-6 max-w-lg mx-auto">
+    <div className="min-h-screen bg-bg-main pb-20">
+      <ResponsivePageContainer className="pt-8">
         <header className="mb-10 mt-8">
           <div className="flex justify-between items-end mb-6">
             <div>
@@ -170,27 +172,38 @@ function ExploreContent({ cards: allCards, locale, dictionary }: ExploreClientPr
                 {dictionary.common.traceHistory}
               </p>
             </div>
-            <button
-              onClick={() => setShowFilters(!showFilters)}
-              aria-expanded={showFilters}
-              className={`flex items-center gap-2 px-4 py-2.5 rounded-xl transition-all text-[10px] font-black uppercase tracking-widest ${showFilters
-                  ? "bg-neutral-950 text-white"
-                  : activeFilterCount > 0
-                    ? "bg-brand-secondary/10 text-brand-secondary border border-brand-secondary/20 shadow-sm"
-                    : "bg-white border border-neutral-200 text-neutral-600 shadow-sm"
-                }`}
-            >
-              <Filter size={14} className={activeFilterCount > 0 ? "text-brand-secondary" : ""} />
-              {dictionary.common.filter}
-              {activeFilterCount > 0 && (
-                <span className={`ml-1 ${showFilters ? "text-white/60" : "text-brand-secondary"}`}>
-                  ({activeFilterCount})
-                </span>
-              )}
-            </button>
+            
+            <div className={isWebsite ? "hidden md:flex items-center gap-3" : "hidden"}>
+               <button
+                  onClick={() => setShowFilters(!showFilters)}
+                  className={`flex items-center gap-2 px-6 py-3 rounded-2xl transition-all text-[10px] font-black uppercase tracking-widest ${showFilters ? "bg-neutral-950 text-white" : "bg-white border border-neutral-200 text-neutral-600 shadow-sm"}`}
+               >
+                  <Filter size={14} /> {dictionary.common.filter} {activeFilterCount > 0 && `(${activeFilterCount})`}
+               </button>
+            </div>
+
+            <div className={isWebsite ? "md:hidden" : ""}>
+              <button
+                onClick={() => setShowFilters(!showFilters)}
+                aria-expanded={showFilters}
+                className={`flex items-center gap-2 px-4 py-2.5 rounded-xl transition-all text-[10px] font-black uppercase tracking-widest ${showFilters
+                    ? "bg-neutral-950 text-white"
+                    : activeFilterCount > 0
+                      ? "bg-brand-secondary/10 text-brand-secondary border border-brand-secondary/20 shadow-sm"
+                      : "bg-white border border-neutral-200 text-neutral-600 shadow-sm"
+                  }`}
+              >
+                <Filter size={14} className={activeFilterCount > 0 ? "text-brand-secondary" : ""} />
+                {dictionary.common.filter}
+                {activeFilterCount > 0 && (
+                  <span className={`ml-1 ${showFilters ? "text-white/60" : "text-brand-secondary"}`}>
+                    ({activeFilterCount})
+                  </span>
+                )}
+              </button>
+            </div>
           </div>
 
-          <EnglishPilotBanner locale={locale} />
 
           <div className="relative mb-6">
             <input
@@ -281,7 +294,7 @@ function ExploreContent({ cards: allCards, locale, dictionary }: ExploreClientPr
                   {dictionary.common.chooseMood}
                 </h3>
               </div>
-              <div className="grid grid-cols-2 gap-3">
+              <div className={`grid gap-3 ${isWebsite ? "grid-cols-2 md:grid-cols-3 lg:grid-cols-5" : "grid-cols-2"}`}>
                 {MOODS.map((mood) => (
                   <button
                     key={mood.id}
@@ -367,15 +380,15 @@ function ExploreContent({ cards: allCards, locale, dictionary }: ExploreClientPr
                   <Layers size={12} className="text-brand-secondary" /> {dictionary.common.featuredDossiers}
                 </h2>
               </div>
-              <div className="space-y-4">
-                {strongDossiers.slice(0, 3).map((dossier) => (
+              <div className={`grid gap-4 ${isWebsite ? "grid-cols-1 md:grid-cols-2 lg:grid-cols-3" : "space-y-4"}`}>
+                {strongDossiers.slice(0, 6).map((dossier) => (
                   <MediaDossierCard key={dossier.slug} dossier={dossier} />
                 ))}
               </div>
             </section>
           )}
 
-          <div className="grid grid-cols-1 gap-6">
+          <div className={`grid gap-6 ${isWebsite ? "grid-cols-1 md:grid-cols-2 lg:grid-cols-3" : "grid-cols-1"}`}>
             {filteredCards.map((card) => (
               <HistoryCard key={card.id} card={card} />
             ))}
@@ -403,7 +416,7 @@ function ExploreContent({ cards: allCards, locale, dictionary }: ExploreClientPr
             </div>
           )}
         </div>
-      </div>
+      </ResponsivePageContainer>
     </div>
   );
 }

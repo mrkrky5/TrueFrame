@@ -6,8 +6,8 @@ import { Locale } from "@/lib/i18n-config";
 import HistoryCardComponent from "@/components/ui/HistoryCard";
 import Link from "next/link";
 import { Bookmark, Clock, CheckCircle2 } from "lucide-react";
-import EnglishPilotBanner from "@/components/ui/EnglishPilotBanner";
 import FeedbackCard from "@/components/ui/FeedbackCard";
+import ResponsivePageContainer from "@/components/layout/ResponsivePageContainer";
 
 export default function SavedClient({ 
   allCards, 
@@ -28,13 +28,12 @@ export default function SavedClient({
   const isGlobalEmpty = savedCards.length === 0 && recentCards.length === 0 && readCards.length === 0;
 
   return (
-    <div className="px-6 max-w-lg mx-auto">
+    <ResponsivePageContainer className="pt-6 pb-20">
       <header className="mb-10 mt-6">
         <h1 className="text-3xl mb-2 font-serif">{t('title')}</h1>
         <p className="text-gray-400 font-medium text-sm">{t('subtitle')}</p>
       </header>
 
-      <EnglishPilotBanner locale={locale} />
 
       {isGlobalEmpty ? (
         <section className="mb-12 py-10 animate-in fade-in slide-in-from-bottom-4 duration-700">
@@ -142,6 +141,6 @@ export default function SavedClient({
       )}
 
       <FeedbackCard dictionary={dictionary} locale={locale} />
-    </div>
+    </ResponsivePageContainer>
   );
 }

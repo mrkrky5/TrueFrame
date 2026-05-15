@@ -11,6 +11,7 @@ import HistoryCardComponent from "@/components/ui/HistoryCard";
 import { formatMediaType, formatAccuracyType, formatTag } from "@/utils/format";
 import ShareButton from "@/components/ui/ShareButton";
 import { useHistory } from "@/hooks/useHistory";
+import ResponsivePageContainer from "@/components/layout/ResponsivePageContainer";
 
 export default function MediaDossierClient({ 
   initialDossier, 
@@ -93,8 +94,8 @@ export default function MediaDossierClient({
         </div>
       </header>
 
-      <main className="max-w-lg mx-auto">
-        <section className="pt-24 pb-8 px-6 text-center border-b border-black/5 relative overflow-hidden">
+      <main>
+        <ResponsivePageContainer className="pt-24 pb-8 text-center border-b border-black/5 relative overflow-hidden">
           <div className="absolute top-0 left-0 w-full h-full bg-linear-to-b from-brand-secondary/5 to-transparent pointer-events-none" />
           <div className="relative z-10">
             <div className="inline-flex items-center gap-2 px-3 py-1 bg-white border border-black/5 text-brand-secondary rounded-full text-[10px] font-black uppercase tracking-widest mb-6 shadow-sm">
@@ -130,10 +131,10 @@ export default function MediaDossierClient({
               </div>
             </div>
           </div>
-        </section>
+        </ResponsivePageContainer>
 
         {recommendedCard && (
-          <section className="px-6 -mt-8 mb-12 relative z-20">
+        <ResponsivePageContainer className="-mt-8 mb-12 relative z-20">
             <div className="bg-neutral-950 rounded-[2.5rem] p-6 shadow-2xl relative overflow-hidden group">
               <div className="absolute top-0 right-0 w-32 h-32 bg-brand-secondary/20 blur-3xl -mr-16 -mt-16 rounded-full" />
               <div className="relative z-10">
@@ -159,10 +160,10 @@ export default function MediaDossierClient({
                 </Link>
               </div>
             </div>
-          </section>
-        )}
+        </ResponsivePageContainer>
+      )}
 
-        <div className="px-6 space-y-10 mb-16">
+        <ResponsivePageContainer className="space-y-10 mb-16">
           <section>
             <div className="flex flex-col gap-1 mb-6">
               <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-neutral-400 flex items-center gap-3">
@@ -274,7 +275,7 @@ export default function MediaDossierClient({
               </div>
             </section>
           )}
-        </div>
+        </ResponsivePageContainer>
       </main>
     </div>
   );

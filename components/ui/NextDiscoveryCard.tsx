@@ -4,7 +4,7 @@ import React, { useMemo } from "react";
 import { HistoryCard } from "@/types";
 import { ArrowRight, Sparkles } from "lucide-react";
 import Link from "next/link";
-import { ENGLISH_PILOT_IDS } from "@/lib/i18n-config";
+import { ENGLISH_ACTIVE_IDS } from "@/lib/i18n-config";
 import { formatMediaType } from "@/utils/format";
 
 interface NextDiscoveryCardProps {
@@ -26,7 +26,7 @@ export default function NextDiscoveryCard({
     // 1. Filter candidates based on locale
     let candidates = allCards.filter(c => c.id !== currentCard.id);
     if (locale === 'en') {
-      candidates = candidates.filter(c => ENGLISH_PILOT_IDS.includes(c.id));
+      candidates = candidates.filter(c => ENGLISH_ACTIVE_IDS.includes(c.id));
     }
 
     // 2. Filter out already read cards if possible

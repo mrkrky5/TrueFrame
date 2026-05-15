@@ -67,6 +67,10 @@ export const viewport: Viewport = {
   themeColor: "#FAF9F6",
 };
 
+import { SurfaceProvider } from "@/components/utils/SurfaceProvider";
+import DesktopTopNav from "@/components/layout/DesktopTopNav";
+import MainShell from "@/components/layout/MainShell";
+
 export default async function LocalizedLayout({
   children,
   params,
@@ -79,18 +83,18 @@ export default async function LocalizedLayout({
 
   return (
     <div lang={lang} data-locale={lang} className="min-h-full">
-      <DictionaryProvider dictionary={dictionary}>
-        <div className="app-shell">
-          <div className="top-system-safe-area" />
-          <Onboarding />
-          <main className="app-scroll-area">
+      <SurfaceProvider>
+        <DictionaryProvider dictionary={dictionary}>
+          <DesktopTopNav locale={lang as Locale} dictionary={dictionary} />
+          <MainShell>
+            <Onboarding />
             {children}
-          </main>
-          <BottomNav />
-          <OfflineNotification />
-          <SWRegistration />
-        </div>
-      </DictionaryProvider>
+            <BottomNav />
+            <OfflineNotification />
+            <SWRegistration />
+          </MainShell>
+        </DictionaryProvider>
+      </SurfaceProvider>
     </div>
   );
 }

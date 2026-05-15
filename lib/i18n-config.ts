@@ -174,5 +174,4 @@ export const ENGLISH_ACTIVE_IDS = [
   "valiant-hearts-wwi"
 ];
 
-/** @deprecated Use ENGLISH_ACTIVE_IDS */
-export const ENGLISH_PILOT_IDS = ENGLISH_ACTIVE_IDS;
+// English V1 Content Library (166 Cards)

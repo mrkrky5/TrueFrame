@@ -16,6 +16,7 @@ import StandardLiteReader from "@/components/reading/StandardLiteReader";
 import ShareButton from "@/components/ui/ShareButton";
 import NextDiscoveryCard from "@/components/ui/NextDiscoveryCard";
 import { Locale } from "@/lib/i18n-config";
+import ResponsivePageContainer from "@/components/layout/ResponsivePageContainer";
 import { useRouter } from "next/navigation";
 
 interface CardClientProps {
@@ -158,7 +159,7 @@ export default function CardClient({ card, allCards, locale, dictionary }: CardC
       </div>
     )}
 
-      <div className={`px-6 relative z-20 max-w-lg mx-auto ${card.isFlagship && revealSpoiler ? "mt-0 pt-0" : "mt-10"}`}>
+      <ResponsivePageContainer maxWidth="prose" className={`relative z-20 ${card.isFlagship && revealSpoiler ? "mt-0 pt-0" : "mt-10"}`}>
         {card.isFlagship ? (
           <div className={!revealSpoiler ? "reader-canvas" : ""}>
             {!revealSpoiler ? (
@@ -232,9 +233,9 @@ export default function CardClient({ card, allCards, locale, dictionary }: CardC
             )}
           </div>
         )}
-      </div>
+      </ResponsivePageContainer>
 
-      <div className="max-w-lg mx-auto px-6 pb-20">
+      <ResponsivePageContainer maxWidth="prose" className="pb-20">
         {(!card.isFlagship || read) && (
           <NextDiscoveryCard 
             currentCard={card}
@@ -244,7 +245,7 @@ export default function CardClient({ card, allCards, locale, dictionary }: CardC
             dictionary={dictionary}
           />
         )}
-      </div>
+      </ResponsivePageContainer>
     </div>
   );
 }

@@ -7,7 +7,8 @@ import * as LucideIcons from "lucide-react";
 import React, { useMemo, useState, useEffect } from "react";
 import { Compass, Map as MapIcon, Layers, Clock, CheckCircle2, ChevronRight, Sparkles } from "lucide-react";
 import { Locale } from "@/lib/i18n-config";
-import EnglishPilotBanner from "@/components/ui/EnglishPilotBanner";
+import ResponsivePageContainer from "@/components/layout/ResponsivePageContainer";
+import { useSurface } from "@/components/utils/SurfaceProvider";
 
 interface RoutesClientProps {
   routes: ReadingRoute[];
@@ -18,6 +19,7 @@ interface RoutesClientProps {
 
 export default function RoutesClient({ routes, cards: allCards, locale, dictionary }: RoutesClientProps) {
   const { readIds } = useHistory();
+  const { isWebsite } = useSurface();
   const [mounted, setMounted] = useState(false);
   
   useEffect(() => {
@@ -53,8 +55,8 @@ export default function RoutesClient({ routes, cards: allCards, locale, dictiona
   }, [routeStats, activeRoutes]);
 
   return (
-    <div className="bg-bg-main min-h-screen">
-      <div className="px-6 max-w-lg mx-auto">
+    <div className="bg-bg-main min-h-screen pb-20">
+      <ResponsivePageContainer className="pt-6">
         <header className="mb-12 mt-6">
           <div className="inline-flex items-center gap-2 px-3 py-1 bg-brand-secondary/10 text-brand-secondary rounded-full text-[10px] font-black uppercase tracking-widest mb-6">
             <Compass size={12} /> {t('learningJourneys')}
@@ -65,14 +67,13 @@ export default function RoutesClient({ routes, cards: allCards, locale, dictiona
           </p>
         </header>
 
-        <EnglishPilotBanner locale={locale} />
 
         {mounted && activeRoutes.length > 0 && (
           <section className="mb-12">
             <h2 className="text-[10px] font-black uppercase tracking-[0.2em] text-neutral-400 mb-6 flex items-center gap-3">
               {t('continueJourney')} <span className="flex-1 h-px bg-black/5"></span>
             </h2>
-            <div className="space-y-4">
+            <div className={`grid gap-4 ${isWebsite ? "grid-cols-1 md:grid-cols-2 lg:grid-cols-3" : "space-y-4"}`}>
               {activeRoutes.map((route) => {
                 const IconComponent = (LucideIcons as any)[route.icon] || LucideIcons.Map;
                 return (
@@ -105,7 +106,7 @@ export default function RoutesClient({ routes, cards: allCards, locale, dictiona
             {t('allRoutes')} <span className="flex-1 h-px bg-black/5"></span>
           </h2>
           
-          <div className="space-y-6">
+          <div className={`grid gap-6 ${isWebsite ? "grid-cols-1 md:grid-cols-2 lg:grid-cols-3" : "space-y-6"}`}>
             {recommendedRoutes.map((route) => {
               const IconComponent = (LucideIcons as any)[route.icon] || LucideIcons.Map;
               const isCompleted = mounted && route.progress === 100;
@@ -149,7 +150,7 @@ export default function RoutesClient({ routes, cards: allCards, locale, dictiona
             })}
           </div>
         </section>
-      </div>
+      </ResponsivePageContainer>
     </div>
   );
 }

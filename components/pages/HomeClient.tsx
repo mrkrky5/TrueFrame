@@ -14,7 +14,8 @@ import FeaturedDossier from "@/components/ui/FeaturedDossier";
 import ThematicChips from "@/components/ui/ThematicChips";
 import { deriveCardBlocks } from "@/utils/contentBlocks";
 import { Locale } from "@/lib/i18n-config";
-import EnglishPilotBanner from "@/components/ui/EnglishPilotBanner";
+import ResponsivePageContainer from "@/components/layout/ResponsivePageContainer";
+import { useSurface } from "@/components/utils/SurfaceProvider";
 
 interface HomeClientProps {
   cards: IHistoryCard[];
@@ -28,6 +29,7 @@ import LanguageSwitch from "@/components/ui/LanguageSwitch";
 
 export default function HomeClient({ cards: allCards, routes: allRoutes, locale, dictionary, globalDailyId }: HomeClientProps) {
   const { readIds } = useHistory();
+  const { isWebsite } = useSurface();
 
   const [mounted, setMounted] = useState(false);
   const [clientHistory, setClientHistory] = useState<{
@@ -131,7 +133,7 @@ export default function HomeClient({ cards: allCards, routes: allRoutes, locale,
   }).format(new Date());
 
   return (
-    <div className="px-6 max-w-lg mx-auto">
+    <ResponsivePageContainer className="pt-6">
       <header className="mb-12 mt-6 flex justify-between items-start">
         <div className="flex flex-col gap-2">
           <div className="archival-label opacity-60 flex items-center gap-2">
@@ -152,63 +154,84 @@ export default function HomeClient({ cards: allCards, routes: allRoutes, locale,
       </header>
 
 
-      <EnglishPilotBanner locale={locale} />
 
-      <DailyRealityCheck card={dailyCard} locale={locale} />
-
-      {mounted && clientHistory.continueReading.length > 0 && (
-        <ContinueReadingCarousel items={clientHistory.continueReading} />
-      )}
-
-      {featuredDossier && (
-        <FeaturedDossier dossier={featuredDossier} locale={locale} />
-      )}
-
-      <section className="mb-10">
-        <div className="flex justify-between items-end mb-5 px-1">
-          <div className="flex flex-col gap-1">
-            <h2 className="archival-label flex items-center gap-2 text-neutral-900!">
-              <Map size={12} className="text-brand-secondary" />
-              {dictionary.nav.routes}
-            </h2>
-            <div className="h-px w-8 bg-brand-secondary/40" />
+      {/* Primary Desktop Layout: Grid */}
+      <div className={isWebsite ? "lg:grid lg:grid-cols-12 lg:gap-12" : "flex flex-col"}>
+        
+        {/* Left Column: Editorial Content */}
+        <div className={isWebsite ? "lg:col-span-7 xl:col-span-8" : ""}>
+          <DailyRealityCheck card={dailyCard} locale={locale} />
+          
+          <div className={isWebsite ? "hidden lg:block mt-12" : "hidden"}>
+             <ThematicChips cards={allCards} />
           </div>
-          <Link href={`/${locale}/routes`} className="archival-label text-brand-secondary! hover:underline transition-all">
-            {dictionary.common.seeAll}
+        </div>
+
+        {/* Right Column: Progress & Featured Sidebar */}
+        <div className={isWebsite ? "lg:col-span-5 xl:col-span-4 space-y-12" : "space-y-4"}>
+          {mounted && clientHistory.continueReading.length > 0 && (
+            <ContinueReadingCarousel items={clientHistory.continueReading} />
+          )}
+
+          {featuredDossier && (
+            <FeaturedDossier dossier={featuredDossier} locale={locale} />
+          )}
+
+          {/* Secondary Mobile Content: Thematic Chips & Routes (moved below hero on desktop) */}
+          <div className={isWebsite ? "lg:hidden" : ""}>
+            <ThematicChips cards={allCards} />
+          </div>
+
+          <section className="mb-10">
+            <div className="flex justify-between items-end mb-5 px-1">
+              <div className="flex flex-col gap-1">
+                <h2 className="archival-label flex items-center gap-2 text-neutral-900!">
+                  <Map size={12} className="text-brand-secondary" />
+                  {dictionary.nav.routes}
+                </h2>
+                <div className="h-px w-8 bg-brand-secondary/40" />
+              </div>
+              <Link href={`/${locale}/routes`} className="archival-label text-brand-secondary! hover:underline transition-all">
+                {dictionary.common.seeAll}
+              </Link>
+            </div>
+            <div className="grid grid-cols-1 gap-4">
+              {recommendedRoutes.map(route => {
+                const Icon = (LucideIcons as any)[route.icon] || Map;
+                return (
+                  <Link key={route.id} href={`/${locale}/routes/${route.id}`} className="bg-white p-5 rounded-3xl archival-border-double shadow-sm active:scale-[0.98] transition-all flex items-center gap-5 border-black/5">
+                    <div className="w-12 h-12 archival-muted-bg rounded-2xl flex items-center justify-center text-brand-secondary shrink-0 archival-border-double border-black/5">
+                      <Icon size={20} strokeWidth={1.5} />
+                    </div>
+                    <div className="flex-1 min-w-0">
+                      <h3 className="text-sm font-bold text-neutral-900 leading-tight mb-2.5 line-clamp-1">{route.title}</h3>
+                      <div className="flex items-center gap-3">
+                        <div className="flex-1 h-1.5 bg-neutral-100 rounded-full overflow-hidden">
+                          <div className="h-full bg-brand-secondary" style={{ width: `${route.progress * 100}%` }}></div>
+                        </div>
+                        <span className="archival-label tabular-nums opacity-60">
+                          {locale === 'tr' ? `%${Math.round(route.progress * 100)}` : `${Math.round(route.progress * 100)}%`}
+                        </span>
+                      </div>
+                    </div>
+                  </Link>
+                );
+              })}
+            </div>
+          </section>
+        </div>
+      </div>
+
+      <section className="mt-10 mb-16 border-t border-black/5 pt-12">
+        <div className="max-w-2xl mx-auto text-center space-y-6">
+          <div className="archival-label opacity-40 uppercase tracking-[0.3em]">
+             {locale === 'tr' ? 'Arşivi Derinlemesine Keşfedin' : 'Deeply Explore the Archive'}
+          </div>
+          <Link href={`/${locale}/explore`} className="inline-flex px-12 py-5 items-center justify-center gap-4 rounded-2xl archival-label text-white! bg-neutral-950 active:scale-[0.98] transition-all shadow-2xl hover:bg-neutral-900 group">
+            {dictionary.common.exploreLibrary} <ArrowRight size={16} strokeWidth={3} className="group-hover:translate-x-1 transition-transform" />
           </Link>
         </div>
-        <div className="grid grid-cols-1 gap-4">
-          {recommendedRoutes.map(route => {
-            const Icon = (LucideIcons as any)[route.icon] || Map;
-            return (
-              <Link key={route.id} href={`/${locale}/routes/${route.id}`} className="bg-white p-5 rounded-3xl archival-border-double shadow-sm active:scale-[0.98] transition-all flex items-center gap-5 border-black/5">
-                <div className="w-12 h-12 archival-muted-bg rounded-2xl flex items-center justify-center text-brand-secondary shrink-0 archival-border-double border-black/5">
-                  <Icon size={20} strokeWidth={1.5} />
-                </div>
-                <div className="flex-1 min-w-0">
-                  <h3 className="text-sm font-bold text-neutral-900 leading-tight mb-2.5 line-clamp-1">{route.title}</h3>
-                  <div className="flex items-center gap-3">
-                    <div className="flex-1 h-1.5 bg-neutral-100 rounded-full overflow-hidden">
-                      <div className="h-full bg-brand-secondary" style={{ width: `${route.progress * 100}%` }}></div>
-                    </div>
-                    <span className="archival-label tabular-nums opacity-60">
-                      {locale === 'tr' ? `%${Math.round(route.progress * 100)}` : `${Math.round(route.progress * 100)}%`}
-                    </span>
-                  </div>
-                </div>
-              </Link>
-            );
-          })}
-        </div>
       </section>
-
-      <ThematicChips cards={allCards} />
-
-      <section className="mt-10 mb-8">
-        <Link href={`/${locale}/explore`} className="w-full py-4.5 flex items-center justify-center gap-3 rounded-2xl archival-label text-white! bg-neutral-950 active:scale-[0.98] transition-all shadow-xl hover:bg-neutral-900">
-          {dictionary.common.exploreLibrary} <ArrowRight size={14} strokeWidth={3} />
-        </Link>
-      </section>
-    </div>
+    </ResponsivePageContainer>
   );
 }

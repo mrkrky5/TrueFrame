@@ -5,6 +5,7 @@ import { usePathname } from "next/navigation";
 import { Home, Compass, Map, Bookmark } from "lucide-react";
 import { i18n, type Locale } from "@/lib/i18n-config";
 import { useDictionary } from "@/components/utils/DictionaryProvider";
+import { useSurface } from "@/components/utils/SurfaceProvider";
 
 export default function BottomNav() {
   const pathname = usePathname();
@@ -32,12 +33,17 @@ export default function BottomNav() {
     { id: "saved", label: dictionary.nav.saved, path: `/${locale}/saved`, icon: <Bookmark size={20} /> },
   ];
 
+  const { isApp } = useSurface();
+
   if (shouldHide) {
     return null;
   }
 
+  // Hide on desktop viewports in Website Mode
+  const visibilityClasses = isApp ? "fixed" : "fixed md:hidden";
+
   return (
-    <nav className="fixed bottom-0 left-0 right-0 z-60 bg-white/80 backdrop-blur-xl border-t border-black/5 md:hidden animate-in slide-in-from-bottom duration-500 pb-[env(safe-area-inset-bottom,20px)]">
+    <nav className={`${visibilityClasses} bottom-0 left-0 right-0 z-60 bg-white/80 backdrop-blur-xl border-t border-black/5 animate-in slide-in-from-bottom duration-500 pb-[env(safe-area-inset-bottom,20px)]`}>
       <div className="flex justify-around items-center h-16 max-w-lg mx-auto">
         {navItems.map((item) => {
           const isActive = pathname === item.path || (item.path !== `/${locale}` && pathname.startsWith(item.path));

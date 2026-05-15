@@ -29,26 +29,26 @@ export default function FeaturedDossier({ dossier, locale }: FeaturedDossierProp
         </div>
       </div>
 
-      <div className={`bg-neutral-900 rounded-3xl overflow-hidden relative shadow-lg archival-surface archival-border-double border-black/10 min-h-[260px] flex flex-col ${representativeImage ? 'md:flex-row' : ''}`}>
+      <div className={`bg-neutral-900 rounded-3xl overflow-hidden relative shadow-lg archival-surface archival-border-double border-black/10 min-h-[260px] flex flex-col ${representativeImage ? 'md:flex-row lg:flex-col' : ''}`}>
         {/* Visual Background Pattern when no image */}
         {!representativeImage && (
           <div className="absolute inset-0 opacity-10" style={{ backgroundImage: 'radial-gradient(#ffffff 0.5px, transparent 0.5px)', backgroundSize: '30px 30px' }} />
         )}
 
         {representativeImage && (
-          <div className="flex-1 relative min-h-[160px] md:min-h-full">
+          <div className="flex-1 relative min-h-[160px] md:min-h-full lg:min-h-[200px]">
             <Image
               src={representativeImage}
               alt={dossier.title}
               fill
               className="object-cover opacity-60 grayscale-30 group-hover:scale-105 transition-transform duration-1000"
             />
-            <div className="absolute inset-0 bg-linear-to-t from-neutral-900 md:bg-linear-to-r md:from-transparent md:to-neutral-900" />
+            <div className="absolute inset-0 bg-linear-to-t from-neutral-900 md:bg-linear-to-r md:from-transparent md:to-neutral-900 lg:bg-linear-to-t lg:from-neutral-900 lg:to-transparent" />
           </div>
         )}
 
 
-        <div className={`relative z-10 p-6 md:p-9 flex flex-col justify-center ${representativeImage ? 'md:w-[60%]' : 'w-full'}`}>
+        <div className={`relative z-10 p-6 md:p-9 flex flex-col justify-center ${representativeImage ? 'md:w-[60%] lg:w-full' : 'w-full'}`}>
           <div className="space-y-5">
             <div className="flex flex-col gap-1.5">
               <div className="archival-label text-white/60! tracking-[0.4em]!">
