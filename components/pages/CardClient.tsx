@@ -45,12 +45,17 @@ export default function CardClient({ card, allCards, locale, dictionary }: CardC
       }
     }
 
-    const handleScroll = () => {
-      setIsScrolled(window.scrollY > 50);
+    const handleScroll = (e: Event) => {
+      const target = e.target as any;
+      const scrollTop = (target === document || target === window || target === document.documentElement || target === document.body)
+        ? window.scrollY 
+        : target.scrollTop;
+      setIsScrolled(scrollTop > 50);
     };
 
-    window.addEventListener("scroll", handleScroll);
-    return () => window.removeEventListener("scroll", handleScroll);
+    // Capture scroll events from any element (like .app-scroll-area)
+    window.addEventListener("scroll", handleScroll, true);
+    return () => window.removeEventListener("scroll", handleScroll, true);
   }, [card, addRecent]);
 
   const read = isRead(card.id);

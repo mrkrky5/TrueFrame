@@ -33,11 +33,15 @@ export default function MediaDossierClient({
 
   useEffect(() => {
     setMounted(true);
-    const handleScroll = () => {
-      setIsScrolled(window.scrollY > 50);
+    const handleScroll = (e: Event) => {
+      const target = e.target as any;
+      const scrollTop = (target === document || target === window || target === document.documentElement || target === document.body)
+        ? window.scrollY 
+        : target.scrollTop;
+      setIsScrolled(scrollTop > 50);
     };
-    window.addEventListener("scroll", handleScroll);
-    return () => window.removeEventListener("scroll", handleScroll);
+    window.addEventListener("scroll", handleScroll, true);
+    return () => window.removeEventListener("scroll", handleScroll, true);
   }, []);
 
   const derivedValueProp = useMemo(() => {
@@ -138,7 +142,7 @@ export default function MediaDossierClient({
 
         {recommendedCard && (
         <ResponsivePageContainer className="-mt-10 mb-16 relative z-20">
-            <div className={`bg-neutral-950 rounded-4xl shadow-2xl relative overflow-hidden group flex flex-col ${isWebsite ? "md:flex-row min-h-[300px]" : "p-8"}`}>
+            <div className={`bg-neutral-950 rounded-4xl shadow-2xl relative overflow-hidden group flex flex-col ${isWebsite ? "md:flex-row min-h-[300px] max-w-4xl mx-auto" : "p-8"}`}>
               <div className="absolute top-0 right-0 w-64 h-64 bg-brand-secondary/10 blur-3xl -mr-32 -mt-32 rounded-full" />
               
               {isWebsite && recommendedCard.images?.thumbnail && (

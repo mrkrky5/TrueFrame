@@ -71,6 +71,31 @@ This document summarizes the final changes made to stabilize and fully localize 
 - **External Browser Strategy**: Integrated `@capacitor/browser` to ensure external source links open in the system browser rather than hijacking the app's main view.
 - **Hybrid Shell Logic**: Verified that all native bridges are dynamically guarded and only activate when running within the Capacitor native platform.
 
+### 12. Cross-Surface Regression (Post-Native Integration)
+- **Website Stability**: Confirmed that the addition of native bridges and Capacitor plugins has zero impact on the standard desktop/mobile browser experience.
+- **App Mode Integrity**: Verified that `?surface=app` continues to trigger the correct mobile-first layout without leakage from new native logic.
+- **Safe Hardware Guarding**: Audited `NativeBridge` to ensure it correctly identifies non-native environments, preventing runtime errors in standard web browsers.
+- **End-to-End Build**: Successfully completed a full production build and native sync, confirming the "One Data, Two Faces" architecture is production-ready.
+
+### 13. Brutal Website QA Audit (POST-REDESIGN)
+- **Verdict**: **FIXED**
+- **B01: Redundant Header**: Fixed. Mobile Top Bar is now hidden on desktop viewports (`md:hidden`).
+- **B02: Scroll Lock Leak**: Fixed. Removed unconditional `overflow: hidden` from `html`/`body`; scrolling is now handled by the specific shell (Website vs App).
+- **B03: BottomNav Leak**: Fixed. Navigation bar now automatically hides during card reading sessions in App Mode for maximum immersion.
+- **B04: Reader Regression**: Fixed. Implemented capture-phase scroll listeners to ensure sticky headers and controls work correctly within the internal app-shell.
+- **B05: Grid Imbalance**: Fixed. Constrained the "Next Step" recommendation card with centered max-width on ultra-wide viewports.
+
+- **Integrity**: Confirmed that native hardware bridges and responsive layouts coexist perfectly without cross-surface interference.
+
+### 15. Phase 13F: Focused Re-test (B01-B05)
+- **Verdict**: **FULL PASS**
+- **B01 (Redundant Header)**: Verified. Home desktop is clean.
+- **B02 (Scroll Lock Leak)**: Verified. Page scroll correctly restored on desktop.
+- **B03 (BottomNav Leak)**: Verified. Hidden during App Mode card reading.
+- **B04 (Reader Controls)**: Verified. Sticky controls active in App Mode shell.
+- **B05 (Media Dossier Grid)**: Verified. Balanced grid on ultra-wide desktop.
+- **Validation**: `tsc`, `build`, and `cap sync` all PASS.
+
 ## 📱 Verified Routes
 - [x] `/en` (Home)
 - [x] `/en/explore` (Search & Filters)

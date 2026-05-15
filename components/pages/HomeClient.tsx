@@ -134,7 +134,7 @@ export default function HomeClient({ cards: allCards, routes: allRoutes, locale,
 
   return (
     <ResponsivePageContainer className="pt-6">
-      <header className="mb-12 mt-6 flex justify-between items-start">
+      <header className="mb-12 mt-6 flex justify-between items-start md:hidden">
         <div className="flex flex-col gap-2">
           <div className="archival-label opacity-60 flex items-center gap-2">
             <span className="w-5 h-px bg-current" />

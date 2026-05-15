@@ -35,12 +35,14 @@ export default function BottomNav() {
 
   const { isApp } = useSurface();
 
-  if (shouldHide) {
+  // Hide on desktop viewports in Website Mode
+  // Also hide on card reading pages for immersive experience
+  const isCardPage = pathname.includes("/card/");
+  const visibilityClasses = (isApp && !isCardPage) ? "fixed" : "fixed md:hidden";
+
+  if (shouldHide || (isApp && isCardPage)) {
     return null;
   }
-
-  // Hide on desktop viewports in Website Mode
-  const visibilityClasses = isApp ? "fixed" : "fixed md:hidden";
 
   return (
     <nav className={`${visibilityClasses} bottom-0 left-0 right-0 z-60 bg-white/80 backdrop-blur-xl border-t border-black/5 animate-in slide-in-from-bottom duration-500 pb-[env(safe-area-inset-bottom,20px)]`}>
