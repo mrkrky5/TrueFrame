@@ -106,7 +106,7 @@ function ExploreContent({ cards: allCards, locale, dictionary }: ExploreClientPr
 
     if (locale === 'tr') return allMoods;
 
-    // For English, only show moods that have at least one card in the pilot
+    // For English, only show moods that have at least one card in the library
     return allMoods.filter(mood => 
       allCards.some(card => card.tags && card.tags.includes(mood.tag))
     );

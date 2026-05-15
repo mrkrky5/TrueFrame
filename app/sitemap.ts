@@ -9,6 +9,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = SITE_CONFIG.baseUrl;
 
   const routes = ['', '/explore', '/routes', '/saved'];
+  
+  // Static Routes
   const staticUrls = locales.flatMap(locale => 
     routes.map(route => ({
       url: `${baseUrl}/${locale}${route}`,
@@ -18,34 +20,52 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }))
   );
 
-  // Load cards for dynamic routes
-  let cardUrls: any[] = [];
+  let dynamicUrls: any[] = [];
+
   try {
     const trCards = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'data/cards.tr.json'), 'utf8'));
     const enCards = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'data/cards.en.json'), 'utf8'));
-    
-    // TR Cards (Full Catalog)
-    cardUrls = trCards.map((card: any) => ({
+    const { getStrongDossiers } = require('@/utils/dossier');
+
+    // TR Cards
+    const trCardUrls = trCards.map((card: any) => ({
       url: `${baseUrl}/tr/card/${card.id}`,
       lastModified: new Date(),
       changeFrequency: 'weekly' as const,
       priority: 0.6,
     }));
 
-    // EN Active Cards Only (Whitelisted)
-    const enCardUrls = enCards
-      .filter((c: any) => ENGLISH_ACTIVE_IDS.includes(c.id))
-      .map((card: any) => ({
-        url: `${baseUrl}/en/card/${card.id}`,
-        lastModified: new Date(),
-        changeFrequency: 'weekly' as const,
-        priority: 0.6,
-      }));
-    
-    cardUrls = [...cardUrls, ...enCardUrls];
+    // TR Dossiers
+    const trDossiers = getStrongDossiers(trCards);
+    const trMediaUrls = trDossiers.map((d: any) => ({
+      url: `${baseUrl}/tr/media/${d.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.7,
+    }));
+
+    // EN Active Cards
+    const enActiveCards = enCards.filter((c: any) => ENGLISH_ACTIVE_IDS.includes(c.id));
+    const enCardUrls = enActiveCards.map((card: any) => ({
+      url: `${baseUrl}/en/card/${card.id}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.6,
+    }));
+
+    // EN Dossiers
+    const enDossiers = getStrongDossiers(enActiveCards);
+    const enMediaUrls = enDossiers.map((d: any) => ({
+      url: `${baseUrl}/en/media/${d.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.7,
+    }));
+
+    dynamicUrls = [...trCardUrls, ...trMediaUrls, ...enCardUrls, ...enMediaUrls];
   } catch (e) {
-    console.error('Sitemap generation error:', e);
+    console.error('Sitemap dynamic generation error:', e);
   }
 
-  return [...staticUrls, ...cardUrls];
+  return [...staticUrls, ...dynamicUrls];
 }

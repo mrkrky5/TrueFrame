@@ -7,6 +7,7 @@ import { HistoryCard } from "@/types";
 
 import { DictionaryProvider } from "@/components/utils/DictionaryProvider";
 import { Metadata } from "next";
+import { SITE_CONFIG } from "@/lib/config";
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string, id: string }> }): Promise<Metadata> {
   const { lang, id } = await params;
@@ -22,7 +23,8 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 
   const title = `${card.title} | ${dictionary.common.brandingTitle}`;
   const description = card.quickRealityCheck || card.subtitle || dictionary.common.dossierDescription;
-  const ogImage = card.images?.hero?.src || card.images?.thumbnail?.src || "/og-image.png";
+  const rawOgImage = card.images?.hero?.src || card.images?.thumbnail?.src || "/og-image.png";
+  const ogImage = rawOgImage.startsWith("/") ? `${SITE_CONFIG.baseUrl}${rawOgImage}` : rawOgImage;
 
   return {
     title,
@@ -31,8 +33,8 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
       title,
       description,
       type: "article",
-      url: `https://medyadangercege.com/${lang}/card/${id}`,
-      images: [{ url: ogImage }],
+      url: `${SITE_CONFIG.baseUrl}/${lang}/card/${id}`,
+      images: [{ url: ogImage.startsWith("/") ? `${SITE_CONFIG.baseUrl}${ogImage}` : ogImage }],
     },
     twitter: {
       card: "summary_large_image",

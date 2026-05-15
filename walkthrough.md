@@ -1,12 +1,12 @@
 # Media to Reality / Medyadan Gerçeğe — V1 & Responsive Architecture Walkthrough
 
-This document summarizes the final changes made to stabilize and fully localize the English pilot for **Medyadan Gerçeğe**.
+This document summarizes the final changes made to stabilize and fully localize **Medyadan Gerçeğe**.
 
 ## 🚀 Key Improvements
 
 ### 1. Critical Runtime Fixes
 - **Explore Page Crash**: Fixed a hydration error on `/[lang]/explore` caused by improper script injection. Moved the script to use `next/script` with `beforeInteractive` strategy.
-- **Whitelist Enforcement**: Strictly enforced the `ENGLISH_PILOT_IDS` whitelist in `getCards` and `getRoutes` to ensure only translated content is visible in English.
+- **Whitelist Enforcement**: Strictly enforced the `ENGLISH_ACTIVE_IDS` whitelist in `getCards` and `getRoutes` to ensure only translated content is visible in English.
 
 ### 2. UI Localization (Eliminating Turkish Leaks)
 - **Interactive Components**: Refactored the following components to use the `DictionaryProvider` instead of hardcoded Turkish strings:
@@ -38,6 +38,38 @@ This document summarizes the final changes made to stabilize and fully localize 
 - **Mood Discovery**: Redesigned thematic categories into a clean, multi-column responsive grid for faster navigation.
 - **Journey Hub**: Transformed the Routes page into a curated grid of learning paths, moving away from the mobile list format on large screens.
 - **Universal Shell Mode**: Confirmed that all grid behaviors are automatically disabled when `?surface=app` is detected, ensuring native-app parity.
+
+### 7. Desktop Reading & Media Dossier (Editorial Polish)
+- **Cinematic Headers**: Redesigned card and dossier headers with wider, more immersive layouts for desktop, featuring large-scale typography and better image utilization.
+- **Optimized Reading**: Confined article text to a focused, legible column (max-w-prose) while allowing supporting UI elements to use the full desktop width.
+- **Analysis Grids**: Transformed the dossier reality distribution and stats into a multi-column responsive grid, improving information density on large screens.
+- **Content Discovery**: Implemented responsive grids for related cards and dossiers within the reading flow, ensuring a professional editorial feel.
+
+### 8. Desktop Library & Saved (Responsive Hub)
+- **Multi-Column Grid**: Redesigned the Library page to use a responsive 3-column grid for saved, recent, and completed cards on desktop.
+- **Premium Empty State**: Enhanced the global empty state for new users, ensuring a high-end visual experience on large viewports.
+- **Naming Standardization**: Purged all legacy "English Pilot" references from the UI and developer comments, standardizing on production-ready terminology.
+- **Layout Integrity**: Verified that the library remains perfectly optimized for the mobile-app shell (`?surface=app`) while expanding fluidly for website users.
+
+### 9. Full Website Release Polish (SEO & Quality)
+- **Standardized Metadata**: Migrated all Open Graph and Twitter metadata to use configuration-driven absolute URLs, ensuring reliable social sharing.
+- **Dynamic Route SEO**: Added unique metadata generation for learning journeys, providing specific titles and descriptions for every curated path.
+- **Sitemap Expansion**: Enhanced `sitemap.xml` to include all production media dossiers in both languages, significantly increasing organic search reach.
+- **Terminology Cleanliness**: Completed a final audit to ensure no "Pilot" or Turkish leakage exists in the English user experience.
+- **Cross-Surface Stability**: Confirmed that Website Mode and App Mode coexist perfectly without layout regression or asset collisions.
+
+### 10. Android Wrapper Foundation (Capacitor Setup)
+- **Hosted App Architecture**: Initialized Capacitor with a hosted URL strategy targeting `medyadangercege.com?surface=app`.
+- **Native Container**: Established the `android/` project structure with the package identifier `com.medyadangercege.app`.
+- **Environment Audit**: Verified that the development environment (Node, JDK 17, ADB) is fully equipped for Android compilation.
+- **Sync & Validation**: Successfully synchronized web assets and confirmed that the addition of mobile dependencies has zero impact on web stability.
+
+### 11. Android Wrapper Hardening & Native Bridge
+- **Hardware Back Button**: Implemented a guarded `NativeBridge` to handle the physical Android back button, ensuring standard navigation behavior within the app-shell.
+- **System UI Customization**: Configured the Android status bar to match the platform's archival paper aesthetic (`#FAF9F6`) with optimized light/dark icons.
+- **Security Hardening**: Enforced strict HTTPS requirements by disabling mixed content in the Capacitor WebView for production safety.
+- **External Browser Strategy**: Integrated `@capacitor/browser` to ensure external source links open in the system browser rather than hijacking the app's main view.
+- **Hybrid Shell Logic**: Verified that all native bridges are dynamically guarded and only activate when running within the Capacitor native platform.
 
 ## 📱 Verified Routes
 - [x] `/en` (Home)

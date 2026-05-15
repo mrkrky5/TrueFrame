@@ -34,7 +34,7 @@ export default function ContinueReadingCarousel({ items }: ContinueReadingCarous
           </div>
           <div className="bg-neutral-50 rounded-3xl p-6 border border-dashed border-neutral-200 flex flex-col items-center text-center">
              <p className="text-[11px] font-bold text-neutral-600 uppercase tracking-widest mb-2">No active journeys</p>
-             <p className="text-xs text-neutral-500 max-w-[200px]">Start reading your first story in the English pilot!</p>
+             <p className="text-xs text-neutral-500 max-w-[200px]">Start reading your first story!</p>
           </div>
         </section>
       );

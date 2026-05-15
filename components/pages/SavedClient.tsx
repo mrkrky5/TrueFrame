@@ -8,6 +8,7 @@ import Link from "next/link";
 import { Bookmark, Clock, CheckCircle2 } from "lucide-react";
 import FeedbackCard from "@/components/ui/FeedbackCard";
 import ResponsivePageContainer from "@/components/layout/ResponsivePageContainer";
+import { useSurface } from "@/components/utils/SurfaceProvider";
 
 export default function SavedClient({ 
   allCards, 
@@ -19,6 +20,7 @@ export default function SavedClient({
   dictionary: any;
 }) {
   const { savedIds, recentIds, readIds } = useHistory();
+  const { isWebsite } = useSurface();
 
   const savedCards = allCards.filter((c) => savedIds.includes(c.id));
   const recentCards = allCards.filter((c) => recentIds.includes(c.id));
@@ -29,14 +31,14 @@ export default function SavedClient({
 
   return (
     <ResponsivePageContainer className="pt-6 pb-20">
-      <header className="mb-10 mt-6">
-        <h1 className="text-3xl mb-2 font-serif">{t('title')}</h1>
-        <p className="text-gray-400 font-medium text-sm">{t('subtitle')}</p>
+      <header className={`mb-10 mt-6 ${isWebsite ? "md:mb-16" : ""}`}>
+        <h1 className={`${isWebsite ? "text-5xl" : "text-3xl"} mb-2 font-serif`}>{t('title')}</h1>
+        <p className={`${isWebsite ? "text-base" : "text-sm"} text-gray-400 font-medium`}>{t('subtitle')}</p>
       </header>
 
 
       {isGlobalEmpty ? (
-        <section className="mb-12 py-10 animate-in fade-in slide-in-from-bottom-4 duration-700">
+        <section className={`mb-12 py-10 animate-in fade-in slide-in-from-bottom-4 duration-700 ${isWebsite ? "max-w-2xl mx-auto" : ""}`}>
           <div className="bg-white border border-black/5 rounded-5xl p-10 text-center shadow-2xl relative overflow-hidden">
             <div className="absolute top-0 right-0 w-32 h-32 bg-brand-secondary/5 rounded-full -mr-16 -mt-16" />
             
@@ -45,25 +47,25 @@ export default function SavedClient({
                 <Bookmark size={40} strokeWidth={1.5} />
               </div>
               
-              <h2 className="text-2xl font-serif text-neutral-950 mb-4 px-4">
+              <h2 className={`font-serif text-neutral-950 mb-4 px-4 ${isWebsite ? "text-4xl" : "text-2xl"}`}>
                 {t('globalEmptyTitle')}
               </h2>
               
-              <p className="text-neutral-500 font-medium text-sm leading-relaxed mb-10 max-w-xs mx-auto">
+              <p className={`text-neutral-500 font-medium leading-relaxed mb-10 mx-auto ${isWebsite ? "text-base max-w-md" : "text-sm max-w-xs"}`}>
                 {t('globalEmptyDesc')}
               </p>
               
-              <div className="flex flex-col gap-3">
+              <div className={`flex flex-col gap-3 ${isWebsite ? "md:flex-row md:justify-center" : ""}`}>
                 <Link 
                   href={`/${locale}`} 
-                  className="w-full py-5 rounded-2xl bg-neutral-950 text-white font-black uppercase tracking-widest text-[11px] shadow-xl active:scale-95 transition-all"
+                  className={`py-5 rounded-2xl bg-neutral-950 text-white font-black uppercase tracking-widest text-[11px] shadow-xl active:scale-95 transition-all ${isWebsite ? "px-12" : "w-full"}`}
                 >
                   {t('globalEmptyPrimaryCta')}
                 </Link>
                 
                 <Link 
                   href={`/${locale}/explore`} 
-                  className="w-full py-4 rounded-2xl bg-brand-secondary/5 text-brand-secondary font-black uppercase tracking-widest text-[10px] border border-brand-secondary/10 active:scale-95 transition-all"
+                  className={`py-4 rounded-2xl bg-brand-secondary/5 text-brand-secondary font-black uppercase tracking-widest text-[10px] border border-brand-secondary/10 active:scale-95 transition-all ${isWebsite ? "px-12 flex items-center" : "w-full"}`}
                 >
                   {t('globalEmptySecondaryCta')}
                 </Link>
@@ -78,7 +80,7 @@ export default function SavedClient({
               <Bookmark size={18} className="text-brand-secondary" /> {t('savedItems')}
             </h2>
             {savedCards.length > 0 ? (
-              <div className="space-y-4">
+              <div className={`grid gap-4 ${isWebsite ? "md:grid-cols-2 lg:grid-cols-3" : "space-y-4"}`}>
                 {savedCards.map((card) => (
                   <HistoryCardComponent key={card.id} card={card} variant="compact" />
                 ))}
@@ -101,7 +103,7 @@ export default function SavedClient({
               <Clock size={18} className="text-brand-secondary" /> {t('recentlyViewed')}
             </h2>
             {recentCards.length > 0 ? (
-              <div className="space-y-4">
+              <div className={`grid gap-4 ${isWebsite ? "md:grid-cols-2 lg:grid-cols-3" : "space-y-4"}`}>
                 {recentCards.map((card) => (
                   <HistoryCardComponent key={card.id} card={card} variant="compact" />
                 ))}
@@ -120,7 +122,7 @@ export default function SavedClient({
               <CheckCircle2 size={18} className="text-brand-secondary" /> {t('completed')}
             </h2>
             {readCards.length > 0 ? (
-              <div className="space-y-4">
+              <div className={`grid gap-4 ${isWebsite ? "md:grid-cols-2 lg:grid-cols-3" : "space-y-4"}`}>
                 {readCards.map((card) => (
                   <HistoryCardComponent key={card.id} card={card} variant="compact" />
                 ))}

@@ -18,6 +18,7 @@ import NextDiscoveryCard from "@/components/ui/NextDiscoveryCard";
 import { Locale } from "@/lib/i18n-config";
 import ResponsivePageContainer from "@/components/layout/ResponsivePageContainer";
 import { useRouter } from "next/navigation";
+import { useSurface } from "@/components/utils/SurfaceProvider";
 
 interface CardClientProps {
   card: IHistoryCard;
@@ -28,6 +29,7 @@ interface CardClientProps {
 
 export default function CardClient({ card, allCards, locale, dictionary }: CardClientProps) {
   const router = useRouter();
+  const { isWebsite } = useSurface();
   const { addRecent, isRead, markAsRead, readIds } = useHistory();
   const { setGuess, getGuess, toggleReflection, getReflections } = useLearning();
   const [isScrolled, setIsScrolled] = useState(false);
@@ -85,7 +87,7 @@ export default function CardClient({ card, allCards, locale, dictionary }: CardC
       />
 
       <header className="detail-floating-controls-safe">
-        <div className="flex justify-between items-center pointer-events-auto h-16 max-w-lg mx-auto px-6">
+        <div className={`flex justify-between items-center pointer-events-auto h-16 px-6 ${isWebsite ? "max-w-7xl mx-auto" : "max-w-lg mx-auto"}`}>
           <button
             onClick={() => {
               if (window.history.length > 1) {
@@ -110,8 +112,9 @@ export default function CardClient({ card, allCards, locale, dictionary }: CardC
         </div>
       </header>
 
+      {/* Header Area */}
       {!(card.isFlagship && revealSpoiler) && (
-        <div className={`relative ${heroImage ? "h-[35vh] md:h-[40vh]" : "h-[20vh] md:h-[25vh]"} bg-bg-main flex flex-col justify-end border-b border-black/5 overflow-hidden`}>
+        <div className={`relative ${heroImage ? (isWebsite ? "h-[45vh]" : "h-[35vh]") : (isWebsite ? "h-[30vh]" : "h-[20vh]")} bg-bg-main flex flex-col justify-end border-b border-black/5 overflow-hidden`}>
         {heroImage && (
           <div className="absolute inset-0 z-0 bg-neutral-200">
             <Image
@@ -126,7 +129,7 @@ export default function CardClient({ card, allCards, locale, dictionary }: CardC
           </div>
         )}
 
-        <div className="relative z-10 max-w-lg mx-auto w-full p-6 pb-6">
+        <div className={`relative z-10 w-full p-6 pb-12 ${isWebsite ? "max-w-4xl mx-auto md:px-12" : "max-w-lg mx-auto"}`}>
           <div className="flex items-center justify-between mb-3">
             <div className="flex items-center gap-2">
               {getDossierSlug(card.mediaTitle) ? (
@@ -148,12 +151,12 @@ export default function CardClient({ card, allCards, locale, dictionary }: CardC
               )}
             </div>
           </div>
-          <h1 className={`text-3xl md:text-4xl font-serif leading-tight ${heroImage ? "text-neutral-950 drop-shadow-sm" : "text-neutral-950"}`}>
+          <h1 className={`text-4xl md:text-6xl font-serif leading-tight ${heroImage ? "text-neutral-950 drop-shadow-sm" : "text-neutral-950"}`}>
             {card.title}
           </h1>
-          <div className="flex items-center gap-4 mt-4 text-[10px] font-black uppercase tracking-widest text-neutral-800">
-            <span className="flex items-center gap-1.5"><BookOpen size={12} strokeWidth={2.5} /> {card.readingTimeMinutes} {dictionary.common.minutes} {dictionary.common.readTime}</span>
-            {read && <span className="text-green-700 flex items-center gap-1"><Check size={12} strokeWidth={3} /> {dictionary.common.readStatus}</span>}
+          <div className="flex items-center gap-6 mt-6 text-[10px] font-black uppercase tracking-widest text-neutral-800 opacity-70">
+            <span className="flex items-center gap-2"><BookOpen size={14} strokeWidth={2.5} /> {card.readingTimeMinutes} {dictionary.common.minutes} {dictionary.common.readTime}</span>
+            {read && <span className="text-green-700 flex items-center gap-2"><Check size={14} strokeWidth={3} /> {dictionary.common.readStatus}</span>}
           </div>
         </div>
       </div>

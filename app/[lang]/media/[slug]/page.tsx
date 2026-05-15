@@ -5,6 +5,7 @@ import { Locale } from "@/lib/i18n-config";
 import { getDossierBySlug } from "@/utils/dossier";
 import MediaDossierClient from "@/components/pages/MediaDossierClient";
 import { Metadata } from "next";
+import { SITE_CONFIG } from "@/lib/config";
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string, slug: string }> }): Promise<Metadata> {
   const { lang, slug } = await params;
@@ -20,7 +21,8 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   // Use first card's hero as OG image if available
   const firstCardId = dossier.cardIds[0];
   const firstCard = cards.find(c => c.id === firstCardId);
-  const ogImage = firstCard?.images?.hero?.src || firstCard?.images?.thumbnail?.src || "/og-image.png";
+  const rawOgImage = firstCard?.images?.hero?.src || firstCard?.images?.thumbnail?.src || "/og-image.png";
+  const ogImage = rawOgImage.startsWith("/") ? `${SITE_CONFIG.baseUrl}${rawOgImage}` : rawOgImage;
 
   return {
     title,
@@ -28,7 +30,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
     openGraph: {
       title,
       description,
-      url: `https://medyadangercege.com/${lang}/media/${slug}`,
+      url: `${SITE_CONFIG.baseUrl}/${lang}/media/${slug}`,
       images: [{ url: ogImage }],
     },
     twitter: {

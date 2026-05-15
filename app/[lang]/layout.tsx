@@ -36,7 +36,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
     openGraph: {
       type: "website",
       locale: lang === 'tr' ? 'tr_TR' : 'en_US',
-      url: `https://medyadangercege.com/${lang}`,
+      url: `${SITE_CONFIG.baseUrl}/${lang}`,
       siteName: dictionary.common.brandingTitle,
       title: `${dictionary.common.brandingTitle} | ${dictionary.common.brandingSubtitle}`,
       description: dictionary.common.dossierDescription,
@@ -70,6 +70,7 @@ export const viewport: Viewport = {
 import { SurfaceProvider } from "@/components/utils/SurfaceProvider";
 import DesktopTopNav from "@/components/layout/DesktopTopNav";
 import MainShell from "@/components/layout/MainShell";
+import NativeBridge from "@/components/utils/NativeBridge";
 
 export default async function LocalizedLayout({
   children,
@@ -85,6 +86,7 @@ export default async function LocalizedLayout({
     <div lang={lang} data-locale={lang} className="min-h-full">
       <SurfaceProvider>
         <DictionaryProvider dictionary={dictionary}>
+          <NativeBridge />
           <DesktopTopNav locale={lang as Locale} dictionary={dictionary} />
           <MainShell>
             <Onboarding />

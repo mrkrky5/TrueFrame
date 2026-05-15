@@ -96,7 +96,7 @@ export default function HomeClient({ cards: allCards, routes: allRoutes, locale,
     // Priority 1: Strong Dossiers (Multi-card)
     let dossiers = getStrongDossiers(allCards);
 
-    // Priority 2: Fallback for English Pilot (Any Dossier with at least 1 card)
+    // Priority 2: Fallback for English (Any Dossier with at least 1 card)
     if (dossiers.length === 0) {
       dossiers = getAllDossiers(allCards).filter(d => d.cardIds.length >= 1);
     }
