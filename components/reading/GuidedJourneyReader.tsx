@@ -199,7 +199,7 @@ export default function GuidedJourneyReader({ card, learningState, similarCards,
 
       {/* Main Content Area */}
       <main
-        className={`flex-1 animate-in fade-in slide-in-from-bottom-4 duration-700 ${isWebsite ? "pt-24 lg:pt-32" : "pt-36"}`}
+        className={`flex-1 animate-in fade-in slide-in-from-bottom-4 duration-700 ${isWebsite ? "pt-12 lg:pt-16" : "pt-36"}`}
         style={!isWebsite ? { paddingBottom: "calc(env(safe-area-inset-bottom, 20px) + 160px)" } : undefined}
       >
         <div className={`px-6 ${isWebsite ? "max-w-7xl mx-auto" : "max-w-lg mx-auto"}`}>

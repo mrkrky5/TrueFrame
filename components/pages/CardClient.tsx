@@ -154,6 +154,15 @@ export default function CardClient({ card, allCards, locale, dictionary }: CardC
                   {dictionary.common.flagship}
                 </span>
               )}
+              {heroImage && heroImage.type && (
+                <span className="bg-white/90 backdrop-blur-sm text-neutral-600 px-2 py-0.5 rounded text-[8px] font-black uppercase tracking-widest shadow-sm border border-black/5">
+                  {heroImage.type === 'historical' 
+                    ? dictionary.common.historicalImage 
+                    : heroImage.type === 'reconstruction'
+                      ? dictionary.common.reconstructionImage
+                      : dictionary.common.representativeImage}
+                </span>
+              )}
             </div>
           </div>
           <h1 className={`text-4xl md:text-6xl font-serif leading-tight ${heroImage ? "text-neutral-950 drop-shadow-sm" : "text-neutral-950"}`}>

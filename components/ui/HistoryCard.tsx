@@ -63,7 +63,12 @@ const HistoryCard = ({ card, variant = "full", className = "", theme = "light" }
               />
               {/* Type Badge on Image */}
               <div className="absolute bottom-3 left-3 bg-white/90 backdrop-blur-sm px-2 py-0.5 rounded text-[8px] font-black uppercase tracking-widest text-neutral-600 shadow-sm border border-white/20 flex items-center gap-1">
-                <ImageIcon size={8} /> {card.images!.thumbnail!.type === 'historical' ? dictionary.common.historicalImage : dictionary.common.representativeImage}
+                <ImageIcon size={8} /> 
+                {card.images!.thumbnail!.type === 'historical' 
+                  ? dictionary.common.historicalImage 
+                  : card.images!.thumbnail!.type === 'reconstruction'
+                    ? dictionary.common.reconstructionImage
+                    : dictionary.common.representativeImage}
               </div>
             </div>
           )}

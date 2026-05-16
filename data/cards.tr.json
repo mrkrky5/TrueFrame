@@ -1585,10 +1585,10 @@
       "Ekonomi",
       "Kültür"
     ],
-    "whatWeSee": "Romalıların sokak köşelerinde tezgah başlarında hızlıca yemek yediğini ve sosyalleştiğini görürüz.",
-    "realHistory": "Antik Roma'da modern anlamdaki 'ev mutfağı' sadece zenginlerin lüksüydü. Roma şehirlerindeki insulae (apartman daireleri) ahşap ağırlıklı ve yangın riski yüksek yapılar olduğu için içlerinde yemek pişirmek yasaktı veya teknik olarak imkansızdı. Bu durum, 'Thermopolium' adı verilen antik fast food dükkanlarının doğmasına neden oldu. Bu dükkanlar, L şeklinde mermer tezgahlara ve içlerine sıcak yemek kaplarının (dolia) yerleştirildiği oyuklara sahipti.\n\nSıradan bir Romalı işçi veya esnaf, öğle ve akşam yemeklerini bu tezgahlardan alırdı. Menüde genellikle mercimek çorbası, baklagiller, peynir, sıcak şarap ve bazen kümes hayvanları bulunurdu. Pompeii ve Herculaneum'da bulunan 150'den fazla Thermopolium, bu kültürün ne kadar yaygın olduğunu kanıtlamaktadır. Bu dükkanlar sadece yemek yeri değil, aynı zamanda alt sınıfların kumar oynadığı, siyaset konuştuğu ve sosyalleştiği mahalle merkezleriydi. Roma'da dışarıda yemek yemek bir statü sembolü değil, aksine orta ve alt sınıfın hayatta kalma zorunluluğuydu.",
+    "whatWeSee": "Romalıların sokak kenarındaki tezgahlarda hızlıca yemek yediği ve kalabalık şehir merkezlerinde sosyalleştiği anlar.",
+    "realHistory": "Antik Roma'da evde yemek pişirmek bir lükstü. Şehir sakinlerinin çoğu, yemek pişirmenin ciddi bir yangın tehlikesi oluşturduğu ahşap apartman bloklarında (insulae) yaşıyordu. Bu nedenle halk, 'Thermopolium' adı verilen antik ayaküstü yemek dükkanlarına güveniyordu. L şeklindeki mermer tezgahları ve içindeki sıcak yemek küpleriyle (dolia) bu mekanlar, Roma sokaklarının ayrılmaz bir parçasıydı. Sadece Pompeii'de 150'den fazla bu tür işletme bulunmaktaydı.\n\n### Pleblerin Sosyal Mutfağı\nBu işletmeler, Roma işçi sınıfı (plebler) için şehrin temel mutfağıydı. Birçok kişi için Thermopolium, günün tek sıcak yemeğini yiyebildikleri yerdi. Atmosfer canlıydı ancak bu 'popina'lar (meyhaneler), buraları kumar, düşük seviyeli dedikodu ve siyasi muhalefetle ilişkilendiren üst sınıflar tarafından genellikle şüpheyle karşılanırdı.\n\n### Regio V Keşfi\n2020 yılında Pompeii'nin Regio V bölgesinde tam korunaklı bir Thermopolium'un keşfedilmesi, Roma sokak lezzetleri hakkındaki bilgilerimizi tazeledi. Tezgahın üzerindeki canlı fresklerde yeşilbaş ördek ve horoz gibi figürler yer alıyordu; bunlar muhtemelen okuma yazma bilmeyen halk için görsel birer menü görevi görüyordu. Kalıntı analizleri menüde şunların olduğunu doğruladı:\n* Salyangoz ve koyun eti yahnileri\n* Şarabın içine karıştırılmış ezilmiş baklalar (renk ve tat değiştirmek için)\n* Arpa ve tahıl lapaları\n\n### Kent Lojistiği\nTezgahlara gömülü 'dolia'lar, kuru gıdaları saklamak veya yahnileri sıcak tutmak için tasarlanmıştı. Popüler inanışın aksine, bu küpler her zaman sıvı yemekle dolu değildi; arkeolojik kanıtlar bunların çok amaçlı depolama üniteleri olduğunu gösteriyor. Bu sokak üstü tezgah ağı, organize kentsel gıda lojistiğinin tarihteki en erken örneklerinden birini temsil eder.",
     "accuracyNote": "Pompeii'de bulunan Regio V bölgesindeki Thermopolium, üzerindeki canlı freskler ve kapların içindeki ördek, keçi ve balık kalıntılarıyla Roma diyetinin ne kadar çeşitli olduğunu bilimsel olarak doğrulamıştır.",
-    "whyInteresting": "Romalıların en sevdiği çeşni, fermente edilmiş balık sosu olan 'Garum'du. Bu sos o kadar popülerdi ki, Roma ekonomisinde zeytinyağı ve şarap kadar büyük bir ticaret hacmine sahipti ve neredeyse her yemeğe 'tuz' niyetine eklenirdi.",
+    "whyInteresting": "Romalıların en sevdiği çeşni, yağ ve şarap kadar değerli bir ticari emtia olan Garum (fermente balık sosu) idi. Regio V sahasındaki son kalıntı analizleri, şarap küplerinin dibinde ezilmiş bakla izleri bile buldu; muhtemelen şarabı beyazlatmak ve tadını değiştirmek için kullanılıyordu.",
     "misconception": "Romalıların her zaman büyük şölenlerde uzanarak yemek yediği sanılır; oysa bu sadece en zengin %1'in alışkanlığıydı.",
     "nextTopics": [
       "Thermopolium",
@@ -1616,7 +1616,7 @@
       "gladiator-colosseum"
     ],
     "difficulty": "easy",
-    "readingTimeMinutes": 2,
+    "readingTimeMinutes": 4,
     "verificationStatus": "verified",
     "sourceQuality": "strong",
     "lastReviewedAt": "2026-05-09",
@@ -1624,21 +1624,21 @@
     "spoilerLevel": "none",
     "images": {
       "hero": {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Thermopolium_Regio_V_Pompeii.jpg/800px-Thermopolium_Regio_V_Pompeii.jpg",
+        "src": "/images/reconstructions/roman-fast-food.png",
         "alt": "Pompeii Thermopolium",
-        "caption": "Pompeii’de 2020’de gün yüzüne çıkarılan bir sıcak yemek tezgahı (Thermopolium).",
-        "credit": "Parco Archeologico di Pompei",
+        "caption": "Antik Pompeii'deki bir sıcak yemek tezgahının (Thermopolium) yüksek kaliteli tarihsel canlandırması.",
+        "credit": "Medyadan Gerçeğe Yapay Zeka Canlandırması",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thermopolium_Regio_V_Pompeii.jpg",
         "license": "CC BY-SA 4.0",
-        "type": "historical"
+        "type": "reconstruction"
       },
       "thumbnail": {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Thermopolium_Regio_V_Pompeii.jpg/300px-Thermopolium_Regio_V_Pompeii.jpg",
+        "src": "/images/reconstructions/roman-fast-food.png",
         "alt": "Roma Fast Food",
-        "credit": "Pompeii Park",
+        "credit": "Medyadan Gerçeğe",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thermopolium_Regio_V_Pompeii.jpg",
         "license": "CC BY-SA 4.0",
-        "type": "historical"
+        "type": "reconstruction"
       }
     },
     "mediaConnection": "Bu kart, Pompeii / Rome yapımındaki tarihsel anlatıdan yola çıkar.",
@@ -8548,7 +8548,7 @@
     "mediaType": "film",
     "mediaTitle": "Oppenheimer",
     "difficulty": "medium",
-    "readingTimeMinutes": 1,
+    "readingTimeMinutes": 4,
     "verificationStatus": "verified",
     "sourceQuality": "strong",
     "themes": [
@@ -8567,7 +8567,7 @@
     ],
     "quickRealityCheck": "Oppenheimer filminde Trinity testi bir başarı hikayesi olarak biter; oysa test alanının yakınındaki New Mexico sakinleri (Downwinders), haftalarca gökten yağan 'beyaz külün' aslında ne olduğunu bilmeden radyoaktif zehirlenmeye maruz bırakılmışlardır.",
     "mediaChanged": "Filmde çevre halkına verilen zarardan neredeyse hiç bahsedilmez. Gerçekte ise test öncesi halk tahliye edilmemiş, sonrasında ise radyoaktif serpintinin zararları on yıllarca gizlenmiştir.",
-    "realHistory": "16 Temmuz 1945'teki patlama sonrası, radyoaktif toz bulutu rüzgarla 150 mil uzağa kadar taşındı. Bölgedeki köylüler, içme suyu kuyularına ve ekinlerine yağan bu külün bir 'volkanik olay' veya 'kum fırtınası' olduğunu sandılar. İzleyen yıllarda bölgedeki kanser oranları ve bebek ölümleri ülke ortalamasının çok üzerine çıktı. ABD hükümeti, 1990 yılına kadar bu insanlara (Downwinders) tazminat ödemeyi veya radyasyonun etkilerini kabul etmeyi reddetti. Trinity testi, sadece bir bilimsel başarı değil, aynı zamanda sivil halk üzerinde kontrolsüz bir radyoaktif deneyin başlangıcıydı.",
+    "realHistory": "Trinity testi genellikle bilimsel bir zafer olarak kutlansa da, hemen sonrasındaki çevresel etkileri çok sıkı korunan bir devlet sırrıydı. 'Downwinders' (Rüzgar Altındakiler), 16 Temmuz 1945 patlamasından kaynaklanan radyoaktif serpintinin yolu üzerinde yaşayan, çoğunluğu Hispanik ve yerli çiftçi ailelerinden oluşan Güney New Mexico sakinleriydi.\n\n### 'Kirli' Patlama\nTrinity'de kullanılan plütonyum bombası modern standartlara göre verimsizdi; bu da radyoaktif malzemenin çoğunun infilak etmek yerine buharlaşarak atmosfere karıştığı anlamına geliyordu. Serpinti bulutu 100 milden fazla yol kat ederek sığırların, ekinlerin ve su sarnıçlarının üzerine çöktü. Yerel halk, yaz ortasında kar gibi yağan 'ince beyaz bir tozdan' bahsetmiştir.\n\n### On Yıllar Süren Sessizlik\nTest 'Çok Gizli' olduğu için bölge sakinleri asla uyarılmadı veya tahliye edilmedi. İzleyen yıllarda yerel doktorlar bebek ölümlerinde ve nadir kanser türlerinde büyük bir artış kaydetti, ancak hükümet on yıllar boyunca herhangi bir bağlantıyı reddetti. 1990 tarihli Radyasyona Maruz Kalma Tazminat Yasası (RECA), başlangıçta New Mexico Downwinders'ı dışarıda bıraktı; bu durum 2020'lere kadar yoğun bir hukuki ve siyasi mücadelenin konusu olmaya devam etti.\n\n### Bilimin İnsani Maliyeti\nBu trajedi, Manhattan Projesi'nin etik 'kör noktalarını' gözler önüne sermektedir. Los Alamos'taki bilim adamları dünyanın geleceğini tartışırken, kendi arka bahçelerinde yaşayan insanlar Atom Çağı'nın istemeden de olsa ilk kurbanları haline geldiler. Downwinders'ın hikayesinin birçok ana akım tarihte (Oppenheimer filmiyle ilgili bazı eleştiriler dahil) yer almaması, tanınma ve adalet arayışının hala sürdüğünü göstermektedir.",
     "whyItMatters": "Trinity kurbanlarının hikayesi, bilimsel ilerleme hırsının etik sınırlarını ve devletlerin 'ulusal güvenlik' adına neleri gizleyebileceğini gösterir.",
     "sources": [
       {
@@ -9450,7 +9450,7 @@
     "mediaType": "game",
     "mediaTitle": "Mafia",
     "difficulty": "medium",
-    "readingTimeMinutes": 1,
+    "readingTimeMinutes": 4,
     "verificationStatus": "verified",
     "sourceQuality": "strong",
     "themes": [
@@ -9469,7 +9469,7 @@
     ],
     "quickRealityCheck": "Mafia oyunlarında aile liderlerini öldürerek suç örgütünü bitirirsiniz; gerçek hayatta ise mafyayı bitiren şey silahlar değil, 1970'te çıkan ve liderleri tetikçilerin işlediği suçlardan sorumlu tutan RICO yasasıdır.",
     "mediaChanged": "Oyunlarda mafya her zaman güçlü bir aile bağıyla korunur. Gerçekte RICO yasası sonrası hapis cezaları o kadar arttı ki, mafyanın en sadık üyeleri (Omerta'yı bozarak) itirafçı olmaya başladılar.",
-    "realHistory": "RICO (Racketeer Influenced and Corrupt Organizations Act) öncesinde, bir mafya babasını tutuklamak neredeyse imkansızdı; çünkü emirleri onlar veriyor ama suçları tetikçiler işliyordu. RICO yasası, savcılara bir örgütün 'parçası olmayı' kendi başına bir suç olarak tanımlama gücü verdi. Yani bir tetikçi cinayet işlediyse, savcı o cinayetin 'örgütün çıkarı için' yapıldığını kanıtlayıp lideri de cinayetten hapse atabiliyordu. Bu yasa sayesinde 1980'lerde New York'un 'Beş Aile' lideri (The Commission) aynı anda hapse gönderildi. Bu, Amerikan mafyasının 'altın çağının' resmi olarak sonu demekti.",
+    "realHistory": "1970 öncesinde, FBI ve federal savcılar Amerikan Mafyasını çökertmekte büyük zorluklar yaşıyordu. Münferit suçlar için 'askerleri' tutuklayabiliyorlardı, ancak 'Babalar' katı bir sessizlik kodu (Omertà) ve bürokrasi katmanları sayesinde dokunulmaz kalıyordu. 1970'te çıkan RICO (Racketeer Influenced and Corrupt Organizations) yasası, oyunun kurallarını kökten değiştirdi.\n\n### Örgütü Hedef Almak\nRICO, savcıların bireyleri bir 'suç işletmesinin' parçası oldukları için suçlamalarına olanak tanıdı; bu kişiler söz konusu cinayet veya haraç suçlarını bizzat işlememiş olsalar bile. Eğer bir lider cinayet emri verdiyse, artık tetikçi kadar sorumlu tutulabiliyordu. Bu 'işletme teorisi' yaklaşımı, hükümetin Beş Aile'nin tüm yapısını tek bir seferde hedef almasını sağladı.\n\n### Komisyon Davası\nRICO'nun en ünlü uygulaması, o dönem federal savcı olan Rudy Giuliani liderliğindeki 1985-86 Komisyon Davası'ydı. İlk kez New York'un beş büyük ailesinin liderleri aynı anda yargılandı ve mahkum edildi. Bu durum, mafyanın 'Altın Çağı'nı resmen sona erdirdi. Liderler artık kısa hapis cezaları yerine ömür boyu hapisle karşı karşıyaydı; bu da birçoğunun kendilerini kurtarmak için sessizlik kodunu bozmasına neden oldu.\n\n### Mafyanın Ötesinde\nMafya için tasarlanmış olsa da, RICO'nun geniş kapsamlı dili daha sonra beyaz yakalı suçlar, uyuşturucu kartelleri ve hatta siyasi yolsuzlukları hedef almak için kullanıldı. Günümüzde hala federal savcıların elindeki en güçlü araç olmaya devam ediyor ve Amerikan kolluk kuvvetlerinin organize suça yaklaşımını reaktif olmaktan çıkarıp sistemsel bir hale dönüzştürüyor.",
     "whyItMatters": "RICO yasası, organize suçla mücadelede hukukun nasıl bir silah olarak kullanılabileceğini gösteren bir devrimdir.",
     "sources": [
       {

@@ -2013,9 +2013,9 @@
       "Culture"
     ],
     "whatWeSee": "Romans eating quickly at street-side counters and socializing in busy urban centers.",
-    "realHistory": "In Ancient Rome, home kitchens were a luxury. Most urban dwellers lived in wooden apartment blocks (insulae) where cooking was a fire hazard. They relied on Thermopoliums—ancient fast-food joints with L-shaped marble counters and hot food jars (dolia). Pompeii alone had over 150 of these establishments.",
+    "realHistory": "In Ancient Rome, home kitchens were a luxury. Most urban dwellers lived in wooden apartment blocks (insulae) where cooking was a fire hazard. They relied on Thermopoliums—ancient fast-food joints with L-shaped marble counters and hot food jars (dolia). Pompeii alone had over 150 of these establishments.\n\n### The Social Hub of the Plebeians\nThese establishments were the essential kitchen of the city for the Roman working class (plebeians). For many, the thermopolium provided the only hot meal of the day. The social atmosphere was lively but often viewed with suspicion by the upper classes, who associated these 'popina' (taverns) with gambling, low-born gossip, and political dissent.\n\n### The Regio V Discovery\nThe 2020 discovery of a fully preserved Thermopolium in Pompeii's Regio V changed our understanding of Roman street food. The counter was decorated with vibrant frescoes depicting a mallard duck and a rooster—likely visual menus for a semi-literate population. Residue analysis confirmed the menu included:\n* Snail and sheep stews\n* Crushed fava beans in wine (likely to alter color and taste)\n* Porridge made from barley and grains\n\n### Urban Logistics\nThe 'dolia' embedded in the counters were designed to store dried foods or keep stews warm. Contrary to popular belief, they weren't always filled with liquid food; archaeological evidence suggests they were multi-functional storage units. This network of street-side counters represents one of the earliest examples of organized urban food logistics.",
     "accuracyNote": "The 2020 discovery of a fully preserved Thermopolium in Pompeii Regio V confirmed the Roman diet included duck, goat, and fish stews.",
-    "whyInteresting": "The favorite Roman condiment was Garum, a fermented fish sauce so popular it was a major commodity alongside oil and wine.",
+    "whyInteresting": "The favorite Roman condiment was Garum, a fermented fish sauce so popular it was a major commodity alongside oil and wine. Recent residue analysis at the Regio V site even found traces of crushed fava beans at the bottom of wine jars—likely used to bleach the wine and alter its flavor, showing a level of 'fast-food' customization we still see today.",
     "misconception": "Romans are often thought to have always eaten while reclining at lavish banquets; in reality, this was a habit reserved only for the wealthiest 1%.",
     "nextTopics": [
       "Thermopolium",
@@ -2034,7 +2034,7 @@
       "gladiator-colosseum"
     ],
     "difficulty": "easy",
-    "readingTimeMinutes": 2,
+    "readingTimeMinutes": 4,
     "verificationStatus": "verified",
     "sourceQuality": "strong",
     "lastReviewedAt": "2026-05-09",
@@ -2042,11 +2042,11 @@
     "spoilerLevel": "none",
     "images": {
       "hero": {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Thermopolium_Regio_V_Pompeii.jpg/800px-Thermopolium_Regio_V_Pompeii.jpg",
+        "src": "/images/reconstructions/roman-fast-food.png",
         "alt": "Pompeii Thermopolium",
-        "caption": "A hot food counter (Thermopolium) unearthed in Pompeii in 2020.",
-        "credit": "Parco Archeologico di Pompei",
-        "type": "historical"
+        "caption": "A high-quality historical reconstruction of a hot food counter (Thermopolium) in Pompeii.",
+        "credit": "Medyadan Gerçeğe AI Reconstruction",
+        "type": "reconstruction"
       }
     },
     "mediaConnection": "This card explores the historical daily life depicted in Pompeii / Rome.",
@@ -5668,7 +5668,7 @@
       "Health",
       "USA"
     ],
-    "realHistory": "The Trinity test was not just a scientific milestone but an environmental catastrophe for local residents. Radioactive fallout from the July 16, 1945 explosion was carried by winds across New Mexico, settling on crops, livestock, and water supplies. These residents, now known as 'Downwinders,' saw a spike in rare cancers and infant mortality in the following decades. For years, the government denied the connection, and these communities were excluded from the Radiation Exposure Compensation Act (RECA). Their story highlights the 'human collateral' of the nuclear age.",
+    "realHistory": "While the Trinity test is often celebrated as a scientific triumph, its immediate environmental impact was a closely guarded secret. The 'Downwinders' were the residents of southern New Mexico—mostly Hispanic and Indigenous farming families—who lived in the path of the radioactive fallout from the July 16, 1945 explosion.\n\n### The 'Dirty' Explosion\nThe plutonium bomb used at Trinity was inefficient by modern standards, meaning much of the radioactive material didn't detonate but was instead vaporized and carried into the atmosphere. The fallout cloud traveled over 100 miles, settling on cattle, crops, and cisterns. Locals reported a 'fine white powder' falling like snow in the middle of summer.\n\n### Decades of Silence\nBecause the test was Top Secret, residents were never warned or evacuated. In the following years, local doctors noted a spike in infant mortality and rare cancers, but the government denied any link for decades. The Radiation Exposure Compensation Act (RECA) of 1990 originally excluded the New Mexico downwinders, a historical exclusion that remained a point of intense legal and political struggle until the 2020s.\n\n### The Human Cost of Science\nThis tragedy highlights the ethical 'blind spots' of the Manhattan Project. While scientists at Los Alamos debated the future of the world, the people living in their own backyard became the unintended first casualties of the Atomic Age. The omission of the Downwinders' story in many mainstream histories (including some criticisms of the *Oppenheimer* film) reflects the ongoing struggle for recognition and justice.",
     "accuracyNote": "The film focuses on the scientists; however, historical records show significant impact on local civilian populations.",
     "nextTopics": [
       "Trinity Test",
@@ -5691,7 +5691,7 @@
       "oppenheimer-trinity"
     ],
     "difficulty": "medium",
-    "readingTimeMinutes": 1,
+    "readingTimeMinutes": 4,
     "verificationStatus": "Verified",
     "sourceQuality": "Strong",
     "spoilerLevel": "minor",
@@ -5825,7 +5825,7 @@
       "Modern History",
       "Society"
     ],
-    "realHistory": "In 1966, a massive coal tip (waste heap) collapsed in the Welsh village of Aberfan, engulfing a primary school and killing 144 people, mostly children. The disaster was caused by corporate negligence and poor oversight. The Queen's delayed visit to the site became a significant moment of personal and institutional reflection, as depicted in The Crown. It led to stricter safety regulations for the mining industry.",
+    "realHistory": "On October 21, 1966, a massive coal tip (waste heap) overlooking the Welsh village of Aberfan collapsed after heavy rain, creating a slurry that engulfed Pantglas Junior School and several houses. The tragedy claimed 144 lives, including 116 children who had just arrived for their morning lessons.\n\n### A Preventable Catastrophe\nThe disaster was not a 'natural act of God,' as initially claimed by some officials. The National Coal Board (NCB) had ignored repeated warnings from the local council and villagers about the stability of Tip 7, which was built over a natural spring. The saturated coal waste liquefied into a sliding mass that moved at over 20 miles per hour, hitting the school with terrifying force.\n\n### The Institutional Failure\nThe subsequent inquiry by the Davies Tribunal found the NCB entirely responsible. However, no one was ever prosecuted, fined, or even demoted for the negligence. This lack of accountability sparked deep resentment in the Welsh mining communities and led to a permanent shift in how industrial safety was regulated in the UK.\n\n### The Queen's Response\nAs depicted in *The Crown*, Queen Elizabeth II's decision to wait eight days before visiting Aberfan was one of the most criticized moments of her reign. She later admitted that the delay was one of her 'greatest regrets.' When she finally arrived, the raw grief of the village had transformed into a somber, silent strength. The visit marked a rare moment where the monarch's personal stoicism collided with the visceral tragedy of her subjects.",
     "accuracyNote": "The depiction of the village's grief and the institutional response is widely regarded as accurate.",
     "nextTopics": [
       "Coal Mining Safety",
@@ -5843,7 +5843,7 @@
       "the-crown-monarchy"
     ],
     "difficulty": "medium",
-    "readingTimeMinutes": 1,
+    "readingTimeMinutes": 4,
     "verificationStatus": "Verified",
     "sourceQuality": "Strong",
     "spoilerLevel": "minor",
@@ -6026,7 +6026,7 @@
       "Law",
       "USA"
     ],
-    "realHistory": "For decades, Mafia bosses were untouchable because they never personally committed crimes. The 1970 RICO (Racketeer Influenced and Corrupt Organizations) Act changed everything by allowing prosecutors to charge bosses for the actions of their subordinates. This legal tool was the 'silver bullet' that eventually led to the collapse of the American Mafia's iron grip on New York.",
+    "realHistory": "Before 1970, the FBI and federal prosecutors struggled to dismantle the American Mafia. They could arrest individual 'soldiers' for specific crimes, but the 'Bosses' remained untouchable, insulated by layers of bureaucracy and a strict code of silence (Omertà). The Racketeer Influenced and Corrupt Organizations (RICO) Act changed the rules of engagement.\n\n### Attacking the Organization\nRICO allowed prosecutors to charge individuals for being part of a 'criminal enterprise,' even if they didn't personally commit the underlying crimes like murder or extortion. If a boss ordered a hit, he could be held just as responsible as the hitman. This 'enterprise theory' of investigation allowed the government to target the entire structure of the Five Families at once.\n\n### The Commission Trial\nThe most famous application of RICO was the 1985-86 Commission Trial, led by then-U.S. Attorney Rudy Giuliani. For the first time, the heads of all five New York families were indicted and convicted simultaneously. This effectively ended the 'Golden Age' of the Mafia, as bosses faced life sentences instead of short stays in prison, leading many to break the code of silence to save themselves.\n\n### Beyond the Mob\nWhile designed for the Mafia, RICO's broad language has since been used to target white-collar crime, drug cartels, and even political corruption. It remains the most powerful tool in the federal prosecutor's arsenal, transforming American law enforcement's approach to organized crime from reactive to systemic.",
     "accuracyNote": "Legal experts agree that RICO was the most effective tool against organized crime in US history.",
     "nextTopics": [
       "The Commission",
@@ -6049,7 +6049,7 @@
       "mafia-five-families"
     ],
     "difficulty": "medium",
-    "readingTimeMinutes": 1,
+    "readingTimeMinutes": 4,
     "verificationStatus": "Verified",
     "sourceQuality": "Strong",
     "spoilerLevel": "none",
