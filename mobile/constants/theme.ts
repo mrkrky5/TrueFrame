@@ -1,0 +1,20 @@
+/** True Frame — arşiv paleti (web globals.css ile uyumlu) */
+export const theme = {
+  bg: "#EDE9E1",
+  paper: "#F5F2EB",
+  surface: "#FFFFFF",
+  surfaceMuted: "#E4DFD4",
+  surfaceInset: "#DAD4C8",
+  ink: "#0a0a0a",
+  muted: "#5c5c5c",
+  accent: "#8B4513",
+  accentSoft: "rgba(139, 69, 19, 0.14)",
+  border: "rgba(0,0,0,0.09)",
+  borderStrong: "rgba(0,0,0,0.14)",
+  cardDark: "#0a0a0a",
+  white: "#ffffff",
+  success: "#16a34a",
+  spoilerMinor: "#f59e0b",
+  spoilerMajor: "#ef4444",
+  spoilerMinorSoft: "#fef3c7",
+} as const;

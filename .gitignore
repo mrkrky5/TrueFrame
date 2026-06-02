@@ -45,3 +45,23 @@ node_modules/
 .next/
 .env.local
 .env
+
+# native app build script backups (should not be committed)
+*.native-build-bak
+
+# expo
+/mobile/node_modules
+/mobile/.expo
+/mobile/dist
+/mobile/.expo-check-export
+/mobile/.vscode
+
+# local editor/workspace
+/.vscode
+
+# local/generated reports
+/scripts/audit-content-output.json
+
+# large temporary content import artifacts
+/docs/incoming/*.json
+!/docs/incoming/.gitkeep

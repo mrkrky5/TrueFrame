@@ -1,6 +1,6 @@
-# Media to Reality / Medyadan Gerçeğe — V1 & Responsive Architecture Walkthrough
+# True Frame — V1 & Responsive Architecture Walkthrough
 
-This document summarizes the final changes made to stabilize and fully localize **Medyadan Gerçeğe**.
+This document summarizes the final changes made to stabilize and fully localize **True Frame**.
 
 ## 🚀 Key Improvements
 
@@ -59,8 +59,8 @@ This document summarizes the final changes made to stabilize and fully localize 
 - **Cross-Surface Stability**: Confirmed that Website Mode and App Mode coexist perfectly without layout regression or asset collisions.
 
 ### 10. Android Wrapper Foundation (Capacitor Setup)
-- **Hosted App Architecture**: Initialized Capacitor with a hosted URL strategy targeting `medyadangercege.com?surface=app`.
-- **Native Container**: Established the `android/` project structure with the package identifier `com.medyadangercege.app`.
+- **Hosted App Architecture**: Initialized Capacitor with a hosted URL strategy targeting `trueframe.app?surface=app`.
+- **Native Container**: Established the `android/` project structure with the package identifier `com.trueframe.app`.
 - **Environment Audit**: Verified that the development environment (Node, JDK 17, ADB) is fully equipped for Android compilation.
 - **Sync & Validation**: Successfully synchronized web assets and confirmed that the addition of mobile dependencies has zero impact on web stability.
 

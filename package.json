@@ -1,34 +1,26 @@
 {
-  "name": "medyadan-gercege",
-  "version": "0.1.0",
+  "name": "true-frame",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint",
+    "mobile": "npm run start --prefix mobile",
+    "mobile:sync": "node scripts/setup-mobile-links.mjs",
+    "mobile:ios": "npm run ios --prefix mobile",
+    "mobile:web": "npm run mobile:sync && npm run web --prefix mobile",
+    "mobile:windows": "node scripts/run-mobile-windows.mjs",
+    "mobile:check": "node scripts/check-mobile.mjs",
+    "content:audit": "node scripts/audit-content.mjs",
+    "content:backfill": "node scripts/backfill-card-fields.mjs --write",
+    "content:parity": "node scripts/fix-card-parity.mjs --write",
+    "content:import": "node scripts/import-card-batch.mjs",
+    "content:polish": "node scripts/polish-card-batch.mjs",
+    "content:fix-spoilers": "node scripts/fix-spoiler-levels.mjs",
+    "content:sync-routes": "node scripts/sync-routes-batch.mjs --write",
+    "content:mood-tags": "node scripts/backfill-mood-tags.mjs --write",
+    "content:branding": "node scripts/check-branding.mjs",
     "validate:en-content": "node scripts/validate-en-content.js"
   },
-  "dependencies": {
-    "@capacitor/app": "^8.1.0",
-    "@capacitor/browser": "^8.0.3",
-    "@capacitor/core": "^8.3.4",
-    "@capacitor/status-bar": "^8.0.2",
-    "lucide-react": "^1.14.0",
-    "next": "16.2.6",
-    "react": "19.2.4",
-    "react-dom": "19.2.4"
-  },
   "devDependencies": {
-    "@capacitor/android": "^8.3.4",
-    "@capacitor/cli": "^8.3.4",
-    "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "16.2.6",
-    "tailwindcss": "^4",
-    "typescript": "^5"
+    "@types/node": "^20"
   }
 }

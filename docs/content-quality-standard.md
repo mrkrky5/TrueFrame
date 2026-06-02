@@ -1,6 +1,6 @@
-# Medyadan Gerçeğe: İçerik Kalite Standardı ve Üretim Protokolü
+# True Frame: İçerik Kalite Standardı ve Üretim Protokolü
 
-Bu doküman, "Medyadan Gerçeğe" (From Media to Reality) platformu için üretilecek tüm içeriklerin uyması gereken temel kuralları ve kalite standartlarını belirler. Amacımız, basit bir bilgi yarışması (trivia) uygulaması değil, premium bir **medyadan-tarihe keşif platformu** oluşturmaktır.
+Bu doküman, True Frame platformu için üretilecek tüm içeriklerin uyması gereken temel kuralları ve kalite standartlarını belirler. Amacımız, basit bir bilgi yarışması (trivia) uygulaması değil, premium bir **medya–tarih keşif platformu** (True Frame) oluşturmaktır.
 
 ---
 

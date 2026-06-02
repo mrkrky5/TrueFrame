@@ -1,0 +1,55 @@
+{
+  "expo": {
+    "name": "True Frame",
+    "slug": "true-frame",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "trueframe",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#EDE9E1",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.trueframe.app"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash-icon.png",
+          "resizeMode": "contain",
+          "backgroundColor": "#EDE9E1"
+        }
+      ],
+      "expo-image",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/images/icon.png",
+          "color": "#8B4513"
+        }
+      ],
+      [
+        "react-native-google-mobile-ads",
+        {
+          "iosAppId": "ca-app-pub-1571569580384263~3153506477",
+          "androidAppId": "ca-app-pub-3940256099942544~3347511713"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "REPLACE_AFTER_eas_init"
+      }
+    }
+  }
+}

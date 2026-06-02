@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "version": 1,
+    "task": "200 yeni kart — medya + tarih (örnek şablon, kartları doldur)",
+    "author": "",
+    "expectedTr": 200,
+    "expectedEn": 200,
+    "notes": "TR ve EN aynı id. Mevcut uygulama kartlarının id'lerini tekrarlama."
+  },
+  "batches": [
+    {
+      "locale": "tr",
+      "cards": []
+    },
+    {
+      "locale": "en",
+      "cards": []
+    }
+  ]
+}
