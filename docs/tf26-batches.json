@@ -1,0 +1,585 @@
+{
+  "generatedAt": "2026-06-02T20:59:10.476Z",
+  "totalNeedingPatch": 63,
+  "sizes": [
+    20,
+    20,
+    23
+  ],
+  "batches": [
+    {
+      "id": 1,
+      "label": "batch-1",
+      "size": 20,
+      "cardIds": [
+        "tf26-052-kamikaze",
+        "tf26-032-raids-trade",
+        "tf26-072-guilds",
+        "tf26-132-operation-fortitude",
+        "tf26-172-bootlegging",
+        "tf26-192-quarantine",
+        "tf26-020-fall-myth",
+        "tf26-040-stamford-bridge",
+        "tf26-028-theatre",
+        "tf26-036-vinland",
+        "tf26-044-danish-settlement",
+        "tf26-048-names-identity",
+        "tf26-056-island-defense",
+        "tf26-060-clan-loyalty",
+        "tf26-064-hostage-system",
+        "tf26-068-port-trade",
+        "tf26-076-markets",
+        "tf26-080-literacy",
+        "tf26-084-treasure-myth",
+        "tf26-088-maps-navigation"
+      ],
+      "blocks": [
+        "assassins-creed-odyssey",
+        "boardwalk-empire",
+        "ghost-of-tsushima",
+        "gladiator",
+        "kingdom-come-deliverance",
+        "period-films",
+        "pirates-of-the-caribbean",
+        "saving-private-ryan",
+        "shogun",
+        "the-last-kingdom",
+        "vikings"
+      ],
+      "cards": [
+        {
+          "id": "tf26-052-kamikaze",
+          "title": "Kamikaze Rüzgarı",
+          "block": "ghost-of-tsushima",
+          "action": "ai_full",
+          "priority": 93
+        },
+        {
+          "id": "tf26-032-raids-trade",
+          "title": "Yağma ve Ticaret",
+          "block": "vikings",
+          "action": "ai_full",
+          "priority": 92
+        },
+        {
+          "id": "tf26-072-guilds",
+          "title": "Lonca Düzeni",
+          "block": "kingdom-come-deliverance",
+          "action": "ai_full",
+          "priority": 92
+        },
+        {
+          "id": "tf26-132-operation-fortitude",
+          "title": "Fortitude Aldatması",
+          "block": "saving-private-ryan",
+          "action": "ai_full",
+          "priority": 92
+        },
+        {
+          "id": "tf26-172-bootlegging",
+          "title": "Kaçak İçki",
+          "block": "boardwalk-empire",
+          "action": "ai_full",
+          "priority": 92
+        },
+        {
+          "id": "tf26-192-quarantine",
+          "title": "Karantina Fikri",
+          "block": "period-films",
+          "action": "ai_full",
+          "priority": 87
+        },
+        {
+          "id": "tf26-020-fall-myth",
+          "title": "Roma'nın Çöküş Efsanesi",
+          "block": "gladiator",
+          "action": "ai_full",
+          "priority": 83
+        },
+        {
+          "id": "tf26-040-stamford-bridge",
+          "title": "Stamford Bridge",
+          "block": "vikings",
+          "action": "ai_full",
+          "priority": 83
+        },
+        {
+          "id": "tf26-028-theatre",
+          "title": "Tiyatro ve Polis",
+          "block": "assassins-creed-odyssey",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-036-vinland",
+          "title": "Vinland Yolculuğu",
+          "block": "vikings",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-044-danish-settlement",
+          "title": "Dan Yerleşimleri",
+          "block": "the-last-kingdom",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-048-names-identity",
+          "title": "İsim ve Kimlik",
+          "block": "the-last-kingdom",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-056-island-defense",
+          "title": "Ada Savunması",
+          "block": "ghost-of-tsushima",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-060-clan-loyalty",
+          "title": "Klan Sadakati",
+          "block": "ghost-of-tsushima",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-064-hostage-system",
+          "title": "Rehine Düzeni",
+          "block": "shogun",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-068-port-trade",
+          "title": "Liman Ticareti",
+          "block": "shogun",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-076-markets",
+          "title": "Pazarlar",
+          "block": "kingdom-come-deliverance",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-080-literacy",
+          "title": "Okuryazarlık",
+          "block": "kingdom-come-deliverance",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-084-treasure-myth",
+          "title": "Gömülü Hazine",
+          "block": "pirates-of-the-caribbean",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-088-maps-navigation",
+          "title": "Harita ve Seyir",
+          "block": "pirates-of-the-caribbean",
+          "action": "ai_full",
+          "priority": 77
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "label": "batch-2",
+      "size": 20,
+      "cardIds": [
+        "tf26-096-sans-culottes",
+        "tf26-100-napoleon-rise",
+        "tf26-104-enslavement-contradiction",
+        "tf26-108-constitution",
+        "tf26-124-messengers",
+        "tf26-128-war-horses",
+        "tf26-136-canadian-beaches",
+        "tf26-140-memory",
+        "tf26-144-hanford",
+        "tf26-156-soviet-secrecy",
+        "tf26-160-energy-politics",
+        "tf26-168-computers-transition",
+        "tf26-176-women-reformers",
+        "tf26-180-public-health",
+        "tf26-184-royal-media",
+        "tf26-188-royal-finance",
+        "tf26-196-medieval-hygiene",
+        "tf26-200-memory",
+        "tf26-024-oracle-delphi",
+        "tf26-148-hiroshima-context"
+      ],
+      "blocks": [
+        "1917",
+        "assassins-creed-odyssey",
+        "assassins-creed-unity",
+        "boardwalk-empire",
+        "chernobyl",
+        "hamilton",
+        "hidden-figures",
+        "oppenheimer",
+        "period-films",
+        "saving-private-ryan",
+        "the-crown"
+      ],
+      "cards": [
+        {
+          "id": "tf26-096-sans-culottes",
+          "title": "Sans-Culottes",
+          "block": "assassins-creed-unity",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-100-napoleon-rise",
+          "title": "Napolyon'un Yükselişi",
+          "block": "assassins-creed-unity",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-104-enslavement-contradiction",
+          "title": "Kölelik Çelişkisi",
+          "block": "hamilton",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-108-constitution",
+          "title": "Anayasa Tartışması",
+          "block": "hamilton",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-124-messengers",
+          "title": "Cephe Habercileri",
+          "block": "1917",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-128-war-horses",
+          "title": "Savaş Atları",
+          "block": "1917",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-136-canadian-beaches",
+          "title": "Kanada Sahilleri",
+          "block": "saving-private-ryan",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-140-memory",
+          "title": "D-Day Hafızası",
+          "block": "saving-private-ryan",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-144-hanford",
+          "title": "Hanford",
+          "block": "oppenheimer",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-156-soviet-secrecy",
+          "title": "Sovyet Gizliliği",
+          "block": "chernobyl",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-160-energy-politics",
+          "title": "Enerji Siyaseti",
+          "block": "chernobyl",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-168-computers-transition",
+          "title": "Bilgisayara Geçiş",
+          "block": "hidden-figures",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-176-women-reformers",
+          "title": "Kadın Reformcular",
+          "block": "boardwalk-empire",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-180-public-health",
+          "title": "Kamu Sağlığı",
+          "block": "boardwalk-empire",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-184-royal-media",
+          "title": "Saray ve Medya",
+          "block": "the-crown",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-188-royal-finance",
+          "title": "Kraliyet Finansmanı",
+          "block": "the-crown",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-196-medieval-hygiene",
+          "title": "Orta Çağ Temizliği",
+          "block": "period-films",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-200-memory",
+          "title": "Kara Ölüm Hafızası",
+          "block": "period-films",
+          "action": "ai_full",
+          "priority": 77
+        },
+        {
+          "id": "tf26-024-oracle-delphi",
+          "title": "Delphi Kehaneti",
+          "block": "assassins-creed-odyssey",
+          "action": "ai_full",
+          "priority": 72
+        },
+        {
+          "id": "tf26-148-hiroshima-context",
+          "title": "Hiroşima Bağlamı",
+          "block": "oppenheimer",
+          "action": "ai_full",
+          "priority": 72
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "label": "batch-3",
+      "size": 23,
+      "cardIds": [
+        "tf26-164-apollo-11",
+        "tf26-022-sparta-childhood",
+        "tf26-042-burhs",
+        "tf26-062-foreign-pilots",
+        "tf26-082-blackbeard",
+        "tf26-102-hamilton-finance",
+        "tf26-122-artillery",
+        "tf26-162-segregation",
+        "tf26-027-slavery",
+        "tf26-037-shieldmaidens",
+        "tf26-047-shield-wall",
+        "tf26-067-seppuku",
+        "tf26-087-naval-punishment",
+        "tf26-097-women-march",
+        "tf26-107-french-alliance",
+        "tf26-127-colonial-troops",
+        "tf26-137-french-civilians",
+        "tf26-157-firefighters",
+        "tf26-167-mission-control",
+        "tf26-177-repeal",
+        "tf26-187-public-grief",
+        "tf26-197-doctors",
+        "tf26-142-trinity-test"
+      ],
+      "blocks": [
+        "1917",
+        "assassins-creed-odyssey",
+        "assassins-creed-unity",
+        "boardwalk-empire",
+        "chernobyl",
+        "hamilton",
+        "hidden-figures",
+        "oppenheimer",
+        "period-films",
+        "pirates-of-the-caribbean",
+        "saving-private-ryan",
+        "shogun",
+        "the-crown",
+        "the-last-kingdom",
+        "vikings"
+      ],
+      "cards": [
+        {
+          "id": "tf26-164-apollo-11",
+          "title": "Apollo 11",
+          "block": "hidden-figures",
+          "action": "ai_full",
+          "priority": 72
+        },
+        {
+          "id": "tf26-022-sparta-childhood",
+          "title": "Sparta Eğitimi",
+          "block": "assassins-creed-odyssey",
+          "action": "ai_fields",
+          "priority": 50
+        },
+        {
+          "id": "tf26-042-burhs",
+          "title": "Burh Savunmaları",
+          "block": "the-last-kingdom",
+          "action": "ai_fields",
+          "priority": 50
+        },
+        {
+          "id": "tf26-062-foreign-pilots",
+          "title": "Yabancı Denizciler",
+          "block": "shogun",
+          "action": "ai_fields",
+          "priority": 50
+        },
+        {
+          "id": "tf26-082-blackbeard",
+          "title": "Karasakal Efsanesi",
+          "block": "pirates-of-the-caribbean",
+          "action": "ai_fields",
+          "priority": 50
+        },
+        {
+          "id": "tf26-102-hamilton-finance",
+          "title": "Hamilton'ın Finans Sistemi",
+          "block": "hamilton",
+          "action": "ai_fields",
+          "priority": 50
+        },
+        {
+          "id": "tf26-122-artillery",
+          "title": "Topçu Ateşi",
+          "block": "1917",
+          "action": "ai_fields",
+          "priority": 50
+        },
+        {
+          "id": "tf26-162-segregation",
+          "title": "Ayrımcılık Sistemi",
+          "block": "hidden-figures",
+          "action": "ai_fields",
+          "priority": 50
+        },
+        {
+          "id": "tf26-027-slavery",
+          "title": "Yunan Köleliği",
+          "block": "assassins-creed-odyssey",
+          "action": "ai_fields",
+          "priority": 47
+        },
+        {
+          "id": "tf26-037-shieldmaidens",
+          "title": "Kalkanlı Kadınlar",
+          "block": "vikings",
+          "action": "ai_fields",
+          "priority": 47
+        },
+        {
+          "id": "tf26-047-shield-wall",
+          "title": "Kalkan Duvarı",
+          "block": "the-last-kingdom",
+          "action": "ai_fields",
+          "priority": 47
+        },
+        {
+          "id": "tf26-067-seppuku",
+          "title": "Seppuku Gerçeği",
+          "block": "shogun",
+          "action": "ai_fields",
+          "priority": 47
+        },
+        {
+          "id": "tf26-087-naval-punishment",
+          "title": "Deniz Cezaları",
+          "block": "pirates-of-the-caribbean",
+          "action": "ai_fields",
+          "priority": 47
+        },
+        {
+          "id": "tf26-097-women-march",
+          "title": "Kadınların Yürüyüşü",
+          "block": "assassins-creed-unity",
+          "action": "ai_fields",
+          "priority": 47
+        },
+        {
+          "id": "tf26-107-french-alliance",
+          "title": "Fransız İttifakı",
+          "block": "hamilton",
+          "action": "ai_fields",
+          "priority": 47
+        },
+        {
+          "id": "tf26-127-colonial-troops",
+          "title": "Sömürge Askerleri",
+          "block": "1917",
+          "action": "ai_fields",
+          "priority": 47
+        },
+        {
+          "id": "tf26-137-french-civilians",
+          "title": "Fransız Siviller",
+          "block": "saving-private-ryan",
+          "action": "ai_fields",
+          "priority": 47
+        },
+        {
+          "id": "tf26-157-firefighters",
+          "title": "İtfaiyeciler",
+          "block": "chernobyl",
+          "action": "ai_fields",
+          "priority": 47
+        },
+        {
+          "id": "tf26-167-mission-control",
+          "title": "Görev Kontrol",
+          "block": "hidden-figures",
+          "action": "ai_fields",
+          "priority": 47
+        },
+        {
+          "id": "tf26-177-repeal",
+          "title": "Yasağın Kalkması",
+          "block": "boardwalk-empire",
+          "action": "ai_fields",
+          "priority": 47
+        },
+        {
+          "id": "tf26-187-public-grief",
+          "title": "Kamusal Yas",
+          "block": "the-crown",
+          "action": "ai_fields",
+          "priority": 47
+        },
+        {
+          "id": "tf26-197-doctors",
+          "title": "Veba Doktorları",
+          "block": "period-films",
+          "action": "ai_fields",
+          "priority": 47
+        },
+        {
+          "id": "tf26-142-trinity-test",
+          "title": "Trinity Deneyi",
+          "block": "oppenheimer",
+          "action": "ai_fields",
+          "priority": 45
+        }
+      ]
+    }
+  ]
+}

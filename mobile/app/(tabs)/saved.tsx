@@ -1,5 +1,5 @@
 import { Link } from "expo-router";
-import React, { useMemo } from "react";
+import React, { useMemo, useRef } from "react";
 import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Ionicons } from "@expo/vector-icons";
@@ -16,9 +16,34 @@ import { useLocale } from "@/context/LocaleContext";
 import { sortCardsByReadState } from "@shared/cardSort";
 import { getCards } from "@shared/content";
 import { usePrimaryTabFocus } from "@/hooks/usePrimaryTabFocus";
+import { useTabScrollToTop } from "@/hooks/useTabScrollToTop";
+
+function SavedEmptyCard({ t }: { t: (key: string) => string }) {
+  return (
+    <View style={styles.emptyBox}>
+      <View style={styles.emptyIconWrap}>
+        <Ionicons name="library-outline" size={36} color={theme.accent} />
+      </View>
+      <Text style={styles.emptyTitle}>{t("globalEmptyTitle")}</Text>
+      <Text style={styles.emptyDesc}>{t("globalEmptyDesc")}</Text>
+      <Link href="/" asChild>
+        <Pressable style={styles.primaryBtn}>
+          <Text style={styles.primaryBtnText}>{t("globalEmptyPrimaryCta")}</Text>
+        </Pressable>
+      </Link>
+      <Link href="/explore" asChild>
+        <Pressable style={styles.secondaryBtn}>
+          <Text style={styles.secondaryBtnText}>{t("globalEmptySecondaryCta")}</Text>
+        </Pressable>
+      </Link>
+    </View>
+  );
+}
 
 export default function SavedScreen() {
   usePrimaryTabFocus("saved");
+  const scrollRef = useRef<ScrollView>(null);
+  useTabScrollToTop("saved", scrollRef);
   const insets = useSafeAreaInsets();
   const { locale, dictionary } = useLocale();
   const { savedIds, recentIds, readIds, ready } = useHistory();
@@ -39,22 +64,26 @@ export default function SavedScreen() {
 
   const t = (key: string) => dictionary.saved?.[key as keyof typeof dictionary.saved] ?? key;
   const savedReturn = { kind: "tab" as const, tab: "saved" as const };
-  const empty = ready && saved.length === 0 && recent.length === 0 && read.length === 0;
+  const showGlobalEmpty =
+    ready && saved.length === 0 && recent.length === 0 && read.length === 0;
+  const showSavedEmptyCard = ready && saved.length === 0 && !showGlobalEmpty;
   const bottomPad = tabBarBottomInset(insets.bottom) + 16;
 
   if (!ready) {
     return (
-      <View style={[styles.screen, { paddingTop: insets.top + 16 }]}>
+      <View style={[styles.screen, { paddingTop: insets.top + 8 }]}>
         <ListTabSkeleton />
       </View>
     );
   }
 
   return (
+    <View style={[styles.screen, { paddingTop: insets.top + 8, flex: 1 }]}>
     <ScrollView
-      style={styles.screen}
-      contentContainerStyle={[styles.content, { paddingTop: insets.top + 16, paddingBottom: bottomPad }]}
-      contentInsetAdjustmentBehavior="automatic"
+      ref={scrollRef}
+      style={styles.scroll}
+      contentContainerStyle={[styles.content, { paddingBottom: bottomPad }]}
+      contentInsetAdjustmentBehavior="never"
     >
       <View style={styles.headerRow}>
         <View style={styles.headerText}>
@@ -73,26 +102,11 @@ export default function SavedScreen() {
         </Link>
       </View>
 
-      {empty ? (
-        <View style={styles.emptyBox}>
-          <View style={styles.emptyIconWrap}>
-            <Ionicons name="library-outline" size={36} color={theme.accent} />
-          </View>
-          <Text style={styles.emptyTitle}>{t("globalEmptyTitle")}</Text>
-          <Text style={styles.emptyDesc}>{t("globalEmptyDesc")}</Text>
-          <Link href="/" asChild>
-            <Pressable style={styles.primaryBtn}>
-              <Text style={styles.primaryBtnText}>{t("globalEmptyPrimaryCta")}</Text>
-            </Pressable>
-          </Link>
-          <Link href="/explore" asChild>
-            <Pressable style={styles.secondaryBtn}>
-              <Text style={styles.secondaryBtnText}>{t("globalEmptySecondaryCta")}</Text>
-            </Pressable>
-          </Link>
-        </View>
+      {showGlobalEmpty ? (
+        <SavedEmptyCard t={t} />
       ) : (
         <>
+          {showSavedEmptyCard ? <SavedEmptyCard t={t} /> : null}
           {saved.length > 0 ? (
             <Section title={t("savedItems")}>
               {saved.map((c) => (
@@ -138,6 +152,7 @@ export default function SavedScreen() {
 
       <FeedbackCard />
     </ScrollView>
+    </View>
   );
 }
 
@@ -152,6 +167,7 @@ function Section({ title, children }: { title: string; children: React.ReactNode
 
 const styles = StyleSheet.create({
   screen: { flex: 1, backgroundColor: theme.bg },
+  scroll: { flex: 1 },
   content: { paddingHorizontal: 20 },
   headerRow: { flexDirection: "row", alignItems: "flex-start", justifyContent: "space-between", marginBottom: 24 },
   headerText: { flex: 1, paddingRight: 12 },
@@ -179,6 +195,7 @@ const styles = StyleSheet.create({
     borderRadius: 24,
     padding: 28,
     alignItems: "center",
+    marginBottom: 24,
   },
   emptyTitle: { fontSize: 22, fontWeight: "600", color: theme.ink, textAlign: "center", marginBottom: 10 },
   emptyDesc: { fontSize: 14, lineHeight: 22, color: theme.muted, textAlign: "center", marginBottom: 24 },
@@ -191,7 +208,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     marginBottom: 10,
   },
-  primaryBtnText: { color: theme.white, fontSize: 11, fontWeight: "800", letterSpacing: 1.5 },
+  primaryBtnText: { color: theme.white, fontSize: 14, fontWeight: "700" },
   secondaryBtn: {
     borderRadius: 16,
     paddingVertical: 14,
@@ -201,7 +218,7 @@ const styles = StyleSheet.create({
     ...surfaces.inset,
     borderColor: theme.borderStrong,
   },
-  secondaryBtnText: { color: theme.ink, fontSize: 10, fontWeight: "800", letterSpacing: 1.2 },
+  secondaryBtnText: { color: theme.ink, fontSize: 13, fontWeight: "700" },
   section: {
     marginBottom: 24,
     padding: 14,

@@ -1,5 +1,5 @@
 import { Link } from "expo-router";
-import { useMemo } from "react";
+import { useMemo, useRef } from "react";
 import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 
@@ -10,9 +10,12 @@ import { useHistory } from "@/context/HistoryContext";
 import { useLocale } from "@/context/LocaleContext";
 import { getCards, getRoutes } from "@shared/content";
 import { usePrimaryTabFocus } from "@/hooks/usePrimaryTabFocus";
+import { useTabScrollToTop } from "@/hooks/useTabScrollToTop";
 
 export default function RoutesScreen() {
   usePrimaryTabFocus("routes");
+  const scrollRef = useRef<ScrollView>(null);
+  useTabScrollToTop("routes", scrollRef);
   const insets = useSafeAreaInsets();
   const { locale, dictionary } = useLocale();
   const { readIds, ready } = useHistory();
@@ -34,10 +37,12 @@ export default function RoutesScreen() {
   const bottomPad = tabBarBottomInset(insets.bottom) + 16;
 
   return (
+    <View style={[styles.screen, { paddingTop: insets.top + 8, flex: 1 }]}>
     <ScrollView
-      style={styles.screen}
-      contentContainerStyle={[styles.content, { paddingTop: insets.top + 16, paddingBottom: bottomPad }]}
-      contentInsetAdjustmentBehavior="automatic"
+      ref={scrollRef}
+      style={styles.scroll}
+      contentContainerStyle={[styles.content, { paddingBottom: bottomPad }]}
+      contentInsetAdjustmentBehavior="never"
     >
       <Text style={styles.badge}>{dictionary.routes?.learningJourneys ?? "TARİHSEL YOLCULUK"}</Text>
       <Text style={styles.title}>{dictionary.nav.routes}</Text>
@@ -76,11 +81,13 @@ export default function RoutesScreen() {
         </Link>
       ))}
     </ScrollView>
+    </View>
   );
 }
 
 const styles = StyleSheet.create({
   screen: { flex: 1, backgroundColor: theme.bg },
+  scroll: { flex: 1 },
   content: { paddingHorizontal: 20 },
   badge: {
     fontSize: 9,

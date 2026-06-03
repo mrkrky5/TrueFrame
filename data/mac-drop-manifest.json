@@ -1,0 +1,18 @@
+{
+  "note": "Windows → Mac zip paketi. pack-mac-drop.mjs ile üretilir.",
+  "swipeCopy": [
+    "mobile/app/_layout.tsx",
+    "mobile/app/(tabs)/_layout.tsx",
+    "mobile/app/card/_layout.tsx",
+    "mobile/app/card/[id].tsx",
+    "mobile/hooks/useOpenCard.ts",
+    "mobile/components/HistoryCard.tsx",
+    "mobile/components/CardRow.tsx"
+  ],
+  "deleteOnMac": [
+    "mobile/app/(tabs)/card/[id].tsx",
+    "mobile/app/(tabs)/card/_layout.tsx",
+    "mobile/hooks/useReaderGestureBack.ts"
+  ],
+  "deleteOptionalDirs": ["mobile/app/(tabs)/card"]
+}

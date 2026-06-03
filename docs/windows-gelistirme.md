@@ -34,6 +34,10 @@ npm run mobile
 
 Expo Go ile QR okut.
 
+## Mac’e içerik gönderme (zip)
+
+Tek tek dosya yerine: `npm run pack:mac` → swipe **7 dosya** + Mac’te silinecek **3 dosya** listesi dahil → `npm run mobile:sync`. Ayrıntı: `docs/mac-content-drop.md`.
+
 ## iOS TestFlight (Mac gerekmez)
 
 ```powershell

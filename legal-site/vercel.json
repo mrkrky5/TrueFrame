@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/tr/privacy", "destination": "/tr/privacy.html" },
+    { "source": "/tr/support", "destination": "/tr/support.html" },
+    { "source": "/tr/terms", "destination": "/tr/terms.html" },
+    { "source": "/", "destination": "/index.html" }
+  ]
+}

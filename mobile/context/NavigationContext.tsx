@@ -14,6 +14,8 @@ type NavigationContextValue = {
   setReaderReturn: (value: ReaderReturn | null) => void;
   getExploreScrollOffset: () => number;
   setExploreScrollOffset: (offset: number) => void;
+  registerTabScrollToTop: (tab: PrimaryTab, fn: () => void) => () => void;
+  scrollPrimaryTabToTop: (tab: PrimaryTab) => void;
   tabBarSuppressed: boolean;
   setTabBarSuppressed: (value: boolean) => void;
 };
@@ -25,6 +27,8 @@ const NavigationContext = createContext<NavigationContextValue>({
   setReaderReturn: () => {},
   getExploreScrollOffset: () => 0,
   setExploreScrollOffset: () => {},
+  registerTabScrollToTop: () => () => {},
+  scrollPrimaryTabToTop: () => {},
   tabBarSuppressed: false,
   setTabBarSuppressed: () => {},
 });
@@ -34,6 +38,7 @@ export function NavigationProvider({ children }: { children: React.ReactNode }) 
   const [readerReturn, setReaderReturnState] = useState<ReaderReturn | null>(null);
   const [tabBarSuppressed, setTabBarSuppressedState] = useState(false);
   const exploreScrollOffsetRef = useRef(0);
+  const tabScrollHandlersRef = useRef<Partial<Record<PrimaryTab, () => void>>>({});
 
   const setLastPrimaryTab = useCallback((tab: PrimaryTab) => {
     setLastPrimaryTabState(tab);
@@ -53,6 +58,19 @@ export function NavigationProvider({ children }: { children: React.ReactNode }) 
 
   const getExploreScrollOffset = useCallback(() => exploreScrollOffsetRef.current, []);
 
+  const registerTabScrollToTop = useCallback((tab: PrimaryTab, fn: () => void) => {
+    tabScrollHandlersRef.current[tab] = fn;
+    return () => {
+      if (tabScrollHandlersRef.current[tab] === fn) {
+        delete tabScrollHandlersRef.current[tab];
+      }
+    };
+  }, []);
+
+  const scrollPrimaryTabToTop = useCallback((tab: PrimaryTab) => {
+    tabScrollHandlersRef.current[tab]?.();
+  }, []);
+
   const value = useMemo(
     () => ({
       lastPrimaryTab,
@@ -61,6 +79,8 @@ export function NavigationProvider({ children }: { children: React.ReactNode }) 
       setReaderReturn,
       getExploreScrollOffset,
       setExploreScrollOffset,
+      registerTabScrollToTop,
+      scrollPrimaryTabToTop,
       tabBarSuppressed,
       setTabBarSuppressed,
     }),
@@ -71,6 +91,8 @@ export function NavigationProvider({ children }: { children: React.ReactNode }) 
       setReaderReturn,
       getExploreScrollOffset,
       setExploreScrollOffset,
+      registerTabScrollToTop,
+      scrollPrimaryTabToTop,
       tabBarSuppressed,
       setTabBarSuppressed,
     ]

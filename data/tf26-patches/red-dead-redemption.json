@@ -1,0 +1,330 @@
+{
+  "block": "red-dead-redemption",
+  "cardIds": [
+    "tf26-111-outlaw-myth",
+    "tf26-112-railroad-frontier",
+    "tf26-113-cattle-drives",
+    "tf26-114-pinkertons",
+    "tf26-115-reservation-system",
+    "tf26-116-boomtowns",
+    "tf26-117-frontier-law",
+    "tf26-118-bounty-hunters",
+    "tf26-119-women-frontier"
+  ],
+  "patches": {
+    "tf26-111-outlaw-myth": {
+      "tr": {
+        "subtitle": "Kovboy efsanesi, kayıt tutan devletle nasıl çatıştı?",
+        "whatWeSee": "Red Dead Redemption 2'de posterlerdeki 'Wanted' yüzleri, banka soygunları ve çetenin dağlarda saklanması; kasabaya girince artan federal baskı.",
+        "quickRealityCheck": "Oyun kanunsuzu romantize ederken, 1890'larda gerçekten kaçacak boş arazi kaldı mı?",
+        "realHistory": "Vahşi Batı kanunsuzu, çoğu zaman tek bir silahşordan çok altyapı değişiminin yan etkisiydi. Demiryolu, telgraf ve federal ajanslar suçlunun saklanacağı mesafeyi daralttı.\n\nButch Cassidy, Jesse James veya oyundaki Van der Linde çetesi gibi gruplar kısa süre ünlü oldu; ardından Pinkertonlar ve eyalet milisleri hat ve kayıt sistemiyle baskıyı sürdürdü. Kanun kaçağı miti, gazetelerin ve dime novel'ların ürünü; günlük hayatta ise vergi, kredi ve arazi kaydı belirleyiciydi.\n\nRed Dead bu çelişkiyi bilinçli kullanır: Arthur hâlâ özgürlük arar, dünya ise 1911'e doğru 'düzenli' ABD'ye kapanır.",
+        "mediaChanged": "Oyun çeteyi kahramanlık ölçeğinde gösterir; arşivler aynı dönemde çoğu 'kanunsuz'un kısa ömürlü, ekonomik ve etnik çatışmalarla iç içe olduğunu yazar.",
+        "whyItMatters": "Popüler kültürdeki kovboy imgesi, devletin sınırı nasıl kapattığını gölgeleyebilir; bu kart o gölgeyi açar.",
+        "accuracyNote": "Van der Linde çetesi kurgusaldır; Pinkerton baskısı, sınırın kapanması ve çete çöküşleri tarihsel çerçevede doğrudur.",
+        "mediaConnection": "Red Dead Redemption 2'deki çete anlatısı ile 1890'lar federal takip ağını karşılaştırır.",
+        "relatedCardIds": ["rdr2-frontier", "tf26-114-pinkertons", "tf26-112-railroad-frontier"],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "When the outlaw myth met a state that kept records",
+        "whatWeSee": "In Red Dead Redemption 2, wanted posters, bank robberies, and the gang hiding in the hills—then tighter federal pressure every time you ride into town.",
+        "quickRealityCheck": "The game romanticizes outlaws—but by the 1890s, was there still empty country left to hide in?",
+        "realHistory": "Western outlaws were often a side effect of infrastructure, not lone gunslingers. Railroads, telegraphs, and federal agencies shrank the distance a fugitive could run.\n\nGroups like Butch Cassidy's Wild Bunch became famous briefly; Pinkertons and state militias then used lines and paperwork to keep pressure on. The outlaw myth sold newspapers and dime novels; daily life was shaped by taxes, credit, and land records.\n\nRed Dead uses that tension on purpose: Arthur still searches for freedom while the world closes toward a more regulated United States by 1911.",
+        "mediaChanged": "The game scales the gang to heroic proportions; archives show most outlaws in this era were short-lived and tied to economic and ethnic conflict.",
+        "whyItMatters": "The cowboy image in pop culture can hide how the state closed the frontier; this card opens that gap.",
+        "accuracyNote": "The Van der Linde gang is fictional; Pinkerton pressure, the closing frontier, and gang collapses fit the historical frame.",
+        "mediaConnection": "Compares Red Dead Redemption 2's gang story with the federal pursuit network of the 1890s.",
+        "relatedCardIds": ["rdr2-frontier", "tf26-114-pinkertons", "tf26-112-railroad-frontier"],
+        "readingTimeMinutes": 3
+      }
+    },
+    "tf26-112-railroad-frontier": {
+      "tr": {
+        "subtitle": "Tren hattı gelince sınır neden kapandı?",
+        "whatWeSee": "RDR2'de Valentine'ın çamurlu caddeleri ile Saint Denis'in tren garı, telegraf direkleri ve demiryolu inşaatı; federal ajanların kasabalara gelişi.",
+        "quickRealityCheck": "Oyunda tren sadece ulaşım mı—yoksa Arthur'un özgürlük alanını gerçekten mi daraltıyor?",
+        "realHistory": "Demiryolu Sınırı, 19. yüzyıl sonunda Vahşi Batı mitinin fiilen bittiği çizgiyi işaret eder. 1890'larda federal hükümet, kıtada artık 'boş' toprak kalmadığını ilan etti; oyun bu dönüşümü küçük kasaba ile modern şehir arasındaki uçurumla hissettirir.\n\n### Tren kasabayı merkeze bağlar\nPacific Railway Act (1862) ve tamamlanan hatlar sığır, posta ve federal memuru aynı güzergâha taşıdı. Kasaba artık yalnızca yerel şerifin insafına kalmaz; demiryolu şirketi tarifeleri, ABD postası ve Washington'dan gelen yargıçlar pazar ve vergiyi yeniden kurar.\n\n### Kaçacak mesafe kısalır\nArthur'un dünyasında hâlâ soygun ve kaçış vardır; gerçekte telegraf ve hat, suçlunun saklanacağı boşluğu daraltır. Pinkertonlar ve milisler at yerine trenle hareket eder.\n\n### Toprak ve rezervasyon hatları keser\nHatlar rezervasyon sınırlarını ve çiftçi topraklarını böler; Homestead ve şirket hibeleri çatışmayı büyütür. Tren sesi, sınırın kapandığının duyusal işaretidir.\n\nBugün bu başlık, lojistiğin devlet inşası olduğunu hatırlatır: Vahşi Batı silahla değil, ray ve kayıtla evcilleşti.",
+        "mediaChanged": "Oyun demiryolunu atmosfer ve görev ritmi için kullanır; gerçekte hatlar kasaba hukukunu, zaman takvimini (1883 zaman dilimleri) ve yerli toprak kayıtlarını aynı anda dönüştürdü.",
+        "whyItMatters": "Modern ABD'nin 'düzen' miti, sınırda demiryolu ve federal kayıtla başlar; RDR bu kapanışı trajedi olarak verir.",
+        "accuracyNote": "Saint Denis ve kasaba tasvirleri stilize; demiryolunun sınırı kapattığı ve Pinkerton baskısının arttığı ana hat doğrudur.",
+        "mediaConnection": "Red Dead Redemption 2'deki tren ve kasaba çatısı ile transcontinental demiryolu ve sınırın kapanışı.",
+        "sources": [
+          {
+            "title": "Pacific Railway Act (National Archives)",
+            "url": "https://www.archives.gov/milestone-documents/pacific-railway-act",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "How the Railroad Changed America (Smithsonian)",
+            "url": "https://www.smithsonianmag.com/history/how-railroad-changed-face-america-180971927/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": ["rdr-railroads-frontier", "rdr-pinkerton-agency", "tf26-116-boomtowns"],
+        "readingTimeMinutes": 6
+      },
+      "en": {
+        "subtitle": "Why the railroad line ended the open frontier",
+        "whatWeSee": "In RDR2, Valentine's muddy main street versus Saint Denis station, telegraph poles, and track construction—and federal agents arriving in towns.",
+        "quickRealityCheck": "In-game, is the train only transport—or does it really shrink Arthur's room to roam?",
+        "realHistory": "The railroad frontier marks where the Wild West myth effectively ended in the late nineteenth century. By the 1890s the federal government declared that no 'empty' land remained; the game conveys that shift through the gap between a small town and a modern city.\n\n### Tracks tie towns to the center\nThe Pacific Railway Act (1862) and completed lines moved cattle, mail, and federal officers on the same corridors. Towns were no longer at the mercy of a local sheriff alone—rail rates, U.S. mail, and judges from Washington reshaped markets and taxes.\n\n### Less room to hide\nArthur's world still has robberies and escapes; in reality telegraph and rail shrank the space where fugitives could vanish. Pinkertons and militias moved by train as much as by horse.\n\n### Lines cut land and reservations\nTracks crossed reservation boundaries and homestead claims; corporate and federal land grants fed conflict. The sound of a train became a sensory signal that the frontier was closing.\n\nToday the topic reminds us that logistics built the state: the West was tamed by rail and paperwork as much as by guns.",
+        "mediaChanged": "The game uses railroads for mood and mission pacing; historically lines rewrote town law, standard time zones (1883), and Native land records at once.",
+        "whyItMatters": "The myth of an 'ordered' modern United States starts at the frontier with rail and federal records; RDR stages that closure as tragedy.",
+        "accuracyNote": "Saint Denis and town portrayals are stylized; the core arc—rail closing the frontier and rising Pinkerton pressure—is sound.",
+        "mediaConnection": "Red Dead Redemption 2's trains and town contrast versus the transcontinental railroad and closing of the frontier.",
+        "sources": [
+          {
+            "title": "Pacific Railway Act (National Archives)",
+            "url": "https://www.archives.gov/milestone-documents/pacific-railway-act",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "How the Railroad Changed America (Smithsonian)",
+            "url": "https://www.smithsonianmag.com/history/how-railroad-changed-face-america-180971927/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": ["rdr-railroads-frontier", "rdr-pinkerton-agency", "tf26-116-boomtowns"],
+        "readingTimeMinutes": 6
+      }
+    },
+    "tf26-113-cattle-drives": {
+      "tr": {
+        "subtitle": "Sığır sürüsü ekonomisi, raylar gelince neden bitti?",
+        "whatWeSee": "Oyunda açık arazide sürüler, çitler ve kasaba mezbahası; uzak pazara giden yol üzerinde çatışmalar.",
+        "quickRealityCheck": "RDR'de kovboy sürüsü hâlâ özgürlük mü—yoksa tel örgü ve trenle biten bir meslek mi?",
+        "realHistory": "1860-1880'lerde Texas'tan Kansas demiryolu kasabalarına uzanan sığır sürüşleri, Vahşi Batı ekonomisinin bel kemiğiydi. Çobanlar aylarca açık arazide yürüdü; kasabada sığır satılıp doğuya trenle gönderildi.\n\n1880'lerden sonra tel çitler, barınak çiftlikleri ve soğutmalı vagonlar açık aralığı kapattı. Sürüşler kısaldı; yerel yetiştirme ve raylı taşıma ucuzladı. Oyunun çit ve tren sahneleri bu kapanışın izini taşır.\n\nSürüş dönemi aynı zamanda yerli toprak kaybı ve Anglo çiftçi genişlemesiyle çakışır; romantik kovboy imajı bu çatışmayı sıkça gizler.",
+        "mediaChanged": "Oyun sürüşü aksiyon ve manzara için kısaltır; gerçekte aylar süren emek, fırtına kaybı ve borç ilişkileri vardı.",
+        "whyItMatters": "Amerikan et endüstrisinin raylara taşınması, sınır ekonomisinin son büyük dalgasıdır.",
+        "accuracyNote": "Karakter ve zaman çizgisi oyun için sıkıştırılmış; sığır sürüşlerinin 1880 sonrası çöküşü doğrudur.",
+        "mediaConnection": "Red Dead Redemption'daki açık arazi sürüleri ile Great Plains sığır yolları.",
+        "relatedCardIds": ["tf26-112-railroad-frontier", "rdr-railroads-frontier"],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Why cattle drives died when the rails arrived",
+        "whatWeSee": "Open-range herds, fences, and town stockyards in-game; fights along the trail to distant markets.",
+        "quickRealityCheck": "In RDR, is the cattle drive still freedom—or a job ended by barbed wire and trains?",
+        "realHistory": "From the 1860s to the 1880s, drives from Texas to Kansas rail towns were the backbone of the western cattle economy. Cowboys walked for months; cattle sold in town and shipped east by train.\n\nAfter the 1880s barbed wire, fenced ranches, and refrigerated cars closed the open range. Drives shortened; local feeding and rail freight grew cheaper. The game's fences and trains echo that shutdown.\n\nThe drive era overlapped with Native land loss and Anglo farmer expansion—the romantic cowboy image often hides that conflict.",
+        "mediaChanged": "The game compresses drives into action and scenery; real trails meant months of labor, storm losses, and debt.",
+        "whyItMatters": "Moving the U.S. meat industry onto rails was the last big wave of frontier economics.",
+        "accuracyNote": "Characters and timelines are compressed for play; the post-1880 collapse of long drives is accurate.",
+        "mediaConnection": "Red Dead Redemption open-range scenes versus Great Plains cattle trails.",
+        "relatedCardIds": ["tf26-112-railroad-frontier", "rdr-railroads-frontier"],
+        "readingTimeMinutes": 3
+      }
+    },
+    "tf26-114-pinkertons": {
+      "tr": {
+        "subtitle": "Pinkertonlar: şerif değil, şirket ordusu",
+        "whatWeSee": "RDR2'de takip eden ajanlar, çete üzerinde baskı ve 'We never sleep' tonu; kasabada resmi otoriteden daha güçlü özel güç.",
+        "quickRealityCheck": "Oyundaki Pinkertonlar kötü adam mı—yoksa federal polis öncesi özel ordu mu?",
+        "realHistory": "Allan Pinkerton'un 1850'de kurduğu ajans, tren soygunları ve kanun kaçakları için demiryolu şirketlerince tutuldu. Lincoln'ü koruduğu dönemler de vardı; ama 1890'larda grev kırma ve işçi baskısıyla ünlendi.\n\n1892 Homestead Grevi'nde açılan ateş kamuoyunda ajansı hedef aldı; ABD'de özel şirketlerin kolluk gibi çalışmasına sınırlar getirildi. RDR2 bu ikili yüzü dramatikleştirir: Arthur'a avcı, tarihte aynı kurum grevlere de müdahale etti.",
+        "mediaChanged": "Oyun ajansı kişisel düşman yapar; gerçekte Pinkertonlar aynı anda koruma, istihbarat ve işçi baskısı satıyordu.",
+        "whyItMatters": "Özel güvenliğin devletten büyük olduğu anlar, bugünkü tartışmalara da yol açar.",
+        "accuracyNote": "Bazı görevler kurgusal; Pinkertonların grev ve sınır takibindeki rolü belgelenmiştir.",
+        "mediaConnection": "Red Dead Redemption 2 Pinkerton baskısı ile gerçek ajans arşivleri.",
+        "relatedCardIds": ["rdr-pinkerton-agency", "tf26-111-outlaw-myth"],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Pinkertons: not sheriffs, a corporate army",
+        "whatWeSee": "In RDR2, agents hunting the gang, relentless pressure, and authority that sometimes feels stronger than local law.",
+        "quickRealityCheck": "Are the game's Pinkertons simply villains—or a private army before the FBI?",
+        "realHistory": "Allan Pinkerton's agency (founded 1850) was hired by railroads to pursue robbers and outlaws. It also guarded Lincoln—but by the 1890s it was notorious for strike-breaking.\n\nGunfire at the Homestead Strike (1892) turned public opinion; limits followed on private firms acting like police. RDR2 dramatizes that dual face: hunters for Arthur, strike-breakers in the record.",
+        "mediaChanged": "The game personalizes the agency as an enemy; historically Pinkerton sold protection, intelligence, and labor suppression at once.",
+        "whyItMatters": "Moments when private security rivaled the state still echo in modern debates.",
+        "accuracyNote": "Some missions are fictional; Pinkerton roles in strikes and frontier pursuit are documented.",
+        "mediaConnection": "Red Dead Redemption 2 Pinkerton pressure versus agency archives.",
+        "relatedCardIds": ["rdr-pinkerton-agency", "tf26-111-outlaw-myth"],
+        "readingTimeMinutes": 3
+      }
+    },
+    "tf26-115-reservation-system": {
+      "tr": {
+        "subtitle": "Rezervasyon sınırı haritada neden keskin?",
+        "whatWeSee": "Oyunda Wapiti ve çevresindeki yerli topluluk, federal baskı ve toprak kaybı; askeri üs ve tren hattına yakınlık.",
+        "quickRealityCheck": "RDR2 yerli hikâyesi duygusal—peki rezervasyon sınırları gerçekte nasıl çizildi?",
+        "realHistory": "19. yüzyıl sonunda ABD, yerli toplulukları rezervasyonlara topladı; Dawes Act (1887) ortak toprakları parçalayıp satışa açtı. Sınır çizgileri haritada keskin, hayatta geçim daraldı.\n\nDemiryolu ve çiftçi göçü bu sınırları deldi; federal ordu ve ajanslar ihlali cezalandırdı. Oyun Wapiti hattında bu sıkışmayı anlatır; tarihsel ölçek daha geniş ve daha acımasızdır.\n\nRezervasyon sistemi, sınırın kapanmasının görünmez yüzüdür: aynı raylar kasabayı 'düzene' sokarken yerli toprakları küçültür.",
+        "mediaChanged": "Oyun topluluğu odaklı bir ark anlatır; politika ve yasalar sahnede tam açılmaz.",
+        "whyItMatters": "Vahşi Batı romantizmi, toprak el değiştirmesini sıkça arka plana iter.",
+        "accuracyNote": "Karakterler kurgusal; rezervasyon, Dawes Act ve askeri baskı ana hatları doğrudur.",
+        "mediaConnection": "Red Dead Redemption 2 Wapiti çizgisi ile ABD rezervasyon politikası.",
+        "relatedCardIds": ["tf26-112-railroad-frontier", "rdr2-frontier"],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Why reservation lines looked so sharp on the map",
+        "whatWeSee": "The Wapiti community, federal pressure, and land loss in-game—close to forts and the railroad.",
+        "quickRealityCheck": "RDR2's Native storyline is emotional—but how were reservation borders actually drawn?",
+        "realHistory": "By the late 1800s the U.S. consolidated Native nations onto reservations; the Dawes Act (1887) split communal land for sale. Borders looked sharp on maps; livelihoods narrowed.\n\nRailroads and settler migration crossed those lines; the army and agencies punished breaches. The game channels that squeeze through Wapiti; the historical scale was wider and harsher.\n\nReservations are the hidden face of the closing frontier: the same rails that 'ordered' towns also shrank Native land.",
+        "mediaChanged": "The game tells a community arc; the full legal machinery stays off-screen.",
+        "whyItMatters": "Frontier romance often backgrounds land transfer.",
+        "accuracyNote": "Characters are fictional; reservations, the Dawes Act, and military pressure match the broad record.",
+        "mediaConnection": "Red Dead Redemption 2's Wapiti line versus U.S. reservation policy.",
+        "relatedCardIds": ["tf26-112-railroad-frontier", "rdr2-frontier"],
+        "readingTimeMinutes": 3
+      }
+    },
+    "tf26-116-boomtowns": {
+      "tr": {
+        "subtitle": "Bir gecede kurulan kasaba, tren gelince neden solar?",
+        "whatWeSee": "Tumbleweed gibi terk edilmiş kasabalar ile Rhodes/Valentine'da canlı pazar; tren düdüğüyle gelen yeni dükkanlar ve banka.",
+        "quickRealityCheck": "Oyundaki 'patlama kasabası' gerçekten altın bulunca mı doğar—yoksa hat planına mı bağlı?",
+        "realHistory": "Vahşi Batı'da 'boomtown'lar maden, sığır veya demiryolu durakları etrafında birkaç ayda yükseldi. Saloon, banka ve silah dükkanı açılır; nüfus patlardı.\n\n### Ray gelince merkez kayar\nHat güzergâhı değişince veya maden tükenince kasaba boşalır—Tumbleweed'in terk edilmiş sokakları bu döngünün oyun versiyonudur. Tren, hangi kasabanın yaşayacağını seçer.\n\n### Spekülasyon ve borç\nArsa fiyatları spekülatörlerle şişer; banka iflası ve yangın sık görülür. 'Patlama' çoğu zaman kısa ömürlüdür.\n\n### Federal kayıt ve vergi\nKasaba 'düzene' girince posta, vergi ve yargı gelir; eski kaçak ekonomi çöküşle birlikte kaybolur.\n\nRDR2 bu döngüyü atmosferle verir: canlı kasaba ile hayalet kasaba yan yana, sınırın ekonomik nabzını gösterir.",
+        "mediaChanged": "Oyun boş kasabayı dramatik mekân yapar; gerçekte terk ediliş çoğu zaman iflas, kuraklık veya hat kaymasıdır.",
+        "whyItMatters": "Bugünkü ABD kasaba haritası, 19. yüzyıl demiryolu spekülasyonunun izidir.",
+        "accuracyNote": "İsimler ve harita kurgusal; boom-bust kasaba döngüsü iyi belgelenmiştir.",
+        "mediaConnection": "Red Dead Redemption 2 kasaba çiftleri ile demiryolu boomtown tarihi.",
+        "sources": [
+          {
+            "title": "Homestead and Western Towns (National Archives)",
+            "url": "https://www.archives.gov/milestone-documents/homestead-act",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Ghost Towns and the Railroad West (NPS)",
+            "url": "https://www.nps.gov/subjects/railroad/index.htm",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": ["tf26-112-railroad-frontier", "rdr-railroad-conquest"],
+        "readingTimeMinutes": 6
+      },
+      "en": {
+        "subtitle": "Why a boomtown faded when the train stopped coming",
+        "whatWeSee": "Ghost towns like Tumbleweed beside busy Rhodes or Valentine—new shops and banks when the whistle blows.",
+        "quickRealityCheck": "In-game, is a boomtown born from gold—or from where the railroad planners put a stop?",
+        "realHistory": "Western boomtowns rose in months around mines, cattle, or rail stops. Saloons, banks, and gun shops opened; populations spiked.\n\n### When the line moved, the town died\nIf the route shifted or ore ran out, streets emptied—Tumbleweed is the game's version of that cycle. Trains chose which towns lived.\n\n### Speculation and debt\nLot prices ballooned; bank failures and fires were common. Most 'booms' were short-lived.\n\n### Mail, tax, and courts\nAs towns entered 'order,' post offices, taxes, and judges arrived—and the old extralegal economy collapsed with the bust.\n\nRDR2 shows the pulse of the closing frontier: lively town and ghost town side by side.",
+        "mediaChanged": "The game makes empty towns dramatic set pieces; real abandonments were often bankruptcy, drought, or a missed rail line.",
+        "whyItMatters": "Today's map of small-town America still traces nineteenth-century rail speculation.",
+        "accuracyNote": "Names and maps are fictional; the boom-bust town cycle is well documented.",
+        "mediaConnection": "Red Dead Redemption 2 town pairs versus railroad boomtown history.",
+        "sources": [
+          {
+            "title": "Homestead and Western Towns (National Archives)",
+            "url": "https://www.archives.gov/milestone-documents/homestead-act",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Ghost Towns and the Railroad West (NPS)",
+            "url": "https://www.nps.gov/subjects/railroad/index.htm",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": ["tf26-112-railroad-frontier", "rdr-railroad-conquest"],
+        "readingTimeMinutes": 6
+      }
+    },
+    "tf26-117-frontier-law": {
+      "tr": {
+        "subtitle": "Sınırda 'kanun' kimin elindeydi?",
+        "whatWeSee": "Kasabada şerif ofisi, bounty posterları ve federal ajanların görevleri; aynı suç için yerel ve federal ceza çatışması.",
+        "quickRealityCheck": "Arthur için kanun mu düşman—yoksa hangi kurumun kanunu olduğu mu belirsiz?",
+        "realHistory": "1890'larda Vahşi Batı'da hukuk katmanlıydı: yerel şerif, eyalet yargıcı, federal marshal ve şirket ajansları (Pinkerton) aynı coğrafyada yarıştı.\n\nTelgraf ve tren haber taşıdıkça suçlar eyaletler arası izlendi; 'kaçmak' zorlaştı. Dodge City veya Deadwood gibi kasabalar önce kaotikti, sonra federal kayıt ve banka sistemiyle 'düzene' girdi.\n\nOyun bu geçişi dramatize eder: eski silah hukuku ile yeni kâğıt hukuku çarpışır.",
+        "mediaChanged": "Oyun hukuku aksiyon için sadeleştirir; gerçekte jüri, itiraf ve şirket sözleşmeleri aynı anda işlerdi.",
+        "whyItMatters": "Modern ABD federalizminin sınır deneyimi, yerel özerklik ile Washington arasındaki gerilimden doğar.",
+        "accuracyNote": "Görev akışı kurgusal; çoklu kolluk katmanları ve federalleşme doğrudur.",
+        "mediaConnection": "Red Dead Redemption 2 şerif ve federal görevleri ile sınır hukuku.",
+        "relatedCardIds": ["tf26-118-bounty-hunters", "rdr2-frontier"],
+        "readingTimeMinutes": 3,
+        "sources": [
+          {
+            "title": "Federal Marshals and the Frontier (U.S. Marshals)",
+            "url": "https://www.usmarshals.gov/history/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Law and Order in the American West (Britannica)",
+            "url": "https://www.britannica.com/place/frontier-American-history",
+            "type": "article",
+            "verified": true
+          }
+        ]
+      },
+      "en": {
+        "subtitle": "On the frontier, whose law counted?",
+        "whatWeSee": "Sheriff offices, bounty posters, and federal tasks in town—local versus federal punishment for the same crime.",
+        "quickRealityCheck": "For Arthur, is 'the law' the enemy—or just unclear which institution's law?",
+        "realHistory": "In the 1890s western law was layered: local sheriffs, state judges, federal marshals, and company agencies (Pinkertons) competed in the same landscape.\n\nTelegraph and rail spread news across state lines; fleeing got harder. Towns like Dodge City were chaotic first, then 'ordered' through federal records and banking.\n\nThe game dramatizes that shift: old gun norms versus new paper norms.",
+        "mediaChanged": "The game simplifies law for action; real dockets mixed juries, confessions, and company contracts.",
+        "whyItMatters": "U.S. federalism's frontier phase grew from tension between local autonomy and Washington.",
+        "accuracyNote": "Mission flow is fictional; multiple policing layers and federalization are accurate.",
+        "mediaConnection": "Red Dead Redemption 2 sheriff and federal missions versus frontier law.",
+        "relatedCardIds": ["tf26-118-bounty-hunters", "rdr2-frontier"],
+        "readingTimeMinutes": 3,
+        "sources": [
+          {
+            "title": "Federal Marshals and the Frontier (U.S. Marshals)",
+            "url": "https://www.usmarshals.gov/history/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Law and Order in the American West (Britannica)",
+            "url": "https://www.britannica.com/place/frontier-American-history",
+            "type": "article",
+            "verified": true
+          }
+        ]
+      }
+    },
+    "tf26-118-bounty-hunters": {
+      "tr": {
+        "subtitle": "Ödül avcısı: adalet mi, piyasa mı?",
+        "whatWeSee": "Posterlerde dolar ödülü, kasabada teslim etme ve canlı yakalama seçenekleri; suçlunun 'mal' gibi takibi.",
+        "quickRealityCheck": "Oyunda bounty mekaniği eğlenceli—gerçekte ödül avcıları kime hizmet ediyordu?",
+        "realHistory": "19. yüzyıl sonunda ödül avcılığı, eyaletler arası suçluları yakalamak için yarı resmi bir pazardı. Şerif poster astı; avcı ücreti canlı teslimde aldı.\n\nPinkertonlar kurumsal uçtu; bağımsız avcılar gri alanda çalıştı. Sık sık masum yaralanır, yerli ve siyah sakinler ayrımcı baskı görürdü.\n\nRDR mekaniği bu ekonomiyi oyunlaştırır; tarihsel olarak ödül sistemi federalleşen kolluk öncesi geçiş aracıydı.",
+        "mediaChanged": "Oyun bounty'yi oyuncu ilerlemesi yapar; gerçekte yasal usul ve şiddet skandal yaratabilirdi.",
+        "whyItMatters": "Özel çıkarla yakalama geleneği, bugünkü taşeron güvenlik tartışmalarına uzanır.",
+        "accuracyNote": "Oyun kuralları basitleştirilmiş; ödül avcılığının varlığı ve riskleri doğrudur.",
+        "mediaConnection": "Red Dead Redemption bounty posterleri ile Vahşi Batı ödül sistemi.",
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Bounty hunting: justice or a market?",
+        "whatWeSee": "Dollar rewards on posters, turning suspects in at town—tracking people like property.",
+        "quickRealityCheck": "Bounty mechanics are fun in-game—but who did real bounty hunters serve?",
+        "realHistory": "By the late 1800s bounty hunting was a semi-official market for catching interstate fugitives. Sheriffs posted rewards; hunters were paid for live delivery.\n\nPinkertons were the corporate end; independents worked in gray zones. Innocents were often hurt; Native and Black residents faced discriminatory violence.\n\nRDR gamifies that economy; historically rewards were a bridge before more federal policing.",
+        "mediaChanged": "The game turns bounties into player progression; real process and violence could spark scandal.",
+        "whyItMatters": "Capture-for-pay traditions connect to modern private-security debates.",
+        "accuracyNote": "Rules are simplified; the existence and risks of bounty hunting are accurate.",
+        "mediaConnection": "Red Dead Redemption bounty posters versus western reward systems.",
+        "readingTimeMinutes": 3
+      }
+    },
+    "tf26-119-women-frontier": {
+      "tr": {
+        "subtitle": "Sınırda kadınlar: salon efsanesinin ötesinde",
+        "whatWeSee": "Kasabada dükkan sahibi, hemşire ve çiftlik işleri; Abigail gibi karakterlerin çete hayatına alternatif roller.",
+        "quickRealityCheck": "Western filmlerinde kadın neden ya salon ya arka planda—RDR2 neyi değiştiriyor?",
+        "realHistory": "Vahşi Batı'da kadınlar sıkça işletme işletti, okuttu, hemşirelik yaptı ve toprak talep etti (Homestead). 'Saloon kadını' stereotipi tek gerçek değildi.\n\nYine de oy hakkı yoktu, ücret eşitsizliği ve şiddet riski yüksekti. Evlilik ve aile sözleşmeleri ekonomik güvenceydi; dul kadınlar araziyi tek başına sürdürebilirdi.\n\nOyun Abigail ve Mary Beth ile bu çeşitliliği kısmen gösterir; tarihsel kayıt daha geniş bir emek hikâyesi anlatır.",
+        "mediaChanged": "Oyun kadın rollerini hikâye için seçer; salon romantizmi hâlâ baskın görüntü olabilir.",
+        "whyItMatters": "Sınır anlatılarında görünmez emek, bugünkü tarih yazımı tartışmalarının merkezindedir.",
+        "accuracyNote": "Karakterler kurgusal; Homestead ve kadın işletmeciliği belgelenmiştir.",
+        "mediaConnection": "Red Dead Redemption 2 kadın karakterleri ile sınır kadın emeği.",
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Women on the frontier: beyond the saloon myth",
+        "whatWeSee": "Shopkeepers, nurses, and ranch work in town—characters like Abigail offering paths outside the gang.",
+        "quickRealityCheck": "Why do westerns put women in saloons or the background—and what does RDR2 change?",
+        "realHistory": "Women on the frontier often ran businesses, taught school, nursed, and filed homestead claims. The 'saloon woman' stereotype was not the whole story.\n\nThey still lacked voting rights in this era; pay gaps and violence were real. Marriage and family contracts were economic safety; widows could hold land alone.\n\nThe game hints at that range through Abigail and Mary Beth; archives tell a wider labor history.",
+        "mediaChanged": "The game selects women's roles for story; saloon romance can still dominate the image.",
+        "whyItMatters": "Invisible labor in frontier tales is central to how we debate history today.",
+        "accuracyNote": "Characters are fictional; homesteading and women proprietors are documented.",
+        "mediaConnection": "Red Dead Redemption 2 women characters versus frontier women's work.",
+        "readingTimeMinutes": 3
+      }
+    }
+  }
+}

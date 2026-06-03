@@ -24,13 +24,6 @@ export default function TabLayout() {
       <Tabs.Screen name="explore" options={{ title: dictionary.nav.explore }} />
       <Tabs.Screen name="routes" options={{ title: dictionary.nav.routes }} />
       <Tabs.Screen name="saved" options={{ title: dictionary.nav.saved }} />
-      <Tabs.Screen
-        name="card"
-        options={{
-          href: null,
-          headerShown: false,
-        }}
-      />
     </Tabs>
   );
 }

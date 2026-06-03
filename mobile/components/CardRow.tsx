@@ -3,6 +3,7 @@ import { Pressable, StyleSheet, Text, View } from "react-native";
 
 import { surfaces, cardShadow } from "@/constants/surfaces";
 import { theme } from "@/constants/theme";
+import { type } from "@/constants/typography";
 import { useLocale } from "@/context/LocaleContext";
 import { useNavigationTab, type ReaderReturn } from "@/context/NavigationContext";
 import { navigateToCard } from "@/utils/navigationExit";
@@ -109,10 +110,7 @@ const styles = StyleSheet.create({
     letterSpacing: 1,
   },
   title: {
-    fontSize: 18,
-    fontWeight: "600",
-    color: theme.ink,
-    lineHeight: 24,
+    ...type.cardTitle,
     marginBottom: 6,
   },
   titleRead: { color: theme.muted },

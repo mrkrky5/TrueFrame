@@ -1,0 +1,144 @@
+{
+  "block": "ghost-of-tsushima",
+  "cardIds": [
+    "tf26-052-kamikaze",
+    "tf26-056-island-defense",
+    "tf26-060-clan-loyalty"
+  ],
+  "patches": {
+    "tf26-052-kamikaze": {
+      "tr": {
+        "subtitle": "Kamikaze: tanrı rüzgarı mı, fırtına takvimi mi?",
+        "whatWeSee": "Moğol filosunun kıyıda yanması, fırtınada parçalanan gemiler ve Jin'in sahil savunması; oyunda 'kamikaze' anı tek bir kader gibi sunulur.",
+        "quickRealityCheck": "Ghost kamikaze'yi mucize gibi verir—1274 ve 1281'de gerçekten ne oldu?",
+        "realHistory": "1274 ve 1281'de Kublai Han'ın Japonya seferleri iki kez denizden yürütüldü. İlk seferde fırtına filoyu dağıttı; ikinci seferde yine rüzgâr ve dalga Moğol birliklerini kıyıda mahsur bıraktı.\n\nJapon kayıtları bunu 'kamikaze' (tanrı rüzgarı) diye adlandırdı; ama seferler aynı zamanda Tsushima ve Hakata kıyılarında ağır samuray direnişi, tahkimat ve lojistik tıkanıklıkla da başarısız oldu.\n\nGhost tek bir fırtına sahnesiyle hikâyeyi kapatır; tarihsel okuma ise hava, coğrafya ve yerel örgütlenmenin bir arada çalıştığını gösterir.",
+        "mediaChanged": "Oyun fırtınayı kader anı yapar; kayıtlar iki seferin de planlama, ikmal ve kıyı savaşı hatalarıyla ilişkilendirildiğini yazar.",
+        "whyItMatters": "Kamikaze miti, Japonya'nın 'doğa tarafından korunduğu' anlatısını güçlendirdi; gerçekte ise ada savunması ve denizcilik sınırları belirleyiciydi.",
+        "accuracyNote": "Moğol seferleri ve fırtına tarihseldir; Jin'in bireysel rolü kurgusaldır.",
+        "mediaConnection": "Ghost of Tsushima Moğol istilası ve kamikaze sahnesi.",
+        "relatedCardIds": ["ghost-tsushima-invasion", "tf26-056-island-defense"],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Kamikaze: divine wind or storm season?",
+        "whatWeSee": "Mongol ships burning off the coast, fleets breaking in storms, and Jin on the beach defense—the game presents the kamikaze moment as fate.",
+        "quickRealityCheck": "Ghost treats kamikaze as miracle—what actually happened in 1274 and 1281?",
+        "realHistory": "Kublai Khan's invasions of Japan in 1274 and 1281 were launched from the sea. Storms wrecked both fleets; wind and waves trapped Mongol forces on the shore.\n\nJapanese records called this kamikaze ('divine wind'), but the campaigns also failed through heavy samurai resistance, fortifications, and logistical breakdown on Tsushima and Hakata coasts.\n\nGhost closes the story with one storm scene; historical reading shows weather, geography, and local organization working together.",
+        "mediaChanged": "The game makes the storm a turning point of destiny; sources tie both invasions to planning, supply, and coastal battle failures.",
+        "whyItMatters": "The kamikaze myth reinforced a story of Japan protected by nature; island defense and maritime limits mattered just as much.",
+        "accuracyNote": "Mongol invasions and storms are historical; Jin's individual role is fictional.",
+        "mediaConnection": "Ghost of Tsushima Mongol invasion and kamikaze beat.",
+        "relatedCardIds": ["ghost-tsushima-invasion", "tf26-056-island-defense"],
+        "readingTimeMinutes": 3
+      }
+    },
+    "tf26-056-island-defense": {
+      "tr": {
+        "subtitle": "Tsushima savunması: ada, köy, kale zinciri",
+        "whatWeSee": "Oyunda köy yangınları, kale kuşatmaları ve Jin'in adayı gezmesi; Moğol okçuları ile samuray süvarisi çatışmaları.",
+        "quickRealityCheck": "Ghost tek adayı oyun alanı yapıyor—1274'te Tsushima gerçekten ilk cephe miydi?",
+        "realHistory": "Moğol seferlerinde Tsushima ve İki adaları ilk temas hatlarıydı. Yerel samuraylar gecikmeli destek ve ağır kayıplarla karşılaştı; ana direniş Kyushu kıyılarında yoğunlaştı.\n\nAda savunması yalnızca kılıç değildi: tahkimat, okçuluk, gece baskınları ve köylülerin tahliyesi bir arada yürüdü. Ghost bunu görev ritmine sıkıştırır; tarihsel kayıt ise lojistik ve haberleşme gecikmelerinin felaketi büyüttüğünü yazar.\n\nJin'in 'hayalet' taktikleri oyun tasarımıdır; gerçekte bazı komutanlar sınır ihlali ve ittifak değişimiyle suçlandı.",
+        "mediaChanged": "Oyun adayı tek kahramanın alanı yapar; tarihsel olarak savunma çok merkezli ve imparatorluk koordinasyonuna bağlıydı.",
+        "whyItMatters": "Ada cephesi, 'Japonya'nın kapısı'nın denizden geldiğini hatırlatır.",
+        "accuracyNote": "Tsushima'nın ilk çarpışma hattı olması doğru; Jin'in taktikleri ve klan yapısı dramatize edilmiştir.",
+        "mediaConnection": "Ghost of Tsushima ada haritası ile 1274–1281 kıyı savunması.",
+        "sources": [
+          {
+            "title": "Mongol invasions of Japan (Britannica)",
+            "url": "https://www.britannica.com/event/Mongol-invasions-of-Japan",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Mongol Invasions of Japan (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/article/1987/the-mongol-invasions-of-japan/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": ["ghost-tsushima-invasion", "tf26-052-kamikaze"],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Defending Tsushima: island, village, castle chain",
+        "whatWeSee": "Village fires, castle sieges, and Jin crossing the island; Mongol archers against samurai cavalry in-game.",
+        "quickRealityCheck": "Ghost turns one island into the whole playground—was Tsushima really the first front in 1274?",
+        "realHistory": "In the Mongol invasions, Tsushima and Iki were early contact lines. Local samurai faced delayed reinforcements and heavy losses; main resistance concentrated on Kyushu shores.\n\nIsland defense was not swords alone—fortifications, archery, night raids, and evacuations worked together. Ghost compresses this into mission pacing; records stress logistical and communication delays worsening disaster.\n\nJin's 'ghost' tactics are game design; in reality some commanders were blamed for border breaches and shifting alliances.",
+        "mediaChanged": "The game makes the island one hero's map; historically defense was multi-centered and tied to imperial coordination.",
+        "whyItMatters": "The island front reminds us Japan's 'gate' came from the sea.",
+        "accuracyNote": "Tsushima as first contact is sound; Jin's tactics and clan layout are dramatized.",
+        "mediaConnection": "Ghost of Tsushima island map versus 1274–1281 coastal defense.",
+        "sources": [
+          {
+            "title": "Mongol invasions of Japan (Britannica)",
+            "url": "https://www.britannica.com/event/Mongol-invasions-of-Japan",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Mongol Invasions of Japan (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/article/1987/the-mongol-invasions-of-japan/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": ["ghost-tsushima-invasion", "tf26-052-kamikaze"],
+        "readingTimeMinutes": 3
+      }
+    },
+    "tf26-060-clan-loyalty": {
+      "tr": {
+        "subtitle": "Klan sadakati: onur mu, hayatta kalma mı?",
+        "whatWeSee": "Shimura'nın geleneksel bushido öğütleri ile Jin'in gizli taktikleri arasındaki çatışma; aile armaları ve vasiyet sahneleri.",
+        "quickRealityCheck": "Oyunda klan ihaneti kişisel dram—1274'te aile bağları savaşı nasıl şekillendirdi?",
+        "realHistory": "Kamakura döneminde samuray sadakati, hanedan ve üst lord (shugo, jitō) zincirine bağlıydı. Savaşta esir düşmek veya geri çekilmek onur kaybı sayılabilir; bu yüzden bazı aileler sonuna kadar kıyıda kaldı.\n\nMoğol tehdidi yeni taktikleri tartıştırdı: gece baskını, okçuluk, sivil tahliye. Ghost bunu Jin–amca çatışmasına indirger; tarihsel kayıtlar ise farklı adaların farklı hızda uyum sağladığını gösterir.\n\nKlan sadakati romantik bir kod değil, toprak, vergi ve evlilik ittifaklarının pratiğiydi.",
+        "mediaChanged": "Oyun sadakati ahlaki ikilem yapar; gerçekte ağır kayıplar bazı klanları ittifak değiştirmeye veya imparatorluk merkezine yaslanmaya itti.",
+        "whyItMatters": "Bushido'nun popüler imajı, savaşın muhasebe ve ittifak hesabını gizleyebilir.",
+        "accuracyNote": "Samuray aile yapısı ve onur dili tarihsel çerçevede doğru; Jin–Shimura hikâyesi kurgusal.",
+        "mediaConnection": "Ghost of Tsushima klan ve bushido çatışması.",
+        "sources": [
+          {
+            "title": "Samurai (Britannica)",
+            "url": "https://www.britannica.com/topic/samurai",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Bushido (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/Bushido/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": ["ghost-onna-musha", "tf26-052-kamikaze"],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Clan loyalty: honor or survival?",
+        "whatWeSee": "Shimura's traditional bushido lessons versus Jin's secret tactics; family crests and oath scenes.",
+        "quickRealityCheck": "In-game, clan betrayal is personal drama—how did family ties shape the 1274 war?",
+        "realHistory": "In the Kamakura era, samurai loyalty ran through house and overlord (shugo, jitō). Capture or retreat could mean dishonor; some families held the shore to the end.\n\nThe Mongol threat forced debate over new tactics—night raids, archery, civilian evacuation. Ghost reduces this to Jin versus his uncle; records show different islands adapted at different speeds.\n\nClan loyalty was not a romantic code alone but practice tied to land, tax, and marriage alliances.",
+        "mediaChanged": "The game turns loyalty into a moral fork; heavy losses in reality pushed some clans to shift alliances or lean on the imperial center.",
+        "whyItMatters": "The popular bushido image can hide war's accounting and alliance math.",
+        "accuracyNote": "Samurai family structure and honor language fit the frame; the Jin–Shimura story is fictional.",
+        "mediaConnection": "Ghost of Tsushima clan and bushido conflict.",
+        "sources": [
+          {
+            "title": "Samurai (Britannica)",
+            "url": "https://www.britannica.com/topic/samurai",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Bushido (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/Bushido/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": ["ghost-onna-musha", "tf26-052-kamikaze"],
+        "readingTimeMinutes": 3
+      }
+    }
+  }
+}

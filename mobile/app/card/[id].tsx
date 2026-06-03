@@ -5,8 +5,8 @@ import CardReader from "@/components/CardReader";
 import CardReaderTopBar from "@/components/CardReaderTopBar";
 import { theme } from "@/constants/theme";
 import { useLocale } from "@/context/LocaleContext";
-import { navigateReaderExit } from "@/utils/navigationExit";
 import { useNavigationTab } from "@/context/NavigationContext";
+import { navigateReaderExit } from "@/utils/navigationExit";
 import { getCardById, getCards } from "@shared/content";
 
 export default function CardScreen() {

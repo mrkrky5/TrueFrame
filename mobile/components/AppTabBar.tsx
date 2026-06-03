@@ -55,7 +55,8 @@ export default function AppTabBar({ state, navigation }: TabBarProps) {
   const pathname = usePathname();
   const { dictionary } = useLocale();
   const { savedIds } = useHistory();
-  const { lastPrimaryTab, setLastPrimaryTab, tabBarSuppressed } = useNavigationTab();
+  const { lastPrimaryTab, setLastPrimaryTab, scrollPrimaryTabToTop, tabBarSuppressed } =
+    useNavigationTab();
   const activeTab = resolveActiveTab(state, pathname, lastPrimaryTab);
 
   if (shouldHideTabBar(pathname) || tabBarSuppressed) {
@@ -88,12 +89,16 @@ export default function AppTabBar({ state, navigation }: TabBarProps) {
           const badge = tab === "saved" && savedIds.length > 0 ? savedIds.length : 0;
 
           const onPress = () => {
+            if (focused) {
+              scrollPrimaryTabToTop(tab);
+              return;
+            }
             const event = navigation.emit({
               type: "tabPress",
               target: route.key,
               canPreventDefault: true,
             });
-            if (!focused && !event.defaultPrevented) {
+            if (!event.defaultPrevented) {
               setLastPrimaryTab(tab);
               navigation.navigate(route.name);
             }

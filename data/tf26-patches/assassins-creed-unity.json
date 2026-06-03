@@ -1,0 +1,190 @@
+{
+  "block": "assassins-creed-unity",
+  "cardIds": [
+    "tf26-096-sans-culottes",
+    "tf26-100-napoleon-rise",
+    "tf26-097-women-march"
+  ],
+  "patches": {
+    "tf26-096-sans-culottes": {
+      "tr": {
+        "subtitle": "Sans-culottes: pantolon değil, sokak siyaseti",
+        "whatWeSee": "Unity'de Paris sokaklarında kalabalık, pazar fiyatı öfkesi ve Bastille çevresi gösterileri; Arno kalabalığın içinden geçer.",
+        "quickRealityCheck": "Oyun sans-culottes'i kostüm mü yapıyor—1789–1794'te kimlerdi?",
+        "realHistory": "Sans-culottes (diz altı pantolonu olmayanlar), devrimin radikal Paris yurttaşlarını simgeledi: zanaatkâr, dükkan sahibi, günlükçi. Fiyat artışı, ekmek kıtlığı ve savaş vergisi onları sokağa iterdi.\n\nJakobenler ve Robespierre döneminde sans-culottes baskısı Terör'ün motorlarından biri oldu; sonra Thermidor ile güçleri kırıldı. 'Kıyafet' aslında sınıf ve mahalle kimliğiydi.\n\nUnity gösterileri aksiyon için kullanır; tarihsel olarak sans-culottes, Meclis ile saray arasındaki üçüncü güçtü.",
+        "mediaChanged": "Oyun kalabalığı görev alanı yapar; kayıtlar fiyat, tahıl ve silah politikası tartışmasını öne çıkarır.",
+        "whyItMatters": "Fransız Devrimi yalnızca salonlarda değil, fırın kuyruklarında da yazıldı.",
+        "accuracyNote": "Sans-culottes ve ekonomik gerginlik doğru; Arno ve zamanlama kurgusaldır.",
+        "mediaConnection": "Assassin's Creed Unity Paris kalabalıkları ile sans-culottes.",
+        "sources": [
+          {
+            "title": "Sansculotte (Britannica)",
+            "url": "https://www.britannica.com/topic/sansculotte",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "French Revolution (Britannica)",
+            "url": "https://www.britannica.com/event/French-Revolution",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "ac-unity-revolution",
+          "tf26-100-napoleon-rise"
+        ],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Sans-culottes: street politics, not just trousers",
+        "whatWeSee": "Paris crowds, price rage, and Bastille-era protests in Unity—Arno moves through the mob.",
+        "quickRealityCheck": "Does the game treat sans-culottes as costume—who were they in 1789–1794?",
+        "realHistory": "Sans-culottes ('without knee-breeches') stood for radical Paris citizens: artisans, shopkeepers, day laborers. Rising prices, bread shortage, and war taxes pushed them into the street.\n\nUnder Jacobins and Robespierre, sans-culotte pressure helped drive the Terror; Thermidor then broke their power. The 'look' was class and neighborhood identity.\n\nUnity uses crowds for action; historically sans-culottes were a third force between assembly and palace.",
+        "mediaChanged": "The game makes crowds a mission space; records highlight grain, price, and arms policy fights.",
+        "whyItMatters": "The French Revolution was written in bakery lines as well as salons.",
+        "accuracyNote": "Sans-culottes and economic strain are sound; Arno and timing are fictional.",
+        "mediaConnection": "Assassin's Creed Unity Paris mobs versus sans-culottes.",
+        "sources": [
+          {
+            "title": "Sansculotte (Britannica)",
+            "url": "https://www.britannica.com/topic/sansculotte",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "French Revolution (Britannica)",
+            "url": "https://www.britannica.com/event/French-Revolution",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "ac-unity-revolution",
+          "tf26-100-napoleon-rise"
+        ],
+        "readingTimeMinutes": 3
+      }
+    },
+    "tf26-100-napoleon-rise": {
+      "tr": {
+        "subtitle": "Napolyon: devrimden imparatorluğa",
+        "whatWeSee": "Unity'nin son bölümlerinde Napolyon'un yükselişi, Paris sokakları ve askerî törenler; devrim ikonlarından imparatorluk retoriğine geçiş.",
+        "quickRealityCheck": "Oyun Napolyon'u epilog kahramanı yapıyor—1799–1804'te gerçekte ne oldu?",
+        "realHistory": "Napolyon Bonaparte, devrim ordusunda yükseldi: İtalya seferleri, Mısır kampanyası ve 18 Brumaire (1799) ile Yönetim Kurulu darbesi. 1804'te kendini imparator ilan etti.\n\nDevrimin eşitlik ve vatandaşlık dili, imparatorluk ve savaş devletiyle birleşti. Avrupa'yı yıllarca savaşa sürükledi; Waterloo (1815) sonrası sürgün.\n\nUnity Napolyon'u tanıdık yüz olarak sunar; tarihsel okuma devrimin askerî çözümü olarak imparatorluğu hatırlatır.",
+        "mediaChanged": "Oyun yükselişi kısa epilog yapar; gerçekte on yıllık savaş ve hukuk reformu (Napoleon Kanunları) aynı pakette geldi.",
+        "whyItMatters": "Devrimler bazen 'özgürlük' ile 'düzen' arasında imparatorluk seçer.",
+        "accuracyNote": "Napolyon'un yükseliş çizgisi doğru; Unity zamanlaması oyuncu için sıkıştırılmıştır.",
+        "mediaConnection": "Assassin's Creed Unity Napolyon epilogu ile devrim sonrası Fransa.",
+        "sources": [
+          {
+            "title": "Napoleon I (Britannica)",
+            "url": "https://www.britannica.com/biography/Napoleon-I",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Coup of 18 Brumaire (Britannica)",
+            "url": "https://www.britannica.com/event/Coup-of-18-Brumaire",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "ac-unity-revolution",
+          "tf26-096-sans-culottes"
+        ],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Napoleon: from revolution to empire",
+        "whatWeSee": "Napoleon's rise in Unity's late chapters—Paris streets and military ceremony, from revolutionary icons to imperial rhetoric.",
+        "quickRealityCheck": "Does the game make Napoleon an epilogue hero—what happened in 1799–1804?",
+        "realHistory": "Napoleon Bonaparte rose through the revolutionary army: Italian campaigns, Egypt, and the Coup of 18 Brumaire (1799). He crowned himself emperor in 1804.\n\nThe revolution's language of equality merged with empire and a war state. He drove Europe into years of conflict; exile followed Waterloo (1815).\n\nUnity presents a familiar face; historical reading remembers empire as the revolution's military answer.",
+        "mediaChanged": "The game compresses rise into a short epilogue; a decade of war and the Napoleonic Code came in the same package.",
+        "whyItMatters": "Revolutions sometimes choose empire between liberty and order.",
+        "accuracyNote": "Napoleon's ascent arc is sound; Unity timing is compressed for players.",
+        "mediaConnection": "Assassin's Creed Unity Napoleon epilogue versus post-revolution France.",
+        "sources": [
+          {
+            "title": "Napoleon I (Britannica)",
+            "url": "https://www.britannica.com/biography/Napoleon-I",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Coup of 18 Brumaire (Britannica)",
+            "url": "https://www.britannica.com/event/Coup-of-18-Brumaire",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "ac-unity-revolution",
+          "tf26-096-sans-culottes"
+        ],
+        "readingTimeMinutes": 3
+      }
+    },
+    "tf26-097-women-march": {
+      "tr": {
+        "subtitle": "Kadınların yürüyüşü: Versailles'a giden market",
+        "whatWeSee": "Unity'de Paris kadınlarının ekmek protestosu, silah ve saraya yürüyüş görevleri.",
+        "quickRealityCheck": "Oyun yürüyüşü aksiyon yapıyor—5 Ekim 1789 neydi?",
+        "realHistory": "5 Ekim 1789'da Parisli kadınlar (çoğu pazar kadını) ekmek kıtlığı protestosuyla Versailles'a yürüdü; kralı Paris'e dönmeye zorladılar. Bu, monarşinin saray izolasyonunu kırdı.\n\nUnity gösteriyi oyunlaştırır; tarihsel olarak kadın sokak siyaseti devrimin motorlarındandı.",
+        "mediaChanged": "Oyun yürüyüşü görev zinciri yapar; gerçekte açlık ve fiyat şoku tetikledi.",
+        "whyItMatters": "Devrim, fırın kuyruğundan saraya uzanır.",
+        "accuracyNote": "Tarih ve yürüyüş doğru; Arno rolü kurgusaldır.",
+        "mediaConnection": "Unity kadın yürüyüşü.",
+        "sources": [
+          {
+            "title": "March on Versailles (Britannica)",
+            "url": "https://www.britannica.com/event/March-on-Versailles",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "French Revolution (Britannica)",
+            "url": "https://www.britannica.com/event/French-Revolution",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-096-sans-culottes",
+          "ac-unity-revolution"
+        ],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Women's march: market road to Versailles",
+        "whatWeSee": "Paris women protesting bread prices and marching on Versailles in Unity.",
+        "quickRealityCheck": "Does the game action-pack the march—what was 5 October 1789?",
+        "realHistory": "On 5 October 1789 Paris women—many market workers—marched on Versailles over bread prices and forced the king back to Paris. It broke royal isolation.\n\nUnity gamifies the protest; historically women's street politics drove the revolution.",
+        "mediaChanged": "A quest chain on screen; hunger and price shock triggered the march.",
+        "whyItMatters": "Revolution runs from bakery lines to the palace.",
+        "accuracyNote": "Date and march are sound; Arno's role is fictional.",
+        "mediaConnection": "Unity women's march.",
+        "sources": [
+          {
+            "title": "March on Versailles (Britannica)",
+            "url": "https://www.britannica.com/event/March-on-Versailles",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "French Revolution (Britannica)",
+            "url": "https://www.britannica.com/event/French-Revolution",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-096-sans-culottes",
+          "ac-unity-revolution"
+        ],
+        "readingTimeMinutes": 3
+      }
+    }
+  }
+}

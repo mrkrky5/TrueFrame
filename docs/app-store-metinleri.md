@@ -2,13 +2,16 @@
 
 > Mobil-only ilk çıkış için taslak. App Store Connect’e girerken karakter limitlerini kontrol edin.
 
-## Uygulama adı
+## Uygulama adı (App Store — EN + TR)
 
-**True Frame**
+**True Frame Media**
 
 ## Alt başlık (30 karakter)
 
-**Gerçek tarih, medya karşı**
+| Dil | Metin |
+|-----|--------|
+| EN | The History Behind the Media |
+| TR | Medyanın Ardındaki Tarih |
 
 ## Promosyon metni (170 karakter — opsiyonel)
 

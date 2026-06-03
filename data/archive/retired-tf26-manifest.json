@@ -1,0 +1,144 @@
+{
+  "retiredAt": "2026-06-02T20:41:39.973Z",
+  "count": 23,
+  "cards": [
+    {
+      "id": "tf26-012-commodus-reputation",
+      "title": "Commodus'un Ünü",
+      "keepInstead": "gladiator-commodus-real",
+      "legacyTitle": "Gladyatör İmparator: Commodus"
+    },
+    {
+      "id": "tf26-152-rbmk-design",
+      "title": "RBMK Tasarımı",
+      "keepInstead": "chernobyl-rbmk-flaw",
+      "legacyTitle": "RBMK Tasarımı: Gizlenen Mühendislik Hatası"
+    },
+    {
+      "id": "tf26-120-closing-frontier",
+      "title": "Sınırın Kapanışı",
+      "keepInstead": "rdr2-frontier",
+      "legacyTitle": "Sınırın Kapanışı"
+    },
+    {
+      "id": "tf26-092-bread-prices",
+      "title": "Ekmek Fiyatları",
+      "keepInstead": "ac-unity-revolution",
+      "legacyTitle": "Fransız Devrimi ve Ekmek İsyanları"
+    },
+    {
+      "id": "tf26-016-bread-circuses",
+      "title": "Ekmek ve Gösteri",
+      "keepInstead": "gladiator-arena-economics",
+      "legacyTitle": "Kolezyum Ekonomisi ve 'Ekmek ve Oyunlar'"
+    },
+    {
+      "id": "tf26-017-senate-emperor",
+      "title": "Senato ve İmparator",
+      "keepInstead": "gladiator-commodus-real",
+      "legacyTitle": "Gladyatör İmparator: Commodus"
+    },
+    {
+      "id": "tf26-057-honor-duels",
+      "title": "Onur Düelloları",
+      "keepInstead": "ghost-samurai-reality",
+      "legacyTitle": "Samuray Gerçekliği: Onur mu, Pragmatizm mi?"
+    },
+    {
+      "id": "tf26-077-medicine",
+      "title": "Orta Çağ Tıbbı",
+      "keepInstead": "kcd2-medieval-law",
+      "legacyTitle": "Orta Çağ Şehir Kanunları ve Adalet"
+    },
+    {
+      "id": "tf26-147-oppenheimer-hearing",
+      "title": "Güvenlik Soruşturması",
+      "keepInstead": "oppenheimer-gray-board-1954-real",
+      "legacyTitle": "1954 Güvenlik Soruşturması: Oppenheimer’ın Düşüşü"
+    },
+    {
+      "id": "tf26-182-coronation",
+      "title": "Taç Giyme",
+      "keepInstead": "crown-tv-coronation-1953",
+      "legacyTitle": "1953 Taç Giyme Töreni ve TV Devrimi"
+    },
+    {
+      "id": "tf26-038-slavery",
+      "title": "Viking Köleliği",
+      "keepInstead": "vikings-funeral-fadlan-real",
+      "legacyTitle": "Viking Cenazeleri ve İbn Fadlan"
+    },
+    {
+      "id": "tf26-041-alfred-reforms",
+      "title": "Alfred'in Reformları",
+      "keepInstead": "last-kingdom-alfred-england",
+      "legacyTitle": "Büyük Alfred ve Birleşik İngiltere Hayali"
+    },
+    {
+      "id": "tf26-051-mongol-invasion",
+      "title": "Moğol İstilası",
+      "keepInstead": "ghost-tsushima-invasion",
+      "legacyTitle": "Tsushima İstilası (1274)"
+    },
+    {
+      "id": "tf26-053-samurai-code",
+      "title": "Samuray Kodu",
+      "keepInstead": "ghost-onna-musha",
+      "legacyTitle": "Samuray Kadınlar"
+    },
+    {
+      "id": "tf26-054-armor",
+      "title": "Samuray Zırhı",
+      "keepInstead": "ghost-onna-musha",
+      "legacyTitle": "Samuray Kadınlar"
+    },
+    {
+      "id": "tf26-078-justice",
+      "title": "Yerel Adalet",
+      "keepInstead": "kcd2-medieval-law",
+      "legacyTitle": "Orta Çağ Şehir Kanunları ve Adalet"
+    },
+    {
+      "id": "tf26-121-trenches",
+      "title": "Siper Yaşamı",
+      "keepInstead": "1917-trenches",
+      "legacyTitle": "Siper Hayatı"
+    },
+    {
+      "id": "tf26-125-gas-warfare",
+      "title": "Gaz Savaşı",
+      "keepInstead": "1917-siper-savasi-flagship",
+      "legacyTitle": "Siper Savaşı: Batı Cephesi’nin Statik Cehennemi"
+    },
+    {
+      "id": "tf26-131-omaha-beach",
+      "title": "Omaha Plajı",
+      "keepInstead": "saving-private-ryan-omaha",
+      "legacyTitle": "Omaha Plajı: 20 Dakika vs. Gerçeklik"
+    },
+    {
+      "id": "tf26-141-los-alamos",
+      "title": "Los Alamos",
+      "keepInstead": "oppenheimer-los-alamos-culture",
+      "legacyTitle": "Los Alamos: Sırlarla Yaşamak"
+    },
+    {
+      "id": "tf26-149-scientists-ethics",
+      "title": "Bilim Etiği",
+      "keepInstead": "oppenheimer-science-state",
+      "legacyTitle": "Bilim ve Devlet: Atom Çağının Doğuşu"
+    },
+    {
+      "id": "tf26-154-pripyat",
+      "title": "Pripyat'ın Boşaltılması",
+      "keepInstead": "chernobyl-pripyat-delay",
+      "legacyTitle": "Pripyat: 36 Saatlik Sessizlik"
+    },
+    {
+      "id": "tf26-185-suez-crisis",
+      "title": "Süveyş Krizi",
+      "keepInstead": "the-crown-suez-crisis-empire-end",
+      "legacyTitle": "Süveyş Krizi: İmparatorluğun Tabutu"
+    }
+  ]
+}

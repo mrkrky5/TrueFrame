@@ -19,6 +19,12 @@ Tarayıcıda `http://localhost:8081` açılır. Telefon çerçevesi ortada gör�
 `npm run mobile:windows` her açılışta sıfır kurulum gibi başlar (veri silinir). Veriyi korumak için: `npm run mobile:web`
 ```
 
+## TestFlight (gerçek iPhone)
+
+Tam regresyon listesi: **[testflight-regression.md](./testflight-regression.md)** — her TestFlight build için.
+
+App Store yayın (build 16): **[app-store-release.md](./app-store-release.md)** · Connect adımları: **[app-store-connect-listing.md](./app-store-connect-listing.md)**.
+
 ## 5 dakikalık kontrol
 
 | # | Ne yap | Beklenen |

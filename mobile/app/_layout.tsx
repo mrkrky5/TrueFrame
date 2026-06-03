@@ -35,6 +35,15 @@ export default function RootLayout() {
                   }}
                 >
                   <Stack.Screen name="(tabs)" />
+                  <Stack.Screen
+                    name="card"
+                    options={{
+                      presentation: "card",
+                      animation: "slide_from_right",
+                      gestureEnabled: true,
+                      fullScreenGestureEnabled: true,
+                    }}
+                  />
                   <Stack.Screen name="settings" options={{ presentation: "card" }} />
                   <Stack.Screen name="privacy" options={{ presentation: "card" }} />
                   <Stack.Screen name="terms" options={{ presentation: "card" }} />

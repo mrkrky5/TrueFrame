@@ -1,0 +1,172 @@
+{
+  "block": "kingdom-come-deliverance",
+  "cardIds": [
+    "tf26-072-guilds",
+    "tf26-076-markets",
+    "tf26-080-literacy"
+  ],
+  "patches": {
+    "tf26-072-guilds": {
+      "tr": {
+        "subtitle": "Lonca: zanaatkâr şehri kim yönetiyordu?",
+        "whatWeSee": "Kingdom Come'da Sasau ve Rattay'da demirci, terzi ve bira üretimi; görevlerde lonca kuralları ve kalite denetimi.",
+        "quickRealityCheck": "Oyunda lonca sadece arka plan mı—15. yüzyıl Bohemya'sında gerçek güçleri neydi?",
+        "realHistory": "1400'ler başında Bohemya, Kutsal Roma İmparatorluğu içinde siyasi kriz yaşıyordu (Wenceslaus IV, Sigismund). Şehirlerde çırak–kalfa–usta hiyerarşisi zanaat kalitesini, fiyatı ve eğitimi düzenledi.\n\nLoncalar şehir meclisleriyle birlikte vergi, tahıl ve inşaata söz hakkı aradı. Henry'nin demircilik görevleri bu düzeni oyunlaştırır; gerçekte lonca kitapları ve mühürler hukuki belgeydi.\n\nOyun loncayı görev vericisi yapar; tarihsel olarak lonca, feodal lorddan bağımsız şehir kimliğinin parçasıydı.",
+        "mediaChanged": "Oyun lonca kurallarını bireysel beceri ağacına çevirir; kayıtlar kolektif sözleşme ve şehir hukukunu öne çıkarır.",
+        "whyItMatters": "Orta Çağ sonu 'kasaba ekonomisi', kılıçtan önce organizasyonla işledi.",
+        "accuracyNote": "Lonca hiyerarşisi ve Bohemya krizi doğru çerçevede; bazı görev süreleri kısaltılmıştır.",
+        "mediaConnection": "Kingdom Come lonca ve zanaat görevleri ile 15. yüzyıl şehir loncaları.",
+        "sources": [
+          {
+            "title": "Guilds in medieval Europe (Britannica)",
+            "url": "https://www.britannica.com/topic/guild-trade-association",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Medieval guilds (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/Guild/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": ["tf26-076-markets", "tf26-080-literacy"],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Guilds: who really ran the craft town?",
+        "whatWeSee": "Blacksmiths, tailors, and brewing in Sasau and Rattay; guild rules and quality checks in Kingdom Come quests.",
+        "quickRealityCheck": "Are guilds just backdrop in-game—what power did they hold in 15th-century Bohemia?",
+        "realHistory": "Early 1400s Bohemia faced imperial political crisis (Wenceslaus IV, Sigismund). Urban apprentice–journeyman–master ranks regulated craft quality, price, and training.\n\nGuilds with city councils pushed for say in tax, grain, and building. Henry's smithing quests gamify that order; in reality guild books and seals were legal documents.\n\nThe game makes guilds quest givers; historically they were part of urban identity apart from feudal lords.",
+        "mediaChanged": "The game turns guild rules into a personal skill tree; records highlight collective contracts and town law.",
+        "whyItMatters": "Late medieval town economies ran on organization before swords.",
+        "accuracyNote": "Guild hierarchy and the Bohemian crisis fit the frame; some quest timelines are shortened.",
+        "mediaConnection": "Kingdom Come guild and craft quests versus 15th-century urban guilds.",
+        "sources": [
+          {
+            "title": "Guilds in medieval Europe (Britannica)",
+            "url": "https://www.britannica.com/topic/guild-trade-association",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Medieval guilds (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/Guild/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": ["tf26-076-markets", "tf26-080-literacy"],
+        "readingTimeMinutes": 3
+      }
+    },
+    "tf26-076-markets": {
+      "tr": {
+        "subtitle": "Pazar günü: fiyatı kim belirliyordu?",
+        "whatWeSee": "Oyunda haftalık panayır, tahıl tartısı, mühürlü fatura ve hırsızlık görevleri; köyden kasabaya uzanan yol.",
+        "quickRealityCheck": "Kingdom Come ekonomisi 'gerçekçi' mi—ortaçağ pazarı nasıl çalışırdı?",
+        "realHistory": "Bohemya kasabalarında pazar, kilise takvimi ve lord iznine bağlıydı. Tahıl, tuz ve demir standart ölçülerle satılır; sahte tartı cezalandırılırdı.\n\nSavaş ve veba dönemlerinde fiyat şokları görülür; oyun Skalitz yağması sonrası kıtlığı bununla uyumludur. Pazar yalnızca alışveriş değil, haber ve siyaset alanıydı.\n\nOyun fiyatları oynanabilirlik için sabitler; tarihsel kayıt mevsim ve krizle dalgalanmayı gösterir.",
+        "mediaChanged": "Oyun pazarı görev merkezi yapar; gerçekte tahıl politikası şehir isyanlarını tetikleyebilirdi.",
+        "whyItMatters": "Gündelik ekonomi, krallık krizinin sessiz cephesidir.",
+        "accuracyNote": "Ölçü, mühür ve kıtlık temaları doğru; bazı NPC fiyatları oyuncu dostu.",
+        "mediaConnection": "Kingdom Come pazar sahneleri ile 15. yüzyıl kasaba ticareti.",
+        "sources": [
+          {
+            "title": "Medieval market (Britannica)",
+            "url": "https://www.britannica.com/topic/market-trade",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Bohemia in the Hussite era (Encyclopedia.com)",
+            "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/hussite-wars",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": ["tf26-072-guilds", "tf26-080-literacy"],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Market day: who set the price?",
+        "whatWeSee": "Weekly fairs, grain scales, sealed bills, and theft quests from village to town in Kingdom Come.",
+        "quickRealityCheck": "Is the game's economy 'realistic'—how did a medieval market work?",
+        "realHistory": "Bohemian town markets depended on church calendar and lord permission. Grain, salt, and iron sold by standard measures; false weights were punished.\n\nWar and plague brought price shocks; the game matches shortage after the Skalitz raid. Markets were also news and politics, not only trade.\n\nThe game stabilizes prices for play; records show seasonal and crisis swings.",
+        "mediaChanged": "The game makes the market a quest hub; historically grain policy could spark urban revolt.",
+        "whyItMatters": "Daily economics is the quiet front of royal crisis.",
+        "accuracyNote": "Measures, seals, and shortage themes are sound; some NPC prices are player-friendly.",
+        "mediaConnection": "Kingdom Come market scenes versus 15th-century town trade.",
+        "sources": [
+          {
+            "title": "Medieval market (Britannica)",
+            "url": "https://www.britannica.com/topic/market-trade",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Bohemia in the Hussite era (Encyclopedia.com)",
+            "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/hussite-wars",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": ["tf26-072-guilds", "tf26-080-literacy"],
+        "readingTimeMinutes": 3
+      }
+    },
+    "tf26-080-literacy": {
+      "tr": {
+        "subtitle": "Okuryazarlık: kitap mu, mühür mü?",
+        "whatWeSee": "Manastır kütüphanesi, Henry'nin okuma görevleri ve mühürlü mektuplar; soyluların Latin, köylülerin Almanca/Çekçe ayrımı.",
+        "quickRealityCheck": "Oyunda herkes mektup okuyor mu—15. yüzyılda kim yazıyordu?",
+        "realHistory": "1400'lerde okuryazarlık sınıfsaldı: kilise ve şehir elitleri Latin kullanır; defter tutma lonca ve tüccar için şarttı. Köylülerin çoğu sözlü kültürde yaşardı.\n\nBohemya'da Hussite hareketi ve Çek dilinde vaaz talebi, dini metinlerin halk diline inmesini hızlandırdı. Kingdom Come manastır sahneleri bu dünyayı hissettirir.\n\nOyun okuryazarlığı beceri puanına bağlar; tarihsel olarak yazı, güç ve vergi kaydının aracıydı.",
+        "mediaChanged": "Oyun okumayı hızlı öğretir; gerçekte eğitim yıllar ve kurum isterdi.",
+        "whyItMatters": "Yazı, ortaçağ sonu siyasetinin sessiz silahıydı.",
+        "accuracyNote": "Latin/yerel dil ayrımı ve Hussite bağlamı doğru; Henry'nin hızlı öğrenimi oyuncu ritmi içindir.",
+        "mediaConnection": "Kingdom Come okuma ve manastır görevleri ile 15. yüzyıl okuryazarlık.",
+        "sources": [
+          {
+            "title": "Literacy in medieval Europe (Britannica)",
+            "url": "https://www.britannica.com/topic/literacy",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Hussite movement (Britannica)",
+            "url": "https://www.britannica.com/event/Hussite-wars",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": ["tf26-072-guilds", "tf26-076-markets"],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Literacy: books or seals?",
+        "whatWeSee": "Monastery libraries, Henry learning to read, sealed letters; nobles in Latin, villagers in German/Czech.",
+        "quickRealityCheck": "Does everyone read letters in-game—who actually wrote in the 15th century?",
+        "realHistory": "1400s literacy was class-bound: church and urban elites used Latin; bookkeeping was essential for guilds and merchants. Most peasants lived in oral culture.\n\nIn Bohemia the Hussite movement and demand for Czech sermons pushed vernacular religious text. Kingdom Come monastery beats echo that world.\n\nThe game ties literacy to skill points; historically writing was a tool of power and tax records.",
+        "mediaChanged": "The game teaches reading quickly; in reality training took years and institutions.",
+        "whyItMatters": "Writing was a quiet weapon in late medieval politics.",
+        "accuracyNote": "Latin/vernacular split and Hussite context are sound; Henry's fast learning is for player pacing.",
+        "mediaConnection": "Kingdom Come reading and monastery quests versus 15th-century literacy.",
+        "sources": [
+          {
+            "title": "Literacy in medieval Europe (Britannica)",
+            "url": "https://www.britannica.com/topic/literacy",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Hussite movement (Britannica)",
+            "url": "https://www.britannica.com/event/Hussite-wars",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": ["tf26-072-guilds", "tf26-076-markets"],
+        "readingTimeMinutes": 3
+      }
+    }
+  }
+}

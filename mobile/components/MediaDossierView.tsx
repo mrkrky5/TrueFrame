@@ -85,7 +85,7 @@ export default function MediaDossierView({
   return (
     <ScrollView
       style={styles.screen}
-      contentContainerStyle={[styles.content, { paddingTop: insets.top + 8, paddingBottom: bottomPad }]}
+      contentContainerStyle={[styles.content, { paddingTop: 12, paddingBottom: bottomPad }]}
       contentInsetAdjustmentBehavior="automatic"
     >
       <DetailBackBar fallbackHref="/explore" variant="inline" exitMode="replace" />

@@ -6,8 +6,8 @@ import { Platform } from "react-native";
  * Set ADS_ENABLED false to hide all ad UI without removing code.
  */
 export const ADS_ENABLED = true;
-/** TestFlight / App Store gönderiminden önce `false` yap. */
-export const USE_TEST_ADS = true;
+/** `false` = gerçek AdMob birimleri (TestFlight / App Store). Geliştirmede `true`. */
+export const USE_TEST_ADS = false;
 
 /** Google sample iOS App ID (dev fallback; production App ID lives in app.json plugin). */
 export const TEST_IOS_APP_ID = "ca-app-pub-3940256099942544~1458002511";

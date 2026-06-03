@@ -1,5 +1,5 @@
 import { Link, useRouter } from "expo-router";
-import { useMemo, useState } from "react";
+import { useMemo, useRef, useState } from "react";
 import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
@@ -13,6 +13,7 @@ import { theme } from "@/constants/theme";
 import { useHistory } from "@/context/HistoryContext";
 import { useLocale } from "@/context/LocaleContext";
 import { usePrimaryTabFocus } from "@/hooks/usePrimaryTabFocus";
+import { useTabScrollToTop } from "@/hooks/useTabScrollToTop";
 import { useCardProgress } from "@/hooks/useCardProgress";
 import { getCards, getRoutes } from "@shared/content";
 import { getStrongDossiers } from "@shared/dossier";
@@ -51,6 +52,8 @@ function ContinueCard({ card, locale }: { card: HistoryCard; locale: string }) {
 
 export default function HomeScreen() {
   usePrimaryTabFocus("index");
+  const scrollRef = useRef<ScrollView>(null);
+  useTabScrollToTop("index", scrollRef);
   const insets = useSafeAreaInsets();
   const router = useRouter();
   const { locale, dictionary } = useLocale();
@@ -104,19 +107,20 @@ export default function HomeScreen() {
 
   if (!ready) {
     return (
-      <View style={[styles.screenRoot, styles.screen, { paddingTop: insets.top + 16 }]}>
+      <View style={[styles.screenRoot, styles.screen, { paddingTop: insets.top + 8 }]}>
         <HomeTabSkeleton />
       </View>
     );
   }
 
   return (
-    <View style={styles.screenRoot}>
+    <View style={[styles.screenRoot, { paddingTop: insets.top + 8 }]}>
     <ScrollView
+      ref={scrollRef}
       style={styles.screen}
-      contentContainerStyle={[styles.content, { paddingTop: insets.top + 16, paddingBottom: bottomPad }]}
+      contentContainerStyle={[styles.content, { paddingBottom: bottomPad }]}
       showsVerticalScrollIndicator={false}
-      contentInsetAdjustmentBehavior="automatic"
+      contentInsetAdjustmentBehavior="never"
     >
       <View style={styles.header}>
         <View style={styles.headerTop}>

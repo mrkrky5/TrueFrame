@@ -37,7 +37,8 @@
   "scripts": {
     "start": "expo start",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "eas-build-pre-install": "node ../scripts/setup-mobile-links.mjs"
   },
   "private": true
 }

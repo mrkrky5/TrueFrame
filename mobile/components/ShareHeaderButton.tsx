@@ -20,13 +20,11 @@ export default function ShareHeaderButton({
     hapticLight();
     const url = cardShareUrl(locale, cardId);
     const lead = (dictionary.common.shareCardLead ?? "{{title}}").replace("{{title}}", title);
-    const message = `${lead}\n${url}`;
-
     try {
       await Share.share(
         Platform.OS === "ios"
-          ? { title: lead, message, url }
-          : { title: lead, message }
+          ? { title: lead, url }
+          : { title: lead, message: `${lead}\n${url}` }
       );
     } catch {
       // User dismissed share sheet

@@ -23,7 +23,7 @@ export default function LegalScreenLayout({
       style={styles.screen}
       contentContainerStyle={[
         styles.content,
-        { paddingTop: insets.top + 12, paddingBottom: insets.bottom + 32 },
+        { paddingTop: 12, paddingBottom: insets.bottom + 32 },
       ]}
       contentInsetAdjustmentBehavior="automatic"
     >

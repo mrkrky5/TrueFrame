@@ -1,0 +1,60 @@
+{
+  "block": "gladiator",
+  "cardIds": ["tf26-020-fall-myth"],
+  "patches": {
+    "tf26-020-fall-myth": {
+      "tr": {
+        "subtitle": "Roma 'çöktü' mü, yoksa dönüştü mü?",
+        "whatWeSee": "Gladiator'da Commodus'un sarayı, arena ve 'Roma'nın rüyası' monologları; Maximus'un Cumhuriyet özlemi.",
+        "quickRealityCheck": "Film tek bir kötü imparatorla çöküş anlatıyor—MS 180 sonrası gerçekte ne oldu?",
+        "realHistory": "MS 180'de Marcus Aurelius'un ardından Commodus tahta geçti; saray entrikası ve askerî maliyet artışı siyasi krizi derinleştirdi. Bu, imparatorluğun 'anlık yıkılışı' değil, 3. yüzyıl krizine giden uzun sürecin başlangıcıdır.\n\nBatı Roma resmen 476'da sona erer; Doğu Roma (Bizans) yüzyıllarca sürer. 'Çöküş' miti, tek bir arena veya imparator yüzünden değil, sınır baskısı, para değer kaybı ve ordu-saray dengesinin bozulmasıyla anlaşılır.\n\nGladiator Commodus'u trajik kötü yapar; tarihsel okuma imparatorluğun dönüşümünü vurgular.",
+        "mediaChanged": "Film çöküşü kişisel dram yapar; arşivler yapısal dönüşüm ve Doğu-Batı ayrımını öne çıkarır.",
+        "whyItMatters": "'Roma'nın sonu' hikâyesi, geç antikiteyi tek çizgiye indirger.",
+        "accuracyNote": "Commodus ve Marcus dönemi tarihseldir; Maximus ve senaryo kurgusaldır.",
+        "mediaConnection": "Gladiator imparatorluk retoriği ile geç antikite dönüşümü.",
+        "sources": [
+          {
+            "title": "Fall of the Roman Empire (Britannica)",
+            "url": "https://www.britannica.com/event/Fall-of-Rome",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Commodus (Britannica)",
+            "url": "https://www.britannica.com/biography/Commodus",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": ["gladiator-commodus"],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Did Rome 'fall'—or transform?",
+        "whatWeSee": "Commodus's palace, the arena, and 'dream of Rome' speeches in Gladiator; Maximus longing for the Republic.",
+        "quickRealityCheck": "Does the film collapse decline into one bad emperor—what happened after 180 CE?",
+        "realHistory": "After Marcus Aurelius died in 180 CE, Commodus took the throne; court intrigue and military costs deepened political crisis. This was not instant collapse but the start of a long route to third-century crisis.\n\nWestern Rome formally ends in 476; Eastern Rome (Byzantium) continues for centuries. The 'fall' myth is understood through border pressure, currency debasement, and army–court imbalance—not one arena or emperor.\n\nGladiator makes Commodus a tragic villain; historical reading stresses imperial transformation.",
+        "mediaChanged": "The film makes decline personal drama; archives stress structural change and East–West split.",
+        "whyItMatters": "The 'end of Rome' story flattens late antiquity into one line.",
+        "accuracyNote": "Commodus and Marcus era are historical; Maximus and plot are fictional.",
+        "mediaConnection": "Gladiator imperial rhetoric versus late antique transformation.",
+        "sources": [
+          {
+            "title": "Fall of the Roman Empire (Britannica)",
+            "url": "https://www.britannica.com/event/Fall-of-Rome",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Commodus (Britannica)",
+            "url": "https://www.britannica.com/biography/Commodus",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": ["gladiator-commodus"],
+        "readingTimeMinutes": 3
+      }
+    }
+  }
+}

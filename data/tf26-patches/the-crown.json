@@ -1,0 +1,190 @@
+{
+  "block": "the-crown",
+  "cardIds": [
+    "tf26-184-royal-media",
+    "tf26-188-royal-finance",
+    "tf26-187-public-grief"
+  ],
+  "patches": {
+    "tf26-184-royal-media": {
+      "tr": {
+        "subtitle": "Kraliyet ve medya: taht TV'ye çıkınca",
+        "whatWeSee": "The Crown'da II. Elizabeth'in televizyon taç giyme töreni, paparazzi ve Diana–Charles medya fırtınası.",
+        "quickRealityCheck": "Dizi 'özel hayat' mı anlatıyor—monarşi medyayla nasıl değişti?",
+        "realHistory": "1953 televizyon taç giymesi, kraliyeti aile salonuna taşıdı; BBC ile devlet protokolü birleşti. 1980–90'larda tabloid basın ve Diana hikâyesi, monarşinin 'insan yüzünü' hem güçlendirdi hem kırılganlaştırdı.\n\nThe Crown olayları dramatize eder; tarihsel çekirdek, sembolik başkanlığın görünürlük ihtiyacıdır: sessizlik artık mümkün değildi.\n\nCumhuriyetçi eleştiri, vergi ve protokol maliyetini de medya üzerinden yürüdü.",
+        "mediaChanged": "Dizi özel hayatı dizi ritmine sıkıştırır; gerçekte basın, anayasa ve kamuoyu anketi monarşiyi şekillendirdi.",
+        "whyItMatters": "Modern monarşi, tören kadar kamera kadar yaşar.",
+        "accuracyNote": "1953 TV töreni ve Diana dönemi çerçevesi doğru; diyaloglar kurgusaldır.",
+        "mediaConnection": "The Crown medya sahneleri ile Britanya monarşisinin görünürlüğü.",
+        "sources": [
+          {
+            "title": "Coronation of Elizabeth II (Royal.uk)",
+            "url": "https://www.royal.uk/history-coronation",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "British monarchy in the media age (Britannica)",
+            "url": "https://www.britannica.com/topic/monarchy/Government",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "crown-tv-coronation-1953",
+          "crown-monarchy-symbol"
+        ],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Crown and media: when the throne met TV",
+        "whatWeSee": "Elizabeth II's televised coronation, paparazzi, and the Diana–Charles media storm in The Crown.",
+        "quickRealityCheck": "Does the series tell 'private life'—how did monarchy change with media?",
+        "realHistory": "The 1953 televised coronation brought royalty into living rooms; BBC met state protocol. 1980s–90s tabloids and Diana's story both humanized and fragilized the monarchy.\n\nThe Crown dramatizes events; the historical core is symbolic headship needing visibility: silence was no longer possible.\n\nRepublican critique also ran through press debate on tax and protocol cost.",
+        "mediaChanged": "The series compresses private life to episode rhythm; press, constitution, and polls really shaped the monarchy.",
+        "whyItMatters": "Modern monarchy lives on camera as much as ceremony.",
+        "accuracyNote": "1953 TV coronation and Diana era frame are sound; dialogue is fictional.",
+        "mediaConnection": "The Crown media beats versus British monarchy visibility.",
+        "sources": [
+          {
+            "title": "Coronation of Elizabeth II (Royal.uk)",
+            "url": "https://www.royal.uk/history-coronation",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "British monarchy in the media age (Britannica)",
+            "url": "https://www.britannica.com/topic/monarchy/Government",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "crown-tv-coronation-1953",
+          "crown-monarchy-symbol"
+        ],
+        "readingTimeMinutes": 3
+      }
+    },
+    "tf26-188-royal-finance": {
+      "tr": {
+        "subtitle": "Kraliyet finansmanı: vergi, mülk, tartışma",
+        "whatWeSee": "The Crown'da saray bütçesi, yatırım tartışmaları, Windsor yangını sonrası onarım ve 'halk parası mı?' sorusu.",
+        "quickRealityCheck": "Dizi lüksü romantize ediyor mu—British monarchy nasıl finanse edilir?",
+        "realHistory": "UK monarşisi Sovereign Grant, Crown Estate geliri ve özel mülkler (Duchy of Cornwall vb.) ile finanse edilir. Kamuoyu, tören ve saray onarım maliyetini tartışır.\n\n1992 Windsor yangını ve 'annus horribilis', maliyet ve itibar krizini birleştirdi. The Crown bu anları aile dramıyla verir; tarihsel olarak muhasebe siyasettir.\n\nCumhuriyetçiler 'maliyet–fayda' sorusu sorar; monarchistler turizm ve istikrar argümanı sunar.",
+        "mediaChanged": "Dizi finansı arka plan yapar; gerçekte bütçe parlamentoda ve basında tartışılır.",
+        "whyItMatters": "Sembolik devletin fiyatı, demokraside görünür olmalıdır.",
+        "accuracyNote": "Sovereign Grant ve 1992 krizi çerçevesi doğru; rakamlar döneme göre değişir.",
+        "mediaConnection": "The Crown maliyet sahneleri ile Britanya kraliyet finansmanı.",
+        "sources": [
+          {
+            "title": "Sovereign Grant (Royal.uk)",
+            "url": "https://www.royal.uk/sovereign-grant",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Crown Estate (official)",
+            "url": "https://www.thecrownestate.co.uk/about-us/our-history",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "crown-monarchy-symbol",
+          "tf26-184-royal-media"
+        ],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Royal finance: tax, property, dispute",
+        "whatWeSee": "Palace budgets, repair debates after Windsor fire, and 'public money?' questions in The Crown.",
+        "quickRealityCheck": "Does the show romanticize luxury—how is the British monarchy funded?",
+        "realHistory": "The UK monarchy is funded through Sovereign Grant, Crown Estate revenue, and private holdings (Duchy of Cornwall, etc.). The public debates ceremony and palace repair costs.\n\nThe 1992 Windsor fire and 'annus horribilis' merged cost and reputation crisis. The Crown plays this as family drama; historically the books are political.\n\nRepublicans ask cost–benefit; monarchists cite tourism and stability.",
+        "mediaChanged": "The series keeps finance in the background; budgets are fought in parliament and press.",
+        "whyItMatters": "The price of symbolic statehood should be visible in democracy.",
+        "accuracyNote": "Sovereign Grant and 1992 crisis frame are sound; figures change by era.",
+        "mediaConnection": "The Crown money scenes versus British royal financing.",
+        "sources": [
+          {
+            "title": "Sovereign Grant (Royal.uk)",
+            "url": "https://www.royal.uk/sovereign-grant",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Crown Estate (official)",
+            "url": "https://www.thecrownestate.co.uk/about-us/our-history",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "crown-monarchy-symbol",
+          "tf26-184-royal-media"
+        ],
+        "readingTimeMinutes": 3
+      }
+    },
+    "tf26-187-public-grief": {
+      "tr": {
+        "subtitle": "Kamusal yas: Diana ve modern monarşi",
+        "whatWeSee": "The Crown'da Diana'nın ölümü, çiçek tepeleri ve II. Elizabeth'in tepki gecikmesi tartışması.",
+        "quickRealityCheck": "Dizi yası dramatize ediyor—1997 Britanya'sında ne oldu?",
+        "realHistory": "31 Ağustos 1997'de Diana'nın ölümü, kamuoyunda şok ve kitlesel yas yarattı. Buckingham'ın ilk sessizliği eleştirildi; kraliçe sonra ulusa seslendi.\n\nThe Crown aile ve kurum çatışmasını anlatır; tarihsel olarak yas, monarşinin 'duygusal sözleşmesini' yeniden tarttı.",
+        "mediaChanged": "Dizi tepki gecikmesini kişisel drama yapar; medya döngüsü belirleyiciydi.",
+        "whyItMatters": "Modern krallık, tören kadar kamu duygusuna bağlıdır.",
+        "accuracyNote": "1997 tarihi doğru; diyaloglar kurgusaldır.",
+        "mediaConnection": "The Crown Diana yası.",
+        "sources": [
+          {
+            "title": "Death of Diana (Britannica)",
+            "url": "https://www.britannica.com/biography/Diana-princess-of-Wales/Death",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Royal.uk — Queen's broadcast 1997",
+            "url": "https://www.royal.uk/queens-broadcast-about-princess-diana",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "crown-monarchy-symbol",
+          "tf26-184-royal-media"
+        ],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Public grief: Diana and modern monarchy",
+        "whatWeSee": "Diana's death, flower piles, and debate over the Queen's slow response in The Crown.",
+        "quickRealityCheck": "Does the series dramatize grief—what happened in 1997 Britain?",
+        "realHistory": "Diana's death on 31 August 1997 shocked the public and brought mass mourning. Early royal silence drew criticism; the Queen later addressed the nation.\n\nThe Crown plays family versus institution; historically grief retested the monarchy's 'emotional contract.'",
+        "mediaChanged": "Personal drama on screen; media cycles drove the crisis.",
+        "whyItMatters": "Modern royalty depends on public feeling as much as ceremony.",
+        "accuracyNote": "1997 date is correct; dialogue is fictional.",
+        "mediaConnection": "The Crown Diana grief.",
+        "sources": [
+          {
+            "title": "Death of Diana (Britannica)",
+            "url": "https://www.britannica.com/biography/Diana-princess-of-Wales/Death",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Royal.uk — Queen's broadcast 1997",
+            "url": "https://www.royal.uk/queens-broadcast-about-princess-diana",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "crown-monarchy-symbol",
+          "tf26-184-royal-media"
+        ],
+        "readingTimeMinutes": 3
+      }
+    }
+  }
+}

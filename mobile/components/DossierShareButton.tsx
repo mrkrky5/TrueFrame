@@ -20,13 +20,11 @@ export default function DossierShareButton({
     hapticLight();
     const url = dossierShareUrl(locale, slug);
     const lead = (dictionary.common.shareDossierLead ?? "{{title}}").replace("{{title}}", title);
-    const message = `${lead}\n${url}`;
-
     try {
       await Share.share(
         Platform.OS === "ios"
-          ? { title: lead, message, url }
-          : { title: lead, message }
+          ? { title: lead, url }
+          : { title: lead, message: `${lead}\n${url}` }
       );
     } catch {
       // dismissed

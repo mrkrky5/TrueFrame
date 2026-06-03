@@ -1,0 +1,251 @@
+{
+  "block": "saving-private-ryan",
+  "cardIds": [
+    "tf26-132-operation-fortitude",
+    "tf26-136-canadian-beaches",
+    "tf26-140-memory",
+    "tf26-137-french-civilians"
+  ],
+  "patches": {
+    "tf26-132-operation-fortitude": {
+      "tr": {
+        "subtitle": "Fortitude: Normandiya'dan önce sahte ordu",
+        "whatWeSee": "Filmin arka planında çift ajan, sahte istihbarat ve karadan ziyade deniz çıkarması beklentisi; generallerin harita başı sahneleri.",
+        "quickRealityCheck": "SPR savaşı anlatır—D-Day öncesi aldatma gerçekte ne kadar büyüktü?",
+        "realHistory": "Operation Fortitude (1944), Müttefiklerin Normandiya çıkarmasından önce Nazi istihbaratını Pas-de-Calais'e kilitlemek için tasarlandı. Sahte birlikler, radyo trafiği ve çift ajanlar (ör. Garbo ağı) 'Ana saldırı kuzeyde' izlenimi verdi.\n\nFortitude tek başına zafer getirmedi; hava üstünlüğü, karşı istihbarat ve gerçek çıkarma planıyla birlikte çalıştı. Film aldatmayı kısa geçer; tarihsel önemi çıkarmanın gizliliğini korumaktı.\n\nSaving Private Ryan'in açılışı Omaha'yı gösterir; Fortitude ise o sahnenin mümkün olmasına yardım eden görünmez cepheydi.",
+        "mediaChanged": "Film istihbarat savaşını arka plan yapar; gerçekte Fortitude, Hitler'in rezervlerini günlerca geciktirdi.",
+        "whyItMatters": "İkinci Dünya Savaşı'nda kazanç, bazen silahtan önce sahte haritayla geldi.",
+        "accuracyNote": "Fortitude ve çift ajanlar tarihseldir; filmin karakterleri kurgusaldır.",
+        "mediaConnection": "Saving Private Ryan D-Day çerçevesi ile Operation Fortitude.",
+        "sources": [
+          {
+            "title": "Operation Fortitude (Britannica)",
+            "url": "https://www.britannica.com/event/Operation-Fortitude",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "D-Day deception plans (Imperial War Museums)",
+            "url": "https://www.iwm.org.uk/history/5-deception-plans-for-d-day",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-136-canadian-beaches",
+          "tf26-140-memory"
+        ],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Fortitude: the phantom army before Normandy",
+        "whatWeSee": "Double agents, false intelligence, and generals expecting invasion elsewhere—backdrop to the film's combat.",
+        "quickRealityCheck": "SPR tells battle stories—how large was deception before D-Day?",
+        "realHistory": "Operation Fortitude (1944) aimed to lock German intelligence on Pas-de-Calais before the Allied Normandy landings. Dummy units, radio traffic, and double agents (e.g. the Garbo network) sold the idea that the 'main' blow would come north.\n\nFortitude did not win alone; it worked with air superiority, counter-intelligence, and the real assault plan. The film barely sketches deception; its historical role was to protect the landing's surprise.\n\nSaving Private Ryan opens on Omaha; Fortitude was the invisible front that helped make that scene possible.",
+        "mediaChanged": "The film keeps intelligence war in the background; historically Fortitude delayed Hitler's reserves for days.",
+        "whyItMatters": "In World War II, victory sometimes came from false maps before guns.",
+        "accuracyNote": "Fortitude and double agents are historical; the film's characters are fictional.",
+        "mediaConnection": "Saving Private Ryan D-Day frame versus Operation Fortitude.",
+        "sources": [
+          {
+            "title": "Operation Fortitude (Britannica)",
+            "url": "https://www.britannica.com/event/Operation-Fortitude",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "D-Day deception plans (Imperial War Museums)",
+            "url": "https://www.iwm.org.uk/history/5-deception-plans-for-d-day",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-136-canadian-beaches",
+          "tf26-140-memory"
+        ],
+        "readingTimeMinutes": 3
+      }
+    },
+    "tf26-136-canadian-beaches": {
+      "tr": {
+        "subtitle": "Juno Beach: Kanada'nın D-Day cephesi",
+        "whatWeSee": "Saving Private Ryan çoğunlukla ABD Omaha'yı gösterir; Juno'da Kanada birlikleri, kasaba sokakları ve sıkı Alman savunması.",
+        "quickRealityCheck": "Film ABD merkezli—6 Haziran'da Kanada nerede çıktı?",
+        "realHistory": "6 Haziran 1944'te Kanada 3. Piyade Tümeni Juno Beach'e çıktı: Courseulles, Bernières ve Saint-Aubin hatları. Hedef, Caen yolunu kesmek ve Alman 716. Piyade ile çarpışmaktı.\n\nKanada askerleri ağır kayıp verdi ama sahil tutuldu; savaş sonuna kadar Normandiya ve Hollanda cephelerinde sürdü. SPR filminin coğrafyası ABD odaklıdır; Juno, müttefik hikâyesinin Kanada yüzüdür.\n\nTarihsel anma, Ottawa ve Normandiya anıtlarında Juno'yu ayrı taşır.",
+        "mediaChanged": "Film Kanada çıkarmasını görünmez kılar; arşivler Juno'yu müttefik planının ayrı omurgası sayar.",
+        "whyItMatters": "D-Day tek ülke hikâyesi değil; Kanada cephesi unutulmamalı.",
+        "accuracyNote": "Juno tarihleri ve hedefler doğru; SPR karakterleri kurgusaldır.",
+        "mediaConnection": "Saving Private Ryan ABD çerçevesi ile Juno Beach çıkarması.",
+        "sources": [
+          {
+            "title": "Juno Beach (Canadian Encyclopedia)",
+            "url": "https://www.thecanadianencyclopedia.ca/en/article/juno-beach",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "D-Day landings (Britannica)",
+            "url": "https://www.britannica.com/event/Normandy-Invasion",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-132-operation-fortitude",
+          "tf26-140-memory"
+        ],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "Juno Beach: Canada's D-Day sector",
+        "whatWeSee": "Saving Private Ryan focuses on American Omaha; Juno had Canadian units, town streets, and tight German defense.",
+        "quickRealityCheck": "The film is U.S.-centric—where did Canada land on 6 June?",
+        "realHistory": "On 6 June 1944 the Canadian 3rd Infantry Division hit Juno Beach: Courseulles, Bernières, and Saint-Aubin sectors. The aim was to cut the road to Caen and fight the German 716th Infantry.\n\nCanadian forces took heavy losses but held the shore; they fought on through Normandy and the Netherlands. SPR's geography is U.S.-focused; Juno is Canada's face of the allied story.\n\nMemorial culture marks Juno separately in Ottawa and Normandy monuments.",
+        "mediaChanged": "The film makes the Canadian landing invisible; archives treat Juno as its own spine of the allied plan.",
+        "whyItMatters": "D-Day is not one country's story; Canada's sector should be remembered.",
+        "accuracyNote": "Juno dates and aims are correct; SPR characters are fictional.",
+        "mediaConnection": "Saving Private Ryan U.S. frame versus Juno Beach landings.",
+        "sources": [
+          {
+            "title": "Juno Beach (Canadian Encyclopedia)",
+            "url": "https://www.thecanadianencyclopedia.ca/en/article/juno-beach",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "D-Day landings (Britannica)",
+            "url": "https://www.britannica.com/event/Normandy-Invasion",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-132-operation-fortitude",
+          "tf26-140-memory"
+        ],
+        "readingTimeMinutes": 3
+      }
+    },
+    "tf26-140-memory": {
+      "tr": {
+        "subtitle": "D-Day hafızası: anıt, film, milli anlatı",
+        "whatWeSee": "SPR'nin açılış Omaha sahnesi pop kültürde 'D-Day'in yüzü' oldu; mezarlıklar, sessiz asker ve 'büyük ölçek' sinematografi.",
+        "quickRealityCheck": "Film tarihi mi hafıza mı üretiyor—Normandiya anması nasıl şekillendi?",
+        "realHistory": "Normandiya çıkarması, II. Dünya Savaşı'nın Batı cephesinde dönüm noktasıdır; anma ABD, Britanya, Kanada ve Fransa'da ayrı ritüeller taşır.\n\n1998'de Saving Private Ryan, savaşın vahşetini sinemada yeniden tanımladı; müze ve eğitim programlarıyla birlikte 'görsel hafıza' güçlendi. Hafıza, kahramanlık ile travmayı birlikte işler.\n\nFilm tarih değildir; ama sonraki nesillerin D-Day algısını filtreledi—bu kart o filtreyi görünür kılar.",
+        "mediaChanged": "Film tek sahil ve ABD askerini ikon yapar; gerçek hafıza çok uluslu ve çok cephelidir.",
+        "whyItMatters": "Popüler film, tarih eğitiminin sessiz ortağıdır.",
+        "accuracyNote": "D-Day tarihi doğru; filmin sahne seçimi dramatiktir.",
+        "mediaConnection": "Saving Private Ryan ile Normandiya hafıza kültürü.",
+        "sources": [
+          {
+            "title": "Normandy American Cemetery (ABMC)",
+            "url": "https://www.abmc.gov/cemeteries-memorials/cemeteries-memorials-europe/normandy-american-cemetery",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "D-Day remembrance (Imperial War Museums)",
+            "url": "https://www.iwm.org.uk/history/d-day",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-132-operation-fortitude",
+          "tf26-136-canadian-beaches"
+        ],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "D-Day memory: monuments, film, national story",
+        "whatWeSee": "SPR's Omaha opening became pop culture's 'face of D-Day'—cemeteries, silent soldiers, large-scale cinematography.",
+        "quickRealityCheck": "Does the film make history or memory—how was Normandy commemorated?",
+        "realHistory": "The Normandy landings were a turning point on the Western Front; remembrance carries separate rituals in the U.S., U.K., Canada, and France.\n\nSaving Private Ryan (1998) redefined battle brutality on screen; with museums and education it strengthened a visual memory that mixes heroism and trauma.\n\nThe film is not history—but it filters how later generations picture D-Day; this card makes that filter visible.",
+        "mediaChanged": "The film icons one beach and American soldiers; real memory is multinational and multi-sector.",
+        "whyItMatters": "Popular film is a quiet partner in history education.",
+        "accuracyNote": "D-Day dates are correct; the film's scene choice is dramatic.",
+        "mediaConnection": "Saving Private Ryan versus Normandy memory culture.",
+        "sources": [
+          {
+            "title": "Normandy American Cemetery (ABMC)",
+            "url": "https://www.abmc.gov/cemeteries-memorials/cemeteries-memorials-europe/normandy-american-cemetery",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "D-Day remembrance (Imperial War Museums)",
+            "url": "https://www.iwm.org.uk/history/d-day",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-132-operation-fortitude",
+          "tf26-136-canadian-beaches"
+        ],
+        "readingTimeMinutes": 3
+      }
+    },
+    "tf26-137-french-civilians": {
+      "tr": {
+        "subtitle": "Fransız siviller: işgal, direniş, intikam",
+        "whatWeSee": "SPR'de Normandiya köyü, çevrilmiş sivil ve asker-sivil gerilim sahneleri.",
+        "quickRealityCheck": "Film sivili az gösteriyor—1944 Fransası nasıldı?",
+        "realHistory": "Normandiya çıkarmasından sonra siviller işgal, mal tüketimi ve istihbarat riski yaşadı. Bazı köyler direnişçi yardım etti; bazıları intikam çatışmalarına karıştı.\n\nSPR çoğunlukla cephe piyadesine odaklanır; sivil hikâye ikincil. Tarihsel kayıt, sivillerin kayıp ve yargısız infazlarla da travma yaşadığını yazar.",
+        "mediaChanged": "Film sivili kısa gösterir; gerçekte lojistik ve güvenlik sivil ilişkisine bağlıydı.",
+        "whyItMatters": "Kurtuluş savaşı, köy masasında da sürer.",
+        "accuracyNote": "Normandiya bağlamı doğru; karakterler kurgusaldır.",
+        "mediaConnection": "SPR Fransız siviller.",
+        "sources": [
+          {
+            "title": "Liberation of France (Imperial War Museums)",
+            "url": "https://www.iwm.org.uk/history/liberation-of-france",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Normandy campaign (Britannica)",
+            "url": "https://www.britannica.com/event/Normandy-Invasion",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-136-canadian-beaches",
+          "tf26-140-memory"
+        ],
+        "readingTimeMinutes": 3
+      },
+      "en": {
+        "subtitle": "French civilians: occupation, aid, revenge",
+        "whatWeSee": "Normandy villages, translated civilians, and soldier-civilian tension in SPR.",
+        "quickRealityCheck": "Does the film barely show civilians—what was 1944 France?",
+        "realHistory": "After Normandy, civilians faced occupation logic, requisition, and informer risk. Some villages helped resistance; some saw reprisal fights.\n\nSPR focuses on infantry; civilian arcs are secondary. Records also note trauma from losses and extrajudicial killings.",
+        "mediaChanged": "Brief civilian beats; logistics and security tied to local relations.",
+        "whyItMatters": "Liberation war also ran through village tables.",
+        "accuracyNote": "Normandy context is sound; characters are fictional.",
+        "mediaConnection": "SPR French civilians.",
+        "sources": [
+          {
+            "title": "Liberation of France (Imperial War Museums)",
+            "url": "https://www.iwm.org.uk/history/liberation-of-france",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Normandy campaign (Britannica)",
+            "url": "https://www.britannica.com/event/Normandy-Invasion",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-136-canadian-beaches",
+          "tf26-140-memory"
+        ],
+        "readingTimeMinutes": 3
+      }
+    }
+  }
+}

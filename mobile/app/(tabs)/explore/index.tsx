@@ -1,6 +1,6 @@
 import { Ionicons } from "@expo/vector-icons";
 import { Link, useRouter, useFocusEffect } from "expo-router";
-import { useCallback, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import {
   FlatList,
   Pressable,
@@ -80,7 +80,8 @@ export default function ExploreScreen() {
   const router = useRouter();
   const { locale, dictionary } = useLocale();
   const { readIds, recentIds } = useHistory();
-  const { getExploreScrollOffset, setExploreScrollOffset } = useNavigationTab();
+  const { getExploreScrollOffset, setExploreScrollOffset, registerTabScrollToTop } =
+    useNavigationTab();
   const openCard = useOpenCard();
   const exploreReturn = { kind: "tab" as const, tab: "explore" as const };
   const flatListRef = useRef<FlatList>(null);
@@ -138,6 +139,14 @@ export default function ExploreScreen() {
     }, [getExploreScrollOffset, setExploreScrollOffset])
   );
 
+  useEffect(() => {
+    return registerTabScrollToTop("explore", () => {
+      flatListRef.current?.scrollToOffset({ offset: 0, animated: true });
+      scrollOffsetRef.current = 0;
+      setExploreScrollOffset(0);
+    });
+  }, [registerTabScrollToTop, setExploreScrollOffset]);
+
   const handleScroll = useCallback((offsetY: number) => {
     scrollOffsetRef.current = offsetY;
   }, []);
@@ -183,14 +192,6 @@ export default function ExploreScreen() {
     openCard(cardId, exploreReturn);
   };
 
-  const trCatalogCount = useMemo(() => getCards("tr").length, []);
-  const localeCatalogNote =
-    locale === "en" && allCards.length < trCatalogCount
-      ? (ex.localeCatalogNote ?? "")
-          .replace("{{count}}", String(allCards.length))
-          .replace("{{total}}", String(trCatalogCount))
-      : null;
-
   const ListHeader = useMemo(
     () => (
     <>
@@ -209,13 +210,6 @@ export default function ExploreScreen() {
           </Text>
         </Pressable>
       </View>
-
-      {localeCatalogNote ? (
-        <View style={styles.localeNote}>
-          <Ionicons name="information-circle-outline" size={16} color={theme.accent} />
-          <Text style={styles.localeNoteText}>{localeCatalogNote}</Text>
-        </View>
-      ) : null}
 
       <View style={styles.searchWrap}>
         <Ionicons name="search" size={18} color={theme.muted} style={styles.searchIcon} />
@@ -459,7 +453,6 @@ export default function ExploreScreen() {
       tag,
       sortedDossiers,
       locale,
-      localeCatalogNote,
       filtered.length,
       unreadCount,
       accuracyTypes,

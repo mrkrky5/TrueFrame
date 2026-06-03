@@ -4,7 +4,10 @@ const path = require("path");
 
 const projectRoot = __dirname;
 const workspaceRoot = path.resolve(projectRoot, "..");
-const sharedRoot = path.join(projectRoot, "shared");
+const sharedRoots = [
+  path.join(projectRoot, "shared"),
+  path.join(workspaceRoot, "shared"),
+];
 
 const config = getDefaultConfig(projectRoot);
 
@@ -21,14 +24,16 @@ config.resolver.resolveRequest = (context, moduleName, platform) => {
   const match = moduleName.match(sharedImport);
   if (match) {
     const rel = match[1];
-    const candidates = [
-      path.join(sharedRoot, `${rel}.ts`),
-      path.join(sharedRoot, `${rel}.tsx`),
-      path.join(sharedRoot, rel, "index.ts"),
-    ];
-    for (const candidate of candidates) {
-      if (fs.existsSync(candidate)) {
-        return { type: "sourceFile", filePath: candidate };
+    for (const sharedRoot of sharedRoots) {
+      const candidates = [
+        path.join(sharedRoot, `${rel}.ts`),
+        path.join(sharedRoot, `${rel}.tsx`),
+        path.join(sharedRoot, rel, "index.ts"),
+      ];
+      for (const candidate of candidates) {
+        if (fs.existsSync(candidate)) {
+          return { type: "sourceFile", filePath: candidate };
+        }
       }
     }
   }

@@ -31,6 +31,7 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
   const { getReflections, toggleReflection } = useLearning();
   const [reveal, setReveal] = useState(false);
   const [savedProgress, setSavedProgress] = useState(0);
+  const [heroFailed, setHeroFailed] = useState(false);
 
   const similar = useMemo(
     () => getSmartRelatedCards(card, allCards, readIds, 3),
@@ -40,6 +41,7 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
   useEffect(() => {
     addRecent(card.id);
     setReveal(!needsSpoilerGate(card));
+    setHeroFailed(false);
 
     AsyncStorage.getItem(`progress_${card.id}`).then((raw) => {
       if (raw) {
@@ -92,12 +94,13 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
           contentInsetAdjustmentBehavior="automatic"
           showsVerticalScrollIndicator={false}
         >
-          {hero ? (
+          {hero && !heroFailed ? (
             <View style={styles.gateHeroWrap}>
               <Image
                 source={{ uri: hero.src }}
                 style={styles.gateHeroImg}
                 contentFit="cover"
+                onError={() => setHeroFailed(true)}
                 {...cachedImageProps}
               />
             </View>
@@ -188,12 +191,13 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
         contentContainerStyle={[styles.liteContent, { paddingBottom: bottomPad }]}
         contentInsetAdjustmentBehavior="automatic"
       >
-        {hero ? (
+        {hero && !heroFailed ? (
           <View style={styles.heroWrap}>
             <Image
               source={{ uri: hero.src }}
               style={styles.heroImg}
               contentFit="cover"
+              onError={() => setHeroFailed(true)}
               {...cachedImageProps}
             />
           </View>

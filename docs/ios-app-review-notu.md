@@ -6,7 +6,7 @@ Aşağıyı **App Review Information → Notes** alanına yapıştırabilirsiniz
 
 **English**
 
-True Frame is an educational app that explores the real history behind games, films, and series.
+True Frame is an educational app (App Store listing name: True Frame Media) that explores the real history behind games, films, and series.
 
 - **No login required.** Reading progress and saved items are stored only on the device (local storage).
 - **Editorial content is bundled** in the app (JSON). No account or login.

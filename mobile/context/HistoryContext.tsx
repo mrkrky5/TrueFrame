@@ -104,13 +104,19 @@ export function HistoryProvider({ children }: { children: React.ReactNode }) {
   const toggleSave = useCallback(
     (id: string) => {
       setState((prev) => {
-        const savedIds = prev.savedIds.includes(id)
+        const removing = prev.savedIds.includes(id);
+        const savedIds = removing
           ? prev.savedIds.filter((x) => x !== id)
           : [...prev.savedIds, id];
         AsyncStorage.setItem(KEYS.saved, JSON.stringify(savedIds));
+        if (removing) {
+          setSaveHintSeen(false);
+          void AsyncStorage.removeItem(KEYS.saveHint);
+        } else {
+          dismissSaveHint();
+        }
         return { ...prev, savedIds };
       });
-      dismissSaveHint();
     },
     [dismissSaveHint]
   );
