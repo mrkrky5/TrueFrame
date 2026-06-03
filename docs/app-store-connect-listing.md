@@ -38,12 +38,16 @@ Sol menü → **App Store** (veya **Distribution** → **App Store**) → uygula
 | **Content Rights** | Kendi içeriğiniz / uygun lisans (içerik size ait) |
 | **Age Rating** | Anketi doldur → genelde **4+** (şiddet çok hafif metin varsa ankete göre) |
 
-**App Privacy Policy URL:**  
-`https://trueframe.app/tr/privacy`  
-(Statik site: `legal-site/` → GitHub Pages: [`legal-site-deploy.md`](./legal-site-deploy.md))
+**Privacy / Support URL’leri** (GitHub Pages — `trueframe.app` DNS sonra):
 
-**Support URL:**  
-`https://trueframe.app/tr/support`
+| Dil | Privacy | Support |
+|-----|---------|---------|
+| TR | `https://mrkrky5.github.io/TrueFrame/tr/privacy/` | `https://mrkrky5.github.io/TrueFrame/tr/support/` |
+| EN | `https://mrkrky5.github.io/TrueFrame/en/privacy/` | `https://mrkrky5.github.io/TrueFrame/en/support/` |
+
+App Privacy (tek alan): EN privacy önerilir. App Information / 1.0.0: lokalizasyona göre TR veya EN.
+
+Deploy: [`legal-site-deploy.md`](./legal-site-deploy.md)
 
 Kaydet.
 
@@ -129,8 +133,8 @@ Eğitim amaçlıdır; resmi tarih dersinin yerine geçmez, meraklı okur için t
 tarih,medya,oyun,film,dizi,eğitim,tarihsel,gerçekler,belgesel,öğrenme
 ```
 
-**Support URL** (sürümde tekrar): `https://trueframe.app/tr/support`  
-**Marketing URL** (isteğe bağlı): `https://trueframe.app/tr`
+**Support URL** (sürüm, lokalizasyona göre): TR veya EN tablo yukarıda  
+**Marketing URL** (isteğe bağlı): boş veya `https://mrkrky5.github.io/TrueFrame/`
 
 ☐ Açıklama + anahtar kelimeler
 

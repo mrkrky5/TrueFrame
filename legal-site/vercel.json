@@ -1,8 +1,11 @@
 {
   "rewrites": [
-    { "source": "/tr/privacy", "destination": "/tr/privacy.html" },
-    { "source": "/tr/support", "destination": "/tr/support.html" },
-    { "source": "/tr/terms", "destination": "/tr/terms.html" },
+    { "source": "/tr/privacy", "destination": "/tr/privacy/index.html" },
+    { "source": "/tr/support", "destination": "/tr/support/index.html" },
+    { "source": "/tr/terms", "destination": "/tr/terms/index.html" },
+    { "source": "/en/privacy", "destination": "/en/privacy/index.html" },
+    { "source": "/en/support", "destination": "/en/support/index.html" },
+    { "source": "/en/terms", "destination": "/en/terms/index.html" },
     { "source": "/", "destination": "/index.html" }
   ]
 }

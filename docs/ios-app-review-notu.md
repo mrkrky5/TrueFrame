@@ -20,8 +20,8 @@ True Frame is an educational app (App Store listing name: True Frame Media) that
 4. Save to Library → verify under Library tab  
 5. Optional: Routes tab → open a learning journey  
 
-**Support:** https://trueframe.app/tr/support  
-**Privacy:** https://trueframe.app/tr/privacy  
+**Support:** https://mrkrky5.github.io/TrueFrame/en/support/  
+**Privacy:** https://mrkrky5.github.io/TrueFrame/en/privacy/  
 
 ---
 

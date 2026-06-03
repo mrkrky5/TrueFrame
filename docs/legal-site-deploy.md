@@ -31,12 +31,22 @@ git push origin main
 
 ## 3) Linkleri nereden alırsın?
 
-### A) Geçici — GitHub Pages (repo adı `Tarih` ise)
+### A) Geçici — GitHub Pages (repo adı `TrueFrame` ise)
+
+**Türkçe**
 
 ```
-https://KULLANICI_ADIN.github.io/Tarih/tr/privacy/
-https://KULLANICI_ADIN.github.io/Tarih/tr/support/
-https://KULLANICI_ADIN.github.io/Tarih/tr/terms/
+https://mrkrky5.github.io/TrueFrame/tr/privacy/
+https://mrkrky5.github.io/TrueFrame/tr/support/
+https://mrkrky5.github.io/TrueFrame/tr/terms/
+```
+
+**English**
+
+```
+https://mrkrky5.github.io/TrueFrame/en/privacy/
+https://mrkrky5.github.io/TrueFrame/en/support/
+https://mrkrky5.github.io/TrueFrame/en/terms/
 ```
 
 `KULLANICI_ADIN` = GitHub kullanıcı adın. Actions deploy bitince **Settings → Pages** altında **Visit site** linki de çıkar.
@@ -91,11 +101,21 @@ legal-site/public/
 
 ---
 
+## App Store Connect — hangi URL nereye?
+
+| Connect alanı | Turkish lokalizasyon | English (U.S.) |
+|---------------|----------------------|----------------|
+| App Privacy → Privacy Policy URL | `…/tr/privacy/` | `…/en/privacy/` (veya aynı TR) |
+| 1.0.0 → Support URL | `…/tr/support/` | `…/en/support/` |
+| App Information → Privacy / Support | TR linkler | EN linkler |
+
+**App Privacy** tek alan ise: `…/en/privacy/` (inceleme için) veya TR — ikisi de kabul edilir.
+
 ## Connect checklist
 
-- [ ] Tarayıcıda privacy/support True Frame metnini gösteriyor
+- [ ] TR ve EN sayfalar tarayıcıda açılıyor
 - [ ] App Privacy → Privacy Policy URL
-- [ ] 1.0.0 → Support URL
-- [ ] App Information URL’leri (aynı)
+- [ ] 1.0.0 → Support URL (dile göre)
+- [ ] App Information URL’leri
 
 E-posta kutusu (`contact@`) sonra aktif olabilir; sayfada adres durabilir.
