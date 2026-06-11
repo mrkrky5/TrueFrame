@@ -3,7 +3,7 @@ name: Deploy legal site (GitHub Pages)
 
 on:
   push:
-    branches: [main, master]
+    branches: [main, master, product-elevation-experiments]
     paths:
       - "legal-site/**"
       - ".github/workflows/deploy-legal-pages.yml"
