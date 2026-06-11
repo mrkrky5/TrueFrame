@@ -66,13 +66,23 @@ One banner unit is used for Explore (after 4th card) and after-read completion.
 
 ## F. app-ads.txt
 
-Host at site root, e.g. `https://yourdomain.com/app-ads.txt`:
+**Repo dosyası:** `legal-site/public/app-ads.txt` (GitHub Pages deploy ile yayınlanır).
+
+Kök URL (custom domain bağlıysa):
 
 ```
-google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+https://trueframe.app/app-ads.txt
 ```
 
-Publisher ID: AdMob → **Account** → **Publisher ID**.
+İçerik:
+
+```
+google.com, pub-1571569580384263, DIRECT, f08c47fec0942fa0
+```
+
+Publisher ID: AdMob → **Account** → **Publisher ID** (`pub-1571569580384263`).
+
+**Doğrulama hatası** genelde: domain App Store’daki site ile uyuşmuyor veya `trueframe.app` hâlâ eski siteye gidiyor. Tarayıcıda `app-ads.txt` açılınca yalnızca yukarıdaki tek satır görünmeli (HTML değil).
 
 ## G. iOS privacy
 

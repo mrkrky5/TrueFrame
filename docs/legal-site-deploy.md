@@ -111,6 +111,27 @@ legal-site/public/
 
 **App Privacy** tek alan ise: `…/en/privacy/` (inceleme için) veya TR — ikisi de kabul edilir.
 
+## AdMob — app-ads.txt (zorunlu kök dosya)
+
+Dosya: `legal-site/public/app-ads.txt`
+
+```
+google.com, pub-1571569580384263, DIRECT, f08c47fec0942fa0
+```
+
+**AdMob şunu ister:** `https://ALAN_ADI/app-ads.txt` — alt klasör değil, **kök**.
+
+| App Store / AdMob’daki alan adı | app-ads.txt URL |
+|----------------------------------|-----------------|
+| `trueframe.app` (önerilen) | `https://trueframe.app/app-ads.txt` |
+| Geçici (çalışmaz — kök değil) | `github.io/TrueFrame/...` ❌ |
+
+`trueframe.app` şu an başka bir siteye gidiyorsa AdMob doğrulama **başarısız** olur. DNS’i GitHub Pages’e bağla → deploy → AdMob’da **Verify** / güncellemeleri kontrol et (birkaç saat sürebilir).
+
+Connect **Developer Website** alanı `trueframe.app` ile aynı domain olmalı.
+
+---
+
 ## Connect checklist
 
 - [ ] TR ve EN sayfalar tarayıcıda açılıyor
