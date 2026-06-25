@@ -5,14 +5,14 @@ import MediaDossierView from "@/components/MediaDossierView";
 import { theme } from "@/constants/theme";
 import { useLocale } from "@/context/LocaleContext";
 import { usePrimaryTabFocus } from "@/hooks/usePrimaryTabFocus";
-import { getCards } from "@shared/content";
+import { useCards } from "@/context/ContentContext";
 import { getDossierBySlug } from "@shared/dossier";
 
 export default function MediaScreen() {
   usePrimaryTabFocus("explore");
   const { slug } = useLocalSearchParams<{ slug: string }>();
   const { locale, dictionary } = useLocale();
-  const allCards = getCards(locale);
+  const allCards = useCards();
   const dossier = slug ? getDossierBySlug(allCards, slug) : undefined;
 
   if (!dossier) {

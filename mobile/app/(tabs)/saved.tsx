@@ -1,41 +1,47 @@
 import { Link } from "expo-router";
-import React, { useMemo, useRef } from "react";
-import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
+import React, { Fragment, useMemo, useRef } from "react";
+import { ScrollView, StyleSheet, Text, View } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Ionicons } from "@expo/vector-icons";
 
 import CardRow from "@/components/CardRow";
 import FeedbackCard from "@/components/FeedbackCard";
+import ListInlineAd from "@/components/ads/ListInlineAd";
+import AnimatedPressable from "@/components/motion/AnimatedPressable";
+import { EmptyStateIcon, EmptyStateText } from "@/components/motion/EmptyStateEnter";
 import { ListTabSkeleton } from "@/components/ui/AppSkeleton";
-import { tabBarBottomInset } from "@/constants/layout";
+import { tabScreenContentPadding } from "@/constants/layout";
 import { type } from "@/constants/typography";
 import { surfaces } from "@/constants/surfaces";
 import { theme } from "@/constants/theme";
 import { useHistory } from "@/context/HistoryContext";
 import { useLocale } from "@/context/LocaleContext";
 import { sortCardsByReadState } from "@shared/cardSort";
-import { getCards } from "@shared/content";
+import { useCards } from "@/context/ContentContext";
 import { usePrimaryTabFocus } from "@/hooks/usePrimaryTabFocus";
 import { useTabScrollToTop } from "@/hooks/useTabScrollToTop";
 
 function SavedEmptyCard({ t }: { t: (key: string) => string }) {
   return (
     <View style={styles.emptyBox}>
-      <View style={styles.emptyIconWrap}>
-        <Ionicons name="library-outline" size={36} color={theme.accent} />
-      </View>
-      <Text style={styles.emptyTitle}>{t("globalEmptyTitle")}</Text>
-      <Text style={styles.emptyDesc}>{t("globalEmptyDesc")}</Text>
-      <Link href="/" asChild>
-        <Pressable style={styles.primaryBtn}>
-          <Text style={styles.primaryBtnText}>{t("globalEmptyPrimaryCta")}</Text>
-        </Pressable>
-      </Link>
-      <Link href="/explore" asChild>
-        <Pressable style={styles.secondaryBtn}>
-          <Text style={styles.secondaryBtnText}>{t("globalEmptySecondaryCta")}</Text>
-        </Pressable>
-      </Link>
+      <EmptyStateIcon>
+        <View style={styles.emptyIconWrap}>
+          <Ionicons name="library-outline" size={36} color={theme.accent} />
+        </View>
+      </EmptyStateIcon>
+      <EmptyStateText delay={50}>
+        <Text style={styles.emptyTitle}>{t("globalEmptyTitle")}</Text>
+      </EmptyStateText>
+      <EmptyStateText delay={100}>
+        <Text style={styles.emptyDesc}>{t("globalEmptyDesc")}</Text>
+      </EmptyStateText>
+      <EmptyStateText delay={150}>
+        <Link href="/explore" asChild>
+          <AnimatedPressable style={styles.primaryBtn}>
+            <Text style={styles.primaryBtnText}>{t("globalEmptyPrimaryCta")}</Text>
+          </AnimatedPressable>
+        </Link>
+      </EmptyStateText>
     </View>
   );
 }
@@ -46,28 +52,28 @@ export default function SavedScreen() {
   useTabScrollToTop("saved", scrollRef);
   const insets = useSafeAreaInsets();
   const { locale, dictionary } = useLocale();
-  const { savedIds, recentIds, readIds, ready } = useHistory();
-  const allCards = getCards(locale);
+  const { savedIds, readIds, ready } = useHistory();
+  const allCards = useCards();
 
   const saved = useMemo(
     () => sortCardsByReadState(allCards.filter((c) => savedIds.includes(c.id)), readIds),
     [allCards, savedIds, readIds]
   );
-  const recent = useMemo(
-    () => sortCardsByReadState(allCards.filter((c) => recentIds.includes(c.id)), readIds),
-    [allCards, recentIds, readIds]
-  );
-  const read = useMemo(
-    () => sortCardsByReadState(allCards.filter((c) => readIds.includes(c.id)), readIds),
-    [allCards, readIds]
-  );
+
+  const savedIdSet = useMemo(() => new Set(saved.map((c) => c.id)), [saved]);
+
+  const read = useMemo(() => {
+    const ids = readIds.filter((id) => !savedIdSet.has(id));
+    return sortCardsByReadState(
+      allCards.filter((c) => ids.includes(c.id)),
+      readIds
+    );
+  }, [allCards, readIds, savedIdSet]);
 
   const t = (key: string) => dictionary.saved?.[key as keyof typeof dictionary.saved] ?? key;
   const savedReturn = { kind: "tab" as const, tab: "saved" as const };
-  const showGlobalEmpty =
-    ready && saved.length === 0 && recent.length === 0 && read.length === 0;
-  const showSavedEmptyCard = ready && saved.length === 0 && !showGlobalEmpty;
-  const bottomPad = tabBarBottomInset(insets.bottom) + 16;
+  const showGlobalEmpty = ready && saved.length === 0 && read.length === 0;
+  const bottomPad = tabScreenContentPadding(insets.bottom);
 
   if (!ready) {
     return (
@@ -79,79 +85,70 @@ export default function SavedScreen() {
 
   return (
     <View style={[styles.screen, { paddingTop: insets.top + 8, flex: 1 }]}>
-    <ScrollView
-      ref={scrollRef}
-      style={styles.scroll}
-      contentContainerStyle={[styles.content, { paddingBottom: bottomPad }]}
-      contentInsetAdjustmentBehavior="never"
-    >
-      <View style={styles.headerRow}>
-        <View style={styles.headerText}>
-          <Text style={styles.title}>{t("title")}</Text>
-          <Text style={styles.subtitle}>{t("subtitle")}</Text>
+      <ScrollView
+        ref={scrollRef}
+        style={styles.scroll}
+        contentContainerStyle={[styles.content, { paddingBottom: bottomPad }]}
+        contentInsetAdjustmentBehavior="never"
+      >
+        <View style={styles.headerRow}>
+          <View style={styles.headerText}>
+            <Text style={styles.title}>{t("title")}</Text>
+            <Text style={styles.subtitle}>{t("subtitle")}</Text>
+          </View>
+          <Link href="/settings" asChild>
+            <AnimatedPressable
+              style={styles.settingsBtn}
+              accessibilityRole="button"
+              accessibilityLabel={dictionary.settings?.title ?? "Ayarlar"}
+              hitSlop={8}
+            >
+              <Ionicons name="settings-outline" size={22} color={theme.ink} />
+            </AnimatedPressable>
+          </Link>
         </View>
-        <Link href="/settings" asChild>
-          <Pressable
-            style={styles.settingsBtn}
-            accessibilityRole="button"
-            accessibilityLabel={dictionary.settings?.title ?? "Ayarlar"}
-            hitSlop={8}
-          >
-            <Ionicons name="settings-outline" size={22} color={theme.ink} />
-          </Pressable>
-        </Link>
-      </View>
 
-      {showGlobalEmpty ? (
-        <SavedEmptyCard t={t} />
-      ) : (
-        <>
-          {showSavedEmptyCard ? <SavedEmptyCard t={t} /> : null}
-          {saved.length > 0 ? (
+        {showGlobalEmpty ? (
+          <SavedEmptyCard t={t} />
+        ) : (
+          <>
             <Section title={t("savedItems")}>
-              {saved.map((c) => (
-                <CardRow
-                  key={c.id}
-                  card={c}
-                  locale={locale}
-                  isRead={readIds.includes(c.id)}
-                  returnTo={savedReturn}
-                />
-              ))}
+              {saved.length > 0 ? (
+                saved.map((c, index) => (
+                  <Fragment key={c.id}>
+                    <ListInlineAd index={index} placement="saved_inline" />
+                    <CardRow
+                      card={c}
+                      locale={locale}
+                      isRead={readIds.includes(c.id)}
+                      returnTo={savedReturn}
+                    />
+                  </Fragment>
+                ))
+              ) : (
+                <Text style={styles.sectionHint}>{t("savedSectionHint")}</Text>
+              )}
             </Section>
-          ) : null}
-          {recent.length > 0 ? (
-            <Section title={t("recentlyViewed")}>
-              {recent.map((c) => (
-                <CardRow
-                  key={c.id}
-                  card={c}
-                  locale={locale}
-                  isRead={readIds.includes(c.id)}
-                  returnTo={savedReturn}
-                />
-              ))}
-            </Section>
-          ) : null}
-          {read.length > 0 ? (
-            <Section title={t("completed")}>
-              {read.map((c) => (
-                <CardRow
-                  key={c.id}
-                  card={c}
-                  locale={locale}
-                  isRead
-                  returnTo={savedReturn}
-                  badge={dictionary.common.readStatus}
-                />
-              ))}
-            </Section>
-          ) : null}
-        </>
-      )}
 
-      <FeedbackCard />
-    </ScrollView>
+            {read.length > 0 ? (
+              <Section title={t("completed")}>
+                {read.map((c) => (
+                  <CardRow
+                    key={c.id}
+                    card={c}
+                    locale={locale}
+                    isRead
+                    returnTo={savedReturn}
+                    badge={dictionary.common.readStatus}
+                  />
+                ))}
+              </Section>
+            ) : null}
+          </>
+        )}
+
+        <FeedbackCard />
+      </ScrollView>
     </View>
   );
 }
@@ -206,19 +203,8 @@ const styles = StyleSheet.create({
     paddingHorizontal: 32,
     width: "100%",
     alignItems: "center",
-    marginBottom: 10,
   },
   primaryBtnText: { color: theme.white, fontSize: 14, fontWeight: "700" },
-  secondaryBtn: {
-    borderRadius: 16,
-    paddingVertical: 14,
-    paddingHorizontal: 32,
-    width: "100%",
-    alignItems: "center",
-    ...surfaces.inset,
-    borderColor: theme.borderStrong,
-  },
-  secondaryBtnText: { color: theme.ink, fontSize: 13, fontWeight: "700" },
   section: {
     marginBottom: 24,
     padding: 14,
@@ -228,4 +214,5 @@ const styles = StyleSheet.create({
     borderColor: theme.border,
   },
   sectionTitle: { fontSize: 16, fontWeight: "600", color: theme.ink, marginBottom: 12 },
+  sectionHint: { fontSize: 13, lineHeight: 20, color: theme.muted },
 });

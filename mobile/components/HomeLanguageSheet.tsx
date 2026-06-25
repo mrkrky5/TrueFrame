@@ -1,7 +1,8 @@
-import { useEffect } from "react";
-import { Modal, Platform, Pressable, StyleSheet, Text, View } from "react-native";
+import { useLayoutEffect } from "react";
+import { Modal, Platform, StyleSheet, Text, View } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 
+import BottomSheetMotion from "@/components/motion/BottomSheetMotion";
 import { theme } from "@/constants/theme";
 import { useNavigationTab } from "@/context/NavigationContext";
 import LanguagePicker from "@/components/LanguagePicker";
@@ -18,17 +19,12 @@ function SheetContent({
   const s = dictionary.settings;
 
   return (
-    <Pressable style={styles.backdrop} onPress={onClose} accessibilityRole="button">
-      <Pressable
-        style={[styles.sheet, { paddingBottom }]}
-        onPress={(e) => e.stopPropagation()}
-      >
-        <View style={styles.handle} />
-        <Text style={styles.title}>{s.languageLabel}</Text>
-        <Text style={styles.hint}>{s.languageHint}</Text>
-        <LanguagePicker onPicked={onClose} />
-      </Pressable>
-    </Pressable>
+    <BottomSheetMotion visible paddingBottom={paddingBottom} onClose={onClose}>
+      <View style={styles.handle} />
+      <Text style={styles.title}>{s.languageLabel}</Text>
+      <Text style={styles.hint}>{s.languageHint}</Text>
+      <LanguagePicker onPicked={onClose} />
+    </BottomSheetMotion>
   );
 }
 
@@ -44,8 +40,8 @@ export default function HomeLanguageSheet({
   const { setTabBarSuppressed } = useNavigationTab();
   const paddingBottom = Math.max(insets.bottom, 16) + 16;
 
-  useEffect(() => {
-    if (!visible) return;
+  useLayoutEffect(() => {
+    if (!visible || Platform.OS === "web") return;
     setTabBarSuppressed(true);
     return () => setTabBarSuppressed(false);
   }, [visible, setTabBarSuppressed]);
@@ -61,7 +57,7 @@ export default function HomeLanguageSheet({
   }
 
   return (
-    <Modal visible transparent animationType="fade" onRequestClose={onClose}>
+    <Modal visible transparent animationType="none" onRequestClose={onClose}>
       <SheetContent onClose={onClose} paddingBottom={paddingBottom} />
     </Modal>
   );
@@ -73,20 +69,6 @@ const styles = StyleSheet.create({
     zIndex: 1000,
     pointerEvents: "box-none",
   },
-  backdrop: {
-    flex: 1,
-    justifyContent: "flex-end",
-    backgroundColor: "rgba(0,0,0,0.35)",
-  },
-  sheet: {
-    backgroundColor: theme.bg,
-    borderTopLeftRadius: 24,
-    borderTopRightRadius: 24,
-    paddingHorizontal: 20,
-    paddingTop: 12,
-    borderWidth: 1,
-    borderColor: theme.border,
-  },
   handle: {
     alignSelf: "center",
     width: 36,
@@ -97,21 +79,4 @@ const styles = StyleSheet.create({
   },
   title: { fontSize: 18, fontWeight: "600", color: theme.ink, marginBottom: 6 },
   hint: { fontSize: 13, lineHeight: 20, color: theme.muted, marginBottom: 16 },
-  option: {
-    flexDirection: "row",
-    alignItems: "center",
-    justifyContent: "space-between",
-    minHeight: 56,
-    paddingVertical: 14,
-    paddingHorizontal: 16,
-    borderRadius: 16,
-    borderWidth: 1,
-    borderColor: theme.border,
-    backgroundColor: theme.white,
-    marginBottom: 10,
-  },
-  optionActive: { borderColor: theme.ink, backgroundColor: theme.accentSoft },
-  optionText: { flex: 1 },
-  optionTitle: { fontSize: 16, fontWeight: "700", color: theme.ink },
-  optionSub: { fontSize: 11, fontWeight: "800", letterSpacing: 1.2, color: theme.muted, marginTop: 2 },
 });

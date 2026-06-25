@@ -33,6 +33,10 @@ export function cardPublicUrl(locale: string, cardId: string): string {
   return sitePath(`/${locale}/card/${cardId}`);
 }
 
+export function cardDeepLinkUrl(cardId: string): string {
+  return `trueframe://card/${cardId}`;
+}
+
 export function dossierPublicUrl(locale: string, slug: string): string {
   return sitePath(`/${locale}/media/${slug}`);
 }

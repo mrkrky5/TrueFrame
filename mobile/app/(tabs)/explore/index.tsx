@@ -12,11 +12,11 @@ import {
 } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 
-import InlineAdSlot from "@/components/ads/InlineAdSlot";
+import ExploreCatalogRow from "@/components/explore/ExploreCatalogRow";
+import FilterChip from "@/components/motion/FilterChip";
 import MissingMediaRequest from "@/components/MissingMediaRequest";
-import HistoryCard from "@/components/HistoryCard";
 import MoodIcon from "@/components/MoodIcon";
-import { tabBarBottomInset } from "@/constants/layout";
+import { tabScreenContentPadding } from "@/constants/layout";
 import { type } from "@/constants/typography";
 import { surfaces } from "@/constants/surfaces";
 import { theme } from "@/constants/theme";
@@ -25,10 +25,9 @@ import { useHistory } from "@/context/HistoryContext";
 import { useLocale } from "@/context/LocaleContext";
 import { useNavigationTab } from "@/context/NavigationContext";
 import { useInProgressIds } from "@/hooks/useInProgressIds";
-import { getCards } from "@shared/content";
+import { useCards } from "@/context/ContentContext";
 import { sortCardsByReadState } from "@shared/cardSort";
 import { getStrongDossiers } from "@shared/dossier";
-import { EXPLORE_INLINE_AD_AFTER_INDEX } from "@/constants/ads";
 import { EXPLORE_CATALOG_PREVIEW, getExploreSearchSuggestions, getStartHereCards } from "@shared/exploreCurated";
 import { countUnreadCards, filterCards } from "@shared/explore";
 import { sortDossiersByReadState, isDossierComplete } from "@shared/dossierSort";
@@ -41,7 +40,15 @@ import {
 import { flattenStyle } from "@/utils/flattenStyle";
 import { usePrimaryTabFocus } from "@/hooks/usePrimaryTabFocus";
 import { useOpenCard } from "@/hooks/useOpenCard";
+import { buildExploreMoods } from "@shared/exploreMoods";
 import type { AccuracyType, MediaType } from "../../../types/index";
+
+const CATALOG_LIST_TUNING = {
+  initialNumToRender: 8,
+  maxToRenderPerBatch: 10,
+  windowSize: 7,
+  removeClippedSubviews: true,
+} as const;
 
 const MEDIA: Array<MediaType | "all"> = ["all", "game", "film", "series", "book"];
 
@@ -56,24 +63,6 @@ function formatResultsSummary(
   return template.replace("{{total}}", String(total)).replace("{{unread}}", String(unread));
 }
 
-function buildMoods(locale: string, dictionary: Record<string, any>, allCards: ReturnType<typeof getCards>) {
-  const labels = dictionary.common.moodLabels;
-  const all = [
-    { id: "war", label: labels.war, tag: locale === "tr" ? "savas" : "war" },
-    { id: "myth", label: labels.myth, tag: locale === "tr" ? "mitoloji" : "myth" },
-    { id: "samurai", label: labels.samurai, tag: locale === "tr" ? "samuray" : "samurai" },
-    { id: "crime", label: labels.crime, tag: locale === "tr" ? "su" : "crime" },
-    { id: "cold-war", label: labels["cold-war"], tag: locale === "tr" ? "soguk-savas" : "cold-war" },
-    { id: "ancient-world", label: labels["ancient-world"], tag: locale === "tr" ? "antik-dnya" : "ancient-world" },
-    { id: "empires", label: labels.empires, tag: locale === "tr" ? "imparatorluklar" : "empires" },
-    { id: "propaganda", label: labels.propaganda, tag: locale === "tr" ? "propaganda" : "propaganda" },
-    { id: "daily-life", label: labels["daily-life"], tag: locale === "tr" ? "gnlk-hayat" : "daily-life" },
-    { id: "science-tech", label: labels["science-tech"], tag: locale === "tr" ? "bilim" : "science" },
-  ];
-  if (locale === "tr") return all;
-  return all.filter((m) => allCards.some((c) => c.tags?.includes(m.tag)));
-}
-
 export default function ExploreScreen() {
   usePrimaryTabFocus("explore");
   const insets = useSafeAreaInsets();
@@ -86,14 +75,17 @@ export default function ExploreScreen() {
   const exploreReturn = { kind: "tab" as const, tab: "explore" as const };
   const flatListRef = useRef<FlatList>(null);
   const scrollOffsetRef = useRef(0);
-  const allCards = getCards(locale);
+  const allCards = useCards();
   const strongDossiers = useMemo(() => getStrongDossiers(allCards), [allCards]);
   const sortedDossiers = useMemo(
     () => sortDossiersByReadState(strongDossiers, readIds),
     [strongDossiers, readIds]
   );
   const startHereCards = useMemo(() => getStartHereCards(allCards, 6), [allCards]);
-  const MOODS = useMemo(() => buildMoods(locale, dictionary, allCards), [locale, dictionary, allCards]);
+  const MOODS = useMemo(
+    () => buildExploreMoods(locale, dictionary.common.moodLabels, allCards),
+    [locale, dictionary.common.moodLabels, allCards]
+  );
   const accuracyTypes = useMemo<Array<{ label: string; value: AccuracyType | "all" }>>(
     () => [
       { label: dictionary.common.accuracyFilterLabels.all, value: "all" },
@@ -113,7 +105,7 @@ export default function ExploreScreen() {
   const [tag, setTag] = useState<string | null>(null);
   const [showFilters, setShowFilters] = useState(false);
   const [showAllCatalog, setShowAllCatalog] = useState(false);
-  const bottomPad = tabBarBottomInset(insets.bottom) + 16;
+  const bottomPad = tabScreenContentPadding(insets.bottom);
   const ex = dictionary.explore ?? {};
 
   const filtered = useMemo(
@@ -203,6 +195,9 @@ export default function ExploreScreen() {
         <Pressable
           style={[styles.filterBtn, activeFilterCount > 0 && styles.filterBtnActive]}
           onPress={() => setShowFilters((v) => !v)}
+          accessibilityRole="button"
+          accessibilityState={{ expanded: showFilters }}
+          accessibilityLabel={dictionary.common.filter}
         >
           <Text style={[styles.filterBtnText, activeFilterCount > 0 && styles.filterBtnTextActive]}>
             {dictionary.common.filter}
@@ -219,56 +214,82 @@ export default function ExploreScreen() {
           placeholderTextColor={theme.muted}
           value={query}
           onChangeText={setQuery}
+          accessibilityLabel={dictionary.common.searchPlaceholder}
         />
         {query ? (
-          <Pressable onPress={() => setQuery("")} style={styles.searchClear} hitSlop={8}>
+          <Pressable
+            onPress={() => setQuery("")}
+            style={styles.searchClear}
+            hitSlop={8}
+            accessibilityRole="button"
+            accessibilityLabel={dictionary.common.clearFilter}
+          >
             <Ionicons name="close-circle" size={18} color={theme.muted} />
           </Pressable>
         ) : null}
       </View>
 
-      <Pressable
-        style={[styles.quickChip, spoilerFree && styles.quickChipActive]}
+      <FilterChip
+        variant="accent"
+        label={ex.spoilerFreeFilter ?? dictionary.card.noSpoilers}
+        active={spoilerFree}
         onPress={() => setSpoilerFree((v) => !v)}
-      >
-        <Text style={[styles.quickChipText, spoilerFree && styles.quickChipTextActive]}>
-          {ex.spoilerFreeFilter ?? dictionary.card.noSpoilers}
-        </Text>
-      </Pressable>
+        style={styles.quickChip}
+        textStyle={styles.quickChipText}
+        accessibilityRole="switch"
+        accessibilityState={{ checked: spoilerFree }}
+        accessibilityLabel={ex.spoilerFreeFilter ?? dictionary.card.noSpoilers}
+      />
 
       {showFilters ? (
         <View style={styles.filterPanel}>
           <Text style={styles.filterLabel}>{dictionary.common.contentType}</Text>
           <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.chipRow}>
-            {MEDIA.map((m) => (
-              <Pressable
+            {MEDIA.map((m) => {
+              const label =
+                m === "all" ? dictionary.common.mediaFilterLabels.all : m;
+              return (
+              <FilterChip
                 key={m}
-                style={[styles.chip, media === m && styles.chipActive]}
+                variant="paper"
+                label={label}
+                active={media === m}
                 onPress={() => setMedia(m)}
-              >
-                <Text style={[styles.chipText, media === m && styles.chipTextActive]}>
-                  {m === "all" ? dictionary.common.mediaFilterLabels.all : m}
-                </Text>
-              </Pressable>
-            ))}
+                style={styles.chip}
+                textStyle={styles.chipText}
+                accessibilityRole="radio"
+                accessibilityState={{ selected: media === m }}
+                accessibilityLabel={label}
+              />
+            );
+            })}
           </ScrollView>
 
           <Text style={[styles.filterLabel, { marginTop: 4 }]}>{dictionary.card.guessAccuracy}</Text>
           <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.chipRow}>
             {accuracyTypes.map((a) => (
-              <Pressable
+              <FilterChip
                 key={a.value}
-                style={[styles.chip, accuracy === a.value && styles.chipActive]}
+                variant="paper"
+                label={a.label}
+                active={accuracy === a.value}
                 onPress={() => setAccuracy(a.value)}
-              >
-                <Text style={[styles.chipText, accuracy === a.value && styles.chipTextActive]} numberOfLines={1}>
-                  {a.label}
-                </Text>
-              </Pressable>
+                style={styles.chip}
+                textStyle={styles.chipText}
+                accessibilityRole="radio"
+                accessibilityState={{ selected: accuracy === a.value }}
+                accessibilityLabel={a.label}
+              />
             ))}
           </ScrollView>
 
-          <Pressable style={styles.flagshipRow} onPress={() => setOnlyFlagships((v) => !v)}>
+          <Pressable
+            style={styles.flagshipRow}
+            onPress={() => setOnlyFlagships((v) => !v)}
+            accessibilityRole="switch"
+            accessibilityState={{ checked: onlyFlagships }}
+            accessibilityLabel={dictionary.common.onlyFlagship}
+          >
             <Text style={styles.flagshipLabel}>{dictionary.common.onlyFlagship}</Text>
             <View style={[styles.toggle, onlyFlagships && styles.toggleOn]}>
               <View style={[styles.knob, onlyFlagships && styles.knobOn]} />
@@ -281,7 +302,12 @@ export default function ExploreScreen() {
         <>
           <View style={styles.activeBar}>
             <Text style={styles.resultsInline}>{formatResultsSummary(dictionary, filtered.length, unreadCount)}</Text>
-            <Pressable onPress={clearAllFilters} hitSlop={8}>
+            <Pressable
+              onPress={clearAllFilters}
+              hitSlop={8}
+              accessibilityRole="button"
+              accessibilityLabel={dictionary.common.clearFilter}
+            >
               <Text style={styles.clearAll}>{dictionary.common.clearFilter}</Text>
             </Pressable>
           </View>
@@ -488,18 +514,15 @@ export default function ExploreScreen() {
         keyboardDismissMode="on-drag"
         ListHeaderComponent={ListHeader}
         renderItem={({ item, index }) => (
-          <>
-            {!isAnyFilterActive && index === EXPLORE_INLINE_AD_AFTER_INDEX ? (
-              <InlineAdSlot />
-            ) : null}
-            <HistoryCard
-              card={item}
-              isRead={readIds.includes(item.id)}
-              showPreview
-              returnTo={exploreReturn}
-            />
-          </>
+          <ExploreCatalogRow
+            card={item}
+            index={index}
+            isRead={readIds.includes(item.id)}
+            isAnyFilterActive={isAnyFilterActive}
+            exploreReturn={exploreReturn}
+          />
         )}
+        {...CATALOG_LIST_TUNING}
         ListFooterComponent={
           !isAnyFilterActive ? (
             <>

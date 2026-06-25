@@ -90,7 +90,17 @@ Export compliance sorulursa (build’e bağlı):
 | 6.7" | iPhone 15 Pro Max / 14 Pro Max vb. | En büyük iPhone ekran görüntüsü |
 | 6.5" | iPhone 11 Pro Max / XS Max vb. | İkinci boyut veya aynı set (Connect bazen birini kabul eder) |
 
-**Pratik:** TestFlight **16** yüklü iPhone’da ekran görüntüsü al → Mac’e AirDrop → Connect’e sürükle.
+**Pratik:** TestFlight **16** yüklü iPhone’da ekran görüntüsü al → Mac’e AirDrop.
+
+**Boyut hatası alırsan** (6.5" için 1242×2688 veya 1284×2778 gerekir):
+
+```powershell
+npm run resize:screenshots
+```
+
+Çıktı: `dist/app-store-screenshots-1284x2778/` — Connect’e **bu PNG’leri** sürükle (ham IMG dosyaları değil).
+
+Önerilen sıra (TR mağaza): `6040` → `6043` → `6045` → `6049` → `6050` (max 10).
 
 **Önerilen 5–6 kare (sıra):**
 
@@ -108,23 +118,50 @@ Her boyut sekmesine aynı seti yükle (Connect her sekme için ayrı ister).
 
 ### 2.3 Metinler (Türkçe — ilk çıkış)
 
-**Promotional Text** (isteğe bağlı, 170 karakter, sonradan güncellenebilir):
+**Promotional Text** (TR, ≤170 karakter):
 
 ```
-Popüler oyun, film ve dizilerin arkasındaki gerçek tarihi keşfedin. Hesap gerekmez; okuma ilerlemeniz cihazınızda kalır.
+Sevdiğin oyun ve dizilerin ardındaki gerçek tarihi keşfet. Kaynaklı derin okumalar, spoiler koruması, kişisel kitaplığın.
 ```
 
-**Description** (açıklama — örnek taslak, düzenleyebilirsin):
+**Description** (TR — mağaza metni, teknik detay yok):
 
 ```
-True Frame, sevdiğiniz medyanın arkasındaki tarihi gerçekleri anlaşılır ve kaynaklı biçimde sunan bir keşif uygulamasıdır.
+Oyun, film ve dizi izlerken aklına takılan o sorular… Gerçekten böyle mi oldu?
 
-• Oyun, film ve dizilerden ilham alan tematik kartlar ve öğrenme rotaları
-• Spoiler korumalı derin okuma ve kısa “gerçeklik kontrolü” kartları
-• Hesap yok — kayıtlı kartlar ve ilerleme yalnızca cihazınızda
-• Kaynak linkleri Safari’de açılır
+True Frame, popüler yapımların ardındaki tarihi gerçekleri meraklı okurlar için anlatır: kısa bilgi kartı değil, kaynaklara dayanan derin okumalar. Bir Assassin’s Creed sahnesi, bir dizi finali, bir savaş filmi… Hepsi gerçek bir olayın, dönemin veya kişinin izini taşıyor olabilir.
 
-Eğitim amaçlıdır; resmi tarih dersinin yerine geçmez, meraklı okur için tasarlanmıştır.
+Ne bulacaksın?
+• Günlük Gerçeklik Kontrolü — her gün yeni bir keşif
+• Medya dosyaları — aynı yapım etrafında toplanmış okumalar
+• Öğrenme rotaları — konu konu ilerleyen yolculuklar
+• Kişisel kitaplığın — kaydet, kaldığın yerden devam et
+• Spoiler koruması — hazır olduğunda aç
+
+True Frame, tarihi ders kitabı değil; merakını besleyen bir keşif alanı. Eğlenirken öğrenmek isteyenler için.
+```
+
+**Promotional Text** (EN, ≤170):
+
+```
+Discover the real history behind the games and shows you love. Deep, sourced reads—not trivia—with spoiler control and your own library.
+```
+
+**Description** (EN):
+
+```
+You finish an episode—or put down the controller—and one question lingers: did that really happen?
+
+True Frame explores the real history behind popular games, films, and series. Not bite-sized facts, but thoughtful, source-backed reads for curious minds. A scene in a game, a finale, a battle on screen—they often echo real people, places, and turning points in history.
+
+Inside the app:
+• Daily Reality Check — a fresh discovery every day
+• Media dossiers — readings grouped around one title
+• Learning routes — guided journeys by theme
+• Your library — save, resume, and revisit what matters
+• Spoiler protection — open the story when you are ready
+
+True Frame is not a textbook. It is a place to feed your curiosity—learn while you explore the stories you already love.
 ```
 
 **Keywords** (virgül, boşluksuz veya Apple formatına göre, ~100 karakter):

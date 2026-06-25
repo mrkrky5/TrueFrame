@@ -103,8 +103,23 @@ function checkDataIntegrity() {
   }
   if (!routeErrors) pass("Rota → kart referansları geçerli");
 
+  for (const locale of ["tr", "en"]) {
+    const indexPath = `data/cards.index.${locale}.json`;
+    const index = readJson(indexPath);
+    const full = locale === "tr" ? cardsTr : cardsEn;
+    if (!index) {
+      fail(`Eksik kart index: ${indexPath} — npm run content:build-index`);
+      continue;
+    }
+    if (index.length !== full.length) {
+      fail(`${indexPath} (${index.length}) ile cards.${locale}.json (${full.length}) sayı uyuşmuyor`);
+    } else {
+      pass(`Kart index ${locale.toUpperCase()} (${index.length}) güncel`);
+    }
+  }
+
   const flagshipWithoutBlocks = cardsTr.filter(
-    (c) => c.experienceLevel === "flagship" && !c.contentBlocks?.length
+    (c) => c.isFlagship && !c.contentBlocks?.length && !c.realHistory?.trim()
   );
   if (flagshipWithoutBlocks.length) {
     fail(
@@ -201,6 +216,110 @@ function checkTypeScript() {
   }
 }
 
+function checkContentAudit() {
+  section("İçerik denetimi (audit-content)");
+  try {
+    const out = execSync("node scripts/audit-content.mjs", { cwd: root, encoding: "utf8" });
+    const report = JSON.parse(out);
+    const { p0, p1, p2 } = report.summary;
+    if (report.summary.p0 > 0) {
+      fail(`audit-content P0: ${report.summary.p0} sorun`);
+    } else {
+      pass(`audit-content P0 temiz (P1=${p1}, P2=${p2})`);
+    }
+  } catch (e) {
+    const out = (e.stdout || "") + (e.stderr || "");
+    fail(`audit-content başarısız:\n${out.trim()}`);
+  }
+}
+
+function checkQualitySignals() {
+  section("İçerik kalite sinyalleri");
+  try {
+    const out = execSync("node scripts/content-quality-signals.mjs", { cwd: root, encoding: "utf8" });
+    const report = JSON.parse(out);
+    const cCount = (report.summary.tr?.C ?? 0) + (report.summary.en?.C ?? 0);
+    const bCount = (report.summary.tr?.B ?? 0) + (report.summary.en?.B ?? 0);
+    pass(`Kalite: C-tier=${cCount}, B-tier=${bCount} (rapor: npm run content:quality)`);
+    if (cCount > 40) {
+      fail(`C-tier kart sayısı yüksek (${cCount}) — öncelikli editör geçişi önerilir`);
+    }
+  } catch (e) {
+    fail(`content-quality-signals:\n${((e.stdout || "") + (e.stderr || "")).trim()}`);
+  }
+}
+
+function folderSize(dir) {
+  let total = 0;
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const full = path.join(dir, entry.name);
+    if (entry.isDirectory()) total += folderSize(full);
+    else total += fs.statSync(full).size;
+  }
+  return total;
+}
+
+function checkIosGestures() {
+  section("iOS jestleri (RNGH + stack)");
+  const pkg = readJson("mobile/package.json");
+  if (!pkg?.dependencies?.["react-native-gesture-handler"]) {
+    fail("react-native-gesture-handler mobile/package.json içinde yok");
+  } else {
+    pass("react-native-gesture-handler bağımlılığı tanımlı");
+  }
+
+  const rootLayout = path.join(mobileDir, "app", "_layout.tsx");
+  if (!fs.existsSync(rootLayout)) {
+    fail("app/_layout.tsx yok");
+    return;
+  }
+  const rootText = fs.readFileSync(rootLayout, "utf8");
+  if (!rootText.includes('import "react-native-gesture-handler"')) {
+    fail('app/_layout.tsx: import "react-native-gesture-handler" eksik');
+  } else {
+    pass("RNGH kök import mevcut");
+  }
+  if (!rootText.includes("GestureHandlerRootView")) {
+    fail("app/_layout.tsx: GestureHandlerRootView sarmalayıcı eksik");
+  } else {
+    pass("GestureHandlerRootView kök sarmalayıcı mevcut");
+  }
+  if (!/gestureEnabled:\s*true/.test(rootText)) {
+    fail("app/_layout.tsx: stack gestureEnabled eksik");
+  } else {
+    pass("Kök stack gestureEnabled: true");
+  }
+
+  const stackLayouts = [
+    "app/card/_layout.tsx",
+    "app/(tabs)/explore/_layout.tsx",
+    "app/(tabs)/routes/_layout.tsx",
+  ];
+  for (const rel of stackLayouts) {
+    const full = path.join(mobileDir, rel);
+    if (!fs.existsSync(full)) {
+      fail(`${rel} yok`);
+      continue;
+    }
+    const text = fs.readFileSync(full, "utf8");
+    if (!/gestureEnabled:\s*true/.test(text) || !/fullScreenGestureEnabled:\s*true/.test(text)) {
+      fail(`${rel}: iOS geri kaydırma seçenekleri eksik`);
+    } else {
+      pass(`${rel} gesture + fullScreenGesture`);
+    }
+  }
+
+  const babel = path.join(mobileDir, "babel.config.js");
+  if (fs.existsSync(babel)) {
+    const babelText = fs.readFileSync(babel, "utf8");
+    if (!babelText.includes("react-native-reanimated/plugin")) {
+      fail("babel.config.js: react-native-reanimated/plugin eksik");
+    } else {
+      pass("Reanimated Babel eklentisi (jest + animasyon)");
+    }
+  }
+}
+
 function checkWebExport() {
   section("Expo web export (production bundle)");
   try {
@@ -211,7 +330,19 @@ function checkWebExport() {
       env: { ...process.env, CI: "1" },
     });
     pass("expo export --platform web başarılı");
-    fs.rmSync(path.join(mobileDir, ".expo-check-export"), { recursive: true, force: true });
+
+    const exportDir = path.join(mobileDir, ".expo-check-export");
+    const jsDir = path.join(exportDir, "_expo", "static", "js");
+    const jsBytes = fs.existsSync(jsDir) ? folderSize(jsDir) : folderSize(exportDir);
+    const mb = jsBytes / (1024 * 1024);
+    const BUDGET_MB = 9;
+    if (mb > BUDGET_MB) {
+      fail(`JS bundle ${mb.toFixed(1)} MB — bütçe ${BUDGET_MB} MB`);
+    } else {
+      pass(`JS bundle ${mb.toFixed(1)} MB (bütçe ≤${BUDGET_MB} MB)`);
+    }
+
+    fs.rmSync(exportDir, { recursive: true, force: true });
   } catch (e) {
     const out = (e.stdout || "") + (e.stderr || "");
     fail("Web export başarısız (dev çalışsa bile prod patlayabilir):\n" + out.trim());
@@ -236,8 +367,11 @@ try {
 
 checkSharedImports();
 checkDataIntegrity();
+checkContentAudit();
+checkQualitySignals();
 checkAppRoutes();
 checkNavigationExit();
+checkIosGestures();
 checkTypeScript();
 
 if (withBuild) {

@@ -1,24 +1,59 @@
 import { useLocalSearchParams, useRouter } from "expo-router";
-import { Pressable, StyleSheet, Text, View } from "react-native";
+import { useEffect, useState } from "react";
+import { ActivityIndicator, Pressable, StyleSheet, Text, View } from "react-native";
 
 import CardReader from "@/components/CardReader";
 import CardReaderTopBar from "@/components/CardReaderTopBar";
+import FadeSlideIn from "@/components/motion/FadeSlideIn";
+import { flexScrollChild } from "@/constants/scrollable";
 import { theme } from "@/constants/theme";
+import { useContent, useCards } from "@/context/ContentContext";
 import { useLocale } from "@/context/LocaleContext";
 import { useNavigationTab } from "@/context/NavigationContext";
 import { navigateReaderExit } from "@/utils/navigationExit";
-import { getCardById, getCards } from "@shared/content";
+import { getCardById, isCardBodyReady } from "@shared/content";
+import type { HistoryCard } from "../../types/index";
 
 export default function CardScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();
   const router = useRouter();
   const { locale, dictionary } = useLocale();
   const { lastPrimaryTab, readerReturn } = useNavigationTab();
-  const allCards = getCards(locale);
-  const card = id ? getCardById(locale, id) : undefined;
+  const { ensureCatalog } = useContent();
+  const allCards = useCards();
+  const [card, setCard] = useState<HistoryCard | undefined>(
+    id ? getCardById(locale, id) : undefined
+  );
+  const [loading, setLoading] = useState(Boolean(id && !isCardBodyReady(card)));
   const t = dictionary.error;
 
-  if (!card) {
+  useEffect(() => {
+    if (!id) return;
+    let cancelled = false;
+    setLoading(true);
+    void ensureCatalog(locale).then(() => {
+      if (cancelled) return;
+      const loaded = getCardById(locale, id);
+      setCard(loaded);
+      setLoading(false);
+    });
+    return () => {
+      cancelled = true;
+    };
+  }, [id, locale, ensureCatalog]);
+
+  if (loading) {
+    return (
+      <View style={styles.root}>
+        <CardReaderTopBar />
+        <View style={styles.center}>
+          <ActivityIndicator color={theme.accent} />
+        </View>
+      </View>
+    );
+  }
+
+  if (!card || !isCardBodyReady(card)) {
     return (
       <View style={styles.root}>
         <CardReaderTopBar />
@@ -38,7 +73,11 @@ export default function CardScreen() {
     );
   }
 
-  return <CardReader card={card} allCards={allCards} />;
+  return (
+    <FadeSlideIn enterKey={card.id} style={flexScrollChild}>
+      <CardReader card={card} allCards={allCards} />
+    </FadeSlideIn>
+  );
 }
 
 const styles = StyleSheet.create({

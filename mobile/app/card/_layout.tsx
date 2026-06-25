@@ -7,7 +7,7 @@ export default function CardStackLayout() {
     <Stack
       screenOptions={{
         headerShown: false,
-        contentStyle: { backgroundColor: theme.bg },
+        contentStyle: { backgroundColor: theme.bg, flex: 1 },
         animation: "slide_from_right",
         gestureEnabled: true,
         fullScreenGestureEnabled: true,

@@ -1,16 +1,18 @@
 import { useLocalSearchParams } from "expo-router";
-import { useMemo } from "react";
+import { Fragment, useMemo } from "react";
 import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 
 import CardRow from "@/components/CardRow";
 import DetailBackBar from "@/components/DetailBackBar";
+import ListInlineAd from "@/components/ads/ListInlineAd";
 import { screenBottomInset } from "@/constants/layout";
 import { theme } from "@/constants/theme";
 import { useHistory } from "@/context/HistoryContext";
 import { useLocale } from "@/context/LocaleContext";
 import { useNavigationTab } from "@/context/NavigationContext";
-import { getCards, getRoutes } from "@shared/content";
+import { useCards } from "@/context/ContentContext";
+import { getRoutes } from "@shared/content";
 import { sortCardsByReadState } from "@shared/cardSort";
 import { getRouteById } from "@shared/dossier";
 import { getNextUnreadInRoute } from "@shared/homeProgress";
@@ -25,7 +27,7 @@ export default function RouteDetailScreen() {
   const { readIds } = useHistory();
   const openCard = useOpenCard();
   const routes = getRoutes(locale);
-  const cards = getCards(locale);
+  const cards = useCards();
   const route = id ? getRouteById(routes, id) : undefined;
   const routeReturn = route ? { kind: "route" as const, routeId: route.id } : null;
 
@@ -95,6 +97,13 @@ export default function RouteDetailScreen() {
             <Pressable
               style={styles.cta}
               onPress={() => openCard(nextCard.id, routeReturn)}
+              accessibilityRole="button"
+              accessibilityLabel={
+                (dictionary.routes?.nextCardLabel ?? "Next: {{title}}").replace(
+                  "{{title}}",
+                  nextCard.title
+                )
+              }
             >
               <Text style={styles.ctaLabel}>
                 {(dictionary.routes?.nextCardLabel ?? "Next: {{title}}").replace(
@@ -111,15 +120,17 @@ export default function RouteDetailScreen() {
         ) : null}
 
         <Text style={styles.section}>{dictionary.routes?.routeCards ?? "Rotadaki Kartlar"}</Text>
-        {sortedRouteCards.map((card) => (
-          <CardRow
-            key={card.id}
-            card={card}
-            locale={locale}
-            isRead={readIds.includes(card.id)}
-            returnTo={routeReturn ?? undefined}
-            badge={readIds.includes(card.id) ? dictionary.common.readStatus : undefined}
-          />
+        {sortedRouteCards.map((card, index) => (
+          <Fragment key={card.id}>
+            <ListInlineAd index={index} placement="routes_inline" />
+            <CardRow
+              card={card}
+              locale={locale}
+              isRead={readIds.includes(card.id)}
+              returnTo={routeReturn ?? undefined}
+              badge={readIds.includes(card.id) ? dictionary.common.readStatus : undefined}
+            />
+          </Fragment>
         ))}
       </ScrollView>
     </View>

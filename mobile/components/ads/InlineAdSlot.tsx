@@ -1,14 +1,18 @@
 import AdBanner from "@/components/ads/AdBanner";
 import AdSlotFrame from "@/components/ads/AdSlotFrame";
-import { canShowAds } from "@/constants/ads";
+import { canShowAds, type AdPlacement } from "@/constants/ads";
 
-/** Browsing surfaces — e.g. Explore catalog list. */
-export default function InlineAdSlot() {
+type Props = {
+  placement?: AdPlacement;
+};
+
+/** Browsing surfaces — catalog / library / route lists. */
+export default function InlineAdSlot({ placement = "explore_inline" }: Props) {
   if (!canShowAds()) return null;
 
   return (
     <AdSlotFrame>
-      <AdBanner placement="explore_inline" />
+      <AdBanner placement={placement} />
     </AdSlotFrame>
   );
 }

@@ -1,6 +1,8 @@
 import { useRouter } from "expo-router";
-import { Pressable, StyleSheet, Text, View } from "react-native";
+import { StyleSheet, Text, View } from "react-native";
 
+import AnimatedPressable from "@/components/motion/AnimatedPressable";
+import ProgressBar from "@/components/motion/ProgressBar";
 import { surfaces, cardShadow } from "@/constants/surfaces";
 import { theme } from "@/constants/theme";
 import { type } from "@/constants/typography";
@@ -49,36 +51,34 @@ export default function CardRow({
   };
 
   return (
-      <Pressable style={flattenStyle([styles.row, isRead ? styles.rowRead : null])} onPress={openCard}>
-        <View style={styles.meta}>
-          <Text style={styles.media}>{card.mediaTitle}</Text>
-          {badge ? (
-            <Text style={styles.badge}>{badge}</Text>
-          ) : isRead ? (
-            <Text style={styles.badge}>{dictionary.common.readStatus}</Text>
-          ) : null}
-        </View>
-        <Text style={[styles.title, isRead ? styles.titleRead : null]} numberOfLines={2}>
-          {card.title}
-        </Text>
-        {subtitle ? (
-          <Text style={styles.subtitle} numberOfLines={2}>
-            {subtitle}
-          </Text>
-        ) : (
-          <Text style={styles.subtitle} numberOfLines={2}>
-            {card.subtitle || card.whatWeSee}
-          </Text>
-        )}
-        {progressPct !== undefined ? (
-          <View style={styles.progressTrack}>
-            <View style={[styles.progressFill, { width: `${progressPct}%` }]} />
-          </View>
+    <AnimatedPressable style={flattenStyle([styles.row, isRead ? styles.rowRead : null])} onPress={openCard}>
+      <View style={styles.meta}>
+        <Text style={styles.media}>{card.mediaTitle}</Text>
+        {badge ? (
+          <Text style={styles.badge}>{badge}</Text>
+        ) : isRead ? (
+          <Text style={styles.badge}>{dictionary.common.readStatus}</Text>
         ) : null}
-        <Text style={styles.time}>
-          {card.readingTimeMinutes} {minutesLabel} · {mediaLabel}
+      </View>
+      <Text style={[styles.title, isRead ? styles.titleRead : null]} numberOfLines={2}>
+        {card.title}
+      </Text>
+      {subtitle ? (
+        <Text style={styles.subtitle} numberOfLines={2}>
+          {subtitle}
         </Text>
-      </Pressable>
+      ) : (
+        <Text style={styles.subtitle} numberOfLines={2}>
+          {card.subtitle || card.whatWeSee}
+        </Text>
+      )}
+      {progressPct !== undefined ? (
+        <ProgressBar pct={progressPct} trackStyle={styles.progressTrack} />
+      ) : null}
+      <Text style={styles.time}>
+        {card.readingTimeMinutes} {minutesLabel} · {mediaLabel}
+      </Text>
+    </AnimatedPressable>
   );
 }
 
@@ -115,13 +115,6 @@ const styles = StyleSheet.create({
   },
   titleRead: { color: theme.muted },
   subtitle: { fontSize: 13, lineHeight: 20, color: theme.muted, marginBottom: 10 },
-  progressTrack: {
-    height: 3,
-    backgroundColor: theme.paper,
-    borderRadius: 999,
-    overflow: "hidden",
-    marginBottom: 8,
-  },
-  progressFill: { height: "100%", backgroundColor: theme.accent },
+  progressTrack: { marginBottom: 8 },
   time: { fontSize: 10, fontWeight: "700", color: theme.muted, letterSpacing: 0.5 },
 });

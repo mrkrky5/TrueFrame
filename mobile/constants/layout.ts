@@ -24,7 +24,13 @@ export function screenBottomInset(safeBottom: number, options?: { includeTabBar?
   return tabBarBottomInset(safeBottom) + 16;
 }
 
+/** Bottom padding for tab screen scroll content */
+export function tabScreenContentPadding(safeBottom: number) {
+  return tabBarBottomInset(safeBottom) + 24;
+}
+
 /** Bottom offset for fixed reader controls when tab bar is hidden */
+export const READER_NAV_BAR_HEIGHT = 64;
 export function readerControlsBottom(safeBottom: number) {
   return Math.max(safeBottom, 12);
 }

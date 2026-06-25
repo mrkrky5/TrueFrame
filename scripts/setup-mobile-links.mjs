@@ -5,11 +5,27 @@
  */
 import fs from "node:fs";
 import path from "node:path";
+import { execSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const mobileDir = path.resolve(__dirname, "..", "mobile");
 const root = path.resolve(mobileDir, "..");
+
+const DATA_RUNTIME_FILES = [
+  "cards.tr.json",
+  "cards.en.json",
+  "cards.index.tr.json",
+  "cards.index.en.json",
+  "routes.tr.json",
+  "routes.en.json",
+];
+
+try {
+  execSync("node scripts/build-card-index.mjs", { cwd: root, stdio: "pipe" });
+} catch (e) {
+  console.warn("build-card-index:", e.message);
+}
 
 function syncDir(name) {
   const src = path.join(root, name);
@@ -23,8 +39,35 @@ function syncDir(name) {
   console.log(`Synced mobile/${name}`);
 }
 
+function writeMinifiedJson(src, dest) {
+  const data = JSON.parse(fs.readFileSync(src, "utf8"));
+  fs.writeFileSync(dest, `${JSON.stringify(data)}\n`, "utf8");
+}
+
+function syncDataRuntime() {
+  const srcDir = path.join(root, "data");
+  const destDir = path.join(mobileDir, "data");
+  if (!fs.existsSync(srcDir)) {
+    console.warn(`Skip: ${srcDir} yok`);
+    return;
+  }
+  fs.rmSync(destDir, { recursive: true, force: true });
+  fs.mkdirSync(destDir, { recursive: true });
+  for (const file of DATA_RUNTIME_FILES) {
+    const src = path.join(srcDir, file);
+    if (!fs.existsSync(src)) {
+      console.warn(`Skip missing data file: ${file}`);
+      continue;
+    }
+    writeMinifiedJson(src, path.join(destDir, file));
+  }
+  console.log(
+    `Synced mobile/data (${DATA_RUNTIME_FILES.length} minified runtime JSON files)`,
+  );
+}
+
 syncDir("shared");
-syncDir("data");
+syncDataRuntime();
 syncDir("types");
 
 const mobileLib = path.join(mobileDir, "lib");

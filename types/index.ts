@@ -57,6 +57,10 @@ export interface HistoryCard {
   publicationDate?: string;
   tags?: string[];
   quickRealityCheck?: string;
+  /** Precomputed lowercase haystack for explore search (catalog index only). */
+  searchBlob?: string;
+  contentBlocks?: Array<{ id: string; type: string; title?: string; content?: unknown }>;
+  experienceLevel?: string;
 }
 
 export interface ReadingRoute {

@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TEAMID.com.trueframe.app",
+        "paths": ["/tr/card/*", "/en/card/*", "/tr/media/*", "/en/media/*"]
+      }
+    ]
+  }
+}

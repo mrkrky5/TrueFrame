@@ -1,21 +1,43 @@
 import { Ionicons } from "@expo/vector-icons";
 import { Link } from "expo-router";
-import { Platform, Pressable, StyleSheet, Switch, Text, View } from "react-native";
+import { Alert, Linking, Platform, Pressable, StyleSheet, Switch, Text, View } from "react-native";
 import Constants from "expo-constants";
 
+import DailyGoalPicker from "@/components/DailyGoalPicker";
 import FeedbackCard from "@/components/FeedbackCard";
 import LanguagePicker from "@/components/LanguagePicker";
 import LegalScreenLayout from "@/components/LegalScreenLayout";
 import { surfaces } from "@/constants/surfaces";
 import { theme } from "@/constants/theme";
+import { showAdPrivacyOptions } from "@/utils/ads-consent";
+import { canShowAds } from "@/constants/ads";
 import { useHistory } from "@/context/HistoryContext";
 import { useLocale } from "@/context/LocaleContext";
 
 export default function SettingsScreen() {
   const { dictionary } = useLocale();
-  const { dailyReminderEnabled, setDailyReminderEnabled } = useHistory();
+  const { dailyReminderEnabled, setDailyReminderEnabled, dailyGoalCards, setDailyGoalCards } = useHistory();
   const s = dictionary.settings;
   const version = Constants.expoConfig?.version ?? "1.0.0";
+
+  const handleAdPrivacy = () => {
+    void (async () => {
+      const result = await showAdPrivacyOptions();
+      if (result === "settings") {
+        Alert.alert(s.adPrivacySettingsTitle, s.adPrivacySettingsMessage, [
+          { text: s.adPrivacyCancel, style: "cancel" },
+          {
+            text: s.adPrivacyOpenSettings,
+            onPress: () => {
+              void Linking.openSettings();
+            },
+          },
+        ]);
+      } else if (result === "unavailable") {
+        Alert.alert(s.adPrivacyUnavailableTitle, s.adPrivacyUnavailableMessage);
+      }
+    })();
+  };
 
   return (
     <LegalScreenLayout title={s.title}>
@@ -23,6 +45,29 @@ export default function SettingsScreen() {
       <Text style={styles.hint}>{s.languageHint}</Text>
 
       <LanguagePicker />
+
+      <Text style={styles.section}>{s.dailyGoalTitle}</Text>
+      <Text style={styles.hint}>{s.dailyGoalHint}</Text>
+      <DailyGoalPicker value={dailyGoalCards} onChange={(g) => void setDailyGoalCards(g)} />
+
+      {Platform.OS === "ios" && canShowAds() ? (
+        <>
+          <Text style={styles.section}>{s.adPrivacyTitle}</Text>
+          <Text style={styles.hint}>{s.adPrivacyHint}</Text>
+          <Pressable
+            style={[styles.row, { marginBottom: 20 }]}
+            onPress={handleAdPrivacy}
+            accessibilityRole="button"
+            accessibilityLabel={s.adPrivacyCta}
+          >
+            <View style={styles.rowIcon}>
+              <Ionicons name="shield-checkmark-outline" size={20} color={theme.accent} />
+            </View>
+            <Text style={styles.rowLabel}>{s.adPrivacyCta}</Text>
+            <Ionicons name="chevron-forward" size={18} color={theme.muted} />
+          </Pressable>
+        </>
+      ) : null}
 
       {Platform.OS === "ios" ? (
         <>

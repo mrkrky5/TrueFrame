@@ -4,6 +4,7 @@ import { AppState, Platform } from "react-native";
 
 import { useHistory } from "@/context/HistoryContext";
 import { useLocale } from "@/context/LocaleContext";
+import { useNavigationTab } from "@/context/NavigationContext";
 import { getCards } from "@shared/content";
 import {
   cancelDailyReminder,
@@ -15,9 +16,11 @@ configureNotificationHandler();
 
 export default function DailyNotificationBootstrap() {
   const router = useRouter();
+  const { setReaderReturn } = useNavigationTab();
   const { locale, dictionary } = useLocale();
   const { ready, onboardingDone, dailyReminderEnabled } = useHistory();
   const syncedRef = useRef(false);
+  const handledNotificationRef = useRef<string | null>(null);
 
   useEffect(() => {
     if (!ready || !onboardingDone || Platform.OS !== "ios") return;
@@ -54,8 +57,13 @@ export default function DailyNotificationBootstrap() {
       const openFromResponse = (
         response: import("expo-notifications").NotificationResponse | null
       ) => {
+        const requestId = response?.notification.request.identifier;
+        if (requestId && handledNotificationRef.current === requestId) return;
+        if (requestId) handledNotificationRef.current = requestId;
+
         const cardId = response?.notification.request.content.data?.cardId as string | undefined;
         if (cardId) {
+          setReaderReturn({ kind: "tab", tab: "index" });
           router.push(`/card/${cardId}` as never);
           return;
         }
@@ -74,7 +82,7 @@ export default function DailyNotificationBootstrap() {
       cancelled = true;
       sub?.remove();
     };
-  }, [router]);
+  }, [router, setReaderReturn]);
 
   return null;
 }

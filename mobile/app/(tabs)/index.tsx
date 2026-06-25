@@ -5,9 +5,12 @@ import { Ionicons } from "@expo/vector-icons";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 
 import CardRow from "@/components/CardRow";
-import HomeLanguageSheet from "@/components/HomeLanguageSheet";
+import AnimatedPressable from "@/components/motion/AnimatedPressable";
+import FadeSlideIn from "@/components/motion/FadeSlideIn";
+import ProgressBar from "@/components/motion/ProgressBar";
+import ScalePulse from "@/components/motion/ScalePulse";
 import { HomeTabSkeleton } from "@/components/ui/AppSkeleton";
-import { tabBarBottomInset } from "@/constants/layout";
+import { tabScreenContentPadding } from "@/constants/layout";
 import { surfaces } from "@/constants/surfaces";
 import { theme } from "@/constants/theme";
 import { useHistory } from "@/context/HistoryContext";
@@ -15,11 +18,14 @@ import { useLocale } from "@/context/LocaleContext";
 import { usePrimaryTabFocus } from "@/hooks/usePrimaryTabFocus";
 import { useTabScrollToTop } from "@/hooks/useTabScrollToTop";
 import { useCardProgress } from "@/hooks/useCardProgress";
-import { getCards, getRoutes } from "@shared/content";
+import { useCards } from "@/context/ContentContext";
+import { getRoutes } from "@shared/content";
 import { getStrongDossiers } from "@shared/dossier";
 import { type } from "@/constants/typography";
 import { getPrimaryHomeContinue } from "@shared/homeProgress";
 import { formatReadStreakLabel } from "@shared/formatReadStreak";
+import { dailyGoalProgress } from "@shared/readingGoal";
+import { getNextMilestone, isMilestoneClose } from "@shared/readingMilestones";
 import { useNavigationTab } from "@/context/NavigationContext";
 import { useOpenCard } from "@/hooks/useOpenCard";
 import { getDailyCard } from "@shared/daily";
@@ -57,11 +63,11 @@ export default function HomeScreen() {
   const insets = useSafeAreaInsets();
   const router = useRouter();
   const { locale, dictionary } = useLocale();
-  const { recentIds, readIds, ready, readStreak, readToday } = useHistory();
+  const { recentIds, readIds, ready, readStreak, readToday, readsTodayCount, dailyGoalCards } = useHistory();
   const { setReaderReturn } = useNavigationTab();
   const openCard = useOpenCard();
   const homeReturn = { kind: "tab" as const, tab: "index" as const };
-  const cards = getCards(locale);
+  const cards = useCards();
   const routes = getRoutes(locale);
   const dossiers = useMemo(() => getStrongDossiers(cards), [cards]);
   const daily = getDailyCard(cards);
@@ -81,18 +87,44 @@ export default function HomeScreen() {
 
   const streakLabel = useMemo(
     () =>
-      formatReadStreakLabel(readStreak, readToday, {
-        readStreakOne: dictionary.home.readStreakOne,
+      formatReadStreakLabel(readStreak, readToday, readsTodayCount, {
+        readStreakTodayOne: dictionary.home.readStreakTodayOne,
+        readStreakTodayMany: dictionary.home.readStreakTodayMany,
+        readStreakDaysSuffix: dictionary.home.readStreakDaysSuffix,
         readStreakMany: dictionary.home.readStreakMany,
         readStreakToday: dictionary.home.readStreakToday,
         readStreakStart: dictionary.home.readStreakStart,
       }),
-    [readStreak, readToday, dictionary.home]
+    [readStreak, readToday, readsTodayCount, dictionary.home]
   );
 
+  const completedLabel =
+    readIds.length > 0
+      ? (dictionary.home.completedCount ?? "").replace("{{count}}", String(readIds.length))
+      : null;
+
+  const goal = dailyGoalProgress(readsTodayCount, dailyGoalCards);
+  const goalLabel = goal.met
+    ? dictionary.home.dailyGoalMet
+    : (dictionary.home.dailyGoalProgress ?? "")
+        .replace("{{done}}", String(goal.done))
+        .replace("{{goal}}", String(goal.goal));
+
+  const nextMilestone = useMemo(
+    () => getNextMilestone(readIds.length, readStreak),
+    [readIds.length, readStreak]
+  );
+  const milestoneLabels = dictionary.home.milestones as Record<string, string> | undefined;
+  const milestoneLabel =
+    nextMilestone && isMilestoneClose(readIds.length, readStreak, nextMilestone)
+      ? (dictionary.home.milestoneNext ?? "").replace(
+          "{{label}}",
+          milestoneLabels?.[nextMilestone.id] ?? nextMilestone.id
+        )
+      : null;
+
   const featuredRoutes = useMemo(() => routes.slice(0, 2), [routes]);
-  const bottomPad = tabBarBottomInset(insets.bottom) + 40;
-  const [languageOpen, setLanguageOpen] = useState(false);
+  const bottomPad = tabScreenContentPadding(insets.bottom);
   const [howItWorksOpen, setHowItWorksOpen] = useState(false);
 
   const progressLabel = primaryContinue
@@ -128,27 +160,15 @@ export default function HomeScreen() {
             <Text style={styles.greeting}>{dictionary.home.greeting}</Text>
             <Text style={styles.title}>{dictionary.common.brandingTitle}</Text>
           </View>
-          <View style={styles.headerActions}>
-            <Pressable
-              style={styles.iconBtn}
-              onPress={() => router.push("/settings" as never)}
-              accessibilityRole="button"
-              accessibilityLabel={dictionary.settings.title}
-              hitSlop={8}
-            >
-              <Ionicons name="settings-outline" size={20} color={theme.ink} />
-            </Pressable>
-            <Pressable
-              style={styles.langBtn}
-              onPress={() => setLanguageOpen(true)}
-              accessibilityRole="button"
-              accessibilityLabel={dictionary.home.languageShortcut}
-              hitSlop={8}
-            >
-              <Ionicons name="language-outline" size={18} color={theme.ink} />
-              <Text style={styles.langBtnText}>{dictionary.home.languageShortcut}</Text>
-            </Pressable>
-          </View>
+          <AnimatedPressable
+            style={styles.settingsBtn}
+            onPress={() => router.push("/settings" as never)}
+            accessibilityRole="button"
+            accessibilityLabel={dictionary.settings.title}
+            hitSlop={8}
+          >
+            <Ionicons name="settings-outline" size={22} color={theme.ink} />
+          </AnimatedPressable>
         </View>
         <Text style={styles.valueSubtitle}>{dictionary.home.valueSubtitle}</Text>
         <Text style={styles.howItWorksInline}>
@@ -169,9 +189,35 @@ export default function HomeScreen() {
       </View>
 
       {ready ? (
-        <View style={styles.streakPill}>
-          <Ionicons name="flame-outline" size={16} color={theme.accent} />
-          <Text style={styles.streakText}>{streakLabel}</Text>
+        <View style={styles.todayCard}>
+          <Text style={styles.todayTitle}>{dictionary.home.todayTitle ?? "Bugün"}</Text>
+          <View style={styles.todayStreakRow}>
+            <ScalePulse trigger={goal.met ? readsTodayCount : 0}>
+              <Ionicons name="flame-outline" size={16} color={theme.accent} />
+            </ScalePulse>
+            <Text style={styles.todayStreakText}>{streakLabel}</Text>
+          </View>
+          <View style={styles.todayGoalRow}>
+            <Ionicons
+              name={goal.met ? "checkmark-circle" : "flag-outline"}
+              size={16}
+              color={goal.met ? "#22c55e" : theme.accent}
+            />
+            <Text style={[styles.todayGoalText, goal.met && styles.todayGoalTextMet]}>{goalLabel}</Text>
+          </View>
+          {!goal.met ? (
+            <ProgressBar pct={goal.pct} trackStyle={styles.goalTrack} fillStyle={styles.goalFill} />
+          ) : null}
+          {completedLabel ? (
+            <Text style={styles.todayCompleted}>{completedLabel}</Text>
+          ) : null}
+          {milestoneLabel ? (
+            <FadeSlideIn enterKey={milestoneLabel}>
+              <View style={styles.milestoneWrap}>
+                <Text style={styles.milestoneHint}>{milestoneLabel}</Text>
+              </View>
+            </FadeSlideIn>
+          ) : null}
         </View>
       ) : null}
 
@@ -179,7 +225,7 @@ export default function HomeScreen() {
         <>
           <Text style={styles.sectionLabel}>{dictionary.home.primaryContinueLabel}</Text>
           <Link href={primaryContinue.href as never} asChild>
-            <Pressable
+            <AnimatedPressable
               style={styles.primaryHero}
               onPress={() => setReaderReturn({ kind: "tab", tab: "index" })}
             >
@@ -197,15 +243,17 @@ export default function HomeScreen() {
               </View>
               <Text style={styles.primaryHeroTitle}>{primaryContinue.title}</Text>
               {nextLine ? <Text style={styles.primaryHeroNext}>{nextLine}</Text> : null}
-              <View style={styles.progressTrackLight}>
-                <View style={[styles.progressFillLight, { width: `${primaryContinue.pct}%` }]} />
-              </View>
+              <ProgressBar
+                pct={primaryContinue.pct}
+                trackStyle={styles.progressTrackLight}
+                fillStyle={styles.progressFillLight}
+              />
               {progressLabel ? <Text style={styles.primaryHeroMeta}>{progressLabel}</Text> : null}
               <View style={styles.primaryHeroCta}>
                 <Text style={styles.primaryHeroCtaText}>{dictionary.home.primaryContinueCta}</Text>
                 <Ionicons name="arrow-forward" size={16} color={theme.ink} />
               </View>
-            </Pressable>
+            </AnimatedPressable>
           </Link>
         </>
       ) : null}
@@ -222,6 +270,8 @@ export default function HomeScreen() {
         <Pressable
           style={styles.dailyButton}
           onPress={() => openCard(daily.id, homeReturn)}
+          accessibilityRole="button"
+          accessibilityLabel={`${dictionary.home.dailyRealityCheckSignal}: ${daily.title}`}
         >
           <Text style={styles.dailyButtonText}>{dictionary.common.seeReality}</Text>
         </Pressable>
@@ -286,7 +336,6 @@ export default function HomeScreen() {
         </Link>
       </View>
     </ScrollView>
-    <HomeLanguageSheet visible={languageOpen} onClose={() => setLanguageOpen(false)} />
     </View>
   );
 }
@@ -298,26 +347,15 @@ const styles = StyleSheet.create({
   header: { marginBottom: 16 },
   headerTop: { flexDirection: "row", alignItems: "flex-start", justifyContent: "space-between", gap: 12 },
   headerText: { flex: 1 },
-  headerActions: { flexDirection: "row", alignItems: "center", gap: 8, marginTop: 4 },
-  iconBtn: {
+  settingsBtn: {
     width: 44,
     height: 44,
+    borderRadius: 14,
+    ...surfaces.inset,
     alignItems: "center",
     justifyContent: "center",
-    borderRadius: 12,
-    ...surfaces.inset,
-  },
-  langBtn: {
-    flexDirection: "row",
-    alignItems: "center",
-    gap: 4,
-    paddingHorizontal: 10,
-    paddingVertical: 8,
-    borderRadius: 12,
-    ...surfaces.inset,
     marginTop: 4,
   },
-  langBtnText: { fontSize: 11, fontWeight: "700", color: theme.ink },
   greeting: {
     fontSize: 11,
     fontWeight: "700",
@@ -341,18 +379,66 @@ const styles = StyleSheet.create({
     maxWidth: 340,
   },
   howItWorksTitle: { fontWeight: "700", color: theme.ink },
+  streakRow: { flexDirection: "row", flexWrap: "wrap", gap: 8, marginBottom: 16 },
+  todayCard: {
+    backgroundColor: theme.surfaceMuted,
+    borderRadius: 16,
+    borderWidth: 1,
+    borderColor: theme.border,
+    padding: 14,
+    marginBottom: 16,
+    gap: 8,
+  },
+  todayTitle: {
+    fontSize: 10,
+    fontWeight: "800",
+    letterSpacing: 1.2,
+    textTransform: "uppercase",
+    color: theme.muted,
+  },
+  todayStreakRow: { flexDirection: "row", alignItems: "center", gap: 8 },
+  todayStreakText: { fontSize: 13, fontWeight: "700", color: theme.ink, flex: 1 },
+  todayGoalRow: { flexDirection: "row", alignItems: "center", gap: 8 },
+  todayGoalText: { fontSize: 13, fontWeight: "600", color: theme.ink, flex: 1 },
+  todayGoalTextMet: { color: "#15803d", fontWeight: "700" },
+  todayCompleted: { fontSize: 11, fontWeight: "600", color: theme.muted },
   streakPill: {
     flexDirection: "row",
     alignItems: "center",
     gap: 8,
-    alignSelf: "flex-start",
     backgroundColor: theme.accentSoft,
     paddingHorizontal: 14,
     paddingVertical: 10,
     borderRadius: 999,
-    marginBottom: 16,
   },
   streakText: { fontSize: 12, fontWeight: "700", color: theme.ink },
+  learnedPill: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 6,
+    backgroundColor: theme.surfaceMuted,
+    paddingHorizontal: 12,
+    paddingVertical: 10,
+    borderRadius: 999,
+    borderWidth: 1,
+    borderColor: theme.border,
+  },
+  learnedText: { fontSize: 11, fontWeight: "700", color: theme.ink },
+  goalTrack: {
+    height: 6,
+    borderRadius: 999,
+    backgroundColor: theme.border,
+    overflow: "hidden",
+  },
+  goalFill: { backgroundColor: theme.accent, borderRadius: 999 },
+  milestoneWrap: {
+    backgroundColor: theme.accentSoft,
+    borderRadius: 10,
+    paddingHorizontal: 10,
+    paddingVertical: 6,
+    marginTop: 4,
+  },
+  milestoneHint: { fontSize: 11, fontWeight: "600", color: theme.muted },
   howItWorksToggle: { alignSelf: "flex-start", marginTop: 6 },
   howItWorksToggleText: { fontSize: 12, fontWeight: "700", color: theme.accent },
   sectionLabel: {

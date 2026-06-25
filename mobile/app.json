@@ -2,7 +2,7 @@
   "expo": {
     "name": "True Frame",
     "slug": "true-frame",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "trueframe",
@@ -10,7 +10,18 @@
     "backgroundColor": "#EDE9E1",
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.trueframe.app"
+      "bundleIdentifier": "com.trueframe.app",
+      "buildNumber": "17",
+      "associatedDomains": [
+        "applinks:trueframe.app",
+        "applinks:www.trueframe.app",
+        "applinks:trueframe.app",
+        "applinks:www.trueframe.app"
+      ],
+      "infoPlist": {
+        "NSUserTrackingUsageDescription": "This allows us to show more relevant ads. You can still use True Frame with non-personalized ads.",
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "web": {
       "bundler": "metro",
@@ -27,7 +38,6 @@
           "backgroundColor": "#EDE9E1"
         }
       ],
-      "expo-image",
       [
         "expo-notifications",
         {
@@ -39,12 +49,26 @@
         "react-native-google-mobile-ads",
         {
           "iosAppId": "ca-app-pub-1571569580384263~3153506477",
-          "androidAppId": "ca-app-pub-3940256099942544~3347511713"
+          "androidAppId": "ca-app-pub-3940256099942544~3347511713",
+          "userTrackingUsageDescription": "This allows us to show more relevant ads. You can still use True Frame with non-personalized ads."
+        }
+      ],
+      [
+        "expo-tracking-transparency",
+        {
+          "userTrackingPermission": "This allows us to show more relevant ads. You can still use True Frame with non-personalized ads."
         }
       ]
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "417c7450-a5f2-4f54-98e3-39ebc8e7c088"
+      }
+    },
+    "owner": "emrekrky5"
   }
 }

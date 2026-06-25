@@ -2,6 +2,7 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 import { Ionicons } from "@expo/vector-icons";
 import { useEffect, useMemo, useRef, useState } from "react";
 import {
+  Platform,
   Pressable,
   ScrollView,
   StyleSheet,
@@ -14,14 +15,21 @@ import RelatedTopicCards from "@/components/RelatedTopicCards";
 import CardReaderTopBar from "@/components/CardReaderTopBar";
 import HistoryCard from "@/components/HistoryCard";
 import ReadReflection from "@/components/ReadReflection";
+import ReflectionFeedback from "@/components/ReflectionFeedback";
 import ReaderCompletionPanel from "@/components/ReaderCompletionPanel";
-import { readerControlsBottom, screenBottomInset } from "@/constants/layout";
+import FadeSlideIn from "@/components/motion/FadeSlideIn";
+import ProgressBar from "@/components/motion/ProgressBar";
+import ScalePulse from "@/components/motion/ScalePulse";
+import AnimatedPressable from "@/components/motion/AnimatedPressable";
+import { screenBottomInset } from "@/constants/layout";
+import { flexScrollChild, readerRoot } from "@/constants/scrollable";
 import { theme } from "@/constants/theme";
 import { hapticSelection } from "@/utils/haptics";
 import { openExternalUrl } from "@/utils/openExternalUrl";
 import { useLearning } from "@/context/LearningContext";
 import { useHistory } from "@/context/HistoryContext";
 import { useLocale } from "@/context/LocaleContext";
+import { useCardReflection } from "@/hooks/useCardReflection";
 import {
   ContentBlock,
   deriveCardBlocks,
@@ -45,7 +53,7 @@ export default function GuidedJourneyReader({
   const insets = useSafeAreaInsets();
   const { dictionary } = useLocale();
   const { readIds } = useHistory();
-  const { getGuess, setGuess, getReflections, toggleReflection } = useLearning();
+  const { getGuess, setGuess } = useLearning();
   const blocks = useMemo(() => deriveCardBlocks(card, dictionary), [card, dictionary]);
   const [step, setStep] = useState(0);
   const [done, setDone] = useState(false);
@@ -104,8 +112,8 @@ export default function GuidedJourneyReader({
     }
   };
 
-  const controlsBottom = readerControlsBottom(insets.bottom);
   const contentBottom = screenBottomInset(insets.bottom, { includeTabBar: false });
+  const navBottomPad = Math.max(insets.bottom, 12);
 
   if (done) {
     return (
@@ -116,9 +124,12 @@ export default function GuidedJourneyReader({
           style={styles.completeScroll}
           contentContainerStyle={[styles.completeContent, { paddingBottom: contentBottom }]}
           contentInsetAdjustmentBehavior="automatic"
-          showsVerticalScrollIndicator={false}
+          showsVerticalScrollIndicator={Platform.OS !== "web"}
+          nestedScrollEnabled
         >
-          <Ionicons name="checkmark-circle" size={48} color="#22c55e" />
+          <ScalePulse trigger={done}>
+            <Ionicons name="checkmark-circle" size={48} color="#22c55e" />
+          </ScalePulse>
           <Text style={styles.completeTitle}>{dictionary.common.explorationComplete}</Text>
           <Text style={styles.completeDesc}>{dictionary.common.readerMarkCompleteHint}</Text>
           <RelatedTopicCards card={card} allCards={allCards} />
@@ -130,9 +141,7 @@ export default function GuidedJourneyReader({
 
   const progressCenter = (
     <View style={styles.progressArea}>
-      <View style={styles.progressTrack}>
-        <View style={[styles.progressFill, { width: `${pct}%` }]} />
-      </View>
+      <ProgressBar pct={pct} trackStyle={styles.progressTrack} fillStyle={styles.progressFill} />
       <View style={styles.progressMeta}>
         <Text style={styles.progressLabel}>
           {safeStep + 1}/{blocks.length}
@@ -155,42 +164,47 @@ export default function GuidedJourneyReader({
         cardId={card.id}
         cardTitle={card.title}
         center={progressCenter}
-        readerStep={step}
       />
 
       <ScrollView
         style={styles.scroll}
-        contentContainerStyle={[styles.scrollContent, { paddingTop: 16, paddingBottom: controlsBottom + 76 }]}
+        contentContainerStyle={[styles.scrollContent, { paddingTop: 16, paddingBottom: 24 }]}
         keyboardShouldPersistTaps="handled"
+        showsVerticalScrollIndicator={Platform.OS !== "web"}
+        nestedScrollEnabled
       >
-        <BlockView block={block} card={card} similarCards={similarCards} readIds={readIds} />
+        <FadeSlideIn enterKey={safeStep}>
+          <BlockView block={block} card={card} similarCards={similarCards} readIds={readIds} />
+        </FadeSlideIn>
       </ScrollView>
 
-      <View style={[styles.nav, { bottom: controlsBottom, paddingBottom: 8 }]}>
+      <View style={[styles.nav, { paddingBottom: navBottomPad }]}>
         {safeStep > 0 ? (
-          <Pressable
+          <AnimatedPressable
             style={styles.backBtn}
             onPress={() => setStep((s) => Math.max(0, s - 1))}
             accessibilityRole="button"
             accessibilityLabel={dictionary.common.back}
           >
             <Ionicons name="chevron-back" size={24} color={theme.ink} />
-          </Pressable>
+          </AnimatedPressable>
         ) : (
           <View style={styles.backSpacer} />
         )}
-        <Pressable
+        <AnimatedPressable
           style={[styles.nextBtn, guessRequired && styles.nextDisabled, isLast && styles.nextComplete]}
           onPress={next}
           disabled={guessRequired}
           accessibilityRole="button"
           accessibilityLabel={isLast ? dictionary.common.completeJourney : dictionary.common.continue}
         >
-          <Text style={styles.nextText}>
+          <Text style={[styles.nextText, guessRequired && styles.nextTextDisabled]}>
             {isLast ? dictionary.common.completeJourney : dictionary.common.continue}
           </Text>
-          {!isLast ? <Ionicons name="chevron-forward" size={18} color={theme.white} /> : null}
-        </Pressable>
+          {!isLast && !guessRequired ? (
+            <Ionicons name="chevron-forward" size={18} color={theme.white} />
+          ) : null}
+        </AnimatedPressable>
       </View>
     </View>
   );
@@ -208,7 +222,8 @@ function BlockView({
   readIds: string[];
 }) {
   const { dictionary } = useLocale();
-  const { getGuess, setGuess, getReflections, toggleReflection } = useLearning();
+  const { getGuess, setGuess } = useLearning();
+  const reflection = useCardReflection(card.id);
 
   switch (block.type) {
     case "hook":
@@ -292,8 +307,12 @@ function BlockView({
           <Text style={styles.blockLabel}>{dictionary.common.feelQuestion}</Text>
           <ReadReflection
             cardId={card.id}
-            selectedReflections={getReflections(card.id)}
-            onToggle={(r) => toggleReflection(card.id, r)}
+            selectedReflections={reflection.selectedReflections}
+            onToggle={reflection.onToggle}
+          />
+          <ReflectionFeedback
+            showLaterSaved={reflection.showLaterSaved}
+            showSurprisedHint={reflection.showSurprisedHint}
           />
         </View>
       );
@@ -315,24 +334,20 @@ function BlockView({
 
 const styles = StyleSheet.create({
   root: {
-    flex: 1,
-    width: "100%",
+    ...readerRoot,
     backgroundColor: theme.bg,
-    overflow: "hidden",
   },
   progressArea: {
-    flex: 1,
-    flexDirection: "row",
-    alignItems: "center",
-    gap: 10,
-    minHeight: 44,
+    gap: 4,
+    minHeight: 36,
+    justifyContent: "center",
   },
-  progressTrack: { flex: 1, height: 4, backgroundColor: theme.paper, borderRadius: 999, overflow: "hidden" },
+  progressTrack: { height: 4, backgroundColor: theme.paper, borderRadius: 999, overflow: "hidden" },
   progressFill: { height: "100%", backgroundColor: theme.accent },
-  progressMeta: { alignItems: "flex-end", minWidth: 72 },
-  progressLabel: { fontSize: 10, fontWeight: "800", color: theme.accent, textAlign: "right" },
-  progressMinutes: { fontSize: 9, fontWeight: "700", color: theme.muted, marginTop: 2, textAlign: "right" },
-  scroll: { flex: 1 },
+  progressMeta: { flexDirection: "row", alignItems: "center", justifyContent: "space-between", gap: 8 },
+  progressLabel: { fontSize: 10, fontWeight: "800", color: theme.accent },
+  progressMinutes: { fontSize: 9, fontWeight: "700", color: theme.muted },
+  scroll: flexScrollChild,
   scrollContent: { paddingHorizontal: 20 },
   blockGap: { gap: 16 },
   paperBlock: {
@@ -376,15 +391,13 @@ const styles = StyleSheet.create({
   },
   sourceTitle: { flex: 1, fontSize: 14, fontWeight: "600", color: theme.ink, marginRight: 8 },
   nav: {
-    position: "absolute",
-    left: 0,
-    right: 0,
-    bottom: 0,
     flexDirection: "row",
     gap: 12,
     paddingHorizontal: 20,
-    paddingTop: 16,
-    backgroundColor: "rgba(250,249,246,0.95)",
+    paddingTop: 12,
+    backgroundColor: theme.bg,
+    borderTopWidth: 1,
+    borderTopColor: theme.border,
   },
   backBtn: {
     width: 56,
@@ -408,8 +421,9 @@ const styles = StyleSheet.create({
     gap: 8,
   },
   nextComplete: { backgroundColor: theme.success },
-  nextDisabled: { backgroundColor: theme.paper },
+  nextDisabled: { backgroundColor: theme.surfaceMuted, borderWidth: 1, borderColor: theme.border },
   nextText: { color: theme.white, fontSize: 12, fontWeight: "800", letterSpacing: 1.5 },
+  nextTextDisabled: { color: theme.muted },
   complete: {
     flex: 1,
     width: "100%",
@@ -419,7 +433,7 @@ const styles = StyleSheet.create({
     padding: 32,
     backgroundColor: theme.bg,
   },
-  completeScroll: { flex: 1 },
+  completeScroll: flexScrollChild,
   completeContent: {
     width: "100%",
     alignSelf: "stretch",

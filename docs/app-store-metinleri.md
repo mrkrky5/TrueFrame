@@ -13,30 +13,47 @@
 | EN | The History Behind the Media |
 | TR | Medyanın Ardındaki Tarih |
 
-## Promosyon metni (170 karakter — opsiyonel)
+## Promosyon metni (TR, ≤170)
 
-Oyun, film ve dizilerin arkasındaki gerçek tarihi keşfedin. Kaynaklı derin okumalar, spoiler koruması ve kişisel kitaplığınızla.
+Sevdiğin oyun ve dizilerin ardındaki gerçek tarihi keşfet. Kaynaklı derin okumalar, spoiler koruması, kişisel kitaplığın.
 
-## Açıklama (TR)
+## Açıklama (TR) — mağaza
 
-True Frame, sevdiğiniz oyun, film ve dizilerin arkasındaki gerçek tarihi keşfetmeniz için tasarlanmış bir eğitim uygulamasıdır.
+Oyun, film ve dizi izlerken aklına takılan o sorular… Gerçekten böyle mi oldu?
 
-**Ne sunar?**
-- 190+ derinlemesine tarih dosyası — kısa notlar değil, kaynaklı okumalar
-- Günlük Gerçeklik Kontrolü — her gün yeni bir keşif
-- Medya dosyaları — aynı yapım etrafında gruplanmış kartlar
-- Öğrenme rotaları — adım adım yolculuklar
-- Kişisel kitaplık — kaydet, kaldığın yerden devam et, tamamladıklarını takip et
-- Spoiler koruması — hazır olduğunuzda açın
+True Frame, popüler yapımların ardındaki tarihi gerçekleri meraklı okurlar için anlatır: kısa bilgi kartı değil, kaynaklara dayanan derin okumalar.
 
-**Gizlilik**
-Hesap gerekmez. İlerlemeniz ve kaydettiğiniz içerikler yalnızca cihazınızda saklanır.
+Ne bulacaksın?
+• Günlük Gerçeklik Kontrolü — her gün yeni bir keşif
+• Günlük okuma hedefi — günde kaç kart okuduğunu takip et
+• Medya dosyaları — aynı yapım etrafında toplanmış okumalar
+• Öğrenme rotaları — tamamlayınca kutlama
+• Kişisel kitaplığın — kaydet, kaldığın yerden devam et
+• Spoiler koruması — hazır olduğunda aç
+• Yansıma — ne öğrendiğini işaretle
 
-Eğitim ve keşif amaçlıdır; akademik referans yerine geçmez.
+True Frame, tarihi ders kitabı değil; merakını besleyen bir keşif alanı.
 
-## Açıklama (EN) — v1.1
+## Promosyon metni (EN, ≤170)
 
-True Frame helps you discover the real history behind games, films, and series — with source-backed deep reads, daily reality checks, learning routes, and a personal library. No account required; your progress stays on your device.
+Discover the real history behind the games and shows you love. Deep, sourced reads—not trivia—with spoiler control and your own library.
+
+## Açıklama (EN) — mağaza
+
+You finish an episode—or put down the controller—and one question lingers: did that really happen?
+
+True Frame explores the real history behind popular games, films, and series. Not bite-sized facts, but thoughtful, source-backed reads for curious minds.
+
+Inside the app:
+• Daily Reality Check — a fresh discovery every day
+• Daily reading goal — track cards read each day
+• Media dossiers — readings grouped around one title
+• Learning routes — guided journeys with completion celebrations
+• Your library — save, resume, and revisit what matters
+• Spoiler protection — open the story when you are ready
+• Reflection chips — mark what surprised you or what you learned
+
+True Frame is not a textbook. It is a place to feed your curiosity—learn while you explore the stories you already love.
 
 ## Anahtar kelimeler (TR, 100 karakter)
 
@@ -50,6 +67,44 @@ history,media,game,movie,series,facts,education,documentary,ancient,learning,tru
 
 - **Birincil:** Eğitim
 - **İkincil:** Eğlence
+
+## Bu sürümdeki yenilikler (What's New) — 2.0.0
+
+App Store Connect → sürüm **2.0.0** → **What's New in This Version** (lokalizasyon başına).
+
+### EN
+
+```
+True Frame 2.0 is a major update for reading habits, polish, and discovery.
+
+• Daily reading goal — choose how many cards you want to read each day
+• Route completion — celebrate when you finish a guided learning path
+• Milestones — see your progress add up over time
+• Smoother animations and improved iOS swipe-back gestures
+• Redesigned reader — better scrolling, layout, and readability
+• Cleaner library — saved, recent, and completed items are easier to browse
+• Expanded catalog — more source-backed reads across games, films, and series
+• Accessibility improvements throughout the app
+
+Thank you for exploring history with True Frame.
+```
+
+### TR
+
+```
+True Frame 2.0; okuma alışkanlığı, arayüz kalitesi ve keşif deneyimine odaklanan büyük bir güncelleme.
+
+• Günlük okuma hedefi — günde kaç kart okumak istediğini belirle
+• Rota tamamlama — rehberli bir yolu bitirince kutlama
+• Kilometre taşları — ilerlemeni zaman içinde takip et
+• Daha akıcı animasyonlar ve geliştirilmiş iOS kaydırarak geri gitme
+• Yenilenen okuyucu — daha iyi kaydırma, düzen ve okunabilirlik
+• Düzenlenmiş kitaplık — kaydedilenler, son görülenler ve tamamlananlar daha net
+• Genişleyen katalog — oyun, film ve diziler için daha fazla kaynaklı okuma
+• Uygulama genelinde erişilebilirlik iyileştirmeleri
+
+Tarihi bizimle keşfettiğin için teşekkürler.
+```
 
 ## Yaş derecesi
 

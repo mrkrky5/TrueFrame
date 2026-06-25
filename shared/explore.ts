@@ -25,18 +25,20 @@ export function filterCards(cards: HistoryCard[], filters: ExploreFilters): Hist
     }
     if (!q) return true;
 
-    const haystack = [
-      card.title,
-      card.subtitle,
-      card.mediaTitle,
-      card.whatWeSee,
-      card.realHistory,
-      card.quickRealityCheck,
-      ...(card.tags ?? []),
-      ...(card.themes ?? []),
-    ]
-      .join(" ")
-      .toLowerCase();
+    const haystack =
+      card.searchBlob ??
+      [
+        card.title,
+        card.subtitle,
+        card.mediaTitle,
+        card.whatWeSee,
+        card.realHistory,
+        card.quickRealityCheck,
+        ...(card.tags ?? []),
+        ...(card.themes ?? []),
+      ]
+        .join(" ")
+        .toLowerCase();
 
     return haystack.includes(q);
   });

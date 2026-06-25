@@ -1,21 +1,25 @@
 import AsyncStorage from "@react-native-async-storage/async-storage";
-import { Image } from "expo-image";
 import { useEffect, useMemo, useState } from "react";
-import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
+import { Platform, Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 
 import RelatedTopicCards from "@/components/RelatedTopicCards";
 import CardReaderTopBar from "@/components/CardReaderTopBar";
 import GuidedJourneyReader from "@/components/GuidedJourneyReader";
 import ReadReflection from "@/components/ReadReflection";
+import ReflectionFeedback from "@/components/ReflectionFeedback";
 import ReaderCompletionPanel from "@/components/ReaderCompletionPanel";
-import { cachedImageProps } from "@/constants/image";
 import { screenBottomInset } from "@/constants/layout";
+import { flexScrollChild, readerRoot } from "@/constants/scrollable";
 import { type } from "@/constants/typography";
 import { theme } from "@/constants/theme";
 import { useHistory } from "@/context/HistoryContext";
-import { useLearning } from "@/context/LearningContext";
 import { useLocale } from "@/context/LocaleContext";
+import AnimatedPressable from "@/components/motion/AnimatedPressable";
+import FadeSlideIn from "@/components/motion/FadeSlideIn";
+import RouteCompletionSheet from "@/components/RouteCompletionSheet";
+import { useCompleteReading } from "@/hooks/useCompleteReading";
+import { useCardReflection } from "@/hooks/useCardReflection";
 import { formatMediaType } from "@shared/contentBlocks";
 import { getSmartRelatedCards } from "@shared/relatedCards";
 import { liteRealitySummary, parseRealHistorySections } from "@/utils/liteReaderContent";
@@ -27,11 +31,16 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
   const insets = useSafeAreaInsets();
   const bottomPad = screenBottomInset(insets.bottom, { includeTabBar: false });
   const { dictionary } = useLocale();
-  const { addRecent, markAsRead, isRead, readIds } = useHistory();
-  const { getReflections, toggleReflection } = useLearning();
+  const { addRecent, isRead, readIds } = useHistory();
+  const { completeReading, routeCompletion, dismissRouteCompletion } = useCompleteReading(card.id);
+  const reflection = useCardReflection(card.id);
   const [reveal, setReveal] = useState(false);
   const [savedProgress, setSavedProgress] = useState(0);
-  const [heroFailed, setHeroFailed] = useState(false);
+  const [markedComplete, setMarkedComplete] = useState(false);
+
+  useEffect(() => {
+    setMarkedComplete(false);
+  }, [card.id]);
 
   const similar = useMemo(
     () => getSmartRelatedCards(card, allCards, readIds, 3),
@@ -41,7 +50,6 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
   useEffect(() => {
     addRecent(card.id);
     setReveal(!needsSpoilerGate(card));
-    setHeroFailed(false);
 
     AsyncStorage.getItem(`progress_${card.id}`).then((raw) => {
       if (raw) {
@@ -51,8 +59,13 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
     });
   }, [card, addRecent]);
 
-  const hero = card.images?.hero;
   const read = isRead(card.id);
+  const showReadComplete = read || markedComplete;
+
+  const handleMarkRead = () => {
+    completeReading();
+    setMarkedComplete(true);
+  };
   const realitySummary = liteRealitySummary(card);
   const historySections = useMemo(() => parseRealHistorySections(card.realHistory), [card.realHistory]);
   const showSpoilerGate = needsSpoilerGate(card) && !reveal;
@@ -86,26 +99,14 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
         <CardReaderTopBar
           cardId={card.id}
           cardTitle={card.title}
-          readerStep={savedProgress > 0 ? 1 : 0}
         />
         <ScrollView
           style={styles.gateScroll}
           contentContainerStyle={[styles.gateScrollContent, { paddingBottom: bottomPad }]}
           contentInsetAdjustmentBehavior="automatic"
-          showsVerticalScrollIndicator={false}
+          showsVerticalScrollIndicator={Platform.OS !== "web"}
+          nestedScrollEnabled
         >
-          {hero && !heroFailed ? (
-            <View style={styles.gateHeroWrap}>
-              <Image
-                source={{ uri: hero.src }}
-                style={styles.gateHeroImg}
-                contentFit="cover"
-                onError={() => setHeroFailed(true)}
-                {...cachedImageProps}
-              />
-            </View>
-          ) : null}
-
           <Text style={styles.gateMedia}>
             {formatMediaType(card.mediaType, dictionary)} • {card.mediaTitle}
           </Text>
@@ -155,14 +156,14 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
             {blocksHint(card, dictionary)}
           </Text>
 
-          <Pressable
+          <AnimatedPressable
             style={styles.gateBtn}
             onPress={() => setReveal(true)}
             accessibilityRole="button"
             accessibilityLabel={gateBtnLabel}
           >
             <Text style={styles.gateBtnText}>{gateBtnLabel}</Text>
-          </Pressable>
+          </AnimatedPressable>
         </ScrollView>
       </View>
     );
@@ -170,12 +171,19 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
 
   if (card.isFlagship) {
     return (
-      <GuidedJourneyReader
-        card={card}
-        allCards={allCards}
-        similarCards={similar}
-        onComplete={() => markAsRead(card.id)}
-      />
+      <>
+        <GuidedJourneyReader
+          card={card}
+          allCards={allCards}
+          similarCards={similar}
+          onComplete={completeReading}
+        />
+        <RouteCompletionSheet
+          visible={routeCompletion != null}
+          completion={routeCompletion}
+          onClose={dismissRouteCompletion}
+        />
+      </>
     );
   }
 
@@ -184,43 +192,38 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
       <CardReaderTopBar
         cardId={card.id}
         cardTitle={card.title}
-        readerStep={savedProgress > 0 ? 1 : 0}
       />
       <ScrollView
         style={styles.lite}
         contentContainerStyle={[styles.liteContent, { paddingBottom: bottomPad }]}
         contentInsetAdjustmentBehavior="automatic"
+        showsVerticalScrollIndicator={Platform.OS !== "web"}
+        nestedScrollEnabled
       >
-        {hero && !heroFailed ? (
-          <View style={styles.heroWrap}>
-            <Image
-              source={{ uri: hero.src }}
-              style={styles.heroImg}
-              contentFit="cover"
-              onError={() => setHeroFailed(true)}
-              {...cachedImageProps}
-            />
-          </View>
-        ) : null}
         <Text style={styles.media}>{formatMediaType(card.mediaType, dictionary)} • {card.mediaTitle}</Text>
         <Text style={styles.title}>{card.title}</Text>
 
         {realitySummary ? (
-          <View style={styles.block}>
-            <Text style={styles.label}>{dictionary.common.realitySummary}</Text>
-            <Text style={styles.body}>{realitySummary}</Text>
-          </View>
+          <FadeSlideIn enterKey="reality">
+            <View style={styles.block}>
+              <Text style={styles.label}>{dictionary.common.realitySummary}</Text>
+              <Text style={styles.body}>{realitySummary}</Text>
+            </View>
+          </FadeSlideIn>
         ) : null}
 
         {card.mediaChanged ? (
-          <View style={styles.block}>
-            <Text style={styles.label}>{dictionary.common.vsReality}</Text>
-            <Text style={[styles.body, styles.italic]}>{card.mediaChanged}</Text>
-          </View>
+          <FadeSlideIn enterKey="mediaChanged" delay={40}>
+            <View style={styles.block}>
+              <Text style={styles.label}>{dictionary.common.vsReality}</Text>
+              <Text style={[styles.body, styles.italic]}>{card.mediaChanged}</Text>
+            </View>
+          </FadeSlideIn>
         ) : null}
 
         {historySections.length > 0 ? (
-          <View style={styles.block}>
+          <FadeSlideIn enterKey="history" delay={60}>
+            <View style={styles.block}>
             <Text style={styles.label}>{dictionary.card.realHistory}</Text>
             {historySections.map((section, i) => {
               if (section.kind === "heading") {
@@ -247,7 +250,8 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
                 </Text>
               );
             })}
-          </View>
+            </View>
+          </FadeSlideIn>
         ) : null}
 
         {card.sources?.map((s, i) => (
@@ -260,21 +264,38 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
           <Text style={styles.label}>{dictionary.common.feelQuestion}</Text>
           <ReadReflection
             cardId={card.id}
-            selectedReflections={getReflections(card.id)}
-            onToggle={(r) => toggleReflection(card.id, r)}
+            selectedReflections={reflection.selectedReflections}
+            onToggle={reflection.onToggle}
+          />
+          <ReflectionFeedback
+            showLaterSaved={reflection.showLaterSaved}
+            showSurprisedHint={reflection.showSurprisedHint}
           />
         </View>
 
-        {read ? (
-          <View style={styles.doneBox}>
-            <Text style={styles.doneTitle}>{dictionary.common.explorationComplete}</Text>
+        {reflection.showSurprisedHint && !read ? (
+          <View style={styles.block}>
             <RelatedTopicCards card={card} allCards={allCards} />
-            <ReaderCompletionPanel variant="complete" />
           </View>
+        ) : null}
+
+        {showReadComplete ? (
+          <FadeSlideIn enterKey="done">
+            <View style={styles.doneBox}>
+              <Text style={styles.doneTitle}>{dictionary.common.explorationComplete}</Text>
+              <RelatedTopicCards card={card} allCards={allCards} />
+              <ReaderCompletionPanel variant="complete" />
+            </View>
+          </FadeSlideIn>
         ) : (
-          <ReaderCompletionPanel variant="markRead" onMarkRead={() => markAsRead(card.id)} />
+          <ReaderCompletionPanel variant="markRead" onMarkRead={handleMarkRead} />
         )}
       </ScrollView>
+      <RouteCompletionSheet
+        visible={routeCompletion != null}
+        completion={routeCompletion}
+        onClose={dismissRouteCompletion}
+      />
     </View>
   );
 }
@@ -285,17 +306,9 @@ function blocksHint(card: HistoryCard, dictionary: { common: { minutesShort?: st
 }
 
 const styles = StyleSheet.create({
-  root: { flex: 1, backgroundColor: theme.bg },
-  gateScroll: { flex: 1 },
+  root: { ...readerRoot, backgroundColor: theme.bg },
+  gateScroll: flexScrollChild,
   gateScrollContent: { paddingHorizontal: 20, paddingTop: 8 },
-  gateHeroWrap: {
-    height: 176,
-    borderRadius: 22,
-    overflow: "hidden",
-    marginBottom: 18,
-    backgroundColor: theme.paper,
-  },
-  gateHeroImg: { width: "100%", height: "100%" },
   gateMedia: {
     fontSize: 9,
     fontWeight: "800",
@@ -385,10 +398,8 @@ const styles = StyleSheet.create({
     marginBottom: 8,
   },
   gateBtnText: { color: theme.white, fontSize: 11, fontWeight: "800", letterSpacing: 1.5 },
-  lite: { flex: 1 },
+  lite: flexScrollChild,
   liteContent: { padding: 20 },
-  heroWrap: { height: 200, borderRadius: 20, overflow: "hidden", marginBottom: 16 },
-  heroImg: { width: "100%", height: "100%" },
   media: { fontSize: 9, fontWeight: "800", letterSpacing: 1.5, color: theme.accent, marginBottom: 8 },
   title: { fontSize: 28, fontWeight: "600", color: theme.ink, marginBottom: 20, lineHeight: 34 },
   block: {

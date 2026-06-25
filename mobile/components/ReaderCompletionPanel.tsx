@@ -1,7 +1,9 @@
 import { Ionicons } from "@expo/vector-icons";
 import { useRouter } from "expo-router";
-import { Pressable, StyleSheet, Text, View } from "react-native";
+import { StyleSheet, Text, View } from "react-native";
 
+import AnimatedPressable from "@/components/motion/AnimatedPressable";
+import ScalePulse from "@/components/motion/ScalePulse";
 import { theme } from "@/constants/theme";
 import { useNavigationTab, type PrimaryTab } from "@/context/NavigationContext";
 import { useLocale } from "@/context/LocaleContext";
@@ -82,16 +84,18 @@ export default function ReaderCompletionPanel({
       <View style={styles.wrap}>
         <Text style={styles.heading}>{c.readerWhatsNext}</Text>
         <Text style={styles.hint}>{c.readerMarkCompleteHint}</Text>
-        <Pressable
+        <AnimatedPressable
           style={styles.primaryBtn}
           onPress={onMarkRead}
           accessibilityRole="button"
           accessibilityLabel={c.markAsRead}
         >
-          <Ionicons name="checkmark-circle-outline" size={18} color={theme.white} />
+          <ScalePulse trigger={1}>
+            <Ionicons name="checkmark-circle-outline" size={18} color={theme.white} />
+          </ScalePulse>
           <Text style={styles.primaryText}>{c.markAsRead}</Text>
-        </Pressable>
-        <Pressable
+        </AnimatedPressable>
+        <AnimatedPressable
           style={styles.secondaryBtn}
           onPress={onBack}
           accessibilityRole="button"
@@ -99,7 +103,7 @@ export default function ReaderCompletionPanel({
         >
           <Ionicons name="chevron-back" size={16} color={theme.ink} />
           <Text style={styles.secondaryText}>{c.back}</Text>
-        </Pressable>
+        </AnimatedPressable>
       </View>
     );
   }
@@ -107,7 +111,7 @@ export default function ReaderCompletionPanel({
   return (
     <View style={styles.wrap}>
       <Text style={styles.heading}>{c.readerWhatsNext}</Text>
-      <Pressable
+      <AnimatedPressable
         style={styles.primaryBtn}
         onPress={goPrimary}
         accessibilityRole="button"
@@ -115,15 +119,15 @@ export default function ReaderCompletionPanel({
       >
         <Ionicons name="arrow-forward" size={16} color={theme.white} />
         <Text style={styles.primaryText}>{primaryLabel(dictionary, primaryTab, fromRoute)}</Text>
-      </Pressable>
-      <Pressable
+      </AnimatedPressable>
+      <AnimatedPressable
         style={styles.secondaryBtn}
         onPress={goSecondary}
         accessibilityRole="button"
         accessibilityLabel={secondaryLabel(dictionary, primaryTab)}
       >
         <Text style={styles.secondaryText}>{secondaryLabel(dictionary, primaryTab)}</Text>
-      </Pressable>
+      </AnimatedPressable>
       <AfterReadAdSlot />
     </View>
   );

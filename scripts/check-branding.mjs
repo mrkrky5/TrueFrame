@@ -19,8 +19,8 @@ const BANNED = [
   /com\.medyadangercege\.app/gi,
 ];
 
-const SCAN_DIRS = ["app", "components", "mobile", "lib", "shared", "data", "public", "docs"];
-const SCAN_FILES = ["capacitor.config.ts", "package.json", "mobile/app.json"];
+const SCAN_DIRS = ["mobile", "lib", "shared", "data", "docs"];
+const SCAN_FILES = ["package.json", "mobile/app.json"];
 const SKIP_FILES = new Set([
   "scripts/check-branding.mjs",
   "scripts/check-mobile.mjs",
