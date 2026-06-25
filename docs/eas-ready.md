@@ -1,6 +1,6 @@
 # EAS Build — hazırlık kontrol listesi (v2.0.0)
 
-Build **18** · sürüm **2.0.0** · bundle `com.trueframe.app`
+Build **19** · sürüm **2.0.1** · bundle `com.trueframe.app`
 
 Release notes: [`release-notes-size-cleanup.md`](./release-notes-size-cleanup.md)
 
