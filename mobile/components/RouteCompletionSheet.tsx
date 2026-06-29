@@ -4,6 +4,7 @@ import { Modal, Platform, StyleSheet, Text, View } from "react-native";
 import { useRouter } from "expo-router";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 
+import AfterReadAdSlot from "@/components/ads/AfterReadAdSlot";
 import AnimatedPressable from "@/components/motion/AnimatedPressable";
 import BottomSheetMotion from "@/components/motion/BottomSheetMotion";
 import ScalePulse from "@/components/motion/ScalePulse";
@@ -71,6 +72,7 @@ function SheetBody({
       <AnimatedPressable style={styles.secondaryBtn} onPress={goExplore} accessibilityRole="button">
         <Text style={styles.secondaryText}>{c.routeCompleteExplore ?? c.exploreLibrary}</Text>
       </AnimatedPressable>
+      <AfterReadAdSlot />
     </BottomSheetMotion>
   );
 }

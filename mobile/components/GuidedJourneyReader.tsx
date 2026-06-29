@@ -11,9 +11,12 @@ import {
 } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 
+import AccuracyResult from "@/components/AccuracyResult";
+import InlineAdSlot from "@/components/ads/InlineAdSlot";
 import RelatedTopicCards from "@/components/RelatedTopicCards";
 import CardReaderTopBar from "@/components/CardReaderTopBar";
 import HistoryCard from "@/components/HistoryCard";
+import SourceCard from "@/components/SourceCard";
 import ReadReflection from "@/components/ReadReflection";
 import ReflectionFeedback from "@/components/ReflectionFeedback";
 import ReaderCompletionPanel from "@/components/ReaderCompletionPanel";
@@ -24,8 +27,7 @@ import AnimatedPressable from "@/components/motion/AnimatedPressable";
 import { screenBottomInset } from "@/constants/layout";
 import { flexScrollChild, readerRoot } from "@/constants/scrollable";
 import { theme } from "@/constants/theme";
-import { hapticSelection } from "@/utils/haptics";
-import { openExternalUrl } from "@/utils/openExternalUrl";
+import { hapticLight, hapticSelection, hapticSuccess } from "@/utils/haptics";
 import { useLearning } from "@/context/LearningContext";
 import { useHistory } from "@/context/HistoryContext";
 import { useLocale } from "@/context/LocaleContext";
@@ -33,7 +35,6 @@ import { useCardReflection } from "@/hooks/useCardReflection";
 import {
   ContentBlock,
   deriveCardBlocks,
-  formatAccuracyLabel,
   formatMediaType,
 } from "@shared/contentBlocks";
 import { estimateReadingMinutesLeft } from "@shared/readerProgress";
@@ -104,8 +105,11 @@ export default function GuidedJourneyReader({
   const guessRequired = block?.type === "accuracyGuess" && !getGuess(card.id);
 
   const next = () => {
-    if (safeStep < blocks.length - 1) setStep((s) => Math.min(s + 1, blocks.length - 1));
-    else {
+    if (safeStep < blocks.length - 1) {
+      hapticLight();
+      setStep((s) => Math.min(s + 1, blocks.length - 1));
+    } else {
+      hapticSuccess();
       setDone(true);
       onComplete();
       AsyncStorage.removeItem(`progress_${card.id}`);
@@ -176,13 +180,22 @@ export default function GuidedJourneyReader({
         <FadeSlideIn enterKey={safeStep}>
           <BlockView block={block} card={card} similarCards={similarCards} readIds={readIds} />
         </FadeSlideIn>
+        {blocks.length >= 4 &&
+        safeStep === Math.floor(blocks.length / 2) &&
+        block?.type !== "accuracyGuess" &&
+        !isLast ? (
+          <InlineAdSlot placement="journey_inline" />
+        ) : null}
       </ScrollView>
 
       <View style={[styles.nav, { paddingBottom: navBottomPad }]}>
         {safeStep > 0 ? (
           <AnimatedPressable
             style={styles.backBtn}
-            onPress={() => setStep((s) => Math.max(0, s - 1))}
+            onPress={() => {
+              hapticSelection();
+              setStep((s) => Math.max(0, s - 1));
+            }}
             accessibilityRole="button"
             accessibilityLabel={dictionary.common.back}
           >
@@ -265,15 +278,11 @@ function BlockView({
               ))}
             </View>
           ) : (
-            <View style={styles.guessResult}>
-              <Text style={styles.guessResultLabel}>{dictionary.common.actualRating}</Text>
-              <Text style={styles.guessResultValue}>
-                {formatAccuracyLabel(block.metadata?.actualAccuracy as AccuracyType, dictionary)}
-              </Text>
-              {block.metadata?.explanation ? (
-                <Text style={styles.body}>{String(block.metadata.explanation)}</Text>
-              ) : null}
-            </View>
+            <AccuracyResult
+              guess={getGuess(card.id) as AccuracyType}
+              actual={(block.metadata?.actualAccuracy as AccuracyType) ?? card.accuracyType ?? "real"}
+              explanation={block.metadata?.explanation ? String(block.metadata.explanation) : undefined}
+            />
           )}
         </View>
       );
@@ -293,10 +302,7 @@ function BlockView({
         <View style={styles.paperBlock}>
           <Text style={styles.blockLabel}>{String(block.title)}</Text>
           {(block.content as Source[]).map((s, i) => (
-            <Pressable key={i} onPress={() => openExternalUrl(s.url)} style={styles.sourceRow}>
-              <Text style={styles.sourceTitle}>{s.title}</Text>
-              <Ionicons name="open-outline" size={16} color={theme.accent} />
-            </Pressable>
+            <SourceCard key={i} source={s} />
           ))}
         </View>
       );
@@ -365,7 +371,7 @@ const styles = StyleSheet.create({
   hookBoxLabel: { fontSize: 9, fontWeight: "800", letterSpacing: 2, color: "rgba(255,255,255,0.5)", marginBottom: 12 },
   hookBoxText: { fontSize: 17, lineHeight: 26, color: theme.white, fontWeight: "500" },
   blockLabel: { fontSize: 10, fontWeight: "800", letterSpacing: 2, textTransform: "uppercase", color: theme.muted, marginBottom: 12 },
-  serifBody: { fontSize: 18, lineHeight: 28, color: theme.ink },
+  serifBody: { fontSize: 18, lineHeight: 30, color: theme.ink },
   body: { fontSize: 15, lineHeight: 24, color: theme.muted },
   guessHint: { fontSize: 11, color: theme.muted, marginBottom: 12 },
   guessGrid: { gap: 8 },
@@ -378,18 +384,8 @@ const styles = StyleSheet.create({
     borderColor: theme.border,
   },
   guessBtnText: { fontSize: 11, fontWeight: "700", color: theme.ink, textTransform: "uppercase" },
-  guessResult: { gap: 8 },
+  guessResult: { gap: 10 },
   guessResultLabel: { fontSize: 10, fontWeight: "800", color: theme.muted, letterSpacing: 1.5 },
-  guessResultValue: { fontSize: 16, fontWeight: "700", color: theme.accent },
-  sourceRow: {
-    flexDirection: "row",
-    justifyContent: "space-between",
-    alignItems: "center",
-    paddingVertical: 12,
-    borderBottomWidth: 1,
-    borderBottomColor: theme.border,
-  },
-  sourceTitle: { flex: 1, fontSize: 14, fontWeight: "600", color: theme.ink, marginRight: 8 },
   nav: {
     flexDirection: "row",
     gap: 12,

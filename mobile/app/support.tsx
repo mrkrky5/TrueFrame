@@ -1,12 +1,14 @@
 import { Linking, Pressable, StyleSheet, Text, View } from "react-native";
 
 import LegalScreenLayout from "@/components/LegalScreenLayout";
+import OnlineVersionLink from "@/components/OnlineVersionLink";
 import { theme } from "@/constants/theme";
+import { supportUrl } from "@/constants/links";
 import { useLocale } from "@/context/LocaleContext";
 import { SITE_CONFIG } from "@/constants/site-config";
 
 export default function SupportScreen() {
-  const { dictionary } = useLocale();
+  const { dictionary, locale } = useLocale();
   const t = dictionary.support;
 
   const faqs = [
@@ -37,6 +39,7 @@ export default function SupportScreen() {
         </View>
       ))}
 
+      <OnlineVersionLink url={supportUrl(locale)} />
     </LegalScreenLayout>
   );
 }

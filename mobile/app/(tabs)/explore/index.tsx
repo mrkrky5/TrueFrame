@@ -13,6 +13,7 @@ import {
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 
 import ExploreCatalogRow from "@/components/explore/ExploreCatalogRow";
+import TabHeader from "@/components/TabHeader";
 import FilterChip from "@/components/motion/FilterChip";
 import MissingMediaRequest from "@/components/MissingMediaRequest";
 import MoodIcon from "@/components/MoodIcon";
@@ -188,22 +189,29 @@ export default function ExploreScreen() {
     () => (
     <>
       <View style={styles.header}>
-        <View>
-          <Text style={styles.title}>{dictionary.nav.explore}</Text>
-          <Text style={styles.trace}>{dictionary.common.traceHistory}</Text>
-        </View>
-        <Pressable
-          style={[styles.filterBtn, activeFilterCount > 0 && styles.filterBtnActive]}
-          onPress={() => setShowFilters((v) => !v)}
-          accessibilityRole="button"
-          accessibilityState={{ expanded: showFilters }}
-          accessibilityLabel={dictionary.common.filter}
-        >
-          <Text style={[styles.filterBtnText, activeFilterCount > 0 && styles.filterBtnTextActive]}>
-            {dictionary.common.filter}
-            {activeFilterCount > 0 ? ` (${activeFilterCount})` : ""}
-          </Text>
-        </Pressable>
+        <TabHeader
+          eyebrow={dictionary.common.traceHistory}
+          title={dictionary.nav.explore}
+          right={
+            <Pressable
+              style={[styles.filterBtn, activeFilterCount > 0 && styles.filterBtnActive]}
+              onPress={() => setShowFilters((v) => !v)}
+              accessibilityRole="button"
+              accessibilityState={{ expanded: showFilters }}
+              accessibilityLabel={dictionary.common.filter}
+            >
+              <Ionicons
+                name="options-outline"
+                size={16}
+                color={activeFilterCount > 0 ? theme.accent : theme.ink}
+              />
+              <Text style={[styles.filterBtnText, activeFilterCount > 0 && styles.filterBtnTextActive]}>
+                {dictionary.common.filter}
+                {activeFilterCount > 0 ? ` (${activeFilterCount})` : ""}
+              </Text>
+            </Pressable>
+          }
+        />
       </View>
 
       <View style={styles.searchWrap}>
@@ -229,21 +237,27 @@ export default function ExploreScreen() {
         ) : null}
       </View>
 
-      <FilterChip
-        variant="accent"
-        label={ex.spoilerFreeFilter ?? dictionary.card.noSpoilers}
-        active={spoilerFree}
-        onPress={() => setSpoilerFree((v) => !v)}
-        style={styles.quickChip}
-        textStyle={styles.quickChipText}
-        accessibilityRole="switch"
-        accessibilityState={{ checked: spoilerFree }}
-        accessibilityLabel={ex.spoilerFreeFilter ?? dictionary.card.noSpoilers}
-      />
-
       {showFilters ? (
         <View style={styles.filterPanel}>
-          <Text style={styles.filterLabel}>{dictionary.common.contentType}</Text>
+          <Text style={styles.filterLabel}>{dictionary.common.chooseMood}</Text>
+          <View style={styles.categoryWrap}>
+            {MOODS.map((m) => (
+              <FilterChip
+                key={m.id}
+                variant="paper"
+                label={m.label}
+                active={tag === m.tag}
+                onPress={() => setTag(tag === m.tag ? null : m.tag)}
+                style={styles.chip}
+                textStyle={styles.chipText}
+                accessibilityRole="radio"
+                accessibilityState={{ selected: tag === m.tag }}
+                accessibilityLabel={m.label}
+              />
+            ))}
+          </View>
+
+          <Text style={[styles.filterLabel, { marginTop: 4 }]}>{dictionary.common.contentType}</Text>
           <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.chipRow}>
             {MEDIA.map((m) => {
               const label =
@@ -282,6 +296,19 @@ export default function ExploreScreen() {
               />
             ))}
           </ScrollView>
+
+          <Pressable
+            style={styles.flagshipRow}
+            onPress={() => setSpoilerFree((v) => !v)}
+            accessibilityRole="switch"
+            accessibilityState={{ checked: spoilerFree }}
+            accessibilityLabel={ex.spoilerFreeFilter ?? dictionary.card.noSpoilers}
+          >
+            <Text style={styles.flagshipLabel}>{ex.spoilerFreeFilter ?? dictionary.card.noSpoilers}</Text>
+            <View style={[styles.toggle, spoilerFree && styles.toggleOn]}>
+              <View style={[styles.knob, spoilerFree && styles.knobOn]} />
+            </View>
+          </Pressable>
 
           <Pressable
             style={styles.flagshipRow}
@@ -399,24 +426,6 @@ export default function ExploreScreen() {
         </View>
       ) : null}
 
-      <Text style={styles.sectionLabel}>{dictionary.common.chooseMood}</Text>
-      {!isAnyFilterActive ? (
-        <View style={styles.moodGrid}>
-          {MOODS.map((m) => (
-            <Pressable
-              key={m.id}
-              style={[styles.moodBtn, tag === m.tag && styles.moodBtnActive]}
-              onPress={() => setTag(tag === m.tag ? null : m.tag)}
-            >
-              <View style={styles.moodIconWrap}>
-                <MoodIcon moodId={m.id} active={tag === m.tag} />
-              </View>
-              <Text style={styles.moodLabel}>{m.label}</Text>
-            </Pressable>
-          ))}
-        </View>
-      ) : null}
-
       {!isAnyFilterActive ? (
         <>
           <Text style={styles.sectionLabel}>{dictionary.common.featuredDossiers}</Text>
@@ -509,7 +518,7 @@ export default function ExploreScreen() {
         onScroll={(e) => handleScroll(e.nativeEvent.contentOffset.y)}
         scrollEventThrottle={16}
         contentContainerStyle={[styles.list, { paddingBottom: bottomPad }]}
-        contentInsetAdjustmentBehavior="automatic"
+        contentInsetAdjustmentBehavior="never"
         keyboardShouldPersistTaps="handled"
         keyboardDismissMode="on-drag"
         ListHeaderComponent={ListHeader}
@@ -567,7 +576,7 @@ export default function ExploreScreen() {
 const styles = StyleSheet.create({
   screen: { flex: 1, backgroundColor: theme.bg },
   list: { paddingHorizontal: 20 },
-  header: { flexDirection: "row", justifyContent: "space-between", alignItems: "flex-start", marginBottom: 16 },
+  header: { marginBottom: 16 },
   localeNote: {
     flexDirection: "row",
     alignItems: "flex-start",
@@ -583,6 +592,9 @@ const styles = StyleSheet.create({
   title: { ...type.screenTitle },
   trace: { fontSize: 10, fontWeight: "800", letterSpacing: 1.5, color: theme.muted, marginTop: 4 },
   filterBtn: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 6,
     paddingHorizontal: 14,
     paddingVertical: 10,
     ...surfaces.inset,
@@ -627,6 +639,7 @@ const styles = StyleSheet.create({
   },
   filterLabel: { fontSize: 10, fontWeight: "800", letterSpacing: 1.5, color: theme.muted, marginBottom: 10 },
   chipRow: { marginBottom: 14 },
+  categoryWrap: { flexDirection: "row", flexWrap: "wrap", gap: 8, marginBottom: 14 },
   chip: {
     paddingHorizontal: 14,
     paddingVertical: 10,

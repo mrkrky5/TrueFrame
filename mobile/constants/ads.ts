@@ -15,16 +15,28 @@ export const TEST_IOS_APP_ID = "ca-app-pub-3940256099942544~1458002511";
 const TEST_IOS_BANNER = "ca-app-pub-3940256099942544/2934735716";
 const PRODUCTION_IOS_BANNER = "ca-app-pub-1571569580384263/2826203413";
 
+const TEST_IOS_INTERSTITIAL = "ca-app-pub-3940256099942544/4411468910";
+const PRODUCTION_IOS_INTERSTITIAL = "ca-app-pub-1571569580384263/7546316086";
+
 export type AdPlacement =
   | "explore_inline"
   | "routes_inline"
   | "saved_inline"
+  | "home_inline"
+  | "reader_inline"
+  | "journey_inline"
   | "after_read";
 
-/** List surfaces: show inline banner after this 0-based card index (4th row). */
-export const LIST_INLINE_AD_AFTER_INDEX = 3;
+/** Show a full-screen interstitial once every N card opens. */
+export const INTERSTITIAL_EVERY_N_OPENS = 4;
 
-/** @deprecated Use LIST_INLINE_AD_AFTER_INDEX */
+/** List surfaces: show inline banners after these 0-based card indices. */
+export const LIST_INLINE_AD_INDICES = [3, 11];
+
+/** @deprecated Use LIST_INLINE_AD_INDICES */
+export const LIST_INLINE_AD_AFTER_INDEX = LIST_INLINE_AD_INDICES[0];
+
+/** @deprecated Use LIST_INLINE_AD_INDICES */
 export const EXPLORE_INLINE_AD_AFTER_INDEX = LIST_INLINE_AD_AFTER_INDEX;
 
 export const adsConfig = {
@@ -37,11 +49,17 @@ export function canShowAds(): boolean {
 }
 
 export function shouldShowListInlineAd(index: number): boolean {
-  return index === LIST_INLINE_AD_AFTER_INDEX;
+  return LIST_INLINE_AD_INDICES.includes(index);
 }
 
 export function getBannerUnitId(_placement: AdPlacement): string | null {
   if (!canShowAds()) return null;
   if (USE_TEST_ADS) return TEST_IOS_BANNER;
   return PRODUCTION_IOS_BANNER;
+}
+
+export function getInterstitialUnitId(): string | null {
+  if (!canShowAds()) return null;
+  if (USE_TEST_ADS) return TEST_IOS_INTERSTITIAL;
+  return PRODUCTION_IOS_INTERSTITIAL || null;
 }

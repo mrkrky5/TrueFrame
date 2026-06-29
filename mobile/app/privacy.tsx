@@ -1,11 +1,13 @@
 import { StyleSheet, Text } from "react-native";
 
 import LegalScreenLayout from "@/components/LegalScreenLayout";
+import OnlineVersionLink from "@/components/OnlineVersionLink";
 import { theme } from "@/constants/theme";
+import { privacyUrl } from "@/constants/links";
 import { useLocale } from "@/context/LocaleContext";
 
 export default function PrivacyScreen() {
-  const { dictionary } = useLocale();
+  const { dictionary, locale } = useLocale();
   const t = dictionary.legal;
 
   return (
@@ -18,6 +20,7 @@ export default function PrivacyScreen() {
       <Section>{t.privacyContactBody}</Section>
       <Heading>{t.privacyLinksTitle}</Heading>
       <Section>{t.privacyLinksBody}</Section>
+      <OnlineVersionLink url={privacyUrl(locale)} />
     </LegalScreenLayout>
   );
 }

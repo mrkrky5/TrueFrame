@@ -4,6 +4,7 @@ import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 
+import TabHeader from "@/components/TabHeader";
 import { tabScreenContentPadding } from "@/constants/layout";
 import { surfaces } from "@/constants/surfaces";
 import { theme } from "@/constants/theme";
@@ -47,9 +48,13 @@ export default function RoutesScreen() {
       contentContainerStyle={[styles.content, { paddingBottom: bottomPad }]}
       contentInsetAdjustmentBehavior="never"
     >
-      <Text style={styles.badge}>{dictionary.routes?.learningJourneys ?? "TARİHSEL YOLCULUK"}</Text>
-      <Text style={styles.title}>{dictionary.nav.routes}</Text>
-      <Text style={styles.subtitle}>{dictionary.routes?.subtitle}</Text>
+      <View style={styles.headerWrap}>
+        <TabHeader
+          eyebrow={dictionary.routes?.learningJourneys ?? "TARİHSEL YOLCULUK"}
+          title={dictionary.nav.routes}
+          subtitle={dictionary.routes?.subtitle}
+        />
+      </View>
       <Text style={styles.explainer}>{dictionary.routes?.explainer}</Text>
 
       {ready && active.length > 0 ? (
@@ -108,13 +113,7 @@ const styles = StyleSheet.create({
   screen: { flex: 1, backgroundColor: theme.bg },
   scroll: { flex: 1 },
   content: { paddingHorizontal: 20 },
-  badge: {
-    fontSize: 9,
-    fontWeight: "800",
-    letterSpacing: 2,
-    color: theme.accent,
-    marginBottom: 10,
-  },
+  headerWrap: { marginBottom: 10 },
   title: { fontSize: 32, fontWeight: "600", color: theme.ink, marginBottom: 8 },
   subtitle: { fontSize: 14, lineHeight: 22, color: theme.muted, marginBottom: 10, maxWidth: 320 },
   explainer: { fontSize: 13, lineHeight: 20, color: theme.muted, marginBottom: 22, maxWidth: 340 },

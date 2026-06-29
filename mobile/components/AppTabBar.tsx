@@ -9,6 +9,7 @@ import { theme } from "@/constants/theme";
 import { useNavigationTab, type PrimaryTab } from "@/context/NavigationContext";
 import { useHistory } from "@/context/HistoryContext";
 import { useLocale } from "@/context/LocaleContext";
+import { hapticSelection } from "@/utils/haptics";
 
 type TabKey = PrimaryTab;
 
@@ -25,6 +26,7 @@ const TAB_META: Record<TabKey, { icon: keyof typeof Ionicons.glyphMap; iconFocus
   explore: { icon: "compass-outline", iconFocused: "compass" },
   routes: { icon: "trail-sign-outline", iconFocused: "trail-sign" },
   saved: { icon: "bookmark-outline", iconFocused: "bookmark" },
+  settings: { icon: "settings-outline", iconFocused: "settings" },
 };
 
 function routeToTab(routeName: string): TabKey | null {
@@ -32,6 +34,7 @@ function routeToTab(routeName: string): TabKey | null {
   if (routeName === "explore") return "explore";
   if (routeName === "routes") return "routes";
   if (routeName === "saved") return "saved";
+  if (routeName === "settings") return "settings";
   return null;
 }
 
@@ -68,9 +71,10 @@ export default function AppTabBar({ state, navigation }: TabBarProps) {
     explore: dictionary.nav.explore,
     routes: dictionary.nav.routes,
     saved: dictionary.nav.saved,
+    settings: dictionary.nav.settings,
   };
 
-  const tabs: TabKey[] = ["index", "explore", "routes", "saved"];
+  const tabs: TabKey[] = ["index", "explore", "routes", "saved", "settings"];
 
   return (
     <View
@@ -93,6 +97,7 @@ export default function AppTabBar({ state, navigation }: TabBarProps) {
               scrollPrimaryTabToTop(tab);
               return;
             }
+            hapticSelection();
             const event = navigation.emit({
               type: "tabPress",
               target: route.key,
@@ -125,7 +130,11 @@ export default function AppTabBar({ state, navigation }: TabBarProps) {
                   </View>
                 ) : null}
               </View>
-              <Text style={[styles.label, focused && styles.labelFocused]} numberOfLines={1}>
+              <Text
+                style={[styles.label, focused && styles.labelFocused]}
+                numberOfLines={1}
+                maxFontSizeMultiplier={1.3}
+              >
                 {labels[tab]}
               </Text>
               {focused ? <View style={styles.activeDot} /> : <View style={styles.dotSpacer} />}

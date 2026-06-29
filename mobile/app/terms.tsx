@@ -1,11 +1,13 @@
 import { StyleSheet, Text } from "react-native";
 
 import LegalScreenLayout from "@/components/LegalScreenLayout";
+import OnlineVersionLink from "@/components/OnlineVersionLink";
 import { theme } from "@/constants/theme";
+import { termsUrl } from "@/constants/links";
 import { useLocale } from "@/context/LocaleContext";
 
 export default function TermsScreen() {
-  const { dictionary } = useLocale();
+  const { dictionary, locale } = useLocale();
   const t = dictionary.legal;
 
   return (
@@ -16,6 +18,7 @@ export default function TermsScreen() {
       <Section>{t.termsUsageBody}</Section>
       <Heading>{t.termsDisclaimerTitle}</Heading>
       <Section>{t.termsDisclaimerBody}</Section>
+      <OnlineVersionLink url={termsUrl(locale)} />
     </LegalScreenLayout>
   );
 }

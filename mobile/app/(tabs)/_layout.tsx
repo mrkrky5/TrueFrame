@@ -18,12 +18,14 @@ export default function TabLayout() {
         headerTintColor: theme.ink,
         headerShadowVisible: false,
         sceneStyle: { backgroundColor: theme.bg },
+        animation: "fade",
       }}
     >
       <Tabs.Screen name="index" options={{ title: dictionary.nav.home }} />
       <Tabs.Screen name="explore" options={{ title: dictionary.nav.explore }} />
       <Tabs.Screen name="routes" options={{ title: dictionary.nav.routes }} />
       <Tabs.Screen name="saved" options={{ title: dictionary.nav.saved }} />
+      <Tabs.Screen name="settings" options={{ title: dictionary.nav.settings }} />
     </Tabs>
   );
 }

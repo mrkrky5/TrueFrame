@@ -1,14 +1,23 @@
 import AsyncStorage from "@react-native-async-storage/async-storage";
+import { Ionicons } from "@expo/vector-icons";
 import { useEffect, useMemo, useState } from "react";
-import { Platform, Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
+import { Platform, ScrollView, StyleSheet, Text, View } from "react-native";
+import Animated, {
+  useAnimatedScrollHandler,
+  useAnimatedStyle,
+  useSharedValue,
+} from "react-native-reanimated";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 
+import AccuracyQuiz from "@/components/AccuracyQuiz";
+import InlineAdSlot from "@/components/ads/InlineAdSlot";
 import RelatedTopicCards from "@/components/RelatedTopicCards";
 import CardReaderTopBar from "@/components/CardReaderTopBar";
 import GuidedJourneyReader from "@/components/GuidedJourneyReader";
 import ReadReflection from "@/components/ReadReflection";
 import ReflectionFeedback from "@/components/ReflectionFeedback";
 import ReaderCompletionPanel from "@/components/ReaderCompletionPanel";
+import SourceCard from "@/components/SourceCard";
 import { screenBottomInset } from "@/constants/layout";
 import { flexScrollChild, readerRoot } from "@/constants/scrollable";
 import { type } from "@/constants/typography";
@@ -20,10 +29,10 @@ import FadeSlideIn from "@/components/motion/FadeSlideIn";
 import RouteCompletionSheet from "@/components/RouteCompletionSheet";
 import { useCompleteReading } from "@/hooks/useCompleteReading";
 import { useCardReflection } from "@/hooks/useCardReflection";
+import { hapticLight, hapticSuccess } from "@/utils/haptics";
 import { formatMediaType } from "@shared/contentBlocks";
 import { getSmartRelatedCards } from "@shared/relatedCards";
 import { liteRealitySummary, parseRealHistorySections } from "@/utils/liteReaderContent";
-import { openExternalUrl } from "@/utils/openExternalUrl";
 import { needsSpoilerGate, spoilerGateDescription, spoilerGateTitle } from "@shared/spoiler";
 import type { HistoryCard } from "../../types/index";
 
@@ -37,6 +46,15 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
   const [reveal, setReveal] = useState(false);
   const [savedProgress, setSavedProgress] = useState(0);
   const [markedComplete, setMarkedComplete] = useState(false);
+
+  const scrollProgress = useSharedValue(0);
+  const onScroll = useAnimatedScrollHandler((e) => {
+    const max = e.contentSize.height - e.layoutMeasurement.height;
+    scrollProgress.value = max > 0 ? Math.min(1, Math.max(0, e.contentOffset.y / max)) : 0;
+  });
+  const progressFillStyle = useAnimatedStyle(() => ({
+    width: `${Math.round(scrollProgress.value * 1000) / 10}%`,
+  }));
 
   useEffect(() => {
     setMarkedComplete(false);
@@ -63,8 +81,14 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
   const showReadComplete = read || markedComplete;
 
   const handleMarkRead = () => {
+    hapticSuccess();
     completeReading();
     setMarkedComplete(true);
+  };
+
+  const handleReveal = () => {
+    hapticLight();
+    setReveal(true);
   };
   const realitySummary = liteRealitySummary(card);
   const historySections = useMemo(() => parseRealHistorySections(card.realHistory), [card.realHistory]);
@@ -119,8 +143,8 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
 
           <View style={[styles.gateWarning, { borderLeftColor: spoilerAccent, backgroundColor: spoilerSoft }]}>
             <View style={styles.gateWarningRow}>
-              <View style={styles.gateIconWrap}>
-                <Text style={styles.gateIcon}>⚠</Text>
+              <View style={[styles.gateIconWrap, { backgroundColor: spoilerSoft }]}>
+                <Ionicons name="lock-closed" size={20} color={spoilerAccent} />
               </View>
               <View style={styles.gateWarningHead}>
                 <Text style={styles.gateTitle}>{spoilerLevelLabel}</Text>
@@ -158,10 +182,11 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
 
           <AnimatedPressable
             style={styles.gateBtn}
-            onPress={() => setReveal(true)}
+            onPress={handleReveal}
             accessibilityRole="button"
             accessibilityLabel={gateBtnLabel}
           >
+            <Ionicons name="lock-open-outline" size={16} color={theme.white} />
             <Text style={styles.gateBtnText}>{gateBtnLabel}</Text>
           </AnimatedPressable>
         </ScrollView>
@@ -193,15 +218,28 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
         cardId={card.id}
         cardTitle={card.title}
       />
-      <ScrollView
+      <View style={styles.scrollProgressTrack}>
+        <Animated.View style={[styles.scrollProgressFill, progressFillStyle]} />
+      </View>
+      <Animated.ScrollView
         style={styles.lite}
         contentContainerStyle={[styles.liteContent, { paddingBottom: bottomPad }]}
         contentInsetAdjustmentBehavior="automatic"
         showsVerticalScrollIndicator={Platform.OS !== "web"}
+        onScroll={onScroll}
+        scrollEventThrottle={16}
         nestedScrollEnabled
       >
-        <Text style={styles.media}>{formatMediaType(card.mediaType, dictionary)} • {card.mediaTitle}</Text>
-        <Text style={styles.title}>{card.title}</Text>
+        <FadeSlideIn enterKey={card.id}>
+          <Text style={styles.media}>{formatMediaType(card.mediaType, dictionary)} • {card.mediaTitle}</Text>
+          <Text style={styles.title}>{card.title}</Text>
+        </FadeSlideIn>
+
+        {card.accuracyType ? (
+          <FadeSlideIn enterKey="quiz" delay={20}>
+            <AccuracyQuiz card={card} explanation={card.accuracyNote} />
+          </FadeSlideIn>
+        ) : null}
 
         {realitySummary ? (
           <FadeSlideIn enterKey="reality">
@@ -254,11 +292,18 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
           </FadeSlideIn>
         ) : null}
 
-        {card.sources?.map((s, i) => (
-          <Pressable key={i} onPress={() => openExternalUrl(s.url)} style={styles.source}>
-            <Text style={styles.sourceText}>↗ {s.title}</Text>
-          </Pressable>
-        ))}
+        {historySections.length >= 3 ? (
+          <InlineAdSlot placement="reader_inline" />
+        ) : null}
+
+        {card.sources?.length ? (
+          <View style={styles.block}>
+            <Text style={styles.label}>{dictionary.common.sourcesTitle}</Text>
+            {card.sources.map((s, i) => (
+              <SourceCard key={i} source={s} />
+            ))}
+          </View>
+        ) : null}
 
         <View style={styles.block}>
           <Text style={styles.label}>{dictionary.common.feelQuestion}</Text>
@@ -290,7 +335,7 @@ export default function CardReader({ card, allCards }: { card: HistoryCard; allC
         ) : (
           <ReaderCompletionPanel variant="markRead" onMarkRead={handleMarkRead} />
         )}
-      </ScrollView>
+      </Animated.ScrollView>
       <RouteCompletionSheet
         visible={routeCompletion != null}
         completion={routeCompletion}
@@ -347,7 +392,6 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
   },
-  gateIcon: { fontSize: 20 },
   gateWarningHead: { flex: 1, paddingTop: 2 },
   gateTitle: { fontSize: 13, fontWeight: "700", color: "#b45309" },
   gateDesc: { fontSize: 14, lineHeight: 22, color: theme.muted },
@@ -394,7 +438,10 @@ const styles = StyleSheet.create({
     backgroundColor: theme.ink,
     paddingVertical: 16,
     borderRadius: 16,
+    flexDirection: "row",
     alignItems: "center",
+    justifyContent: "center",
+    gap: 8,
     marginBottom: 8,
   },
   gateBtnText: { color: theme.white, fontSize: 11, fontWeight: "800", letterSpacing: 1.5 },
@@ -411,8 +458,16 @@ const styles = StyleSheet.create({
     borderColor: theme.border,
   },
   label: { ...type.label, marginBottom: 10 },
-  body: { fontSize: 15, lineHeight: 24, color: theme.ink },
-  serif: { fontSize: 17, lineHeight: 28, color: theme.ink, marginBottom: 12 },
+  body: { fontSize: 16, lineHeight: 25, color: theme.ink },
+  serif: { ...type.reading, marginBottom: 14 },
+  verdictRow: { marginBottom: 20 },
+  scrollProgressTrack: {
+    height: 3,
+    width: "100%",
+    backgroundColor: theme.paper,
+    overflow: "hidden",
+  },
+  scrollProgressFill: { height: "100%", backgroundColor: theme.accent },
   historyHeading: {
     fontSize: 18,
     fontWeight: "700",
@@ -426,8 +481,6 @@ const styles = StyleSheet.create({
   listBlock: { marginBottom: 12, paddingLeft: 4 },
   listItem: { fontSize: 15, lineHeight: 24, color: theme.ink, marginBottom: 6 },
   italic: { fontStyle: "italic", color: theme.muted },
-  source: { paddingVertical: 10 },
-  sourceText: { color: theme.accent, fontSize: 14 },
   doneBox: {
     marginTop: 16,
     backgroundColor: theme.white,

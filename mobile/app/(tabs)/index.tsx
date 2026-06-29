@@ -1,10 +1,12 @@
-import { Link, useRouter } from "expo-router";
+import { Link } from "expo-router";
 import { useMemo, useRef, useState } from "react";
 import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 
 import CardRow from "@/components/CardRow";
+import InlineAdSlot from "@/components/ads/InlineAdSlot";
+import TabHeader from "@/components/TabHeader";
 import AnimatedPressable from "@/components/motion/AnimatedPressable";
 import FadeSlideIn from "@/components/motion/FadeSlideIn";
 import ProgressBar from "@/components/motion/ProgressBar";
@@ -25,9 +27,12 @@ import { type } from "@/constants/typography";
 import { getPrimaryHomeContinue } from "@shared/homeProgress";
 import { formatReadStreakLabel } from "@shared/formatReadStreak";
 import { dailyGoalProgress } from "@shared/readingGoal";
+import { levelTitle } from "@shared/gamification";
+import { useGameStats } from "@/hooks/useGameStats";
 import { getNextMilestone, isMilestoneClose } from "@shared/readingMilestones";
 import { useNavigationTab } from "@/context/NavigationContext";
 import { useOpenCard } from "@/hooks/useOpenCard";
+import { hapticLight } from "@/utils/haptics";
 import { getDailyCard } from "@shared/daily";
 import { deriveCardBlocks } from "@shared/contentBlocks";
 import type { HistoryCard } from "../../types/index";
@@ -61,7 +66,6 @@ export default function HomeScreen() {
   const scrollRef = useRef<ScrollView>(null);
   useTabScrollToTop("index", scrollRef);
   const insets = useSafeAreaInsets();
-  const router = useRouter();
   const { locale, dictionary } = useLocale();
   const { recentIds, readIds, ready, readStreak, readToday, readsTodayCount, dailyGoalCards } = useHistory();
   const { setReaderReturn } = useNavigationTab();
@@ -110,6 +114,16 @@ export default function HomeScreen() {
         .replace("{{done}}", String(goal.done))
         .replace("{{goal}}", String(goal.goal));
 
+  const stats = useGameStats();
+  const levelTitleText = levelTitle(stats.level, (dictionary.common.levelTitles as string[]) ?? []);
+  const xpProgressLabel = (dictionary.common.xpProgress ?? "{{current}}/{{total}} XP")
+    .replace("{{current}}", String(stats.xpInLevel))
+    .replace("{{total}}", String(stats.xpForNextLevel));
+  const accuracyStatLabel =
+    stats.guessCount > 0
+      ? (dictionary.common.accuracyStat ?? "{{pct}}%").replace("{{pct}}", String(stats.accuracyPct))
+      : null;
+
   const nextMilestone = useMemo(
     () => getNextMilestone(readIds.length, readStreak),
     [readIds.length, readStreak]
@@ -155,21 +169,7 @@ export default function HomeScreen() {
       contentInsetAdjustmentBehavior="never"
     >
       <View style={styles.header}>
-        <View style={styles.headerTop}>
-          <View style={styles.headerText}>
-            <Text style={styles.greeting}>{dictionary.home.greeting}</Text>
-            <Text style={styles.title}>{dictionary.common.brandingTitle}</Text>
-          </View>
-          <AnimatedPressable
-            style={styles.settingsBtn}
-            onPress={() => router.push("/settings" as never)}
-            accessibilityRole="button"
-            accessibilityLabel={dictionary.settings.title}
-            hitSlop={8}
-          >
-            <Ionicons name="settings-outline" size={22} color={theme.ink} />
-          </AnimatedPressable>
-        </View>
+        <TabHeader eyebrow={dictionary.home.greeting} title={dictionary.common.brandingTitle} brand />
         <Text style={styles.valueSubtitle}>{dictionary.home.valueSubtitle}</Text>
         <Text style={styles.howItWorksInline}>
           {howItWorksOpen ? (
@@ -190,6 +190,26 @@ export default function HomeScreen() {
 
       {ready ? (
         <View style={styles.todayCard}>
+          <View style={styles.levelRow}>
+            <View style={styles.levelBadge}>
+              <Text style={styles.levelNum} maxFontSizeMultiplier={1.2}>{stats.level}</Text>
+            </View>
+            <View style={styles.levelInfo}>
+              <View style={styles.levelTitleRow}>
+                <Text style={styles.levelTitleText} numberOfLines={1}>{levelTitleText}</Text>
+                {accuracyStatLabel ? (
+                  <Text style={styles.accuracyStat}>{accuracyStatLabel}</Text>
+                ) : null}
+              </View>
+              <ProgressBar
+                pct={(stats.xpInLevel / stats.xpForNextLevel) * 100}
+                trackStyle={styles.goalTrack}
+                fillStyle={styles.goalFill}
+              />
+              <Text style={styles.levelXp}>{xpProgressLabel}</Text>
+            </View>
+          </View>
+
           <Text style={styles.todayTitle}>{dictionary.home.todayTitle ?? "Bugün"}</Text>
           <View style={styles.todayStreakRow}>
             <ScalePulse trigger={goal.met ? readsTodayCount : 0}>
@@ -220,6 +240,8 @@ export default function HomeScreen() {
           ) : null}
         </View>
       ) : null}
+
+      <InlineAdSlot placement="home_inline" />
 
       {primaryContinue ? (
         <>
@@ -261,21 +283,26 @@ export default function HomeScreen() {
       <View style={surfaces.sectionLabelPill}>
         <Text style={styles.sectionLabelInPill}>{dictionary.home.dailyRealityCheckSignal}</Text>
       </View>
-      <View style={styles.dailyCard}>
-        <Text style={styles.dailyTag}>{dictionary.common.vsReality}</Text>
-        <Text style={styles.dailyTitle}>{daily.title}</Text>
-        <Text style={styles.dailySubtitle} numberOfLines={2}>
-          {daily.subtitle || daily.whatWeSee}
-        </Text>
-        <Pressable
-          style={styles.dailyButton}
-          onPress={() => openCard(daily.id, homeReturn)}
-          accessibilityRole="button"
-          accessibilityLabel={`${dictionary.home.dailyRealityCheckSignal}: ${daily.title}`}
-        >
-          <Text style={styles.dailyButtonText}>{dictionary.common.seeReality}</Text>
-        </Pressable>
-      </View>
+      <FadeSlideIn enterKey={daily.id}>
+        <View style={styles.dailyCard}>
+          <Text style={styles.dailyTag}>{dictionary.common.vsReality}</Text>
+          <Text style={styles.dailyTitle}>{daily.title}</Text>
+          <Text style={styles.dailySubtitle} numberOfLines={2}>
+            {daily.subtitle || daily.whatWeSee}
+          </Text>
+          <AnimatedPressable
+            style={styles.dailyButton}
+            onPress={() => {
+              hapticLight();
+              openCard(daily.id, homeReturn);
+            }}
+            accessibilityRole="button"
+            accessibilityLabel={`${dictionary.home.dailyRealityCheckSignal}: ${daily.title}`}
+          >
+            <Text style={styles.dailyButtonText}>{dictionary.common.seeReality}</Text>
+          </AnimatedPressable>
+        </View>
+      </FadeSlideIn>
 
       {ready && !primaryContinue && continueItems.length > 0 ? (
         <>
@@ -396,6 +423,21 @@ const styles = StyleSheet.create({
     textTransform: "uppercase",
     color: theme.muted,
   },
+  levelRow: { flexDirection: "row", alignItems: "center", gap: 12 },
+  levelBadge: {
+    width: 42,
+    height: 42,
+    borderRadius: 21,
+    backgroundColor: theme.accent,
+    alignItems: "center",
+    justifyContent: "center",
+  },
+  levelNum: { fontSize: 18, fontWeight: "800", color: theme.white },
+  levelInfo: { flex: 1, gap: 6 },
+  levelTitleRow: { flexDirection: "row", alignItems: "center", justifyContent: "space-between", gap: 8 },
+  levelTitleText: { flex: 1, fontSize: 14, fontWeight: "700", color: theme.ink },
+  accuracyStat: { fontSize: 11, fontWeight: "800", color: theme.accent },
+  levelXp: { fontSize: 10, fontWeight: "700", color: theme.muted, letterSpacing: 0.5 },
   todayStreakRow: { flexDirection: "row", alignItems: "center", gap: 8 },
   todayStreakText: { fontSize: 13, fontWeight: "700", color: theme.ink, flex: 1 },
   todayGoalRow: { flexDirection: "row", alignItems: "center", gap: 8 },
@@ -541,6 +583,7 @@ const styles = StyleSheet.create({
     color: theme.muted,
     marginBottom: 14,
   },
+  dailyVerdict: { marginBottom: 14 },
   dailyButton: {
     alignSelf: "flex-start",
     backgroundColor: theme.ink,

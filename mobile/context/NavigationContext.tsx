@@ -1,6 +1,6 @@
 import React, { createContext, useCallback, useContext, useMemo, useRef, useState } from "react";
 
-export type PrimaryTab = "index" | "explore" | "routes" | "saved";
+export type PrimaryTab = "index" | "explore" | "routes" | "saved" | "settings";
 
 export type ReaderReturn =
   | { kind: "route"; routeId: string }

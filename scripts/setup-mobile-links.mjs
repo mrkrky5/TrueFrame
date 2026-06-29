@@ -17,6 +17,8 @@ const DATA_RUNTIME_FILES = [
   "cards.en.json",
   "cards.index.tr.json",
   "cards.index.en.json",
+  "cards.runtime.tr.json",
+  "cards.runtime.en.json",
   "routes.tr.json",
   "routes.en.json",
 ];
@@ -25,6 +27,12 @@ try {
   execSync("node scripts/build-card-index.mjs", { cwd: root, stdio: "pipe" });
 } catch (e) {
   console.warn("build-card-index:", e.message);
+}
+
+try {
+  execSync("node scripts/build-runtime-cards.mjs", { cwd: root, stdio: "pipe" });
+} catch (e) {
+  console.warn("build-runtime-cards:", e.message);
 }
 
 function syncDir(name) {

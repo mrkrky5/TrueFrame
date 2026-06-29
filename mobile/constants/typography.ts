@@ -42,6 +42,13 @@ export const type = {
     lineHeight: 22,
     color: theme.ink,
   },
+  /** Long-form reading scale — larger, airier line-height for realHistory body copy. */
+  reading: {
+    fontFamily: fonts.sans,
+    fontSize: 17,
+    lineHeight: 30,
+    color: theme.ink,
+  },
   bodyMuted: {
     fontFamily: fonts.sans,
     fontSize: 13,

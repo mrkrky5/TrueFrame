@@ -6,7 +6,7 @@ import type { HistoryCard } from "../types/index";
  */
 export const MOOD_TAG_ALIASES: Record<string, string[]> = {
   savas: ["savas", "1917", "denizcilik", "ww1", "ww2", "soguk-savas", "cold-war"],
-  mitoloji: ["mitoloji", "mit", "efsane", "myth"],
+  mitoloji: ["mitoloji", "mit", "efsane", "myth", "mythology"],
   samuray: ["samuray", "japonya", "shogun", "tokugawa", "tsushima", "sengoku"],
   su: ["su", "crime", "mafya", "mafia"],
   "soguk-savas": ["soguk-savas", "cold-war", "nuclear", "oppenheimer", "chernobyl"],
@@ -16,7 +16,7 @@ export const MOOD_TAG_ALIASES: Record<string, string[]> = {
   "gnlk-hayat": ["gnlk-hayat", "daily-life", "gunluk", "hayat", "sehir"],
   bilim: ["bilim", "science", "bilim-tech", "science-tech", "teknoloji"],
   war: ["war", "savas", "1917"],
-  myth: ["myth", "mitoloji", "mit"],
+  myth: ["myth", "mythology", "mitoloji", "mit"],
   samurai: ["samurai", "samuray", "japonya"],
   crime: ["crime", "su", "mafya"],
   "cold-war": ["cold-war", "soguk-savas"],

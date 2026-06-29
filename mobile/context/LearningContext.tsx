@@ -12,6 +12,7 @@ type LearningContextValue = {
   ready: boolean;
   learnedCount: number;
   learnedCardIds: string[];
+  guesses: Record<string, AccuracyType>;
   setGuess: (cardId: string, guess: AccuracyType) => void;
   getGuess: (cardId: string) => AccuracyType | undefined;
   toggleReflection: (cardId: string, reflection: string) => void;
@@ -97,12 +98,13 @@ export function LearningProvider({ children }: { children: React.ReactNode }) {
       ready,
       learnedCount,
       learnedCardIds,
+      guesses: state.guesses,
       setGuess,
       getGuess,
       toggleReflection,
       getReflections,
     }),
-    [ready, learnedCount, learnedCardIds, setGuess, getGuess, toggleReflection, getReflections]
+    [ready, learnedCount, learnedCardIds, state.guesses, setGuess, getGuess, toggleReflection, getReflections]
   );
 
   return <LearningContext.Provider value={value}>{children}</LearningContext.Provider>;

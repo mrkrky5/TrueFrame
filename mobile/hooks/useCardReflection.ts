@@ -13,8 +13,10 @@ export function useCardReflection(cardId: string) {
     (reflection: string) => {
       const wasSelected = selectedReflections.includes(reflection);
       toggleReflection(cardId, reflection);
-      if (reflection === "later" && !wasSelected && !isSaved(cardId)) {
-        toggleSave(cardId);
+      if (reflection === "later") {
+        // Keep the "save for later" reflection and the saved bookmark in sync.
+        if (!wasSelected && !isSaved(cardId)) toggleSave(cardId);
+        else if (wasSelected && isSaved(cardId)) toggleSave(cardId);
       }
     },
     [cardId, selectedReflections, toggleReflection, toggleSave, isSaved]

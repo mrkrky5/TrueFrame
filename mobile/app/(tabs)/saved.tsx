@@ -6,6 +6,7 @@ import { Ionicons } from "@expo/vector-icons";
 
 import CardRow from "@/components/CardRow";
 import FeedbackCard from "@/components/FeedbackCard";
+import TabHeader from "@/components/TabHeader";
 import ListInlineAd from "@/components/ads/ListInlineAd";
 import AnimatedPressable from "@/components/motion/AnimatedPressable";
 import { EmptyStateIcon, EmptyStateText } from "@/components/motion/EmptyStateEnter";
@@ -92,20 +93,7 @@ export default function SavedScreen() {
         contentInsetAdjustmentBehavior="never"
       >
         <View style={styles.headerRow}>
-          <View style={styles.headerText}>
-            <Text style={styles.title}>{t("title")}</Text>
-            <Text style={styles.subtitle}>{t("subtitle")}</Text>
-          </View>
-          <Link href="/settings" asChild>
-            <AnimatedPressable
-              style={styles.settingsBtn}
-              accessibilityRole="button"
-              accessibilityLabel={dictionary.settings?.title ?? "Ayarlar"}
-              hitSlop={8}
-            >
-              <Ionicons name="settings-outline" size={22} color={theme.ink} />
-            </AnimatedPressable>
-          </Link>
+          <TabHeader title={t("title")} subtitle={t("subtitle")} />
         </View>
 
         {showGlobalEmpty ? (

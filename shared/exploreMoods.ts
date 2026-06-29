@@ -43,8 +43,8 @@ export function buildExploreMoods(
     tag: m.tag,
   }));
 
-  if (locale === "tr") return moods;
-
+  // Hide categories with no matching cards — consistently for both locales,
+  // so a thin/empty category never shows in one language but not the other.
   return moods.filter((m) => {
     const aliases = MOOD_TAG_ALIASES[m.tag];
     if (aliases) return allCards.some((c) => c.tags?.some((t) => aliases.includes(t)));
