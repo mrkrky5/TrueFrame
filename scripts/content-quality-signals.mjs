@@ -14,7 +14,7 @@ const root = path.resolve(__dirname, "..");
 const failOnC = process.argv.includes("--fail-on-c");
 const writeReport = process.argv.includes("--report");
 
-const FORBIDDEN_PATTERNS = [
+export const FORBIDDEN_PATTERNS = [
   { id: "hizla-okunur", re: /hızla okunur hale geldiğine/gi, weight: 3 },
   { id: "dogru-yanlis", re: /doğru-yanlış/gi, weight: 2 },
   { id: "tarih-bize", re: /tarih bize gösterir/gi, weight: 2 },
@@ -31,7 +31,7 @@ const FORBIDDEN_PATTERNS = [
   { id: "belirsizliği azaltır", re: /belirsizliği azaltır/gi, weight: 1 },
 ];
 
-const EN_FORBIDDEN = [
+export const EN_FORBIDDEN = [
   { id: "screen-version-sharp", re: /screen version chooses sharp images/gi, weight: 3 },
   { id: "history-teaches", re: /history teaches us/gi, weight: 2 },
   { id: "reduces-uncertainty", re: /reduces uncertainty/gi, weight: 1 },
@@ -131,33 +131,72 @@ function writeMarkdownReport(tr, en) {
   console.log(`Report written: ${out}`);
 }
 
-const tr = auditLocale("tr");
-const en = auditLocale("en");
+// --- Shared false-positive guards for adjacent-word / prefix-doubling detectors ---
+// Used by content-quality-audit.mjs and content-mechanical-cleanup-preview.mjs so
+// both stay calibrated identically.
 
-console.log(
-  JSON.stringify(
-    {
-      summary: {
-        tr: { total: tr.total, A: tr.total - tr.bTier.length - tr.cTier.length, B: tr.bTier.length, C: tr.cTier.length },
-        en: { total: en.total, A: en.total - en.bTier.length - en.cTier.length, B: en.bTier.length, C: en.cTier.length },
+// A raw token (punctuation still attached) that ends a sentence or clause means the
+// next word is NOT a contiguous merge artifact, e.g. "...görünür. Görünümleri..." or
+// "...gerçekçidir; gerçek...". Skip such pairs.
+export function endsClause(rawToken) {
+  return /[.!?…:;,)\]"'»”’]$/.test(rawToken || "");
+}
+
+// Valid Turkish distributive reduplication: ablative + dative of the same stem, e.g.
+// "insandan insana", "limandan limana", "elden ele", "dilden dile", "günden güne",
+// "baştan başa", "yerden yere". These share a 5-char prefix and would otherwise be
+// mis-flagged as a "X X-dur" doubling merge. Real merges ("olduğu olduğudur",
+// "çevresi çevresindeki") are NOT ablative→dative pairs and stay flagged.
+const ABLATIVE = /^(.+?)(d[ae]n|t[ae]n)$/u; // -dan/-den/-tan/-ten
+const DATIVE = /^(.+?)(y[ae]|[ae])$/u; // -a/-e/-ya/-ye
+function stemsRoughlyEqual(s1, s2) {
+  if (s1 === s2) return true;
+  // tolerate final-consonant softening (k→ğ, t→d, p→b, ç→c): "ayaktan ayağa"
+  return s1.length >= 3 && s2.length >= 3 && s1.slice(0, -1) === s2.slice(0, -1);
+}
+export function isTurkishDistributive(a, b) {
+  const m1 = ABLATIVE.exec(a);
+  if (!m1) return false;
+  const m2 = DATIVE.exec(b);
+  if (!m2) return false;
+  const s1 = m1[1];
+  const s2 = m2[1];
+  if (s1.length < 2 || s2.length < 2) return false;
+  return stemsRoughlyEqual(s1, s2);
+}
+
+const isMain =
+  process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url);
+
+if (isMain) {
+  const tr = auditLocale("tr");
+  const en = auditLocale("en");
+
+  console.log(
+    JSON.stringify(
+      {
+        summary: {
+          tr: { total: tr.total, A: tr.total - tr.bTier.length - tr.cTier.length, B: tr.bTier.length, C: tr.cTier.length },
+          en: { total: en.total, A: en.total - en.bTier.length - en.cTier.length, B: en.bTier.length, C: en.cTier.length },
+        },
+        worstTr: tr.cTier.slice(0, 15).map((r) => ({ id: r.id, score: r.score, hits: r.hits })),
+        worstEn: en.cTier.slice(0, 15).map((r) => ({ id: r.id, score: r.score, hits: r.hits })),
+        reviewTr: [...tr.results].sort((a, b) => b.score - a.score).slice(0, 10).map((r) => ({
+          id: r.id,
+          score: r.score,
+          tier: r.tier,
+          hits: r.hits,
+        })),
       },
-      worstTr: tr.cTier.slice(0, 15).map((r) => ({ id: r.id, score: r.score, hits: r.hits })),
-      worstEn: en.cTier.slice(0, 15).map((r) => ({ id: r.id, score: r.score, hits: r.hits })),
-      reviewTr: [...tr.results].sort((a, b) => b.score - a.score).slice(0, 10).map((r) => ({
-        id: r.id,
-        score: r.score,
-        tier: r.tier,
-        hits: r.hits,
-      })),
-    },
-    null,
-    2
-  )
-);
+      null,
+      2
+    )
+  );
 
-if (writeReport) writeMarkdownReport(tr, en);
+  if (writeReport) writeMarkdownReport(tr, en);
 
-if (failOnC && (tr.cTier.length > 0 || en.cTier.length > 0)) {
-  console.error(`\n${tr.cTier.length + en.cTier.length} C-tier kart — düzeltme gerekli.`);
-  process.exit(1);
+  if (failOnC && (tr.cTier.length > 0 || en.cTier.length > 0)) {
+    console.error(`\n${tr.cTier.length + en.cTier.length} C-tier kart — düzeltme gerekli.`);
+    process.exit(1);
+  }
 }

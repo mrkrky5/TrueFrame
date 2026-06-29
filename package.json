@@ -16,6 +16,8 @@
     "content:build-index": "node scripts/build-card-index.mjs",
     "content:quality": "node scripts/content-quality-signals.mjs",
     "content:quality:report": "node scripts/content-quality-signals.mjs --report",
+    "content:quality:audit": "node scripts/content-quality-audit.mjs",
+    "content:cleanup:preview": "node scripts/content-mechanical-cleanup-preview.mjs",
     "content:fix-tf26": "node scripts/fix-tf26-boilerplate.mjs --write && node scripts/build-card-index.mjs",
     "content:audit": "node scripts/audit-content.mjs",
     "content:backfill": "node scripts/backfill-card-fields.mjs --write",
