@@ -9,12 +9,11 @@
     "userInterfaceStyle": "light",
     "backgroundColor": "#EDE9E1",
     "ios": {
+      "icon": "./assets/images/icon.png",
       "supportsTablet": false,
       "bundleIdentifier": "com.trueframe.app",
       "buildNumber": "17",
       "associatedDomains": [
-        "applinks:trueframe.app",
-        "applinks:www.trueframe.app",
         "applinks:trueframe.app",
         "applinks:www.trueframe.app"
       ],
