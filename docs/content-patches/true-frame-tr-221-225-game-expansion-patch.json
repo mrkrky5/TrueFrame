@@ -1,0 +1,446 @@
+{
+  "patchId": "tr-game-expansion-221-225-source-aware-patch",
+  "locale": "tr",
+  "sourceChunks": [
+    "game-expansion-005"
+  ],
+  "contentRange": [
+    221,
+    225
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-new-content-generation",
+  "summary": {
+    "cardCount": 5,
+    "newCards": [
+      "tf26-221-eu4-mercantilism-colonialism",
+      "tf26-222-victoria3-industrial-labor",
+      "tf26-223-hoi4-war-economy",
+      "tf26-224-fallout-civil-defense",
+      "tf26-225-fallout-atomic-optimism"
+    ],
+    "flagshipNewCards": [
+      "tf26-224-fallout-civil-defense"
+    ],
+    "standardNewCards": [
+      "tf26-221-eu4-mercantilism-colonialism",
+      "tf26-222-victoria3-industrial-labor",
+      "tf26-223-hoi4-war-economy",
+      "tf26-225-fallout-atomic-optimism"
+    ],
+    "mediaFocus": [
+      "Europa Universalis IV",
+      "Victoria 3",
+      "Hearts of Iron IV",
+      "Fallout"
+    ],
+    "sourceUpdates": [
+      "tf26-221-eu4-mercantilism-colonialism",
+      "tf26-222-victoria3-industrial-labor",
+      "tf26-223-hoi4-war-economy",
+      "tf26-224-fallout-civil-defense",
+      "tf26-225-fallout-atomic-optimism"
+    ],
+    "notes": [
+      "Bu batch Cursor konu havuzundaki Paradox grand strategy ve Fallout başlangıç konularını kapsar.",
+      "Fallout civil defense kartı flagship olarak 400+ kelime ve ### başlıklı yapıda üretildi.",
+      "EU4, Victoria 3 ve HOI4 kartları oyun soyutlamalarını gerçek ekonomi, emek ve seferberlik sistemleriyle eşledi."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-221-eu4-mercantilism-colonialism",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Europa Universalis IV için ticaret gücü ve sömürge genişlemesi, salt harita boyama değil; chartered company, VOC/East India Company, tekel ve devlet destekli ticaret mantığı üzerinden source-aware şekilde kuruldu.",
+      "fields": {
+        "title": "Merkantilizm ve Sömürge Ticareti",
+        "subtitle": "Haritadaki ticaret gücünün gerçek bedeli",
+        "mediaType": "game",
+        "mediaTitle": "Europa Universalis IV",
+        "era": "Erken Modern",
+        "region": "Küresel",
+        "themes": [
+          "Ticaret",
+          "Ekonomi",
+          "İmparatorluk",
+          "Sömürgecilik"
+        ],
+        "whatWeSee": "Europa Universalis IV, erken modern dünyayı ticaret düğümleri, koloniler, donanma koruması ve devlet fikirleriyle okunur hale getirir. Oyuncu için deniz aşırı ticaret çoğu zaman sayı, rota ve gelir artışıdır. Haritada bir limanı almak ya da bir ticaret şirketi kurmak, imparatorluğu büyüten teknik bir hamle gibi görünür. Oyun bu soyutlamayı başarılı kurar; fakat gerçek tarihte aynı hamle, tekel, zor, yerel üretim düzeni ve devlet destekli şirket gücü anlamına geliyordu.",
+        "realHistory": "Erken modern merkantilizm, zenginliği yalnız serbest alışverişten değil, devletin ticaret akışını kontrol etmesinden bekleyen bir mantığa dayanıyordu. Avrupa devletleri değerli maden, baharat, tekstil, çay ve diğer stratejik mallar için deniz rotalarını korumaya, rakipleri dışlamaya ve şirketlere özel imtiyazlar vermeye yöneldi. Bu yüzden Europa Universalis IV’teki “trade power” yalnız ekonomik bir çarpan değil, savaş gemisi, liman, gümrük, tekel ve diplomasi bileşimidir.\n\nVOC ve İngiliz East India Company gibi şirketler, modern anlamda sıradan özel şirketler değildi. Devletten aldıkları charter ile belirli bölgelerde ticaret tekeli, üs kurma, anlaşma yapma, askerî güç kullanma ve yerel siyaset üzerinde baskı kurma kapasitesi kazanabiliyorlardı. Rijksmuseum’un sömürge koleksiyonları bağlamında anlattığı Banda örneği, baharat tekelinin yalnız pazarlıkla değil zorla da kurulduğunu gösterir.\n\nOyun bu karmaşıklığı sadeleştirir; çünkü oyuncuya akıcı bir imparatorluk simülasyonu sunmak zorundadır. True Frame açısından önemli olan nokta şudur: haritada ticaret rotası olarak görünen şey, gerçek dünyada yerel emek, askeri koruma, tekelci hukuk ve sömürge şiddetiyle işleyen bir dünya ekonomisiydi.",
+        "accuracyNote": "Oyun ticaret, koloniler ve şirket ayrıcalıklarını büyük ölçüde soyutlar. Gerçek sistemde chartered company yapısı, tekel hakkı ve yerel zor kullanımı ekonomik büyümenin merkezindeydi.",
+        "whyInteresting": "Bir oyunda birkaç ticaret düğümü gibi görünen sistem, gerçekte modern küresel kapitalizmin ve sömürge imparatorluklarının erken laboratuvarlarından biridir.",
+        "misconception": "Merkantilist ticaretin yalnız kârlı rota seçimi olduğu sanılır; gerçekte devlet gücü, tekel hukuku ve deniz aşırı zor kullanımıyla çalıştı.",
+        "nextTopics": [
+          "Sanayileşme ve Emek",
+          "Topyekûn Savaş Ekonomisi",
+          "Şirket Egemenliği"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-222-victoria3-industrial-labor",
+          "tf26-223-hoi4-war-economy"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "spoilerNote": "",
+        "mediaConnection": "Europa Universalis IV’ün ticaret düğümleri ve chartered company soyutlamaları, VOC ve East India Company gibi devlet destekli tekel ağlarının gerçek tarihiyle birlikte okunabilir.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "europa-universalis",
+          "paradox",
+          "ticaret",
+          "somurgecilik",
+          "true-frame"
+        ],
+        "mediaChanged": "Oyun karmaşık ticaret ve sömürge ilişkilerini yönetilebilir sayılara indirger; tarihsel kaynaklar aynı sayıların arkasındaki tekel, zor ve şirket-devlet ilişkisini görünür kılar.",
+        "whyItMatters": "Erken modern ticareti yalnız keşif ve zenginleşme olarak değil, hukuk, şirket gücü ve sömürge baskısı olarak görmek gerekir.",
+        "isFlagship": false,
+        "quickRealityCheck": "EU4’teki trade power sadece pazar başarısı mı, yoksa donanma, tekel ve devlet destekli şirket gücünün soyutlanmış hali mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Rijksmuseum - Trade and collectors",
+            "url": "https://www.rijksmuseum.nl/en/research/our-research/overarching/provenance-research-colonial-collections/trade-and-collectors",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Qatar Digital Library - A Brief History of the English East India Company, 1600–1858",
+            "url": "https://www.qdl.qa/en/brief-history-english-east-india-company-1600%E2%80%931858",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Canon van Nederland - VOC and WIC",
+            "url": "https://www.canonvannederland.nl/en/vocenwic",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-222-victoria3-industrial-labor",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Victoria 3’ün pops, yaşam standardı ve interest group soyutlamaları; fabrika emeği, çocuk işçiliği, şehirleşme ve 1833 Factory Act bağlamıyla source-aware şekilde yazıldı.",
+      "fields": {
+        "title": "Sanayileşme ve Emek",
+        "subtitle": "Pops arkasındaki fabrika hayatı",
+        "mediaType": "game",
+        "mediaTitle": "Victoria 3",
+        "era": "Modern Tarih",
+        "region": "Avrupa",
+        "themes": [
+          "Sanayi Devrimi",
+          "Sınıf",
+          "Ekonomi",
+          "Toplum"
+        ],
+        "whatWeSee": "Victoria 3, 19. yüzyılı fabrikalar, nüfus grupları, ücretler, yaşam standardı ve siyasi çıkar grupları üzerinden modellemeye çalışır. Oyuncu bir tekstil fabrikası açtığında üretim artar; işçi sınıfı büyür, şehirleşme hızlanır ve yeni siyasi talepler belirir. Bu güçlü bir soyutlamadır: tarih, yalnız teknoloji ağacı değil, işin nerede, kim tarafından ve hangi koşullarda yapıldığı sorusuna dönüşür.",
+        "realHistory": "Sanayileşme, üretimi büyütürken işin disiplinini de değiştirdi. Ev içi üretim ve küçük atölye düzeninden fabrika saatine geçiş, zamanın ölçülmesini, çocukların ve kadınların ücretli emek içinde daha görünür hale gelmesini, şehirlerin hızlı büyümesini ve yeni sınıf gerilimlerini beraberinde getirdi. Victoria 3’ün “pops” sistemi bu dönüşümü sayısal olarak gösterir; fakat gerçek insanların deneyimi yalnız gelir artışı ya da tüketim değildir. Uzun mesailer, tehlikeli makineler, sağlıksız konutlar ve aile düzeninin değişmesi aynı hikâyenin parçasıydı.\n\nBritanya’da 1833 Factory Act bu baskıya verilen erken yasal yanıtlardan biriydi. National Archives ve UK Parliament özetleri, yasanın çocukların çalışma yaşını ve saatlerini sınırladığını, ayrıca fabrika müfettişleri aracılığıyla uygulamayı güçlendirmeye çalıştığını belirtir. Bu düzenlemeler sorunları bir anda çözmedi; ama sanayi kapitalizminin artık yalnız özel işveren meselesi sayılamayacağını gösterdi.\n\nOyunda emek, üretim zincirinin bir girdisi gibi görünebilir. Tarihsel açıdan ise emek, siyasal temsil, sendikalaşma, çocukluk, eğitim ve devlet müdahalesi tartışmasının merkezidir.\n\nBu nedenle oyundaki reform düğmeleri, gerçek dünyada dilekçeler, raporlar, denetim eksikleri ve işveren direnciyle ilerleyen uzun bir mücadelenin kısa temsilidir.",
+        "accuracyNote": "Victoria 3 sanayileşmeyi ekonomik ve siyasal sistem olarak iyi soyutlar; ancak fabrika emeğinin gündelik bedeli, çocuk işçiliği ve yasal reform süreçleri oyun akışında doğal olarak sadeleşir.",
+        "whyInteresting": "Sanayi Devrimi sadece daha çok fabrika değil, modern iş hukuku ve sınıf siyaseti için yeni bir zemin yarattı.",
+        "misconception": "Sanayileşmenin otomatik olarak herkesin hayatını iyileştirdiği sanılır; gerçek süreç büyüme, sömürü, reform ve pazarlığın birlikte ilerlemesiydi.",
+        "nextTopics": [
+          "Merkantilizm ve Sömürge Ticareti",
+          "Topyekûn Savaş Ekonomisi",
+          "Olağanüstü Hâl Yönetimi"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-221-eu4-mercantilism-colonialism",
+          "tf26-223-hoi4-war-economy"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "spoilerNote": "",
+        "mediaConnection": "Victoria 3’ün nüfus, fabrika ve çıkar grubu sistemleri, 19. yüzyıl fabrika emeği ve erken işçi koruma yasalarıyla doğrudan ilişkilidir.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "victoria-3",
+          "paradox",
+          "sanayi-devrimi",
+          "emek",
+          "true-frame"
+        ],
+        "mediaChanged": "Oyun işçileri makro ölçekte nüfus grupları olarak gösterir; tarihsel kayıtlar çocuk işçiliği, mesai, eğitim ve fabrika denetimi gibi mikro sonuçları öne çıkarır.",
+        "whyItMatters": "Modern ekonomi tarihi, yalnız üretim artışı değil; işin kimin bedeni ve zamanı üzerinden kurulduğu sorusudur.",
+        "isFlagship": false,
+        "quickRealityCheck": "Victoria 3’te fabrika kurmak büyüme demek; peki 1833 Factory Act neden aynı büyümenin insan bedeli olduğunu gösterir?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The National Archives - 1833 Factory Act",
+            "url": "https://www.nationalarchives.gov.uk/education/resources/1833-factory-act/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "UK Parliament - The 1833 Factory Act",
+            "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "International Labour Organization - Child Labour",
+            "url": "https://www.ilo.org/topics-and-sectors/child-labour",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-223-hoi4-war-economy",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Hearts of Iron IV’ün military factory ve üretim hattı soyutlaması; rationing, malzeme kısıtları, kadın emeği, Lend-Lease ve home front dönüşümüyle dengelendi.",
+      "fields": {
+        "title": "Topyekûn Savaş Ekonomisi",
+        "subtitle": "Savaş fabrikaları cephe kadar belirleyici",
+        "mediaType": "game",
+        "mediaTitle": "Hearts of Iron IV",
+        "era": "Modern Tarih",
+        "region": "Küresel",
+        "themes": [
+          "II. Dünya Savaşı",
+          "Ekonomi",
+          "Lojistik",
+          "Toplum"
+        ],
+        "whatWeSee": "Hearts of Iron IV’te savaş, harita üstündeki cephe çizgileri kadar fabrika sayısı, üretim verimliliği, konvoylar ve kaynak akışıyla kazanılır. Oyuncu tank hattını değiştirir, uçak üretimini artırır, ticaret yapar ve askeri fabrikaları cephe ihtiyacına göre ayarlar. Bu mekanik, II. Dünya Savaşı’nın en önemli gerçeklerinden birini görünür kılar: modern savaş yalnız asker sayısıyla değil, ekonominin ne kadar hızlı seferber edilebildiğiyle ilgilidir.",
+        "realHistory": "II. Dünya Savaşı, devletlerin sivil ekonomilerini savaş üretimine çevirdiği topyekûn bir seferberlikti. Fabrikalar tüketim mallarından silah, araç, mühimmat ve yedek parça üretimine geçti; ham maddeler askeri önceliklere ayrıldı; gıda, yakıt ve kıyafet gibi ürünlerde rationing uygulandı. NPS, ABD’de üreticilerin tin, çelik, bakır, alüminyum gibi malzemeleri askeri üretime yönlendirmek zorunda kaldığını anlatır. Britanya’da National Archives, kadınların fabrikalarda silah üretiminden Land Army çalışmalarına kadar home front’un taşıyıcı parçası olduğunu gösterir.\n\nLend-Lease de bu ekonominin uluslararası boyutuydu. ABD Dışişleri tarihçesi, programın ABD savaşa girmeden önce Nazi Almanyası’na karşı mücadeleyi desteklemek için tasarlandığını belirtir. Bu yardımlar yalnız tank ya da uçak değil; gıda, yakıt, kamyon, ham madde ve makine kapasitesi anlamına geliyordu.\n\nHOI4 bu karmaşayı okunabilir üretim hatlarına indirger. Gerçek dünyada ise her fabrika kararı, evdeki tüketimden işçi hareketliliğine, kadın emeğinden müttefik lojistiğine kadar toplumun tamamını dönüştürdü.\n\nBu yüzden üretim hattı kırıldığında yalnız cephe değil, demiryolu, liman, mutfak ve işçi mahallesi de savaşın parçası haline gelir.",
+        "accuracyNote": "Oyun savaş ekonomisini sayısal üretim hatlarıyla sadeleştirir. Tarihsel süreçte rationing, işgücü dönüşümü, ham madde kısıtları ve müttefik yardımı aynı sistemin parçalarıydı.",
+        "whyInteresting": "Cephedeki zafer çoğu zaman evdeki fabrikada, kuyruktaki ration kartında ve okyanusu geçen konvoyda hazırlanır.",
+        "misconception": "II. Dünya Savaşı’nın yalnız cephe manevralarıyla kazanıldığı sanılır; modern savaş ekonominin ve toplumun tamamını cepheye bağladı.",
+        "nextTopics": [
+          "Sanayileşme ve Emek",
+          "Sivil Savunma",
+          "Karşılıklı Yok Oluş"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-221-eu4-mercantilism-colonialism",
+          "tf26-222-victoria3-industrial-labor"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "spoilerNote": "",
+        "mediaConnection": "Hearts of Iron IV’ün üretim hattı ve kaynak sistemi, II. Dünya Savaşı’ndaki sivil ekonomi dönüşümü ve müttefik lojistiğiyle birlikte okunabilir.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "hearts-of-iron",
+          "paradox",
+          "ikinci-dunya-savasi",
+          "savas-ekonomisi",
+          "true-frame"
+        ],
+        "mediaChanged": "Oyun üretimi fabrika simgeleriyle gösterir; tarihsel kayıtlar aynı üretimin ev hayatını, kadın emeğini, rationing’i ve diplomatik yardımı nasıl değiştirdiğini açıklar.",
+        "whyItMatters": "Topyekûn savaş, askerî tarih ile ekonomi tarihini ayırmanın ne kadar zor olduğunu gösterir.",
+        "isFlagship": false,
+        "quickRealityCheck": "HOI4’teki military factory sayısı sadece oyun dengesi mi, yoksa savaşın sivil ekonomiyi yutmasının kısa yolu mu?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "National Park Service - Restrictions and Rationing on the World War II Home Front",
+            "url": "https://www.nps.gov/articles/000/restrictions-and-rationing-on-the-world-war-ii-home-front.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The National Archives - The Home Front",
+            "url": "https://www.nationalarchives.gov.uk/education/resources/home-front/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "U.S. State Department Office of the Historian - Lend-Lease and Military Aid",
+            "url": "https://history.state.gov/milestones/1937-1945/lend-lease",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-224-fallout-civil-defense",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "Fallout’un Vault estetiği, gerçek Soğuk Savaş sivil savunma kültürü, Duck and Cover, fallout shelter programları ve korkuyu yönetme dili üzerinden 400+ kelimelik flagship karta dönüştürüldü.",
+      "fields": {
+        "title": "Sivil Savunma",
+        "subtitle": "Vault fikrinin gerçek Soğuk Savaş zemini",
+        "mediaType": "game",
+        "mediaTitle": "Fallout",
+        "era": "Modern Tarih",
+        "region": "ABD",
+        "themes": [
+          "Soğuk Savaş",
+          "Propaganda",
+          "Toplum",
+          "Bilim"
+        ],
+        "whatWeSee": "Fallout evreninde sığınaklar, Vault-Tec broşürleri, gülen maskotlar ve nükleer felaketi günlük tüketim diliyle pazarlayan tuhaf bir iyimserlik vardır. Oyun bu dünyayı hicivle kurar: kıyamet bile eğitim filmi, ürün kataloğu ve aile güvenliği vaadi gibi görünür. İlk bakışta bu tamamen abartılı retrofütürist bir kurgu sanılabilir; fakat Vault fikrinin altında gerçek Soğuk Savaş sivil savunma kültürü vardır.",
+        "realHistory": "### Korkuyu yönetmek\n\n1945’ten sonra nükleer silah yalnız askeri planlama konusu değildi; okul, aile, belediye ve mahalle ölçeğinde gündelik korkuya dönüştü. ABD yönetimi, Sovyetler Birliği ile artan gerilim içinde halka hem tehlikeyi anlatmak hem de paniği kontrol etmek zorundaydı. National Archives’ın sivil savunma filmleri üzerine değerlendirmesi, Truman’ın 1950’de Federal Civil Defense Administration’ı kurduğunu ve bu kurumun halkı bilgilendirmek için Duck and Cover gibi eğitim materyalleri ürettiğini aktarır.\n\nDuck and Cover bugün çoğu zaman naif veya absürt bir film gibi hatırlanır. Yine de dönem insanları için amaç yalnız “atom bombasından sıranın altına girerek kurtulmak” değildi. Film, ani parlama ve patlama etkisi karşısında refleks öğretmeye, çocuklara yapılabilir bir davranış vermeye ve nükleer savaş ihtimalini yönetilebilir bir acil durum gibi çerçevelemeye çalışıyordu. Library of Congress kaydı da filmin, atomik ya da başka bir saldırı durumunda sokakta veya okulda alınacak adımlara odaklandığını belirtir.\n\n### Sığınak mantığı\n\n1950’ler ve 1960’larda sivil savunma yalnız eğitim filmi değildi. Fallout shelter tabelaları, acil durum stokları, belediye planları, sirenler ve kamu binalarındaki sığınak alanları bu kültürün parçası oldu. NPS’in Soğuk Savaş sivil savunma yazıları, dönemin siyasetçileri ve yerel yönetimleri için fallout shelter fikrinin ciddi bir politika başlığı olduğunu gösterir. Burada kritik ayrım şudur: fallout shelter her zaman doğrudan patlama merkezinden koruma iddiası taşımazdı. Asıl hedef, patlamadan uzak ama radyoaktif serpinti riski altında kalan insanların belirli süre kapalı alanda kalabilmesiydi.\n\nBu yüzden sivil savunma hem gerçek bir hazırlık hem de psikolojik bir yönetim biçimiydi. Devlet, nükleer savaşın mutlak yıkım potansiyelini tamamen saklayamazdı; ama vatandaşlara yapılabilir adımlar sunarak çaresizlik duygusunu azaltmaya çalıştı. Bu adımların etkisi, saldırının ölçeğine ve konuma bağlı olarak çok sınırlı kalabilirdi. Yine de kamu politikası açısından önemliydi: nükleer çağda devlet artık yalnız orduyu değil, ailelerin bodrumunu ve çocukların sınıfını da planlama alanı haline getirmişti.\n\n### Fallout’un hicvi\n\nFallout bu gerçek kültürü alır ve karanlık bir aynaya dönüştürür. Vault-Tec’in parlak reklam dili, dönemin sivil savunma broşürlerinin güven verici tonunu abartır. Oyundaki sığınaklar çoğu zaman güvenli yuva değil, şirket deneyi veya toplumsal kontrol alanıdır. Bu kurgu gerçek bir kurumun bire bir karşılığı değildir; ama Soğuk Savaş’ın şu çelişkisini yakalar: devlet ve şirket dili, kitlesel yok oluş ihtimalini aile dostu bir hazırlık programına çevirmeye çalışmıştır.\n\nTrue Frame açısından Fallout’un gücü buradadır. Oyun bize gerçek sivil savunma tarihini öğretmez; ama o tarihin duygusunu, yani nükleer korkunun okul filmi, ürün tasarımı, bodrum planı ve aile güvenliği vaadine nasıl çevrildiğini hissettirir. Vault fikri tamamen uydurma değildir; gerçeğin reklam diliyle paketlenmiş, hicivle büyütülmüş halidir.\n\nBu yüzden Fallout’un en komik görünen afişleri bile, çok gerçek bir kamu eğitimi ve korku yönetimi tarihine dokunur.",
+        "accuracyNote": "Fallout’taki Vault-Tec ve deney sığınakları kurgusaldır. Ancak Duck and Cover, Federal Civil Defense Administration ve fallout shelter kültürü gerçek Soğuk Savaş sivil savunma tarihine dayanır.",
+        "whyInteresting": "Nükleer savaş gibi mutlak bir korkunun, çocuk eğitim filmi ve aile sığınağı diliyle yönetilebilir hale getirilmeye çalışılması Fallout’un hicvini daha güçlü kılar.",
+        "misconception": "Fallout sığınak estetiğinin tamamen oyuna özgü olduğu sanılır; gerçekte Soğuk Savaş sivil savunması ev, okul ve kamu binasını nükleer planlamanın parçası yaptı.",
+        "nextTopics": [
+          "Atom Çağı İyimserliği",
+          "Karşılıklı Yok Oluş",
+          "Vault Deneyleri"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-225-fallout-atomic-optimism"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "none",
+        "spoilerNote": "",
+        "mediaConnection": "Fallout’un Vault estetiği, Duck and Cover eğitim filmleri, fallout shelter tabelaları ve Soğuk Savaş sivil savunma broşürlerinin gerçek tarihsel atmosferini hicivle büyütür.",
+        "accuracyType": "inspired-by-reality",
+        "isPremium": false,
+        "tags": [
+          "fallout",
+          "soguk-savas",
+          "nukleer",
+          "sivil-savunma",
+          "true-frame"
+        ],
+        "mediaChanged": "Oyun sığınakları şirket hicvine ve karanlık deney anlatısına çevirir; tarihsel kaynaklar sivil savunmanın korkuyu yönetme, eğitim verme ve kamu binalarını hazırlama işlevini gösterir.",
+        "whyItMatters": "Nükleer çağda güvenlik, yalnız stratejik doktrin değil; çocuklara, ailelere ve şehirlere nasıl yaşayacaklarının öğretilmesi meselesine dönüştü.",
+        "isFlagship": true,
+        "quickRealityCheck": "Fallout’taki Vault fikri tamamen karikatür mü, yoksa gerçek Soğuk Savaş sivil savunma kültürünün abartılmış yansıması mı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "U.S. National Archives - Duck and Cover in the Family Fallout Shelter",
+            "url": "https://unwritten-record.blogs.archives.gov/2020/04/23/duck-and-cover-in-the-family-fallout-shelter-civil-defense-preparedness-in-the-cold-war-era/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Library of Congress - Duck and Cover",
+            "url": "https://www.loc.gov/item/2022604365/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "National Park Service - Cold War Civil Defense",
+            "url": "https://www.nps.gov/articles/series.htm?id=E2139F6E-F8A5-F0FF-6251141CDC2FDC83",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-225-fallout-atomic-optimism",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Fallout’un retrofütürist atom estetiği; Atoms for Peace, 1950’ler tüketim iyimserliği ve atom pop culture üzerinden gerçek kültürel zeminle bağlandı.",
+      "fields": {
+        "title": "Atom Çağı İyimserliği",
+        "subtitle": "Nükleer gelecek neden bu kadar parlaktı?",
+        "mediaType": "game",
+        "mediaTitle": "Fallout",
+        "era": "Modern Tarih",
+        "region": "ABD",
+        "themes": [
+          "Soğuk Savaş",
+          "Bilim",
+          "Kültür",
+          "Teknoloji"
+        ],
+        "whatWeSee": "Fallout’un dünyasında nükleer teknoloji yalnız korku değil; buzdolabı reklamı, çocuk çizimi, parlak otomobil, maskot ve gelecek vaadi olarak görünür. Oyunun retrofütürizmi, sanki 1950’lerin Amerika’sı hiç bitmemiş ve atom enerjisi gündelik hayatın her köşesine pazarlanmış gibi davranır. Bu estetik tamamen uydurma değildir; gerçek Atom Çağı iyimserliğinin karanlık bir parodisidir.",
+        "realHistory": "1950’lerde nükleer teknoloji iki zıt duygu üretti: yok oluş korkusu ve sınırsız ilerleme beklentisi. Eisenhower’ın 1953’te Birleşmiş Milletler’de yaptığı Atoms for Peace konuşması bu ikiliği açıkça taşır. IAEA ve Eisenhower Library, konuşmanın atomu yalnız savaş aracı değil, tıp, enerji ve bilim için kullanılabilecek bir güç olarak sunmaya çalıştığını aktarır. Bu dil, nükleer çağın korkusunu yumuşatmak ve atom enerjisini barışçıl modernlik fikrine bağlamak için kullanıldı.\n\nAynı dönemde popüler kültür de atom imgesini hızla sahiplendi. LANL’ın “atomic pop culture” değerlendirmesi, savaş sonrası dönemde moda, film, müzik ve eğitim materyallerinin atom çağından etkilendiğini anlatır. Smithsonian’ın tüketim çağı anlatısı da 1950’lerde üretim patlaması, kredi, banliyö hayatı ve tüketici iyimserliğinin Amerikan kimliğinin parçası haline geldiğini gösterir. Fallout tam bu kesişimi büyütür: nükleer korku ile tüketici mutluluğunu aynı vitrinde tutar.\n\nOyunun hicvi bu yüzden güçlüdür. Reklam dili geleceği parlak gösterir; oyuncu ise o parlak geleceğin yıkıntıları arasında yürür. Gerçek Atom Çağı da benzer bir çelişki taşıyordu: enerji, tıp ve bilim vaatleri gerçekti, ama nükleer testler, silahlanma yarışı ve radyasyon riski bu iyimserliğin gölgesiydi.",
+        "accuracyNote": "Fallout’un retrofütürist dünyası kurgusaldır; ancak Atoms for Peace dili, atom popüler kültürü ve 1950’ler tüketim iyimserliği gerçek tarihsel zemine dayanır.",
+        "whyInteresting": "Fallout’un komik görünen atom reklamları, Soğuk Savaş kültürünün aynı anda umut ve korku üretme biçimini yakalar.",
+        "misconception": "Atom Çağı estetiği yalnız nostaljik tasarım sanılır; gerçekte nükleer teknolojiyi kabul edilebilir ve hatta arzu edilir kılan bir kültürel dildi.",
+        "nextTopics": [
+          "Sivil Savunma",
+          "Vault Deneyleri",
+          "Karşılıklı Yok Oluş"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-224-fallout-civil-defense"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "spoilerNote": "",
+        "mediaConnection": "Fallout’un 1950’ler retrofütürizmi, Atoms for Peace söylemi, atom popüler kültürü ve savaş sonrası tüketim iyimserliğinin hicivli bir uzantısıdır.",
+        "accuracyType": "inspired-by-reality",
+        "isPremium": false,
+        "tags": [
+          "fallout",
+          "atom-cagi",
+          "retrofuturizm",
+          "soguk-savas",
+          "true-frame"
+        ],
+        "mediaChanged": "Oyun atom iyimserliğini bilerek karikatürleştirir; tarihsel kaynaklar aynı iyimserliğin politika, tüketim ve popüler kültür içinde gerçekten üretildiğini gösterir.",
+        "whyItMatters": "Teknoloji vaatlerini anlamak için yalnız icada değil, o icadın hangi reklam, devlet ve gelecek diliyle sunulduğuna bakmak gerekir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Fallout’un parlak atom estetiği sadece mizah mı, yoksa Atoms for Peace döneminin gerçek iyimserliğine mi yaslanıyor?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "IAEA - Atoms for Peace Speech",
+            "url": "https://www.iaea.org/about/history/atoms-for-peace-speech",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Eisenhower Presidential Library - Atoms for Peace",
+            "url": "https://www.eisenhowerlibrary.gov/research/online-documents/atoms-peace",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Los Alamos National Laboratory - Atomic Pop Culture",
+            "url": "https://www.lanl.gov/media/publications/the-vault/0822-atomic-pop-culture",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Smithsonian National Museum of American History - The Consumer Era",
+            "url": "https://americanhistory.si.edu/explore/exhibitions/american-enterprise/online/consumer-era",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "patchId": "tr-game-expansion-216-220-source-aware-patch",
+  "locale": "tr",
+  "sourceChunks": [
+    "game-expansion-004"
+  ],
+  "contentRange": [
+    216,
+    220
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-new-content-generation",
+  "summary": {
+    "cardCount": 5,
+    "newCards": [
+      "tf26-216-hellblade-psychosis",
+      "tf26-217-hellblade-picts-norse",
+      "tf26-218-pentiment-peasants-war",
+      "tf26-219-pentiment-reformation",
+      "tf26-220-ck3-dynastic-marriage"
+    ],
+    "flagshipNewCards": [
+      "tf26-216-hellblade-psychosis",
+      "tf26-218-pentiment-peasants-war",
+      "tf26-220-ck3-dynastic-marriage"
+    ],
+    "standardNewCards": [
+      "tf26-217-hellblade-picts-norse",
+      "tf26-219-pentiment-reformation"
+    ],
+    "mediaFocus": [
+      "Hellblade: Senua's Sacrifice",
+      "Pentiment",
+      "Crusader Kings III"
+    ],
+    "sourceUpdates": [
+      "tf26-216-hellblade-psychosis",
+      "tf26-217-hellblade-picts-norse",
+      "tf26-218-pentiment-peasants-war",
+      "tf26-219-pentiment-reformation",
+      "tf26-220-ck3-dynastic-marriage"
+    ],
+    "notes": [
+      "Dördüncü oyun genişleme batch'i Hellblade, Pentiment ve Crusader Kings III odağında üretildi.",
+      "Hellblade psikoz temsili, Pentiment Alman Köylü Savaşı ve CK3 hanedan evlilikleri kartları 400+ kelime ve ### başlıklı flagship yapıda yazıldı.",
+      "Hassas psikoz temsilinde tıbbi teşhis iddiası yerine danışmanlık, lived experience ve temsil etiği merkeze alındı.",
+      "Kaynaklar Cambridge, OKRE/Wellcome çizgisi, Historic Environment Scotland, Oxford, LOC/UNESCO ve Cambridge University Press gibi güçlü kurumlar üzerinden kuruldu."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-216-hellblade-psychosis",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "Hellblade için psikoz temsili, korku estetiği veya “delilik” klişesi yerine Cambridge/Ninja Theory işbirliği, lived experience danışmanlığı ve damga meselesi üzerinden source-aware şekilde kuruldu.",
+      "fields": {
+        "title": "Psikoz Temsili",
+        "subtitle": "Oyunda duyulan sesler tıbbi klişe mi?",
+        "mediaType": "game",
+        "mediaTitle": "Hellblade: Senua's Sacrifice",
+        "era": "Modern Tarih",
+        "region": "Birleşik Krallık",
+        "themes": [
+          "Psikoloji",
+          "Bilim",
+          "Sağlık",
+          "Toplum"
+        ],
+        "whatWeSee": "Hellblade: Senua's Sacrifice, Senua'nın yolculuğunu yalnız canavarlar ve mitolojik karanlık üzerinden değil, zihninde duyduğu sesler, görüntü kırılmaları ve gerçeklik algısındaki sarsılmalar üzerinden kurar. Oyuncu çoğu zaman savaş alanından çok Senua'nın iç dünyasında sıkışmış hisseder. Oyun, psikozu basit bir korku efekti olarak kullanmak yerine deneyimin parçalı, yorucu ve bazen anlam üreten tarafını hissettirmeye çalışır.",
+        "realHistory": "### Danışmanlıkla kurulan temsil\n\nHellblade'i benzer karanlık fantezi oyunlarından ayıran şey, psikoz temasını yalnız atmosfer için seçmemesidir. Ninja Theory, geliştirme sürecinde Cambridge Üniversitesi'nden psikiyatrist ve nörobilimci Paul Fletcher ile çalıştı; ayrıca psikoz deneyimi yaşamış kişilerden geri bildirim aldı. Cambridge'in etki değerlendirmesi, Fletcher'ın psikozu bilgi işleme süreçlerindeki değişimler üzerinden açıklayan çalışmalarının oyunun geliştirilmesine katkı verdiğini belirtir. OKRE de oyunun, zihinsel sağlık uzmanları ve kişisel psikoz deneyimi olan kişilerin yardımıyla geliştirildiğini aktarır.\n\nBu yaklaşım önemli, çünkü oyunlarda zihinsel hastalık uzun süre çoğu zaman “tehlikeli deli”, “güvenilmez anlatıcı” veya “korku kaynağı” klişesiyle kullanıldı. Hellblade bu tuzaklardan tamamen muaf değildir; sonuçta hâlâ dramatik, stilize ve fantastik bir oyundur. Fakat temel fark, psikozu düşman tasarımı gibi değil, karakterin dünyayı anlamlandırma biçiminin parçası olarak kurmasıdır. Sesler yalnız korkutmak için değil, yönlendirmek, şüphe yaratmak, baskı kurmak ve bazen Senua'nın hayatta kalma stratejisinin parçası olmak için duyulur.\n\n### Hastalık değil, deneyim\n\nPsikoz tek bir belirti değildir. Halüsinasyonlar, sanrılar, yoğun anlam yüklemeleri, gerçeklik değerlendirmesinde bozulma ve travmayla ilişkili belirtiler farklı kişilerde farklı biçimde görülebilir. Hellblade'in yaptığı en değerli şey, bu deneyimi sadece teşhis kelimesine indirgememesidir. Oyuncuya “Senua hastadır” demekten çok, onun dünyayı nasıl yaşadığını duyusal ve mekânsal düzeyde hissettirmeye çalışır. Bu, tıbbi doğrulukla bire bir simülasyon anlamına gelmez; hiçbir oyun psikoz deneyimini evrensel biçimde temsil edemez. Ama temsilin sorumluluğunu ciddiye alır.\n\nAkademik değerlendirmeler de oyunu bu yüzden ilginç bulur: Hellblade ticari bir aksiyon oyunu olmasına rağmen zihinsel sağlık temsilini araştırma, danışmanlık ve oyuncu deneyimiyle birleştiren nadir örneklerden biridir. Bu çerçeve, True Frame için güçlüdür; çünkü medya ile gerçeklik arasındaki fark burada “oyun gerçek olayı ne kadar doğru gösterdi?” sorusundan çok “oyun, gerçek bir insan deneyimini klişeleştirmeden nasıl aktarabilir?” sorusuna dönüşür.\n\n### Damganın kırılması\n\nPsikoz hakkında toplumsal damga hâlâ güçlüdür. Popüler kültürde bu deneyimler sık sık şiddet, kontrol kaybı veya korku diliyle anlatılır. Hellblade ise oyuncuyu dışarıdan bakan bir göz olmaktan çıkarıp Senua'nın algısal baskısının içine koyar. Bu empatiyi garanti etmez; ama seyirci/oyuncu pozisyonunu değiştirir. Oyuncu, karakteri “akıl hastası bir figür” olarak izlemek yerine, onun algı dünyasının kurallarıyla ilerlemeye çalışır.\n\nBu temsil aynı zamanda oyuncuya sorumluluk da yükler. Kulaklıkla oynandığında seslerin konumu, yakınlığı ve çelişkili dili daha baskın hale gelir; böylece oyuncu yalnız metni okumaz, algısal belirsizliğin ritmine maruz kalır. Bu tür tasarım kararları, psikozu dışarıdan seyredilen bir anormallik olmaktan çıkarıp deneyimin içine yerleştirmeye çalışır.\n\nBu yüzden Hellblade'in tarihsel önemi yalnız oyun tasarımında değildir. Tıp, temsil ve damga tartışmasının kesiştiği yerde durur. Oyunun söylediği şey basittir ama önemlidir: psikoz bir korku dekoru değil, yaşayan insanların deneyimidir. İyi temsil de bu deneyimi tek bir karanlık etikete hapsetmeden anlatabilmekle başlar.",
+        "accuracyNote": "Oyun gerçek bir hasta kaydı ya da klinik simülasyon değildir; psikoz deneyiminden ilham alan, uzman ve lived experience danışmanlığıyla geliştirilmiş dramatik bir temsil sunar.",
+        "whyInteresting": "Ticari bir oyunun, zihinsel sağlık temsilini korku klişesinden çıkarıp araştırma ve deneyim danışmanlığıyla kurması oyun tarihinde güçlü bir örnektir.",
+        "misconception": "Hellblade’in psikozu yalnızca korkutucu bir “delilik efekti” olarak kullandığı sanılabilir; geliştirme süreci daha bilinçli ve danışmanlık temellidir.",
+        "nextTopics": [
+          "Pikt ve Norse Dünyası",
+          "Savaş Travması",
+          "Gözetim Devleti"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-217-hellblade-picts-norse",
+          "tf26-231-specops-war-trauma"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "minor",
+        "spoilerNote": "Hellblade'ın atmosferi ve karakter deneyimine dair ipuçları içerir; sonu anlatmaz.",
+        "mediaConnection": "Hellblade, Senua’nın iç seslerini ve algı kırılmalarını psikoz temsili olarak kullanır; gerçek bağlam oyunun uzman danışmanlığı ve zihinsel sağlık damgasıyla ilişkisidir.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "hellblade",
+          "psikoz",
+          "zihinsel-saglik",
+          "oyun-ve-bilim",
+          "true-frame"
+        ],
+        "mediaChanged": "Oyun psikozu fantezi ve mitoloji içinde duyusal bir deneyime dönüştürür; gerçek çerçeve, bu temsilin klinik danışmanlık ve lived experience geri bildirimiyle nasıl kurulduğudur.",
+        "whyItMatters": "Zihinsel sağlık temsilleri, toplumun hastalığı nasıl hayal ettiğini etkiler; Hellblade bu yüzden yalnız oyun değil, temsil etiği tartışmasıdır.",
+        "isFlagship": true,
+        "quickRealityCheck": "Hellblade psikozu korku efekti gibi mi kullanıyor, yoksa gerçek deneyimlerden ve uzman danışmanlığından beslenen bir temsil mi kuruyor?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "University of Cambridge Impact Map - Hellblade: authentic representations of psychosis in gaming",
+            "url": "https://impactmap.cam.ac.uk/authentic-representations-of-psychosis-in-gaming/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "OKRE - Hellblade: Senua's Sacrifice",
+            "url": "https://okre.org/articles/hellblade-senuas-sacrifice/",
+            "type": "organization",
+            "verified": true
+          },
+          {
+            "title": "NIH/PMC - Framing Mental Health Within Digital Games",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6495293/",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-217-hellblade-picts-norse",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Hellblade’ın Pikt/Norse karışımı, düz Viking fantezisi yerine Orkney ve kuzey Britanya’daki erken ortaçağ kültür temasları üzerinden ayrıştırıldı.",
+      "fields": {
+        "title": "Pikt ve Norse Dünyası",
+        "subtitle": "Mitoloji ile arkeoloji aynı şey değil",
+        "mediaType": "game",
+        "mediaTitle": "Hellblade: Senua's Sacrifice",
+        "era": "Orta Çağ",
+        "region": "Kuzey Avrupa",
+        "themes": [
+          "Vikingler",
+          "Mitoloji",
+          "Arkeoloji",
+          "Kültür"
+        ],
+        "whatWeSee": "Hellblade, Senua'yı Pikt kökenli bir savaşçı olarak kurar ve onu Norse mitolojisinin karanlık yeraltı dünyasına taşır. Oyunda Hel, runik semboller, kuzeyli savaşçılar ve kıyı coğrafyası birbirine karışır. Bu karışım güçlü bir atmosfer yaratır; fakat tarihsel olarak Piktler, Norse halkları ve İskandinav mitolojisi aynı paket değildir.",
+        "realHistory": "Erken ortaçağ kuzey Britanya’sı, tek bir kültür haritası gibi değil, temas bölgeleriyle okunmalıdır. Piktler, bugünkü İskoçya’nın kuzey ve doğusunda yaşayan erken ortaçağ topluluklarıydı; onları çoğunlukla dış kaynaklardan, taş oymalardan, arkeolojik buluntulardan ve yer adlarından tanırız. Norse topluluklarının Orkney ve kuzey adalarındaki etkisi ise daha sonra, Viking Çağı boyunca belirginleşti. Historic Environment Scotland, Brough of Birsay’de 7–8. yüzyıla ait Pikt izlerinin üzerine 9–11. yüzyıl Norse yerleşim kalıntılarının geldiğini aktarır. Bu, bölgenin “Pikt ya da Viking” diye ikiye bölünmediğini; zaman içinde katmanlanan bir temas alanı olduğunu gösterir.\n\nHellblade bu tarihi doğrudan ders gibi anlatmaz. Oyunun amacı Orkney arkeolojisi sunmak değil, Senua’nın kişisel kaybını Norse ölüm mitolojisiyle iç içe geçirmektir. Yine de oyunun etkisi, gerçek bir tarihsel gerilime dayanır: kuzey Avrupa’da kıyı toplumları, savaş, ticaret, yerleşim ve anlatılar yoluyla birbirini dönüştürdü. Pikt dünyasına ait maddi kültür ile Norse yerleşim izleri aynı coğrafyada bulunabilir; bu da kimliklerin bugünkü kadar temiz kategorilere ayrılmadığını hatırlatır.\n\nYanılgı şurada başlar: oyundaki mitolojik Helheim yolculuğunu, tarihsel Pikt hayatının bire bir yansıması sanmak. Daha doğru okuma, Hellblade’in gerçek erken ortaçağ temas bölgelerinden esinlenip onları psikolojik ve mitolojik bir anlatıya çevirdiğidir. Arkeoloji bize evler, metal işçiliği, taşlar ve yerleşim katmanları verir; oyun ise bu katmanlardan bir yas ve korku dili çıkarır.",
+        "accuracyNote": "Senua kurgusal bir karakterdir; oyun Pikt ve Norse unsurlarını tarihsel atmosfer için birleştirir. Orkney ve kuzey İskoçya’daki arkeoloji ise bu kültür temasının gerçek ama karmaşık zemini olduğunu gösterir.",
+        "whyInteresting": "Hellblade’in güçlü tarafı, Pikt/Norse tarihini düz bir “Viking fantezisi”ne değil, kimlik, temas ve mitoloji karışımına dönüştürmesidir.",
+        "misconception": "Piktler, Norse toplulukları ve Norse mitolojisinin aynı tarihsel kültür olduğu sanılabilir; gerçekte bunlar temas eden ama ayrıştırılması gereken katmanlardır.",
+        "nextTopics": [
+          "Psikoz Temsili",
+          "Viking Yerleşimi",
+          "Arkeoloji ve Mit"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-216-hellblade-psychosis"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "minor",
+        "spoilerNote": "Hellblade'ın dünya ve mitoloji kurgusuna dair ipuçları içerir; sonu anlatmaz.",
+        "mediaConnection": "Hellblade’in Pikt savaşçı ve Norse ölüm mitolojisi karışımı, kuzey Britanya’daki erken ortaçağ kültür temaslarıyla birlikte okunabilir.",
+        "accuracyType": "inspired-by-reality",
+        "isPremium": false,
+        "tags": [
+          "hellblade",
+          "piktler",
+          "vikingler",
+          "orkney",
+          "true-frame"
+        ],
+        "mediaChanged": "Oyun tarihsel katmanları psikolojik ve mitolojik bir yolculuğa dönüştürür; arkeoloji ise Pikt ve Norse izlerinin aynı coğrafyada farklı dönemlerde nasıl katmanlandığını gösterir.",
+        "whyItMatters": "Tarihsel kimlikleri tek bir fantastik estetiğe indirgemek kolaydır; Hellblade, bu karışımı doğru bağlamla okuyunca daha zengin hale gelir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Hellblade’de gördüğümüz Norse mitolojisi, Pikt toplumunun doğrudan tarihi mi yoksa kuzey Britanya temas bölgelerinden esinlenen bir anlatı mı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Historic Environment Scotland - Brough of Birsay: History",
+            "url": "https://www.historicenvironment.scot/visit-a-place/places/brough-of-birsay/history/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Historic Environment Scotland - Brough of Birsay: History and stories",
+            "url": "https://www.historicenvironment.scot/visit/all/brough-of-birsay/history-and-stories/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "National Museums Scotland - Pictish sculptured stone",
+            "url": "https://www.nms.ac.uk/explore-our-collections/collection-search-results/sculptured-stone/167245",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-218-pentiment-peasants-war",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "Pentiment için köy gerilimi, 1524–1525 Alman Köylü Savaşı’nın dinî, ekonomik ve sınıfsal arka planıyla 400+ kelimelik flagship yapıda kuruldu.",
+      "fields": {
+        "title": "Alman Köylü Savaşı",
+        "subtitle": "Reform vaadi köylü öfkesine dönünce",
+        "mediaType": "game",
+        "mediaTitle": "Pentiment",
+        "era": "Erken Modern",
+        "region": "Almanya",
+        "themes": [
+          "Sınıf",
+          "Din",
+          "Reformasyon",
+          "İsyan"
+        ],
+        "whatWeSee": "Pentiment, büyük tarih kitaplarının dışındaki bir köyü ve manastır çevresini merkeze alır. Oyunda dedikodular, vergi baskısı, ruhban otoritesi, el emeği ve sınıf farkı yan yana durur. Andreas’ın gördüğü dünya küçük görünür; ama arka planda erken 16. yüzyıl Avrupa’sının en büyük kırılmalarından biri vardır: Reformasyon çağında köylülerin hem Tanrı hem adalet adına konuşmaya başlaması.",
+        "realHistory": "### Köy ölçeğinde büyük kriz\n\nAlman Köylü Savaşı, 1524–1525 arasında Kutsal Roma İmparatorluğu’nun geniş bölgelerinde patlayan büyük bir halk ayaklanmasıydı. Oxford History Faculty, bu hareketi Fransız Devrimi’nden önce Batı Avrupa’daki en büyük ayaklanma olarak tanımlar. Hareket yalnız çiftçilerin anlık öfkesi değildi; madenciler, kasaba halkı, bazı radikal vaizler ve yerel topluluklar da farklı ölçülerde bu dalganın içine girdi. Pentiment’in kurduğu küçük yerleşim hissi bu yüzden önemlidir: büyük devrimler çoğu zaman önce köy mahkemesinde, manastır borcunda, orman hakkı kavgasında ve kimin kime itaat edeceği tartışmasında görünür.\n\nKöylülerin şikâyetleri hem ekonomik hem dinîydi. Angarya yükleri, feodal aidatlar, avlanma ve orman kullanımı kısıtları, yerel lordların mahkeme yetkisi ve kilise gelirleri gündelik hayatı belirliyordu. Aynı yıllarda Reformasyon dili, kutsal metne dönüş, ruhban eleştirisi ve Hristiyan özgürlüğü gibi kavramları dolaşıma soktu. Bu fikirler köylüler tarafından her zaman Luther’in istediği biçimde anlaşılmadı; fakat adalet talebine yeni bir kelime hazinesi verdi. 1525’te yayılan “On İki Madde”, bu taleplerin en ünlü siyasi metinlerinden biri haline geldi.\n\n### Reformasyon ile sınıf öfkesi\n\nPentiment’in gücü, Reformasyon’u yalnız matbaa ve fikir tarihi olarak değil, yerel güç ilişkileri olarak hissettirmesidir. Bir manastırın arazi düzeni, bir köylünün vergi yükü veya bir zanaatkârın itibarı, teolojik tartışmadan bağımsız değildir. Erken modern dünyada din, sosyal düzenin diliydi. Bu yüzden köylüler haklarını savunurken yalnız ekonomik adalet değil, Tanrı’nın düzeni ve İncil’in anlamı üzerinden de konuştu.\n\nAncak bu birleşim kısa sürede tehlikeli hale geldi. Yerel lordlar ve prensler, ayaklanmayı düzenin yıkılması olarak gördü. Luther de başlangıçtaki reform çağrılarından farklı olarak köylü ayaklanmasına sert biçimde karşı çıktı. Sonuç ağır oldu: ayaklanma bastırıldı, binlerce kişi öldürüldü, birçok bölgede eski hiyerarşi yeniden güçlendirildi. Bu noktada Pentiment’in kişisel hikâyesi True Frame açısından genişler: oyunda gördüğümüz köy gerilimi, Avrupa’da dinî reformun otomatik olarak sosyal özgürleşme anlamına gelmediğini gösteren bir dönemin parçasıdır.\n\n### Hafızada kalan yenilgi\n\nAlman Köylü Savaşı siyasi olarak yenildi; ama hafızadan silinmedi. Sonraki yüzyıllarda hem radikal reformcular hem sınıf tarihçileri hem de modern emek hareketleri bu ayaklanmayı farklı biçimlerde hatırladı. Onu yalnız “başarısız isyan” diye okumak eksik olur. Köylülerin talepleri, erken modern Avrupa’da hak, topluluk, emek ve otorite dilinin nasıl değiştiğini gösterir.\n\nPentiment bu tarihi doğrudan savaş meydanı olarak göstermez; daha ilginç olanı yapar. Büyük isyanın başlamasından önceki toplumsal basıncı hissettirir. Köyün küçük hesapları, aslında Avrupa’nın büyük düzen kavgasının gündelik yüzüdür. Bu yüzden oyunun gerçek tarih bağlantısı, tek bir olaydan çok şu sorudadır: İnsanlar adaletsizliği ne zaman kader olmaktan çıkarıp siyasi talep haline getirir?",
+        "accuracyNote": "Pentiment belirli bir gerçek köyü bire bir yeniden kurmaz; fakat 1520’ler Alman coğrafyasındaki Reformasyon, manastır ekonomisi, sınıf gerilimi ve köylü talepleriyle uyumlu bir tarihsel atmosfer kurar.",
+        "whyInteresting": "Oyunun küçük köy dramı, Avrupa tarihindeki devasa bir toplumsal ayaklanmanın gündelik basıncını hissettirdiği için güçlüdür.",
+        "misconception": "Reformasyonun yalnız dinî fikirler ve matbaa tartışması olduğu sanılır; 1525’te bu fikirler vergi, emek ve sınıf öfkesiyle birleşti.",
+        "nextTopics": [
+          "Reformasyon ve Endüljans",
+          "Hanedan Evlilikleri",
+          "Matbaa ve Otorite"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-219-pentiment-reformation",
+          "tf26-220-ck3-dynastic-marriage"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "minor",
+        "spoilerNote": "Pentiment’in tarihsel atmosferine dair ipuçları içerir; sonu anlatmaz.",
+        "mediaConnection": "Pentiment’in köy, manastır ve sınıf gerilimi, 1524–1525 Alman Köylü Savaşı’nın Reformasyon çağıyla birleşen toplumsal arka planına bağlanır.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "pentiment",
+          "alman-koylu-savasi",
+          "reformasyon",
+          "sinif",
+          "true-frame"
+        ],
+        "mediaChanged": "Oyun büyük ayaklanmayı doğrudan savaş sahnesi yapmaz; köy ölçeğindeki sosyal baskıyı göstererek aynı dönemin kırılganlığını hissettirir.",
+        "whyItMatters": "Toplumsal krizler çoğu zaman büyük ideolojilerden önce gündelik adaletsizliklerde görünür; Pentiment bu eşiği tarihsel olarak okunabilir kılar.",
+        "isFlagship": true,
+        "quickRealityCheck": "Pentiment’teki köy gerilimi sadece kurgu mu, yoksa 1525 Alman Köylü Savaşı’nın gerçek sosyal basıncıyla mı konuşuyor?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "University of Oxford Faculty of History - The German Peasants' War, 1524–1525",
+            "url": "https://www.history.ox.ac.uk/article/the-german-peasants-war-15241525",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "University of Oregon Reformations Reader - Documents on the Peasants War 1524-1526",
+            "url": "https://pages.uoregon.edu/dluebke/Reformations441/Bauernkrieg.html",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Reformation",
+            "url": "https://www.britannica.com/event/Reformation",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-219-pentiment-reformation",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Pentiment’in kitap/manastır atmosferi, Reformasyonun endüljans, matbaa ve otorite kriziyle ilişkisine bağlandı; mevcut matbaa açısıyla çakışmaması için odak kilise otoritesi ve satış pratiğinde tutuldu.",
+      "fields": {
+        "title": "Reformasyon ve Endüljans",
+        "subtitle": "Basılı fikir kilise otoritesini sarsınca",
+        "mediaType": "game",
+        "mediaTitle": "Pentiment",
+        "era": "Erken Modern",
+        "region": "Almanya",
+        "themes": [
+          "Din",
+          "Reformasyon",
+          "Matbaa",
+          "Siyaset"
+        ],
+        "whatWeSee": "Pentiment’te el yazmaları, kitaplar, manastır düzeni ve yeni fikirlerin dolaşımı sessiz ama sürekli bir gerilim yaratır. Oyundaki dünya, eski otoritenin hâlâ güçlü olduğu ama kelimelerin artık eskisi kadar kolay kontrol edilemediği bir dönemdedir. Bu atmosferin gerçek arka planında Reformasyon ve endüljans tartışması vardır.",
+        "realHistory": "1517’de Martin Luther’in Ninety-Five Theses metni, özellikle endüljans satışları ve kilise otoritesi üzerine bir tartışma açtı. Library of Congress, bu metni erken Reformasyonun merkezî belgelerinden biri olarak sunar; National Library of Scotland da metnin kilise içindeki yolsuzluk ve endüljans satışına yönelik kaygılarla ilişkili olduğunu vurgular. Endüljans, günahın sonsuz bağışlanmasını “satmak” gibi basitçe anlatıldığında yanlış anlaşılır; daha doğru çerçeve, tövbe, ceza, purgatoryum ve kilise yetkisinin karmaşık teolojik düzenidir. Yine de uygulamada para, otorite ve kurtuluş dili aynı zeminde buluştuğu için büyük tepki doğurdu.\n\nPentiment bu tartışmayı doğrudan Luther biyografisi gibi anlatmaz; ama oyunun dünyasında metinlerin nasıl dolaştığı, kimin okuyabildiği, kimin yorum hakkına sahip olduğu ve manastırın bilgi üzerindeki gücü sürekli hissedilir. Matbaa bu noktada yalnız teknik yenilik değildir. Fikirleri çoğaltarak yerel tartışmaları bölgesel krize dönüştüren bir hızlandırıcıdır.\n\nReformasyonun etkisi de yalnız inanç değişimi olmadı. Kilise mülkleri, yerel yönetim, eğitim, dil ve siyasal sadakat yeniden tartışıldı. Bu yüzden Pentiment’in kitap ve manastır atmosferi True Frame için güçlüdür: oyun, bir cinayet veya köy sırrı anlatırken aslında otoritenin bilgi üzerindeki tekelinin çözülmeye başladığı bir dünyayı gösterir.",
+        "accuracyNote": "Oyun Reformasyon tarihini bire bir yeniden anlatmaz; fakat erken 16. yüzyılda endüljans, matbaa, manastır kültürü ve dini otorite krizinin aynı sosyal alanda kesiştiği doğru bir atmosfer kurar.",
+        "whyInteresting": "Bir kitap ya da broşür, yalnız fikir değil; otoritenin kimde olduğunu değiştiren siyasi bir araç haline gelebilir.",
+        "misconception": "Reformasyonun sadece Luther’in tek başına kiliseye karşı çıkmasıyla başladığı sanılır; endüljans tartışması, matbaa ve yerel güç ilişkileri birlikte etkiliydi.",
+        "nextTopics": [
+          "Alman Köylü Savaşı",
+          "Matbaa ve Otorite",
+          "Manastır Ekonomisi"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-218-pentiment-peasants-war"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "spoilerNote": "",
+        "mediaConnection": "Pentiment’in el yazması, kitap ve manastır atmosferi, Luther’in endüljans eleştirisiyle hızlanan Reformasyon bilgi krizine bağlanır.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "pentiment",
+          "reformasyon",
+          "enduljans",
+          "matbaa",
+          "true-frame"
+        ],
+        "mediaChanged": "Oyun büyük teolojik tartışmayı doğrudan ders gibi anlatmaz; onu yerel bilgi, okuryazarlık ve otorite gerilimi olarak hissettirir.",
+        "whyItMatters": "Bilgi araçları değiştiğinde yalnız fikirler değil, kurumların meşruiyeti de değişir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Pentiment’te kitapların ve manastırın bu kadar önemli olması, Reformasyon çağındaki bilgi otoritesi kriziyle nasıl bağ kuruyor?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Library of Congress - Ninety-Five Theses",
+            "url": "https://www.loc.gov/item/2021667736/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "National Library of Scotland - How Martin Luther sparked the reformation",
+            "url": "https://www.nls.uk/collections/stories/scottish-history/how-martin-luther-sparked-the-reformation/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "UNESCO - Luther Memorials in Eisleben and Wittenberg",
+            "url": "https://whc.unesco.org/en/list/783/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-220-ck3-dynastic-marriage",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "Crusader Kings III için hanedan evlilikleri, romantik saray draması değil; miras hukuku, meşruiyet, kadınların hanedan içindeki diplomatik rolü ve Habsburg örneğiyle devlet kurma aracı olarak yazıldı.",
+      "fields": {
+        "title": "Hanedan Evlilikleri",
+        "subtitle": "Siyaset bazen savaşla değil nikâhla kurulur",
+        "mediaType": "game",
+        "mediaTitle": "Crusader Kings III",
+        "era": "Orta Çağ",
+        "region": "Avrupa",
+        "themes": [
+          "Hanedan",
+          "Siyaset",
+          "Hukuk",
+          "Krallık"
+        ],
+        "whatWeSee": "Crusader Kings III, haritayı yalnız ordularla değil evlilikler, miras hakları, çocuklar, unvanlar ve skandallarla oynatır. Bir nikâh, yeni ittifak; bir varis, gelecekteki iç savaş; bir akrabalık bağı, bütün bir krallık iddiası olabilir. Oyunun eğlenceli görünen aile simülasyonu, Orta Çağ ve erken modern Avrupa siyasetinin çok gerçek bir mantığına dayanır: hanedan, devletin kendisidir.",
+        "realHistory": "### Aile, devletin altyapısıydı\n\nModern siyasette devlet ile aile ayrı alanlar gibi düşünülür. Hanedan dünyasında bu ayrım çok daha zayıftı. Krallıklar, dükalıklar ve imparatorluk iddiaları çoğu zaman kan bağı, evlilik, meşru doğum ve miras hakkı üzerinden kuruluyordu. Bu yüzden evlilik yalnız özel hayat değil, diplomatik araçtı. Crusader Kings III bunu oyun mekaniğine çevirir: doğru evlilik sınır güvenliği sağlar, yanlış evlilik veraset krizine yol açar, çocuksuzluk bütün stratejiyi bozar.\n\nHabsburg örneği bu mantığın en ünlü tarihsel karşılıklarından biridir. Minneapolis Institute of Art’ın Habsburg tarih özeti, ailenin geç Orta Çağ’da stratejik evlilikler, siyasi ittifaklar ve fetihlerle yükseldiğini vurgular. Cambridge University Press’te yayımlanan Maximilian I üzerine çalışma da onun Mary of Burgundy ve Bianca Maria Sforza ile evliliklerini yalnız romantik birliktelik değil, toprak ve ekonomik beklentilerle örülü karmaşık siyasi projeler olarak ele alır. Bu, CK3’ün temel sezgisini doğrular: evlilik, haritadaki sınırları değiştirebilen bir diplomasi biçimiydi.\n\n### Meşruiyet ve miras\n\nHanedan siyasetinde en kritik kelime “hak”tı. Kim hangi unvanı hangi yoldan talep edebilirdi? Bir kız çocuğu mirasçı sayılır mıydı? Evlilikle gelen toprak doğrudan mı birleşirdi, yoksa yalnız gelecek kuşağa mı aktarılırdı? Yerel hukuklar, soylu meclisler ve kilise onayı bu sorulara farklı cevaplar verdi. Bu yüzden CK3’teki veraset karmaşası sadece oyun komedisi değildir. Gerçekte de soy ağacı, mahkeme belgesi kadar siyasi bir araçtı.\n\nKadınların rolü de burada yalnız “evlendirilen prenses” klişesine indirgenemez. Elbette evlilik pazarlıklarında kadın bedenleri ve doğurganlığı çoğu zaman hanedan çıkarının aracı haline getirildi. Fakat kraliçeler, düşesler, naibeler ve dul hanedan üyeleri saray ağları, çocukların eğitimi, patronaj, diplomatik mektuplaşma ve bölgesel yönetim üzerinden aktif siyasi rol oynayabildi. Cambridge çalışmasının vurguladığı gibi, Maximilian çevresinde kadın ve erkeklerden oluşan sosyal ağlar rulership denen yönetme pratiğinin parçasıydı.\n\n### Oyunun abarttığı ve yakaladığı şey\n\nCrusader Kings III bu tarihi doğal olarak hızlandırır ve kişiselleştirir. Gerçek evlilik görüşmeleri aylarca, bazen yıllarca sürebilir; oyunda birkaç tıkla sonuçlanır. Gerçek miras hukuku bölgeden bölgeye karmaşıktır; oyun bunu okunabilir sistemlere indirger. Ama yakaladığı ana fikir çok sağlamdır: Orta Çağ’da güç yalnız savaş alanında değil, yatak odası, vaftiz töreni, miras belgesi ve akrabalık ağında da üretilirdi.\n\nBu sistemin kırılganlığı da en az başarısı kadar önemlidir. Varis ölümü, akrabalık iddiası, tartışmalı meşruiyet veya rakip evlilik bağlantısı, uzun süren veraset savaşlarını tetikleyebilirdi. Bu yüzden hanedan siyasetinde aile mutluluğu değil, süreklilik ve kabul edilebilirlik önemliydi. Siyasi evlilikler başarı getirdiğinde imparatorluk ölçeğinde güç üretebilir; başarısız olduğunda ise iç savaş, dış müdahale veya hanedan dalının sönmesiyle sonuçlanabilirdi.\n\nBu yüzden CK3’ün aile dramı, yüzeyde komik entrika gibi görünse de tarihsel olarak ciddidir. Hanedan evliliği, insanların özel hayatını devlet stratejisine dönüştüren bir düzendi. Oyunun rahatsız edici tarafı da buradadır: sevgi, beden, çocuk ve soy, siyasi hesap defterinin satırlarına dönüşür.",
+        "accuracyNote": "Crusader Kings III hanedan siyasetini hızlandırır ve sistemleştirir; fakat evlilik, miras, meşruiyet ve akrabalık ağlarının Orta Çağ/erken modern Avrupa siyasetindeki belirleyici rolü tarihsel olarak güçlüdür.",
+        "whyInteresting": "Oyunun aile ağacı ekranı komik görünebilir; gerçekte bu tür soy ağacı, harita ve savaş kadar güçlü bir siyasi araçtı.",
+        "misconception": "Orta Çağ siyasetinin yalnız savaş ve fetihle yürüdüğü sanılır; hanedan evlilikleri çoğu zaman savaşsız toprak, ittifak ve meşruiyet üretti.",
+        "nextTopics": [
+          "Alman Köylü Savaşı",
+          "Merkantilizm ve Sömürgecilik",
+          "Sanayileşme ve Emek"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-218-pentiment-peasants-war",
+          "tf26-221-eu4-mercantilism"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "none",
+        "spoilerNote": "",
+        "mediaConnection": "Crusader Kings III’ün evlilik, veraset ve hanedan ağı mekanikleri, Avrupa hanedan siyasetinin gerçek miras ve meşruiyet düzenleriyle bağlantılıdır.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "crusader-kings",
+          "hanedan",
+          "orta-cag",
+          "miras-hukuku",
+          "true-frame"
+        ],
+        "mediaChanged": "Oyun hanedan evliliğini hızlı ve sistematik bir strateji aracına çevirir; tarihsel gerçeklikte aynı süreç daha yavaş, pazarlıklı ve yerel hukukla sınırlıydı.",
+        "whyItMatters": "Hanedan siyaseti, özel hayat ile devlet gücü arasındaki sınırın modern öncesi dünyada ne kadar farklı kurulduğunu gösterir.",
+        "isFlagship": true,
+        "quickRealityCheck": "CK3’te birkaç tıkla yaptığımız evlilikler, tarihsel olarak gerçekten krallıkların kaderini değiştirebilir miydi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Minneapolis Institute of Art - The Habsburgs: Rarely Seen Masterpieces from Europe’s Greatest Dynasty",
+            "url": "https://new.artsmia.org/press/the-habsburgs-rarely-seen-masterpieces-from-europes-greatest-dynasty-3",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Cambridge University Press - Gendering Late Medieval Habsburg Dynastic Politics",
+            "url": "https://www.cambridge.org/core/journals/austrian-history-yearbook/article/gendering-late-medieval-habsburg-dynastic-politics-maximilian-i-and-his-social-networks/C64B8469A850B84F627981F0E5565705",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "JSTOR - Dynastic Marriage in Sixteenth-Century Habsburg Diplomacy",
+            "url": "https://www.jstor.org/stable/1851170",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

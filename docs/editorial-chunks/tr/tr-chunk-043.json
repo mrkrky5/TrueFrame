@@ -1,0 +1,294 @@
+{
+  "locale": "tr",
+  "chunkIndex": 43,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-021-athenian-democracy",
+      "title": "Atina Demokrasisi",
+      "subtitle": "Atina Demokrasisi: görünenden fazlası",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Antik Dünya",
+      "region": "Yunanistan",
+      "themes": [
+        "Demokrasi",
+        "Mitoloji",
+        "Savaş"
+      ],
+      "whatWeSee": "Assassin's Creed Odyssey Atina demokrasisini kalabalık meydan konuşmaları, hizip rekabeti ve savaş baskısı altında yaşayan bir kent atmosferiyle veriyor. Oyuncu siyasal hareketliliği güçlü hissediyor, fakat kurumsal mekanizmalar daha kısa işaretlerle geçiliyor. Demokrasi çoğu sahnede ideal düzen değil, kırılgan ve çekişmeli bir güç alanı gibi görünüyor.",
+      "realHistory": "Klasik Atina demokrasisi modern temsil sisteminden farklı olarak doğrudan katılım ilkesine dayanıyordu. Ekklesia yurttaş meclisi önemli kararları alırken Boule gündemi hazırlıyor, büyük jüri mahkemeleri siyasal denetim işlevi görüyordu. Birçok kamu görevinin kura ile dağıtılması aristokrat tekelleşmeyi sınırlamayı hedefliyordu. Ancak bu düzen kapsayıcı değildi: kadınlar, köleler ve metoikoslar siyasi hakların dışında bırakılıyordu. Dolayısıyla \"halk yönetimi\" ifadesi, belirli bir erkek yurttaş grubunun yönetimini anlatır. Peloponez Savaşı uzun sürdükçe mali yük, askeri yenilgiler ve iç kutuplaşma sistemi zorladı. Oligark darbeleriyle demokrasi kesintiye uğradı, sonra yeniden kuruldu; bu dalgalanma kurumların dayanıklılığını ve sınırlarını birlikte gösterir. Ostrakismos gibi araçlar tiranlık riskini azaltmayı amaçlasa da hizip mücadelesini bütünüyle engelleyemedi. Deniz ticareti, imparatorluk gelirleri ve sınıf gerilimleri kurumların kararlarını doğrudan etkiliyordu. Bu nedenle Atina, kusursuz bir başlangıç hikayesinden çok, siyasal katılım ile dışlama arasındaki çelişkilerin açıkça görüldüğü tarihsel bir laboratuvardır. Odyssey'in canlı politik havası doğru bir giriş sağlar; fakat tarihsel derinlik, kurumların kimleri içerdiği ve hangi krizlerde kırıldığı sorularında ortaya çıkar. Misthos ödemeleri gibi uygulamalar yoksul yurttaşların siyasete katılımını artırmaya çalışırken aynı zamanda kamu maliyesi üzerinde yeni baskılar yarattı. Böylece demokrasi, idealler kadar bütçe ve savaş kapasitesiyle de sınanan bir yönetim modeline dönüştü. Deniz üstünlüğü kaybı bu kırılganlığı daha da görünür kıldı.",
+      "accuracyNote": "Kentteki rekabet havası doğru yansır; ancak katılımın sınırlılığı ve kurumların prosedürel karmaşıklığı oyunda kısaltılır.",
+      "whyInteresting": "Demokrasi fikrinin doğduğu yerde bile eşitlik iddiası ile dışlama pratiği aynı anda yaşayabiliyordu.",
+      "misconception": "Atina demokrasisinin bugünkü liberal demokrasiyle aynı kapsayıcılıkta olduğu düşünülür.",
+      "nextTopics": [
+        "Sparta Eğitimi",
+        "Peloponez Savaşı",
+        "Delphi Kehaneti"
+      ],
+      "sources": [
+        {
+          "title": "Britannica - The Athenian democracy",
+          "url": "https://www.britannica.com/topic/democracy/The-Athenian-democracy",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Peloponnesian War",
+          "url": "https://www.britannica.com/event/Peloponnesian-War",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "British Museum - Ancient Greek democracy resources",
+          "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-greece",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-022-sparta-childhood",
+        "tf26-023-peloponnesian-war",
+        "tf26-024-oracle-delphi"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Odyssey'nin siyasi gerilimleri, Atina kurumlarının gerçek kapsama sınırlarıyla birlikte değerlendirildiğinde daha anlamlı olur.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-yunan",
+        "yunanistan",
+        "assassins-creed",
+        "atina-demokrasisi",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun demokratik atmosferi güçlü biçimde hissettiriyor, fakat kurumların teknik işleyişini sadeleştiriyor. Tarihte kura, meclis ve jüri düzeni siyasi dengeyi belirleyen temel mekanizmalardı.",
+      "whyItMatters": "Demokrasi fikrinin doğduğu yerde bile eşitlik iddiası ile dışlama pratiği aynı anda yaşayabiliyordu.",
+      "isFlagship": false,
+      "quickRealityCheck": "Klasik Atina'da siyasi karar sürecine gerçekten herkes mi katılıyordu, yoksa yurttaşlık dar bir statü müydü?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-022-sparta-childhood",
+      "title": "Sparta Eğitimi",
+      "subtitle": "Agoge: Sparta çocukluğu efsane mi?",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Antik Dünya",
+      "region": "Yunanistan",
+      "themes": [
+        "Demokrasi",
+        "Mitoloji",
+        "Savaş"
+      ],
+      "whatWeSee": "Assassin's Creed Odyssey'de Sparta eğitimi, disiplin ve savaşçı kimliği oyun mekaniğine yedirilir. Kassandra/ Alexios Sparta kökenini gururla taşır; agoge süreci ekranda kısa anlatılarla geçer. Oyuncu gençlerin sert eğitim parkurunda koşturduğu, yaşlı eğitmenin komut verdiği ve şehir ritüellerinin askeri disipline bağlandığı sahneleri yakından izliyor.",
+      "realHistory": "Sparta'da agoge, erkek çocukların devlet kontrolündeki eğitim sistemiydi. Yedi yaşından itibaren çocuklar ailelerinden alınır, kampta yaşar, açlık, dövüş ve itaat eğitimi görürdü. Amaç savaşçı üretmekti; zayıf görülenler dışlanırdı. Kızlar da benzer disiplinle spor ve dayanıklılık eğitimi aldı; Sparta'da kadınlar diğer Yunan şehirlerine göre daha görünürdü. Plutarkhos ve diğer kaynaklar agoge'yi idealize eder; arkeoloji sınırlı kanıt verir. Sparta toplumu helot (köle) sınıfına dayanıyordu; agoge asıl olarak bu düzeni korumak içindi. Odyssey agoge'yi kahramanlık miti yapar; tarihçiler helot baskısı ve askeri toplumun ekonomik kırılganlığını vurgular. Sparta'da erkek çocukların agoge eğitimine erken yaşta alınması, toplumsal düzenin askeri disiplin üzerine kurulduğunu gösterir. Program, dayanıklılık, kolektif itaat ve savaş becerisi kadar kıt kaynakla yaşamaya alıştırmayı da amaçlıyordu. Aile etkisi tamamen silinmese de devlet denetimi, akran grupları ve yaşlı eğitmenler günlük hayatın merkezine yerleşti. Helot emeğine dayalı ekonomi, yurttaş erkeklerin bu uzun eğitime zaman ayırabilmesini sağlıyordu. Modern popüler kültürün çizdiği tek boyutlu sertlik imgesi, müzik, ritüel ve siyasi eğitim gibi daha karmaşık boyutları çoğu zaman görünmez bırakır. Sparta Eğitimi Sparta'da agoge, erkek çocukların devlet kontrolündeki eğitim sistemiydi. Agoge içinde çocuklar yaş gruplarına göre yarış, av ve koro eğitimine ayrılıyordu; yalnız savaş değil kamusal performans da öğretiliyordu. Çalma pratiğinin teşvik edilip yakalanmanın cezalandırılması, beceri ve gizliliği aynı anda ölçen bir pedagojiydi. Böylece disiplin, toplu yaşamın tüm anına yayıldı.",
+      "accuracyNote": "Agoge kaynakları çoğunlukla sonraki dönem yazarlarından gelir; oyundaki kahramanlar kurgusaldır.",
+      "whyInteresting": "En 'özgür' Yunan şehri, en katı çocukluk devletleştirmesini uyguladı.",
+      "misconception": "Sparta yalnızca savaşçı doğdu; eğitim sistemi ve helot sömürüsü şarttı.",
+      "nextTopics": [
+        "Atina Demokrasisi",
+        "Peloponez Savaşı",
+        "Delphi Kehaneti"
+      ],
+      "sources": [
+        {
+          "title": "Sparta (Britannica)",
+          "url": "https://www.britannica.com/place/Sparta",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Agoge (Britannica)",
+          "url": "https://www.britannica.com/topic/agoge",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Helot (Britannica)",
+          "url": "https://www.britannica.com/topic/helot",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "ac-odyssey-athens",
+        "tf26-027-slavery"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Odyssey Sparta görevlerindeki agoge anlatıları ile antik Sparta eğitim sistemi ve helot düzeni.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-yunan",
+        "yunanistan",
+        "assassins-creed",
+        "sparta-egitimi",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun agoge'yi bireysel güç kaynağı yapar; gerçekte devlet kontrollü kolektif askerleştirmeydi.",
+      "whyItMatters": "En 'özgür' Yunan şehri, en katı çocukluk devletleştirmesini uyguladı.",
+      "isFlagship": false,
+      "quickRealityCheck": "Agoge neden çocukları ailelerinden erken ayırdı?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-023-peloponnesian-war",
+      "title": "Peloponez Savaşı",
+      "subtitle": "Küçük ayrıntı, büyük tarih",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Antik Dünya",
+      "region": "Yunanistan",
+      "themes": [
+        "Demokrasi",
+        "Mitoloji",
+        "Savaş"
+      ],
+      "whatWeSee": "Odyssey'de Peloponez Savaşı, haritadaki bölgelerin Atina ve Sparta arasında el değiştirdiği bir güç oyunu gibi görünür. Oyuncu kaleler basar, komutan avlar ve savaş alanlarında taraf seçer. Çatışma sahneleri hızlıdır; siyasal kararların, erzak sıkıntısının ve uzun kuşatmaların topluma etkisi çoğu zaman arka planda kalır.",
+      "realHistory": "Peloponez Savaşı (MÖ 431-404), iki şehir devletinin basit bilek güreşi değildi; Ege dünyasının vergi, ticaret ve ittifak düzenini yeniden biçimlendiren uzun bir yıpratma savaşıydı. Atina deniz gücü ve müttefiklerinden topladığı haraçla ayakta dururken, Sparta karada üstünlüğünü korumaya çalıştı. Ancak savaşın seyri yalnız cephede belirlenmedi. Veba, tahıl yolları, isyan eden müttefikler ve finansal kaynakların tükenmesi kadar kritik başlıklardı.\n\nAtina'nın surlara kapanıp donanmasına yaslanması, kırsal nüfusu kent içine yığdı; salgın ve toplumsal gerilim bu tercihin ağır sonucuydu. Sicilya Seferi gibi iddialı hamleler başarısız olunca Atina insan gücü ve gemi kaybını telafi edemedi. Sparta ise Pers mali desteğiyle donanma kurarak savaşın dengelerini çevirdi. Son aşamada Aigospotamoi yenilgisi, Atina'nın tahıl hattını kopardı ve kenti teslim olmaya zorladı.\n\nBu tablo, savaşın yalnız kahramanlıkla değil, lojistik ve kurum dayanıklılığıyla kazanıldığını gösterir. Yani mesele hangi ordunun daha cesur olduğu değil, hangi sistemin uzun süre ayakta kalabildiğidir. Ayrıca savaş sonrası kurulan Otuzlar yönetimi, askeri yenilginin doğrudan bir rejim krizine dönebileceğini kanıtladı. Demokrasinin geri gelişi bile, dış tehdit kadar iç uzlaşının da hayati olduğunu ortaya koydu. Thukydides'in aktardığı tartışmalar, savaşın aynı zamanda propaganda ve kamuoyu yönetimi mücadelesi olduğunu gösterir; mecliste kurulan dil, cephedeki kararlar kadar belirleyici hale gelmiştir. Bu nedenle savaş, yalnız askeri tarih değil siyasal iletişim tarihidir.",
+      "accuracyNote": "Genel Atina-Sparta çatısı doğru kurulsa da oyunda savaşın süresi, diplomatik katmanları ve ekonomik yıpranma etkisi belirgin biçimde sadeleştirilmiştir.",
+      "whyInteresting": "Aynı savaşın hem demokrasi tartışmalarını hem de imparatorluk ekonomisini aynı anda dönüştürmesi çarpıcıdır.",
+      "misconception": "Peloponez Savaşı'nın yalnız hoplit meydan muharebeleriyle belirlendiği sanılır; oysa deniz ikmali, hazine ve ittifak siyaseti belirleyici oldu.",
+      "nextTopics": [
+        "Atina Demokrasisi",
+        "Sparta Eğitimi",
+        "Delphi Kehaneti"
+      ],
+      "sources": [
+        {
+          "title": "Peloponnesian War (Britannica)",
+          "url": "https://www.britannica.com/event/Peloponnesian-War",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Peloponnesian War (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Peloponnesian_War/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Landmark Thucydides (Yale University Press)",
+          "url": "https://yalebooks.yale.edu/book/9780684827902/the-landmark-thucydides/",
+          "type": "book",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-024-oracle-delphi",
+        "tf26-025-olympic-games",
+        "tf26-026-triremes"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Odyssey'deki Atina-Sparta bölge savaşları, Peloponez Savaşı'nın popüler hafızadaki askeri yüzünü temsil eder.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-yunan",
+        "yunanistan",
+        "assassins-creed",
+        "peloponez-savasi",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun savaşı sık aralıklarla patlayan meydan çatışmalarına indirger ve kararları oyuncunun aksiyonuna bağlar. Gerçekte sonuca giden yol, yıllara yayılan mali krizler, salgın, diplomasi ve deniz ikmal hatlarının kırılmasıyla şekillendi.",
+      "whyItMatters": "Aynı savaşın hem demokrasi tartışmalarını hem de imparatorluk ekonomisini aynı anda dönüştürmesi çarpıcıdır.",
+      "isFlagship": false,
+      "quickRealityCheck": "Atina'nın güçlü donanmasına rağmen savaşı kaybetmesinde veba ve Sicilya Seferi neden kırılma yarattı?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-024-oracle-delphi",
+      "title": "Delphi Kehaneti",
+      "subtitle": "Delphi kahini: tanrıçanın sesi, devletin danışmanı",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Antik Dünya",
+      "region": "Yunanistan",
+      "themes": [
+        "Demokrasi",
+        "Mitoloji",
+        "Savaş"
+      ],
+      "whatWeSee": "Assassin's Creed Odyssey'de Delphi kahini Pythia, tanrısal kehanetler ve siyasi entrikaların merkezinde yer alır. Oyuncu antik dünyanın en ünlü kehanet merkezini keşfeder. Oyuncu tapınak merdivenlerinde bekleyen elçileri, dumanlar arasında konuşan kahini ve belirsiz kehanetin devlet kararına çevrildiği yorum anını izliyor.",
+      "realHistory": "Delphi'deki Apollon tapınağında Pythia, tanrının sesi olarak yorumlandı. Yunan şehir devletleri önemli kararlarda (savaş, koloni) danışmandı. Kehanetler çoğu zaman belirsiz ifadelerle verildi; yorumlama siyasi mücadeleye açıktı. Pers Savaşları ve Kolonileşme döneminde Delphi prestiji zirvedeydi. Priests ve yazıcılar süreci yönetti; rüşvet ve etki iddiaları kayıtlara geçti. Arkeoloji tapınak terasını ve hazineleri doğrular. Odyssey Pythia'yı karakter yapar; tarihsel kayıtlar kurumsal kehanet makinesini gösterir. Delphi kahini, antik Yunan'da yalnız dini bir figür değil şehir devletlerinin karar süreçlerinde başvurulan siyasi bir otoriteydi. Apollon tapınağındaki Pythia'nın sözleri çoğu zaman şiirsel ve çok anlamlı aktarılır, yorumu rahipler ile danışan elitlerin müzakeresine bırakılırdı. Koloni kurma, savaş açma veya yasa değiştirme gibi kritik adımlarda Delphi'den onay almak meşruiyet sağlıyordu. Hac ekonomisi sayesinde bölgeye düzenli gelir akışı oluştu ve kutsal alan uluslararası diplomasi sahnesine dönüştü. Kehanet kurumu, inanç ile stratejik hesap arasında işleyen karma bir danışmanlık mekanizmasıydı. Delphi Kehaneti Delphi'deki Apollon tapınağında Pythia, tanrının sesi olarak yorumlandı. Delphi'deki kehanet süreci kişisel vizyondan ibaret değildi; başvuru takvimi, adak ekonomisi ve rahip yorumu birlikte kurumsal bir düzen kuruyordu. Çok anlamlı yanıtlar, siyasetçilere manevra alanı bırakıyordu. Bu yorum esnekliği, kahin otoritesinin yüzyıllar boyunca canlı kalmasının başlıca nedenlerinden biriydi.",
+      "accuracyNote": "Delphi arkeolojisi ve Pythia rolü UNESCO/Britannica ile uyumludur.",
+      "whyInteresting": "Aynı tapınak hem din hem dış politika masasıydı.",
+      "misconception": "Kahin her zaman net gelecek söyledi; belirsizlik yorum alanı bırakırdı.",
+      "nextTopics": [
+        "Atina Demokrasisi",
+        "Sparta Eğitimi",
+        "Peloponez Savaşı"
+      ],
+      "sources": [
+        {
+          "title": "Delphi (Britannica)",
+          "url": "https://www.britannica.com/place/Delphi",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Oracle of Delphi (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Delphi/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Delphi UNESCO",
+          "url": "https://whc.unesco.org/en/list/393/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "ac-odyssey-athens",
+        "tf26-028-theatre"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Odyssey Delphi görevleri ile antik Pythia ve Delphi oracle kurumu.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-yunan",
+        "yunanistan",
+        "assassins-creed",
+        "delphi-kehaneti",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun kehaneti bireysel görev yapar; gerçekte şehir devletleri diplomasisiydi.",
+      "whyItMatters": "Aynı tapınak hem din hem dış politika masasıydı.",
+      "isFlagship": true,
+      "quickRealityCheck": "Belirsiz kehanetler neden siyasi yorumlamaya açıktı?",
+      "lastReviewedAt": "2026-06-25"
+    }
+  ]
+}

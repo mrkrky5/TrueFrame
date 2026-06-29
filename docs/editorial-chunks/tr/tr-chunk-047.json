@@ -1,0 +1,286 @@
+{
+  "locale": "tr",
+  "chunkIndex": 47,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-037-shieldmaidens",
+      "title": "Kalkanlı Kadınlar",
+      "subtitle": "Kalkanlı kadın: arkeoloji mi, dizi miti mi?",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Orta Çağ",
+      "region": "İskandinavya",
+      "themes": [
+        "Denizcilik",
+        "Savaş",
+        "Göç"
+      ],
+      "whatWeSee": "Vikings dizisinde Lagertha ve diğer kadın savaşçılar kalkan ve kılıçla öne çıkar. Dizi kalkanlı kadın figürünü normalleştirir; izleyici Viking çağında kadın savaşçılığını yaygın sanabilir. Kamera savaş alanında zırhlı kadın figürünü, hikaye anlatıcılarının abartılı sözlerini ve mezar bulgularını inceleyen araştırmacı bakışını peş peşe sunuyor.",
+      "realHistory": "İskandinav mitolojisinde kalkanlı kadınlar (skjaldmær) vardır; arkeolojik kanıt daha sınırlı ve tartışmalıdır. 2017'de Birka mezarında DNA analizi 'kadın savaşçı' yorumunu tartışmaya açtı; silah gömüsü tek başına savaşçılık kanıtı sayılmaz. Bazı kadınlar statü ve sembolik silahla gömülmüş olabilir. Saga kaynakları (ör. Hervarar) kadın savaşçı anlatıları içerir ama kronoloji bulanıktır. Viking toplumunda kadınlar yönetim, mülk ve ticarette rol aldı; savaş alanı daha nadir belgelenir. Vikings dizisi saga ve modern feminist okumayı birleştirir; tarihçiler kanıt ile anlatı arasındaki boşluğu vurgular. Viking çağında savaşçı kadınlar meselesi, saga anlatıları ile arkeolojik bulgular arasındaki gerilim nedeniyle dikkatli değerlendirme gerektirir. Metinlerde kalkanlı kadın figürleri sık geçse de bu eserlerin çoğu yüzyıllar sonra kaleme alınmış edebi kaynaklardır. Son dönemde bazı mezar analizleri, silahlı gömü ile biyolojik cinsiyetin her zaman örtüşmediğini göstererek tartışmayı yeniden açtı. Buna rağmen bulgular, yaygın bir kadın savaşçı ordusunu kanıtlamaktan uzaktır. En makul yorum, bölgesel ve sınırlı örneklerin kültürel hafızada büyütülerek güçlü bir sembolik tipe dönüşmüş olmasıdır. Kalkanlı Kadınlar İskandinav mitolojisinde kalkanlı kadınlar (skjaldmær) vardır; arkeolojik kanıt daha sınırlı ve tartışmalıdır. Birka mezarındaki silah seti ve oyun taşları, gömülen kişinin komuta rolü taşıyabileceği tartışmasını doğurdu; fakat tek örnekten yaygınlık çıkarımı sorunludur. Saga metinleri savaşçı kadın tipini dramatikleştirir. Sağlam sonuç için arkeoloji, edebiyat ve izotop verilerini dikkatle çapraz karşılaştırmak gerekir.",
+      "accuracyNote": "Mitoloji ve arkeoloji ayrı tutulmalıdır; DNA bulguları tartışmalıdır.",
+      "whyInteresting": "Aynı mezar hem feminist ikon hem metodoloji tartışması üretti.",
+      "misconception": "Viking kadınları yaygın olarak savaştı; kanıt sınırlı ve yorumludur.",
+      "nextTopics": [
+        "Uzun Gemiler",
+        "Yağma ve Ticaret",
+        "Rün Yazıları"
+      ],
+      "sources": [
+        {
+          "title": "Viking women (Britannica)",
+          "url": "https://www.britannica.com/topic/Viking/Everyday-life",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Birka warrior grave study (Antiquity)",
+          "url": "https://www.cambridge.org/core/journals/antiquity",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Viking Age (National Museum of Denmark)",
+          "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "vikings-raid",
+        "tf26-032-raids-trade"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Vikings'ın Lagertha yayını ile İskandinav skjaldmær mitleri ve Birka mezar tartışması.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "viking",
+        "iskandinavya",
+        "denizcilik",
+        "kalkanli-kadinlar",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "Vikings hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi kalkanlı kadını standart karakter yapar; arkeoloji her silahlı kadın mezarını savaşçı saymaz.",
+      "whyItMatters": "Aynı mezar hem feminist ikon hem metodoloji tartışması üretti.",
+      "isFlagship": false,
+      "quickRealityCheck": "Bir mezarda kılıç bulmak neden otomatik olarak savaşçı anlamına gelmez?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-039-christianization",
+      "title": "Hristiyanlaşma",
+      "subtitle": "Bir sahnenin sakladığı sistem",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Orta Çağ",
+      "region": "İskandinavya",
+      "themes": [
+        "Denizcilik",
+        "Savaş",
+        "Göç"
+      ],
+      "whatWeSee": "Vikings'de dönüşüm çoğu zaman kişisel inanç krizi gibi görünür: bir tarafta manastır baskınları, diğer tarafta vaftiz, evlilik ve saray ittifakları. Ragnar, Athelstan ve sonraki kuşaklar üzerinden dizi, pagan gelenek ile Hristiyan siyasi düzeni arasındaki sürtünmeyi aile hikayesine sıkıştırır; bu da değişimi hızlı ve dramatik hissettirir.",
+      "realHistory": "İskandinav dünyasının Hristiyanlaşması tek bir vaftiz töreniyle olmadı; yaklaşık 9. yüzyıldan 12. yüzyıla uzanan parçalı bir süreçti. Danimarka'da Harald Bluetooth'un Jelling yazıtları, kralın yeni dini meşruiyet aracı olarak kullandığını gösterir. Norveç'te Olaf Tryggvason ve Olaf Haraldsson döneminde dönüşüm daha sert yöntemlerle, yerel reisleri merkezileştirme çabasıyla birlikte yürüdü. İsveç'te ise uzun süre ikili pratik sürdü; kimi bölgelerde kilise kurumu güçlenirken eski ritüeller yaşamaya devam etti.\n\nBu dönüşümün motoru yalnızca misyonerlik değildi. Kuzey Denizi ticareti, Hristiyan krallıklarla diplomasi, yazılı hukuk ihtiyacı ve piskoposluk ağlarının vergi toplama kapasitesi süreci hızlandırdı. Yani din değişimi çoğu yerde devletleşme, toprak denetimi ve hanedan rekabetiyle iç içeydi. Manastırların yağmalanması ile daha sonra onlarla ittifak kurulması arasındaki gerilim bu yüzden tarihsel olarak tutarlıdır.\n\nDizi kişisel dramı öne çıkarırken, gerçekte sıradan köylüler için değişim takvim, evlilik hukuku, mezar adeti ve yerel otorite ilişkilerinde hissedildi. Hristiyanlaşma, kuzey toplumlarını bir anda dönüştüren kırılma değil; siyasi merkezileşmeyi mümkün kılan uzun bir yeniden örgütlenme dönemiydi. Runik yazıtlardan kilise mezarlıklarına uzanan maddi izler de dönüşümün zorla, pazarlıkla ve kuşaklar boyunca birlikte ilerlediğini; tek merkezden yönetilen temiz bir geçiş anlatısının gerçeği yansıtmadığını doğrular. Bu yüzden süreç, yalnızca inanç değişimi değil, yönetim tekniği değişimi olarak da okunmalıdır.",
+      "accuracyNote": "Ana gerilim tarihsel temele dayanır; kronoloji, karakter birleştirmeleri ve dönüşüm hızı dramatik etki için sadeleştirilmiştir.",
+      "whyInteresting": "Aynı dinî sembolün hem samimi inanç hem de devlet kurma aracı olarak kullanılabildiğini net biçimde gösterir.",
+      "misconception": "Toplumların bir kralın emriyle bir gecede tamamen Hristiyan olduğu sanılır.",
+      "nextTopics": [
+        "Uzun Gemiler",
+        "Yağma ve Ticaret",
+        "Rün Yazıları"
+      ],
+      "sources": [
+        {
+          "title": "Britannica - Scandinavia: Christianization",
+          "url": "https://www.britannica.com/place/Scandinavia/Christianity",
+          "type": "article"
+        },
+        {
+          "title": "National Museum of Denmark - Jelling Monuments",
+          "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-jelling-monuments/",
+          "type": "museum"
+        },
+        {
+          "title": "Oxford Reference - Conversion and Scandinavian Kingship",
+          "url": "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095634974",
+          "type": "reference"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-040-stamford-bridge",
+        "tf26-037-shieldmaidens",
+        "vikings-funeral-fadlan-real"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Vikings'in manastır-baskın ve vaftiz sahneleri, Jelling yazıtları ile krallık merkezileşmesi tartışmalarıyla birlikte okunabilir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "viking",
+        "iskandinavya",
+        "denizcilik",
+        "hristiyanlasma",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "Vikings hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi süreci bireysel vicdan çatışmasına odaklayarak hızlandırıyor; tarihsel kayıtta dönüşüm daha yavaş, bölgesel ve kurumsal ilerliyor.",
+      "whyItMatters": "Aynı dinî sembolün hem samimi inanç hem de devlet kurma aracı olarak kullanılabildiğini net biçimde gösterir.",
+      "isFlagship": false,
+      "quickRealityCheck": "İskandinavya'da Hristiyanlaşma neden aynı tarihte ve aynı hızda gerçekleşmedi?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-040-stamford-bridge",
+      "title": "Stamford Bridge",
+      "subtitle": "1066: Stamford Bridge İngiltere'yi kim için açtı?",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Orta Çağ",
+      "region": "İskandinavya",
+      "themes": [
+        "Denizcilik",
+        "Savaş",
+        "Göç"
+      ],
+      "whatWeSee": "Vikings'te Stamford Bridge, büyük bir kader savaşı gibi kurulur: Norveç kralı Harald Hardrada'nın iddiası, İngiliz ordusunun hızlı karşılığı ve savaş alanındaki ani kırılma anları öne çıkar. Dizi bu çarpışmayı 1066 yılının dönüm noktası olarak anlatır; izleyici bir zaferin başka bir istilaya nasıl kapı araladığını aynı dramatik çizgide görür.",
+      "realHistory": "25 Eylül 1066'da Stamford Bridge'te İngiltere kralı Harold Godwinson, Norveç kralı Harald Hardrada ve müttefiki Tostig'e karşı belirleyici bir zafer kazandı. Norveç ordusu, York yakınındaki önceki başarıların ardından İngiliz kuvvetlerinin bu kadar hızlı toparlanmasını beklemiyordu. Çarpışma sonunda Hardrada ve Tostig öldü, kuzeyden gelen istila girişimi fiilen sona erdi.\n\nBu zafer, Harold için mutlak güvenlik sağlamadı. Aynı dönemde Normandiya dükü William güney kıyısına çıkarma hazırlığını tamamlamıştı. Harold ordusunu kuzeyden güneye hızla yürütmek zorunda kaldı; bu zorlu hareket, askerlerin yorgunluğu ve ikmal sorunları nedeniyle stratejik baskıyı artırdı. 14 Ekim 1066'daki Hastings Savaşı'nda Norman zaferi İngiliz tahtının el değiştirmesine yol açtı.\n\nDolayısıyla Stamford Bridge iki yönlü okunur: bir yandan son büyük Viking kral iddiasını kıran askeri başarıdır, diğer yandan İngiltere'nin Norman fethine giden yolda ordusunu tüketen kritik bir eşiktir. Dizi çarpışmayı kahramanlık merkezli anlatır; tarihsel analiz ise lojistik tempo, sefer zamanlaması ve ardışık savaş baskısının belirleyici olduğunu vurgular.\n\nAyrıca 1066 sonrası idari dönüşüm sadece hanedan değişimiyle sınırlı kalmadı; toprak mülkiyeti, vergi kayıtları ve soyluluk dengesi de yeniden kuruldu. Bu yüzden Stamford Bridge, yalnızca bir savaş sonucu değil, İngiltere'nin orta vadeli kurumsal dönüşüm zincirindeki ana halkalardan biridir. Bu etki, hukuki ve dilsel düzenlerde de uzun süre hissedildi.",
+      "accuracyNote": "Hardrada'nın yenilgisi ve savaşın tarihsel önemi doğru çerçevededir; kronolojik yoğunluk nedeniyle operasyonel ayrıntılar sadeleştirilir.",
+      "whyInteresting": "Aynı yıl içinde iki büyük savaşın yaşanması, Orta Çağ siyasetinde hız ve lojistiğin en az kahramanlık kadar önemli olduğunu kanıtlar.",
+      "misconception": "Stamford Bridge'in İngiltere'yi kalıcı biçimde güvenceye aldığı sanılır; oysa hemen ardından gelen Norman seferi dengeleri tersine çevirdi.",
+      "nextTopics": [
+        "Uzun Gemiler",
+        "Yağma ve Ticaret",
+        "Rün Yazıları"
+      ],
+      "sources": [
+        {
+          "title": "Battle of Stamford Bridge - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/event/Battle-of-Stamford-Bridge"
+        },
+        {
+          "title": "Battle of Hastings - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/event/Battle-of-Hastings"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "vikings-raid",
+        "tf26-032-raids-trade"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Kart, Vikings'teki Stamford Bridge anlatısını 1066'nın çift cepheli askeri takvimiyle birlikte değerlendirir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "viking",
+        "iskandinavya",
+        "denizcilik",
+        "stamford-bridge",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "Vikings hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dramatik anlatı bireysel cesareti öne çıkarır; tarihsel sonuçları belirleyen ana unsur ise birkaç hafta içine sıkışan yürüyüş, ikmal ve zamanlama baskısıdır.",
+      "whyItMatters": "Aynı yıl içinde iki büyük savaşın yaşanması, Orta Çağ siyasetinde hız ve lojistiğin en az kahramanlık kadar önemli olduğunu kanıtlar.",
+      "isFlagship": true,
+      "quickRealityCheck": "Harold kuzeyde kazandıysa neden birkaç hafta sonra tahtı kaybetti?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-042-burhs",
+      "title": "Burh Savunmaları",
+      "subtitle": "Alfred'in kale-şehir ağı",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "era": "Orta Çağ",
+      "region": "İngiltere",
+      "themes": [
+        "Krallık",
+        "Kimlik",
+        "Savaş"
+      ],
+      "whatWeSee": "The Last Kingdom'da surlar, toprak rampalar, Dan akınları sırasında tahliye edilen köyler ve kuşatma sahneleri. Dizi burh'ları çoğu zaman tek bir kalenin dramatik savunması olarak gösterir.",
+      "realHistory": "9. yüzyılın ikinci yarısında Viking akınları Anglo-Sakson krallıklarını parçalıyordu. Wessex kralı Alfred, 878'deki Edington zaferinden sonra yalnızca bir savaş kazanmadı — savunmayı yeniden tasarladı. Burh adı verilen tahkimatlı yerleşimler ağı kurdu.\n\nBurh basit bir kale değildi. Savunma hattı, asker toplama noktası, pazar yeri ve vergi merkeziydi. Burghal Hidage adlı belge, Wessex ve Mercia sınırında otuzdan fazla burh'u ve her birinin bakımı için ayrılan “hide” vergisini listeler. Sistem, bir burh'tan diğerine bir gün yürüme mesafesi olacak şekilde kurgulandı; böylece Viking akıncıları içeri girmeden karşılanabilirdi.\n\nWinchester, Wallingford, Oxford ve daha birçok bugünkü İngiliz kasabası bu ağın parçasıydı. Bazıları Roma surlarının üzerine inşa edildi; bazıları sıfırdan kazıldı. Alfred'in oğlu Edward ve kızı Æthelflæd sistemi genişletti; Danelaw sınırı yavaş yavaş geri çekildi.\n\nThe Last Kingdom burh'ları Uhtred'in kişisel savaşları üzerinden gösterir. Tarihsel önem ise bireysel kahramanlıkta değil, krallığın harita ölçeğinde örgütlenmiş savunma ağındadır.",
+      "accuracyNote": "Alfred'in burh sistemi tarihsel olarak doğrudur; Uhtred ve birçok karakter Bernard Cornwell kurgusudur. Dizi tek bir burh'u kuşatma dramına indirger; gerçekte ağ onlarca noktadan oluşuyordu.",
+      "whyInteresting": "Bugünkü birçok İngiliz kasabası, 9. yüzyılda savunma amacıyla kurulmuş bir burh'un üzerine oturur.",
+      "misconception": "Burh yalnızca bir kale sanılır; oysa askeri savunmanın yanı sıra vergi, pazar ve asker toplama işlevi gören idari merkezlerdi.",
+      "nextTopics": [
+        "Alfred'in Reformları",
+        "Wessex'in Yükselişi",
+        "Dan Yerleşimleri"
+      ],
+      "sources": [
+        {
+          "title": "Alfred the Great (English Heritage)",
+          "url": "https://www.english-heritage.org.uk/learn/histories/alfred-the-great/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Alfred the Great (Britannica)",
+          "url": "https://www.britannica.com/biography/Alfred-the-Great",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Burh — fortified town (Britannica)",
+          "url": "https://www.britannica.com/topic/burh",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Burghal Hidage and the West Saxon burhs (Cambridge)",
+          "url": "https://www.cambridge.org/core/journals/anglo-saxon-england/article/abs/burghal-hidage-and-the-west-saxon-burhs-a-reappraisal/A858C17C69609BE6AB1C570B00B1B7A0",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-044-danish-settlement",
+        "tf26-047-shield-wall"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Last Kingdom burh savunmalarını kişisel savaş olarak gösterir; bu kart Alfred'in harita ölçeğindeki savunma ağını açıklar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "anglo-sakson",
+        "ingiltere",
+        "orta-cag",
+        "burh-savunmalari",
+        "true-frame"
+      ],
+      "spoilerNote": "The Last Kingdom hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi tek bir burh kuşatmasını dramatize eder; tarihsel sistem onlarca noktadan oluşan bir savunma ağıydı.",
+      "whyItMatters": "Burh ağı, Viking baskılarına karşı yerel savunmayı kurumsallaştıran bir İngiliz modeliydi.",
+      "isFlagship": false,
+      "quickRealityCheck": "The Last Kingdom'daki surlar gerçek — peki Alfred'in burh ağı neden tek kale değildi?",
+      "lastReviewedAt": "2026-06-24",
+      "reviewerNote": "Burh sistemi English Heritage, Britannica ve Burghal Hidage akademik literatürü ile doğrulandı."
+    }
+  ]
+}

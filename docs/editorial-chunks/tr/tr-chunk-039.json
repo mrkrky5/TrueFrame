@@ -1,0 +1,288 @@
+{
+  "locale": "tr",
+  "chunkIndex": 39,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-002-nile-floods",
+      "title": "Nil Taşkınları",
+      "subtitle": "Nil taşkını vergi defterine bağlıydı",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Origins",
+      "era": "Antik Dünya",
+      "region": "Mısır",
+      "themes": [
+        "Antik Dünya",
+        "Din",
+        "Gündelik Yaşam"
+      ],
+      "whatWeSee": "Assassin’s Creed Origins, Nil taşkınlarını büyüleyici bir doğa döngüsü olarak sahneliyor: su yükseliyor, toprak canlanıyor, yaşam yenileniyor. Oyuncu nehrin ritmini estetik olarak hissediyor; ancak vergi, depolama ve kıtlık yönetimi gibi idari katmanlar genellikle görünmez kalıyor. Böylece bereket öne çıkarken kırılganlık arka planda kalabiliyor.",
+      "realHistory": "Antik Mısır'da Nil taşkınları yalnızca çevresel bir olay değil, devlet kapasitesinin temel belirleyicisiydi. Etiyopya yaylalarından gelen mevsimsel su rejimi tarımsal verimi etkiliyor; verim, vergi tahsilatı ve tahıl depolama planlarını doğrudan belirliyordu. Bu nedenle nilometreler geliştirildi: su seviyesi ölçümü, hasat beklentisi ve mali planlama için erken uyarı işlevi görüyordu.\n\nPtolemaios ve erken Roma dönemindeki kayıtlar, düşük taşkın yıllarında üretim daralması, fiyat artışı ve sosyal gerilim arasında güçlü bağlar kurar. Yüksek taşkın da her zaman sorunsuz bereket demek değildi; altyapı hasarı, kanal bakımı ve dağıtım sorunları yeni maliyetler doğurabiliyordu. Bu yüzden taşkının iyi ya da kötü sonuç vermesi, yalnız su miktarına değil ölçüm, yerel yönetim ve lojistik kapasiteye bağlıydı.\n\nYazıcı sınıfının kayıt pratikleri, depolama organizasyonu ve bölgesel sevkiyat kararları Nil rejimine göre şekilleniyordu. Nehir ritmi bozulduğunda sorun yalnızca tarla verimi değildi; kamu otoritesinin meşruiyeti de baskı altına giriyordu. Assassin's Creed Origins nehrin atmosferini güçlü biçimde kurar; tarihsel perspektif ise bu manzaranın arkasındaki sayım, planlama ve kriz yönetimi teknolojisini görünür kılar.\n\nNil'in hikayesi, çevresel döngülerin siyasi düzeni nasıl biçimlendirdiğini gösterir. Antik çağda bile veri toplama, vergi ve kamusal karar alma birbirinden ayrı değildi; su seviyesinin ölçülmesi, devletin ne kadar yiyecek bekleyeceğini ve halka ne kadar güven verebileceğini doğrudan etkiliyordu.",
+      "accuracyNote": "Nil’in yaşamsal rolü gerçektir; bürokratik ölçüm ve dağıtım boyutu oyun anlatısında sadeleştirilmiştir.",
+      "whyInteresting": "Nilometreler yalnız dini ya da sembolik yapılar değildi; su seviyesi ölçümü hasat beklentisi, vergi ve depolama kararlarını etkiliyordu.",
+      "misconception": "Nil bereketinin kendiliğinden ve yönetimden bağımsız işlediği sanılır; gerçekte taşkın, ölçüm ve bürokrasiyle birlikte anlam kazanıyordu.",
+      "nextTopics": [
+        "İskenderiye Kütüphanesi",
+        "Mumyalama Gerçeği",
+        "Yazıcıların Gücü"
+      ],
+      "sources": [
+        {
+          "title": "Nilometer (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/technology/nilometer"
+        },
+        {
+          "title": "Nile River (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/place/Nile-River"
+        },
+        {
+          "title": "The Nile and Ancient Egypt (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/article/861/the-nile-and-ancient-egypt/"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-004-scribes",
+        "tf26-008-temple-economy"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Origins doğal döngüyü merkezliyor; True Frame aynı sahneye kayıt, vergi ve lojistik katmanını ekliyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-misir",
+        "misir",
+        "assassins-creed",
+        "nil-taskinlari",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun taşkını doğa manzarası olarak öne çıkarıyor; tarihsel kayıtlar taşkın ölçümünün vergi ve istikrarla doğrudan ilişkili olduğunu gösteriyor.",
+      "whyItMatters": "Nil taşkınları, iklim ve çevre bilgisinin erken devlet yönetiminde ne kadar merkezi olduğunu gösterir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Nil taşkını yalnız tarlayı mı besliyordu, yoksa vergi defterini ve devlet istikrarını da mı belirliyordu?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-003-mummification",
+      "title": "Mumyalama Gerçeği",
+      "subtitle": "Mumya: ölüm ritüeli mi, kimlik belgesi mi?",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Origins",
+      "era": "Antik Dünya",
+      "region": "Mısır",
+      "themes": [
+        "Antik Dünya",
+        "Din",
+        "Gündelik Yaşam"
+      ],
+      "whatWeSee": "Assassin's Creed Origins mezarları loş koridorlar, mühürlü lahitler ve mumya sandıklarıyla bir macera alanına çeviriyor. Oyuncu için mumyalanmış beden çoğu zaman gizemli bir nesne ya da ganimet işareti. Görüntü etkileyici, ama ritüelin sosyal maliyeti ve aile kararları arka planda kalıyor.",
+      "realHistory": "Mumyalama, Antik Mısır'da tek tip bir paket hizmet değildi; döneme, bölgeye ve hanenin gelirine göre değişen bir uygulama setiydi. Temel amaç bedeni koruyarak kişinin kimliğini öteki dünyaya taşımaktı. Uygulamada beden natronla kurutulur, reçine ve ketenle sarılır, kimi durumlarda yüz maskesi ya da kartonaj eklenirdi. Organların her zaman ayrı kaplara konduğu fikri fazla geneldir; Geç Dönem ve Ptolemaios çağında farklı teknik kombinasyonlar görüyoruz.\n\nBu ritüel aynı zamanda ekonomi yaratırdı: keten üreticisi, reçine tedarikçisi, tabut ustası, yazıcı ve rahip aynı zincirde yer alıyordu. Daha varlıklı aileler metin parçaları, amulet ve bezeme için daha fazla ödeme yaparken, dar gelirli aileler sade paketlere yöneliyordu. Dolayısıyla mezar eşyası farkı, inanç farkından çok bütçe farkını da anlatır.\n\nAtölyeler arasında kalite farkı da belirgindi. Bazı merkezler daha ince keten sarım ve daha dayanıklı reçine kullanırken, düşük bütçeli paketlerde katman sayısı azaltılabiliyordu. Arkeolojik taramalar, aynı nekropol içinde bile teknik çeşitliliğin yüksek olduğunu gösteriyor. Bu tablo, cenaze hizmetinin standart bir ritüelden çok piyasa koşullarına açık bir hizmet alanı olduğunu düşündürüyor.\n\nMÖ 1. yüzyılda mezar soygunu ciddi bir sorundu; bu nedenle mühür, denetim ve yeniden gömme gibi pratikler ortaya çıktı. Yani mumya, sessiz bir ölü bedenden çok, yaşayanların hukuk, emek ve itibar ilişkilerine bağlı bir toplumsal projeydi.",
+      "accuracyNote": "Temel mumyalama adımları gerçekçi; oyundaki erişilebilir mezar yoğunluğu dramatik ihtiyaçlarla artırılmış.",
+      "whyInteresting": "Mumya hikayesinin arkasında görünmez ustaları ve ailelerin zorlu tercihlerini yakalamak çok çarpıcı.",
+      "misconception": "Mısır'da herkesin aynı biçimde ve aynı kaliteyle mumyalandığı sanılır.",
+      "nextTopics": [
+        "İskenderiye Kütüphanesi",
+        "Nil Taşkınları",
+        "Yazıcıların Gücü"
+      ],
+      "sources": [
+        {
+          "title": "Mummification in Ancient Egypt",
+          "url": "https://www.britishmuseum.org/collection/galleries/egyptian-mummies",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Mummy",
+          "url": "https://www.britannica.com/topic/mummy",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Egyptian Funerary Practices",
+          "url": "https://www.metmuseum.org/toah/hd/mumm/hd_mumm.htm",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-010-afterlife",
+        "tf26-006-animal-cults"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Origins'in mezar estetiği güçlü; True Frame, bu estetiğin arkasındaki iş bölümünü öne çıkarıyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-misir",
+        "misir",
+        "assassins-creed",
+        "mumyalama-gercegi",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyunda mumya çoğunlukla keşif nesnesi gibi duruyor. Tarihte ise uzun bir zanaat ve ritüel emek zincirinin sonucu.",
+      "whyItMatters": "Mumya hikayesinin arkasında görünmez ustaları ve ailelerin zorlu tercihlerini yakalamak çok çarpıcı.",
+      "isFlagship": false,
+      "quickRealityCheck": "Aynı dönemde bir zenginle bir köylünün cenaze hazırlığı neden bu kadar farklı görünüyordu?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-004-scribes",
+      "title": "Yazıcıların Gücü",
+      "subtitle": "Yazı kimin elindeydi: firavun mu, kâtib mi?",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Origins",
+      "era": "Antik Dünya",
+      "region": "Mısır",
+      "themes": [
+        "Antik Dünya",
+        "Din",
+        "Gündelik Yaşam"
+      ],
+      "whatWeSee": "Assassin's Creed Origins'te vergi listeleri, papirüs ruloları ve resmi mühürler kısa anlarda görünüp geçiyor; asıl odağı savaşçılar kapıyor. Oysa oyun haritasındaki her liman, ambar ve tapınak kayda bağlı çalışıyor. Yazıcılar görünmez kalsa da düzenin dili onların elinden geçiyor ve gündelik hayatın ritmini belirliyor.",
+      "realHistory": "Ptolemaios Mısır'ında yazıcılar, devletin sinir sistemi gibiydi. Üç yazı rejimi yan yana işliyordu: hiyeroglif ritüel ve anıtsal alanlarda, demotik gündelik sözleşme ve yerel yönetimde, Yunanca ise saray bürokrasisi ile uluslararası ticarette baskındı. Bir köydeki tahıl borcu kaydıyla İskenderiye'deki vergi planı aynı evrak zincirinin parçası olabiliyordu.\n\nYazıcı olmak uzun eğitim gerektirirdi. Hesap, ölçü birimleri, hukuki kalıplar ve arşiv pratiği öğrenilmeden görev alınmazdı. Nil taşkını ölçümleri, toprak verim tahmini, asker sevki ve tapınak gelirleri bu kayıt düzeni olmadan yönetilemezdi. Rosetta Taşı bu dünyayı iyi özetler: aynı kararnameyi üç yazı sisteminde yayımlayarak farklı topluluklara aynı anda seslenir.\n\nYazıcılık aynı zamanda sınırlı bir sosyal yükselme kapısıydı. Ailesinde toprak olmayan biri, iyi bir okul ve koruyucu ağ sayesinde idari görevlere yaklaşabiliyordu. Bu yüzden kalem, sadece teknik beceri değil statü aracıydı. Köy düzeyindeki anlaşmazlıklar çoğu zaman kılıçla değil belge diliyle çözülür, hukuk metni yorumu fiili sonuç üretirdi. Arşiv odaları bu yüzden siyasi merkez kadar kritikti.\n\nBu nedenle güç sadece saray entrikalarında değil, belge üretme yetkisinde toplanıyordu. Bir adın deftere nasıl yazıldığı vergi miktarını, bir muafiyet cümlesi ise bütün bir mahallenin yükünü değiştirebilirdi. Yazıcılar kılıç taşımıyordu, ama devletin kimden ne alacağını ve kime ne tanıyacağını belirleyen pratik otoriteyi kullanıyordu.",
+      "accuracyNote": "Üç dilli bürokrasi tarihsel olarak doğrulanmış durumda; oyunda bu yapı sadeleştirilmiş biçimde temsil ediliyor.",
+      "whyInteresting": "Sessiz görünen bir meslek grubunun, koskoca bir devleti nasıl yönlendirebildiğini görmek etkileyici.",
+      "misconception": "Antik Mısır'da yazının yalnızca rahipler için sembolik bir alan olduğu düşünülür.",
+      "nextTopics": [
+        "İskenderiye Kütüphanesi",
+        "Nil Taşkınları",
+        "Mumyalama Gerçeği"
+      ],
+      "sources": [
+        {
+          "title": "The Rosetta Stone",
+          "url": "https://www.britishmuseum.org/collection/object/Y_EA24",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Ancient Egyptian Writing",
+          "url": "https://www.britannica.com/topic/ancient-Egyptian-writing",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Writing and Bureaucracy in Ptolemaic Egypt",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/literature/ptolemaicwriting.html",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-001-alexandria-library",
+        "tf26-005-cleopatra-politics",
+        "ac-origins-siwa"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Origins'in liman ve tapınak sahneleri, yazıcı sınıfı hesaba katıldığında çok daha anlamlı hale geliyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-misir",
+        "misir",
+        "assassins-creed",
+        "yazicilarin-gucu",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun bürokrasiyi arka plan dokusu olarak bırakıyor. Gerçekte siyasi gücün önemli kısmı kalem, mühür ve arşiv akışında toplanmıştı.",
+      "whyItMatters": "Sessiz görünen bir meslek grubunun, koskoca bir devleti nasıl yönlendirebildiğini görmek etkileyici.",
+      "isFlagship": true,
+      "quickRealityCheck": "Bir köylünün vergi kaderini kim belirliyordu: valinin emri mi, yoksa onu kayda geçiren yazıcı mı?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-005-cleopatra-politics",
+      "title": "Kleopatra'nın Siyaseti",
+      "subtitle": "Kleopatra: aşk hikâyesi değil, tahıl diplomasisi",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Origins",
+      "era": "Antik Dünya",
+      "region": "Mısır",
+      "themes": [
+        "Antik Dünya",
+        "Din",
+        "Gündelik Yaşam"
+      ],
+      "whatWeSee": "Assassin's Creed Origins, Cleopatra'yı sadakatin hızla değiştiği bir sarayda karizmatik, stratejik ve tehlikeli biri olarak tasvir eder. Roma'nın güç simsarlarıyla kurulan ittifaklar hikayedeki büyük kırılmaları belirler ve kişisel erişim jeopolitik sonuçları belirliyormuş gibi görünür. Oyunun dramatik anlatımı, Mısır'ın kaderinin saray içi kimya, baştan çıkarma siyaseti ve ani dönüşlere bağlı olduğunu; Alexandria'nın ise özel ilişkilerle imparatorluk rekabetinin ayrılmaz hale geldiği bir sahne işlevi gördüğünü ima eder.",
+      "realHistory": "Cleopatra VII, Ptolemaios hanedan istikrarsızlığının Roma Cumhuriyeti'nin iç savaşlarıyla kesiştiği bir dönemde hüküm sürdü; bu da Mısır egemenliğini Akdeniz'deki güç mücadelelerine bağımlı hale getirdi. Julius Caesar ve daha sonra Mark Antony ile kurduğu ortaklıklar çoğu kez romantik çerçevede anlatılsa da, bunlar aynı zamanda somut stratejik hedeflere hizmet ediyordu: askeri destek sağlamak, tahıl gelirlerini korumak, mali denetimi elde tutmak ve iç rakiplere karşı meşruiyeti sürdürmek. Alexandria finansal ve lojistik bir merkezdi; Nil üretimi ile deniz yollarının kontrolü Mısır'a boyutunun ötesinde bir kaldıraç sağlıyordu. Cleopatra'nın yönetimi; vergilendirme, saray koalisyonlarını yönetme, tapınak siyaseti ve farklı elitlerle yabancı aktörlere yönelik çok dilli diplomasiyi içeriyordu. Eldeki kanıtlar, yalnızca saray performansı sergileyen bir figürden çok devlet yönetimiyle meşgul bir hükümdara işaret eder. Actium ve sonrasındaki yenilgilerden sonra Mısır, Roma'nın imparatorluk yapısına dahil edildi; bu da bölgesel siyaseti dönüştürüp Ptolemaios hanedanının özerkliğini sona erdirdi. Sonraki edebi gelenekler, özellikle Roma'nın ahlakçı anlatıları, cinsellik ve gösteriyi büyüterek idari yetkinliği çoğu zaman küçümsedi. Modern medya da bilinçli biçimde düzeltilmediğinde bu çerçeveyi miras alır. Origins dönemin oynaklığını yakalar ama kurumsal kısıtları kişiler arası drama içinde sadeleştirir. Tarihsel olarak Cleopatra'nın önemi, daralan stratejik seçenekler içinde rejimin hayatta kalmasını sürdürme çabasında yatar; burada ekonomik kapasite, askeri kaynaklar ve diplomatik zamanlama en az kişisel karizma kadar belirleyicidir.",
+      "accuracyNote": "Hanedan istikrarsızlığı ve Roma ile iç içe geçme doğrudur; yapısal yönetim unsurları karakter odaklı sahnelere indirgenmiştir.",
+      "whyInteresting": "Geç Helenistik yönetimin idari gerçekleri ile ikonik miti karşı karşıya getirir.",
+      "misconception": "Cleopatra, politika ve kaynak kontrolünden çok baştan çıkarma yoluyla etkili olmuş gibi ele alınır.",
+      "nextTopics": [
+        "İskenderiye Kütüphanesi",
+        "Nil Taşkınları",
+        "Mumyalama Gerçeği"
+      ],
+      "sources": [
+        {
+          "title": "Cleopatra (Britannica)",
+          "url": "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Ptolemaic dynasty (Britannica)",
+          "url": "https://www.britannica.com/topic/Ptolemaic-dynasty",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Cleopatra and Caesar (Met Museum)",
+          "url": "https://www.metmuseum.org/art/collection/search/547802",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-001-alexandria-library",
+        "tf26-002-nile-floods",
+        "ac-origins-siwa"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Origins gerilim ve karizmayı iyi yakalar; ancak kurumlar öne alındığında tarihsel özneleşme daha net görünür.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-misir",
+        "misir",
+        "assassins-creed",
+        "kleopatra-nin-siyaseti",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "Assassin's Creed Origins hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Oyun kişiler arası entrikayı öne çıkarır; oysa tarihsel sonuçlar mali, askeri ve diplomatik yapılar tarafından güçlü biçimde şekillendirildi.",
+      "whyItMatters": "Geç Helenistik yönetimin idari gerçekleri ile ikonik miti karşı karşıya getirir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Cleopatra, çökmekte olan bölgesel güç dengesinin içinde hareket eden bir devlet stratejistiydi.",
+      "lastReviewedAt": "2026-06-27"
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "batch": "tr-chunks-009-010-source-aware",
+  "sourceChunks": [
+    "tr-chunk-009.json",
+    "tr-chunk-010.json"
+  ],
+  "locale": "tr",
+  "notes": [
+    "Patch entries include only fields that should be replaced.",
+    "sourceUpdates are separated from text fields so Cursor can apply them explicitly.",
+    "All source updates set verified metadata where missing."
+  ],
+  "entries": [
+    {
+      "id": "kcd2-medieval-law",
+      "locale": "tr",
+      "decision": "minor_edit_source_cleanup",
+      "fields": {
+        "realHistory": "Geç Orta Çağ Orta Avrupa’sında hukuk tek bir kral buyruğu gibi işlemezdi. Krallık yetkisi, feodal haklar, kilise mahkemeleri, şehir ayrıcalıkları ve lonca kuralları aynı coğrafyada üst üste binerdi. Bohemya gibi bölgelerde bazı kentler, Magdeburg hukuku çevresinde gelişen belediye statülerinden etkilendi; bu statüler miras, borç, pazar düzeni, mülkiyet ve kamu güvenliği gibi konularda yerel mahkemelere belirli bir hareket alanı veriyordu.\n\n“Stadtluft macht frei” sözü de bu dünyanın en bilinen özetlerinden biridir. Her şehirde aynı biçimde uygulanmasa da, bir bağımlı köylünün şehirde belirli süre yaşayarak eski efendisinin doğrudan talebinden kurtulabileceği fikrini anlatır. Bu yüzden şehir duvarı yalnız savunma çizgisi değildi; farklı vergi, lonca, pazar ve yargı düzeninin başladığı sosyal bir eşikti.\n\nKingdom Come: Deliverance dünyası suç ve ceza hissini görevler, itibar ve yerel otorite üzerinden iyi verir. Gerçek kayıtlarda ise süreç daha bürokratiktir: şahit beyanı, yazman kaydı, para cezası, uzlaşma, sürgün veya kamusal teşhir gibi araçlar birlikte kullanılırdı. Modern anlamda uzun hapis cezası her zaman merkezde değildi; statü, tanıklık ve yerel güç ilişkileri sonucu doğrudan etkileyebilirdi.\n\nBu yüzden oyundaki adalet hissi tarihsel olarak anlamlıdır, ama eksik okunmamalıdır. Orta Çağ şehri kanunsuz bir kaos değil; farklı yetkilerin pazarlıkla işlediği, yazılı kayıtların ve yerel teamüllerin giderek önem kazandığı karmaşık bir hukuk alanıydı.",
+        "whyInteresting": "Şehir hukuku, Orta Çağ’da özgürlüğün sadece soyla değil, nerede yaşadığın ve hangi mahkemeye bağlı olduğunla da ilişkili olduğunu gösterir.",
+        "misconception": "Orta Çağ şehirlerinde herkesin keyfi şiddet içinde yaşadığı sanılır; oysa birçok kent, pazar düzeninden mirasa kadar ayrıntılı hukuk pratikleriyle yönetiliyordu.",
+        "mediaChanged": "KCD hukuku daha çok görev sonucu ve itibar sistemiyle görünür kılar; gerçek kent hukukunda yazman kayıtları, yerel mahkemeler ve statü farkları daha belirleyiciydi.",
+        "whyItMatters": "Bu konu, Orta Çağ’ı sadece kılıç ve kale üzerinden değil, şehirlerin kurumsal düzeni ve yerel hukuk kültürü üzerinden okumayı sağlar.",
+        "quickRealityCheck": "Orta Çağ şehirleri gerçekten kanunsuz muydu, yoksa feodal, kilise ve belediye hukukunun iç içe geçtiği karmaşık düzenler miydi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Magdeburg Law (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/topic/Magdeburg-law",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Magdeburg Law – European Route of Magdeburg Law",
+            "url": "https://magdeburg-law.com/",
+            "type": "reference",
+            "verified": true
+          },
+          {
+            "title": "City life sets you free (Horizons Magazine)",
+            "url": "https://www.horizons-mag.ch/2022/03/03/city-life-sets-you-free/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "factCheckNotes": [
+        "Stadtluft macht frei ifadesi 'köle' yerine bağımlı köylü/serf bağlamında daha güvenli verildi.",
+        "Magdeburg hukuku tek ve değişmez bir yasa kitabı gibi değil, şehir ayrıcalıkları ve yerel uyarlamalar ağı olarak çerçevelendi."
+      ]
+    },
+    {
+      "id": "last-samurai-rebellion",
+      "locale": "tr",
+      "decision": "rewrite_source_cleanup",
+      "fields": {
+        "whatWeSee": "Filmde geleneksel samuraylar, modernleşen imparatorluk ordusuna karşı neredeyse yalnız kılıç ve onurla direnen son savaşçılar gibi görünür.",
+        "realHistory": "The Last Samurai, 1877 Satsuma İsyanı’ndan esinlenir; fakat gerçek çatışma “kılıç mı tüfek mi?” kadar basit değildi. Meiji Restorasyonu sonrasında Japon devleti merkezi orduyu, zorunlu askerliği, yeni vergi düzenini ve modern bürokrasiyi güçlendirdi. Bu dönüşüm, eski samuray sınıfının maaşlarını, ayrıcalıklarını ve siyasi ağırlığını aşındırdı. Satsuma’daki hoşnutsuzluk bu yüzden yalnız nostaljik onur meselesi değil, bir sınıfın ekonomik ve statü kaybı kriziydi.\n\nSaigō Takamori, bu direnişin en güçlü sembolüne dönüştü. İsyancılar filmdeki gibi teknolojiye tamamen sırt çevirmiş değildi; modern tüfekler, toplar ve askeri eğitim kullanıyorlardı. Sorun, Meiji devletinin daha büyük kaynaklara, zorunlu askerlerden oluşan ulusal orduya ve merkezi lojistik kapasiteye sahip olmasıydı. Kumamoto Kuşatması ve Şiroyama’daki son çatışma, eski bölgesel savaşçı ağlarının modern devlet ordusu karşısında tutunamadığını gösterdi.\n\nFilm, bu tarihsel dönüşümü bir yabancı subayın gözünden romantikleştirir. Gerçekte Satsuma İsyanı, samurayların modernleşmeye “ilkel” biçimde karşı çıkmasından çok, modernleşmenin bedelini kimin ödeyeceği sorusuydu. Saigō’nun ölümünden sonra halk belleğinde onurlu bir figüre dönüşmesi de bu çelişkiden gelir: yenilmişti, ama temsil ettiği kayıp sınıf ve eski sadakat dili Japon modernleşmesinin vicdanında yaşamaya devam etti.",
+        "accuracyNote": "Film Satsuma İsyanı’ndan ilham alır, ancak samurayları teknoloji karşıtı ve saf geleneksel savaşçılar gibi göstermesi fazla romantiktir.",
+        "whyInteresting": "Satsuma İsyanı, modern Japon ordusunun yalnız dış düşmanlara değil, eski savaşçı elitlere karşı da kurulduğunu gösteren sert bir iç sınavdı.",
+        "misconception": "Samurayların ateşli silahlara düşman olduğu sanılır; gerçekte Japon savaşçı elitleri 16. yüzyıldan beri tüfekleri kullanmış ve uyarlamıştı.",
+        "mediaChanged": "The Last Samurai, çatışmayı onurlu gelenek ile ruhsuz modernlik karşıtlığına indirger; tarihsel gerçek ise statü kaybı, maaş reformu, zorunlu askerlik ve merkezi devlet inşasıyla ilgilidir.",
+        "whyItMatters": "Bu hikâye, modernleşmenin her zaman ilerleme gibi görünmediğini; bazı gruplar için kimlik, geçim ve siyasi güç kaybı anlamına geldiğini hatırlatır.",
+        "quickRealityCheck": "Satsuma İsyanı gerçekten kılıçların tüfeklere karşı son savaşı mıydı, yoksa eski bir sınıfın modern devlet karşısındaki son siyasi direnişi miydi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Satsuma Rebellion (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/event/Satsuma-Rebellion",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Saigō Takamori (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/biography/Saigo-Takamori",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Meiji Restoration (Asia for Educators, Columbia University)",
+            "url": "https://afe.easia.columbia.edu/special/japan_1750_meiji.htm",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "factCheckNotes": [
+        "İsyancılar modern silah kullanıyordu; filmdeki teknoloji karşıtı samuray imajı yumuşatıldı.",
+        "Ekonomik/statü kaybı ve Meiji merkezi devlet inşası ana eksene alındı."
+      ]
+    },
+    {
+      "id": "band-of-brothers-airborne",
+      "locale": "tr",
+      "decision": "flagship_rewrite_source_cleanup",
+      "fields": {
+        "whatWeSee": "Band of Brothers, Easy Bölüğü’nü Normandiya’dan Bastogne’a uzanan yolda, özellikle Ardenler’de don, topçu ateşi ve mühimmat kıtlığı altında dayanırken gösterir.",
+        "realHistory": "Easy Bölüğü, 101. Hava İndirme Tümeni’ne bağlı 506. Paraşüt Piyade Alayı’nın E Bölüğüydü. Dizi onu haklı olarak küçük birlik dayanıklılığı ve liderlik üzerinden anlatır; ancak tarihsel önem yalnız “kardeşlik” hissinden ibaret değildir. Hava indirme birlikleri, düşman gerisine atılmak için eğitilmişti ama savaşın büyük kısmında normal piyade gibi mevzi tutmak, köy temizlemek, yol kavşağı savunmak ve topçu ateşi altında beklemek zorunda kaldılar.\n\nNormandiya’da paraşüt atlayışları planlandığı kadar düzenli geçmedi. Birçok asker yanlış noktalara indi, birlikler dağıldı ve komutanlar küçük gruplarla hedeflere yönelmek zorunda kaldı. Brécourt Manor saldırısı bu yüzden askeri tarihte öne çıkar: sınırlı sayıda asker, iyi liderlik ve hızlı keşifle Alman topçu mevzilerini susturdu. Band of Brothers bu anları dramatize eder ama temel mantık doğrudur: başarı büyük planın kusursuzluğundan çok, sahadaki doğaçlama koordinasyondan çıktı.\n\nBastogne ise Easy Bölüğü’nün en zor sınavıydı. Aralık 1944’te Ardenler Taarruzu sırasında 101. Hava İndirme, dondurucu havada ve eksik kış teçhizatıyla kritik yol kavşağını savundu. Almanlar teslim çağrısı yaptığında Tuğgeneral Anthony McAuliffe’in “Nuts!” cevabı direnişin simgesine dönüştü. Ancak sahadaki gerçek daha sessizdi: tilki çukurlarında donan ayaklar, yetersiz tıbbi malzeme, sürekli topçu ateşi ve ne zaman geleceği bilinmeyen ikmal.\n\nDizinin gücü, bu cephe deneyimini yalnız zafer olarak değil, yıpranma olarak göstermesidir. Easy Bölüğü’nün hikâyesi, elit birlik romantizmini aşar: Hava indirme askerleri sadece uçaktan atlayan kahramanlar değil, en kötü koşullarda sıradan piyade işini yapmaya zorlanan insanlardı.",
+        "accuracyNote": "Dizi Stephen Ambrose’un kitabı ve gazilerin tanıklıkları üzerine kuruludur; yine de bazı karakter anları, zaman çizgisi ve bireysel tepkiler dramatik akış için düzenlenmiştir.",
+        "whyInteresting": "Bastogne’da asıl düşman yalnız Alman saldırısı değildi; don, yetersiz kışlık kıyafet ve uzun süreli topçu ateşi askerleri cephe kadar içeriden de yıprattı.",
+        "misconception": "Hava indirme birliklerinin görevinin sadece paraşütle atlamak olduğu sanılır; gerçekte çoğu zaman cephede normal piyade gibi mevzi tuttu ve savunma savaşı verdi.",
+        "mediaChanged": "Band of Brothers bireysel karakterleri öne çıkarır; tarihsel ölçekte aynı hikâye, küçük birlik liderliği, ikmal krizi ve Ardenler’deki stratejik yol kavşaklarının önemidir.",
+        "whyItMatters": "Easy Bölüğü’nün hikâyesi, savaşta kahramanlığın çoğu zaman büyük saldırılardan değil, dayanma gücü ve kötü koşullarda görev yapmaktan doğduğunu gösterir.",
+        "quickRealityCheck": "Bastogne direnişi yalnız cesaret hikâyesi miydi, yoksa don, ikmal, topçu ateşi ve küçük birlik koordinasyonunun sınavı mıydı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Battle of the Bulge (National WWII Museum)",
+            "url": "https://www.nationalww2museum.org/war/articles/battle-of-the-bulge",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The Battle of the Bulge (U.S. Army Center of Military History)",
+            "url": "https://history.army.mil/html/books/007/7-8-1/CMH_Pub_7-8-1.pdf",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "101st Airborne Division (U.S. Army)",
+            "url": "https://www.army.mil/101stAirborne",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "factCheckNotes": [
+        "Bastogne ve Ardenler bağlamı korunarak fazla uzun karakter biyografisi kısaltıldı.",
+        "Albert Blithe gibi spoiler/yan düzeltmeler merkezden çıkarıldı; kartın odağı Bastogne ve hava indirme rolü oldu."
+      ]
+    },
+    {
+      "id": "the-terror-arctic",
+      "locale": "tr",
+      "decision": "flagship_rewrite_source_cleanup",
+      "fields": {
+        "whatWeSee": "The Terror, HMS Erebus ve HMS Terror’ün Kuzeybatı Geçidi arayışında buzlara sıkışmasını; açlık, hastalık, korku ve doğaüstü tehditle çöken bir seferi anlatır.",
+        "realHistory": "Franklin Seferi 1845’te İngiltere’den yola çıktığında dönemin en iyi donatılmış kutup girişimlerinden biri sayılıyordu. HMS Erebus ve HMS Terror buhar destekli, sağlamlaştırılmış gövdeli ve yıllarca yetecek erzakla hazırlanmıştı. Ama Kuzeybatı Geçidi arayışı, yalnız teknoloji meselesi değildi. Arktik’te hayatta kalmak, buzun hareketini, av kaynaklarını, mevsimsel rotaları ve yerel bilgiyi anlamayı gerektiriyordu.\n\nGemiler 1846’da King William Adası yakınlarında buz içinde kaldı. 1848’de bırakılan Victory Point notu, Franklin’in öldüğünü ve sağ kalanların gemileri terk ederek güneye yürümeye çalıştığını gösterir. Bu karar, çaresizlik içinde alınmıştı: ağır botlar, zayıflamış bedenler, soğuk, yetersiz beslenme ve bilinmeyen arazi birleşince yürüyüş neredeyse imkânsız hale geldi. Seferden hiç kimse dönmedi.\n\nFelaketin nedeni tek bir şeye indirgenemez. Skorbüt, açlık, hipotermi, enfeksiyonlar ve muhtemel kurşun maruziyeti birlikte düşünülür. Konserve gıdaların ve gemi sistemlerinin kurşunla ilişkisi uzun süre tartışıldı; fakat modern araştırmalar kurşun zehirlenmesini tek açıklama olarak görmez. Inuit tanıklıkları ise seferin son aşamalarını anlamada kritik önemdedir. İngiliz arama ekiplerinin başlangıçta küçümsediği bu sözlü bilgiler, gemi enkazlarının bulunmasında ve yamyamlık kanıtlarının yorumlanmasında daha sonra değer kazandı.\n\nThe Terror, bu tarihsel boşlukları korku türüyle doldurur. Doğaüstü yaratık kurgudur; ama gerçek hikâyenin korkutuculuğu zaten yeterince güçlüdür. Franklin faciası, yalnız “cesur keşifçiler buzda kayboldu” anlatısı değil; imparatorluk özgüveni, teknolojik iyimserlik ve yerel bilgiye kulak vermemenin ağır bedelidir.",
+        "accuracyNote": "Dizi doğaüstü unsur ekler; buna karşılık gemilerin buzda kalması, terk edilmeleri, Inuit tanıklıkları ve seferin açlık/hastalıkla çökmesi tarihsel temele dayanır.",
+        "whyInteresting": "Franklin seferinin çözülmesinde modern sonar kadar Inuit sözlü tarihi de belirleyici oldu; uzun süre küçümsenen yerel bilgi, enkazların bulunmasına giden yolu açtı.",
+        "misconception": "Mürettebatın tek neden olarak kurşun zehirlenmesinden öldüğü sanılır; güncel yorumlar skorbüt, açlık, soğuk, enfeksiyon ve olası kurşun maruziyetini birlikte değerlendirir.",
+        "mediaChanged": "The Terror tarihsel belirsizlikleri doğaüstü korkuyla doldurur; gerçek kayıtlarda ise en ürpertici taraf, teknolojik özgüvenin Arktik koşullar ve yerel bilgiyi küçümseme karşısında çökmesidir.",
+        "whyItMatters": "Franklin faciası, keşif tarihini yalnız cesaret değil, hazırlık, çevre bilgisi ve başka bilgi sistemlerini ciddiye alma meselesi olarak okumayı sağlar.",
+        "quickRealityCheck": "Franklin seferi tek bir zehirlenme hikâyesi miydi, yoksa açlık, soğuk, skorbüt, buz ve yanlış kararların birleştiği bir çöküş müydü?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Wrecks of HMS Erebus and HMS Terror National Historic Site (Parks Canada)",
+            "url": "https://parks.canada.ca/lhn-nhs/nu/epaveswrecks",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Sir John Franklin’s lost Arctic expedition (Royal Museums Greenwich)",
+            "url": "https://www.rmg.co.uk/stories/topics/sir-john-franklin-lost-arctic-expedition",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Franklin Expedition (Canadian Encyclopedia)",
+            "url": "https://www.thecanadianencyclopedia.ca/en/article/franklin-search",
+            "type": "encyclopedia",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "factCheckNotes": [
+        "Kurşun zehirlenmesi tek neden gibi verilmedi; güncel daha temkinli çok-etkenli çerçeve kullanıldı.",
+        "Inuit bilgisi ve gemilerin keşfi daha merkezi hale getirildi."
+      ]
+    },
+    {
+      "id": "kingdom-of-heaven-crusades",
+      "locale": "tr",
+      "decision": "rewrite_source_cleanup",
+      "fields": {
+        "realHistory": "Kingdom of Heaven, 1187’de Kudüs Krallığı’nın çözülüşünü ve Selahaddin Eyyubi’nin yükselişini tarihsel olaylara dayanan ama karakterleri yoğun biçimde dramatize eden bir anlatıyla kurar. Gerçek kırılma noktası Hıttin Muharebesi’dir. Haçlı ordusu, su kaynaklarından uzaklaşarak ve kötü arazi koşullarında ilerleyerek Selahaddin’in ordusu karşısında ağır yenilgiye uğradı. Bu yenilgi, Kudüs’ün savunmasını neredeyse imkânsız hale getirdi.\n\nFilmde Balian, Kudüs’ü savunan ahlaki merkez olarak görünür. Tarihsel Balian of Ibelin ise demirci kökenli biri değil, bölgenin aristokrat ailelerinden gelen deneyimli bir soyluydu. Yine de Kudüs savunmasındaki rolü gerçektir: şehirde kalan savunmacıları örgütledi ve Selahaddin ile teslim şartlarını müzakere etti. 1099’daki Haçlı fethinde yaşanan katliamla kıyaslandığında, 1187’deki teslim süreci daha kontrollü ve fidye temelli ilerledi; bu durum Selahaddin’in sonraki yüzyıllarda hem İslam hem Batı anlatılarında “adil hükümdar” imajı kazanmasına katkı verdi.\n\nHaçlı Seferleri yalnız dinî coşkuyla açıklanamaz. Dini motivasyon çok güçlüydü, ama toprak, miras, ticaret yolları, aristokrat rekabeti ve Doğu Akdeniz’de kalıcı devlet kurma arzusu da belirleyiciydi. Kingdom of Heaven’ın en iyi yaptığı şey, bu dünyayı tek taraflı bir “iyi-kötü” savaşı yerine, meşruiyet, inanç ve siyasi çıkarların çarpıştığı bir düzen olarak göstermesidir.",
+        "accuracyNote": "Film Hıttin, Kudüs’ün teslimi ve Selahaddin’in rolü konusunda tarihsel zemine dayanır; fakat Balian’ın kökeni, bazı karakter ilişkileri ve kişisel motivasyonlar ciddi biçimde kurgusallaştırılmıştır.",
+        "whyInteresting": "Balian’ın filmdeki demirci geçmişi kurgu olsa da, Kudüs’ün teslim müzakerelerindeki rolü tarihsel anlatılarda gerçekten merkezi bir yere sahiptir.",
+        "misconception": "Haçlı Seferleri’nin yalnızca dinî fanatizmle yürüdüğü sanılır; gerçekte inanç, toprak, hanedan çıkarı ve Doğu Akdeniz ticareti birlikte çalışıyordu.",
+        "mediaChanged": "Kingdom of Heaven, tarihsel süreci Balian ve Selahaddin arasındaki ahlaki karşılaşmaya sıkıştırır; gerçek olaylar daha geniş soylu ağları, askeri tarikatlar ve Doğu Akdeniz siyaseti içinde gelişti.",
+        "whyItMatters": "Kudüs’ün 1187’deki düşüşü, Haçlı dünyasının yalnız askeri değil, siyasi ve ahlaki kırılganlığını da görünür kılar.",
+        "quickRealityCheck": "Kingdom of Heaven gerçek Kudüs kuşatmasını mı anlatıyor, yoksa tarihsel olayları Balian merkezli daha kişisel bir dramaya mı dönüştürüyor?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Saladin (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/biography/Saladin",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Crusades (The Metropolitan Museum of Art)",
+            "url": "https://www.metmuseum.org/toah/hd/crus/hd_crus.htm",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Battle of Ḥaṭṭīn (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/event/Battle-of-Hattin",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "factCheckNotes": [
+        "Balian'ın demirci kökenli olmadığı açıklandı.",
+        "Selahaddin'in merhameti abartısız şekilde fidye/teslim düzeni bağlamına alındı."
+      ]
+    },
+    {
+      "id": "rome-series-spectacle",
+      "locale": "tr",
+      "decision": "rewrite_source_cleanup",
+      "fields": {
+        "realHistory": "“Ekmek ve sirk” ifadesi Roma’yı anlatırken çok kullanılır, ama bu sistemi yalnız halkı uyuşturma aracı olarak görmek eksik kalır. Roma’da tahıl dağıtımı, oyunlar, zafer alayları, dini festivaller ve yarışlar siyasal meşruiyetin görünür parçasıydı. Başkentte yaşayan büyük nüfusun gıda arzı kırılgan olduğundan, annona düzeni yalnız cömertlik değil, kamu düzeni meselesiydi.\n\nEğlence tarafında gladyatör dövüşleri kadar Circus Maximus’taki araba yarışları da merkeziydi. Mavi, Yeşil, Kırmızı ve Beyaz gibi takımlar büyük taraftar kitleleri oluşturur; yarışlar spor, bahis, sınıf gerilimi ve siyasi gösterinin birbirine karıştığı alanlara dönüşürdü. İmparator ya da güçlü bir aristokrat oyun düzenlediğinde yalnız eğlence sunmazdı; “Ben sizi besliyorum, koruyorum ve Roma’nın ihtişamını sürdürüyorum” mesajı verirdi.\n\nRome dizisi, bu dünyanın arka sokaklarını ve siyasi pazarlıklarını iyi hissettirir. Gerçek Roma’da gösteriler yalnız vahşet değil, sosyal sözleşmenin sahnelenmesiydi. Halk, arenada imparatoru görebilir, tezahüratla beklentisini gösterebilir ve kimi zaman cezalar ya da aflar konusunda kolektif baskı kurabilirdi. Bu yüzden spectacle, pasif bir oyalama değil; Roma siyasetinin kalabalıkla konuştuğu gürültülü bir sahneydi.",
+        "accuracyNote": "Dizi Roma’nın pis, kalabalık ve politik sokak atmosferini iyi verir; ancak gösteri ekonomisinin dini festival, yarış, tahıl arzı ve patronaj ağlarını doğal olarak sadeleştirir.",
+        "whyInteresting": "Circus Maximus’taki yarış takımları, modern spor kulüplerini andıracak kadar güçlü taraftar kimlikleri yaratabiliyordu.",
+        "misconception": "Roma gösterilerinin yalnız vahşi eğlence olduğu sanılır; gerçekte oyunlar, tahıl dağıtımı ve dini törenler siyasi meşruiyetin parçasıydı.",
+        "mediaChanged": "Rome, sokak şiddeti ve elit entrikasını öne çıkarır; tarihsel sistemde halk oyunları, tahıl arzı ve kamusal festival düzeni aynı siyasi mekanizmanın parçalarıydı.",
+        "whyItMatters": "Roma’daki spectacle kültürü, kitlesel eğlencenin siyasetten ayrı olmadığını; kalabalık yönetiminin sahne, gıda ve sembollerle kurulduğunu gösterir.",
+        "quickRealityCheck": "Roma’da oyunlar sadece kanlı eğlence miydi, yoksa halk, imparator ve şehir düzeni arasında kurulan siyasi bir sahne miydi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Bread and Circuses (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/topic/bread-and-circuses",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Roman Games: Playing with Animals (The Metropolitan Museum of Art)",
+            "url": "https://www.metmuseum.org/essays/roman-games-playing-with-animals",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Life in Ancient Rome (The Metropolitan Museum of Art)",
+            "url": "https://www.metmuseum.org/toah/hd/prome/hd_prome.htm",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "factCheckNotes": [
+        "Bütçe %15-20 gibi kesin oran çıkarıldı; kaynakla güvenli değildi.",
+        "Eğlence sistemi sadece pasifleştirme değil, patronaj ve meşruiyet sahnesi olarak çerçevelendi."
+      ]
+    },
+    {
+      "id": "the-crown-monarchy",
+      "locale": "tr",
+      "decision": "flagship_rewrite_source_cleanup",
+      "fields": {
+        "whatWeSee": "The Crown, II. Elizabeth’in kişisel hayatı ile anayasal rolü arasındaki gerilimi; tarafsız görünmesi gereken bir kurumun medya çağında nasıl ayakta kaldığını anlatır.",
+        "realHistory": "Modern Britanya monarşisi, güçlü görünen ama günlük siyasette sınırlı hareket alanına sahip bir kurumdur. Hükümdar yasaları tek başına belirlemez, hükümet programını yazmaz ve parti siyasetine açık biçimde girmez. Buna rağmen monarşi yalnız dekor değildir. Başbakanı atama, parlamentoyu açma, devlet belgelerini takip etme ve haftalık başbakan görüşmeleri gibi anayasal ritüeller, kraliyeti devletin devamlılık sembolü haline getirir.\n\nII. Elizabeth’in 1952’de tahta çıkışı, imparatorluğun çözülmeye başladığı ve televizyonun kamusal hayatı değiştirdiği bir döneme denk geldi. 1953 taç giyme töreninin televizyonda yayınlanması, monarşinin gizemini azaltırken onu milyonlarca evin içine taşıdı. The Crown bu gerilimi iyi yakalar: Saray görünmez kalmak ister, ama modern meşruiyet artık görünür olmayı da gerektirir.\n\nKraliçenin siyasi gücü çoğu zaman “danışılma, teşvik etme ve uyarma” hakkı üzerinden açıklanır. Bu hak, doğrudan karar vermek anlamına gelmez; ama uzun süre görev yapan bir hükümdarın başbakanlarla kapalı görüşmelerde birikmiş tecrübesini paylaşmasını sağlar. Bu yüzden monarşinin etkisi açık emirlerden çok, süreklilik, sembol ve ritüel dilinde ortaya çıkar.\n\nDizinin dramatik tarafı, bu sessiz kurumu aile çatışmaları ve kişisel kırılmalar üzerinden görünür hale getirmesidir. Gerçek hayatta birçok konuşma ve duygu durumu kayda geçmediği için The Crown kaçınılmaz olarak kurgu kurar. Yine de dizinin sorduğu soru tarihsel olarak doğrudur: Demokratik bir çağda kalıtsal bir kurum, gücünü nasıl meşrulaştırır? Cevap, karar vermekten çok temsil etmekte; kriz anlarında ulusal süreklilik duygusu üretmekte yatar.",
+        "accuracyNote": "Dizi ana olayları ve anayasal gerilimi kullanır; ancak özel konuşmalar, aile içi psikoloji ve bazı başbakan görüşmeleri dramatik varsayımlarla yazılmıştır.",
+        "whyInteresting": "Britanya hükümdarı siyaset üstü görünmek zorundadır, ama her hafta başbakanla özel görüşerek devlet işlerinin en mahrem özetlerinden birini dinler.",
+        "misconception": "Modern monarşinin ya tamamen güçlü ya da tamamen gereksiz olduğu sanılır; gerçekte etkisi karar almaktan çok temsil, süreklilik ve anayasal ritüel üzerinden işler.",
+        "mediaChanged": "The Crown, sessiz anayasal rolü kişisel çatışmalarla görünür kılar; gerçek monarşi ise çoğu zaman etkisini gizli görüşme, sembolik tören ve tarafsızlık diliyle sürdürür.",
+        "whyItMatters": "Modern monarşi, gücün her zaman yasa çıkarmakla değil, ulusal sembol üretmek ve krizlerde süreklilik hissi vermekle de ilgili olduğunu gösterir.",
+        "quickRealityCheck": "The Crown’daki kraliyet gücü gerçekten kişisel müdahale mi, yoksa tarafsızlık ve temsil üzerinden çalışan anayasal bir etki mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Sovereign and the Prime Minister (Royal.uk)",
+            "url": "https://www.royal.uk/the-sovereign-and-the-prime-minister",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Crown and the Constitution (UK Parliament Research Briefing)",
+            "url": "https://researchbriefings.files.parliament.uk/documents/CBP-8885/CBP-8885.pdf",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The British Monarchy: FAQs (UCL Constitution Unit)",
+            "url": "https://www.ucl.ac.uk/social-historical-sciences/constitution-unit/constitution-unit-research-areas/monarchy-church-and-state/british-monarchy-faqs",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "factCheckNotes": [
+        "Pasaport/ehliyet trivia'sı merkezden çıkarıldı; anayasal rol ve sembolik etki öne alındı.",
+        "Güncel monarşi rolü official Royal.uk ve UK Parliament/UCL kaynaklarıyla desteklendi."
+      ]
+    },
+    {
+      "id": "pirate-maps-myth",
+      "locale": "tr",
+      "decision": "rewrite_source_cleanup",
+      "fields": {
+        "realHistory": "Korsan haritası, X işareti ve gömülü hazine fikri popüler kültürün en güçlü denizcilik imgelerinden biridir. Ama tarihsel korsanlık için bu daha çok edebi bir mirastır. Altın Çağ korsanlarının çoğu ganimeti uzun süre saklanacak hazine olarak değil, hızlıca paylaştırılacak ve liman ekonomisinde harcanacak mal olarak görürdü. Ganimet çoğu zaman altın sandığından çok kumaş, şeker, tütün, silah, ilaç, yiyecek, gemi donanımı ve satılabilir ticari yükten oluşurdu.\n\nKaptan William Kidd gibi birkaç istisna, hazine gömme mitinin büyümesine yardım etti. Kidd’in Gardiner’s Island’da sakladığı ganimet, sonsuz bir define avından çok, hukuki ve siyasi pazarlık için kullanılan sınırlı bir vakaydı. Bu tür örnekler nadirdi; çünkü korsan gemisinde ganimetin saklanması mürettebat güvenini zedelerdi. Paylaşım, korsan düzeninin temeliydi.\n\nDefine Adası ve Karayip Korsanları gibi eserler bu nadir istisnayı genel kurala dönüştürdü. Gerçek korsanlık daha az romantik ama daha ilginçtir: deniz ticaretindeki boşluklardan yararlanan, ganimeti dağıtan, kimi zaman seçilmiş kaptanlarla çalışan ve liman ağlarına bağımlı bir suç ekonomisiydi. X işaretli harita, tarihsel pratikten çok macera edebiyatının hafızasıdır.",
+        "accuracyNote": "Gömülü hazine ve X işaretli harita fikri, gerçek korsanlıkta yaygın bir uygulama değil; özellikle Define Adası sonrası güçlenen edebi bir motiftir.",
+        "whyInteresting": "Korsan ganimeti çoğu zaman altın sandığı değil, gemide hemen işe yarayan veya limanda hızla satılabilen ticari mallardı.",
+        "misconception": "Korsanların sürekli hazine gömdüğü sanılır; gerçekte ganimet çoğunlukla mürettebat arasında paylaştırılır ve kısa sürede harcanırdı.",
+        "mediaChanged": "Popüler kültür korsanı harita çözen define avcısına dönüştürür; tarihsel korsan ise ticari yük, liman bağlantısı ve mürettebat paylaşımıyla çalışan deniz suçlusuydu.",
+        "whyItMatters": "Bu mit, popüler kültürün birkaç istisnayı nasıl bütün bir tarihsel mesleğin simgesine çevirebildiğini gösterir.",
+        "quickRealityCheck": "Korsanlar gerçekten X işaretli haritalarla hazine mi arardı, yoksa ganimeti hızla paylaştırıp limanlarda mı tüketirdi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Pirates: fact or fiction? (Royal Museums Greenwich)",
+            "url": "https://www.rmg.co.uk/stories/maritime-history/pirates-fact-or-fiction",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Golden Age of Piracy (Royal Museums Greenwich)",
+            "url": "https://www.rmg.co.uk/stories/topics/golden-age-piracy",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Pirates (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/topic/piracy",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "factCheckNotes": [
+        "National Geographic link yerine erişilebilir ve daha güvenilir RMG/Britannica seti önerildi.",
+        "Kidd istisnası genel kural gibi sunulmadı."
+      ]
+    },
+    {
+      "id": "nero-fiddling-myth",
+      "locale": "tr",
+      "decision": "rewrite_source_cleanup",
+      "fields": {
+        "realHistory": "Nero’nun Roma yanarken keman çaldığı hikâyesi, tarihsel gerçeklikten çok siyasi hafızanın nasıl çalıştığını gösterir. Öncelikle keman 64 yılındaki Roma yangınından çok sonra ortaya çıkan bir çalgıdır; antik kaynaklarda geçen iddia olsa olsa Nero’nun lir veya kithara eşliğinde Troya’nın düşüşünü söylediği söylentisidir. Bu söylenti de Nero’ya düşman gelenekler içinde büyümüştür.\n\nYangın başladığında Nero’nun Roma’da değil, Antium’da olduğu aktarılır. Haberi alınca kente döndüğü, evsiz kalanlara alan açtığı, gıda fiyatları ve yardım düzeniyle ilgilendiği yönünde kayıtlar vardır. Buna rağmen yangından sonra inşa ettirdiği Domus Aurea, halkın “yangından kim yararlandı?” sorusunu sormasına yol açtı. Roma’nın büyük bölümünü yıkan felaket, Nero’nun zaten tartışmalı olan imajını kalıcı biçimde kararttı.\n\nNero’nun Hristiyanları suçlaması ise daha ağır bir tarihsel sonuç doğurdu. Yeni ve sevilmeyen bir topluluk, yangının sorumlusu gibi gösterildi ve erken Hristiyan zulmünün önemli örneklerinden biri yaşandı. Bu yüzden “Nero keman çaldı” klişesi yanlış olsa da, tamamen masum bir imparator tablosu da doğru değildir. Gerçek mesele, yangının Nero’nun propaganda, düşmanlık ve iktidar kriziyle nasıl birleştiğidir.",
+        "accuracyNote": "Keman çalma iddiası anakroniktir; Nero’nun yangını başlattığı veya yangın sırasında müzik yaptığı iddiaları ise düşmanca antik anlatılarla şekillenmiş tartışmalı bir gelenektir.",
+        "whyInteresting": "Nero yangından sonra yardım ve yeniden inşa adımları atmış olabilir; buna rağmen Domus Aurea, felaketten kişisel kazanç sağladığı şüphesini büyüttü.",
+        "misconception": "Nero’nun Roma yanarken keman çaldığı sanılır; o dönemde keman yoktu ve bu imge, sonraki siyasi karalamanın popülerleşmiş halidir.",
+        "mediaChanged": "Filmler Nero’yu yangını zevkle izleyen deli bir tiran gibi gösterir; tarihsel tablo ise yardım, propaganda, saray inşası ve günah keçisi yaratmanın karışımıdır.",
+        "whyItMatters": "Nero miti, tarihsel kişiliklerin yalnız yaptıklarıyla değil, düşmanlarının yazdığı ve popüler kültürün büyüttüğü hikâyelerle de hatırlandığını gösterir.",
+        "quickRealityCheck": "Nero gerçekten Roma yanarken keman mı çaldı, yoksa bu hikâye yangın sonrası siyasi suçlama ve karalamanın kalıcı bir simgesi mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Great Fire of Rome (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/event/Great-Fire-of-Rome",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Nero content: Fire (British Museum)",
+            "url": "https://www.britishmuseum.org/nero-content",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Who was Nero? (British Museum)",
+            "url": "https://www.britishmuseum.org/blog/who-was-nero",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "factCheckNotes": [
+        "Nero'nun Antium'da olduğu/yardım organize ettiği anlatısı temkinli yazıldı.",
+        "Nero tamamen aklandı gibi bir ton yerine, mit ile gerçek siyasi sonuç ayrıldı."
+      ]
+    }
+  ]
+}

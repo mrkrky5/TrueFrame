@@ -1,0 +1,213 @@
+{
+  "patchId": "tr-chunk-001-source-aware-review",
+  "locale": "tr",
+  "sourceChunk": "tr-chunk-001.json",
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "editorial + factual + source review",
+  "summary": {
+    "cardCount": 4,
+    "approvedAsIs": [],
+    "minorEdit": [],
+    "rewrite": [
+      "ac-origins-siwa",
+      "ac-odyssey-athens",
+      "kcd-bohemia",
+      "ghost-tsushima-invasion"
+    ],
+    "sourceUpdates": [
+      "ac-origins-siwa",
+      "ac-odyssey-athens",
+      "kcd-bohemia",
+      "ghost-tsushima-invasion"
+    ],
+    "notes": [
+      "All four cards are flagged as isFlagship:true in the chunk; the first two were factually sound but too short for flagship-level retention.",
+      "kcd-bohemia was heavily off-scope and truncated; it has been rebuilt around Kutná Hora/Kuttenberg silver, minting, and KCD2 relevance.",
+      "ghost-tsushima-invasion was generally on-topic but overclaimed several points; it has been rebuilt with tighter 1274 framing and safer language around gunpowder/tetsuhau and samurai tactics."
+    ]
+  },
+  "entries": [
+    {
+      "id": "ac-origins-siwa",
+      "locale": "tr",
+      "reviewStatus": "rewrite-expand-flagship",
+      "fields": {
+        "realHistory": "Siwa Vahası, haritada Mısır’ın batı çölünde uzak bir nokta gibi görünür; antik dünyada ise bu uzaklık onu önemsiz değil, daha etkili kılıyordu. Vahadaki Amun/Ammon kâhini, Mısır, Libya ve Yunan dünyasının kesiştiği özel bir kutsal merkezdi. Livius’un Siwa özetinde de vurgulandığı gibi kâhinin şöhreti, hem Amun’un Mısır’daki ağırlığıyla hem de merkezin zor ulaşılır çöl konumuyla bağlantılıydı. Ulaşması güç olan bir yerden gelen kehanet, antik hükümdarlar için sıradan bir tapınak ziyaretinden daha büyük sembolik değer taşıyordu.\n\nBüyük İskender’in MÖ 332/331 civarında Siwa’ya gitmesi bu yüzden yalnız mistik bir merak değildir. Mısır’ı Pers egemenliğinden aldıktan sonra kendisini yerel dini dil içinde meşrulaştırması gerekiyordu. Arrian’ın aktardığı gelenekte İskender, Ammon’a danışmak için çöle yönelir; yolculuk susuz, kumlu ve yön bulması zor bir arazi üzerinden anlatılır. Aynı kaynak geleneği, yağmur, kuşlar ya da yılanlar gibi rehberlik hikâyeleriyle yolculuğu daha da efsaneleştirir. Kesin olan, İskender’in bu ziyaretten sonra kendisini Ammon’un oğlu fikriyle daha açık biçimde ilişkilendirmesidir.\n\nSiwa’nın gücü yalnız kâhinden ibaret değildi. Vaha, su kaynakları, hurma üretimi, tuz ve çöl geçişleriyle yerel ekonomi açısından da değerliydi. Merkezî Mısır’dan kopuk görünse de Libya çölü, Cyrenaica ve Nil dünyası arasında bir temas alanıydı. Bu yüzden Siwa’yı “izole bir çöl kasabası” diye okumak eksik kalır; onu yerel kutsallığın, çöl coğrafyasının ve hükümdarlık meşruiyetinin birleştiği bir düğüm olarak görmek daha doğru olur.\n\nAssassin’s Creed Origins, Siwa’yı Bayek’in kişisel trajedisinin başlangıç mekânı yapar. Bu dramatik seçim işe yarar; oyuncu için Siwa, aile, kayıp ve intikamla özdeşleşir. Tarihsel Siwa ise bundan daha geniş bir soruya açılır: Antik dünyada iktidar yalnızca kılıçla mı kurulur, yoksa tanrısal onay iddiasıyla mı kabul ettirilir? Siwa’nın asıl True Frame değeri burada: küçük görünen bir vaha, imparatorluk siyasetinin kutsal onay kapısına dönüşür.",
+        "accuracyNote": "Origins, Siwa’yı Bayek’in kişisel hikâyesi için yoğunlaştırır. Tarihsel kaynaklarda Siwa’nın ana önemi, Amun/Ammon kâhininin hükümdarlık meşruiyetiyle ilişkilendirilmesi ve özellikle İskender’in ziyaretiyle kazandığı sembolik ağırlıktır.",
+        "whyInteresting": "İskender’in Siwa yolculuğu bir savaş zaferi değil, çölde yapılan politik-dini bir meşruiyet hamlesidir.",
+        "misconception": "Siwa’nın sadece izole bir vaha olduğu sanılır; gerçekte Amun/Ammon kâhini sayesinde antik hükümdarlık iddialarında sembolik ağırlığı olan bir merkezdi.",
+        "mediaChanged": "Origins, Siwa’yı Bayek’in kişisel başlangıç noktası olarak kullanır; tarihsel Siwa ise hükümdarların tanrısal onay aradığı daha geniş bir siyasi-dini sahnedir.",
+        "whyItMatters": "Siwa, antik dünyada gücün yalnızca askeri zaferle değil, yerel kutsal merkezlerin verdiği meşruiyetle de kurulduğunu gösterir.",
+        "quickRealityCheck": "Assassin’s Creed Origins’teki Siwa sadece Bayek’in memleketi mi, yoksa antik hükümdarların meşruiyet aradığı kutsal merkezlerden biri mi?",
+        "mediaConnection": "Bu kart, Assassin’s Creed Origins’teki Siwa atmosferini Amun/Ammon kâhini, Büyük İskender’in ziyareti ve antik meşruiyet siyasetiyle karşılaştırır.",
+        "readingTimeMinutes": 3,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Ammon (Siwa) — Livius",
+            "url": "https://www.livius.org/articles/place/ammon-siwa/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Arrian on Alexander visits Siwa — Livius",
+            "url": "https://www.livius.org/sources/content/arrian/anabasis/alexander-visits-siwah/",
+            "type": "primary-source",
+            "verified": true
+          },
+          {
+            "title": "Siwa Oasis — Britannica",
+            "url": "https://www.britannica.com/place/Siwa-Oasis",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "factCheckNotes": [
+        "Original text was factually aligned, but too short for a flagship card.",
+        "The old Livius URL in the source list returned 404; replaced with working Livius pages for Ammon/Siwa and Arrian’s Siwa passage."
+      ]
+    },
+    {
+      "id": "ac-odyssey-athens",
+      "locale": "tr",
+      "reviewStatus": "rewrite-expand-flagship",
+      "fields": {
+        "realHistory": "Assassin’s Creed Odyssey, Atina’yı oyuncunun hemen tanıyacağı bir klasik dünya olarak kurar: açık meydanlar, parlak mermerler, anıtsal heykeller ve temiz okunur bir kent silueti. Bu görüntü güçlüdür; fakat antik heykel ve mimarinin gerçek renk dünyasını büyük ölçüde yumuşatır. Bugün müzelerde gördüğümüz beyaz mermer yüzey, çoğu zaman antik sanatçının bitmiş işi değil, zamanın geride bıraktığı çıplak malzemedir.\n\nKlasik Yunan ve Roma heykellerinde polikromi, yani çok renkli boyama, artık yalnızca teorik bir iddia değildir. The Met’in Chroma sergisi, antik heykellerde hayatta kalmış renk izlerini, bilimsel görüntüleme ve malzeme analiziyle yeniden görünür kılan çalışmaları öne çıkarır. Mavi, kırmızı, siyah, altın ve ten tonları; saç, giysi, zırh ve mimari ayrıntılarda anlam taşıyordu. Renk yalnızca süs değildi: statüyü, tanrısallığı, malzemeyi, kumaşı ve hikâyedeki rolü ayırt etmeye yardım ediyordu.\n\nBeyaz mermer idealinin güçlenmesi ise daha geç bir estetik tarihe aittir. 18. ve 19. yüzyıl Avrupa’sında neoklasik zevk, aşınmış mermerin sadeliğini “antik güzellik” diye yorumladı. Müze salonları, akademik sanat eğitimi ve kopya heykeller bu algıyı kalıcılaştırdı. Oysa arkeolojik buluntular, ultraviyole görüntüleme, çok spektralli analiz ve pigment incelemeleri, heykellerin antik görünümünün çok daha canlı olabildiğini gösteriyor.\n\nBu, Odyssey’nin “yanlış” olduğu anlamına gelmez; oyun, büyük bir açık dünyada okunabilirlik ve tanıdık klasik atmosfer kurmak zorundadır. Ancak Atina’yı yalnızca beyaz mermer estetiğiyle hatırlamak, antik dünyanın görsel cesaretini eksiltir. Parthenon çevresindeki heykeller, mezar stelleri ve tapınak süslemeleri, bugünkü sade yüzeylerinden daha renkli bir izleyici deneyimi için tasarlanmıştı.\n\nTrue Frame açısından önemli nokta şu: Oyun bize modern gözün tanıdığı Atina’yı verir; tarih ise bu tanıdıklığın bir kısmının sonradan oluştuğunu gösterir. Antik Atina, yalnızca akıl, mermer ve simetri değil; boya, desen, ritüel ve kalabalık şehir hayatıyla da anlaşılmalıdır.",
+        "accuracyNote": "Odyssey, klasik dünya estetiğini okunabilir ve tutarlı göstermek için beyaz mermer imajını sürdürür. Arkeolojik ve müze çalışmaları ise antik heykel ve mimari ayrıntılarda renk kullanımının yaygın olduğunu gösterir.",
+        "whyInteresting": "Beyaz mermer imajı çoğu zaman antik zevki değil, boyası aşınmış eserleri modern müze salonlarında görme alışkanlığımızı yansıtır.",
+        "misconception": "Yunan heykellerinin her zaman sade beyaz olduğu sanılır; gerçekte birçok heykel ve mimari unsur canlı renklerle boyanmıştı.",
+        "mediaChanged": "Odyssey, Atina’yı berrak ve beyaz mermer ağırlıklı bir klasik dünya olarak gösterir; arkeolojik çalışmalar ise antik heykel ve yapıların çok daha renkli olabildiğini gösterir.",
+        "whyItMatters": "Antik dünyayı sadece beyaz mermerle düşünmek, geçmişin renkli ve sembolik estetik tercihlerini modern bir zevk filtresinden geçirmek demektir.",
+        "quickRealityCheck": "Assassin’s Creed Odyssey’deki beyaz Atina görüntüsü antik gerçek mi, yoksa modern müze estetiğinin oyundaki devamı mı?",
+        "mediaConnection": "Bu kart, Assassin’s Creed Odyssey’nin Atina görselliği üzerinden antik heykel ve mimaride renk kullanımını açıklar.",
+        "readingTimeMinutes": 3,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Chroma: Ancient Sculpture in Color — The Met",
+            "url": "https://www.metmuseum.org/exhibitions/chroma",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Polychromy in Ancient Greek Sculpture: New Scientific Approaches",
+            "url": "https://www.mdpi.com/2076-3417/13/5/3102",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "factCheckNotes": [
+        "Current card was accurate but too short for a flagship card.",
+        "The previous sources duplicated the same Met page. Replaced with one Met source plus an independent academic source."
+      ]
+    },
+    {
+      "id": "kcd-bohemia",
+      "locale": "tr",
+      "reviewStatus": "rewrite",
+      "fields": {
+        "title": "Kuttenberg Gümüşü",
+        "subtitle": "Bohemya’nın gümüş kalbi",
+        "mediaTitle": "Kingdom Come: Deliverance II",
+        "whatWeSee": "Kingdom Come: Deliverance II’de Kuttenberg, yalnızca büyük bir Orta Çağ şehri değil; maden, darphane, ticaret ve siyasi çıkarların birbirine bağlandığı bir güç merkezi olarak görünür.",
+        "realHistory": "Kuttenberg, bugünkü adıyla Kutná Hora, Orta Çağ Bohemyası’nın en zengin şehirlerinden biriydi. UNESCO’nun şehir açıklamasında vurguladığı gibi kentin yükselişi, 13. yüzyıl sonlarından itibaren gümüş madenlerinin işletilmesine dayanır. 14. yüzyılda Kutná Hora artık yalnızca bir maden kasabası değil, kraliyet statüsü ve görkemli yapılarıyla Bohemya’nın siyasi-ekonomik ağırlık merkezlerinden biriydi.\n\nBu zenginliğin kalbinde gümüş ve darphane vardı. 1300’de Kral II. Václav döneminde para reformu yapıldı; Kutná Hora’daki Italian Court, kraliyet darphanesi olarak Prag groscheninin üretimiyle ilişkilendi. Bu gümüş sikke, Orta Avrupa ticaretinde güvenilirliği ve yaygınlığıyla Bohemya’nın ekonomik etkisini büyüttü. Şehirdeki madenciler, zanaatkârlar, tüccarlar, loncalar ve kraliyet memurları aynı sistemin parçalarıydı: yeraltından çıkarılan cevher, yalnız yerel zenginlik değil, krallığın para politikasıydı.\n\nKingdom Come: Deliverance II’nin Kuttenberg’i önemli kılması da burada anlam kazanır. Oyun dünyasında şehir, Henry’nin macerası için büyük ve canlı bir sahne gibi görünür; tarihsel zeminde ise Kutná Hora, Wenceslaus IV ile Sigismund arasındaki siyasi gerilimlerin ekonomik arka planını anlamak için kritik bir yerdir. Gümüş, yalnız para değil, asker tutma, sadakat satın alma, inşaat finanse etme ve kraliyet otoritesini sürdürme aracıdır.\n\nKentin görkemi de doğrudan bu maden ekonomisine bağlıdır. St. Barbara Kilisesi’nin madencilerle ilişkisi, taş evler, darphane yapıları ve korunmuş Orta Çağ dokusu, zenginliğin kamusal mimariye nasıl dönüştüğünü gösterir. Aynı zamanda bu parlak yüzün altında ağır ve tehlikeli emek vardı: yeraltı galerileri, havalandırma sorunları, su baskını riski ve cevher işleme zinciri, Kuttenberg’in refahının görünmeyen bedeliydi.\n\nBu yüzden Kuttenberg’i yalnız “güzel bir Orta Çağ şehri” diye okumak eksik kalır. Oyun bize sokakları, meydanları ve siyasi gerilimi gösterir; gerçek tarih ise bu sahnenin altında çalışan gümüş ekonomisini açar. Kutná Hora’nın hikâyesi, Orta Çağ’da para, maden ve iktidarın birbirinden ayrı düşünülemeyeceğini gösteren güçlü bir örnektir.",
+        "accuracyNote": "Kartın önceki metni Kuttenberg’den uzaklaşıp Kumanlar, hamamlar ve HEMA gibi farklı KCD başlıklarını aynı gövdede topluyordu. Bu sürüm, başlığına uygun biçimde Kutná Hora/Kuttenberg’in gümüş madenciliği, Italian Court darphanesi ve Bohemya siyasetiyle ilişkisine odaklanır.",
+        "whyInteresting": "Kutná Hora’nın gümüşü yalnız yerel zenginlik üretmedi; Prag groscheni üzerinden Bohemya’nın Orta Avrupa’daki ekonomik etkisini de güçlendirdi.",
+        "misconception": "Orta Çağ şehirlerinin yalnızca fakir ve durağan olduğu sanılır; Kutná Hora gibi maden şehirleri, teknoloji, emek, para politikası ve kraliyet gücünün birleştiği dinamik merkezlerdi.",
+        "mediaChanged": "Oyun Kuttenberg’i Henry’nin hikâyesi için büyük bir şehir sahnesi yapar; tarihsel kayıtlar ise bu sahnenin temelinde gümüş madenciliği, darphane ve kraliyet maliyesi olduğunu gösterir.",
+        "whyItMatters": "Kuttenberg, Orta Çağ’da ekonomik kaynakların siyasi güçle ne kadar doğrudan bağlı olduğunu somutlaştırır: gümüş akışı bozulursa krallık otoritesi de sarsılır.",
+        "quickRealityCheck": "Kingdom Come’daki Kuttenberg sadece görkemli bir Orta Çağ şehri mi, yoksa Bohemya’nın para ve iktidar düzeninin kalbi mi?",
+        "mediaConnection": "Bu kart, Kingdom Come: Deliverance II’deki Kuttenberg anlatısını Kutná Hora’nın gümüş madenciliği, Italian Court darphanesi ve Bohemya’daki kraliyet maliyesiyle karşılaştırır.",
+        "readingTimeMinutes": 3,
+        "reviewerNote": "UNESCO, Italian Court/Kutná Hora rehberlik kurumu ve KCDlive kaynaklarıyla Kutná Hora’nın gümüş, darphane ve KCD2 bağlantısı kontrol edildi.",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Kutná Hora: Historical Town Centre — UNESCO World Heritage",
+            "url": "https://whc.unesco.org/en/list/732/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Italian Court — Kutná Hora Guide Service",
+            "url": "https://pskh.cz/en/italian-court/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Silver Kuttenberg — Kingdom Come: Deliverance Live",
+            "url": "https://www.kcdlive.eu/en/experiences/silver-kuttenberg",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "factCheckNotes": [
+        "Original body was off-topic and truncated; it mixed Kuttenberg silver with Kumans, bathhouses, HEMA and general KCD material.",
+        "Because Kuttenberg/Kutná Hora is a major KCD2 location, mediaTitle is changed to Kingdom Come: Deliverance II for accuracy.",
+        "Claims are narrowed to silver mining, minting, Prague groschen, and Bohemian political/economic context."
+      ]
+    },
+    {
+      "id": "ghost-tsushima-invasion",
+      "locale": "tr",
+      "reviewStatus": "rewrite",
+      "fields": {
+        "realHistory": "1274’teki Tsushima saldırısı, Japonya’nın Moğol/Yuan tehdidiyle ilk doğrudan yüzleşmesinin kapısıydı. Kubilay Han daha önce Japonya’ya elçiler göndererek ilişki ve bağlılık talep etmişti; Kamakura yönetimi bu baskıya cevap vermeyince savaş kaçınılmaz hale geldi. İlk seferde Yuan, Goryeo ve Çinli unsurlardan oluşan bir filo Kore’den yola çıktı. Japonya’ya ulaşan ilk hedeflerden biri Tsushima, ardından Iki oldu.\n\nGhost of Tsushima’nın açılışındaki Komoda sahili, bu kırılmayı dramatik bir felaket gibi gösterir. Tarihsel çekirdek doğrudur: Tsushima’daki yerel savunma çok sınırlıydı ve ada, sayıca üstün istilacı kuvvetler karşısında ağır biçimde ezildi. National Archives of Japan’ın Mongol Invasions bölümünde de 1274’te savaş gemilerinin Tsushima önlerine geldiği, ardından Iki’ye saldırıldığı aktarılır. Bu, Japon savaşçı sınıfı için yalnızca askeri yenilgi değil, savaş tarzı bakımından da şoktu.\n\nAncak oyunun “samuray onuru vs Moğol kurnazlığı” karşıtlığı sadeleştirmedir. 13. yüzyıl samurayları, sonraki dönem filmlerindeki katana merkezli savaşçılar gibi düşünülmemelidir. Atlı okçuluk, uzun yay, tachi ve bireysel savaş ünü önemliydi. Yuan-Goryeo kuvvetleri ise toplu hareket, yoğun ok atışı, davul/gong sinyalleri ve barutlu patlayıcılar gibi Japonların daha az alışık olduğu yöntemler kullandı. Takezaki Suenaga’nın istila parşömenlerinde tetsuhau patlamaları özellikle dikkat çeker; bu silahlar, atları ürküten ve savunmacılar üzerinde psikolojik etki yaratan yeni bir savaş deneyimi sundu.\n\nYine de Japonlar tamamen çaresiz ya da değişime kapalı değildi. 1274 seferinden sonra kıyı savunması güçlendirildi; 1281’de Hakata çevresindeki taş tahkimatlar ve devriyeler, ikinci saldırıya karşı daha hazırlıklı bir savunma yarattı. “Kamikaze” anlatısı fırtınayı merkeze alır, ama seferlerin sonucu yalnız hava koşullarıyla açıklanamaz; deniz lojistiği, savunma hazırlıkları, ada coğrafyası ve Yuan filosunun karmaşık yapısı birlikte belirleyicidir.\n\nGhost of Tsushima bu tarihsel süreci kişisel bir direniş hikâyesine dönüştürür. Jin Sakai kurgusaldır; fakat oyunun arkasındaki gerçek soru güçlüdür: Bir ada toplumu, kendisinden daha büyük ve farklı savaşan bir imparatorlukla karşılaşınca hangi kurallarını korur, hangilerini değiştirir? Tsushima’nın True Frame değeri de burada yatar: oyun bir samuray efsanesi anlatır; tarih ise askeri adaptasyon, deniz lojistiği ve travmatik ilk temas hikâyesi sunar.",
+        "accuracyNote": "Oyunun 1274 istilasını kişisel kahramanlık ve onur çatışması üzerinden anlatması dramatik bir tercihtir. Tarihsel zeminde samuray savaşçılığı daha çok atlı okçuluk ve yerel savunma ağlarıyla ilişkilidir; tetsuhau gibi barutlu patlayıcılar ve Yuan-Goryeo taktikleri ise Japonlar için gerçek bir taktik şok yaratmıştır.",
+        "whyInteresting": "1274 seferindeki en büyük şoklardan biri, yalnız düşman sayısı değil; Yuan-Goryeo kuvvetlerinin toplu savaş düzeni, sinyal sistemi ve tetsuhau gibi barutlu patlayıcılarıydı.",
+        "misconception": "Samurayların her zaman katana ile bire bir düello ettiği sanılır; 13. yüzyılda atlı okçuluk ve uzun yay, savaşçı kimliğinin merkezindeydi.",
+        "mediaChanged": "Ghost of Tsushima, istilayı bireysel onur ve gizli direniş hikâyesine dönüştürür; tarihsel kayıtlar ise Tsushima’yı daha geniş bir Yuan-Goryeo deniz seferi, kıyı savunması ve askeri adaptasyon bağlamına yerleştirir.",
+        "whyItMatters": "Tsushima istilası, Japon askeri kültürünün dış bir savaş makinesiyle karşılaşınca nasıl değişmek zorunda kaldığını gösterir.",
+        "quickRealityCheck": "Ghost of Tsushima’daki yenilgi sadece samuray onurunun kırılması mıydı, yoksa Japonya’nın savaş tarzını değiştiren bir askeri şok mu?",
+        "mediaConnection": "Bu kart, Ghost of Tsushima’nın 1274 Tsushima istilasını nasıl dramatize ettiğini; National Archives of Japan, Kyushu National Museum ve genel tarih kaynaklarıyla karşılaştırır.",
+        "readingTimeMinutes": 3,
+        "reviewerNote": "1274 seferi, Tsushima/Iki saldırıları, Yuan-Goryeo baskısı ve tetsuhau kullanımı National Archives of Japan ve Kyushu National Museum gibi daha güçlü kaynaklarla kontrol edildi.",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Mongol Invasions of Japan — Britannica",
+            "url": "https://www.britannica.com/event/Mongol-invasions-of-Japan",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Japan and Mongolia: Mongol Invasions of Japan — National Archives of Japan",
+            "url": "https://www.archives.go.jp/about/activity/international/jp_mn50/english/ch01.html",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Tracing the Mongolian Invasion — Kyushu National Museum",
+            "url": "https://www.kyuhaku.jp/en/exhibition/exhibition_pre192.html",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "factCheckNotes": [
+        "Original content was broadly on-topic but overlong and sometimes overclaimed, especially around 'first firearms' and samurai adoption/rejection of technology.",
+        "Reframed tetsuhau as gunpowder explosive shock rather than modern firearm introduction.",
+        "Replaced weaker media article source with National Archives of Japan and Kyushu National Museum references."
+      ]
+    }
+  ]
+}

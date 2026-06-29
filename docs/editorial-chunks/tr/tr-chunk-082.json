@@ -1,0 +1,220 @@
+{
+  "locale": "tr",
+  "chunkIndex": 82,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-198-death-art",
+      "title": "Ölüm Sanatı",
+      "subtitle": "Ölüm Sanatı sadece dekor değil",
+      "mediaType": "general",
+      "mediaTitle": "Kara Veba temalı yapımlar",
+      "era": "Orta Çağ",
+      "region": "Avrupa",
+      "themes": [
+        "Hastalık",
+        "Toplum",
+        "Yanlış Bilinenler"
+      ],
+      "whatWeSee": "Kara Veba temalı yapımlarda iskelet dansçıları, kurukafa hatırlatmaları ve ölümle yüzleşen karakterler memento mori geleneğinin sinema dilini taşır. Bu imgeler yalnızca dekor değil; veba sonrası Avrupa'nın ölümle kurduğu yeni görsel sözleşmenin kalıntılarıdır.",
+      "realHistory": "Veba sonrası Avrupa'da ölüm görsel dille yoğunlaştı: memento mori ('ölümü hatırla') resimleri, danse macabre (ölüm dansı) duvar resimleri, ars moriendi ('iyi ölme sanatı') el yazmaları. İskelet figürleri papazdan köylüye herkesi kolundan tutar — ölümün seçici olmadığını hatırlatır. Bu imgeler yalnızca korku değildi; hazırlık ve arınma retoriğinin parçasıydı. Kilise, son nefes törenlerini düzenleyen kitaplar yaydı; zenginler ölüm yatağı sahnelerini sipariş etti. Vebanın kitlesel ölümü, bu geleneği hızlandırdı ve yaygınlaştırdı. Kara Veba temalı yapımlar danse macabre'yi atmosfer için kullanır; sanat tarihçileri ise Strasbourg, Paris ve İngiliz köy kiliselerindeki somut örnekleri inceler. Ölüm sanatı, felaketin psikolojik işlenişinin en kalıcı kanıtıdır. Strasbourg'daki danse macabre freski (15. yüzyıl) papazdan imparatora her sınıfı iskeletle dans ettirir; ölümün seçici olmadığını vurgular. Ars moriendi el yazmaları, ölüm döşeğinde doğru davranışı adım adım öğretir: akrabalara vasiyet, tövbe, son ayin. Zenginler ölüm yatağı portreleri (transi) sipariş etti; ölümü görmek hazırlık sayılıyordu. Bu sanat yalnızca korku üretmezdi. Vebanın kitlesel ölümü, 'her an ölebilirsin' mesajını toplumsal düzeye taşıdı. Kilise, son nefes törenlerini düzenleyen kitaplar yaydı; toplum ölümü gizlemek yerine görünür kıldı. Strasbourg freski papazdan imparatora her sınıfı kapsar; ölümün seçiciliğini reddeder. Paris'teki Saints-Innocents mezarlığındaki dans figürleri şehir merkezinde herkese görünür kıldı; ölümü gündelik sokak manzarasına taşıdı.",
+      "accuracyNote": "Danse macabre ve ars moriendi veba sonrası yaygınlaşmıştır; her ölüm sahnesi doğrudan vebaya bağlanamaz.",
+      "whyInteresting": "İskelet figürü hem korku hem teslimiyet dilidir.",
+      "misconception": "Ortaçağ ölüm sanatı yalnızca vahşi batıl inançtır; oysa ritüel ve hazırlık işlevi taşır.",
+      "nextTopics": [
+        "Vebanın Yayılışı",
+        "Karantina Fikri",
+        "Flagellantlar"
+      ],
+      "sources": [
+        {
+          "title": "Danse Macabre (Britannica)",
+          "url": "https://www.britannica.com/art/danse-macabre",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Ars moriendi (British Library)",
+          "url": "https://www.bl.uk/collection-items/ars-moriendi",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Memento mori in art (Met Museum)",
+          "url": "https://www.metmuseum.org/art/collection/search/436838",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-199-rural-impact",
+        "tf26-200-memory",
+        "tf26-196-medieval-hygiene"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Ölüm dansı ve kurukafa motifleri ile ars moriendi el yazmaları.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "kara-olum",
+        "orta-cag",
+        "yanlis-bilinenler",
+        "olum-sanati",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Sinema imgeleri seçer; kilise duvarları ve el yazmaları tam bağlamı verir.",
+      "whyItMatters": "Toplumlar felaketi nasıl görselleştirirse, hafızayı da öyle taşır.",
+      "isFlagship": false,
+      "quickRealityCheck": "Filmlerdeki iskelet imgeleri, gerçek danse macabre fresklerine ne kadar yakın?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-199-rural-impact",
+      "title": "Kırsal Etki",
+      "subtitle": "Bir sahnenin sakladığı sistem",
+      "mediaType": "general",
+      "mediaTitle": "Kara Veba temalı yapımlar",
+      "era": "Orta Çağ",
+      "region": "Avrupa",
+      "themes": [
+        "Hastalık",
+        "Toplum",
+        "Yanlış Bilinenler"
+      ],
+      "whatWeSee": "Kara Veba temalı yapımlarda terk edilmiş köyler, çökmüş manorial düzen ve tarlada tek başına kalan çiftçiler kırsal Avrupa'nın sessiz çöküşünü gösterir. Şehir felaketi öne çıkar; manorial mahkeme ve vergi defterleri ise köy köy boşalmanın ikinci haritasını çizer.",
+      "realHistory": "Veba kırsalı şehirden farklı vurdu ama iz bıraktı: terk edilen köyler, 'terk edilmiş köy' (deserted medieval village) arkeolojisi İngiltere'de yüzlerce örnek gösterir. Manorial sistem — lord, serf, ortak tarım — vergi ve işgücü kaybıyla sarsıldı. Bazı topraklar kenara çekildi, bazıları kiralama ve ücretli işçiliğe döndü. Miras hukuku değişti: ölenlerin toprakları yeniden paylaşıldı, aileler küçüldü veya yok oldu. Kilise gelirleri düştü; papalık vergi talepleri yerel direnişle karşılaştı. Kırsal topluluklar bazen komşu köyden göç aldı, bazen tamamen silindi. Kara Veba temalı yapımlar kırsalı arka plan yapar; tarihçiler vergi ve mahkeme kayıtlarından köy boşalmasını haritalar. Vebanın kırsal mirası, feodal Avrupa'nın yavaş dönüşümünün görünmez katmanıdır. İngiltere'de Wharram Percy gibi terk edilmiş köy arkeolojisi, nüfus çöküşünün somut izini verir. Manorial hesap defterleri, kira gelirlerinin düştüğünü, tarlaların kenara çekildiğini kaydeder. Bazı lordlar ücretli işçiye geçti; bazıları toprağı birleştirdi. Miras hukuku değişti: ölen aile üyelerinin payları yeniden dağıtıldı. Kilise ondalık gelirleri azaldı; papalık vergi talepleri yerel direnişle karşılaştı. Doğu Avrupa'da farklı örüntüler vardı; Batı'da manorial kriz belgelenmiştir. Papalık ondalık talepleri azalan gelirle çatıştı; yerel rahipler vergi toplayamayınca kilise ekonomisi de sarsıldı. Vebanın kırsal mirası şehir kadar dramatik değil ama daha sessiz bir haritadır.",
+      "accuracyNote": "Terk edilmiş köyler ve manorial kriz iyi belgelenmiştir; her bölgede aynı ölçekte boşalma olmadı.",
+      "whyInteresting": "Bir köyün sessizce kaybolması, vergi defterinde tek satır olabilir.",
+      "misconception": "Veba yalnızca şehirleri vurdu; kırsal nüfus ve toprak düzeni de derinden değişti.",
+      "nextTopics": [
+        "Vebanın Yayılışı",
+        "Karantina Fikri",
+        "Flagellantlar"
+      ],
+      "sources": [
+        {
+          "title": "Deserted medieval villages (Historic England)",
+          "url": "https://historicengland.org.uk/research/current/heritage-science/deserted-medieval-villages/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Rural society after the Black Death (Britannica)",
+          "url": "https://www.britannica.com/event/Black-Death/Economic-and-social-effects",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Manorial records (UK National Archives)",
+          "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/manorial-records/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-200-memory",
+        "tf26-197-doctors",
+        "tf26-198-death-art"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Terk edilmiş köy sahneleri ile manorial kayıtlar ve deserted village arkeolojisi.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "kara-olum",
+        "orta-cag",
+        "yanlis-bilinenler",
+        "kirsal-etki",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Boş tarla görüntüsü seçilir; arşiv köy köy terk edilişi gösterir.",
+      "whyItMatters": "Kırsal dönüşüm, modern Avrupa toprak ve emek ilişkilerinin öncülüdür.",
+      "isFlagship": false,
+      "quickRealityCheck": "Filmlerdeki hayalet köyler, İngiliz terk edilmiş köy arkeolojisiyle ne kadar örtüşür?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-200-memory",
+      "title": "Kara Ölüm Hafızası",
+      "subtitle": "Kara Ölüm hafızası: anı, film, korku",
+      "mediaType": "general",
+      "mediaTitle": "Kara Veba temalı yapımlar",
+      "era": "Orta Çağ",
+      "region": "Avrupa",
+      "themes": [
+        "Hastalık",
+        "Toplum",
+        "Yanlış Bilinenler"
+      ],
+      "whatWeSee": "Kara Veba temalı yapımlarda boş köyler, toplu mezarlar ve 'veba çağı'na gönderme yapan diyaloglar izleyiciye felaketin hafızada nasıl yaşadığını hissettirir. Sinema tek bir salgın anını yoğunlaştırır; arşivler ise felaketin onlarca yıl süren nüfus, miras ve inanç izini saklar.",
+      "realHistory": "1347–1351 Kara Veba'sı Avrupa nüfusunun üçte birini ya da daha fazlasını vurdu; rakamlar bölgeye göre değişse de şok ortaktı. Ölüm sadece beden sayısı değildi: kilise takvimleri, vergi kayıtları, miras davaları ve şiirler felaketi nesiller boyu taşıdı. Boccaccio'nun Decameron'u, Floransa'da vebanın gündelik hayatı nasıl parçaladığını anlatır; İngiltere'de 'Black Death' ifadesi daha sonraki hafızada yerleşti. Demografik çöküşün izleri yüzyıllar sürdü: terk edilmiş tarlalar, düşen kira gelirleri, azalan zanaatçı sayıları. Hafıza hem dini hem laik dille işlendi — Tanrı'nın gazabı, yıldızların konumu, 'dünyanın sonu' korkusu. Aynı felaket, farklı toplumlarda farklı anlam kazandı. Kara Veba temalı yapımlar genelde tek bir salgın anını yoğunlaştırır; tarihçiler ise onlarca yıllık nüfus eğrisi, miras hukuku ve kent planlaması okur. Felaketin kültürel hafızası, bugün hâlâ 'ortaçağ karanlığı' mitinin temel taşlarından biridir. İngiltere'de manorial mahkeme kayıtları, veba sonrası miras davalarında ailelerin nasıl parçalandığını gösterir: erkek vâris öldüyse toprak kız kardeşe veya uzak akrabaya geçebiliyordu. Floransa'da 1348'de nüfusun yarısından fazlası bir yıl içinde kaybedildi; şehir yıllarca toparlanamadı. Mezarlık arkeolojisi ve toplu gömü alanları, kroniklerin anlattığı ölçeği somutlaştırır. Hafıza yalnızca korku değildi. Veba sonrası bazı bölgelerde ücretler yükseldi, zanaatçılar güç kazandı; bu da 'felaketten sonra dünya değişti' duygusunu besledi. Danse macabre freskleri ve ölüm hatırlatmaları, aynı kuşağın kolektif şokunu görselleştirdi. Kara Veba temalı yapımlar bu uzun hafıza katmanını nadiren işler; oysa ortaçağ sonrası Avrupa'nın demografik ve kültürel haritası büyük ölçüde bu şokun ürünüdür.",
+      "accuracyNote": "Nüfus kayıpları ve kültürel yansımalar güçlü akademik konsensüse sahiptir; tek bir salgın yılı tüm kartografyayı temsil etmez.",
+      "whyInteresting": "Aynı veba, bir yerde şiir, başka yerde vergi defteri diliyle hatırlanır.",
+      "misconception": "Vebanın ardından Avrupa'nın tamamen 'karanlığa' gömüldüğü sanılır; oysa bazı bölgeler hızla toparlandı, bazıları on yıllar geride kaldı.",
+      "nextTopics": [
+        "Vebanın Yayılışı",
+        "Karantina Fikri",
+        "Flagellantlar"
+      ],
+      "sources": [
+        {
+          "title": "Black Death (Britannica)",
+          "url": "https://www.britannica.com/event/Black-Death",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Black Death: A Personal History (Cambridge)",
+          "url": "https://www.cambridge.org/core/books/black-death/9780521844973",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Decameron context (British Library)",
+          "url": "https://www.bl.uk/collection-items/boccaccio-decameron",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-192-quarantine",
+        "tf26-196-medieval-hygiene"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Toplu mezar ve boş köy imgeleri ile Boccaccio, vergi defterleri ve nüfus tahminleri.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "kara-olum",
+        "orta-cag",
+        "yanlis-bilinenler",
+        "kara-olum-hafizasi",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Sinema tek felaket anına odaklanır; arşivler onlarca yıllık nüfus ve miras izini gösterir.",
+      "whyItMatters": "Toplumsal travmanın nasıl hafızaya dönüştüğünü anlamak, bugünkü kriz anlatılarını da okumaya yardım eder.",
+      "isFlagship": true,
+      "quickRealityCheck": "Filmlerdeki veba sonrası sessizlik, vergi ve miras kayıtlarındaki boşluklarla örtüşüyor mu?",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

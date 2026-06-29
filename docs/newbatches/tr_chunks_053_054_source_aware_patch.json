@@ -1,0 +1,365 @@
+{
+  "batch": "tr-chunks-053-054-source-aware",
+  "sourceChunks": [
+    "tr-chunk-053.json",
+    "tr-chunk-054.json"
+  ],
+  "reviewedAt": "2026-06-28",
+  "notes": [
+    "External source-aware editorial review for Turkish chunks 053 and 054.",
+    "Only changed fields are included. Apply by id + locale.",
+    "sourceUpdates are separated from text field updates."
+  ],
+  "entries": [
+    {
+      "id": "tf26-067-seppuku",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Tekrarlı bloklar temizlendi; seppuku yalnız romantik onur eylemi değil, sınıf statüsü ve siyasi disiplin aracı olarak yeniden çerçevelendi.",
+      "fields": {
+        "whatWeSee": "Shogun dizisinde seppuku, beyaz giysi, kısa kılıç, tanıklar ve kaishakunin eşliğinde ağır bir onur ritüeli gibi görünür. Sahne çoğu zaman karakterin kişisel cesaretini ve ailesine bıraktığı mirası öne çıkarır. Bu doğru bir duygusal kapı açar; fakat ritüelin devlet düzeni, sınıf ayrıcalığı ve siyasi ceza tarafı ancak tarihsel bağlama girince netleşir.",
+        "realHistory": "Seppuku, samuray dünyasında yalnızca “kişisel onur için ölmek” anlamına gelmiyordu. Orta Çağ ve erken modern Japonya’da ritüel intihar, yenilgi, utanç, efendiye sadakat ya da siyasi ceza gibi farklı bağlamlarda kullanıldı. Özellikle Tokugawa düzeninde seppuku, samuray statüsünü koruyan ama aynı zamanda merkezi otoritenin cezayı sınıfsal bir biçimde uygulamasını sağlayan kontrollü bir ritüele dönüştü.\n\nTörenin ayrıntıları bu yüzden önemlidir. Tanıkların bulunması, son sözlerin kayda geçmesi ve kaishakunin’in acıyı kısa kesen rolü, eylemin kontrolsüz bir ölüm değil kamusal olarak tanınan bir karar olduğunu gösterir. Bazı durumlarda kişi kendi iradesiyle hareket edebilirdi; bazı durumlarda ise “onurlu ölüm” diye sunulan şey fiilen emredilmiş bir infazdı. Aynı suçun farklı sınıflarda farklı cezayla sonuçlanabilmesi, seppuku’nun sınıf statüsüyle ne kadar yakından ilişkili olduğunu gösterir.\n\nPopüler anlatılar seppuku’yu çoğu zaman saf cesaret göstergesi gibi romantikleştirir. Daha dengeli tarihsel okuma, ritüeli onur diliyle devlet disiplininin kesiştiği bir alan olarak görür. Shogun’un sahneleri bu ağırlığı hissettirir; gerçek tarih ise bu ağırlığın arkasındaki hukuk, sınıf ve aile baskısını daha görünür kılar.",
+        "mediaChanged": "Dizi seppuku’yu güçlü bir kişisel onur sahnesi olarak yoğunlaştırır. Tarihte ritüel aynı zamanda statüye göre uygulanan siyasi ceza ve itaat mekanizmasıydı.",
+        "whyInteresting": "Aynı ritüelin hem kişisel itibar hem de devlet disiplini diliyle çalışması, samuray dünyasındaki onur fikrini çok daha karmaşık hale getirir.",
+        "whyItMatters": "Seppuku’yu yalnız romantik bir ölüm biçimi gibi görmek, Tokugawa düzenindeki sınıf, ceza ve siyasi kontrol boyutunu kaçırmamıza neden olur.",
+        "misconception": "Seppuku’nun her zaman tamamen gönüllü bir onur eylemi olduğu sanılır; oysa birçok durumda siyasi emir ve aile baskısı belirleyiciydi.",
+        "quickRealityCheck": "Seppuku bir kişinin kendi kararı mıydı, yoksa bazen devletin verdiği cezayı onur diliyle uygulama biçimi miydi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Seppuku",
+            "url": "https://www.britannica.com/topic/seppuku",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Samurai",
+            "url": "https://www.britannica.com/topic/samurai",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Forty-seven rōnin",
+            "url": "https://www.britannica.com/topic/forty-seven-ronin",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-068-port-trade",
+      "locale": "tr",
+      "decision": "flagship_rewrite_expand",
+      "reason": "Flagship olmasına rağmen kısa ve tekrarlıydı; sakoku klişesi yerine kontrollü Nagasaki/Dejima ticareti, tercümanlık ve bilgi akışıyla genişletildi.",
+      "fields": {
+        "subtitle": "Nagasaki: kapalı ülkenin açık kapısı",
+        "whatWeSee": "Shogun’da limanlar, yabancı gemilerin, tercümanların, tüccarların ve daimyo çıkarlarının çarpıştığı gergin alanlar gibi görünür. Blackthorne’un gelişi yalnız bir macera başlangıcı değildir; Portekiz, Hollanda, Çin ve Japon otoriteleri arasındaki ticaret-güvenlik dengesini bozar. Dizi bu limanları kültür karşılaşması kadar devlet denetimi sahnesi olarak da kullanır.",
+        "realHistory": "### Kontrollü açıklık\n\nShogun’un liman sahneleri, Japonya’yı tamamen kapalı bir dünya gibi değil, tehlikeli biçimde filtrelenmiş bir ticaret alanı gibi gösterdiğinde tarihsel olarak doğru bir noktaya yaklaşır. 16. yüzyılda Nanban ticareti, Portekizli ve İspanyol tüccarları Japon limanlarına getirdi; ateşli silahlar, ipek, gümüş, harita bilgisi ve misyonerlik aynı ağ içinde hareket etti. Bu temas bazı daimyo için büyük fırsattı: yabancı mallar askeri güç, ticari gelir ve siyasi prestij demekti. Fakat aynı temas, dış krallıkların ve misyoner ağlarının Japon iç siyasetine sızabileceği korkusunu da büyüttü.\n\n### Kâr ile güvenlik arasındaki çizgi\n\nTokugawa düzeni güçlendikçe asıl soru “ticaret olsun mu olmasın mı?” değil, “ticaret kimlerin gözetiminde ve hangi sınırlar içinde yürüsün?” haline geldi. Hristiyan misyonerlik, İber krallıklarıyla bağlantı ve yerel daimyo çıkarları merkez için güvenlik riski sayıldı. Buna rağmen dış ticaret tamamen kesilmedi. 17. yüzyılda Nagasaki, Çinli ve Hollandalı tüccarların kontrollü biçimde kabul edildiği ana kapıya dönüştü. Dejima gibi fiziksel olarak ayrılmış alanlar, yabancıların hareketini sınırlarken ticari bilgi akışını tamamen durdurmadı.\n\n### Liman, tercüman, kayıt\n\nBu sistemde tercümanlar, gümrük görevlileri, lisanslı aracılar ve depo düzeni limanın gerçek gücünü oluşturdu. Gelen mallar yalnız ekonomik değer taşımıyordu; tıp, astronomi, haritacılık ve silah teknolojisi gibi bilgi alanları da bu kanallardan sızıyordu. Hollanda aracılı öğrenme geleneği, tam kapanma klişesinin neden eksik olduğunu gösterir. Devletin amacı dünyayı yok saymak değil, dış bilgiyi ticari kâr kaybolmadan siyasi tehdide dönüşmeyecek şekilde süzmekti.\n\n### Oyunun ve dizinin sadeleştirdiği nokta\n\nShogun, limanı yabancı karakterin hikâyeye giriş kapısı yapar: bir gemi gelir ve herkesin dengesi değişir. Gerçekte liman, erken modern Japon devletinin dünyayı nasıl seçerek içeri aldığını gösteren bir kurumdu. Sakoku etiketi tek başına “kapılar kapandı” demek değildir; daha doğru ifade, dış temasın devlet gözetiminde daraltılması ve ticaretin güvenlik hesabına bağlanmasıdır. Liman ticareti bu yüzden yalnız kâr değil, egemenlik yönetimidir. Hangi geminin gireceği, kimin çevireceği, hangi malın depoya alınacağı ve hangi bilginin saraya ulaşacağı siyasi düzenin parçasıydı.\n\n### Dejima’nın anlamı\n\nDejima’nın önemi, ticaretin sürmesine rağmen yabancı varlığın gündelik Japon toplumuyla serbestçe karışmasını engellemesiydi. Bu küçük ve denetimli alan, hem güvenlik bariyeri hem de bilgi kapısı gibi işledi. Hollandalı ve Çinli tüccarlar belirli kurallar içinde mal getirebiliyor, Japon görevliler ise bu hareketi kayıt, çeviri ve gözetimle takip ediyordu. Böylece devlet, Avrupa’daki bilimsel ve teknik gelişmelerden tamamen kopmadan Hristiyan misyonerlik ve askeri ittifak riskini sınırlamaya çalıştı.\n\n### Shogun okuması\n\nBu ayrım Shogun açısından önemli: dizide liman bir kaos alanı gibi görünür, fakat tarihsel olarak kaosun kendisi bile kurallara bağlanmaya çalışılıyordu. Yabancı gemi yalnız malları değil, ittifak ihtimallerini ve korkuları da getiriyordu. Limanda kimin konuşacağı, kimin çevireceği ve hangi evrakın üst makama çıkacağı erken modern Japon siyasetinde gerçek bir güç meselesiydi.",
+        "mediaChanged": "Dizi limanı çoğu zaman yabancı karakterin giriş noktası ve siyasi gerilim mekânı yapar. Tarihte liman, vergi, tercümanlık, din yasağı, ticari lisans ve bilgi kontrolünü aynı anda yöneten bir devlet filtresiydi.",
+        "whyInteresting": "Japonya’nın “kapalı” diye anılan döneminde bile Nagasaki üzerinden seçilmiş ticaret ve bilgi akışı sürüyordu.",
+        "whyItMatters": "Liman ticareti, erken modern devletlerin dünyayla temasını tamamen açmak ya da kapatmak yerine nasıl denetleyerek yönettiğini gösterir.",
+        "misconception": "Sakoku sonrası Japonya’nın dış dünyayla tüm bağını kestiği sanılır; gerçekte dış temas daraltıldı, merkezileştirildi ve sıkı kayıt altına alındı.",
+        "quickRealityCheck": "Japonya dışa tamamen kapandı mı, yoksa dış ticareti Nagasaki gibi denetimli kapılar üzerinden mi sürdürdü?",
+        "readingTimeMinutes": 3,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Dejima History",
+            "url": "https://nagasakidejima.jp/english/history/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Art of the Edo Period (1615–1868)",
+            "url": "https://www.metmuseum.org/essays/art-of-the-edo-period-1615-1868",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Sakoku",
+            "url": "https://www.britannica.com/topic/sakoku",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Nanban trade",
+            "url": "https://www.britannica.com/topic/Nanban-trade",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-069-sekigahara",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Tekrarlı ve sonu kırık metin temizlendi; savaş sonrası düzen vergi, daimyo sınıflandırması, kale denetimi ve bakufu inşasıyla anlatıldı.",
+      "fields": {
+        "subtitle": "Savaşı kazandıktan sonra devleti kurmak",
+        "whatWeSee": "Shogun, Sekigahara sonrası dünyayı kişisel sadakat testleri, rehin siyaseti, liman pazarlıkları ve kapalı kapılar ardındaki hesaplaşmalarla kurar. Savaş bitmiş gibi görünür ama herkes yeni düzende yerini korumaya çalışır. Dizi bu geçişi bireylerin zekâsı ve sabrı üzerinden anlatır.",
+        "realHistory": "1600’deki Sekigahara Muharebesi, Tokugawa Ieyasu’nun rakipleri karşısında belirleyici üstünlük kurmasını sağladı; fakat Japonya’nın yeni düzeni tek bir savaş alanında tamamlanmadı. Asıl dönüşüm, zaferden sonra daimyo topraklarının yeniden dağıtılması, sadakat düzeylerine göre sınıflandırılması ve stratejik bölgelerin bakufu denetimine alınmasıyla başladı.\n\n1603’te şogunluk unvanı bu sürece resmi çerçeve verdi. Tokugawa otoritesi, yalnız askeri baskıyla değil, kalelerin onarım ve genişletme izinlerini sınırlama, evlilikleri denetleme, limanları kontrol etme ve daimyo hareketliliğini düzenleme gibi araçlarla kalıcılaştı. Böylece eski savaşçı rekabeti tamamen yok olmadı; ama daha sıkı kurallar içinde yönetilen bir pazarlık düzenine sokuldu.\n\nShogun’un entrika dili dönemin psikolojisini iyi yakalar. Tarihsel ağırlık ise kişisel dehadan çok, savaş galibiyetinin idari sisteme çevrilmesinde yatar. Sekigahara sonrası düzen, kılıçla kazanılan gücün kayıt, vergi, kale ve hareket kontrolüyle nasıl kalıcı hale getirildiğini gösterir. Barışın kalıcılığı savaş meydanında değil, savaş sonrasında kurulan denetim mimarisinde sınandı.",
+        "mediaChanged": "Dizi geçişi kişisel strateji ve saray gerilimi üzerinden yoğunlaştırır. Tarihte kalıcı sonucu belirleyen şey, zaferden sonra kurulan daimyo denetimi ve bakufu idaresiydi.",
+        "whyInteresting": "Bir meydan savaşı, ancak toprak, kale ve hareket kurallarıyla desteklenince yüzyıllık bir düzene dönüşebildi.",
+        "whyItMatters": "Sekigahara’yı yalnız askeri zafer olarak değil, erken modern Japon devlet inşasının başlangıç noktalarından biri olarak okumak gerekir.",
+        "misconception": "Sekigahara’dan hemen sonra Japonya’nın bir gecede tam ve sorunsuz biçimde birleştiği sanılır.",
+        "quickRealityCheck": "Tokugawa düzenini kalıcı yapan şey tek savaş galibiyeti miydi, yoksa zaferden sonra kurulan idari denetim sistemi mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Battle of Sekigahara",
+            "url": "https://www.britannica.com/event/Battle-of-Sekigahara",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Tokugawa period",
+            "url": "https://www.britannica.com/event/Tokugawa-period",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Tokugawa Ieyasu",
+            "url": "https://www.britannica.com/biography/Tokugawa-Ieyasu",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Japan, 1600–1800 A.D.",
+            "url": "https://www.metmuseum.org/toah/ht/09/eaj.html",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-070-edo-peace",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Tekrarlı bloklar çıkarıldı; Edo Barışı baskı/istikrar, kentleşme, ticaret, sankin-kōtai ve sınıf gerilimi dengesiyle yeniden yazıldı.",
+      "fields": {
+        "subtitle": "Savaşsızlık, denetim ve şehirleşme",
+        "whatWeSee": "Shogun’da Tokugawa düzeni, rehinler, liman kısıtları, daimyo alayları ve dikkatle izlenen sadakat ilişkileriyle ayakta duran gergin bir barış gibi görünür. Savaş sahneden çekilse bile güç mücadelesi bitmez; yalnızca daha kurumsal ve sessiz biçimlere taşınır.",
+        "realHistory": "Edo dönemi, 1603’ten 1868’e uzanan uzun Tokugawa yönetimiyle birlikte Japonya’da büyük iç savaşların büyük ölçüde durduğu bir dönemdi. Bu barış kendiliğinden doğmadı. Daimyoların hareketi, kaleleri, evlilikleri, ticari temasları ve askeri kapasitesi merkez tarafından yakından denetlendi. Sankin-kōtai, beyleri düzenli olarak Edo’ya getirerek hem sadakat gösterisi hem de mali yük yarattı.\n\nBu istikrarın sonucu büyük bir kentleşme ve ekonomik büyümeydi. Edo, Osaka ve Kyoto gibi merkezlerde zanaat, ticaret, yayıncılık, tiyatro ve görsel kültür canlandı. Aynı zamanda düzen katı bir statü sistemi üzerine kuruluydu: samuraylar, köylüler, zanaatkârlar ve tüccarlar arasındaki sınırlar hukuken ve toplumsal olarak korunmaya çalışıldı. Barış, özgürlükten çok denetimli istikrar anlamına geliyordu.\n\nUzun vadede bu sistem yeni gerilimler de üretti. Sabit samuray gelirleri, büyüyen para ekonomisi ve güçlenen tüccar kredi ağları arasında dengesizlik oluştu. Bu yüzden Edo Barışı yalnız huzurlu bir dönem değil; kurumların savaşı bastırırken ekonomik değişimi tamamen kontrol edemediği karmaşık bir düzen olarak okunmalıdır. Shogun bu geçişin erken psikolojisini verir; asıl tarih, iki buçuk yüzyıla yayılan denetimli barışın nasıl hem refah hem baskı ürettiğini gösterir.",
+        "mediaChanged": "Dizi barışı kişisel entrika ve rehin sistemiyle görünür kılar. Tarihte aynı düzen, kentleşme, sınıf hiyerarşisi, ticaret ve mali dengesizliklerle birlikte işledi.",
+        "whyInteresting": "Uzun barış, yalnız savaşların bitmesi değil; şehirlerin, kredi ağlarının ve kültürel üretimin büyümesi anlamına da geldi.",
+        "whyItMatters": "Edo Barışı, güçlü devlet denetiminin hem istikrar hem de yeni ekonomik gerilimler üretebildiğini gösterir.",
+        "misconception": "Edo döneminin tamamen durgun ve dışa kapalı olduğu sanılır; oysa ticaret, şehir kültürü ve okuryazarlık ciddi biçimde gelişti.",
+        "quickRealityCheck": "Tokugawa barışı yalnız silahları susturduğu için mi sürdü, yoksa daimyo hareketini ve ekonomik akışı denetlediği için mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Japan, 1600–1800 A.D.",
+            "url": "https://www.metmuseum.org/toah/ht/09/eaj.html",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Art of the Edo Period (1615–1868)",
+            "url": "https://www.metmuseum.org/essays/art-of-the-edo-period-1615-1868",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Sankin-kōtai",
+            "url": "https://www.britannica.com/topic/sankin-kotai",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Tokugawa period",
+            "url": "https://www.britannica.com/event/Tokugawa-period",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-071-village-life",
+      "locale": "tr",
+      "decision": "minor_rewrite_source_cleanup",
+      "reason": "Gövde dengeliydi; Bohemya bağlamı güçlendirildi, İngiltere odaklı kaynak zayıflatıldı ve kısa alan tekrarları temizlendi.",
+      "fields": {
+        "subtitle": "Köy: üretim, angarya ve belirsizlik",
+        "realHistory": "15. yüzyıl başı Bohemya kırsalı romantik bir köy kartpostalından çok karmaşık bir yükümlülük sistemiydi. Köylü hanelerinin yaşamı, toprağın yalnızca işlenmesinden değil, o toprağa bağlı kira, vergi ve hizmet ilişkilerinden etkilenirdi. Yol onarımı, taşıma, hasat yardımı ya da senyör için zorunlu çalışma gibi angaryalar, gündelik üretimin üzerine ek yük bindirirdi.\n\nÜretim başarısı yalnız hava koşuluna bağlı değildi. Değirmen erişimi, tohum kalitesi, hayvan gücü, pazar yolu ve yerel güvenlik aynı anda belirleyiciydi. Kötü hasat yıllarında borç hızla büyüyebilir; savaş geçişleri, zorla erzak toplama ve hayvan kaybı bir haneyi yıllarca toparlanamayacak hale getirebilirdi. Kilise takvimi de çalışma, oruç, bayram ve topluluk ritmini düzenleyen ana çerçevelerden biriydi.\n\nKingdom Come’un güçlü tarafı, bu dünyanın maddi dokusunu hissettirmesi: değirmen, han, demirci ve tarla aynı ekonomik ağın parçalarıdır. Eksik kalan taraf, köy hayatındaki manevra alanının ne kadar dar olduğunu yeterince sert göstermemesidir. Orta Çağ köyü yalnız yoksullukla değil, belirsiz gelirle sabit yükümlülükleri taşıma zorunluluğuyla tanımlanır. Bu yüzden köylünün gündelik stratejisi çoğu zaman “zenginleşmek” değil, kötü yılı atlatacak kadar ayakta kalmaktı.",
+        "mediaChanged": "Oyun köy yaşamını görev akışına çevirerek gündelik üretimi erişilebilir kılar. Tarihte köylünün hareket alanı daha dardı; angarya, vergi, iklim riski ve savaş yükü birlikte baskı kuruyordu.",
+        "whyItMatters": "Köy hayatını anlamak, Orta Çağ ekonomisinin yalnız tarladan değil, yükümlülük ve risk yönetiminden oluştuğunu gösterir.",
+        "quickRealityCheck": "Bir köylü hanesi için kötü hasat mı daha yıkıcıydı, yoksa kötü hasatla aynı anda artan angarya ve vergi talebi mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Bohemia",
+            "url": "https://www.britannica.com/place/Bohemia",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Serfdom",
+            "url": "https://www.britannica.com/topic/serfdom",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "10 things you need to know about medieval Bohemia before you play Kingdom Come: Deliverance 2",
+            "url": "https://www.historyextra.com/period/medieval/bohemia-facts-kingdom-come-deliverance-2/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-072-guilds",
+      "locale": "tr",
+      "decision": "flagship_rewrite_expand",
+      "reason": "Flagship kart kısa ve soyuttu; Bohemya/Prag bağlamı, çıraklık-kalfa-usta düzeni, belediye pazarlığı, standart ve dışlama dengesiyle genişletildi.",
+      "fields": {
+        "subtitle": "Lonca: atölye, tüzük ve şehir pazarlığı",
+        "whatWeSee": "Kingdom Come: Deliverance’ta kent yaşamı demirciler, değirmenciler, hancılar, terziler ve pazar ilişkileri üzerinden canlı görünür. Oyuncu üretimi yalnız iş değil, statü ve güven meselesi olarak deneyimler. Kimin usta sayıldığı, kimin ne satabildiği ve kimin yerel otoritelerce ciddiye alındığı gündelik hayatın parçasıdır.",
+        "realHistory": "### Atölyeden şehir yönetimine\n\nLoncalar, Orta Çağ kentlerinde yalnız aynı işi yapan ustaların kulübü değildi. Çıraklık süresini, kalfalığa geçişi, ustalık denemelerini, kullanılacak malzemeyi, ölçüleri, fiyat davranışını ve ürün kalitesini düzenleyen hukuki-ekonomik yapılardı. Bir demircinin, fırıncının ya da terzinin pazarda güvenilir sayılması yalnız becerisine değil, bu kurumların tanıdığı statüye de bağlıydı. Bu yüzden lonca, hem mesleki eğitim kurumu hem de tüketiciye “bu mal denetlenmiş” mesajı veren güven sistemi gibi çalışıyordu.\n\n### Bohemya ve şehir pazarlığı\n\nGeç Orta Çağ Bohemya’sında, özellikle Prag gibi kentlerde zanaat örgütlenmesi yerel yönetim ve kraliyet gelirleriyle yakından bağlantılıydı. Loncalar şehir meclisleriyle pazarlık ederek belirli üretim ayrıcalıkları kazanabilir; buna karşılık kamu hizmeti, vergi, kalite denetimi ve düzenin korunması gibi alanlarda sorumluluk üstlenebilirdi. Bu yüzden loncayı yalnız ekonomik tekel gibi görmek eksik kalır: lonca aynı zamanda şehir yönetiminin çalışmasını kolaylaştıran ara kurumdu. Üretim ve kamu düzeni birbirinden ayrı değildi; kötü ekmek, düşük ayarlı metal ya da hileli ölçü doğrudan şehir otoritesinin güvenilirliğini zedelerdi.\n\n### Eğitim, güven ve dışlama\n\nLonca düzeni güven üretirken dışlama da üretirdi. Usta olmak sermaye, bağlantı, zaman ve bazen vatandaşlık statüsü gerektiriyordu. Kadınlar, göçmenler veya lonca dışı üreticiler çoğu yerde sınırlı hareket alanına sahipti. Buna rağmen standartlaştırılmış eğitim, ürün kalitesi ve karşılıklı yardım mekanizması kent pazarında istikrar sağladı. Kalfa yolculukları, mesleki bilgi dolaşımının önemli araçlarından biriydi; usta atölyesi ise yalnız üretim değil, sosyal disiplin alanıydı.\n\n### Oyunun gösterdiği ve sakladığı şey\n\nKingdom Come, zanaatkâr hiyerarşisini ve yerel itibarın önemini iyi hissettirir. Oyuncu kimin güvenilir, kimin hilekâr, kimin “saygın usta” olduğunu pratik ilişkiler üzerinden öğrenir. Ancak oyun doğal olarak bireysel ilerlemeyi öne çıkarır; tarihsel gerçeklikte mesleki yükseliş, kişisel yetenek kadar tüzük, belediye mahkemesi, vergi rejimi ve kolektif pazarlıkla belirlenirdi. Lonca düzeni bu yüzden bir arka plan dekoru değil, Orta Çağ kentinin ekonomik işletim sistemidir.\n\n### Kriz dönemlerinde lonca\n\nSavaş, salgın, kötü hasat ya da siyasi kriz dönemlerinde lonca düzeninin önemi daha da artardı. Şehir yönetimi ekmek, metal, deri, kumaş ve silah gibi temel üretimlerin tamamen dağılmasını istemezdi. Bu nedenle ustaların yükümlülükleri, ham maddeye erişimi ve fiyat davranışı yerel otoriteyle sürekli pazarlık konusu olabilirdi. Bohemya gibi siyasi gerilimin yüksek olduğu bir bölgede zanaatkâr, yalnız mal üreten kişi değil, şehir istikrarının parçasıydı.\n\n### Kingdom Come için tarihsel düzeltme\n\nOyunda oyuncu çoğu zaman bir ustayla tekil ilişki kurar: iş alır, ödeme yapar, itibar kazanır ya da kaybeder. Tarihte ise o ustanın arkasında daha geniş bir kurum, tüzük ve mahkeme ağı vardı. Bu yüzden lonca düzeni, oyundaki “zanaat atmosferini” derinleştiren arka plan bilgisidir: atölyedeki her çekiç sesi, şehirde kimin üretme hakkına sahip olduğu sorusuyla bağlantılıydı.",
+        "mediaChanged": "Oyun zanaatı bireysel beceri ve görev ilerleyişi üzerinden anlatır. Tarihte zanaat dünyası lonca tüzükleri, belediye hukuku, vergi yükümlülüğü ve kolektif pazarlıkla yönetiliyordu.",
+        "whyInteresting": "Bir atölyenin ürettiği nesne kadar, o atölyenin hangi tüzüğe ve şehir otoritesine bağlı olduğu da önemliydi.",
+        "whyItMatters": "Loncaları anlamak, Orta Çağ kent ekonomisinin kişisel beceriyle değil kurumsal güven, kalite denetimi ve pazarlıkla işlediğini gösterir.",
+        "misconception": "Loncaların yalnız yenilik karşıtı meslek tekelleri olduğu sanılır; oysa eğitim, kalite standardı ve şehir yönetimi açısından da önemli işlevleri vardı.",
+        "quickRealityCheck": "Bir zanaatkârın başarılı olması sadece iyi iş çıkarmasına mı bağlıydı, yoksa lonca tüzüğü ve şehir hukuku da yolunu belirliyor muydu?",
+        "readingTimeMinutes": 3,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Guild",
+            "url": "https://www.britannica.com/topic/guild",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Guilds in Medieval Europe",
+            "url": "https://www.worldhistory.org/Guilds_in_Medieval_Europe/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Feudal bargain in Prague: The rise, spread, and fall of craft guilds",
+            "url": "https://journals.sagepub.com/doi/10.1177/10434631221092758",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Bohemia",
+            "url": "https://www.britannica.com/place/Bohemia",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-073-noble-duty",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Tekrarlı ve anakronik 'noblesse oblige' merkezli akış temizlendi; soyluluk toprak, yemin, askeri hizmet, adalet ve kriz yönetimi olarak yeniden kuruldu.",
+      "fields": {
+        "subtitle": "Ayrıcalık kadar yükümlülük",
+        "whatWeSee": "Kingdom Come: Deliverance’da soylular kale avluları, mahkeme kararları, vergi talepleri ve silahlı koruma sorumluluğuyla görünür olur. Oyun, unvanın yalnız lüks değil, insanları yönetme ve kriz anında karar verme yükü taşıdığını hissettirir.",
+        "realHistory": "15. yüzyıl Bohemya’sında soyluluk, yalnız doğuştan gelen prestij değil, toprak gelirini yönetme, askeri hizmet sağlama ve yerel adalet dağıtma yükümlülüğüydü. Bir lord köylülerden ödeme ve hizmet talep edebilir; buna karşılık yol güvenliği, baskınlara karşı koruma, mahkeme düzeni ve kriz zamanında asgari istikrar sağlama beklentisiyle karşılaşırdı.\n\nBu ilişki modern anlamda eşit bir sözleşme değildi; güç dengesi açık biçimde soyludan yanaydı. Yine de tamamen keyfi de değildi. Yemin, berat, miras hakkı, kraliyet onayı ve yerel gelenekler soylu otoritesini sınırlayan ya da meşrulaştıran çerçeveler oluştururdu. Kötü yönetim, aşırı vergi veya koruma sağlayamama, isyan ve sadakat kaybı riskini artırabilirdi.\n\nKingdom Come, bu dünyayı Henry’nin kişisel yükselişi üzerinden dramatize eder. Tarihsel olarak ise soylu yükümlülüğü, bir kişinin onurundan çok toprağın, askerî hizmetin, borcun ve yerel mahkeme düzeninin birlikte işlediği sınıfsal bir sistemdi. Soylu olmak yalnız emir vermek değil, düzenin sürdüğünü kanıtlamak zorunda kalmaktı; bu kanıt özellikle savaş, kıtlık ve siyasi kriz dönemlerinde görünür hale gelirdi.",
+        "mediaChanged": "Oyun soyluluğu kişisel kader ve macera ekseninde anlatır. Tarihte soyluluk, toprak geliri, askerî hizmet, yerel mahkeme ve kriz yönetimiyle ölçülen kurumsal bir statüydü.",
+        "whyInteresting": "Aynı unvan bir kişiye ayrıcalık verirken, onu vergi, savunma ve adalet yükünün de merkezine yerleştiriyordu.",
+        "whyItMatters": "Soyluluğu yalnız lüks ya da savaşçılık olarak değil, yerel yönetim sorumluluğu olarak okumak Orta Çağ siyasetini daha anlaşılır kılar.",
+        "misconception": "Soyluluğun sadece konfor ve güç anlamına geldiği sanılır; oysa meşruiyet çoğu zaman koruma ve düzen sağlama kapasitesine bağlıydı.",
+        "quickRealityCheck": "Bir lordun otoritesi sadece unvanından mı geliyordu, yoksa koruma, adalet ve askerî hizmet sağlayabilmesinden mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Bohemia",
+            "url": "https://www.britannica.com/place/Bohemia",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Medieval Nobility",
+            "url": "https://www.worldhistory.org/Medieval_Nobility/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Feudal Law",
+            "url": "https://max-eup2012.mpipriv.de/index.php/Feudal_Law",
+            "type": "reference",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-074-church-calendar",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Metin genel olarak iyi olsa da tekrar ve fazla geniş ifadeler vardı; litürjik yıl, oruç, bayram, pazar ve yerel topluluk ritmi daha sade hale getirildi.",
+      "fields": {
+        "subtitle": "Zamanı kilise belirliyordu",
+        "whatWeSee": "Kingdom Come: Deliverance’ta çan sesleri, ayin çağrıları, pazar günleri, oruç ve aziz günleri köy hayatının arka planında sürekli hissedilir. Oyun bunu büyük açıklamalarla değil, gündelik ritimle verir: insanlar ne zaman çalışacağını, ne zaman pazara gideceğini ve ne zaman topluluk önüne çıkacağını bu takvimle anlar.",
+        "realHistory": "Orta Çağ Avrupa’sında kilise takvimi yalnız ibadet günlerini sıralayan dini bir liste değildi; tarım, pazar, emek, yemek ve hukuki hayatı düzenleyen ortak zaman sistemi olarak çalışıyordu. Noel, Paskalya, Lent, aziz günleri ve yerel yortular; çalışma temposunu, et tüketimini, panayır tarihlerini ve borç ödeme alışkanlıklarını etkileyebilirdi.\n\nBohemya gibi bölgelerde genel Hristiyan takviminin üzerine yerel aziz kültleri ve bölgesel uygulamalar eklenirdi. Köylü için ayine katılım yalnız inanç göstergesi değil, topluluk üyeliğinin de işaretiydi. Oruç günleri mutfak ekonomisini değiştirir; bazı yortular pazar ve panayır hareketini artırırdı. Takvim, dini ritüeli yerel ekonomiyle aynı çizelgede buluşturuyordu.\n\n15. yüzyıl Bohemya’sında Hus hareketinin mirası ve Katolik kurumlarla yaşanan gerilim, bu takvimi yalnız manevi değil siyasi bir konu haline de getirdi. Kingdom Come ayrıntılı teoloji anlatmadan bu ritmi hissettirir. Tarihsel olarak kilise takvimi, insanların zamanı nasıl ölçtüğünü ve yerel otoriteyle ilişkisini nasıl kurduğunu belirleyen sosyal protokoldü. Hangi gün çalışılacağı, hangi gün topluluk önünde ibadet edileceği ve hangi dönemde tüketimin kısıtlanacağı, gündelik hayatın pratik sınırlarını çiziyordu.",
+        "mediaChanged": "Oyun çan, ayin ve köy ritmiyle takvimi hissettirir. Tarihte bu takvim aynı zamanda çalışma, pazar, oruç, panayır ve topluluk üyeliğini düzenleyen pratik bir sistemdi.",
+        "whyInteresting": "Bir bayram günü yalnız dua anlamına gelmezdi; kimi zaman pazarın, borcun, orucun ve topluluk denetiminin de tarihini belirlerdi.",
+        "whyItMatters": "Kilise takvimini anlamak, Orta Çağ’da dinin yalnız inanç değil gündelik zaman yönetimi ve yerel otorite dili olduğunu gösterir.",
+        "misconception": "Kilise takviminin sadece ibadet günlerini belirlediği sanılır; gerçekte çalışma, yemek, pazar ve sosyal görünürlük düzenini de etkiliyordu.",
+        "quickRealityCheck": "Kilise takvimi sadece dua günlerini mi gösteriyordu, yoksa köylünün ne zaman çalışacağını ve pazara çıkacağını da mı belirliyordu?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Liturgical year",
+            "url": "https://www.britannica.com/topic/liturgical-year",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Medieval Church Calendar: A Guide To The Holy Days",
+            "url": "https://www.historyextra.com/period/medieval/medieval-church-calendar-holy-days-advent-lent-feast/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Calendars and Time Keeping",
+            "url": "https://library.missouri.edu/specialcollections/exhibits/show/fragmenta-manuscripta/secular-texts/calendars-and-time-keeping",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

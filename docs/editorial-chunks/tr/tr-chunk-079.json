@@ -1,0 +1,289 @@
+{
+  "locale": "tr",
+  "chunkIndex": 79,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-184-royal-media",
+      "title": "Saray ve Medya",
+      "subtitle": "Kraliyet ve medya: taht TV'ye çıkınca",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "era": "Modern Tarih",
+      "region": "Birleşik Krallık",
+      "themes": [
+        "Monarşi",
+        "Medya",
+        "Siyaset"
+      ],
+      "whatWeSee": "The Crown'da televizyon röportajları, paparazzi ve canlı yayınlar saray protokolünü zorlar. Kraliçe II'nin medya ile ilişkisi, tahtın görünürlük stratejisini değiştirir. Görüntüde saray töreni canlı yayına taşınırken tabloid muhabirleri özel hayat peşinde koşuyor, basın ofisi kriz mesajını dikkatle biçimlendiriyor. Basın toplantıları saray ile kamuoyu arasındaki çizgiyi zorlar.",
+      "realHistory": "1953 taç giyme töreni televizyonda yayınlandı; monarşi bilinçli medya çağına girdi. 1969'da 'Royal Family' belgeseli iç perdeyi açtı; sonra geri çekildi. Diana dönemi paparazzi ve röportajlar protokolü kırdı. 1990'larda 'republican' tartışmalar medya skandallarıyla beslendi. Kraliçe II nadiren röportaj verdi; kontrollü görünürlük stratejisi izledi. The Crown medya çağını dramatize eder; arşivler BBC ve ITN kayıtlarını saklar. Monarşi artık yalnızca protokol değil, görüntü yönetimi işidir. Televizyon çağında Britanya sarayı, sembolik mesafeyi koruma arzusu ile sürekli görünürlük talebi arasında zor bir medya dengesi kurdu. Taç giyme töreninin canlı yayınlanması monarşiyi modernleştirirken, aynı anda özel yaşamın haber değerini de yükseltti. 1980'lerden itibaren tabloid rekabeti, protokol haberlerini kişisel kriz anlatılarıyla birleştirerek izleyici çekti. Saray basın ofisleri görüntü akışını yönetmek için kontrollü röportaj ve fotoğraf stratejileri geliştirdi, ancak kriz anlarında bu kalkan yetersiz kaldı. Medya yönetimi, anayasal kurumun meşruiyetini doğrudan etkileyen bir yönetişim alanına dönüştü. Saray ve Medya 1953 taç giyme töreni televizyonda yayınlandı; monarşi bilinçli medya çağına girdi. Sarayın medya stratejisi, törenleri canlı yayınla meşruiyet üretirken kriz anlarında bilgi akışını sıkı merkezileştirmeye dayanıyordu. Tabloid rekabeti özel hayatı politik haberle birleştirince bu denge sık kırıldı. Basın sekreterleri, tek bir görüntünün haftalarca kamu algısını belirleyebildiğini görerek protokolleri sertleştirdi.",
+      "accuracyNote": "Yayın tarihleri BBC ve Royal arşivleriyle uyumludur.",
+      "whyInteresting": "Aynı taht hem gelenek hem rating hesabıyla yönetildi.",
+      "misconception": "Kraliyet medyadan tamamen uzaktı; 20. yüzyılda bilinçli görünürlük stratejisi geliştirdi.",
+      "nextTopics": [
+        "Anayasal Rol",
+        "Taç Giyme",
+        "Commonwealth"
+      ],
+      "sources": [
+        {
+          "title": "Coronation 1953 (Royal.uk)",
+          "url": "https://www.royal.uk/history-coronation",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Elizabeth II media (Britannica)",
+          "url": "https://www.britannica.com/biography/Elizabeth-II",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "BBC history coronation",
+          "url": "https://www.bbc.co.uk/history",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "crown-tv-coronation-1953",
+        "crown-monarchy-symbol"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Crown'un TV röportaj sahneleri ile 1953 coronation broadcast ve Diana medya krizi.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "monarsi",
+        "the-crown",
+        "ingiltere",
+        "saray-ve-medya",
+        "true-frame"
+      ],
+      "spoilerNote": "The Crown hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi medya krizlerini kişisel dram yapar; gerçekte saray PR stratejisi yıllar içinde evrildi.",
+      "whyItMatters": "Televizyon, monarşinin görünmezlik teamülünü kalıcı değiştirdi.",
+      "isFlagship": true,
+      "quickRealityCheck": "1953 taç giyme yayını neden dönüm noktası sayılır?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-186-prime-ministers",
+      "title": "Başbakanlarla İlişki",
+      "subtitle": "Başbakanlarla İlişki hakkında yanlış bilinen",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "era": "Modern Tarih",
+      "region": "Birleşik Krallık",
+      "themes": [
+        "Monarşi",
+        "Medya",
+        "Siyaset"
+      ],
+      "whatWeSee": "The Crown'da Churchill, Eden, Thatcher ve Elizabeth II arasındaki haftalık görüşmeler başbakan ile taç arasındaki ince çizgiyi gösterir. Dizi diyalogları dramatize eder; Britanya anayasal teamülü görüşme içeriğini kayıt altına almaz.",
+      "realHistory": "Britanya anayasal monarşisinde başbakan hükümeti yürütür; monark resmi olarak danışmanlarıyla hükümdarlık yapar. Kraliçe II'nin başbakanlarla düzenli görüşmeleri yazılı olmayan teamüeldi; içerik gizli kalır. Churchill'den Thatcher'a kadar her PM farklı kriz getirdi: savaş, Süveyş, madenci grevi. The Crown bu görüşmeleri dramatize eder; gerçek protokol daha resmi ve kayıtlar kapalıdır. Monarkın 'siyaset dışı' kalması teamülüdür; fiilde müdahale tartışmalıdır. Dizi ilişkiyi kişisel çatışma olarak gösterir; anayasa tarihçileri yetki sınırlarını vurgular. Kraliçe II on beş başbakanla haftalık görüşme yaptı; içerik kayıt altına alınmadı. Churchill savaş yönetimini, Eden Süveyş krizini, Thatcher madenci grevini getirdi. Monark resmi olarak hükümeti 'destekler'; fiilde müdahale tartışmalıdır — 1975 Avustralya anayasa krizi Elizabeth'in danışmanlık rolünü gösterir. The Crown görüşmeleri kişisel çatışma olarak sunar; gerçek protokol daha resmidir. UK Royal ve Parliament siteleri teamülü özetler: başbakan hükümeti yürütür, monark onaylar ve danışır. Anayasa yazılı değil; teamül ve emsal belirleyicidir. 1975 Avustralya anayasa krizi monarkın danışmanlık rolünü tartışmaya açtı. Yazılı anayasa yok; emsal ve teamül belirleyicidir. Thatcher madenci grevi döneminde monark ile gerilim yaşadığı anlatılır; kayıtlar kapalı, teamül gizliliği korunur. Başbakan hükümeti yürütür; monark resmi onay ve danışmanlık rolü taşır. Baldwin, Attlee ve Blair dönemlerinde görüşme gündemleri farklıydı; monarkın 'sessiz danışman' rolü kriz anlarında tartışılır.",
+      "accuracyNote": "Görüşme teamülü doğrudur; diyaloglar ve özel tartışmalar kurgusaldır.",
+      "whyInteresting": "Yazılı olmayan görüşme, modern Britanya'nın en gizli rutinlerinden biridir.",
+      "misconception": "Kraliçe günlük siyaset yürütür; teamül danışmanlık ve sembolik onaydır.",
+      "nextTopics": [
+        "Anayasal Rol",
+        "Taç Giyme",
+        "Commonwealth"
+      ],
+      "sources": [
+        {
+          "title": "The monarchy and government (UK Royal)",
+          "url": "https://www.royal.uk/queen-and-government",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Prime Minister and Crown (UK Parliament)",
+          "url": "https://www.parliament.uk/about/how/role/queen-and-parliament/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Constitutional monarchy (Britannica)",
+          "url": "https://www.britannica.com/topic/constitutional-monarchy",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-187-public-grief",
+        "tf26-188-royal-finance",
+        "tf26-189-empire-memory"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Crown PM görüşme sahneleri ile Britanya anayasal monarşi teamülleri.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "monarsi",
+        "the-crown",
+        "ingiltere",
+        "basbakanlarla-i-liski",
+        "true-frame"
+      ],
+      "spoilerNote": "The Crown hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Başbakanlarla İlişki ekranda daha net bir odak kazanır; karakterlerin yolu, mekân seçimi ve çatışma ritmi bu konuyu kolay takip edilir kılar. Tarihte aynı başlık, anayasal monarşinin medya çağında dönüşmesi gibi daha uzun süreçlerin içinde ilerler.",
+      "whyItMatters": "Bu konu, nün bile seçilmiş bir parça olduğunu gösterir. Başbakanlarla İlişki üzerinden bakınca 20. yüzyıl ortası ve sonrası insanlarının neye bağımlı yaşadığı daha somut hale gelir.",
+      "isFlagship": false,
+      "quickRealityCheck": "The Crown'daki PM görüşmeleri, anayasal teamül ile ne kadar örtüşüyor?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-187-public-grief",
+      "title": "Kamusal Yas",
+      "subtitle": "Kamusal yas: Diana ve modern monarşi",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "era": "Modern Tarih",
+      "region": "Birleşik Krallık",
+      "themes": [
+        "Monarşi",
+        "Medya",
+        "Siyaset"
+      ],
+      "whatWeSee": "The Crown'da Prenses Diana'nın ölümü ve kamusal yas, kraliyet ailesinin tepkisiyle çatışır. Kraliçe'nin sessizliği ile halkın çiçek denizi arasında gerilim dramın merkezine oturur. İzleyici saray kapısı önündeki çiçek denizini, canlı yayın araçlarını ve yas içindeki kalabalığın sessiz bekleyişini monarşi krizinin merkezinde görüyor.",
+      "realHistory": "31 Ağustos 1997'de Diana'nın ölümü Britanya'da benzeri görülmemiş kamusal yas dalgası başlattı. Buckingham Sarayı başta sessiz kaldı; bayrak yarıya çekilmedi. Halk Kensington ve Buckingham önünde çiçek bıraktı; medya 7/24 yayın yaptı. Kraliçe 5 Eylül'de televizyonda konuştu; 'annus horribilis'ten sonra monarşinin halkla bağını yeniden kurmaya çalıştı. Diana'nın ölümü, modern monarşinin medya çağındaki kırılganlığını gösterdi: özel hayat kamusal olay haline gelmişti. Blair'in 'halkın prensesi' ifadesi siyasi çerçeveyi değiştirdi. Yas, protokol ile duygunun çarpışmasıydı. 1997'de Prenses Diana'nın ölümü sonrası Britanya'da ortaya çıkan kamusal yas, monarşi ile toplum arasındaki duygusal beklenti dengesini kökten değiştirdi. Kensington çevresinde biriken çiçekler ve notlar, resmi protokolün ötesinde yatay bir halk ritüeli yarattı. Sarayın ilk günlerdeki mesafeli dili, televizyon çağında empati talebine yanıt veremediği için eleştirildi. Kraliçenin canlı yayındaki konuşması ve bayrak uygulamasındaki esneme, kurumun kriz yönetiminde sembolik uyarlama yapabildiğini gösterdi. Olay, modern monarşinin meşruiyetinde duygusal iletişimin anayasal teamüller kadar belirleyici hale geldiğini kanıtladı. Kamusal Yas 31 Ağustos 1997'de Diana'nın ölümü Britanya'da benzeri görülmemiş kamusal yas dalgası başlattı. Diana'nın ölümünden sonraki günlerde yayın kuruluşları, yas görüntülerini etik tartışmalarla birlikte saatlerce döndürdü. Belediyeler çiçek yığınlarını toplamak ve notları sınıflamak için gönüllü ekipler kurdu. Böylece halkın kendiliğinden geliştirdiği ritüel, resmi protokollerden bağımsız yeni bir kamusal yas dili yarattı.",
+      "accuracyNote": "Tarih ve kamusal tepki arşivlerle uyumludur; iç diyaloglar dramatize edilmiştir.",
+      "whyInteresting": "Özel bir ölüm, anayasal monarşinin meşruiyet testine dönüştü.",
+      "misconception": "Kraliyet her zaman halkın duygusuna anında yanıt verir; 1997'de gecikme kriz yarattı.",
+      "nextTopics": [
+        "Anayasal Rol",
+        "Taç Giyme",
+        "Commonwealth"
+      ],
+      "sources": [
+        {
+          "title": "Death of Diana (Britannica)",
+          "url": "https://www.britannica.com/biography/Diana-princess-of-Wales",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Elizabeth II 1997 speech (Royal.uk archive)",
+          "url": "https://www.royal.uk/queen-elizabeth-ii",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Public mourning Diana (UK National Archives)",
+          "url": "https://www.nationalarchives.gov.uk/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "crown-monarchy-symbol",
+        "tf26-184-royal-media"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Crown'un Diana yas sahneleri ile 1997 kamusal yas dalgası ve Buckingham protokol krizi.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "monarsi",
+        "the-crown",
+        "ingiltere",
+        "kamusal-yas",
+        "true-frame"
+      ],
+      "spoilerNote": "The Crown hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi sarayın gecikmiş tepkisini kişisel çatışma yapar; gerçekte medya baskısı saatler içinde protokolü değiştirdi.",
+      "whyItMatters": "Kamusal yas, monarşinin görünmezlik teamülünü kırdı.",
+      "isFlagship": false,
+      "quickRealityCheck": "Diana'nın ölümünden sonra saray neden ilk günlerde sessiz kaldı?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-188-royal-finance",
+      "title": "Kraliyet Finansmanı",
+      "subtitle": "Kraliyet finansmanı: vergi, mülk, tartışma",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "era": "Modern Tarih",
+      "region": "Birleşik Krallık",
+      "themes": [
+        "Monarşi",
+        "Medya",
+        "Siyaset"
+      ],
+      "whatWeSee": "The Crown ve haberlerde kraliyet bütçesi, saray masrafları ve vergilerle mi yaşanıyor sorusu modern monarşinin para yüzünü gösterir. Dizi protokolü dramatize eder; Sovereign Grant ve Crown Estate raporları rakamları her yıl yayımlar.",
+      "realHistory": "Britanya kraliyetinin mali düzeni 19. yüzyıldan bu yana birkaç kez yeniden yapılandı. Civil List (1760–2012) hükümdarın resmi giderlerini parlamentonun onayladığı liste ile karşılıyordu; taç mücevherleri ve kişisel servet ayrı tutuldu. 2012'den itibaren Sovereign Grant, taç gelirlerinin (Crown Estate) yüzde bir kısmından finanse ediliyor; saray bakımı, resmi seyahat ve personel bu kapsamda. İmparatorluk sonrası maliyet tartışması sürer: turizm ve marka değeri savunulur; vergi yükü ve şeffaflık eleştirilir. The Crown saray protokolünü gösterir; yıllık Sovereign Grant raporları rakamları verir. Kraliyet finansmanı, sembolik monarşi ile kamu muhasebesinin kesişim noktasıdır. 2012'den itibaren Sovereign Grant, Crown Estate gelirlerinin yüzde 25'inden (2024 itibarıyla geçici artışlar tartışmalı) finanse ediliyor. Saray bakımı, resmi seyahat ve personel bu kapsamda; taç mücevherleri ayrı trust'ta. Crown Estate kamuya ait; gelirleri hükümete gider, bir kısmı monarşiye döner. UK Parliament research briefings yıllık rakamları özetler. Buckingham Sarayı restorasyonu ve resmi seyahatler bütçenin görünür kalemleridir. Eleştirmenler vergi yükünü, savunmacılar turizm ve diplomasi değerini vurgular. Windsor Kalesi bakımı ve Kraliyet Yatı gibi kalemler kamuoyu tartışmasında sık yer alır; Duchy of Lancaster kişisel gelir kaynağı olarak ayrı tutulur. Monarşi maliyeti her bütçe tartışmasında sembol ile vergi yükü arasındaki dengeyi yeniden gündeme getirir.",
+      "accuracyNote": "Civil List ve Sovereign Grant yapısı resmi kaynaklarla doğrulanır; dizi dramatize eder.",
+      "whyInteresting": "Taç hem gelenek hem bütçe satırıdır.",
+      "misconception": "Kral tamamen kendi servetiyle yaşar; büyük kısım parlamentonun onayladığı düzenlemelerle gelir.",
+      "nextTopics": [
+        "Anayasal Rol",
+        "Taç Giyme",
+        "Commonwealth"
+      ],
+      "sources": [
+        {
+          "title": "Sovereign Grant (UK Royal Household)",
+          "url": "https://www.royal.uk/sovereign-grant",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Crown Estate (official)",
+          "url": "https://www.thecrownestate.co.uk/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Royal finances (UK Parliament research)",
+          "url": "https://commonslibrary.parliament.uk/research-briefings/sn05758/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "crown-monarchy-symbol",
+        "tf26-184-royal-media"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Crown maliyet sahneleri ile Britanya kraliyet finansmanı.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "monarsi",
+        "the-crown",
+        "ingiltere",
+        "kraliyet-finansmani",
+        "true-frame"
+      ],
+      "spoilerNote": "The Crown hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "The Crown protokol gösterir; Treasury raporları rakamları verir.",
+      "whyItMatters": "Anayasal monarşinin maliyeti, demokratik hesap verebilirlik tartışmasının parçasıdır.",
+      "isFlagship": true,
+      "quickRealityCheck": "The Crown'daki saray masrafı imgeleri, Sovereign Grant raporlarıyla nasıl örtüşür?",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

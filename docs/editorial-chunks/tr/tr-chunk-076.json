@@ -1,0 +1,264 @@
+{
+  "locale": "tr",
+  "chunkIndex": 76,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-171-speakeasies",
+      "title": "Gizli Barlar",
+      "subtitle": "Gizli Barlar: görünenden fazlası",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Suç",
+        "Ekonomi",
+        "Siyaset"
+      ],
+      "whatWeSee": "Boardwalk Empire'da speakeasy, sadece yasak içkinin satıldığı gizli bir bar değil; politikacı, polis, iş insanı ve çete temsilcilerinin aynı masaya oturduğu melez bir kamusal alan olarak görünür. Giriş şifreleri, arka kapılar ve müzikli salonlar dönemin şehir gece hayatını hem yasadışı hem de sosyal olarak meşru hissettirir.",
+      "realHistory": "Speakeasy kültürü, Prohibition döneminde alkol talebinin yeraltına çekilmesiyle hızla büyüdü. New York, Chicago ve Atlantic City gibi kentlerde bu mekanlar yalnızca içki noktası değil; müzik, dans ve sınıf-karışımı sosyalleşme alanı haline geldi. Bazı işletmeler küçük bodrum barı düzeyinde kalırken, bazıları rüşvet ağlarıyla korunan yarı-açık kulüplere dönüştü.\n\n\"Speak easy\" adı, müşterilerin düşük sesle sipariş vermesi gerektiği anlatısından gelir; fakat pratikte bu mekanların çoğu mahalle düzeyinde biliniyordu. Gizlilik daha çok hukuki sorumluluk ve rakip çetelerden korunma için önemliydi. Kadınların kamusal gece hayatına daha görünür katılması, caz kültürünün yayılması ve etnik mahallelerin yeni tüketim ağları bu mekanlarda kesişti. Yani speakeasy, suç tarihinin yanı sıra toplumsal modernleşme tarihinin de parçasıdır.\n\nDevletin denetim kapasitesi şehirden şehre değişti. Bazı yerlerde baskınlar sıklaşırken, bazı belediyelerde polis-siyaset-işletme ilişkisi fiili tolerans üretti. 1933'te yasak kalkınca birçok speakeasy yasal bara dönüştü, bazıları ise suç ağlarına bağlı başka işlere kaydı.\n\nDizinin verdiği temel his doğrudur: speakeasy, yalnızca saklanan bir tüketim değil, şehir yönetiminin hangi kuralları gerçekten uyguladığını ifşa eden bir ayna işlevi gördü. Irk ayrımının sert olduğu kentlerde bile bu mekanlar bazen geçici temas alanı yaratıyor, bazen de ayrımcılığı yeni ücret ve güvenlik katmanlarıyla yeniden üreterek özgürlük iddiasının sınırlarını açığa çıkarıyordu.",
+      "accuracyNote": "Mekan işlevi ve yolsuzluk bağlamı güçlüdür; karakter yoğunluğu ve şehirler arası bağlantılar dramatik ritim için yoğunlaştırılmıştır.",
+      "whyInteresting": "Yasa dışı bir mekanın aynı anda kültürel yenilik merkezi ve siyasi pazarlık masası olabilmesi dikkat çekicidir.",
+      "misconception": "Speakeasy'lerin tamamen kapalı, kimsenin bilmediği yerler olduğu düşünülür.",
+      "nextTopics": [
+        "Kaçak İçki",
+        "Ahlak Hareketi",
+        "Federal Uygulama"
+      ],
+      "sources": [
+        {
+          "title": "National Constitution Center - Prohibition and the 18th Amendment",
+          "url": "https://constitutioncenter.org/the-constitution/amendments/amendment-xviii",
+          "type": "official"
+        },
+        {
+          "title": "Britannica - Speakeasy",
+          "url": "https://www.britannica.com/topic/speakeasy",
+          "type": "article"
+        },
+        {
+          "title": "History.com - Speakeasies of the Prohibition Era",
+          "url": "https://www.history.com/news/7-famous-speakeasies-and-their-stories",
+          "type": "article"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-172-bootlegging",
+        "tf26-173-temperance",
+        "tf26-174-federal-enforcement"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Boardwalk Empire'ın gizli bar atmosferi, Prohibition kentlerinde caz kulübü ve arka oda ekonomisinin birleştiği tarihsel ortama dayanır.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organize-suc",
+        "abd",
+        "gizli-barlar",
+        "true-frame"
+      ],
+      "spoilerNote": "Boardwalk Empire hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi mekânları yüksek gerilimli suç sahnesine çeviriyor; tarihsel gerçeklikte speakeasy aynı zamanda gündelik eğlence ve kültürel dönüşüm alanıydı.",
+      "whyItMatters": "Resmi yasak ile toplumsal pratik arasındaki kopuşu göstererek, hukukun sahadaki uygulanabilirliğini sorgulatır.",
+      "isFlagship": false,
+      "quickRealityCheck": "Speakeasy'ler neden sadece suç örgütlerinin değil, sıradan kentlilerin de gece rutininin parçası oldu?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-172-bootlegging",
+      "title": "Kaçak İçki",
+      "subtitle": "Prohibition: yasak içki, legal ekonomi",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Suç",
+        "Ekonomi",
+        "Siyaset"
+      ],
+      "whatWeSee": "Boardwalk Empire, Atlantic City limanlarından arka oda pazarlıklarına uzanan kaçak alkol ağını parlak gece hayatı ve sert güç mücadelesiyle veriyor. Kasalar kadar belediye ihalesi, polis koruması ve parti fonu da hikayenin parçası oluyor. Böylece kaçakçılık sokak suçu değil, şehir ekonomisine gömülü yarı kurumsal bir sistem gibi görünüyor.",
+      "realHistory": "ABD'de 18. Değişiklik ve Volstead Yasası 1920'de alkol üretim ve satışını ulusal ölçekte yasakladı. Talep bitmediği için pazar yeraltına taşındı. Kanada ve Karayipler'den gelen içki, kıyı şehirlerinde depolanıp demiryolu ve kamyon ağlarıyla iç bölgelere dağıtıldı. Bu zincirde liman işçileri, nakliyeciler, muhasebeciler, kolluk bağlantıları ve yerel siyasetçiler birlikte rol aldı.\n\nKaçakçılık gelirleri organize suç gruplarına büyük sermaye birikimi sağladı. Şiddet önemliydi, fakat tek açıklama değildi; fiyat farkı, tedarik sürekliliği ve siyasi koruma anlaşmaları işin merkezindeydi. Atlantic City, Chicago ve Detroit gibi merkezler farklı ölçekte benzer model üretti. Federal baskınlar dönemsel darbe vurdu, ağlar ise hızla yeni rota ve ortaklar buldu.\n\n1933'te yasağın kalkmasında kamu sağlığı tartışmaları kadar Büyük Buhran'ın vergi ihtiyacı da etkiliydi. Devlet, yasakla denetim hedeflerken karlı bir kara pazar ürettiğini kabul etmek zorunda kaldı. Kaçak içki düzeni aynı zamanda speakeasy kültürü, caz geceleri ve yeni kent sosyalliğini hızlandırdı. Yani Prohibition sadece suç tarihini değil, modern eğlence ekonomisinin yönünü de değiştirdi.\n\nAyrıca yasağın uygulama maliyeti hızla yükseldi. Federal ajan sayısı ve mahkeme yükü artarken yerel kolluk birimleri rüşvet baskısıyla yıprandı. Bu tablo, hukukun meşruiyetinin yalnız ceza sertliğiyle değil uygulanabilirlik ve toplumsal rıza ile ayakta kalabildiğini net biçimde gösterdi. Reform tasarımında saha kapasitesinin önemi bu dönemde açık biçimde ortaya çıktı.",
+      "accuracyNote": "Atlantic City merkezli kaçak ağlar ve siyasi bağlantılar tarihsel temele sahip. Dizide kişisel düello etkisi dramatik biçimde artırılmış.",
+      "whyInteresting": "Bir yasa, hedeflediği davranışı bitirmek yerine yeni bir ekonomi ve yeni bir şehir kültürü doğurabiliyor.",
+      "misconception": "Prohibition çoğu zaman yalnız mafya şiddeti olarak anılır; oysa finans, lojistik ve siyaset ortaklığı sistemi taşıdı.",
+      "nextTopics": [
+        "Gizli Barlar",
+        "Ahlak Hareketi",
+        "Federal Uygulama"
+      ],
+      "sources": [
+        {
+          "url": "https://www.britannica.com/event/Prohibition-United-States-history"
+        },
+        {
+          "url": "https://www.archives.gov/milestone-documents/18th-amendment"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-176-women-reformers",
+        "tf26-177-repeal"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Boardwalk Empire'ın liman ve arka oda sahneleri, True Frame'de Prohibition ekonomisinin çok aktörlü ağına bağlanıyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organize-suc",
+        "abd",
+        "kacak-i-cki",
+        "true-frame"
+      ],
+      "spoilerNote": "Boardwalk Empire hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi kişisel güç savaşlarını öne çıkarıyor. Tarihte aynı ağlar, finans, lojistik ve siyasal koruma mekanizmalarıyla daha sistemik çalıştı.",
+      "whyItMatters": "Yasak politikaları, talebi yok etmeyip yeraltına iterse kamu düzeni ve ekonomi üzerinde ters sonuçlar üretebilir.",
+      "isFlagship": true,
+      "quickRealityCheck": "Yasak döneminde hangi taraf daha hızlı büyüdü: denetim kurumları mı, yoksa yeni kaçak tedarik ağları mı?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-173-temperance",
+      "title": "Ahlak Hareketi",
+      "subtitle": "Küçük ayrıntı, büyük tarih",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Suç",
+        "Ekonomi",
+        "Siyaset"
+      ],
+      "whatWeSee": "Boardwalk Empire, içki yasağını sadece polis-kaçakçı çatışması olarak değil; kürsüde ahlak çağrısı yapan reformcularla arka odada pazarlık yapan siyasetçilerin aynı şehirde yaşadığı bir gerilim olarak kuruyor. Kampanya dili aileyi koruma vurgusu taşırken sahada rüşvet, oy hesabı ve yerel çıkar ağları görünür oluyor. Böylece hareketin hem idealist hem araçsallaştırılmış yüzü aynı anda hissediliyor.",
+      "realHistory": "Temperance hareketi 19. yüzyıl boyunca kilise ağları, kadın örgütleri ve yerel reform kampanyalarıyla büyüdü. Alkolün aile içi şiddet, yoksulluk ve iş disiplini sorunlarını artırdığına dair güçlü toplumsal kanaat vardı. Women's Christian Temperance Union ve Anti-Saloon League gibi yapılar, moral dili modern lobi teknikleriyle birleştirerek eyalet ve federal siyaseti etkiledi. Bu basınç 18. Değişiklik yolunu açtı.\n\nAncak ahlaki düzen hedefi sahada homojen işlemedi. Kent merkezlerinde göçmen mahalleleri ve işçi eğlence kültürü yasağa direnç gösterdi. Uygulama kapasitesi düşük kaldıkça yasa, davranışı dönüştürmekten çok meşru-gayrimeşru sınırını yeniden çizdi. Bazı topluluklar reformdan memnun olurken, bazı yerlerde kara pazar ve yolsuzluk arttı.\n\nHareketin içinde de strateji ayrımı vardı: kimi gruplar eğitim ve kademeli sınırlamayı savunurken, kimileri anayasal yasak dışında çözüm görmedi. 1933'te geri adım atılması, kaygıların tamamen geçersizleşmesinden çok yöntemin sürdürülemezliğini gösterdi. Bu miras, bugün madde politikası tartışmalarında hala doğrudan referans verilen bir laboratuvar örneği olarak yaşıyor.\n\nTemperance deneyimi bir başka ders daha verdi: toplumsal reformun dili kapsayıcı olmadığında, hedeflenen gruplar politikayı dış müdahale olarak okuyabiliyor. Bu kırılma, yasa uyumunu düşürüp gayriresmi ağları büyütüyor. Modern kamu politikalarında önleme, eğitim ve yerel ortaklık vurgusunun güçlenmesinde bu tarihsel deneyimin payı büyük oldu. Ayrıca yerel yönetim kapasitesi, reformların kaderini belirleyen ana değişkene dönüştü.",
+      "accuracyNote": "WCTU ve Anti-Saloon League etkisi ile yasak sonrası gerilim doğru çerçevede. Dizide ilişki ağları dramatik amaçla keskinleştirilmiş.",
+      "whyInteresting": "Aynı reform dalgası hem toplumsal iyileşme umudu hem de beklenmedik yeraltı ekonomisi üretebiliyor.",
+      "misconception": "Temperance yalnız baskıcı bir proje sanılır; oysa hareketin tabanında gerçek sosyal zarar kaygıları da güçlüydü.",
+      "nextTopics": [
+        "Gizli Barlar",
+        "Kaçak İçki",
+        "Federal Uygulama"
+      ],
+      "sources": [
+        {
+          "url": "https://www.britannica.com/topic/temperance-movement"
+        },
+        {
+          "url": "https://www.britannica.com/event/Prohibition-United-States-history-1920-1933"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-174-federal-enforcement",
+        "tf26-175-organized-crime",
+        "tf26-176-women-reformers"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Boardwalk Empire'daki reformcu-siyasetçi gerilimi, True Frame'de Temperance hareketinin çift yüzlü tarihine bağlanıyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organize-suc",
+        "abd",
+        "ahlak-hareketi",
+        "true-frame"
+      ],
+      "spoilerNote": "Boardwalk Empire hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi çatışmayı karakter gerilimiyle yoğunlaştırıyor. Tarihsel süreçte hareket, hem samimi toplumsal kaygı hem de sert siyasi mühendislik taşıyordu.",
+      "whyItMatters": "Kamu ahlakı adına yapılan düzenlemelerin başarısı, sadece niyete değil uygulama kapasitesi ve toplumsal uyuma da bağlıdır.",
+      "isFlagship": false,
+      "quickRealityCheck": "Bir toplumsal sorunla mücadelede hangisi daha etkili olur: yasak koymak mı, yoksa davranışı dönüştüren uzun vadeli araçlar mı?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-174-federal-enforcement",
+      "title": "Federal Uygulama",
+      "subtitle": "Federal Uygulama için gerçek zemin",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Suç",
+        "Ekonomi",
+        "Siyaset"
+      ],
+      "whatWeSee": "Boardwalk Empire'de federal ajanlar, baskınlar ve kaçak içki depolarına yapılan operasyonlar Prohibition'ın resmi yüzünü gösterir. Dizi Nucky Thompson çizgisinde dramatize eder; Hazine, IRS ve adalet arşivleri uygulamanın sınırlarını ve yerel koruma ağlarını belgeler.",
+      "realHistory": "1920'lerde ABD'de Prohibition'ı uygulayan kurumlar çoğunlukla Hazine (IRS) ve adalet bürokrasisiydi; FBI henüz küçüktü. Volstead Yasası'nı ihlal eden damıtımcılar vergi ve organize suç dosyaları üzerinden takip edildi. Federal güç eyalet şerifleriyle çatışabiliyordu. Boardwalk Empire Nucky Thompson çizgisinde bu baskınları gösterir. Gerçekte yasağın başarısı sınırlıydı: şehirlerde içki gizli satıldı, kırsalda damıtım yayıldı. Federal baskılar medya gösterisi yapabilir, yerel koruma ağını kıramayabilirdi. Dizi Atlantic City dramını yoğunlaştırır; National Archives Prohibition uygulama kayıtlarını saklar. Volstead Yasası'nı uygulayan başlıca kurum Hazine (IRS) ve adalet bürokrasisiydi; vergi kaçakçılığı üzerinden damıtımcılar takip edildi. FBI henüz küçüktü; Eliot Ness ve 'Untouchables' Chicago'da ünlü baskınlar yaptı ama ulusal ölçekte yasağın ihlali yaygındı. Federal güç eyalet şerifleriyle çatışabiliyordu; yerel koruma ağları (rüşvet, siyasi bağlantı) baskınları etkisizleştirebiliyordu. Şehirlerde speakeasy'ler gizli çalıştı; kırsalda damıtım yayıldı. Boardwalk Empire Atlantic City dramını yoğunlaştırır; National Archives Prohibition uygulama kayıtlarını saklar. Speakeasy ağları yerel koruma ile ayakta kaldı. Federal baskın medya gösterisi yapabilir; kaçak ekonomiyi tek başına bitiremezdi. Eliot Ness ve Chicago'daki 'Untouchables' ünlü baskınlar yaptı; ulusal ölçekte yasağın ihlali yine de yaygındı. Volstead Yasası vergi kaçakçılığı üzerinden uygulanınca damıtımcılar IRS radarına girdi. 1929 St. Valentine's Day baskını Chicago'da federal ve yerel gücün sınırlarını gösterdi; gangster çatışmaları yasağın şiddet maliyetini artırdı.",
+      "accuracyNote": "Federal rol ve baskın dinamiği tarihseldir; karakterler kurgusaldır.",
+      "whyInteresting": "Yasağı uygulayan devlet, aynı anda yasağı delen ekonomiyi besleyen ağlarla mücadele etti.",
+      "misconception": "FBI tek başına Prohibition'ı yürüttü; asıl ağırlık vergi ve adli takipteydi.",
+      "nextTopics": [
+        "Gizli Barlar",
+        "Kaçak İçki",
+        "Ahlak Hareketi"
+      ],
+      "sources": [
+        {
+          "title": "Prohibition enforcement (US National Archives)",
+          "url": "https://www.archives.gov/education/lessons/volstead-act",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Prohibition (Britannica)",
+          "url": "https://www.britannica.com/event/Prohibition-United-States-history",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "IRS and Prohibition (US Treasury)",
+          "url": "https://www.treasury.gov/about/history/Pages/Prohibition.aspx",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-175-organized-crime",
+        "tf26-176-women-reformers",
+        "tf26-177-repeal"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Boardwalk Empire baskın sahneleri ile Prohibition uygulama ve IRS kayıtları.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organize-suc",
+        "abd",
+        "federal-uygulama",
+        "true-frame"
+      ],
+      "spoilerNote": "Boardwalk Empire hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Federal Uygulama ekranda daha net bir odak kazanır; karakterlerin yolu, mekân seçimi ve çatışma ritmi bu konuyu kolay takip edilir kılar. Tarihte aynı başlık, Amerikan İçki Yasağı gibi daha uzun süreçlerin içinde ilerler.",
+      "whyItMatters": "Bu konu, nün bile seçilmiş bir parça olduğunu gösterir. Federal Uygulama üzerinden bakınca 1920-1933 insanlarının neye bağımlı yaşadığı daha somut hale gelir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Dizideki federal baskınlar, 1920'ler Hazine ve adli kayıtlarıyla örtüşüyor mu?",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

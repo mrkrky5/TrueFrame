@@ -1,0 +1,299 @@
+{
+  "batch": "tr-chunks-039-040-source-aware",
+  "sourceChunks": [
+    "tr-chunk-039.json",
+    "tr-chunk-040.json"
+  ],
+  "notes": [
+    "External source-aware editorial review for Turkish chunks 039 and 040.",
+    "Only changed fields are included. Apply by id + locale.",
+    "sourceUpdates are separated from text field updates."
+  ],
+  "entries": [
+    {
+      "id": "tf26-002-nile-floods",
+      "locale": "tr",
+      "decision": "source-cleanup",
+      "reason": "Metin genel olarak temiz; yalnız kaynak nesneleri type/verified açısından normalize edildi.",
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Nilometer (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/technology/nilometer",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Nile River (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/place/Nile-River",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Nile and Ancient Egypt (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/article/861/the-nile-and-ancient-egypt/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Ancient Device for Determining Taxes Discovered in Egypt (National Geographic)",
+            "url": "https://www.nationalgeographic.com/history/article/160517-nilometer-discovered-ancient-egypt-nile-river-archaeology",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-003-mummification",
+      "locale": "tr",
+      "decision": "minor-field-cleanup",
+      "reason": "Metin iyi durumda; whyItMatters alanı whyInteresting ile tekrar ediyordu, daha yorumlayıcı hale getirildi.",
+      "fields": {
+        "whyItMatters": "Cenaze ritüellerindeki farklar, Antik Mısır’da inancın zanaat, aile bütçesi ve toplumsal statüyle nasıl iç içe geçtiğini gösterir."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Egyptian Mummies (British Museum)",
+            "url": "https://www.britishmuseum.org/collection/galleries/egyptian-mummies",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Mummy (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/topic/mummy",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Egyptian Funerary Practices (The Met)",
+            "url": "https://www.metmuseum.org/toah/hd/mumm/hd_mumm.htm",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-004-scribes",
+      "locale": "tr",
+      "decision": "flagship-expand",
+      "reason": "Flagship işaretli olmasına rağmen kısa kalıyordu. Gövde, üç başlıklı daha derin bir yapıya genişletildi; whyItMatters tekrarı da düzeltildi.",
+      "fields": {
+        "realHistory": "### Üç yazı, tek bürokrasi\n\nPtolemaios Mısır’ında yazıcılar, devletin görünmez sinir sistemi gibi çalışıyordu. Hiyeroglifler ritüel ve anıtsal bağlamlarda, demotik gündelik sözleşmeler ve yerel idarede, Yunanca ise saray bürokrasisi ve Akdeniz ticaretinde öne çıkıyordu. Rosetta Taşı’nın aynı kararı hiyeroglif, demotik ve Yunanca ile vermesi bu dünyayı iyi özetler: devlet tek bir halka değil, farklı okuryazarlık topluluklarına aynı anda seslenmek zorundaydı. Yazı burada süs değil, yönetim teknolojisiydi.\n\n### Verginin ve ölçünün dili\n\nYazıcı olmak yalnız güzel yazı yazmak değildi. Hesap, ölçü birimleri, ürün kayıtları, hukuki kalıplar ve arşiv düzeni bilinmeden idari görev yürütülemezdi. Nil taşkını sonrası tarla verimi tahmin edilirken, tahıl depoları sayılırken, tapınak muafiyetleri yazılırken ya da asker sevki planlanırken kalem doğrudan devlet kapasitesine dönüşüyordu. Bir köydeki tahıl borcu ile İskenderiye’deki mali karar aynı kayıt zincirinin parçası olabiliyordu.\n\nBu kayıt gücü gündelik hayatı doğrudan etkiliyordu. Bir tarlanın ölçümü yanlış yazılırsa vergi yükü değişebilir, bir borç kaydı farklı yorumlanırsa hane gelecek hasada kadar baskı altında kalabilirdi. Tapınak arazileri, kira yükümlülükleri ve ürün teslimleri de benzer belge akışına bağlıydı. Yani arşiv odası, savaş meydanı kadar dramatik görünmez; ama kimin ne ödeyeceğini, kimin muaf tutulacağını ve hangi malın nereye gideceğini belirleyebilirdi.\n\n### Sessiz ama etkili sınıf\n\nBu meslek aynı zamanda sınırlı da olsa sosyal yükselme kapısıydı. Güçlü bir koruyucu ağ ve iyi eğitim, ailesinde büyük toprak olmayan birini idari çevrelere yaklaştırabilirdi. Bu yüzden yazıcı, yalnızca emir alan bir memur değil, belgenin nasıl formüle edileceğini bilen aracıydı. Kimi zaman yerel halk ile kraliyet görevlileri arasındaki gerçek güç, emrin kendisinden çok emrin kayıt dilinde saklanıyordu.\n\nAssassin’s Creed Origins’te papirüsler ve mühürler çoğu zaman arka plan dokusu gibi görünür. Tarihsel olarak ise bu dokunun kendisi yönetimdir. Firavunun ya da kralın gücü, ancak yazıcıların tuttuğu defterler, arşivler ve çok dilli kararlar üzerinden köylünün tarlasına, tapınağın deposuna ve limanın gümrüğüne ulaşabiliyordu. Bu yüzden kalem, Antik Mısır’da kılıçtan daha sessiz ama daha kalıcı bir iktidar aracıdır.\n\n### Kayıt kimin gerçeğiydi?\n\nBu kayıt düzeninin bir başka sonucu da şuydu: devletin gördüğü gerçek, çoğu zaman yazıcının ürettiği gerçekti. Ürün miktarı, arazi sınırı, borç tarihi ya da muafiyet hakkı sözlü hafızadan çok belgeye bağlandığında, yazı hukuki güç kazandı. Bu durum sıradan insanlar için hem koruma hem risk yaratıyordu. Doğru kayıt, haksız talebe karşı dayanak olabilirdi; yanlış ya da kötü niyetli kayıt ise itirazı zor bir yük haline gelebilirdi. Bu yüzden yazıcı sınıfı, Antik Mısır’ın gündelik hayatında görünmez ama belirleyici bir eşik bekçisi gibi durur. Bu küçük fark, iktidarın neden yalnız tahtta değil arşiv rafında da kurulduğunu açık eder.",
+        "readingTimeMinutes": 3,
+        "whyItMatters": "Antik Mısır’da güç yalnız firavunun emrinde değil, o emri ölçüye, vergiye ve arşiv kaydına çeviren yazıcı ağında da toplanıyordu."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Rosetta Stone (British Museum)",
+            "url": "https://www.britishmuseum.org/collection/object/Y_EA24",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Ancient Egyptian Writing (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/topic/ancient-Egyptian-writing",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Writing and Bureaucracy in Ptolemaic Egypt (UCL Digital Egypt)",
+            "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/literature/ptolemaicwriting.html",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-005-cleopatra-politics",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Mevcut metin doğru eksende ama tek paragraf ve biraz soyuttu. Cleopatra’yı romantik mit yerine tahıl, mali kaynak, Roma iç savaşı ve propaganda mirası üzerinden daha net kurdum.",
+      "fields": {
+        "realHistory": "Cleopatra VII, yalnız romantik ittifaklarla değil, daralan siyasi seçenekler içinde Mısır’ın özerkliğini korumaya çalışan bir hükümdar olarak okunmalı. Ptolemaios hanedanı kendi iç çekişmeleriyle zayıflamış, Roma Cumhuriyeti ise Akdeniz’in belirleyici askeri ve mali gücü haline gelmişti. Bu ortamda Caesar ve daha sonra Marcus Antonius ile kurduğu ilişkiler, yalnız kişisel bağ değil; askeri destek, hanedan meşruiyeti ve Mısır’ın tahıl gelirlerini koruma stratejisiydi.\n\nİskenderiye bu politikanın kalbiydi. Nil üretimi, liman gelirleri, tapınak ağları, vergi düzeni ve çok dilli saray diplomasisi Cleopatra’nın gerçek araçlarıydı. Roma kaynaklarının onu çoğu zaman baştan çıkarıcı ve tehlikeli bir figür olarak anlatması, siyasi yetkinliğini gölgeleyen güçlü bir propaganda mirası bıraktı. Modern medya da bu çerçeveyi kolayca devralır: karar alan hükümdar yerine, erkek liderleri yönlendiren “egzotik kadın” imgesi öne çıkar.\n\nAssassin’s Creed Origins saray entrikasını ve karizmatik liderlik etkisini iyi yakalar; fakat tarihsel sonuçlar yalnız kişisel çekimle açıklanamaz. Cleopatra’nın manevra alanı Roma iç savaşlarının, Mısır tahılının, hanedan krizinin ve Akdeniz ticaretinin belirlediği dar bir alandı. Actium yenilgisi ve ardından Mısır’ın Roma’ya bağlanması, kişisel dramdan çok daha büyük bir yapısal kırılmadır: Helenistik bir krallığın Roma imparatorluk düzeni içinde özerkliğini kaybetmesi.",
+        "whyInteresting": "Cleopatra’nın asıl gücü yalnız karizmasında değil, Mısır’ın tahıl, vergi ve liman gelirlerini Roma siyaseti içinde pazarlık aracına çevirebilmesindeydi.",
+        "whyItMatters": "Bu hikâye, tarihte kadın hükümdarların çoğu zaman siyasi kararlarından çok cinselleştirilmiş düşman anlatılarıyla hatırlandığını gösterir.",
+        "quickRealityCheck": "Cleopatra gerçekten yalnız baştan çıkarma siyasetiyle mi etkili oldu, yoksa daralan bir güç dengesinde kaynak ve ittifak yöneten bir devlet stratejisti miydi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Cleopatra (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Ptolemaic Dynasty (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/topic/Ptolemaic-dynasty",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Egypt in the Ptolemaic Period (The Met)",
+            "url": "https://www.metmuseum.org/essays/egypt-in-the-ptolemaic-period",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-006-animal-cults",
+      "locale": "tr",
+      "decision": "minor-field-cleanup",
+      "reason": "Metin kaynaklı ve dengeli; ancak subtitle ve whyItMatters aynı fikri fazla kısa/yanlış çağrışımla veriyordu.",
+      "fields": {
+        "subtitle": "İbis ve kedi: adak, sembol ve tapınak geliri",
+        "whyItMatters": "Hayvan kültleri, Antik Mısır’da inancın yalnız sembol değil; üretim, adak pazarı ve tapınak finansmanı üzerinden çalışan bir kurum olduğunu gösterir."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Animal Mummies in Ancient Egypt (British Museum)",
+            "url": "https://www.britishmuseum.org/exhibitions/cats-ancient-egypt",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Bastet (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/topic/Bastet",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Saqqara Animal Necropolis Research (UCL Digital Egypt)",
+            "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/saqqara/animalmummies.html",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-007-pyramids-labor",
+      "locale": "tr",
+      "decision": "minor-field-cleanup",
+      "reason": "Metin iyi; subtitle’daki 'yemekli emek' ifadesi doğal değildi ve whyItMatters, whyInteresting ile aynı kalıyordu.",
+      "fields": {
+        "subtitle": "Giza işçileri: köle miti ve örgütlü emek",
+        "whyItMatters": "Piramit işçileri meselesi, büyük anıtların yalnız mimari değil; beslenme, barınma, sağlık ve iş gücü organizasyonu tarihi olduğunu hatırlatır."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Giza Project (Harvard University)",
+            "url": "https://giza.fas.harvard.edu/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Not Slaves: Pyramid Workers and Giza Evidence (Harvard Magazine PDF)",
+            "url": "https://gizamedia.rc.fas.harvard.edu/images/MFA-images/Giza/GizaImage/full/library/lehner_harvard_mag.pdf",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Feeding Pyramid Workers (AERA)",
+            "url": "https://aeraweb.org/feeding-pyramid-workers/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Pyramid (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/topic/pyramid-architecture",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-008-temple-economy",
+      "locale": "tr",
+      "decision": "flagship-expand",
+      "reason": "Flagship işaretli kart kısa kalıyordu. Tapınakların ibadet, vergi, arazi, depo ve yerel pazarlık işlevleri üç başlıklı yapı ile genişletildi.",
+      "fields": {
+        "subtitle": "Tapınak arazisi: kutsal alan, tahıl ve vergi",
+        "realHistory": "### Kutsal alanın bütçesi\n\nPtolemaios Mısır’ında tapınaklar yalnız ibadet mekânı değil, büyük arazi portföyleri, depolar, atölyeler ve emek ağlarıyla çalışan kurumsal aktörlerdi. Nil taşkınına bağlı tarımsal gelirler tapınak depolarına, rahip ağlarına ve kraliyet maliyesine temas ediyordu. Bu yüzden rahip sınıfı yalnız ritüel uzmanı değil, yerel ekonominin güçlü pazarlık tarafıydı. Bir tapınak çevresinde dua eden ziyaretçiyle tahıl teslim eden köylü aynı kurumsal dünyanın parçasıydı.\n\nTapınakların gücü, kontrol ettikleri semboller kadar kontrol ettikleri kaynaklardan da geliyordu. Arazi, iş gücü, hayvan adakları, papirus ve zanaat üretimi farklı gelir kanalları yaratabiliyordu. Rahipler bu gelirleri yalnız ritüel için değil, yerel prestij, bakım-onarım, istihdam ve siyasi etki için de kullanıyordu. Bu nedenle kutsal alanın ekonomisi, köy halkı için bazen geçim kapısı, bazen borç ilişkisi, bazen de otorite baskısı anlamına gelebiliyordu.\n\n### Rosetta Taşı’nın gösterdiği pazarlık\n\nRosetta Taşı gibi kararnameler, kralın meşruiyeti ile tapınak ayrıcalıkları arasındaki ilişkiyi görünür kılar. Metin bir yandan Ptolemaios V’in kutsal statüsünü güçlendirir, diğer yandan rahipler ve tapınaklar için bağış, yükümlülük ve mali düzenleme dilini içerir. Bu, din ile bütçenin ayrı alanlar olmadığını gösterir: siyasi sadakat çoğu zaman mali taviz, tören desteği ve yerel kurumlarla uzlaşma üzerinden kuruluyordu.\n\nBu pazarlık özellikle Ptolemaios yönetimi için önemliydi. Yunan kökenli hanedan, Mısır’daki yerel rahip ağlarını tamamen dışlayarak yönetemezdi. Tapınakların desteği, kralın yalnız askeri değil ritüel olarak da meşru görünmesine yardım ediyordu. Buna karşılık tapınaklar vergi, bağış, arazi ve inşa desteği gibi konularda ayrıcalık elde etmeye çalışıyordu. Devlet ile kutsal kurum arasındaki ilişki bu yüzden tek taraflı değil, sürekli müzakere edilen bir güç dengesiydi.\n\n### Yerel hayatın merkezi\n\nTapınak ekonomisi gündelik hayatı da biçimlendiriyordu. Tohumluk tahıl, kira, ayni ödeme, hayvan adakları, papirus üretimi ve zanaat atölyeleri aynı çevrede toplanabiliyordu. Kötü hasat dönemlerinde borç ertelemesi, ek yükümlülük ya da depo kullanımı gibi kararlar sosyal tansiyonu doğrudan etkileyebilirdi. Edfu, Dendera ve Philae gibi merkezlerdeki uzun inşa faaliyetleri de yalnız estetik yatırım değil, istihdam, prestij ve yerel bağlılık üretimiydi.\n\nAssassin’s Creed Origins tapınakları çoğu zaman görev, ritüel ve atmosfer mekânı olarak kullanır. Tarihsel okuma ise bu kutsal alanların aynı zamanda ekonomik düğüm noktası olduğunu gösterir. Bir tapınağın gücü yalnız heykellerinden değil, tuttuğu kayıtlardan, yönettiği araziden, depoladığı tahıldan ve çevresindeki köylülerle kurduğu mali bağdan geliyordu. Bu yüzden Antik Mısır’da tapınağı anlamak, din ile devlet bütçesinin neden birbirinden ayrı düşünülemediğini anlamaktır.\n\n### Kutsal olanın muhasebesi\n\nBu tablo, modern anlamda “banka” ya da “belediye” demek değildir; ama tapınakların yalnız dua edilen sessiz yapılar olmadığını gösterir. Rahipler ritüel dili yönetirken, kurumun depocuları, yazıcıları ve işçileri maddi düzeni sürdürüyordu. Bir adak hayvanının hazırlanması, bir ambarın sayımı ya da bir vergi muafiyetinin kayda geçirilmesi aynı kutsal ekonominin parçalarıydı. Origins’in görsel atmosferi bu kutsallığı sezdirir; True Frame okumasında ise o atmosferin altında çalışan muhasebe, emek ve pazarlık sistemi görünür hale gelir.",
+        "readingTimeMinutes": 3,
+        "whyInteresting": "Bir tapınağın ritüel gücü ile arazi, depo ve vergi akışını yönetme kapasitesinin aynı kurumda birleşmesi dönemi çok canlı kılıyor.",
+        "whyItMatters": "Tapınak ekonomisi, Antik Mısır’da dinin yalnız inanç değil; mali yönetim, yerel istikrar ve siyasi meşruiyet aracı olduğunu gösterir."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Rosetta Stone (British Museum)",
+            "url": "https://www.britishmuseum.org/collection/object/Y_EA24",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Egypt in the Ptolemaic Period (The Met)",
+            "url": "https://www.metmuseum.org/essays/egypt-in-the-ptolemaic-period",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Land Taxation and Investment in Ptolemaic Egypt (Cambridge University Press)",
+            "url": "https://www.cambridge.org/core/books/from-the-ptolemies-to-the-romans/land-taxation-and-investment/60819BDBB1A978B310951D5B19991944",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-009-desert-routes",
+      "locale": "tr",
+      "decision": "minor-field-and-source-cleanup",
+      "reason": "Metin dengeli; whyItMatters tekrarı kırıldı ve rota kaynakları daha doğrudan hale getirildi.",
+      "fields": {
+        "subtitle": "Çöl yolu: Siwa’dan Kızıldeniz limanlarına",
+        "whyItMatters": "Çöl yolları, Mısır’ın yalnız Nil vadisiyle değil; vahalar, limanlar, askerî istasyonlar ve uluslararası ticaret hatlarıyla birlikte anlaşılması gerektiğini gösterir."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Chronology of the Forts of the Routes to Myos Hormos and Berenike (OpenEdition Books)",
+            "url": "https://books.openedition.org/cdf/5239?lang=en",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "The Control of the Eastern Desert by the Ptolemies (OpenEdition Books)",
+            "url": "https://books.openedition.org/cdf/5249",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Egypt: The Ptolemaic and Roman Periods (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/place/Egypt/The-Ptolemaic-and-Roman-periods",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

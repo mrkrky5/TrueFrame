@@ -1,0 +1,350 @@
+{
+  "patchId": "tr-chunks-047-048-source-aware-patch",
+  "locale": "tr",
+  "sourceChunks": [
+    47,
+    48
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-editorial-qa",
+  "summary": {
+    "cardCount": 8,
+    "approvedAsIs": [],
+    "minorEdit": [
+      "tf26-042-burhs",
+      "tf26-043-wessex",
+      "tf26-045-law-codes"
+    ],
+    "rewrite": [
+      "tf26-037-shieldmaidens",
+      "tf26-039-christianization",
+      "tf26-040-stamford-bridge",
+      "tf26-044-danish-settlement",
+      "tf26-046-monasteries"
+    ],
+    "sourceUpdates": [
+      "Birka Bj 581 için DNA/arkeoloji tartışması kaynaklandı; yaygın kadın savaşçı ordusu iddiası yumuşatıldı.",
+      "Hristiyanlaşma/Jelling için National Museum of Denmark ve Jelling kaynakları eklendi.",
+      "Stamford Bridge kartında zorunlu yürüyüş/fatigue anlatısı kesin hüküm olmaktan çıkarıldı; 2026 tartışması nedeniyle operasyonel baskı dili kullanıldı.",
+      "Burh/Wessex kartlarında Burghal Hidage ve savunma-ağ mantığı güçlendirildi.",
+      "Anglo-Sakson hukuk ve manastır kartlarında Cambridge/Fordham/English Heritage ekseniyle kaynak omurgası temizlendi."
+    ],
+    "notes": [
+      "Bu iki chunk önceki jenerik kartlardan daha temizdi; yine de birkaç kartta başlık-alt başlık jenerikliği, tekrar ve fazla kesin yorum vardı.",
+      "Flagship olan tf26-040-stamford-bridge ve tf26-044-danish-settlement daha uzun ve başlıklı yapıya alındı."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-037-shieldmaidens",
+      "reviewStatus": "rewrite",
+      "notes": "Mevcut metin aynı noktaları tekrar ediyordu ve Birka mezarından yaygın kadın savaşçı sonucu çıkarma riskini taşıyordu. Saga/mitoloji, mezar yorumu ve sınırlı kanıt ayrımı netleştirildi.",
+      "fields": {
+        "subtitle": "Kalkanlı kadınlar: saga hafızası mı, arkeoloji mi?",
+        "realHistory": "Viking çağında kadın savaşçılar meselesi, tek cümleyle çözülecek bir konu değildir. İskandinav sagalarında ve mitolojik anlatılarda skjaldmær, yani kalkanlı kadın figürleri güçlü biçimde görünür; fakat bu metinlerin çoğu olaylardan yüzyıllar sonra yazılmış edebi kaynaklardır. Bu yüzden doğrudan savaş alanı raporu gibi okunamazlar. Yine de bu anlatılar, kuzey toplumlarının kadın cesareti, soy onuru ve savaş hafızası hakkında hangi imgeleri taşıdığını gösterir.\n\nArkeolojik taraf daha sınırlı ama önemlidir. Birka'daki Bj 581 mezarı, silahlar, iki at ve oyun taşlarıyla uzun süre yüksek statülü erkek savaşçı mezarı sayılmıştı. DNA analizi gömülen kişinin biyolojik olarak kadın olduğunu gösterince yorum değişti ve tartışma büyüdü. Bu bulgu, savaşla ilişkili kadın gömülerinin otomatik olarak sembolik sayılmaması gerektiğini hatırlatır. Ancak tek bir mezar ya da birkaç tartışmalı örnek, Viking ordularında kadınların yaygın biçimde savaştığını kanıtlamaz.\n\nDaha güvenli çerçeve şudur: Viking dünyasında kadınların mülk, hane yönetimi, ticaret ve bazı yerel otorite alanlarında ciddi rolleri vardı; savaşçı kadın imgesi de kültürel hafızada güçlüydü. Fakat savaş alanına fiilen katılımın ne kadar yaygın olduğu hâlâ tartışmalıdır. Silah gömüsü statü, aile kimliği, ritüel veya gerçek askeri rol anlamına gelebilir; her durumda bağlam gerekir.\n\nVikings dizisi Lagertha gibi karakterlerle saga hafızasını modern ekrana taşır. Bu etkili bir dramatik tercihtir, ama tarihsel sonuç çıkarmak için arkeoloji, yazılı kaynak, mezar bağlamı ve biyolojik veriyi birlikte okumak gerekir. Asıl ilginç nokta da buradadır: bir mezar, yalnızca “kadın savaştı mı?” sorusunu değil, tarihçilerin kanıtla efsane arasında nasıl dikkatli yürüdüğünü de gösterir.",
+        "mediaChanged": "Dizi kalkanlı kadın figürünü düzenli savaşçı sınıfı gibi görünür kılar. Tarihsel kanıtlar ise güçlü ama sınırlı örnekler, saga anlatıları ve dikkatli arkeolojik yorumlar arasında durur.",
+        "whyInteresting": "Aynı mezarın hem güçlü bir ikon hem de yöntem tartışması üretmesi, tarih yazımının ne kadar canlı olduğunu gösterir.",
+        "misconception": "Viking kadınlarının büyük ordular halinde savaştığı sanılır; kanıtlar daha sınırlı ve bağlama bağlıdır.",
+        "whyItMatters": "Kalkanlı kadın tartışması, popüler temsil ile arkeolojik kanıt arasındaki farkı okumayı öğretir.",
+        "quickRealityCheck": "Bir mezarda kılıç ve oyun taşı bulunması tek başına savaşçı kimliğini kanıtlar mı, yoksa mezarın tüm bağlamına mı bakmak gerekir?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "A female Viking warrior confirmed by genomics",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajpa.23308",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Viking Age — National Museum of Denmark",
+            "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Viking Women — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/Viking/Everyday-life",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-039-christianization",
+      "reviewStatus": "rewrite",
+      "notes": "Subtitle jenerikti; metin iyi yöne sahipti ama dönüşümü tek çizgiye yaklaştırıyordu. Bölgesel, siyasi ve kuşaklara yayılan dönüşüm vurgusu güçlendirildi.",
+      "fields": {
+        "subtitle": "Vaftiz, krallık ve kuzeyde yavaş dönüşüm",
+        "realHistory": "İskandinavya'nın Hristiyanlaşması tek bir kralın emriyle bir gecede tamamlanan temiz bir geçiş değildi. 9. yüzyıldan 12. yüzyıla uzanan süreçte misyonerlik, ticaret, evlilik ittifakları, krallık merkezileşmesi ve yerel direnç aynı anda işledi. Bazı bölgelerde Hristiyan mezar adetleri yayılırken eski ritüeller yaşamaya devam etti; bazı yerlerde ise krallar dönüşümü daha sert siyasi baskıyla hızlandırdı.\n\nDanimarka'daki Jelling taşı bu dönüşümün en güçlü sembollerinden biridir. Harald Bluetooth, taş üzerindeki yazıtta Danları Hristiyan yaptığını ilan ederek dini yalnızca inanç alanında değil, krallık meşruiyeti alanında da kullandı. Yeni din, yazılı hukuk, piskoposluk ağı, dış diplomasi ve Hristiyan Avrupa ile ticaret ilişkileri açısından güçlü bir araç haline geldi.\n\nNorveç ve İsveç'te tablo daha parçalıydı. Olaf Tryggvason ve Olaf Haraldsson gibi krallar Hristiyanlığı siyasi birlik projesinin parçası haline getirirken, yerel reisler ve topluluklar eski pratikleri bir süre korudu. Bu nedenle Hristiyanlaşma, yalnız manastır baskınlarından vaftize geçiş değil; gömü adetlerinden takvim düzenine, evlilik hukukundan kraliyet ideolojisine kadar uzanan uzun bir yeniden örgütlenmedir.\n\nVikings dizisi bu süreci kişisel vicdan çatışmaları ve dramatik karakter ilişkileriyle anlatır. Bu işe yarar bir dramatik yöntemdir; fakat tarihsel süreç daha yavaş, bölgesel ve pazarlığa açıktır. Eski tanrılar bir anda silinmedi; yeni din de yalnız ruhani bir tercih olarak gelmedi. Kuzey toplumları için Hristiyanlaşma, aynı zamanda devletleşme tekniği ve uluslararası sisteme katılma biçimiydi.",
+        "mediaChanged": "Dizi dönüşümü bireysel inanç krizi ve karakter dramı olarak hızlandırır. Tarihte süreç bölgesel, kuşaklara yayılan ve krallık siyasetiyle iç içe ilerleyen bir değişimdi.",
+        "whyInteresting": "Aynı vaftiz sembolünün hem samimi inanç hem de krallık kurma aracı olarak kullanılabilmesi dikkat çekicidir.",
+        "misconception": "İskandinav toplumlarının tek bir kralın emriyle aynı anda Hristiyan olduğu sanılır.",
+        "whyItMatters": "Hristiyanlaşma, din değişiminin aynı zamanda hukuk, diplomasi ve devletleşme değişimi olabileceğini gösterir.",
+        "quickRealityCheck": "Bir kralın Hristiyan olması, bütün köylerin eski ritüelleri aynı anda bıraktığı anlamına gelir mi?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Jelling Stone — National Museum of Denmark",
+            "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/the-monuments-at-jelling/the-jelling-stone/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Jelling and the New Faith — National Museum of Denmark",
+            "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/the-monuments-at-jelling/jelling-and-the-new-faith/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Scandinavia: Christianity — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/place/Scandinavia/Christianity",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-040-stamford-bridge",
+      "reviewStatus": "rewrite",
+      "notes": "Flagship kart için daha başlıklı ve kaynak-temkinli yapı kuruldu. Harold'ın kuzey-güney hareketi konusunda geleneksel 'zorunlu yürüyüş/yorgunluk' anlatısı kesin hüküm olmaktan çıkarıldı; son tartışmalar nedeniyle 'hızlı yeniden konuşlanma ve operasyonel baskı' dili seçildi.",
+      "fields": {
+        "subtitle": "1066’da kuzey zaferi, güney felaketi",
+        "realHistory": "### Üç Taht İddiası, Tek Yıl\n\n1066 yılı İngiltere için yalnızca Hastings'ten ibaret değildi. Edward the Confessor öldüğünde Harold Godwinson tahta çıktı; fakat William of Normandy ve Norveç kralı Harald Hardrada da iddia sahibiydi. Hardrada, Harold'ın sürgündeki kardeşi Tostig ile kuzeyden geldi. Böylece İngiltere aynı yıl içinde iki büyük istila tehdidiyle karşı karşıya kaldı.\n\n### Fulford’dan Stamford Bridge’e\n\nHardrada ve Tostig önce Fulford'da İngiliz kuvvetlerini yendi. Ancak Harold Godwinson hızla kuzeye yöneldi ve 25 Eylül 1066'da Stamford Bridge'te Norveç ordusunu yakaladı. Çarpışma Norveç tarafı için yıkıcı oldu: Hardrada ve Tostig öldü, kuzeyden gelen istila girişimi çöktü. Bu savaş uzun süre “Viking Çağı'nın son büyük perdesi” gibi anlatıldı; fakat İskandinav etkisi Britanya'da bu tarihten sonra da tamamen bitmedi.\n\n### Zaferin Bedeli\n\nStamford Bridge Harold için büyük bir askeri başarıydı, ama stratejik rahatlama sağlamadı. Sadece birkaç gün sonra William'ın güney kıyısına çıktığı haberi geldi. Geleneksel anlatı, Harold'ın ordusunu kuzeyden güneye çok hızlı yürüttüğünü ve Hastings'e yorgun ulaştığını vurgular. Yakın dönemde bazı araştırmacılar bu “zorunlu yürüyüş” anlatısını tartışmaya açarak deniz yolunun veya daha karmaşık bir hareket planının da mümkün olduğunu ileri sürüyor. Bu yüzden en güvenli ifade, Harold'ın çok kısa sürede iki cephe arasında yeniden konuşlanmak zorunda kaldığıdır.\n\n### Hastings’e Açılan Kapı\n\n14 Ekim 1066'da Hastings'te Harold öldü ve Norman zaferi İngiltere'nin siyasal yapısını değiştirdi. Stamford Bridge bu yüzden çift anlamlıdır: kuzeyde büyük bir başarı, ama hemen ardından gelen güney krizi için ağır bir operasyonel eşik. The Last Kingdom ve Vikings gibi yapımlar bu dönemi kahramanlık ve kader anlatısı olarak sever. Tarihsel olarak ise 1066, hız, ikmal, taht meşruiyeti ve ardışık savaşların bir krallığı nasıl kırabileceğinin örneğidir.",
+        "mediaChanged": "Dramatik anlatılar Stamford Bridge'i tek bir kahramanlık ve kader savaşı gibi kurar. Tarihsel tablo ise taht iddiası, sefer zamanı, yeniden konuşlanma ve Hastings'e bağlanan operasyonel baskıyla daha karmaşıktır.",
+        "whyInteresting": "Aynı zaferin birkaç hafta içinde yeni bir yenilginin eşiğine dönüşmesi, Orta Çağ savaşında hızın ve haber akışının önemini gösterir.",
+        "misconception": "Stamford Bridge’in İngiltere’yi güvenceye aldığı sanılır; gerçekte hemen ardından Norman çıkarması dengeleri değiştirdi.",
+        "whyItMatters": "1066, askeri zaferin tek başına yeterli olmadığını; zamanlama ve lojistiğin hanedan tarihini belirleyebileceğini gösterir.",
+        "quickRealityCheck": "Harold kuzeyde kazandıysa, neden üç hafta geçmeden Hastings’te tahtı kaybetti?",
+        "readingTimeMinutes": 3,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "English Heritage Battlefield Report: Stamford Bridge 1066",
+            "url": "https://historicengland.org.uk/content/docs/listing/battlefields/stamford-bridge/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "8 Things You May Not Know About 1066 — English Heritage",
+            "url": "https://www.english-heritage.org.uk/learn/histories/1066-and-the-norman-conquest/8-facts-about-1066/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Battle of Hastings — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Battle-of-Hastings",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-042-burhs",
+      "reviewStatus": "minorEdit",
+      "notes": "Gövde büyük ölçüde iyi; sadece kısa alanlar ve kaynak omurgası standardize edildi.",
+      "fields": {
+        "subtitle": "Alfred’in kale-şehir ağı nasıl savunma sistemine dönüştü?",
+        "whyInteresting": "Bir burh yalnız sur değil; asker toplama, vergi hesabı, pazar ve yerel idarenin aynı noktada birleşmesiydi.",
+        "whyItMatters": "Burh ağı, Wessex’in Viking baskılarına yalnız meydan savaşıyla değil, harita ölçeğinde planlanmış savunma altyapısıyla yanıt verdiğini gösterir.",
+        "mediaChanged": "Dizi burh savunmasını çoğu zaman tek bir kuşatma veya kahramanlık anı olarak dramatize eder. Tarihte sistem, birbirini destekleyen tahkimli yerleşimler ve hide hesabına dayanan bakım yükümlülükleriyle çalıştı.",
+        "quickRealityCheck": "Alfred’in savunması tek güçlü kaleye mi dayanıyordu, yoksa birbirini tamamlayan burh ağına mı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Alfred the Great — English Heritage",
+            "url": "https://www.english-heritage.org.uk/learn/histories/alfred-the-great/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Burh — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/burh",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Burghal Hidage and the West Saxon burhs — Anglo-Saxon England",
+            "url": "https://www.cambridge.org/core/journals/anglo-saxon-england/article/burghal-hidage-and-the-west-saxon-burhs-a-reappraisal/A858C17C69609BE6AB1C570B00B1B7A0",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-043-wessex",
+      "reviewStatus": "minorEdit",
+      "notes": "Gövde iyi; subtitle jenerikti. Wessex yükselişi Alfred tekilliğinden çıkarılıp Edward, Æthelflæd ve Athelstan hattına daha net bağlandı.",
+      "fields": {
+        "subtitle": "Wessex nasıl savunma ağından İngiliz krallığı fikrine yürüdü?",
+        "mediaChanged": "Dizi Wessex’in yükselişini çoğunlukla birkaç liderin kararına bağlar. Tarihte askeri başarı, burh ağı, kayıt düzeni, hukuk ve kuşaklara yayılan seferler birlikte çalıştı.",
+        "whyInteresting": "Görkemli savaşlardan çok vergi hesabı, sur planı ve yazılı idarenin tarih akışını değiştirmesi beklenmedik derecede öğreticidir.",
+        "whyItMatters": "Wessex örneği, erken devletleşmenin kahramanlık kadar kayıt, altyapı ve koordinasyon meselesi olduğunu gösterir.",
+        "quickRealityCheck": "Edington zaferi tek başına yeterli miydi, yoksa Wessex’i asıl kalıcı yapan savunma ve kayıt sistemi miydi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Alfred the Great — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/biography/Alfred-the-Great",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Defence of Wessex: The Burghal Hidage and Anglo-Saxon Fortifications",
+            "url": "https://books.google.com/books/about/The_Defence_of_Wessex.html?id=u5W9AAAAIAAJ",
+            "type": "book",
+            "verified": true
+          },
+          {
+            "title": "Anglo-Saxon Kingdoms: Art, Word, War — British Museum",
+            "url": "https://www.britishmuseum.org/exhibitions/anglo-saxon-kingdoms-art-word-war",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-044-danish-settlement",
+      "reviewStatus": "rewrite",
+      "notes": "Flagship ama kısa ve tek bloktu. Danelaw'ı sadece işgal hattı değil; yerleşim, hukuk, pazar, yer adları ve melezleşme süreci olarak başlıklı şekilde genişlettim.",
+      "fields": {
+        "subtitle": "Danelaw: savaş hattından yerleşim ve hukuk düzenine",
+        "realHistory": "### İşgalden Yerleşime\n\nThe Last Kingdom, Dan yayılımını doğal olarak savaş, yemin ve kale ele geçirme üzerinden anlatır. Bu gerilim tarihsel zemine sahiptir; 9. yüzyılda Büyük Pagan Ordusu Anglo-Sakson krallıklarını ciddi biçimde sarstı. Ancak Danelaw yalnızca askeri işgal çizgisi değildi. Doğu ve Kuzey İngiltere'de İskandinav kökenli grupların yerleşmesiyle pazar, yerel hukuk, toprak tutma ve aile bağları da değişti.\n\n### Dil ve Yer Adlarının İzleri\n\nDanelaw'ın kalıcılığı en görünür biçimde yer adlarında okunur. -by, -thorpe ve -toft gibi ekler, İskandinav yerleşiminin yalnız savaş kampı düzeyinde kalmadığını gösterir. York/Jórvík gibi merkezler ticaret ve zanaat ağlarıyla büyüdü. Bu yerleşimler, Dan ve Anglo-Sakson topluluklarını sürekli temas halinde tuttu; sınırlar savaş kadar evlilik, pazarlık ve pazar ilişkileriyle de belirlendi.\n\n### Hukuk ve Yerel Yönetim\n\nDanelaw bölgelerinde wapentake gibi yönetim terimleri ve farklı hukuki uygulamalar öne çıktı. Wessex kralları bu bölgeleri geri aldıkça her şeyi silmek yerine bazı yerel pratikleri uyarladı. Böylece Anglo-Sakson ve İskandinav unsurların iç içe geçtiği karma bir düzen oluştu. Danelaw, yalnız “Vikinglerin tuttuğu yerler” değil, İngiltere hukuk ve yerel idare tarihinde iz bırakan bir temas alanıdır.\n\n### Dizinin Sıkıştırdığı Yavaş Süreç\n\nDizi kimlik çatışmasını güçlü biçimde verir; fakat gündelik uyumu ve kurumsal kaynaşmayı daha az gösterir. Tarihsel olarak Danelaw'ın önemi, kılıçla başlayan sürecin uzun süreli yerleşim ve idari uyumla devam etmesidir. Bu tablo, erken Orta Çağ İngiltere'sini iki saf dünya arasındaki savaş değil, çatışma ve uyarlamanın birlikte ilerlediği bir toplum olarak okumayı sağlar.",
+        "mediaChanged": "Dizi Danelaw'ı çoğunlukla askeri kontrol ve sadakat çatışması olarak verir. Tarihte hukuk, pazar, yerleşim ve yer adları en az savaş kadar kalıcı iz bıraktı.",
+        "whyInteresting": "Bugün bir yer adında yaşayan küçük bir ek, Viking çağındaki yerleşim ve kültürel karışımın kanıtı olabilir.",
+        "misconception": "Danelaw’ın geçici bir işgal hattı olduğu sanılır; aslında etkisi hukuk, dil ve yerel yönetimde uzun süre hissedildi.",
+        "whyItMatters": "Dan yerleşimleri, fetih ve birlikte yaşamanın aynı coğrafyada nasıl karma bir düzen üretebildiğini gösterir.",
+        "quickRealityCheck": "Danelaw sadece Dan savaşçılarının tuttuğu yer miydi, yoksa hukuk ve yerleşim düzeni de mi değişti?",
+        "readingTimeMinutes": 3,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Danelaw — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/place/Danelaw",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Viking Place Names — JORVIK Viking Centre",
+            "url": "https://www.jorvikvikingcentre.co.uk/the-vikings/viking-place-names/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Vikings in Britain — The British Museum",
+            "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/vikings",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-045-law-codes",
+      "reviewStatus": "minorEdit",
+      "notes": "Gövde iyi ama subtitle jenerikti. Alfred hukuk metinleri ceza listesi olmaktan çok merkezileşme ve idari standartlaşma aracı olarak netleştirildi.",
+      "fields": {
+        "subtitle": "Alfred’in yasaları: ceza listesi değil yönetim dili",
+        "mediaChanged": "Dizi hukuku kişisel yemin ve sadakat çatışması gibi hissettirir. Tarihte yazılı hukuk kodları, vergi, statü, tazminat ve yerel barışın ortak dilini kurmaya yardım etti.",
+        "whyInteresting": "Savaş meydanında kazanılan otoritenin metinle kalıcı hale getirilmesi erken devletleşmenin sessiz tarafıdır.",
+        "whyItMatters": "Anglo-Sakson hukuk kodları, krallığın yalnız kılıçla değil kayıt ve standart süreçle yönetildiğini gösterir.",
+        "quickRealityCheck": "Alfred’in hukuk derlemeleri yalnız suç-ceza listesi miydi, yoksa farklı bölgeleri ortak yönetime bağlama aracı mıydı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Laws of Alfred: The Domboc and the Making of Anglo-Saxon Law — Cambridge University Press",
+            "url": "https://assets.cambridge.org/97811087/44379/frontmatter/9781108744379_frontmatter.pdf",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Laws of Alfred — Fordham Medieval Sourcebook",
+            "url": "https://sourcebooks.fordham.edu/source/890alfred-lawscode.asp",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Anglo-Saxon law — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/Anglo-Saxon-law",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-046-monasteries",
+      "reviewStatus": "rewrite",
+      "notes": "Metinde tekrar ve kırık cümleler vardı. Manastırı yalnız baskın/hazine mekânı değil; yazı, arazi, eğitim, hafıza ve krallık ideolojisi merkezi olarak yeniden kurdum.",
+      "fields": {
+        "subtitle": "Manastır: dua yeri, arşiv ve arazi merkezi",
+        "realHistory": "The Last Kingdom'da manastırlar çoğu zaman loş yazı odaları, saklanan hazineler ve baskın tehdidiyle görünür. Bu atmosfer yanlış değildir; Viking akınları özellikle kıyı manastırlarını hedef aldı, çünkü buralarda kutsal eşya, değerli metal, kitap ve esir alınabilecek insanlar vardı. Lindisfarne baskını bu şokun en ünlü örneklerinden biridir.\n\nAncak Anglo-Sakson manastırı yalnızca yağmalanacak bir hazine deposu değildi. Manastırlar yazı üretimi, eğitim, arazi yönetimi ve kraliyet bağışlarının kayıt altına alınması açısından erken İngiliz dünyasının en önemli kurumları arasındaydı. Scriptoria denilen yazı ortamlarında dini metinlerin yanında hukuk belgeleri, bağış kayıtları ve kronikler de çoğaltıldı. Bede gibi yazarların çalışmaları, manastırların tarihsel hafıza üretimindeki rolünü gösterir.\n\nBu kurumların ekonomik tarafı da büyüktü. Manastır arazileri köylü emeği, kira, ürün ve yerel hizmet yükümlülükleriyle işliyordu. Bir kralın manastıra bağış yapması yalnız dindarlık gösterisi değil, siyasi ittifak ve meşruiyet yatırımıydı. Manastır, hem dua edilen hem de bölgenin kaynaklarının kayıt altına alındığı bir merkezdi.\n\nViking baskınları bu düzeni yıprattı, fakat tamamen yok etmedi. Bazı topluluklar iç bölgelere taşındı, bazıları yeniden kuruldu, 10. yüzyıldaki reformlarla disiplin ve mülk yönetimi güçlendirildi. Dizi manastırı aksiyonun arka planı yapar; tarihsel olarak ise manastır, krallığın hafızasını, hukuk dilini ve yerel ekonomiyi taşıyan veri merkezi gibiydi.",
+        "mediaChanged": "Dizi manastırı çoğu zaman baskın, saklı hazine ve kişisel inanç gerilimiyle gösterir. Tarihte manastırlar yazı, arazi yönetimi, eğitim ve krallık hafızasının da merkezindeydi.",
+        "whyInteresting": "Kutsal mekânın aynı zamanda erken devletin arşivi ve ekonomik düğümü olması güçlü bir ters köşe yaratır.",
+        "misconception": "Manastırların yalnızca dua edilen sessiz yapılar olduğu sanılır; oysa arazi, kayıt ve siyaset ağının parçasıydılar.",
+        "whyItMatters": "Manastır dünyası, Orta Çağ’da bilgi üretimi ile güç kullanımının birbirinden ayrı olmadığını gösterir.",
+        "quickRealityCheck": "Vikingler manastırları yalnız dini nefretle mi hedef aldı, yoksa orada taşınabilir servet ve kayıt gücü de mi vardı?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Viking Raid on Lindisfarne — English Heritage",
+            "url": "https://www.english-heritage.org.uk/visit/places/lindisfarne-priory/History/viking-raid/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Bede — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/biography/Bede",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Christianity: The Anglo-Saxons — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/Christianity/The-Anglo-Saxons",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

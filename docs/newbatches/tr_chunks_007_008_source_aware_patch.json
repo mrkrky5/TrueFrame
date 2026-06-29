@@ -1,0 +1,355 @@
+{
+  "batch": "tr-chunks-007-008-source-aware",
+  "sourceChunks": [
+    "tr-chunk-007.json",
+    "tr-chunk-008.json"
+  ],
+  "notes": [
+    "Patch covers all 8 cards from chunks 007 and 008.",
+    "Only listed fields should be replaced.",
+    "sourceUpdates are separate from text fields and should be applied only where present.",
+    "No EN or mobile/data edits are intended."
+  ],
+  "entries": [
+    {
+      "id": "ac-valhalla-vikings",
+      "locale": "tr",
+      "decision": "flagship rewrite",
+      "reason": "Original text was long, repetitive, and ended mid-thought; it over-romanticized settlement while blurring raid, conquest, law, language, and religion.",
+      "fields": {
+        "whatWeSee": "Assassin’s Creed Valhalla’da Eivor ve klanı İngiltere’ye yalnız ganimet için değil, kalıcı bir yurt kurmak için gelir. Yerleşim inşa eder, ittifaklar arar, tarlalar ve atölyelerle yeni bir hayat kurmaya çalışır.",
+        "realHistory": "9. yüzyıl İngiltere’sindeki Viking varlığı yalnız kıyı baskınlarından ibaret değildi. 865’te gelen Büyük Ordu, önceki hızlı yağma seferlerinden farklı olarak kışı İngiltere’de geçiren, siyasi pazarlık yapan ve bazı bölgelerde kalıcı yerleşime yönelen bir güçtü. Northumbria, East Anglia ve Mercia gibi krallıklar bu baskıyla sarsıldı; Wessex ise Alfred’in askeri direnişi ve diplomatik hamleleriyle ayakta kaldı.\n\nValhalla’nın yerleşim mekaniği bu yüzden tarihsel olarak anlamlıdır. Vikingler İngiltere’de yalnız savaşçı kampı kurmadı; aileler, zanaatkârlar, çiftçiler ve tüccarlar da bu yeni düzenin parçası oldu. Doğu ve kuzey İngiltere’de İskandinav yer adları, mezar buluntuları, ticaret izleri ve dil kalıntıları, kalıcılığın yağmadan çok daha derin olduğunu gösterir. Danelaw denen bölge, Viking etkisinin hukuk, mülkiyet ve yerel yönetim düzeyinde de hissedildiği bir coğrafyaydı.\n\nBu süreç barışçıl bir göç hikâyesi olarak da sadeleştirilemez. Yerleşim çoğu yerde şiddet, haraç, zorunlu anlaşma ve güç dengesiyle başladı. Alfred ile Guthrum arasındaki düzenleme, Vikingleri yok etmekten çok onları belirli bir siyasi alana yerleştirerek sınırlandırma girişimiydi. Zamanla bazı Viking liderleri vaftiz oldu, yerel aristokrasiyle ilişki kurdu ve Anglo-Sakson siyasi dilini kullanmaya başladı.\n\nAssassin’s Creed Valhalla bu karmaşayı oynanabilir hale getirmek için Eivor’un klanını merkeze alır. Gerçek tarih ise daha dağınık ve griydi: aynı insanlar bir kıyıyı yağmalayıp başka bir yerde çiftçilik yapabiliyor, bir kralla savaşırken başka bir kralla anlaşma imzalayabiliyordu. Viking etkisinin kalıcı olmasının nedeni yalnız kılıç değil; toprak, aile, ticaret, hukuk ve dil üzerinden İngiltere’ye yerleşmesiydi.",
+        "accuracyNote": "Oyun, Viking yerleşimi fikrini doğru bir tarihsel zemine oturtur; ancak ittifaklar, kimlik dönüşümü ve yerel halkla ilişkiler oynanış için daha kişisel ve hızlı gösterilir.",
+        "whyInteresting": "Viking etkisi yalnız savaş alanında kalmadı; yer adları, hukuk bölgeleri ve İngilizcedeki bazı temel kelimeler üzerinden günlük dile kadar indi.",
+        "misconception": "Vikinglerin İngiltere’ye yalnız yakıp yıkmak için geldiği sanılır; gerçekte bir kısmı toprak sahibi oldu, ticaret yaptı, evlendi ve yerel siyasetle bütünleşti.",
+        "mediaChanged": "Valhalla yerleşimi daha düzenli ve oyuncu merkezli gösterir; tarihsel süreç ise yağma, anlaşma, zorunlu göç, din değiştirme ve yerel pazarlıkların karışımıydı.",
+        "whyItMatters": "Bu hikâye, fetih ile göç arasındaki sınırın Orta Çağ’da ne kadar geçirgen olduğunu ve kültürel değişimin yalnız savaşla açıklanamayacağını gösterir.",
+        "quickRealityCheck": "Vikingler İngiltere’de sadece yağmacı mıydı, yoksa kalıcı yerleşimlerle hukuk, dil ve şehir yaşamını da değiştirdiler mi?",
+        "mediaConnection": "Bu kart, Assassin’s Creed Valhalla’daki yerleşim kurma fikrini Büyük Ordu, Danelaw ve Anglo-Sakson İngiltere’deki İskandinav yerleşim izleriyle karşılaştırır."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Viking Age (British Museum)",
+            "url": "https://www.britishmuseum.org/collection/cultures/viking-age",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The Danelaw (Britannica)",
+            "url": "https://www.britannica.com/place/Danelaw",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Vikings in Britain (Historic UK)",
+            "url": "https://www.historic-uk.com/HistoryUK/HistoryofEngland/Vikings-in-Britain/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "napoleon-myth-reality",
+      "locale": "tr",
+      "decision": "rewrite from existing content",
+      "reason": "The card had duplicated short-field text and over-compressed Napoleon into a simple hero/villain contrast.",
+      "fields": {
+        "whatWeSee": "Napoleon gibi yapımlarda Napolyon çoğu zaman kaba, takıntılı, savaş saplantılı ve kişisel hırsıyla Avrupa’yı ateşe atan bir figür olarak görünür.",
+        "realHistory": "Napolyon’un popüler imajı iki uç arasında sıkışır: bir yanda kısa boylu ve kompleksli tiran, diğer yanda modern Avrupa’nın düzen kurucu dehası. Gerçek tarih bu iki imajdan daha karmaşıktır. Napolyon, devrim sonrası Fransa’nın askeri krizinden yükseldi; savaş alanındaki başarısı kadar idari düzen kurma becerisiyle de kalıcı oldu.\n\n1804 tarihli Code Civil, onun mirasının en uzun ömürlü parçalarından biridir. Bu hukuk düzeni, feodal ayrıcalıkların kaldırılması, mülkiyetin korunması, laik devlet dili ve kanun önünde eşitlik gibi ilkeleri sistemleştirdi. Aynı zamanda kadın hakları ve aile otoritesi konusunda bugünden bakıldığında ciddi sınırlamalar taşıyordu. Yani Napolyon Kanunları yalnız ilerleme değil, devrim kazanımlarının devlet disiplini içinde yeniden şekillenmesiydi.\n\nMısır seferi de yalnız askeri bir macera değildi. Napolyon yanında bilim insanları, mühendisler ve sanatçılar götürdü; bu sefer sırasında bulunan Rosetta Taşı, daha sonra hiyerogliflerin çözülmesinde merkezi rol oynadı. Ancak bu bilimsel miras, askeri işgal ve imparatorluk rekabetinden bağımsız değildi.\n\nNapoleon filmi, karakterin duygusal ve askeri yanını büyütürken bu idari ve bilimsel boyutları geri plana iter. Bu tercih dramatik olarak anlaşılırdır, ama Napolyon’u yalnız “öfkeli fatih” diye okumak eksik kalır. Onun gerçek etkisi, savaş meydanlarından sonra da yaşayan hukuk, bürokrasi, eğitim ve imparatorluk hafızasında aranmalıdır.",
+        "accuracyNote": "Film, Napolyon’un kişisel hırsını ve savaş yıkımını öne çıkarır; hukuk reformları, yönetim yapısı ve Mısır seferinin bilimsel sonuçları ise doğal olarak kısaltılır.",
+        "whyInteresting": "Napolyon’un mirası yalnız Waterloo’da bitmedi; Code Civil, Avrupa ve dünya hukuk kültüründe uzun süre etkisini sürdüren bir model oldu.",
+        "misconception": "Napolyon’un yalnız kısa boylu ve öfkeli bir savaş tiranı olduğu sanılır; gerçekte hem yıkıcı savaşların hem de kalıcı idari reformların merkezindeydi.",
+        "mediaChanged": "Napoleon, karakteri kişisel tutku ve savaş sahneleri üzerinden yoğunlaştırır; tarihsel kayıtlar ise aynı figürü hukuk reformu, bilimsel sefer, propaganda ve imparatorluk siyaseti içinde gösterir.",
+        "whyItMatters": "Napolyon örneği, tarihsel liderlerin yalnız iyi ya da kötü etiketiyle değil, bıraktıkları kurumlar ve yol açtıkları yıkımla birlikte değerlendirilmesi gerektiğini hatırlatır.",
+        "quickRealityCheck": "Napolyon yalnız savaş isteyen kısa boylu bir tiran mıydı, yoksa modern hukuk ve devlet düzenini de kalıcı biçimde etkileyen çelişkili bir figür müydü?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Napoleon I (Britannica)",
+            "url": "https://www.britannica.com/biography/Napoleon-I",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The French Civil Code or Code Civil, 21 March 1804 (Fondation Napoléon)",
+            "url": "https://www.napoleon.org/en/history-of-the-two-empires/articles/the-french-civil-code-or-code-civil-21-march-1804-an-overview/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Everything you ever wanted to know about the Rosetta Stone (British Museum)",
+            "url": "https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Was Napoleon small? (Fondation Napoléon)",
+            "url": "https://www.napoleon.org/en/history-of-the-two-empires/articles/was-napoleon-small/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "medieval-lifespan-myth",
+      "locale": "tr",
+      "decision": "small rewrite",
+      "reason": "The card’s thesis was good, but the body repeated itself and overstated adult longevity as if most adults easily reached old age.",
+      "fields": {
+        "whatWeSee": "Popüler kültürde Orta Çağ insanı çoğu zaman otuzuna varmadan ölen, yaşlılığın neredeyse hiç görülmediği kısa ve karanlık bir hayatın temsilcisi gibi gösterilir.",
+        "realHistory": "“Orta Çağ’da insanlar 30 yaşında ölüyordu” cümlesi, yaşam beklentisi kavramını yanlış okumaktan doğar. Doğumda beklenen ortalama ömür çok düşüktü; çünkü bebek ve çocuk ölümleri ortalamayı sert biçimde aşağı çekiyordu. Bu, otuz yaşına gelen herkesin hemen öldüğü anlamına gelmez.\n\nHayatta kalan yetişkinler için tablo daha farklıydı. Sınıf, bölge, cinsiyet, savaş, kıtlık ve salgın gibi faktörlere göre değişmekle birlikte, yirmili yaşlarını gören birinin ellili ya da altmışlı yaşlara ulaşması mümkündü. Bu durum Orta Çağ’ın sağlıklı veya güvenli olduğu anlamına gelmez; yalnızca “ortalama ömür” ile “yetişkinin beklenen kalan ömrü”nün aynı şey olmadığını gösterir.\n\nFilmler ve oyunlar bu istatistiği çoğu zaman karanlık çağ hissini güçlendirmek için kullanır. Daha doğru soru “insanlar kaç yaşına kadar yaşayabilirdi?” değil; “hangi yaş grubu, hangi sosyal sınıf ve hangi dönem için konuşuyoruz?” sorusudur. Orta Çağ demografisi tek rakamla anlatılamayacak kadar değişkendir.",
+        "accuracyNote": "Bebek ve çocuk ölümleri ortalamayı düşürür; yetişkin ömrü ise dönem, sınıf ve salgın koşullarına göre ayrıca değerlendirilmelidir.",
+        "whyInteresting": "Aynı toplumda hem çok yüksek çocuk ölümü hem de yaşlılığa ulaşan yetişkinler bulunabiliyordu; tek bir ortalama bu iki gerçeği saklar.",
+        "misconception": "Orta Çağ’da kimsenin yaşlanamadığı sanılır; gerçekte sorun, doğumda ortalama ömür ile yetişkin yaşam beklentisinin karıştırılmasıdır.",
+        "mediaChanged": "Popüler kültür, kısa yaşam klişesini karanlık atmosfer için kullanır; demografi ise yaş, sınıf ve dönem ayrımı yapılmadan bu klişenin yanıltıcı olduğunu gösterir.",
+        "whyItMatters": "Bu ayrım, tarihsel istatistikleri tek cümlelik klişelere dönüştürmenin geçmişi nasıl çarpıtabileceğini gösterir.",
+        "quickRealityCheck": "Orta Çağ’da ortalama yaşam beklentisi düşük olduğu için mi herkes genç öldü, yoksa çocuk ölümleri bu ortalamayı aşağı mı çekti?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Life Expectancy (Our World in Data)",
+            "url": "https://ourworldindata.org/life-expectancy",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Three score and ten? (Cambridge Group for the History of Population)",
+            "url": "https://www.campop.geog.cam.ac.uk/blog/2024/08/15/three-score-and-ten/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Old age isn't a modern phenomenon (University of South Carolina)",
+            "url": "https://sc.edu/uofsc/posts/2022/08/conversation-old-age-is-not-a-modern-phenomenon.php",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "pentiment-printing-press",
+      "locale": "tr",
+      "decision": "rewrite from existing content",
+      "reason": "The card had duplicated generated paragraphs and overclaimed instant literacy effects.",
+      "fields": {
+        "whatWeSee": "Pentiment’ta el yazması kültürü ile matbaa arasındaki geçiş, küçük bir manastır topluluğunun ekonomik ve entelektüel dengelerini sarsan bir değişim olarak görünür.",
+        "realHistory": "15. yüzyıl ortasında Avrupa’da hareketli metal harflerle basımın yayılması, kitabı bir anda herkesin eline ulaştırmadı; ama metin üretiminin hızını ve güvenilir tekrarını kökten değiştirdi. El yazması kitaplar uzun emek, pahalı malzeme ve uzman kopyacı gerektirirken, matbaa aynı metnin çok sayıda kopyasını daha hızlı dolaşıma sokabildi.\n\nBu değişim özellikle dini ve siyasi tartışmalarda etkili oldu. Luther’in tezleri, vaazları ve Almanca metinleri basılı broşürler sayesinde farklı şehirlerde hızla çoğaldı. Matbaa Reformasyon’u tek başına yaratmadı; fakat fikirlerin yerel tartışma olmaktan çıkıp bölgeler arası bir kamusal meseleye dönüşmesini kolaylaştırdı.\n\nPentiment’ın güçlü yanı, matbaayı yalnız “ilerleme” olarak göstermemesidir. El yazması geleneği, manastır emeği, yerel otorite ve dini kontrol bu teknolojiyle sarsılır. Basılı metin ucuzladıkça bilgi daha hızlı yayılır; ama aynı zamanda sansür, propaganda, yanlış bilgi ve dini kutuplaşma da yeni bir ölçek kazanır. Matbaa devrimi bu yüzden yalnız kitap üretimindeki teknik bir hızlanma değil, otorite ve güven krizidir.",
+        "accuracyNote": "Oyun, matbaanın sosyal ve dini etkisini güçlü verir; okuryazarlığın artışı ise bir gecede değil, uzun vadeli eğitim, kentleşme ve ekonomik değişimle gerçekleşmiştir.",
+        "whyInteresting": "Matbaa, yalnız kitap sayısını artırmadı; aynı metnin farklı şehirlerde tartışılmasını sağlayarak Avrupa’da fikir dolaşımının hızını değiştirdi.",
+        "misconception": "Matbaanın icadıyla herkesin hemen okuryazar olduğu sanılır; gerçekte okuryazarlık artışı yavaş, sınıfsal ve bölgesel farklarla ilerledi.",
+        "mediaChanged": "Pentiment, matbaayı manastır dünyasına gelen soğuk bir makine gibi hissettirir; tarihsel olarak bu teknoloji hem bilgi yayılımını hem de otorite mücadelesini büyüttü.",
+        "whyItMatters": "Matbaa, bilginin kimin elinde tutulacağı sorusunu değiştirdiği için modern kamusal tartışmanın erken altyapılarından birini kurdu.",
+        "quickRealityCheck": "Matbaa sadece kitapları hızlandıran bir makine miydi, yoksa dini ve siyasi otoritenin bilgi üzerindeki kontrolünü de mi değiştirdi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Gutenberg Bible (Library of Congress)",
+            "url": "https://www.loc.gov/exhibits/bibles/the-gutenberg-bible.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Printing Press (Britannica)",
+            "url": "https://www.britannica.com/technology/printing-press",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Printing Press & the Protestant Reformation (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/article/2039/the-printing-press--the-protestant-reformation/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "lanoire-policing",
+      "locale": "tr",
+      "decision": "rewrite from existing content",
+      "reason": "The card repeated itself, used broad corruption claims too strongly, and relied on incomplete source metadata.",
+      "fields": {
+        "whatWeSee": "L.A. Noire, 1947 Los Angeles’ında cinayet, organize suç, Hollywood skandalları ve polis içi çıkar ilişkileriyle örülü bir dedektif dünyası kurar.",
+        "realHistory": "Savaş sonrası Los Angeles, büyüme, banliyöleşme, otomobil kültürü ve Hollywood parıltısıyla anılır; fakat bu parlak yüzün arkasında ciddi bir polis ve yeraltı dünyası gerilimi vardı. L.A. Noire’ın seçtiği 1947 atmosferi bu yüzden tesadüf değildir: şehir hem refah vaadi hem de noir edebiyatının sevdiği kirli güç ilişkileriyle doluydu.\n\nLAPD’nin 1940’lar sonundaki imajı özellikle vice, kumar, fuhuş ve organize suç bağlantıları yüzünden tartışmalıydı. Brenda Allen skandalı gibi olaylar, bazı polislerin koruma parası ve suç ağlarıyla ilişkili olduğuna dair kamuoyunda büyük öfke yarattı. Aynı yıllarda Black Dahlia cinayeti, medya baskısının ve polis soruşturmasının sınırlarını gösteren sembolik bir vakaya dönüştü.\n\nWilliam H. Parker’ın 1950’de şef olması, bu kötü imajı profesyonelleştirme ve merkezi disiplin kurma vaadiyle bağlantılıydı. Ancak bu reform çizgisi, LAPD’yi tamamen temiz ve tarafsız bir kuruma dönüştürmedi. Sonraki yıllarda özellikle siyah ve Latin mahalleleriyle ilişkilerde sert müdahale, ırkçılık ve polis şiddeti tartışmaları büyümeye devam etti.\n\nL.A. Noire bu gerçekliği dedektif hikâyesi olarak sıkıştırır. Oyunda her vaka kişisel bir ahlak sınavı gibi görünür; tarihsel bağlamda ise sorun tek tek kötü polislerden ibaret değildi. Hızla büyüyen bir şehirde medya, siyaset, emlak, organize suç ve polis teşkilatı birbirine dokunuyordu.",
+        "accuracyNote": "Oyun dönemin noir atmosferini ve bazı gerçek suçlardan esinlenen vaka yapısını iyi kullanır; kurumsal reform, ırk ilişkileri ve şehir siyaseti ise oynanış için sadeleştirilir.",
+        "whyInteresting": "L.A. Noire’ın karanlık tonu yalnız stil tercihi değildir; 1940’lar sonu Los Angeles’ındaki vice skandalları, medya baskısı ve polis reformu tartışmalarıyla tarihsel zemini vardır.",
+        "misconception": "Savaş sonrası Los Angeles’ın yalnız refah ve Hollywood parıltısından ibaret olduğu sanılır; gerçekte şehir aynı anda yolsuzluk, ırk gerilimi ve organize suç tartışmalarıyla büyüyordu.",
+        "mediaChanged": "Oyun yolsuzluğu dedektifin çözebileceği vaka zincirleri halinde sunar; gerçek Los Angeles’ta sorun daha kurumsal, siyasi ve uzun vadeli bir yapıdaydı.",
+        "whyItMatters": "Bu dönem, modern polis profesyonelleşmesinin bazen kamu güvenini artırırken bazen de daha sert ve kapalı kurumlar yaratabildiğini gösterir.",
+        "quickRealityCheck": "L.A. Noire’daki kirli polis atmosferi yalnız kara film estetiği mi, yoksa savaş sonrası Los Angeles’ın gerçek reform ve yolsuzluk krizlerinden mi besleniyor?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "History of the LAPD (Official Website)",
+            "url": "https://www.lapdonline.org/history-of-the-lapd/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Arrest of Hollywood Madam Brenda Allen (West Hollywood History Center)",
+            "url": "https://www.westhollywoodhistory.org/playground-to-the-stars/arrest-of-hollywood-madam-brenda-allen-leaves-hollywood-agog/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "New LAPD Digs, Old Name? (Los Angeles Times)",
+            "url": "https://www.latimes.com/archives/la-xpm-2006-mar-19-me-parker19-story.html",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "L.A. Noire (Rockstar Games)",
+            "url": "https://www.rockstargames.com/games/lanoire",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "mafia-prohibition",
+      "locale": "tr",
+      "decision": "flagship rewrite",
+      "reason": "Original was long, unfinished, and made several broad claims; sources lacked verified metadata.",
+      "fields": {
+        "whatWeSee": "Mafia, 1930’lar Amerika’sında içki yasağının yarattığı kaçak pazarın mafya ailelerini nasıl büyüttüğünü; barlar, kamyonlar, rüşvet ve sokak savaşları üzerinden gösterir.",
+        "realHistory": "1920’de yürürlüğe giren Prohibition, alkol talebini ortadan kaldırmadı; onu yeraltına itti. 18. Değişiklik ve Volstead Act, içkinin üretim, satış ve taşınmasını yasakladı. Fakat milyonlarca insan içmeye devam etmek istediği için alkol, yasal işletmelerin değil kaçakçıların ve organize suç gruplarının kontrol ettiği dev bir pazara dönüştü.\n\nBu yeni ekonomi üç şeye dayanıyordu: tedarik, koruma ve rüşvet. Kanada’dan ya da Karayipler’den gelen içki, sahil ve göl hatları üzerinden taşınıyor; şehirlerde speakeasy denen gizli barlarda satılıyordu. Polis, yerel siyasetçiler ve mahkemeler üzerinde kurulan baskı ya da rüşvet ağı, kaçakçılığı yalnız sokak şiddeti olmaktan çıkarıp kurumsal bir suç düzenine dönüştürdü.\n\nAl Capone bu dönemin en tanınmış figürüdür; fakat onu yalnız silahlı gangster diye görmek eksik kalır. Capone’un gücü, şiddetin yanında muhasebe, dağıtım, siyasi bağlantı, koruma parası ve kamu imajı yönetimine dayanıyordu. Prohibition dönemi mafyası, yasak bir ürünün düzenli talep gördüğü yerde suçun nasıl şirket benzeri bir yapıya bürünebildiğini gösterir.\n\nMafia oyunundaki aile savaşları bu atmosferi dramatize eder. Oyun sokak çatışmalarını ve sadakat ilişkilerini öne çıkarır; gerçek tarih ise daha çok para akışı, kamyon rotaları, liman bağlantıları, sahte işletmeler ve satın alınmış kamu görevlileriyle işler. Yasak 1933’te sona erdiğinde suç örgütleri ortadan kalkmadı. Alkol kârıyla büyüyen ağlar kumar, haraç, sendika baskısı ve başka yasa dışı pazarlara kaydı.\n\nBu yüzden Prohibition’ın en büyük ironisi şudur: ahlaki düzen kurmak için çıkarılan yasa, bazı şehirlerde suç örgütlerine daha önce hiç sahip olmadıkları kadar kârlı ve kalıcı bir altyapı verdi.",
+        "accuracyNote": "Oyun, yasağın yarattığı kaçak ekonomi ve mafya rekabetini doğru bir zeminde kullanır; ancak gerçek suç düzeni açık çatışmadan çok rüşvet, lojistik ve siyasi koruma üzerinden işliyordu.",
+        "whyInteresting": "Prohibition mafyayı icat etmedi; fakat alkol gibi sürekli talep gören bir ürünü yasaklayarak suç örgütlerine düzenli gelir ve büyüme alanı sağladı.",
+        "misconception": "İçki yasağının sadece insanları daha az içmeye zorlayan ahlaki bir yasa olduğu sanılır; gerçekte yasa, kaçak pazar ve organize suç için dev bir ekonomik fırsat doğurdu.",
+        "mediaChanged": "Mafia aile çatışmalarını sinematik hale getirir; tarihsel Prohibition dünyasında en belirleyici güç çoğu zaman silahlı çatışmadan çok dağıtım ağı, rüşvet ve korumaydı.",
+        "whyItMatters": "Prohibition örneği, yüksek talebi olan bir şeyi yalnız yasaklamanın, iyi tasarlanmamışsa suçu azaltmak yerine onu daha kârlı hale getirebileceğini gösterir.",
+        "quickRealityCheck": "İçki yasağı alkol talebini bitirdi mi, yoksa bu talebi mafyanın yönettiği daha kârlı bir yeraltı pazarına mı taşıdı?",
+        "mediaConnection": "Bu kart, Mafia’daki kaçak içki ekonomisini Volstead Act, speakeasy kültürü, Al Capone ve organize suçun kurumsallaşmasıyla karşılaştırır."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Volstead Act (National Archives)",
+            "url": "https://www.archives.gov/education/lessons/volstead-act",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Al Capone (FBI)",
+            "url": "https://www.fbi.gov/history/cases-and-criminals/al-capone",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Bureau and the Great Experiment (FBI)",
+            "url": "https://www.fbi.gov/news/stories/the-bureau-and-the-great-experiment-012420",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Prohibition and the Rise of the American Gangster (National Archives Foundation)",
+            "url": "https://prologue.blogs.archives.gov/2012/01/17/prohibition-and-the-rise-of-the-american-gangster/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "valiant-hearts-wwi",
+      "locale": "tr",
+      "decision": "rewrite from existing content",
+      "reason": "The card was too broad, mixed front and civilian topics quickly, and had incomplete source metadata.",
+      "fields": {
+        "whatWeSee": "Valiant Hearts, I. Dünya Savaşı’nı cephedeki büyük stratejiden çok aileler, mektuplar, yaralılar, siviller ve savaşın içine çekilen sıradan insanlar üzerinden anlatır.",
+        "realHistory": "I. Dünya Savaşı yalnız askerlerin siperlerde çarpıştığı bir cephe savaşı değildi; toplumların tamamını etkileyen bir topyekûn savaş deneyimiydi. Fransa ve Belçika’da siviller işgal, bombardıman, göç, gıda kıtlığı ve zorunlu çalışma gibi baskılarla karşılaştı. Cephe hattı ile ev hayatı arasındaki sınır, özellikle Batı Cephesi çevresinde sürekli bulanıklaştı.\n\nKadınlar mühimmat fabrikalarında, hastanelerde, tarımda ve yardım örgütlerinde kritik roller üstlendi. Aynı dönemde savaş tıbbı, protezler, yüz yaralanmaları ve psikolojik travma gibi alanlarda yeni sorunlarla yüzleşti. “Shell shock” gibi kavramlar, modern savaşın yalnız bedeni değil zihni de parçaladığını görünür hale getirdi.\n\nValiant Hearts’ın gücü, savaşı zafer anlatısı yerine insani bağlar üzerinden kurmasındadır. Karakterler kurgudur, ama oyunun mektuplar, hatıralar ve gerçek cephe olaylarından beslenen tonu tarihsel olarak anlamlıdır. Gerçek savaş, tek bir kahramanın hikâyesinden çok milyonlarca insanın gündelik hayatının askeri kararlarla değişmesiydi.",
+        "accuracyNote": "Oyun tarihsel olayları yumuşak ve erişilebilir bir görsel dille anlatır; ama sivil acı, işgal, mektuplar ve cephe gerisi emeği gerçek tarihsel zemine dayanır.",
+        "whyInteresting": "Valiant Hearts’ın duygusal etkisi, büyük komutanlardan çok mektup, aile bağı ve gündelik kayıp gibi küçük insan izlerine odaklanmasından gelir.",
+        "misconception": "I. Dünya Savaşı’nın yalnız erkek askerlerin siperlerde yaşadığı bir deneyim olduğu sanılır; gerçekte siviller, kadın işçiler, hemşireler ve işgal altındaki toplumlar savaşın merkezindeydi.",
+        "mediaChanged": "Valiant Hearts savaşı daha kişisel ve sembolik anlatır; tarihsel ölçekte aynı acı milyonlarca sivilin yerinden edilmesi, açlık, zorunlu emek ve yasla birleşiyordu.",
+        "whyItMatters": "Bu bakış, savaş tarihinin yalnız cephe çizgileriyle değil, evlere giren yokluk ve travmayla da yazıldığını hatırlatır.",
+        "quickRealityCheck": "I. Dünya Savaşı yalnız siperlerde mi yaşandı, yoksa sivil toplumun gündelik hayatını da cepheye dönüştürdü mü?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Voices of the First World War: A Total War (Imperial War Museums)",
+            "url": "https://www.iwm.org.uk/podcasts/voices-of-the-first-world-war/ep-49-total-war",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Forced Labour (International Encyclopedia of the First World War)",
+            "url": "https://encyclopedia.1914-1918-online.net/article/forced-labour/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Valiant Hearts: The Great War (MIT Docubase)",
+            "url": "https://docubase.mit.edu/project/valiant-hearts-the-great-war/",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "civ-linear-history",
+      "locale": "tr",
+      "decision": "rewrite from existing content",
+      "reason": "The card had a good premise but repeated generated fragments and made a broad 'lost knowledge' claim without enough structure.",
+      "fields": {
+        "whatWeSee": "Civilization serisinde tarih, teknolojilerin birbirini açtığı düzenli bir ağaç gibi işler: önce yazı, sonra mühendislik, sonra sanayi, sonra uzay yarışı.",
+        "realHistory": "Civilization’ın teknoloji ağacı çok iyi bir oyun mekaniğidir; oyuncuya hedef, tempo ve stratejik seçim verir. Fakat gerçek tarih böyle tek çizgili işlemez. Teknolojiler her toplumda aynı sırayla ortaya çıkmaz; bazen aynı fikir farklı yerlerde bağımsız gelişir, bazen bilgi aktarılır, bazen de politik çöküş, savaş, salgın veya ekonomik kopuşlar mevcut bilginin kullanımını sınırlar.\n\nBu yüzden tarih “basitten karmaşığa zorunlu ilerleme” değil, kesintilerle dolu bir uyum sürecidir. Antikythera düzeneği gibi örnekler, antik dünyada çok gelişmiş mekanik ve astronomik bilginin var olabildiğini gösterir. Benzer karmaşıklıktaki mekanik sistemlerin çok daha sonra yeniden görünür hale gelmesi, teknolojik gelişimin düz bir merdiven olmadığını hatırlatır.\n\nCivilization bu karmaşayı bilinçli olarak sadeleştirir. Oyunda tüm toplumlar aynı ağacın farklı dallarında yarışır; tarihsel gerçeklikte ise coğrafya, kaynaklar, ticaret yolları, kurumlar ve rastlantılar hangi bilginin işe yarayacağını belirler. Bu model yanlış olduğu için değil, oyun tasarımı için kullanışlı olduğu için vardır. Ama geçmişi anlamaya çalışırken teknoloji ağacını gerçek tarihin haritası sanmak yanıltıcıdır.",
+        "accuracyNote": "Civilization, tarihi oynanabilir kılmak için teknolojiyi doğrusal ve karşılaştırılabilir bir sisteme dönüştürür; bu, iyi bir oyun mekaniği ama sınırlı bir tarih modelidir.",
+        "whyInteresting": "Antikythera düzeneği, antik toplumların bazen modern gözle beklenenden çok daha karmaşık teknik çözümler üretebildiğini gösteren çarpıcı bir örnektir.",
+        "misconception": "İnsanlığın her zaman aynı çizgide ve sürekli daha ileri gittiği sanılır; gerçekte bilgi üretimi aktarım, unutma, kesinti ve yeniden yorumlama süreçleriyle ilerler.",
+        "mediaChanged": "Civilization teknoloji gelişimini net bir ağaç gibi gösterir; tarihsel kayıtlar ise teknolojinin çoğu zaman farklı bölgelerde, farklı ihtiyaçlara göre ve kesintili biçimde geliştiğini gösterir.",
+        "whyItMatters": "Bu ayrım, geçmiş toplumları yalnız bugüne ne kadar benzediğine göre sıralamadan, kendi koşulları içinde anlamaya yardım eder.",
+        "quickRealityCheck": "Tarih gerçekten tek bir teknoloji ağacında yukarı tırmanmak mı, yoksa farklı toplumların farklı koşullarda açtığı dağınık yollar mı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Technology Trees: Freedom and Determinism in Historical Strategy Games (Game Studies)",
+            "url": "https://www.gamestudies.org/1201/articles/tuur_ghys",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "A Model of the Cosmos in the ancient Greek Antikythera Mechanism (Scientific Reports)",
+            "url": "https://www.nature.com/articles/s41598-021-84310-w",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "The Whig Interpretation of History (University College Oxford)",
+            "url": "https://www.univ.ox.ac.uk/book/the-whig-interpretation-of-history/",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

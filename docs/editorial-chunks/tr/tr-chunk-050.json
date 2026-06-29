@@ -1,0 +1,270 @@
+{
+  "locale": "tr",
+  "chunkIndex": 50,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-052-kamikaze",
+      "title": "Kamikaze Rüzgarı",
+      "subtitle": "Kamikaze: tanrı rüzgarı mı, fırtına takvimi mi?",
+      "mediaType": "game",
+      "mediaTitle": "Ghost of Tsushima",
+      "era": "Orta Çağ",
+      "region": "Japonya",
+      "themes": [
+        "Samuray",
+        "İstila",
+        "Onur"
+      ],
+      "whatWeSee": "Ghost of Tsushima'da kamikaze, Moğol filosunu dağıtan ilahi bir dönüm anı gibi resmedilir. Kıyıya vuran gemiler, fırtına sesleri ve savunmacıların moral yükselişi bu anlatıyı güçlendirir. Oyun, \"tanrı rüzgarı\" fikrini askeri direnişin simgesi haline getirir; doğa olayı ile siyasi hafıza aynı dramatik dilde birleşir.",
+      "realHistory": "Japonya'ya yönelik Moğol seferleri 1274 ve 1281'de iki büyük dalga halinde gerçekleşti. Kublai Han'ın kurduğu Yuan yönetimi, Kore ve Çin kıyılarındaki tersane kapasitesini kullanarak çok uluslu filolar hazırladı. İlk sefer Hakata çevresine ulaştı; çatışmaların ardından kötü hava koşulları ve geri çekilme kararı işgali kalıcılaştırmadı.\n\n1281'deki ikinci sefer daha büyük ölçekteydi, ancak uzun bekleme süresi, koordinasyon sorunları ve kıyı savunmasının güçlenmesi işgal planını zorlaştırdı. Japon kaynakları bu dönemde yıkıcı tayfunları \"kamikaze\" yani \"tanrısal rüzgar\" olarak adlandırdı. Modern tarih yazımı, fırtınaların etkisini kabul ederken sonucu yalnızca meteorolojiye bağlamaz: savunma duvarları, kıyı devriyeleri, gece baskınları ve lojistik aşınma da kritik etkenlerdi.\n\nKamikaze anlatısı sonradan ulusal hafızada güçlü bir sembole dönüştü. Özellikle sonraki yüzyıllarda dış tehdit karşısında \"ada korunması\" fikrini meşrulaştıran bir tarihsel dil üretti. Ghost of Tsushima bu sembol gücünü etkili kullanır, ancak gerçek tabloda doğa olayının etkisi askeri hazırlık ve organizasyonla birlikte düşünülmelidir.\n\nDeniz seferlerinin teknik boyutu da belirleyiciydi: farklı tersanelerden gelen gemi tipleri, ortak komuta sorunları ve erzak zincirindeki kırılmalar filonun dayanıklılığını azalttı. Bu yapısal problemler, tayfunların yıkıcı etkisini daha da büyüterek istila girişimlerinin kalıcılığını engelledi. Dolayısıyla sonuç, kader anlatısı ile askeri kapasite analizinin kesişiminde anlaşılır. Bu çerçeve, olayın çok nedenli karakterini netleştirir.",
+      "accuracyNote": "Tayfun etkisi tarihsel olarak temellidir; oyunda sembolik vurgu nedeniyle savunma altyapısının payı geri planda kalır.",
+      "whyInteresting": "Aynı olay hem meteorolojik gerçeklik hem de yüzyıllar boyunca yaşayan siyasi bir hafıza anlatısı üretmiştir.",
+      "misconception": "Kamikaze'nin her şeyi tek başına çözdüğü sanılır; oysa savunma duvarları, yerel savaşçı ağları ve lojistik yıpranma da belirleyicidir.",
+      "nextTopics": [
+        "Moğol İstilası",
+        "Samuray Kodu",
+        "Samuray Zırhı"
+      ],
+      "sources": [
+        {
+          "title": "Mongol invasions of Japan - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/event/Mongol-invasions-of-Japan"
+        },
+        {
+          "title": "Kublai Khan - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/Kublai-Khan"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "ghost-tsushima-invasion",
+        "tf26-056-island-defense"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "major",
+      "mediaConnection": "Kart, Ghost of Tsushima'nın kamikaze sahnelerini 1274 ve 1281 seferlerinin çok etkenli askeri bağlamıyla eşleştirir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "samuray",
+        "japonya",
+        "tsushima",
+        "kamikaze-ruzgari",
+        "true-frame"
+      ],
+      "spoilerNote": "Ghost of Tsushima hikâyesinin sonunu veya büyük sürprizlerini anlatabilir.",
+      "mediaChanged": "Oyun fırtınayı tek belirleyici neden gibi öne çıkarır; tarihsel analizde sonuç, hava koşulları ile savunma hazırlığının birleşiminden doğar.",
+      "whyItMatters": "Aynı olay hem meteorolojik gerçeklik hem de yüzyıllar boyunca yaşayan siyasi bir hafıza anlatısı üretmiştir.",
+      "isFlagship": true,
+      "quickRealityCheck": "Moğol seferleri sadece tayfun yüzünden mi başarısız oldu, yoksa Japon kıyı savunması da sonucu belirledi mi?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-055-archery",
+      "title": "Atlı Okçuluk",
+      "subtitle": "Ekrandaki iz, tarihteki karşılık",
+      "mediaType": "game",
+      "mediaTitle": "Ghost of Tsushima",
+      "era": "Orta Çağ",
+      "region": "Japonya",
+      "themes": [
+        "Samuray",
+        "İstila",
+        "Onur"
+      ],
+      "whatWeSee": "Ghost of Tsushima'da okçuluk, çoğu zaman tek başına kahraman refleksi gibi sunulur: hızlı nişan, seri atış ve sinematik karşılaşma. At üstünde veya yaya biçimde alınan pozisyonlar oyunun temposunu yükseltir. Görsel olarak etkileyici bu kurgu, gerçek savaşta okçuluğun birlik düzeni, menzil disiplini ve komuta sinyalleriyle çalıştığı daha kolektif yapıyı geriye iter.",
+      "realHistory": "13. yüzyıl Japonya'sında savaş kültüründe yay kritik bir silahtı, fakat bireysel düello aracından çok taktik düzenin parçasıydı. Samuray geleneğinde at üstü okçuluk (yabusame ile ilişkili teknik miras dahil) prestijli bir beceri olarak öne çıksa da savaş sahasında belirleyici olan, uygun menzilde koordineli atış ve hareket zamanlamasıydı. 1274 ve 1281 Moğol seferleri sırasında karşılaşılan taktik farklar, Japon savaş düzeninin dönüşüm baskısını artırdı.\n\nMoğol birlikleri toplu atış disiplini, davul ve işaret koordinasyonu, farklı menzil silahlarını birlikte kullanma gibi yöntemlerle bireysel kahramanlık kültürünü zorladı. Japon savunması yalnız savaşçı erdemine değil kıyı tahkimatı, yerel ağlar ve seferberlik kapasitesine yaslanmak zorunda kaldı. Okçuluk bu tabloda hem saldırı hem savunma için vazgeçilmezdi; ama tek başına sonucu belirlemiyordu.\n\nDolayısıyla atlı okçuluğu romantik bir nişancılık gösterisine indirgemek eksik kalır. Asıl mesele, becerinin hangi birlik yapısı içinde işe yaradığıdır. Teknik üstünlük, komuta ve lojistik eşlik etmediğinde hızla etkisini kaybeder. Nitekim kıyı savunma duvarlarının inşası ve sahil nöbet ağlarının genişlemesi, savaşın yalnız meydanda değil hazırlık safhasında da kazanıldığını ortaya koydu. Bu dönüşüm, samuray kimliğini de etkiledi; bireysel şan anlatısı yerini giderek daha planlı, kolektif savunma pratiğine bırakmaya başladı. Kaynaklar, denizden gelen tehdit karşısında yerel idare ile savaşçı elit arasındaki koordinasyonun kalıcı biçimde güçlendiğini de gösterir.",
+      "accuracyNote": "Yay kullanımı ve hareketli çatışma hissi başarılıdır; ancak okçuluğun birlik içi komuta ve kitle taktikleriyle bağı oyun temposu için daraltılmıştır.",
+      "whyInteresting": "Aynı silah, ritüel prestij göstergesi de olabilir, kitle savaşında teknik zorunluluk da.",
+      "misconception": "Samuray savaşının yalnız onur düellolarından oluştuğu düşünülür; pratikte menzil yönetimi ve toplu düzen hayatiydi.",
+      "nextTopics": [
+        "Moğol İstilası",
+        "Kamikaze Rüzgarı",
+        "Samuray Kodu"
+      ],
+      "sources": [
+        {
+          "title": "Samurai (Britannica)",
+          "url": "https://www.britannica.com/topic/samurai",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Mongol Invasions of Japan (Britannica)",
+          "url": "https://www.britannica.com/event/Mongol-invasions-of-Japan",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Yabusame (Britannica)",
+          "url": "https://www.britannica.com/sports/yabusame",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-056-island-defense",
+        "ghost-samurai-reality",
+        "tf26-058-peasants-war"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Ghost of Tsushima'nın okçuluk mekanikleri, samuray savaş estetiğinin popüler kültürdeki en görünür temsillerinden biridir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "samuray",
+        "japonya",
+        "tsushima",
+        "atli-okculuk",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun okçuluğu bireysel ustalık gösterisi olarak parlatır ve karar anını oyuncu refleksine bağlar. Tarihte etkinlik, daha çok birlik koordinasyonu, menzil yönetimi ve savunma hazırlığıyla ortaya çıkıyordu.",
+      "whyItMatters": "Aynı silah, ritüel prestij göstergesi de olabilir, kitle savaşında teknik zorunluluk da.",
+      "isFlagship": false,
+      "quickRealityCheck": "Moğol istilaları sırasında toplu atış disiplini, samurayların klasik düello temelli savaş alışkanlığını nasıl zorladı?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-056-island-defense",
+      "title": "Ada Savunması",
+      "subtitle": "Tsushima savunması: ada, köy, kale zinciri",
+      "mediaType": "game",
+      "mediaTitle": "Ghost of Tsushima",
+      "era": "Orta Çağ",
+      "region": "Japonya",
+      "themes": [
+        "Samuray",
+        "İstila",
+        "Onur"
+      ],
+      "whatWeSee": "Ghost of Tsushima, ada savunmasını köy baskınları, kale kuşatmaları ve dağınık direniş hatları üzerinden anlatır. Jin'in farklı bölgeler arasında dolaşması, savunmanın tek bir meydan savaşından ibaret olmadığını hissettirir. Oyun dili, yerel savaşçıların coğrafya bilgisiyle hareket eden esnek bir savunma ağı kurduğunu gösterir; tehdit hem kıyıda hem iç hatlarda hissedilir.",
+      "realHistory": "1274 ve 1281 Moğol seferlerinde Tsushima ve Iki adaları Japonya'ya giden deniz hatlarının ilk temas noktalarıydı. Bu adalardaki yerel savaşçılar erken saldırılarda ağır kayıplar verdi; nüfus ve kaynak ölçeği, büyük çıkarma kuvvetlerine karşı uzun süreli direnç için sınırlıydı. Buna rağmen bu ilk karşılaşmalar, Kyushu kıyılarındaki ana savunma bölgeleri için kritik uyarı işlevi gördü.\n\nJapon tarafında savunma zamanla çok katmanlı hale geldi: kıyı duvarları inşa edildi, devriye düzenleri sıklaştırıldı, yerel beyler arasında koordinasyon artırıldı. Gece baskınları ve küçük birlik saldırıları, karaya çıkan kuvvetlerin düzenini bozmak için kullanıldı. Savunmanın başarısı, merkezi emir kadar yerel inisiyatif ve coğrafi bilgiye dayandı.\n\nAda savunması yalnızca samuray düellosu değildir; ikmal, haberleşme, tahkimat ve deniz-hava koşullarına uyumun birlikte çalıştığı bir süreçtir. Ghost of Tsushima bireysel kahramanlık anlatısıyla bu tabloyu dramatize eder. Tarihsel perspektifte ise sonucun anahtarı, adalar zinciri boyunca kurulan erken uyarı ve aşamalı yıpratma stratejisidir.\n\nBu savunma modelinin mali bir yönü de vardı: yerel topluluklar tahkimat inşası, silah temini ve nöbet emeği için ek kaynak ayırmak zorundaydı. Dolayısıyla ada güvenliği, sadece askeri cesaret değil, toplumsal dayanışma ve sürekli kaynak yönetimi gerektiren bir kamu yükümlülüğüydü. Bu yaklaşım, kıyı savunmasını geçici değil kurumsal hale getirdi. Yerel hafızada da savunma kültürü güçlendi.",
+      "accuracyNote": "İlk temas hattı olarak adaların önemi doğru yakalanır; farklı sefer dalgalarının ayrıntıları oyun temposu nedeniyle birleştirilir.",
+      "whyInteresting": "Küçük adaların kaderi, daha büyük ana kara savunmasının zamanlama ve hazırlık kapasitesini doğrudan etkileyebilir.",
+      "misconception": "Savunmanın sadece samuray kılıç becerisiyle yürüdüğü düşünülür; oysa tahkimat, keşif ve ikmal yönetimi belirleyici katkı sunar.",
+      "nextTopics": [
+        "Moğol İstilası",
+        "Kamikaze Rüzgarı",
+        "Samuray Kodu"
+      ],
+      "sources": [
+        {
+          "title": "Mongol invasions of Japan - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/event/Mongol-invasions-of-Japan"
+        },
+        {
+          "title": "Tsushima - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/place/Tsushima"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "ghost-tsushima-invasion",
+        "tf26-052-kamikaze"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Kart, oyundaki bölgesel direniş sahnelerini Moğol seferleri sırasında adalar zincirinde oluşan savunma mimarisiyle bağlar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "samuray",
+        "japonya",
+        "tsushima",
+        "ada-savunmasi",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun bireysel kahramanlık çizgisini öne çıkarır; tarihsel modelde savunmayı belirleyen esas unsur çok katmanlı yerel koordinasyon ve tahkimattır.",
+      "whyItMatters": "Küçük adaların kaderi, daha büyük ana kara savunmasının zamanlama ve hazırlık kapasitesini doğrudan etkileyebilir.",
+      "isFlagship": true,
+      "quickRealityCheck": "Tsushima tek başına savaşı kazandırdı mı, yoksa adalar boyunca kurulan kademeli savunma mı işgali yıprattı?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-058-peasants-war",
+      "title": "Köylüler ve Savaş",
+      "subtitle": "Köylüler ve Savaş sadece dekor değil",
+      "mediaType": "game",
+      "mediaTitle": "Ghost of Tsushima",
+      "era": "Orta Çağ",
+      "region": "Japonya",
+      "themes": [
+        "Samuray",
+        "İstila",
+        "Onur"
+      ],
+      "whatWeSee": "Ghost of Tsushima'da Moğol akınları sırasında yakılan köyler, tarlada ölen çiftçiler ve Jin Sakai'nin korumaya çalıştığı sıradan insanlar öne çıkar. Oyun samuray hattını merkeze alır; 1274–1281 kronikleri ilk bedelin köylerde ödendiğini belgeler.",
+      "realHistory": "1274 ve 1281 Moğol seferleri Japonya kıyılarını vurduğunda ilk bedeli köylüler ve balıkçılar ödedi. Tsushima adası ağır hasar gördü; yerel direniş ve teslim arasında sıkışan topluluklar vardı. Samuray düzeni savaşta öne çıkar ama üretim, vergi ve tahıl tedariki köy ağlarına bağlıydı. Oyun köylü trajedisini görselleştirir; Japon kronikleri (Mōko Shūrai Ekotoba gibi) ise akın sonrası tahribatı resimli anlatır. 'Onna-bugeisha' ve köylü desteği tartışmalı olsa da, savaşın gündelik hayatı kopardığı nettir. Ghost of Tsushima samuray efsanesini merkeze alır; tarihçiler tarım ekonomisi ve adalararası savunmayı birlikte okur. 1274'te Tsushima adasına ilk Moğol saldırısı geldi; yerel So clan direndi ama ağır kayıp verdi. 1281'de ikinci seferde kamikaze (fırtına) filoyu dağıttı; yine de kıyı köyleri yağmalandı. Mōko Shūrai Ekotoba (Mongol Invasion Scroll) akın sonrası tahribatı resimli anlatır. Samuray düzeni savaşta öne çıkar; üretim, vergi ve tahıl tedariki köy ağlarına bağlıydı. Köylüler silahlandırıldı veya kaçtı; bazıları teslim oldu. Jin Sakai kurgusaldır; fakat savaşın gündelik hayatı kopardığı nettir. Tarihçiler tarım ekonomisi ve adalararası savunmayı birlikte okur. Tahıl ambarları yağmalandı; samuray zafer anlatısı köy ekonomisinin kırılganlığını gölgede bırakır. 1274'te Tsushima So klanı ağır kayıp verdi; 1281'de ikinci seferde kamikaze filoyu dağıttı ama kıyı tahribatı sürdü.",
+      "accuracyNote": "1274/1281 seferleri ve Tsushima'ya ilk vuruş doğrudur; Jin ve birçok karakter kurgusaldır.",
+      "whyInteresting": "İmparatorluk savaşı, çoğu zaman köy ekmeği üzerinden kaybedilir veya kazanılır.",
+      "misconception": "Moğol işgali yalnızca samuray destanıdır; kırsal nüfus ve tedarik zinciri belirleyicidir.",
+      "nextTopics": [
+        "Moğol İstilası",
+        "Kamikaze Rüzgarı",
+        "Samuray Kodu"
+      ],
+      "sources": [
+        {
+          "title": "Mongol invasions of Japan (Britannica)",
+          "url": "https://www.britannica.com/event/Mongol-invasions-of-Japan",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Tsushima and the 1274 invasion (Japan National Tourism Org)",
+          "url": "https://www.japan.travel/en/sg/story/tsushima/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Mōko Shūrai Ekotoba (Tokyo National Museum)",
+          "url": "https://www.tnm.jp/modules/r_collection/index.php?controller=item&id=C0018069",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-059-shrine-culture",
+        "tf26-060-clan-loyalty",
+        "tf26-056-island-defense"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Ghost of Tsushima köy sahneleri ile Mōko Shūrai Ekotoba ve Tsushima savunması kayıtları.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "samuray",
+        "japonya",
+        "tsushima",
+        "koyluler-ve-savas",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Köylüler ve Savaş ekranda daha net bir odak kazanır; karakterlerin yolu, mekân seçimi ve çatışma ritmi bu konuyu kolay takip edilir kılar. Tarihte aynı başlık, Moğolların Japonya'yı istila girişimleri gibi daha uzun süreçlerin içinde ilerler.",
+      "whyItMatters": "İmparatorluk savaşı, çoğu zaman köy ekmeği üzerinden kaybedilir veya kazanılır.",
+      "isFlagship": false,
+      "quickRealityCheck": "Oyundaki yanan köy sahneleri, 13. yüzyıl kroniklerindeki tahribat anlatılarıyla uyumlu mu?",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

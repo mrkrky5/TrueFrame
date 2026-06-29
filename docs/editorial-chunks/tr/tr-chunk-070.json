@@ -1,0 +1,280 @@
+{
+  "locale": "tr",
+  "chunkIndex": 70,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-143-oak-ridge",
+      "title": "Oak Ridge",
+      "subtitle": "Küçük ayrıntı, büyük tarih",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Bilim",
+        "Savaş",
+        "Etik"
+      ],
+      "whatWeSee": "Oppenheimer'da Oak Ridge, Los Alamos kadar görünür bir sahne olmasa da devasa üretim zincirinin parçası olarak hissedilir. İzleyici laboratuvar tartışmalarını izlerken perde arkasında çalışan bir endüstri şehrini sezebilir. Ancak uranyum zenginleştirmenin ölçeği, iş gücü rejimi ve bu kapalı kentin gündelik disiplini filmde kısa geçilir.",
+      "realHistory": "Oak Ridge, Manhattan Projesi'nin görünmez motorlarından biriydi. Tennessee'de 1942'den itibaren kurulan bu yeni kent, U-235 izotopunu ayırmaya odaklanan dev tesisler için inşa edildi. Y-12 elektromanyetik ayırma, K-25 gaz difüzyon ve S-50 termal difüzyon gibi farklı yöntemler aynı hedefe koşuyordu: bombada kullanılabilir düzeyde zenginleştirilmiş uranyum üretmek. Bu süreç, yalnız bilimsel yenilik değil, muazzam enerji tüketimi, yüksek malzeme ihtiyacı ve disiplinli iş organizasyonu gerektiriyordu.\n\nKentte on binlerce işçi çalıştı; çoğu, yaptığı işin nihai amacını bilmiyordu. Güvenlik, bilgi parçalama yöntemiyle yürütülüyor; çalışanlar yalnız kendi adımlarını görüyordu. Hız baskısı nedeniyle vardiya düzeni sertti, konut planlaması hiyerarşikti ve ırksal ayrım uygulamaları dönemin ABD yapısını kent içine taşıdı. Oak Ridge'in çıktısı, Little Boy bombasına giden uranyum hattının temelini oluşturdu.\n\nBu nedenle Oak Ridge'i sadece teknik bir detay saymak yanıltıcı olur. Burası, modern savaşta bilimin fabrikalaşması ve gizlilik altında kitlesel üretimin nasıl birleştiğini gösteren kritik bir örnektir. Savaş sonrasında tesislerin nükleer enerji ve silah üretim zincirindeki rolü devam etti; yani Oak Ridge geçici bir kamp değil, kalıcı bir atom çağ altyapısına dönüştü. Bölgedeki çevresel miras tartışmaları da bu tarihin parçasıdır; üretim kazanımı kadar atık yönetimi ve halk sağlığı bedeli, projenin uzun gölgesini günümüze taşımıştır. Bu miras, atom çağının teknik başarıyla etik hesabı birlikte taşıdığını hatırlatır.",
+      "accuracyNote": "Film Manhattan Projesi'nin stratejik çerçevesini doğru yansıtır; Oak Ridge'in iş gücü ölçeği ve ayrıntılı üretim süreçleri dramatik odak nedeniyle daraltılmıştır.",
+      "whyInteresting": "Bir kentin neredeyse sıfırdan kurulup yalnızca izotop ayırma için işletilmesi modern tarihte benzersizdir.",
+      "misconception": "Atom bombasının yalnız birkaç bilim insanının teorik başarısıyla üretildiği düşünülür; asıl farkı yaratan, devasa endüstriyel altyapıydı.",
+      "nextTopics": [
+        "Los Alamos",
+        "Trinity Deneyi",
+        "Hanford"
+      ],
+      "sources": [
+        {
+          "title": "Manhattan Project National Historical Park - Oak Ridge",
+          "url": "https://www.nps.gov/mapr/oak-ridge.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The Secret City: Oak Ridge, Tennessee (U.S. Department of Energy)",
+          "url": "https://www.energy.gov/management/office-management/operational-management/history/secret-city-oak-ridge-tennessee",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Oak Ridge (Atomic Heritage Foundation)",
+          "url": "https://www.atomicheritage.org/location/oak-ridge",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-144-hanford",
+        "tf26-145-security",
+        "tf26-146-women-workers"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Oppenheimer'ın Los Alamos merkezli anlatısı, Oak Ridge gibi üretim merkezlerinin görünmez emeğine dayanıyordu.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "oppenheimer",
+        "manhattan-projesi",
+        "bilim",
+        "oak-ridge",
+        "true-frame"
+      ],
+      "spoilerNote": "Oppenheimer hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film odağı fizikçilerin karar dramına verince Oak Ridge'in endüstriyel ölçeği arka planda kalır. Gerçekte proje, laboratuvar zekasından çok fabrika kapasitesi ve yönetim disipliniyle sonuç üretti.",
+      "whyItMatters": "Bir kentin neredeyse sıfırdan kurulup yalnızca izotop ayırma için işletilmesi modern tarihte benzersizdir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Oak Ridge'de çalışan binlerce kişinin işin nihai amacını bilmemesi proje yönetimine nasıl avantaj sağladı?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-144-hanford",
+      "title": "Hanford",
+      "subtitle": "Hanford: gizli şehir, plütonyum fabrikası",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Bilim",
+        "Savaş",
+        "Etik"
+      ],
+      "whatWeSee": "Oppenheimer, Hanford’u kısa ama çarpıcı planlarla dev bir savaş üretim hattı gibi gösteriyor: borular, reaktörler, vardiyalar ve bitmeyen acele. Film odağı Los Alamos’ta tutsa da Hanford görüntüleri atom bombasının yalnızca laboratuvar kuramıyla değil, ağır sanayi ölçeğiyle mümkün olduğunu tamamıyla hissettiriyor.",
+      "realHistory": "Hanford Site, Manhattan Projesi’nin sanayi omurgasıydı. 1943’te Washington eyaletinde seçilen bu alan, Columbia Nehri’nin yüksek soğutma suyu kapasitesi ve görece düşük nüfus yoğunluğu nedeniyle uygun görüldü. Burada devreye alınan B Reactor, büyük ölçekli plütonyum üretiminin merkezlerinden biri oldu. Los Alamos’taki kuramsal ve mühendislik çalışmaları, Hanford’dan gelen fisil malzeme olmadan operasyonel silaha dönüşemezdi; Nagasaki’de kullanılan Fat Man bombasında bu zincirin çıktısı yer aldı.\n\nAncak bu başarı anlatısının ciddi toplumsal ve çevresel maliyetleri vardı. Bölgedeki yerleşimler tahliye edildi, yerli toplulukların toprak kullanım hakları daraldı, savaş sonrası dönemde ise saha kapanmak yerine Soğuk Savaş boyunca büyüdü. Üretim devam ettikçe radyoaktif atık birikimi arttı ve Hanford zamanla ABD’nin en pahalı çevresel temizleme dosyalarından birine dönüştü.\n\nBu örnek, ulusal güvenlik hızı ile uzun vadeli kamu sağlığı sorumluluğu arasındaki gerilimi net biçimde gösterir. Bilimsel buluş, askeri ihtiyaç, sanayi mühendisliği ve siyasal denetim aynı karar zincirinde birleşti. Dolayısıyla etik sorumluluk tek bir bilim insanı figürüne indirgenemez. Film bireysel vicdanı güçlü bir dramatik eksen yapar; tarihsel çerçeve ise meseleye kuşaklar boyu süren altyapı ve atık yönetimi perspektifini ekler. Hanford, “teknolojik zafer” söylemine gecikmeli maliyet hesabı eklenmeden tam bir değerlendirme yapılamayacağını hatırlatır. Bu dosya, güvenlik politikalarında kısa vadeli stratejik getirinin uzun vadeli çevre borcuyla birlikte düşünülmesi gerektiğini de somut biçimde gösterir.",
+      "accuracyNote": "Hanford’un Manhattan Projesi’ndeki stratejik rolü doğrudur; filmde süre ve ayrıntı doğal olarak kısaltılmıştır.",
+      "whyInteresting": "Bu kart nükleer tarih anlatısını teknik başarıdan çıkarıp yerinden edilme ve atık sorumluluğu boyutuna taşır.",
+      "misconception": "Yaygın yanılgı, atom silahı sürecinin esasen laboratuvar teorisinden ibaret olduğudur.",
+      "nextTopics": [
+        "Los Alamos",
+        "Trinity Deneyi",
+        "Oak Ridge"
+      ],
+      "sources": [
+        {
+          "title": "Hanford Site Overview (U.S. Department of Energy)",
+          "url": "https://www.hanford.gov/"
+        },
+        {
+          "title": "Hanford and the Manhattan Project (National Park Service)",
+          "url": "https://www.nps.gov/mapr/learn/historyculture/hanford.htm"
+        },
+        {
+          "title": "Hanford Site (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/place/Hanford-Site"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "oppenheimer-trinity",
+        "tf26-148-hiroshima-context"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Oppenheimer bireysel etik ikilemi büyütüyor; True Frame aynı dosyayı sanayi ölçeği ve çevre adaletiyle genişletiyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "oppenheimer",
+        "manhattan-projesi",
+        "bilim",
+        "hanford",
+        "true-frame"
+      ],
+      "spoilerNote": "Oppenheimer hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film Hanford’u yan hat gibi gösteriyor; tarihsel kayıt tesisin plütonyum üretimi ve atık mirasıyla projenin merkezinde olduğunu ortaya koyuyor.",
+      "whyItMatters": "Bu kart nükleer tarih anlatısını teknik başarıdan çıkarıp yerinden edilme ve atık sorumluluğu boyutuna taşır.",
+      "isFlagship": true,
+      "quickRealityCheck": "Nükleer hikâye laboratuvar denkleminde mi biter, yoksa üretim ve atık yönetimi zincirinde mi sürer?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-145-security",
+      "title": "Gizlilik Düzeni",
+      "subtitle": "Ekrandaki iz, tarihteki karşılık",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Bilim",
+        "Savaş",
+        "Etik"
+      ],
+      "whatWeSee": "Oppenheimer, laboratuvar kapıları, dosya kısıtları ve kapalı sorgu oturumlarıyla Manhattan Projesi'ni sadece bilimsel yarış değil, yoğun bir güvenlik rejimi olarak sunuyor. Karakterler denklem çözerken bile sadakat testlerinin gölgesinde kalıyor. Böylece gizlilik, teknik prosedür olmaktan çıkıp insanların kariyerini, ilişkisini ve konuşma biçimini belirleyen gündelik bir iklime dönüşüyor.",
+      "realHistory": "Manhattan Projesi, II. Dünya Savaşı koşullarında kurulan en katı güvenlik mimarilerinden biriydi. Los Alamos, Oak Ridge ve Hanford gibi merkezler arasında bilgi akışı bilinçli biçimde bölündü; çalışanlar çoğu zaman yalnız kendi parçasını biliyordu. Bu yapı sabotajı ve istihbarat sızmasını azaltmak için \"bilmesi gereken\" ilkesine dayanıyordu. Yazışmalar denetlendi, seyahatler izlendi ve personel geçmiş soruşturmasından geçirildi.\n\nYine de sistem geçirimsiz değildi. Klaus Fuchs gibi örnekler, sıkı güvenlik ağlarında bile bilgi kaçaklarının mümkün olduğunu gösterdi. Savaş sonrası dönemde aynı güvenlik kültürü teknik sır korumasından politik sadakat denetimine kaydı. 1954'te Oppenheimer'ın güvenlik izni duruşmaları, bilimsel anlaşmazlık, dış politika görüşü ve kişisel geçmişin aynı dosyada tartışıldığı kritik bir eşik oldu.\n\nBu süreç, ulusal güvenlik kavramının laboratuvar dışına taşarak akademik özgürlük ve kamuoyu tartışmalarını etkilemesine yol açtı. Manhattan deneyimi yalnız atom çağını değil, Soğuk Savaş boyunca araştırma kurumlarında açıklık ile güvenlik arasındaki kalıcı gerilimi de kurumsallaştırdı. Bilimsel ilerleme ile devlet denetimi arasındaki çizgi, bu dönemde kalınlaştığı kadar bulanıklaştı.\n\nAyrıca güvenlik pratiği bilimsel kültürü dönüştürdü: açık seminere dayalı paylaşımın yerini bölümlenmiş bilgi akışı aldı. Üniversite-laboratuvar ilişkileri fon ve izin rejimleriyle yeniden şekillendi. Böylece Manhattan modeli, savaş bittikten sonra bile araştırma kurumlarında \"gizlilik mi açıklık mı\" tartışmasının kalıcı çerçevesini belirledi.",
+      "accuracyNote": "Merkezler arası bilgi bölme ve güvenlik soruşturmaları güçlü kanıtlı. Filmde kişisel ilişkiler anlatı etkisi için öne çekilmiş.",
+      "whyInteresting": "Aynı sistem, bir yandan hızlı sonuç üretirken diğer yandan düşünce alanını daraltan politik bir aygıta dönüşebiliyor.",
+      "misconception": "Manhattan Projesi çoğu zaman sadece teknik deha hikayesi sanılır; oysa güvenlik rejimi günlük işleyişi doğrudan belirledi.",
+      "nextTopics": [
+        "Los Alamos",
+        "Trinity Deneyi",
+        "Oak Ridge"
+      ],
+      "sources": [
+        {
+          "url": "https://www.britannica.com/event/Manhattan-Project"
+        },
+        {
+          "url": "https://www.energy.gov/management/manhattan-project"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-146-women-workers",
+        "oppenheimer-gray-board-1954-real",
+        "tf26-148-hiroshima-context"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Oppenheimer'ın kapalı kapı atmosferi, True Frame'de Manhattan Projesi'nin kurumsal güvenlik mimarisine oturtuluyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "oppenheimer",
+        "manhattan-projesi",
+        "bilim",
+        "gizlilik-duzeni",
+        "true-frame"
+      ],
+      "spoilerNote": "Oppenheimer hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film güvenlik baskısını bireysel trajedi ekseninde yoğunlaştırıyor. Tarihsel tabloda aynı baskı, kurumun tamamına yayılan bir yönetim modeli halindeydi.",
+      "whyItMatters": "Aynı sistem, bir yandan hızlı sonuç üretirken diğer yandan düşünce alanını daraltan politik bir aygıta dönüşebiliyor.",
+      "isFlagship": false,
+      "quickRealityCheck": "Bir projeyi koruyan güvenlik düzeni ne zaman ilerlemeyi hızlandırır, ne zaman tartışma alanını daraltır?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-146-women-workers",
+      "title": "Gizli Kadın Emeği",
+      "subtitle": "Atom bombasının görünmeyen işçileri",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Bilim",
+        "Savaş",
+        "Etik"
+      ],
+      "whatWeSee": "Oppenheimer laboratuvar toplantılarını, Trinity hazırlıklarını ve kapalı kapı ardında geçen sorguları öne çıkarır. Ekranda çoğunlukla erkek fizikçiler ve askeri yetkililer görünür; Oak Ridge'deki calutron operatörleri veya Los Alamos'taki sağlık ekibi kadınları kameraya nadiren girer.",
+      "realHistory": "Manhattan Projesi on binlerce insanı istihdam etti; çoğu “atom bombası” yaptığını bilmiyordu. Oppenheimer'ın hikâyesi bilim ve siyaseti merkeze alır; fakat bombanın üretimi aynı zamanda tekrarlayan, sıkıcı ve çoğu zaman kadın ellerinden geçen emeğe dayanıyordu.\n\nOak Ridge, Tennessee'deki Y-12 tesisinde “Calutron Girls” adı verilen genç kadınlar — çoğu yeni lise mezunu — elektromanyetik ayırma cihazlarının kontrol panellerini gün boyu izledi. Uranyum-235'i zenginleştirmek için kadranları milimetrik ayarladılar. Hiroşima'ya giden uranyumun önemli bir bölümü bu işten geçti; operatörlerin çoğu amacı ancak 1945'te öğrendi.\n\nLos Alamos'ta tablo farklı ama benzerdi. Laura Fermi, Evelyne Litz ve biyolog Floy Agnes Lee gibi kadınlar kan örnekleri alarak radyasyon takibi yaptı. Chien-Shiung Wu Columbia'da izotop ayırma ve radyasyon ölçümü üzerinde çalıştı. Bunlar “dâhi bilim insanı” portresinin dışında kalan ama projeyi ayakta tutan görevlerdi.\n\nOppenheimer filminin odak seçimi anlaşılırdır: karar verenler ve tartışanlar öne çıkar. Tarihsel gerçeklik ise şudur: atom çağı yalnızca teorik denklemlerle değil, gizlilik altında çalışan binlerce kadının tekrarlayan emeğiyle de inşa edildi.",
+      "accuracyNote": "Film Los Alamos'taki entelektüel ve siyasi çatışmaya odaklanır; Oak Ridge calutron operatörleri ve çoğu teknik kadın emeği ekranda yer bulmaz. Calutron Girls'in performansının Berkeley fizikçilerini geçtiği anlatısı yaygındır; kaynaklar bunu destekler ama her karşılaştırma aynı koşullarda yapılmamış olabilir.",
+      "whyInteresting": "Oak Ridge'deki calutron operatörlerinin bir kısmı, kendilerinden daha fazla diploma sahibi erkek fizikçilerden daha verimli çalıştığı için proje yönetimini şaşırttı.",
+      "misconception": "Manhattan Projesi yalnızca birkaç dâhi erkek bilim insanının eseri sanılır; oysa uranyum zenginleştirme, sağlık takibi ve idari işlerde on binlerce kadın çalıştı.",
+      "nextTopics": [
+        "Los Alamos",
+        "Trinity Deneyi",
+        "Oak Ridge"
+      ],
+      "sources": [
+        {
+          "title": "The Calutron Girls (U.S. National Park Service)",
+          "url": "https://www.nps.gov/articles/000/the-calutron-girls.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The Calutron Girls — National Archives",
+          "url": "https://prologue.blogs.archives.gov/2023/07/19/the-calutron-girls/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Health Physics & Nuclear Medicine During the Manhattan Project (Atomic Heritage)",
+          "url": "https://www.atomicheritage.org/history/health-physics-nuclear-medicine-during-manhattan-project",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Manhattan Project (Britannica)",
+          "url": "https://www.britannica.com/event/Manhattan-Project",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "oppenheimer-gray-board-1954-real",
+        "tf26-148-hiroshima-context",
+        "oppenheimer-science-state"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Oppenheimer karar verenleri gösterir; bu kart bombayı mümkün kılan Oak Ridge ve Los Alamos'taki kadın emeğini tamamlar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "oppenheimer",
+        "manhattan-projesi",
+        "bilim",
+        "gizli-kadin-emegi",
+        "true-frame"
+      ],
+      "spoilerNote": "Oppenheimer hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film bilim ve siyaseti merkeze alır; calutron operatörleri, sağlık görevlileri ve teknik kadın emeği görünmez kalır.",
+      "whyItMatters": "Oak Ridge'deki calutron operatörlerinin bir kısmı, kendilerinden daha fazla diploma sahibi erkek fizikçilerden daha verimli çalıştığı için proje yönetimini şaşırttı.",
+      "isFlagship": false,
+      "quickRealityCheck": "Oppenheimer'da gördüğünüz toplantılar gerçek — peki uranyumu kim, hangi panellerden geçirdi?",
+      "lastReviewedAt": "2026-06-24",
+      "reviewerNote": "Calutron Girls ve Los Alamos sağlık rolleri NPS, National Archives ve Atomic Heritage ile doğrulandı."
+    }
+  ]
+}

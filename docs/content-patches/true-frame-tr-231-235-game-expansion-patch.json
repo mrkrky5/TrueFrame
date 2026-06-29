@@ -1,0 +1,531 @@
+{
+  "patchId": "true-frame-tr-231-235-game-expansion-patch",
+  "locale": "tr",
+  "sourceChunks": [],
+  "contentRange": [
+    231,
+    235
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-new-card-generation",
+  "summary": {
+    "cardCount": 5,
+    "newCards": [
+      "tf26-231-mgs-private-military-companies",
+      "tf26-232-specops-moral-injury",
+      "tf26-233-specops-dubai-labor",
+      "tf26-234-tombraider-archaeology-looting",
+      "tf26-235-uncharted-colonial-adventure"
+    ],
+    "flagshipNewCards": [
+      "tf26-232-specops-moral-injury",
+      "tf26-234-tombraider-archaeology-looting"
+    ],
+    "standardNewCards": [
+      "tf26-231-mgs-private-military-companies",
+      "tf26-233-specops-dubai-labor",
+      "tf26-235-uncharted-colonial-adventure"
+    ],
+    "mediaFocus": [
+      "Metal Gear Solid",
+      "Spec Ops: The Line",
+      "Tomb Raider",
+      "Uncharted"
+    ],
+    "sourceUpdates": [
+      "tf26-231-mgs-private-military-companies",
+      "tf26-232-specops-moral-injury",
+      "tf26-233-specops-dubai-labor",
+      "tf26-234-tombraider-archaeology-looting",
+      "tf26-235-uncharted-colonial-adventure"
+    ],
+    "notes": [
+      "Bu batch Cursor konu havuzundaki Metal Gear Solid özel askeri şirketler, Spec Ops savaş travması/Dubai emek, Tomb Raider arkeoloji etiği ve Uncharted sömürgeci macera miti konularını kapsar.",
+      "Spec Ops moral injury ve Tomb Raider arkeoloji etiği kartları flagship olarak 400+ kelime ve ### başlıklarla yazıldı.",
+      "Savaş travması, göçmen işçi hakları ve kültürel miras konularında iddialar resmi/kurumsal kaynaklarla sınırlandırıldı."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-231-mgs-private-military-companies",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Metal Gear Solid'in özel ordu ve taşeron savaş teması, gerçek özel askeri/güvenlik şirketleri, devlet sorumluluğu ve hesap verebilirlik tartışmalarıyla bağlandı.",
+      "fields": {
+        "title": "Özel Askeri Şirketler",
+        "subtitle": "Savaş devletin işi olmaktan çıkınca",
+        "mediaType": "game",
+        "mediaTitle": "Metal Gear Solid",
+        "era": "Modern Tarih",
+        "region": "Küresel",
+        "themes": [
+          "Savaş",
+          "Hukuk",
+          "Devlet",
+          "Askeri Tarih"
+        ],
+        "whatWeSee": "Metal Gear Solid serisinde savaş çoğu zaman ulusal orduların açık çatışması gibi değil; özel birlikler, şirketleşmiş güvenlik yapıları, paralı asker ağları ve devletlerin inkâr edebildiği operasyonlar üzerinden işler. Oyun bunu casusluk gerilimi ve büyük komplo diliyle büyütür. Fakat arkasındaki temel soru gerçektir: Şiddet kullanma yetkisi devlet dışı aktörlere devredildiğinde sorumluluk kimde kalır?",
+        "realHistory": "Soğuk Savaş sonrası dönemde özel askeri ve güvenlik şirketleri çatışma alanlarında daha görünür hale geldi. Bu şirketler konvoy koruma, tesis güvenliği, eğitim, lojistik destek, istihbarat desteği ya da silahlı güvenlik gibi farklı görevler üstlenebilir. Hepsi doğrudan “paralı asker” değildir; fakat savaşın bazı işlevlerinin sözleşmeli yapılara devredilmesi, hukuk ve denetim açısından ciddi sorular doğurur.\n\nICRC ve İsviçre öncülüğünde hazırlanan Montreux Document, özel askeri ve güvenlik şirketlerinin silahlı çatışmalarda yer aldığı durumlarda devletlerin uluslararası insani hukuk ve insan hakları hukukundan doğan yükümlülüklerini hatırlatmak için oluşturuldu. Belge yeni bir yasa icat etmekten çok, mevcut sorumlulukları görünür kılar: şirketi kiralayan devlet, şirketin kayıtlı olduğu devlet ve operasyonun yürütüldüğü devlet aynı anda sorumluluk alanına girebilir.\n\nMetal Gear Solid’in abartılı özel ordu evreni bu yüzden tamamen havada değildir. Oyun, şirketleşmiş savaşın demokratik denetimden kaçma riskini dramatize eder. Gerçek dünyada mesele dev robotlar değil; sözleşmeler, yetki boşlukları, hesap sorulabilirlik ve sahada kimin kime emir verdiğidir. Savaş taşeronlaştığında kurşunu sıkan kişi ile kararı alan kurum arasındaki mesafe büyür. Bu mesafe, hukukun en çok ihtiyaç duyduğu anda bulanıklaşmasına yol açabilir.",
+        "accuracyNote": "Metal Gear Solid’deki özel ordular ve gizli operasyonlar kurgusaldır. Ancak özel askeri/güvenlik şirketlerinin çatışma alanlarındaki rolü, Montreux Document ve OHCHR raporlarında tartışılan gerçek bir hukuk ve hesap verebilirlik konusudur.",
+        "whyInteresting": "Oyun, savaşın yalnız silahlarla değil sözleşmeler, şirketler ve inkâr edilebilir operasyonlarla da yürütülebileceğini gösterir.",
+        "misconception": "Özel askeri şirketlerin tamamen hukuk dışı ya da tamamen devlet ordusuyla aynı olduğu sanılır; gerçekte statüleri, görevleri ve sorumluluk zincirleri duruma göre değişir.",
+        "nextTopics": [
+          "Karşılıklı Yok Oluş",
+          "Ahlaki Yara",
+          "Topyekûn Savaş Ekonomisi"
+        ],
+        "relatedCardIds": [
+          "tf26-230-mgs-nuclear-deterrence",
+          "tf26-223-hoi4-war-economy",
+          "tf26-211-twom-humanitarian-ethics"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "Metal Gear Solid’in özel ordu ve gölge operasyon teması, modern çatışmalarda özel askeri/güvenlik şirketleri etrafındaki hukuk ve denetim tartışmalarıyla birlikte okunabilir.",
+        "accuracyType": "inspired-by-reality",
+        "tags": [
+          "metal-gear-solid",
+          "ozel-askeri-sirketler",
+          "savas",
+          "hukuk",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun özel askeri şirketleri büyük komplo ve aksiyon diliyle büyütür; gerçek dünyada sorun daha sessiz ama daha kalıcıdır: sözleşmeli şiddetin kime hesap vereceği.",
+        "whyItMatters": "Savaşın taşeronlaşması, demokratik denetim ve insan hakları sorumluluğu açısından modern çatışmaların en zor alanlarından biridir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Bir güvenlik şirketi savaş alanında silah kullandığında sorumluluk çalışanda mı, şirkette mi, yoksa onu kiralayan devlette mi başlar?",
+        "sources": [
+          {
+            "title": "ICRC - The Montreux Document on Private Military and Security Companies",
+            "url": "https://www.icrc.org/en/publication/0996-montreux-document-private-military-and-security-companies",
+            "type": "ngo",
+            "verified": true
+          },
+          {
+            "title": "The Montreux Document - About the Montreux Document",
+            "url": "https://www.montreuxdocument.org/about/montreux-document.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "OHCHR - Access to justice, accountability and remedies for victims of mercenaries and PMSCs",
+            "url": "https://www.ohchr.org/en/documents/thematic-reports/ahrc5125-access-justice-accountability-and-remedies-victims-mercenaries",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "ICRC - The Montreux Document on Private Military and Security Companies",
+            "url": "https://www.icrc.org/en/publication/0996-montreux-document-private-military-and-security-companies",
+            "type": "ngo",
+            "verified": true
+          },
+          {
+            "title": "The Montreux Document - About the Montreux Document",
+            "url": "https://www.montreuxdocument.org/about/montreux-document.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "OHCHR - Access to justice, accountability and remedies for victims of mercenaries and PMSCs",
+            "url": "https://www.ohchr.org/en/documents/thematic-reports/ahrc5125-access-justice-accountability-and-remedies-victims-mercenaries",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-232-specops-moral-injury",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "Spec Ops: The Line, moral injury ve savaş anlatısındaki kahramanlık kalıbını kırma açısından 400+ kelimelik flagship karta dönüştürüldü.",
+      "fields": {
+        "title": "Ahlaki Yara",
+        "subtitle": "Spec Ops ve kahraman savaş anlatısının çöküşü",
+        "mediaType": "game",
+        "mediaTitle": "Spec Ops: The Line",
+        "era": "Modern Tarih",
+        "region": "Küresel",
+        "themes": [
+          "Savaş",
+          "Psikoloji",
+          "Etik",
+          "Medya"
+        ],
+        "whatWeSee": "Spec Ops: The Line, oyuncuya klasik bir askerî görev veriyor gibi başlar; fakat ilerledikçe emir, kahramanlık ve zorunlu şiddet fikrini parçalar. Dubai bir savaş alanı dekoru olmaktan çıkar, oyuncunun kendi alışkanlıklarıyla yüzleştiği bir sahneye dönüşür. Oyun, savaş travmasını yalnız korku ya da kayıp değil, yanlış yaptığını bilerek yaşamaya devam etme hali olarak düşündürür.",
+        "realHistory": "### Kahramanlık anlatısının kırılması\n\nSpec Ops: The Line, ilk bakışta tanıdık bir askerî nişancı oyunu gibi başlar: çökmüş bir Dubai, kayıp bir birlik, emir alan bir tim ve giderek sertleşen çatışmalar. Fakat oyunun asıl etkisi, oyuncuya kahramanlık hissi vermekten çok o hissi bozmasındadır. Savaş sahnesi ilerledikçe “doğru görev” ile “geri dönülmez zarar” arasındaki çizgi silinir. Bu yüzden oyun, savaş travmasını yalnız patlama, kan ve kayıp olarak değil; kişinin kendi eylemleriyle yüzleşememesi olarak kurar.\n\nGerçek dünyada bu alan “moral injury”, yani ahlaki yara kavramıyla tartışılır. U.S. VA National Center for PTSD, moral injury’i kişinin kendi değerlerine ve ahlaki inançlarına aykırı bir eyleme katılması, tanık olması ya da bunu engelleyememesi sonrasında ortaya çıkabilen psikolojik, sosyal ve bazen ruhsal sonuçlar olarak açıklar. Bu, PTSD ile aynı şey değildir; ama onunla kesişebilir. PTSD daha çok tehdit, korku ve travmatik hatıra döngüsüyle ilişkilendirilirken, ahlaki yara suçluluk, utanç, ihanete uğramışlık ve kendini affedememe duygularını merkeze alabilir.\n\n### Oyuncunun sorumluluğu\n\nSpec Ops’un önemli farkı, savaş eleştirisini yalnız karakterlere yüklememesidir. Oyuncu da nişancı oyunlarından beklediği ilerleme mantığını kullanır: hedefi temizle, emri takip et, bir sonraki çatışmaya geç. Oyun bu alışkanlığı kırarak “neden devam ettin?” sorusunu açar. Bu, gerçek savaş deneyiminin bire bir karşılığı değildir; hiçbir oyun savaşın maddi ve insani ağırlığını tam olarak taşıyamaz. Ancak oyun, savaş anlatılarındaki otomatik kahramanlık dilini sorgulatmak için etkili bir araç kullanır: eğlence olarak tüketilen şiddetin içindeki ahlaki körlüğü görünür kılar.\n\nLitz ve arkadaşlarının savaş gazileri üzerine tartıştığı moral injury çerçevesi, modern çatışmalarda askerlerin yalnız ölüm korkusuyla değil, yaptıkları ya da yapamadıkları şeylerle de yaşadığını gösterir. Bir kişinin hayatta kalması, kendini haklı hissettiği anlamına gelmez. Emir, görev ve iyi niyet bile bazı sonuçları silmez.\n\nBu noktada oyunun yaptığı şey, savaşın sonucunu yalnız haritadaki zaferle ölçen dili reddetmektir. Gerçek askerî psikoloji literatüründe de travma, sadece kişinin neye maruz kaldığıyla değil, o olaya nasıl anlam verdiğiyle ilişkilidir. Emir-komuta zinciri, grup sadakati ve hayatta kalma baskısı altında verilen kararlar, barış zamanında taşınması zor bir ahlaki yük haline gelebilir.\n\n### Savaş oyunu neyi gösterebilir?\n\nSpec Ops: The Line’ın değeri, “savaş kötüdür” gibi genel bir mesajdan daha somuttur. Oyun, kahraman shooter kalıbını içeriden bozar. Düşman net değildir, kararlar temiz değildir, başarı hissi giderek zehirlenir. Bu yapı, gerçek savaş travmasını temsil etmek için yeterli değildir; fakat savaşın popüler kültürde nasıl kolay tüketilebilir hale getirildiğini güçlü biçimde gösterir.\n\nTrue Frame açısından burada önemli olan, oyunun gerçek bir savaşı bire bir anlatması değil, gerçek bir psikolojik ve etik tartışmaya kapı açmasıdır. Ahlaki yara, savaşın yalnız bedende ve hafızada değil, kişinin kendi kimlik duygusunda da iz bıraktığını hatırlatır. Bazen travma, başına gelen şeyden değil, yaptığını düşündüğün şeyden doğar.",
+        "accuracyNote": "Spec Ops: The Line kurgusal bir çatışma anlatır. Ancak moral injury kavramı, savaşta kişinin değerleriyle çatışan eylemlere katılması, tanık olması ya da bunları engelleyememesi sonrasında oluşabilecek gerçek psikolojik/etik sonuçları tanımlamak için kullanılır.",
+        "whyInteresting": "Oyun, savaş oyunlarının alışılmış güç fantezisini kullanıp aynı anda onu suçluluk, utanç ve sorumluluk sorusuna çevirir.",
+        "misconception": "Savaş travmasının yalnız korku ve hayatta kalma şokundan doğduğu sanılır; ahlaki yara, kişinin kendi eylemiyle kurduğu ilişkinin de travmatik olabileceğini gösterir.",
+        "nextTopics": [
+          "Özel Askeri Şirketler",
+          "Hayatta Kalma Ahlakı",
+          "Dubai Göçmen Emeği"
+        ],
+        "relatedCardIds": [
+          "tf26-231-mgs-private-military-companies",
+          "tf26-211-twom-humanitarian-ethics",
+          "tf26-233-specops-dubai-labor"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "minor",
+        "mediaConnection": "Spec Ops: The Line’ın savaş anlatısını bozma biçimi, moral injury literatürü ve modern savaş travması tartışmalarıyla birlikte okunabilir.",
+        "accuracyType": "inspired-by-reality",
+        "tags": [
+          "spec-ops-the-line",
+          "savas-travmasi",
+          "moral-injury",
+          "etik",
+          "true-frame"
+        ],
+        "spoilerNote": "Oyunun tonuna ve ana temasına dair ipuçları içerir; final olaylarını ayrıntılı anlatmaz.",
+        "mediaChanged": "Oyun savaşı kahramanlık ilerlemesi gibi başlatır, sonra bu ilerlemeyi ahlaki sorumluluk ve suçluluk alanına çeker. Gerçek tartışma ise moral injury kavramıyla savaş sonrası kimlik, utanç ve değer çatışması üzerinden yürür.",
+        "whyItMatters": "Savaş anlatılarını yalnız cesaret ve başarı olarak izlemek, şiddetin kişide bıraktığı ahlaki yükü görünmez kılar.",
+        "isFlagship": true,
+        "quickRealityCheck": "Bir savaş oyununda verilen emri uygulamak neden bazen zaferden çok suçluluk hissi üretebilir?",
+        "sources": [
+          {
+            "title": "U.S. VA National Center for PTSD - Moral Injury",
+            "url": "https://www.ptsd.va.gov/professional/treat/cooccurring/moral_injury.asp",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Litz et al. - Moral Injury and Moral Repair in War Veterans",
+            "url": "https://www.ptsd.va.gov/professional/articles/article-pdf/id33165.pdf",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "U.S. VA National Center for PTSD - Moral Injury",
+            "url": "https://www.ptsd.va.gov/professional/treat/cooccurring/moral_injury.asp",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Litz et al. - Moral Injury and Moral Repair in War Veterans",
+            "url": "https://www.ptsd.va.gov/professional/articles/article-pdf/id33165.pdf",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-233-specops-dubai-labor",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Spec Ops: The Line'ın Dubai imgesi, modern Gulf/Dubai kentleşmesinin göçmen işgücü ve çalışma koşulları tartışmasıyla bağlandı.",
+      "fields": {
+        "title": "Dubai’yi Kim İnşa Etti?",
+        "subtitle": "Parlak şehir, görünmeyen emek",
+        "mediaType": "game",
+        "mediaTitle": "Spec Ops: The Line",
+        "era": "Modern Tarih",
+        "region": "Birleşik Arap Emirlikleri",
+        "themes": [
+          "Kentleşme",
+          "Emek",
+          "Ekonomi",
+          "Toplum"
+        ],
+        "whatWeSee": "Spec Ops: The Line, Dubai’yi kum fırtınasıyla yutulmuş lüks bir felaket mekânı olarak gösterir. Gökdelenler, oteller ve alışveriş merkezleri çölün içinde yıkılmış bir gelecek harabesi gibidir. Oyun bu görüntüyü savaş ve çöküş için kullanır; ama gerçek dünyada Dubai’nin yükselişi başka bir soruyu da açar: Bu parlak şehirleri kim inşa etti?",
+        "realHistory": "Dubai ve genel olarak Körfez kentleşmesi, petrol sonrası hizmet, turizm, finans ve inşaat ekonomisinin en görünür sembollerinden biri haline geldi. Gökdelenler ve mega projeler modernlik imgesi üretirken, bu projelerin arkasındaki işgücü büyük ölçüde Güney Asya ve diğer bölgelerden gelen göçmen işçilerden oluştu. Bu işçiler çoğu zaman şehir markasının dışında kalır: kartpostalda bina görünür, onu yapan emek görünmez.\n\nİnsan hakları kuruluşları, Birleşik Arap Emirlikleri’nde ve Körfez’de göçmen işçilerin kafala/sponsorluk sistemi, işe alım borçları, ücret hırsızlığı, aşırı sıcaklarda çalışma ve sınırlı örgütlenme hakkı gibi sorunlarla karşılaşabildiğini belgeler. Her işveren ya da her proje aynı değildir; fakat sistemsel sorun, işçinin yasal statüsünün işverene bağlı hale gelmesi ve itiraz kanallarının zayıflamasıdır.\n\nSpec Ops bu emeği doğrudan anlatmaz. Oyun Dubai’yi psikolojik savaş sahnesi olarak kullanır. True Frame açısından ilginç olan, bu sahnenin ardında gerçek bir kentleşme politikası bulunmasıdır. Lüks şehir imgesi, yalnız sermaye ve mimarlıkla değil, düşük görünürlüklü göçmen emekle kurulur. Çölün ortasında yükselen cam kuleler, aynı anda başarı hikâyesi ve eşitsizlik haritasıdır.",
+        "accuracyNote": "Spec Ops: The Line kurgusal bir felaket-Dubai anlatır. Kart, oyunun olaylarını gerçek kabul etmez; Dubai ve Körfez kentleşmesinin göçmen işgücü ve çalışma koşulları tartışmasına açtığı gerçek bağlamı inceler.",
+        "whyInteresting": "Bir şehrin küresel vitrin haline gelmesi, çoğu zaman o vitrinde görünmeyen işçilerin emeğine dayanır.",
+        "misconception": "Dubai gibi mega kentlerin yalnız mimari vizyon ve sermaye ile inşa edildiği sanılır; göçmen işgücü bu hikâyenin merkezindedir.",
+        "nextTopics": [
+          "Ahlaki Yara",
+          "Sanayileşme ve Emek",
+          "Şirket Egemenliği"
+        ],
+        "relatedCardIds": [
+          "tf26-232-specops-moral-injury",
+          "tf26-222-victoria3-industrial-labor",
+          "tf26-228-cyberpunk-corporate-sovereignty"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "Spec Ops: The Line’ın Dubai felaket estetiği, gerçek Dubai/Körfez kentleşmesinin göçmen emek ve çalışma koşulları tartışmasıyla yan yana okunabilir.",
+        "accuracyType": "inspired-by-reality",
+        "tags": [
+          "spec-ops-the-line",
+          "dubai",
+          "gocmen-emek",
+          "kentlesme",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun Dubai’yi çöküş ve savaş psikolojisi için kullanır; tarihsel/sosyal bağlamda aynı şehir, göçmen işgücü ve görünmeyen inşaat emeği üzerinden de okunmalıdır.",
+        "whyItMatters": "Modern şehir markaları, yalnız mimari tasarım değil emek rejimi ve eşitsizlik ilişkileriyle de kurulur.",
+        "isFlagship": false,
+        "quickRealityCheck": "Bir gökdelenin hikâyesini anlatırken mimarı mı, yatırımcıyı mı, yoksa onu inşa eden işçileri mi görüyoruz?",
+        "sources": [
+          {
+            "title": "Human Rights Watch - UAE: Migrant Worker Abuses Linked to Broader Climate Harms",
+            "url": "https://www.hrw.org/news/2023/11/21/uae-migrant-worker-abuses-linked-broader-climate-harms",
+            "type": "ngo",
+            "verified": true
+          },
+          {
+            "title": "Amnesty International - United Arab Emirates 2025/2026",
+            "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/united-arab-emirates/report-united-arab-emirates/",
+            "type": "ngo",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Human Rights Watch - UAE: Migrant Worker Abuses Linked to Broader Climate Harms",
+            "url": "https://www.hrw.org/news/2023/11/21/uae-migrant-worker-abuses-linked-broader-climate-harms",
+            "type": "ngo",
+            "verified": true
+          },
+          {
+            "title": "Amnesty International - United Arab Emirates 2025/2026",
+            "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/united-arab-emirates/report-united-arab-emirates/",
+            "type": "ngo",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-234-tombraider-archaeology-looting",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "Tomb Raider'ın arkeoloji macerası, yağma, bağlam kaybı, UNESCO 1970, ICOM Red Lists ve müze/iade tartışmaları üzerinden 400+ kelimelik flagship karta dönüştürüldü.",
+      "fields": {
+        "title": "Arkeoloji mi, Yağma mı?",
+        "subtitle": "Tomb Raider ve eserlerin gerçek etik yükü",
+        "mediaType": "game",
+        "mediaTitle": "Tomb Raider",
+        "era": "Modern Tarih",
+        "region": "Küresel",
+        "themes": [
+          "Arkeoloji",
+          "Kültürel Miras",
+          "Etik",
+          "Müzeler"
+        ],
+        "whatWeSee": "Tomb Raider’da antik mezarlar, kayıp şehirler ve tehlikeli eserler oyuncuya keşif heyecanı verir. Lara Croft bulmacaları çözer, tuzaklardan geçer ve geçmişin gizli nesnelerine ulaşır. Oyun bunu macera olarak kurar; fakat gerçek dünyada aynı sahne başka bir soruyu doğurur: Arkeoloji, değerli şeyi almak mı, yoksa geçmişin bağlamını korumak mı?",
+        "realHistory": "### Macera anlatısının sorusu\n\nTomb Raider serisi, antik mezarlar, kayıp tapınaklar ve tehlikeli eserler etrafında güçlü bir macera dili kurar. Oyuncu için keşif, bulmaca ve tehlike aynı ritimde ilerler. Lara Croft çoğu zaman geçmişi ortaya çıkaran cesur arkeolog gibi görünür. Fakat gerçek arkeoloji açısından soru daha karmaşıktır: Bir nesneyi bulmak mı önemlidir, yoksa o nesnenin bulunduğu bağlamı koruyarak anlamını anlamak mı?\n\nArkeoloji, yalnız güzel ya da değerli nesne çıkarma işi değildir. Bir objenin katmanı, çevresindeki diğer buluntular, toprağın yapısı, yerleşim düzeni ve kullanım izleri en az nesnenin kendisi kadar önemlidir. Yağma ya da kontrolsüz kazı, bu bağlamı yok eder. Geriye vitrinde etkileyici görünen ama tarihsel bilgisinin büyük kısmını kaybetmiş bir eser kalabilir. Bu yüzden modern arkeoloji, “hazine bulma” fikrinden çok kayıt, koruma ve yorum üretme disiplinidir.\n\n### Müze, pazar ve iade\n\nTomb Raider’ın popülerleştirdiği mezar/kalıntı macerası, gerçek dünyadaki kültürel miras tartışmalarına da temas eder. UNESCO’nun 1970 Sözleşmesi, kültürel varlıkların yasa dışı ithalatı, ihracatı ve mülkiyet transferini önlemeye yönelik uluslararası çerçevelerden biridir. ICOM’un Red Lists çalışmaları da hangi tür kültürel nesnelerin kaçakçılık riski altında olduğunu tanımaya yardım eder. Bu araçlar, macera hikâyelerinde genellikle görünmeyen bir gerçeği hatırlatır: eser dolaşımı çoğu zaman yalnız keşif değil, hukuk, mülkiyet ve güç meselesidir.\n\nMüzeler de bu tartışmanın dışında değildir. British Museum gibi kurumlar, koleksiyonlarındaki bazı nesneler için iade talepleri ve mülkiyet tartışmalarıyla karşılaşır. Her nesnenin hikâyesi aynı değildir; bazıları satın alınmış, bazıları bağışlanmış, bazıları sömürge, savaş ya da eşitsiz güç ilişkileri içinde yer değiştirmiştir. Bu yüzden “müzede duruyorsa korunmuştur” demek de “her müze nesnesi çalıntıdır” demek de fazla basittir. Asıl mesele provenance, yani bir nesnenin nereden geldiği ve hangi koşullarda el değiştirdiğidir.\n\nBu fark özellikle sömürgecilik ve eski eser piyasası söz konusu olduğunda büyür. Bir nesne, bulunduğu toplumdan koparıldığında yalnız yer değiştirmez; onu açıklayan dil de değişir. Yerel bir ritüel nesnesi, uzak bir vitrinde “egzotik hazine”ye dönüşebilir. Bu yüzden modern müze tartışmaları yalnız iade meselesi değil, anlatı hakkı meselesidir: Eseri kim adlandırıyor, kim sergiliyor, kim açıklıyor?\n\n### True Frame açısından\n\nTomb Raider’ı tamamen “yanlış” saymak haksız olur; seri birçok kişide arkeolojiye merak uyandırdı. Ancak oyunun sunduğu hızlı keşif ve nesne çıkarma ritmi, gerçek arkeolojinin yavaş, belgeli ve topluluklarla ilişkili doğasını gölgede bırakabilir. Gerçek arkeolog için en heyecan verici şey bazen altın bir heykel değil, sıradan bir çömlek parçasının doğru bağlamda söylediği küçük bilgidir.\n\nBu kartın derdi Lara Croft’u yargılamak değil, popüler macera imgesinin arkasındaki etik farkı göstermek. Yağma geçmişi tüketir; arkeoloji geçmişle konuşmaya çalışır. Bir mezarın kapısını açmak, tarihe yaklaşmak olabilir. Ama neyin alınacağına, neyin yerinde bırakılacağına ve kimin anlatısının merkeze konacağına karar vermek, en az bulmacayı çözmek kadar önemlidir.",
+        "accuracyNote": "Tomb Raider kurgusal mekânlar ve abartılı macera yapısı kullanır. Ancak eser kaçakçılığı, bağlam kaybı, provenance araştırması ve iade talepleri modern arkeoloji ve müze dünyasında gerçek tartışmalardır.",
+        "whyInteresting": "Oyunların en keyifli keşif anı, gerçek dünyada bazen kültürel mirasın geri dönüşsüz kaybı anlamına gelebilir.",
+        "misconception": "Arkeolojinin esas olarak hazine bulmak olduğu sanılır; modern arkeoloji için bağlam, kayıt ve koruma çoğu zaman nesnenin kendisinden daha önemlidir.",
+        "nextTopics": [
+          "Maceracı Miti",
+          "Lojistik Medeniyeti Kurar",
+          "Kara Ölüm Hafızası"
+        ],
+        "relatedCardIds": [
+          "tf26-235-uncharted-colonial-adventure",
+          "tf26-229-deathstranding-logistics",
+          "tf26-200-memory"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "none",
+        "mediaConnection": "Tomb Raider’ın mezar keşfi ve eser çıkarma fantezisi, modern arkeolojinin bağlam koruma, kaçakçılık ve müze iadesi tartışmalarıyla birlikte okunabilir.",
+        "accuracyType": "inspired-by-reality",
+        "tags": [
+          "tomb-raider",
+          "arkeoloji",
+          "kulturel-miras",
+          "eser-iadesi",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun arkeolojiyi hızlı keşif ve değerli nesne bulma ritmiyle verir; gerçek dünyada aynı alan belge, bağlam, yerel topluluklar ve mülkiyet tartışmalarıyla ilerler.",
+        "whyItMatters": "Kültürel miras, yalnız geçmişe ait nesneler değil, bugün kimin geçmişi anlatma hakkına sahip olduğu sorusudur.",
+        "isFlagship": true,
+        "quickRealityCheck": "Bir eseri müzeye taşımak onu kurtarmak mı, yoksa bağlamından koparmak mı?",
+        "sources": [
+          {
+            "title": "UNESCO - 1970 Convention on Illicit Import, Export and Transfer of Ownership of Cultural Property",
+            "url": "https://www.unesco.org/en/legal-affairs/convention-means-prohibiting-and-preventing-illicit-import-export-and-transfer-ownership-cultural",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "ICOM - Red Lists of Cultural Objects at Risk",
+            "url": "https://icom.museum/en/red-lists/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "British Museum - Contested Objects from the Collection",
+            "url": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "UNESCO - 1970 Convention on Illicit Import, Export and Transfer of Ownership of Cultural Property",
+            "url": "https://www.unesco.org/en/legal-affairs/convention-means-prohibiting-and-preventing-illicit-import-export-and-transfer-ownership-cultural",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "ICOM - Red Lists of Cultural Objects at Risk",
+            "url": "https://icom.museum/en/red-lists/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "British Museum - Contested Objects from the Collection",
+            "url": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-235-uncharted-colonial-adventure",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Uncharted'ın kayıp şehir ve hazine macerası, El Dorado miti, Muisca ritüeli ve Avrupa keşif/yağma hayal gücüyle bağlandı.",
+      "fields": {
+        "title": "Maceracı Miti",
+        "subtitle": "Kayıp şehir arayışı ve sömürgeci bakış",
+        "mediaType": "game",
+        "mediaTitle": "Uncharted",
+        "era": "Erken Modern",
+        "region": "Amerika",
+        "themes": [
+          "Keşif",
+          "Sömürgecilik",
+          "Arkeoloji",
+          "Mit"
+        ],
+        "whatWeSee": "Uncharted serisi, kayıp şehirleri, gizli hazineleri ve haritadan silinmiş uygarlıkları hızlı tempolu macera olarak sunar. Oyuncu için amaç ipuçlarını takip etmek, rakipleri geçmek ve tarihin sakladığı büyük sırrı bulmaktır. Bu yapı eğlencelidir; fakat “kayıp hazine” fikrinin gerçek dünyada nasıl üretildiğini sormadan eksik kalır.",
+        "realHistory": "Avrupa keşif çağında Amerika kıtası çoğu zaman zenginlik, altın ve “keşfedilmeyi bekleyen” boş alan gibi hayal edildi. El Dorado miti bunun en güçlü örneklerinden biridir. National Geographic’in özetlediği gibi mitin köklerinde, bugünkü Kolombiya’da Muisca toplumuyla ilişkilendirilen altın tozu ve Lake Guatavita çevresindeki ritüel anlatıları bulunur. Fakat Avrupa hayal gücü bu sınırlı ritüel bilgisini zamanla “altın şehir” arayışına dönüştürdü.\n\nBu dönüşüm masum değildi. Hazine arayışı, yerel toplumların inançlarını, eserlerini ve topraklarını Avrupa merkezli bir macera sahnesine çevirdi. Muisca Raft gibi nesneler bugün bu ritüel dünyasının izlerini taşır; fakat aynı zamanda “El Dorado” efsanesinin nasıl nesne, altın ve yağma arzusuna indirgenebildiğini gösterir.\n\nUncharted bu tarihi bire bir anlatmaz; daha çok kayıp şehir macerasının modern popüler mirasını kullanır. True Frame açısından önemli nokta şudur: “Kayıp” denen yerler çoğu zaman birileri için hiç kayıp değildi. Onlar yaşayan toplulukların hafızasında, ritüelinde ya da coğrafyasında zaten vardı. Maceracı miti, keşfi kahramanlık gibi gösterirken, kimin bilgisinin yok sayıldığını kolayca unutturur.",
+        "accuracyNote": "Uncharted kurgusal hazine ve kayıp şehir anlatıları kurar. Kart, belirli bir oyundaki mekânı gerçek kabul etmez; El Dorado ve benzeri Avrupa keşif mitlerinin sömürgeci hayal gücüyle nasıl büyüdüğünü açıklar.",
+        "whyInteresting": "Kayıp şehir macerası, çoğu zaman yerel toplumların bildiği dünyayı Avrupa’nın bulduğu anda var olmuş gibi anlatır.",
+        "misconception": "El Dorado’nun baştan beri gerçek bir altın şehir olduğu sanılır; kökleri daha sınırlı bir ritüel ve Avrupa altın arzusunun büyüttüğü bir mite dayanır.",
+        "nextTopics": [
+          "Arkeoloji mi, Yağma mı?",
+          "Korsanlar Cumhuriyeti",
+          "Merkantilizm ve Erken Sömürgecilik"
+        ],
+        "relatedCardIds": [
+          "tf26-234-tombraider-archaeology-looting",
+          "tf26-201-ac4-republic-of-pirates",
+          "tf26-221-eu4-mercantilism-colonialism"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "Uncharted’ın kayıp şehir ve hazine macerası, El Dorado miti ve Avrupa keşif/sömürgecilik hayal gücüyle birlikte okunabilir.",
+        "accuracyType": "inspired-by-reality",
+        "tags": [
+          "uncharted",
+          "el-dorado",
+          "somurgecilik",
+          "maceraci-miti",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun kayıp şehir arayışını kişisel macera ve aksiyon olarak kurar; tarihsel bağlamda aynı anlatı, Avrupa altın arzusu ve yerel bilginin silinmesiyle ilişkilidir.",
+        "whyItMatters": "Maceracı anlatılar, keşif heyecanı üretirken sömürgeci bakışın hangi bilgileri görünmez kıldığını da yeniden üretebilir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Bir yer Avrupa haritalarında görünmedi diye gerçekten kayıp mıydı?",
+        "sources": [
+          {
+            "title": "National Geographic - The Real History Behind El Dorado",
+            "url": "https://www.nationalgeographic.com/history/article/el-dorado",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Smarthistory - Muisca Raft",
+            "url": "https://smarthistory.org/muisca-raft/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "UNESCO - 1970 Convention on Illicit Import, Export and Transfer of Ownership of Cultural Property",
+            "url": "https://www.unesco.org/en/legal-affairs/convention-means-prohibiting-and-preventing-illicit-import-export-and-transfer-ownership-cultural",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "National Geographic - The Real History Behind El Dorado",
+            "url": "https://www.nationalgeographic.com/history/article/el-dorado",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Smarthistory - Muisca Raft",
+            "url": "https://smarthistory.org/muisca-raft/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "UNESCO - 1970 Convention on Illicit Import, Export and Transfer of Ownership of Cultural Property",
+            "url": "https://www.unesco.org/en/legal-affairs/convention-means-prohibiting-and-preventing-illicit-import-export-and-transfer-ownership-cultural",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

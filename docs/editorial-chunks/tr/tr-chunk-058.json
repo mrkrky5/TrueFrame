@@ -1,0 +1,293 @@
+{
+  "locale": "tr",
+  "chunkIndex": 58,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-089-enslaved-labor",
+      "title": "Köle Emeği",
+      "subtitle": "Bir sahnenin sakladığı sistem",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Erken Modern",
+      "region": "Karayipler",
+      "themes": [
+        "Denizcilik",
+        "Suç",
+        "Ticaret"
+      ],
+      "whatWeSee": "Pirates of the Caribbean Karayip'te köleleştirilmiş emek, plantasyonlar ve ticaret yollarını arka planda gösterir. Korsanlık özgürlük miti ile kölelik gerçeği çarpışır. Kadrajda şeker plantasyonunda zorla çalıştırılan bedenler, limanda yüklenen variller ve uzaktaki zengin tüccar masaları sömürünün bağlantılı zincirini açık ediyor.",
+      "realHistory": "17.-18. yüzyıl Karayip ekonomisi köleleştirilmiş Afrika emeğine dayanıyordu. Şeker, tütün ve kahve plantasyonları Atlantik köle ticaretiyle beslendi. Korsanlar bazen köle gemilerini hedef aldı ama aynı zamanda köleleştirilmiş insanları da yağmaladı veya sattı. Port Royal ve Nassau korsan üsleri bu ekonominin kenarında büyüdü. PotC özgürlük romantizmi sunar; tarihsel kayıtlar köle emeğinin Karayip zenginliğinin temeli olduğunu gösterir. Korsan 'özgürlüğü' çoğu zaman beyaz denizciler içindi. Karayiplerde korsanlıkla iç içe anılan liman ekonomileri, gerçekte şeker plantasyonlarına dayanan köleleştirilmiş emek düzeniyle ayakta duruyordu. Afrika'dan zorla taşınan insanlar, ağır çalışma rejimi ve yüksek ölüm oranları altında üretimi sürdürmeye zorlandı. Liman depoları, sigorta şirketleri ve Avrupa finans ağları bu emeğin yarattığı değeri küresel dolaşıma soktu. Kaçışlar, maroon toplulukları ve gemi isyanları sistemin sürekli çatlaklar verdiğini gösterdi. Deniz macerası anlatılarının gölgesinde kalan bu gerçek, Atlantik refahının büyük bölümünün zorla çalıştırma üzerine kurulduğunu ortaya koyar. Köle Emeği 17.-18. Plantasyon ekonomisinde çalışma günleri gün doğumundan geceye uzanıyor, bedensel ceza üretim disiplininin kurumsal aracı olarak kullanılıyordu. Şeker rafinerileriyle liman depoları arasındaki kredi zinciri zorla emeği küresel finansa bağladı. Kaçış toplulukları, gemi isyanları ve sabotaj girişimleri, bu acımasız düzenin sürekli direnişle karşılaştığını gösterdi.",
+      "accuracyNote": "Köle ticareti hacmi transatlantic slave trade kayıtlarıyla belgelenmiştir.",
+      "whyInteresting": "Aynı deniz hem özgürlük hem zincir taşıdı.",
+      "misconception": "Korsanlar köle sistemiyle hiç ilişkili değildi; ticaret yollarını paylaştılar.",
+      "nextTopics": [
+        "Privateer Gerçeği",
+        "Karasakal Efsanesi",
+        "Korsan Kuralları"
+      ],
+      "sources": [
+        {
+          "title": "Atlantic slave trade (Britannica)",
+          "url": "https://www.britannica.com/topic/Atlantic-slave-trade",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Caribbean slavery (Britannica)",
+          "url": "https://www.britannica.com/place/Caribbean/Plantation-economy",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Transatlantic Slave Trade (UNESCO)",
+          "url": "https://www.unesco.org/en/slave-route",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-090-pirate-democracy",
+        "tf26-087-naval-punishment",
+        "tf26-088-maps-navigation"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "PotC Karayip limanları ile Atlantik köle ticareti ve plantasyon ekonomisi.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "korsanlik",
+        "karayipler",
+        "denizcilik",
+        "kole-emegi",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "Pirates of the Caribbean hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Disney köleliği arka plana iter; gerçekte plantasyon ekonomisi bölgenin motoruydu.",
+      "whyItMatters": "Aynı deniz hem özgürlük hem zincir taşıdı.",
+      "isFlagship": false,
+      "quickRealityCheck": "Korsan özgürlük miti hangi emek sistemini gizler?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-090-pirate-democracy",
+      "title": "Korsan Demokrasisi",
+      "subtitle": "Korsan Demokrasisi neden önemli?",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Erken Modern",
+      "region": "Karayipler",
+      "themes": [
+        "Denizcilik",
+        "Suç",
+        "Ticaret"
+      ],
+      "whatWeSee": "Pirates of the Caribbean korsan meclisini renkli bir anarşi gibi sunar; karar alma kuralları ve paylaşım maddeleri eğlence lehine sadeleşir.",
+      "realHistory": "17. ve 18. yüzyıl Atlantik korsanlığında gemi içi düzen, popüler kültürdeki kaotik görüntüden daha kurallıydı. Birçok korsan gemisinde 'articles' denen yazılı ya da sözlü maddeler bulunur; ganimet paylaşımı, yaralanma tazminatı, nöbet disiplini ve ceza usulleri bu maddelerle belirlenirdi. Kaptan, saldırı anında geniş yetkiye sahip olsa da günlük yönetimde çeyrek subay ve mürettebat meclisi denge unsuruydu.\n\nBu düzenin demokrasiye benzeyen yönü vardı: kaptan seçimle belirlenebilir, memnuniyetsizlik halinde görevden alınabilirdi. Ancak bu, modern eşit yurttaşlık demokrasisi değildi. Kadınlar ve köleleştirilmiş insanlar çoğunlukla sistem dışındaydı; şiddet ve zor kullanımı gemi ekonomisinin parçasıydı. Yine de denizcilik emeği açısından bakıldığında, dönemin ticaret ve donanma gemilerindeki sert hiyerarşiye karşı daha müzakereci bir model sunduğu görülür.\n\nPotC evreni bu gerçeğin görsel izlerini taşır: meclis, kod, kaptanlık çekişmesi. Fakat sinema dili ritim için kurum ayrıntısını kısar. Tarihsel belgeler ise korsan gemilerinin hukuksuz boşlukta değil, kendine özgü bir norm seti içinde işlediğini gösterir. Bu da korsanlığı yalnızca romantik isyan değil; emek, risk ve pay müzakeresi olarak okumayı mümkün kılar.\n\nKorsan gemilerindeki paylaşım maddeleri, yaralanma riskini dengelemek için ayrıntılı ödeme tablosu içerebilirdi. Kolunu kaybeden, gözünü kaybeden ya da kalıcı sakatlık yaşayan denizcilere farklı tazminatlar yazılırdı. Bu yaklaşım modern sigorta sistemine benzemese de emek riskinin ortaklaştırılması açısından dikkat çekicidir. Aynı zamanda kaptan otoritesinin sınırlandırılması, mürettebatın keyfi şiddete karşı asgari güvence talep ettiğini gösterir. Kısacası korsan meclisi romantik bir sahne olmaktan çok, zor koşullarda ayakta kalma sözleşmesidir.",
+      "accuracyNote": "Filmdeki korsan meclisi tarihsel esin taşır; gerçek belgelerde kurallar daha katı, ekonomi daha acımasızdır.",
+      "whyInteresting": "Korsan Demokrasisi üzerinden bakınca sahnedeki atmosfer, Karayipler, Port Royal ve Atlantik limanları çevresindeki gerçek kurum ve alışkanlıklarla bağ kurar.",
+      "misconception": "Korsan Demokrasisi konusunun tek bir basit açıklamayla çözüldüğü sanılır. Kaynaklar, bu basit anlatının arkasında daha karmaşık bir düzen olduğunu gösterir.",
+      "nextTopics": [
+        "Privateer Gerçeği",
+        "Karasakal Efsanesi",
+        "Korsan Kuralları"
+      ],
+      "sources": [
+        {
+          "title": "Royal Museums Greenwich - Pirate articles",
+          "url": "https://www.rmg.co.uk/stories/topics/pirate-code",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Piracy",
+          "url": "https://www.britannica.com/topic/piracy",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "National Maritime Museum resources",
+          "url": "https://www.rmg.co.uk/collections/topics/pirates",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-088-maps-navigation",
+        "tf26-089-enslaved-labor"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Korsan Demokrasisi: Pirates of the Caribbean atmosferi ile arşivlerin anlattığı düzen arasındaki fark.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "korsanlik",
+        "karayipler",
+        "denizcilik",
+        "korsan-demokrasisi",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "Pirates of the Caribbean hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Korsan Demokrasisi ekranda daha net bir odak kazanır; karakterlerin yolu, mekân seçimi ve çatışma ritmi bu konuyu kolay takip edilir kılar. Tarihte aynı başlık, Altın Çağ korsanlığı ve imparatorluk rekabeti gibi daha uzun süreçlerin içinde ilerler.",
+      "whyItMatters": "Korsan Demokrasisi üzerinden bakınca sahnedeki atmosfer, Karayipler, Port Royal ve Atlantik limanları çevresindeki gerçek kurum ve alışkanlıklarla bağ kurar.",
+      "isFlagship": false,
+      "quickRealityCheck": "Korsan gemilerinde özgürlük, kuralsızlık değil; riskin paylaşımı için yazılmış maddelerdi.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-091-bastille",
+      "title": "Bastille Günü",
+      "subtitle": "Bastille Günü: görünenden fazlası",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Unity",
+      "era": "Modern Tarih",
+      "region": "Fransa",
+      "themes": [
+        "Devrim",
+        "Siyaset",
+        "Toplum"
+      ],
+      "whatWeSee": "Assassin's Creed Unity'de Bastille çevresi bir anda patlayan kalabalık öfkesi olarak görünür. Oyuncu, sokakta yürürken tarihin kırıldığı ana tanık olur. Bu anlatım güçlüdür ama olay tek günlük bir taşkınlık değildir; arkasında ekmek fiyatı krizi, silah arayışı, belediye gücü ve meclis meşruiyeti tartışması vardır.",
+      "realHistory": "14 Temmuz 1789'da Bastille'e yürüyen Parisliler yalnızca sembolik bir hedef aramıyordu; öncelikli ihtiyaç barut ve mühimmattı. Öncesinde mali çöküş, kötü hasat, pahalı ekmek ve kralın asker yığması şehirde büyük korku yaratmıştı. Üçüncü Sınıf temsilcilerinin Ulusal Meclis'e dönüşmesiyle egemenlik tartışması açılmış, merkezi otorite ile Paris halkı arasında gerilim yükselmişti. Halk önce Hotel des Invalides'ten silah topladı, ardından barut için Bastille'e yöneldi.\n\nKaledeki mahkum sayısı çok düşüktü, askeri değeri de abartıldığı kadar yüksek değildi. Yine de Bastille, keyfi tutuklama yetkisini simgeleyen bir monarşi sembolüydü. Müzakereler çöktüğünde çatışma çıktı; vali de Launay öldürüldü. Bu olay Paris komününün ve Ulusal Muhafızların güçlenmesini hızlandırdı, kırsalda Grande Peur denilen panik dalgasını tetikledi. Devrimin sosyal coğrafyası bu günle birlikte genişledi.\n\nBastille Günü bu yüzden hem madde hem sembol tarihidir: barut arayışı kadar meşruiyet krizi de belirleyicidir. Devrimin tamamı bu güne indirgenemez, ancak halk egemenliğinin görünürleştiği kritik eşiklerden biridir. Bastille sonrasında Paris belediye yapısının hızla yeniden örgütlenmesi, devrimin sadece yıkım değil kurumsal yeniden inşa süreci olduğunu gösterir. Kent milislerinin Ulusal Muhafız çatısında toplanması, sokak gücünün yeni bir siyasal otoriteye çevrilmesini sağladı. Böylece halk hareketi, geçici öfkeden kalıcı idari dönüşüme evrildi. Sonuçta sembol yıkımı, yeni yönetim biçiminin başlangıç eşiğine dönüştü.",
+      "accuracyNote": "Olayın varlığı ve ana çerçevesi doğrudur. Ancak zamanlama ve aktör ilişkileri oyun temposu için sadeleştirilmiştir.",
+      "whyInteresting": "Askeri önemi sınırlı bir yapının, rejim krizinde tüm sistemin simgesine dönüşmesi devrim tarihinin en çarpıcı örneklerindendir.",
+      "misconception": "Bastille'de yüzlerce siyasi mahkum bulunduğu düşünülür. Oysa sembolik etki, gerçek mahkum sayısından çok daha büyüktü.",
+      "nextTopics": [
+        "Ekmek Fiyatları",
+        "Etats Generaux",
+        "Haklar Bildirisi"
+      ],
+      "sources": [
+        {
+          "title": "Storming of the Bastille (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/event/Storming-of-the-Bastille",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "French Revolution Collections (BnF)",
+          "url": "https://www.bnf.fr/en/french-revolution",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "French Revolution resources (National Archives UK)",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/french-revolution/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "ac-unity-revolution",
+        "tf26-093-estates-general",
+        "tf26-094-declaration-rights"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Unity'nin Bastille sahneleri, 1789 Paris'indeki ekmek krizi ve barut arayışı bağlamında daha doğru okunur.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "fransiz-devrimi",
+        "paris",
+        "devrim",
+        "bastille-gunu",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun olayı sokak çatışmasına yoğunlaştırır. Tarihteyse belediye siyaseti, barut sorunu, ulusal meclis krizi ve sembolik iktidar aynı anda çalışır.",
+      "whyItMatters": "Askeri önemi sınırlı bir yapının, rejim krizinde tüm sistemin simgesine dönüşmesi devrim tarihinin en çarpıcı örneklerindendir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Bastille'e yürüyen kalabalığın acil hedefi neden doğrudan mahkumları kurtarmak değildi?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-093-estates-general",
+      "title": "Etats Generaux",
+      "subtitle": "Küçük ayrıntı, büyük tarih",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Unity",
+      "era": "Modern Tarih",
+      "region": "Fransa",
+      "themes": [
+        "Devrim",
+        "Siyaset",
+        "Toplum"
+      ],
+      "whatWeSee": "Assassin's Creed Unity, Etats Generaux'yu sokak öfkesiyle saray krizinin birleştiği dönüm noktası olarak hissettiriyor. Kalabalıklar arttıkça kurumun açılması devrimin tetikleyici düğmesi gibi görünüyor. Oyuncu meclis prosedüründen çok patlamak üzere olan toplumsal basıncı görüyor; kararlar teknik değil kader belirleyen hamleler gibi akıyor.",
+      "realHistory": "Etats Generaux, Fransa'da ruhban, soylular ve üçüncü sınıfı temsil eden eski meclis biçimiydi ve 1614'ten sonra toplanmamıştı. 1789'da yeniden çağrılması, monarşinin ağır mali krizini çözememesinden kaynaklandı. Savaş borçları, vergi adaletsizliği ve tahsilat tıkanması kraliyeti kredi bulamaz hale getirdi. Toplantının merkezi gerilimi oy usulündeydi: sınıf başına bir oy sistemi, nüfusun çoğunu temsil eden üçüncü sınıfı etkisiz bırakıyordu. Üçüncü sınıf kişi başına oy ve birleşik oylama talep etti; uzlaşma çıkmayınca kendisini Ulusal Meclis ilan etti. Tennis Court Oath, temsil krizini doğrudan egemenlik krizine çevirdi. Ardından Bastille'in düşüşü, kırsal ayaklanmalar ve feodal hakların kaldırılması gibi zincir gelişmeler geldi. Köylülerin vergi ve yükümlülük kayıtlarını hedef alması, hukuki düzenin tabanda da reddedildiğini gösterdi. Bu yüzden Etats Generaux sadece bir tören açılışı değil, eski rejimin kendi kuralları içinde meşruiyet üretemediği kırılma anıdır. Unity'nin verdiği devrim temposu doğru bir duygu üretir, ancak tarihsel dönüşümün motoru yalnız Paris sokakları değil, kamu maliyesi, temsil ilkesi ve usul tartışmalarıydı. Teknik görünen bir oylama biçimi, modern egemenlik fikrinin yönünü değiştiren büyük bir siyasal kopuşa dönüştü. Cahiers de doleances adı verilen şikayet defterleri de bu dönemde yerel taleplerin ulusal siyasete taşınmasında etkili oldu. Böylece temsil tartışması sadece seçkinler arasında değil kasaba ve köy topluluklarında da siyasal bilinç üretti.",
+      "accuracyNote": "Toplumsal gerilim doğru yansır; ancak borç krizi ve oy usulü çekişmesinin teknik detayları oyunda sınırlı kalır.",
+      "whyInteresting": "Bir oylama yöntemi tartışması, yüzyıllık monarşik meşruiyeti birkaç ay içinde çözebildi.",
+      "misconception": "Etats Generaux'nun sembolik ve etkisiz bir danışma toplantısından ibaret olduğu düşünülür.",
+      "nextTopics": [
+        "Bastille Günü",
+        "Ekmek Fiyatları",
+        "Haklar Bildirisi"
+      ],
+      "sources": [
+        {
+          "title": "Britannica - Estates-General",
+          "url": "https://www.britannica.com/topic/Estates-General",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Britannica - French Revolution",
+          "url": "https://www.britannica.com/event/French-Revolution",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Tennis Court Oath",
+          "url": "https://www.britannica.com/event/Tennis-Court-Oath",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-094-declaration-rights",
+        "tf26-095-reign-terror",
+        "tf26-096-sans-culottes"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Unity'nin devrim atmosferi, Etats Generaux'nun temsil çatışmasıyla birlikte okunduğunda daha güçlü tarihsel anlam kazanır.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "fransiz-devrimi",
+        "paris",
+        "devrim",
+        "etats-generaux",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun meclis krizini hızlı sokak gerilimiyle birleştirerek anlatıyor. Gerçekte süreci belirleyen ana kırılma, mali iflasla temsil usulü tartışmasının birleşmesiydi.",
+      "whyItMatters": "Bir oylama yöntemi tartışması, yüzyıllık monarşik meşruiyeti birkaç ay içinde çözebildi.",
+      "isFlagship": false,
+      "quickRealityCheck": "1789'da devrimi hızlandıran temel unsur neydi: yalnız sokak şiddeti mi, yoksa oy sisteminin meşruiyet krizi mi?",
+      "lastReviewedAt": "2026-06-26"
+    }
+  ]
+}

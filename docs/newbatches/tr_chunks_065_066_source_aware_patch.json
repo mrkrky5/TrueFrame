@@ -1,0 +1,350 @@
+{
+  "batch": "tr-chunks-065-066-source-aware",
+  "sourceChunks": [
+    "tr-chunk-065.json",
+    "tr-chunk-066.json"
+  ],
+  "notes": [
+    "External source-aware editorial review for Turkish chunks 065 and 066.",
+    "Only changed fields are included. Apply by id + locale.",
+    "sourceUpdates are separated from text field updates.",
+    "Flagship cards were expanded with section headings where needed."
+  ],
+  "entries": [
+    {
+      "id": "tf26-118-bounty-hunters",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Repeated blocks were removed and the card was reframed around reward notices, warrants, posses, marshals, and the market logic of frontier law enforcement rather than a purely romantic lone-gun trope.",
+      "fields": {
+        "whatWeSee": "Red Dead Redemption’da aranan afişleri, ödül avcıları ve şerifin dışındaki takipçiler, sınır hukukunun gri alanını oynanabilir hale getirir. Oyuncu bir hedefi bulur, yakalar ya da teslim eder; süreç hızlı bir kovalamaca gibi akar. Bu anlatı etkili ama gerçek ödül sistemi sadece kişisel cesaret değil, ilan, mahkeme yetkisi, yerel kolluk ve para teşvikinin birleştiği karmaşık bir düzendi.",
+        "realHistory": "19. yüzyıl Amerikan Batısı’nda ödül avcılığı, çoğu zaman kaçakların yakalanması için ilan edilen para ödüllerine ve yerel/federal yakalama yetkilerine dayanıyordu. Wanted posterları suçlamayı, hedefin tarifini, ödül miktarını ve bazen teslim koşulunu halka duyururdu. Ancak bu, her silahlı kişinin sınırsız yetkiyle dolaştığı anlamına gelmezdi; şerifler, deputy marshal’lar, posse üyeleri ve özel takipçiler arasında hukuki sınırlar değişken ve çoğu zaman tartışmalıydı.\n\nÖdül sistemi, devlet kapasitesinin seyrek olduğu bölgelerde takip maliyetini piyasaya devrediyordu. Kaçak eyalet sınırını geçtiğinde ya da yerel kolluk insan gücü yetmediğinde para teşviki işe yarayabiliyordu. Fakat aynı mekanizma kötüye kullanıma da açıktı: yanlış kişiyi yakalama, aşırı şiddet, kanunsuz infaz, rüşvet ve linç vakaları bu düzenin karanlık tarafıydı. “Dead or alive” ifadesi popüler kültürde çok büyütülse de pratikte yargı yetkisi, delil ve teslim koşulları belirleyici olmaya devam etti.\n\nRed Dead bu yapıyı oyun mekaniği olarak sadeleştirir: hedef, iz sürme, çatışma, ödül. Tarihsel tablo ise daha bürokratiktir. Ödül avcısı, resmi adaletin dışında değil; onun eksik kaldığı yerde para, yerel ağ ve şiddet kapasitesiyle devreye giren yarı-denetimli bir aktördür. Bu yüzden ödül avcılığı, sınırdaki “kanun yokluğu”ndan çok, kanunun piyasa teşvikleriyle tamamlanmaya çalışıldığı bir ara rejimi gösterir.",
+        "accuracyNote": "Wanted posterları ve ödül sistemi tarihsel temele dayanır; oyunda hukuki prosedür, eyalet farkları ve kötüye kullanım riski doğal olarak kısaltılır.",
+        "whyInteresting": "Ödül avcılığı resmi adaletin uzantısıydı; ama adalet ile para teşviki birleştiğinde sınır çizgisi hızla bulanıklaşabiliyordu.",
+        "misconception": "Ödül avcılarının tamamen bağımsız ve sınırsız yetkili silahlı kişiler olduğu sanılır.",
+        "mediaChanged": "Oyun kovalamacayı ve çatışmayı öne çıkarır; tarihsel kayıtlarda aranan kişi takibi ilan, mahkeme yetkisi, yerel kolluk ve para ödülü mekanizmasıyla birlikte işler.",
+        "whyItMatters": "Bu sistem, sınır bölgelerinde devlet kapasitesi zayıfken adaletin nasıl para, yerel güç ve şiddetle pazarlık edildiğini gösterir.",
+        "quickRealityCheck": "Wanted posterı bir hedef gösteriyordu; peki o hedefi yakalayan kişinin yetkisi nerede başlıyor, nerede bitiyordu?",
+        "reviewerNote": "Repeated paragraphs removed; the card now avoids treating bounty hunting as either pure lawlessness or fully regulated policing.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Historical Reading Room — U.S. Marshals Service",
+            "url": "https://www.usmarshals.gov/who-we-are/history/historical-reading-room",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Rewards, Bounty Hunting, and Criminal Justice in the West — Journal of the West/JSTOR",
+            "url": "https://www.jstor.org/stable/968233",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Law and Order in the American West — Library of Congress",
+            "url": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/rise-of-industrial-america-1876-1900/law-and-order-in-the-american-west/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-119-women-frontier",
+      "locale": "tr",
+      "decision": "minor-rewrite-source-cleanup",
+      "reason": "The existing card was structurally strong; the rewrite sharpens the distinction between saloon mythology and documented economic, legal, and community labor performed by frontier women.",
+      "fields": {
+        "realHistory": "19. yüzyıl Kuzey Amerika Batısı’nda kadınların deneyimi tek bir kalıba sığmaz; sınıf, etnisite, bölge, medeni hâl ve hukuki statü belirleyiciydi. Popüler kültür çoğu zaman kadınları salon figürü, kurban ya da erkek başkahramanın ahlaki pusulası olarak gösterir. Oysa kayıtlar öğretmenlik, pansiyon işletmeciliği, çamaşırcılık, çiftçilik, küçük ticaret, şifacılık, muhasebe ve yerel örgütlenme gibi geniş bir emek alanını ortaya koyar.\n\nBazı kadınlar homestead düzenlemeleri, miras ya da dul kalma yoluyla mülkiyet üzerinde söz sahibi olabildi. Mahkeme kayıtlarında borç, miras, vesayet, boşanma, ücret ve ticari anlaşmazlıklar için dava açan kadınlar görülür. Bu durum sınır toplumunun yalnız silahlı erkek hareketliliğiyle değil, ev içi emek, bakım, kredi yönetimi ve küçük işletmeler üzerinden de ayakta kaldığını gösterir.\n\nBu fırsatlar eşitlik anlamına gelmiyordu. Ücret farkı, cinsiyete dayalı şiddete karşı zayıf koruma, ırkçı hukuk düzeni ve erkek denetimli kurumlara bağımlılık yaygındı. Yerli, Siyah, Meksika kökenli ve göçmen kadınların deneyimleri daha ağır ayrımcılık biçimleriyle şekillendi. Bazı batı bölgelerinde kadınların oy hakkını erken kazanması önemliydi, fakat ekonomik kırılganlığı veya toplumsal baskıyı kendiliğinden ortadan kaldırmadı.\n\nRed Dead Redemption tehlike ve güvensizlik hissini güçlü verir; ancak tarihsel çerçeve şunu ekler: Batı’yı ayakta tutan şey yalnız erkek şiddeti değil, çoğu zaman görünmeyen kadın emeği, hukuki pazarlık ve topluluk örgütlenmesiydi.",
+        "accuracyNote": "Oyundaki risk atmosferi inandırıcıdır; fakat kadınların işletme, mülkiyet, dava ve topluluk örgütlenmesindeki geniş rolü doğal olarak sınırlı görünür.",
+        "whyInteresting": "Sınır anlatısını silahlı gösteriden çıkarıp yerleşimi ayakta tutan gündelik emek ve hukuki mücadeleye çevirir.",
+        "misconception": "Sınır kadınlarının çoğu zaman pasif refakatçi veya salon klişesi olduğu sanılır; belgeler çok daha geniş ekonomik ve hukuki roller gösterir.",
+        "mediaChanged": "Oyun kadın karakterlere alan açsa da hâlâ haydut erkekliği merkezler; tarihsel yerleşim, kadınların bakım, işletme, mülkiyet ve topluluk emeğine büyük ölçüde bağlıydı.",
+        "whyItMatters": "Batı mitini kimin kurduğu sorusu, yalnız silah taşıyanları değil kayıt tutan, işleten, dava açan ve topluluğu sürdürenleri de görünür kılar.",
+        "quickRealityCheck": "Bir sınır kasabasını gerçekten kim ayakta tutuyordu: yalnız şerifler ve haydutlar mı, yoksa işletme, bakım ve kayıt emeği yürüten kadınlar da mı?",
+        "reviewerNote": "Source set strengthened around frontier women and women’s property/commercial activity.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Women of the West — Smithsonian Magazine",
+            "url": "https://www.smithsonianmag.com/history/women-of-the-west-180958058/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Oregon National Historic Trail — National Park Service",
+            "url": "https://www.nps.gov/oreg/index.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Married Women's Property Laws and Female Commercial Activity — Journal of Economic History",
+            "url": "https://ideas.repec.org/a/cup/jechis/v56y1996i02p356-388_01.html",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-122-artillery",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Duplicated blocks were removed; the card now explains artillery as industrial firepower, creeping barrage timing, counter-battery work, logistics, and trauma instead of a simple noise backdrop.",
+      "fields": {
+        "subtitle": "Topçu ateşi: siper savaşının ritmi",
+        "realHistory": "Birinci Dünya Savaşı’nda topçu ateşi, Batı Cephesi’nin en belirleyici öldürücü gücüydü. Siperler, tel örgüler ve makineli tüfekler karşısında piyade saldırısını mümkün kılmak için günler süren hazırlık bombardımanları yapıldı. Ama bu her zaman işe yaramadı: mermiler tel örgüyü yeterince parçalayamayabiliyor, derin siper ve beton mevziler ayakta kalabiliyor, uzun bombardıman ise düşmana saldırının yaklaştığını haber verebiliyordu.\n\n1916’dan sonra topçu taktikleri daha karmaşık hale geldi. Creeping barrage denen baraj ateşi, mermi perdesinin piyadenin önünde belirli hızla ilerlemesine dayanıyordu. Zamanlama birkaç dakika şaştığında askerler kendi ateşlerinin gerisinde kalabilir ya da düşman makineli tüfekleri karşısında açıkta yakalanabilirdi. Karşı batarya ateşi, ses tespiti ve hava keşfiyle düşman toplarını bulup susturmayı hedefledi. Bu da topçuyu yalnız kaba yıkım değil, ölçüm, meteoroloji, harita ve endüstriyel üretim meselesi haline getirdi.\n\nTopçu ateşinin cephe gerisi de devasa bir lojistikti: milyonlarca mermi, demiryolu, hayvan taşıması, depo ve fabrika kapasitesi olmadan sürdürülemezdi. Aynı ses askerler için yalnız taktik değil, psikolojik yıpranma kaynağıydı. 1917 filmi bu baskıyı tek bir görev akışında yoğunlaştırır; tarihsel gerçeklikte topçu, cepheyi aylar boyunca şekillendiren sürekli bir endüstriyel şiddet düzeniydi.",
+        "accuracyNote": "Film topçu ateşinin bedensel ve işitsel baskısını güçlü verir; gerçek ölçekte topçu, mermi üretimi, keşif, meteoroloji ve lojistikle birlikte işleyen çok daha büyük bir sistemdi.",
+        "whyInteresting": "En modern savaş araçlarından biri, birkaç dakikalık zamanlama hatasıyla kendi askerlerini bile ölümcül riske atabiliyordu.",
+        "misconception": "Topçu hazırlığının siperleri otomatik olarak temizlediği sanılır; çoğu saldırıda tel, siper ve makineli tüfek direnci devam etti.",
+        "mediaChanged": "Film topçu ateşini sürekli tehdit atmosferi olarak verir; tarihsel tabloda topçu, sanayi, ölçüm ve lojistiği cephede birleştiren ana savaş teknolojisiydi.",
+        "whyItMatters": "Topçu ateşi, modern savaşta öldürücü gücün yalnız cesaretle değil üretim kapasitesi, hesap ve koordinasyonla belirlendiğini gösterir.",
+        "quickRealityCheck": "Bir hazırlık bombardımanı günlerce sürdüyse, neden saldıran piyade yine de makineli tüfek karşısında açıkta kalabiliyordu?",
+        "reviewerNote": "Repeated/templated paragraphs removed and the artillery mechanics were made more source-aware.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Weapons of the Western Front — National Army Museum",
+            "url": "https://www.nam.ac.uk/explore/weapons-western-front",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Battle of the Somme — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Battle-of-the-Somme",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Artillery II: The Creeping Barrage — Habsburger.net",
+            "url": "https://ww1.habsburger.net/en/chapters/artillery-ii-creeping-barrage-barrage-and-curtain-fire",
+            "type": "educational",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-123-no-mans-land",
+      "locale": "tr",
+      "decision": "minor-rewrite-source-cleanup",
+      "reason": "The card was already coherent; the patch improves the generic subtitle, tightens the tactical/psychological framing, and strengthens source metadata.",
+      "fields": {
+        "subtitle": "Sahipsiz bölge: birkaç yüz metrelik ölüm hattı",
+        "realHistory": "Birinci Dünya Savaşı Batı Cephesi’nde no man’s land, karşıt siper hatları arasında kalan düzensiz ve sürekli değişen ölüm alanıydı. Genişliği birkaç metreden yüzlerce metreye çıkabiliyor, topçu ateşi araziyi her gün yeniden bozuyordu. Tel örgü, kraterler, çamur, patlamamış mühimmat ve cesetler bu bölgeyi yalnız fiziksel değil, psikolojik bir eşik haline getiriyordu.\n\nBu alan tamamen “boş” değildi. Gece devriyeleri, yaralı tahliyesi, tel kesme görevleri, keşif ve bazen baskınlar burada yapılıyordu. Gündüz hareket etmek çoğu sektörde neredeyse intihardı; makineli tüfek görüş hattı ve topçu gözetimi birkaç yüz metreyi bile ölümcül hale getirebiliyordu. Komutanların haritada net gördüğü hedefler, sahada çamur, sis ve kopmuş iletişim nedeniyle çoğu zaman kayboluyordu.\n\n1917, bu alanı tek bir kesintisiz ilerleyiş hissiyle anlatır. Filmde birkaç yüz metrelik mesafe bile bedenin ve zihnin sınavına dönüşür. Tarihsel ölçekte bu doğru bir sezgidir: no man’s land, modern teknolojinin hareketi kolaylaştırmak yerine bazen tamamen kilitlediği yerdir. Asker için cesaret tek başına yetmezdi; doğru zamanlama, haberleşme, arazi bilgisi ve şans hayatta kalmanın parçasıydı.\n\nBu yüzden sahipsiz bölge bir dekor değil, endüstriyel savaşın en çıplak coğrafyasıdır. Savaşın sonucu yalnız siper içinde değil, iki siper arasındaki bu dar ve ölümcül belirsizlikte de belirleniyordu.",
+        "accuracyNote": "Film mekânsal tehlike ve iletişim kırılganlığını güçlü yakalar; görev süresi ve yoğunluğu dramatik etki için tek bir akışta sıkıştırılır.",
+        "whyInteresting": "Modern savaşta teknoloji arttıkça hareket serbestisinin artacağı düşünülür; no man’s land bunun tersini gösterir.",
+        "misconception": "Sahipsiz bölgenin boş ve denetimsiz bir alan olduğu sanılır; gerçekte sürekli gözlenen, ateş altında tutulan ve görevlerle geçilen bir ölüm hattıydı.",
+        "mediaChanged": "Film alanı tek kritik görevin sahnesi yapar; tarihsel gerçeklikte aynı risk yıllarca devriye, tahliye ve saldırı rutini olarak tekrarlandı.",
+        "whyItMatters": "Sahipsiz bölge, savaşın yalnız strateji değil arazi, iletişim ve psikolojik dayanıklılık meselesi olduğunu görünür kılar.",
+        "quickRealityCheck": "Birkaç yüz metre neden bazen günlerce süren planlama ve binlerce kayıp anlamına gelebiliyordu?",
+        "reviewerNote": "Generic subtitle replaced and source set normalized.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "What Was Trench Warfare? — Imperial War Museums",
+            "url": "https://www.iwm.org.uk/history/what-was-trench-warfare",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Life in the Trenches — National Army Museum",
+            "url": "https://www.nam.ac.uk/explore/life-trenches",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Trench Warfare — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/trench-warfare",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-124-messengers",
+      "locale": "tr",
+      "decision": "flagship-rewrite-expand",
+      "reason": "Flagship card was too short and repetitive; it was expanded with headings and a clearer communication-systems frame using runners, pigeons, damaged telephone lines, redundancy, and timing failures.",
+      "fields": {
+        "realHistory": "### Kırılan iletişim zinciri\nBirinci Dünya Savaşı siperlerinde haberleşme, teknoloji ile insan dayanıklılığının kırılgan bir birleşimiydi. Cephe gerisinden komuta merkezlerine telefon ve telgraf hatları çekiliyordu; fakat topçu ateşi, çamur, su baskını ve sürekli hareket bu hatları sık sık koparıyordu. Harita üzerinde net görünen emir zinciri, sahada birkaç dakika içinde parçalanabiliyordu. Bu yüzden cephede “haberleşme” yalnız teknik bir destek işi değil, saldırı planının hayatta kalma şartıydı.\n\nKoşucu haberciler, bisikletli ve motosikletli kuryeler, işaret fişekleri, bayraklar, lambalar ve haber güvercinleri aynı sistemin parçalarıydı. Bir emir çoğu zaman birden fazla kopyayla gönderilir, farklı rotalara ayrılan habercilerden en az birinin hedefe ulaşması beklenirdi. Bu yedekleme modern görünebilir; ama çoğu zaman son güvence hâlâ çamurun içinde koşan bir insandı.\n\n### Dakikalarla ölçülen ölüm riski\nCephede haber gecikmesi soyut bir idari sorun değildi. Topçu barajı ile piyade ilerleyişi arasındaki zamanlama bozulursa askerler kendi ateşlerinin gerisinde kalabilir, açık arazide makineli tüfeklere yakalanabilir ya da dost ateşi riski doğabilirdi. Yanlış ya da geç gelen emir, bir taburun kaderini değiştirebilirdi. Haberci bu yüzden yalnız mesaj taşıyan biri değil, topçu, piyade ve komuta arasındaki kırılgan bağın canlı halkasıydı.\n\n1917’nin tek mesaj etrafında kurduğu gerilim bu yüzden tarihsel bir gerçeğe dayanır. Filmde görev kurgusaldır; ancak mekanizma gerçektir: telefon hattı koptuğunda savaş bir anda insan bedenine, hafızasına ve rotayı bulma becerisine kalıyordu. Habercinin işi yalnız hızlı koşmak değildi; hangi siperin çöktüğünü, nerede keskin nişancı olduğunu, hangi geçidin çamura gömüldüğünü bilmek de hayatta kalma şartıydı.\n\n### Modern savaşın eski aracı\nHaber güvercinleri gibi eski yöntemlerin hâlâ kullanılması ilk bakışta çelişkili görünür. Oysa yoğun bombardıman altında bazen en basit araç en güvenilir araçtı. Kısa bir mesajı güvercinle göndermek, kopmuş tel hattını onarmaktan ya da zayıf radyo bağlantısına güvenmekten daha mümkün olabiliyordu. Köpekler, güvercinler ve insan kuryeler bu yüzden aynı iletişim ekosisteminde yer aldı.\n\nBu tablo modern savaşın paradoksunu gösterir: endüstriyel ateş gücü arttıkça, komutanın en kritik emri bazen silahsız bir askerin koşusuna ya da küçük bir hayvanın dönüş yoluna bağlı kalıyordu. Cephe habercileri kahramanlık dekoru değil, savaşın görünmeyen iletişim altyapısıdır. Onları anlamak, 1917’nin gerilimini de daha doğru okutur: mesele yalnız iki askerin cesareti değil, bütün bir ordunun kırılgan bilgi akışıdır.\n\nAyrıca haberleşme yalnız emir iletmekten ibaret değildi; keşif raporları, yaralı sayıları, cephane ihtiyacı ve düşman hareketleri de aynı kırılgan hatlardan geçiyordu. Cephe komutanı yanlış ya da eski bilgiye göre karar verdiğinde saldırı planı birkaç dakika içinde anlamını yitirebiliyordu. Bu nedenle savaşın görünmeyen kahramanları çoğu zaman harita başındaki subaylardan çok, çamurun içinde aynı mesajın ikinci ya da üçüncü kopyasını taşıyan adsız habercilerdi.",
+        "readingTimeMinutes": 3,
+        "accuracyNote": "Filmdeki özel görev kurgusaldır; fakat telefon hatlarının kopması, insan kuryeler ve güvercinler gibi yedek haberleşme yöntemleri I. Dünya Savaşı cephelerinde tarihsel karşılığa sahiptir.",
+        "whyInteresting": "En modern topçu sistemlerinin ortasında, savaşın sonucunu bazen en eski haberleşme araçları ve tek bir koşucunun hayatta kalması belirliyordu.",
+        "misconception": "I. Dünya Savaşı’nda cephede emirlerin güvenilir telefon ya da radyo ağıyla rahatça iletildiği sanılır.",
+        "mediaChanged": "Film tek mesajı dramatik motor yapar; gerçekte benzer risk, her gün binlerce emir, kopya mesaj, kurye ve yedek sinyal sistemiyle tekrarlandı.",
+        "whyItMatters": "Cephe haberleşmesini anlamak, modern savaşın yalnız silah değil koordinasyon, yedekleme ve kırılgan bilgi akışı meselesi olduğunu gösterir.",
+        "quickRealityCheck": "Telefon hattı koptuğunda cephede emir nasıl gidiyordu: yeni teknolojiyle mi, yoksa koşucu, güvercin ve işaretlerle mi?",
+        "reviewerNote": "Expanded to flagship length with ### headings and removed repeated blocks.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The British Army Entrusted Its Secrets to Birdbrains — National Army Museum",
+            "url": "https://www.nam.ac.uk/explore/british-army-entrusted-its-secrets-birdbrains",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Carrier Pigeons of the First World War — Imperial War Museums",
+            "url": "https://www.iwm.org.uk/history/first-world-war/western-front/carrier-pigeons-of-the-first-world-war",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Top Tips for Managing Your Carrier Pigeons — National WWI Museum and Memorial",
+            "url": "https://www.theworldwar.org/learn/educator-resource/top-tips-managing-your-carrier-pigeons",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-126-shell-shock",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Repeated blocks and a trailing title fragment were removed; the card now frames shell shock as a medical, military, disciplinary, and social crisis without equating it simplistically with modern PTSD.",
+      "fields": {
+        "subtitle": "Shell shock: görünmeyen cephe yarası",
+        "realHistory": "Birinci Dünya Savaşı’nda “shell shock” terimi, sürekli bombardıman, siper yaşamı, ölüm korkusu ve yorgunluk altında gelişen çok çeşitli belirtileri anlatmak için kullanılmaya başladı. Titreme, konuşma kaybı, felç benzeri durumlar, körlük, kabuslar, panik tepkileri ve savaş alanına dönememe gibi semptomlar aynı başlık altında toplandı. Dönemin tıbbı bu tabloyu tam açıklamakta zorlandı; bazı doktorlar patlama basıncı ve fiziksel hasarı, bazıları psikolojik travmayı, bazıları ise disiplin ve irade sorununu vurguladı.\n\nAskeri açıdan shell shock büyük bir komuta kriziydi. Ordular cephede insan gücüne ihtiyaç duyuyor, bu yüzden travmayı kabul etmek ile “kaçış” olarak cezalandırmak arasında sert bir gerilim yaşıyordu. Bazı askerler korkaklık veya emre itaatsizlik suçlamasıyla cezalandırıldı; aynı zamanda hastaneler ve dinlenme merkezleri tedavi yöntemleri geliştirmeye çalıştı. Craiglockhart gibi kurumlar ve W.H.R. Rivers’ın yaklaşımı, travmayı yalnız ahlaki zayıflık değil tedavi gerektiren bir savaş yarası olarak ele alan daha insani bir çerçeveyi güçlendirdi.\n\n1917 filminde travma, uzun klinik açıklamalarla değil, titreyen bedenler, suskunluk ve sürekli top sesiyle verilir. Bu sinematik tercih doğru bir duygu taşır. Tarihsel bağlam ise daha geniştir: shell shock, modern endüstriyel savaşın insan zihninde açtığı hasarı görünür kılmış ve sonraki travma araştırmalarına zemin hazırlamıştır. Bugün geriye bakarken bu olguyu doğrudan modern PTSD ile aynılaştırmak yerine, kendi dönemi içindeki tıbbi belirsizlik, damgalanma ve askeri baskı içinde okumak gerekir.",
+        "accuracyNote": "Shell shock belgelenmiş büyük bir tıbbi ve askeri krizdir; film belirli bir vaka dosyası anlatmaz, travmayı atmosfer ve davranış üzerinden gösterir.",
+        "whyInteresting": "Aynı semptomlar bir asker için hastalık, komutan için disiplin sorunu, doktor için ise henüz tam tanımlanmamış bir modern savaş yarası olabiliyordu.",
+        "misconception": "Savaş travmasının yeni bir icat olduğu ya da I. Dünya Savaşı’nda yalnız korkaklık sayıldığı sanılır; gerçek daha karmaşıktır.",
+        "mediaChanged": "Film travmayı anlık görüntülerle verir; tarihsel kayıtlar tedavi, damgalanma, cezalandırma ve uzun süreli psikolojik hasar süreçlerini gösterir.",
+        "whyItMatters": "Shell shock, modern savaşın yalnız bedeni değil zihni de kitlesel ölçekte yaraladığını kabul etmeye zorlayan tarihsel kırılmalardan biridir.",
+        "quickRealityCheck": "Bir asker konuşamaz, titrer ya da cepheye dönemeyecek hale gelirse, bu 1917’de hastalık mı sayılıyordu, yoksa disiplin sorunu mu?",
+        "reviewerNote": "Trailing duplicated title removed; PTSD comparison softened to avoid anachronism.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Shell Shock Cases — The National Archives",
+            "url": "https://www.nationalarchives.gov.uk/education/resources/medicine-on-the-western-front-part-two/shell-shock-cases/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "War Office Report on Shell Shock — The National Archives",
+            "url": "https://www.nationalarchives.gov.uk/education/resources/medicine-on-the-western-front-part-two/war-office-report-on-shell-shock/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Voices of the First World War: Shell Shock — Imperial War Museums",
+            "url": "https://www.iwm.org.uk/podcasts/voices-of-the-first-world-war/ep-33-shell-shock",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-127-colonial-troops",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "The card incorrectly implied that the film does not directly show colonial soldiers; the rewrite corrects this and frames the brief representation against the wider imperial manpower system.",
+      "fields": {
+        "whatWeSee": "1917, odağını iki İngiliz askerin görevine verir; ama film içinde Britanya ordusunun yalnız İngilizlerden oluşmadığını hatırlatan kısa görüntüler de vardır. Farklı aksanlar, farklı üniformalar ve cephede yan yana ilerleyen askerler, imparatorluk ordusunun çok uluslu yapısını sezdirir. Yine de sömürge birliklerinin deneyimi filmin merkezinde değildir; kamera daha çok ana görevin bireysel gerilimine bağlı kalır.",
+        "realHistory": "Birinci Dünya Savaşı, yalnız Avrupa devletlerinin savaşı değildi; imparatorlukların insan gücü ve kaynaklarıyla yürütülen küresel bir çatışmaydı. Britanya İmparatorluğu, Hindistan’dan, Kanada’dan, Avustralya’dan, Afrika’dan, Karayipler’den ve başka bölgelerden asker, işçi ve destek personeli seferber etti. Özellikle Britanya Hindistanı’ndan yaklaşık 1,5 milyon kişinin savaş boyunca farklı cephelerde görev alması, imparatorluk savaşının ölçeğini açıkça gösterir.\n\nBu askerlerin motivasyonları tek tip değildi. Sadakat, maaş, yerel baskılar, askerlik geleneği, macera beklentisi ve siyasi hesaplar iç içe geçebiliyordu. Cephede ise eşitlikten söz etmek zordu: ırksal hiyerarşi, rütbe sınırları, iklim koşullarına yetersiz hazırlık, farklı erzak standartları ve mektup sansürü sömürge askerlerinin deneyimini belirledi. Hint birlikleri Batı Cephesi’nde soğuk, dil bariyeri ve farklı komuta kültürüyle karşılaştı; Afrika ve Karayiplerden gelenler de çoğu zaman görünmeyen lojistik ve emek rollerine itildi.\n\n1917, bu imparatorluk yapısını ana konu haline getirmez; fakat kısa karşılaşmalar bile filmin dünyasının tek uluslu olmadığını hatırlatır. Tarihsel olarak sömürge askerleri savaşın yan karakterleri değil, imparatorluk ordularının omurgasının parçasıydı. Savaş sonrası vaatlerin tutulmaması, gazilerde ve sömürge toplumlarında yeni siyasi bilinç yarattı. Bu yüzden sömürge askerleri başlığı yalnız temsil meselesi değil, savaşın imparatorluk düzenini nasıl hem kullandığını hem de aşındırdığını gösteren temel bir dosyadır.",
+        "accuracyNote": "Film ana görev için odak daraltır; tarihsel ölçekte Britanya savaş gücü, Hindistan ve diğer imparatorluk bölgelerinden gelen asker ve emekçiler olmadan eksik anlaşılır.",
+        "whyInteresting": "Aynı cephede sadakat yemini eden askerler, savaş sonrasında imparatorluk eşitsizliğini daha keskin görerek bağımsızlık siyasetinin parçası haline gelebildi.",
+        "misconception": "I. Dünya Savaşı’nın Batı Cephesi yalnız Avrupalı askerlerin savaşı gibi düşünülür.",
+        "mediaChanged": "Film bireysel görev gerilimini merkezler; tarihsel kayıtlar Britanya ordusunun çok uluslu ve sömürge kaynaklı insan gücüne ciddi biçimde dayandığını gösterir.",
+        "whyItMatters": "Sömürge askerlerini görünür kılmak, savaşın yalnız Avrupa içi bir trajedi değil imparatorluk ölçekli bir seferberlik olduğunu anlamayı sağlar.",
+        "quickRealityCheck": "Cephede gördüğümüz Britanya ordusu gerçekten tek ulustan mı oluşuyordu, yoksa imparatorluğun birçok bölgesinden gelen askerlerle mi ayakta duruyordu?",
+        "reviewerNote": "Corrected film framing and strengthened Indian Army / imperial manpower context.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Indian Army in the First World War in Photographs — Imperial War Museums",
+            "url": "https://www.iwm.org.uk/history/first-world-war/participation/indian-army-photographs",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Warfare 1914–1918: India — International Encyclopedia of the First World War",
+            "url": "https://encyclopedia.1914-1918-online.net/article/warfare-1914-1918-india/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Discovering the Fallen: South Asian Heritage Month — Commonwealth War Graves Commission",
+            "url": "https://www.cwgc.org/our-work/blog/discovering-the-fallen-for-south-asian-heritage-month/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-128-war-horses",
+      "locale": "tr",
+      "decision": "flagship-rewrite-expand",
+      "reason": "Flagship card was too short; it was expanded with headings and a clearer logistics-first frame around horses, mules, transport, veterinary support, fodder, and the last-mile problem.",
+      "fields": {
+        "realHistory": "### Endüstriyel savaşın canlı altyapısı\nI. Dünya Savaşı çoğu zaman makineli tüfek, ağır top, tank ve tel örgüyle hatırlanır. Fakat cephenin günlük işleyişi hâlâ büyük ölçüde atlara, katırlara, eşeklere ve onları ayakta tutan nalbant-veteriner ağına bağlıydı. Demiryolu malzemeyi cephe gerisine taşıyabiliyor, motorlu araçlar bazı hatlarda işe yarıyordu; ama parçalanmış yollar, kraterler, çamur ve topçu ateşi altında son kilometre çoğu zaman hayvan gücüyle aşılabiliyordu.\n\nBu hayvanlar yalnız süvari hücumları için kullanılmadı. Top çekmek, mühimmat taşımak, su ve yiyecek ulaştırmak, yaralı tahliye etmek, tel örgü ve kereste götürmek, iletişim ekipmanını cepheye taşımak gibi gündelik işler onların sırtındaydı. Bir topun susması bazen merminin bitmesinden değil, o mermiyi çamurun içinden taşıyacak hayvan zincirinin kırılmasından kaynaklanabiliyordu.\n\n### Lojistiğin görünmeyen bedeli\nAtların savaştaki rolü romantik değil, son derece maliyetliydi. Yem, su, barınak, eyer takımı, nal, veteriner bakımı ve dinlenme planı olmadan hayvan lojistiği sürdürülemezdi. Ordular yalnız asker ve silah değil, sürekli hayvan temini, yem depoları, seyyar veteriner hizmeti ve nalbant ekipleri de organize etmek zorundaydı. Cephe gerisindeki bu bakım zinciri kırıldığında en modern topçu planı bile durma noktasına gelebilirdi.\n\nHayvan kayıpları da çok büyüktü. Bombardıman, gaz, hastalık, açlık, kötü hava, panik ve aşırı çalışma atları ve katırları hızla tüketti. Yaralanan hayvanın yerini doldurmak yalnız yeni bir at bulmak değildi; onu eğitmek, cephe gürültüsüne alıştırmak, sürü davranışını yönetmek ve taşıma düzenine dahil etmek gerekiyordu. Bu da savaşın insan dışı bedelini görünür kılar.\n\n### Mit ile gerçek arasındaki fark\nPopüler anlatı savaş atını çoğu zaman asil süvari imgesiyle hatırlar. Batı Cephesi gerçekliği ise daha çok taşıma, çekme, bekleme ve tükenme hikayesidir. Süvari bazı cephelerde varlığını sürdürse de savaşın genel ritmini belirleyen şey, hayvanların lojistik kapasitesiydi. 1917 filminde atlar kısa ama sarsıcı görüntülerle belirir: çamurda, yıkıntıda, aceleyle hareket eden bir savaş dünyasının parçasıdırlar.\n\nBu küçük görüntü tarihsel olarak önemlidir; çünkü savaş sanayileşmişti ama tamamen motorize olmamıştı. Top, tren ve fabrika ne kadar modern olursa olsun, cephedeki son bağlantı çoğu zaman nal sesi, yem torbası ve veteriner çadırından geçiyordu. Savaş atları bu nedenle endüstriyel savaşın yalnız makinelerle değil, canlı emek ve bakım zincirleriyle yürüdüğünü hatırlatır.\n\nHayvan lojistiği aynı zamanda asker moralinin de parçasıydı. Birlikler atlarına isim veriyor, onlara bakım yapmak günlük düzenin parçası haline geliyordu; fakat bu bağ, savaşın acımasız tüketim mantığını durdurmuyordu. Hayvanlar hem arkadaş, hem araç, hem de harcanabilir kaynak olarak görülüyordu. Bu çelişki, modern orduların canlı varlıkları nasıl endüstriyel bir sistemin parçasına çevirdiğini göstermesi açısından önemlidir. Filmdeki kısa görüntü, bu yüzden yalnız atmosfer değil, savaşın makineleşme anlatısına karşı küçük ama doğru bir itirazdır.",
+        "readingTimeMinutes": 3,
+        "accuracyNote": "Film hayvan emeğini kısa ama doğru bir atmosferle gösterir; gerçek ölçekte bu, milyonlarca hayvanı, yem tedarikini, veteriner hizmetini, nalbant emeğini ve cephe lojistiğini kapsayan dev bir sistemdi.",
+        "whyInteresting": "En modern topçu ve demiryolu sistemleri bile cepheye yaklaştıkça çoğu zaman at, katır, yem, nal ve veteriner zincirine bağımlı hale geliyordu.",
+        "misconception": "I. Dünya Savaşı’nın tamamen motorize olduğu ve hayvan emeğinin önemsizleştiği sanılır.",
+        "mediaChanged": "Film atları atmosferik bir kanıt gibi kullanır; tarihsel ordular onları sürekli, kırılgan ve maliyetli bir lojistik altyapı olarak yönetmek zorundaydı.",
+        "whyItMatters": "Savaş atları, endüstriyel savaşın yalnız makinelerle değil, canlı emek ve bakım zincirleriyle yürüdüğünü gösterir.",
+        "quickRealityCheck": "Topçu ateşi modernse, o topların mermisini cepheye kim taşıyordu: kamyonlar mı, yoksa çoğu yerde hâlâ atlar ve katırlar mı?",
+        "reviewerNote": "Expanded to flagship length with ### headings and stronger logistics framing.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Animals and the First World War — Imperial War Museums",
+            "url": "https://www.iwm.org.uk/history/first-world-war/participation/animals",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Animals in the Military During World War I — Anzac Portal",
+            "url": "https://anzacportal.dva.gov.au/wars-and-missions/ww1/military-organisation/animals-in-military",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Horses Used in the First World War — Australian War Memorial",
+            "url": "https://www.awm.gov.au/articles/encyclopedia/horses",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

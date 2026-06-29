@@ -1,0 +1,315 @@
+{
+  "locale": "tr",
+  "chunkIndex": 26,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "medieval-knights-reality",
+      "title": "Şövalyelik: Onur mu, Yoksa Askeri Bürokrasi mi?",
+      "subtitle": "Zırhlı süvarilerin romantize edilen dünyasının gerçekleri.",
+      "mediaType": "general",
+      "mediaTitle": "Tarihi Yanılgı",
+      "mediaConnection": "Popüler kültürdeki şövalye tasvirleri.",
+      "verificationStatus": "verified",
+      "sourceQuality": "Verified sources used.",
+      "whatWeSee": "Şövalyeler, her zaman zayıfları koruyan, onur kodlarına (chivalry) sıkı sıkıya bağlı ve sadece düellolar için yaşayan parlayan zırhlı kahramanlar olarak resmedilir.",
+      "realHistory": "Şövalyelik, popüler kültürün romantize ettiği 'parlayan zırhlı kahramanlar' efsanesinden çok farklı, katı bir askeri ve idari bürokrasiydi. Bir şövalye olmak için gereken ekipman (at, tam zırh, silahlar) o kadar pahalıydı ki, sadece toprak sahibi elit bir sınıf bu yükü taşıyabiliyordu. Şövalyelerin asıl görevi sadece savaşmak değil, kendilerine verilen toprakları (fief) lord adına yönetmek, vergi toplamak ve yerel köylüler üzerinde otorite kurmaktı. O meşhur 'Şövalyelik Kanunu' (Chivalry), aslında savaşçı bir sınıfın toplum içindeki şiddetini kontrol altına almak ve onları kiliseye bağlamak için uydurulmuş bir etik çerçeveydi. Savaşlarda şövalyeler, onurlu düellolardan ziyade, düşmanın ekonomik gücünü kırmak için köyleri yağmalamak ve ikmal hatlarını kesmek gibi görevler yürütürlerdi. Şövalyelik aslında bir erdem değil, feodal sistemin en üst düzey askeri memurluğuydu.\n\nŞövalye zırhları o kadar ağırdı ki (yaklaşık 25-30 kg), bir şövalye atından düştüğünde eğer yanında yardımcısı (squire) yoksa tek başına ayağa kalkması ve savaşa devam etmesi neredeyse imkansızdı.\n\nYaygın bir izlenim, Şövalyelerin her zaman \"onur\" için savaştığı olduğudur; kayıtlar ise şövalyeler toprak, güç ve ganimet için savaşan, dönemin askeri elitleridir.",
+      "accuracyNote": "Kingdom Come: Deliverance veya filmlerde şövalyeler onur peşinde koşan figürler olarak gösterilir. Ancak tarihsel gerçeklikte bir şövalyenin en büyük korkusu, atından düşüp zırhının ağırlığıyla çaresiz kalmak ve esir düşerek ailesine ağır bir fidye yükü bindirmekti. Onur, çoğu zaman ganimet ve toprak elde etmenin diplomatik bir kılıfıydı.",
+      "whyInteresting": "Şövalye zırhları o kadar ağırdı ki (yaklaşık 25-30 kg), bir şövalye atından düştüğünde eğer yanında yardımcısı (squire) yoksa tek başına ayağa kalkması ve savaşa devam etmesi neredeyse imkansızdı.",
+      "misconception": "Şövalyelerin her zaman \"onur\" için savaştığı sanılır; oysa şövalyeler toprak, güç ve ganimet için savaşan, dönemin askeri elitleridir.",
+      "themes": [
+        "Orta Çağ",
+        "Savaş",
+        "Toplum"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "Chivalry and Medieval Warfare - British Museum",
+          "url": "https://www.britishmuseum.org/collection/medieval-knights",
+          "type": "archive"
+        },
+        {
+          "title": "The Knightly Class - Britannica",
+          "url": "https://www.britannica.com/topic/knight",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "aoe2-castles-politics",
+        "medieval-magic-vs-reason",
+        "vikings-not-only-raiders"
+      ],
+      "nextTopics": [
+        "Feodalizm",
+        "Bushido vs Chivalry",
+        "Zırh Teknolojisi"
+      ],
+      "difficulty": "medium",
+      "era": "Orta Çağ",
+      "region": "Avrupa",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "avrupa",
+        "orta-cag",
+        "savas",
+        "tarihi-yanlg",
+        "toplum"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Tarihi Yanılgı sahne diliyle konuyu yoğunlaştırır; kayıtlar ise aynı konuyu daha parçalı bir çerçevede anlatır.",
+      "whyItMatters": "Bu başlık, şövalye zırhları o kadar ağırdı ki (yaklaşık 25-30 kg), bir şövalye atından düştüğünde eğer yanında yardımcısı (squire) yoksa tek başına ayağa kalkması ve savaşa devam etmesi neredeyse imkansızdı fikrini medya anlatısından ayrı okumayı sağlar.",
+      "quickRealityCheck": "Şövalyelerin her zaman \"onur\" için savaştığı denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "ac-assassin-order-real",
+      "title": "Gerçek Haşhaşiler: Alamut’un Fedaileri",
+      "subtitle": "Efsanelerin ardındaki Nizari İsmaili Devleti.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Haşhaşiler",
+        "Orta Doğu",
+        "Siyaset"
+      ],
+      "isFlagship": false,
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "tags": [
+        "assassins-creed",
+        "hassasiler",
+        "alamut",
+        "orta-dogu"
+      ],
+      "quickRealityCheck": "Assassin's Creed'deki beyaz cübbeli 'dünya barışı' savunucuları, aslında 11. yüzyılda Orta Doğu'da hüküm süren ve siyasi suikastları bir hayatta kalma stratejisi olarak kullanan Nizari İsmaili devletidir.",
+      "mediaChanged": "Oyunlardaki 'Assassin vs Templar' ezeli savaşı kurgusaldır. Gerçek Haşhaşiler (Assassins), Haçlılarla bazen savaşmış, bazen de Selçuklulara karşı ittifak kurmuşlardır. İsimlerinin 'Haşhaş'tan gelmesi ise büyük oranda düşmanlarının (Sünni ve Haçlı kaynakları) onları karalamak için uydurduğu bir yakıştırmadır.",
+      "realHistory": "Haşhaşiler, Hasan Sabbah tarafından 1090 yılında Alamut Kalesi'nin ele geçirilmesiyle kurulan bir topluluktur. Büyük ordulara karşı koyamayacak kadar küçük bir nüfusa sahip oldukları için, düşman liderlerine yönelik suikastları bir savunma doktrini haline getirmişlerdir. Fedailer, aylar süren eğitimlerden geçer, hedef dillerini öğrenir ve düşman saraylarına sızarlardı. En ünlü hedefleri Selçuklu veziri Nizamülmülk olmuştur. Alamut, 1256 yılında Moğollar tarafından yıkılana kadar kütüphaneleri ve bilimsel çalışmalarıyla da bilinen bir merkezdi. Haçlılar, bu korkutucu toplulukla Kutsal Topraklar'da tanışmış ve 'Assassin' ismini Avrupa'ya taşıyarak bu korkunç şöhreti efsaneye dönüştürmüşlerdir.\n\nAssassin's Creed'deki dünya barışı savunucuları ile 11. yüzyılda Orta Doğu'da hüküm süren Nizari İsmaili devleti arasında derin bir uçurum vardır; bu devlet, küçük ordulara karşı siyasi suikastları hayatta kalma stratejisi olarak kullanmıştır.\n\nPopüler oyunlardaki Assassin-Templar çatışması tarihî bir gerilim değil, kurgusal bir çerçevedir; Nizari fedailer ise Haçlılarla ve Selçuklularla ilişkilerini duruma göre değiştirmişlerdir. Haşhaş adı büyük ölçüde Sünni ve Haçlı kaynaklarının karalama yakıştırmasından gelir.\n\nFedailerin eğitim süreci ve hedef seçimi, Nizari devletinin askeri zayıflığını telafi eden kurumsal bir mekanizmaydı.",
+      "whyItMatters": "Gerçek Assassins topluluğu, asimetrik savaşın tarihteki en başarılı ve disiplinli örneklerinden birini temsil eder.",
+      "sources": [
+        {
+          "title": "The Assassins (Britannica)",
+          "url": "https://www.britannica.com/topic/Assassins",
+          "type": "official"
+        },
+        {
+          "title": "Nizari Ismaili State (Oxford Research Encyclopedia)",
+          "url": "https://oxfordre.com/religion/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "ac-crusader-urban-life",
+        "ac-templar-fall"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Assassin's Creed oyunda “Gerçek Haşhaşiler: Alamut’un Fedaileri” konusunu haşhaşiler ve orta doğu ekseninde somut sahnelerle işler. Efsanelerin ardındaki Nizari İsmaili Devleti.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "rdr-pinkerton-agency",
+      "title": "Pinkerton Ajansı: Şirketlerin Özel Ordusu",
+      "subtitle": "Kanunla suç arasındaki ince çizgide bir kurum.",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Vahşi Batı",
+        "Hukuk",
+        "Şirketler"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "red-dead-redemption",
+        "pinkerton",
+        "vahsi-bati",
+        "abd"
+      ],
+      "quickRealityCheck": "Red Dead Redemption 2'deki Pinkerton ajanları sadece 'kötü adamlar' değil, 19. yüzyıl sonunda ABD'de federal polisten (FBI öncesi) daha fazla personeli ve gücü olan devasa bir özel güvenlik şirketiydi.",
+      "mediaChanged": "Oyun onları yozlaşmış avcılar gibi gösterse de, gerçek Pinkertonlar aynı zamanda Abraham Lincoln'ü korumuş ve ABD'nin ilk gizli servisi gibi çalışmışlardır. Ancak grev kırma olaylarındaki acımasızlıkları oyunun yansıttığından çok daha kanlıdır.",
+      "realHistory": "Allan Pinkerton tarafından 1850'de kurulan ajans, 'Asla Uyumayız' (We Never Sleep) sloganıyla tanınırdı. Vahşi Batı'da tren soygunlarının artmasıyla, demiryolu şirketleri tarafından kanun kaçaklarını yakalamak için tutuldular. Jesse James ve Butch Cassidy gibi isimlerin peşine düştüler. Ancak ajansın karanlık yüzü, sanayileşme döneminde ortaya çıktı. Büyük maden ve fabrika sahipleri, işçi grevlerini bastırmak ve sendikacıları sindirmek için Pinkertonları 'kiralık ordu' olarak kullandılar. 1892 Homestead Grevi'nde işçilere ateş açmaları, kamuoyunda büyük nefret toplamalarına neden oldu. Bu olaylar sonrası ABD hükümeti, özel şirketlerin kolluk kuvveti gibi çalışmasını sınırlayan 'Anti-Pinkerton Yasası'nı çıkarmak zorunda kaldı.\n\nArşiv kayıtları, 19. yüzyıl sonunda Pinkerton'un federal polisten daha geniş personel ve yetkiyle çalışan devasa bir özel güvenlik şirketi olduğunu gösterir.\n\nSinema anlatısında yozlaşmış avcılar olarak sunulsalar da, Pinkertonlar Abraham Lincoln'ü korumuş ve erken dönem gizli servis işlevleri üstlenmiştir; grev kırma olaylarındaki şiddet ise kayıtlarda daha kanlı biçimde yer alır.\n\nHomestead Grevi sonrası çıkan Anti-Pinkerton Yasası, özel güvenlik şirketlerinin devlet kolluğu gibi kullanılmasına karşı federal düzeyde ilk sınırlamalardan biri oldu. Ajansın hem Lincoln koruması hem grev kırma kayıtları, kurumun çift yüzlü rolünü belgeler.",
+      "whyItMatters": "Pinkerton Ajansı'nın yükselişi ve düşüşü, ABD'de devletin kolluk gücünün özelleşmesinin getirdiği tehlikeleri gösteren tarihi bir derstir.",
+      "sources": [
+        {
+          "title": "Pinkerton National Detective Agency (Britannica)",
+          "url": "https://www.britannica.com/topic/Pinkerton-National-Detective-Agency",
+          "type": "official"
+        },
+        {
+          "title": "The Homestead Strike (Library of Congress)",
+          "url": "https://www.loc.gov/collections/stars-and-stripes/",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "rdr2-frontier",
+        "rdr-railroads-frontier",
+        "rdr-railroad-conquest"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Red Dead Redemption oyunda “Pinkerton Ajansı: Şirketlerin Özel Ordusu” konusunu vahşi batı ve hukuk ekseninde somut sahnelerle işler. Kanunla suç arasındaki ince çizgide bir kurum.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "shogun-christian-daimyo",
+      "title": "Hristiyan Samuraylar ve Misyoner Gerilimi",
+      "subtitle": "Sengoku döneminde inanç ve güç savaşı.",
+      "mediaType": "series",
+      "mediaTitle": "Shōgun",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Japonya",
+        "Din",
+        "Siyaset"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "shogun",
+        "japonya",
+        "hristiyanlik",
+        "samuray"
+      ],
+      "quickRealityCheck": "Shōgun dizisinde gördüğümüz Hristiyan Lordlar (Lord Kiyama ve Ohno gibi), aslında Portekizli Cizvitlerden ateşli silah yardımı almak ve ticari avantaj elde etmek için din değiştiren gerçek daimyo'lara dayanmaktadır.",
+      "mediaChanged": "Dizi din değiştirmeyi daha çok bir 'komplo' gibi sunsa da, birçok daimyo için bu, barutlu silah teknolojisine (Tanegashima) erişim sağlamanın tek yoluydu.",
+      "realHistory": "1549'da misyoner Francis Xavier'in Japonya'ya gelişiyle Hristiyanlık hızla yayıldı. Kyushu adasındaki birçok daimyo, Avrupa ticaret gemilerinin kendi limanlarına uğramasını sağlamak için din değiştirdi. Ancak bu durum, Budist manastırları ve Japonya'nın geleneksel hiyerarşisiyle büyük çatışmalar doğurdu. Oda Nobunaga, Budist rahiplerin gücünü kırmak için Hristiyanlığa müsamaha gösterse de, Toyotomi Hideyoshi ve daha sonra Tokugawa Ieyasu bunu bir 'yabancı istilası tehdidi' olarak gördü. 1597'deki '26 Şehit' olayı ve ardından gelen yasaklar, Japonya'nın 200 yıl sürecek izolasyonuna (Sakoku) zemin hazırladı. Dizideki Mariko gibi karakterler, bu iki dünya arasında sıkışmış binlerce gerçek samurayın dramını temsil eder.\n\nSoruşturma ve arşiv belgeleri, shōgun dizisinde gördüğümüz Hristiyan Lordlar (Lord Kiyama ve Ohno gibi), aslında Portekizli Cizvitlerden ateşli silah yardımı almak ve ticari avantaj elde etmek için din değiştiren gerçek daimyo'lara dayanmaktadır.\n\nBu örnek Japonya'daki Hristiyanlık süreci açısından önem taşır, Doğu ve Batı kültürlerinin ilk büyük ve travmatik çarpışmasıdır.\n\nSengoku döneminde inanç ve güç savaşı sorusu, arşivlerde yalnızca üst düzey anlatılardan değil günlük uygulamalardan da yanıtlanır.\n\nTarihî kayıtlar, shōgun dizisinde gördüğümüz Hristiyan Lordlar (Lord Kiyama ve Ohno gibi), aslında Portekizli Cizvitlerden ateşli silah yardımı almak ve ticari avantaj elde etmek için din değiştiren gerçek daimyo'lara dayanmaktadır.",
+      "whyItMatters": "Japonya'daki Hristiyanlık süreci, Doğu ve Batı kültürlerinin ilk büyük ve travmatik çarpışmasıdır.",
+      "sources": [
+        {
+          "title": "Kirishitan (Britannica)",
+          "url": "https://www.britannica.com/topic/Kirishitan",
+          "type": "official"
+        },
+        {
+          "title": "Christianity in Japan (St. Andrews University)",
+          "url": "https://www.st-andrews.ac.uk/history/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "shogun-edo",
+        "shogun-trade-sakoku",
+        "shogun-hostage-politics"
+      ],
+      "spoilerNote": "Shōgun hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "Shōgun dizide “Hristiyan Samuraylar ve Misyoner Gerilimi” konusunu japonya ve din ekseninde somut sahnelerle işler. Sengoku döneminde inanç ve güç savaşı.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "ghost-mongol-navy",
+      "title": "Moğol Donanması ve İlahi Rüzgarlar",
+      "subtitle": "İmparatorluğun denize çarptığı an: Kamikaze.",
+      "mediaType": "game",
+      "mediaTitle": "Ghost of Tsushima",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Japonya",
+        "Moğollar",
+        "Denizcilik"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "ghost-of-tsushima",
+        "moollar",
+        "japonya",
+        "kamikaze",
+        "samuray"
+      ],
+      "quickRealityCheck": "Ghost of Tsushima'da Moğolların Tsushima'ya gelişi bir başlangıçtır; gerçekte Kubilay Han'ın devasa donanması, tarihin gördüğü en büyük deniz felaketlerinden birini yaşayarak 'İlahi Rüzgarlar' (Kamikaze) tarafından yok edilmiştir.",
+      "mediaChanged": "Oyun karadaki savaşa odaklanır, ancak gerçek istilanın başarısız olma nedeni samurayların kahramanlığından ziyade, Moğol gemilerinin zayıf yapısı ve aniden çıkan tayfunlardır.",
+      "realHistory": "Kubilay Han, 1274 ve 1281 yıllarında Japonya'yı işgal etmek için iki büyük filo gönderdi. İkinci filo, o güne kadar görülmüş en büyük deniz armada'larından biriydi. Ancak Moğolların bozkır kültürü denizciliğe uygun değildi; gemiler Koreli ve Çinli mühendisler tarafından aceleyle inşa edilmişti. Japon savunması karada direniş gösterirken, aniden çıkan bir tayfun (Kamikaze), Moğol filosunun %80'ini sulara gömdü. Bu olay Japonlarda 'tanrıların kendilerini koruduğu' inancını pekiştirdi. Arkeolojik sualtı araştırmaları, gemilerin perçinlerinin zayıf olduğunu ve açık deniz fırtınalarına dayanacak şekilde tasarlanmadığını doğrulamıştır.\n\nSoruşturma ve arşiv belgeleri, ghost of Tsushima'da Moğolların Tsushima'ya gelişi bir başlangıçtır; gerçekte Kubilay Han'ın devasa donanması, tarihin gördüğü en büyük deniz felaketlerinden birini yaşayarak 'İlahi Rüzgarlar' (Kamikaze) tarafından yok edilmiştir.\n\nBu örnek Moğol istilalarının başarısızlığı açısından önem taşır, Japonya'nın içe dönük ve mistik kimliğinin oluşmasında en önemli dönüm noktasıdır.\n\nİmparatorluğun denize çarptığı an: Kamikaze sorusu, arşivlerde yalnızca üst düzey anlatılardan değil günlük uygulamalardan da yanıtlanır.\n\nTarihî kayıtlar, ghost of Tsushima'da Moğolların Tsushima'ya gelişi bir başlangıçtır; gerçekte Kubilay Han'ın devasa donanması, tarihin gördüğü en büyük deniz felaketlerinden birini yaşayarak 'İlahi Rüzgarlar' (Kamikaze) tarafından yok edilmiştir.",
+      "whyItMatters": "Moğol istilalarının başarısızlığı, Japonya'nın içe dönük ve mistik kimliğinin oluşmasında en önemli dönüm noktasıdır.",
+      "sources": [
+        {
+          "title": "The Mongol Invasions (National Geographic)",
+          "url": "https://www.nationalgeographic.com/history/",
+          "type": "official"
+        },
+        {
+          "title": "Kublai Khan's Fleet (Kyushu University Research)",
+          "url": "https://www.kyushu-u.ac.jp/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "ghost-tsushima-invasion",
+        "ghost-onna-musha",
+        "ghost-samurai-reality"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Ghost of Tsushima oyunda “Moğol Donanması ve İlahi Rüzgarlar” konusunu japonya ve moğollar ekseninde somut sahnelerle işler. İmparatorluğun denize çarptığı an: Kamikaze.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "mafia-prohibition-economics",
+      "title": "İçki Yasağı ve Mafyanın Altın Çağı",
+      "subtitle": "Hukuksuzluğun ekonomisi ve speakeasy kültürü.",
+      "mediaType": "game",
+      "mediaTitle": "Mafia",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Suç",
+        "Ekonomi",
+        "ABD"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "mafia",
+        "icki-yasagi",
+        "abd",
+        "ekonomi"
+      ],
+      "quickRealityCheck": "Mafia oyunundaki alkol kaçakçılığı, 1920'lerin ABD'sinde sadece 'yeraltı ticareti' değil, vergi kaybı ve yolsuzlukla tüm devlet sistemini felç eden milyar dolarlık bir endüstriydi.",
+      "mediaChanged": "Oyunlarda içki yasağı bir 'aksiyon teması' olsa da, gerçekte bu dönem organize suçun ilk kez kurumsallaştığı ve modern kara para aklama yöntemlerinin geliştirildiği bir laboratuvardır.",
+      "realHistory": "1920'de yürürlüğe giren 18. Anayasa değişikliği (Prohibition), alkolün üretimini ve satışını yasakladı. Ancak talep azalmadı, sadece el değiştirdi. Al Capone ve Johnny Torrio gibi isimler, Kanada'dan içki getirerek ve gizli damıtma evleri kurarak devasa servetler edindiler. 'Speakeasy' denilen gizli barlar, polis rüşvetleri sayesinde şehirlerin göbeğinde çalışmaya devam etti. Bu dönemde mafya, sadece içki değil; nakliye, siyaset ve sendikalar üzerinde de kontrol kurdu. 1933'te yasak kalktığında mafya artık o kadar güçlenmişti ki, elindeki sermayeyi kumar ve uyuşturucu gibi diğer yasadışı alanlara kolayca kaydırdı.\n\nArşiv kayıtlarına göre Mafia yapımındaki alkol kaçakçılığı, 1920'lerin ABD'sinde sadece 'yeraltı ticareti' değil, vergi kaybı ve yolsuzlukla tüm devlet sistemini felç eden milyar dolarlık bir endüstriydi.\n\nBu örnek İçki Yasağı açısından önem taşır, yasakların bazen suçun büyümesine nasıl zemin hazırlayabileceğinin en trajik tarihi örneğidir.\n\nHukuksuzluğun ekonomisi ve speakeasy kültürü sorusu, arşivlerde yalnızca üst düzey anlatılardan değil günlük uygulamalardan da yanıtlanır.\n\nOyunlarda içki yasağı bir 'aksiyon teması' olsa da, gerçekte bu dönem organize suçun ilk kez kurumsallaştığı ve modern kara para aklama yöntemlerinin geliştirildiği bir laboratuvardır.",
+      "whyItMatters": "İçki Yasağı, yasakların bazen suçun büyümesine nasıl zemin hazırlayabileceğinin en trajik tarihi örneğidir.",
+      "sources": [
+        {
+          "title": "Prohibition (Britannica)",
+          "url": "https://www.britannica.com/event/Prohibition-United-States-history-1920-1933",
+          "type": "official"
+        },
+        {
+          "title": "The Rise of Organized Crime (FBI Records)",
+          "url": "https://vault.fbi.gov/",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "mafia-prohibition",
+        "mafia-immigration-crime",
+        "mafia-five-families"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Mafia oyunda “İçki Yasağı ve Mafyanın Altın Çağı” konusunu suç ve ekonomi ekseninde somut sahnelerle işler. Hukuksuzluğun ekonomisi ve speakeasy kültürü.",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

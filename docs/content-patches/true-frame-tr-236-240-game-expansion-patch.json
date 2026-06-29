@@ -1,0 +1,553 @@
+{
+  "patchId": "true-frame-tr-236-240-game-expansion-patch",
+  "locale": "tr",
+  "sourceChunks": [],
+  "contentRange": [
+    236,
+    240
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-new-card-generation",
+  "summary": {
+    "cardCount": 5,
+    "newCards": [
+      "tf26-236-plaguetale-black-death",
+      "tf26-237-plaguetale-rats-fleas",
+      "tf26-238-stalker-exclusion-zone",
+      "tf26-239-stalker-dark-tourism",
+      "tf26-240-bf1-gallipoli"
+    ],
+    "flagshipNewCards": [
+      "tf26-236-plaguetale-black-death",
+      "tf26-240-bf1-gallipoli"
+    ],
+    "standardNewCards": [
+      "tf26-237-plaguetale-rats-fleas",
+      "tf26-238-stalker-exclusion-zone",
+      "tf26-239-stalker-dark-tourism"
+    ],
+    "mediaFocus": [
+      "A Plague Tale: Innocence",
+      "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+      "Battlefield 1"
+    ],
+    "sourceUpdates": [
+      "tf26-236-plaguetale-black-death",
+      "tf26-237-plaguetale-rats-fleas",
+      "tf26-238-stalker-exclusion-zone",
+      "tf26-239-stalker-dark-tourism",
+      "tf26-240-bf1-gallipoli"
+    ],
+    "notes": [
+      "Bu batch Cursor konu havuzundaki A Plague Tale, S.T.A.L.K.E.R. ve Battlefield 1 konularını kapsar.",
+      "A Plague Tale kartları mevcut Kara Veba genel kartlarıyla çakışmaması için oyun estetiği, Y. pestis kanıtı ve fare/pire miti odağında daraltıldı.",
+      "Çernobil kartları mevcut Chernobyl dizi kartlarını tekrarlamadan S.T.A.L.K.E.R. Zone estetiği, felaket turizmi ve gerçek Yasak Bölge hafızası üzerinden yazıldı.",
+      "Battlefield 1 Gelibolu kartı flagship olarak 400+ kelime ve ### başlıklarla genişletildi."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-236-plaguetale-black-death",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "A Plague Tale'in Kara Veba atmosferi mevcut genel veba kartlarıyla çakışmayacak şekilde oyun bağlantısı, Y. pestis kanıtı, ticaret yolları ve bilgi eksikliği üzerinden ayrı bir flagship karta dönüştürüldü.",
+      "fields": {
+        "title": "Kara Ölümün Gerçek Sebebi",
+        "subtitle": "A Plague Tale ve vebanın biyolojik zemini",
+        "mediaType": "game",
+        "mediaTitle": "A Plague Tale: Innocence",
+        "era": "Orta Çağ",
+        "region": "Avrupa",
+        "themes": [
+          "Hastalık",
+          "Toplum",
+          "Bilim",
+          "Yanlış Bilinenler"
+        ],
+        "whatWeSee": "A Plague Tale: Innocence, Kara Veba’yı çocukların gözünden karanlık, çaresiz ve neredeyse doğaüstü bir felaket gibi gösterir. Fare sürüleri, hastalığın bedensel dehşeti kadar toplumun çözülmesini de taşır. Oyun, tarihsel bir salgını bire bir belgesel gibi anlatmaz; ama Orta Çağ’da ölümün nedenini bilmeden yaşamaya çalışan insanların korkusunu güçlü biçimde hissettirir.",
+        "realHistory": "### Felaketin biyolojik zemini\n\nA Plague Tale: Innocence, Kara Veba’yı karanlık sokaklar, çocukların kaçışı, dinsel panik ve neredeyse doğaüstü büyüyen fare sürüleriyle anlatır. Bu görsel dil etkileyicidir; fakat gerçek Kara Ölüm’ün nedeni “ortaçağ kirinin kendiliğinden hastalık üretmesi” ya da tek başına “farelerin saldırısı” değildir. Bugünkü güçlü bilimsel çerçeve, 1347–1351 arasındaki büyük salgının etkeninin Yersinia pestis bakterisi olduğunu gösterir. Londra’daki 1348–1350 veba mezarlarından elde edilen eski DNA çalışmaları da bu bakterinin Kara Ölüm kurbanlarında bulunduğunu doğruladı.\n\nBakteri çoğunlukla kemirgenler ve pireler arasında dolaşan bir döngüyle yayılır. Enfekte pire, uygun konak bulduğunda insanı ısırabilir ve bubonik vebaya yol açabilir. Fakat Orta Çağ salgınının yayılışını yalnız biyolojiyle açıklamak eksik kalır. Akdeniz limanları, Karadeniz ticaret bağlantıları, kervan yolları, savaş hareketleri, kalabalık kentler ve mal akışı bakterinin coğrafyasını büyüttü. Salgın bu yüzden bir “fare hikâyesi” olduğu kadar bir ulaşım ve ticaret hikâyesidir.\n\n### İnsanların gördüğü şey\n\n14. yüzyıl insanı bakteriyi bilmiyordu. Hastalık kötü hava, Tanrı’nın cezası, yıldızların konumu ya da günah diliyle açıklanıyordu. Bu yanlış açıklamalar yalnız tıbbi cehalet yaratmadı; panik, dini taşkınlık ve azınlıklara yönelik şiddet için de zemin hazırladı. A Plague Tale’in güçlü tarafı, bu belirsizlik atmosferini hissettirmesidir. Karakterler, bilimsel nedeni bilmedikleri bir felaketin içinde hareket eder; tehdit hem bedensel hem toplumsaldır.\n\nOyundaki farelerin tek bir iradeyle hareket eden karanlık dalga gibi gösterilmesi tarihsel gerçekçilikten çok korku estetiğidir. Gerçek salgında risk, görünür fare yığınlarından çok daha karmaşık bir temas ağında oluştu: pireler, kemirgen ölümleri, enfekte hayvan dokuları, bazı durumlarda pnömonik bulaş ve insanların şehirler arasında hareketi.\n\n### Bilginin yokluğu ve korku\n\nBu dönemde şehir yönetimleri ve hekimler salgını bugünkü anlamda mikrobiyolojik bir sorun olarak göremedi. Limanları kapatma, hastaları ayırma, evleri işaretleme ya da kötü kokudan kaçınma gibi uygulamalar bazen riski azaltabiliyordu; ama gerekçe çoğu zaman yanlış kuruluydu. Bu belirsizlik, hem panik hem de söylenti üretimi için çok verimli bir alan yarattı. A Plague Tale’in çocuk karakterleri de tam olarak böyle bir dünyada yaşar: ölümün sebebini kavrayamayan yetişkinler arasında, her açıklama yarım ve her otorite şüphelidir.\n\n### Neden hâlâ yanlış hatırlanıyor?\n\nKara Ölüm genellikle iki uçta anlatılır: ya tamamen “pis Orta Çağ” klişesine indirgenir ya da tek bir hayvan suçluymuş gibi basitleştirilir. Daha doğru okuma, hastalığın biyoloji ile toplumun kesiştiği yerde büyüdüğüdür. A Plague Tale bu gerçeği bire bir epidemiyoloji dersi gibi vermez; fakat salgının yalnız hastalık değil, korku, iktidar, bilgi eksikliği ve hayatta kalma meselesi olduğunu iyi yakalar. True Frame açısından önemli olan da burada başlar: ekrandaki fare karanlığı, gerçek tarihteki bakteri, ticaret, panik ve açıklama arayışının dramatik simgesidir.",
+        "accuracyNote": "Oyun, Kara Veba atmosferini ve toplumsal korkuyu güçlü verir; ancak fare sürülerinin neredeyse doğaüstü davranışı tarihsel değil dramatik bir korku dili olarak okunmalıdır. Y. pestis bağlantısı eski DNA ve modern epidemiyoloji kaynaklarıyla desteklenir.",
+        "whyInteresting": "Kara Veba’yı yalnız fare ya da kir hikâyesi değil; bakteri, ticaret, bilgi eksikliği ve toplumsal panik birleşimi olarak okumak oyunun karanlık atmosferini daha anlamlı kılar.",
+        "misconception": "Kara Veba’nın sadece kirli şehirlerden ya da tek başına farelerden yayıldığı sanılır; gerçekte Y. pestis, pire/kemirgen döngüsü, insan hareketi ve bazı durumlarda pnömonik bulaş birlikte rol oynadı.",
+        "nextTopics": [
+          "Fareler mi Suçlu?",
+          "Karantina Fikri",
+          "Salgın ve Nefret"
+        ],
+        "relatedCardIds": [
+          "tf26-237-plaguetale-rats-fleas",
+          "tf26-191-plague-spread",
+          "tf26-194-antisemitism"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "minor",
+        "mediaConnection": "A Plague Tale’in fare, korku ve kaçış sahneleri, Kara Ölüm’ün Y. pestis, ticaret yolları ve toplumsal panik bağlamıyla birlikte okunur.",
+        "accuracyType": "inspired-by-reality",
+        "tags": [
+          "kara-olum",
+          "a-plague-tale",
+          "orta-cag",
+          "hastalik",
+          "true-frame"
+        ],
+        "spoilerNote": "A Plague Tale: Innocence atmosferi ve temel tehdit yapısına dair küçük ipuçları içerir; hikâyenin sonunu anlatmaz.",
+        "mediaChanged": "Oyun salgını görsel korku ve çocukların hayatta kalma hikâyesine yoğunlaştırır; tarihsel tablo ise bakteri, pire, liman, ticaret ve yanlış açıklamaların birleşimiyle daha karmaşıktır.",
+        "whyItMatters": "Salgınları doğru anlamak, felaketleri tek bir günah keçisine ya da tek bir görüntüye indirgememeyi öğretir.",
+        "isFlagship": true,
+        "quickRealityCheck": "A Plague Tale’deki fare karanlığı gerçek salgının kendisi mi, yoksa daha karmaşık bir biyolojik ve toplumsal sürecin korku simgesi mi?",
+        "sources": [
+          {
+            "title": "CDC - How Plague Spreads",
+            "url": "https://www.cdc.gov/plague/causes/index.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Nature - A draft genome of Yersinia pestis from victims of the Black Death",
+            "url": "https://www.nature.com/articles/nature10549",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Black Death",
+            "url": "https://www.britannica.com/event/Black-Death",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "CDC - How Plague Spreads",
+            "url": "https://www.cdc.gov/plague/causes/index.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Nature - A draft genome of Yersinia pestis from victims of the Black Death",
+            "url": "https://www.nature.com/articles/nature10549",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Black Death",
+            "url": "https://www.britannica.com/event/Black-Death",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-237-plaguetale-rats-fleas",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "A Plague Tale'deki fare görseli, gerçek veba bulaşında pire/kemirgen döngüsü ve bazı durumlarda insan hareketi/pnömonik bulaşla dengelendi.",
+      "fields": {
+        "title": "Fareler mi Suçlu?",
+        "subtitle": "Vebada görünen hayvan, görünmeyen döngü",
+        "mediaType": "game",
+        "mediaTitle": "A Plague Tale: Innocence",
+        "era": "Orta Çağ",
+        "region": "Avrupa",
+        "themes": [
+          "Hastalık",
+          "Bilim",
+          "Yanlış Bilinenler"
+        ],
+        "whatWeSee": "A Plague Tale, fareleri yalnız arka plan hayvanı olarak değil, karanlığın kendisi gibi kullanır. Sürü hareketi, hastalığın ve toplumsal çöküşün görünür simgesine dönüşür. Bu dramatik seçim çok güçlüdür; ama gerçek salgın biyolojisi, ekrandaki kadar tek aktörlü değildir.",
+        "realHistory": "Veba anlatılarında fare en kolay suçludur: görünürdür, tiksinti uyandırır ve karanlık sokak imgesine çok iyi uyar. A Plague Tale de bu görsel hafızayı büyütür; fareler neredeyse tek vücut gibi hareket eden bir felaket gücüne dönüşür. Tarihsel ve tıbbi gerçek ise daha dolaylıdır. Veba bakterisi Yersinia pestis çoğunlukla kemirgenler ile pireler arasındaki döngüde dolaşır. İnsanlar genellikle enfekte bir pire tarafından ısırıldığında ya da enfekte hayvan dokusuyla temas ettiğinde hastalanır.\n\nBu yüzden “fareler yaydı” cümlesi hem kısmen doğru hem fazla basittir. Asıl taşıyıcı halka çoğu durumda piredir; kemirgen ölümleri pireleri yeni konak aramaya iter. Üstelik Orta Çağ salgınında tek bir hayvan türünü suçlamak da yeterli değildir. Yerel ekoloji, liman hareketi, ev içi hayvanlar, insan göçü ve bazı bölgelerde pnömonik veba gibi solunum yoluyla bulaşabilen formlar tabloyu değiştirir.\n\nOyundaki fare sürüleri bu karmaşayı anlaşılır ve korkutucu bir simgeye çevirir. Bu sinemasal tercih işe yarar; ama tarihsel okuma, görünür hayvanın arkasındaki görünmez bakteri ve pire döngüsünü unutmamalıdır. Kara Ölüm’ün asıl dersi, salgınların tek bir suçluya indirgenemeyecek kadar karmaşık temas ağlarıyla büyüdüğüdür.",
+        "accuracyNote": "Fareler veba ekolojisinin parçasıdır; fakat hastalığın insanlara geçişinde enfekte pireler, hayvan dokusuyla temas ve bazı formlarda solunum yoluyla bulaş gibi farklı yollar önemlidir.",
+        "whyInteresting": "En tanıdık salgın imgesi olan fare, gerçeğin tamamı değil; karmaşık bir ekolojik zincirin en görünür halkasıdır.",
+        "misconception": "Kara Veba’yı doğrudan ve sadece farelerin yaydığı sanılır; çoğu durumda kritik halka enfekte pireler ve onları hareket ettiren ekolojik koşullardır.",
+        "nextTopics": [
+          "Kara Ölümün Gerçek Sebebi",
+          "Orta Çağ Temizliği",
+          "Veba Doktorları"
+        ],
+        "relatedCardIds": [
+          "tf26-236-plaguetale-black-death",
+          "tf26-191-plague-spread",
+          "tf26-196-medieval-hygiene"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "minor",
+        "mediaConnection": "A Plague Tale’in fare sürüleri, gerçek veba bulaşındaki pire/kemirgen döngüsünün korku estetiğine dönüştürülmüş halidir.",
+        "accuracyType": "inspired-by-reality",
+        "tags": [
+          "kara-olum",
+          "a-plague-tale",
+          "fareler",
+          "hastalik",
+          "true-frame"
+        ],
+        "spoilerNote": "A Plague Tale: Innocence'ın temel tehdit atmosferine dair küçük ipuçları içerir.",
+        "mediaChanged": "Oyun tek ve görünür bir tehdit yaratır; bilimsel tablo, görünmez bakteri ve pire döngüsünün daha belirleyici olduğunu gösterir.",
+        "whyItMatters": "Salgınları tek bir hayvana yıkmak, hem bilimsel karmaşıklığı hem de felaket anlarında günah keçisi üretme eğilimini gizler.",
+        "isFlagship": false,
+        "quickRealityCheck": "A Plague Tale’de fareleri görürüz; peki gerçek veba bulaşında asıl kritik halka çoğu zaman neydi?",
+        "sources": [
+          {
+            "title": "CDC - How Plague Spreads",
+            "url": "https://www.cdc.gov/plague/causes/index.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "CDC - About Plague",
+            "url": "https://www.cdc.gov/plague/about/index.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "PMC/NIH - Plague",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7149940/",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "CDC - How Plague Spreads",
+            "url": "https://www.cdc.gov/plague/causes/index.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "CDC - About Plague",
+            "url": "https://www.cdc.gov/plague/about/index.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "PMC/NIH - Plague",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7149940/",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-238-stalker-exclusion-zone",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "S.T.A.L.K.E.R.'ın Zone'u mutant/anomali kurgusundan ayrılıp Pripyat tahliyesi, 30 km exclusion zone ve yerinden edilme hafızasıyla bağlandı.",
+      "fields": {
+        "title": "Yasak Bölge",
+        "subtitle": "Çernobil'in boşaltılmış coğrafyası",
+        "mediaType": "game",
+        "mediaTitle": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+        "era": "Modern Tarih",
+        "region": "Ukrayna",
+        "themes": [
+          "Nükleer Enerji",
+          "Afet",
+          "Toplum",
+          "Hafıza"
+        ],
+        "whatWeSee": "S.T.A.L.K.E.R., Çernobil çevresini mutantlar, anomaliler ve kaçak keşifçilerle dolu tekinsiz bir Zone olarak gösterir. Oyuncu için burası hem hayatta kalma alanı hem de terk edilmiş Sovyet modernitesinin karanlık müzesidir.",
+        "realHistory": "S.T.A.L.K.E.R., Çernobil Yasak Bölge’yi mutantlar, anomaliler, kaçak araştırmacılar ve yasa dışı keşifçilerle dolu bir hayatta kalma alanı olarak yeniden kurar. Gerçek Yasak Bölge ise önce bir oyun mekânı değil, 1986 kazasından sonra insanların evlerinden koparıldığı radyolojik ve idari bir alandı.\n\n26 Nisan 1986’daki reaktör patlamasından sonra Pripyat 27 Nisan’da tahliye edildi. Daha sonra yaklaşık 30 kilometrelik alan Yasak Bölge olarak şekillendi. UNSCEAR, 1986’da reaktör çevresindeki alanlardan yaklaşık 115.000 kişinin tahliye edildiğini, sonraki yıllarda Belarus, Rusya Federasyonu ve Ukrayna’dan yaklaşık 220.000 kişinin daha yeniden yerleştirildiğini aktarır. IAEA da 30 kilometrelik alanı esasen yerleşimsiz bir exclusion zone olarak tanımlar.\n\nOyunun “Zone”u bu gerçek boşalmadan doğan kültürel hayaletliği büyütür. Pripyat apartmanları, okullar ve eğlence parkı artık yalnız mimari kalıntı değil; modern teknolojinin başarısızlığı, Sovyet gizliliği ve zorunlu yerinden edilmenin görsel hafızasıdır. Gerçekte tehlike mutant değil; sıcak noktalar, kirlenmiş toprak, uzun süreli izleme ihtiyacı ve evini kaybeden insanların psikososyal yüküdür. S.T.A.L.K.E.R. bu gerçekliği bilimkurguya çevirir; fakat oyunun etkisi, zaten var olan bir tarihsel boşluğu oyuncuya yürünebilir bir mekân gibi hissettirmesinden gelir.",
+        "accuracyNote": "Oyundaki mutantlar ve anomaliler kurgudur; Pripyat tahliyesi, 30 km Yasak Bölge ve geniş çaplı yeniden yerleştirme ise tarihsel gerçekliğe dayanır.",
+        "whyInteresting": "S.T.A.L.K.E.R.'ın gücü, bilimkurgu korkusunu gerçek bir boşaltılmış şehir ve radyolojik miras üzerine kurmasından gelir.",
+        "misconception": "Çernobil Yasak Bölge’nin sadece terk edilmiş bir macera alanı olduğu sanılır; gerçekte zorunlu tahliye, yerinden edilme ve uzun süreli çevresel izleme alanıdır.",
+        "nextTopics": [
+          "Felaket Turizmi",
+          "Sovyet Gizliliği",
+          "Exclusion Zone"
+        ],
+        "relatedCardIds": [
+          "tf26-239-stalker-dark-tourism",
+          "tf26-158-exclusion-zone",
+          "tf26-156-soviet-secrecy"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "S.T.A.L.K.E.R.'ın Zone tasarımı, Çernobil sonrası Pripyat tahliyesi ve 30 km Yasak Bölge hafızasından beslenir.",
+        "accuracyType": "inspired-by-reality",
+        "tags": [
+          "chernobyl",
+          "stalker",
+          "yasak-bolge",
+          "nukleer",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun gerçek radyolojik alanı mutant ve anomali mitolojisine dönüştürür; tarihsel kayıtlar ise tahliye, yeniden yerleştirme ve çevresel izleme sürecini gösterir.",
+        "whyItMatters": "Terk edilmiş mekânların oyun estetiğine dönüşmesi, felaket hafızasının nasıl tüketildiğini ve yeniden kurulduğunu gösterir.",
+        "isFlagship": false,
+        "quickRealityCheck": "S.T.A.L.K.E.R.'daki Zone bir bilimkurgu icadı mı, yoksa gerçek bir tahliye ve yasak bölge hafızasının üzerine mi kuruluyor?",
+        "sources": [
+          {
+            "title": "IAEA - Chornobyl Accident Frequently Asked Questions",
+            "url": "https://www.iaea.org/topics/chornobyl/faqs",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "UNSCEAR - The Chornobyl Accident",
+            "url": "https://www.unscear.org/unscear/en/chernobyl.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "World Nuclear Association - Chernobyl Accident 1986",
+            "url": "https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident",
+            "type": "technical",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "IAEA - Chornobyl Accident Frequently Asked Questions",
+            "url": "https://www.iaea.org/topics/chornobyl/faqs",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "UNSCEAR - The Chornobyl Accident",
+            "url": "https://www.unscear.org/unscear/en/chernobyl.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "World Nuclear Association - Chernobyl Accident 1986",
+            "url": "https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident",
+            "type": "technical",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-239-stalker-dark-tourism",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "S.T.A.L.K.E.R. sonrası Çernobil ilgisi dark/toxic tourism çerçevesiyle, etik ziyaret ve felaketi tüketme ayrımı üzerinden yazıldı.",
+      "fields": {
+        "title": "Felaket Turizmi",
+        "subtitle": "Çernobil'i gezmek etik mi?",
+        "mediaType": "game",
+        "mediaTitle": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+        "era": "Modern Tarih",
+        "region": "Ukrayna",
+        "themes": [
+          "Afet",
+          "Hafıza",
+          "Medya",
+          "Etik"
+        ],
+        "whatWeSee": "S.T.A.L.K.E.R., Çernobil Yasak Bölge’yi oyuncunun içine girmek isteyeceği kadar çekici ve tehlikeli bir mekâna dönüştürür. Terk edilmiş binalar, sisli yollar ve askeri kontrol noktaları oyunda atmosfer üretir; gerçek hayatta aynı görüntüler felaket turizmi tartışmasını açar.",
+        "realHistory": "Çernobil’i gezmek, S.T.A.L.K.E.R. oynadıktan sonra oyun mekânına girmek gibi görünebilir. Bu çekim anlaşılırdır: Pripyat, modern dünyanın en tanıdık terk edilmiş şehir imgelerinden biridir. Fakat burası yalnız “post-apokaliptik fotoğraf” arka planı değildir. Kazadan sonra evlerini kaybeden insanların, işçilerin, itfaiyecilerin, tasfiye ekiplerinin ve bölge halkının hafızasını taşır.\n\nAkademik literatürde Çernobil genellikle dark tourism ve toxic tourism başlıklarıyla tartışılır. Ziyaret deneyimi bir yandan eğitim, hafıza ve uyarı işlevi görebilir; diğer yandan felaketi selfie, adrenalin ve oyun estetiğine indirgeme riski taşır. S.T.A.L.K.E.R. bu ikiliği güçlendirir: oyun, Zone’u dünya çapında daha tanınır hale getirirken gerçek bölgeye yönelik merakı da popüler kültürle besler.\n\nEtik ayrım niyette ve davranışta yatar. Rehberli, kurallı, bağlamlı bir ziyaret; radyasyon güvenliği, yerel hafıza ve felaketin tarihini ciddiye alabilir. Kaçak girme, nesne alma, terk edilmiş evleri dekor gibi kullanma ya da acıyı yalnız atmosfer olarak tüketme ise başka bir şeydir. True Frame açısından soru basittir: Bir felaket mekânına bakarken onu oyun haritası gibi mi tüketiyoruz, yoksa orada yaşanan yerinden edilme ve risk yönetimi tarihini de görüyor muyuz?",
+        "accuracyNote": "Çernobil çevresi kontrollü ve riskli bir radyolojik hafıza alanıdır. Turizm tartışması, yalnız güvenlik değil, felaketin nasıl temsil edildiği ve tüketildiği sorusuyla ilgilidir.",
+        "whyInteresting": "Bir video oyunu, gerçek bir felaket mekânına yönelik merakı artırabilir; bu merak eğitimle de sonuçlanabilir, yüzeysel tüketimle de.",
+        "misconception": "Çernobil ziyareti sadece cesaret veya ekstrem turizm meselesi sanılır; aslında hafıza, güvenlik, etik ve yerel bağlam sorunudur.",
+        "nextTopics": [
+          "Yasak Bölge",
+          "Sovyet Gizliliği",
+          "Radyasyon Miti"
+        ],
+        "relatedCardIds": [
+          "tf26-238-stalker-exclusion-zone",
+          "tf26-158-exclusion-zone",
+          "tf26-155-radiation-myth"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "S.T.A.L.K.E.R.'ın Zone estetiği, Çernobil çevresindeki dark tourism ve felaket hafızası tartışmalarıyla birlikte okunur.",
+        "accuracyType": "inspired-by-reality",
+        "tags": [
+          "chernobyl",
+          "stalker",
+          "felaket-turizmi",
+          "etik",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun Zone’u keşif ve hayatta kalma alanı yapar; gerçek turizm tartışması, felaket mekânını nasıl ve ne kadar saygıyla deneyimlediğimizle ilgilidir.",
+        "whyItMatters": "Popüler kültür felaket mekânlarını görünür kılar; ama görünürlük her zaman doğru hatırlama anlamına gelmez.",
+        "isFlagship": false,
+        "quickRealityCheck": "Çernobil’e gitmek, oyun mekânını ziyaret etmek mi; yoksa gerçek bir felaket hafızasıyla karşılaşmak mı?",
+        "sources": [
+          {
+            "title": "IAEA - Chornobyl Accident Frequently Asked Questions",
+            "url": "https://www.iaea.org/topics/chornobyl/faqs",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Current Issues in Tourism - Dark and toxic tourism in the Chernobyl exclusion zone",
+            "url": "https://ideas.repec.org/a/taf/rcitxx/v17y2014i10p929-939.html",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Polish Sociological Review - Stalkerism in the Chernobyl Exclusion Zone",
+            "url": "https://polish-sociological-review.eu/The-Transgressive-Approach-to-the-Dark-Tourism-Experience-Stalkerism-in-the-Chernobyl,153533,0,2.html",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "IAEA - Chornobyl Accident Frequently Asked Questions",
+            "url": "https://www.iaea.org/topics/chornobyl/faqs",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Current Issues in Tourism - Dark and toxic tourism in the Chernobyl exclusion zone",
+            "url": "https://ideas.repec.org/a/taf/rcitxx/v17y2014i10p929-939.html",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Polish Sociological Review - Stalkerism in the Chernobyl Exclusion Zone",
+            "url": "https://polish-sociological-review.eu/The-Transgressive-Approach-to-the-Dark-Tourism-Experience-Stalkerism-in-the-Chernobyl,153533,0,2.html",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-240-bf1-gallipoli",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "Battlefield 1 bağlamında Gelibolu/Çanakkale, sadece çıkarma ve kahramanlık değil; stratejik hedef, lojistik başarısızlık, Osmanlı savunması, Anzak ve Türk ulusal hafızasıyla geniş flagship karta dönüştürüldü.",
+      "fields": {
+        "title": "Çanakkale: Gelibolu Cephesi",
+        "subtitle": "Bir savaş haritasının arkasındaki strateji ve hafıza",
+        "mediaType": "game",
+        "mediaTitle": "Battlefield 1",
+        "era": "I. Dünya Savaşı",
+        "region": "Osmanlı İmparatorluğu",
+        "themes": [
+          "I. Dünya Savaşı",
+          "Savaş",
+          "Hafıza",
+          "Strateji"
+        ],
+        "whatWeSee": "Battlefield 1, Birinci Dünya Savaşı cephelerini sinematik çatışma alanları olarak gösterir. Gelibolu/Çanakkale gibi başlıklar oyunda kıyı çıkarması, makineli tüfek ateşi ve askerî kaos hissiyle okunabilir. Bu etki güçlüdür; fakat gerçek sefer, birkaç kahramanlık anından çok daha uzun ve politik bir savaş hafızasıdır.",
+        "realHistory": "### Oyundaki cephe\n\nBattlefield 1, Birinci Dünya Savaşı’nı hızlı, sinematik ve çok cepheli bir savaş deneyimi olarak kurar. Gelibolu/Çanakkale bağlamı bu tür oyunlarda genellikle dar kıyı hattı, makineli tüfek ateşi, çıkarma kaosu ve kahraman asker bakışıyla görünür. Bu anlatı savaşın şiddetini hissettirebilir; fakat gerçek Gelibolu seferi tek bir hücum ya da “Anzak efsanesi”nden çok daha karmaşık bir stratejik başarısızlık ve çok uluslu kayıp alanıdır.\n\nSeferin arkasındaki hedef, Osmanlı İmparatorluğu’nu savaş dışı bırakmak, Çanakkale Boğazı üzerinden İstanbul’a baskı kurmak ve Rusya’ya deniz yolunu açmaktı. Önce deniz harekâtıyla boğazın zorlanması denendi; 18 Mart 1915’te ağır kayıplar ve mayın tehdidi bu planı kırdı. Ardından 25 Nisan 1915’te kara çıkarmaları başladı. İngiliz, Fransız, Avustralya, Yeni Zelanda, Hint ve diğer birlikler farklı noktalara çıktı; karşılarında Osmanlı savunması, zor arazi, yetersiz planlama ve kısa sürede siper savaşına dönen bir cephe buldular.\n\n### Başarısızlığın gerçek zemini\n\nGelibolu’nun başarısızlığı yalnız “cesur askerler ama kötü komutanlar” formülüyle açıklanamaz. Arazi bilgisi, lojistik, hastalık, su sıkıntısı, ikmal hatları, yanlış istihbarat, mayınlar, Osmanlı savunmasının direnci ve zamanlama birlikte belirleyiciydi. Imperial War Museums, Osmanlı karşı koyuşunun Müttefikleri durdurduğunu ve siper savaşının hızla yerleştiğini vurgular. Australian War Memorial da seferin tahliye ile bittiğini ve Avustralya için ağır kayıplar bıraktığını aktarır.\n\nOyunun ritmi doğal olarak anlık çatışmayı öne çıkarır. Gerçek cephede ise askerler yalnız mermilerle değil, sıcak, susuzluk, dizanteri, sinekler, ceset kokusu ve bitmeyen bekleyişle de mücadele etti. Savaş deneyimi, birkaç dakikalık hücumdan çok aylar süren yıpranmaydı.\n\n### Cephede gündelik gerçeklik\n\nSiper hattında askerî başarı kadar gündelik dayanıklılık da belirleyiciydi. Dar kıyı şeridi, sarp yamaçlar ve sınırlı ikmal imkânı, her taraf için cepheyi zorlaştırdı. Hastalık, su kıtlığı ve tahliye edilemeyen yaralılar, savaşın oyunlarda kolayca görünmeyen tarafıdır. Bu koşullar, Gelibolu’yu yalnız strateji hatası değil, insan bedeninin ve kurumların sınandığı uzun bir yıpranma alanı haline getirdi.\n\n### Hafıza savaşı\n\nGelibolu’nun kalıcı etkisi askeri sonuçtan daha büyüktür. Sefer Müttefikler için başarısızlıkla bitti; fakat Avustralya ve Yeni Zelanda’da Anzak kimliğinin kurucu hafıza alanlarından biri haline geldi. Türkiye’de ise Çanakkale savunması, Osmanlı’nın son dönemindeki direniş ve Mustafa Kemal’in yükselişiyle birlikte ulusal hafızada merkezi yer edindi. Australian War Memorial’ın “Turkish view” anlatısı, Gelibolu’nun hem Avustralya hem Türkiye için ulusal kimlikte derin karşılık taşıdığını özellikle vurgular.\n\nBu yüzden Battlefield 1 gibi oyunlarda Gelibolu’yu yalnız “epik savaş haritası” olarak görmek eksik kalır. Ekrandaki çıkarma sahnesinin arkasında boğaz stratejisi, imparatorlukların son dönemi, Osmanlı savunması, Anzak hafızası ve iki tarafta da yasla örülmüş bir savaş mirası vardır. True Frame açısından asıl soru şudur: Bir savaş oyunu bize çatışmanın yoğunluğunu gösterebilir; ama o çatışmanın neden orada yaşandığını ve sonradan kimler tarafından nasıl hatırlandığını ayrıca sormak gerekir.",
+        "accuracyNote": "Battlefield 1 cephe atmosferini yoğunlaştırır; gerçek Gelibolu seferi ise deniz harekâtı, kara çıkarmaları, Osmanlı savunması, lojistik sorunlar ve ulusal hafıza katmanlarıyla birlikte okunmalıdır.",
+        "whyInteresting": "Gelibolu, askeri açıdan başarısız bir Müttefik harekâtı olmasına rağmen hem Türkiye hem Avustralya ve Yeni Zelanda için kurucu hafıza alanına dönüştü.",
+        "misconception": "Gelibolu’nun yalnız Anzak çıkarmasından ibaret olduğu sanılır; sefer çok uluslu, çok cepheli ve Osmanlı savunmasının belirleyici olduğu karmaşık bir harekâttı.",
+        "nextTopics": [
+          "Arap İsyanı",
+          "Topyekûn Savaş Ekonomisi",
+          "Sömürge Birlikleri"
+        ],
+        "relatedCardIds": [
+          "tf26-223-hoi4-war-economy",
+          "tf26-211-twom-humanitarian-ethics"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "none",
+        "mediaConnection": "Battlefield 1’in Gelibolu/Çanakkale cephe hissi, 1915 seferinin stratejik hedefleri, Osmanlı savunması ve Anzak/Türk hafızasıyla birlikte okunur.",
+        "accuracyType": "partly-real",
+        "tags": [
+          "battlefield-1",
+          "canakkale",
+          "gelibolu",
+          "birinci-dunya-savasi",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun cepheyi anlık çatışma ve kahramanlık duygusuyla verir; tarihsel gerçeklik, aylar süren yıpranma, stratejik hata ve çift taraflı hafıza üzerinden daha geniştir.",
+        "whyItMatters": "Savaş oyunları cephe deneyimini gösterebilir; fakat savaşların neden başladığını, nasıl başarısız olduğunu ve sonradan nasıl kutsallaştırıldığını ayrıca sorgulamak gerekir.",
+        "isFlagship": true,
+        "quickRealityCheck": "Gelibolu’yu bir çıkarma haritası olarak mı görüyoruz, yoksa boğaz stratejisi ve ulusal hafızaların kesiştiği bir savaş mirası olarak mı?",
+        "sources": [
+          {
+            "title": "Imperial War Museums - What went wrong at Gallipoli?",
+            "url": "https://www.iwm.org.uk/history/first-world-war/gallipoli/what-went-wrong-at-gallipoli",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Australian War Memorial - Gallipoli",
+            "url": "https://www.awm.gov.au/articles/encyclopedia/gallipoli",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Australian War Memorial - Gallipoli: a Turkish view",
+            "url": "https://www.awm.gov.au/visit/exhibitions/gallipoli",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Imperial War Museums - What went wrong at Gallipoli?",
+            "url": "https://www.iwm.org.uk/history/first-world-war/gallipoli/what-went-wrong-at-gallipoli",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Australian War Memorial - Gallipoli",
+            "url": "https://www.awm.gov.au/articles/encyclopedia/gallipoli",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Australian War Memorial - Gallipoli: a Turkish view",
+            "url": "https://www.awm.gov.au/visit/exhibitions/gallipoli",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

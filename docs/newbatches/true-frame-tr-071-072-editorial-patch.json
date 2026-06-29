@@ -1,0 +1,344 @@
+{
+  "patchVersion": 1,
+  "locale": "tr",
+  "sourceFile": "data/cards.tr.json",
+  "chunks": [
+    71,
+    72
+  ],
+  "createdAt": "2026-06-28",
+  "notes": "source-aware editorial patch for tr-chunk-071 and tr-chunk-072; flagship expansions, repeated-paragraph cleanup, source strengthening, relatedCardIds normalization",
+  "patches": [
+    {
+      "id": "tf26-148-hiroshima-context",
+      "set": {
+        "subtitle": "Hiroşima: hedef seçimi ve etik eşik",
+        "whatWeSee": "Oppenheimer, Hiroşima'yı doğrudan ekrana getirmez; filmi taşıyan tercih de biraz budur. Trinity'den sonra Oppenheimer'ın askeri-siyasi kararın merkezinden uzaklaşmasını, zafer konuşmasındaki iç kırılmayı ve bombanın sonuçlarını yüzler yerine boşluklarla hissettirir. Bu anlatı vicdan yükünü güçlü kurar; fakat gerçek tarih, yalnız bir bilim insanının pişmanlığından çok hedef seçimi, Japonya'nın teslim şartları, Sovyetlerin savaşa girişi ve sivil kayıplar etrafında yürüyen çok katmanlı bir devlet kararıdır.",
+        "realHistory": "### Karar masası\n\n6 Ağustos 1945 sabahı Hiroşima'ya “Little Boy” uranyum bombası atıldı; 9 Ağustos'ta Nagasaki'ye “Fat Man” plutonyum bombası kullanıldı. Oppenheimer filmi bu iki şehri göstermez, çünkü hikâyesini Los Alamos, Trinity ve savaş sonrası vicdan ekseninde kurar. Gerçek kararda ise Oppenheimer tek başına belirleyici değildi. Başkan Harry S. Truman, Savaş Bakanlığı, Manhattan Projesi yönetimi ve askeri danışmanlar içinde şekillenen karar zinciri, Japonya'nın hızlı teslim olması beklentisiyle ilerledi. Aynı dönemde ABD yönetimi, Japon ana karasına yapılacak muhtemel çıkarma harekâtının maliyetini, Sovyetler Birliği'nin Pasifik savaşına giriş zamanını ve savaş sonrası diplomatik dengeyi birlikte düşünüyordu.\n\nOppenheimer bu tabloda hem merkezde hem de sınırlı bir yerde durur. Bombayı mümkün kılan bilimsel organizasyonun başındaki isimdi; fakat kullanım kararı askeri ve siyasi makamların elindeydi. Bu ayrım, bilim insanını sorumluluktan tamamen ayırmaz, ama kararı “laboratuvardaki birkaç dâhinin seçimi” gibi okumayı da yanlış kılar.\n\n### Hedef seçimi\n\nHedef seçimi rastgele değildi. Target Committee belgeleri, askeri ve psikolojik etkinin ölçülebileceği, geniş kentsel alana sahip ve önceki bombardımanlardan görece az etkilenmiş şehirlerin değerlendirildiğini gösterir. Bu teknik dil, kararın insani sonucunu hafifletmez. Hiroşima bir askeri komuta ve sanayi merkeziydi; aynı zamanda yüz binlerce sivilin yaşadığı bir şehirdi. Şehrin önceki büyük hava saldırılarından görece az zarar görmüş olması, bombanın etkisini gözlemleme isteğiyle de ilişkilendirildi. Bu nokta, kararın etik ağırlığını artırır: ölçülebilirlik arayışı, sivil hayatın kırılganlığıyla aynı haritada buluştu.\n\n### İnsani sonuç\n\nHiroşima şehrinin kendi tahmini, 1945 sonuna kadar ölü sayısını yaklaşık 140.000 olarak verir; kesin sayı bilinmez. National Archives anlatısı, ilk anda on binlerce kişinin öldüğünü ve sonraki haftalar ile aylarda yanık, travma ve radyasyon hastalıklarının kaybı büyüttüğünü aktarır. Bu yüzden “askeri hedef” ifadesi tek başına yeterli değildir. Atom bombası, hedef şehirde askerî altyapıyı vururken sivil alanı da kitlesel biçimde yok etti.\n\nFilmde Hiroşima'nın gösterilmemesi bir eksik bilgiden çok bilinçli estetik tercihe benzer: seyirciyi patlamanın görsel dehşetine değil, patlamayı mümkün kılan bilimin ve devlet mekanizmasının ahlaki yankısına odaklar. Ancak tarihsel okuma, bu odağı Japon sivillerin deneyimiyle tamamlamadan eksik kalır. Oppenheimer'ın iç sesi, Hiroşima'daki bedenlerin ve ailelerin yerini alamaz; yalnızca ABD tarafındaki sorumluluk krizini görünür kılar.\n\n### Tartışmanın kalıcı kısmı\n\nHiroşima kararı hâlâ tartışmalıdır. Bazı tarihçiler bombanın savaşı hızla bitirdiğini ve daha büyük bir kara savaşı riskini azalttığını vurgular. Diğerleri ise deniz ablukası, Sovyetlerin savaşa girişi, koşullu teslim müzakeresi veya gösteri patlaması gibi seçeneklerin yeterince tüketilip tüketilmediğini sorgular. Kesin olan şu: 1945 yazındaki karar, yalnız II. Dünya Savaşı'nın final hamlesi değil, nükleer çağın etik eşiğiydi. Oppenheimer'ın kişisel pişmanlık hikâyesi bu eşiği görünür kılar; ama tarih, o eşiğin devlet aklı, askeri hesap ve sivil yıkım arasında kurulduğunu hatırlatır.",
+        "accuracyNote": "Film Hiroşima ve Nagasaki'yi doğrudan göstermez; Oppenheimer'ın vicdan yükünü merkeze alır. Tarihsel karar ise hedef seçimi, Truman yönetimi, askeri hesap ve sivil kayıplar birlikte düşünülmeden eksik kalır.",
+        "whyInteresting": "Bir bilimsel başarının aynı anda savaş sonu, devlet kararı ve sivil felaket olarak okunabilmesi Oppenheimer anlatısını hâlâ tartışmalı kılar.",
+        "misconception": "Hiroşima kararının yalnız Oppenheimer ve bilim insanları tarafından verildiği sanılır; kullanım kararı siyasi ve askeri liderlik zincirinde alındı.",
+        "sources": [
+          {
+            "title": "Hiroshima City - How many people died because of the atomic bombing?",
+            "url": "https://www.city.hiroshima.lg.jp/english/peace/1029875/1010074.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "National Archives Museum - The Atomic Bombing of Hiroshima and Nagasaki",
+            "url": "https://visit.archives.gov/whats-on/explore-exhibits/atomic-bombing-hiroshima-and-nagasaki",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Nuclear Museum / Atomic Heritage Foundation - Target Committee Recommendations",
+            "url": "https://ahf.nuclearmuseum.org/ahf/key-documents/target-committee-recommendations/",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-150-cold-war-start",
+          "tf26-144-hanford"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "mediaConnection": "Oppenheimer'ın Hiroşima'yı göstermeyen anlatısı, Target Committee belgeleri ve Hiroşima ölüm tahminleriyle birlikte okununca kararın insani ve siyasi ağırlığı daha netleşir.",
+        "mediaChanged": "Film patlamayı göstermeyerek vicdan ve sorumluluk boşluğu yaratır; tarihsel kaynaklar ise hedef seçiminin teknik dili ile sivil yıkımın aynı karar içinde birleştiğini gösterir.",
+        "whyItMatters": "Hiroşima kararı, nükleer çağda bilimsel üretim ile devlet şiddeti arasındaki etik sınırı hâlâ tartışmaya açar.",
+        "quickRealityCheck": "Hiroşima'nın hedef listesinde yer alması yalnız askeri önemle mi, yoksa bombanın etkisini ölçme isteğiyle de mi ilgiliydi?",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-150-cold-war-start",
+      "set": {
+        "subtitle": "Atom tekelinden güvenlik devletine",
+        "whatWeSee": "Oppenheimer'da atom çağının Soğuk Savaş'a dönüşmesi tek bir konferans sahnesi gibi değil, karakterlerin üzerine çöken bir güvenlik atmosferi olarak hissedilir. Trinity başarı gibi başlar; sonra bilgi, sadakat ve devlet sırrı aynı hikâyenin parçası olur. Film bu dönüşümü Oppenheimer'ın güvenlik soruşturmasına bağlar; tarihsel arka planda ise Potsdam, atom diplomasisi, Baruch Planı ve 1949 Sovyet testi vardır.",
+        "realHistory": "Atom bombası Soğuk Savaş'ın tek nedeni değildi; fakat savaş sonrası düzenin gerilimini hızlandıran en güçlü araçlardan biri oldu. Temmuz 1945'te Potsdam'da Truman, Stalin'e ABD'nin yeni ve olağanüstü güçlü bir silaha sahip olduğunu ima etti. Truman Library'nin özetlediği gibi Stalin, ABD nükleer programından zaten haberdardı; Sovyet istihbaratı Manhattan Projesi hakkında bilgi toplamıştı. Bu yüzden bomba, yalnız Japonya'ya karşı kullanılan bir silah değil, savaş sonrası güç dengesinin de parçasıydı.\n\n1946 Baruch Planı, atom enerjisinin uluslararası denetimini hedefledi; ancak ABD'nin nükleer tekelini ne zaman bırakacağı, denetim mekanizması ve Güvenlik Konseyi vetosu gibi başlıklar Sovyetler için kabul edilemez görüldü. Planın çökmesi, nükleer iş birliği ihtimalini zayıflattı. 1949'da Sovyet atom testi ABD tekelini bitirdi ve silahlanma yarışı daha açık hale geldi. Oppenheimer'ın 1954 güvenlik soruşturması da bu iklimin kişisel yüzüdür: savaş zamanı kahramanlığı, barış zamanı güvenlik şüphesiyle yer değiştirdi. Film bu dönüşümü karakter dramı olarak yoğunlaştırır; tarihsel süreç ise diplomasi, casusluk, bürokrasi ve ideoloji katmanlarında ilerledi.",
+        "accuracyNote": "Film Soğuk Savaş gerilimini Oppenheimer'ın güvenlik soruşturmasına bağlayarak yoğunlaştırır. Potsdam, Baruch Planı ve Sovyet atom testi ise bu dönüşümün daha geniş diplomatik zeminidir.",
+        "whyInteresting": "Savaşın bitişini hızlandıran silah, kısa süre içinde barış döneminin kalıcı güvensizlik mimarisine dönüştü.",
+        "misconception": "Atom bombası Soğuk Savaş'ı tek başına başlattı sanılır. Daha doğru okuma, mevcut ABD-Sovyet gerilimini nükleer tekel ve silahlanma yarışı üzerinden keskinleştirdiğidir.",
+        "sources": [
+          {
+            "title": "Harry S. Truman Library - The Potsdam Conference, 1945",
+            "url": "https://www.trumanlibrary.gov/education/lesson-plans/potsdam-conference-1945",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "U.S. State Department Office of the Historian - Acheson-Lilienthal & Baruch Plans, 1946",
+            "url": "https://history.state.gov/milestones/1945-1952/baruch-plans",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Los Alamos National Laboratory - In the matter of J. Robert Oppenheimer",
+            "url": "https://www.lanl.gov/media/publications/national-security-science/0723-in-the-matter-of-j-robert-oppenheimer",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-148-hiroshima-context",
+          "tf26-144-hanford"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "mediaConnection": "Oppenheimer'ın Trinity sonrası güvenlik atmosferi, Potsdam atom diplomasisi ve 1954 güvenlik soruşturması bağlamıyla birlikte okunmalı.",
+        "mediaChanged": "Film uzun diplomatik süreci Oppenheimer'ın kişisel düşüşüne yoğunlaştırır; tarihsel süreçte aynı gerilim Potsdam, Baruch Planı, Sovyet istihbaratı ve 1949 testiyle genişler.",
+        "whyItMatters": "Bu başlık, nükleer silahın savaş sonrasını yalnız bitirmediğini; devlet, bilim ve güvenlik ilişkisini yeniden kurduğunu gösterir.",
+        "quickRealityCheck": "Potsdam'da Truman'ın Stalin'e atom bombasını ima etmesi neden gerçek bir sır paylaşımı sayılmıyordu?",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-151-reactor-test",
+      "set": {
+        "subtitle": "Güvenlik testi nasıl felakete dönüştü?",
+        "realHistory": "26 Nisan 1986 gecesi Çernobil 4. ünitedeki deney, türbin durduktan sonra kalan dönme enerjisinin acil soğutma pompalarına kısa süreli güç sağlayıp sağlayamayacağını ölçmek için planlanmıştı. Testin ertelenmesi, reaktörün beklenenden uzun süre farklı güç seviyelerinde tutulması ve gece vardiyasına devreden karmaşık çalışma koşulları riski artırdı. Güç seviyesi istenmeyen biçimde düşünce operatörler test koşullarına dönmeye çalıştı; bu sırada reaktör, RBMK tasarımının en tehlikeli bölgesine yaklaştı.\n\nINSAG-7 değerlendirmesi kazayı yalnız operatör hatasıyla açıklamaz. Düşük güçte kararsızlık, yüksek pozitif boşluk katsayısı, kontrol çubuklarının grafit uçlarının ilk anda reaktiviteyi artırabilmesi ve yetersiz güvenlik kültürü birlikte etkiliydi. AZ-5 düğmesine basıldığında beklenen şey acil kapanmaydı; fakat oluşan koşullarda kısa süreli pozitif reaktivite etkisi güç artışını kesmek yerine şiddetlendirdi. Sonuç yakıt kanallarının hasarı, buhar patlamaları ve reaktörün parçalanması oldu.\n\nDizi kontrol odasındaki baskıyı anlaşılır bir gece dramına dönüştürür. Tarihsel ders daha geniştir: kötü tasarım, eksik eğitim ve hiyerarşik kurum kültürü bir araya geldiğinde güvenlik testi, sistemi koruyan değil çöküşü tetikleyen mekanizmaya dönüşebilir.",
+        "accuracyNote": "Dizi test gecesinin ana akışını korur; ancak kazayı tek bir emir ya da tek bir operatör hatası gibi okumak INSAG-7'nin sistemsel bulgularını zayıflatır.",
+        "sources": [
+          {
+            "title": "IAEA - INSAG-7: The Chernobyl Accident, Updating of INSAG-1",
+            "url": "https://www.iaea.org/publications/3786/the-chernobyl-accident-updating-of-insag-1",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "U.S. NRC - Backgrounder on Chernobyl Nuclear Power Plant Accident",
+            "url": "https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/chernobyl-bg",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "World Nuclear Association - RBMK Reactors Appendix",
+            "url": "https://world-nuclear.org/information-library/appendices/rbmk-reactors",
+            "type": "technical",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-153-liquidators",
+          "tf26-155-radiation-myth",
+          "tf26-156-soviet-secrecy"
+        ],
+        "mediaChanged": "Dizi olayları tek gece gerilimi olarak sadeleştirir; teknik değerlendirmeler test koşulları, RBMK tasarımı, kontrol çubuğu etkisi ve güvenlik kültürünü birlikte ele alır.",
+        "quickRealityCheck": "AZ-5 düğmesi neden teoride güvenlik hamlesiyken Çernobil koşullarında güç artışını şiddetlendirebildi?",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-153-liquidators",
+      "set": {
+        "subtitle": "Felaketin insan gücüyle yürüyen temizliği",
+        "whatWeSee": "Chernobyl dizisi tasfiye ekiplerini birkaç unutulmaz ve çok yoğun sahne üzerinden gösterir: çatıya saniyelik çıkışlar, kirli enkaz, maden işçileri, helikopterler ve koruyucu ekipman tartışmaları. Bu anlatı doğru bir baskı duygusu verir; ancak gerçek operasyon birkaç kahramanlık anından ibaret değil, yıllara yayılan büyük bir insan gücü ve koordinasyon programıdır.",
+        "realHistory": "“Likvidator” terimi, Çernobil kazasından sonra acil müdahale ve iyileştirme çalışmalarına katılan çok geniş grubu anlatır. UNSCEAR ve NRC verileri, yüz binlerce kayıtlı recovery worker bulunduğunu; NRC'nin yaklaşık 600.000 kişinin temizlik ve toparlanma faaliyetlerinde görev aldığını aktardığını gösterir. Bu grubun içinde askerler, itfaiyeciler, mühendisler, sağlık personeli, maden işçileri, helikopter ekipleri, inşaat çalışanları ve ölçüm ekipleri vardı.\n\nİş yalnız reaktör çatısındaki grafit parçalarını kaldırmak değildi. Dekontaminasyon, kirlenmiş toprağın taşınması, yerleşim alanlarının yıkanması, ekipman gömülmesi, geçici atık sahalarının kurulması, doz ölçümü ve sarkofag inşası aynı zincirin parçalarıydı. Robotların yüksek radyasyonda arıza vermesi, bazı en tehlikeli görevlerin insanlara kısa süreli rotasyonlarla yaptırılmasına yol açtı; dizi bunu doğru ve güçlü biçimde yakalar.\n\nSağlık riski ise herkes için aynı değildi. İlk günlerde reaktöre çok yakın çalışanlar en yüksek dozları aldı; sonraki geniş personel grubunda dozlar görev türüne ve süreye göre çok değişti. Bu nedenle tasfiye ekiplerini tek bir kader anlatısına sıkıştırmak yanıltıcı olur. Kalıcı ders, yüksek teknolojili felaketlerde insan emeğinin çoğu zaman son güvenlik katmanı haline gelmesidir.",
+        "accuracyNote": "Dizideki çatı ve maden sekansları gerçek operasyonlardan beslenir; fakat likvidator deneyimi birkaç sahneden çok daha geniş ve yıllara yayılan bir müdahale ağıdır.",
+        "whyInteresting": "Nükleer çağın en karmaşık krizlerinden biri, otomasyonun yetmediği yerde insan emeğine ve kısa süreli risk rotasyonlarına dayandı.",
+        "misconception": "Likvidatorlerin yalnızca birkaç gönüllü askerden oluştuğu sanılır; gerçekte görev türü ve doz düzeyi çok değişen yüz binlerce kişilik bir ağ vardı.",
+        "sources": [
+          {
+            "title": "UNSCEAR - The Chornobyl Accident",
+            "url": "https://www.unscear.org/unscear/en/areas-of-work/chernobyl.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "U.S. NRC - Backgrounder on Chernobyl Nuclear Power Plant Accident",
+            "url": "https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/chernobyl-bg",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "IAEA - Chernobyl's Legacy: Health, Environmental and Socio-Economic Impacts",
+            "url": "https://www.iaea.org/sites/default/files/chernobyl.pdf",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-151-reactor-test",
+          "tf26-155-radiation-myth",
+          "tf26-156-soviet-secrecy"
+        ],
+        "mediaConnection": "Chernobyl'in yoğun kriz sahneleri, UNSCEAR ve NRC'nin recovery worker verileriyle birlikte okunduğunda operasyonun gerçek ölçeği görünür olur.",
+        "mediaChanged": "Dizi en tehlikeli anları öne çıkarır; tarihsel kayıtlar tasfiyenin çatı görevlerinden dekontaminasyon, atık yönetimi ve sarkofag inşasına uzanan geniş bir program olduğunu gösterir.",
+        "whyItMatters": "Felaket yönetiminde teknik kapasite çöktüğünde son güvenlik katmanının çoğu zaman insan emeği olduğunu hatırlatır.",
+        "quickRealityCheck": "Likvidatorlerin işi yalnız reaktör çatısındaki kısa görevlerden mi oluşuyordu?",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-155-radiation-myth",
+      "set": {
+        "subtitle": "Doz, korku ve belirsizlik aynı şey değil",
+        "realHistory": "Çernobil sonrası radyasyon korkusu iki ayrı düzlemde büyüdü: ölçülebilir biyolojik zarar ve belirsizlikten kaynaklanan toplumsal kaygı. Reaktör çevresinde ilk saatlerde çok yüksek doza maruz kalan personel ve ilk müdahale ekiplerinde akut radyasyon sendromu görüldü. UNSCEAR, 26 Nisan sabahı sahada bulunan 600 çalışandan 134'ünün yüksek doz alıp radyasyon hastalığı yaşadığını, 28'inin ilk üç ayda öldüğünü bildirir. Bu, felaketin en ağır kısa dönem sağlık yüküdür.\n\nDaha geniş nüfusta tablo farklıdır. En güçlü uzun dönem kanıt, özellikle çocuk ve ergenlerde iyot-131 maruziyetiyle bağlantılı tiroid kanseri artışında toplandı. WHO, radyoaktif iyodun otlaklara, oradan inek sütüne geçtiğini ve kontamine süt içen çocukların tiroid dozlarının yükseldiğini vurgular. Buna karşılık, düşük doz alan geniş nüfusta tüm kanser türlerinde aynı ölçüde net bir artış göstermek çok daha zordur.\n\nBu ayrım felaketin hafif olduğu anlamına gelmez. Tahliye, damgalanma, iş kaybı, doğurganlık korkuları, resmi bilginin geç ve eksik verilmesi ve uzun süreli sağlık endişesi milyonlarca insanda psikososyal yük yarattı. Bu yüzden Çernobil'in radyasyon korkusu ne tamamen irrasyonel ne de yalnız doz hesabıyla açıklanabilir. Dizi görünmez tehdidi güçlü hissettirir; tarihsel değerlendirme ise doz, maruziyet yolu ve güvenilir kamu iletişimini birlikte düşünmeyi gerektirir.",
+        "accuracyNote": "Dizi radyasyonu görünmez ve yaygın bir tehdit olarak güçlü verir. Bilimsel tablo ise akut yüksek doz, tiroid maruziyeti, düşük doz belirsizliği ve psikososyal etkileri ayrı değerlendirir.",
+        "sources": [
+          {
+            "title": "UNSCEAR - The Chornobyl Accident",
+            "url": "https://www.unscear.org/unscear/en/areas-of-work/chernobyl.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "WHO - Health effects of the Chernobyl accident: an overview",
+            "url": "https://www.who.int/docs/default-source/documents/publications/health-effects-of-the-chernobyl-accident.pdf",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "IAEA - Chernobyl's Legacy: Health, Environmental and Socio-Economic Impacts",
+            "url": "https://www.iaea.org/sites/default/files/chernobyl.pdf",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "mediaChanged": "Dizi görünmez tehdidi dramatik olarak yoğunlaştırır; UNSCEAR ve WHO değerlendirmeleri, farklı maruziyet yollarının aynı sağlık sonucuna indirgenemeyeceğini gösterir.",
+        "whyItMatters": "Radyasyon korkusunu doğru anlamak, hem sağlık riskini küçümsememek hem de belirsizliği toplumsal paniğe dönüştürmemek için kritiktir.",
+        "quickRealityCheck": "Çernobil sonrası en güçlü uzun dönem kanıt neden özellikle çocukluk çağı tiroid kanseri alanında toplandı?",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-156-soviet-secrecy",
+      "set": {
+        "subtitle": "Felaketi saklamak ikinci krizi yarattı",
+        "whatWeSee": "Chernobyl dizisinde felaket yalnız reaktör patlaması değil, bilginin gecikmesi olarak da anlatılır. Yerel yetkililer riski küçültür, tahliye kararı bekler, uzman uyarıları hiyerarşiye çarpar. Dizi bu gizlilik refleksini dramatik biçimde yoğunlaştırır; gerçek tarih de ilk günlerde Sovyet kurumlarının bilgiyi geç, kontrollü ve parçalı verdiğini gösterir.",
+        "realHistory": "### İlk saatlerde bilgi akışı\n\n26 Nisan 1986'da Çernobil 4. reaktöründeki patlamadan sonra Sovyet yönetiminin ilk refleksi, kamuoyunu hızla bilgilendirmekten çok krizi kapalı bir idari zincir içinde tutmak oldu. Yerel düzeyde ölçüm ve gözlem vardı, fakat riskin halka açık biçimde adlandırılması gecikti. Pripyat'ta günlük hayat bir süre devam etti; tahliye 27 Nisan öğleden sonra başladı ve birkaç saat içinde tamamlandı. IAEA Bulletin'de yayımlanan Sovyet kaynaklı değerlendirme, Pripyat'taki radyasyon durumunun 26 Nisan gecesinden 27 Nisan sabahına kötüleştiğini ve tahliye kararının beklenen maruziyet düzeyleri nedeniyle alındığını aktarır.\n\nBu gecikmeyi yalnız teknik belirsizlikle açıklamak eksik kalır. Sovyet sisteminde kötü haberin yukarıya taşınması, sorumluluğun paylaşılması ve kamuoyuna açık kabul yapılması siyasi risk taşıyordu. Nükleer enerji, devlet prestijiyle bağlantılıydı; bu yüzden kazanın büyüklüğünü kabul etmek yalnız teknik başarısızlığı değil, kurumların güvenilirliğini de tartışmaya açıyordu. Yerel yöneticiler ile merkezi makamlar arasındaki onay zinciri, halk sağlığı açısından değerli saatlerin kaybolmasına yol açtı.\n\n### İsveç alarmı ve uluslararası baskı\n\nGizlilik 28 Nisan'da kırıldı. IAEA'nın “Information exchange after Chernobyl” değerlendirmesi, İsveç ve Finlandiya'da yükselen radyasyon seviyelerinin o gün duyurulduğunu; meteorolojik verilerin kaynağı Sovyetler Birliği yönünde işaret ettiğini ve aynı akşam SSCB'nin Çernobil'de ciddi bir kaza olduğunu doğruladığını belirtir. ABD Dışişleri tarih belgeleri de Moskova'nın, yüksek radyasyonun İskandinavya'da ölçülmesi ve IAEA üzerinden yapılan sorgulamalar sonrasında kazayı kabul ettiğini aktarır.\n\nBu yüzden dizideki “dış dünyanın ölçümü gerçeği açığa çıkarıyor” hissi tarihsel olarak yerindedir. Ancak süreç tek bir sahneden ibaret değildi: Avrupa'daki ölçüm ağları, diplomatik temaslar, meteoroloji analizi ve Sovyet açıklamalarının kademeli genişlemesi birlikte etkili oldu. İlk resmi açıklamalar kısa ve kontrollüydü; kazanın büyüklüğü, reaktör yangınının süresi ve çevresel yayılımı zamanla daha açık hale geldi. Bu parçalı bilgi akışı, zaten zayıflamış olan kurumsal güveni daha da aşındırdı. Daha sonra glasnost dili güçlense bile ilk günlerdeki sessizlik, felaketin toplumsal hafızasında neredeyse reaktör patlaması kadar belirleyici bir yer tuttu.\n\n### Güven kaybının maliyeti\n\nÇernobil sonrası bilgi eksikliği yalnız ilk günleri etkilemedi. Chernobyl Forum'un değerlendirmesi, kazadan sonra güvenilir bilginin başlangıçta yetersiz kaldığını ve bunun resmi açıklamalara duyulan güvensizliği büyüttüğünü vurgular. İnsanlar yalnız radyasyondan değil, neye inanacaklarını bilememekten de zarar gördü. Sağlık riskleri hakkındaki belirsizlik, tahliye, yeniden yerleşim, damgalanma ve ekonomik çöküşle birleşince psikososyal etki büyüdü.\n\nDizi bu gerçeği bürokrasi ve korku üzerinden dramatize eder. Bazı karakterler ve toplantılar temsilî biçimde sıkıştırılmış olsa da ana mekanizma tarihsel olarak sağlamdır: bilgi, tehlikeyi azaltması gerekirken rejim refleksiyle filtrelenir. Tarihsel ders daha somuttur: nükleer felakette gizlilik, teknik hasarın üzerine ikinci bir kriz bindirir. Reaktörü kontrol etmek kadar halkın ne zaman, nerede ve nasıl korunacağını açıkça anlatmak da afet yönetiminin parçasıdır.",
+        "accuracyNote": "Dizi Sovyet gizlilik refleksini temsilî toplantılar ve sıkıştırılmış zaman akışıyla dramatize eder. Pripyat tahliyesinin gecikmesi, İskandinavya'daki ölçümler ve ilk resmi açıklamanın geç gelmesi tarihsel kaynaklarla uyumludur.",
+        "whyInteresting": "Çernobil, modern afet tarihinde bilginin saklanmasının teknik felaket kadar yıkıcı olabileceğini gösteren en güçlü örneklerden biridir.",
+        "misconception": "Sovyet yetkililerin ilk andan itibaren halkı ve komşu ülkeleri açıkça bilgilendirdiği sanılır; gerçekte kabul ve açıklama uluslararası ölçümlerden sonra genişledi.",
+        "sources": [
+          {
+            "title": "IAEA Bulletin - Information exchange after Chernobyl",
+            "url": "https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull28-3/28302741822.pdf",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "U.S. State Department Office of the Historian - Chernobyl aftermath in Western Europe",
+            "url": "https://history.state.gov/historicaldocuments/frus1981-88v05/d220",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "IAEA Bulletin - Radiological consequences of the Chernobyl accident in the Soviet Union",
+            "url": "https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull29-4/29402791724.pdf",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "IAEA - Chernobyl's Legacy: Health, Environmental and Socio-Economic Impacts",
+            "url": "https://www.iaea.org/sites/default/files/chernobyl.pdf",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-151-reactor-test",
+          "tf26-155-radiation-myth",
+          "tf26-158-exclusion-zone"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "mediaConnection": "Chernobyl dizisinin bilgi gecikmesi anlatısı, IAEA bilgi akışı değerlendirmeleri ve İskandinavya'daki radyasyon ölçümleriyle doğrudan bağ kurar.",
+        "mediaChanged": "Dizi gizliliği birkaç yoğun toplantıya indirger; tarihsel süreçte yerel ölçümler, merkezi onay zinciri, İskandinavya'daki alarmlar ve diplomatik baskı birlikte belirleyici oldu.",
+        "whyItMatters": "Gizlilik, halk sağlığı kararlarını geciktirerek teknik kazayı güven krizine ve uzun süreli psikososyal yüke dönüştürdü.",
+        "quickRealityCheck": "Sovyet açıklaması neden kazadan hemen sonra değil, İsveç ve Finlandiya'daki radyasyon ölçümlerinden sonra geldi?",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-157-firefighters",
+      "set": {
+        "subtitle": "Yangın çağrısı, nükleer felaket",
+        "whatWeSee": "Chernobyl'in ilk bölümündeki itfaiyeci sahneleri, felaketin görünmezliğini insan ölçeğine indirir. Yangın varmış gibi çağrılan ekipler, gerçekte parçalanmış bir reaktörün yanında çalışır. Dizi bu cehalet ve cesaret karışımını çok sert gösterir; tarihsel kayıtlar da ilk müdahale ekiplerinin en yüksek riskli gruplardan biri olduğunu doğrular.",
+        "realHistory": "26 Nisan 1986 gecesi Pripyat ve Çernobil çevresindeki itfaiye birimleri santral yangınına çağrıldı. İlk ekipler, sıradan bir endüstriyel yangınla karşılaştıklarını düşünmeye daha yakındı; reaktör çekirdeğinin parçalandığı ve çevrede yüksek düzeyde radyoaktif grafit ile yakıt kalıntısı bulunduğu bilgisi açık ve kullanılabilir biçimde ellerinde değildi. Bu nedenle birçok kişi uygun radyasyon koruması olmadan çatı, türbin binası ve reaktör çevresinde çalıştı.\n\nUNSCEAR'a göre 26 Nisan sabahı sahada bulunan 600 çalışandan 134'ü akut radyasyon sendromu geliştirecek kadar yüksek doz aldı; 28 kişi ilk üç ayda öldü. Bu sayı yalnız itfaiyecileri değil, santral personeli ve diğer ilk müdahalecileri de kapsar. Dolayısıyla “bütün itfaiyeciler aynı kaderi yaşadı” demek doğru değildir; ama en ağır maruziyetin ilk saatlerde reaktöre en yakın çalışanlarda yoğunlaştığı açıktır.\n\nDizi, Vasily Ignatenko gibi gerçek kişilerden esinlenen hikâyelerle bu trajediyi kişiselleştirir. Bazı diyaloglar ve hastane sahneleri dramatize edilmiştir; fakat temel çerçeve sağlamdır: görünmez tehlike doğru adlandırılmadan insanlar normal yangın protokolüyle olağanüstü bir nükleer kazaya gönderildi.",
+        "accuracyNote": "İlk müdahale ve yüksek maruziyet iyi belgelenmiştir; fakat ARS ve ölüm sayıları yalnız itfaiyecilere değil, sahadaki en yüksek doz alan çalışan ve müdahaleci grubuna aittir.",
+        "whyInteresting": "Görünmez tehlikenin normal yangın protokolüyle karşılanması, teknolojik felaketlerde bilgi eksikliğinin insan bedelini açıkça gösterir.",
+        "misconception": "İtfaiyecilerin tamamının riski bildiği ya da tamamının aynı dozda maruz kaldığı sanılır; kayıtlar bilgi eksikliği ve çok farklı maruziyet düzeyleri gösterir.",
+        "sources": [
+          {
+            "title": "UNSCEAR - The Chornobyl Accident",
+            "url": "https://www.unscear.org/unscear/en/areas-of-work/chernobyl.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "IAEA - Chernobyl's Legacy: Health, Environmental and Socio-Economic Impacts",
+            "url": "https://www.iaea.org/sites/default/files/chernobyl.pdf",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "WHO - Health effects of the Chernobyl accident: an overview",
+            "url": "https://www.who.int/docs/default-source/documents/publications/health-effects-of-the-chernobyl-accident.pdf",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-151-reactor-test",
+          "tf26-155-radiation-myth",
+          "tf26-156-soviet-secrecy"
+        ],
+        "tags": [
+          "cernobil",
+          "nukleer",
+          "afet",
+          "itfaiyeciler",
+          "true-frame"
+        ],
+        "mediaConnection": "Chernobyl'in itfaiyeci sahneleri, UNSCEAR'ın akut radyasyon sendromu verileriyle birlikte okunduğunda ilk saatlerin riski daha doğru anlaşılır.",
+        "mediaChanged": "Dizi bireysel trajediyi yoğunlaştırır; sağlık kayıtları ise ARS vakalarının santral personeli ve ilk müdahalecilerden oluşan daha geniş bir yüksek doz grubuna ait olduğunu gösterir.",
+        "whyItMatters": "Acil müdahale ekiplerinin doğru bilgiye erişimi, koruyucu ekipman kadar yaşamsaldır.",
+        "quickRealityCheck": "UNSCEAR'ın 134 ARS vakası yalnız itfaiyecileri mi, yoksa sahadaki daha geniş ilk müdahale/personel grubunu mu kapsıyor?",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-158-exclusion-zone",
+      "set": {
+        "subtitle": "Tahliye çizgisi, kalıcı coğrafya",
+        "whatWeSee": "Chernobyl dizisinde Dışlama Bölgesi, yalnız boş binalar ve ürkütücü sokaklardan oluşan bir dekor değildir. Pripyat'ın tahliyesiyle ev, okul, iş ve hafıza bir anda idari bir sınırın dışında kalır. Kamera hayalet şehir hissini büyütür; gerçek tarih ise bu bölgenin uzun süreli güvenlik, temizlik, atık ve zorunlu göç yönetimi olduğunu gösterir.",
+        "realHistory": "Çernobil kazasından sonra Sovyet yetkililer santral çevresinde önce acil tahliye alanları, ardından 30 kilometrelik Dışlama Bölgesi oluşturdu. Pripyat'ın tahliyesi 27 Nisan 1986 öğleden sonra başladı; kent sakinlerine bunun geçici olacağı söylendiği için birçok kişi eşyalarını geride bıraktı. NRC, 1986'da en kirli alanlardan yaklaşık 115.000 kişinin, sonraki yıllarda ise 220.000 kişinin daha tahliye veya yeniden yerleştirme süreçlerinden geçtiğini aktarır.\n\nBölge zamanla yalnız boşaltılmış bir harita parçası olmaktan çıktı. Reaktör çevresinde enkaz temizliği, kirli toprağın kaldırılması, geçici atık depolama, ölçüm, güvenlik kontrolü ve sarkofag çalışmaları yürütüldü. IAEA değerlendirmeleri, Çernobil sahası ve Dışlama Bölgesi'nde oluşan radyoaktif atıkların uzun vadeli yönetiminin hâlâ temel sorunlardan biri olduğunu vurgular.\n\nBugün Dışlama Bölgesi popüler kültürde çoğu zaman paslanmış dönme dolap ve boş apartman imgeleriyle hatırlanır. Bu imgeler güçlüdür ama eksiktir. Bölge aynı zamanda zorunlu göçün, devlet kontrolünün, ekolojik geri dönüşün ve uzun ömürlü kontaminasyonun iç içe geçtiği bir mekândır. Dizi bu mekânı simgesel olarak kullanır; tarihsel gerçeklik ise sınırın yalnız coğrafi değil, toplumsal ve hukuki bir kesinti olduğunu gösterir.",
+        "accuracyNote": "Dizi Dışlama Bölgesi'ni güçlü bir görsel sembol haline getirir. Tarihsel olarak bölge, 30 km güvenlik sınırı, tahliyeler, atık yönetimi ve uzun vadeli kontrol rejimiyle birlikte anlaşılmalıdır.",
+        "whyInteresting": "Bir nükleer kaza, yalnız reaktörü değil haritayı, mülkiyeti, hafızayı ve devlet kontrolünü de yeniden çizdi.",
+        "misconception": "Dışlama Bölgesi'nin kazadan sonra tamamen boş ve hareketsiz kaldığı sanılır; gerçekte yıllarca temizlik, ölçüm, güvenlik ve atık yönetimi çalışmaları sürdü.",
+        "sources": [
+          {
+            "title": "U.S. NRC - Backgrounder on Chernobyl Nuclear Power Plant Accident",
+            "url": "https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/chernobyl-bg",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "IAEA - Environmental Consequences of the Chernobyl Accident and their Remediation",
+            "url": "https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1239_web.pdf",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "IAEA - Chernobyl's Legacy: Health, Environmental and Socio-Economic Impacts",
+            "url": "https://www.iaea.org/sites/default/files/chernobyl.pdf",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-156-soviet-secrecy",
+          "tf26-153-liquidators",
+          "tf26-155-radiation-myth"
+        ],
+        "mediaConnection": "Chernobyl'in Pripyat ve Zone sahneleri, NRC'nin tahliye verileri ve IAEA'nın çevresel/atık yönetimi değerlendirmeleriyle tamamlandığında daha doğru okunur.",
+        "mediaChanged": "Dizi Zone'u hayalet şehir imgesiyle güçlendirir; tarihsel kaynaklar bu alanın aynı zamanda tahliye, iş gücü, güvenlik ve radyoaktif atık yönetimi rejimi olduğunu gösterir.",
+        "whyItMatters": "Dışlama Bölgesi, afetlerin yalnız can kaybı değil kalıcı mekânsal ve toplumsal kopuş yarattığını gösterir.",
+        "quickRealityCheck": "Pripyat tahliyesinin geçici olacağı söylenmesi, insanların eşyalarını geride bırakmasını nasıl etkiledi?",
+        "lastReviewedAt": "2026-06-28"
+      }
+    }
+  ]
+}

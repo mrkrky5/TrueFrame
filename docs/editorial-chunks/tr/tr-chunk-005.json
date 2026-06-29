@@ -1,0 +1,282 @@
+{
+  "locale": "tr",
+  "chunkIndex": 5,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "last-kingdom-danelaw",
+      "title": "Danelaw",
+      "subtitle": "Vikinglerin yönettiği İngiltere",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "era": "Orta Çağ",
+      "region": "İngiltere",
+      "themes": [
+        "Siyaset",
+        "Hukuk",
+        "Kültür"
+      ],
+      "whatWeSee": "Vikinglerin İngiltere'nin yarısını işgal ettiği ve kendi yasalarıyla yönettiği bir dönem izleriz.",
+      "realHistory": "yüzyılın sonlarında İngiltere, tek bir krallık değil, Viking akınlarıyla sarsılan ve parçalanmış bir coğrafyaydı. Danelaw (Dan yasası), Büyük Alfred'in Viking lideri Guthrum'u mağlup etmesinin ardından yapılan Wedmore Antlaşması ile kurulan siyasi ve hukuki bir bölgedir. Bu bölge, İngiltere'nin kuzey ve doğu kısımlarını kapsıyordu ve burada Anglo-Sakson yasaları yerine 'Dan yasaları' (Viking hukuku) geçerliydi. Danelaw, İngiltere'nin içinde bir 'İskandinav adası' gibiydi ve adanın kaderini sonsuza dek değiştirdi. İngiltere, bu dönemde iki farklı medeniyetin aynı toprakları paylaştığı benzersiz bir deneyim yaşadı. Vikinglerin 'Büyük Ordu' (Great Heathen Army) ile İngiltere'yi neredeyse tamamen yuttuğu bir dönemde, sadece Wessex krallığı ayakta kalabilmişti. Kral Alfred, bataklıklara sığınarak gerilla savaşı başlatmış ve sonunda Edington Muharebesi'nde (878) Vikingleri durdurmayı başarmıştır. Alfred, sadece askeri bir deha değil, aynı zamanda vizyoner bir devlet adamıydı. Vikinglerle mutlak bir zafer kazanamayacağını anlayınca, adayı ikiye bölen ve Viking yerleşimini yasal bir statüye kavuşturan Danelaw çözümünü kabul etmiştir. Bu, İngiltere'nin birleşmesi yolundaki ilk 'stratejik geri çekilme' ve diplomatik deha örneğidir. Danelaw bölgesinde sosyal yapı, İngiltere'nin geri kalanından farklıydı. Viking yerleşimciler, buraya kendi özgürlükçü hukuk sistemlerini getirmişlerdi. 'Thing' adı verilen halk meclisleri, mülkiyet hakları ve suçların cezalandırılması konusundaki kurallar, bugün İngiliz hukuk sistemindeki 'Common Law'un (Ortak Hukuk) ve jüri sisteminin en eski köklerini oluşturur. Danelaw'da yaşayan köylüler (Sokemen), Wessex'teki köylülere göre çok daha fazla hakka ve toprağa sahipti. Bu durum, bölgenin ekonomik ve sosyal olarak hızla gelişmesini sağlamıştır. Viking hukuku, statüden ziyade kanıtlara ve topluluk kararına dayanıyordu. Vikingler ve Saksonlar arasındaki etkileşim, İngiliz dilinde devasa bir iz bırakmıştır. İskandinav kökenli 'Old Norse' dili ile yerel 'Old English' birbirine çok yakındı ve zamanla harmanlandılar. Bugün İngilizcede kullandığımız en temel kelimeler aslında Viking mirasıdır. Danelaw, bir savaş bölgesi olmasının ötesinde, iki farklı Germen kültürünün birbirini dönüştürdüğü devasa bir laboratuvar gibiydi. 'Sky', 'egg', 'die', 'give' gibi kelimelerin Sakson karşılıkları varken, Viking versiyonlarının hayatta kalması, Danelaw'ın toplumsal hayattaki baskınlığını gösterir. İngiltere'nin kuzeyindeki aksanlar hala bu İskandinav etkisinin tınılarını taşır. Danelaw yönetimi altında, bölgede 'Five Boroughs' (Beş Şehir) olarak bilinen beş ana askeri ve ticari merkez kurulmuştur: Derby, Leicester, Lincoln, Nottingham ve Stamford. Bu şehirler, Vikinglerin geniş ticaret ağları sayesinde hızla büyümüş ve İngiltere'nin ekonomik merkezleri haline gelmişlerdir. Vikinglerin kurduğu bu şehir yapısı, İngiltere'nin kuzeyinin sanayileşme öncesindeki kentsel dokusunun temelini oluşturmuştur. York (Jorvik) şehri ise bu krallığın başkenti ve o dönemin en önemli ticaret limanlarından biri olarak parlamıştır. Kazılarda bulunan ipek ve baharat kalıntıları, Danelaw'ın dünyayla olan bağını kanıtlar. Danelaw'ın kuruluşuyla birlikte, Vikinglerin Hristiyanlaşma süreci de hızlanmıştır. Alfred ve Guthrum.",
+      "accuracyNote": "Dizideki Alfred'in 'Birleşik İngiltere' hayali tarihsel bir gerçektir ve Danelaw bu hayalin önündeki en büyük engeldi.",
+      "whyInteresting": "İngilizcedeki 'law' (yasa), 'sky' (gökyüzü) ve 'husband' (eş) gibi binlerce kelime Danelaw dönemindeki İskandinav etkisinden gelir.",
+      "misconception": "Vikinglerin sadece yakıp yıktığı sanılır; Danelaw döneminde yerleşik hayata geçmiş, çiftçilik ve ticaretle uğraşmışlardır.",
+      "nextTopics": [
+        "Büyük Alfred",
+        "Guthrum",
+        "Jorvik Viking Center"
+      ],
+      "sources": [
+        {
+          "title": "The Danelaw (British Museum)",
+          "url": "https://www.britishmuseum.org/collection/cultures/viking-age",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Alfred the Great and the Danelaw (BBC History)",
+          "url": "https://www.bbc.co.uk/history/ancient/vikings/danelaw_01.shtml",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [
+        "Vikings"
+      ],
+      "relatedCardIds": [
+        "vikings-raid",
+        "last-kingdom-alfred-england",
+        "last-kingdom-alfred-dream"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-27",
+      "reviewerNote": "Legal boundaries and linguistic impact verified by British Museum resources.",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Bu kart, The Last Kingdom yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "hukuk",
+        "ingiltere",
+        "kltr",
+        "orta-cag",
+        "siyaset",
+        "the-last-kingdom"
+      ],
+      "isFlagship": true,
+      "mediaChanged": "Dizideki Uhtred karakteri kurgusaldır (ancak gerçek bir soylu ailesinden esinlenilmiştir). Büyük Alfred'in sağlığı ve dini bağlılığı dizideki kadar uç noktalarda olmasa da, vizyonu ve stratejik dehası gerçektir.",
+      "whyItMatters": "İngilizcedeki 'law' (yasa), 'sky' (gökyüzü) ve 'husband' (eş) gibi binlerce kelime Danelaw dönemindeki İskandinav etkisinden gelir.",
+      "quickRealityCheck": "Danelaw bir geçici ateşkes değil, kurumsal etkileri yüzyıllar süren bir düzenlemeydi.",
+      "spoilerNote": "The Last Kingdom hikâyesine dair ipuçları içerebilir; sonu anlatmaz."
+    },
+    {
+      "id": "viking-horned-helmet",
+      "title": "Boynuzlu Miğfer Miti",
+      "subtitle": "Savaşçıların hiç takmadığı aksesuar",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Orta Çağ",
+      "region": "İskandinavya",
+      "themes": [
+        "Kültür",
+        "Sanat",
+        "Savaş"
+      ],
+      "whatWeSee": "Vikinglerin savaş meydanında korkutucu görünmek için boynuzlu miğferler taktığını görürüz.",
+      "realHistory": "Vikinglerin boynuzlu miğfer taktığına dair hiçbir arkeolojik kanıt yoktur. Günümüze ulaşan tek eksiksiz Viking miğferi olan 'Gjermundbu' miğferi, boynuzsuz ve sade bir demir yapıdadır. Boynuzlu miğfer imajı, 19. yüzyılda Richard Wagner'ın 'Nibelung Yüzüğü' operası için kostüm tasarımcısı Carl Emil Doepler tarafından yaratılmıştır. Doepler, Vikingleri daha vahşi ve heybetli göstermek için bu boynuzları eklemiş ve bu kurgu zamanla popüler kültürün ayrılmaz bir parçası olmuştur. Gerçekte boynuzlu bir miğfer, yakın dövüşte savaşçı için büyük bir dezavantajdı; çünkü bir kılıç veya balta darbesinin miğfere takılıp boyun kırılmasına neden olması çok kolaydı. Vikingler, işlevselliği estetikten her zaman üstün tutan pragmatik bir toplumdu.\n\nBoynuzlu miğferler aslında Vikinglerden binlerce yıl önce, Bronz Çağı İskandinavya'sında sadece dini ritüeller ve törenler için kullanılmıştır.\n\nBu aletlerin birer savaş aksesuarı olarak hayal edilmesi, Orta Çağ insanını daha 'vahşi' göstermek isteyen modern bir kurgudur.\n\nYaygın bir izlenim, Vikinglerin her zaman bu şekilde göründüğü olduğudur; kayıtlar ise bu tamamen romantik bir hayal gücü ürünüdür.\n\nDikkat çeken bir ayrıntı: boynuzlu miğferler aslında Vikinglerden binlerce yıl önce, Bronz Çağı İskandinavya'sında sadece dini ritüeller ve törenler için kullanılmıştır. Bu aletlerin birer savaş aksesuarı olarak hayal edilmesi, Orta Çağ insanını daha 'vahşi' göstermek isteyen modern bir kurgudur.",
+      "accuracyNote": "Vikings dizisinde boynuzlu miğfer kullanılmasa da, karakterlerin saç stilleri ve deri zırhları tarihsel olarak yanlıştır. Gerçek Vikingler yün kumaşlar, zincir zırhlar ve sade çelik miğferler tercih ederlerdi.",
+      "whyInteresting": "Boynuzlu miğferler aslında Vikinglerden binlerce yıl önce, Bronz Çağı İskandinavya'sında sadece dini ritüeller ve törenler için kullanılmıştır. Bu aletlerin birer savaş aksesuarı olarak hayal edilmesi, Orta Çağ insanını daha 'vahşi' göstermek isteyen modern bir kurgudur.",
+      "misconception": "Vikinglerin her zaman bu şekilde göründüğü sanılır; oysa bu tamamen romantik bir hayal gücü ürünüdür.",
+      "nextTopics": [
+        "Gjermundbu Miğferi",
+        "Richard Wagner",
+        "Bronz Çağı Ritüelleri"
+      ],
+      "sources": [
+        {
+          "title": "The Myth of Horned Helmets (National Museum of Denmark)",
+          "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/the-viking-warrior/helmets/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Did Vikings Wear Horned Helmets? (Smithsonian)",
+          "url": "https://www.smithsonianmag.com/history/did-vikings-really-wear-horned-helmets-180979360/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [
+        "The Northman",
+        "God of War"
+      ],
+      "relatedCardIds": [
+        "vikings-raid",
+        "vikings-silk-road-trade",
+        "vikings-funeral-fadlan-real"
+      ],
+      "difficulty": "easy",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-24",
+      "reviewerNote": "Gjermundbu helmet records confirm the lack of horns in combat gear.",
+      "spoilerLevel": "none",
+      "mediaConnection": "Bu kart, Vikings yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "iskandinavya",
+        "kltr",
+        "orta-cag",
+        "sanat",
+        "savas",
+        "vikings"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Dizinin görsel dili boynuzlu miğfer kullanılmasa da, karakterlerin saç stilleri ve deri zırhları tarihsel olarak yanlıştır. Tarihsel kayıtlara göre Vikingler yün kumaşlar, zincir zırhlar ve sade çelik miğferler tercih ederlerdi.",
+      "whyItMatters": "Bu nesnelerin birer savaş aksesuarı olarak hayal edilmesi, Orta Çağ insanını daha 'vahşi' göstermek isteyen modern bir kurgudur.",
+      "quickRealityCheck": "Tamamen kurgu. Boynuzlu miğferler bir 19. yüzyıl opera tasarımının mirasıdır; gerçek Vikingler asla boynuzlu miğferlerle savaşmadılar.",
+      "spoilerNote": ""
+    },
+    {
+      "id": "iron-maiden-myth",
+      "title": "Demir Bakire",
+      "subtitle": "Korkunç bir müze sahtekarlığı",
+      "mediaType": "film",
+      "mediaTitle": "Korku Filmleri / Genel",
+      "era": "Orta Çağ",
+      "region": "Avrupa",
+      "themes": [
+        "Kültür",
+        "Hukuk",
+        "Etik"
+      ],
+      "whatWeSee": "İçi çivilerle dolu, insan şeklinde devasa bir metal kutunun işkence amacıyla kullanıldığını görürüz.",
+      "realHistory": "'Demir Bakire' (Iron Maiden) olarak bilinen o korkunç işkence aleti, aslında Orta Çağ’a ait değildir. Bu alet, 18. yüzyılın sonlarında ve 19. yüzyılın başlarında, Orta Çağ’ın ne kadar 'barbar ve karanlık' olduğunu kanıtlamak isteyen koleksiyoncular ve müzeciler tarafından uydurulmuş bir sahtekarlıktır. İlk örneği 1793 yılında Johann Philipp Siebenkees adında bir tarihçi tarafından Nürnberg’de bir müze için kurgulanmıştır. Farklı antik işkence aletlerinin parçalarını birleştirerek oluşturulan bu yapı, içine konulan kurbanın kapak kapandığında içindeki sivri demirlerle delik deşik edilmesini hayal ettirir. Ancak arkeolojik kazılarda veya gerçek Orta Çağ hukuk kayıtlarında bu aletin kullanıldığına dair tek bir kanıt bile yoktur. Gerçek Orta Çağ işkence aletleri genellikle kemik kırmaya veya teşhir etmeye (utanç maskeleri gibi) odaklıdır; böyle karmaşık bir mekanik yapıya sahip değildirler. Bu aletin yaratılmasındaki asıl amaç, Aydınlanma Çağı insanına 'Bakın biz ne kadar uygarlaştık, atalarımız ne kadar vahşiydi' mesajını vermektir.",
+      "accuracyNote": "Oyunlarda ve korku filmlerinde Demir Bakire, Orta Çağ zindanlarının vazgeçilmez bir parçası olarak gösterilir. Bu tasvir, Viktorya dönemi insanlarının geçmişi daha ilkel ve vahşi gösterme çabasının (Dark Ages efsanesi) bir mirasıdır. Tarihsel bir oyunda bu aleti görmek, o dönemin gerçeklerini değil, modern insanın Orta Çağ hakkındaki önyargılarını temsil eder. Bu aletin en ünlü örneği olan Nürnberg Bakiresi, 1944 yılında müttefiklerin şehri bombalaması sırasında yok olmuştur; ancak dünyanın dört bir yanındaki müzelerde hala bu 19. yüzyıl kurgusunun kopyaları sergilenmektedir. Aslında bu alet, döneminin 'sahte haberi' (fake news) olarak değerlendirilebilir.",
+      "whyInteresting": "Bu aletin adı, 1970’lerin ünlü heavy metal grubu Iron Maiden’a ilham vermiştir; grup ismini bu kurgusal işkence aletinden almıştır. İronik bir şekilde, tarihte hiç var olmamış bir alet, popüler kültürün en güçlü imgelerinden biri haline gelmiştir. Aletin tasarımındaki iğnelerin, kurbanı hemen öldürmeyecek şekilde (hayati organlara denk gelmeyecek gibi) yerleştirildiği iddiası bile, bu sahtekarlığı daha korkunç göstermek için sonradan eklenmiş bir detaydır. Demir Bakire, tarihin bazen gerçeklerden değil, insanların duymak istediği dehşet verici hikayelerden inşa edildiğinin en somut örneğidir. Aletin kapağındaki yüz figürü genellikle Meryem Ana'yı temsil eder, bu da işkenceye dini bir 'günahlardan arınma' kılıfı uydurmak için yapılan bir tasarım tercihidir.",
+      "misconception": "Orta Çağ'ın en meşhur işkence aleti olduğu sanılır; gerçekte bu alet Viktorya dönemi insanlarının hayal gücüydü.",
+      "nextTopics": [
+        "Orta Çağ İşkenceleri",
+        "Viktorya Dönemi Mitosları",
+        "Nuremberg"
+      ],
+      "sources": [
+        {
+          "title": "The Myth of the Iron Maiden (San Diego Museum of Us)",
+          "url": "https://museumofus.org/blog/myth-of-the-iron-maiden",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "History of Torture Devices (University of Chicago Press)",
+          "url": "https://press.uchicago.edu/ucp/books/book/chicago/I/bo3640237.html",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [
+        "Saw",
+        "Sleepy Hollow"
+      ],
+      "relatedCardIds": [
+        "kcd-bohemia"
+      ],
+      "difficulty": "easy",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-27",
+      "reviewerNote": "Tarihsel kayıt incelemesi, bu cihaza 18. yüzyılın sonlarından önce hiçbir referans olmadığını gösteriyor.",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Bu kart, Korku Filmleri / Genel yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "avrupa",
+        "etik",
+        "hukuk",
+        "kltr",
+        "korku-filmleri-gen",
+        "orta-cag"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Popüler korku anlatılarında Demir Bakire, Orta Çağ zindanlarının vazgeçilmez bir parçası olarak gösterilir. Bu görüntüleme, Viktorya dönemi insanlarının geçmişi daha ilkel ve vahşi gösterme çabasının (Dark Ages efsanesi) bir mirasıdır.",
+      "whyItMatters": "Dikkat çekici biçimde, tarihte hiç var olmamış bir alet, popüler kültürün en güçlü imgelerinden biri haline gelmiştir.",
+      "quickRealityCheck": "Orta Çağ'ın en meşhur işkence aleti olduğu denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "Korku Filmleri / Genel hikâyesine dair ipuçları içerebilir; sonu anlatmaz."
+    },
+    {
+      "id": "medieval-hygiene",
+      "title": "Orta Çağ'da Temizlik",
+      "subtitle": "Kirli olmayan gerçek tarih",
+      "mediaType": "series",
+      "mediaTitle": "Genel Dönem Filmleri",
+      "era": "Orta Çağ",
+      "region": "Avrupa",
+      "themes": [
+        "Günlük Yaşam",
+        "Sağlık",
+        "Kültür"
+      ],
+      "whatWeSee": "İnsanların hiç yıkanmadığı, her yerin çamur içinde olduğu ve hijyenin bilinmediği bir dünya resmedilir.",
+      "realHistory": "Orta Çağ insanlarının hiç yıkanmadığı fikri, modern çağın yarattığı en büyük efsanelerden biridir. Orta Çağ Avrupa'sında 'Bathhouse' (Halk Hamamları) kültürü oldukça yaygındı ve sabun yapımı bilinen bir zanaattı. İnsanlar, özellikle yemeklerden önce ve sonra ellerini yıkamaya, sabahları yüzlerini temizlemeye büyük önem verirlerdi. Kilise, hamamların bazen 'ahlaksızlık' merkezi haline gelmesinden şikayet etse de, yıkanmanın kendisini hiçbir zaman yasaklamamıştır. Hijyen anlayışı bugünkü 'mikrop teorisi'ne değil, 'kötü kokunun hastalık yaydığı' (miasma) inancına dayanıyordu.\n\nLonca düzenlemeleri berber ve banyocu mesleklerini denetledi. Hamam rutinleri şehirlerde yaygındı.\n\nOrta Çağ şehirlerinde hamam ve çamaşır yıkama rutinleri yaygındı; lonca düzenlemeleri berber ve banyocu mesleklerini denetledi. Koku maskelenmek için baharat ve parfüm kullanılırdı. 'Kirli orta çağ' miti kısmen erken modern dönem kaynaklarından gelir. Şehir yönetimleri sokak temizliği ve atık bertarafı için düzenlemeler çıkarırdı; ancak yoğun nüfus ve hayvan trafiği hijyen zorluklarını sürdürürdü.\n\nŞehir meclisleri atık dökümünü ve mezbaha konumlarını düzenleyen yönetmelikler çıkarırdı. Kırsal kesimde dere ve nehir kenarları günlük yıkama için kullanılırdı.\n\nŞehir yönetimleri mezbaha ve tabakhane konumlarını düzenleyen yönetmeliklerle koku ve sağlık riskini kısmen kontrol altına almaya çalışırdı.\n\nVeba salgınının sadece pislikten çıktığı olduğu sanılır; oysa kayıtlara göre veba, temizlikten bağımsız olarak ticaret yollarıyla ve pirelerle yayılmıştır.",
+      "accuracyNote": "Medyada Orta Çağ köylülerinin her zaman çamur içinde gösterilmesi, dönemin gerçeklerinden ziyade modern izleyicinin geşmişe bakış açısını yansıtır. Gerçekte, bir köylü bile derelere veya basit leğenlere erişimi olduğu sürece temizliğine dikkat ederdi.",
+      "whyInteresting": "Orta Çağ'da diş temizliği için fındık kabuğu, tuz veya çeşitli bitkilerden yapılan tozlar kullanılırdı. Diş çekimi son çareydi ve ağız hijyeni sanıldığından çok daha ciddiye alınırdı. Hatta soylular, nefeslerini tazelemek için karanfil ve nane çiğnerlerdi.",
+      "misconception": "Veba salgınının sadece pislikten çıktığı sanılır; oysa veba, temizlikten bağımsız olarak ticaret yollarıyla ve pirelerle yayılmıştır.",
+      "nextTopics": [
+        "Halk Hamamları",
+        "Miasma Teorisi",
+        "Sabun Tarihi"
+      ],
+      "sources": [
+        {
+          "title": "Hygiene in the Middle Ages (British Library)",
+          "url": "https://www.bl.uk/the-middle-ages/articles/health-and-hygiene-in-the-middle-ages",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Cleanliness in Medieval England (Historic England)",
+          "url": "https://historicengland.org.uk/listing/what-is-designation/heritage-highlights/did-people-bath-in-the-middle-ages/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [
+        "The Name of the Rose"
+      ],
+      "relatedCardIds": [
+        "kcd-bohemia"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-27",
+      "reviewerNote": "Manuals of hygiene and archaeological records of bathhouses verify established hygiene practices.",
+      "spoilerLevel": "none",
+      "mediaConnection": "Bu kart, Genel Dönem Filmleri yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "avrupa",
+        "genel-dnem-filmleri",
+        "gnlk-yaam",
+        "kltr",
+        "orta-cag",
+        "salk"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Yapım Orta Çağ köylülerinin her zaman çamur içinde gösterilmesi, dönemin gerçeklerinden ziyade modern izleyicinin geşmişe bakış açısını yansıtır. Gerçekte, bir köylü bile derelere veya basit leğenlere erişimi olduğu sürece temizliğine dikkat ederdi.",
+      "whyItMatters": "Diş çekimi son çareydi ve ağız hijyeni sanıldığından çok daha ciddiye alınırdı.",
+      "quickRealityCheck": "Veba salgınının sadece pislikten çıktığı denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": ""
+    }
+  ]
+}

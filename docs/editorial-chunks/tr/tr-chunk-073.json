@@ -1,0 +1,269 @@
+{
+  "locale": "tr",
+  "chunkIndex": 73,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-159-trial",
+      "title": "Mahkeme Anlatısı",
+      "subtitle": "Bir sahnenin sakladığı sistem",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "era": "Modern Tarih",
+      "region": "Ukrayna",
+      "themes": [
+        "Teknoloji",
+        "Devlet",
+        "Afet"
+      ],
+      "whatWeSee": "Chernobyl finalinde mahkeme, felaketin teknik açıklamasını dramatik bir ifşaya çevirir. Legasov'un anlatımıyla izleyici hem reaktör tasarım hatasını hem de bürokratik baskıyı aynı anda duyar. Dizi, duruşmayı bir adalet sahnesinden çok geç gelen hakikat anı gibi kurgular; kişisel bedel ile sistem sorumluluğunu çarpıştırır.",
+      "realHistory": "1987'de Çernobil santrali yöneticileri ve bazı mühendisler Sovyet mahkemesinde yargılandı. Dava, teknik kusurlar kadar operasyonel ihlallerin de tartışıldığı bir süreçti; ancak Sovyet siyasi yapısı nedeniyle sorumluluk dağılımı sınırlı bir çerçevede ele alındı. RBMK tasarımındaki risklerin uzun süre kurumsal düzeyde yeterince açık paylaşılmaması, yargılamanın en kritik bağlamlarından biriydi.\n\nDuruşma, kamuoyu için hakikatin tüm yönleriyle açıldığı şeffaf bir forumdan çok, belirli bir sorumluluk anlatısını resmi olarak kayda geçiren bir mekanizmaydı. Santral personelinin prosedür hataları gerçekti; fakat karar baskısı, eğitim eksikleri, güvenlik kültürü zayıflığı ve tasarım bilgisinin kapalı dolaşımı üst düzey yapısal etkenlerdi. Yani mesele yalnızca \"yanlış düğmeye basma\" değildi.\n\nDizi bu çok katmanlı yapıyı Legasov'un anlatısıyla erişilebilir hale getirir ve teknik karmaşayı anlaşılır bir dramatik omurgaya oturtur. Tarihsel belgelerde ise bilgi akışı daha parçalı, itiraz kanalları daha dar ve kurumsal öz eleştiri daha gecikmeli görünür.\n\nMahkeme anlatısı bu nedenle önemlidir: felaket sonrası hukuk, gerçeği ortaya çıkarmaktan çok hangi gerçeğin resmileşeceğini belirler. Çernobil davası, teknik sistemlerin siyasi kültürden bağımsız değerlendirilemeyeceğini açıkça gösterir. Ayrıca dava sonrası uluslararası nükleer güvenlik rejimlerinde hızlanan raporlama ve şeffaflık baskısı, yerel bir yargılamanın küresel güvenlik standartlarını etkileyebildiğini somut biçimde ortaya koydu. Glasnost döneminin bilgi iklimi değişmese bu etki daha da sınırlı kalabilirdi.",
+      "accuracyNote": "Teknik risklerin temel yönü doğru aktarılır; mahkeme içi diyaloglar ve bilgi açıklığının düzeyi dramatik amaçla yeniden kurgulanmıştır.",
+      "whyInteresting": "Bir mahkemenin aynı anda hem hesap sorma aracı hem de resmi hafıza üretim mekanizması olabildiğini gösterir.",
+      "misconception": "Felaketin tamamen birkaç operatörün kişisel ihmaliyle açıklandığı düşünülür.",
+      "nextTopics": [
+        "Reaktör Testi",
+        "RBMK Tasarımı",
+        "Tasfiye Ekipleri"
+      ],
+      "sources": [
+        {
+          "title": "IAEA - The Chernobyl Accident: Updating of INSAG-1 (INSAG-7)",
+          "url": "https://www.iaea.org/publications/3786/the-chernobyl-accident-updating-of-insag-1",
+          "type": "official"
+        },
+        {
+          "title": "UNSCEAR - Sources and Effects of Ionizing Radiation (Chernobyl sections)",
+          "url": "https://www.unscear.org/unscear/en/chernobyl.html",
+          "type": "official"
+        },
+        {
+          "title": "Britannica - Chernobyl disaster",
+          "url": "https://www.britannica.com/event/Chernobyl-disaster",
+          "type": "article"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-160-energy-politics",
+        "tf26-157-firefighters",
+        "tf26-158-exclusion-zone"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Chernobyl'in final duruşması, 1987 Sovyet yargılamasının teknik-siyasi gerilimlerini tek bir anlatı hattında birleştirir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "cernobil",
+        "nukleer",
+        "afet",
+        "mahkeme-anlatisi",
+        "true-frame"
+      ],
+      "spoilerNote": "Chernobyl hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi mahkemeyi yüksek yoğunluklu bir hakikat anına dönüştürüyor; tarihsel süreçte açıklık daha sınırlı, sorumluluk dağılımı daha kontrollüydü.",
+      "whyItMatters": "Bir mahkemenin aynı anda hem hesap sorma aracı hem de resmi hafıza üretim mekanizması olabildiğini gösterir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Çernobil davasında bireysel hata ile kurumsal tasarım kusuru arasındaki sınır nerede çizildi?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-160-energy-politics",
+      "title": "Enerji Siyaseti",
+      "subtitle": "Enerji siyaseti: reaktör hızı, güvenlik ikinci",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "era": "Modern Tarih",
+      "region": "Ukrayna",
+      "themes": [
+        "Teknoloji",
+        "Devlet",
+        "Afet"
+      ],
+      "whatWeSee": "Chernobyl dizisi enerji politikasını bir gece vardiyasındaki panik kararlarına odaklayarak anlatıyor. Reaktör odasındaki gerilim, hiyerarşik baskı ve geciken itiraflar, teknik bir arızayı siyasal bir krize dönüştürüyor. İzleyici, nükleer güvenliğin yalnızca mühendislik çizelgesi değil, bilgi saklama kültürüyle de belirlendiğini çok sert biçimde hissediyor.",
+      "realHistory": "Çernobil felaketi, tek bir operatör hatasından çok daha geniş bir kurumsal sorunun sonucuydu. Sovyetler Birliği 1970’lerden itibaren artan talebi karşılamak ve teknolojik prestij göstermek için nükleer kapasiteyi hızla büyüttü. RBMK reaktör tasarımı büyük ölçek avantajı sağlasa da düşük güç koşullarında kararsızlık ve pozitif boşluk katsayısı gibi kritik riskler barındırıyordu. Bu teknik sınırlamaların bir kısmı biliniyor, fakat kurum içi eleştiri ve bağımsız denetim mekanizmaları zayıf kalıyordu.\n\n26 Nisan 1986 gecesindeki güvenlik testi sırasında prosedür dışı adımlar, vardiya koşulları ve emniyet sistemlerinin devre dışı kalması felaketi tetikledi. Patlama sonrası ilk saatlerde tahliye ve kamu bilgilendirmesinin gecikmesi, teknik hasarı toplumsal ölçekte büyüttü. Sorun yalnızca “yanlış düğmeye basmak” değildi; kötü haberi yukarı taşımanın riskli görüldüğü idari kültür, karar kalitesini düşürdü.\n\nKazadan sonra uluslararası rejimde önemli değişiklikler geldi. IAEA güvenlik standartları, acil durum protokolleri, sınır ötesi bildirim yükümlülükleri ve tesis denetimleri güçlendirildi. Bu olayın kalıcı dersi şudur: yüksek teknoloji, şeffaf kurumlar olmadan güvenli çalışmaz. Dizi bireysel dramı etkili biçimde öne çıkarır; tarihsel okuma ise tasarım, yönetim ve siyasal iletişimin tek bir risk zinciri oluşturduğunu gösterir. Enerji politikasında demokratik denetim, teknik güvenlik kadar belirleyicidir. Bu bağlamda Çernobil, enerji tartışmalarında “kaza olasılığı” kadar “kurumsal sessizlik maliyeti”nin de ölçülmesi gerektiğini gösteren dönüm noktasıdır.",
+      "accuracyNote": "Ana test gecesi ve sonuçları gerçektir; bazı karakterler anlatımı yoğunlaştırmak için birleştirilmiştir.",
+      "whyInteresting": "Bu kart teknik altyapı ile siyasal kültürün nasıl aynı risk denklemine girdiğini net biçimde gösterir.",
+      "misconception": "Yaygın yanılgı, Çernobil’in yalnızca birkaç görevlinin kişisel hatasıyla açıklanabileceğidir.",
+      "nextTopics": [
+        "Reaktör Testi",
+        "RBMK Tasarımı",
+        "Tasfiye Ekipleri"
+      ],
+      "sources": [
+        {
+          "title": "Chernobyl Accident (IAEA)",
+          "url": "https://www.iaea.org/topics/chernobyl"
+        },
+        {
+          "title": "UNSCEAR: Chernobyl",
+          "url": "https://www.unscear.org/unscear/en/chernobyl.html"
+        },
+        {
+          "title": "Chernobyl Disaster (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/event/Chernobyl-disaster"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "chernobyl-rbmk-flaw",
+        "tf26-156-soviet-secrecy"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Chernobyl insan trajedisini merkezliyor; True Frame aynı olayı kurumsal tasarım ve politika merceğine taşıyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "cernobil",
+        "nukleer",
+        "afet",
+        "enerji-siyaseti",
+        "true-frame"
+      ],
+      "spoilerNote": "Chernobyl hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi kişisel suçluluk hissini büyütüyor; tarihsel tablo tasarım riski, denetim eksikliği ve bilgi yönetimi sorununu birlikte gösteriyor.",
+      "whyItMatters": "Bu kart teknik altyapı ile siyasal kültürün nasıl aynı risk denklemine girdiğini net biçimde gösterir.",
+      "isFlagship": true,
+      "quickRealityCheck": "Reaktör sorunu tek başına felaketi açıklar mı, yoksa kriz yönetimindeki kapalılık hasarı büyüttü mü?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-161-human-computers",
+      "title": "İnsan Bilgisayarlar",
+      "subtitle": "İnsan Bilgisayarlar: görünenden fazlası",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Uzay",
+        "Bilim",
+        "Eşitlik"
+      ],
+      "whatWeSee": "Hidden Figures, roket ve görev kontrol görkemini hesap odasındaki kadın matematikçilerin görünmez emeğiyle dengeliyor. Tahtadaki her denklem uçuş kararına bağlanıyor; hata payı duygusal değil sayısal bir baskı olarak hissediliyor. Film, \"insan bilgisayar\" ifadesini eski bir unvan olmaktan çıkarıp zaman baskısı, doğruluk zorunluluğu ve kurum içi eşitsizlikle yürüyen gerçek bir mühendislik pratiğine dönüştürüyor.",
+      "realHistory": "Elektronik sistemler yaygınlaşmadan önce NACA ve ardından NASA, karmaşık aerodinamik ve yörünge hesaplarını insan ekiplerle yürüttü. Bu ekipler \"human computers\" olarak adlandırılıyordu. Langley'de çalışan siyah kadın matematikçiler, teknik üretimin merkezinde yer alırken ayrımcı kurumsal sınırlarla da mücadele etti. Katherine Johnson, Dorothy Vaughan ve Mary Jackson bu dönüşümün farklı ama tamamlayıcı yüzleri oldu.\n\nİş sadece hesap yapmak değildi: hata kontrolü, alternatif senaryo üretimi ve sonuçları mühendislik kararına çevirmek temel görevdi. Erken elektronik bilgisayarlar devreye girse bile güvenilirlik sınırlı kaldığından insan doğrulaması kritik önem taşıdı. Özellikle Mercury uçuşlarında yeniden giriş penceresi gibi dar toleranslı hesaplar, çoklu kontrol adımlarıyla yürütüldü.\n\nBu emek uzun süre kamu anlatısında geri planda kaldı; uzay yarışı çoğunlukla astronotlar üzerinden anlatıldı. Oysa arşivler, yüzlerce hesapçının rüzgar tüneli verilerinden uçuş tablolarına kadar geniş bir teknik altyapı ürettiğini gösteriyor. Bilgisayar çağı başladığında aynı ekiplerin önemli bir bölümü programlamaya geçerek kurumsal dönüşümü içeriden taşıdı.\n\nKurumsal geçişte kritik nokta buydu: eski hesap ekipleri yeni makinelerin rakibi değil, eğitmeni ve denetleyicisi oldu. FORTRAN gibi araçlara uyum sağlayarak iş akışını yeniden kurdular. Bu yüzden insan bilgisayarlar, yalnız geçmişin kahramanı değil dijital dönemin kurucu iş gücü olarak da değerlendirilir. Bu emek, NASA'da standart doğrulama kültürünün temelini güçlendirdi.",
+      "accuracyNote": "Ana figürlerin katkıları güçlü biçimde belgeli. Filmde olay sırası ve görev dağılımı anlatı akışı için sıkıştırılmış.",
+      "whyInteresting": "Uzay çağının en yüksek teknoloji hikayesi, temelde insan zekası ve ekip koordinasyonunun üzerine kurulu.",
+      "misconception": "\"İnsan bilgisayar\" terimi bazen basit ofis işi sanılır; oysa iş, uçuş güvenliğini etkileyen ileri teknik doğrulama içeriyordu.",
+      "nextTopics": [
+        "Ayrımcılık Sistemi",
+        "Mercury Programı",
+        "Apollo 11"
+      ],
+      "sources": [
+        {
+          "url": "https://www.nasa.gov/people/katherine-johnson/"
+        },
+        {
+          "url": "https://www.nasa.gov/history/human-computers/"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-162-segregation",
+        "tf26-163-mercury-program",
+        "tf26-164-apollo-11"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hidden Figures'in dramatik matematik sahneleri, True Frame'de NASA'nın kurumsal hesap iş gücü tarihine yerleşiyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "uzay-yarisi",
+        "nasa",
+        "bilim",
+        "i-nsan-bilgisayarlar",
+        "true-frame"
+      ],
+      "spoilerNote": "Hidden Figures hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film haklı olarak birkaç figürü merkezde topluyor. Gerçekte bu başarı, geniş ve yıllara yayılan bir ekip emeğinin ürünüydü.",
+      "whyItMatters": "Uzay çağının en yüksek teknoloji hikayesi, temelde insan zekası ve ekip koordinasyonunun üzerine kurulu.",
+      "isFlagship": false,
+      "quickRealityCheck": "Uzay yarışında kritik kararı kim üretti: yalnız astronotlar mı, yoksa sayısal doğrulamayı yapan ekipler mi?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-162-segregation",
+      "title": "Ayrımcılık Sistemi",
+      "subtitle": "Langley'de ayrımcılık: 'colored' bilgisayarlar",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Uzay",
+        "Bilim",
+        "Eşitlik"
+      ],
+      "whatWeSee": "Hidden Figures Langley'de 'colored' ve 'white' tabelaları, ayrı tuvaletler ve asansörleri gösterir. Katherine Johnson'ın uzak tuvalete koşması, ayrımcılığın günlük fiziksel yükünü somutlaştırır. İzleyici aynı laboratuvarda çalışan uzmanların ayrı kapılardan geçtiğini, etiketli alanlara yönlendirildiğini ve hesap tablolarında yine yan yana üretim yaptığını görüyor.",
+      "realHistory": "1940'larda NACA Langley, Virginia'nın Jim Crow yasaları altındaydı. Black çalışanlar ayrı yemekhane, tuvalet ve çalışma alanına yönlendirildi. 'Colored computers' ayrı bölümde hesap yaptı; beyaz mühendislerle temas sınırlıydı. Dorothy Vaughan West Area Computing bölümünü yönetti. 1960'lara doğru federal işyerlerinde ayrımcılık yasal olarak kaldırıldı ama teamül devam etti. Johnson'ın tuvalet sahnesi filmde dramatize edilmiş olsa da sistem gerçekti. Uzay yarışı ileri teknoloji anlatırken ayrımcılık günlük hayatın parçasıydı. Bu çelişki, ABD'nin 20. yüzyıl demokrasi iddiasının kırılganlığını gösterir. 1950'ler ve 60'larda ABD federal araştırma kurumlarında resmi entegrasyon adımları atılsa da gündelik işleyişte ayrımcılık pratikleri sürüyordu. Langley tesislerinde siyah kadın matematikçiler, aynı projelerde çalışsalar bile yemekhane, tuvalet ve servis ağlarında ayrıma maruz kaldı. Buna karşın uzmanlıkları, yörünge hesapları ve güvenlik doğrulamaları gibi yüksek riskli süreçlerde vazgeçilmezdi. Kurum içi terfi bariyerleri, yetenek eksikliğinden değil örgütsel önyargıdan kaynaklanıyordu. Medeni haklar mücadelesi ile bilimsel başarı hikâyesi kesiştiğinde, teknik ilerlemenin adalet olmadan eksik kaldığı daha net görüldü. Ayrımcılık Sistemi 1940'larda NACA Langley, Virginia'nın Jim Crow yasaları altındaydı. Langley'deki ayrımcılık yalnız bina içi levhalarla sınırlı değildi; terfi süreçleri, toplantı davetleri ve görev dağılımı da görünmez engeller üretiyordu. Buna rağmen kritik uçuş hesaplarında siyah kadın matematikçilerin doğrulaması zorunlu tutuldu. Kurum, eşitsizliği sürdürürken performans için onların uzmanlığına bağımlı kaldı.",
+      "accuracyNote": "West Area Computing ve ayrımcılık NASA tarih yazımıyla doğrulanır.",
+      "whyInteresting": "Ay hedefi ile tuvalet tabelası aynı kampüste buluştu.",
+      "misconception": "Federal kurumlar her zaman eşitlikçiydi; Langley Virginia yasalarına tabiydi.",
+      "nextTopics": [
+        "İnsan Bilgisayarlar",
+        "Mercury Programı",
+        "Apollo 11"
+      ],
+      "sources": [
+        {
+          "title": "NASA Human Computers history",
+          "url": "https://www.nasa.gov/history/human-computers/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Hidden Figures historical context (NASA)",
+          "url": "https://www.nasa.gov/people/katherine-johnson/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Jim Crow laws (Britannica)",
+          "url": "https://www.britannica.com/event/Jim-Crow-law",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-164-apollo-11",
+        "tf26-167-mission-control"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hidden Figures'ın Langley ayrı tuvalet sahneleri ile NACA Jim Crow uygulamaları.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "uzay-yarisi",
+        "nasa",
+        "bilim",
+        "ayrimcilik-sistemi",
+        "true-frame"
+      ],
+      "spoilerNote": "Hidden Figures hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film ayrımcılığı kişisel kahramanlık anına indirger; gerçekte on yıllar süren kurumsal düzendı.",
+      "whyItMatters": "Ay hedefi ile tuvalet tabelası aynı kampüste buluştu.",
+      "isFlagship": false,
+      "quickRealityCheck": "Langley'de 'colored computers' neden ayrı bölümde çalıştı?",
+      "lastReviewedAt": "2026-06-25"
+    }
+  ]
+}

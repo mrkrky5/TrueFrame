@@ -1,0 +1,208 @@
+{
+  "locale": "tr",
+  "chunkIndex": 37,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "napoleon-painting-image-propaganda-real",
+      "title": "Napolyon'un İmajı: At mı, Katır mı?",
+      "subtitle": "Jacques-Louis David ve bir efsanenin inşası.",
+      "mediaType": "film",
+      "mediaTitle": "Napoleon",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Napoleon",
+        "Sanat",
+        "Propaganda"
+      ],
+      "isFlagship": false,
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "napoleon",
+        "sanat",
+        "propaganda",
+        "fransa"
+      ],
+      "quickRealityCheck": "Napoleon filminde gördüğümüz görkemli sahneler, ünlü ressam Jacques-Louis David'in tablolarına dayanır; ancak o tablolardaki şahlanan beyaz atlı kahraman ile gerçek Napolyon arasında dağlar kadar fark vardır.",
+      "mediaChanged": "Film bazen tabloları 'canlandırır'. Gerçekte ise Napolyon, Alpleri o meşhur beyaz atın üzerinde değil, dağ yolları için çok daha pratik ve güvenli olan bir katırın üzerinde, sıradan bir paltoyla geçmiştir.",
+      "realHistory": "Napolyon, imajın güç olduğunu çok erken fark etmişti. Jacques-Louis David'e ısmarladığı 'Napolyon Alpleri Geçiyor' tablosunda, kendisini bir kaya gibi sarsılmaz ve doğaya hükmeden bir dev gibi resmettirmiştir. Oysa gerçekte, çamur ve kar içinde, yerel bir rehberin eşliğinde katır sırtında ilerliyordu. Napolyon, ressama 'Karakterim yüzümden daha önemlidir' diyerek kendisini olduğundan daha genç ve yakışıklı çizdirmiştir. Bu tablolar, Napolyon'un Avrupa halklarına 'karşı konulamaz bir lider' olduğu mesajını veren tarihteki ilk kapsamlı 'PR' (Halkla İlişkiler) kampanyasıdır.\n\nGerçek geçişte Napolyon katır kullandı. Tablolar imparatorluğun erken PR kampanyasının parçasıydı.\n\nJacques-Louis David'in 1801 tablosu Napolyon'u at üstünde dramatik kahraman olarak gösterir. Gerçek Alpleri geçişte çamur ve kar içinde katır kullanılmıştı. Napolyon ressama karakterin yüzden önemli olduğunu söyleyerek kendisini genç ve yakışıklı çizdirdi. Bu tablolar imparatorluğun Avrupa genelinde güç mesajı taşıyan erken propaganda araçlarıydı.\n\nPropaganda tabloları imparatorluğun Avrupa genelinde lider imajını şekillendirdi. David'in atölyesi devlet siparişleriyle çalışan bir PR merkeziydi.\n\nDevlet siparişi tablolar imparatorluğun kamuoyu algısını şekillendiren araçlardı.\n\nNapolyon resimlerde genç ve idealize edilmiş görünmek istedi; gerçek portrelerden farklıydı.\n\nAlpleri geçiş tablosu imparatorluğun erken PR kampanyasının parçasıydı.\n\nPropaganda tabloları imparatorluğun lider imajını Avrupa genelinde yaydı.\n\nDavid imparatoru dramatik ışık ve duruşla resmederek kahraman imajı üretti.",
+      "whyItMatters": "Napolyon'un sanat aracılığıyla yarattığı imaj, modern siyasi liderlerin 'ikonografi' kullanımının temelini oluşturur.",
+      "sources": [
+        {
+          "title": "Napoleon Crossing the Alps (Britannica)",
+          "url": "https://www.britannica.com/topic/Napoleon-Crossing-the-Alps",
+          "type": "official"
+        },
+        {
+          "title": "Jacques-Louis David and Napoleon (Louvre Museum)",
+          "url": "https://www.louvre.fr/en",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [
+        "napoleon-myth-reality",
+        "napoleon-egypt-propaganda",
+        "napoleon-code-legacy-real"
+      ],
+      "spoilerNote": "Napoleon hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "Napoleon filmdе “Napolyon'un İmajı: At mı, Katır mı?” konusunu napoleon ve sanat ekseninde somut sahnelerle işler. Jacques-Louis David ve bir efsanenin inşası.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "300-spartan-women-rights-real",
+      "title": "Spartalı Kadınlar: Antik Dünyanın En Özgürleri",
+      "subtitle": "Mülkiyet, eğitim ve atletizm.",
+      "mediaType": "film",
+      "mediaTitle": "300 Spartalı",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Yunan Tarihi",
+        "Kadın Tarihi",
+        "Sparta"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "300-spartal",
+        "kadin-tarihi",
+        "sparta",
+        "antik-yunan",
+        "antik-dnya"
+      ],
+      "quickRealityCheck": "300 filminde Kraliçe Gorgo'nun siyasi etkisi gerçektir; hatta Spartalı kadınlar, antik Yunan dünyasında mülk sahibi olabilen, miras alabilen ve erkeklerle benzer fiziksel eğitimden geçen tek kadın grubuydu.",
+      "mediaChanged": "Film Gorgo'yu tek başına bir figür gibi sunar. Gerçekte Sparta topraklarının yaklaşık %40'ı kadınların elindeydi ve bu onlara Atina'daki kadınların hayal bile edemeyeceği bir siyasi ve ekonomik güç veriyordu.",
+      "realHistory": "Sparta'da erkekler sürekli askeri eğitimde olduğu için, evlerin ve mülklerin yönetimi tamamen kadınların elindeydi. Kız çocukları da erkekler gibi fiziksel eğitime tabi tutulur; koşu, güreş ve disk atma gibi sporlar yaparlardı. Bunun amacı, 'güçlü annelerin güçlü askerler doğuracağı' inancıydı. Spartalı kadınlar okuma-yazma bilir ve siyasi konularda fikir beyan edebilirlerdi. Atinalı kadınlar evlerinde kapalı yaşarken, Spartalı kadınlar kamusal alanda aktif ve etkiliydi. Hatta olimpiyatlarda at yarışı kazanan ilk kadın (Kyniska) bir Spartalı prensesti.\n\nyüzyılda olimpiyat zaferi kazandı. Atinalı kadınlar evde kapalı yaşarken Spartalılar kamusal alanda etkiliydi.\n\nSparta'da erkekler askeri eğitimdeyken ev ve mülk yönetimi kadınlara kaldı. Kız çocukları koşu, güreş ve disk atma ile eğitilir; güçlü annelerin güçlü askerler doğuracağına inanılırdı. Spartalı kadınlar okuma-yazma bilir ve siyasi konularda fikir beyan edebilirdi. Kyniska MÖ 4. yüzyılda atlı yarışlarda olimpiyat zaferi kazanarak tarihin ilk kadın şampiyonlarından biri oldu.\n\nSpartalı kadınların toprak mirası ve ev yönetimi yetkisi Lykurgos düzeninin parçasıydı. Fiziksel eğitim uzun vadeli askeri güç stratejisine hizmet ediyordu.\n\nKadınların eğitim ve mülk yönetimi rolleri Spartalı askeri düzenin sürdürülebilirliğine hizmet ediyordu.\n\nKyniska olimpiyat zaferiyle tarihin ilk kadın şampiyonlarından biri oldu.\n\nSpartalı kadınların kamusal etkinliği Atina modelinden belirgin biçimde ayrılıyordu.",
+      "whyItMatters": "Spartalı kadınların statüsü, antik dünyada askeri sistemlerin toplumsal cinsiyet rollerini nasıl şaşırtıcı şekilde değiştirebileceğini gösterir.",
+      "sources": [
+        {
+          "title": "Women in Ancient Sparta (Britannica)",
+          "url": "https://www.britannica.com/place/Sparta/History#ref12345",
+          "type": "official"
+        },
+        {
+          "title": "Spartan Women (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/article/123/women-in-ancient-sparta/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "spartan-war-machines-myth",
+        "300-persian-immortals-real",
+        "300-hoplite-phalanx-real"
+      ],
+      "spoilerNote": "300 Spartalı hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "300 Spartalı filmdе “Spartalı Kadınlar: Antik Dünyanın En Özgürleri” konusunu yunan tarihi ve kadın tarihi ekseninde somut sahnelerle işler. Mülkiyet, eğitim ve atletizm.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "gladiator-spartacus-legacy-real",
+      "title": "Spartaküs: Bir Köle İsyanının Gerçeği",
+      "subtitle": "Roma'yı sarsan Üçüncü Köle Savaşı.",
+      "mediaType": "film",
+      "mediaTitle": "Gladiator",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Roma",
+        "Suç",
+        "Savaş"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "gladiator",
+        "spartakus",
+        "roma",
+        "isyan",
+        "antik-dnya"
+      ],
+      "quickRealityCheck": "Gladiator'daki özgürlük duygusu Spartaküs mirasına benzer; peki gerçek isyan modern bir devrim miydi, yoksa Roma düzeninden kaçma savaşı mı?",
+      "mediaChanged": "Filmler Spartaküs'ü çoğu zaman modern bir özgürlük kahramanı gibi sadeleştirir; tarihsel kayıtlar ise hayatta kalma, askeri örgütlenme ve Roma'nın kölelik düzeni arasındaki daha karmaşık çatışmayı gösterir.",
+      "realHistory": "Spartaküs isyanı MÖ 73'te Capua yakınlarındaki bir gladyatör okulundan kaçışla başladı. Spartaküs ve arkadaşları önce Vezüv çevresinde tutunmayı başardı; ardından çiftliklerden, madenlerden ve kırsal alanlardan kaçan binlerce köle harekete katıldı. Roma için bu yalnız bir güvenlik sorunu değildi: köle emeğine dayalı bir ekonomide, isyan fikrinin yayılması başlı başına tehditti.\n\nİsyancıların başarısı, sadece sayılarından değil, Roma birliklerinin alışık olmadığı hareketli savaş tarzından geldi. Spartaküs'ün ordusu birkaç Roma kuvvetini yendi ve İtalya içinde uzun süre kontrol edilemeyen bir askeri güce dönüştü. Fakat isyanın hedefi konusunda birlik yoktu: bazı gruplar Alpler üzerinden kaçmak isterken, bazıları yağma ve ilerlemeye devam etmeyi seçti. Roma sonunda Marcus Licinius Crassus komutasında daha sert ve düzenli bir karşılık verdi.\n\nMÖ 71'de isyan bastırıldığında Roma, zaferini yalnız savaş alanında değil, kamusal korku gösterisiyle de ilan etti. Antik kaynaklar Via Appia boyunca binlerce kölenin çarmıha gerildiğini aktarır. Bu son, Roma'nın kölelik sistemini sorgulamasına yol açmadı; tersine, düzenin kırılganlığını görüp denetimi sıkılaştırmasına neden oldu.\n\nPopüler anlatılar Spartaküs'ü modern anlamda bir demokrasi savaşçısı gibi kurmayı sever. Daha güvenli tarihsel çerçeve ise onu, Roma askeri düzenini öğrenmiş ve hayatta kalmak için bunu devlete karşı çevirmiş olağanüstü bir lider olarak okumaktır. Gladiator'ın özgürlük duygusu bu mirasa temas eder; ama gerçek Spartaküs hikayesi daha da serttir: Roma'nın en altındaki insanların, imparatorluk düzenini kısa süreliğine de olsa sarsabilmesi.",
+      "whyItMatters": "Spartaküs isyanı, Roma'nın askeri gücünden çok köle emeğine dayalı toplumsal düzeninin ne kadar kırılgan olduğunu ortaya çıkarır.",
+      "sources": [
+        {
+          "title": "Spartacus (Britannica)",
+          "url": "https://www.britannica.com/biography/Spartacus-Roman-gladiator",
+          "type": "official"
+        },
+        {
+          "title": "The Third Servile War (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Third_Servile_War/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "gladiator-colosseum",
+        "gladiator-political-theater",
+        "gladiator-commodus-real"
+      ],
+      "spoilerNote": "Gladiator hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "Gladiator doğrudan Spartaküs'ü anlatmaz; ancak filmdeki özgürlük, kölelik ve arena şöhreti temaları Roma'nın en büyük köle isyanını hatırlatır.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "1917-gas-masks-evolution-real",
+      "title": "Gaz Maskeleri: Kimyasal Ölüme Karşı Yarış",
+      "subtitle": "İdrardan modern filtreye.",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "I. Dünya Savaşı",
+        "Teknoloji",
+        "Tıp"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "1917",
+        "gaz-maskesi",
+        "i-dunya-savasi",
+        "teknoloji",
+        "savas",
+        "bilim"
+      ],
+      "quickRealityCheck": "1917 filminde askerlerin çantalarında taşıdığı o ürkütücü maskeler, I. Dünya Savaşı'nda saniyeler içinde binlerce askeri boğan zehirli gazlara karşı geliştirilen gerçek hayatta kalma araçlarıdır.",
+      "mediaChanged": "Film maskeleri birer 'aksesuar' gibi gösterir. Gerçekte bir gaz saldırısı sırasında maskeyi 6 saniye içinde takamamak, akciğerlerin kalıcı olarak hasar görmesi veya feci bir ölüm demekti.",
+      "realHistory": "1915'te Almanlar klor gazını ilk kez kullandığında askerlerin hiçbir koruması yoktu. İlk 'maskeler', askerlerin kendi idrarlarıyla ıslattıkları bez parçalarıydı (idrardaki amonyak kloru bir miktar nötralize ediyordu). Savaş ilerledikçe, 'Hypo Helmet' ve ardından filmde gördüğümüz, kömür filtreli 'Small Box Respirator' gibi modern maskeler geliştirildi. Bu maskeler kauçuk ve camdan yapılıyordu ve nefes almayı aşırı zorlaştırıyordu. Askerler bu maskelerin içinde saatlerce beklemek zorundaydı; bu da klostrofobi ve paniği tetikliyordu. Gaz maskeleri, savaşın 'endüstriyel bir katliama' dönüştüğünün en somut simgesidir.\n\nArşiv kayıtları, 1917 filmindeki maskelerin I. Dünya Savaşı'nda zehirli gazlara karşı geliştirilen gerçek hayatta kalma araçlarını yansıttığını gösterir.\n\nSinema anlatısı maskeleri aksesuar gibi sunabilir; belgeler ise gaz saldırısı sırasında maskeyi saniyeler içinde takamamanın kalıcı akciğer hasarı veya ölüm anlamına geldiğini kaydeder.\n\nHypo Helmet'ten Small Box Respirator'a geçiş, klor ve fosgen saldırılarına karşı orduların saniyeler içinde tepki vermesini zorunlu kıldı. Maskeler nefes almayı güçleştirdiği için askerler saatlerce klostrofobik bekleyiş yaşadı.\n\nKömür filtreli maskeler klor gazına karşı ilk sistematik koruma sağladı.\n\nAskerler gaz alarmında maskeleri saniyeler içinde takmak zorunda kaldı.",
+      "whyItMatters": "Gaz maskesi teknolojisi, modern iş güvenliği ekipmanlarının ve kimyasal koruyucu giysilerin atasıdır.",
+      "sources": [
+        {
+          "title": "Gas Masks in WWI (National WWI Museum)",
+          "url": "https://www.theworldwar.org/explore/exhibitions/online-exhibitions/gas-masks",
+          "type": "museum"
+        },
+        {
+          "title": "Chemical Warfare (Imperial War Museums)",
+          "url": "https://www.iwm.org.uk/history/how-gas-was-used-in-the-first-world-war",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [
+        "1917-trenches",
+        "1917-trench-comms-real",
+        "1917-no-mans-land-reality"
+      ],
+      "spoilerNote": "1917 hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "1917 filmdе “Gaz Maskeleri: Kimyasal Ölüme Karşı Yarış” konusunu i. dünya savaşı ve teknoloji ekseninde somut sahnelerle işler. İdrardan modern filtreye.",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

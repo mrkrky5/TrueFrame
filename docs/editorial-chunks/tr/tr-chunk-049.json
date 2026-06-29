@@ -1,0 +1,288 @@
+{
+  "locale": "tr",
+  "chunkIndex": 49,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-047-shield-wall",
+      "title": "Kalkan Duvarı",
+      "subtitle": "Kalkan duvarı: Anglo-Sakson vs Dan",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "era": "Orta Çağ",
+      "region": "İngiltere",
+      "themes": [
+        "Krallık",
+        "Kimlik",
+        "Savaş"
+      ],
+      "whatWeSee": "The Last Kingdom'da Anglo-Sakson ve Dan savaşçıları kalkan duvarı (shield wall) oluşturarak savaşır. Uhtred taktik değiştirir; izleyici bu formasyonun savaşın ritmini belirlediğini görür. Sahnede omuz omuza kapanan kalkanlar, daralan cephede yükselen savaş naraları ve hat kırılınca dağılan savaşçı akışı taktiğin kaderini gösteriyor.",
+      "realHistory": "Kalkan duvarı erken ortaçağ Kuzey Avrupa'sının temel taktik formasyonuydu. Savaşçılar sıkı kalkan ve mızrak hattı kurar; süvari ve okçu saldırılarına karşı direnç sağlar. Stamford Bridge (1066) ve Hastings'te kaynaklar bu taktiği anlatır. Anglo-Sakson fyrd (seferber köylü) ile Dan profesyonel savaşçıları aynı disiplini paylaştı. Formasyon kırılırsa panik başlardı; komuta ve deneyim belirleyiciydi. The Last Kingdom shield wall'u görsel doruk yapar; arkeoloji ve şiir (Maldon) günlük eğitim ve silah kalitesini doğrular. Viking baltası ve kısa kılıç duvarın arkasında ikincil silahtı. Kalkan duvarı taktiği, erken ortaçağ Britanyası'nda piyade savaşının en belirleyici düzenlerinden biriydi. Savaşçılar omuz omuza dizilip kalkan kenarlarını birleştirerek mızrak ve baltaya karşı ortak bir bariyer oluştururdu. Hat disiplini bozulduğunda panik dalga halinde yayılır, en küçük boşluk saldırının kırılma noktasına dönüşürdü. Liderlerin görevi sadece hücum emri vermek değil çizgiyi psikolojik olarak ayakta tutmaktı. Arazi seçimi, yorgunluk ve yedek kuvvet zamanlaması sonucu belirlerdi. Bu nedenle zafer, bireysel kahramanlıktan çok toplu dayanıklılık ve komuta sürekliliğine bağlıydı. Kalkan Duvarı Kalkan duvarı erken ortaçağ Kuzey Avrupa'sının temel taktik formasyonuydu. Kalkan duvarında ön sıradaki savaşçılar darbeyi emerken arka sıra mızrak ve taş desteği verirdi; bu katmanlı düzen bozulursa zincirleme geri çekilme başlardı. Komutanlar boru sesi veya sancakla ritim tuttururdu. Zafer çoğu kez fiziksel güçten çok çizgiyi koruma iradesine bağlıydı.",
+      "accuracyNote": "Shield wall taktiği kroniklerle uyumludur; dizi savaşları sıkıştırır.",
+      "whyInteresting": "Aynı taktik hem savunma hem saldırı psikolojisinin merkeziydi.",
+      "misconception": "Vikingler yalnızca bireysel savaşçıydı; formasyon disiplini kritikti.",
+      "nextTopics": [
+        "Alfred'in Reformları",
+        "Burh Savunmaları",
+        "Wessex'in Yükselişi"
+      ],
+      "sources": [
+        {
+          "title": "Battle of Hastings (Britannica)",
+          "url": "https://www.britannica.com/event/Battle-of-Hastings",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Anglo-Saxon warfare (British Museum)",
+          "url": "https://www.britishmuseum.org/collection/dept/anglo-saxon",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Viking warfare (Britannica)",
+          "url": "https://www.britannica.com/topic/Viking/Weapons-and-warfare",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-042-burhs",
+        "tf26-048-names-identity"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Last Kingdom savaş sahnelerindeki shield wall ile Anglo-Sakson/Dan savaş taktikleri ve 1066 savaşları.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "anglo-sakson",
+        "ingiltere",
+        "orta-cag",
+        "kalkan-duvari",
+        "true-frame"
+      ],
+      "spoilerNote": "The Last Kingdom hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi shield wall'u tek savaş görüntüsü yapar; gerçekte yıllar süren taktik eğitim gerektirirdi.",
+      "whyItMatters": "Aynı taktik hem savunma hem saldırı psikolojisinin merkeziydi.",
+      "isFlagship": false,
+      "quickRealityCheck": "Hastings'te Norman süvarisi shield wall'u nasıl kırmaya çalıştı?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-048-names-identity",
+      "title": "İsim ve Kimlik",
+      "subtitle": "İsim değiştirmek: din, dil, sadakat",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "era": "Orta Çağ",
+      "region": "İngiltere",
+      "themes": [
+        "Krallık",
+        "Kimlik",
+        "Savaş"
+      ],
+      "whatWeSee": "The Last Kingdom'da Uhtred'un hem Sakson hem Dan isimleri ve iki dünyanın çocuğu kimliği, ismin siyasetin kısaltması olduğunu gösterir. Dizi karakteri kurgusaldır; Danelaw ve PASE kayıtları isimlerin aidiyet beyanı olduğunu doğrular.",
+      "realHistory": "9.–10. yüzyıl İngiltere'sinde Danelaw ve Wessex yan yana yaşadı. İsimler aidiyet işaretiydi: Æthelred, Alfred gibi Sakson isimleri; Uhtred, Cnut gibi İskandinav kökenliler. Hristiyan vaftiz isimleri ile köken isimleri çatışabilir, birleşebilirdi. Sınır bölgelerinde evlilik, rehin ve hizmet kimlikleri karıştırdı. The Last Kingdom Uhtred'u bu gerilimin simgesi yapar; arkeoloji ve isim çalışmaları (onomastics) aynı karışımı gösterir. İsim seçimi kişisel değil, toplumsal ve siyasi bir beyandı. 9.–10. yüzyıl İngiltere'sinde Wessex ve Danelaw yan yana yaşadı. Æthelred, Alfred gibi Sakson isimleri; Uhtred, Cnut gibi İskandinav kökenliler aidiyet işaretiydi. Prosopography of Anglo-Saxon England (PASE) veritabanı binlerce ismi kaydeder. İsim seçimi kişisel değil, toplumsal ve siyasi beyandı: hangi krala bağlı olduğunuzu gösterirdi. Guthred ve Godric gibi hibrit isimler sınır topluluklarında yaygındı. Evlilik ve rehin anlaşmaları kimlikleri yeniden yazdı. PASE veritabanı binlerce Anglo-Sakson ismini kaydeder. Wessex ve Danelaw sınırında evlilik anlaşmaları çocuklara çift isim bırakırdı. Alfred döneminden itibaren Hristiyan vaftiz isimleri yaygınlaştı; İskandinav kökenli isimler siyasi mesaj taşımaya devam etti. Sınır lordları bazen iki adı da kullanarak ittifak sinyali verdi. Sınır lordları iki adı da kullanarak ittifak sinyali verebilirdi; isim değişimi sadakat değişiminin kamusal ilanıydı. York ve Lincolnshire sınırında hibrit isimler arkeolojik ve yazılı kaynaklarda birlikte görülür.",
+      "accuracyNote": "İsim ve kimlik çatışması tarihseldir; Uhtred karakteri kurgusaldır.",
+      "whyInteresting": "Bir isim, hangi orduda savaşacağınızı bile belirleyebilirdi.",
+      "misconception": "Ortaçağda kimlik sabitti; sınır toplumlarında sürekli müzakere ediliyordu.",
+      "nextTopics": [
+        "Alfred'in Reformları",
+        "Burh Savunmaları",
+        "Wessex'in Yükselişi"
+      ],
+      "sources": [
+        {
+          "title": "Danelaw (Britannica)",
+          "url": "https://www.britannica.com/place/Danelaw",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Anglo-Saxon names (Prosopography of Anglo-Saxon England)",
+          "url": "https://pase.ac.uk/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Viking settlement in England (British Museum)",
+          "url": "https://www.britishmuseum.org/collection/death-and-memory/vikings",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-044-danish-settlement"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "The Last Kingdom isim çatışması ile Anglo-Dan onomastics ve Danelaw kayıtları.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "anglo-sakson",
+        "ingiltere",
+        "orta-cag",
+        "i-sim-ve-kimlik",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Dizi kimliği iç çatışma yapar; gerçekte isim değişimi siyasi pazarlığın parçasıydı.",
+      "whyItMatters": "Bir isim, hangi orduda savaşacağınızı bile belirleyebilirdi.",
+      "isFlagship": true,
+      "quickRealityCheck": "Uhtred'un çift kimliği, Danelaw isim kayıtlarındaki örüntülerle örtüşüyor mu?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-049-norman-conquest",
+      "title": "Norman Fethi",
+      "subtitle": "Bir sahnenin sakladığı sistem",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "era": "Orta Çağ",
+      "region": "İngiltere",
+      "themes": [
+        "Krallık",
+        "Kimlik",
+        "Savaş"
+      ],
+      "whatWeSee": "The Last Kingdom Norman fethini henüz tam göstermez ama Anglo-Dan çatışmasının sonunda İngiltere tahtının kaderini belirler. Uhtred hem Sakson hem Dan kimliğiyle bu dönüşümün eşiğinde durur. Sahnede yeni kale inşaatı yükselirken Norman askerleri vergi topluyor, yerel halkın dili ve hukuk düzeni yavaşça değişen yönetimle karşılaşıyor.",
+      "realHistory": "1066, İngiltere tarihinin dönüm yılıdır: Edward'ın ölümü, Harold'ın taç giymesi, Hardrada'nın Stamford Bridge'de yenilmesi ve William'ın Hastings'te zaferi. Norman fethi toprak mülkiyetini, dilini ve kilise yapısını değiştirdi. Domesday Book (1086) mülk envanteri çıkardı. Sakson elitleri yerini Norman lordlara bıraktı; kale inşaatı yayıldı. The Last Kingdom 9.-10. yy odaklıdır ama Norman sonucu anlatının gölgesindedir. Fetih tek savaş değil, on yıllar süren yerleşim ve vergi sistemiydi. 1066 Norman fethi, İngiltere'de hanedan değişiminden öte yönetim tekniklerinin köklü dönüşümünü başlattı. William'ın zaferi sonrası kale inşası hızlandı; motte-and-bailey yapıları askeri kontrolün ve vergi toplamanın dayanak noktalarına dönüştü. Topraklar Anglo-Sakson elitlerden Norman soylulara yeniden dağıtıldı, böylece sadakat ağı doğrudan krala bağlandı. 1086 Domesday araştırması, kaynak envanterini merkezileştirerek mali denetimi güçlendirdi. Dil ve hukuk alanlarında da Fransız etkisi yayıldı. Fethin kalıcı sonucu, adada daha sıkı, kayıt temelli ve askerileşmiş bir krallık modelinin yerleşmesiydi. Norman Fethi 1066, İngiltere tarihinin dönüm yılıdır: Edward'ın ölümü, Harold'ın taç giymesi, Hardrada'nın Stamford Bridge'de yenilmesi ve William'ın Hastings'te zaferi. Norman yönetimi sonrası şeriflik ağı yeniden düzenlenerek vergi tahsilatı daha düzenli kayıt altına alındı. Taş kaleler isyan bölgelerine yerleştirilip askeri baskı süreklileştirildi. Kilise hiyerarşisindeki atamalar da siyasi sadakat aracı oldu; böylece fethin etkisi savaşın ötesinde kurumsal hayata işlendi.",
+      "accuracyNote": "1066 kronolojisi Britannica ile uyumludur.",
+      "whyInteresting": "Aynı yıl hem Viking sonu hem Norman başlangıcıdır.",
+      "misconception": "Fetih tek günde bitti; Domesday ve kale ağı yıllar sürdü.",
+      "nextTopics": [
+        "Alfred'in Reformları",
+        "Burh Savunmaları",
+        "Wessex'in Yükselişi"
+      ],
+      "sources": [
+        {
+          "title": "Norman Conquest (Britannica)",
+          "url": "https://www.britannica.com/event/Norman-Conquest",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Battle of Hastings (Britannica)",
+          "url": "https://www.britannica.com/event/Battle-of-Hastings",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Domesday Book (UK National Archives)",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/domesday-book/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-050-bayeux-tapestry",
+        "tf26-047-shield-wall",
+        "tf26-048-names-identity"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Last Kingdom'un Anglo-Dan hattı ile 1066 Norman Conquest ve Hastings.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "anglo-sakson",
+        "ingiltere",
+        "orta-cag",
+        "norman-fethi",
+        "true-frame"
+      ],
+      "spoilerNote": "The Last Kingdom hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi Norman'ı gelecek tehdit yapar; gerçekte Hastings sonrası sistem dönüşümü yıllar sürdü.",
+      "whyItMatters": "Aynı yıl hem Viking sonu hem Norman başlangıcıdır.",
+      "isFlagship": false,
+      "quickRealityCheck": "1066'da neden üç farklı ordu İngiltere'yi hedef aldı?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-050-bayeux-tapestry",
+      "title": "Bayeux Halısı",
+      "subtitle": "Bayeux Halısı neden önemli?",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "era": "Orta Çağ",
+      "region": "İngiltere",
+      "themes": [
+        "Krallık",
+        "Kimlik",
+        "Savaş"
+      ],
+      "whatWeSee": "The Last Kingdom'da Norman fethi ve savaş sahneleri dönemin dramatik anlatımını sunar; Bayeux Halısı aynı olayların 11. yüzyıl görsel gazetesi olarak durur. Dizi karakter odaklıdır; halı propaganda ve askeri detay kaynağıdır.",
+      "realHistory": "Bayeux Halısı (11. yüzyıl) muhtemelen Odo of Bayeux için işlendi; 1066 Hastings ve Norman fethini 70 metrelik şerit halinde anlatır. Halı değil, işlemeli kumaştır; Latin açıklamalar ve 50'den fazla sahne vardır. Halı propaganda aracıdır: William'ın meşruiyeti, Harold'un yemin ihlali, gemi ve savaş düzeni. Tarihçiler detayları — zırh, gemi, savaş formasyonu — arkeoloji ile çaprazlar. The Last Kingdom fethi drama olarak gösterir; Bayeux somut görsel kanıt sunar. İki anlatı birbirini tamamlar: biri televizyon dramı, diğeri 11. yüzyıl görsel gazetesi. Halı muhtemelen Odo of Bayeux (William'ın yarı kardeşi) için işlendi; 70 metre şerit 1066 olaylarını anlatır. Harold'un yemin ihlali, Halley's Comet, gemi yapımı, Hastings savaşı sahne sahne verilir. Latin açıklamalar propaganda işlevi taşır. Tarihçiler zırh, kalkan ve gemi detaylarını arkeoloji ile çaprazlar. The Last Kingdom Uhtred üzerinden drama sunar; Bayeux somut görsel kanıt. İki anlatı birbirini tamamlar: biri televizyon, diğeri 11. yüzyıl belgesi. Halı muhtemelen Odo of Bayeux için işlendi; William'ın meşruiyeti Harold'un yemin ihlali üzerinden kurulur. Halı 70 metrelik şerit halinde 50'den fazla sahne içerir; Hastings öncesi gemi yapımı ve savaş formasyonu ayrıntılıdır. Latin açıklamalar propaganda işlevi taşır; William'ın meşruiyeti Harold'un yemin ihlali üzerinden kurulur.",
+      "accuracyNote": "1066 ve halının genel anlatısı doğrudur; Uhtred kurgusaldır.",
+      "whyInteresting": "Tek bir kumaş, savaşın resmi versiyonunu yüzyıllarca taşıdı.",
+      "misconception": "Bayeux gerçek bir halıdır; işlemeli yün şerittir.",
+      "nextTopics": [
+        "Alfred'in Reformları",
+        "Burh Savunmaları",
+        "Wessex'in Yükselişi"
+      ],
+      "sources": [
+        {
+          "title": "Bayeux Tapestry (Britannica)",
+          "url": "https://www.britannica.com/topic/Bayeux-Tapestry",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Bayeux Museum (official)",
+          "url": "https://www.bayeuxmuseum.com/en/the-bayeux-tapestry.html",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Norman Conquest (UK National Archives)",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/1066/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-048-names-identity",
+        "tf26-049-norman-conquest"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Last Kingdom Norman hattı ile Bayeux Halısı sahne sahne anlatısı.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "anglo-sakson",
+        "ingiltere",
+        "orta-cag",
+        "bayeux-halisi",
+        "true-frame"
+      ],
+      "spoilerNote": "The Last Kingdom hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Bayeux Halısı ekranda daha net bir odak kazanır; karakterlerin yolu, mekân seçimi ve çatışma ritmi bu konuyu kolay takip edilir kılar. Tarihte aynı başlık, Anglo-Sakson krallıklarının Dan yerleşimleriyle mücadelesi gibi daha uzun süreçlerin içinde ilerler.",
+      "whyItMatters": "Tek bir kumaş, savaşın resmi versiyonunu yüzyıllarca taşıdı.",
+      "isFlagship": false,
+      "quickRealityCheck": "Last Kingdom savaş sahneleri, Bayeux'taki gemi ve zırh detaylarıyla uyumlu mu?",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

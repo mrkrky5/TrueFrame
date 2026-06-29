@@ -1,0 +1,252 @@
+{
+  "locale": "tr",
+  "chunkIndex": 7,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "ac-valhalla-vikings",
+      "title": "İngiltere’de Viking Yerleşimleri",
+      "subtitle": "Vikingler sadece yağmacı değil, çiftçi ve yerleşimciydi.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Valhalla",
+      "difficulty": "medium",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Vikingler",
+        "İskandinav",
+        "İngiltere"
+      ],
+      "whatWeSee": "Eivor ve klanı, İngiltere’de köyler kurar, tarlalar eker ve yerel krallıklarla ittifaklar kurar.",
+      "realHistory": "yüzyılın ortalarında Vikinglerin İngiltere'ye yönelik akınları, küçük çaplı yağmalardan organize bir fetih hareketine dönüşmüştür. 865 yılında 'Büyük Kafir Ordusu' (Great Heathen Army) olarak bilinen devasa bir Viking birliği İngiltere'ye ayak basmıştır. Bu ordu, önceki akıncıların aksine sadece altın çalıp dönmeyi değil, toprak sahibi olmayı ve yerleşmeyi hedefliyordu. Anglo-Sakson krallıkları olan Northumbria, East Anglia ve Mercia bu ordu karşısında birer birer çökmüş, geriye sadece Büyük Alfred'in Wessex krallığı kalmıştır. Bu dönem, İngiltere'nin siyasi haritasının tamamen yeniden çizildiği bir dönüştür. Assassin's Creed Valhalla'nın merkezinde yer alan 'yerleşim kurma' (settlement) mekaniği, tarihsel bir gerçeğe dayanır. Vikingler İngiltere'ye sadece savaşmak için değil, daha verimli topraklarda çiftçilik yapmak için gelmişlerdi. İskandinavya'nın sert iklimi ve kısıtlı arazileri yerine, İngiltere'nin bereketli nehir yataklarını tercih etmişlerdir. Kurdukları yerleşimler zamanla yerel halkla (Saksonlarla) karışmış ve hibrit bir toplum oluşturmuştur. Viking yerleşimciler, tarım teknikleri, hayvancılık ve özellikle dokumacılık konusunda yerel halka pek çok yenilik getirmişlerdir. Yerleşim, bir savaşçı kampından ziyade, ailelerin yaşadığı kalıcı bir topluluk merkeziydi. Wessex Kralı Alfred, Vikingleri askeri olarak tamamen yok edemeyeceğini anlayınca, onlarla diplomatik ve hukuki bir sınır belirlemiştir. 878'deki Edington Muharebesi zaferinden sonra yapılan antlaşma ile İngiltere ikiye bölünmüştür. 'Danelaw' adı verilen kuzey ve doğu bölgeleri Viking kontrolüne bırakılırken, güney ve batı Saksonlarda kalmıştır. Bu dönem, iki farklı kültürün, dilin ve hukukun yan yana yaşadığı eşsiz bir süreçtir. Alfred, bu süreci Sakson kültürünü güçlendirmek, eğitim seferberliği başlatmak ve İngiltere birliği fikrini yaymak için kullanmıştır. Barış, her iki taraf için de bir hayatta kalma stratejisiydi. Viking ordularının başarısı, sadece bireysel güçlerine değil, disiplinli savaş formasyonlarına dayanıyordu. 'Skjaldborg' (Kalkan Duvarı), Vikinglerin en ikonik ve aşılmaz savunma taktiğiydi. Kalkanların birbirinin üzerine bindirilerek oluşturulduğu bu duvar, hem okları durduruyor hem de düşman hattını bir balyoz gibi yarıyordu. Ayrıca 'Huscarl' olarak bilinen profesyonel ve elit koruma birlikleri, Viking liderlerinin etrafında sarsılmaz bir güç oluşturuyordu. Savaş, Vikingler için sadece bir çatışma değil, bir onur, sadakat testi ve dini ritüel alanıydı. Dane Axe (Büyük Balta) kullanımı, Sakson piyadeleri üzerinde büyük bir psikolojik baskı yaratıyordu. Vikingler İngiltere'de sadece toprak değil, yeni bir dinle de tanıştılar. Başlangıçta kiliseleri yağmalasalar da, yerleşik hayata geçtikçe Hristiyanlık ile senkretik (birleşik) bir inanç yapısı geliştirmeye başladılar. Viking liderlerinin vaftiz olması, onlara Sakson kralları karşısında siyasi meşruiyet ve ticari avantajlar sağlıyordu. Bugün İngiltere'deki bazı eski kiliselerde görülen Viking motifli taş oymalar (Gosforth Haçı gibi), bu inanç geçişinin en somut örnekleridir. Pagan tanrıları Odin ve Thor, yerlerini yavaş yavaş Hristiyanlık figürlerine bırakmıştır; ancak Viking savaşçı ruhu bu yeni dinde de.",
+      "accuracyNote": "Oyun, Vikinglerin yerleşik hayata geçişini ve tarımsal faaliyetlerini oldukça iyi yansıtır.",
+      "whyInteresting": "Bugün İngilizce’deki many, sky, window gibi yüzlerce kelime Viking dillerinden (Eski Norsça) mirastır.",
+      "misconception": "Vikinglerin İngiltere’yi tamamen yok ettiği sanılır; oysa birçok İngiliz köylüsüyle barış içinde ticaret yapmışlardır.",
+      "nextTopics": [
+        "Büyük Alfred",
+        "Danelaw",
+        "Jorvik"
+      ],
+      "sources": [
+        {
+          "title": "Vikings in England (British Museum)",
+          "url": "https://www.britishmuseum.org/collection/galleries/vikings",
+          "type": "museum"
+        },
+        {
+          "title": "The Viking Age (BBC History)",
+          "url": "https://www.bbc.co.uk/history/ancient/vikings/",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "ac-valhalla-settlement"
+      ],
+      "reviewerNote": "British Museum sergi verileriyle uyumlu.",
+      "mediaConnection": "Bu kart, oyundaki Assassin’s Creed Valhalla atmosferi ve tarihsel kurgusundan yola çıkar.",
+      "accuracyType": "fictionalized",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "assassins-creed-val",
+        "ingiltere",
+        "iskandinav",
+        "vikingler"
+      ],
+      "mediaChanged": "Oyunda Vikingler neredeyse her zaman 'onurlu fatihler' olarak gösterilir ve Saksonlar 'kötü/yozlaşmış' olarak tasvir edilir. Gerçekte durum her iki taraf için de çok daha griydi; yağma ve şiddet her iki tarafın da sıradan taktiğiydi.",
+      "whyItMatters": "Bugün İngilizce’deki many, sky, window gibi yüzlerce kelime Viking dillerinden (Eski Norsça) mirastır.",
+      "isFlagship": true,
+      "quickRealityCheck": "Viking etkisi kılıçla başladı ama kalıcılık yerleşim ve anlaşmayla geldi.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "napoleon-myth-reality",
+      "title": "Napolyon: Mit vs. Siyasi Gerçeklik",
+      "subtitle": "Kısa boylu bir tiran mı, modern Avrupa’nın mimarı mı?",
+      "mediaType": "film",
+      "mediaTitle": "Napoleon",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Hukuk",
+        "Savaş",
+        "Fransa"
+      ],
+      "whatWeSee": "Filmde Napolyon, kaba, kısa boylu ve sadece savaş odaklı bir lider olarak gösterilir.",
+      "realHistory": "Napolyon Bonapart'ın tarihi imajı, 19. yüzyılın en büyük propaganda savaşlarının merkezinde yer alır. Napolyon, sadece savaş meydanlarında değil, hukuk ve idari alanda da devrim yapmıştır. 1804 yılında yayınladığı 'Code Civil' (Napolyon Kanunları), feodal düzenin ayrıcalıklarını kaldırarak kanun önünde eşitlik ve mülkiyet hakkını getirmiştir. Bu kanunlar, modern Avrupa hukukunun temel taşıdır. Ayrıca Napolyon, Mısır seferi sırasında (1798) yanına 160'tan fazla bilim insanı, sanatçı ve mühendis almıştı. Bu heyet, Rosetta Taşı'nın bulunmasını sağlayarak antik hiyerogliflerin çözülmesine ve modern Mısırbilim'in doğuşuna zemin hazırlamıştır. Napolyon'un 'tiran' imajı büyük oranda İngiliz karikatüristler tarafından körüklenmiş olsa da, onun hırsı Avrupa'da milyonlarca insanın ölümüne yol açan savaşlar silsilesini de tetiklemiştir.\n\nNapolyon'un Mısır seferi sırasında (1799) bir Fransız subayı tarafından bulunan Rosetta Taşı, antik Mısır hiyerogliflerinin çözülmesini sağlayarak modern Mısırbilim'in (Egyptology) başlamasına neden olmuştur.\n\nNapolyon, yanındaki ordusu kadar kalabalık bir 'bilim heyetiyle' sefere çıkan nadir komutanlardan biridir.\n\nNapolyon’un çok kısa olduğu iddiası, İngiliz savaş propagandasının ve Fransız-İngiliz ölçü birimi farkının bir ürünüdür.\n\nTarihî kayıtlar, napolyon bir fatihten çok daha fazlasıydı; modern hukukun, metrik sistemin ve hatta Mısırbilim'in kurucularından biridir.",
+      "accuracyNote": "2023 yapımı film, Napolyon'un stratejik zekasını ve idari başarılarını geri plana atarak onu duygusal ve kaba bir figür olarak resmeder. Özellikle Austerlitz gibi zaferlerini dramatize etmek adına tarihi kronolojiyi bazen feda eder.",
+      "whyInteresting": "Napolyon'un Mısır seferi sırasında (1799) bir Fransız subayı tarafından bulunan Rosetta Taşı, antik Mısır hiyerogliflerinin çözülmesini sağlayarak modern Mısırbilim'in (Egyptology) başlamasına neden olmuştur. Napolyon, yanındaki ordusu kadar kalabalık bir 'bilim heyetiyle' sefere çıkan nadir komutanlardan biridir.",
+      "misconception": "Napolyon’un çok kısa olduğu iddiası, İngiliz savaş propagandasının ve Fransız-İngiliz ölçü birimi farkının bir ürünüdür.",
+      "nextTopics": [
+        "Napolyon Kanunları",
+        "Rosetta Taşı",
+        "Waterloo"
+      ],
+      "sources": [
+        {
+          "title": "Napoleon I (Britannica)",
+          "url": "https://www.britannica.com/biography/Napoleon-I",
+          "type": "official"
+        },
+        {
+          "title": "The Napoleonic Code (National Archives France)",
+          "url": "https://www.archives-nationales.culture.gouv.fr/",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "napoleon-egypt-propaganda",
+        "napoleon-code-legacy-real",
+        "napoleon-waterloo-masterclass"
+      ],
+      "reviewerNote": "Boy efsanesi ve hukuk reformları Britannica ile doğrulandı.",
+      "mediaConnection": "Bu kart, Napoleon (2023) yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "fransa",
+        "hukuk",
+        "napoleon",
+        "savas"
+      ],
+      "spoilerNote": "Napoleon hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "isFlagship": false,
+      "mediaChanged": "Son yapım, Napolyon'un stratejik zekasını ve idari başarılarını geri plana atarak onu duygusal ve kaba bir figür olarak resmeder. Napoleon sahne diliyle konuyu yoğunlaştırır; kayıtlar ise aynı konuyu daha parçalı bir çerçevede anlatır.",
+      "whyItMatters": "Napolyon'un yanında kadar kalabalık bir 'bilim heyetiyle' sefere çıkan nadir komutanlardan biridir.",
+      "quickRealityCheck": "Napolyon bir fatihten çok daha fazlasıydı; modern hukukun, metrik sistemin ve hatta Mısırbilim'in kurucularından biridir.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "medieval-lifespan-myth",
+      "title": "Orta Çağ’da Yaşam Süresi Yanılgısı",
+      "subtitle": "İnsanlar gerçekten 30 yaşında mı ölüyordu?",
+      "mediaType": "general",
+      "mediaTitle": "Popüler Kültür Yanılgıları",
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Sağlık",
+        "Demografi",
+        "Orta Çağ"
+      ],
+      "whatWeSee": "Film ve oyunlarda ortaçağ insanı 30 yaşında ölürdü klişesi karanlık ve kısa bir yaşam tablosu çizer. Bu rakam çoğu zaman bebek ölümünü içeren ortalama; hayatta kalan yetişkinler için tablo belirgin şekilde farklıdır.",
+      "realHistory": "Ortaçağ için sık duyulan 'ortalama yaşam 30' ifadesi yanıltıcıdır. Yüksek bebek ve çocuk ölümü ortalama yaşam beklentisini aşağı çeker; hayatta kalan yetişkinler çoğu zaman 50–60'a ulaşabiliyordu. Arkeolojik ve yazılı kayıtlar yaş gruplarını ayırmayı gerektirir. Kıtlık, savaş ve veba dönemsel risklerdi; 'herkes 30'da öldü' genellemesi yanlıştır. Ortaçağ tıbbı sınırlıydı ama toplumlar nüfusu sürdürdü. Popüler kültür bu istatistiği karanlık çağ mitini beslemek için kullanır. Doğru soru 'ortalama mı, medyan mı, hangi sınıf?' sorusudur. Demografi çalışmaları 'yaşam beklentisi' ile 'hayatta kalan yetişkinin beklenen ömrü'nü ayırır. Yüksek bebek ve çocuk ölümü ortalamayı 30'un altına çeker; 21 yaşına ulaşan birinin 50–60'a ulaşma şansı çoğu ortaçağ toplumunda anlamlıydı. Arkeolojik mezar analizleri yaş dağılımını gösterir. Soylular ve şehirli zanaatkârlar kayıtlarda daha uzun ömür gösterebilir; kırsal yoksulluk daha kısa. Popüler kültür istatistiği karanlık çağ mitini besler. Doğru soru: hangi yaş grubu, hangi sınıf, hangi dönem? Arkeolojik mezar analizleri çocuk iskeletlerinin oranını gösterir; yetişkin kemikleri farklı yaş dağılımı verir. Our World in Data ve demografi çalışmaları bebek ölümü ile yetişkin ömrünü ayırmayı zorunlu kılar. Ortaçağ için doğru soru: hangi yaş grubu, hangi sınıf? Cambridge Group for the History of Population çalışmaları İngiltere pariş kayıtlarında yetişkin ömür eğrilerini ayrı hesaplar.",
+      "accuracyNote": "Bebek ölümü ve yetişkin yaşam ayrımı demografi kaynaklarıyla desteklenir.",
+      "whyInteresting": "Aynı dönemde hem yüksek bebek ölümü hem uzun yaşayan yetişkinler vardı.",
+      "misconception": "Ortaçağda kimse yaşlıya ulaşamazdı; hayatta kalanlar için tablo farklıdır.",
+      "nextTopics": [
+        "Tıp Tarihi",
+        "Kara Ölüm",
+        "Viktorya Dönemi Sağlığı"
+      ],
+      "sources": [
+        {
+          "title": "Medieval life expectancy (British Academy)",
+          "url": "https://www.thebritishacademy.ac.uk/publishing/review/11/ancient-and-medieval-history/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Life expectancy history (Our World in Data)",
+          "url": "https://ourworldindata.org/life-expectancy",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Medieval demography (Britannica)",
+          "url": "https://www.britannica.com/topic/demography",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "pirate-maps-myth",
+        "nero-fiddling-myth",
+        "witch-hunts-period"
+      ],
+      "reviewerNote": "İstatistiksel veriler Scientific American ile doğrulandı.",
+      "mediaConnection": "Kısa yaşam klişesi ile ortaçağ demografi ve mezar arkeolojisi.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "demografi",
+        "orta-cag",
+        "popler-kltr-yanl",
+        "salk"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Popüler Kültür Yanılgıları bu konuyu sahne diliyle yoğunlaştırır; bebek ölümü ve yetişkin yaşam ayrımı demografi kaynaklarıyla desteklenir.",
+      "whyItMatters": "Aynı dönemde hem yüksek bebek ölümü hem uzun yaşayan yetişkinler vardı.",
+      "quickRealityCheck": "30 yaş miti, bebek ölümü dahil edilince mi oluşuyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "pentiment-printing-press",
+      "title": "Matbaanın Devrimi ve Okuryazarlık",
+      "subtitle": "Bilginin el yazmasından kitlelere yolculuğu.",
+      "mediaType": "game",
+      "mediaTitle": "Pentiment",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Matbaa",
+        "Reformasyon",
+        "Toplum"
+      ],
+      "whatWeSee": "Oyunda, el yazması kitapların matbaaya geçişi ve bu değişimin yerel bir manastır toplumu üzerindeki sarsıcı etkileri işlenir.",
+      "realHistory": "Matbaadan önce bir kitabın yazılması aylar sürüyordu ve sadece kilise veya çok zenginlerin erişimindeydi. Matbaa ile birlikte kitap fiyatları düştü ve okuryazarlık hızla yayıldı. Martin Luther'in İncil'i Almancaya çevirip matbaada çoğaltması, Reformasyon hareketinin ve din savaşlarının fitilini ateşlemiştir. Matbaa olmasaydı, ne Rönesans ne de Bilimsel Devrim bu kadar geniş kitlelere ulaşabilirdi. Bu, insanlık tarihindeki ilk gerçek 'bilgi patlaması'dır ve sansürün artık imkansız hale geldiği yeni bir çağın başlangıcıdır.\n\nLuther'in Almanca İncil'i Reformasyon'u kitlelere taşıdı. Okuryazarlık yüzyıllar süren kentleşmeyle arttı.\n\nGutenberg matbaası 1450'lerde Mainz'de faaliyete geçti; taşınabilir metal harfler seri üretimi mümkün kıldı. Luther'in 95 Tez'i ve Almanca İncil çevirisi matbaayla hızla yayılarak Reformasyon'u kitlelere ulaştırdı. Matbaadan önce bir İncil kopyalanması aylar sürerken günde yüzlerce kopya basılabilir hale geldi. Okuryazarlık oranları bir gecede değil, yüzyıllar süren kentleşme ve eğitimle kademeli olarak arttı.\n\nMatbaa öncesi kopyacılar manastır atölyelerinde çalışır; tek bir el yazması aylar sürerdi. Matbaa bu süreci kısaltarak fikirlerin hızla yayılmasını sağladı.\n\nMatbaa, kilisenin metin tekelini zayıflatarak laik ve dini tartışmaların geniş kitlelere ulaşmasını mümkün kıldı.\n\nMatbaanın icadıyla okuryazarlığın bir gecede arttığı olduğu sanılır; oysa kayıtlara göre bu süreç yüzyıllar süren bir kültürel değişimdir.",
+      "accuracyNote": "Pentiment, matbaanın sosyal ve dini etkilerini oldukça derin ve tarihsel verilere sadık şekilde işler.",
+      "whyInteresting": "Matbaadan önce bir İncil’in kopyalanması aylar sürerken, matbaa ile günde yüzlerce kopya basılabilir hale gelmiştir.",
+      "misconception": "Matbaanın icadıyla okuryazarlığın bir gecede arttığı sanılır; oysa bu süreç yüzyıllar süren bir kültürel değişimdir.",
+      "nextTopics": [
+        "Johannes Gutenberg",
+        "Martin Luther",
+        "Rönesans"
+      ],
+      "sources": [
+        {
+          "title": "The Printing Press (History.com)",
+          "url": "https://www.history.com/topics/inventions/printing-press",
+          "type": "official"
+        },
+        {
+          "title": "Impact of the Printing Press (Britannica)",
+          "url": "https://www.britannica.com/topic/printing-press",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "pentiment-printing-press-clash"
+      ],
+      "reviewerNote": "Teknolojik ve sosyal veriler Britannica ile doğrulandı.",
+      "mediaConnection": "Bu kart, Pentiment yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "matbaa",
+        "pentiment",
+        "reformasyon",
+        "toplum"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Pentiment oyununda matbaa, yazmaların estetik güzelliğini yok eden bir 'soğuk makine' gibi de algılanır. Gerçekte matbaa, sadece hızı artırmamış, bilginin doğrulanabilirliğini ve saklanabilirliğini devrimsel bir boyuta taşımıştır.",
+      "whyItMatters": "Matbaadan önce bir İncil’in kopyalanması aylar sürerken, matbaa ile günde yüzlerce kopya basılabilir hale gelmiştir.",
+      "quickRealityCheck": "Gerçek. Gutenberg'in matbaayı icadı (1450'ler), bilginin demokratikleşmesini ve modern dünyanın kapılarının açılmasını sağlamıştır.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    }
+  ]
+}

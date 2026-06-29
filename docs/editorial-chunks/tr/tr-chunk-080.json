@@ -1,0 +1,290 @@
+{
+  "locale": "tr",
+  "chunkIndex": 80,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-189-empire-memory",
+      "title": "İmparatorluk Hafızası",
+      "subtitle": "Bir sahnenin sakladığı sistem",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "era": "Modern Tarih",
+      "region": "Birleşik Krallık",
+      "themes": [
+        "Monarşi",
+        "Medya",
+        "Siyaset"
+      ],
+      "whatWeSee": "The Crown'da imparatorluk hafızası çoğunlukla tören dili, resmi ziyaretler ve aile içi krizlerin aynı kadraja girdiği anlarda beliriyor. Saray geçmişin sürekliliğini korumaya çalışırken medya çağının baskısı bu dili sürekli sorguluyor. Dizi, değişen dünyaya rağmen sembollerin ayakta kalma mücadelesini duygusal ve politik bir gerilim olarak kuruyor.",
+      "realHistory": "İkinci Dünya Savaşı sonrası Britanya'da imparatorluk hafızası yalnız geçmişi anma biçimi değil, güncel siyaset ve vatandaşlık tartışmalarının aktif bir alanıydı. 1947'de Hindistan'ın bağımsızlığıyla hızlanan çözülme, 1956 Süveyş Krizi'nde küresel güç iddiasının sınırlarını açıkça gösterdi. Buna rağmen devlet söyleminde dünya rolü fikri tamamen kaybolmadı; Commonwealth bu rolün daha yumuşak diplomatik çerçevesi olarak işlendi. Monarşi, bu geçişte sembolik süreklilik üretmek için kritik bir araçtı: kraliyet turları, anma törenleri ve yayın konuşmaları parçalanan imparatorluk coğrafyasını duygusal bağ içinde tutmaya çalıştı. Ancak aynı dönemde Kenya, Malaya ve Kıbrıs gibi bölgelerdeki sert dekolonizasyon süreçleri bu sakin geçiş anlatısını zorladı. Sonraki yıllarda arşivlerin açılmasıyla zorla yer değiştirme, gözaltı politikaları ve baskı pratikleri daha görünür hale geldi. Windrush kuşağı etrafındaki hak tartışmaları, imparatorluk mirasının geçmişte kalmadığını ve bugünkü yurttaşlık rejimlerini etkilediğini gösterdi. Güncel heykel tartışmaları, müze küratörlüğü ve müfredat politikaları bu hafıza mücadelesinin devam ettiğini kanıtlıyor. The Crown kişisel dramatizasyonla güçlü bir giriş sağlasa da tarihsel merkez, hangi acıların kamusal tanınma bulduğu ve kurumların sömürge mirasıyla ne kadar hesaplaştığı sorusundadır. Ayrıca müzelerde iade talepleri ve eser kökeni tartışmaları, imparatorluk hafızasının maddi kültür üzerinden yeniden müzakere edildiğini ortaya koydu. Böylece hafıza siyaseti, yalnız söylemde değil koleksiyon politikalarında da somut bir mücadele alanına dönüştü.",
+      "accuracyNote": "Dizi dönemin sembolik atmosferini iyi yakalar; ancak sömürge sonrası şiddetin kapsamı anlatı odağı gereği dar kalır.",
+      "whyInteresting": "Bir ülkenin bugünkü kimlik kavgası, çoğu zaman geçmişte kimi hatırlayıp kimi susturduğu tercihinden doğuyor.",
+      "misconception": "İmparatorluk hafızasının yalnızca nostaljik bir duygu ve saray protokolü meselesi olduğu düşünülür.",
+      "nextTopics": [
+        "Anayasal Rol",
+        "Taç Giyme",
+        "Commonwealth"
+      ],
+      "sources": [
+        {
+          "title": "Britannica - Decolonization and the loss of empire",
+          "url": "https://www.britannica.com/place/United-Kingdom/Decolonization-and-the-loss-of-empire",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Suez Crisis",
+          "url": "https://www.britannica.com/event/Suez-Crisis",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The National Archives (UK) - End of Empire",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/end-of-empire/",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-190-privacy",
+        "tf26-187-public-grief",
+        "tf26-188-royal-finance"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Crown'un törensel süreklilik anlatısı, dekolonizasyon arşivleriyle birlikte ele alındığında çok daha eleştirel bir çerçeve sunar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "monarsi",
+        "the-crown",
+        "ingiltere",
+        "i-mparatorluk-hafizasi",
+        "true-frame"
+      ],
+      "spoilerNote": "The Crown hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi odağı saray ve aile ilişkilerine veriyor. Tarihsel tartışmada ise dekolonizasyon şiddeti ve kamusal tanınma mücadeleleri daha belirleyici bir ağırlık taşıyor.",
+      "whyItMatters": "İmparatorluk hafızasını doğru okumak, bugünkü temsil, vatandaşlık ve eşitlik tartışmalarının tarihsel köklerini görünür kılar.",
+      "isFlagship": false,
+      "quickRealityCheck": "Süveyş'ten sonra jeopolitik güç gerilerken imparatorluk dili hangi kurumlar sayesinde kamusal alanda yaşamaya devam etti?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-190-privacy",
+      "title": "Mahremiyet ve Görev",
+      "subtitle": "Mahremiyet ve Görev neden önemli?",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "era": "Modern Tarih",
+      "region": "Birleşik Krallık",
+      "themes": [
+        "Monarşi",
+        "Medya",
+        "Siyaset"
+      ],
+      "whatWeSee": "The Crown'da Kraliçe II'nin özel hayatı, aile krizleri ve basın baskısı sürekli çatışır. Diana, Margaret ve Charles hikâyelerinde saray, kamusal görev ile kişisel alan arasındaki çizgiyi koruma çabası dramın motorudur. Dizi mahremiyeti ihlal edilmiş bir görev olarak sunar. İzleyici saray koridorunda bekleyen basın ordusunu, kapalı kapı ardındaki aile gerilimini ve aynı olayın televizyon bültenine dönüştüğü anı ardışık görüyor.",
+      "realHistory": "20. yüzyıl Britanya monarşisi, radyo ve televizyon çağında görünürlüğü artırırken mahremiyet sınırlarını yeniden çizdi. Kraliçe II resmi olarak siyaset dışı kaldı; özel görüşmeleri teamül gereği gizli tutuldu. 1950'lerde televizyon taç giyme törenini eve taşıdı; 1990'larda Diana röportajları ve medya takibi saray protokolünü zorladı. 'Never complain, never explain' teamülü ile basının spekülasyonu arasında gerilim büyüdü. Anayasal monarşide hükümdar kamusal figür olsa da aile içi krizler (boşanma, skandal) doğrudan tahtın meşruiyetine bağlandı. The Crown bu gerilimi kişisel çatışma olarak yoğunlaştırır; arşivler daha resmi bir dil ve gecikmeli açıklamalar gösterir. 1992 Windsor yangını ve 'annus horribilis' konuşması, krizlerin kamusal yönetimini örnekler. Mahremiyet tartışması bugün de sürer: kraliyet hangi bilgiyi kamuoyu hakkı, hangisini aile hakkı sayar? yüzyılın ikinci yarısında Britanya monarşisi, özel hayat ile kamusal görev arasındaki sınırı sürekli yeniden tanımlamak zorunda kaldı. Televizyon yayınları sarayın ritüellerini milyonlara açarken, aile krizleri de aynı görünürlük düzeyine taşındı. Basın fotoğrafçılığı, resmi törenlerden duygusal anlara yöneldikçe mahremiyet bir ayrıcalık olmaktan çıkıp siyasi meşruiyet meselesine dönüştü. Kraliyet danışmanları, gizlilik taleplerinin halktan kopukluk yaratmaması için kontrollü şeffaflık stratejileri geliştirdi. Böylece monarşi, anayasal rolünü korurken medya çağının denetimine uyum sağlamaya çalıştı. Mahremiyet ve Görev",
+      "accuracyNote": "Teamül ve medya dönüşümü belgelenmiştir; dizi diyalogları dramatize edilmiştir.",
+      "whyInteresting": "Mahremiyet, anayasal monarşide siyasi bir kaynak haline geldi.",
+      "misconception": "Kraliyet tamamen kapalı bir dünyadır; oysa televizyon çağından beri görünürlük zorunluluğu arttı.",
+      "nextTopics": [
+        "Anayasal Rol",
+        "Taç Giyme",
+        "Commonwealth"
+      ],
+      "sources": [
+        {
+          "title": "The role of the Monarchy (UK Parliament)",
+          "url": "https://www.parliament.uk/about/how/role/monarchy/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Elizabeth II (Britannica)",
+          "url": "https://www.britannica.com/biography/Elizabeth-II",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Royal Communications (Royal.uk)",
+          "url": "https://www.royal.uk/role-monarchy",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-188-royal-finance",
+        "tf26-189-empire-memory"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Crown'un Diana ve Charles kriz sahneleri ile 20. yüzyıl Britanya kraliyet mahremiyet teamülleri.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "monarsi",
+        "the-crown",
+        "ingiltere",
+        "mahremiyet-ve-gorev",
+        "true-frame"
+      ],
+      "spoilerNote": "The Crown hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi iç monolog ve özel sahnelerle mahremiyeti görünür kılar; gerçekte protokol çoğu krizi perde arkasında yönetmeye çalıştı.",
+      "whyItMatters": "Modern monarşi, görünmez kalmak için her zamankinden daha fazla medya yönetimi yapmak zorunda.",
+      "isFlagship": false,
+      "quickRealityCheck": "Kraliçe II'nin başbakanlarla haftalık görüşmeleri neden kayıt altına alınmadı?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-191-plague-spread",
+      "title": "Vebanın Yayılışı",
+      "subtitle": "Vebanın Yayılışı: görünenden fazlası",
+      "mediaType": "general",
+      "mediaTitle": "Kara Veba temalı yapımlar",
+      "era": "Orta Çağ",
+      "region": "Avrupa",
+      "themes": [
+        "Hastalık",
+        "Toplum",
+        "Yanlış Bilinenler"
+      ],
+      "whatWeSee": "Kara Veba temalı yapımlarda ticaret yolları boyunca yayılan ölüm, limandan limana sıçrayan felaket ve harita üzerinde büyüyen karanlık öne çıkar. Animasyon hız verir; epidemiyologlar ise dalga dalga ilerleyen liman ve kırsal desenleri ayırır.",
+      "realHistory": "Kara Veba’nın yayılışı tek bir “kirli şehir” hikâyesiyle açıklanamaz. Hastalığın etkeni Yersinia pestis’tir; bakteri kemirgenler ve pireler arasında dolaşır, insanlara da çoğunlukla enfekte pire ısırığı ya da enfekte hayvanla temas yoluyla geçer. 14. yüzyılda bu biyolojik döngü, ticaret yolları, liman şehirleri, savaş ve yoğun insan hareketiyle birleşince salgın Avrupa’ya çok hızlı yayıldı.\n\n1347’de Karadeniz ve Akdeniz bağlantıları üzerinden gelen gemiler, liman kentlerini erken vurdu. Deniz ticareti, kervan yolları ve kentler arası hareket, hastalığın yalnız farelerle değil, insan ve mal akışıyla da taşınmasına yol açtı. Bazı bölgelerde pnömonik veba gibi insandan insana solunum yoluyla bulaşabilen formlar da yayılımı daha yıkıcı hale getirdi. Bu yüzden salgın haritası, yalnız biyoloji değil; ekonomi ve ulaşım haritasıydı.\n\nOrta Çağ insanları bakteriyi bilmiyordu. Kötü hava, ilahi ceza, yabancı düşmanlığı ya da komplo söylentileri hastalığı açıklamak için kullanıldı. Karantina fikri ve liman kontrolleri zamanla gelişti; fakat ilk dalgada bilgi eksikliği, panik ve ticaret ağlarının yoğunluğu salgını durdurmayı imkânsız hale getirdi.\n\nKara Veba temalı yapımlar genellikle karanlık sokak, ceset arabası ve ani ölüm görüntüsüne odaklanır. Gerçek tarih ise bu sahnelerin arkasında daha karmaşık bir tablo gösterir: bakteri, pire, kemirgen, ticaret, liman ve toplumsal korku aynı felaketin parçalarıydı.",
+      "accuracyNote": "Kara Veba’nın Yersinia pestis kaynaklı olduğu güçlü biçimde desteklenir; ancak 14. yüzyıldaki yayılımda kemirgen-pire döngüsü, insan hareketi ve pnömonik bulaş gibi etkenlerin ağırlığı bölgeye göre değişebilir.",
+      "whyInteresting": "Salgını hızlandıran şey yalnız hastalık değildi; Akdeniz limanları, ticaret yolları ve insan hareketi bakterinin coğrafyasını genişletti.",
+      "misconception": "Kara Veba’nın sadece kirli şehirlerden yayıldığı sanılır; gerçekte pireler, kemirgenler, ticaret ağları ve bazı durumlarda insandan insana bulaş birlikte rol oynadı.",
+      "nextTopics": [
+        "Karantina Fikri",
+        "Flagellantlar",
+        "Salgın ve Nefret"
+      ],
+      "sources": [
+        {
+          "title": "Black Death spread (Britannica)",
+          "url": "https://www.britannica.com/event/Black-Death",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Yersinia pestis ancient DNA (Nature)",
+          "url": "https://www.nature.com/articles/nature10549",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Plague epidemiology (CDC)",
+          "url": "https://www.cdc.gov/plague/index.html",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-192-quarantine",
+        "tf26-193-flagellants",
+        "tf26-194-antisemitism"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Ticaret yolu haritaları ile Y. pestis ve liman salgın kronikleri.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "kara-olum",
+        "orta-cag",
+        "yanlis-bilinenler",
+        "vebanin-yayilisi",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Yapımlar çoğu zaman vebayı ani ölüm ve karanlık sokak estetiğiyle gösterir; tarihsel tablo ise liman, ticaret, karantina ve yanlış açıklamalarla daha sistemiktir.",
+      "whyItMatters": "Kara Veba, salgınların yalnız tıbbi değil; ulaşım, ekonomi, bilgi eksikliği ve toplumsal korku meselesi olduğunu gösterir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Kara Veba yalnız farelerden mi yayıldı, yoksa ticaret yolları, pireler ve insan hareketi salgını birlikte mi büyüttü?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-192-quarantine",
+      "title": "Karantina Fikri",
+      "subtitle": "Karantina: veba değil, liman kelimesi",
+      "mediaType": "general",
+      "mediaTitle": "Kara Veba temalı yapımlar",
+      "era": "Orta Çağ",
+      "region": "Avrupa",
+      "themes": [
+        "Hastalık",
+        "Toplum",
+        "Yanlış Bilinenler"
+      ],
+      "whatWeSee": "Kara Veba temalı yapımlarda limanlar kapanır, gemiler kıyıda bekletilir ve şehir surları ölü tehdidiyle mühürlenir. Venedik lagünü bu sahnelerin en tanıdık arka planıdır; fakat ekranda çoğu zaman görünmeyen katman, ticaret devletlerinin salgını yönetmek için icat ettiği kırk günlük liman beklemesidir.",
+      "realHistory": "Modern Türkçedeki 'karantina' kelimesi, İtalyanca quaranta giorni — kırk gün — ifadesinden gelir. 14. yüzyılın sonlarında Venedik, veba şüphesi taşıyan gemileri Lazzaretto Vecchio adasına alıp kırk gün bekletmeye başladı; ticaret durmasın diye süre, gözlem ve kayıt bir arada yürütüldü. Dubrovnik (Ragusa) 1377'de benzer bir düzenleme yayımlayarak Akdeniz'de erken bir 'liman sağlık kurulu' örneği verdi. Bu uygulamalar tek bir mucize değil, tekrarlayan salgınların ürünüydü. Liman meclisleri, kaptan raporları ve karantina memurları; ölümü engellemekten çok ticaret ağını ayakta tutmayı hedefledi. Din adamları bazen karantinayı 'Tanrı'nın işine müdahale' saydı, tüccarlar ise gecikmeyi protesto etti. Kara Veba temalı yapımlar çoğu zaman surların bir gecede kapanmasını gösterir; arşivler ise yıllar süren tartışma, istisna ve rüşveti anlatır. Karantina, bugünkü sınır ve sağlık politikalarının da uzun kökenli bir deneyidir. Venedik'te 1423'te kurulan Office of Health (Magistrato alla Sanità) ve Lazzaretto adaları, karantinayı kalıcı kuruma dönüştürdü. Gemi kaptanları limana girmeden önce yolcu listesi, kargo ve önceki liman bilgisi verirdi; şüpheli vakalarda yolcular adada tutulur, mallar hava ve güneşle 'arındırılırdı'. Marsilya ve Cenova benzer sistemler geliştirdi; Akdeniz ticaret ağı salgını durduramazdı ama yavaşlatmayı ve kayıt altına almayı öğrendi. Karantina her zaman adil uygulanmadı: zengin tüccarlar istisna aradı, fakir denizciler daha uzun bekledi. Yine de bu mekanizma, veba tekrar tekrar döndükçe limanları tamamen kapatmak yerine kontrollü açık tutmanın yolunu gösterdi. Bugünkü uluslararası sağlık sınırları tartışmalarının kökeni, bu erken modern liman deneylerinde okunabilir.",
+      "accuracyNote": "Karantina kökeni ve kırk günlük liman beklemesi güçlü kaynaklarla desteklenir; filmler yüzyılları ve kurumları sık sık birleştirir.",
+      "whyInteresting": "Bir kelimenin kökeni, veba korkusunun ticaret devletlerini nasıl yeni kurallar icat ettiğini gösterir.",
+      "misconception": "Karantinanın Kara Veba ile aynı anda ve her yerde uygulandığı sanılır; oysa kurum yavaş yavaş, liman liman olgunlaştı.",
+      "nextTopics": [
+        "Vebanın Yayılışı",
+        "Flagellantlar",
+        "Salgın ve Nefret"
+      ],
+      "sources": [
+        {
+          "title": "Quarantine (Britannica)",
+          "url": "https://www.britannica.com/science/quarantine",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Venice and the plague (Oxford Academic)",
+          "url": "https://academic.oup.com/book/9780198819665/chapter-abstract/389345214",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Dubrovnik quarantine regulations (WHO historical collections)",
+          "url": "https://www.who.int/news-room/spotlight/history-of-who/ten-moments-in-who-history",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-196-medieval-hygiene",
+        "tf26-197-doctors"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "major",
+      "mediaConnection": "Liman kapanışı sahneleri ile Venedik ve Dubrovnik liman sağlık kayıtları.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "kara-olum",
+        "orta-cag",
+        "yanlis-bilinenler",
+        "karantina-fikri",
+        "true-frame"
+      ],
+      "spoilerNote": "Period Films hikâyesinin sonunu veya büyük sürprizlerini anlatabilir.",
+      "mediaChanged": "Filmler anlık dram verir; tarih defterleri, meclis kararları ve istisna belgeleriyle ilerler.",
+      "whyItMatters": "Salgın yönetiminin kökleri, bugünkü küresel seyahat düzenini de şekillendirir.",
+      "isFlagship": true,
+      "quickRealityCheck": "Venedik lagünündeki kırk günlük bekleyiş, filmlerdeki anlık şehir kilidine ne kadar benziyor?",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

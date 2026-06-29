@@ -1,0 +1,363 @@
+{
+  "patchId": "tr-chunks-045-046-source-aware-patch",
+  "locale": "tr",
+  "sourceChunks": [
+    45,
+    46
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-editorial-qa",
+  "summary": {
+    "cardCount": 8,
+    "approvedAsIs": [],
+    "minorEdit": [
+      "tf26-029-myth-history",
+      "tf26-031-longships",
+      "tf26-033-runes",
+      "tf26-035-danelaw"
+    ],
+    "rewrite": [
+      "tf26-030-persian-wars",
+      "tf26-032-raids-trade",
+      "tf26-034-norse-religion",
+      "tf26-036-vinland"
+    ],
+    "sourceUpdates": [
+      "Greek myth/history card gained stronger religion + Peloponnesian context sources.",
+      "Persian Wars card was cleaned of repetition and tied to Marathon, Salamis, Plataea, Delian League consequences.",
+      "Viking cards now prioritize museum/official sources for longships, trade, runes, religion, Danelaw and Vinland.",
+      "Flagship cards tf26-032-raids-trade and tf26-036-vinland were expanded to proper long-form structure."
+    ],
+    "notes": [
+      "No card was approved completely as-is; all received at least source/field cleanup.",
+      "The biggest structural fixes were duplicate/remnant text in tf26-030 and tf26-034, plus under-length flagship cards tf26-032 and tf26-036."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-029-myth-history",
+      "reviewStatus": "minorEdit",
+      "notes": "Gövde genel olarak doğru yönde; subtitle jenerikti, kısa alanlar ve kaynak omurgası mitin siyasal/ritüel işlevini daha net gösterecek şekilde toparlandı.",
+      "fields": {
+        "subtitle": "Mit, sadece masal değil siyasi hafızaydı",
+        "realHistory": "MÖ 5. yüzyıl Yunan dünyasında mit, tarihsel gerçekliğin dışındaki basit bir “masal alanı” değildi. Şehir devletleri kararlarını meclislerde, ittifak ağlarında ve askeri hesaplarla alıyordu; ama bu kararların anlam kazanması için tapınaklar, kahraman soyları, kehanet merkezleri ve ortak festival hafızası sürekli kullanılıyordu. Bir kentin kendini hangi kahramana bağladığı ya da hangi tanrının koruması altında gördüğü, yalnız dini bir tercih değil, kamusal kimlik iddiasıydı.\n\nPeloponez Savaşı gibi olayların nedeni tanrıların doğrudan müdahalesi değildi; vergi, deniz ticareti, güvenlik korkusu, müttefik baskısı ve güç dengesi belirleyiciydi. Thukydides’in çizdiği dünya, şehirlerin çıkar hesabı ve korku üzerinden hareket ettiğini gösterir. Buna rağmen aynı toplum, tragedya sahnelerinde ve tapınak ritüellerinde mitik geçmişi yeniden kurarak politik kararları anlamlandırdı.\n\nAssassin’s Creed Odyssey bu iki katmanı bilinçli biçimde karıştırır. Oyunda mitler fiziksel yaratıklara ve oynanabilir görevlere dönüşür; tarihte ise çoğu zaman meşruiyet, ortak hafıza ve ritüel dil üretirdi. Daha doğru okuma, miti “yanlış tarih” diye kenara atmak değil, antik insanların geçmişi ve siyaseti nasıl anlattığını gösteren bir araç olarak görmektir.",
+        "accuracyNote": "Odyssey mitolojik öğeleri fiziksel karşılaşmaya dönüştürür; tarihsel bağlamda mit daha çok ritüel, kimlik ve siyasal meşruiyet üretiminde etkiliydi.",
+        "whyInteresting": "Aynı toplum hem eleştirel tarih yazımı üretebildi hem de mitik hafızayı kamusal kimlik için canlı tuttu.",
+        "misconception": "Antik Yunan’da her olayın yalnızca tanrılarla açıklandığı sanılır; oysa diplomasi, vergi, ticaret ve askeri strateji çok belirleyiciydi.",
+        "mediaChanged": "Oyun mitolojik unsurları doğrudan fiziksel karşılaşmaya dönüştürür; tarihsel bağlamda mit çoğunlukla ritüel, kimlik ve siyasal söylem düzeyinde etkiliydi.",
+        "whyItMatters": "Mit ile tarih arasındaki sınırı anlamak, Odyssey’nin neden belgesel değil ama güçlü bir kültürel atmosfer kurduğunu açıklar.",
+        "quickRealityCheck": "Odyssey’de tanrılar ve yaratıklar doğrudan sahneye girer; gerçek polis dünyasında kararları daha çok tanrılar mı, yoksa siyasi elitler ve kurumlar mı şekillendiriyordu?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Greek Gods and Religious Practices",
+            "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Ancient Greek Religion",
+            "url": "https://www.britannica.com/topic/ancient-Greek-religion",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Peloponnesian War",
+            "url": "https://www.britannica.com/event/Peloponnesian-War",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-030-persian-wars",
+      "reviewStatus": "rewrite",
+      "notes": "Tekrarlar ve hatalı/garip 'lonca, koro finansmanı' ifadesi temizlendi; Pers Savaşları özgürlük miti + Atina hegemonyasının başlangıcı dengesiyle yeniden kuruldu.",
+      "fields": {
+        "subtitle": "Özgürlük anlatısı ve Atina gücünün başlangıcı",
+        "realHistory": "Pers-Yunan Savaşları, tek bir “Yunan ulusu”nun Perslere karşı ayağa kalkmasından daha karmaşık bir süreçti. MÖ 499’daki İyon Ayaklanması, Atina ve Eretria’nın desteğiyle Pers kralı I. Darius’un dikkatini Ege’ye çekti. MÖ 490’daki Marathon zaferi Atina için büyük bir prestij yarattı, ama Pers tehdidini bitirmedi; yalnızca ikinci ve daha büyük seferin zeminini hazırladı.\n\nMÖ 480’de Kserkses’in ordusu Yunanistan’a girdiğinde şehir devletleri tam bir birlik içinde değildi. Bazıları Pers tarafına yaklaştı, bazıları tarafsız kaldı, bazıları ise geçici savunma ittifakına katıldı. Thermopylai direnişi zaman kazandırdı; Salamis’te dar boğazların avantajını kullanan Yunan filosu Pers donanmasını zor durumda bıraktı. Plataia ve Mykale’den sonra Pers ilerleyişi kırıldı, fakat Ahameniş İmparatorluğu yok olmadı.\n\nAsıl uzun vadeli sonuç Atina’nın yükselişiydi. Perslere karşı kurulan Delos Birliği zamanla Atina’nın deniz imparatorluğuna dönüştü. Bu yüzden Pers Savaşları hem “özgürlük savunusu” olarak hatırlandı hem de Atina’nın müttefikleri üzerinde baskı kurduğu yeni düzenin başlangıcı oldu. Odyssey bu gerilimi aksiyon ve kişisel görevler üzerinden hissettirir; tarihsel gerçeklikte sonucu belirleyen şey hoplit cesareti kadar filo finansmanı, müttefik sadakati ve deniz ikmaliydi.",
+        "accuracyNote": "Savaşların kronolojisi ve ana cepheleri tarihsel zemine dayanır; oyundaki kahraman merkezli sunum, ittifak ve finansman katmanlarını sadeleştirir.",
+        "whyInteresting": "Aynı savaş dizisi hem özgürlük destanı hem de Atina emperyalizminin başlangıcı olarak okunabilir.",
+        "misconception": "Yunan şehirlerinin Perslere karşı her zaman tek vücut davrandığı sanılır; oysa birçok polis farklı çıkar hesabı yaptı.",
+        "mediaChanged": "Oyun Pers generallerini ve savaşları aksiyon hedeflerine indirger; kayıtlar lojistik, donanma, müttefik haraçları ve şehirler arası güvensizliği öne çıkarır.",
+        "whyItMatters": "Pers Savaşları, askeri zaferin kısa sürede siyasi hegemonyaya dönüşebileceğini gösteren güçlü bir örnektir.",
+        "quickRealityCheck": "Marathon’dan sonra Pers tehdidi bitmiş olsaydı, Atina neden donanmasını bu kadar büyütme ihtiyacı duydu?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Greco-Persian Wars",
+            "url": "https://www.britannica.com/event/Greco-Persian-Wars",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Battle of Salamis",
+            "url": "https://www.britannica.com/event/Battle-of-Salamis",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Herodotus",
+            "url": "https://plato.stanford.edu/entries/herodotus/",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-031-longships",
+      "reviewStatus": "minorEdit",
+      "notes": "Gövde genel olarak güçlüydü; subtitle, kısa alanlar ve kaynak metadata’sı daha net hale getirildi.",
+      "fields": {
+        "subtitle": "Sığ kıyı, açık deniz ve nehir aynı gövdede",
+        "accuracyNote": "Uzun gemilerin hız, sığ suya girme ve kıyı baskını kabiliyeti doğru yansır; üretim, bakım ve mevsimsel sefer planı ekranda sınırlı kalır.",
+        "whyInteresting": "Tek bir gemi tasarımı, kuzey toplumlarının savaşını, ticaretini, göçünü ve haber akışını aynı anda hızlandırdı.",
+        "misconception": "Uzun gemilerin yalnızca yağma için üretildiği sanılır; aynı platform ticaret, yerleşim ve diplomatik temaslarda da kullanıldı.",
+        "mediaChanged": "Dizi uzun gemiyi çoğunlukla baskın anının simgesi yapar; tarihsel düzlemde başarı, zanaat birikimi, mürettebat organizasyonu ve mevsimsel lojistiğe dayanıyordu.",
+        "whyItMatters": "Viking hareketliliğini anlamak için gemiyi yalnız savaş aracı değil, deniz ve nehir ağlarını birleştiren dolaşım teknolojisi olarak görmek gerekir.",
+        "quickRealityCheck": "Uzun gemilerin sığ sulara girebilmesi Viking stratejisini sadece denizde değil, nehir içlerine ve kara siyasetine kadar nasıl değiştirdi?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Longship",
+            "url": "https://www.britannica.com/technology/longship",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Viking Ship Museum - Ship Types",
+            "url": "https://www.vikingeskibsmuseet.dk/en/professions/education/knowledge-of-ships/ship-types",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Viking Ships",
+            "url": "https://www.worldhistory.org/Viking_Ships/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-032-raids-trade",
+      "reviewStatus": "rewrite",
+      "notes": "Flagship kart kısa kalıyordu; yağma/ticaret ikiliğini uzun gemi, gümüş akışı, köle ticareti, limanlar ve yerleşim dönüşümüyle başlıklı flagship formatına taşıdım.",
+      "fields": {
+        "subtitle": "Viking gemileri ganimet kadar pazar da taşıdı",
+        "realHistory": "### Yağma ile ticaret aynı ağdaydı\n\nViking Çağı’nı yalnızca manastır baskınlarıyla anlatmak, deniz ağının yarısını görmemek olur. 8. ve 11. yüzyıllar arasında İskandinav grupları Britanya, Frank toprakları, Baltık, Rus nehirleri ve Kuzey Atlantik arasında hareket etti. Aynı uzun gemi bir sezonda kıyı baskınına, başka bir sezonda pazarlığa, haraç görüşmesine ya da yerleşim taşımaya hizmet edebiliyordu. Bu yüzden “yağmacı mı tüccar mı?” sorusu çoğu zaman yanlış ikiliktir; aktörler fırsata, güç dengesine ve yerel pazara göre rol değiştirebiliyordu.\n\n### Gümüş, köle ve liman ekonomisi\n\nErken dönem baskınları hızlı ganimet sağladı, fakat kalıcı zenginlik çoğu zaman ticaret ağlarına bağlanarak büyüdü. Kürk, balmumu, cam boncuk, silah, kumaş, köle ve özellikle gümüş dolaşımı Viking dünyasını geniş bir Avrasya ekonomisine bağladı. İslam dünyasında basılan dirhemlerin İskandinavya’da yoğun bulunması, bu bağlantının yalnız efsane olmadığını gösterir. Volga ve Don hatları, Rus toprakları ve Baltık limanları üzerinden akan gümüş, kuzeyde prestij, ödeme ve güç biriktirme aracına dönüştü.\n\nBu ticaretin ahlaki olarak temiz bir alan olduğu da sanılmamalı. Köle ticareti, yağmanın ve pazar ekonomisinin kesiştiği en karanlık bölgeydi. İnsanlar baskınlarda ele geçiriliyor, yerel pazarlarda ya da uzak hatlarda değişim değerine çevriliyordu. Bu yüzden Viking ekonomisinin “ticaret” tarafı, modern anlamda barışçıl alışverişten ibaret değildi; şiddet ve pazar aynı sistem içinde birbirini besleyebiliyordu.\n\n### Yerleşim ve siyaset\n\nBirkaç kuşak içinde bazı gruplar yalnızca akıncı olmaktan çıktı; Dublin, York, Normandy ve Doğu Avrupa’daki merkezlerde vergi toplayan, pazar kuran ve yerel evliliklerle kalıcı siyasi aktörlere dönüşen topluluklar ortaya çıktı. Vikings dizisi haklı olarak liderleri ve baskın anlarını dramatize eder, fakat tarihsel dönüşüm çok daha genişti: deniz rotası bilgisi, kışlama noktaları, yerel aracılar, pazar takvimi ve hukuki pazarlıklar bu ağın sürekliliğini sağladı.\n\nBu nedenle Viking dünyasını “yıkım getiren kuzeyliler” ya da “romantik tüccarlar” diye tek tarafa çekmek eksik kalır. Asıl çarpıcı olan, aynı deniz hareketliliğinin hem korku hem değişim, hem ganimet hem yerleşim, hem şiddet hem kültürel alışveriş üretmesidir.",
+        "accuracyNote": "Vikings yağma ve liderlik sahnelerini yoğunlaştırır; tarihsel ölçekte ticaret, kölelik, gümüş akışı ve yerleşim ağları daha belirleyicidir.",
+        "whyInteresting": "Aynı aktörlerin hem korkulan akıncı hem de aranan ticaret ortağı olabilmesi, Orta Çağ deniz dünyasının esnekliğini gösterir.",
+        "misconception": "Vikinglerin yalnızca yıkım getirdiği düşünülür; oysa birçok bölgede ticaret, yerleşim ve siyasal yeniden örgütlenme de ürettiler.",
+        "mediaChanged": "Dizi kişisel liderlik ve baskın anlarını merkeze alır; tarihsel tabloda dönüşümü belirleyen ana etken geniş ticaret ağları, gümüş dolaşımı ve yerel pazarlık düzenleridir.",
+        "whyItMatters": "Vikingleri anlamak, şiddet ve ticaretin Orta Çağ’da çoğu zaman aynı rota üzerinde işlediğini görmeyi gerektirir.",
+        "quickRealityCheck": "Viking gemileri yalnızca yağma için mi yelken açıyordu, yoksa aynı rota üzerinde pazar, haraç, vergi ve diplomasi de mi taşıyordu?",
+        "readingTimeMinutes": 3,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Viking Age",
+            "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Silver's route to Denmark – trading with the Arab coins",
+            "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/the-silver-hoards-of-the-vikings/silvers-route-to-denmark-trading-with-the-arab-coins/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Vikings",
+            "url": "https://www.worldhistory.org/Vikings/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-033-runes",
+      "reviewStatus": "minorEdit",
+      "notes": "Gövde temizdi; subtitle ve kısa alanlar runestone’ların anma/kamusal ilan işlevini daha net vurgulayacak şekilde düzenlendi.",
+      "fields": {
+        "subtitle": "Büyüden çok anma, miras ve kamusal ilan",
+        "accuracyNote": "Rünlerin ritüel ve büyüsel kullanımları vardır; ancak Viking Çağı runestone örneklerinin önemli bölümü anma, statü ve kamusal beyan işlevi taşır.",
+        "whyInteresting": "Aynı işaretler hem yas tutturuyor, hem mülk ve soy bağı ilan ediyor, hem de bir ailenin adını yüzyıllar sonrasına taşıyor.",
+        "misconception": "Rünlerin yalnızca büyü ritüellerinde kullanılan gizli bir rahip alfabesi olduğu düşünülür.",
+        "mediaChanged": "Dizi rünleri dramatik etki için kehanet ve tehdit dili olarak öne çıkarır; tarihsel kayıtlar rün taşlarının çoğunlukla anma, mülkiyet ve topluluk önünde beyan işlevi gördüğünü gösterir.",
+        "whyItMatters": "Runestone’lar Viking toplumunda yazının yalnız gizem değil, hukuk, hafıza ve itibar aracı olduğunu gösterir.",
+        "quickRealityCheck": "Bir runestone yazıtında en sık görülen içerik büyü metni mi, yoksa bir akraba için dikilmiş anıt bildirimi mi?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Runic Alphabet",
+            "url": "https://www.britannica.com/topic/runic-alphabet",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Rune stones",
+            "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/power-and-aristocracy/rune-stones/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Samnordisk runtextdatabas",
+            "url": "https://www.nordiska.uu.se/forskn/samnord.htm",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-034-norse-religion",
+      "reviewStatus": "rewrite",
+      "notes": "Mevcut metin aynı bilgileri iki kez tekrar ediyordu ve mediaChanged jenerikti; Nors inancı ev/çiftlik ritüeli, büyük kült merkezleri ve Hristiyanlaşmanın siyasi boyutuyla yeniden yazıldı.",
+      "fields": {
+        "subtitle": "Tanrılar, ticaret ve krallık meşruiyeti",
+        "realHistory": "Viking Çağı İskandinavyası’nda din, yalnız tapınakta yapılan ayrı bir faaliyet değildi; ev, çiftlik, meclis, savaş ve ticaretle iç içeydi. Odin bilgi, savaş ve seçkinlik; Thor koruma ve güç; Freyja bereket, statü ve büyüyle ilişkilendirildi. Fakat bu tanrılar tek tip ve merkezi bir din kurumu içinde değil, bölgesel gelenekler ve aile ritüelleri üzerinden yaşadı. Bazı büyük kült merkezleri ve seçkin konutları kurban törenleriyle öne çıksa da gündelik inanç çoğu zaman ev halkı, yerel şenlikler ve atalara bağlı pratiklerle sürdü.\n\nYazılı kaynakların önemli kısmı Hristiyan dönemde kaleme alındığı için dikkatli okunmalıdır. Edda anlatıları ve Adam of Bremen gibi yazarlar çok değerli bilgi verir, ama kendi dönemlerinin yorumlarını da taşır. Bu yüzden arkeoloji, mezar buluntuları, amuletler, kült alanları ve yer adları Nors inancını anlamada kritik rol oynar.\n\n10. ve 11. yüzyıllarda Hristiyanlaşma yalnız teolojik bir dönüşüm değildi. Krallar ve yerel elitler için yeni din, Avrupa’daki diplomatik ağlara, yazılı kilise kurumlarına ve krallık meşruiyetine bağlanmanın yoluydu. Harald Bluetooth gibi figürler bu dönüşümün siyasi tarafını görünür kılar. Yine de eski inanç bir anda kaybolmadı; bazı semboller, anlatılar ve yerel pratikler uzun süre birlikte yaşamayı sürdürdü.\n\nVikings dizisi dini çatışmayı kişisel intikam ve kader sahneleriyle dramatize eder. Tarihsel tablo daha karmaşıktır: inanç, ticaret yolları, krallık kurma çabası ve kültürel geçişle birlikte değişti.",
+        "accuracyNote": "Çok tanrılı inanç ve Hristiyanlaşma süreci güçlü kaynaklarla desteklenir; dizi bazı ritüelleri ve dini çatışmaları dramatik yoğunluk için kişiselleştirir.",
+        "whyInteresting": "Aynı toplumda Odin ve Thor’a bağlılık, Hristiyan vaftizi ve krallık diplomasisi aynı yüzyıllarda yan yana ilerleyebildi.",
+        "misconception": "Vikingler yalnızca değişmeyen ve vahşi bir pagan blok gibi düşünülür; oysa inanç pratikleri bölgesel, esnek ve siyasetle iç içeydi.",
+        "mediaChanged": "Dizi dini çatışmayı karakterlerin kaderi ve intikam çizgisine bağlar; tarihsel süreçte Hristiyanlaşma ticaret, dış politika ve krallık meşruiyetiyle birlikte ilerledi.",
+        "whyItMatters": "Nors inancını anlamak, Viking toplumunda savaş, ticaret ve devletleşmenin nasıl aynı kültürel dil içinde birleştiğini gösterir.",
+        "quickRealityCheck": "Vikings’teki tapınak ve kurban sahneleri, yazılı kaynak ve arkeolojik kanıtlarla ne kadar örtüşüyor?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Religion, magic, death and rituals",
+            "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/religion-magic-death-and-rituals/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Christianity comes to Denmark",
+            "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/religion-magic-death-and-rituals/christianity-comes-to-denmark/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Christianity and foreign politics",
+            "url": "https://www.vikingeskibsmuseet.dk/en/professions/education/the-viking-age-society/christianity-and-foreign-politics",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-035-danelaw",
+      "reviewStatus": "minorEdit",
+      "notes": "Gövde iyi; subtitle ve kaynak yapısı güçlendirildi. Danelaw’ın askeri çizgiden çok hukuk, yerleşim ve melez kurumlar üzerinden okunması korundu.",
+      "fields": {
+        "subtitle": "Fetih çizgisinden yerel hukuk düzenine",
+        "accuracyNote": "Dizi dönemin şiddetini taşır; Danelaw’ın uzun vadeli etkisi ise yerel hukuk, pazar, yerleşim ve dil izlerinde görülür.",
+        "whyInteresting": "Bugün bir kasaba adında yaşayan bir ek, Viking çağındaki yerleşim ve hukuk pazarlıklarını görünür kılabilir.",
+        "misconception": "Danelaw’ın yalnızca geçici bir işgal hattı olduğu düşünülür; oysa etkisi hukuk, yer adları, ticaret ve yerel yönetimde uzun süre sürdü.",
+        "mediaChanged": "Dizi Danelaw’ı daha çok askeri kontrol meselesi olarak verir; tarihsel tabloda hukuk, pazar düzeni ve yerel yönetim en az savaş kadar belirleyiciydi.",
+        "whyItMatters": "Danelaw, fetih sonrası toplumların yalnızca yok etme değil, karışma ve yeniden düzen kurma yoluyla da değiştiğini gösterir.",
+        "quickRealityCheck": "İngiltere haritasındaki hangi yer adı ekleri Danelaw yerleşimlerini bugün bile görünür kılar?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Danelaw",
+            "url": "https://www.britannica.com/place/Danelaw",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Danelaw, 9th-11th century",
+            "url": "https://www.rochestercathedral.org/research/textus/danelaw",
+            "type": "reference",
+            "verified": true
+          },
+          {
+            "title": "Jorvik Viking Centre",
+            "url": "https://www.jorvikvikingcentre.co.uk/",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-036-vinland",
+      "reviewStatus": "rewrite",
+      "notes": "Flagship kart kısa kalıyordu; saga/arkeoloji ayrımı, L'Anse aux Meadows kanıtı, kısa süreli kullanım ve kalıcı koloni miti başlıklı biçimde genişletildi.",
+      "fields": {
+        "subtitle": "Saga hafızası, arkeoloji ve kısa ömürlü temas",
+        "realHistory": "### Saga anlatısından maddi kanıta\n\nVinland hikâyesi uzun süre saga anlatılarıyla bilindi: Grönland’dan batıya giden İskandinav denizciler, tanıdıkları dünyanın ötesinde orman, üzüm ya da zengin kaynaklarla ilişkilendirilen kıyılara ulaşmıştı. Bu metinler çok değerlidir, ancak olaylardan yüzyıllar sonra yazıya geçirildikleri için doğrudan rapor gibi okunamaz. İçlerinde aile rekabetleri, kahramanlık kalıpları ve edebi düzenlemeler bulunur. Bu yüzden Vinland’ın tarihsel ağırlığı, sagaların arkeolojiyle ne kadar kesiştiği sorusuna bağlıdır.\n\nBu kesişimin en güçlü noktası Newfoundland’daki L’Anse aux Meadows’tur. Burada bulunan timber-and-sod yapı kalıntıları, demir işçiliği izleri ve İskandinav yapı tekniği, 11. yüzyıl başlarında Kuzey Amerika’da Norse varlığını açık biçimde gösterir. UNESCO ve Parks Canada bu alanı, Avrupalıların Kuzey Amerika’daki en erken kanıtlanmış varlığı olarak tanımlar. Bu, Kolomb’dan yaklaşık beş yüzyıl önce Atlantik’in aşıldığını göstermesi bakımından çok önemlidir.\n\n### Neden kalıcı sömürgeye dönüşmedi?\n\nBuna rağmen Vinland’ı büyük ve sürekli bir Viking kolonisi gibi düşünmek yanıltıcıdır. Mevcut kanıtlar daha çok küçük, kısa süreli ya da dönemsel kullanılan bir üs fikrini destekler. Grönland’daki ana yerleşimlere uzaklık, sınırlı nüfus, ikmal zorluğu, sert hava koşulları ve yerel topluluklarla çatışma riski uzun vadeli büyümeyi sınırladı. Kereste ve keşif fırsatları seferleri teşvik etmiş olabilir, fakat demografik ve lojistik kapasite kalıcı yerleşim için yeterli değildi.\n\nVikings dizisi Vinland’ı bilinmeyene atılan büyük kişisel kader hamlesi olarak dramatize eder. Tarihsel olarak daha ilginç olan şey, seferin olup olmadığı değil; bu başarının ne kadar kırılgan ve sınırlı kaldığıdır. Vinland, fetih çizgisinden çok temas, deneme ve geri çekilme tarihidir.\n\n### Neden önemli?\n\nVinland anlatısı, Orta Çağ insanlarının denizcilik kapasitesini hafife almamamızı sağlar. İskandinavlar yalnız kıyı yağmacıları değildi; açık deniz navigasyonu, ada zincirleri, mevsim bilgisi ve malzeme ihtiyacıyla hareket eden deneyimli denizcilerdi. L’Anse aux Meadows, saga hafızasının maddi dünyaya temas ettiği nadir örneklerden biridir.",
+        "accuracyNote": "İskandinavların Kuzey Amerika’ya ulaştığı arkeolojik olarak desteklenir; kalıcı ve geniş ölçekli koloni etkisi popüler anlatılarda çoğu zaman abartılır.",
+        "whyInteresting": "Saga anlatısının güçlü arkeolojik verilerle çapraz doğrulanabildiği nadir ve çok çarpıcı örneklerden biridir.",
+        "misconception": "Vinland sık sık kalıcı bir Viking kolonisi gibi hayal edilir; mevcut kanıtlar daha sınırlı ve kısa süreli bir Norse varlığına işaret eder.",
+        "mediaChanged": "Dizi Vinland’ı büyük bir atılım ve kader sınırı olarak dramatize eder; arkeoloji ise Kuzey Amerika’daki Norse izlerinin gerçek ama ölçek olarak mütevazı olduğunu gösterir.",
+        "whyItMatters": "Vinland, keşif tarihini tek bir modern başlangıç noktasına bağlamadan, Orta Çağ deniz ağlarının kapasitesini ve sınırlarını birlikte görmemizi sağlar.",
+        "quickRealityCheck": "İskandinav denizciler Kuzey Amerika’ya ulaştı; peki neden orada kalıcı ve büyük bir sömürge sistemi kuramadılar?",
+        "readingTimeMinutes": 3,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "L'Anse aux Meadows National Historic Site",
+            "url": "https://parks.canada.ca/lhn-nhs/nl/meadows",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "L’Anse aux Meadows National Historic Site - UNESCO",
+            "url": "https://whc.unesco.org/en/list/4/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Vinland",
+            "url": "https://www.britannica.com/place/Vinland",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

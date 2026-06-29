@@ -1,0 +1,449 @@
+{
+  "locale": "tr",
+  "patchForChunks": [
+    25,
+    26
+  ],
+  "sourceFiles": [
+    "docs/editorial-chunks/tr/tr-chunk-025.json",
+    "docs/editorial-chunks/tr/tr-chunk-026.json"
+  ],
+  "strategy": "source-aware editorial patch; replace only listed fields by card id; preserve all ids, relationships, premium flags and unlisted fields",
+  "reviewedAt": "2026-06-27",
+  "cards": [
+    {
+      "id": "ancient-gods-explanation",
+      "replace": {
+        "sourceQuality": "strong",
+        "whatWeSee": "Medyada antik tanrılar çoğu zaman yalnızca şimşek atan, insanları cezalandıran veya fantastik güç gösterileri yapan karakterler gibi görünür.",
+        "realHistory": "Antik dinleri yalnızca “bilim öncesi cehalet” diye okumak eksik olur. Yunan ve Roma dünyasında tanrılar; doğa olaylarını, toplumsal düzeni, aileyi, savaşı, tarımı, deniz yolculuğunu ve şehir kimliğini anlamlandıran geniş bir sembol sisteminin parçasıydı. Poseidon’un denizle ve depremlerle, Athena’nın zanaat ve stratejiyle, Artemis’in doğa ve geçiş ritüelleriyle ilişkilendirilmesi bu yüzden sadece masal değil, toplumun dünyayı sınıflandırma biçimiydi.\n\nDin aynı zamanda kamusal bir uygulamaydı. Kurbanlar, festivaller, alaylar ve tapınak törenleri yalnız bireysel inanç değil, polis denen şehir topluluğunun kendisini yeniden üretme yollarıydı. Tanrılarla kurulan ilişki çoğu zaman karşılıklı yükümlülük diliyle düşünülürdü: insanlar ritüeli yerine getirir, tanrılardan koruma, bereket veya zafer beklerdi. Tapınaklar da yalnız ibadet yeri değil; hazine, arşiv, prestij ve siyasi temsil alanı olabiliyordu.\n\nBu yüzden mitolojiyi “erken bilim” diye tek cümleye indirmek yerine, erken açıklama, ritüel, hafıza ve kimlik dili olarak görmek daha doğru olur. Medya tanrıları dramatik karakterlere dönüştürür; tarihsel çerçeve ise onların şehir hayatı, hukuk, savaş, aile ve doğa algısıyla nasıl iç içe geçtiğini gösterir.",
+        "accuracyNote": "Mitoloji, modern bilim yerine geçen basit bir açıklama sistemi değildi; ritüel, şehir kimliği, toplumsal düzen ve doğa yorumunu aynı anda taşıyan bir anlam dünyasıydı.",
+        "whyInteresting": "Antik dünyada mitler bazen siyasi meşruiyet kurmak için de kullanılıyordu; bir şehrin kahramanı veya koruyucu tanrısı, o toplumun geçmişini ve iddiasını görünür kılardı.",
+        "misconception": "Antik insanların tanrılara yalnızca bilgisizlikten inandığı sanılır; gerçekte tanrılar doğa, toplum, ritüel ve şehir kimliğini anlamlandıran daha geniş bir sistemin parçasıydı.",
+        "mediaChanged": "Popüler yapımlar tanrıları çoğu zaman fantastik güç sahibi karakterlere indirger; tarihsel kayıtlar ise onların ritüel, toplum ve siyasi kimlik içindeki yerini gösterir.",
+        "whyItMatters": "Antik dini anlamak, geçmiş toplumların doğayı ve toplumsal düzeni yalnız korkuyla değil, ritüel ve ortak hafıza üzerinden de yorumladığını gösterir.",
+        "quickRealityCheck": "Antik tanrılar yalnızca doğa olaylarını açıklamak için uydurulmuş karakterler miydi, yoksa şehir hayatının ve toplumsal düzenin de dili miydi?",
+        "sources": [
+          {
+            "title": "Gods and goddesses of the Greek and Roman pantheon (British Museum)",
+            "url": "https://www.britishmuseum.org/blog/gods-and-goddesses-greek-and-roman-pantheon",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Theseus, Hero of Athens (The Met)",
+            "url": "https://www.metmuseum.org/essays/theseus-hero-of-athens",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Greek mythology (Britannica)",
+            "url": "https://www.britannica.com/topic/Greek-mythology",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "lastReviewedAt": "2026-06-27"
+      }
+    },
+    {
+      "id": "medieval-monastery-science",
+      "replace": {
+        "sourceQuality": "strong",
+        "whatWeSee": "Medyada manastırlar çoğu zaman yalnızca dua eden keşişlerin yaşadığı sessiz ve dünyadan kopuk mekânlar gibi gösterilir.",
+        "realHistory": "Orta Çağ manastırları yalnızca ibadet alanı değildi; yazı, kopyalama, arşivleme, eğitim, bakım ve gündelik üretimle iç içe çalışan kurumlardı. Matbaanın yaygınlaşmasından önce kitap üretimi zahmetli ve pahalıydı. Bu yüzden manastır kütüphaneleri ve scriptoria, dini metinlerin yanında bazı antik yazarların, tıbbi reçetelerin, takvim hesaplarının ve yerel kayıtların korunmasında önemli rol oynadı.\n\nYine de manastırları “modern bilimin tek kaynağı” gibi göstermek doğru olmaz. Orta Çağ bilgi dünyası; manastırlar, katedral okulları, şehir üniversiteleri, İslam dünyasındaki çeviri ve tıp merkezleri, Bizans yazma kültürü ve seküler kâtip ağları arasında dolaşıyordu. Manastırların katkısı özellikle süreklilik ve muhafaza alanındaydı: metinlerin kopyalanması, takvim ve ibadet zamanlarının hesaplanması, bahçelerde bitki yetiştirme, hasta ve yoksul bakımı, yerel üretim tekniklerinin düzenlenmesi.\n\nBu yüzden manastır imgesi iki uçtan da çıkarılmalı: ne yalnız karanlık ve dogmatik mekânlardı ne de modern laboratuvarlardı. Daha doğru çerçeve, sınırlı ama hayati bir bilgi altyapısıdır. Bazı metinlerin bugüne ulaşmasında, yazının disiplinli biçimde kopyalanmasında ve eğitim kurumlarının devamlılığında manastırların payı büyüktür.",
+        "accuracyNote": "Manastırlar modern üniversitelerin tek ve doğrudan atası değildir; fakat kitap kopyalama, eğitim, bakım ve metin koruma geleneğiyle Orta Çağ bilgi altyapısının önemli parçalarındandır.",
+        "whyInteresting": "Bir kitabın elle kopyalanması haftalar veya aylar sürebildiği için, manastır kütüphanesindeki tek bir cilt bile ciddi emek ve maddi değer taşıyordu.",
+        "misconception": "Manastırların bilime tamamen kapalı olduğu sanılır; gerçekte bazı manastırlar metin koruma, takvim hesaplama, bitkisel reçete ve eğitim faaliyetleriyle bilgi dolaşımına katkı verdi.",
+        "mediaChanged": "Popüler anlatılar keşişleri çoğu zaman yalnız dua eden figürler gibi gösterir; tarihsel tablo ise manastırların yazı, bakım, eğitim ve üretimle bağlantılı daha geniş bir rol taşıdığını gösterir.",
+        "whyItMatters": "Manastırları doğru okumak, Orta Çağ bilgisinin tek bir merkezden değil; dinî, kentsel, akademik ve pratik kurumların birlikte oluşturduğu bir ağdan geldiğini gösterir.",
+        "quickRealityCheck": "Manastırlar yalnızca dua edilen kapalı mekânlar mıydı, yoksa metin koruma ve eğitim sürekliliğinde de rol oynayan kurumlar mıydı?",
+        "sources": [
+          {
+            "title": "The Medieval Scriptorium (Getty)",
+            "url": "https://www.getty.edu/art/exhibitions/scriptorium/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Digitised manuscripts and archives (British Library)",
+            "url": "https://www.bl.uk/collection/digitised-manuscripts-archives",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Greek Monasteries and the Making of Manuscripts (Cambridge University Library)",
+            "url": "https://www.lib.cam.ac.uk/polonskygreek/monasteries",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "lastReviewedAt": "2026-06-27"
+      }
+    },
+    {
+      "id": "modern-propaganda-origins",
+      "replace": {
+        "sourceQuality": "strong",
+        "whatWeSee": "Medyada propaganda çoğu zaman birkaç çarpıcı savaş afişi, slogan veya açıkça söylenen yalanlar olarak gösterilir.",
+        "realHistory": "Propaganda kelimesinin kökeni erken modern Katolik dünyasına uzansa da modern kitle propagandası asıl gücünü I. Dünya Savaşı sırasında kazandı. Devletler artık yalnız cephede değil, evdeki halkın rızasında da savaşmak zorundaydı. Asker toplamak, savaş tahvili satmak, düşmanı insanlıktan uzak göstermek ve moral üretmek için afiş, gazete, fotoğraf, sinema ve konuşma ağları sistemli biçimde kullanıldı.\n\nİngiltere’de Wellington House olarak bilinen propaganda yapılanması, ABD’de ise Committee on Public Information / Creel Committee gibi kurumlar, modern kamuoyu yönetiminin erken örnekleri oldu. Bu faaliyetler her zaman kaba yalandan ibaret değildi. Çoğu zaman gerçek bir olay seçiliyor, duygusal çerçevesi büyütülüyor, karşı tarafın sesi kesiliyor ve izleyicinin neye öfkelenmesi ya da neyle gurur duyması gerektiği belirleniyordu.\n\nBu teknikler savaşla sınırlı kalmadı. Savaş sonrası reklamcılık, halkla ilişkiler ve siyasi kampanya dili, aynı psikolojik ikna araçlarından beslendi. Bu yüzden propaganda tarihini yalnız “sahte haber” diye okumak eksiktir. Asıl mesele, modern devletlerin ve kurumların kitle duygusunu ölçülebilir, yönlendirilebilir ve tekrarlanabilir bir güç olarak görmeye başlamasıdır.",
+        "accuracyNote": "Propaganda yalnız yalan söylemek değildir; seçme, çerçeveleme, tekrar, düşmanlaştırma ve duygusal yönlendirme yoluyla rıza üretme pratiğidir.",
+        "whyInteresting": "I. Dünya Savaşı, afişten sinemaya kadar birçok mecranın devlet eliyle koordineli ikna aracına dönüştüğü ilk büyük laboratuvarlardan biriydi.",
+        "misconception": "Propagandanın sadece yalan haberden ibaret olduğu sanılır; gerçekte çoğu propaganda, doğru parçaları seçip izleyicinin duygusunu belirli bir yöne sürükler.",
+        "mediaChanged": "Filmler propaganda afişlerini görsel dekor gibi kullanır; tarihsel çerçeve ise bunların asker toplama, moral üretme ve düşman imgesi kurma sisteminin parçası olduğunu gösterir.",
+        "whyItMatters": "Modern reklamcılık ve siyasi iletişimi anlamak için, kitle iknasının savaş döneminde nasıl kurumsallaştığını görmek gerekir.",
+        "quickRealityCheck": "Propaganda sadece açık yalan mıydı, yoksa gerçeğin seçilip duygusal biçimde düzenlenmesiyle çalışan daha karmaşık bir ikna sistemi miydi?",
+        "sources": [
+          {
+            "title": "Propaganda as a Weapon (Imperial War Museums)",
+            "url": "https://www.iwm.org.uk/history/propaganda-as-a-weapon",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "War Propaganda Bureau (1914-1918 Online)",
+            "url": "https://encyclopedia.1914-1918-online.net/article/war-propaganda-bureau/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Propaganda: Media in War Politics (1914-1918 Online)",
+            "url": "https://encyclopedia.1914-1918-online.net/article/propaganda-media-in-war-politics/",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "lastReviewedAt": "2026-06-27"
+      }
+    },
+    {
+      "id": "roman-entertainment-ordinary",
+      "replace": {
+        "title": "Roma’da Eğlence: Kolezyum Dışında Ne Vardı?",
+        "sourceQuality": "strong",
+        "whatWeSee": "Filmlerde Roma eğlencesi çoğu zaman gladyatör dövüşleri, imparatorun locası ve kalabalığın kan isteyen çığlığıyla sınırlı kalır.",
+        "realHistory": "Sıradan bir Romalının eğlence dünyası Kolezyum’dan çok daha genişti. Hamamlar, yalnızca yıkanma yeri değil; sosyalleşme, egzersiz, dedikodu, küçük iş görüşmeleri ve boş zaman geçirme alanıydı. Büyük hamam komplekslerinde sıcak-soğuk odalar, avlular, spor alanları ve kimi yerlerde kütüphane ya da bahçeler bulunabiliyordu. Bu yüzden hamam, Roma şehir hayatının en görünür kamusal alışkanlıklarından biriydi.\n\nAraba yarışları da gladyatör dövüşlerinden daha az önemli değildi. Circus Maximus gibi alanlarda yarış takımları büyük taraftar kitleleri yaratırdı; renkler, bahisler ve kalabalık tepkileri gündelik siyasetin bile parçası olabiliyordu. Tiyatro, pandomim, müzik, zar oyunları, festivaller ve sokak gösterileri de Roma eğlence kültürünü tamamlıyordu. Zenginlerin ev ziyafetleriyle yoksulların sokak eğlenceleri arasında büyük fark vardı, ama boş zaman Roma toplumunun her katmanında görünürdü.\n\nBu nedenle “Roma eğlencesi = arena” denkliği fazla dardır. Arena iktidarın gösteri sahnesiydi; hamam, yarış ve festival ise şehirli hayatın ritmini belirleyen daha gündelik alanlardı. Roma’yı anlamak için yalnız kanlı gösterilere değil, insanların nerede yıkandığına, hangi takımı tuttuğuna ve haberleri nerede duyduğuna da bakmak gerekir.",
+        "accuracyNote": "Gladyatör oyunları Roma eğlence kültürünün önemli bir parçasıydı; ancak hamamlar, araba yarışları, tiyatro, pandomim ve festivaller gündelik boş zamanın en az arena kadar önemli yönleriydi.",
+        "whyInteresting": "Roma hamamları, çok düşük ücretlerle geniş halk kitlelerinin kullanabildiği kamusal sosyalleşme alanlarıydı.",
+        "misconception": "Roma eğlencesinin yalnızca gladyatör dövüşlerinden ibaret olduğu sanılır; gerçekte hamamlar, araba yarışları, tiyatro ve festivaller şehir hayatının ana parçalarıydı.",
+        "mediaChanged": "Popüler yapımlar Roma’yı genellikle arena üzerinden hatırlatır; tarihsel şehir hayatı ise hamam, sirk, tiyatro ve sokak eğlenceleriyle çok daha çeşitlidir.",
+        "whyItMatters": "Roma eğlencesi, imparatorluk toplumunda boş zamanın, haber dolaşımının ve siyasi görünürlüğün nasıl iç içe geçtiğini gösterir.",
+        "quickRealityCheck": "Sıradan Romalılar için eğlence yalnızca Kolezyum muydu, yoksa hamamlar ve araba yarışları da gündelik hayatın merkezinde miydi?",
+        "sources": [
+          {
+            "title": "Ancient Rome: Leisure and Recreation (Britannica)",
+            "url": "https://www.britannica.com/place/ancient-Rome/Leisure-and-recreation",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Fun facts (Roman Baths)",
+            "url": "https://www.romanbaths.co.uk/fun-facts",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Roman Games (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/Roman_Games/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "lastReviewedAt": "2026-06-27"
+      }
+    },
+    {
+      "id": "pre-modern-hospitals",
+      "replace": {
+        "sourceQuality": "strong",
+        "whatWeSee": "Medyada modern tıp öncesi hastalık sahneleri çoğu zaman kirli odalar, çaresiz dualar ve rastgele uygulanan acı verici tedavilerle verilir.",
+        "realHistory": "Modern hastane fikri bir anda ortaya çıkmadı. Antik dünyada Asklepieion gibi şifa merkezleri, dini ritüel, dinlenme, rüya yorumu ve bazı pratik bakım uygulamalarını birleştiriyordu. Roma ordusunda valetudinarium denen askeri bakım yapıları, özellikle askerlerin tedavisi için daha düzenli mekânlar sunuyordu. Orta Çağ Avrupa’sında birçok hastane ise tıbbi müdahaleden çok bakım, barınma, yoksullara yardım ve ruhsal destek işlevi taşıyordu.\n\nİslam dünyasındaki bimaristanlar bu çizgide önemli bir gelişme noktasıdır. Bağdat, Şam, Kahire gibi merkezlerde hastane, yalnızca hasta yatırılan yer değil; hekimlerin çalıştığı, eczacılık ve tıp eğitiminin yürütüldüğü, kimi zaman farklı hasta gruplarının ayrıldığı kurumlardan biri haline geldi. Bu yapıları bugünkü hastanelerle birebir aynı saymak anakronik olur; ancak bakımın kurumsallaşması, kayıt, eğitim ve vakıf finansmanı açısından önemli bir adım oldukları açıktır.\n\nBu yüzden “eski hastaneler sadece dua yeriydi” demek de “modern hastane zaten vardı” demek de hatalıdır. Gerçek tablo, ritüel, bakım, gözlem, hayır kurumu ve tıp eğitiminin yavaş yavaş birbirine bağlandığı uzun bir dönüşümdür.",
+        "accuracyNote": "Modern hastane ile antik/ortaçağ bakım kurumları aynı şey değildir; fakat Asklepieion, valetudinarium, Hôtel-Dieu ve bimaristan gibi yapılar sağlık bakımının kurumsallaşmasında farklı aşamaları temsil eder.",
+        "whyInteresting": "Bimaristanlar, hasta bakımının yanında tıp eğitimi ve eczacılık pratiğiyle de bağlantılı kurumlar olarak gelişti.",
+        "misconception": "Modern tıp öncesi hastanelerin yalnızca dua edilen yerler olduğu sanılır; gerçekte bazı kurumlarda bakım, gözlem, ilaç hazırlama ve eğitim birlikte yürütülüyordu.",
+        "mediaChanged": "Popüler yapımlar eski tıbbı çoğu zaman karanlık ve çaresiz gösterir; tarihsel tablo ise sınırlı bilgiye rağmen kurumlaşmış bakım örneklerinin bulunduğunu gösterir.",
+        "whyItMatters": "Hastanenin tarihi, tıbbın yalnız keşiflerle değil; bakım, kayıt, eğitim ve finansman kurumlarıyla da geliştiğini gösterir.",
+        "quickRealityCheck": "Modern tıp öncesi hastaneler yalnızca dua ve çaresizlik alanı mıydı, yoksa bakım ve eğitim kurumlarına dönüşen yapılar da var mıydı?",
+        "sources": [
+          {
+            "title": "History of hospitals (Britannica)",
+            "url": "https://www.britannica.com/topic/hospital/History-of-hospitals",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Islamic Culture and the Medical Arts (National Library of Medicine)",
+            "url": "https://resource.nlm.nih.gov/9439902",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Jundi-Shapur, bimaristans, and the rise of academic medical centres (PMC)",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1676324/",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "lastReviewedAt": "2026-06-27"
+      }
+    },
+    {
+      "id": "gladiator-bread-circuses",
+      "replace": {
+        "title": "Ekmek ve Oyunlar: Roma’da Kitle Siyaseti",
+        "sourceQuality": "strong",
+        "whatWeSee": "Medyada Roma halkı çoğu zaman arenada bağıran, imparatorun verdiği gösterilere kolayca kapılan pasif bir kalabalık gibi gösterilir.",
+        "realHistory": "“Panem et circenses” sözü, Roma’da tahıl dağıtımı ve gösterilerin halkı basitçe uyutmak için icat edilmiş kusursuz bir manipülasyon sistemi olduğu anlamına gelmez. Bu ifade, Romalı şair Juvenal’in vatandaşların eski siyasi hak ve sorumluluklarını bırakıp geçim ve eğlenceye razı olduğu yönündeki sert eleştirisidir. Yani terim hem gerçek uygulamalara hem de aristokrat bir ahlaki yakınmaya dayanır.\n\nRoma’da tahıl dağıtımı, özellikle büyük şehir nüfusunu beslemek ve açlık krizlerini önlemek için siyasi açıdan hayatiydi. Oyunlar, araba yarışları ve gladyatör gösterileri ise imparatorun cömertliğini, düzen kurma gücünü ve halkla kurduğu bağı görünür kılıyordu. Halk bu gösterilerde tamamen sessiz değildi; tezahürat, talep ve kalabalık tepkisi iktidara kamuoyu sinyali verebiliyordu.\n\nBu yüzden “ekmek ve oyunlar”ı yalnız bir uyuşturma tekniği diye okumak fazla basit kalır. Gerçekte burada geçim güvenliği, prestij, kalabalık yönetimi ve siyasi temsil birbirine karışıyordu. Roma yöneticileri halkın ihtiyaçlarını karşılamadan şehir düzenini sürdüremeyeceklerini biliyordu; halk da bu gösteri ve dağıtım alanlarını yalnız tüketmek için değil, görünür olmak için de kullanıyordu.",
+        "accuracyNote": "Juvenal’in ifadesi gerçek tahıl dağıtımı ve gösteri kültürüne dayanır; ancak bunu modern anlamda tek yönlü bir propaganda makinesi gibi okumak fazla basitleştirir.",
+        "whyInteresting": "Roma’da gösteriler yalnız eğlence değil, imparatorun halkın önüne çıktığı ve kalabalığın tepkisini ölçtüğü siyasi sahnelerdi.",
+        "misconception": "Ekmek ve oyunların halkı tamamen pasifleştiren basit bir numara olduğu sanılır; gerçekte açlık riski, kamusal prestij ve kalabalık siyaseti aynı sistemde birleşiyordu.",
+        "mediaChanged": "Popüler anlatılar Roma kalabalığını kolayca yönlendirilen bir seyirci gibi gösterir; tarihsel çerçeve ise halkın ihtiyaç, tepki ve görünürlük üzerinden siyasetle ilişkili olduğunu gösterir.",
+        "whyItMatters": "Roma’daki gösteri ve dağıtım sistemi, iktidarın yalnız zorla değil, ihtiyaçları yöneterek ve kamusal sahne kurarak da işlediğini gösterir.",
+        "quickRealityCheck": "“Ekmek ve oyunlar” sadece halkı kandırmak mıydı, yoksa Roma’da geçim, kalabalık ve iktidar arasındaki daha karmaşık bir ilişki miydi?",
+        "sources": [
+          {
+            "title": "Bread and Circuses (Britannica)",
+            "url": "https://www.britannica.com/topic/bread-and-circuses",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Roman Games (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/Roman_Games/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Theater and Amphitheater in the Roman World (The Met)",
+            "url": "https://www.metmuseum.org/essays/theater-and-amphitheater-in-the-roman-world",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "lastReviewedAt": "2026-06-27"
+      }
+    },
+    {
+      "id": "medieval-knights-reality",
+      "replace": {
+        "sourceQuality": "strong",
+        "whatWeSee": "Medyada şövalyeler çoğu zaman kusursuz onur koduyla yaşayan, zayıfları koruyan ve düello için parlayan zırh giyen kahramanlar gibi gösterilir.",
+        "realHistory": "Şövalyelik hem askeri hem de toplumsal bir statüydü. Bir şövalyenin atı, zırhı, silahları, yardımcıları ve eğitim süreci çok pahalıydı; bu yüzden şövalye sınıfı toprak, hizmet ve hiyerarşiyle yakından bağlantılıydı. Şövalyeler yalnız savaşçı değildi: kimi zaman yerel otoriteyi temsil eder, lorduna askerî hizmet borcu taşır, sefer maliyetini ve fidye riskini hesaplamak zorunda kalırdı.\n\nChivalry yani şövalyelik ideali gerçekti ama her zaman pratik davranışı belirlemezdi. Kilise ve saray kültürü, savaşçı elitin şiddetini belli etik kalıplara sokmaya çalıştı; edebiyat da bu ideali parlatıp yaydı. Fakat savaş alanında yağma, kuşatma, fidye, esir alma ve toprak çıkarı da en az onur kadar belirleyiciydi. Bir şövalyenin “erdemli kahraman” olması beklenebilirdi, ama aynı kişi ekonomik çıkar için sert ve yıkıcı davranabilirdi.\n\nZırh konusunda da popüler mitler dikkat ister. Tam plaka zırh ağırdı ama vücuda dağıtılmış ve hareket için tasarlanmıştı; şövalye atından düşünce otomatik olarak çaresiz bir kaplumbağaya dönüşmezdi. Asıl sınırlar sıcak, yorgunluk, maliyet ve savaş bağlamıyla ilgiliydi. Bu yüzden şövalyelik, romantik bir masaldan çok pahalı, statülü ve şiddeti düzenlemeye çalışan bir askeri sınıf olarak okunmalıdır.",
+        "accuracyNote": "Şövalyelik ideali vardı, fakat tarihsel şövalyeler aynı zamanda toprak, fidye, hizmet yükümlülüğü ve siyasi çıkarlarla hareket eden askeri elitlerdi.",
+        "whyInteresting": "Zırhlar yalnız koruma değil, statü ve teknoloji göstergesiydi; iyi yapılmış bir zırh hareket kabiliyetini tamamen yok etmek için değil, savaşta hayatta kalma şansını artırmak için tasarlanırdı.",
+        "misconception": "Şövalyelerin her zaman onur için savaştığı sanılır; gerçekte onur dili, toprak, fidye, ganimet ve feodal yükümlülüklerle iç içeydi.",
+        "mediaChanged": "Popüler kültür şövalyeyi temiz bir kahramana dönüştürür; tarihsel kayıtlar ise pahalı ekipman, sınıf çıkarı ve feodal hizmet ağını da hesaba katmayı gerektirir.",
+        "whyItMatters": "Şövalyeliği doğru okumak, Orta Çağ savaşının yalnız kişisel cesaret değil, maliyet, statü ve yerel iktidar meselesi olduğunu gösterir.",
+        "quickRealityCheck": "Şövalyeler sadece onur için savaşan kahramanlar mıydı, yoksa toprak ve hizmet sistemi içinde hareket eden pahalı askeri elitler miydi?",
+        "sources": [
+          {
+            "title": "Knight (Britannica)",
+            "url": "https://www.britannica.com/topic/knight",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Arms and Armor—Common Misconceptions (The Met)",
+            "url": "https://www.metmuseum.org/essays/arms-and-armor-common-misconceptions-and-frequently-asked-questions",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The Art of Chivalry (The Met)",
+            "url": "https://www.metmuseum.org/met-publications/the-art-of-chivalry-european-arms-and-armor-from-the-metropolitan-museum-of-art",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "lastReviewedAt": "2026-06-27"
+      }
+    },
+    {
+      "id": "ac-assassin-order-real",
+      "replace": {
+        "sourceQuality": "strong",
+        "whatWeSee": "Assassin’s Creed, Haşhaşileri özgür irade ve barış için savaşan beyaz cübbeli gizli bir kardeşlik olarak gösterir.",
+        "realHistory": "Tarihsel Haşhaşiler, Assassin’s Creed’deki evrensel “Assassin vs. Templar” savaşından çok farklı bir bağlama aittir. 11. yüzyılda Hasan Sabbah’ın Alamut’u ele geçirmesiyle güçlenen Nizari İsmaili hareketi, Selçuklu ve diğer büyük güçlerin baskısı altında dağlık kaleler ağına dayanan küçük ama dirençli bir siyasi-dini yapı kurdu. Büyük meydan orduları çıkaramadıkları için, seçilmiş hedeflere yönelik siyasi suikastı bir korkutma ve caydırma stratejisi olarak kullandılar.\n\nBu suikastlar rastgele şiddet değil, daha çok sembolik ve stratejik mesajlardı. Bir vezir, komutan veya yerel lider öldürüldüğünde, küçük bir topluluğun çok daha büyük devletlere “bizi yok sayamazsınız” demesinin yolu açılıyordu. Nizamülmülk’ün öldürülmesi bu şöhretin en bilinen örneklerinden biridir. Buna rağmen Nizari dünyasını yalnız suikastla tanımlamak da eksik olur; Alamut çevresi dini eğitim, metin üretimi ve savunma mimarisiyle de bağlantılıydı.\n\n“Haşhaş” ve uyuşturucuyla kontrol edilen fedailer anlatısı büyük ölçüde düşman kaynakları ve sonradan büyüyen efsanelerle şekillendi. Oyun bu mirası dramatik bir kardeşlik mitine dönüştürür; tarihsel gerçek ise hayatta kalmak için asimetrik şiddeti kullanan, kuşatılmış bir Nizari İsmaili devletidir.",
+        "accuracyNote": "Assassin’s Creed’in gizli kardeşlik kurgusu tarihsel değildir; ancak Alamut, Nizari İsmaililer ve siyasi suikast stratejisi gerçek tarihsel zemine dayanır.",
+        "whyInteresting": "Haşhaşiler efsanesi, düşman propagandası, Haçlı anlatıları ve Avrupa hayal gücünün birleşmesiyle gerçek Nizari tarihinden çok daha fantastik bir şöhrete dönüştü.",
+        "misconception": "Haşhaşilerin uyuşturucuyla kontrol edilen fanatikler olduğu sanılır; modern çalışmalar bu anlatının büyük ölçüde düşman kaynakları ve efsanelerle beslendiğini gösterir.",
+        "mediaChanged": "Oyun Assassins topluluğunu evrensel özgürlük savunucuları gibi kurar; tarihsel Nizariler ise büyük güçler arasında hayatta kalmaya çalışan siyasi-dini bir topluluktu.",
+        "whyItMatters": "Bu tarih, küçük ve kuşatılmış bir hareketin büyük imparatorluklara karşı açık savaş yerine hedefli şiddet ve kale ağıyla nasıl varlık gösterebildiğini anlatır.",
+        "quickRealityCheck": "Assassin’s Creed’deki Assassins, tarihsel Nizari İsmaililerle birebir aynı topluluk mu, yoksa gerçek bir siyasi hareketten doğan kurgusal bir mit mi?",
+        "sources": [
+          {
+            "title": "The Assassins (Britannica)",
+            "url": "https://www.britannica.com/topic/Assassins",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Introduction to The Assassin Legends (Institute of Ismaili Studies)",
+            "url": "https://www.iis.ac.uk/scholarly-contributions/introduction-to-the-assassin-legends/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Was the medieval order of Assassins a real thing? (National Geographic)",
+            "url": "https://www.nationalgeographic.com/history/article/medieval-order-assassins-islam",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "lastReviewedAt": "2026-06-27"
+      }
+    },
+    {
+      "id": "rdr-pinkerton-agency",
+      "replace": {
+        "sourceQuality": "strong",
+        "whatWeSee": "Red Dead Redemption, Pinkerton ajanlarını kanun kaçaklarını avlayan sert ve çoğu zaman acımasız özel görevliler olarak gösterir.",
+        "realHistory": "Pinkerton National Detective Agency, 1850’de Allan Pinkerton tarafından kuruldu ve kısa sürede ABD’de özel dedektiflik, demiryolu güvenliği, hırsızlık takibi ve iş dünyası için kolluk benzeri hizmetler veren güçlü bir kurum haline geldi. FBI’dan önce federal ölçekte sürekli çalışan bir polis teşkilatı olmadığı için, demiryolu ve şirket sahipleri Pinkertonları tren soygunları, dolandırıcılık ve kanun kaçaklarıyla mücadelede sıkça kullandı.\n\nAjansın çift yüzlü itibarı buradan gelir. Bir yandan Abraham Lincoln’e yönelik Baltimore komplosunun ortaya çıkarılması gibi olaylarla erken istihbarat tarihinde yer aldı; diğer yandan işçi hareketlerine karşı şirketler tarafından silahlı güç gibi kullanıldı. 1892 Homestead Grevi’nde Pinkertonların işçilerle çatışması, özel güvenlik gücünün devlet otoritesi yerine geçmesinin ne kadar tehlikeli olabileceğini görünür kıldı.\n\nRed Dead bu gerilimi iyi yakalar: Pinkertonlar ne tamamen sahte kötü adamdır ne de sadece tarafsız hukuk temsilcisi. 19. yüzyıl sonu Amerika’sında devlet, şirket ve özel güvenlik arasındaki bulanık alanı temsil ederler. Kanun adına hareket ederken çoğu zaman sermayenin çıkarını koruyabilirlerdi; bu da Vahşi Batı’nın “özgürlükten düzene geçiş” hikâyesini daha karanlık hale getirir.",
+        "accuracyNote": "Oyun Pinkertonları dramatik antagonistler gibi kullanır; tarihsel kurum ise hem dedektiflik/istihbarat başarıları hem de grev kırma ve şirket güvenliğiyle tartışmalı bir özel güçtü.",
+        "whyInteresting": "Homestead Grevi sonrası Pinkerton adı, yalnız dedektiflik değil, özel şirketlerin silahlı güç kullanması tartışmasının da sembolüne dönüştü.",
+        "misconception": "Pinkertonların sadece kanun kaçaklarını yakalayan tarafsız dedektifler olduğu sanılır; gerçekte işçi grevleri ve şirket güvenliği alanında çok tartışmalı roller üstlendiler.",
+        "mediaChanged": "Red Dead onları acımasız avcılar gibi gösterir; tarihsel tablo ise ajansın erken dedektiflik, demiryolu güvenliği, şirket çıkarları ve grev kırma arasında gidip geldiğini gösterir.",
+        "whyItMatters": "Pinkerton tarihi, devletin şiddet yetkisiyle özel şirketlerin güvenlik ihtiyacı birbirine karıştığında hukukun ne kadar bulanıklaşabileceğini gösterir.",
+        "quickRealityCheck": "Pinkertonlar yalnız kanun adamı mıydı, yoksa şirket çıkarları için de çalışan özel bir güç müydü?",
+        "sources": [
+          {
+            "title": "Pinkerton National Detective Agency (Britannica)",
+            "url": "https://www.britannica.com/topic/Pinkerton-National-Detective-Agency",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Pinkerton's National Detective Agency Records (Library of Congress)",
+            "url": "https://hdl.loc.gov/loc.mss/eadmss.ms003007.3",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "1892 Homestead Strike (Library of Congress)",
+            "url": "https://guides.loc.gov/this-month-in-business-history/july/1892-homestead-strike",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Interpretations of the Anti-Pinkerton Act (GAO)",
+            "url": "https://www.gao.gov/products/b-139965-1",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "lastReviewedAt": "2026-06-27"
+      }
+    },
+    {
+      "id": "shogun-christian-daimyo",
+      "replace": {
+        "sourceQuality": "strong",
+        "whatWeSee": "Shōgun gibi yapımlarda Hristiyan lordlar, Portekizli tüccarlar ve Cizvitler çoğu zaman saray komplosunun gizli aktörleri gibi görünür.",
+        "realHistory": "16. yüzyıl Japonya’sında Hristiyanlık yalnız bir inanç meselesi değil, ticaret ve güç dengesiyle iç içe geçen bir olguydu. Francis Xavier’in 1549’da Japonya’ya gelişiyle başlayan Cizvit misyonu özellikle Kyushu’da etkili oldu. Bazı daimyōlar Hristiyanlığı samimi inançla, bazıları ise Portekiz ticareti, ateşli silahlar ve liman gelirleriyle bağlantılı stratejik nedenlerle benimsedi. Bu iki motivasyonu kesin çizgiyle ayırmak çoğu zaman mümkün değildir.\n\nPortekiz ticareti yalnız din getirmedi; gümüş, ipek, ateşli silah ve deniz aşırı bağlantılar da getirdi. Hristiyan daimyōlar için yeni ticaret ağlarına erişim, rakip klanlara karşı avantaj sağlayabilirdi. Fakat aynı durum Japon merkezî otoriteleri için tehdit anlamına geldi. Yabancı misyonerlerin yerel lordlarla kurduğu bağlar, dinin siyasi sadakati değiştirebileceği korkusunu büyüttü.\n\nOda Nobunaga dönemi daha hoşgörülü bir ortam yaratırken, Toyotomi Hideyoshi ve Tokugawa düzeni Hristiyanlığı giderek yabancı nüfuz riski olarak gördü. 1597’deki 26 Şehit ve sonrasındaki yasaklar, bu gerilimin sertleştiğini gösterir. Shōgun bu dünyayı komplo diliyle dramatize eder; gerçek tarih ise inanç, ticaret, silah teknolojisi ve devlet güvenliği arasındaki daha karmaşık bir pazarlıktır.",
+        "accuracyNote": "Dizide Hristiyan lordlar ve Cizvitler dramatik güç odağı gibi görünür; tarihsel zeminde ise din değiştirme, ticaret, silah, liman gelirleri ve kişisel inanç aynı anda rol oynayabiliyordu.",
+        "whyInteresting": "Bazı Japon limanlarının Portekiz ticaretiyle güçlenmesi, Hristiyanlığın yalnız ruhani değil ekonomik bir mesele olarak da görülmesine neden oldu.",
+        "misconception": "Hristiyan daimyōların yalnızca komplo veya yalnızca saf inanç nedeniyle din değiştirdiği sanılır; gerçekte inanç, ticaret ve askerî avantaj çoğu zaman iç içeydi.",
+        "mediaChanged": "Shōgun din meselesini saray gerilimiyle yoğunlaştırır; tarihsel kayıtlar ise Cizvit misyonu, Portekiz ticareti, ateşli silahlar ve merkezî otorite korkusunu birlikte okumayı gerektirir.",
+        "whyItMatters": "Japonya’daki Hristiyanlık deneyimi, küresel ticaretin yerel inanç ve siyasi sadakati nasıl dönüştürebileceğini gösterir.",
+        "quickRealityCheck": "Sengoku Japonya’sında Hristiyan daimyōlar sadece dini nedenlerle mi hareket etti, yoksa ticaret ve güç dengesi de bu tercihi şekillendirdi mi?",
+        "sources": [
+          {
+            "title": "Kirishitan (Britannica)",
+            "url": "https://www.britannica.com/topic/Kirishitan",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Arrival and Flourishing of Christianity (Hidden Christian Sites in Nagasaki Region)",
+            "url": "https://oratio.jp/monogatari/monogatari-01?lang=en",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Father Xavier Introduces Christianity to Japan (EBSCO)",
+            "url": "https://www.ebsco.com/research-starters/history/father-xavier-introduces-christianity-japan",
+            "type": "reference",
+            "verified": true
+          }
+        ],
+        "lastReviewedAt": "2026-06-27"
+      }
+    },
+    {
+      "id": "ghost-mongol-navy",
+      "replace": {
+        "sourceQuality": "strong",
+        "whatWeSee": "Ghost of Tsushima karadaki istilaya, Tsushima’daki ilk şoka ve samuray direnişine odaklanır; deniz felaketi arka planda kalır.",
+        "realHistory": "Moğolların Japonya’ya saldırıları yalnız karadaki çarpışmalardan ibaret değildi. Kubilay Han yönetimindeki Yuan İmparatorluğu, 1274 ve 1281’de Japonya’yı ele geçirmek için Kore ve Çin kaynaklı gemilerden oluşan büyük filolar gönderdi. Tsushima ve Iki adaları ilk darbeyi aldı; ardından Hakata Körfezi çevresinde Japon savunmasıyla karşılaşıldı. Yuan ordusu kara savaşında yeni silahlar, toplu hareket ve barutlu patlayıcılarla ciddi baskı kurdu.\n\nİstilanın başarısızlığında Japon direnişi kadar deniz lojistiği ve hava koşulları da belirleyiciydi. 1281’deki büyük filo, uzun süre açıkta beklemek, ikmal sorunları ve kıyıya tutunamama gibi zorluklarla karşılaştı. Ardından gelen tayfun, filonun büyük bölümünü dağıttı. Japon hafızasında bu fırtınalar “kamikaze”, yani ilahi rüzgâr olarak anıldı; fakat tarihsel açıklama yalnız mucizeye indirgenemez. Savunma duvarları, küçük Japon baskınları, gemilerin kökeni ve denizde bekleme süresi de sonuca etki etti.\n\nSualtı arkeolojisi, Takashima çevresindeki batıklarla bu olayın maddi izlerini göstermeye devam ediyor. Bu yüzden Ghost of Tsushima’nın kara merkezli hikâyesi doğru bir başlangıç verir; fakat Moğol işgalinin kırıldığı asıl alanlardan biri deniz, ikmal ve fırtınaydı.",
+        "accuracyNote": "Kamikaze anlatısı tarihsel hafızada çok güçlüdür; ancak Moğol istilalarının başarısızlığını yalnız tayfuna bağlamak, Japon savunmasını, deniz lojistiğini ve Yuan filosunun koşullarını basitleştirir.",
+        "whyInteresting": "Takashima çevresindeki batık araştırmaları, Moğol istilasını yalnız kroniklerden değil, gemi kalıntıları ve savaş malzemeleri üzerinden de okumamızı sağlıyor.",
+        "misconception": "Moğol donanmasının yalnızca ilahi bir fırtınayla yok olduğu sanılır; gerçekte tayfun, Japon savunması, kıyı tahkimatı ve deniz lojistiği sorunlarıyla birlikte etkili oldu.",
+        "mediaChanged": "Oyun Tsushima’daki kara savaşını öne çıkarır; tarihsel tablo ise Moğol istilasının denizde, ikmalde ve fırtınada da kırıldığını gösterir.",
+        "whyItMatters": "Bu olay, bozkır imparatorluğunun deniz aşırı savaşta karşılaştığı sınırları ve Japon kimliğinde kamikaze hafızasının neden bu kadar güçlü olduğunu açıklar.",
+        "quickRealityCheck": "Moğol istilası sadece samuray kılıcıyla mı durdu, yoksa deniz lojistiği ve tayfunlar da sonucun merkezinde miydi?",
+        "sources": [
+          {
+            "title": "Tracing the Mongolian Invasion (Kyushu National Museum)",
+            "url": "https://www.kyuhaku.jp/en/exhibition/exhibition_pre192.html",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Relations between Japan and Mongolia in the 13th century (National Archives of Japan)",
+            "url": "https://www.archives.go.jp/about/activity/international/jp_mn50/english/ch01.html",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Shooting Down the Kamikaze Myth (U.S. Naval Institute)",
+            "url": "https://www.usni.org/magazines/naval-history-magazine/2003/june/shooting-down-kamikaze-myth",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "lastReviewedAt": "2026-06-27"
+      }
+    },
+    {
+      "id": "mafia-prohibition-economics",
+      "replace": {
+        "sourceQuality": "strong",
+        "whatWeSee": "Mafia oyunlarında İçki Yasağı, kaçak içki sevkiyatları, speakeasy barlar ve suç aileleri için bol aksiyonlu bir dönem gibi görünür.",
+        "realHistory": "ABD’de 1920’de başlayan Prohibition, alkol talebini ortadan kaldırmadı; üretim ve dağıtımı yasal pazardan yeraltına taşıdı. Volstead Act alkol üretimi ve satışını yasaklasa da uygulama ülke ölçeğinde çok zordu. Sınırlar, limanlar, göller, ev yapımı içki, gizli barlar ve rüşvet ağları kısa sürede devasa bir kaçak ekonomi yarattı. New York gibi şehirlerde binlerce speakeasy bulunması, yasağın gündelik hayatta ne kadar geniş biçimde delindiğini gösterir.\n\nOrganize suç bu boşluğu fırsata çevirdi. Bootlegging yalnız içki taşımak değildi; nakliye, depo, koruma, polis ve siyasetçi rüşveti, şiddet, borç ve kara para aklama ağlarını birlikte gerektiriyordu. Al Capone gibi figürlerin yükselişi bu yapının simgesidir, fakat mesele tek tek gangsterlerden büyüktü. Yasak, küçük sokak çetelerini sermaye, silah ve bağlantı sahibi daha kurumsal yapılara dönüştürdü.\n\n1933’te yasak kalktığında organize suç yok olmadı. İçki gelirleriyle kurulan ağlar kumar, sendika nüfuzu, haraç ve başka kaçak pazarlara taşındı. Bu yüzden Prohibition, “ahlaki reform” amacıyla çıkan bir yasanın uygulama kapasitesi zayıf olduğunda nasıl ters sonuç verebileceğinin en güçlü örneklerinden biridir.",
+        "accuracyNote": "Oyunlar İçki Yasağı’nı aksiyon ve yükseliş hikâyesi gibi kullanır; tarihsel olarak dönem, talebin yok edilmediği ve devlet kapasitesinin yetersiz kaldığı büyük bir kaçak ekonomi yarattı.",
+        "whyInteresting": "1920’lerin speakeasy kültürü, yasağın gündelik içme alışkanlığını bitirmediğini; sadece görünmez, rüşvetle korunan ve daha kârlı hale getirdiğini gösterir.",
+        "misconception": "İçki Yasağı’nın yalnız alkol tüketimini azaltmaya çalışan ahlaki bir yasa olduğu sanılır; gerçekte organize suçun sermaye ve kurumlaşma kazanmasına da zemin hazırladı.",
+        "mediaChanged": "Mafia oyunları kaçak içkiyi aksiyon fırsatı olarak gösterir; tarihsel tablo ise yasa, talep, rüşvet ve organize suç ekonomisinin birlikte büyüdüğünü gösterir.",
+        "whyItMatters": "Prohibition, yasakların hedeflediği davranışı ortadan kaldırmadan sadece yasa dışı pazara taşıması halinde suç örgütlerini nasıl güçlendirebileceğini gösterir.",
+        "quickRealityCheck": "İçki Yasağı alkolü gerçekten bitirdi mi, yoksa talebi organize suçun yönettiği daha kârlı bir yeraltı ekonomisine mi taşıdı?",
+        "sources": [
+          {
+            "title": "The Volstead Act (National Archives)",
+            "url": "https://www.archives.gov/education/lessons/volstead-act",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "The Bureau and the Great Experiment (FBI)",
+            "url": "https://www.fbi.gov/news/stories/the-bureau-and-the-great-experiment-012420",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The FBI and the American Gangster, 1924-1938 (FBI)",
+            "url": "https://www.fbi.gov/history/history-of-the-fbi/the-fbi-and-the-american-gangster",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Prohibition (Britannica)",
+            "url": "https://www.britannica.com/event/Prohibition-United-States-history-1920-1933",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "lastReviewedAt": "2026-06-27"
+      }
+    }
+  ]
+}

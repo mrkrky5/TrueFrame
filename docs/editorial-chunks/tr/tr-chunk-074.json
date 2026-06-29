@@ -1,0 +1,285 @@
+{
+  "locale": "tr",
+  "chunkIndex": 74,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-163-mercury-program",
+      "title": "Mercury Programı",
+      "subtitle": "Küçük ayrıntı, büyük tarih",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Uzay",
+        "Bilim",
+        "Eşitlik"
+      ],
+      "whatWeSee": "Hidden Figures'da Mercury Programı, fırlatma heyecanı ile hesap odası baskısını aynı anda hissettirir. Roket hazırlığı, görev kontrolü ve insan bilgisayarların doğrulama emeği dramatik biçimde iç içe geçer. Film, zaman baskısını iyi kurar. Ancak test başarısızlıkları, mühendislik iterasyonu ve kurumlar arası teknik pazarlık gibi uzun süreçler doğal olarak daha kısa görünür.",
+      "realHistory": "Project Mercury (1958-1963), ABD'nin insanlı uzaya çıkış için yürüttüğü ilk programdı ve Soğuk Savaş rekabetinin doğrudan baskısı altındaydı. Amaç yalnız bir astronotu yörüngeye taşımak değil, insan bedeninin yüksek ivme, yeniden giriş ısısı ve mikro yerçekiminde nasıl tepki verdiğini ölçmekti. Program boyunca Redstone ve Atlas roketleriyle farklı uçuş profilleri denendi; güvenilirlik sorunu nedeniyle birçok test tekrarı gerekti.\n\nAlan Shepard'ın 1961'deki suborbital uçuşu sembolik bir başlangıçtı, fakat Sovyetler'in Yuri Gagarin ile yörünge başarısı ABD üzerindeki baskıyı artırdı. John Glenn'in Friendship 7 görevi bu açıdan kritik dönemeçtir. Hesap doğruluğu, kapsülün doğru koridora dönmesi için hayatiydi; yörünge mekaniği ve yeniden giriş hesapları insan bilgisayarlar ile erken elektronik sistemlerin birlikte çalışmasıyla üretildi.\n\nMercury ayrıca kurum kültürünü şekillendirdi: görev kontrol yapısı, test disiplini, hata toleransı ve veri doğrulama pratikleri Gemini ile Apollo'nun temelini attı. Program küçük görünse de teknik mirası büyüktür. Başarı, tek bir fırlatmadan çok tekrar eden test döngülerinin birikiminden doğdu. Programın kamuoyu etkisi de büyüktü; her görev canlı takip edildi ve uzay yarışı, bilim yatırımlarını meşrulaştıran güçlü bir ulusal anlatıya dönüştü. Bu dönemde geliştirilen kontrol listesi disiplini, sonraki NASA kültüründe standart hale gelerek karmaşık görevlerde insan hatasını azaltan temel yönetim aracı olarak benimsendi. Mercury, ölçemediğin riski yönetemeyeceğin ilkesini uzay çağının temel çalışma kuralına dönüştürdü.",
+      "accuracyNote": "Programın zaman baskısı ve hesap doğrulama gerilimi doğru yansıtılır; teknik yineleme döngüleri ve başarısız testlerin payı dramatik ekonomide sıkıştırılmıştır.",
+      "whyInteresting": "Uzaya giden yol, roketten önce denklem ve kontrol listelerinden geçti.",
+      "misconception": "Mercury'nin yalnız astronot cesaretiyle başarıldığı düşünülür; asıl farkı yaratan, mühendislik tekrarları ve hesap doğrulama sistemiydi.",
+      "nextTopics": [
+        "İnsan Bilgisayarlar",
+        "Ayrımcılık Sistemi",
+        "Apollo 11"
+      ],
+      "sources": [
+        {
+          "title": "Project Mercury Overview (NASA)",
+          "url": "https://www.nasa.gov/mercury/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Mercury program (Britannica)",
+          "url": "https://www.britannica.com/event/Project-Mercury",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "John Glenn and Friendship 7 (National Air and Space Museum)",
+          "url": "https://airandspace.si.edu/stories/editorial/john-glenn-and-friendship-7",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-164-apollo-11",
+        "tf26-165-katherine-johnson",
+        "tf26-166-cold-war-prestige"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hidden Figures, Mercury dönemindeki hesap ve görev kontrol emeğini insan hikayeleri üzerinden görünür kılar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "uzay-yarisi",
+        "nasa",
+        "bilim",
+        "mercury-programi",
+        "true-frame"
+      ],
+      "spoilerNote": "Hidden Figures hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film hikayeyi birkaç kritik ana yoğunlaştırarak hesap emeğinin değerini görünür kılar. Tarihte ilerleme daha parçalıydı; başarının arkasında çok sayıda test, arıza analizi ve kurumsal öğrenme vardı.",
+      "whyItMatters": "Uzaya giden yol, roketten önce denklem ve kontrol listelerinden geçti.",
+      "isFlagship": false,
+      "quickRealityCheck": "John Glenn uçuşunda yeniden giriş hesabının doğruluğu neden görev güvenliği için kritik bir eşikti?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-164-apollo-11",
+      "title": "Apollo 11",
+      "subtitle": "Apollo 11: hesap, roket ve canlı yayın",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Uzay",
+        "Bilim",
+        "Eşitlik"
+      ],
+      "whatWeSee": "Hidden Figures Apollo 11'i doğrudan göstermez ama Langley'deki hesapların Ay'a giden yörüngeye nasıl bağlandığını anlatır. Film, televizyonda milyonların izlediği inişin arkasındaki çizgileri, kontrolleri ve ayrımcılığı aynı anda gösterir. Görüntüde görev odasındaki konsollar yanıp sönerken roket fırlatması yükseliyor, ardından Ay yüzeyine inen adımla dünya ekranlarının ortak heyecanı birleşiyor.",
+      "realHistory": "20 Temmuz 1969'da Apollo 11 Ay'a indi; Neil Armstrong ve Buzz Aldrin 21 Temmuz'da yüzeyde yürüdü. Canlı yayın yaklaşık 600 milyon izleyiciye ulaştı. Görev yalnızca astronot değil, binlerce mühendis, hesapçı ve görev kontrol ekibinin emeğiydi. Langley'de Katherine Johnson orbital mekaniği hesapları yaptı; Dorothy Vaughan Fortran programlarına geçişi yönetti. Cape Kennedy'den fırlatma, Columbia komuta modülü ve Eagle iniş modülü ayrı ayrı tasarlandı. Armstrong manuel pilotajla iniş alanını değiştirdi; yakıt alarm veriyordu. Sovyetler o ay Luna 15 ile yarıştı; ABD prestij zaferi kazandı. Apollo programı Cold War silahıydı ama bilimsel numune toplama da yaptı. Hidden Figures bu zaferin ırk ve cinsiyet filtresini gösterir: televizyonda görünmeyen emek, görevin asıl omurgasıydı. Apollo 11 sonrası program hızla sona erdi; maliyet ve kamu ilgisi düştü. Apollo 11 görevi, insanın Ay'a inişini sağlayan mühendislik zincirinin siyasi, kurumsal ve teknik düğümlerini aynı anda görünür kıldı. Saturn V roketi, milyonlarca parçanın tedarik ve kalite kontrolünü gerektirirken, uçuş bilgisayarları sınırlı bellekte kritik kararları yönetmek zorundaydı. Yörünge hesapları ve iniş pencereleri, yerdeki matematik ekipleriyle görev kontrol arasında dakikalık doğrulamalarla yürütüldü. 1969 canlı yayını, bu başarıyı ulusal gururun küresel gösterisine dönüştürdü. Ancak süreç, perde arkasındaki kadın ve azınlık uzman emeğinin uzun süre kurumsal krediden dışlandığını da hatırlatır. Apollo 11",
+      "accuracyNote": "Görev tarihleri ve Johnson'ın rolü NASA kayıtlarıyla uyumludur.",
+      "whyInteresting": "Aynı an hem ulusal destan hem silinmiş emek hikâyesidir.",
+      "misconception": "Apollo yalnızca Cape'de kazanıldı; hesapların çoğu Langley'de yapıldı.",
+      "nextTopics": [
+        "İnsan Bilgisayarlar",
+        "Ayrımcılık Sistemi",
+        "Mercury Programı"
+      ],
+      "sources": [
+        {
+          "title": "Apollo 11 (NASA)",
+          "url": "https://www.nasa.gov/mission_pages/apollo/apollo11.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Katherine Johnson (NASA)",
+          "url": "https://www.nasa.gov/people/katherine-johnson/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Apollo 11 mission overview (Smithsonian)",
+          "url": "https://airandspace.si.edu/explore/stories/apollo-11",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-168-computers-transition",
+        "tf26-162-segregation"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "major",
+      "mediaConnection": "Hidden Figures'ın Langley-Apollo bağlantısı ile 1969 Apollo 11 görevi ve NASA görev kontrol mimarisi.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "uzay-yarisi",
+        "nasa",
+        "bilim",
+        "apollo-11",
+        "true-frame"
+      ],
+      "spoilerNote": "Hidden Figures hikâyesinin sonunu veya büyük sürprizlerini anlatabilir.",
+      "mediaChanged": "Kamusal hafıza astronot portresine sıkışır; arşivler on yıllık hesap ve ayrımcılık mücadelesini gösterir.",
+      "whyItMatters": "Aynı an hem ulusal destan hem silinmiş emek hikâyesidir.",
+      "isFlagship": true,
+      "quickRealityCheck": "Apollo 11 yayını neden Cold War anlatısının merkezine oturdu?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-165-katherine-johnson",
+      "title": "Katherine Johnson",
+      "subtitle": "Ekrandaki iz, tarihteki karşılık",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Uzay",
+        "Bilim",
+        "Eşitlik"
+      ],
+      "whatWeSee": "Hidden Figures, Katherine Johnson’ı tek bir odada baskı altında denklem çözen kahraman olarak merkezliyor. Kamera, dakikalarla yarışan toplantıları ve “doğru sayı” anını büyüterek uzay programını bir kişisel zafer sahnesine sıkıştırıyor. Seyirciye güçlü bir duygu veriliyor: doğru insan, doğru anda, tüm sistemi kurtarıyor.",
+      "realHistory": "Katherine Johnson’ın katkısı olağanüstüydü; ancak tarihsel tablo tek bir “deha anı”ndan çok, yıllara yayılan kurumsal uzmanlık birikimine dayanır. Johnson 1953’te NACA Langley’de, ayrımcılık koşulları altında çalışan West Area Computing grubuna katıldı. Bu ekipteki kadın matematikçiler test verilerini işliyor, tablolar hazırlıyor ve mühendislik hesaplarını defalarca doğruluyordu. Johnson kısa sürede analitik geometri ve yörünge hesabında öne çıktı.\n\nMercury döneminde elektronik bilgisayarlar kullanılmaya başlansa da güvenilirlik, çapraz kontrol ve hata payı yönetimi hâlâ insan uzmanlığıyla güvenceye alınıyordu. John Glenn’in uçuş öncesi bazı çıktıları Johnson’ın kontrol etmesini istemesi bu geçiş evresinin simgesidir. Ancak bu, tek kişilik bir operasyon değildi: Dorothy Vaughan’ın programlama liderliği, Mary Jackson’ın mühendislik rolü ve çok sayıda teknik personelin rutin denetimleri aynı zincirin parçalarıydı.\n\nAyrıca bu hikâye yalnızca teknik başarı değildir; kurumsal eşitlik mücadelesinin de parçasıdır. 1950’ler ve 1960’larda federal düzeyde ayrımcılığın gerilemesi, Siyah kadın uzmanların görünürlüğünü artırdı ama eşitsizlik bir anda bitmedi. Johnson’ın başarısı, bireysel yetkinlik ile kolektif emek altyapısının birleşimidir. Film ilham verici bir odak kurar; tarihsel gerçek ise uzay güvenliğinin ekip disiplini, tekrarlı doğrulama ve kurum kültürüyle inşa edildiğini gösterir. Bu nedenle Johnson’ın mirası, yalnızca bir rol model değil, doğrulama kültürünün kurumsal standart hâline gelişinin de kalıcı sembolüdür.",
+      "accuracyNote": "Johnson’ın teknik rolü ve ayrımcılık bağlamı gerçektir; olayların ritmi dramatik etki için hızlandırılmıştır.",
+      "whyInteresting": "Bu kart, ilham veren biyografik anlatıyı bilimsel işbölümü ve eşitlik mücadelesiyle birlikte görmeyi sağlar.",
+      "misconception": "Yaygın yanılgı, kritik NASA hesaplarının birkaç izole dâhi tarafından tek başına yapıldığıdır.",
+      "nextTopics": [
+        "İnsan Bilgisayarlar",
+        "Ayrımcılık Sistemi",
+        "Mercury Programı"
+      ],
+      "sources": [
+        {
+          "title": "Katherine Johnson Biography (NASA)",
+          "url": "https://www.nasa.gov/people/katherine-johnson-biography/"
+        },
+        {
+          "title": "Dorothy Vaughan Biography (NASA)",
+          "url": "https://www.nasa.gov/people/dorothy-vaughan-biography/"
+        },
+        {
+          "title": "The True Story of Hidden Figures (Smithsonian)",
+          "url": "https://www.smithsonianmag.com/history/the-true-story-of-hidden-figures-and-the-black-women-who-helped-win-the-space-race-180961339/"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-166-cold-war-prestige",
+        "tf26-167-mission-control",
+        "tf26-168-computers-transition"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hidden Figures bireysel dayanıklılığı öne çıkarıyor; True Frame aynı hikâyeyi ekip sistemi ve kurum kapasitesiyle tamamlıyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "uzay-yarisi",
+        "nasa",
+        "bilim",
+        "katherine-johnson",
+        "true-frame"
+      ],
+      "spoilerNote": "Hidden Figures hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film zamanı sıkıştırıp tek kahraman etkisi yaratıyor; tarihsel süreç, çok aktörlü ve yıllara yayılan bir doğrulama ağına dayanıyordu.",
+      "whyItMatters": "Bu kart, ilham veren biyografik anlatıyı bilimsel işbölümü ve eşitlik mücadelesiyle birlikte görmeyi sağlar.",
+      "isFlagship": false,
+      "quickRealityCheck": "Uzay yarışı bir kişinin anlık çözümüyle mi, yoksa kurumsal kontrol zinciriyle mi güvenli hâle geldi?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-166-cold-war-prestige",
+      "title": "Soğuk Savaş Prestiji",
+      "subtitle": "Soğuk Savaş Prestiji hakkında yanlış bilinen",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Uzay",
+        "Bilim",
+        "Eşitlik"
+      ],
+      "whatWeSee": "Hidden Figures NASA'nın uzay yarışını anlatırken Sovyet Sputnik korkusunu arka planda tutar. ABD, teknolojik üstünlük ve ırk ayrımcılığını aynı anda yaşar; prestij yarışı Langley hesap odalarına kadar iner. Görüntü roket maketleri önünde konuşan devlet adamlarını, laboratuvarda gece çalışan mühendisleri ve gazetelerde yayılan zafer manşetlerini tek rekabet anlatısında birleştiriyor.",
+      "realHistory": "1957 Sputnik, ABD'yi şok etti: Sovyetler uzayda öndeydi. Kennedy 1961'de aya iniş hedefi koydu; Apollo programı Cold War prestij silahıydı. NASA bütçesi ve medya dikkati patladı; başarısızlık ulusal utanç sayıldı. Langley'deki Black kadın bilgisayarlar bu yarışın görünmeyen motoruydu. Prestij sadece roket değildi: demokrasi vs komünizm anlatısının teknolojik kanıtıydı. Ay'a iniş 1969'da televizyonda milyonlara yayınlandı; Sovyet programı gizlilik içinde geriledi. Hidden Figures bu prestij anlatısının içindeki ayrımcılığı gösterir: zafer hikâyesi, eşitsizliği silmeye çalıştı. Uzay yarışı bilim politikası ve medya savaşıydı. Soğuk Savaş yıllarında uzay programları, teknik rekabetten öte uluslararası prestij ve ideolojik üstünlük vitrini işlevi gördü. Sputnik şoku sonrası ABD, eğitim bütçelerini artırıp mühendislik kadrolarını genişletti; Sovyetler ise erken başarıları diplomatik propaganda olarak kullandı. Her fırlatma, üçüncü dünya ülkelerine hangi sistemin bilimsel gelecek sunduğu mesajını taşıyordu. Ancak bu vitrin, içerideki eşitsizlikleri örtmüyordu; ırk ayrımı ve cinsiyet bariyerleri laboratuvarlardan kurumsal terfilere kadar sürdü. Prestij yarışının gerçek maliyeti, yalnız roket bütçelerinde değil toplumların adalet sınavında da ölçüldü. Soğuk Savaş Prestiji 1957 Sputnik, ABD'yi şok etti: Sovyetler uzayda öndeydi. 1961 Gagarin uçuşu Sovyet diplomasi heyetlerine büyük propaganda sermayesi sağladı; Afrika ve Asya başkentlerinde bilim sergileri dolaştı. ABD buna eğitim kredileri, burs programları ve televizyonlu roket yayınlarıyla karşılık verdi. Prestij yarışı, laboratuvar bütçesi kadar öğrencilerin kariyer tercihlerini de dönüştürdü.",
+      "accuracyNote": "Sputnik ve Apollo tarihleri NASA kayıtlarıyla uyumludur.",
+      "whyInteresting": "Aynı program hem ulusal gurur hem iç ayrımcılık sahnesiydi.",
+      "misconception": "Uzay yarışı yalnızca bilim merakıydı; ideolojik prestij motoruydu.",
+      "nextTopics": [
+        "İnsan Bilgisayarlar",
+        "Ayrımcılık Sistemi",
+        "Mercury Programı"
+      ],
+      "sources": [
+        {
+          "title": "Space Race (NASA)",
+          "url": "https://www.nasa.gov/history/space-race/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Sputnik (Britannica)",
+          "url": "https://www.britannica.com/event/Sputnik",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Apollo program (NASA)",
+          "url": "https://www.nasa.gov/history/apollo/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-167-mission-control",
+        "tf26-168-computers-transition",
+        "tf26-169-risk"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hidden Figures'ın NASA sahneleri ile Sputnik şoku ve Apollo Cold War prestij yarışı.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "uzay-yarisi",
+        "nasa",
+        "bilim",
+        "soguk-savas-prestiji",
+        "true-frame"
+      ],
+      "spoilerNote": "Hidden Figures hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film prestiji duygusal zaferle sunar; arşivler bütçe, gizlilik ve ırk politikası gerilimini gösterir.",
+      "whyItMatters": "Soğuk Savaş'ta roket, ideolojinin fiziksel kanıtıydı.",
+      "isFlagship": false,
+      "quickRealityCheck": "Sputnik'ten sonra ABD uzay bütçesini neden bu kadar hızlı artırdı?",
+      "lastReviewedAt": "2026-06-25"
+    }
+  ]
+}

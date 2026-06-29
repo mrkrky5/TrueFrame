@@ -1,0 +1,280 @@
+{
+  "locale": "tr",
+  "chunkIndex": 67,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-129-armistice",
+      "title": "Ateşkes Anı",
+      "subtitle": "Bir sahnenin sakladığı sistem",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "era": "Modern Tarih",
+      "region": "Avrupa",
+      "themes": [
+        "Savaş",
+        "Teknoloji",
+        "Cephe"
+      ],
+      "whatWeSee": "1917 ateşkes fikrini diplomasi masasından çok cephede zamana karşı koşulan bir görev hissiyle anlatıyor. Kamera sürekli hareket halinde kaldığı için savaşın sonu, tek bir emrin dakikalar içinde ulaştırılmasına bağlanmış kırılgan bir an gibi görünüyor. İzleyici, büyük politik kararları değil, kararın cephedeki hayati gecikmesini hissediyor.",
+      "realHistory": "11 Kasım 1918 ateşkesi, tek bir kahramanlık hamlesinin değil aylar süren askeri ve siyasi çözülmenin sonucuydu. Almanya Batı Cephesi'nde geri çekilirken içeride kıtlık, denizci isyanları ve rejim krizi büyüdü. Müttefiklerin Yüz Gün Taarruzu cephe dengesini bozdu; Berlin yönetimi Wilson ilkeleri çerçevesinde mütareke arayışına girdi. Compiègne'de imzalanan metin saat 11.00'de yürürlüğe girse de cephede çatışmalar son dakikalara dek sürdü. İletişim gecikmeleri, komuta hırsı ve taktik alışkanlıklar nedeniyle aynı gün çok sayıda asker hayatını kaybetti. Ateşkes ayrıca nihai barış anlamına gelmiyordu. Esir dönüşleri, işgal bölgeleri, tazminat pazarlıkları ve yeni sınır düzenleri 1919'a ve sonrasına taşındı. Versailles sistemi hukuki çerçeve kurdu, ancak toplumsal şiddet ve siyasi radikalleşme birçok bölgede devam etti. Eski imparatorluk coğrafyalarında idari boşluk, etnik gerilim ve ekonomik çöküş savaş sonrası dönemi uzun bir belirsizliğe çevirdi. Bu nedenle ateşkesi sadece \"silahların sustuğu dakika\" olarak okumak eksiktir; asıl hikaye o dakikaya götüren devlet krizinde ve sonrasındaki kırılgan geçişte yatar. Filmdeki aciliyet duygusu gerçek bir cephe deneyimine temas eder, ama tarihsel kapanış daha yavaş, daha bürokratik ve çok daha maliyetli bir süreçtir. Mütareke hükümlerinin uygulanması için demiryolu tahliyesi, ağır silah teslimi ve işgal hatlarının belirlenmesi gibi teknik adımlar haftalar boyunca sürdü. Bu ayrıntılar, savaşın bitişinin bile karmaşık bir yönetim operasyonu olduğunu açıkça ortaya koyar.",
+      "accuracyNote": "Filmdeki görev kurgu olsa da son dakika kayıpları ve emir gecikmesi tarihsel olarak belgelenmiştir.",
+      "whyInteresting": "Savaşın bitiş anı bile çoğu zaman savaşın kendisi kadar dağınık ve ölümcül olabilir.",
+      "misconception": "Ateşkes ilan edilir edilmez tüm cephelerde anında tam sessizlik oluştuğu düşünülür.",
+      "nextTopics": [
+        "Siper Yaşamı",
+        "Topçu Ateşi",
+        "Sahipsiz Bölge"
+      ],
+      "sources": [
+        {
+          "title": "Britannica - Armistice",
+          "url": "https://www.britannica.com/event/Armistice",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Imperial War Museums - How the First World War ended",
+          "url": "https://www.iwm.org.uk/history/how-the-first-world-war-ended",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Library and Archives Canada - Armistice and Last Days of War",
+          "url": "https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/Pages/armistice.aspx",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-130-home-front",
+        "tf26-127-colonial-troops",
+        "tf26-128-war-horses"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "1917'nin emir yetiştirme hikayesi, Birinci Dünya Savaşı'ndaki iletişim ve komuta gecikmelerinin cephe gerçeğini görünür kılar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "birinci-dunya-savasi",
+        "siper",
+        "1917",
+        "ateskes-ani",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "1917 hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film ateşkesi kişisel görev gerilimine yoğunlaştırıyor. Gerçek süreç çok katmanlı diplomasi, lojistik ve rejim krizlerinin birleşimiyle ilerledi.",
+      "whyItMatters": "Savaşın bitiş anı bile çoğu zaman savaşın kendisi kadar dağınık ve ölümcül olabilir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Ateşkes saatinin belli olduğu bir günde neden son saatlerde bile yeni taarruz emri verilebildi?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-130-home-front",
+      "title": "Cephe Gerisi",
+      "subtitle": "Cephe Gerisi neden önemli?",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "era": "Modern Tarih",
+      "region": "Avrupa",
+      "themes": [
+        "Savaş",
+        "Teknoloji",
+        "Cephe"
+      ],
+      "whatWeSee": "1917 cephede iki askerin koşusu anlatır; cephe gerisi ekranda neredeyse yoktur. Yine de film, İngiltere'nin tüm endüstriyel gücünün bu iki gencin mesajına bağlı olduğu gerilimi hissettirir: siper hattı ile fabrika ve tarla arasında görünmez bir zincir vardır. Görüntüde cephane dolduran işçiler, karne kuyruğunda bekleyen aileler ve istasyonda cepheye giden trenler tek bir savaş ekonomisinin parçaları olarak akıyor.",
+      "realHistory": "I. Dünya Savaşı'nda cephe gerisi, cephe kadar belirleyiciydi. Britanya'da kadınlar munition fabrikalarına girdi; Lord Kitchener posterleri gönüllü akışını yönetti. Gıda karnesi, kira artışı ve haber sansürü günlük hayatı şekillendirdi. 1916 Askerlik Kanunu zorunlu askerliği getirdi; sınıf ve bölge farkları cephedeki ölüm oranlarına yansıdı. Cephe gerisi 'evde kalanlar' değil, üretim ve lojistik cephesiydi: her top mermisi, her sandık bisküvi bir fabrikadan geldi. 1917 filmi bu dünyayı göstermez ama Schofield ve Blake'in görevi tamamen o lojistiğe bağlıdır: mesaj ulaşmazsa 1600 kişi boşuna ölecek. Tarihçiler cephe-cephe gerisi ayrımının yapay olduğunu vurgular; aile mektupları, grevler ve influenza salgını savaşın parçasıydı. Birinci Dünya Savaşı'nda cephe gerisi, yalnız fabrikaların üretim temposu değil devletin toplumla kurduğu yeni sözleşmeydi. Britanya ve Fransa'da erzak kotaları, kömür dağıtımı, kadın emeğinin ağır sanayiye kaydırılması ve savaş tahvilleri gündelik hayatı dönüştürdü. Tren ağları cephane ve asker sevkine öncelik verince kent içi ulaşım aksadı; mektuplar aile bağının ana hattına dönüştü. Hava saldırısı korkusu, kasabalarda gece karartması uygulamalarını yaygınlaştırdı. Cephe başarısı büyük ölçüde bu görünmeyen lojistik dayanıklılığa, yani evdeki disiplin ve örgütlenmeye bağlıydı. Cephe Gerisi Birinci Dünya Savaşı'nda cephe gerisi, cephe kadar belirleyiciydi. 1917'de Britanya'da U-boat tehdidi derinleşince ekmek ve şeker dağıtımı sıkılaştı, belediyeler yakıt listeleri tuttu. Kadın tramvay görevlileri ve cephane işçileri sendikal haklar için grev baskısı kurdu. Cepheye mektup akışı, moral kadar sansür mekanizmasının da ana aracı haline geldi.",
+      "accuracyNote": "Cephe gerisi ekonomisi ve Askerlik Kanunu belgelenmiştir; film kurgusal görev üzerine kurulu.",
+      "whyInteresting": "Cephedeki iki adamın hikâyesi, görünmeyen milyonlarca işçinin emeğine bağlıdır.",
+      "misconception": "Savaş yalnızca askerlerin işiydi; üretim ve gıda sistemi savaşın yarısıydı.",
+      "nextTopics": [
+        "Siper Yaşamı",
+        "Topçu Ateşi",
+        "Sahipsiz Bölge"
+      ],
+      "sources": [
+        {
+          "title": "World War I Home Front (Britannica)",
+          "url": "https://www.britannica.com/event/World-War-I",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Conscription UK WWI (UK Parliament)",
+          "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/yourcountry/overview/conscription/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Imperial War Museum WWI",
+          "url": "https://www.iwm.org.uk/history/first-world-war",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-128-war-horses",
+        "tf26-129-armistice"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "1917'nin mesaj koşusu ile I. Dünya Savaşı Britanya cephe gerisi üretim ve zorunlu askerlik sistemi.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "birinci-dunya-savasi",
+        "siper",
+        "1917",
+        "cephe-gerisi",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "1917 hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film tek gecelik gerilim kurar; gerçekte cephe gerisi dört yıl süren yorgunluk ve kıtlık demekti.",
+      "whyItMatters": "Cephedeki iki adamın hikâyesi, görünmeyen milyonlarca işçinin emeğine bağlıdır.",
+      "isFlagship": false,
+      "quickRealityCheck": "1917'deki 'durdur emri' görevi gerçek savaşta hangi lojistik kırılmayı önlemeye çalışıyordu?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-132-operation-fortitude",
+      "title": "Fortitude Aldatması",
+      "subtitle": "Fortitude: Normandiya'dan önce sahte ordu",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "era": "Modern Tarih",
+      "region": "Normandiya",
+      "themes": [
+        "Savaş",
+        "Çıkarma",
+        "Hafıza"
+      ],
+      "whatWeSee": "Saving Private Ryan, odağı doğrudan çıkarma kıyısındaki asker deneyimine koyar; istihbarat savaşı çoğunlukla sahne dışında kalır. Harita başı kısa anlar, D-Day öncesinde daha geniş bir aldatma planı olduğunu hissettirir. Seyirci böylece görünür şiddeti izlerken görünmez hazırlığın önemini ancak dolaylı olarak kavrar.",
+      "realHistory": "Operation Fortitude, 1944'te Müttefiklerin Normandiya çıkarmasını korumak için yürüttüğü kapsamlı aldatma stratejisinin merkezindeydi. Amaç, Alman komutasını ana saldırının Pas-de-Calais'de olacağına inandırmak ve yedek birlikleri yanlış bölgede tutmaktı. Bunun için hayali birlik düzenleri, sahte tank ve kamp alanları, kontrollü radyo trafiği ve çift ajanlar birlikte kullanıldı.\n\nPlanın güçlü ayağı, Patton'ın sözde komuta ettiği FUSAG adlı kurgusal ordunun güvenilir gösterilmesiydi. Alman istihbaratının Patton'ı en tehlikeli taarruz komutanı sayması bu kurguya inandırıcılık kattı. Double-Cross sistemiyle yönetilen ajanlar, Berlin'e ulaşan bilgi akışını dikkatle yönlendirdi.\n\n6 Haziran sonrası da aldatma aniden bitmedi. Alman yedeklerinin bir bölümü haftalarca Calais hattında bekletildi; bu gecikme Normandiya köprübaşının tutulması için kritik zaman kazandırdı. Fortitude tek başına sonucu belirlemedi, fakat hava üstünlüğü, deniz lojistiği ve kara operasyonlarının etkisini büyüten stratejik bir çarpan oldu.\n\nBu operasyonun önemi şuradadır: savaş bazen cephede değil, düşmanın karar ritmini bozabildiğin ölçüde kazanılır. D-Day'in başarısı sahildeki cesaret kadar, daha önce yürütülen bilgi yönetimi, gizlilik ve koordinasyon disiplinine de dayanıyordu. Özellikle Alman yüksek komutasının rezervleri geç serbest bırakması, ilk haftadaki kırılgan Müttefik konuşlanmasına hayati bir zaman tamponu sağlayarak çıkarma planının kalıcılaşmasına yardımcı oldu. Fortitude bu nedenle modern savaşta aldatmanın yalnız taktik değil, operasyonel zaman yönetimi aracı olduğunu kanıtlayan temel örneklerden biridir.",
+      "accuracyNote": "Normandiya bağlamı doğru, ancak Fortitude'un operasyonel ayrıntıları film odağı gereği arka planda kalır.",
+      "whyInteresting": "Sahte tanklar ve yanlış radyo trafiği gibi görünürde küçük hamlelerin savaşın ritmini değiştirebilmesi dikkat çekicidir.",
+      "misconception": "D-Day'in yalnızca doğrudan askeri güçle kazanıldığı ve aldatma operasyonlarının ikincil kaldığı düşünülür.",
+      "nextTopics": [
+        "Omaha Plajı",
+        "Hava İndirmeleri",
+        "Yapay Limanlar"
+      ],
+      "sources": [
+        {
+          "title": "Operation Fortitude",
+          "url": "https://www.britannica.com/event/Operation-Fortitude",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "D-Day Deception Plans",
+          "url": "https://www.iwm.org.uk/history/5-deception-plans-for-d-day",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Normandy Invasion",
+          "url": "https://www.britannica.com/event/Normandy-Invasion",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-136-canadian-beaches",
+        "tf26-140-memory"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Saving Private Ryan sahil gerilimini güçlü verir; True Frame Fortitude katmanını görünür hale getirir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ikinci-dunya-savasi",
+        "normandiya",
+        "d-day",
+        "fortitude-aldatmasi",
+        "true-frame"
+      ],
+      "spoilerNote": "Saving Private Ryan hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film cephe deneyimini öne çıkarır; tarihsel tabloda çıkarmanın başarısı, öncesindeki uzun aldatma ve istihbarat operasyonuyla yakından bağlıydı.",
+      "whyItMatters": "Sahte tanklar ve yanlış radyo trafiği gibi görünürde küçük hamlelerin savaşın ritmini değiştirebilmesi dikkat çekicidir.",
+      "isFlagship": true,
+      "quickRealityCheck": "Normandiya'da ilk gün başarısı sadece sahildeki kuvvete mi bağlıydı, yoksa Alman yedeklerinin yanlış yerde tutulması da belirleyici miydi?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-133-airborne",
+      "title": "Hava İndirmeleri",
+      "subtitle": "Küçük ayrıntı, büyük tarih",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "era": "Modern Tarih",
+      "region": "Normandiya",
+      "themes": [
+        "Savaş",
+        "Çıkarma",
+        "Hafıza"
+      ],
+      "whatWeSee": "Saving Private Ryan, paraşütçüleri gecenin kaosunda dağılmış timler halinde gösteriyor: yanlış inişler, kırık telsizler ve anlık kararlarla tutulan köprüler. Büyük cephe savaşı başlamadan önce küçük birliklerin birbirini ses ve işaretlerle bulmaya çalışması gerilimi yükseltiyor. Film, hava indirmeyi tek hamle değil, parçalı bir hayatta kalma ve görev tamamlama mücadelesi gibi kuruyor.",
+      "realHistory": "6 Haziran 1944 gecesi Amerikan 82. ve 101. Hava İndirme tümenleri, Utah sahilinin gerisindeki yol kavşaklarını, set geçitlerini ve köprüleri ele geçirmek için Normandiya'ya atıldı. Amaç, Alman takviye hareketini yavaşlatmak ve sabah kıyıya çıkan birliklerin kanatlarını korumaktı. Gece uçuşu, bulut, uçaksavar ateşi ve navigasyon sorunları yüzünden çok sayıda paraşütçü planlanan noktaların dışına indi. Komuta düzeni ilk saatlerde dağıldı, fakat küçük tim inisiyatifi belirleyici oldu.\n\nDağılmış birlikler telefon hatlarını kesti, kavşaklara pusu kurdu, köprüleri tuttu veya imha etti. Sainte-Mere-Eglise gibi noktalar sembolik önem kazansa da asıl etki, yüzlerce yerel eylemin aynı anda Alman savunma ritmini bozmasıydı. Fransız direnişinden gelen rota ve hareket bilgisi de toparlanmayı hızlandırdı. Kayıplar yüksekti, fakat Alman karşı taarruzlarının koordinasyonu gecikti. Hava indirme başarısı tek bir kahramanlık anından değil, dağınık birliklerin görev önceliğini koruyabilmesinden doğdu. Bu deneyim, sonraki doktrinlerde küçük timlerin bağımsız karar kapasitesine verilen önemi artırdı.\n\nOperasyonun bir başka dersi iletişim kırılganlığıydı. Telsiz kaybı ve harita hatalarına rağmen alt rütbe komutanların yerel hedef önceliği koruması, genel planın çökmesini engelledi. Bu yaklaşım daha sonra NATO eğitimlerinde görev komutası ilkesini güçlendirdi: merkez niyeti belirler, sahadaki tim koşula göre uygulamayı uyarlayabilir. Bu model günümüz birleşik harekat planlamasında da referans olmaya devam ediyor.",
+      "accuracyNote": "Dağınık iniş ve belirsizlik temsili isabetli. Kronoloji doğal olarak sıkıştırılmış ve bazı birim etkileri sadeleştirilmiş.",
+      "whyInteresting": "Aynı operasyon, hem planlı askeri mühendislik hem de sahada doğaçlama problem çözme sınavı olarak işliyor.",
+      "misconception": "Hava indirme çoğu zaman düzenli iniş planı gibi düşünülür; oysa sahada dağınıklık norm, toparlanma becerisi belirleyicidir.",
+      "nextTopics": [
+        "Omaha Plajı",
+        "Fortitude Aldatması",
+        "Yapay Limanlar"
+      ],
+      "sources": [
+        {
+          "url": "https://www.britannica.com/event/Normandy-Invasion"
+        },
+        {
+          "url": "https://www.army.mil/article/116382/d-day-the-airborne-assault"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-134-mulberry-harbours",
+        "tf26-135-hedgerows",
+        "tf26-136-canadian-beaches"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Filmdeki paraşüt sahneleri, True Frame okumasında D-Day'in arka plandaki lojistik kapı açma operasyonuna bağlanıyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ikinci-dunya-savasi",
+        "normandiya",
+        "d-day",
+        "hava-i-ndirmeleri",
+        "true-frame"
+      ],
+      "spoilerNote": "Saving Private Ryan hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film karmaşayı doğru yakalıyor, ancak etkiyi çoğunlukla bireysel hikayelerle veriyor. Gerçekte sonuç, çok sayıda timin eşzamanlı küçük hamlelerinden çıktı.",
+      "whyItMatters": "Aynı operasyon, hem planlı askeri mühendislik hem de sahada doğaçlama problem çözme sınavı olarak işliyor.",
+      "isFlagship": false,
+      "quickRealityCheck": "Normandiya'da dengeyi gerçekten ne çevirdi: tek bir büyük çarpışma mı, yoksa gece boyunca tutulan geçitler mi?",
+      "lastReviewedAt": "2026-06-27"
+    }
+  ]
+}

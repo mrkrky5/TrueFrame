@@ -1,0 +1,370 @@
+{
+  "patchVersion": 1,
+  "locale": "tr",
+  "sourceFile": "data/cards.tr.json",
+  "chunks": [
+    73,
+    74
+  ],
+  "createdAt": "2026-06-28",
+  "notes": "source-aware editorial patch for tr-chunk-073 and tr-chunk-074; Chernobyl trial/energy politics cleanup, Hidden Figures/NASA source strengthening, flagship expansions, repeated-paragraph and generic-field cleanup",
+  "patches": [
+    {
+      "id": "tf26-159-trial",
+      "set": {
+        "subtitle": "Mahkeme sahnesi ve resmî suç anlatısı",
+        "whatWeSee": "Chernobyl finali, teknik açıklamayı bir mahkeme sahnesine sıkıştırır. Legasov, jürinin önünde RBMK tasarım kusurunu, AZ-5 düğmesini ve Sovyet gizlilik kültürünü anlatır; izleyici felaketi sonunda herkesin duyduğu bir hakikat anı gibi yaşar. Sahne dramatik olarak çok etkilidir, fakat tarihsel karşılığı bire bir duruşma kaydı değildir. Dizi, gerçek davayı, Legasov’un Viyana raporu ve sonradan açığa çıkan tasarım tartışmalarıyla birleştirerek anlatır.",
+        "realHistory": "1987’de Çernobil santralinin bazı yöneticileri ve mühendisleri Sovyet mahkemesinde yargılandı. Santral müdürü Viktor Bryukhanov, başmühendis Nikolai Fomin ve başmühendis yardımcısı Anatoly Dyatlov en ağır cezalara çarptırıldı; diğer santral ve denetim görevlilerine daha kısa cezalar verildi. Bu dava gerçekti, fakat dizideki final sahnesi gibi tam şeffaf, teknik gerçeğin özgürce açıldığı bir forum değildi.\n\nEn önemli ayrım Legasov’un rolündedir. Dizi onu mahkeme kürsüsüne çıkararak RBMK tasarım kusurunu seyirciye anlaşılır biçimde anlattırır. Tarihte Legasov’un uluslararası ölçekte en kritik açıklaması 1986’daki Viyana/IAEA sunumuyla ilişkilidir; 1987 davasındaki dramatik ifşa ise anlatı amaçlı bir birleşimdir. Gerçek tartışma daha dağınıktı: ilk Sovyet açıklamaları operatör ihlallerine ağırlık verirken, sonraki değerlendirmeler RBMK tasarımı, güvenlik kültürü, eğitim ve iletişim zafiyetlerini daha merkezi hale getirdi.\n\nBu yüzden mahkeme anlatısı, “suçlu kim?” sorusundan daha büyüktür. Santral personelinin prosedür hataları vardı; ancak tasarım bilgisinin kapalı dolaşımı, bağımsız denetimin zayıflığı ve kötü haberin yukarı taşınmasını zorlaştıran idari kültür de aynı zincirin parçasıydı. Dizi mahkemeyi tek bir hakikat patlamasına dönüştürür; tarihsel okuma ise hakikatin yıllar içinde, raporlar ve arşivler açıldıkça genişlediğini gösterir.",
+        "accuracyNote": "Davadaki cezalar ve kurumsal sorumluluk tartışması gerçektir; Legasov’un finaldeki mahkeme anlatımı ise farklı tarihsel kanalları birleştiren dramatik bir kurgudur.",
+        "whyInteresting": "Mahkeme sahnesi, teknik bir felakette hukukun yalnızca ceza değil, hangi sorumluluk anlatısının resmileşeceği meselesi olduğunu gösterir.",
+        "misconception": "Dizideki mahkeme sahnesinin doğrudan tarihsel tutanak olduğu sanılabilir. Gerçekte sahne, dava, teknik raporlar ve Legasov’un sonraki mirasını birleştiren dramatik bir kompozisyondur.",
+        "sources": [
+          {
+            "title": "IAEA - INSAG-7: The Chernobyl Accident",
+            "url": "https://www.iaea.org/publications/3786/the-chernobyl-accident-updating-of-insag-1",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Washington Post - Top Chernobyl Officials Sentenced",
+            "url": "https://www.washingtonpost.com/archive/politics/1987/07/30/top-chernobyl-officials-sentenced/b237aaa7-1d42-405b-8d55-5e7e4e952628/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "National Security Archive - Top Secret Chernobyl",
+            "url": "https://nsarchive.gwu.edu/briefing-book/nunn-lugar-russia-programs/2019-08-15/top-secret-chernobyl-nuclear-disaster-through-eyes-soviet-politburo-kgb-us-intelligence",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-151-reactor-test",
+          "tf26-156-soviet-secrecy",
+          "tf26-160-energy-politics"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "mediaConnection": "Chernobyl’in final duruşması, gerçek 1987 yargılamasını Legasov’un IAEA çizgisindeki teknik açıklamalarıyla birleştirerek seyirciye okunabilir bir hakikat sahnesi kurar.",
+        "mediaChanged": "Dizi mahkemeyi tek ve açık bir yüzleşme anı gibi gösterir. Tarihte dava gerçekti, fakat tasarım kusuru ve güvenlik kültürü tartışması daha parçalı raporlar, sınırlı açıklamalar ve sonradan açılan arşivler üzerinden ilerledi.",
+        "whyItMatters": "Teknik felaketlerde adalet, yalnız bireysel suçun değil kurumların sakladığı risk bilgisinin de görünür kılınmasına bağlıdır.",
+        "quickRealityCheck": "Legasov’un dizideki mahkeme ifşası gerçek duruşma tutanağı mı, yoksa teknik raporları ve tarihsel sonucu birleştiren dramatik bir sahne mi?",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-160-energy-politics",
+      "set": {
+        "subtitle": "Enerji politikası güvenlik kültürüne çarpınca",
+        "whatWeSee": "Chernobyl, enerji politikasını bir gece vardiyasındaki baskı, geciken itiraf ve hiyerarşik emirler üzerinden anlatır. Kontrol odası sahneleri, reaktörün yalnız teknik bir makine değil, kurumların karar kültürüyle çalışan siyasal bir sistem olduğunu hissettirir. Dizi bu gerilimi kişisel çatışmalara indirerek okunur kılar; gerçek tarih ise nükleer kapasite hedefleri, RBMK tasarım tercihleri, bağımsız denetim eksikliği ve kriz iletişimini aynı risk zincirinde birleştirir.",
+        "realHistory": "### Büyüme hedefi\n\nSovyet nükleer programı, yalnız elektrik üretimi için değil teknolojik prestij, ağır sanayi kapasitesi ve merkezi planlama başarısı için de önemliydi. Büyük güçlü RBMK reaktörleri, bu hedefe uygun biçimde seri üretilebilir ve yüksek kapasite sağlayabilir görülüyordu. Üstelik bu reaktör tipi çevrimiçi yakıt değişimine izin verdiği için üretim sürekliliği açısından cazipti. Fakat bu tercih, güçlü bir güvenlik kültürü ve açık geri bildirim mekanizması gerektiriyordu. INSAG-7’nin vurguladığı sorun tam da burada başlar: tasarımcılar, işletmeciler, üreticiler ve düzenleyiciler arasında işletme deneyimi yeterince etkili biçimde paylaşılmıyor, güvenlik bilgisi kapalı kurumsal kanallarda kalıyordu.\n\nBu nedenle Çernobil’i yalnız kontrol odasındaki son saatlerle açıklamak eksik olur. Test gecesindeki kararlar felaketi tetikledi, ama o kararların riskli hale gelmesini sağlayan ortam daha önce oluşmuştu. Operatörler yüksek üretim beklentisi, hiyerarşik disiplin ve teknik belirsizlik arasında çalışıyordu. Reaktörün bilinen sorunları, sahadaki eğitim ve prosedür diline yeterince açık biçimde çevrilmediğinde, karmaşık sistem insan hatasına daha açık hale geldi.\n\n### Tasarım ve denetim\n\nRBMK tasarımındaki pozitif boşluk katsayısı, düşük güç koşullarında kararsızlık ve kontrol çubuklarının ilk anda reaktiviteyi artırabilen uç yapısı, kazanın teknik bağlamını oluşturdu. Dizi bu kusuru finalde sade ve akılda kalıcı anlatır; tarihsel raporlar ise daha karmaşık bir tablo çizer. Sorun yalnız “kötü tasarım” değildi. Tasarım bilgisinin işletmeciye nasıl aktarıldığı, test prosedürlerinin nasıl yazıldığı, operatör eğitiminde hangi senaryoların çalışıldığı ve düzenleyicinin üretim baskısına karşı ne kadar bağımsız durabildiği de aynı derecede belirleyiciydi.\n\n26 Nisan 1986 gecesindeki güvenlik testinde prosedür sınırlarının zorlanması, düşük güç koşulları, bazı koruma sistemlerinin test akışı içinde devre dışı kalması ve vardiya devri felaketi hızlandırdı. Yine de tabloyu “birkaç kişinin yanlış düğmeye basması” diye kapatmak hatalı olur. Denetim rejimi üretim hedefleri ve kurumsal prestij karşısında yeterince güçlü değildi. Kötü haberin yukarı taşınmasının kariyer riski gibi görülmesi, teknik uyarının zamanında güvenlik kararına dönüşmesini zorlaştırdı.\n\n### Krizden rejime\n\nPatlama sonrasında enerji siyaseti artık yalnız santral tasarımıyla değil kamu iletişimiyle de ölçülmeye başladı. Pripyat tahliyesindeki gecikme, ilk resmî açıklamaların yetersizliği ve uluslararası radyasyon ölçümlerinin Sovyet açıklamasından önce devreye girmesi, teknik krizi güven krizine çevirdi. Çernobil’den sonra uluslararası nükleer güvenlik dilinde sınır ötesi bildirim, acil yardım ve şeffaf raporlama daha merkezi hale geldi. IAEA’nın Erken Bildirim Sözleşmesi’nin 1986’da, kazadan hemen sonra kabul edilmesi bu dönüşümün somut işaretidir.\n\nDizi bireysel suçluluk ve korku üzerinden ilerler; tarihsel ders daha geniştir. Yüksek teknoloji sistemlerinde güvenlik, sadece iyi tasarımla değil, hatayı saklamayan kurumlar, bağımsız denetim, sürekli eğitim ve kamuya karşı zamanında sorumlulukla korunur. Enerji politikası hız, prestij ve üretim hedefi üzerine kurulup risk bilgisini kapatırsa, teknik arıza siyasal felakete dönüşebilir. Çernobil’in kalıcı uyarısı budur: nükleer güvenlik, mühendislik çiziminin yanında kurumların gerçeği ne kadar erken kabul edebildiğine de bağlıdır.",
+        "accuracyNote": "Dizi kontrol odası baskısını doğru bir tarihsel duyguya bağlar; fakat enerji siyaseti düzeyindeki risk, tasarım kusuru, düzenleyici zayıflık ve kriz iletişimi birlikte okununca daha netleşir.",
+        "whyInteresting": "Çernobil, enerji güvenliğinin yalnız reaktör fiziği değil, kurumların hata bilgisini nasıl taşıdığı sorusu olduğunu gösterir.",
+        "misconception": "Kazanın yalnızca operatörlerin test gecesindeki dikkatsizliğiyle açıklanabileceği sanılır. Sonraki teknik değerlendirmeler tasarım, denetim ve güvenlik kültürünü aynı ölçüde merkeze alır.",
+        "sources": [
+          {
+            "title": "IAEA - INSAG-7: The Chernobyl Accident",
+            "url": "https://www.iaea.org/publications/3786/the-chernobyl-accident-updating-of-insag-1",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "U.S. NRC - Backgrounder on Chernobyl Accident",
+            "url": "https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/chernobyl-bg",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "IAEA - Convention on Early Notification of a Nuclear Accident",
+            "url": "https://www.iaea.org/topics/nuclear-safety-conventions/convention-early-notification-nuclear-accident",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-151-reactor-test",
+          "tf26-156-soviet-secrecy",
+          "tf26-159-trial"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "mediaConnection": "Chernobyl’in kontrol odası ve bürokrasi sahneleri, RBMK teknik risklerinin Sovyet enerji politikası ve güvenlik kültürüyle nasıl birleştiğini tartışmaya açar.",
+        "mediaChanged": "Dizi enerji siyasetini kişisel baskı ve suçluluk üzerinden yoğunlaştırır. Tarihsel tablo ise üretim hedefi, tasarım geri bildirimi, düzenleyici zayıflık ve uluslararası bildirim rejimini birlikte içerir.",
+        "whyItMatters": "Enerji sistemlerinde güvenlik, teknik tasarımdan ayrı düşünülemez; kurumlar risk bilgisini sakladığında küçük görünen kararlar büyük toplumsal hasara dönüşür.",
+        "quickRealityCheck": "Çernobil’i anlamak için yalnız reaktörün tasarımına bakmak yeterli mi, yoksa denetim ve bilgi saklama kültürü de aynı zincirin parçası mı?",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-161-human-computers",
+      "set": {
+        "subtitle": "Uzay çağının elle yapılan hesap altyapısı",
+        "whatWeSee": "Hidden Figures, roketlerin görkemini hesap odasındaki kadın matematikçilerin görünmez emeğiyle dengeler. Filmde denklemler yalnız tahta süsü değildir; uçuş kararı, yeniden giriş penceresi ve görev güvenliğiyle doğrudan bağlantılıdır. Bu yüzden “human computer” ifadesi nostaljik bir unvan gibi değil, elektronik bilgisayarların henüz sınırlı olduğu bir dönemde hayati doğrulama görevi gibi görünür.",
+        "realHistory": "NACA ve ardından NASA’da “computer” başlangıçta bir makine değil, matematiksel hesap yapan insan için kullanılan bir iş unvanıydı. Langley’de 1930’lardan itibaren yüzlerce kadın aerodinamik veri, rüzgâr tüneli sonucu, uçuş tablosu ve yörünge hesabı üzerinde çalıştı. Siyah kadın matematikçilerin yer aldığı West Area Computing birimi, bu teknik emeğin hem vazgeçilmez hem de ayrımcı kurallar altında tutulmuş yüzüydü.\n\nKatherine Johnson, Dorothy Vaughan ve Mary Jackson bu yapının üç farklı yönünü temsil eder. Johnson yörünge ve yeniden giriş hesaplarında öne çıktı; Vaughan West Area Computing’i yönetti ve elektronik bilgisayar döneminde FORTRAN/programlama tarafına geçti; Jackson mühendisliğe geçerek NASA’nın ilk Siyah kadın mühendislerinden biri oldu. İş yalnız “hesap yapmak” değildi: sonuçları kontrol etmek, elektronik makinelerin çıktısını doğrulamak ve sayıları mühendislik kararına çevirmek gerekiyordu.\n\nFilm haklı olarak birkaç kişiye odaklanır; tarihsel tablo daha geniştir. İnsan bilgisayarlar, elektronik bilgisayarların rakibi değil, geçiş döneminin denetleyicisi ve öğreticisiydi. Bu nedenle hikâye yalnız temsil meselesi değil, NASA’nın güvenlik ve doğrulama kültürünün nasıl kurulduğunu gösteren teknik bir altyapı hikâyesidir.",
+        "accuracyNote": "Film ana katkıları doğru kişilere bağlar; ancak West Area Computing ve Langley hesap emeğinin yıllara yayılan geniş ekip yapısını doğal olarak daraltır.",
+        "whyInteresting": "Uzay çağının en ileri teknoloji imgesi, ilk aşamada elle yapılan hesap, çapraz kontrol ve kolektif doğrulama üzerine kuruluydu.",
+        "misconception": "“İnsan bilgisayar” unvanı basit büro işi sanılır. Oysa bu ekipler uçuş güvenliğiyle doğrudan ilişkili karmaşık mühendislik verilerini işliyor ve doğruluyordu.",
+        "sources": [
+          {
+            "title": "NASA - Langley’s Computers, 1935–1970",
+            "url": "https://www.nasa.gov/history/langleys-computers-1935-1970/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "NASA - A Human Computer Hidden No More",
+            "url": "https://www.nasa.gov/image-article/human-computer-hidden-no-more/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "National Park Service - Places of Hidden Figures",
+            "url": "https://www.nps.gov/articles/000/places-of-hidden-figures.htm",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-162-segregation",
+          "tf26-163-mercury-program",
+          "tf26-165-katherine-johnson"
+        ],
+        "readingTimeMinutes": 2,
+        "tags": [
+          "uzay-yarisi",
+          "nasa",
+          "bilim",
+          "insan-bilgisayarlar",
+          "true-frame"
+        ],
+        "mediaConnection": "Hidden Figures’in hesap odası sahneleri, NASA Langley’deki insan bilgisayar emeğinin gerçek kurumsal geçmişine bağlanır.",
+        "mediaChanged": "Film birkaç figürü merkezde tutarak emeği görünür kılar; gerçek tarih ise yüzlerce çalışanın yıllara yayılan hesap, kontrol ve programlama geçişiyle kurulmuş daha geniş bir ağdır.",
+        "whyItMatters": "Güvenli uzay uçuşu, yalnız roket gücüyle değil, sayısal doğrulamayı ciddiye alan insan ekipleriyle mümkün oldu.",
+        "quickRealityCheck": "Elektronik bilgisayarlar gelince insan bilgisayarlar gereksiz mi kaldı, yoksa yeni sistemlerin doğrulayıcısı ve eğiticisi mi oldular?",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-162-segregation",
+      "set": {
+        "subtitle": "Langley’de bilim, Jim Crow düzenine takılınca",
+        "whatWeSee": "Hidden Figures, Langley’deki ayrımcılığı tabelalar, ayrı alanlar ve günlük hareket mesafesi üzerinden somutlaştırır. Katherine Johnson’ın tuvalet sahneleri, teknik yetkinlikle kurumsal dışlanmanın aynı kampüste nasıl yan yana durduğunu hissettirir. Film bazı olayları tek karakterde ve tek anda toplar; fakat gösterdiği temel çelişki gerçektir: aynı uzay programı hem yüksek teknoloji üretir hem de çalışanlarını ırk ve cinsiyet çizgileriyle ayırır.",
+        "realHistory": "Langley, Virginia’daki Jim Crow düzeninin etkisi altındaydı. NACA döneminde Siyah kadın matematikçiler West Area Computing adı verilen ayrı bir birimde çalıştı; yemek alanları, tuvaletler ve bazı çalışma düzenleri beyaz çalışanlardan ayrılmıştı. National Archives’ın yayımladığı 1958 tarihli belge, West Area Computing Unit’in resmen dağıtılıp çalışanların farklı program ofislerine entegre edildiğini gösterir. Bu, ayrımcılığın bir günde ortadan kalktığı anlamına gelmez; kurumsal alışkanlıklar, terfi bariyerleri ve toplantı erişimi gibi görünmez engeller daha uzun süre etkili oldu.\n\nDorothy Vaughan’ın 1949’da West Area Computing’in başına geçmesi, hem teknik yeterliliğin hem de sınırlı kurumsal görünürlüğün örneğiydi. Mary Jackson’ın mühendisliğe geçebilmek için eğitim engellerini aşması, ayrımcılığın yalnız mekânsal değil mesleki bir sınır olduğunu gösterir. Katherine Johnson’ın kısa süre sonra West Area’dan başka bir teknik birime geçmesi ise bu kadınların yalnız “ayrı bölümde çalışan yardımcı personel” olmadığını, doğrudan kritik mühendislik işine katıldığını kanıtlar.\n\nFilm ayrımcılığı anlaşılır bir sembole sıkıştırır; tarihsel gerçek daha sistemiktir. Ayrı tuvalet ya da yemek alanı, tek başına küçük bir rahatsızlık değil, kimin uzman sayılacağına karar veren bir kurum diliydi.",
+        "accuracyNote": "West Area Computing, ayrı tesis uygulamaları ve 1958’deki entegrasyon belgeli gerçeklerdir. Filmde bazı günlük ayrımcılık anları dramatik yoğunluk için birleştirilmiştir.",
+        "whyInteresting": "Ay’a giden bilimsel programın içinde, aynı anda ırk ayrımcılığı ve cinsiyet bariyerleri çalışıyordu.",
+        "misconception": "Federal araştırma kurumlarının uzay yarışı döneminde tamamen meritokratik işlediği sanılır. Langley örneği, teknik başarı ile kurumsal eşitsizliğin aynı anda var olabildiğini gösterir.",
+        "sources": [
+          {
+            "title": "National Archives - Dissolution of the West Area Computers Unit",
+            "url": "https://www.archives.gov/philadelphia/highlights/west-area-computers-unit",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "NASA - Dorothy Vaughan",
+            "url": "https://www.nasa.gov/people/dorothy-vaughan/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "National Park Service - Places of Hidden Figures",
+            "url": "https://www.nps.gov/articles/000/places-of-hidden-figures.htm",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-161-human-computers",
+          "tf26-165-katherine-johnson",
+          "tf26-168-computers-transition"
+        ],
+        "readingTimeMinutes": 2,
+        "mediaConnection": "Hidden Figures’in ayrı tuvalet ve çalışma alanı sahneleri, Langley’deki West Area Computing uygulaması ve 1958 entegrasyon belgeleriyle tarihsel zemine oturur.",
+        "mediaChanged": "Film ayrımcılığı güçlü sembolik sahnelerle görünür kılar. Tarihte mesele yalnız tabela değil, terfi, toplantı erişimi, görev dağılımı ve kurumsal tanınma üzerinden işleyen uzun süreli bir eşitsizlik düzeniydi.",
+        "whyItMatters": "Teknik ilerleme, onu üreten insanların eşit görülmediği kurumlarda eksik kalır; Hidden Figures bu çelişkiyi uzay tarihi üzerinden görünür kılar.",
+        "quickRealityCheck": "West Area Computing’in 1958’de dağıtılması ayrımcılığın tamamen bittiği anlamına mı geliyordu, yoksa yalnız resmî yapının değiştiğini mi gösteriyordu?",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-163-mercury-program",
+      "set": {
+        "subtitle": "İlk insanlı uçuşların hesap ve test disiplini",
+        "whatWeSee": "Hidden Figures’da Mercury Programı, fırlatma heyecanı ile hesap odası baskısını aynı anda taşır. Film roketi, astronotu ve matematik ekibini tek bir zaman baskısında buluşturur. Bu duygu doğru bir tarihsel çekirdeğe dayanır; ancak programın gerçek ritmi birkaç büyük sahneden değil, tekrar eden testler, ertelemeler, arıza analizleri ve çapraz doğrulamalardan oluşuyordu.",
+        "realHistory": "Project Mercury, 1958’de başlatılan ve 1963’te tamamlanan ABD’nin ilk insanlı uzay uçuşu programıydı. NASA’nın tanımladığı ana hedefler bir insanı Dünya yörüngesine yerleştirmek, insanın uzay ortamında çalışıp çalışamayacağını anlamak ve hem astronotu hem uzay aracını güvenli biçimde geri getirmekti. Bu hedefler basit görünse de, o dönem için roket güvenilirliği, yeniden giriş ısısı, haberleşme, tıbbi izleme ve iniş kurtarma süreçleri hâlâ deneysel sınırlar içindeydi.\n\nAlan Shepard’ın 1961’deki Freedom 7 uçuşu ABD için ilk insanlı uzay adımıydı; John Glenn’in 1962’de Friendship 7 ile üç yörüngelik uçuşu ise Sovyetlerin Gagarin başarısından sonra kritik bir prestij ve güvenlik sınavı oldu. Glenn uçuşunda elektronik bilgisayarlar kullanılıyordu, fakat çıktılar hâlâ insan uzmanlar tarafından kontrol ediliyordu. Katherine Johnson’ın hesap doğrulaması bu geçiş döneminin simgesidir: mesele makineye karşı insan değil, makine çıktısının güvenilirliğini kanıtlayan çok katmanlı bir denetim zinciriydi.\n\nMercury’nin kalıcı etkisi, tek bir kahraman uçuşundan fazladır. Görev kontrol disiplini, test kültürü ve hata toleransı Gemini ile Apollo’nun temelini attı. Hidden Figures bu emeği birkaç dramatik anla görünür kılar; tarih ise başarıyı binlerce kişinin kurduğu mühendislik rutini olarak gösterir.",
+        "accuracyNote": "Mercury’nin zaman baskısı ve Johnson’ın doğrulama rolü NASA kaynaklarıyla uyumludur; test tekrarları ve teknik kurum yapısı filmde doğal olarak sıkıştırılır.",
+        "whyInteresting": "Mercury, uzaya çıkmanın yalnız cesaret değil, ölçüm, doğrulama ve tekrar eden test disiplini olduğunu gösterir.",
+        "misconception": "Mercury’nin başarısı çoğu zaman yalnız astronot cesaretiyle anlatılır. Oysa programın güvenliği, hesap ekipleri, test mühendisleri ve görev kontrol zinciriyle sağlandı.",
+        "sources": [
+          {
+            "title": "NASA - Project Mercury Overview",
+            "url": "https://www.nasa.gov/project-mercury/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "NASA - John Glenn and Friendship 7",
+            "url": "https://www.nasa.gov/history/60-years-ago-john-glenn-the-first-american-to-orbit-the-earth-aboard-friendship-7/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "NASA - Katherine Johnson Biography",
+            "url": "https://www.nasa.gov/centers-and-facilities/langley/katherine-johnson-biography/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-161-human-computers",
+          "tf26-165-katherine-johnson",
+          "tf26-166-cold-war-prestige"
+        ],
+        "readingTimeMinutes": 2,
+        "mediaConnection": "Hidden Figures, Mercury dönemindeki hesap doğrulama baskısını insan hikâyeleriyle görünür kılar; gerçek program bunu test ve görev kontrol kültürünün içine yerleştirir.",
+        "mediaChanged": "Film birkaç kritik fırlatma ve hesap anını öne çıkarır. Tarihte Mercury, çok sayıda insansız test, erteleme, arıza analizi ve kurumlar arası mühendislik koordinasyonuyla ilerledi.",
+        "whyItMatters": "Mercury’nin mirası, Apollo’ya giden yolda ölçemediğin riski yönetemeyeceğini NASA kültürüne yerleştirmesidir.",
+        "quickRealityCheck": "John Glenn uçuşunda kritik olan sadece roketin kalkması mıydı, yoksa dönüş koridorunun hesapla güvenceye alınması mı?",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-164-apollo-11",
+      "set": {
+        "subtitle": "Ay inişinin görünmeyen hesap zinciri",
+        "whatWeSee": "Hidden Figures, Apollo 11’i doğrudan yeniden sahnelemez; ana dramatik odağı Mercury dönemi, Langley’deki hesap emeği ve ayrımcılık düzenidir. Yine de film, bu emeğin Ay’a giden uzun zincire nasıl bağlandığını güçlü biçimde hissettirir. Seyirci için Apollo 11, ekranda uzun bir görev sekansından çok, Katherine Johnson ve diğer insan bilgisayarların yaptığı işin tarihsel ufku haline gelir.",
+        "realHistory": "### Mercury’den Apollo’ya\n\nApollo 11, 16 Temmuz 1969’da Neil Armstrong, Michael Collins ve Buzz Aldrin’i taşıyarak fırlatıldı; Eagle Ay Modülü 20 Temmuz’da Ay’a indi ve Armstrong ile Aldrin insanlığın ilk Ay yürüyüşünü gerçekleştirdi. Bu başarı, Hidden Figures’ın ana zaman çizgisinden birkaç yıl sonradır. Bu yüzden filmi Apollo 11’in doğrudan anlatımı gibi okumak yanlış olur. Daha doğru bağlantı, Mercury döneminde kurulan hesap doğrulama, görev kontrol ve insan-makine işbirliği kültürünün Apollo’ya taşınmasıdır.\n\nKatherine Johnson’ın NASA kariyeri bu sürekliliği iyi gösterir. Johnson, Alan Shepard ve John Glenn uçuşlarıyla ilişkilendirilen yörünge hesaplarından sonra Apollo görevlerinde de navigasyon ve uçuş hesaplarıyla anıldı. Ancak Apollo 11 tek kişinin hesap defteriyle açıklanamaz. Langley, Johnson Space Center, Kennedy Space Center, MIT Instrumentation Laboratory, yüklenici şirketler, görev kontrol ekipleri ve binlerce mühendis aynı sistemin parçalarıydı. Hidden Figures’ın değeri, bu büyük zincirde çoğu zaman görünmez kalan kadın ve Siyah uzman emeğini merkeze almasıdır.\n\n### Teknik zincir\n\nApollo 11’in başarısı, Saturn V roketinden Apollo Guidance Computer’a, Ay yörüngesi buluşmasından iniş penceresine kadar çok katmanlı bir doğrulama sistemi gerektirdi. Uzay aracı üç ana parçadan oluşuyordu: komuta modülü Columbia, servis modülü ve Ay yüzeyine inen Eagle. Her aşama ayrı bir hesap ve karar disiplini gerektiriyordu. Fırlatma penceresi, Dünya yörüngesinden Ay transferine geçiş, Ay yörüngesi, iniş ve dönüş zamanlaması birbirine bağlıydı; küçük bir hata zincirin sonraki halkasında büyüyebilirdi.\n\nArmstrong’un iniş sırasında otomatik rotayı değiştirerek daha güvenli bir alana yönelmesi, görevin yalnız otomasyona bırakılmadığını gösterir. Uçuş bilgisayarları kritik rol oynadı; fakat yerdeki ekipler, simülasyonlar, kontrol listeleri ve anlık karar protokolleri aynı derecede belirleyiciydi. Burada Hidden Figures’ın daha erken döneme dair anlattığı şey Apollo’ya uzanır: güven, tek hesap anından değil, tekrar tekrar kontrol edilen bir zincirden doğar. Johnson ve onun gibi hesap uzmanlarının mirası da tam bu noktada görünür hale gelir.\n\n### Küresel görüntü\n\nApollo 11 aynı zamanda bir medya ve diplomasi olayıydı. NASA, Armstrong’un ilk adımını yaklaşık 650 milyon kişinin televizyondan izlediğini belirtir. Ay yüzeyindeki görüntü, Soğuk Savaş rekabetinde ABD için güçlü bir yumuşak güç gösterisine dönüştü. State Department anlatısı da Apollo 11’i yalnız teknolojik değil diplomatik bir başarı olarak çerçeveler: görev, ABD’nin dünyaya kendisini bilimsel lider, örgütlü sanayi gücü ve ortak insanlık hayalinin taşıyıcısı olarak sunmasına yardım etti.\n\nBu nedenle Apollo 11’i yalnız astronot portresiyle anlatmak eksik kalır. Görev, kamusal hafızada Armstrong’un adımıyla simgeleşti; arka planda ise matematikçiler, yazılımcılar, mühendisler, teknisyenler, kalite ekipleri, yer istasyonları ve görev kontrol uzmanları vardı. Hidden Figures, bu arka planın bir bölümünü görünür kılarak Ay inişini daha adil bir tarih haritasına yerleştirir. Apollo 11’in gerçek büyüklüğü, tek bir kahramanlık anı ile görünmeyen kurumsal emeğin aynı anda var olmasındadır.",
+        "accuracyNote": "Apollo 11’in tarihleri, 650 milyonluk yayın tahmini ve görev mimarisi NASA kaynaklarıyla uyumludur. Film Apollo 11’i doğrudan sahnelemez; bağlantı Johnson’ın kariyeri ve NASA’nın hesap/doğrulama kültürü üzerinden kurulmalıdır.",
+        "whyInteresting": "Apollo 11, tek bir astronot anı gibi hatırlansa da onu mümkün kılan şey yıllara yayılan hesap, yazılım, test ve görev kontrol zinciridir.",
+        "misconception": "Apollo 11’in yalnız Cape Kennedy’deki fırlatma ve Ay’daki astronot cesaretiyle başarıldığı sanılır. Gerçekte başarı, çok merkezli teknik doğrulama ve görünmeyen emek ağının sonucuydu.",
+        "sources": [
+          {
+            "title": "NASA - Apollo 11 Mission Overview",
+            "url": "https://www.nasa.gov/history/apollo-11-mission-overview/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Smithsonian - Apollo 11 Collection",
+            "url": "https://www.si.edu/spotlight/apollo-11",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "U.S. State Department - Space Diplomacy and Apollo 11",
+            "url": "https://diplomacy.state.gov/events-listing/space-diplomacy-apollo-11-astronauts-michael-collins-and-buzz-aldrin-visit-the-national-museum-of-american-diplomacy/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "NASA - Katherine Johnson Biography",
+            "url": "https://www.nasa.gov/centers-and-facilities/langley/katherine-johnson-biography/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-161-human-computers",
+          "tf26-165-katherine-johnson",
+          "tf26-166-cold-war-prestige"
+        ],
+        "readingTimeMinutes": 3,
+        "mediaConnection": "Hidden Figures, Apollo 11’i doğrudan anlatmasa da Langley’deki hesap emeğinin Ay’a giden NASA doğrulama kültürüne nasıl bağlandığını gösterir.",
+        "mediaChanged": "Film Apollo 11’i büyük bir görev sekansı olarak kurmaz; tarihsel bağlantıyı Mercury’den Apollo’ya uzanan hesap, yazılım ve görev kontrol zinciri üzerinden okumak gerekir.",
+        "whyItMatters": "Apollo 11’i yalnız ayak izi olarak değil, görünmeyen teknik emek ağı olarak görmek uzay tarihini daha doğru ve daha adil anlatır.",
+        "quickRealityCheck": "Apollo 11’in kamusal simgesi Armstrong’un ilk adımıydı; peki görevin güvenliği yerdeki hesap, yazılım ve kontrol zinciri olmadan mümkün olabilir miydi?",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-165-katherine-johnson",
+      "set": {
+        "subtitle": "Tek deha anından kurumsal doğrulama kültürüne",
+        "whatWeSee": "Hidden Figures, Katherine Johnson’ı baskı altında doğru sayıyı bulan merkezi figür olarak gösterir. Bu tercih dramatik olarak işler: toplantıya giren, denklemi çözen ve uçuşun güvenliğini temsil eden kişi Johnson’dır. Film böylece seyirciye güçlü bir his verir: görünmeyen bir uzman, doğru anda görünür hale gelir. Gerçek tarih bu etkiyi küçültmez; sadece Johnson’ın başarısını daha geniş bir NASA hesap ve doğrulama ağına yerleştirir.",
+        "realHistory": "Katherine Johnson 1953’te NACA Langley’de çalışmaya başladı ve kısa süre sonra Flight Research Division içinde yörünge, uçuş yolu ve yeniden giriş hesaplarında öne çıktı. NASA kaynakları, Alan Shepard’ın 1961 Freedom 7 uçuşu ve John Glenn’in 1962 Friendship 7 göreviyle ilişkili hesaplarda Johnson’ın rolünü özellikle vurgular. Glenn’in elektronik bilgisayar çıktılarının Johnson tarafından elle kontrol edilmesini istemesi, erken bilgisayar dönemindeki güvenlik kültürünü iyi anlatır.\n\nAncak bu hikâye tek kişilik bir mucizeye indirgenmemelidir. Johnson’ın arkasında West Area Computing’den gelen matematik geleneği, Dorothy Vaughan’ın yöneticiliği ve programlama geçişi, Mary Jackson’ın mühendislik rolü ve çok sayıda hesapçı ile mühendisin rutin denetimi vardı. Johnson’ın büyüklüğü tam da bu sistemin içinde görülür: karmaşık denklemleri çözmek kadar, sonuçların görevin güvenli kararlarına dönüşmesini sağladı.\n\nAyrımcılık bağlamı da önemlidir. Johnson’ın başarısı, yalnız bireysel azim hikâyesi değil, Siyah kadın uzmanların uzun süre dışlandıkları kurumlarda bilgi otoritesine dönüşmesinin örneğidir. Hidden Figures ilham verici bir odak kurar; tarihsel okuma bu odağı ekip emeği, kurumsal bariyerler ve doğrulama disipliniyle tamamlar.",
+        "accuracyNote": "Johnson’ın Mercury ve Apollo dönemindeki matematik katkıları NASA tarafından belgelenmiştir; film olay sırasını ve görünürlük anlarını dramatik ritim için yoğunlaştırır.",
+        "whyInteresting": "Johnson’ın hikâyesi, bireysel dehanın ancak kurum içinde güvenilir doğrulama kültürüne dönüşünce uçuş güvenliği üretebildiğini gösterir.",
+        "misconception": "NASA’nın kritik hesaplarının birkaç izole deha tarafından tek başına yapıldığı sanılır. Gerçekte Johnson’ın rolü, geniş bir ekip ve tekrar eden kontrol zinciri içinde anlam kazanır.",
+        "sources": [
+          {
+            "title": "NASA - Katherine Johnson Biography",
+            "url": "https://www.nasa.gov/centers-and-facilities/langley/katherine-johnson-biography/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "NASA Science - Katherine Johnson",
+            "url": "https://science.nasa.gov/people/katherine-johnson/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "National Park Service - Places of Hidden Figures",
+            "url": "https://www.nps.gov/articles/000/places-of-hidden-figures.htm",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-161-human-computers",
+          "tf26-163-mercury-program",
+          "tf26-164-apollo-11"
+        ],
+        "readingTimeMinutes": 2,
+        "mediaConnection": "Hidden Figures, Johnson’ın kişisel görünürlük anını büyütür; True Frame bu anı Langley’nin hesap geleneği ve NASA doğrulama kültürü içine yerleştirir.",
+        "mediaChanged": "Film tek kahraman etkisini güçlendirir. Tarihsel süreç ise Johnson’ın olağanüstü rolünü, çok aktörlü ve yıllara yayılan bir hesap/doğrulama sistemi içinde gösterir.",
+        "whyItMatters": "Johnson’ın mirası yalnız temsil değil, sayısal güvenilirliğin insan uzmanlığıyla nasıl kurumsal standarda dönüştüğüdür.",
+        "quickRealityCheck": "John Glenn’in sayı kontrolü, makinelere güvensizlikten mi ibaretti, yoksa erken bilgisayar çağında zorunlu bir güvenlik doğrulaması mıydı?",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-166-cold-war-prestige",
+      "set": {
+        "subtitle": "Roketler, prestij ve eşitlik sınavı",
+        "whatWeSee": "Hidden Figures, NASA’daki teknik yarışı Sovyet baskısını arka planda hissettirerek anlatır. Sputnik ve Gagarin’in yarattığı panik doğrudan her sahnede görünmez; ama fırlatma takvimindeki acele, gazetelerdeki rekabet dili ve Langley’deki hesap baskısı bu atmosferi taşır. Film, ABD’nin dışarıya teknolojik üstünlük göstermeye çalışırken içeride ırk ve cinsiyet eşitsizliğini sürdürmesini aynı çerçeveye koyar.",
+        "realHistory": "1957’de Sputnik’in fırlatılması, uzayı Soğuk Savaş rekabetinin görünür sahnesine çevirdi. ABD için mesele yalnız bilimsel merak değildi; Sovyetlerin uydu ve insanlı uçuş başarıları, teknolojik kapasite, füze gücü ve ideolojik prestij açısından ciddi bir meydan okumaydı. NASA’nın kurulması, Mercury’nin hızlanması ve Kennedy’nin Ay hedefi bu baskının içinde şekillendi.\n\nUzay yarışı, dünyaya hangi sistemin geleceği temsil ettiği mesajını veriyordu. Apollo kararının arkasında keşif arzusu vardı; fakat NASA tarih yazımı, ABD-SSCB rekabetindeki prestij unsurunun da belirleyici olduğunu açıkça gösterir. Apollo 11’in küresel yayını bu nedenle yalnız bir bilim olayı değil, diplomatik ve medya gücü gösterisiydi.\n\nHidden Figures bu büyük anlatının iç çelişkisini görünür kılar. ABD, demokrasi ve özgürlük iddiasını teknolojiyle sergilerken, aynı teknoloji kurumlarında Siyah kadın çalışanlar ayrı bölümlere, terfi engellerine ve görünmez emeğe mahkûm edilebiliyordu. Bu çelişki filmi önemli kılar: uzay yarışı yalnız roketlerin değil, toplumların adalet iddialarının da sınandığı bir alandı.\n\nBu yüzden prestij kartı, “kim önce Ay’a ulaştı?” sorusundan fazlasını sorar. Başarı dünyaya gösterildi; ama o başarının arkasındaki emeğin kimlere ait olduğu ve kimlerin adının uzun süre yazılmadığı da tarihin parçasıdır.",
+        "accuracyNote": "Sputnik, Mercury, Kennedy’nin Ay hedefi ve Apollo’nun prestij bağlamı NASA tarih kaynaklarıyla uyumludur; film bu politik arka planı kişisel hikâyelerin arkasında tutar.",
+        "whyInteresting": "Uzay yarışı, dışarıda ideolojik vitrin kurarken içeride kimin uzman sayılacağına dair eşitlik sınavını da açığa çıkardı.",
+        "misconception": "Uzay yarışının yalnız merak ve keşif duygusuyla ilerlediği sanılır. Gerçekte bilimsel hedefler, askeri-teknolojik rekabet ve yumuşak güç prestiji birlikte çalıştı.",
+        "sources": [
+          {
+            "title": "NASA - Dawn of the Space Age",
+            "url": "https://www.nasa.gov/history/dawn-of-the-space-age/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "NASA - Apollo: A Retrospective Analysis",
+            "url": "https://www.nasa.gov/wp-content/uploads/2023/04/sp-4503-apollo.pdf",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "U.S. State Department - Space Diplomacy and Apollo 11",
+            "url": "https://diplomacy.state.gov/events-listing/space-diplomacy-apollo-11-astronauts-michael-collins-and-buzz-aldrin-visit-the-national-museum-of-american-diplomacy/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "National Park Service - Places of Hidden Figures",
+            "url": "https://www.nps.gov/articles/000/places-of-hidden-figures.htm",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "relatedCardIds": [
+          "tf26-161-human-computers",
+          "tf26-162-segregation",
+          "tf26-164-apollo-11"
+        ],
+        "readingTimeMinutes": 2,
+        "mediaConnection": "Hidden Figures, Langley’deki hesap emeğini Soğuk Savaş prestij yarışının arka planıyla birleştirir; roket başarısının içerideki eşitlik sorunlarını silemediğini gösterir.",
+        "mediaChanged": "Film prestij yarışını kişisel baskı ve kurum içi çalışma temposu üzerinden hissettirir. Tarihsel arka planda Sputnik şoku, NASA’nın kuruluşu, Kennedy’nin Ay hedefi ve Apollo’nun küresel yumuşak güç etkisi vardır.",
+        "whyItMatters": "Uzay yarışı, teknolojik üstünlük kadar bir ülkenin kendi eşitlik iddiasını ne kadar gerçekleştirebildiğini de görünür kıldı.",
+        "quickRealityCheck": "Sputnik sonrası ABD’nin uzay programı yalnız bilimsel meraktan mı hızlandı, yoksa Soğuk Savaş prestiji ve yumuşak güç hesabı da belirleyici miydi?",
+        "lastReviewedAt": "2026-06-28"
+      }
+    }
+  ]
+}

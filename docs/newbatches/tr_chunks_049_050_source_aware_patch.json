@@ -1,0 +1,279 @@
+{
+  "locale": "tr",
+  "patchForChunks": [
+    49,
+    50
+  ],
+  "sourceFiles": [
+    "docs/editorial-chunks/tr/tr-chunk-049.json",
+    "docs/editorial-chunks/tr/tr-chunk-050.json"
+  ],
+  "strategy": "source-aware editorial patch; replace only listed fields by card id; preserve all ids, relationships, premium flags and unlisted fields",
+  "reviewedAt": "2026-06-28",
+  "cards": [
+    {
+      "id": "tf26-047-shield-wall",
+      "replace": {
+        "subtitle": "Kalkan duvarı: cesaret değil çizgiyi koruma sanatı",
+        "whatWeSee": "The Last Kingdom’da Anglo-Sakson ve Dan savaşçıları sık sık kalkan duvarı kurarak çarpışır. Omuz omuza kapanan kalkanlar, daralan cephe ve hat kırılınca yayılan panik, savaşın ritmini belirleyen ana görüntü haline gelir. Dizi bunu bazen tek bir kahramanın hamlesiyle çözülen dramatik anlara bağlar; tarihsel karşılığı ise daha sabırlı, daha kolektif ve daha kırılgandır.",
+        "realHistory": "Kalkan duvarı erken Orta Çağ Kuzey Avrupa piyade savaşının en tanınır düzenlerinden biriydi. Savaşçılar kalkanlarını yan yana getirir, ön hattı sıkı tutar, mızrak ve balta darbelerini bu ortak bariyer üzerinden karşılamaya çalışırdı. Formasyonun gücü tek tek savaşçıların kahramanlığından değil, hattın bozulmamasından gelirdi. Birkaç kişinin panikle geri çekilmesi bile bütün çizgiyi açabilir, arkadaki savaşçılar için geri dönüşü zor bir çöküş başlatabilirdi.\n\nAnglo-Sakson ve İskandinav savaş kültürleri bu bakımdan tamamen ayrı dünyalar değildi. Teçhizat, deneyim ve statü farklılaşsa da savaş alanında temel sorun aynıydı: çizgiyi tutmak, komutanın sesini veya sancağını kaybetmemek ve yorgunluk başladığında boşluk vermemek. The Last Kingdom’ın etkili gösterdiği şey de budur; kalkan duvarı fiziksel bir engel olduğu kadar psikolojik bir sınavdır.\n\n1066 Hastings anlatılarında İngiliz hattının tepe üzerinde savunma pozisyonu aldığı ve Normanların bu hattı yıpratmak için okçu, piyade, süvari ve geri çekilme manevralarını birlikte kullandığı aktarılır. Bu örnek, kalkan duvarının “yenilmez” olmadığını gösterir. Uygun arazi, disiplin ve komuta olmadan formasyon hızla tuzağa dönüşebilir.\n\nDizi bu taktiği görsel doruk noktası haline getirir; tarihsel gerçeklikte ise kalkan duvarı uzun talim, güven, malzeme kalitesi ve savaş alanı sabrı isterdi. Bir kişinin öne atılması kahramanca görünebilir, ama çoğu zaman hattı zayıflatır. Bu yüzden kalkan duvarının asıl dersi, erken Orta Çağ savaşında zaferin bireysel cesaretten çok kolektif dayanıklılığa bağlı olmasıdır.",
+        "mediaChanged": "Dizi kalkan duvarını çoğu zaman tek bir dramatik kırılma anı gibi gösterir; tarihte formasyonun başarısı uzun süreli disiplin, arazi seçimi ve komuta sürekliliğine bağlıydı.",
+        "whyInteresting": "Kalkan duvarı, erken Orta Çağ savaşında cesaretin tek başına değil, yanındaki kişiye güvenle işe yaradığını gösterir.",
+        "whyItMatters": "Bu taktik, savaşın yalnız silah gücüyle değil düzen, güven ve psikolojik dayanıklılıkla kazanıldığını hatırlatır.",
+        "quickRealityCheck": "Kalkan duvarını güçlü yapan şey savaşçıların tek tek gücü müydü, yoksa hattın son ana kadar bozulmaması mı?",
+        "sources": [
+          {
+            "title": "Battle of Hastings (Britannica)",
+            "url": "https://www.britannica.com/event/Battle-of-Hastings",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Battle of Hastings: feigned retreat (English Heritage)",
+            "url": "https://www.english-heritage.org.uk/members-area/members-magazine/october-2018-get-ready-for-the-battle-of-hastings/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Weapons and warfare of the Vikings (Britannica)",
+            "url": "https://www.britannica.com/topic/Viking/Weapons-and-warfare",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-048-names-identity",
+      "replace": {
+        "subtitle": "İsim, sınır toplumlarında aidiyetin en görünür kaydıydı",
+        "whatWeSee": "The Last Kingdom’da Uhtred’un Sakson doğumu ile Danlar arasında büyümesi, kimliği sürekli pazarlık konusu yapar. İsim, yemin ve bağlılık aynı kişide çarpışır. Dizi bunu kişisel bir iç çatışma gibi işler; tarihsel zeminde ise isimler, sınır bölgelerinde aile, din, hukuk ve siyasi sadakatin açık izlerini taşıyordu.",
+        "realHistory": "### İsim bir etiket değil, kayıt iziydi\n\n9. ve 10. yüzyıl İngiltere’sinde isimler yalnızca aile içi tercih değildi. Anglo-Sakson, İskandinav ve Hristiyan adlandırma gelenekleri aynı coğrafyada karşılaştığında, bir kişinin adı köken, koruyucu aile, vaftiz çevresi veya siyasi bağlılık hakkında ipucu verebilirdi. Wessex ile Danelaw arasındaki sınır bölgelerinde bu ipuçları daha da karmaşık hale geldi.\n\nUhtred gibi iki dünya arasında duran karakterler kurgusal yoğunlaştırmadır, ama temsil ettiği gerilim gerçektir. Dan yerleşimleri, Anglo-Sakson krallık yapısı, Hristiyanlaşma ve yerel evlilik ağları aynı bölgede üst üste bindi. Böyle bir ortamda bir çocuk İskandinav kökenli bir ad taşıyabilir, Hristiyan vaftiziyle başka bir kayıt dünyasına girebilir ve yetişkinlikte farklı bir kralın hizmetinde görünebilirdi.\n\n### Danelaw’da kimlik karışımı\n\nDanelaw yalnızca askeri işgal hattı değildi; hukuk, yerleşim ve gündelik dilin iç içe geçtiği bir alandı. Yer adlarındaki `-by`, `-thorpe` gibi ekler yerleşim hafızasını taşırken, kişi adları da benzer biçimde karışımı görünür kılar. Bu karışım her zaman barışçıl değildi; rehinlik, evlilik, hizmet ilişkisi ve zorunlu uyum aynı anda çalışabiliyordu.\n\nBu yüzden isim değiştirme ya da çift aidiyet, modern anlamda “kişisel marka” meselesi gibi düşünülmemeli. Bir ad, kimin mahkemesinde hesap vereceğinizi, hangi akrabalık ağına dahil sayılacağınızı veya hangi dini topluluğun parçası olduğunuzu etkileyebilirdi. Yazılı kayıtların artmasıyla isimler daha da önemli hale geldi; çünkü kişi artık yalnız sözlü hafızada değil, belge ve vergi düzeninde de yer alıyordu.\n\n### Kayıtların gösterdiği şey\n\nProsopography of Anglo-Saxon England gibi modern veri tabanları, dönemin yazılı kaynaklarında geçen kişileri, ad varyantlarını ve ilişkileri izlemeye çalışır. Bu tür kaynaklar tek bir kişinin “gerçek kimliğini” kolayca vermez; ama isimlerin ne kadar hareketli ve bağlama bağlı olduğunu gösterir. Aynı kişi farklı belgelerde farklı yazımlarla görünebilir, bu da dil ve kayıt düzeninin siyasi yapıyla nasıl iç içe geçtiğini hatırlatır.\n\nThe Last Kingdom bu karmaşayı Uhtred’un iç çatışmasıyla görünür kılar. Tarihsel açıdan daha geniş ders ise şudur: erken Orta Çağ İngiltere’sinde kimlik sabit bir soy çizgisi değil, savaş, evlilik, din ve kayıt sistemi içinde sürekli yeniden yazılan bir ilişkiler ağıydı.",
+        "mediaChanged": "Dizi kimliği kişisel ikilem üzerinden yoğunlaştırır; tarihsel zeminde isimler yerleşim, vaftiz, hizmet ve belge düzeniyle birlikte işleyen daha geniş bir aidiyet sisteminin parçasıydı.",
+        "whyInteresting": "Bir isim, sınır toplumlarında yalnız aile geçmişini değil, hangi hukuk ve sadakat ağına yakın durduğunuzu da gösterebilirdi.",
+        "whyItMatters": "Bu konu, Orta Çağ kimliğinin sabit değil; savaş, yerleşim, din ve kayıt pratikleriyle sürekli müzakere edildiğini gösterir.",
+        "quickRealityCheck": "Uhtred’un çift kimliği tekil bir drama mı, yoksa Danelaw sınırındaki isim ve aidiyet karışımının güçlü bir temsili mi?",
+        "sources": [
+          {
+            "title": "Prosopography of Anglo-Saxon England (PASE)",
+            "url": "https://pase.ac.uk/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Danelaw (Britannica)",
+            "url": "https://www.britannica.com/place/Danelaw",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Viking place names (JORVIK Viking Centre)",
+            "url": "https://www.jorvikvikingcentre.co.uk/the-vikings/viking-place-names/",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-049-norman-conquest",
+      "replace": {
+        "subtitle": "1066 tek savaş değil, kayıtlı bir yönetim devrimiydi",
+        "whatWeSee": "The Last Kingdom doğrudan Norman fethini merkezine almaz, ama Anglo-Sakson ve Dan dünyasının kırılgan dengesi izleyiciyi 1066’ya doğru hazırlar. Norman tehdidi ekranda genellikle yeni bir askeri güç gibi belirir. Tarihte ise Hastings’ten sonra değişen şey yalnız taht değil; toprak sahipliği, kale ağı, kilise hiyerarşisi ve vergi kayıt düzeniydi.",
+        "realHistory": "1066 yılı İngiltere için ardışık krizlerin yılıydı: Edward the Confessor’ın ölümü, Harold Godwinson’ın tahta çıkışı, Harald Hardrada’nın kuzeyden gelişi, Stamford Bridge zaferi ve kısa süre sonra William’ın Hastings’teki zaferi. Bu kronoloji Norman fethini tek bir meydan savaşından ibaret göstermeye elverişlidir; fakat asıl dönüşüm savaşın ardından başladı.\n\nWilliam’ın yönetimi, İngiltere’de toprak mülkiyetini yeniden dağıttı. Anglo-Sakson elitlerin büyük kısmı yerini Norman soylulara bıraktı ve yeni sadakat ağı doğrudan krala bağlandı. Motte-and-bailey kaleleri hızlı kontrol noktaları olarak yükseldi; bu yapılar yalnız savunma değil, yerel halka yeni iktidarın kalıcı olduğunu gösteren siyasi araçlardı.\n\n1086 Domesday araştırması bu değişimin en somut belgelerinden biridir. Araştırma, arazileri, sahipleri, üretim kapasitesini ve vergi beklentisini merkezî iktidarın görebileceği bir forma soktu. Böylece fetih, yalnız askeri bir sonuç değil, kayıt üzerinden yönetilen daha sıkı bir krallık modeline dönüştü.\n\nDil ve hukuk alanında da uzun vadeli etkiler oluştu. Norman Fransızcası saray, hukuk ve aristokrasi dilinde güçlü iz bıraktı; kilise atamaları ve idari makamlar yeni sadakat düzenine göre şekillendi. The Last Kingdom’ın dünyasında görülen Anglo-Sakson/Dan gerilimi bu daha sonraki dönüşümü anlamak için iyi bir zemin sağlar: 1066, eski çatışmaları bitirmekten çok onları daha merkezî, daha kayıtlı ve daha askerileşmiş bir yönetim sistemine bağladı.",
+        "mediaChanged": "Dizi Norman etkisini gelecek tehdit gibi sezdirir; tarihsel sonuç ise yıllara yayılan toprak, kale, kilise ve vergi düzeni dönüşümüdür.",
+        "whyInteresting": "Hastings’te kazanılan zafer, Domesday gibi kayıt projeleriyle kalıcı yönetime dönüştü.",
+        "whyItMatters": "Norman fethi, askeri zaferin ancak toprak ve kayıt düzeni yeniden kurulduğunda kalıcı siyasi sonuç ürettiğini gösterir.",
+        "quickRealityCheck": "1066’da değişen şey yalnız kral mıydı, yoksa İngiltere’nin toprak ve vergi düzeni de baştan mı yazıldı?",
+        "sources": [
+          {
+            "title": "Norman Conquest (Britannica)",
+            "url": "https://www.britannica.com/event/Norman-Conquest",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Domesday Book (The National Archives)",
+            "url": "https://www.nationalarchives.gov.uk/education/resources/domesday-book/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Battle of Hastings (English Heritage)",
+            "url": "https://www.english-heritage.org.uk/visit/places/1066-battle-of-hastings-abbey-and-battlefield/history-and-stories/what-happened-battle-hastings/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-050-bayeux-tapestry",
+      "replace": {
+        "subtitle": "İşlemeli bir fetih anlatısı ve Norman meşruiyeti",
+        "whatWeSee": "The Last Kingdom savaş, yemin ve taht mücadelesini karakterler üzerinden anlatır; Bayeux Halısı ise 1066 çevresindeki olayları 11. yüzyılın görsel anlatı diliyle kayda geçirir. Dizi dramatik sahne kurar, Bayeux ise resmi bir hafıza üretir: gemiler, zırhlar, yeminler, kuyruklu yıldız ve Hastings’e giden siyasi iddia aynı uzun şerit üzerinde ilerler.",
+        "realHistory": "Bayeux Halısı adıyla bilinen eser teknik olarak halı değil, keten üzerine yün iplikle işlenmiş uzun bir işlemeli kumaştır. Yaklaşık 70 metrelik anlatı, Edward the Confessor’ın son döneminden William’ın İngiltere’yi fethetmesine ve Hastings Savaşı’na kadar uzanan olayları sahne sahne gösterir. Latin açıklamalar, izleyicinin olayları belirli bir sırayla okumasını sağlar.\n\nEserin muhtemelen William’ın üvey kardeşi Odo of Bayeux çevresinde sipariş edildiği düşünülür. Bu yüzden Bayeux yalnız “güzel bir kaynak” değildir; Norman tarafının meşruiyet anlatısını taşıyan güçlü bir propaganda metnidir. Harold’ın yemini, William’ın hak iddiası ve Harold’ın bu yemini bozduğu fikri, görsel hikâyenin temel siyasi eksenidir.\n\nYine de propaganda olması, tarihsel değerini azaltmaz. Gemilerin biçimi, zırhlar, kalkanlar, atlı savaş, kuyruklu yıldız sahnesi ve savaş düzenleri araştırmacılar için çok değerli ayrıntılar sunar. Bu ayrıntılar arkeoloji ve yazılı kaynaklarla karşılaştırıldığında, 11. yüzyıl savaş kültürünü anlamak için benzersiz bir pencere açar.\n\nThe Last Kingdom bize Orta Çağ savaşını modern kamera diliyle hissettirir; Bayeux Halısı ise aynı türden iktidar mücadelesinin kendi dönemindeki görsel medyasıdır. İkisi arasındaki fark önemlidir: biri bugünün dramı, diğeri galibin hafızayı nasıl şekillendirdiğini gösteren tarihsel bir belge ve siyasi anlatıdır.",
+        "mediaChanged": "Dizi savaş ve kimliği karakter merkezli işler; Bayeux Halısı ise fethi Norman meşruiyeti açısından düzenleyen 11. yüzyıl görsel propagandasıdır.",
+        "whyInteresting": "Tek bir işlemeli kumaş hem savaş ayrıntısı hem de kazanan tarafın resmi hafızasını yüzyıllarca taşıyabildi.",
+        "whyItMatters": "Bayeux Halısı, tarihsel kaynakların yalnız bilgi değil, aynı zamanda iktidar anlatısı ürettiğini gösterir.",
+        "quickRealityCheck": "Bayeux Halısı tarafsız bir haber kaydı mıydı, yoksa William’ın hak iddiasını güçlendiren görsel bir anlatı mı?",
+        "sources": [
+          {
+            "title": "The Bayeux Tapestry: official museum overview",
+            "url": "https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/discover-the-bayeux-tapestry/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "What is the Bayeux Tapestry about? (Bayeux Museum)",
+            "url": "https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/discover-the-bayeux-tapestry/what-is-the-bayeux-tapestry-about/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "1066 (The National Archives)",
+            "url": "https://www.nationalarchives.gov.uk/education/resources/1066/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-052-kamikaze",
+      "replace": {
+        "realHistory": "### İki sefer, tek efsane değil\n\nJaponya’ya yönelik Moğol seferleri 1274 ve 1281’de iki ayrı dalga halinde gerçekleşti. Kublai Han’ın Yuan yönetimi, Kore ve Çin kıyılarındaki tersane ve insan gücünü kullanarak çok uluslu filolar hazırladı. İlk seferde Tsushima ve Iki adaları ağır darbe aldı; Hakata çevresindeki çatışmalar Japon savunmasının Moğol taktikleriyle ilk büyük karşılaşması oldu.\n\n1274 seferinin kalıcı işgale dönüşmemesinde kötü hava koşulları ve geri çekilme kararı etkiliydi. Fakat Japon tarafı bunu yalnız “mucize” olarak okumadı; seferden sonra Kyushu kıyı savunması ciddileşti. Hakata Körfezi çevresinde taş savunma duvarları inşa edildi, sahil devriyeleri ve yerel savaşçı ağları daha planlı hale getirildi.\n\n### 1281’de hazırlık ve fırtına birleşti\n\nİkinci sefer daha büyük ölçekliydi, ama Moğol tarafı için daha karmaşık bir lojistik sorun yarattı. Farklı filoların koordinasyonu, uzun bekleme süreleri, erzak baskısı ve uygun çıkarma alanı bulma güçlüğü filonun dayanıklılığını azalttı. Japon savunma duvarları doğrudan karaya çıkışı zorlaştırdı; küçük birlik baskınları ve kıyı direnci işgali yıprattı.\n\nBu koşullar altında gelen tayfun, zaten zorlanan filoya yıkıcı darbe vurdu. Japon kaynaklarında bu rüzgar “kamikaze”, yani “tanrısal rüzgar” olarak hafızaya geçti. Bu adlandırma olayın meteorolojik boyutunu inkar etmez; fakat onu siyasi ve dini hafızada daha büyük bir anlamla donatır.\n\n### Hafızadaki “tanrısal rüzgar”\n\nSonraki yüzyıllarda kamikaze anlatısı, Japonya’nın dış tehdit karşısında korunmuş ada ülkesi olduğu fikrini güçlendirdi. Ghost of Tsushima bu sembolü dramatik biçimde kullanır: fırtına, yalnız hava olayı değil, direnişin moral doruğu gibi görünür.\n\nTarihsel okuma daha çok nedenli olmalıdır. Tayfunlar belirleyiciydi, ama savunma duvarları, kıyı nöbetleri, yerel savaşçı ağları, Moğol filosunun lojistik sorunları ve deniz teknolojisindeki zayıflıklar sonucu birlikte hazırladı. Bu yüzden kamikaze hikâyesi “doğa Japonya’yı tek başına kurtardı” değil; doğa, hazırlık ve imparatorluk lojistiğinin sınırlarının aynı anda çarpıştığı bir olaydır.",
+        "mediaChanged": "Oyun fırtınayı tek büyük dönüm noktası gibi öne çıkarır; tarihsel tabloda tayfun, kıyı savunması ve Moğol lojistiğinin sınırlarıyla birlikte çalıştı.",
+        "whyInteresting": "Kamikaze anlatısı, aynı anda hem gerçek bir tayfun felaketini hem de yüzyıllar süren siyasi hafızayı taşır.",
+        "whyItMatters": "Bu olay, askeri tarihte doğa koşullarının ancak hazırlık, lojistik ve savunma kapasitesiyle birlikte anlam kazandığını gösterir.",
+        "sources": [
+          {
+            "title": "Mongol invasions of Japan (Britannica)",
+            "url": "https://www.britannica.com/event/Mongol-invasions-of-Japan",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Feature Exhibition: Tracing the Mongolian Invasion (Kyushu National Museum)",
+            "url": "https://www.kyuhaku.jp/en/exhibition/exhibition_pre192.html",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Scrolls of the Mongol Invasions of Japan (Princeton)",
+            "url": "https://digital.princeton.edu/mongol-invasions/",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-055-archery",
+      "replace": {
+        "subtitle": "Atlı okçuluk, ritüel ustalık kadar savaş disipliniydi",
+        "realHistory": "13. yüzyıl Japon savaş kültüründe yay merkezi bir silahtı. Samuray geleneğinde at üstünde ok atma prestijli bir beceri olarak görülür; yabusame gibi ritüelleşmiş pratikler bu mirasın sonraki görünür biçimlerinden biridir. Ancak savaş alanında okçuluk yalnız kişisel nişancılık gösterisi değildi. Etkili olması için menzil, atış zamanı, birlik düzeni ve komuta işaretleriyle birlikte çalışması gerekiyordu.\n\nMoğol seferleri bu alışkanlıkları zorladı. Yuan kuvvetleri, Koreli ve Çinli birliklerle birlikte daha kolektif taktikler, davul ve işaret koordinasyonu, yoğun ok atışı ve patlayıcı silahlar gibi Japon savunmacıların alışık olmadığı yöntemler kullandı. Bu durum, bireysel savaşçı şanına dayalı anlatının sahada tek başına yeterli olmadığını gösterdi.\n\nGhost of Tsushima okçuluğu oyuncu refleksiyle parlatır: hızlı nişan, seri atış ve dramatik hedef alma anları öne çıkar. Tarihsel zeminde ise okçuluğun değeri, savaşçının tek başına ne kadar iyi nişan aldığı kadar, hangi savunma düzeni içinde yer aldığına bağlıydı. Kıyı duvarları, nöbet ağları ve küçük birlik baskınlarıyla desteklenmeyen okçuluk, büyük çıkarma kuvvetlerine karşı sınırlı kalırdı.\n\nBu yüzden atlı okçuluğu yalnız “samuray estetiği” olarak değil, değişen savaş koşulları içinde dönüşen bir teknik beceri olarak okumak gerekir. Moğol istilaları, Japon savaşçı elitine denizden gelen tehdit karşısında daha kolektif ve daha hazırlıklı savunma anlayışının zorunlu olduğunu gösterdi.",
+        "mediaChanged": "Oyun okçuluğu bireysel ustalık ve refleks gösterisi gibi sunar; tarihsel bağlamda etkinlik, menzil yönetimi, birlik düzeni ve savunma hazırlığıyla birlikte ortaya çıkıyordu.",
+        "whyInteresting": "Aynı yay hem aristokrat savaşçı prestiji hem de toplu savunma taktiğinin parçası olabiliyordu.",
+        "whyItMatters": "Bu kart, samuray savaşının yalnız onur düellosu değil; koordinasyon, menzil ve hazırlık meselesi olduğunu gösterir.",
+        "sources": [
+          {
+            "title": "Samurai (Britannica)",
+            "url": "https://www.britannica.com/topic/samurai",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Mongol invasions of Japan (Britannica)",
+            "url": "https://www.britannica.com/event/Mongol-invasions-of-Japan",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Yabusame (Britannica)",
+            "url": "https://www.britannica.com/sports/yabusame",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-056-island-defense",
+      "replace": {
+        "realHistory": "### İlk temas hattı: Tsushima ve Iki\n\n1274 ve 1281 Moğol seferlerinde Tsushima ve Iki, Japon ana savunma hattından önce vurulan ilk adalardı. Bu adalar, Kore ile Kyushu arasındaki deniz güzergâhı üzerinde bulunduğu için hem erken uyarı hem de ilk yıpratma alanı işlevi gördü. Yerel savaşçılar büyük çıkarma kuvvetlerine karşı sınırlı insan gücü ve kaynakla direnmek zorundaydı; bu yüzden adaların hikâyesi yalnız kahramanlık değil, ölçek farkı ve savunma kırılganlığıdır.\n\nGhost of Tsushima bu ilk temasın travmasını köyler, kaleler ve dağınık direniş sahneleriyle güçlü biçimde hissettirir. Jin Sakai kurgusal bir karakterdir, ancak oyunun sezgisi doğrudur: ada savunması tek bir meydan savaşı değil; kıyı, köy, haberleşme ve yerel coğrafya bilgisinin birlikte çalıştığı bir süreçtir.\n\n### Hakata duvarları ve kademeli savunma\n\nİlk seferden sonra Japon tarafı yalnız zafer kutlamadı; ikinci istilanın gelebileceğini varsayarak hazırlık yaptı. Hakata Körfezi çevresinde savunma duvarları inşa edilmesi, kıyı savunmasının daha kurumsal hale geldiğini gösterir. Bu duvarlar, 1281’de Moğol kuvvetlerinin doğrudan karaya çıkmasını zorlaştırdı ve filosu açıkta bekleyen işgal kuvvetleri için zaman baskısını artırdı.\n\nSavunma yalnız taş duvardan ibaret değildi. Yerel beyler, sahil devriyeleri, küçük birlik baskınları ve haber ağları işgalin yıpratılmasında rol oynadı. Ada zinciri bu tabloda erken temas noktasıydı: Tsushima ve Iki’de yaşananlar, Kyushu’daki ana savunma için hem uyarı hem de taktik ders sağladı.\n\n### Kamu yükü olarak savunma\n\nAda savunmasının mali ve toplumsal bedeli de vardı. Tahkimat, nöbet, erzak, silah temini ve yeniden inşa yükleri yalnız savaşçı elitin değil, yerel toplulukların hayatını da etkiledi. Moğol istilaları bu yüzden yalnız samuray kroniği değildir; köy ekonomisinin, balıkçı topluluklarının ve kıyı yerleşimlerinin güvenlik düzenini de değiştirmiştir.\n\nTarihsel sonuç, Ghost of Tsushima’nın bireysel kahramanlık çizgisinden daha karmaşıktır. Moğol seferlerini durduran şey tek başına Jin benzeri bir figür, tek bir kale ya da tek bir fırtına değildi. Adalar boyunca kurulan erken uyarı, Kyushu’daki tahkimat, yerel direniş, Moğol lojistiğinin kırılganlığı ve kötü hava koşulları birlikte sonucu belirledi. Ada savunması bu yüzden bir kahramanın değil, çok katmanlı bir toplumun savunma mimarisidir.",
+        "mediaChanged": "Oyun savunmayı Jin’in kişisel direnişi üzerinden yoğunlaştırır; tarihsel modelde adalar zinciri, kıyı duvarları, yerel ağlar ve lojistik yıpratma birlikte çalışıyordu.",
+        "whyInteresting": "Küçük adalar, büyük bir istila girişiminde ana savunma hattının zaman kazanmasını sağlayan kritik erken uyarı alanlarına dönüşebilir.",
+        "whyItMatters": "Ada savunması, Orta Çağ savaşlarında coğrafya bilgisinin, yerel örgütlenmenin ve kamu yükümlülüğünün askeri sonuçları nasıl değiştirdiğini gösterir.",
+        "sources": [
+          {
+            "title": "Mongol invasions of Japan (Britannica)",
+            "url": "https://www.britannica.com/event/Mongol-invasions-of-Japan",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Feature Exhibition: Tracing the Mongolian Invasion (Kyushu National Museum)",
+            "url": "https://www.kyuhaku.jp/en/exhibition/exhibition_pre192.html",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Genkō Bōrui / Hakata Bay defensive wall (Fukuoka City cultural properties PDF)",
+            "url": "https://bunkazai.city.fukuoka.lg.jp/publications/pdf/shiseki_en.pdf",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      }
+    },
+    {
+      "id": "tf26-058-peasants-war",
+      "replace": {
+        "subtitle": "Moğol istilası köy ekonomisini de savaş alanına çevirdi",
+        "whatWeSee": "Ghost of Tsushima’da yanan köyler, tarlalarını terk eden insanlar ve Jin’in korumaya çalıştığı siviller, istilanın yalnız samuraylar arasında geçmediğini hissettirir. Oyun kişisel kurtarma ve intikam ritmine yaslanır; tarihsel bağlamda ise kıyı toplulukları, tedarik hatları ve yerel vergi düzeni savaşın görünmeyen bedelini taşır.",
+        "realHistory": "1274 ve 1281 seferleri anlatılırken sahnenin merkezinde çoğu zaman samuray savaşçıları yer alır. Bu anlaşılırdır; Mōko Shūrai Ekotoba gibi önemli görsel kaynaklar da Takezaki Suenaga gibi savaşçıların kendilerini ve ödül taleplerini öne çıkarır. Ancak istila girişimleri yalnız savaşçı elitin hikâyesi değildi. Tsushima, Iki ve Kyushu kıyılarında yaşayan köylüler, balıkçılar ve zanaatkârlar ilk şiddet dalgasının ve sonrasındaki savunma yükünün parçasıydı.\n\nKıyı yerleşimleri için savaş, tarlaya gidememek, erzağın el konması, barınakların zarar görmesi ve güvenlik için yeni yükümlülükler anlamına geliyordu. Tahkimat inşası, nöbet düzeni, askerî sevkiyat ve erzak toplama gibi işler yerel ekonomiyi doğrudan etkiledi. Bu yükler kroniklerde her zaman geniş biçimde görünmez; çünkü kaynakların çoğu yönetici ve savaşçı çevrelerden gelir.\n\nGhost of Tsushima’nın yanan köy görüntüleri bu açıdan tarihsel bir sezgi taşır. Jin kurgusal bir figürdür, fakat köylerin işgal, yağma ve savunma hazırlığı arasında sıkışması gerçekçi bir çerçevedir. Savaşın sonucunu yalnız kılıç ve yay belirlemez; kimin yiyecek sağlayabildiği, hangi kıyının boşaltıldığı, hangi köyün yeniden üretime dönebildiği de belirler.\n\nBu yüzden “köylüler ve savaş” kartı, samuray destanının arkasındaki ekonomik zemini görünür kılar. Moğol istilaları, Japon savaşçı kültüründe büyük bir hafıza üretirken kırsal topluluklara da yeni güvenlik yükleri ve kırılganlıklar getirdi. Tarihsel okuma, kahramanlık anlatısını silmeden onu taşıyan gündelik hayatın bedelini de hesaba katmalıdır.",
+        "mediaChanged": "Oyun köyleri dramatik kurtarma sahnesi olarak kullanır; tarihsel bağlamda köyler tedarik, tahkimat, vergi ve güvenlik yükünün merkezindeydi.",
+        "whyInteresting": "Samuray zafer anlatısının arkasında, savaşı yiyecek, emek ve yeniden inşa yüküyle taşıyan kırsal topluluklar vardı.",
+        "whyItMatters": "Bu konu, askeri tarihin yalnız savaşçı sınıfın değil, üretim yapan ve kaynak sağlayan insanların tarihi olduğunu gösterir.",
+        "quickRealityCheck": "Moğol istilalarının bedelini yalnız samuraylar mı ödedi, yoksa kıyı köyleri de savunmanın görünmeyen yükünü mü taşıdı?",
+        "sources": [
+          {
+            "title": "Mongol invasions of Japan (Britannica)",
+            "url": "https://www.britannica.com/event/Mongol-invasions-of-Japan",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Scrolls of the Mongol Invasions of Japan (Princeton)",
+            "url": "https://digital.princeton.edu/mongol-invasions/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Mōko Shūrai Ekotoba study (Eikón/Imago)",
+            "url": "https://revistas.ucm.es/index.php/EIKO/article/view/73275",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      }
+    }
+  ]
+}

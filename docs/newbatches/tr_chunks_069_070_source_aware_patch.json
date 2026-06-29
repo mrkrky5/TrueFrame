@@ -1,0 +1,395 @@
+{
+  "patchId": "tr-chunks-069-070-source-aware-patch",
+  "locale": "tr",
+  "sourceChunks": [
+    69,
+    70
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-editorial-qa",
+  "summary": {
+    "cardCount": 8,
+    "approvedAsIs": [],
+    "minorEdit": [
+      "tf26-139-german-defenses",
+      "tf26-143-oak-ridge",
+      "tf26-145-security",
+      "tf26-146-women-workers"
+    ],
+    "rewrite": [
+      "tf26-138-medics",
+      "tf26-142-trinity-test"
+    ],
+    "sourceUpdates": [
+      "tf26-138-medics",
+      "tf26-139-german-defenses",
+      "tf26-140-memory",
+      "tf26-142-trinity-test",
+      "tf26-143-oak-ridge",
+      "tf26-144-hanford",
+      "tf26-145-security",
+      "tf26-146-women-workers"
+    ],
+    "notes": [
+      "Flagship kartlar tf26-140-memory ve tf26-144-hanford 400+ kelime başlıklı yapıya genişletildi.",
+      "D-Day hafızası Omaha merkezli sinema etkisinden çıkarılıp beş plajlı çok uluslu operasyonla dengelendi.",
+      "Manhattan Projesi kartlarında Los Alamos dışı üretim merkezleri, gizlilik ve görünmeyen emek daha belirgin hale getirildi."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-138-medics",
+      "reviewStatus": "rewrite",
+      "notes": "Generic mediaConnection ve kısa gövde güçlendirildi; Omaha tıbbı triyaj, plazma, morfin, tahliye gemileri ve sahra zinciri üzerinden kaynaklı biçimde yeniden kuruldu.",
+      "fields": {
+        "subtitle": "Omaha’da triyaj, tahliye ve saniyeler",
+        "whatWeSee": "Saving Private Ryan’da Omaha sahilindeki sıhhiyeciler, mermi yağmuru altında yaralıya ulaşmaya çalışan en kırılgan figürler olarak görünür. Film birkaç kısa müdahale anıyla pansuman, morfin ve çaresiz tahliye kaosunu sezdirir. Seyirci için sağlıkçı, çatışmanın arkasındaki destek değil; ateş hattında kimin yaşama şansı bulacağını saniyeler içinde belirleyen kişi haline gelir.",
+        "realHistory": "D-Day günü Omaha’da sağlık personelinin ilk görevi, yaralıyı tedavi etmekten önce onu ateş altında ulaşılabilir ve taşınabilir hale getirmekti. Kumsaldaki engeller, mayınlar, makineli tüfek ateşi ve yoğun kalabalık, normal tahliye zincirini ilk saatlerde bozdu. Bu yüzden sahil sıhhiyecileri kanama kontrolü, solunum açıklığı, morfin uygulaması ve şok belirtilerini ayırt etme gibi kararları ideal koşullardan çok uzak bir ortamda verdi.\n\nCephe tıbbı üç halkaya dayanıyordu: ilk temas, triyaj ve geriye tahliye. Hafif yaralılar bekletilebilirken kan kaybı, batın yaralanması veya şok riski taşıyanlar önceliklendiriliyordu. Plazma kullanımı ve antibiyotiklerin giderek daha erişilebilir hale gelmesi hayatta kalma şansını artırdı, fakat bu malzemeler ancak taşıma ve kayıt sistemi çalışıyorsa anlam kazanıyordu. Litter-bearer ekipleri, deniz tahliye araçları ve kıyı gerisindeki yardım istasyonları aynı zincirin parçalarıydı.\n\nFilm bu ağın tamamını anlatmaz; çoğu şeyi tek tek bedenlere ve panik anlarına indirger. Bu tercih duygusal olarak güçlüdür, çünkü sıhhiyecinin kararını soyut bir tıbbi prosedür değil, insan gözüyle gösterir. Tarihsel gerçeklik ise o sahnenin arkasında büyük bir organizasyon olduğunu ekler: sahra hastaneleri, tahliye gemileri, kan/plazma stokları, tıbbi kayıtlar ve personel dağılımı. Omaha’da hayatta kalmak yalnız cesarete değil, bu kırılgan tıbbi lojistik zincirinin ateş altında ne kadar hızlı toparlanabildiğine de bağlıydı.",
+        "accuracyNote": "Film ilk müdahale kaosunu güçlü verir; gerçek D-Day tıbbı daha geniş bir triyaj, tahliye ve malzeme yönetimi ağına dayanıyordu.",
+        "whyInteresting": "Sıhhiyecinin en zor kararı çoğu zaman pansuman değil, sınırlı zaman ve malzemeyle kimin önce tahliye edileceğini seçmekti.",
+        "misconception": "Cephe sıhhiyecileri yalnızca yara sarardı sanılır; gerçekte triyaj, morfin, plazma, kayıt ve tahliye önceliği savaşın sonucunu etkileyen kararlardı.",
+        "mediaChanged": "Film sağlıkçıyı birkaç yoğun sahneye sıkıştırır; tarihsel kayıtlar bu anların arkasında sahil, tahliye gemisi ve sahra hastanesinden oluşan bir tıbbi zincir olduğunu gösterir.",
+        "whyItMatters": "Modern savaşta hayatta kalma, yalnız silah üstünlüğüne değil, ateş altında kurulan tıbbi organizasyonun hızına da bağlıdır.",
+        "quickRealityCheck": "Omaha’da sağlıkçılık sadece pansuman mıydı, yoksa ateş altında hayat önceliği belirleme işi miydi?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "D-Day Medics: Heroes Who Treated the Wounded",
+            "url": "https://health.mil/News/Dvids-Articles/2024/06/04/news472904",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Role of Medical Innovations Developed During D-Day",
+            "url": "https://www.dday.center/the-role-of-medical-innovations-developed-during-d-day/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "U.S. Army Medical Department History",
+            "url": "https://history.amedd.army.mil/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-139-german-defenses",
+      "reviewStatus": "minorEdit",
+      "notes": "Atlantik Duvarı kartı genel olarak doğruydu; subtitle, mediaChanged ve realHistory akışı daha net hale getirildi, tek parça yenilmez hat yanılgısı vurgulandı.",
+      "fields": {
+        "subtitle": "Atlantik Duvarı: beton hat mı, kırılgan ağ mı?",
+        "whatWeSee": "Saving Private Ryan’ın açılışında Alman savunması, Omaha kıyısına yerleştirilmiş makineli tüfek yuvaları, mayınlar ve engellerle neredeyse geçilmez bir ölüm hattı gibi görünür. Film bu dehşeti asker bedeninin seviyesinde hissettirir: rampalar açılır, ateş başlar ve savunma sanki tek bir kusursuz makine gibi çalışır.",
+        "realHistory": "Atlantik Duvarı, Nazi Almanyası’nın Norveç’ten Fransa kıyılarına uzanan dev tahkimat programıydı; fakat tek parça, eşit güçte ve kesintisiz bir çelik perde değildi. Organisation Todt tarafından inşa edilen beton mevziler, topçu bataryaları, mayınlı engeller ve sahil savunmaları bölgeden bölgeye büyük farklılık gösteriyordu. Bazı sektörler yoğun şekilde güçlendirilmişti; bazıları ise eksik personel, zayıf eğitim veya yetersiz ikmal nedeniyle kâğıt üzerindeki kadar etkili değildi.\n\n1944’e yaklaşırken Rommel, çıkarma araçlarını gelgitte yakalamak için kazıklar, mayınlar, dikenli engeller ve anti-tank düzenekleriyle sahilleri daha tehlikeli hale getirdi. Omaha’da bu savunma ölümcül sonuç verdi. Ancak Atlantik Duvarı’nın kaderini yalnız beton belirlemedi. Alman komuta zincirindeki gecikmeler, panzer rezervlerinin nerede tutulacağına dair anlaşmazlık, hava üstünlüğünün Müttefiklerde olması ve Fortitude aldatmasının Pas-de-Calais beklentisini canlı tutması sonucu doğrudan etkiledi.\n\nBu yüzden Atlantik Duvarı’nı anlamanın doğru yolu, onu yalnız “çok güçlü tahkimat” diye okumak değil; tahkimat, istihbarat yanılgısı, komuta hızı, lojistik ve birlik kalitesinin birleşimi olarak görmektir. Film Omaha’daki yoğun savunmayı unutulmaz kılar; tarihsel bağlam ise aynı hattın başka sektörlerde farklı çalıştığını ve yenilmezlik görüntüsünün altında ciddi operasyonel kırılganlıklar bulunduğunu gösterir.",
+        "accuracyNote": "Film Omaha’daki savunma yoğunluğunu etkili yansıtır; fakat Atlantik Duvarı’nın kıyı boyunca eşitsiz, parçalı ve komuta sorunlarına açık yapısı daha geniş bağlam ister.",
+        "whyInteresting": "Beton mevziler kadar yanlış beklenti, geciken emir ve hava üstünlüğü de savunmanın kaderini belirledi.",
+        "misconception": "Atlantik Duvarı’nın kesintisiz ve yenilmez bir hat olduğu düşünülür; gerçekte büyük ama eşitsiz ve operasyonel açıdan kırılgan bir ağdı.",
+        "mediaChanged": "Film savunmayı tek yoğun bariyer gibi gösterir; tarihsel ölçekte hattın gücü sektörlere göre değişiyor, sonucu komuta hızı ve hava/deniz üstünlüğü belirliyordu.",
+        "whyItMatters": "D-Day başarısını anlamak için yalnız sahildeki cesarete değil, savunma sisteminin nerede ve neden çözüldüğüne de bakmak gerekir.",
+        "quickRealityCheck": "Atlantik Duvarı bu kadar genişken Müttefikler neden Normandiya’da tutunabildi?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Atlantic Wall (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/topic/Atlantic-Wall",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "What You Need to Know About D-Day (Imperial War Museums)",
+            "url": "https://www.iwm.org.uk/history/what-you-need-to-know-about-d-day",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Normandy Invasion (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/event/Normandy-Invasion",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-140-memory",
+      "reviewStatus": "flagship_rewrite",
+      "notes": "Flagship olmasına rağmen kısa ve genel kalıyordu; Omaha merkezli sinema hafızası, beş plajlı çok uluslu operasyon ve anma politikası başlıklarıyla genişletildi.",
+      "fields": {
+        "subtitle": "Omaha imgesi, beş plajlı operasyonun üstünü örter mi?",
+        "whatWeSee": "Saving Private Ryan’ın Omaha açılışı, D-Day hafızasının küresel görsel referanslarından biri haline geldi. Titrek kamera, boğuk ses tasarımı ve dağılmış komuta duygusu, çıkarmayı seyircinin bedeninde hissedilen bir şoka dönüştürür. Film bu yüzden yalnız bir savaş sahnesi değil; birçok kişinin Normandiya’yı zihninde canlandırırken kullandığı ana görsel sözlük gibidir.",
+        "realHistory": "### Beş plajlı harekât\n\n6 Haziran 1944 çıkarması tek bir sahilin hikâyesi değildi. Utah, Omaha, Gold, Juno ve Sword plajlarında deniz, hava ve kara unsurları aynı sabah farklı görevlerle harekete geçti. ABD birlikleri Utah ve Omaha’da, Britanya ve Kanada birlikleri Gold, Juno ve Sword hattında ilerledi. Bu eşzamanlılık çok önemliydi; çünkü Alman savunması tek noktaya odaklanırsa köprübaşı çökecekti. D-Day’in başarısı, bir plajdaki kahramanlık kadar beş plajın birbirini tamamlamasına bağlıydı.\n\n### Sinemanın seçici gücü\n\nSaving Private Ryan, tarihsel olarak en kanlı ve dramatik sektörlerden biri olan Omaha’yı merkeze alır. Bu tercih anlaşılırdır: sahne, savaşın şokunu doğrudan seyirciye geçirir ve bireysel fedakârlık temasını güçlendirir. Fakat sinema hafızası güçlü olduğunda, tarihsel ölçek bazen daralır. Birçok izleyici D-Day’i neredeyse yalnız Omaha üzerinden hatırlar; Gold, Juno, Sword ve Utah daha az görünür hale gelir. Oysa Juno’daki Kanada ilerleyişi, British sektörlerinin koordinasyonu, hava indirmeleri, aldatma operasyonları ve Mulberry limanları aynı başarı zincirinin parçalarıydı.\n\n### Anıt, arşiv ve ulusal anlatı\n\nSavaş sonrası anma kültürü ülkeden ülkeye farklı vurgu üretti. ABD hafızasında Omaha ve bireysel fedakârlık ön plana çıkarken, Britanya ve Kanada anlatılarında planlama, koalisyon koordinasyonu ve çıkarma sonrası yıpratma muharebeleri daha görünür kaldı. Fransa içinse kurtuluş, aynı anda sivil kayıplar, bombardıman, işbirlikçilik hesaplaşması ve yeniden inşa demekti. Bu yüzden D-Day hafızası yalnız askeri tarih değil, farklı toplumların kendilerini nasıl hatırladığıyla ilgili bir konudur.\n\n### Hafıza neden daralır?\n\nBir savaş filmi çoğu zaman bütün operasyonu değil, seyircinin taşıyabileceği tek bir duygusal hattı seçer. Saving Private Ryan bunu Omaha üzerinden yapar: seyirci bir askerin korkusunu, yarasını ve hayatta kalma refleksini takip eder. Bu, tarihsel empati için güçlüdür; fakat aynı anda operasyonun arka planındaki yüz binlerce personeli, deniz lojistiğini, hava üstünlüğünü, Kanadalı ve Britanyalı cepheleri, Fransız sivilleri ve Alman komuta sorunlarını ikinci plana iter. Hafıza böyle çalışır: güçlü bir imge, doğru olsa bile eksik bir bütün kurabilir.\n\nFilm geçmişi anlatmakla kalmaz; geçmişin nasıl hissedileceğini de biçimlendirir. Dengeli bir True Frame okuması, Saving Private Ryan’ın duygusal doğruluğunu kabul eder ama onu arşiv, müttefik kaynakları ve sivil deneyimle tamamlar. Böylece D-Day tek bir sahil ikonundan çıkar; çok uluslu, çok cepheli ve çok katmanlı bir operasyon olarak yeniden görünür.\n\nBir başka sorun da kahramanlık ile koordinasyon arasındaki dengedir. Omaha sahnesi kişisel cesareti merkeze aldığı için çıkarmanın planlama, hava durumu, deniz trafiği, aldatma ve ikmal boyutları doğal olarak daha az görünür olur. Oysa Normandiya’nın kalıcı başarıya dönüşmesi, sahile çıkmaktan çok sahilde kalabilmeye bağlıydı. Yaralıların tahliyesi, mühimmat akışı, araçların kumdan çıkarılması ve komşu plajlarla birleşme, hafızada daha az yer tutsa da operasyonun gerçek devamlılığını sağladı.",
+        "accuracyNote": "Film Omaha’nın şokunu çok güçlü verir; ancak karakter rotaları kurmaca, hafıza ölçeği ise Omaha merkezli ve seçicidir.",
+        "whyInteresting": "Bu kart sinemanın yalnız geçmişi göstermediğini, sonraki kuşakların geçmişi hangi görüntülerle hatırlayacağını da belirlediğini gösterir.",
+        "misconception": "Normandiya’nın yalnızca Omaha’daki Amerikan deneyiminden ibaret olduğu sanılır; D-Day beş plajlı, çok uluslu ve çok katmanlı bir harekâttı.",
+        "mediaChanged": "Film Omaha merkezli güçlü bir hafıza dili kurar; tarihsel ölçek D-Day’i Utah, Omaha, Gold, Juno ve Sword’un birlikte yürüttüğü koalisyon operasyonu olarak gösterir.",
+        "whyItMatters": "D-Day’i doğru hatırlamak, fedakârlığı küçültmek değil; farklı müttefiklerin, sivillerin ve lojistik ağların katkısını görünür kılmaktır.",
+        "quickRealityCheck": "D-Day denince akla tek sahil geliyorsa bu tarihsel ağırlıktan mı, yoksa sinemasal seçicilikten mi kaynaklanıyor?",
+        "readingTimeMinutes": 3,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "What You Need to Know About the D-Day Beaches (Imperial War Museums)",
+            "url": "https://www.iwm.org.uk/history/second-world-war/d-day/what-you-need-to-know-about-the-d-day-beaches",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Normandy Invasion (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/event/Normandy-Invasion",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Normandy American Cemetery (ABMC)",
+            "url": "https://www.abmc.gov/normandy",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "A Symposium on Saving Private Ryan (National WWII Museum)",
+            "url": "https://www.nationalww2museum.org/events-programs/events/124090-commemorating-20th-anniversary-symposium-saving-private-ryan",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-142-trinity-test",
+      "reviewStatus": "rewrite",
+      "notes": "Tekrarlı realHistory blokları temizlendi; Trinity implosion tasarımı, ölçüm düzeni, downwinder/sivil uyarı eksikliği ve etik kırılma ekseninde yeniden yazıldı.",
+      "fields": {
+        "subtitle": "Trinity: teknik başarı, etik eşik",
+        "whatWeSee": "Oppenheimer’da Trinity testi New Mexico çölünde geceyi gündüze çeviren görsel doruk olarak kurulur. Geri sayım, siperlerde bekleyen bilim insanları ve patlamadan sonra gelen sessizlik, sahneyi yalnız askeri bir test değil, karakterlerin vicdanında açılan bir yarık gibi hissettirir.",
+        "realHistory": "16 Temmuz 1945’te New Mexico’daki Jornada del Muerto çölünde yapılan Trinity testi, dünyanın ilk nükleer patlamasıydı. Test edilen cihaz, plütonyum implosion tasarımının çalışıp çalışmayacağını göstermek için hazırlanmıştı; bu tasarım daha sonra Nagasaki’de kullanılan Fat Man bombasının teknik temelini oluşturdu. Bu yüzden Trinity yalnız “ilk atom patlaması” değil, riskli bir mühendislik varsayımının savaş kullanılabilirliğine çevrilmesiydi.\n\nSahada yüksek hızlı kameralar, basınç ölçerler, radyasyon gözlemleri ve patlama verisini toplamaya yönelik çok sayıda düzenek vardı. Bilim insanları yalnız patlamanın büyüklüğünü değil, cihazın verimini ve gelecekteki askeri kararlar için güvenilirliğini anlamaya çalışıyordu. Patlama yaklaşık 21 kilotonluk bir güç üretti; ısı kumları eriterek trinitite adı verilen camımsı kalıntılar oluşturdu.\n\nFilm, testi Oppenheimer’ın içsel kırılmasıyla bağlar; bu dramatik olarak güçlüdür. Tarihsel çerçeve ise daha geniştir: yerel halkın tam olarak uyarılmaması, fallout riskinin yeterince açıklanmaması, askeri gizlilik ve sonraki Hiroshima/Nagasaki kararları aynı dosyanın parçalarıdır. Trinity, bilimsel başarının etik bedelinden ayrılamayacağını gösteren eşik anıdır. Atom çağı yalnız laboratuvar zekâsıyla değil; ölçüm, gizlilik, askeri acele ve sivil risklerin üst üste binmesiyle başladı.",
+        "accuracyNote": "Tarih, yer ve implosion tasarımı doğru temeldedir; film testi kişisel vicdan anı olarak yoğunlaştırır, yerel sağlık/fallout boyutunu sınırlı bırakır.",
+        "whyInteresting": "Aynı patlama hem teknik zafer hem de nükleer etik, sivil risk ve devlet gizliliği tartışmalarının başlangıcıdır.",
+        "misconception": "Trinity yalnız bombanın çalışıp çalışmadığını gösteren teknik bir test sanılır; gerçekte askeri karar, ölçüm bilimi ve sivil risk aynı anda devreye girdi.",
+        "mediaChanged": "Film testi görsel ve duygusal doruk yapar; tarihsel kayıtlar ölçüm altyapısı, gizlilik ve fallout etkilerini de aynı anlatıya ekler.",
+        "whyItMatters": "Trinity’yi anlamak, atom çağını yalnız bilimsel başarı değil, sorumluluk zinciri olarak okumayı sağlar.",
+        "quickRealityCheck": "Trinity neden Hiroşima’dan önce teknik olarak kritik ama etik olarak da sarsıcı bir adımdı?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Trinity test (Los Alamos National Laboratory)",
+            "url": "https://www.lanl.gov/media/publications/national-security-science/0720-the-trinity-test",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Trinity Test (U.S. Department of Energy)",
+            "url": "https://www.energy.gov/lm/trinity-test",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Manhattan Project (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/event/Manhattan-Project",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-143-oak-ridge",
+      "reviewStatus": "minorEdit",
+      "notes": "Gövde iyi durumdaydı; kaynak omurgası güçlendirildi, Y-12/K-25/S-50 ayrımı, gizlilik ve ırksal ayrım daha net kısa alanlara yansıtıldı.",
+      "fields": {
+        "subtitle": "Oak Ridge: gizli kent, uranyum fabrikası",
+        "whatWeSee": "Oppenheimer’da Oak Ridge, Los Alamos kadar görünür değildir; daha çok devasa üretim zincirinin uzakta çalışan parçası gibi hissedilir. Film teorik tartışmayı ve karar dramını öne çıkarırken, perde arkasında kurulmuş kapalı bir endüstri şehrinin ölçeğini kısa geçer.",
+        "realHistory": "Oak Ridge, Manhattan Projesi’nin uranyum hattındaki görünmez motoruydu. Tennessee’de 1942’den itibaren kurulan bu yeni kent, U-235 izotopunu U-238’den ayırmak için dev tesisler etrafında tasarlandı. Y-12 elektromanyetik ayırma, K-25 gaz difüzyon ve S-50 termal difüzyon tesisleri aynı hedefe farklı yöntemlerle hizmet etti: bombada kullanılabilecek düzeyde zenginleştirilmiş uranyum üretmek.\n\nBu süreç yalnız bilimsel yenilik değil, muazzam elektrik tüketimi, malzeme yönetimi ve vardiyalı iş disiplini gerektiriyordu. On binlerce çalışan kente getirildi; çoğu yaptığı işin nihai amacını bilmiyordu. Güvenlik, bilgiyi parçalara bölme yöntemiyle yürütüldü: çalışanlar kendi panelini, borusunu veya vardiyasını biliyor; bütün projenin nereye bağlandığını görmüyordu.\n\nOak Ridge’in gündelik düzeni de atom çağının sosyal yüzünü gösterir. Konutlar, iş statüsü ve ırksal ayrım dönemin ABD hiyerarşilerini kentin içine taşıdı. Kadın operatörler, teknisyenler ve idari çalışanlar üretimin kritik parçasıydı ama uzun süre kurucu hikâyenin kenarında kaldı. Sonuçta Oak Ridge, atom bombasının birkaç dahi fizikçinin yalnız teorik başarısı olmadığını; laboratuvar zekâsının fabrika kapasitesi ve disiplinli iş organizasyonuyla birleştiğinde tarihsel sonuç ürettiğini gösterir.",
+        "accuracyNote": "Film Manhattan Projesi’nin stratejik çerçevesini doğru verir; Oak Ridge’in iş gücü, tesis çeşitliliği ve kent disiplini ekranda doğal olarak daralır.",
+        "whyInteresting": "Bir kentin neredeyse sıfırdan kurulup yalnız izotop ayırma ve savaş üretimi için işletilmesi modern tarihte sıra dışıdır.",
+        "misconception": "Atom bombasının yalnız birkaç bilim insanının teorik başarısıyla üretildiği düşünülür; Oak Ridge, endüstriyel altyapının belirleyici olduğunu gösterir.",
+        "mediaChanged": "Film Los Alamos’u merkeze alınca Oak Ridge’in üretim ölçeği arka planda kalır; tarihsel tabloda uranyum zinciri olmadan karar dramı silaha dönüşemezdi.",
+        "whyItMatters": "Oak Ridge, modern savaşta bilimin fabrikalaşmasını ve gizlilik altında kitlesel emeğin nasıl örgütlendiğini görünür kılar.",
+        "quickRealityCheck": "Oak Ridge’de çalışan binlerce kişinin işin nihai amacını bilmemesi proje yönetimine nasıl avantaj sağladı?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Uranium - Manhattan Project National Historical Park",
+            "url": "https://www.nps.gov/mapr/learn/uranium.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Secret City: Oak Ridge, Tennessee (U.S. Department of Energy)",
+            "url": "https://www.energy.gov/management/office-management/operational-management/history/secret-city-oak-ridge-tennessee",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "History - Oak Ridge Office of Environmental Management (DOE)",
+            "url": "https://www.energy.gov/orem/history",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-144-hanford",
+      "reviewStatus": "flagship_rewrite",
+      "notes": "Flagship metin kısa kalıyordu; B Reactor, plütonyum üretimi, yerinden edilme, Columbia River/soğutma, Soğuk Savaş genişlemesi ve atık mirası başlıklarıyla genişletildi.",
+      "fields": {
+        "subtitle": "Hanford: plütonyum fabrikası ve uzun çevre borcu",
+        "whatWeSee": "Oppenheimer’da Hanford, Los Alamos’un entelektüel gerilimine göre daha kısa görünür; borular, reaktörler ve üretim aceleciliği birkaç görüntüyle geçer. Yine de bu kısa hatırlatma önemlidir: atom bombası yalnız kara tahta ve laboratuvar hesaplarıyla değil, devasa bir sanayi zinciriyle mümkün oldu.",
+        "realHistory": "### Plütonyumun fabrikalaşması\n\nHanford Site, Manhattan Projesi’nin plütonyum üretim omurgasıydı. Washington eyaletindeki alan, Columbia Nehri’nin soğutma suyu kapasitesi, uzaklığı ve büyük ölçekli tesis kurmaya uygunluğu nedeniyle seçildi. Burada inşa edilen B Reactor, dünyanın ilk tam ölçekli nükleer üretim reaktörlerinden biri olarak plütonyum üretimini endüstriyel düzeye taşıdı. Los Alamos’taki implosion tasarımı, Hanford’dan gelen fisil malzeme olmadan operasyonel silaha dönüşemezdi. Trinity testinde ve Nagasaki’de kullanılan plütonyum zinciri bu üretim altyapısına bağlıydı.\n\n### Yerinden edilme ve gizlilik\n\nHanford’un kurulması yalnız teknik bir karar değildi. Bölgedeki yerleşimler kısa sürede boşaltıldı; yerel toplulukların ve Yerli halkların nehir, avlanma ve arazi kullanım ilişkileri daraldı. On binlerce işçi sahaya getirildi, fakat birçok kişi projenin nihai amacını tam olarak bilmiyordu. Gizlilik, üretim hızının parçasıydı: herkes kendi işini yapıyor, bütünün askeri anlamı küçük bir çevrede tutuluyordu. Bu yapı, üretim verimliliği sağlarken aynı zamanda demokratik denetimi ve yerel rızayı ciddi biçimde sınırladı.\n\n### Soğuk Savaş’a uzayan tesis\n\nHanford’un hikâyesi 1945’te bitmedi. Savaşın ardından tesisler kapanmak yerine Soğuk Savaş hedeflerine bağlandı; yeni reaktörler, kimyasal ayrıştırma hatları ve silah üretim zincirleri büyüdü. Bu genişleme, radyoaktif ve kimyasal atık birikimini de büyüttü. Tank atıkları, yeraltı suyu riski ve nehir ekosistemi üzerindeki baskılar, Hanford’u ABD’nin en büyük ve en karmaşık nükleer temizlik dosyalarından biri haline getirdi.\n\n### Etik sorumluluğun ölçeği\n\nOppenheimer bireysel vicdanı güçlü bir dramatik eksen yapar; Hanford ise aynı vicdan sorusunun altyapı, işçi sağlığı, yerinden edilme ve çevre borcu olarak kuşaklar boyunca sürdüğünü gösterir. Bir bilim insanının bombayla ilgili tereddüdü önemlidir, ancak tek başına yeterli değildir. Nükleer üretim, binlerce işçinin bedeninden, tahliye edilen topluluklardan, güvenlik duvarlarıyla kapatılan bilgilerden ve temizlenmesi on yıllar süren atıklardan oluşan bir sistemdir.\n\nBu nedenle Hanford, nükleer tarih anlatısına gerekli bir düzeltme getirir. Atom çağını anlamak için sadece patlama anına veya karar odasına değil, o patlamayı mümkün kılan ve sonrasında geride kalan tesislere de bakmak gerekir. Teknolojik zafer söylemi, uzun vadeli çevre ve kamu sağlığı hesabı olmadan eksik kalır.\n\nHanford’un bugünkü anlamı da bu yüzden yalnız tarihî koruma meselesi değildir. B Reactor gezilebilir bir hafıza alanı olarak korunurken, aynı bölgede temizlik çalışmaları devam eder. Ziyaretçi bir yanda Manhattan Projesi’nin mühendislik hızını, diğer yanda o hızın bıraktığı atık mirasını aynı coğrafyada görür. Bu çelişki, nükleer çağın temel derslerinden biridir: devletler acil güvenlik hedefleri için olağanüstü sistemler kurabilir, fakat bu sistemlerin maliyeti savaş bittikten çok sonra da toplumun üzerinde kalabilir. Bu nedenle Hanford, zafer anlatısının bitiş noktası değil, savaş teknolojisinin toplumsal bilançosunun başladığı yerdir.",
+        "accuracyNote": "Hanford’un plütonyum üretimindeki rolü doğrudur; film süre nedeniyle tesisi yan hat gibi verir, oysa üretim ve atık mirası projenin merkezî parçasıdır.",
+        "whyInteresting": "Hanford, nükleer başarı anlatısını teknik zaferden çıkarıp yerinden edilme, sanayi ölçeği ve çevre sorumluluğu sorularına bağlar.",
+        "misconception": "Atom bombası sürecinin laboratuvar teorisinde bittiği sanılır; Hanford, üretim ve atık yönetimi zincirinin hikâyeyi devam ettirdiğini gösterir.",
+        "mediaChanged": "Film Hanford’u kısa bir üretim görüntüsü gibi kullanır; tarihsel kayıtlar plütonyum üretimi ve atık mirasıyla tesisin atom çağının kalıcı merkezlerinden biri olduğunu gösterir.",
+        "whyItMatters": "Nükleer tarih, yalnız patlama ve karar anlarıyla değil, kuşaklar boyunca taşınan altyapı ve çevre borcuyla da hesaplaşmalıdır.",
+        "quickRealityCheck": "Nükleer hikâye laboratuvar denkleminde mi biter, yoksa üretim ve atık yönetimi zincirinde mi sürer?",
+        "readingTimeMinutes": 3,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Hanford B Reactor Panoramic Tour (National Park Service)",
+            "url": "https://www.nps.gov/articles/000/hanford-b-reactor-panoramic-tour.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Hanford and the Manhattan Project (National Park Service)",
+            "url": "https://www.nps.gov/mapr/learn/historyculture/hanford.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Hanford Site Overview (U.S. Department of Energy)",
+            "url": "https://www.hanford.gov/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Hanford Site (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/place/Hanford-Site",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-145-security",
+      "reviewStatus": "minorEdit",
+      "notes": "Güvenlik düzeni iyi fakat kaynak formatı eksikti; kaynaklar başlık/type ile tamamlandı, need-to-know ve savaş sonrası sadakat soruşturması ayrımı netleştirildi.",
+      "fields": {
+        "subtitle": "Gizlilik düzeni: bilmesi gereken kadar bilim",
+        "whatWeSee": "Oppenheimer, laboratuvar kapıları, izin dosyaları, sorgu oturumları ve kapalı konuşmalarla Manhattan Projesi’ni yalnız bilimsel yarış değil, yoğun bir güvenlik rejimi olarak gösterir. Karakterler denklem çözerken bile kimin neyi bilmeye hakkı olduğu, kiminle konuşabileceği ve geçmişteki ilişkilerinin nasıl yorumlanacağı sorusuyla kuşatılır.",
+        "realHistory": "Manhattan Projesi, II. Dünya Savaşı koşullarında kurulan en katı gizlilik sistemlerinden biriydi. Los Alamos, Oak Ridge ve Hanford gibi merkezler coğrafi olarak ayrıldı; bilgi akışı da bilinçli biçimde parçalara bölündü. “Need-to-know” ilkesi, çalışanların yalnız görevleri için gerekli bilgiyi görmesini hedefliyordu. Yazışmalar denetlendi, seyahatler sınırlandı, personel geçmişleri araştırıldı ve proje alanları askeri disiplinle yönetildi.\n\nBu sistem kısa vadede şaşırtıcı ölçüde etkili oldu: devasa bir proje kamuoyundan büyük ölçüde saklanabildi. Fakat gizlilik geçirimsiz değildi. Klaus Fuchs gibi casusluk örnekleri, kapalı sistemlerde bile bilgi sızıntısının mümkün olduğunu gösterdi. Ayrıca savaş sonrası dönemde güvenlik kültürü teknik sır korumasından politik sadakat denetimine doğru kaydı. Oppenheimer’ın 1954 güvenlik izni duruşmaları, bilimsel görüş, dış politika tartışması ve kişisel geçmişin aynı dosyada değerlendirilmesinin sembolü haline geldi.\n\nBu nedenle gizlilik düzeni çift yönlü okunmalıdır. Bir yandan üretimi hızlandırıp projeyi korudu; diğer yandan açık bilimsel paylaşımı, akademik özgürlüğü ve politika tartışmasını sınırladı. Manhattan modeli, Soğuk Savaş araştırma kurumlarında “gizlilik mi açıklık mı?” sorusunun kalıcı çerçevesini kurdu.",
+        "accuracyNote": "Film güvenlik baskısını bireysel trajediye yoğunlaştırır; tarihsel gerçeklikte aynı baskı kurumun tamamına yayılan bir yönetim modeliydi.",
+        "whyInteresting": "Aynı gizlilik sistemi hem projeyi hızlandırabilir hem de bilimsel tartışma alanını daraltan politik bir aygıta dönüşebilir.",
+        "misconception": "Manhattan Projesi yalnız teknik deha hikâyesi sanılır; güvenlik rejimi günlük işleyişi en az bilimsel kararlar kadar belirledi.",
+        "mediaChanged": "Film güvenlik baskısını Oppenheimer’ın kişisel dosyasında yoğunlaştırır; tarihsel tabloda bu baskı Los Alamos, Oak Ridge ve Hanford’un tamamına yayılmıştı.",
+        "whyItMatters": "Nükleer araştırmanın tarihi, açık bilim ile devlet sırrı arasındaki gerilimin modern kurumları nasıl şekillendirdiğini gösterir.",
+        "quickRealityCheck": "Bir projeyi koruyan güvenlik düzeni ne zaman ilerlemeyi hızlandırır, ne zaman tartışma alanını daraltır?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Security and Secrecy (Atomic Heritage Foundation)",
+            "url": "https://ahf.nuclearmuseum.org/ahf/history/security-and-secrecy/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Manhattan Project (U.S. Department of Energy)",
+            "url": "https://www.energy.gov/management/manhattan-project",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Manhattan Project (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/event/Manhattan-Project",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-146-women-workers",
+      "reviewStatus": "minorEdit",
+      "notes": "Kart sağlam ve kaynaklıydı; Calutron Girls, sağlık fiziği ve görünmeyen teknik kadın emeği daha doğal akışla sıkılaştırıldı.",
+      "fields": {
+        "subtitle": "Calutron panellerinden sağlık fiziğine görünmeyen emek",
+        "whatWeSee": "Oppenheimer laboratuvar toplantılarını, Trinity hazırlığını ve güvenlik sorgularını öne çıkarır. Ekranda çoğunlukla erkek fizikçiler, askerî yöneticiler ve karar odaları görünür. Oak Ridge’deki calutron operatörleri, Los Alamos’taki sağlık ekipleri ve idari-teknik kadın emeği ise hikâyenin daha çok kenarında kalır.",
+        "realHistory": "Manhattan Projesi on binlerce insanı istihdam etti ve bu emeğin önemli bir kısmı kadınlar tarafından yürütüldü. Oak Ridge’de Y-12 tesisinde çalışan “Calutron Girls” çoğu zaman genç, yeni mezun veya kısa eğitimden geçmiş kadın operatörlerdi. Elektromanyetik ayırma cihazlarının kontrol panellerini izliyor, kadranları ayarlıyor ve uranyum zenginleştirme sürecinin tekrarlı ama kritik adımlarını yürütüyorlardı. Çoğu yaptığı işin atom bombasıyla bağlantısını ancak savaş sonunda öğrendi.\n\nBu emeğin önemi yalnız sayısal değildir. Operatörlerin dikkat, sabır ve prosedüre bağlı çalışma biçimi, karmaşık ayırma sisteminin daha istikrarlı işlemesine katkı sağladı. Los Alamos’ta da kadınlar sağlık fiziği, laboratuvar takibi, hesaplama, idari kayıt ve radyasyon izleme gibi alanlarda çalıştı. Bu işler “karar veren dahi” anlatısına kolay sığmaz ama projenin ayakta kalması için zorunluydu.\n\nFilm odağını Oppenheimer’ın entelektüel ve siyasi dramına verdiği için bu görünmeyen emek sınırlı kalır. Tarihsel okuma ise atom çağının yalnız birkaç ünlü erkek bilim insanının ürünü olmadığını gösterir. Uranyumu ayrıştıran paneller, kan örneği alan sağlık ekipleri, ölçüm yapan teknisyenler ve gizlilik altında evrak yöneten çalışanlar olmadan bombanın teorisi üretime dönüşemezdi.",
+        "accuracyNote": "Film Los Alamos’taki karar ve vicdan dramına odaklanır; Oak Ridge calutron operatörleri ve teknik kadın emeği tarihsel olarak güçlü kanıtlı olmasına rağmen ekranda sınırlı kalır.",
+        "whyInteresting": "Calutron operatörleri, yüksek dereceli fizik bilgisinden çok dikkatli prosedür takibiyle atom projesinin en kritik üretim hatlarından birini ayakta tuttu.",
+        "misconception": "Manhattan Projesi yalnız birkaç dâhi erkek bilim insanının eseri sanılır; üretim, sağlık, hesaplama ve idari işlerde binlerce kadın çalıştı.",
+        "mediaChanged": "Film bilim ve siyaseti merkeze alır; calutron operatörleri, sağlık görevlileri ve teknik kadın emeği görünmez kalır.",
+        "whyItMatters": "Gizli kadın emeğini görmek, atom çağının yalnız fikirlerle değil tekrarlı, disiplinli ve çoğu zaman adı anılmayan işlerle kurulduğunu hatırlatır.",
+        "quickRealityCheck": "Oppenheimer’da gördüğün toplantılar gerçek; peki uranyumu hangi panellerden, kimler geçirdi?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Calutron Girls (U.S. National Park Service)",
+            "url": "https://www.nps.gov/articles/000/the-calutron-girls.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Calutron Girls (National Archives)",
+            "url": "https://prologue.blogs.archives.gov/2023/07/19/the-calutron-girls/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Health Physics & Nuclear Medicine During the Manhattan Project",
+            "url": "https://ahf.nuclearmuseum.org/ahf/history/health-physics-nuclear-medicine-during-manhattan-project/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Manhattan Project (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/event/Manhattan-Project",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

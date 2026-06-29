@@ -1,0 +1,360 @@
+{
+  "batch": "tr-chunks-061-062-source-aware",
+  "sourceChunks": [
+    "tr-chunk-061.json",
+    "tr-chunk-062.json"
+  ],
+  "notes": [
+    "External source-aware editorial review for Turkish chunks 061 and 062.",
+    "Only changed fields are included. Apply by id + locale.",
+    "sourceUpdates are separated from text field updates."
+  ],
+  "entries": [
+    {
+      "id": "tf26-102-hamilton-finance",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Repeated title/template block removed; Hamilton's plan framed as public credit, assumption, national bank and federal capacity rather than only a rap battle.",
+      "fields": {
+        "subtitle": "Borç, banka ve yeni federal devlet",
+        "realHistory": "Hamilton'ın mali programı, bağımsızlıktan sonra dağınık kalan savaş borçlarını yeni federal devletin kurucu araçlarına çevirmeyi hedefledi. Hazine sekreteri olarak eyalet borçlarının federal hükümet tarafından üstlenilmesini savundu; böylece alacaklıları tek tek eyaletlere değil, yeni birliğin devamına bağlamak istiyordu. Bu plan yalnız muhasebe tekniği değildi: kamu kredisi oluşturmak, dış yatırımcıya güven vermek ve federal hükümetin vergi toplama kapasitesini görünür kılmak anlamına geliyordu.\n\nUlusal banka önerisi aynı mantığın devamıydı. Bank of the United States, kamu gelirlerini düzenlemek, kredi piyasasını istikrara kavuşturmak ve ticaret merkezleriyle federal yönetim arasında kurumsal bağ kurmak için tasarlandı. Jefferson ve Madison çizgisi ise bu planı tehlikeli bir merkezileşme olarak gördü; tarım cumhuriyeti idealiyle ticaret-finans merkezli devlet vizyonu çatıştı. Tartışmanın sertliği, erken ABD'de ekonomi politikasının doğrudan anayasa yorumu anlamına geldiğini gösterir.\n\n1790 uzlaşması, bu ekonomik programın siyasi bedelini gösterdi: borç planı kabul edilirken başkentin Potomac kıyısına taşınması konusunda anlaşmaya varıldı. Hamilton'ın başarısı, borcu ortadan kaldırmaktan çok borcu yönetilebilir ve güvenilir bir devlet aracına dönüştürmesiydi. Hamilton müzikali bu tartışmayı parlak bir söz düellosuna sıkıştırır; tarihsel zeminde ise mesele, genç cumhuriyetin mali iflas mı yoksa merkezi kredi düzeni mi seçeceğiydi.",
+        "accuracyNote": "Müzikal finans tartışmasını sahne ritmi için kişiselleştirir; tarihsel süreç borç, vergi, banka ve başkent pazarlığını içeren uzun bir kurumsal mücadeledir.",
+        "whyInteresting": "Borç, yeni devlet için sadece yük değil; doğru yönetildiğinde birliğe bağlılık üreten siyasi bir araçtı.",
+        "misconception": "Hamilton'ın planının yalnız bankacıları zengin etmek için kurulduğu sanılır; hedeflerinden biri federal kredibilite ve devlet kapasitesi yaratmaktı.",
+        "mediaChanged": "Müzikal finansı rap düellosuna çevirir; tarihsel gerçeklikte planın gücü, kamu borcunu ulusal birlik mekanizmasına dönüştürmesindeydi.",
+        "whyItMatters": "Erken ABD'nin ne kadar güçlü bir merkezi devlete sahip olacağı sorusu, bütçe ve borç tartışmaları üzerinden karara bağlandı.",
+        "quickRealityCheck": "Hamilton borcu silmekten çok neden federal hükümetin üzerine almayı savundu?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "U.S. Treasury - Alexander Hamilton",
+            "url": "https://home.treasury.gov/about/history/people/alexander-hamilton",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Mount Vernon - Department of the Treasury",
+            "url": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/department-of-the-treasury",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Bill of Rights Institute - The Compromise of 1790",
+            "url": "https://billofrightsinstitute.org/essays/the-compromise-of-1790/",
+            "type": "educational",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-103-federalists",
+      "locale": "tr",
+      "decision": "minor-rewrite",
+      "reason": "Field overlap reduced; Federalist politics tied to debt, ratification, federal taxation and the later party conflict.",
+      "fields": {
+        "subtitle": "Merkezi devletin erken savunusu",
+        "realHistory": "Federalistler, bağımsızlık savaşından sonra gevşek konfederasyon düzeninin yeni ülkeyi ayakta tutamayacağı düşüncesinden doğdu. Hamilton, John Adams ve aynı çizgideki siyasetçiler; ortak borç yönetimi, düzenli vergi, ulusal banka, dış ticaret politikası ve güçlü yürütme olmadan cumhuriyetin kırılgan kalacağını savundu. Bu yüzden hareket yalnız elit tavrı değil, savaş borçları, dağınık para düzeni ve diplomatik baskılar karşısında pratik bir devlet inşası programıydı.\n\nFederalist Papers, yeni Anayasa'nın onaylanması için kamuoyunu ikna etmeye çalışan en güçlü metin dizisiydi. Hamilton, Madison ve Jay bu yazılarda geniş cumhuriyetin hizipleri dengeleyebileceğini, federal yapının dağınıklığı azaltacağını ve merkezi hükümetin ortak çıkarları koruyacağını savundu. Buna karşılık anti-federalist kaygılar, yeni merkezin monarşik eğilim üretmesi ve eyaletlerin kendi kendini yönetme alanını daraltması üzerine yoğunlaştı. Bill of Rights talebi de bu güvensizliğin doğrudan sonucuydu.\n\n1790'larda ulusal banka, borç üstlenimi ve dış politika tartışmaları bu ayrımı parti siyasetine dönüştürdü. Federalistlerin parti gücü zamanla zayıflasa da kamu kredisi, federal mahkemeler, vergi kapasitesi ve anayasal yorum pratiği üzerindeki mirası kalıcı oldu. Hamilton müzikali bu çatışmayı kişisel rekabet üzerinden anlatır; tarihsel ağırlık, yeni cumhuriyetin kurumlarının bu sert tartışmalar içinde kurulmasındadır.",
+        "accuracyNote": "Ana figürler doğru zeminde verilir; fakat müzikal sosyal tabanı, eyalet kaygılarını ve yazılı ratifikasyon kampanyasını doğal olarak sadeleştirir.",
+        "whyInteresting": "Bugün sıradan görünen federal vergi ve kamu kredisi fikri, o dönemde cumhuriyetin kader tartışmasıydı.",
+        "misconception": "Federalistlerin yalnız elit çıkarı savunduğu düşünülür; programın önemli kısmı mali iflası ve konfederasyon dağınıklığını önlemeye yönelmişti.",
+        "mediaChanged": "Müzikal çatışmayı birkaç güçlü karaktere yoğunlaştırır; tarihsel tabloda Federalist proje, ekonomik krizleri kurumsal devlete çevirme girişimiydi.",
+        "whyItMatters": "Federalist-Anti-Federalist gerilimi, ABD'de merkez ile eyalet arasındaki tartışmanın kalıcı dilini kurdu.",
+        "quickRealityCheck": "Federalistler neden sadece iyi bir anayasa değil, güçlü bir federal maliye de istiyordu?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Library of Congress - The Federalist Papers",
+            "url": "https://guides.loc.gov/federalist-papers/full-text",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Congress.gov - The Federalist Papers",
+            "url": "https://www.congress.gov/resources/display/content/The+Federalist+Papers",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Federalist Party",
+            "url": "https://www.britannica.com/topic/Federalist-Party",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-104-enslavement-contradiction",
+      "locale": "tr",
+      "decision": "flagship-expand",
+      "reason": "Flagship card was short; expanded with headings and stronger distinction between moral contradiction and constitutional/economic structure.",
+      "fields": {
+        "realHistory": "### Özgürlük dili ve zorla emek\n\nHamilton, Amerikan Devrimi'ni enerji, yetenek ve özgürlük diliyle anlatır; fakat kurucu dönemin en büyük çelişkisi sahnenin kenarında kalır. Yeni cumhuriyet, Britanya'ya karşı özgürlük ve temsil iddiasıyla doğarken aynı anda milyonlarca insanı köleleştiren bir ekonomik düzeni korudu. Bu çelişki yalnız kişisel tutarsızlık değildi; anayasa, temsil sistemi, ticaret ve tarım ekonomisi içinde kurumsal hale geldi. Kurucu kuşağın bazı üyeleri köleliği ahlaki sorun olarak gördü, ama ulusal birliği koruma hesabı çoğu zaman bu eleştirinin önüne geçti.\n\n### Anayasa metnine gömülen uzlaşmalar\n\n1787 Anayasası kölelik kelimesini doğrudan kullanmadan sistemi tanıyan düzenlemeler içerdi. Üçte beş uzlaşması, oy hakkı olmayan köleleştirilmiş nüfusun bir kısmını temsil hesabına katarak köle sahibi eyaletlerin Kongre ve başkanlık seçimlerindeki ağırlığını artırdı. Kaçak köle maddesi, eyalet sınırını aşan kaçışları özgürlük alanı olmaktan çıkarıp mülkiyet iddiasına bağladı. Atlantik köle ticareti konusunda da 1808'e kadar doğrudan federal yasak getirilmemesi, yeni birliği koruma adına verilen ağır bir tavizdi. Böylece kölelik yalnız plantasyonlarda değil, federal temsil ve hukuk düzeninde de etki üretti.\n\n### Devrim ideali ile pazar gerçeği\n\nGüney eyaletlerinde tütün, pirinç ve daha sonra pamuk ekonomisi köleleştirilmiş emeğe dayanıyordu. Kuzeyde kademeli özgürleştirme adımları görüldü, fakat kuzeyli tüccar ve finans çevreleri de Atlantik ticareti, sigorta, gemicilik ve kredi ağları üzerinden bu ekonomiden kopuk değildi. Bu yüzden mesele yalnız \"Güney'in sorunu\" değildi; kurucu cumhuriyetin ekonomik dolaşımı zorla emekten besleniyordu. Bağımsızlık retoriği, ticaret ve mülkiyet çıkarlarıyla karşılaştığında kapsamını hızla daralttı.\n\n### Hamilton anlatısının kör noktası\n\nHamilton müzikali köleliği tamamen silmez, fakat ana dramatik enerjisini göçmenlik, yetenek, yazı gücü ve politik yükseliş üzerine kurar. Bu tercih sahne açısından anlaşılır olsa da kurucu dönemin maddi temelini eksik bırakır. Hazine politikası, ticaret, gümrük gelirleri ve liman ekonomisi konuşulduğunda, Atlantik dünyasındaki zorla emek düzeni de bu ağların arka planında durur. Erken Amerikan devleti yalnız fikirlerle değil, borç senetleri, ihracat ürünleri, arazi spekülasyonu ve insan emeğinin mülkleştirilmesiyle kuruldu. Bu nedenle kölelik çelişkisini ayrı bir ahlaki dipnot gibi değil, kurucu ekonominin merkezindeki gerilim olarak okumak gerekir.\n\n### Ertelenen hesaplaşma\n\nJefferson'ın Bağımsızlık Bildirisi taslağındaki köle ticaretini hedef alan bölümünün çıkarılması da bu uzlaşma sınırını gösterir. Hamilton gibi bazı figürler kölelik karşıtı çevrelere yakın dursa bile, sahnedeki özgürlük retoriği dönemin gerçek dışlamalarını tek başına çözmedi. Sonraki kuşaklarda kölelik karşıtları ve sivil haklar savunucuları kurucu metinlerdeki eşitlik dilini sisteme karşı kullandı. İç Savaş'a giden uzun gerilim, tam da bu ertelenmiş hesabın sonucuydu. Problem birkaç liderin kişisel tutarsızlığından çok, federal devletin mali ve temsil düzenine köle emeğini gömen uzun ömürlü bir kurumsal tasarımdı.\n\nBu gerilim aynı zamanda hak dilinin sonraki kuşaklar tarafından yeniden kullanılmasının da nedenidir. Kurucu metinler başlangıçta dar bir siyasal topluluğu hedeflese de, içerdikleri eşitlik iddiası daha sonra kölelik karşıtları, özgür Siyah topluluklar, kadın hakları savunucuları ve sivil haklar hareketleri tarafından genişletildi. True Frame açısından asıl nokta şudur: Hamilton'ın parlak sözleri ve kurucu idealizmi, ancak bu dışlama yapılarıyla birlikte okunduğunda tarihsel olarak tamamlanır.",
+        "readingTimeMinutes": 3,
+        "accuracyNote": "Müzikal kurucu idealizmi güçlü taşır; ancak köleliğin anayasal temsil, ticaret ve finans sistemi içindeki kurumsal yeri sınırlı görünür.",
+        "whyInteresting": "Özgürlük diliyle kurulan bir devletin aynı anda zorla emek rejimini anayasal uzlaşmalarla koruması modern siyasi tarihin en sert paradokslarından biridir.",
+        "misconception": "Amerikan Devrimi'nin köleliği kısa sürede tasfiye ettiği sanılır; gerçekte yeni federal düzen köleliği erteleyerek ve koruyarak kuruldu.",
+        "mediaChanged": "Müzikal kurucu ideali ve kişisel yükselişi öne çıkarır; tarihsel gerçeklikte özgürlük söylemi ile köle ekonomisi aynı devlet çatısı altında birlikte büyüdü.",
+        "whyItMatters": "Bu çelişki, ABD'nin kurucu metinlerini yalnız ilham kaynağı değil, dışlanan grupların hak mücadelesi için sürekli tartışılan belgeler haline getirdi.",
+        "quickRealityCheck": "Eşitlik iddiasıyla kurulan bir cumhuriyet, neden Anayasa'da köleliği doğrudan kaldırmak yerine onu temsil ve mülkiyet düzenine bağladı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "National Archives - The Constitution of the United States: A Transcription",
+            "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "National Archives - Garrison's Constitution",
+            "url": "https://www.archives.gov/publications/prologue/2000/winter/garrisons-constitution-1",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Three-Fifths Compromise",
+            "url": "https://www.britannica.com/topic/Three-Fifths-Compromise",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "American Battlefield Trust - Jefferson Condemns the Slave Trade in the Declaration of Independence",
+            "url": "https://www.battlefields.org/learn/primary-sources/jefferson-condemns-slave-trade-declaration-independence",
+            "type": "primary-source",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-105-dueling-culture",
+      "locale": "tr",
+      "decision": "minor-rewrite",
+      "reason": "Ending was tightened; dueling kept as an elite honor practice with codes, law tensions and media/public reaction.",
+      "fields": {
+        "subtitle": "Onur, yasa ve barut hesabı",
+        "realHistory": "Erken Amerikan cumhuriyetinde düello, özellikle seçkin erkekler arasında itibar krizini yönetmenin gayriresmi ama güçlü bir yoluydu. Kamu önünde hakarete uğramak siyasi kariyeri zayıflatabileceği için mesele çoğu zaman mahkeme yerine meydan okumaya taşınırdı. Code Duello gibi kurallar; çağrı mektubu, arabulucu seçimi, mesafe, silah ve atış sırası gibi ayrıntıları standartlaştırarak şiddeti rastgele kavga olmaktan çıkarıyordu.\n\nHamilton-Burr düellosu bu kültürün en ünlü örneğidir, fakat tekil bir tuhaflık değildi. Subaylar, gazeteciler ve siyasetçiler arasında itibar, erkeklik ve kamusal güvenilirlik çoğu zaman bedensel cesaretle ilişkilendiriliyordu. Hukuki zemin ise çelişkiliydi: birçok yerde düello yasaktı, ölümle sonuçlandığında cinayet tartışması doğabiliyordu. Buna rağmen sınıfsal ağlar, tanıklar ve siyasi nüfuz uygulamada esneklik yaratıyordu.\n\n19. yüzyıl ilerledikçe modern parti kurumları, profesyonel hukuk, basın eleştirisi ve dini kampanyalar düellonun meşruiyetini aşındırdı. Bazı eyaletlerde kamu görevlilerinden düelloya katılmadığına dair yemin istenmesi bu dönüşümün işaretidir. Hamilton sahnede düelloyu kaderci bir doruk anına dönüştürür; tarihsel olarak ise bu pratik, genç cumhuriyetin şiddeti tamamen hukuk içine alamadığı bir geçiş dönemini gösterir. Düello bu yüzden sadece iki kişinin trajedisi değil, kurumlara duyulan güvenin henüz kırılgan olduğu bir siyasal kültür göstergesidir.",
+        "accuracyNote": "Hamilton-Burr olayı doğru temele dayanır; ancak müzikal düello prosedürlerini ve hukukla gerilimini sahne akışı için sadeleştirir.",
+        "whyInteresting": "Bir cumhuriyet özgürlük ve hukuk vaadi taşırken, elit siyasetçilerin anlaşmazlığı bazen barut, mesafe ve tanık hesabıyla çözülüyordu.",
+        "misconception": "Düellonun tamamen plansız ve anlık öfkeyle gerçekleşen bireysel kavga olduğu düşünülür.",
+        "mediaChanged": "Müzikal düelloyu kişisel kader anı yapar; tarihsel pratikte yazılı kuralları, arabulucuları ve sınıfsal kabulleri olan yarı ritüel bir itibar sistemi vardı.",
+        "whyItMatters": "Düello kültürü, erken cumhuriyette hukuk kurumları ile elit onur kodlarının henüz tam ayrışmadığını gösterir.",
+        "quickRealityCheck": "Yasa dışı görülebilen bir düello pratiği, neden uzun süre seçkin çevrelerde itibar koruma yöntemi sayıldı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Library of Congress - The Burr-Hamilton Duel",
+            "url": "https://www.loc.gov/collections/aaron-burr-papers/articles-and-essays/the-burr-hamilton-duel/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "PBS - The History of Dueling in America",
+            "url": "https://www.pbs.org/wgbh/americanexperience/features/duel-history-dueling-america/",
+            "type": "educational",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Duel",
+            "url": "https://www.britannica.com/topic/duel",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-106-loyalists",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Duplicate title block removed; Loyalists reframed as diverse political/social actors rather than only comic opponents to the Patriot narrative.",
+      "fields": {
+        "subtitle": "Devrimin kaybeden komşuları",
+        "realHistory": "Amerikan Bağımsızlık Savaşı sırasında koloniler tek sesli değildi. Loyalistler ya da Tories olarak anılan geniş bir grup, Britanya tacına bağlı kalmayı seçti. Bu tercih tek bir nedene indirgenemezdi: bazıları meşru kraliyet otoritesine inandı, bazıları ticaret düzeninin bozulmasından korktu, bazıları Anglikan kilisesiyle bağlarını korudu, bazıları da yerel komşuluk, güvenlik ya da kölelik düzeninin devamı gibi nedenlerle taraf aldı.\n\nSavaş ilerledikçe sadakat tercihi yalnız fikir ayrılığı olmaktan çıktı. Mahalleler ve aileler bölündü; kimi loyalistlerin mülkleri müsadere edildi, gazeteleri susturuldu, iş ağları dağıldı. Britanya ordusuna destek verenler veya açıkça tacı savunanlar için savaş sonrasında eski topluma dönmek çoğu yerde mümkün olmadı. On binlerce kişi Kanada'ya, Britanya'ya, Karayiplere ya da başka imparatorluk bölgelerine göç etti.\n\nBu sürgün deneyimi, Amerikan Devrimi'nin yalnız özgürlük değil yerinden edilme tarihi de olduğunu gösterir. Hamilton müzikali King George'u mizahi bir karşı figür yapar ve bağımsızlık tarafını duygusal olarak merkezler. Tarihsel tabloda ise loyalistler de komşu, tüccar, memur, din adamı, köleleştirilmiş insanlara sahip plantasyon elitleri veya güvenlik arayan sıradan ailelerdi. Zaferin ardından \"vatansever\" ve \"hain\" etiketlerini büyük ölçüde kazanan tarafın hafızası belirledi.",
+        "accuracyNote": "Müzikalin King George tonu bilinçli bir sahne tercihidir; loyalist toplumun bölgesel, sınıfsal ve göç deneyimi çok daha çeşitlidir.",
+        "whyInteresting": "Aynı savaş ABD'de özgürlük hafızası, Kanada'da ise sadakat ve sürgün hafızası olarak okunabilir.",
+        "misconception": "Tüm kolonistlerin devrimi desteklediği sanılır; oysa önemli bir loyalist nüfus vardı ve savaş sonrası büyük göç dalgaları yaşandı.",
+        "mediaChanged": "Müzikal loyalist sesi karikatürleştirir; arşivler onların da aile, mülk, din ve güvenlik ağları içinde karar verdiğini gösterir.",
+        "whyItMatters": "Devrimleri anlamak için yalnız kazananların ideallerine değil, kaybedenlerin neden karşı çıktığına ve sonrasında nereye sürüldüğüne de bakmak gerekir.",
+        "quickRealityCheck": "Bağımsızlık savaşı bittikten sonra loyalist ailelerin önemli bir kısmı neden eski mahallelerinde kalamadı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Britannica - Loyalist (American Revolution)",
+            "url": "https://www.britannica.com/topic/Loyalist-American-Revolution",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Canadian Encyclopedia - Loyalists in Canada",
+            "url": "https://thecanadianencyclopedia.ca/en/article/loyalists",
+            "type": "reference",
+            "verified": true
+          },
+          {
+            "title": "Library and Archives Canada - United Empire Loyalist records",
+            "url": "https://thediscoverblog.com/tag/united-empire-loyalist/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-107-french-alliance",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Repeated final title block removed; alliance framed as diplomacy, naval power, credit and geopolitics, not only Lafayette heroism.",
+      "fields": {
+        "subtitle": "Yorktown'u mümkün kılan diplomasi",
+        "realHistory": "1778 Fransız-Amerikan ittifakı, Amerikan isyanını yerel bir koloni çatışmasından küresel savaşa dönüştüren kritik eşikti. Saratoga zaferi, Fransa'ya kolonilerin sürdürülebilir bir ortak olabileceğini gösterdi; ardından Treaty of Alliance ve ticaret antlaşmaları imzalandı. Fransa'nın amacı yalnız idealist özgürlük desteği değildi: Yedi Yıl Savaşı yenilgisinin ardından Britanya'yı zayıflatmak ve Atlantik güç dengesini yeniden kurmak istiyordu.\n\nLafayette müzikalde haklı olarak güçlü bir sembol taşır, ancak savaşın sonucunu belirleyen asıl katkı yalnız tek bir gönüllü subayın cesareti değildi. Fransız kredisi, mühimmat, eğitimli kara birlikleri, Rochambeau'nun ordusu ve özellikle deniz gücü belirleyici oldu. 1781'de de Grasse filosunun Chesapeake'de İngiliz desteğini kesmesi, Yorktown kuşatmasını kapanabilir hale getirdi. Cornwallis'in teslimi bu nedenle kara ve deniz ittifakının ortak sonucuydu.\n\nİttifakın bedeli de vardı. Fransa büyük mali yük altına girdi ve bu borç baskısı 1780'lerin sonundaki iç krizleri derinleştiren unsurlardan biri oldu. Amerikan tarafında da monarşik Fransa ile cumhuriyetçi söylem arasındaki gerilim tamamen kaybolmadı. Hamilton, Lafayette'i coşkulu devrim dostluğu olarak sahneye taşır; tarihsel çerçevede ise ittifak, duygu kadar kredi, donanma ve jeopolitik çıkar hesabıyla işleyen bir savaş ortaklığıydı.",
+        "accuracyNote": "Müzikal Lafayette'i temsil gücü yüksek bir figür yapar; tarihsel süreçte Fransız donanması, kredi ve askeri lojistik en az bireysel kahramanlık kadar belirleyicidir.",
+        "whyInteresting": "Aynı ittifak hem Amerikan bağımsızlığını güçlendirdi hem de Fransa'nın mali krizini ağırlaştıran yüklerden biri oldu.",
+        "misconception": "Kolonilerin savaşı neredeyse kendi başına kazandığı düşünülür; Fransız deniz ve kara desteği Yorktown'da dönüm noktasıydı.",
+        "mediaChanged": "Müzikal ittifakı dostluk ve enerjiyle anlatır; tarihsel düzlemde Fransa'nın Britanya'yı zayıflatma hesabı ve deniz gücü belirleyicidir.",
+        "whyItMatters": "Amerikan Devrimi'nin sonucu yalnız iç siyasetle değil, Atlantik güç dengesi ve Avrupa rekabetiyle de belirlendi.",
+        "quickRealityCheck": "Yorktown'da Fransız filosu İngiliz ikmalini kesmeseydi kuşatma aynı sonucu verebilir miydi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "National Archives - Treaty of Alliance with France (1778)",
+            "url": "https://www.archives.gov/milestone-documents/treaty-of-alliance-with-france",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Office of the Historian - French Alliance",
+            "url": "https://history.state.gov/milestones/1776-1783/french-alliance",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Siege of Yorktown",
+            "url": "https://www.britannica.com/event/Siege-of-Yorktown",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-108-constitution",
+      "locale": "tr",
+      "decision": "flagship-expand",
+      "reason": "Flagship card was short and repetitive; expanded with headings on Articles of Confederation crisis, Philadelphia compromises, ratification, Bill of Rights and slavery compromises.",
+      "fields": {
+        "realHistory": "### Konfederasyondan federal devlete\n\nHamilton'da anayasa tartışması hızlı söz düelloları ve parlak kurucu figürler üzerinden akar; gerçekte sorun, bağımsızlık zaferinden sonra zayıf konfederasyon düzeninin yeni devleti taşıyıp taşıyamayacağıydı. Articles of Confederation altında federal hükümetin vergi toplama, borç ödeme ve ticareti düzenleme kapasitesi sınırlıydı. Savaş kazanılmıştı, ama kamu kredisi kırılgan, eyaletler arası çıkar çatışmaları belirgin ve dış baskılar devam ediyordu. Philadelphia Konvansiyonu bu yüzden sadece teknik hukuk toplantısı değil, dağılma korkusuna verilen siyasi yanıttı.\n\n### Philadelphia'daki pazarlık\n\n1787 Philadelphia Konvansiyonu bu krizi çözmek için toplandı, fakat ortaya çıkan metin basit bir birlik manifestosu değildi. Büyük ve küçük eyaletler temsil biçimi üzerinde pazarlık yaptı; iki kanatlı Kongre formülü bu gerilimin sonucuydu. Yürütmenin gücü, başkanın seçilme biçimi, federal mahkemeler ve vergi yetkisi de uzun tartışmalarla belirlendi. Kölelik ise metnin en ağır uzlaşmalarından biriydi: üçte beş hesabı, kaçak köle maddesi ve köle ticaretine ilişkin erteleme formülleri, cumhuriyetin özgürlük diliyle zorla emek gerçeğini aynı çatıya yerleştirdi.\n\n### Onay mücadelesi ve haklar\n\nAnayasa kabul edildiği anda tartışma bitmedi. Federalistler metni savunmak için kamuoyuna dönük güçlü bir yazı kampanyası yürüttü; anti-federalistler ise güçlü merkezin hakları ve eyalet özerkliğini aşındıracağından korktu. Bill of Rights'ın 1791'de eklenmesi, bu itirazlara verilen en önemli yanıttı. Yani temel hak güvenceleri, metnin ilk halindeki eksikleri tamamlayan siyasi bir uzlaşma olarak ortaya çıktı. Bu süreç, anayasanın baştan kusursuz kabul edilmediğini; güven inşa etmek için ek teminatlara ihtiyaç duyulduğunu gösterir.\n\n### Yaşayan çatışma\n\nBu yüzden ABD Anayasası yalnız kurucu başarı değil, ertelenmiş sorunlar belgesidir. Güçlü federal devlet talebi ile yerel özerklik kaygısı, hak güvenceleri ile kölelik tavizleri, yürütme kapasitesi ile tiranlık korkusu aynı metinde birlikte yaşar. Hamilton bunu sahne enerjisiyle hızlandırır; tarihsel ağırlık ise anayasanın bir anda doğmuş kutsal metin değil, krizleri geçici olarak yöneten büyük bir pazarlık ürünü olmasındadır. Sonraki iki yüzyıllık Amerikan siyasetinde bu pazarlıkların izleri tekrar tekrar geri dönecektir.\n\nHamilton anlatısı, bu gerilimi çoğu zaman kurucu zekâların hızlı hamleleri gibi gösterir. Oysa anayasa süreci, halk egemenliği fikrinin kimleri kapsayacağı, merkezi hükümetin ne kadar vergi toplayabileceği, eyaletlerin hangi alanlarda direnebileceği ve hakların metinde açıkça yazılıp yazılmayacağı üzerine yürüyen çok katmanlı bir güç mücadelesiydi. Özellikle kölelik konusunda yapılan tavizler, ileride patlayacak krizin yalnız ahlaki değil anayasal bir zemine de sahip olduğunu gösterir. Bu nedenle Anayasa Tartışması kartının odağı, 'kurucular iyi bir metin yazdı' cümlesinden daha fazlasıdır: yeni devlet, kendi varlığını mümkün kılan ödünlerin bedelini sonraki kuşaklara devretti.\n\nBu yönüyle anayasa, hem istikrar sağlayan hem de çatışmayı erteleyen bir teknolojidir. Federalistlerin istediği enerjiye sahip merkezi devlet kurulurken, anti-federalistlerin korktuğu yetki yoğunlaşması da sürekli gündemde kaldı. Bill of Rights bu korkuyu bütünüyle bitirmedi; yalnızca yeni cumhuriyetin vatandaşlara karşı kendini sınırlama sözü vermesini sağladı. Tartışmanın bugüne kadar sürmesi, 1787 metninin kapanmış bir konu değil, sürekli yorumlanan bir iktidar sözleşmesi olduğunu gösterir.",
+        "readingTimeMinutes": 3,
+        "accuracyNote": "Müzikal anayasa sürecini birkaç sahne ve figüre yoğunlaştırır; gerçek süreç eyaletler arası temsil, federal yetki, kölelik ve hak güvencesi pazarlıklarıyla ilerledi.",
+        "whyInteresting": "Aynı belge hem birliği güçlendirdi hem de kölelik ve federal güç gibi büyük çatışmaları geleceğe erteledi.",
+        "misconception": "ABD Anayasası'nın hızlı ve neredeyse oybirliğiyle doğduğu sanılır; gerçekte sert ratifikasyon mücadeleleri ve büyük ödünler vardı.",
+        "mediaChanged": "Müzikal anayasa tartışmasını sözel rekabete sıkıştırır; tarihsel tabloda metin, savaş borcu, temsil krizi, eyalet kaygısı ve hak güvencesi arasındaki pazarlıktır.",
+        "whyItMatters": "Anayasa tartışması, modern devletin ne kadar güçlü olacağı ve bireysel hakların bu güce karşı nasıl korunacağı sorusunu kalıcılaştırdı.",
+        "quickRealityCheck": "Bill of Rights neden Anayasa ile aynı anda değil, ratifikasyon baskıları sonrasında eklendi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "U.S. Senate - Constitution of the United States",
+            "url": "https://www.senate.gov/civics/constitution_item/constitution.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "National Archives - Bill of Rights",
+            "url": "https://www.archives.gov/milestone-documents/bill-of-rights",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Library of Congress - The Federalist Papers",
+            "url": "https://guides.loc.gov/federalist-papers/full-text",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Constitutional Convention",
+            "url": "https://www.britannica.com/event/Constitutional-Convention",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-109-native-nations",
+      "locale": "tr",
+      "decision": "minor-rewrite",
+      "reason": "Already solid; tightened framing around sovereignty, Treaty of Paris exclusion and postwar Northwest conflict.",
+      "fields": {
+        "subtitle": "Kurucu hikâyenin sahne dışı egemenlikleri",
+        "realHistory": "18. yüzyılın sonlarında Kuzey Amerika'da Haudenosaunee, Shawnee, Cherokee, Creek ve başka birçok Yerli ulus bağımsız siyasi aktörler olarak hareket ediyordu. Amerikan Devrimi sırasında bu topluluklar tek bir blok halinde davranmadı; bazıları Britanya'yla ittifak kurdu, bazıları isyancı kolonilerle pazarlık yaptı, bazıları da tarafsız kalmaya çalıştı. Kararlar ideolojik sempati kadar ticaret yolları, sınır güvenliği, yerleşimci yayılması ve hayatta kalma hesaplarına dayanıyordu.\n\n1783 Paris Antlaşması'nda Britanya, Yerli ulusları masaya dahil etmeden geniş toprakları ABD'ye bıraktı. Kâğıt üzerindeki bu devir, sahadaki egemenlik gerçekliğiyle çelişiyordu; çünkü bu topraklarda yaşayan halklar kendilerini Britanya'nın devredeceği pasif mülkler olarak görmüyordu. Yeni federal devlet, sonraki yıllarda antlaşmalar, askeri seferler ve yerleşim baskısıyla Ohio Vadisi ile güneydoğuda egemenlik alanını genişletmeye çalıştı.\n\n1790'lardaki Kuzeybatı Kızılderili Savaşı ve Greenville Antlaşması, sınır inşasının diplomasi kadar zor kullanımıyla da kurulduğunu gösterir. Hamilton müzikalinde kurucu elitlerin Londra ve birbirleriyle çatışması merkezdedir; fakat aynı dönemde Yerli uluslar da kendi ittifaklarını, direniş biçimlerini ve müzakere stratejilerini sürdürüyordu. Bugün birçok topluluk, o dönemin antlaşmalarını hukuki hak ve egemenlik iddiaları için hâlâ kullanıyor. Bu nedenle kurucu dönem, yalnız anayasa ve kabine tarihi değil, aynı zamanda devam eden toprak ve egemenlik mücadelesinin başlangıç halkalarından biridir.",
+        "accuracyNote": "Müzikalin kurucu elit odağı anlaşılırdır; ancak Yerli ulusların diplomatik ve askeri aktörlüğü sahne dışında kalır.",
+        "whyInteresting": "Aynı dönemde yeni bir cumhuriyet kurulurken çok sayıda Yerli ulus kendi egemenlik çizgisini korumaya çalışıyordu.",
+        "misconception": "Amerikan Devrimi sırasında Yerli toplumların pasif kaldığı ya da tek bir tutum aldığı düşünülür.",
+        "mediaChanged": "Müzikal kurucu siyaseti merkezler; tarihsel gerçeklikte sınır politikası Yerli uluslarla süren uzun bir güç mücadelesiydi.",
+        "whyItMatters": "1783 sonrası toprak düzeni, bugünkü egemenlik ve antlaşma hakları tartışmalarının tarihsel zeminini oluşturdu.",
+        "quickRealityCheck": "1783 Paris Antlaşması'nda toprak devri yapılırken, o topraklarda yaşayan Yerli uluslar neden masada yoktu?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "National Park Service - Native Americans and the American Revolution",
+            "url": "https://www.nps.gov/subjects/americanrevolution/native-americans-and-the-american-revolution.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Office of the Historian - Treaty of Paris, 1783",
+            "url": "https://history.state.gov/milestones/1776-1783/treaty-of-paris",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "National Park Service - The Six Nations Confederacy During the American Revolution",
+            "url": "https://www.nps.gov/articles/000/the-six-nations-confederacy-during-the-american-revolution.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Northwest Indian War",
+            "url": "https://www.britannica.com/event/Northwest-Indian-War",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

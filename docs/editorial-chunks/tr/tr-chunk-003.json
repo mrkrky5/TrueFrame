@@ -1,0 +1,341 @@
+{
+  "locale": "tr",
+  "chunkIndex": 3,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "vikings-raid",
+      "title": "Lindisfarne Baskını (793)",
+      "subtitle": "Viking Çağı'nın şafağı",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Orta Çağ",
+      "region": "Avrupa",
+      "themes": [
+        "Savaş",
+        "Din",
+        "Kültür"
+      ],
+      "whatWeSee": "Kuzeyli yağmacıların Kutsal Ada'daki (Holy Island) korumasız bir manastıra saldırıp Hıristiyan dünyasını dehşete düşürmesini görürüz.",
+      "realHistory": "8 Haziran 793 tarihinde İngiltere'nin kuzeydoğu kıyısındaki Lindisfarne Adası'nda bulunan kutsal manastıra yapılan saldırı, Avrupa tarihinde 'Viking Çağı'nın resmen başladığı an olarak kabul edilir. Bu saldırı, sadece bir yağma eylemi değil, Hristiyan dünyası için tarif edilemez bir psikolojik şoktu. O güne kadar manastırlar, savunmasız olmalarına rağmen kutsallıkları nedeniyle dokunulmaz kabul ediliyordu. Kuzeyden gelen bu 'pagan' savaşçılar, bu kuralı yerle bir ederek Orta Çağ Avrupa'sının güvenlik anlayışını sonsuza dek değiştirdiler. Manastırın sessizliği, ejderha başlı gemilerin kıyıya vurmasıyla sonsuza dek bozuldu. Saldırının başarısının temelinde Vikinglerin 'Longship' (Drakkar) adı verilen gemi teknolojisi yatıyordu. Bu gemiler hem açık denizlerde fırtınalara dayanabiliyor hem de sığ nehirlerde ilerleyebiliyordu. Bu özellik, Vikinglerin sadece kıyı şehirlerini değil, iç kesimlerdeki savunmasız köyleri ve şehirleri de vurabilmesini sağlıyordu. Bir Viking gemisi, sadece 50-60 santimetre derinliğindeki sularda bile yüzebiliyordu; bu da onların baskın yapıp, ganimetleri toplayıp, yerel savunma birlikleri toplanmadan denize açılmalarını sağlıyordu. Gemi gövdesinin esnek yapısı, dalgaların gücüne karşı kırılmak yerine bükülerek dayanıklılık sağlıyordu. Bu, o dönemin en ileri deniz mühendisliğiydi. Lindisfarne manastırı, zengin altın haçları, değerli elyazmaları ve bol miktarda gıda stokuyla Vikingler için kolay bir hedefti. Savaşçılar, rahipleri katletmiş, bir kısmını köle olarak yanlarına almış ve manastırın tüm hazinesini gemilerine doldurmuşlardır. Anglo-Sakson kronikleri bu olayı 'Kuzeyden gelen vahşi paganların Tanrı'nın kilisesini kanla kirletmesi' olarak tasvir eder. Bu saldırı, Vikinglerin sadece altın peşinde olmadığını, aynı zamanda yeni topraklar ve köleler arayan organize bir toplumun öncü birliği olduklarını göstermiştir. Kutsal kitapların altın kapakları sökülmüş, sayfaları ise nehre atılmıştır; bu, iki farklı dünya görüşünün en acımasız karşılaşmasıydı. Vikingler, sanıldığı gibi sadece düzensiz bir güruh gibi saldırmıyorlardı. Savaş meydanında 'Kalkan Duvarı' (Shield-Wall) adı verilen, kalkanların birbirinin üzerine bindirildiği çok sıkı ve etkili bir savunma formasyonu kullanıyorlardı. Bu taktik, onları ok yağmurlarından koruyor ve düşman hattını bir balyoz gibi yarmalarını sağlıyordu. Ayrıca 'Berserker' olarak bilinen ve savaş öncesi kendinden geçerek korkusuzca saldıran elit savaşçıların varlığı, düşman üzerinde devasa bir korku yaratıyordu. Viking savaşçısı için onurlu bir ölüm, Valhalla'nın kapılarını açan tek anahtardı. Savaş balataları (Dane Axe), tek bir darbeyle bir atı veya zırhlı bir şövalyeyi ikiye bölebilecek güçteydi. Vikingler sadece savaşçı değil, aynı zamanda çok mahir tüccarlardı. Bir gün bir köyü yağmalarken, başka bir gün aynı bölgeyle barışçıl ticaret yapabiliyorlardı. Gümüşe olan açlıkları, onları Konstantinopolis'ten (Miklagard) Bağdat'a kadar uzanan devasa bir ticaret ağı kurmaya itmiştir. Bugün İskandinavya'daki arkeolojik kazılarda binlerce Abbasi dirhemi ve Bizans parası bulunması, bu küresel ticaret ağının kanıtıdır. Yağma, aslında bu ticaret döngüsünün 'sermaye toplama' aşamasıydı. Vikingler, köle ticaretinde (Thrall).",
+      "accuracyNote": "Lindisfarne baskını tarihsel bir gerçektir; ancak Vikings dizisindeki gibi Ragnar Lothbrok'un bu baskını tek başına 'keşfetmesi' kurgusaldır. Baskınlar daha önce de küçük çaplı olarak başlamıştı; ancak 793'teki saldırı, hedef alınan yerin kutsallığı nedeniyle tüm Hıristiyan dünyasını şoke etmiştir.",
+      "whyInteresting": "Lindisfarne, 'Kutsal Ada' (Holy Island) olarak bilinirdi ve o dönemde Kuzey İngiltere'nin hem dini hem de en zengin kültürel merkeziydi. Vikingler için burası bir inanç merkezi değil, sadece içinde bol miktarda altın, gümüş ve esir barındıran korumasız bir 'banka' niteliğindeydi. Bu kültürel çatışma, Avrupa'nın askeri ve sosyal yapısını tamamen değiştirmiştir.",
+      "misconception": "Vikinglerin boynuzlu miğfer taktığı sanılır; bu tamamen 19. yüzyıldaki operaların yarattığı bir mittir.",
+      "nextTopics": [
+        "Anglo-Sakson Kronikleri",
+        "St. Cuthbert",
+        "Viking Gemi Teknolojisi"
+      ],
+      "sources": [
+        {
+          "title": "The Raid on Lindisfarne (English Heritage)",
+          "url": "https://www.english-heritage.org.uk/visit/places/lindisfarne-priory/History/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [
+        "The Last Kingdom",
+        "The Northman"
+      ],
+      "relatedCardIds": [
+        "kcd-bohemia",
+        "viking-horned-helmet",
+        "vikings-silk-road-trade"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-27",
+      "reviewerNote": "Anglo-Sakson Kroniği ve Alcuin'in mektuplarıyla içerik doğrulanmıştır.",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Bu kart, Vikings yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "avrupa",
+        "din",
+        "kltr",
+        "orta-cag",
+        "savas",
+        "vikings"
+      ],
+      "mediaChanged": "Dizide Ragnar Lothbrok'un adayı 'tesadüfen' keşfettiği anlatılır. Gerçekte Vikinglerin okyanus geçişleri planlıydı ve İngiltere kıyıları daha önce de küçük çaplı saldırılara maruz kalmıştı. Ayrıca kostümler (deri zırhlar) büyük oranda kurgusaldır.",
+      "whyItMatters": "Lindisfarne, 'Kutsal Ada' (Holy Island) olarak bilinirdi ve o dönemde Kuzey İngiltere'nin hem dini hem de en zengin kültürel merkeziydi.",
+      "isFlagship": true,
+      "quickRealityCheck": "Viking dünyası yağma kadar ticaret ve yerleşim ağlarından da oluşuyordu.",
+      "spoilerNote": "Vikings hikâyesine dair ipuçları içerebilir; sonu anlatmaz."
+    },
+    {
+      "id": "shogun-edo",
+      "title": "Sekigahara'dan Barışa",
+      "subtitle": "Tokugawa'nın 250 yıllık huzuru",
+      "mediaType": "series",
+      "mediaTitle": "Shōgun",
+      "era": "Orta Çağ",
+      "region": "Japonya",
+      "themes": [
+        "Siyaset",
+        "Savaş",
+        "Diplomasi"
+      ],
+      "whatWeSee": "Naip lordlar arasındaki güç mücadelesini ve bir İngiliz kılavuz kaptanın (Anjin) bu satranç tahtasındaki yerini izleriz.",
+      "realHistory": "21 Ekim 1600 tarihinde gerçekleşen Sekigahara Muharebesi, Japonya tarihinin en kritik kırılma noktasıdır. 'Ülkenin kaderini belirleyen savaş' (Tenka Wakeme no Kasen) olarak bilinen bu çatışma, yüzyıllardır süregelen iç savaşı (Sengoku Dönemi) bitirmiş ve 260 yıl sürecek olan Tokugawa Şogunluğu'nun temellerini atmıştır. Tokugawa Ieyasu, bu zaferle Japonya'yı birleşik, merkeziyetçi ve dış dünyaya kapalı bir yapıya dönüştürecek olan 'Edo Dönemi'ni başlatmıştır. Savaş meydanındaki sis dağıldığında, Japonya artık derebeylerin değil, tek bir otoritenin emrindeydi. Ieyasu, başkentini Kyoto gibi geleneksel merkezlerden uzaklaştırıp bataklıklarla kaplı küçük bir balıkçı köyü olan Edo'ya (günümüz Tokyo) taşımıştır. Bu, stratejik bir deha hamlesidir. Edo, zamanla dünyanın ilk 1 milyon nüfuslu şehirlerinden biri haline gelmiştir. Şehrin merkezindeki Edo Kalesi, Şogun'un mutlak gücünün simgesiydi. Tokugawa yönetimi, şehri kanallarla, su yollarıyla ve katı bir sınıfsal hiyerarşiye göre tasarlanmış mahallelerle donatmıştır. Edo, sadece bir şehir değil, Japonya'nın yeni disiplinli yüzüydü. Kanallar, hem ulaşım hem de yangın güvenliği için hayati birer arterdi. Tokugawa yönetiminin en zekice kontrol mekanizması 'Sankin Kotai' (Rehine Sistemi) idi. Bu sisteme göre, her bölgesel bey (Daimyo), her iki yılda bir Edo'da yaşamak zorundaydı ve Edo'dan ayrıldığında ailesini orada 'rehine' olarak bırakıyordu. Bu, Daimyoların hem mali kaynaklarını hem de siyasi hırslarını dizginlemek için tasarlanmıştır. Ayrıca, Daimyoların sürekli seyahat etmesi, Japonya'nın yol ağının (Gokaido) gelişmesini ve ticaretin canlanmasını sağlamıştır. Bu sistem, modern Japonya'nın merkeziyetçi yapısının temel taşıdır. Soylular, paralarını ordu kurmak yerine Edo'daki gösterişli konaklarına harcamaya zorlanmıştır. Edo toplumu, katı bir dörtlü sınıf sistemine (Mibunsei) dayanıyordu: En üstte Savaşçılar (Samuray), ardından Çiftçiler, Zanaatkarlar ve en altta Tüccarlar. Bu sistem, toplumsal istikrarı korumak için tasarlanmıştı. Samuraylar, artık savaşların bitmesiyle birlikte savaşçıdan bürokrata dönüşmüşlerdi. İlginç bir şekilde, sistemin en altındaki tüccarlar zamanla ekonomik gücü ellerine geçirmiş ve Edo'nun o meşhur 'Yüzen Dünya' (Ukiyo) kültürünü yaratmışlardır. Bu sınıfsal gerilim, Japon sanatının, tiyatrosunun (Kabuki) ve edebiyatının ana motoru olmuştur. Samuraylar statü sahibiydi, ancak tüccarlar paranın gerçek sahibiydi. Tokugawa Şogunluğu, dış dünyadan gelen misyonerlik faaliyetlerini ve yabancı etkisini bir tehdit olarak görmüştür. Bu nedenle, 1630'larda 'Sakoku' (Kapalı Ülke) politikası ilan edilmiştir. Japonların yurt dışına çıkması, yabancıların ülkeye girmesi (Nagasaki'deki küçük bir ada olan Dejima'daki Hollandalılar hariç) yasaklanmıştır. Bu 200 yıllık izolasyon, Japonya'nın kendine has sanatının, mutfağının ve sosyal yapısının 'saf' bir şekilde gelişmesini sağlamıştır. Japonya bu dönemde dışarıdan geri kalmış gibi görünse de, içeride okuma-yazma oranının yüksek olduğu ve kentsel gelişimin zirve yaptığı bir dönem yaşamıştır. 'Rangaku' adı verilen Hollanda bilimi aracılığıyla Batı'daki gelişmeler uzaktan da olsa takip edilmiştir. Savaşların bitmesiyle Samuraylar, kılıçlarını birer süs eşyası ve.",
+      "accuracyNote": "Seri, 1600 Japonya'sının görgü kurallarını ve kıyafetlerini muazzam bir doğrulukla yansıtır. Blackthorne'un hikayesi William Adams'ın hayatına çok yakındır.",
+      "whyInteresting": "William Adams, samuray unvanı alan ilk batılıdır ve şogunun kişisel danışmanı olarak Japon tarihini etkilemiştir.",
+      "misconception": "Samurayların sürekli dövüştüğü sanılır; Tokugawa döneminde samuraylar 250 yıl boyunca bürokrat ve sanatçı olarak yaşamıştır.",
+      "nextTopics": [
+        "Tokugawa Ieyasu",
+        "William Adams",
+        "Sekigahara Savaşı"
+      ],
+      "sources": [
+        {
+          "title": "The Real History Behind Shōgun (Smithsonian)",
+          "url": "https://www.smithsonianmag.com/history/the-real-history-behind-shogun-180983804/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [
+        "Ran",
+        "Silence (2016)"
+      ],
+      "relatedCardIds": [
+        "ghost-tsushima-invasion",
+        "shogun-trade-sakoku",
+        "shogun-hostage-politics"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-27",
+      "reviewerNote": "Smithsonian ve Britannica kayıtlarıyla William Adams ve Tokugawa biyografileri doğrulanmıştır.",
+      "spoilerLevel": "major",
+      "mediaConnection": "Bu kart, Shōgun yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "diplomasi",
+        "japonya",
+        "orta-cag",
+        "savas",
+        "shogun",
+        "siyaset",
+        "samuray"
+      ],
+      "mediaChanged": "Shogun dizisindeki/kitabındaki Lord Toranaga, gerçek hayattaki Tokugawa Ieyasu'dur. Karakterlerin isimleri değiştirilmiş olsa da, siyasi entrikalar ve Batı ile olan ilk temaslar tarihsel tutanaklara çok yakındır.",
+      "whyItMatters": "William Adams, samuray unvanı alan ilk batılıdır ve şogunun kişisel danışmanı olarak Japon tarihini etkilemiştir.",
+      "isFlagship": true,
+      "quickRealityCheck": "Edo barışı sadece kılıçla değil, zorunlu ikamet ve mali denetimle korundu.",
+      "spoilerNote": "Shōgun hikâyesinin sonunu veya büyük sürprizlerini anlatabilir."
+    },
+    {
+      "id": "ac2-davinci-tank",
+      "title": "Da Vinci'nin Tankı",
+      "subtitle": "Rönesans'ın zırhlı hayali",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed II",
+      "era": "Rönesans",
+      "region": "İtalya",
+      "themes": [
+        "Teknoloji",
+        "Savaş",
+        "Mühendislik"
+      ],
+      "whatWeSee": "Leonardo'nun kaplumbağa kabuğuna benzeyen, her yöne ateş edebilen devasa bir zırhlı aracı savaş alanında kullandığını görürüz.",
+      "realHistory": "Leonardo da Vinci'nin 1482-1485 yılları arasında tasarladığı 'tank', aslında bir savaş meydanından çok bir mühendislik vizyonudur. Dış kabuğu kaplumbağa kabuğuna benzeyen ve ahşaptan yapılan bu araç, 360 derece ateş edebilen hafif toplarla donatılmıştı. Ancak Assassin's Creed II oyununda gördüğümüz çevik ve yıkıcı gücün aksine, gerçek tasarımın ciddi kusurları vardı. Aracın tekerlekleri zıt yönlere dönecek şekilde çizilmişti; bu da aracın ilerlemesini imkansız kılıyordu. Tarihçiler bunun bir hata mı yoksa Leonardo'nun bu yıkıcı silahın kötü niyetli ellerde kullanılmasını engellemek için kasıtlı olarak yaptığı bir sabote mi olduğunu hala tartışmaktadır. Ayrıca, aracın tamamen insan gücüyle (8 kişi) hareket ettirilmesi planlanmıştı, bu da aracın engebeli arazilerde neredeyse hareketsiz kalacağı anlamına geliyordu. Bu tank hiçbir zaman inşa edilmedi, ancak Da Vinci'nin 'korkutma ve şaşırtma' yoluyla zafer kazanma stratejisinin bir parçası olarak kağıt üzerinde kaldı.\n\nYaygın izlenim, Bu aracın o dönemde aktif olarak kullanıldığı olduğudur; kayıtlar ise sadece kağıt üzerindeki bir konsept olarak kalmıştır.\n\nSoruşturma ve arşiv belgeleri, da Vinci'nin tankı gerçekte inşa edilmedi ve çizimindeki kasıtlı bir mekanik hata nedeniyle hareket etmesi imkansızdı.",
+      "accuracyNote": "Tasarım dâhice olsa da döneminin metalürjisi ve insan gücü kısıtlamaları nedeniyle pratik bir savaş aracı olmaktan uzaktı.",
+      "whyInteresting": "Bazı tarihçiler, Leonardo'nun bu ölümcül silahın inşa edilmesini istemediği için bilerek hatalı çizdiğine inanır.",
+      "misconception": "Bu aracın o dönemde aktif olarak kullanıldığı sanılır; oysa sadece kağıt üzerindeki bir konsept olarak kalmıştır.",
+      "nextTopics": [
+        "Leonardo da Vinci",
+        "Sforza Hanedanı",
+        "Rönesans Mühendisliği"
+      ],
+      "sources": [
+        {
+          "title": "Leonardo's Fighting Vehicle (Smithsonian)",
+          "url": "https://www.smithsonianmag.com/history/leonardo-da-vincis-fighting-machine-180951111/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Interpretation of Da Vinci Machines (Museo Scienza Milano)",
+          "url": "https://www.museoscienza.org/en/leonardo/models",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [
+        "Da Vinci's Demons"
+      ],
+      "relatedCardIds": [
+        "ac-origins-siwa"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-24",
+      "reviewerNote": "Mekanik hatalar ve tasarımın teorik yapısı Smithsonian ve Milan Bilim Müzesi kayıtlarıyla uyumludur.",
+      "spoilerLevel": "none",
+      "mediaConnection": "Bu kart, Assassin's Creed II yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "assassins-creed-ii",
+        "italya",
+        "mhendislik",
+        "rnesans",
+        "savas",
+        "teknoloji",
+        "bilim"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Assassin's Creed II, bu teorik tasarımı işlevsel ve modern bir tank gibi sunarak Rönesans teknolojisini olduğundan çok daha ileri bir noktada gösterir.",
+      "whyItMatters": "Bazı tarihçiler, Leonardo'nun bu ölümcül silahın inşa edilmesini istemediği için bilerek hatalı çizdiğine inanır.",
+      "quickRealityCheck": "Da Vinci'nin tankı gerçekte inşa edilmedi ve çizimindeki kasıtlı bir mekanik hata nedeniyle hareket etmesi imkansızdı.",
+      "spoilerNote": ""
+    },
+    {
+      "id": "bf1-harlem-hellfighters",
+      "title": "Harlem Cehennem Savaşçıları",
+      "subtitle": "Irkçılığa karşı kahramanlık",
+      "mediaType": "game",
+      "mediaTitle": "Battlefield 1",
+      "era": "Modern Tarih",
+      "region": "Fransa",
+      "themes": [
+        "Savaş",
+        "Sosyal Haklar",
+        "Kültür"
+      ],
+      "whatWeSee": "I. Dünya Savaşı'nın en ön saflarında savaşan, cesaretleriyle tanınan siyahi bir Amerikan birliğini görürüz.",
+      "realHistory": "Hellfighters, cephede 191 gün kalarak herhangi bir Amerikan birliğinden daha uzun süre savaşmıştır. Hiçbir askeri esir düşmemiş ve hiçbir mevziyi kaybetmemişlerdir. Fransızlar tarafından en yüksek onur nişanı olan 'Croix de Guerre' ile ödüllendirilmişlerdir. Amerika'ya döndüklerinde ise, kazandıkları askeri başarıya rağmen hala ırkçı saldırılara ve ayrımcılığa maruz kalmışlardır. Ancak bu birliğin cesareti, ABD'de siyahların sivil haklar mücadelesinde (Civil Rights) dönüm noktalarından biri olmuştur. Ayrıca yanlarında getirdikleri askeri bando ile Avrupa'yı Caz (Jazz) müziğiyle tanıştırmışlardır.\n\nAskeri bandoları Avrupa'ya caz müziğini taşıdı. Dönüşte ırkçı saldırılara maruz kaldılar.\n\n369. Piyade Alayı ABD ordusunda ayrımcılığa rağmen Fransa cephesine gönderildi ve 191 gün boyunca cephe hattında kaldı. Hiç mevzi kaybetmediler ve Fransız Croix de Guerre nişanını aldılar. Askeri bandoları Avrupa'ya caz müziğini taşıdı; dönüşte ırkçı saldırılara maruz kalsalar da performansları sivil haklar mücadelesine ilham verdi. ABD'de siyah askerlerin çoğu lojistik birimlere yönlendirilirken bu alay cephenin en sert noktalarında çarpıştı.\n\nFransız komutanlar bu birliğe cephede geniş yetki tanıdı; ABD ordusu ise başlangıçta onları yardımcı görevlere yönlendirmek istemişti. Cephedeki süreklilik ve disiplin, birliğin askeri itibarını kalıcı kıldı.\n\nAlayın disiplini ve cephedeki sürekliliği, ABD ordusunun siyahi birliklere yönelik önyargısını tarihsel kayıtlarda sorgulanır hale getirdi.",
+      "accuracyNote": "Oyundaki karakterler kurgu olsa da birliğin savaş performansı ve maruz kaldıkları ayrımcılık tarihi gerçeklere dayanır.",
+      "whyInteresting": "Cephede en uzun süre (191 gün) kalan ABD birliği olmuşlar ve Fransız 'Croix de Guerre' nişanını alan ilk Amerikalılar olmuşlardır.",
+      "misconception": "Siyahi askerlerin sadece lojistik birimlerde çalıştığı sanılır; oysa 369. Alay cephenin en sert noktalarında çarpışmıştır.",
+      "nextTopics": [
+        "I. Dünya Savaşı",
+        "Harlem Rönesansı",
+        "Jim Crow Yasaları"
+      ],
+      "sources": [
+        {
+          "title": "The Harlem Hellfighters (Smithsonian NMAAHC)",
+          "url": "https://nmaahc.si.edu/explore/stories/harlem-hellfighters",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "369th Infantry Records (National Archives)",
+          "url": "https://www.archives.gov/education/lessons/369th-infantry",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [
+        "The Great War (Documentary)"
+      ],
+      "relatedCardIds": [
+        "1917-trenches"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-27",
+      "reviewerNote": "Birliğin savaş süresi ve ödülleri National Archives kayıtlarıyla teyit edilmiştir.",
+      "spoilerLevel": "none",
+      "mediaConnection": "Bu kart, oyundaki Battlefield 1 cepheleri ve savaş atmosferinden yola çıkar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "battlefield-1",
+        "fransa",
+        "kltr",
+        "modern-tarih",
+        "savas",
+        "sosyal-haklar"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Battlefield 1 oyununda bu birlik merkezi bir rol oynar. Ancak oyunda gösterilmeyen asıl mücadele, ABD ordusunun onları beyazlarla birlikte savaştırmak istememesi ve bu yüzden Fransız ordusuna 'ödünç' vermesidir.",
+      "whyItMatters": "Cephede en uzun süre (191 gün) kalan ABD birliği olmuşlar ve Fransız 'Croix de Guerre' nişanını alan ilk Amerikalılar olmuşlardır.",
+      "quickRealityCheck": "Gerçek. 369. Piyade Alayı (Harlem Hellfighters), I. Dünya Savaşı'nda hem ırkçılıkla hem de Almanlarla savaşan kahraman bir siyah birliğidir.",
+      "spoilerNote": ""
+    },
+    {
+      "id": "shogun2-shinobi",
+      "title": "Gerçek Shinobi",
+      "subtitle": "Gölge değil, kılık değiştirme ustası",
+      "mediaType": "game",
+      "mediaTitle": "Total War: Shogun 2",
+      "era": "Orta Çağ",
+      "region": "Japonya",
+      "themes": [
+        "Casusluk",
+        "Savaş",
+        "Kültür"
+      ],
+      "whatWeSee": "Siyah giysiler içinde çatılardan atlayan, doğaüstü yeteneklere sahip suikastçılar görürüz.",
+      "realHistory": "Sinemada gördüğümüz siyah kıyafetli, maskeli 'ninja' imajı aslında 19. yüzyıl tiyatrosundan kalma bir kurgudur. Gerçek shinobi'ler (gizlenenler), Sengoku döneminin profesyonel casuslarıydı. En büyük yetenekleri 'görünmez' olmaları değil, 'fark edilmemeleriydi'. Çiftçi, rahip, gezgin müzisyen veya tüccar kılığına girerek düşman kalelerine sızarlardı. En ünlü merkezleri olan Iga ve Koga bölgeleri, dağlık yapısı sayesinde bu tür gerilla taktiklerinin geliştiği yerlerdi. Ninja el kitabı olan 'Bansenshukai', suikastten ziyade psikolojik savaş, gizli dinleme ve barut kullanımı üzerine odaklanır. Siyah yerine koyu lacivert veya kahverengi gibi gece karanlığında daha iyi gizleyen renkler tercih ederlerdi. Ninja yıldızları (shuriken) ise öldürücü bir silahtan ziyade, kaçarken düşmanın dikkatini dağıtmak için kullanılan yardımcı bir araçtı.\n\nYaygın bir izlenim, Ninjaların her zaman siyah 'pijama' giydiği olduğudur; kayıtlar ise en iyi ninja, kalabalığın içinde tamamen sıradan görünen ninjaydı.\n\nTotal War: Shogun 2'deki shinobi birimleri, feodal Japonya'nın gizli suikastçı efsanelerini oyun mekanikleriyle başarılı bir şekilde birleştirir.\n\nYaygın izlenim, Ninjaların her zaman siyah 'pijama' giydiği olduğudur; kayıtlar ise en iyi ninja, kalabalığın içinde tamamen sıradan görünen ninjaydı.",
+      "accuracyNote": "Oyun mekaniği gereği suikasta odaklansa da gerçek roller keşif ve psikolojik savaştır. Siyah kıyafet geleneği aslında Kukla Tiyatrosu'ndan (Bunraku) gelir.",
+      "whyInteresting": "Bir ninjanın en büyük başarısı, kimsenin onun orada olduğunu fark etmemesidir; dövüşmek her zaman son çareydi.",
+      "misconception": "Ninjaların her zaman siyah 'pijama' giydiği sanılır; oysa en iyi ninja, kalabalığın içinde tamamen sıradan görünen ninjaydı.",
+      "nextTopics": [
+        "Iga ve Koga Klanları",
+        "Sengoku Dönemi",
+        "Onmido"
+      ],
+      "sources": [
+        {
+          "title": "The Real Ninja (Iga-ryu Ninja Museum)",
+          "url": "https://www.iganinja.jp/en/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "History of the Shinobi (Britannica)",
+          "url": "https://www.britannica.com/topic/ninja",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [
+        "Naruto (Manga)",
+        "Shinobi (2005)"
+      ],
+      "relatedCardIds": [
+        "ghost-tsushima-invasion"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-24",
+      "reviewerNote": "Kılık değiştirme ve istihbarat önceliği Iga müzesi kaynaklarıyla desteklenmektedir.",
+      "spoilerLevel": "none",
+      "mediaConnection": "Total War: Shogun 2'deki shinobi birimleri, feodal Japonya'nın gizli suikastçı efsanelerini oyun mekanikleriyle başarılı bir şekilde birleştirir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "casusluk",
+        "japonya",
+        "kltr",
+        "orta-cag",
+        "savas",
+        "total-war-shogun-2",
+        "samuray"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Tiyatro sahnelerinde 'görünmez' yardımcıları temsil eden siyah giyimli sahne görevlileri (kuroko), zamanla ninjaların simgesi haline geldi.",
+      "whyItMatters": "Bir ninjanın en büyük başarısı, kimsenin onun orada olduğunu fark etmemesidir; dövüşmek her zaman son çareydi.",
+      "quickRealityCheck": "Gerçek ninjalar suikastçıdan çok profesyonel casuslardı ve asla siyah maskeli kostümler giyip ortalıkta dolaşmazlardı.",
+      "spoilerNote": ""
+    }
+  ]
+}

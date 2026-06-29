@@ -1,0 +1,240 @@
+{
+  "locale": "tr",
+  "chunkIndex": 8,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "lanoire-policing",
+      "title": "1940’lar Los Angeles’ı ve Polis Yolsuzluğu",
+      "subtitle": "Kara filmlerin ardındaki gerçek suç dünyası.",
+      "mediaType": "game",
+      "mediaTitle": "L.A. Noire",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Polis",
+        "Suç",
+        "ABD Tarihi"
+      ],
+      "whatWeSee": "Oyun, İkinci Dünya Savaşı sonrası Los Angeles’ta savaş kahramanlarının suça bulaşmasını ve polis teşkilatındaki derin yolsuzluğu anlatır.",
+      "realHistory": "Dünya Savaşı sonrası Los Angeles, hızla büyüyen ama polisiye altyapısı bu hıza yetişemeyen bir şehirdi. Polis memurlarının çoğu savaştan dönmüş askerlerdi ve 'sert müdahale' kültürünü sokaklara taşımışlardı. 1947'deki Siyah Dahlia davası, teşkilatın hem beceriksizliğini hem de medyanın soruşturmaları nasıl manipüle ettiğini göstermiştir. William Parker'ın şef olmasıyla teşkilat profesyonelleşmeye başlamış olsa da, bu süreçte azınlıklara uygulanan şiddet ve kurumsal ırkçılık LAPD'nin üzerine yapışan ve onlarca yıl temizlenemeyen bir leke olarak kalmıştır.\n\nParker reformları profesyonelleşmeyi hedefledi. Siyah Dahlia davası soruşturma sınırlarını gösterdi.\n\nII. Dünya Savaşı sonrası Los Angeles hızla büyürken polis altyapısı yetişemedi. 1947 Siyah Dahlia davası teşkilatın soruşturma sınırlarını ve medyanın suç hikâyelerini nasıl şekillendirdiğini gösterdi. William Parker'ın 1950'lerdeki reformları profesyonelleşmeyi hedefledi; azınlık mahallelerine yönelik şiddet sorunu onlarca yıl sürdü. Savaştan dönen askerler sert müdahale kültürünü sokaklara taşımıştı.\n\nLAPD'nin 1940'lardaki itibarı o kadar düşüktü ki 1950'lerde sert reformlar gündeme geldi. Noir dedektif anlatıları bu dönemin gerilimli sokak atmosferini yansıtır.\n\nYeraltı dünyası ve polis arasındaki rüşvet ilişkileri, savaş sonrası refah anlatısının görünmez yüzünü oluşturuyordu.\n\nSavaş sonrası dönemin sadece bir refah ve huzur dönemi olduğu sanılır; oysa kayıtlara göre yeraltı dünyası için altın bir çağdı.",
+      "accuracyNote": "Oyunun geçtiği mekanlar ve işlenen davaların birçoğu (Siyah Dahlia gibi) gerçek olaylardan esinlenmiştir.",
+      "whyInteresting": "LAPD’nin 1940’lardaki imajı o kadar kötüydü ki, kurumun temizlenmesi için 1950’lerde çok sert reformlar yapılmıştır.",
+      "misconception": "Savaş sonrası dönemin sadece bir refah ve huzur dönemi olduğu sanılır; oysa yeraltı dünyası için altın bir çağdı.",
+      "nextTopics": [
+        "Siyah Dahlia",
+        "LAPD Tarihi",
+        "Kara Film"
+      ],
+      "sources": [
+        {
+          "title": "LAPD History (Official Website)",
+          "url": "https://www.lapdonline.org/history-of-the-lapd/",
+          "type": "official"
+        },
+        {
+          "title": "Post-War Crime in LA (Huntington Library)",
+          "url": "https://www.huntington.org/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "lanoire-postwar-trauma"
+      ],
+      "reviewerNote": "Kurumsal tarih verileriyle doğrulandı.",
+      "mediaConnection": "Bu kart, L.A. Noire yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "abd-tarihi",
+        "la-noire",
+        "polis",
+        "su"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Oyunda polisler her zaman kravatlı ve disiplinli görünür. Gerçekte teşkilat içinde rüşvet, mafya ile işbirliği ve kanıt karartma o kadar yaygındı ki, dürüst bir dedektifin hayatta kalması imkansıza yakındı.",
+      "whyItMatters": "LAPD’nin 1940’lardaki imajı o kadar kötüydü ki, kurumun temizlenmesi için 1950’lerde çok sert reformlar yapılmıştır.",
+      "quickRealityCheck": "Gerçek. 1940'lar LAPD'si, hem askeri disiplini hem de sistematik yolsuzluğuyla tarihin en tartışmalı polis teşkilatlarından biridir.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "mafia-prohibition",
+      "title": "İçki Yasağı ve Mafyanın Yükselişi",
+      "subtitle": "Bir yasak, nasıl suç imparatorlukları yarattı?",
+      "mediaType": "game",
+      "mediaTitle": "Mafia",
+      "difficulty": "medium",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Mafya",
+        "ABD Tarihi",
+        "Ekonomi"
+      ],
+      "whatWeSee": "Oyun, 1930’lar Amerika’sında içki yasağının getirdiği kaçakçılık pazarını ve rakip ailelerin bu pazar için savaşını konu alır.",
+      "realHistory": "1920-1933 yılları arasında Amerika Birleşik Devletleri'nde uygulanan 'Alkol Yasağı' (Prohibition), ironik bir şekilde organize suçun altın çağını başlatmıştır. Anayasa Değişikliği (Volstead Yasası) ile alkolün üretimi, satışı ve nakliyesi yasaklanmış, ancak halkın talebi ortadan kalkmamıştır. Bu durum, yasal işletmelerin yerini 'bootlegging' (alkol kaçakçılığı) yapan suç örgütlerinin almasına neden olmuştur. Alkol yasağı, yerel sokak çetelerini ulusal çapta milyon dolarlık imparatorluklara dönüştüren en büyük ekonomik katalizördür. Suç, bu dönemde ilk kez 'kurumsallaşmış' ve Amerikan ekonomisinin bir parçası haline gelmiştir. Alphonse 'Al' Capone, yasak döneminin en ikonik figürüdür. Chicago'da kurduğu imparatorluk, sadece şiddete değil, aynı zamanda rüşvet ve siyasi bağlantılara dayanıyordu. Capone, suç örgütünü bir modern şirket gibi yönetmiş; muhasebeciler, lojistik uzmanları ve hukukçular çalıştırmıştır. 'Speakeasies' denilen gizli barlar aracılığıyla akan devasa para, polisleri, yargıçları ve belediye başkanlarını satın almak için kullanılmıştır. 1929'daki 'Sevgililer Günü Katliamı', organize suçun Chicago sokaklarındaki mutlak hakimiyet savaşının en kanlı zirve noktasıdır. Capone, kendisini bir 'kamu hizmetlisi' olarak sunsa da, aslında tarihin en acımasız suç baronuydu. Yasak döneminde Amerika'nın her köşesinde on binlerce gizli bar (Speakeasy) açılmıştır. Bu mekanlara girmek için gizli parolalar ve özel üyelikler gerekiyordu. İlginç bir şekilde, bu yasadışı mekanlar Amerikan sosyal hayatında bir devrim yaratmıştır; kadınlar ve erkekler ilk kez barlarda bir arada eğlenmeye başlamış, caz müziği bu yeraltı kulüplerinde popülerlik kazanmıştır. Mafia oyunundaki o dumanlı, caz dolu bar atmosferi, 1920'lerin bu 'yasaklı ama özgür' yeraltı kültürünün sadık bir tasviridir. Alkol yasağı, Amerikan gençliğinin otoriteye olan güvenini sarsmış ve bir başkaldırı kültürü yaratmıştır. Caz ve kokteyller, bu yasağın en renkli yan ürünleri olmuştur. Alkol kaçakçılığı, devasa bir lojistik operasyondu. Kanada'dan gelen gemiler, 'Rum Row' denilen açık deniz sınırında bekler, hızlı botlar ise geceleri sahil güvenlikten kaçarak içkiyi karaya çıkarırdı. Karada ise, o dönemin yeni teknolojisi olan otomobiller (özellikle Ford Model T ve V8'ler), polislerden kaçmak için modifiye edilmiştir. Bu modifiye araç yarışı, yıllar sonra NASCAR yarışlarının doğuşuna zemin hazırlayacaktır. Suç örgütleri, telsiz sistemleri ve zırhlı araçlar kullanarak polis teknolojisinin her zaman bir adım önünde kalmayı başarmışlardır. Her kamyon yükü, bir suç imparatorluğunun temelini oluşturuyordu. 1929 yılında Atlantic City'de yapılan meşhur toplantı, Amerikan Mafyası'nın (La Cosa Nostra) kuruluşu anı olarak kabul edilir. Lucky Luciano, Meyer Lansky ve Al Capone gibi liderler, birbirleriyle savaşmak yerine işbirliği yapmaya ve Amerika'yı 'pazar alanlarına' bölmeye karar vermişlerdir. Bu, organize suçun 'kurumsallaşması' ve ulusal bir kartel haline gelmesi anlamına geliyordu. Artık suç sadece bir şiddet eylemi değil, ulusal çapta koordine edilen devasa bir ekonomiydi. Bu yapı, yasak kalktıktan sonra bile kumar.",
+      "accuracyNote": "Oyunun atmosferi ve yasak döneminin ekonomik dinamikleri tarihsel gerçeklerle örtüşür.",
+      "whyInteresting": "İçki yasağı döneminde içki tüketimi aslında %30-40 civarında düşmüştür ancak suç oranları kontrol edilemez hale gelmiştir.",
+      "misconception": "Yasağın sadece dini nedenlerle geldiği sanılır; oysa kadın hakları savunucuları ve sanayiciler de yasağı desteklemiştir.",
+      "nextTopics": [
+        "Al Capone",
+        "Volstead Yasası",
+        "Büyük Buhran"
+      ],
+      "sources": [
+        {
+          "title": "Prohibition (History.com)",
+          "url": "https://www.history.com/topics/roaring-twenties/prohibition",
+          "type": "official"
+        },
+        {
+          "title": "The Rise of Organized Crime (FBI History)",
+          "url": "https://www.fbi.gov/history/famous-cases/al-capone",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "mafia-immigration-crime",
+        "mafia-prohibition-economics",
+        "mafia-five-families"
+      ],
+      "reviewerNote": "FBI kurumsal tarih verileri kullanıldı.",
+      "mediaConnection": "Bu kart, Mafia: Definitive Edition yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "abd-tarihi",
+        "ekonomi",
+        "mafia-definitive-ed",
+        "mafya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyunda mafya aileleri arası savaşlar çok daha 'hızlı' ve sokaklarda açık çatışma şeklinde geçer. Gerçekte suikastlar daha gizliydi ve mafya, polisle çatışmak yerine polisi rüşvete bağlamayı tercih ederdi.",
+      "whyItMatters": "İçki yasağı döneminde içki tüketimi aslında %30-40 civarında düşmüştür ancak suç oranları kontrol edilemez hale gelmiştir.",
+      "isFlagship": true,
+      "quickRealityCheck": "Yasak, talebi yok etmedi; suçu daha karlı ve kurumsal hale getirdi.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "valiant-hearts-wwi",
+      "title": "Birinci Dünya Savaşı ve Sivil Hayat",
+      "subtitle": "Sadece cephede değil, kalplerde de savaş vardı.",
+      "mediaType": "game",
+      "mediaTitle": "Valiant Hearts",
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Birinci Dünya Savaşı",
+        "İnsani Yardım",
+        "Fransa"
+      ],
+      "whatWeSee": "Oyun, savaşın dehşetini bir köpeğin ve farklı milletlerden sivillerin gözünden, şiddeti değil insani duyguları öne çıkararak anlatır.",
+      "realHistory": "Birinci Dünya Savaşı sadece askerlerin değil, tüm toplumun dahil olduğu ilk 'topyekün savaş' (total war) örneğidir. Fransa ve Belçika'daki sivil halk, savaşın ön cephesinin hemen arkasında, sürekli bombardıman ve işgal tehdidi altında yaşadı. Valiant Hearts oyununda gördüğümüz karakterlerin aksine, gerçek siviller genellikle zorunlu çalışma kamplarına gönderiliyor veya gıda kıtlığı nedeniyle açlıkla pençeleşiyordu. Kadınlar, cepheye giden erkeklerin yerini alarak mühimmat fabrikalarında (Canary Girls) ve tarımda kritik roller üstlendiler. Bu dönem, tıbbın da büyük bir dönüşüm geçirdiği bir zamandı; yüz yaralanmaları için ilk estetik cerrahi teknikleri ve travma sonrası stres bozukluğu (shell shock) ilk kez bu savaşta tanımlandı. Savaşın sonunda imzalanan Versay Antlaşması, siviller için bir kurtuluş gibi görünse de, aslında II. Dünya Savaşı'na giden yolu döşeyen ekonomik ve psikolojik yıkımı başlatmıştı.",
+      "accuracyNote": "Oyun, tarihsel mektuplar ve belgeler üzerine inşa edilmiştir ve dönemin atmosferini en iyi yansıtan eserlerden biridir.",
+      "whyInteresting": "Oyunun geliştiricileri, o dönemde yazılmış gerçek asker mektuplarından esinlenmişlerdir.",
+      "misconception": "I. Dünya Savaşı’nın sadece siperlerde geçen bir erkek savaşı olduğu sanılır; oysa kadınların fabrikalardaki ve hastanelerdeki rolü kritiktir.",
+      "nextTopics": [
+        "Siper Savaşı",
+        "Kimyasal Silahlar",
+        "Versay Antlaşması"
+      ],
+      "sources": [
+        {
+          "title": "World War I (Imperial War Museums)",
+          "url": "https://www.iwm.org.uk/history/first-world-world-war",
+          "type": "museum"
+        },
+        {
+          "title": "Civilians in WWI (International Encyclopedia of WWI)",
+          "url": "https://encyclopedia.1914-1918-online.net/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "valiant-hearts-war-dogs-real"
+      ],
+      "reviewerNote": "İmparatorluk Savaş Müzesi verileriyle uyumlu.",
+      "mediaConnection": "Bu kart, Valiant Hearts yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "birinci-dnya-sava",
+        "fransa",
+        "insani-yardm",
+        "valiant-hearts"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Valiant Hearts gibi yapımlar genellikle bireysel hikayelere odaklanır ancak dönemin kitlesel yerinden edilme ve sistemik kıtlık gibi devasa boyutlarını tam olarak yansıtmakta zorlanır.",
+      "whyItMatters": "Oyunun geliştiricileri, o dönemde yazılmış gerçek asker mektuplarından esinlenmişlerdir.",
+      "quickRealityCheck": "I. Dünya Savaşı'nın asıl yıkımı siperlerde değil, savaşın içine çekilen ve hayatı sonsuza dek değişen sivil toplumda yaşandı.",
+      "spoilerNote": ""
+    },
+    {
+      "id": "civ-linear-history",
+      "title": "Tarih Gerçekten Doğrusal Bir İlerleme mi?",
+      "subtitle": "Teknoloji ağaçları ve gelişmişlik yanılgısı.",
+      "mediaType": "game",
+      "mediaTitle": "Civilization Serisi",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Felsefe",
+        "Teknoloji",
+        "Sosyoloji"
+      ],
+      "whatWeSee": "Civilization’da tarih, basitten karmaşığa giden, bir teknolojinin diğerini açtığı doğrusal bir ağaç (tech tree) şeklinde ilerler.",
+      "realHistory": "Tarih aslında doğrusal bir 'ilerleme' değil, karmaşık bir yükseliş ve çöküşler silsilesidir. Medeniyetler, teknolojilerini kaybedebilir, sosyal yapıları gerileyebilir veya mevcut bilgilerini yüzyıllarca kullanamayabilirler (Whig History yanılgısı). Örneğin, Roma İmparatorluğu'nun çöküşünden sonra Avrupa'da okuryazarlık oranları, beton teknolojisi ve merkezi su sistemleri gibi kazanımlar yüzyıllarca unutulmuş, ancak Rönesans ile tekrar 'keşfedilmiştir'.\n\nGerçek tarihte teknolojik gelişim, bir 'ağaç' (tech tree) gibi birinden diğerine zorunlu olarak bağlanmaz. Coğrafi keşifler, kıtlıklar, salgın hastalıklar veya dini dönüşümler tarihin yönünü öngörülemez şekilde değiştirebilir. Tarihçiler, 'ilerleme' kavramının 19. yüzyılın aydınlanma düşüncesinin bir ürünü olduğunu ve geçmişi bu gözlükle değerlendirmenin, antik toplumların kendi içindeki sofistike yapısını göz ardı etmek anlamına geldiğini savunurlar. Tarih, basitten karmaşığa giden bir merdiven değil, sürekli değişen şartlara uyum sağlama çabasıdır.\n\nyüzyıl), o dönemdeki astronomi ve mekanik bilgisinin ne kadar ileri olduğunu, ancak bu bilginin bin yıl boyunca nasıl kaybolduğunu gösteren somut bir kanıt sunar.\n\nBu, tarihin her zaman ileri gitmediğinin elle tutulur bir örnektir.\n\nYaygın bir izlenim, İnsanlığın her zaman daha iyiye gittiği olduğudur; kayıtlar ise Roma’nın çöküşü gibi dönemlerde yaşam kalitesi ve bilgi seviyesi ciddi oranda düşmüştür.",
+      "accuracyNote": "Civilization oyun mekaniği, tarihi bir oyun alanı haline getirmek için 'ilerleme'yi doğrusal bir ağaç olarak kurgular; ancak bu model, medeniyetlerin yaşadığı 'teknolojik unutkanlık' veya 'kültürel gerileme' gibi gerçekleri simüle edemez.",
+      "whyInteresting": "Antikythera düzeneği (M.Ö. 2. yüzyıl), o dönemdeki astronomi ve mekanik bilgisinin ne kadar ileri olduğunu, ancak bu bilginin bin yıl boyunca nasıl kaybolduğunu gösteren en büyük kanıttır. Bu, tarihin her zaman ileri gitmediğinin fiziksel bir örneğidir.",
+      "misconception": "İnsanlığın her zaman daha iyiye gittiği sanılır; oysa Roma’nın çöküşü gibi dönemlerde yaşam kalitesi ve bilgi seviyesi ciddi oranda düşmüştür.",
+      "nextTopics": [
+        "Whig Tarih Yazımı",
+        "Roma’nın Çöküşü",
+        "Antikythera"
+      ],
+      "sources": [
+        {
+          "title": "Whig History (Britannica)",
+          "url": "https://www.britannica.com/topic/Whig-history",
+          "type": "official"
+        },
+        {
+          "title": "The Progress Myth (Philosophy Now)",
+          "url": "https://philosophynow.org/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Felsefi ve tarihsel analizler Britannica ile doğrulandı.",
+      "mediaConnection": "Bu kart, Civilization Serisi yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "civilization-serisi",
+        "felsefe",
+        "sosyoloji",
+        "teknoloji",
+        "bilim"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Civilization oyun mekaniği, tarihi bir oyun alanı haline getirmek için 'ilerleme'yi doğrusal bir ağaç olarak kurgular; ancak bu model, medeniyetlerin yaşadığı 'teknolojik unutkanlık' veya 'kültürel gerileme' gibi gerçekleri simüle edemez.",
+      "whyItMatters": "Antik Yunan mekanizması, bilginin kaybolup yeniden keşfedilebildiğini gösteren somut bir örnektir.",
+      "quickRealityCheck": "İnsanlığın her zaman daha iyiye gittiği denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "locale": "tr",
+  "chunkIndex": 28,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "ghost-samurai-reality",
+      "title": "Samuray Gerçekliği: Onur mu, Pragmatizm mi?",
+      "subtitle": "Ghost of Tsushima ve gerçek samuray dünyası.",
+      "mediaType": "game",
+      "mediaTitle": "Ghost of Tsushima",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Japonya",
+        "Savaş",
+        "Kültür"
+      ],
+      "isFlagship": true,
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "tags": [
+        "ghost-of-tsushima",
+        "samuray",
+        "japonya",
+        "tarihsel-gerceklik"
+      ],
+      "quickRealityCheck": "Ghost of Tsushima, samuray onurunu merkezi bir tema olarak işler. Ancak 13. yüzyıldaki gerçek Moğol istilaları sırasında samuraylar, hayatta kalmak için her türlü taktiği kullanan pragmatik savaşçılardı.",
+      "mediaChanged": "Oyunda Jin Sakai, 'gizlilik' kullandığı için onurunu kaybettiğini düşünür. Gerçekte ise samuraylar, düşmanı yenmek için gece baskınları, pusular ve her türlü hileyi kullanmakta hiçbir sakınca görmezlerdi; asıl onursuzluk yenilmekti.",
+      "realHistory": "### 1274: Kamakura Dönemi Savaşçıları\nGhost of Tsushima, samurayları 19. yüzyılın romantize edilmiş 'Bushido' kurallarıyla (sadece kılıçla, yüz yüze savaşmak gibi) tasvir eder. Ancak Moğol istilalarının yaşandığı 1274 yılında samuraylar, her şeyden önce usta birer atlı okçuydu. Onur, bire bir düellodan ziyade, bağlı oldukları derebeyine (daimyo) olan sadakat ve savaş alanındaki başarıyla ölçülürdü. Samuraylar, Moğolların toplu savaş taktikleri ve barutlu silahları karşısında şok yaşasalar da, hızla uyum sağlamış ve düşmanı durdurmak için son derece acımasız yöntemler kullanmışlardır.\n\n### Bushido: Bir Barış Dönemi İcadı\nOyunda sıkça vurgulanan katı onur kurallarının çoğu, aslında savaşların sona erdiği barışçıl Edo Dönemi'nde (1603-1868) bir sınıf kimliği yaratmak için yazılmıştır. Kamakura samurayı için 'gizlilik' veya 'suikast' bir utanç kaynağı değil, askeri bir yetenekti. Ünlü samuray stratejisti Kusunoki Masashige, düşmanı yanıltmak için pusular kurduğu için bugün hala bir kahraman olarak anılır. Dolayısıyla Jin Sakai'nin yaşadığı 'Hayalet' (Ghost) olma ikilemi, tarihsel bir gerçeklikten ziyade modern bir kurgudur.\n\n### Silahlar ve Zırhlar\nOyundaki ikonik 'Katana', aslında 13. yüzyılda henüz yaygınlaşmamıştı. O dönemde samuraylar, 'Tachi' adı verilen daha kavisli ve at sırtında kullanıma uygun kılıçlar kullanırlardı. Ayrıca zırhlar (O-yoroi), Moğol oklarına karşı dayanıklı olması için deri ve metal plakaların karmaşık bir birleşimiydi. Oyundaki zırh tasarımları estetik olarak harika olsa da, çoğu birkaç yüzyıl sonrasının (Sengoku Dönemi) teknolojisini yansıtır.\n\n### Tsushima’nın Coğrafi Rolü\nTsushima adası gerçekten de Moğol istilasının ilk kurbanı olmuştur. Ancak istila sadece küçük bir grup samuray tarafından değil, Japonya'nın dört bir yanından gelen binlerce savaşçının katılımıyla durdurulabilmiştir. İlahi rüzgar (Kamikaze) olarak adlandırılan tayfunlar Moğol filosunu yok etmeseydi, samurayların direncinin ne kadar süreceği tarihçiler arasında hala bir tartışma konusudur. Yine de, bu savaş Japonya'nın 'istila edilemez' olduğu mitini doğurmuş ve samuray sınıfının otoritesini pekiştirmiştir.",
+      "whyItMatters": "Samurayların gerçek tarihini anlamak, onur kavramının zamanla nasıl evrildiğini ve bir siyasi araç haline geldiğini gösterir.",
+      "sources": [
+        {
+          "title": "Samurai (Britannica)",
+          "url": "https://www.britannica.com/topic/samurai",
+          "type": "official"
+        },
+        {
+          "title": "Mongol Invasions (The Japan Society)",
+          "url": "https://www.japansociety.org.uk/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "ghost-tsushima-invasion",
+        "ghost-onna-musha",
+        "ghost-mongol-navy"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Ghost of Tsushima oyunda “Samuray Gerçekliği: Onur mu, Pragmatizm mi?” konusunu japonya ve savaş ekseninde somut sahnelerle işler. Ghost of Tsushima ve gerçek samuray dünyası."
+    },
+    {
+      "id": "kcd-medieval-diet",
+      "title": "Orta Çağ’da Ne Yenirdi? (Bohemya 1403)",
+      "subtitle": "Ziyafet sofraları ve köylü mutfağının gerçekleri.",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Gündelik Yaşam",
+        "Orta Çağ",
+        "Kültür"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "kingdom-come-deliverance",
+        "orta-cag",
+        "gndelik-yaam",
+        "bohemya"
+      ],
+      "quickRealityCheck": "Kingdom Come: Deliverance'daki tencerelerde pişen yemekler, Orta Çağ Bohemyası'nın en doğru tarihsel temsillerinden biridir; o dönemde ana öğün et değil, 'pottage' denilen yoğun sebze çorbalarıydı.",
+      "mediaChanged": "Filmler genellikle şölenleri devasa kızarmış etlerle gösterir, ancak gerçekte soylular bile taze ete her zaman erişemez, baharatlı ve kurutulmuş gıdaları zenginlik göstergesi olarak kullanırlardı.",
+      "realHistory": "1403 Bohemyası'nda halkın %90'ının temel gıdası çavdar ekmeği ve yulaf lapasıydı. Et (özellikle av eti), sadece soyluların ormanlarda avlanma hakkı olduğu için elit bir gıdaydı. Köylüler genellikle tavuk veya domuz eti yerdi ancak bu da bayramlarda veya özel günlerde mümkün olurdu. Şeker henüz Avrupa'ya yayılmadığı için tek tatlandırıcı bal idi. Su genellikle kirli olduğu için hafif alkollü biralar (ale) gün boyunca su niyetine tüketilirdi. Patates, mısır ve domates ise henüz Amerika'dan gelmediği için Avrupa mutfağında kesinlikle yoktu.\n\nSoruşturma ve arşiv belgeleri, kingdom Come: Deliverance'daki tencerelerde pişen yemekler, Orta Çağ Bohemyası'nın en doğru tarihsel temsillerinden biridir; o dönemde ana öğün et değil, 'pottage' denilen yoğun sebze çorbalarıydı.\n\nBu örnek Beslenme alışkanlıkları açısından önem taşır, bir toplumun coğrafyası, sınıf yapısı ve teknolojik imkanları hakkında en dürüst bilgiyi veren alandır.\n\nZiyafet sofraları ve köylü mutfağının gerçekleri sorusu, arşivlerde yalnızca üst düzey anlatılardan değil günlük uygulamalardan da yanıtlanır.\n\nTarihî kayıtlar, kingdom Come: Deliverance'daki tencerelerde pişen yemekler, Orta Çağ Bohemyası'nın en doğru tarihsel temsillerinden biridir; o dönemde ana öğün et değil, 'pottage' denilen yoğun sebze çorbalarıydı.",
+      "whyItMatters": "Beslenme alışkanlıkları, bir toplumun coğrafyası, sınıf yapısı ve teknolojik imkanları hakkında en dürüst bilgiyi veren alandır.",
+      "sources": [
+        {
+          "title": "Medieval Diet (British Library)",
+          "url": "https://www.bl.uk/the-middle-ages/articles/medieval-food-and-drink",
+          "type": "official"
+        },
+        {
+          "title": "Food in Medieval Bohemia (National Museum Prague)",
+          "url": "https://www.nm.cz/en",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [
+        "kcd-bohemia",
+        "kcd2-medieval-law",
+        "kcd-medieval-crime"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Kingdom Come: Deliverance oyunda “Orta Çağ’da Ne Yenirdi? (Bohemya 1403)” konusunu gündelik yaşam ve orta çağ ekseninde somut sahnelerle işler. Ziyafet sofraları ve köylü mutfağının gerçekleri.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "oppenheimer-trinity-reality",
+      "title": "Trinity: İlk Ateşin Lojistiği",
+      "subtitle": "Manhattan Projesi'nin final testi.",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Bilim",
+        "Modern Tarih",
+        "Savaş"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "major",
+      "tags": [
+        "oppenheimer",
+        "atom-bombasi",
+        "modern-tarih",
+        "abd",
+        "bilim"
+      ],
+      "quickRealityCheck": "Oppenheimer filmindeki o sessiz bekleyiş gerçektir; Trinity testi 16 Temmuz 1945'te yapıldığında bilim insanları bombanın atmosferi yakıp dünyayı yok edip etmeyeceği konusunda hala bahis oynuyorlardı.",
+      "mediaChanged": "Film dramatik olarak patlama anına odaklanır ancak bombanın test alanına taşınması ve montaj süreci (gadget) oyunun yansıttığından çok daha gergin ve manuel bir süreçti.",
+      "realHistory": "Trinity testi için New Mexico'daki Jornada del Muerto çölü seçildi. Test edilen 'Gadget', plütonyum çekirdekli bir patlatma (implosion) cihazıydı. Bilim insanları, patlama sonrası radyoaktif serpintinin bölgedeki ineklerin derilerini beyaza çevirdiğini görünce şaşkına dönmüşlerdi. Lojistik olarak, Los Alamos'taki gizli şehirde çalışan binlerce kişi her şeyden habersizdi; sadece birkaç üst düzey yetkili neyin test edildiğini biliyordu. Patlama sonrası ortaya çıkan ısı o kadar yüksekti ki, çöl kumunu 'Trinitit' denilen yeşil radyoaktif cama dönüştürdü. Bu test, atom çağının başlangıcı ve Hiroşima'ya giden son adımdı.\n\nSoruşturma ve arşiv belgeleri, oppenheimer filmindeki o sessiz bekleyiş gerçektir; Trinity testi 16 Temmuz 1945'te yapıldığında bilim insanları bombanın atmosferi yakıp dünyayı yok edip etmeyeceği konusunda hala bahis oynuyorlardı.\n\nBu örnek Trinity açısından önem taşır, insanlığın doğa üzerinde daha önce görülmemiş ve geri dönüşü olmayan bir kontrol gücü kazandığı andır.\n\nManhattan Projesi'nin final testi sorusu, arşivlerde yalnızca üst düzey anlatılardan değil günlük uygulamalardan da yanıtlanır.\n\nTarihî kayıtlar, oppenheimer filmindeki o sessiz bekleyiş gerçektir; Trinity testi 16 Temmuz 1945'te yapıldığında bilim insanları bombanın atmosferi yakıp dünyayı yok edip etmeyeceği konusunda hala bahis oynuyorlardı.",
+      "whyItMatters": "Trinity, insanlığın doğa üzerinde daha önce görülmemiş ve geri dönüşü olmayan bir kontrol gücü kazandığı andır.",
+      "sources": [
+        {
+          "title": "The Trinity Test (Los Alamos National Laboratory)",
+          "url": "https://www.lanl.gov/museum/exhibits/trinity/",
+          "type": "official"
+        },
+        {
+          "title": "Manhattan Project (Atomic Heritage Foundation)",
+          "url": "https://www.atomicheritage.org/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "oppenheimer-trinity",
+        "oppenheimer-science-state",
+        "oppenheimer-los-alamos-culture"
+      ],
+      "spoilerNote": "Oppenheimer hikâyesinin sonunu veya büyük sürprizlerini anlatabilir.",
+      "whatWeSee": "Oppenheimer filmdе “Trinity: İlk Ateşin Lojistiği” konusunu bilim ve modern tarih ekseninde somut sahnelerle işler. Manhattan Projesi'nin final testi.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "chernobyl-biorobots-cost",
+      "title": "Çernobil’in Biyo-robotları",
+      "subtitle": "Makinelerin bittiği yerde insan bedeni.",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Sovyetler",
+        "Modern Tarih",
+        "Felaket"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "chernobyl",
+        "sovyetler",
+        "nukleer-felaket",
+        "modern-tarih",
+        "bilim"
+      ],
+      "quickRealityCheck": "Makinelerin iflas ettiği noktada, Çernobil'in kaderini 90 saniyelik intihar görevlerine çıkan binlerce 'biyo-robot' asker belirledi.",
+      "mediaChanged": "Dizi bu süreci çok hızlı bir sekans gibi geçse de, gerçekte bu operasyon aylarca sürdü ve yaklaşık 600.000 tasfiyeci (liquidator) bu süreçte farklı dozlarda radyasyona maruz kaldı.",
+      "realHistory": "Çernobil felaketi sonrası 4. reaktörün çatısına fırlayan yüksek radyasyonlu grafit parçaları, robotların elektronik devrelerini saniyeler içinde yaktığı için temizlenememişti. Sovyet yönetimi, makinelerin bittiği yerde insan bedenini kullanmaya karar verdi. 'Biyo-robotlar' denilen 3.800'den fazla asker, kurşun plakalarla güçlendirilmiş el yapımı zırhlar giyerek çatıya çıktı. Her birinin çatıda kalma süresi 60 ila 90 saniye arasındaydı. Bu süre, hayat boyu alınabilecek güvenli radyasyon dozunun çok üzerindeydi. Birçok asker, sadece bir kürek grafiti aşağı fırlatmak için canını tehlikeye attı. Bu operasyon, felaketin daha da büyümesini engelleyen en kritik müdahaleydi. Ancak bu kahramanların çoğu, ilerleyen yıllarda kanser ve diğer radyasyon hastalıklarıyla boğuşmak zorunda kaldı ve isimleri uzun süre devlet kayıtlarında sıradan vakalar olarak gösterildi.\n\nSoruşturma ve arşiv belgeleri, makinelerin iflas ettiği noktada, Çernobil'in kaderini 90 saniyelik intihar görevlerine çıkan binlerce 'biyo-robot' asker belirledi.\n\nBu örnek Tasfiyecilerin fedakarlığı açısından önem taşır, teknolojik bir felaketin ancak insani bir trajediyle nasıl kontrol altına alınabildiğinin kanıtıdır.\n\nTarihî kayıtlar, makinelerin iflas ettiği noktada, Çernobil'in kaderini 90 saniyelik intihar görevlerine çıkan binlerce 'biyo-robot' asker belirledi.",
+      "whyItMatters": "Tasfiyecilerin fedakarlığı, teknolojik bir felaketin ancak insani bir trajediyle nasıl kontrol altına alınabildiğinin kanıtıdır.",
+      "sources": [
+        {
+          "title": "Chernobyl Liquidators (IAEA)",
+          "url": "https://www.iaea.org/newscenter/focus/chernobyl",
+          "type": "official"
+        },
+        {
+          "title": "The Chernobyl Disaster (World Nuclear Association)",
+          "url": "https://world-nuclear.org/",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "chernobyl-disaster",
+        "chernobyl-secrecy",
+        "chernobyl-bureaucracy-truth"
+      ],
+      "spoilerNote": "Chernobyl hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "Chernobyl dizide “Çernobil’in Biyo-robotları” konusunu sovyetler ve modern tarih ekseninde somut sahnelerle işler. Makinelerin bittiği yerde insan bedeni.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "gladiator-commodus-real",
+      "title": "Gladyatör İmparator: Commodus",
+      "subtitle": "Roma'nın çöküşünü başlatan narsisizm.",
+      "mediaType": "film",
+      "mediaTitle": "Gladiator",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Roma",
+        "Biyografi",
+        "Siyaset"
+      ],
+      "isFlagship": false,
+      "accuracyType": "partly-real",
+      "spoilerLevel": "major",
+      "tags": [
+        "gladiator",
+        "roma",
+        "biyografi",
+        "tarih",
+        "antik-dnya"
+      ],
+      "quickRealityCheck": "Commodus'un arenada ölmesi bir kurgudur; gerçekte bir suikast sonucu banyosunda boğulmuştur ve saltanatı Roma'yı ekonomik uçuruma sürüklemiştir.",
+      "mediaChanged": "Filmde Commodus arenada Maximus tarafından öldürülür. Gerçekte ise bir banyoda güreşçisi Narcissus tarafından boğularak suikasta kurban gitmiştir ve saltanatı 12 yıl sürmüştür (filmdeki gibi birkaç gün değil).",
+      "realHistory": "Filmdeki Commodus (Joaquin Phoenix), babası tarafından sevilmeyen ve tahtı hak etmeyen bir figür olarak resmedilir. Gerçek Commodus ise 177 yılından itibaren babası Marcus Aurelius ile birlikte 'co-emperor' olarak hüküm sürmüştür. Commodus'un asıl sorunu, yönetime olan ilgisizliği ve narsisizmiydi. Kendisini Herkül'ün yeryüzündeki gölgesi sanır, arenaya bizzat inerdi. Ancak arenada savaştığı kişiler genellikle sakatlanmış rakipler veya vahşi hayvanlardı. Commodus, Roma hazinesini kendi gladyatör gösterileri için harcayarak imparatorluğu ekonomik bir çöküşe sürükledi. 192 yılında, banyosunda güreşçisi Narcissus tarafından boğularak suikasta kurban gitti. Onun ölümü, Roma'da 'Beş İmparator Yılı' olarak bilinen kaos ve iç savaş dönemini başlattı. Filmdeki gibi arenada ölmesi, sadece dramatik bir son kurgusudur.\n\nSoruşturma ve arşiv belgeleri, commodus'un arenada ölmesi bir kurgudur; gerçekte bir suikast sonucu banyosunda boğulmuştur ve saltanatı Roma'yı ekonomik uçuruma sürüklemiştir.\n\nSinema uyarlamasında Commodus arenada Maximus tarafından öldürülür.\n\nBu örnek Commodus açısından önem taşır, bir imparatorluğun zirvedeyken kötü bir liderlik yüzünden ne kadar hızla uçuruma sürüklenebileceğinin en somut örneğidir.\n\nSinema anlatısında Commodus arenada Maximus tarafından öldürülür; belgeler ise ise bir banyoda güreşçisi Narcissus tarafından boğularak suikasta kurban gitmiştir ve saltanatı 12 yıl sürmüştür (filmdeki gibi birkaç gün değil).",
+      "whyItMatters": "Commodus, bir imparatorluğun zirvedeyken kötü bir liderlik yüzünden ne kadar hızla uçuruma sürüklenebileceğinin en somut örneğidir.",
+      "sources": [
+        {
+          "title": "Commodus (Britannica)",
+          "url": "https://www.britannica.com/biography/Commodus",
+          "type": "official"
+        },
+        {
+          "title": "The Decline and Fall of the Roman Empire (Gibbon)",
+          "url": "https://www.gutenberg.org/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "gladiator-colosseum",
+        "gladiator-political-theater",
+        "gladiator-arena-economics"
+      ],
+      "spoilerNote": "Gladiator hikâyesinin sonunu veya büyük sürprizlerini anlatabilir.",
+      "whatWeSee": "Gladiator filmdе “Gladyatör İmparator: Commodus” konusunu roma ve biyografi ekseninde somut sahnelerle işler. Roma'nın çöküşünü başlatan narsisizm.",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "locale": "tr",
+  "chunkIndex": 41,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-010-afterlife",
+      "title": "Ölümden Sonra Yaşam",
+      "subtitle": "Öbür dünya: korku değil, süreç",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Origins",
+      "era": "Antik Dünya",
+      "region": "Mısır",
+      "themes": [
+        "Antik Dünya",
+        "Din",
+        "Gündelik Yaşam"
+      ],
+      "whatWeSee": "Assassin's Creed Origins, Duat sahnelerini sisli gökyüzü, dev heykeller ve sınav benzeri geçişlerle etkileyici bir görsel deneyime dönüştürüyor. Oyuncu ölüm sonrasını neredeyse fiziksel bir mekan gibi geziyor. Bu yaklaşım güçlü bir atmosfer kuruyor ama gündelik inanç pratiğinin sade yönlerini geri plana itiyor.",
+      "realHistory": "Antik Mısır'da ölümden sonra yaşam fikri, sadece seçkinlerin metafiziği değil, geniş toplumun ahlaki ve ritüel düzenini biçimlendiren bir inanç çerçevesiydi. Kişinin kalbinin Ma'at düzeni karşısında tartılması, davranışların ölüm öncesinde de anlam taşıdığı fikrini besliyordu. Bu anlatı, adaletin yalnızca dünyasal mahkeme değil kozmik dengeyle de ilgili olduğunu ima eder.\n\nPtolemaios döneminde Mısır, Yunan ve yerel gelenekler iç içe geçerken ölüm ritüelleri de melez formlar üretti. Tabut bezemeleri, kısa dua metinleri, amuletler ve mezar eşyaları aile bütçesine göre çeşitlendi. Herkes kapsamlı metin rulolarına erişemese de sembolik koruma dilleri yaygındı. Yani inanç, elit metinlerden çok pratik uyarlamalarla gündelik hayata yayıldı.\n\nBu inanç yıl içindeki festival takvimine de yansıyordu. Osiris odaklı törenlerde ölüm ve yeniden doğuş anlatısı topluluk hafızasını tazeliyor, yaşayanlarla atalar arasında bağ kuruyordu. Ev içi adak köşeleri, küçük heykelcikler ve kısa dualar sayesinde büyük tapınak ideolojisi sıradan hanelere taşınıyordu. Böylece ölüm sonrası fikir, yalnızca mezar gününde değil gündelik yaşamın ritminde de var oluyordu.\n\nRahipler, cenaze uzmanları ve yazıcılar bu süreçte rehberlik sunar; defin sadece duygusal değil idari bir süreçti. Kimlik beyanı, mezar mülkiyeti, bağış ve bakım sorumluluğu kayıt altına alınırdı. Bu nedenle öte dünya inancı, yaşayanlar arasında hukuk, miras ve topluluk bağı kuran bir mekanizma gibi de işledi. Görsel mitlerin ötesinde, ölüm sonrası düzen fikri toplumu bir arada tutan etik sözleşmenin parçasıydı.",
+      "accuracyNote": "Duat ve yargı imgeleri geleneksel kaynaklarla uyumlu; oyunun mekansal sunumu dramatik yoğunluk için genişletilmiş.",
+      "whyInteresting": "Mitik bir anlatının gündelik etik kurallara bağlanması, antik dünyayı bugüne çok yakın hissettiriyor.",
+      "misconception": "Mısırlıların ölüm sonrası inancı sadece korku ve lanet etrafında kuruluydu sanılır.",
+      "nextTopics": [
+        "İskenderiye Kütüphanesi",
+        "Nil Taşkınları",
+        "Mumyalama Gerçeği"
+      ],
+      "sources": [
+        {
+          "title": "Book of the Dead",
+          "url": "https://www.britannica.com/topic/Book-of-the-Dead",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Afterlife in Ancient Egypt",
+          "url": "https://www.metmuseum.org/toah/hd/egdb/hd_egdb.htm",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Ma'at and Moral Order in Ancient Egypt",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/religion/maat.html",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-003-mummification",
+        "tf26-006-animal-cults"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Origins'in Duat görselliği dikkat çekici; True Frame bunun toplumsal karşılığını tamamlıyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-misir",
+        "misir",
+        "assassins-creed",
+        "olumden-sonra-yasam",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun öte dünyayı yüksek tempolu bir deneyim alanı gibi kuruyor. Tarihte ağırlık, aile ritüeli ve ahlaki denge fikrinin sürekliliğindeydi.",
+      "whyItMatters": "Mitik bir anlatının gündelik etik kurallara bağlanması, antik dünyayı bugüne çok yakın hissettiriyor.",
+      "isFlagship": false,
+      "quickRealityCheck": "Kalp tartısı anlatısı sadece ölümle mi ilgiliydi, yoksa yaşayanların davranış kurallarını da mı şekillendiriyordu?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-011-arena-politics",
+      "title": "Arena ve Siyaset",
+      "subtitle": "Küçük ayrıntı, büyük tarih",
+      "mediaType": "film",
+      "mediaTitle": "Gladiator",
+      "era": "Antik Dünya",
+      "region": "Roma",
+      "themes": [
+        "İmparatorluk",
+        "Siyaset",
+        "Savaş"
+      ],
+      "whatWeSee": "Gladiator'da arena, Maximus'un intikam yolunun merkezine yerleşir: kalabalığın bağırışları, imparatorun koltuğu ve parmak oylaması aynı sahnede birleşir. Film, Kolezyum'u yalnızca kanlı bir gösteri alanı değil, Commodus ile Roma halkı arasındaki güç sahnesi olarak kurar. İzleyici, arenanın savaşçıların kaderini belirlediği kadar imparatorun itibarını da şekillendirdiğini görür.",
+      "realHistory": "Roma'da gladyatör oyunları (munera) yalnızca eğlence değildi; ölen bir büyüğün anısına, zafer kutlamasına veya siyasi hesaplaşmaya bağlanan kamusal törenlerdi. Oyunları düzenleyen editör ya da imparator masrafı kendi cömertliğinden karşılayarak şehir halkına hediye verirdi. Kalabalık bedava tahılla beslenip arenada toplanınca taleplerini doğrudan yönetime yöneltebiliyordu; Juvenal'ın panem et circenses dizesi tam da bu alışverişi anlatır.\n\nMS 180 sonrası Marcus Aurelius'un ardılı Commodus için arena daha da kişisel bir sahne oldu. Historia Augusta ve Dio Cassius, imparatorun gladyatör kılığıyla çıkıp zayıf rakiplerle dövüştüğünü, halkı memnun etmek için yüzlerce hayvan öldürdüğünü kaydeder. Bu performans Roma'da gücün görünürlüğünü artırır; ama Senato ve askeri elit için endişe de doğururdu çünkü imparator günlük siyaseti stadyuma taşıyordu. Oyunların programı, kura çekimi ve zafer anonsları bile imparatorun adaletini ve cömertliğini sahneye taşıyan ritüellerdi.\n\nGladiator bu dinamiği Maximus hikâyesine indirger: arenada zafer, kişisel adalet ve halkın gözünde meşruiyet kazanılır. Tarihsel kayıtlarda ise oyunların yönetimi muhasebe defterleri, lonca sözleşmeleri ve lojistik planlamayla yürür; gladyatörlerin çoğu köle veya mahkûmdı ve ölüm oranları modern hayal ettiğimiz kadar yüksek değildi. Yine de arenanın siyasi işlevi gerçekti: imparator orada hem cömert hem güçlü görünmek zorundaydı.",
+      "accuracyNote": "Film Commodus'u arenada tek düelloyla sonlandırır; tarihte imparator pek çok gösteri yapmış, fakat 192'de evinde boğularak öldürülmüştür.",
+      "whyInteresting": "Aynı arenada gladyatör kanı bazen şifa malzemesi diye satılırdı; gösterinin hem siyasi hem ticari katmanları vardı.",
+      "misconception": "Arena oyunlarının sadece vahşi eğlence olduğu sanılır. Oysa bunlar imparatorluk cömertliğini, dini bağışı ve şehir halkıyla doğrudan pazarlığı aynı çatıda taşıyan kamu törenleriydi.",
+      "nextTopics": [
+        "Commodus'un Ünü",
+        "Lejyon Disiplini",
+        "Roma Yurttaşlığı"
+      ],
+      "sources": [
+        {
+          "title": "Gladiator - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/sports/gladiator",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Colosseum - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/Colosseum",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Bread and Circuses - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/bread-and-circuses",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Commodus - World History Encyclopedia",
+          "url": "https://www.worldhistory.org/commodus/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "gladiator-commodus-real",
+        "tf26-013-legion-discipline",
+        "tf26-014-citizenship"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Gladiator'daki arena sahneleri ile Roma munera geleneğinin siyasi işlevini karşılaştırır.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "roma",
+        "gladiator",
+        "imparatorluk",
+        "arena-ve-siyaset",
+        "true-frame",
+        "antik-dnya",
+        "imparatorluklar"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Film arenayı tek bir gladyatörün halk kahramanlığına indirger. Tarihte ise oyunlar çoğunlukla imparatorluk düzeninin sürekli bir kamu gösterisi ve bütçe meselesiydi.",
+      "whyItMatters": "Aynı arenada gladyatör kanı bazen şifa malzemesi diye satılırdı; gösterinin hem siyasi hem ticari katmanları vardı.",
+      "isFlagship": false,
+      "quickRealityCheck": "Commodus gerçekten arenaya çıktı mı — ve bu ona güç mü, yoksa imparatorluk itibarını aşındıran bir risk mi kazandırdı?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-013-legion-discipline",
+      "title": "Lejyon Disiplini",
+      "subtitle": "Küçük ayrıntı, büyük tarih",
+      "mediaType": "film",
+      "mediaTitle": "Gladiator",
+      "era": "Antik Dünya",
+      "region": "Roma",
+      "themes": [
+        "İmparatorluk",
+        "Siyaset",
+        "Savaş"
+      ],
+      "whatWeSee": "Gladiator'da lejyon disiplini, özellikle Germania açılışındaki düzenli hatlar, komut zinciri ve ceza korkusu üzerinden görünür olur. Film, Maximus'un ordusunu neredeyse tek vücut gibi hareket ettirir; kamp yaşamı, nöbet döngüsü ve emirlerin hızla uygulanması sahnenin gerilimini artırır. İzleyici bu düzeni hem güç hem de kırılganlık kaynağı olarak okur.",
+      "realHistory": "Roma ordusunda disiplin, yalnızca savaş alanında bağırılan komutlardan ibaret değildi; eğitim takvimi, ikmal düzeni, maaş sistemi ve hukuki cezalarla kurulan bir kurumdu. Erken imparatorlukta lejyonerler standart teçhizat, yürüyüş temposu ve kamp inşası konusunda tekrar eden talim görürdü. Birliğin dayanıklılığı çoğu zaman kahramanlıktan çok bu rutinlerden gelirdi.\n\nAskerler her gün hendek kazma, palisad kurma, nöbet çizelgesi ve erzak dağıtımı gibi işlerle meşguldü. Bu düzen, lejyonu sadece çarpışma gücü değil, hareketli bir devlet aracına dönüştürürdü. Centurionlar alt kademede düzeni sağlar, tribunus ve legatus gibi üst komutanlar daha geniş stratejiye odaklanırdı. Disiplinsizlik para kesintisi, kamusal aşağılama veya ağır durumlarda ölüm cezasına kadar gidebilirdi.\n\nGladiator bu sistemi kişisel sadakat ve ihanet hikayesine bağlayarak sadeleştirir. Gerçekte ise MS 2. yüzyıl sonu ordusu, sınır baskısı, maliyet artışı ve taht mücadeleleri arasında aynı anda hem savaşan hem yönetilen bir mekanizmaydı. Bu nedenle lejyon disiplini, Roma'nın yalnızca askeri gücünü değil, idari kapasitesini de açıklar.\n\nAyrıca disiplinin sosyal boyutu da vardı: emekli asker kolonileri, yerel toplumlarla kurulan bağlar ve terhis sonrası yurttaşlık ayrıcalıkları, ordu düzeninin sivil hayata etkisini artırıyordu. Bu nedenle lejyon sistemi, sadece cephede değil, imparatorluğun taşra yönetiminde de kalıcı sonuçlar üretti. Bu süreklilik, Roma'nın kriz dönemlerinde bile dayanma kapasitesini artırdı.",
+      "accuracyNote": "Komuta zinciri ve talim vurgusu isabetlidir; zaman sıkıştırması nedeniyle farklı dönem uygulamaları tek bir tabloya toplanır.",
+      "whyInteresting": "Aynı disiplin mekanizması hem sınırda savaşmayı hem de imparatorluk coğrafyasını yönetmeyi mümkün kılar.",
+      "misconception": "Roma ordusunun sadece kaba güçle kazandığı sanılır; oysa lojistik, mühendislik ve kayıt disiplini belirleyici rol oynar.",
+      "nextTopics": [
+        "Arena ve Siyaset",
+        "Commodus'un Ünü",
+        "Roma Yurttaşlığı"
+      ],
+      "sources": [
+        {
+          "title": "Roman Army - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/Roman-army"
+        },
+        {
+          "title": "The Roman Army - World History Encyclopedia",
+          "url": "https://www.worldhistory.org/Roman_Army/"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-014-citizenship",
+        "tf26-015-roads",
+        "gladiator-arena-economics"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Kart, Gladiator'ın cephe sahnelerini Roma ordusunun kurumsal disipliniyle karşılaştırır.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "roma",
+        "gladiator",
+        "imparatorluk",
+        "lejyon-disiplini",
+        "true-frame",
+        "antik-dnya",
+        "imparatorluklar"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Film disiplini birkaç yoğun sahnede kişiselleştirir; tarihsel düzende ise bu konu uzun süreli eğitim, kayıt ve lojistik rutiniyle işler.",
+      "whyItMatters": "Aynı disiplin mekanizması hem sınırda savaşmayı hem de imparatorluk coğrafyasını yönetmeyi mümkün kılar.",
+      "isFlagship": false,
+      "quickRealityCheck": "Gladiator'daki düzenli hücum etkileyici; peki bir lejyonu ayakta tutan asıl güç savaş anı mı, yoksa her gün tekrarlanan kamp disiplini miydi?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-014-citizenship",
+      "title": "Roma Yurttaşlığı",
+      "subtitle": "Roma Yurttaşlığı için gerçek zemin",
+      "mediaType": "film",
+      "mediaTitle": "Gladiator",
+      "era": "Antik Dünya",
+      "region": "Roma",
+      "themes": [
+        "İmparatorluk",
+        "Siyaset",
+        "Savaş"
+      ],
+      "whatWeSee": "Gladiator'da Maximus'un Roma vatandaşı kimliği, ordu sadakati ve Commodus'un iktidar mücadelesi yurttaşlığın onur ve tehlike kaynağı olduğunu gösterir. Film intikam anlatır; Roma hukuku yurttaşlığı oy, mülkiyet ve yargı hakkı olarak tanımlar.",
+      "realHistory": "Roma yurttaşlığı (civitas) hukuki statüydü: oy, evlenme, mülkiyet ve adil yargılanma hakkı taşırdı. İmparatorluk döneminde yurttaşlık genişledi; 212 MS Caracalla fermanı (Constitutio Antoniniana) önemli bir eşik olarak anılır. Ordu, özellikle generaller, yurttaşlık ve lejyoner kariyeri üzerinden yükseldi. Gladiator'da Maximus'un 'general' kimliği ve Commodus'un taht mücadelesi bu çerçeveyi dramatize eder. Gerçek Commodus arenada dövüşmeyi severdi; film bunu abartır. Yurttaşlık, Roma kimliğinin merkezindeydi ama köle ve azınlık statüleri ayrı bir gerçeklikti. Film kişisel intikam hikâyesi anlatır; tarihçiler yurttaşlığı hukuk, ordu ve imparatorluk genişlemesiyle okur. Civitas, Roma hukukunun temel statüsüydü: evlenme, mülkiyet, sözleşme ve adil yargılanma hakkı taşırdı. Cumhuriyet döneminde yurttaşlık dar idi; imparatorluk genişledikçe Latium, İtalya ve eyaletler kademeli dahil edildi. 212 MS Caracalla'nın Constitutio Antoniniana fermanı önemli eşiktir. Ordu generalleri yurttaşlık ve lejyoner kariyeri üzerinden yükseldi; Maximus tipi komutanlar gerçekti. Commodus arenada dövüşmeyi severdi; film abartır. Köle ve peregrinus (yabancı) statüleri ayrı tablolardı. Yurttaşlık Roma kimliğinin merkezindeydi; film bunu dramatize eder, tarihçiler hukuk ve ordu bağlamında okur. Köle manumisyonu yurttaşlık yoluydu; lejyonerler emeklilikte toprak ve statü kazanabilirdi. Peregrinus (yabancı) ve köle statüleri ayrı tablolardı; yurttaşlık ayrıcalığı hukuki koruma ve siyasi katılım demekti.",
+      "accuracyNote": "Yurttaşlık hukuku ve ordu bağı doğrudur; Maximus ve birçok olay kurgusaldır.",
+      "whyInteresting": "Aynı imparatorlukta yurttaşlık hem ayrıcalık hem siyasi silahtı.",
+      "misconception": "Her Roma sakini eşit yurttaştı; kölelik ve eyalet statüleri ayrı tablolardı.",
+      "nextTopics": [
+        "Arena ve Siyaset",
+        "Commodus'un Ünü",
+        "Lejyon Disiplini"
+      ],
+      "sources": [
+        {
+          "title": "Roman citizenship (Britannica)",
+          "url": "https://www.britannica.com/topic/Roman-citizenship",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Constitutio Antoniniana (Livius)",
+          "url": "https://www.livius.org/articles/concept/citizenship-roman/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Roman army and society (British Museum)",
+          "url": "https://www.britishmuseum.org/collection/galleries/roman-britain",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-015-roads",
+        "gladiator-arena-economics",
+        "gladiator-commodus-real"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Gladiator'ın ordu ve taht sahneleri ile Roma civitas ve lejyoner kariyer kayıtları.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "roma",
+        "gladiator",
+        "imparatorluk",
+        "roma-yurttasligi",
+        "true-frame",
+        "antik-dnya",
+        "imparatorluklar"
+      ],
+      "spoilerNote": "Gladiator hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Roma Yurttaşlığı ekranda daha net bir odak kazanır; karakterlerin yolu, mekân seçimi ve çatışma ritmi bu konuyu kolay takip edilir kılar. Tarihte aynı başlık, imparatorluk ardıllığı ve arena siyaseti gibi daha uzun süreçlerin içinde ilerler.",
+      "whyItMatters": "Aynı imparatorlukta yurttaşlık hem ayrıcalık hem siyasi silahtı.",
+      "isFlagship": false,
+      "quickRealityCheck": "Maximus'un 'Roma' aidiyeti, imparatorluk yurttaşlık hukukuyla nasıl karşılaştırılır?",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "locale": "tr",
+  "chunkIndex": 65,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-118-bounty-hunters",
+      "title": "Ödül Avcıları",
+      "subtitle": "Ödül avcısı: adalet mi, piyasa mı?",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Sınır",
+        "Şiddet",
+        "Modernleşme"
+      ],
+      "whatWeSee": "Red Dead Redemption ve Western filmlerde Wanted posterları, ödül avcıları ve şerifin dışındaki adalet sınırın gri alanını gösterir. Oyun mekaniği yapar; 19. yüzyıl poster ve mahkeme arşivleri sistemin kurallarını ve ihlallerini belgeler.",
+      "realHistory": "19. yüzyıl Amerikan Batı'sında ödül avcılığı, kaçakların yakalanması için para ödülü sistemine dayanırdı. Wanted posterları — fotoğraf veya çizim, suç, ödül miktarı — kamuya ilan edilirdi. Şerif veya federal marshal yakalama emri çıkarır; ödül avcısı (bounty hunter) sözleşmeyle hareket ederdi. Hukuki sınırlar eyalete göre değişti: bazı yerlerde ölü ya da diri teslim, bazı yerlerde şiddet sınırlandı. Popüler kültür ödül avcısını romantize eder; kayıtlar ise yanlış kişi yakalama, linç ve rüşvet örnekleri de gösterir. RDR bu gri alanı oyun mekaniği yapar; tarihçiler poster arşivleri ve mahkeme kayıtlarından sistemin kurallarını ve ihlallerini okur. Ödül avcılığı, şerif veya federal marshal'ın çıkardığı yakalama emrine dayanırdı. Posterler suç, ödül miktarı ve 'ölü ya da diri' ifadesini taşırdı. Hukuki sınırlar eyalete göre değişti; bazı yerlerde ölü teslim kabul edilirdi. Jesse James ve Billy the Kid posterleri arşivlerde korunur. Popüler kültür ödül avcısını romantize eder; kayıtlar yanlış kişi yakalama, linç ve rüşvet örnekleri de gösterir. Ödül avcısı resmi adaletin uzantısıydı ama denetimsiz kalabiliyordu. RDR bu gri alanı oyun mekaniği yapar; Library of Congress poster koleksiyonları somut örnekler sunar. Ödül avcılığı eyalet yasalarıyla sınırlandı; yine de yanlış kişi yakalama ve linç vakaları kayıtlara geçti.",
+      "accuracyNote": "Wanted posterları ve ödül sistemi tarihseldir; RDR aksiyonu abartır.",
+      "whyInteresting": "Ödül avcılığı resmi adaletin uzantısıydı — ama denetimsiz kalabiliyordu.",
+      "misconception": "Her ödül avcısı yasal sınırlar içinde çalıştı; kayıtlar kötüye kullanım da gösterir.",
+      "nextTopics": [
+        "Kanunsuz Efsanesi",
+        "Demiryolu Sınırı",
+        "Sığır Sürüşleri"
+      ],
+      "sources": [
+        {
+          "title": "Bounty hunting in the American West (Britannica)",
+          "url": "https://www.britannica.com/topic/bounty-hunter",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Wanted posters (Library of Congress)",
+          "url": "https://www.loc.gov/collections/americana/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Frontier law enforcement (National Archives)",
+          "url": "https://www.archives.gov/research/guide-fed-records/groups/049.html",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-119-women-frontier",
+        "rdr2-frontier",
+        "tf26-116-boomtowns"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Red Dead Redemption bounty posterleri ile Vahşi Batı ödül sistemi.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "vahsi-bati",
+        "red-dead",
+        "abd",
+        "odul-avcilari",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Western filmler kovalamaca verir; poster ve mahkeme arşivleri prosedürü gösterir.",
+      "whyItMatters": "Ödül avcılığı resmi adaletin uzantısıydı — ama denetimsiz kalabiliyordu.",
+      "isFlagship": false,
+      "quickRealityCheck": "RDR'deki wanted posterları, 19. yüzyıl gerçek poster arşivlerine ne kadar benziyor?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-119-women-frontier",
+      "title": "Sınırda Kadınlar",
+      "subtitle": "Sınırda kadınlar: salon efsanesinin ötesinde",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Sınır",
+        "Şiddet",
+        "Modernleşme"
+      ],
+      "whatWeSee": "Red Dead Redemption'ın sınır dünyasında kadınlar, erkek haydut çatışması ana hikayeyi sürüklerken zorlama, toplumsal denetim ve kırılgan güvenlik içinde yol alırken gösterilir. Abigail ve Sadie gibi karakterler pasif seyirci klişesini karmaşıklaştırır, ancak kamera yine de silahlı erkeklere ve çete siyasetine döner. Ev içi emek, muhasebe, bakım ve yerel işletme yönetimi görünür; fakat çoğu zaman tarihsel motor olmaktan çok destekleyici doku olarak kalır.",
+      "realHistory": "19. yüzyıl Kuzey Amerika Batısı'nda kadınların yaşamı sınıf, etnisite, bölge ve hukuki statüye göre çok çeşitlidir; salon klişelerine ya da yalnızca ev içi anlatılara indirgenemez. Pek çok kadın öğretmen, pansiyon yöneticisi, tüccar, çiftçi, çamaşırcı, şifacı ve küçük ölçekli girişimci olarak çalıştı. Bazıları homestead hükümleri veya mirasla toprak edindi; bazıları ise kahramanlık hafızasına nadiren giren ücretsiz emek ve kredi yönetimiyle aile ekonomisini ayakta tuttu. Mahkeme ve gazete kayıtları, kadınların borç, mülkiyet, vesayet ve ticari uyuşmazlıklar için dava açtığını gösterir; bu da hukuki ve ticari sistemlere etkin katılıma işaret eder. Sınır koşulları bazı fırsatlar açabilse de yapısal eşitsizlik ağırdı: ücret ayrımcılığı, toplumsal cinsiyet temelli şiddete karşı zayıf hukuki koruma ve erkek denetimli kurumlara bağımlılık yaygındı. Yerli, Siyah ve Meksika kökenli kadınların deneyimleri ise ırksallaştırılmış polislik, emek ayrışması ve mahkemelere eşitsiz erişim nedeniyle keskin biçimde farklılaşıyordu. Bazı batı bölgelerinde kadınlar oy hakkını ABD'nin büyük kısmından önce kazandı; ancak bu siyasal eşik ekonomik kırılganlığı veya toplumsal zorlamayı ortadan kaldırmadı. Kültürel hafıza çoğu zaman silahlı erkek hareketliliğini yüceltirken yerleşimleri ayakta tutan yeniden üretim ve yönetim emeğini küçültür. Red Dead tehlike ve kısıtın duygusal gerçeğini yakalar; ancak tarihsel kanıt, sınır sürekliliğinin eğitim, hane üretimi, bakım ve topluluk ağlarındaki kadın emeğine; yalnızca erkek şiddetinin sonuçlarına değil, büyük ölçüde dayandığını gösterir.",
+      "accuracyNote": "Risk atmosferi inandırıcıdır; emek ve kurumsal katılımın genişliği zorunlu olarak sıkıştırılmıştır.",
+      "whyInteresting": "Dikkati gösteriden gündelik yaşam altyapısına kaydırarak 'Batı'yı kim kurdu?' sorusunu yeniden çerçeveler.",
+      "misconception": "Sınır kadınları, kapsamlı belgelenmiş ekonomik katkıya rağmen çoğu zaman pasif bağımlılar olarak hayal edilir.",
+      "nextTopics": [
+        "Kanunsuz Efsanesi",
+        "Demiryolu Sınırı",
+        "Sığır Sürüşleri"
+      ],
+      "sources": [
+        {
+          "title": "Westward expansion (Britannica)",
+          "url": "https://www.britannica.com/event/westward-movement",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Oregon Trail (NPS)",
+          "url": "https://www.nps.gov/oreg/index.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Women on the frontier (Smithsonian)",
+          "url": "https://www.smithsonianmag.com/history/women-of-the-west-180958058/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "rdr2-frontier",
+        "tf26-117-frontier-law",
+        "tf26-118-bounty-hunters"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "RDR kısıtları etkili biçimde insanileştirir; ancak arşivler kadınların ekonomik ve yurttaşlık otoritesinde çok daha geniş bir yelpaze gösterir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "vahsi-bati",
+        "red-dead",
+        "abd",
+        "sinirda-kadinlar",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun kadın rollerini genişletir ama hâlâ haydut erkekliği merkezler; oysa tarihsel yerleşim, sürekli kadın emeği ve hukuki özneleşmeye dayanıyordu.",
+      "whyItMatters": "Dikkati gösteriden gündelik yaşam altyapısına kaydırarak 'Batı'yı kim kurdu?' sorusunu yeniden çerçeveler.",
+      "isFlagship": false,
+      "quickRealityCheck": "Batı'daki kadınlar yalnızca erkek başkahramanların refakatçileri değil; emekçiler, dava açanlar ve örgütleyicilerdi.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-122-artillery",
+      "title": "Topçu Ateşi",
+      "subtitle": "Topçu ateşi: siperin üstündeki ölüm",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "era": "Modern Tarih",
+      "region": "Avrupa",
+      "themes": [
+        "Savaş",
+        "Teknoloji",
+        "Cephe"
+      ],
+      "whatWeSee": "1917'de Schofield siper hattında sürekli top sesi altında ilerler. Film topçu ateşini görsel ve işitsel baskı olarak kullanır; siperin üstündeki ölüm atmosferi anlık gerilim yaratır. İzleyici ufku yırtan topçu patlamalarını, mermi perdesinin önünde ilerleyen piyadeyi ve geciken emir yüzünden dağılan hattı tek nefeste izliyor.",
+      "realHistory": "I. Dünya Savaşı'nda topçu 'cehennem ateşi' siper savaşının belirleyicisiydi. Somme ve Passchendaele öncesi günlerce ön hazırlık ateşi yapıldı; amaç düşman siperlerini yok etmekti. Çoğu zaman siperler ayakta kaldı; saldıran tükenmiş askerler makineli tüfekle karşılandı. Top mermisi çukur, çamur ve baraj ateşi kombinasyonu cepheyi katılaştırdı. 1917 filmi bu sesi tek geceye sıkıştırır; gerçekte topçu lojistiği (milyonlarca mermi) endüstriyel savaşın simgesiydi. Savaş travması (shell shock) top sesiyle bağlantılıydı. Birinci Dünya Savaşı'nda topçu ateşi, piyade hareketinin ritmini belirleyen başlıca öldürücü güçtü. Uzun hazırlık bombardımanları siper hatlarını parçalamayı amaçlasa da çoğu zaman düşmana yaklaşan taarruz planını da önceden haber veriyordu. Baraj ateşi tekniği, mermi perdesini belirli hızla ileri kaydırarak askerin arkasından ilerlemesini sağladı; zamanlama hatası ölümcül sonuçlar doğuruyordu. Çamur, sis ve kopan telefon hatları koordinasyonu zorlaştırdı. Endüstriyel ölçekte mermi üretimi ile meteoroloji verisinin birleşmesi, modern savaşın teknikleşmiş yıkım kapasitesini keskin biçimde artırdı. Topçu Ateşi Birinci Dünya Savaşı'nda topçu 'cehennem ateşi' siper savaşının belirleyicisiydi. 1916'dan sonra karşı batarya ateşi, düşman toplarını ses tespiti ve hava keşfiyle bulup susturmayı hedefledi. Gaz, şarapnel ve yüksek patlayıcı mermiler art arda kullanıldı. Bu teknik yoğunluk, komutanları katı zaman çizelgelerine bağlayarak cephede doğaçlama manevra alanını belirgin biçimde daralttı.",
+      "accuracyNote": "Topçu rolü IWM ve askeri tarih kaynaklarıyla uyumludur.",
+      "whyInteresting": "Aynı ses hem taktik hem travma kaynağıydı.",
+      "misconception": "Top ateşi siperi otomatik temizlerdi; çoğu saldırı başarısız oldu.",
+      "nextTopics": [
+        "Siper Yaşamı",
+        "Sahipsiz Bölge",
+        "Cephe Habercileri"
+      ],
+      "sources": [
+        {
+          "title": "Artillery WWI (Imperial War Museum)",
+          "url": "https://www.iwm.org.uk/history/first-world-war",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Battle of the Somme (Britannica)",
+          "url": "https://www.britannica.com/event/Battle-of-the-Somme",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Trench warfare (Britannica)",
+          "url": "https://www.britannica.com/event/trench-warfare",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "1917-trenches",
+        "tf26-124-messengers"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "1917'nin top sesi atmosferi ile I. Dünya Savaşı bombardıman taktikleri ve Somme topçusu.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "birinci-dunya-savasi",
+        "siper",
+        "1917",
+        "topcu-atesi",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "1917 hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film topçuyu sürekli arka plan yapar; gerçekte mermi üretimi cephe gerisinin endüstrisiydi.",
+      "whyItMatters": "Aynı ses hem taktik hem travma kaynağıydı.",
+      "isFlagship": false,
+      "quickRealityCheck": "Ön hazırlık ateşi neden çoğu zaman siperleri yok edemedi?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-123-no-mans-land",
+      "title": "Sahipsiz Bölge",
+      "subtitle": "Küçük ayrıntı, büyük tarih",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "era": "Modern Tarih",
+      "region": "Avrupa",
+      "themes": [
+        "Savaş",
+        "Teknoloji",
+        "Cephe"
+      ],
+      "whatWeSee": "1917, sahipsiz bölgeyi neredeyse canlı bir varlık gibi kuruyor: çamur, tel örgü, kraterler ve cesetler arasında ilerleyen iki asker için mesafe psikolojik olarak büyüyor. Kamera kesintisiz akış hissi verdiği için izleyici, siperler arasındaki birkaç yüz metrenin bile neden ölümcül bir kumar olduğunu bedensel olarak hissediyor.",
+      "realHistory": "Birinci Dünya Savaşı Batı Cephesi'nde \"no man's land\", karşıt siper hatları arasında kalan düzensiz ve sürekli değişen ölüm alanıydı. Bu bölge genişlik olarak birkaç metreden yüzlerce metreye uzanabiliyor, topçu ateşiyle arazi şekli her gün yeniden bozuluyordu. Gece devriyeleri, yaralı tahliyesi, keşif timleri ve tel kesme görevleri bu alanda yürütülse de gündüz hareket çoğu sektörde intihara yakındı.\n\nSahipsiz bölge yalnızca fiziksel engel değildi; ateş yoğunluğu, iletişim kopukluğu ve yanlış istihbaratın biriktiği taktik kör noktaydı. Komutanlar harita üzerinde net görünen hedefleri, arazi gerçekliğinde çoğu zaman kaybediyordu. Yağmur, çamur ve patlamış mühimmat, planlı hücumu düzensiz hayatta kalma mücadelesine çeviriyordu. Bu nedenle \"ilerleme\" birkaç yüz metre bile olsa günlerce sürebiliyordu.\n\n1917'nin mesaj taşıma eksenli hikayesi, cephede telefon hatlarının sık kopması ve emir aktarımının insan koşusuna kalması gerçeğine dayanır. Film bunu tek bir görev zamanına sıkıştırır; tarihsel ölçekte benzer görevler binlerce kez tekrarlandı ve çoğu kayıtlara kahramanlık olarak değil rutin kayıp olarak geçti.\n\nSahipsiz bölge, modern endüstriyel savaşın en çıplak sonucuydu: teknoloji arttıkça bireysel cesaretin manevra alanı daralıyordu. Ayrıca cesetlerin toplanamaması, bulaşıcı hastalık riski, kemirgen yoğunluğu ve sürekli patlama sesi askerlerin psikolojik yıpranmasını derinleştirerek cephe disiplinini yalnızca emirle değil, korku yönetimiyle ayakta tutuyordu. Bu alan, savaşın coğrafyadan çok dayanıklılık sınırına dönüştüğü yerdi.",
+      "accuracyNote": "Mekansal tehlike ve iletişim zorluğu tarihsel olarak güçlüdür; görev yoğunluğu ve zaman akışı dramatik etki için yoğunlaştırılmıştır.",
+      "whyInteresting": "Modern savaşta teknolojinin artmasının her zaman hareket kabiliyeti getirmediğini, bazen tam tersini ürettiğini gösterir.",
+      "misconception": "Sahipsiz bölgenin boş ve tamamen denetimsiz bir alan olduğu düşünülür.",
+      "nextTopics": [
+        "Siper Yaşamı",
+        "Topçu Ateşi",
+        "Cephe Habercileri"
+      ],
+      "sources": [
+        {
+          "title": "Imperial War Museums - Trench Warfare",
+          "url": "https://www.iwm.org.uk/history/what-was-trench-warfare",
+          "type": "museum"
+        },
+        {
+          "title": "Encyclopaedia Britannica - Trench warfare",
+          "url": "https://www.britannica.com/topic/trench-warfare",
+          "type": "article"
+        },
+        {
+          "title": "UK National Army Museum - Life in the Trenches",
+          "url": "https://www.nam.ac.uk/explore/life-trenches",
+          "type": "museum"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-124-messengers",
+        "1917-siper-savasi-flagship",
+        "tf26-126-shell-shock"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "1917'nin kesintisiz ilerleyiş hissi, Batı Cephesi devriye raporlarında anlatılan iletişim ve arazi kırılganlığıyla birleşir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "birinci-dunya-savasi",
+        "siper",
+        "1917",
+        "sahipsiz-bolge",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "1917 hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film alanı tek bir kritik görevin sahnesi yapıyor; tarihsel gerçeklikte aynı dehşet yıllara yayılan tekrar eden gündelik rutindi.",
+      "whyItMatters": "Modern savaşta teknolojinin artmasının her zaman hareket kabiliyeti getirmediğini, bazen tam tersini ürettiğini gösterir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Batı Cephesi'nde birkaç yüz metreyi geçmek neden bazen binlerce kayıp anlamına geliyordu?",
+      "lastReviewedAt": "2026-06-26"
+    }
+  ]
+}

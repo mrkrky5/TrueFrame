@@ -1,0 +1,196 @@
+{
+  "chunk": "tr-chunk-002",
+  "locale": "tr",
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware editorial review with web fact-check",
+  "entries": [
+    {
+      "id": "rdr2-frontier",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Flagship card was overlong, started with a broken fragment, drifted into unfinished cowboy/göçmen sections, and repeated whyInteresting in whyItMatters. Core angle is good but needed a cleaner media-vs-history structure.",
+      "fields": {
+        "whatWeSee": "Red Dead Redemption 2, 1899 Amerika'sında kaçacak yer arayan bir çetenin giderek daralan dünyasını gösterir: demiryolları, telgraf, bankalar, şehir polisi ve özel dedektifler artık sınırın eski boşluklarını kapatmaktadır.",
+        "realHistory": "Red Dead Redemption 2'nin trajedisi, yalnız bir çetenin dağılması değil; Amerikan sınır mitinin tarihsel olarak kapanmasıdır. 1890 nüfus sayımı, kesintisiz bir “frontier line” çizmenin artık anlamlı olmadığını gösterdiğinde, tarihçiler bunu eski batı genişlemesinin sembolik sonu olarak okudu. Bu, batının bir gecede yok olduğu anlamına gelmez; fakat kaçakların, bağımsız avcıların ve küçük silahlı grupların hareket alanı artık eskisi gibi boş ve denetimsiz değildi.\n\nBu dönüşümün arkasında yalnız şerifler yoktu. Demiryolu ağı, telgraf hatları, banka kredileri, arazi kayıtları ve büyük şirketler sınırı ölçülebilir, takip edilebilir ve satın alınabilir hale getirdi. Bir çete bir kasabada banka soyduğunda haber artık aylar sonra değil, çok daha hızlı yayılabiliyordu. Pinkerton gibi özel dedektiflik ajansları da bu yeni düzenin sert yüzlerinden biriydi: kanun kaçaklarını izlediler, şirket güvenliği sağladılar ve işçi grevleriyle çatışmalı bir tarihe sahip oldular.\n\nOyundaki Pinkerton baskısı bu yüzden yalnız bir “kötü adam” baskısı değildir. Devlet, şirket ve özel güvenlik arasındaki sınırın bulanıklaştığı bir dönemi temsil eder. 1890'ların sonunda eski batı şiddeti hâlâ vardı, ama artık romantik boşluklarda değil; mahkemeler, demiryolları, ajan raporları ve sermaye düzeni içinde sıkışıyordu.\n\nRed Dead Redemption 2, bu tarihi Arthur Morgan ve Van der Linde çetesi üzerinden kişiselleştirir. Gerçek tarih ise daha geniştir: Yerli halkın rezervasyonlara zorlanması, küçük çiftçilerin borç ve arazi baskısı, göçmen emeği, maden ve petrol şirketleri, batının “özgürlük” görüntüsünün altında işleyen kurumsal düzeni gösterir. Bu yüzden oyunun asıl gerçekçiliği çatışma sahnelerinde değil, “artık haritada boş yer kalmadı” hissinde yatar.",
+        "accuracyNote": "Oyun 1899 atmosferini güçlü kurar; fakat çetelerin çatışma ölçeği ve bazı mekânsal geçişler dramatik etki için büyütülür. Pinkertonların kanun kaçaklarını takip etmesi tarihsel zemine oturur, ancak ajansın grev kırma ve şirket güvenliği tarafı da bu dönemin tartışmalı parçasıdır.",
+        "whyInteresting": "Pinkerton Ajansı'nın açık göz logosu ve “We Never Sleep” sloganı, özel dedektiflik fikrinin Amerikan popüler kültüründeki en kalıcı imgelerinden birini yarattı.",
+        "misconception": "Vahşi Batı'nın sadece daha iyi şerifler yüzünden bittiği sanılır; gerçekte demiryolu, telgraf, arazi kayıtları, şirket sermayesi ve özel güvenlik ağı birlikte eski kaçış alanlarını kapattı.",
+        "mediaChanged": "Oyun, sınırın kapanışını bir çetenin son şansı gibi yaşatır; tarihsel süreçte aynı kapanış, nüfus sayımı, demiryolu, şirketleşme, yerli halkın yerinden edilmesi ve özel güvenlik ağlarının birleşimiydi.",
+        "whyItMatters": "Sınırın kapanışı, özgürlük diye anlatılan bir coğrafyanın nasıl ölçülen, satın alınan ve denetlenen modern bir ekonomik alana dönüştüğünü gösterir.",
+        "quickRealityCheck": "Red Dead Redemption 2'de çetenin kaçacak yer bulamaması yalnız hikâye tercihi mi, yoksa 1890'lar Amerika'sında gerçekten kapanan bir sınır dünyasının sonucu mu?",
+        "mediaConnection": "Bu kart, Red Dead Redemption 2'nin çete hikâyesini 1890 sonrası Amerikan sınırının kapanışı, Pinkertonlar ve sanayileşen denetim düzeniyle karşılaştırır."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The American West, 1865 to 1900 (Library of Congress)",
+            "url": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/rise-of-industrial-america-1876-1900/american-west-1865-1900/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Following the Frontier Line, 1790 to 1890 (U.S. Census Bureau)",
+            "url": "https://www.census.gov/dataviz/visualizations/001/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Real History Behind the Pinkerton Detective Agency (Smithsonian)",
+            "url": "https://www.smithsonianmag.com/history/the-real-history-behind-the-pinkerton-detective-agency-180983804/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "factCheckNotes": [
+        "1890 frontier framing is supported, but avoid saying the West literally became fully settled overnight.",
+        "Pinkerton angle is valid, but should include its strikebreaking/private-security controversy, not only outlaw hunting.",
+        "Removed unfinished/over-broad closing material about cowboys and immigration that was not developed enough for this card."
+      ]
+    },
+    {
+      "id": "chernobyl-disaster",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Flagship text was dramatic but too sensational in places: it overstated exposure, repeated symbolic claims, and used unsafe claims about a second explosion making Europe uninhabitable. It needed a stronger technical/systemic framing.",
+      "fields": {
+        "whatWeSee": "HBO'nun Chernobyl dizisi, 4 numaralı RBMK reaktörünün patlamasını yalnız teknik bir kaza değil; bürokratik inkâr, korku, gecikmiş tahliye ve gerçeği söylemenin bedeli üzerinden anlatır.",
+        "realHistory": "26 Nisan 1986'da Çernobil Nükleer Santrali'nin 4 numaralı reaktöründe yapılan gece testi, modern tarihin en ağır nükleer kazasına dönüştü. Reaktör düşük güçte kararsız bir noktaya sürüklendi; operatör kararları, zayıf güvenlik kültürü ve RBMK tasarımının bilinen riskleri aynı anda devreye girdi. Özellikle pozitif boşluk katsayısı ve kontrol çubuklarının ilk anda reaktiviteyi artırabilen tasarımı, AZ-5 düğmesine basıldığında sistemi sakinleştirmek yerine kısa bir süre daha tehlikeli hale getirdi.\n\nPatlama ve ardından gelen grafit yangını, büyük miktarda radyoaktif maddeyi atmosfere taşıdı. İlk saatlerde en ağır bedeli santral çalışanları ve itfaiyeciler ödedi; akut radyasyon sendromu yaşayanların bir kısmı haftalar içinde öldü. Pripyat'ın tahliyesi ise hemen yapılmadı: şehir halkı patlamadan sonra yaklaşık bir buçuk gün boyunca normal hayatına devam etti. Bu gecikme, dizinin en güçlü taraflarından biridir; çünkü felaketin yalnız reaktörde değil, bilgi akışında da yaşandığını gösterir.\n\nSonraki temizlik çalışmaları yüz binlerce “likidatör”ün katıldığı dev bir devlet operasyonuna dönüştü. Bu insanların görevleri çok farklıydı: yangınla mücadele, enkaz temizliği, çevre dekontaminasyonu, tahliye bölgelerinin kurulması, yolların ve binaların yıkanması, orman ve toprak yönetimi. Hepsinin aynı düzeyde ölümcül doz aldığı söylenemez; ama operasyonun ölçeği, Sovyet sisteminin hem seferberlik kapasitesini hem de insan hayatını riske atan körlüğünü gösterir.\n\nChernobyl dizisi bazı karakterleri ve konuşmaları temsilî hale getirir; Ulana Khomyuk gibi karakterler tek bir kişiden çok bilim insanlarının kolektif emeğini taşır. Buna rağmen dizinin ana fikri güçlüdür: felaket yalnız teknik arızadan doğmadı. Tasarım kusuru, eğitim eksikliği, emir-komuta baskısı, kariyer korkusu ve devlet sırrı kültürü birleştiğinde, fiziksel bir reaktör kazası siyasi bir güven krizine dönüştü.",
+        "accuracyNote": "Dizi olayların atmosferini ve bürokratik baskıyı güçlü verir; bazı karakterler, mahkeme sahneleri ve patlama riskleri dramatik anlatım için yoğunlaştırılmıştır. Teknik çerçevede RBMK tasarımı, pozitif boşluk katsayısı ve kontrol çubuğu sorunu temel tarihsel zemindir.",
+        "whyInteresting": "Çernobil'de sorun yalnız operatör hatası değildi; reaktör tasarımındaki riskler ve güvenlik kültüründeki zayıflık birlikte felaketi büyüttü.",
+        "misconception": "Çernobil'in tek nedeni birkaç dikkatsiz operatör sanılır; resmi incelemeler tasarım kusurları, prosedür ihlalleri ve kurumsal gizlilik kültürünü birlikte ele alır.",
+        "mediaChanged": "Dizi, felaketi birkaç güçlü karakter ve dramatik yüzleşme üzerinden anlatır; tarihsel gerçeklikte olay çok daha geniş bir mühendislik, bürokrasi, tahliye ve temizlik ağına yayılmıştır.",
+        "whyItMatters": "Çernobil, karmaşık teknolojilerde gerçeği saklamanın teknik hatadan daha büyük bir felakete dönüşebileceğini gösterir.",
+        "quickRealityCheck": "Chernobyl dizisindeki felaket sadece kötü bir testin sonucu mu, yoksa tasarım kusuru ve devlet sırrı kültürünün birleştiği daha büyük bir sistem arızası mı?",
+        "mediaConnection": "Bu kart, Chernobyl dizisinin dramatik anlatısını RBMK reaktör tasarımı, Sovyet bilgi kontrolü ve gerçek temizlik operasyonlarının ölçeğiyle karşılaştırır."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Chernobyl Accident: Updating of INSAG-1 / INSAG-7 (IAEA)",
+            "url": "https://www-pub.iaea.org/MTCD/publications/PDF/Pub913e_web.pdf",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Chornobyl Accident (UNSCEAR)",
+            "url": "https://www.unscear.org/unscear/en/chernobyl.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Chernobyl Accident 1986 (World Nuclear Association)",
+            "url": "https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident",
+            "type": "reference",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "factCheckNotes": [
+        "Removed claim that a second explosion could make half of Europe uninhabitable; this is a dramatized/sensational reading and not safe as app copy.",
+        "Kept liquidator scale but avoided implying all liquidators received equally lethal exposure.",
+        "Kept the systemic critique because IAEA/INSAG and other technical summaries support design + procedure + safety culture framing."
+      ]
+    },
+    {
+      "id": "oppenheimer-trinity",
+      "locale": "tr",
+      "decision": "minor_source_update",
+      "reason": "Text is broadly solid after previous rewrite. Main weakness is that a flagship card has only one source while reviewerNote mentions more. Add stronger source coverage without rewriting the card again.",
+      "fields": {
+        "accuracyNote": "Film Trinity testinin teknik ve psikolojik ağırlığını güçlü biçimde verir; Manhattan Projesi'nin dev ölçekli bürokratik, askeri ve endüstriyel yapısı ise doğal olarak yoğunlaştırılmıştır.",
+        "whyInteresting": "Trinity öncesinde bilim insanları, atmosferin tutuşması gibi çok düşük olasılıklı ama korkutucu senaryoları bile hesapladı; bu, testin bilimsel olduğu kadar ahlaki gerilimini de artırdı."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Trinity Site (National Park Service)",
+            "url": "https://www.nps.gov/mapr/learn/historyculture/trinity.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Gadget (National Park Service)",
+            "url": "https://www.nps.gov/articles/000/the-gadget.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Trinity Test - 1945 (Atomic Heritage Foundation / National Museum of Nuclear Science & History)",
+            "url": "https://ahf.nuclearmuseum.org/ahf/history/trinity-test-1945/",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "factCheckNotes": [
+        "No full rewrite needed; the card already follows the app's media-vs-history premise.",
+        "Expanded sources because a flagship card should not rely on a single source."
+      ]
+    },
+    {
+      "id": "gladiator-colosseum",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Flagship text was overlong, partially cut off, one-source only, and repeated spectacle facts in whyItMatters. It needed cleaner focus on Colosseum as political theatre, logistics, class hierarchy, and Gladiator's Commodus fiction.",
+      "fields": {
+        "whatWeSee": "Gladiator, Kolezyum'u imparatorun halkla doğrudan temas kurduğu kanlı bir sahne olarak gösterir: Commodus kalabalığın sevgisini arar, gladyatörler hayatta kalmaya çalışır, arena siyasetin görünür yüzüne dönüşür.",
+        "realHistory": "Kolezyum'un resmi adı Flavian Amfitiyatrosu'ydu. İnşası Vespasian döneminde başladı, Titus döneminde MS 80'de açıldı ve Roma'nın merkezinde Nero'nun özel lüksünü kamusal bir gösteri alanına çeviren güçlü bir siyasi mesaj taşıdı. Yapı, yalnız mimari bir başarı değil; imparatorun halka “ben size şehir, düzen ve eğlence veriyorum” deme biçimiydi.\n\nArena oyunları yalnız kana susamış kalabalıkların eğlencesi değildi. Roma'da gösteri, iktidarın sahneye çıkma biçimlerinden biriydi. Oturma düzeni toplumsal hiyerarşiyi görünür kılar; senatör, şövalye, yurttaş, kadın ve köle farklı alanlarda yer alırdı. İmparator ya da oyunu finanse eden sponsor, kalabalığın tepkisini ölçer, cömertliğini sergiler ve Roma'nın düzen fikrini tekrar üretirdi. “Ekmek ve oyunlar” ifadesi bu yüzden yalnız uyuşturma değil, karşılıklı beklenti ve siyasi meşruiyet dilidir.\n\nGladyatörler de sanıldığından daha karmaşık bir statüye sahipti. Çoğu köle, savaş esiri veya mahkûm kökenliydi; fakat bazı özgür insanlar para, şöhret veya borç nedeniyle gönüllü olarak arenaya girdi. Eğitimleri ludi denen okullarda yapılırdı. Dövüşlerin tamamı ölümle bitmezdi; eğitimli bir gladyatör pahalı bir yatırımdı. Buna rağmen arenaya çıkan kişi Roma toplumunda hem hayranlık uyandıran hem de aşağı statülü görülen çelişkili bir figürdü.\n\nKolezyum'un etkisi yalnız insan bedeninden değil, makineden de geliyordu. Hypogeum denilen yeraltı sistemi, kafesler, koridorlar, kaldırma düzenekleri ve sahne geçişleriyle gösterinin ritmini kuruyordu. Velarium adı verilen büyük gölgelik sistemi de seyirci deneyiminin parçasıydı. Gladiator bu sistemi dramatik ve kişisel bir hikâyeye indirger; tarihsel gerçeklikte ise arena, mühendislik, sınıf düzeni, imparatorluk propagandası ve ekonomik organizasyonun birleştiği dev bir kamu tiyatrosuydu.",
+        "accuracyNote": "Film atmosferi güçlü kurar; fakat Commodus'un babasını öldürmesi ve arenada Maximus'la ölmesi kurgudur. Gerçek Commodus arenaya çıkmayı severdi, ancak MS 192'de saray içi bir komplo sonucu öldürüldü.",
+        "whyInteresting": "Kolezyum'daki oturma düzeni bile Roma toplumunun sınıf yapısını görünür kılıyordu; izleyici yalnız gösteriyi değil, kendi yerini de görüyordu.",
+        "misconception": "Gladyatör dövüşlerinin her zaman ölümle bittiği sanılır; eğitimli gladyatörler pahalıydı ve birçok dövüş teslimiyet, hakem kararı veya bağışlanmayla sona erebilirdi.",
+        "mediaChanged": "Gladiator, arenayı Commodus ve Maximus arasındaki kişisel çatışmanın doruk noktası yapar; tarihsel olarak Kolezyum daha geniş bir imparatorluk propagandası, sınıf düzeni ve kamu gösterisi sistemiydi.",
+        "whyItMatters": "Kolezyum, Roma'da eğlencenin yalnız boş zaman değil, iktidar, sınıf ve kamu düzeni üretmenin bir aracı olduğunu gösterir.",
+        "quickRealityCheck": "Gladiator'daki Kolezyum yalnız dövüş sahnesi mi, yoksa Roma iktidarının halka kendini gösterdiği dev bir siyasi tiyatro mu?",
+        "mediaConnection": "Bu kart, Gladiator'ın arena sahnelerini gerçek Kolezyum düzeni, gladyatör eğitimi, toplumsal hiyerarşi ve Commodus'un tarihsel kişiliğiyle karşılaştırır."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Colosseum (Parco archeologico del Colosseo)",
+            "url": "https://colosseo.it/en/area/the-colosseum/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Colosseum (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/topic/Colosseum",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Theater and Amphitheater in the Roman World (The Met)",
+            "url": "https://www.metmuseum.org/essays/theater-and-amphitheater-in-the-roman-world",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Gladiators: Types and Training (The Met)",
+            "url": "https://www.metmuseum.org/essays/gladiators-types-and-training",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "factCheckNotes": [
+        "Removed cut-off ending and over-specific claims that were not source-backed in the current card.",
+        "Kept Commodus arena angle but corrected the film vs history distinction.",
+        "Replaced one-source setup with stronger official/museum/reference coverage."
+      ]
+    }
+  ],
+  "approvedAsIs": [],
+  "notes": [
+    "All five cards were flagship, so even acceptable cards were checked against a higher bar.",
+    "Oppenheimer did not need a full rewrite, but source coverage was too thin for a flagship card.",
+    "Chernobyl and Gladiator required the most intervention because of sensationalism/cut text and source weakness."
+  ]
+}

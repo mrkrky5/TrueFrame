@@ -1,0 +1,555 @@
+{
+  "patchId": "true-frame-tr-246-250-game-expansion-patch",
+  "locale": "tr",
+  "sourceChunks": [],
+  "contentRange": [
+    246,
+    250
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "game-heavy-content-expansion-source-aware",
+  "summary": {
+    "cardCount": 5,
+    "newCards": [
+      "tf26-246-codbo-bay-of-pigs",
+      "tf26-247-cod-vietnam-tunnels",
+      "tf26-248-mafia2-postwar-gi-bill",
+      "tf26-249-lanoire-black-dahlia",
+      "tf26-250-gta-moral-panic"
+    ],
+    "flagshipNewCards": [],
+    "standardNewCards": [
+      "tf26-246-codbo-bay-of-pigs",
+      "tf26-247-cod-vietnam-tunnels",
+      "tf26-248-mafia2-postwar-gi-bill",
+      "tf26-249-lanoire-black-dahlia",
+      "tf26-250-gta-moral-panic"
+    ],
+    "mediaFocus": [
+      "Call of Duty: Black Ops",
+      "Mafia II",
+      "L.A. Noire",
+      "Grand Theft Auto"
+    ],
+    "sourceUpdates": [
+      "tf26-246-codbo-bay-of-pigs",
+      "tf26-247-cod-vietnam-tunnels",
+      "tf26-248-mafia2-postwar-gi-bill",
+      "tf26-249-lanoire-black-dahlia",
+      "tf26-250-gta-moral-panic"
+    ],
+    "notes": [
+      "Bu batch Cursor konu havuzundaki 46–50 arası oyun konularını kapsar.",
+      "Bu turda flagship yok; beş konu da orta derinlikte, tek kartta güçlü biçimde işlenebilecek standart yeni kart olarak yazıldı.",
+      "Call of Duty konuları gizli operasyon ve Vietnam yeraltı savaşı üzerinden; Mafia II, L.A. Noire ve GTA konuları savaş sonrası refah, suç basını ve medya paniği üzerinden dengelendi.",
+      "Her kartta oyun sahnesi doğrudan tarih iddiası gibi değil, gerçek dünya sistemi/kurumu/tartışması için giriş noktası olarak kullanıldı."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-246-codbo-bay-of-pigs",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Call of Duty: Black Ops’un Domuzlar Körfezi sahnesi CIA destekli 1961 çıkarması, inkâr edilebilirlik ve ABD-Küba ilişkilerindeki kırılma üzerinden kaynaklı yeni karta dönüştürüldü.",
+      "fields": {
+        "title": "Domuzlar Körfezi Operasyonu",
+        "subtitle": "Gizli operasyon ekranda aksiyon, tarihte devlet krizi",
+        "mediaType": "game",
+        "mediaTitle": "Call of Duty: Black Ops",
+        "era": "Soğuk Savaş",
+        "region": "Küba / ABD",
+        "themes": [
+          "Soğuk Savaş",
+          "CIA",
+          "Gizli Operasyon",
+          "Siyaset"
+        ],
+        "whatWeSee": "Call of Duty: Black Ops, Domuzlar Körfezi’ni yüksek tempolu bir gizli operasyon sahnesi gibi kullanır: Castro karşıtı hamle, çıkarma kaosu, CIA gölgesi ve başarısızlığın gerilimi birkaç dakikaya sıkışır. Oyun için bu, karakterleri Soğuk Savaş paranoyasına sokan bir açılış enerjisidir. Gerçek tarih ise birkaç askerin cesaretinden çok, gizli müdahale planı, inandırıcı inkâr çabası, hava desteği tartışması ve ABD-Küba ilişkilerinin kalıcı kırılmasıdır.",
+        "realHistory": "17 Nisan 1961’de Brigade 2506 adlı Kübalı sürgün kuvveti, Castro yönetimini devirmek amacıyla Küba’nın güneyindeki Domuzlar Körfezi’ne çıkarma yaptı. Operasyon CIA tarafından eğitilip desteklenmişti; fakat Kennedy yönetimi ABD rolünü açık savaş gibi göstermemek için desteği sınırlı ve örtülü tutmaya çalıştı. Bu ikili hedef, yani hem rejimi devirmek hem de müdahaleyi inkâr edilebilir kılmak, planın en zayıf yerlerinden biriydi.\n\nÇıkarma kısa sürede kötüye gitti. Küba hava gücü ve milisleri beklenenden daha etkili davrandı; ikmal gemileri vuruldu, hava desteği yetersiz kaldı ve sürgün kuvvetleri hızla sıkıştı. Birkaç gün içinde operasyon çöktü, çok sayıda kişi esir alındı. State Department anlatısı bu başarısızlığın Castro yönetimini devirmediğini, tersine Küba’nın Sovyetler Birliği’ne daha da yaklaşmasına katkı verdiğini vurgular.\n\nBlack Ops bu olayı Soğuk Savaş aksiyonu için kullanır; gerçek dosyada asıl ders planlama, istihbarat, siyasi inkâr ve yerel meşruiyet arasındaki gerilimdir. Domuzlar Körfezi, gizli operasyonların yalnız sahadaki cesaretle değil, varsayımlar ve diplomatik sonuçlarla da kazanılıp kaybedildiğini gösterir.",
+        "accuracyNote": "Oyunun Domuzlar Körfezi sahneleri tarihsel bir operasyonu dramatik aksiyon zeminine taşır. Gerçek çıkarma, CIA desteği, Kübalı sürgün kuvvetleri, sınırlı hava desteği ve diplomatik sonuçlar üzerinden anlaşılmalıdır.",
+        "whyInteresting": "Başarısız bir çıkarma, yalnız askeri yenilgi değil, Soğuk Savaş gizli operasyon mantığının sınırlarını açığa çıkaran bir vaka oldu.",
+        "misconception": "Domuzlar Körfezi’nin yalnız kötü yürütülmüş bir askeri baskın olduğu sanılır; asıl sorun gizlilik, yerel destek varsayımı ve siyasi inkâr hedefinin operasyonla çelişmesiydi.",
+        "nextTopics": [
+          "MKUltra",
+          "Cu Chi Tünelleri",
+          "Nükleer Caydırıcılık"
+        ],
+        "relatedCardIds": [
+          "tf26-245-codbo-mkultra",
+          "tf26-230-mgs-nuclear-deterrence",
+          "tf26-247-cod-vietnam-tunnels"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "minor",
+        "mediaConnection": "Call of Duty: Black Ops’un Domuzlar Körfezi açısı, 1961’deki CIA destekli sürgün çıkarmasının gerçek diplomatik ve operasyonel başarısızlığıyla okunur.",
+        "accuracyType": "partly-real",
+        "tags": [
+          "soguk-savas",
+          "cia",
+          "kuba",
+          "domuzlar-korfezi",
+          "true-frame"
+        ],
+        "spoilerNote": "Call of Duty: Black Ops hikâyesine dair küçük bağlam ipuçları içerebilir; ana sonu anlatmaz.",
+        "mediaChanged": "Oyun operasyonu kişisel aksiyon ve komplo atmosferine sıkıştırır; tarihsel kaynaklar başarısızlığın planlama, hava desteği, inkâr edilebilirlik ve Küba-Sovyet yakınlaşmasıyla ilgili olduğunu gösterir.",
+        "whyItMatters": "Domuzlar Körfezi, gizli müdahalelerin başarısız olduğunda yalnız sahayı değil, bölgesel güç dengesini de değiştirebileceğini gösterir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Bir operasyon hem ABD desteğine muhtaç olup hem de ABD desteği yokmuş gibi gösterilmeye çalışılırsa nerede kırılır?",
+        "sources": [
+          {
+            "title": "John F. Kennedy Presidential Library - The Bay of Pigs",
+            "url": "https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/the-bay-of-pigs",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "U.S. Office of the Historian - The Bay of Pigs Invasion and its Aftermath",
+            "url": "https://history.state.gov/milestones/1961-1968/bay-of-pigs",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "CIA Reading Room - Bay of Pigs Release",
+            "url": "https://www.cia.gov/readingroom/collection/bay-pigs-release",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "John F. Kennedy Presidential Library - The Bay of Pigs",
+            "url": "https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/the-bay-of-pigs",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "U.S. Office of the Historian - The Bay of Pigs Invasion and its Aftermath",
+            "url": "https://history.state.gov/milestones/1961-1968/bay-of-pigs",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "CIA Reading Room - Bay of Pigs Release",
+            "url": "https://www.cia.gov/readingroom/collection/bay-pigs-release",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-247-cod-vietnam-tunnels",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Black Ops’un Vietnam tünel atmosferi, Cu Chi Tünelleri’nin gerçek savunma, ikmal, haberleşme ve psikolojik savaş işlevleriyle ilişkilendirildi.",
+      "fields": {
+        "title": "Cu Chi Tünelleri",
+        "subtitle": "Yeraltında savaş: görünmeyen cephe",
+        "mediaType": "game",
+        "mediaTitle": "Call of Duty: Black Ops",
+        "era": "Modern Tarih",
+        "region": "Vietnam",
+        "themes": [
+          "Vietnam Savaşı",
+          "Gerilla Savaşı",
+          "Lojistik",
+          "Savaş"
+        ],
+        "whatWeSee": "Call of Duty: Black Ops, Vietnam bölümlerinde tünelleri karanlık, klostrofobik ve ani tehlike üreten bir savaş mekânı gibi kullanır. Oyuncu için tünel, pusu, tuzak ve yakın mesafe korkusudur. Gerçek Cu Chi ağı ise yalnız saklanma deliği değil; ikmal, haberleşme, yaralı bakımı, barınma ve psikolojik dayanıklılık üreten geniş bir yeraltı altyapısıydı.",
+        "realHistory": "Cu Chi Tünelleri, Ho Chi Minh City yakınlarında savaş boyunca genişletilen yeraltı savunma ağının en bilinen parçasıdır. Vietnam turizm idaresi, bu tünellerin yerel halk ve direniş güçleri tarafından 1946’dan 1968’e uzanan süreçte inşa edildiğini aktarır. Vietnam Savaşı sırasında ağ, Viet Cong için yalnız gizlenme alanı değil, birlik hareketi, haberleşme, depolama, mutfak, hastane ve pusu hazırlığı işlevi gördü.\n\nABD ve müttefik kuvvetleri için bu tüneller büyük bir taktik sorun yarattı. ANZAC Portal, Operation Crimp sırasında Amerikan ve Avustralya birliklerinin Cu Chi’deki gizli savunmalarla karşılaştığını ve tünellerin üstün ateş gücüne karşı direnç sağladığını anlatır. “Tunnel rat” olarak bilinen askerler, dar geçitlere girip tuzak, silah ve saklanan savaşçı aradı. Bu görevler fiziksel olduğu kadar psikolojik olarak da ağırdı.\n\nOyunlar tüneli çoğu zaman korku dekoruna çevirir. Tarihsel açıdan daha önemli olan, yeraltının teknolojik olarak daha zayıf görünen bir güce zaman, koruma ve hareket serbestliği sağlamasıdır. Cu Chi, savaşın yalnız açık arazide değil, toprağın altında da mühendislik ve dayanıklılık meselesi olduğunu gösterir.",
+        "accuracyNote": "Tünellerin pusu ve tuzak boyutu gerçektir; ancak onları yalnız korku mekânı gibi görmek eksiktir. Cu Chi aynı zamanda ikmal, barınma, sağlık ve komuta altyapısıydı.",
+        "whyInteresting": "Üstün ateş gücüne karşı yeraltı mimarisi, savaşın dengelerini beklenmedik biçimde değiştirebildi.",
+        "misconception": "Cu Chi tünellerinin yalnız saklanmak için açıldığı sanılır; gerçekte tüneller çok işlevli bir savaş altyapısıydı.",
+        "nextTopics": [
+          "Domuzlar Körfezi Operasyonu",
+          "Arap İsyanı",
+          "Sivil Hayatta Kalma"
+        ],
+        "relatedCardIds": [
+          "tf26-246-codbo-bay-of-pigs",
+          "tf26-241-bf1-arab-revolt-lawrence",
+          "tf26-210-twom-sarajevo-siege"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "minor",
+        "mediaConnection": "Call of Duty: Black Ops’un Vietnam tünel atmosferi, Cu Chi’deki yeraltı savunma ve ikmal ağının gerçek askeri işlevleriyle karşılaştırılabilir.",
+        "accuracyType": "partly-real",
+        "tags": [
+          "vietnam-savasi",
+          "gerilla-savasi",
+          "cu-chi-tunelleri",
+          "yeraltinda-savas",
+          "true-frame"
+        ],
+        "spoilerNote": "Call of Duty: Black Ops hikâyesine dair küçük bağlam ipuçları içerebilir; ana sonu anlatmaz.",
+        "mediaChanged": "Oyun tünelleri hızlı ve korkutucu çatışma alanı olarak verir; tarihsel kaynaklar aynı tünellerin lojistik, sağlık, saklanma ve direnç altyapısı olduğunu gösterir.",
+        "whyItMatters": "Cu Chi örneği, savaşta teknoloji üstünlüğünün her zaman coğrafya, yerel mühendislik ve dayanıklılık karşısında belirleyici olmadığını hatırlatır.",
+        "isFlagship": false,
+        "quickRealityCheck": "Cu Chi tünelleri sadece pusu kurmak için miydi, yoksa bir savaş toplumunun yeraltı altyapısı mıydı?",
+        "sources": [
+          {
+            "title": "Australian Department of Veterans’ Affairs - Clearing Vietcong tunnels during the Vietnam War",
+            "url": "https://anzacportal.dva.gov.au/wars-and-missions/vietnam-war/experiences/vietcong-tunnels",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Vietnam National Authority of Tourism - Cu Chi Tunnels seek world heritage recognition",
+            "url": "https://vietnamtourism.gov.vn/en/post/15881",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "History.com - Cu Chi Tunnels",
+            "url": "https://www.history.com/articles/cu-chi-tunnels",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Australian Department of Veterans’ Affairs - Clearing Vietcong tunnels during the Vietnam War",
+            "url": "https://anzacportal.dva.gov.au/wars-and-missions/vietnam-war/experiences/vietcong-tunnels",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Vietnam National Authority of Tourism - Cu Chi Tunnels seek world heritage recognition",
+            "url": "https://vietnamtourism.gov.vn/en/post/15881",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "History.com - Cu Chi Tunnels",
+            "url": "https://www.history.com/articles/cu-chi-tunnels",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-248-mafia2-postwar-gi-bill",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Mafia II’nin savaş sonrası refah/suç atmosferi GI Bill, konut kredileri, banliyöleşme ve eşitsiz orta sınıf erişimi üzerinden kaynaklı yeni karta dönüştürüldü.",
+      "fields": {
+        "title": "Savaş Sonrası Amerika ve GI Bill",
+        "subtitle": "Mafia II’nin refah vitrininin arkasındaki devlet politikası",
+        "mediaType": "game",
+        "mediaTitle": "Mafia II",
+        "era": "Modern Tarih",
+        "region": "ABD",
+        "themes": [
+          "Ekonomi",
+          "Sınıf",
+          "Şehir",
+          "Savaş Sonrası"
+        ],
+        "whatWeSee": "Mafia II, II. Dünya Savaşı sonrası ABD’yi otomobiller, apartmanlar, takım elbiseler, küçük işler ve suç ekonomisi arasında açılan yeni bir refah hayaliyle gösterir. Vito gibi karakterler cepheden döner ama sivil hayata dönüş herkes için aynı kapıyı açmaz. Oyundaki gangster yolu, gerçek tarih açısından savaş sonrası Amerika’nın vaat ettiği orta sınıf rüyasıyla bu rüyaya erişemeyenlerin gerilimini düşündürür.",
+        "realHistory": "1944 Servicemen’s Readjustment Act, bilinen adıyla GI Bill, II. Dünya Savaşı gazilerine eğitim, işsizlik desteği ve konut kredisi gibi büyük imkânlar sağladı. National Archives bu yasanın milyonlarca gazinin yükseköğretime erişimini ve konut edinmesini kolaylaştırdığını aktarır. Savaş sonrası refah anlatısının önemli bölümü bu devlet desteğine dayanıyordu: üniversiteye giden gaziler, düşük faizli konut kredileri, büyüyen banliyöler ve tüketim ekonomisi.\n\nFakat bu refah otomatik ve eşit değildi. Uygulama yerel bankalar, üniversiteler, emlak piyasası ve ayrımcı konut düzenleri üzerinden ilerlediği için Siyah gaziler ve birçok azınlık aynı fırsatlardan daha sınırlı yararlandı. National WWII Museum da GI Bill’in büyük bir sosyal program olduğunu, ancak idaresinde ciddi toplumsal ve siyasi eşitsizlikler bulunduğunu vurgular.\n\nMafia II doğrudan GI Bill hikâyesi anlatmaz; ama savaş sonrası Amerikan rüyasının dışına düşen erkeklik, borç, etnik mahalle ve suç ekonomisi atmosferini iyi yakalar. Gerçek tarih bize şunu gösterir: refah sadece çalışkanlıkla değil, kimin krediye, eğitime ve güvenli konuta erişebildiğiyle kuruldu.",
+        "accuracyNote": "Mafia II’nin şehir ve suç atmosferi kurgusaldır; fakat savaş sonrası ABD’de GI Bill, konut kredileri, eğitim genişlemesi ve eşitsiz erişim refah anlatısının gerçek zeminidir.",
+        "whyInteresting": "Amerikan rüyası çoğu zaman bireysel başarı gibi anlatılır; oysa savaş sonrası yükselişin arkasında çok büyük bir devlet destek programı vardı.",
+        "misconception": "Savaş sonrası refahın herkese eşit dağıldığı sanılır; gerçekte GI Bill’in etkisi sınıf, ırk, konut piyasası ve yerel uygulamalarla farklılaştı.",
+        "nextTopics": [
+          "Kara Yıldız Cinayeti",
+          "Ahlaki Panik",
+          "Şirket Egemenliği"
+        ],
+        "relatedCardIds": [
+          "tf26-249-lanoire-black-dahlia",
+          "tf26-250-gta-moral-panic",
+          "tf26-222-victoria3-industrial-labor"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "minor",
+        "mediaConnection": "Mafia II’nin savaş sonrası suç ve refah atmosferi, GI Bill’in eğitim-konut desteğiyle büyüyen ama eşitsiz dağılan Amerikan orta sınıf hikâyesiyle okunabilir.",
+        "accuracyType": "inspired-by-reality",
+        "tags": [
+          "mafia-ii",
+          "gi-bill",
+          "savas-sonrasi-amerika",
+          "banliyo",
+          "true-frame"
+        ],
+        "spoilerNote": "Mafia II hikâyesine dair küçük bağlam ipuçları içerebilir; ana sonu anlatmaz.",
+        "mediaChanged": "Oyun kişisel suç yükselişini öne çıkarır; tarihsel çerçeve savaş sonrası refahın kredi, eğitim, konut ve ayrımcı uygulamalarla nasıl kurulduğunu gösterir.",
+        "whyItMatters": "Refah anlatılarını doğru okumak için yalnız kültür ve tüketim imgelerine değil, bunları mümkün kılan kamu politikalarına da bakmak gerekir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Savaş sonrası Amerikan rüyası sadece kişisel çalışkanlıkla mı kuruldu, yoksa devlet destekli eğitim ve konut programları da belirleyici miydi?",
+        "sources": [
+          {
+            "title": "National Archives - Servicemen’s Readjustment Act (1944)",
+            "url": "https://www.archives.gov/milestone-documents/servicemens-readjustment-act",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "The National WWII Museum - The GI Bill and Planning for the Postwar",
+            "url": "https://www.nationalww2museum.org/war/articles/gi-bill-and-planning-postwar",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "National Park Service - The American Home Front After World War II",
+            "url": "https://www.nps.gov/articles/000/american-home-front-after-world-war-ii.htm",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "National Archives - Servicemen’s Readjustment Act (1944)",
+            "url": "https://www.archives.gov/milestone-documents/servicemens-readjustment-act",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "The National WWII Museum - The GI Bill and Planning for the Postwar",
+            "url": "https://www.nationalww2museum.org/war/articles/gi-bill-and-planning-postwar",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "National Park Service - The American Home Front After World War II",
+            "url": "https://www.nps.gov/articles/000/american-home-front-after-world-war-ii.htm",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-249-lanoire-black-dahlia",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "L.A. Noire’ın noir suç atmosferi, Elizabeth Short / Black Dahlia vakası, FBI dosyaları ve tabloid mit üretimi üzerinden kaynaklı yeni karta dönüştürüldü.",
+      "fields": {
+        "title": "Kara Yıldız Cinayeti ve Tabloid Mitleri",
+        "subtitle": "L.A. Noire’da suç, basın ve kurban imgesi",
+        "mediaType": "game",
+        "mediaTitle": "L.A. Noire",
+        "era": "Modern Tarih",
+        "region": "ABD",
+        "themes": [
+          "Suç",
+          "Medya",
+          "Şehir",
+          "Hukuk"
+        ],
+        "whatWeSee": "L.A. Noire, 1940’lar Los Angeles’ını karanlık sokaklar, dedektif odaları, film yıldızı hayalleri ve kirli manşetlerle kurar. Oyunun cinayet dosyaları, Black Dahlia çevresindeki gerçek kültürel hafızaya açıkça yaklaşır: çözülmemiş suç, medya takıntısı ve Hollywood’un karanlık yüzü. Ancak gerçek Elizabeth Short dosyası, bir noir dekorundan önce bir kurbanın hayatının basın tarafından efsaneye çevrilmesidir.",
+        "realHistory": "Elizabeth Short’un cesedi 15 Ocak 1947’de Los Angeles’ta bulundu. FBI, 22 yaşındaki Short’un cinayetinin hiçbir zaman çözülemediğini ve basın tarafından “Black Dahlia” adıyla anıldığını aktarır. FBI dosyaları, Short’un parmak izleri üzerinden kimlik tespitinin yapıldığını ve soruşturmada çok sayıda ihbar, sahte itiraf ve yanlış yönlendirme bulunduğunu gösterir.\n\nBu olayın kalıcı etkisi yalnız cinayetin vahşetinden gelmedi. Los Angeles basını, savaş sonrası Hollywood hayali, genç kadın kurban imgesi ve noir estetiği birleşince dosya hızla mit haline geldi. “Black Dahlia” adı, Elizabeth Short’un gerçek adının önüne geçti. Sonraki romanlar, filmler ve teoriler de bu imgeyi sürekli yeniden üretti.\n\nL.A. Noire bu atmosferi iyi yakalar: cinayet masası, yozlaşma, polis baskısı ve magazinleşmiş suç. Fakat True Frame açısından dikkat edilmesi gereken nokta, gerçek kurbanı yalnız gizemli femme fatale simgesine indirgememektir. Dosya hâlâ çözülmemiş olabilir; ama basının kurduğu efsane, soruşturmanın kendisi kadar tarihsel bir olgudur.",
+        "accuracyNote": "L.A. Noire doğrudan Black Dahlia vakasını bire bir anlatmaz; ancak 1940’lar Los Angeles suç basını ve çözülmemiş cinayet hafızasından güçlü biçimde beslenir.",
+        "whyInteresting": "Bir cinayet dosyasının kurban adı yerine medya lakabıyla hatırlanması, suç tarihinin nasıl mit üretimine dönüştüğünü gösterir.",
+        "misconception": "Black Dahlia’nın yalnız bir “noir efsanesi” olduğu sanılır; gerçekte bu efsanenin arkasında adı ve hayatı magazin tarafından gölgelenen Elizabeth Short vardı.",
+        "nextTopics": [
+          "Savaş Sonrası Amerika",
+          "Ahlaki Panik",
+          "Organize Suç"
+        ],
+        "relatedCardIds": [
+          "tf26-248-mafia2-postwar-gi-bill",
+          "tf26-250-gta-moral-panic",
+          "tf26-179-corruption"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "minor",
+        "mediaConnection": "L.A. Noire’ın 1940’lar Los Angeles suç atmosferi, Elizabeth Short / Black Dahlia dosyasının basın ve popüler kültür hafızasıyla okunabilir.",
+        "accuracyType": "inspired-by-reality",
+        "tags": [
+          "la-noire",
+          "black-dahlia",
+          "los-angeles",
+          "suç-basini",
+          "true-frame"
+        ],
+        "spoilerNote": "L.A. Noire hikâyesine dair küçük bağlam ipuçları içerebilir; ana sonu anlatmaz.",
+        "mediaChanged": "Oyun noir atmosferini ve dedektif gerilimini öne çıkarır; tarihsel okuma, gerçek kurbanın medya lakabı ve magazin anlatısı altında nasıl silindiğini gösterir.",
+        "whyItMatters": "Gerçek suç anlatılarında soru “katil kim?” kadar “kurban nasıl hatırlandı ve kim tarafından yeniden yazıldı?” sorusudur.",
+        "isFlagship": false,
+        "quickRealityCheck": "Elizabeth Short’u hatırlarken gerçek adını mı, yoksa basının yarattığı Black Dahlia imgesini mi önce duyuyoruz?",
+        "sources": [
+          {
+            "title": "FBI - Black Dahlia",
+            "url": "https://www.fbi.gov/history/cases-and-criminals/black-dahlia",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "FBI Vault - Black Dahlia (Elizabeth Short)",
+            "url": "https://vault.fbi.gov/Black%20Dahlia%20%28E%20Short%29%20",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Los Angeles Times - The Black Dahlia mystery: myth and reality",
+            "url": "https://www.latimes.com/california/story/2024-10-23/black-dahlia-myth-reality-larry-harnisch",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "FBI - Black Dahlia",
+            "url": "https://www.fbi.gov/history/cases-and-criminals/black-dahlia",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "FBI Vault - Black Dahlia (Elizabeth Short)",
+            "url": "https://vault.fbi.gov/Black%20Dahlia%20%28E%20Short%29%20",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Los Angeles Times - The Black Dahlia mystery: myth and reality",
+            "url": "https://www.latimes.com/california/story/2024-10-23/black-dahlia-myth-reality-larry-harnisch",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-250-gta-moral-panic",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Grand Theft Auto’nun şiddet tartışması, bilimsel kanıt, ifade özgürlüğü ve medya ahlaki paniği üzerinden kaynaklı yeni karta dönüştürüldü.",
+      "fields": {
+        "title": "Ahlaki Panik ve Şiddetli Oyunlar",
+        "subtitle": "GTA tartışması: oyun mu, günah keçisi mi?",
+        "mediaType": "game",
+        "mediaTitle": "Grand Theft Auto",
+        "era": "Çağdaş Tarih",
+        "region": "ABD / Küresel",
+        "themes": [
+          "Medya",
+          "Toplum",
+          "Hukuk",
+          "Oyun Kültürü"
+        ],
+        "whatWeSee": "Grand Theft Auto serisi, şehir suçunu, hicvi, kaosu ve oyuncu özgürlüğünü abartılı bir medya aynasına çevirir. Ekranda araba hırsızlığı, polis kovalamacası ve şiddetli görevler görünür; dışarıdaki tartışmada ise GTA sık sık “gençleri bozuyor mu?” sorusunun simgesi haline gelir. True Frame için ilginç olan, oyunun kendisinden çok onun etrafında tekrar tekrar üretilen ahlaki paniktir.",
+        "realHistory": "Şiddetli video oyunları tartışması 1990’lardan itibaren ABD’de ve başka ülkelerde tekrar eden bir medya-politika döngüsü yarattı. Mortal Kombat ve Doom gibi oyunlarla başlayan panik dili, GTA ile daha da görünür oldu: suç işleme özgürlüğü, yetişkin mizahı ve açık dünya yapısı oyunu kolay hedefe çevirdi.\n\nAncak araştırma ve hukuk tarafı daha karmaşıktır. American Psychological Association 2020’de, şiddetli video oyunları ile şiddet davranışı arasında nedensel bağ kurmak için yeterli bilimsel kanıt olmadığını belirtti. Bu, oyunların hiçbir etkisi olmadığı anlamına gelmez; ama “oyun oynadı, bu yüzden gerçek suç işledi” çizgisi kanıtlanmış bir açıklama değildir. ABD Yüksek Mahkemesi’nin Brown v. Entertainment Merchants Association kararında da video oyunlarının ifade özgürlüğü koruması altında olduğu kabul edildi.\n\nGTA bu tartışmanın merkezinde kaldı çünkü oyun, ahlaki sınırları bilinçli biçimde kışkırtır. Fakat ahlaki panik, çoğu zaman karmaşık toplumsal sorunlara tek bir kültürel suçlu arar. Şiddet, medya, aile, eğitim, silah erişimi, yoksulluk ve ruh sağlığı gibi başlıklar yerine tek bir oyuna odaklanmak kolaydır; ama tarihsel olarak eksik bir açıklamadır.",
+        "accuracyNote": "GTA şiddetli ve kışkırtıcı içerik barındırır; fakat şiddetli oyunların doğrudan gerçek suç ürettiği iddiası bilimsel ve hukuki düzeyde çok daha tartışmalıdır.",
+        "whyInteresting": "Video oyunları, çizgi roman, rock müzik ve sinema gibi daha eski kültürel paniklerin dijital çağdaki devamı haline geldi.",
+        "misconception": "GTA gibi oyunların gerçek hayattaki şiddeti doğrudan yarattığı sanılır; güncel resmi değerlendirmeler bu tür basit nedenselliğin kanıtlanmadığını söyler.",
+        "nextTopics": [
+          "Gözetim Kapitalizmi",
+          "Kara Yıldız Cinayeti",
+          "Şirket Egemenliği"
+        ],
+        "relatedCardIds": [
+          "tf26-249-lanoire-black-dahlia",
+          "tf26-227-cyberpunk-surveillance-capitalism",
+          "tf26-248-mafia2-postwar-gi-bill"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "Grand Theft Auto’nun şiddet ve suç hicvi, video oyunları etrafında kurulan ahlaki panik, hukuk ve medya etkisi tartışmalarıyla birlikte okunur.",
+        "accuracyType": "inspired-by-reality",
+        "tags": [
+          "grand-theft-auto",
+          "ahlaki-panik",
+          "video-oyunlari",
+          "medya-tartismasi",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun şehir suçunu satirik ve abartılı biçimde kullanır; gerçek tartışma, bu temsilin toplumda şiddetin nedeni sayılıp sayılamayacağı üzerine döner.",
+        "whyItMatters": "Ahlaki panik dönemlerinde toplumlar karmaşık sorunları tek bir medya ürününe yükleyebilir; GTA tartışması bu refleksin modern oyun kültüründeki örneğidir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Bir oyunun şiddetli olması, gerçek şiddetin doğrudan nedeni olduğunu kanıtlar mı?",
+        "sources": [
+          {
+            "title": "American Psychological Association - APA reaffirms position on violent video games and violent behavior",
+            "url": "https://www.apa.org/news/press/releases/2020/03/violent-video-games-behavior",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Cornell Law - Brown v. Entertainment Merchants Association",
+            "url": "https://www.law.cornell.edu/supct/html/08-1448.ZS.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Federal Trade Commission - Marketing Violent Entertainment to Children report release",
+            "url": "https://www.ftc.gov/news-events/news/press-releases/2000/09/ftc-releases-report-marketing-violent-entertainment-children",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "American Psychological Association - APA reaffirms position on violent video games and violent behavior",
+            "url": "https://www.apa.org/news/press/releases/2020/03/violent-video-games-behavior",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Cornell Law - Brown v. Entertainment Merchants Association",
+            "url": "https://www.law.cornell.edu/supct/html/08-1448.ZS.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Federal Trade Commission - Marketing Violent Entertainment to Children report release",
+            "url": "https://www.ftc.gov/news-events/news/press-releases/2000/09/ftc-releases-report-marketing-violent-entertainment-children",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

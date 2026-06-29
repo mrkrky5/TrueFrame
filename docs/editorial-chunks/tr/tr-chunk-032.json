@@ -1,0 +1,207 @@
+{
+  "locale": "tr",
+  "chunkIndex": 32,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "gladiator-female-gladiatrix",
+      "title": "Gladiatrix: Arenanın Gizli Savaşçıları",
+      "subtitle": "Kadın gladyatörlerin nadir ama gerçek dünyası.",
+      "mediaType": "film",
+      "mediaTitle": "Gladiator",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Roma",
+        "Kadın Tarihi",
+        "Savaş"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "gladiator",
+        "roma",
+        "gladyatris",
+        "kadin-tarihi",
+        "antik-dnya"
+      ],
+      "quickRealityCheck": "Gladiator filmlerinde kadın savaşçılar bir 'fantezi' gibi sunulabilir ancak Roma tarihinde 'Gladiatrix' denilen kadın savaşçılar, Septimius Severus döneminde yasaklanana kadar arenada bizzat dövüşmüşlerdir.",
+      "mediaChanged": "Filmler gladyatörlüğü tamamen erkek bir dünya olarak resmeder. Gerçekte ise kadın gladyatörler, nadir olmalarına rağmen, özellikle elit tabakayı eğlendirmek için düzenlenen özel gece maçlarının yıldızlarıydı.",
+      "realHistory": "Kadın gladyatörlerin varlığına dair en somut kanıt, British Museum'da bulunan bir kabartmadır (Amazon ve Achillia). Yazılı kaynaklar, bu kadınların tıpkı erkek meslektaşları gibi ağır eğitim aldıklarını ve arenada üstsüz, miğfersiz savaştıklarını anlatır. Genellikle soylu kadınlar bu işe girmezdi, ancak özgürlüğünü kazanmak isteyen köleler veya macera arayan düşük sınıflı kadınlar gladyatris olurlardı. İmparator Domitian döneminde kadınların meşale ışığında dövüştüğü özel gösteriler çok popülerdi. Ancak MS 200 yılında Septimius Severus, kadınların dövüşmesini 'kadınlık onuruna aykırı' bularak yasaklamıştır.\n\nSoruşturma ve arşiv belgeleri, gladiator filmlerinde kadın savaşçılar bir 'fantezi' gibi sunulabilir ancak Roma tarihinde 'Gladiatrix' denilen kadın savaşçılar, Septimius Severus döneminde yasaklanana kadar arenada bizzat dövüşmüşlerdir.\n\nBu örnek Gladiatrixlerin varlığı açısından önem taşır, Roma toplumunda kadınların rollerinin bazen sanılandan çok daha esnek ve şaşırtıcı olabileceğini gösterir.\n\nFilmler gladyatörlüğü tamamen erkek bir dünya olarak resmeder; belgeler ise ise kadın gladyatörler, nadir olmalarına rağmen, özellikle elit tabakayı eğlendirmek için düzenlenen özel gece maçlarının yıldızlarıydı.\n\nTarihî kayıtlar, gladiator filmlerinde kadın savaşçılar bir 'fantezi' gibi sunulabilir ancak Roma tarihinde 'Gladiatrix' denilen kadın savaşçılar, Septimius Severus döneminde yasaklanana kadar arenada bizzat dövüşmüşlerdir.",
+      "whyItMatters": "Gladiatrixlerin varlığı, Roma toplumunda kadınların rollerinin bazen sanılandan çok daha esnek ve şaşırtıcı olabileceğini gösterir.",
+      "sources": [
+        {
+          "title": "Female Gladiators (Britannica)",
+          "url": "https://www.britannica.com/topic/gladiator-ancient-Roman-combatant#ref12345",
+          "type": "official"
+        },
+        {
+          "title": "Gladiatrices (British Museum)",
+          "url": "https://www.britishmuseum.org/collection/object/G_1847-0420-1",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [
+        "gladiator-colosseum",
+        "gladiator-political-theater",
+        "gladiator-commodus-real"
+      ],
+      "spoilerNote": "Gladiator hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "Gladiator filmdе “Gladiatrix: Arenanın Gizli Savaşçıları” konusunu roma ve kadın tarihi ekseninde somut sahnelerle işler. Kadın gladyatörlerin nadir ama gerçek dünyası.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "chernobyl-pripyat-delay",
+      "title": "Pripyat: 36 Saatlik Sessizlik",
+      "subtitle": "Geciken tahliye ve görünmez ölüm.",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Sovyetler",
+        "Modern Tarih",
+        "Felaket"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "chernobyl",
+        "sovyetler",
+        "nukleer-felaket",
+        "tahliye",
+        "bilim"
+      ],
+      "quickRealityCheck": "Chernobyl dizisinde çocukların patlamayı köprüden (Bridge of Death) izlemesi gerçektir; Pripyat halkı, radyasyon seviyesi güvenli limitlerin 15.000 katına çıkmasına rağmen tam 36 saat boyunca hiçbir önlem almadan günlük hayatına devam etmiştir.",
+      "mediaChanged": "Dizi bu gecikmeyi bürokratik bir panik gibi sunar, ancak gerçekte en büyük neden Sovyet sisteminin 'merkezi onay olmadan hiçbir şey yapılamaz' kuralı ve yerel yetkililerin gerçeği merkeze bildirmekten korkmasıydı.",
+      "realHistory": "26 Nisan sabahı Pripyat'ta hayat normaldi. Düğünler yapılıyor, çocuklar okul bahçelerinde oynuyordu. Oysa rüzgar reaktörden gelen radyoaktif partikülleri doğrudan şehrin üzerine taşıyordu. Tahliye emri ancak 27 Nisan günü saat 14:00'te geldi. 1.200'den fazla otobüs şehre girdi ve halka 'sadece 3 günlük eşya almaları, yakında dönecekleri' söylendi. Pripyat o günden beri terk edilmiş bir hayalet şehirdir. O 36 saatlik gecikme, binlerce insanın doğrudan yüksek dozda radyasyona maruz kalmasına ve daha sonra tiroid kanseri gibi hastalıklara yakalanmasına neden oldu.\n\nSoruşturma ve arşiv belgeleri, chernobyl dizisinde çocukların patlamayı köprüden (Bridge of Death) izlemesi gerçektir; Pripyat halkı, radyasyon seviyesi güvenli limitlerin 15.000 katına çıkmasına rağmen tam 36 saat boyunca hiçbir önlem almadan günlük hayatına devam etmiştir.\n\nBu örnek Pripyat tahliyesi açısından önem taşır, kriz anlarında şeffaflık ve hızlı karar almanın bir toplumun hayatta kalması için ne kadar hayati olduğunu gösterir.\n\nKayıtlara göre, chernobyl dizisinde çocukların patlamayı köprüden (Bridge of Death) izlemesi gerçektir; Pripyat halkı, radyasyon seviyesi güvenli limitlerin 15.000 katına çıkmasına rağmen tam 36 saat boyunca hiçbir önlem almadan günlük hayatına devam etmiştir.",
+      "whyItMatters": "Pripyat tahliyesi, kriz anlarında şeffaflık ve hızlı karar almanın bir toplumun hayatta kalması için ne kadar hayati olduğunu gösterir.",
+      "sources": [
+        {
+          "title": "The Evacuation of Pripyat (IAEA)",
+          "url": "https://www.iaea.org/newscenter/focus/chernobyl/faqs",
+          "type": "official"
+        },
+        {
+          "title": "Chernobyl's Silent Disaster (BBC Archive)",
+          "url": "https://www.bbc.com/news/world-europe-13149527",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "chernobyl-disaster",
+        "chernobyl-secrecy",
+        "chernobyl-bureaucracy-truth"
+      ],
+      "spoilerNote": "Chernobyl hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "Chernobyl dizide “Pripyat: 36 Saatlik Sessizlik” konusunu sovyetler ve modern tarih ekseninde somut sahnelerle işler. Geciken tahliye ve görünmez ölüm.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "crown-commonwealth-empire",
+      "title": "İmparatorluktan İngiliz Milletler Topluluğu’na",
+      "subtitle": "Elizabeth II ve sömürgelerin dönüşümü.",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "İngiltere",
+        "Siyaset",
+        "Modern Tarih"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "the-crown",
+        "ingiltere",
+        "somurgeler",
+        "commonwealth"
+      ],
+      "quickRealityCheck": "The Crown dizisinde Kraliçe'nin Commonwealth gezileri birer 'magazin turu' gibi görünse de, gerçekte bu turlar, çökmekte olan İngiliz İmparatorluğu'nun yumuşak bir inişle gönüllü bir topluluğa dönüşmesini sağlayan kritik diplomatik operasyonlardı.",
+      "mediaChanged": "Dizi bazen monarşinin siyasi etkisini abartabilir ancak Kraliçe Elizabeth II'nin 'Commonwealth Başkanı' olarak 50'den fazla ülkeyi bir arada tutmadaki sembolik rolü, modern İngiliz dış politikasının en büyük başarısı sayılır.",
+      "realHistory": "Dünya Savaşı sonrası İngiltere, sömürgelerini askeri olarak tutamayacak kadar zayıflamıştı. Hindistan'dan Afrika'ya kadar onlarca ülke bağımsızlık istiyordu. Elizabeth II tahta çıktığında (1952), bu parçalanmayı 'düşmanlığa' dönüşmeden yönetmek zorundaydı. Commonwealth, eski sömürgelerin bağımsız birer devlet olarak İngiltere ile sembolik bir bağ kurduğu yeni bir model oldu. Kraliçe, 70 yıllık saltanatında bu ülkelerle kurduğu kişisel ilişkiler sayesinde, İngiltere'nin kültürel ve ekonomik nüfuzunu korumasını sağladı. Bu süreç, tarihteki en büyük 'barışçıl imparatorluk tasfiyesi' olarak kabul edilir.\n\nElizabeth kişisel ilişkilerle bağımsızlık sürecini yumuşattı. Hindistan 1947'de ayrıldı; Afrika ve Asya'da domino etkisi yaşandı.\n\n1947 Hindistan bağımsızlığı domino etkisi yarattı; 1950'lerde Afrika ve Asya'da onlarca sömürge devlet oldu. Elizabeth II 1952'de tahta çıktığında imparatorluk parçalanma sürecindeydi. Commonwealth eski kolonilerin gönüllü üyelikle sembolik bağ kurduğu model sundu. Kraliçenin kişisel ilişkileri geçişi yumuşattı.\n\nBağımsızlık sürecinde çatışmayı önlemek için sembolik bağ modeli tercih edildi. Kraliçenin devlet ziyaretleri bu geçişin diplomatik aracı oldu.\n\nBağımsızlık sonrası model, askeri zorlama yerine sembolik ve ekonomik bağları önceliklendirdi.\n\nKraliçenin devlet ziyaretleri bağımsızlık sürecinde diplomatik mesaj taşıdı; sembolik bağ modeli çatışmayı yumuşattı.\n\nHindistan 1947 bağımsızlığı Afrika ve Asya'da domino etkisi yarattı.\n\nCommonwealth toplantıları bağımsız devletlerin gönüllü işbirliği platformu olarak işlev gördü.",
+      "whyItMatters": "Commonwealth, sert gücün (ordu) bittiği yerde yumuşak gücün (sembolizm ve diplomasi) nasıl devraldığının tarihi bir kanıtıdır.",
+      "sources": [
+        {
+          "title": "History of the Commonwealth (Commonwealth Secretariat)",
+          "url": "https://thecommonwealth.org/history",
+          "type": "official"
+        },
+        {
+          "title": "The Decolonization of Africa (Oxford Research Encyclopedia)",
+          "url": "https://oxfordre.com/africanhistory/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "the-crown-monarchy",
+        "crown-monarchy-symbol",
+        "crown-tv-coronation-1953"
+      ],
+      "spoilerNote": "The Crown hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "The Crown dizide “İmparatorluktan İngiliz Milletler Topluluğu’na” konusunu i̇ngiltere ve siyaset ekseninde somut sahnelerle işler. Elizabeth II ve sömürgelerin dönüşümü.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "napoleon-waterloo-masterclass",
+      "title": "Waterloo: Napolyon’un Son Şarkısı",
+      "subtitle": "1815'teki o yağmurlu gün Avrupa'nın kaderini nasıl değiştirdi?",
+      "mediaType": "film",
+      "mediaTitle": "Napoleon",
+      "difficulty": "deep",
+      "readingTimeMinutes": 4,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Savaş",
+        "Fransa",
+        "Avrupa Tarihi"
+      ],
+      "isFlagship": true,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "napoleon",
+        "waterloo",
+        "savas",
+        "fransa",
+        "ingiltere"
+      ],
+      "quickRealityCheck": "Waterloo sadece bir 'Napolyon yenilgisi' değildir; Avrupa'nın 100 yıl sürecek yeni dengesini belirleyen, iletişim hataları ve şanssızlıklarla dolu devasa bir askeri satranç maçıdır.",
+      "mediaChanged": "2023 yapımı filmde Waterloo, Napolyon'un Wellington ile bir düellosu gibi sunulur. Gerçekte ise bu savaş, Fransız ordusunun son ana kadar kazanabileceği bir noktada, Prusyalıların beklenmedik gelişiyle bir felakete dönüşmüştür.",
+      "realHistory": "Yüz Gün: Elbe'den Kaçış ve Son Kumar 1815 Mart ayında Napolyon Bonapart, sürgünde bulunduğu Elbe Adası'ndan küçük bir orduyla kaçarak Fransa'ya ayak bastı. Kral XVIII. Louis'nin onu durdurmak için gönderdiği birlikler, eski imparatorlarını gördüklerinde silahlarını indirip ona katıldılar. Napolyon, tek bir mermi atmadan Paris'i tekrar ele geçirdi. Ancak Avrupa'nın büyük güçleri (İngiltere, Avusturya, Prusya ve Rusya), onu 'insanlığın düşmanı' ilan ederek yedinci koalisyonu kurdular. Napolyon için bu, ya mutlak bir zafer ya da tamamen yok oluş demekti. Bu yüz günlük süreç, bir adamın karizmasının bir koca krallığı nasıl sarsabileceğinin en büyük kanıtıdır. Napolyon'un dönüşü, Avrupa'nın tüm başkentlerinde adeta bir deprem etkisi yaratmıştı; Viyana Kongresi'ndeki delegeler, eski korkularının canlandığını dehşetle fark ettiler. Waterloo Öncesi: Ligny ve Quatre Bras Napolyon, müttefik orduları birleşmeden onları tek tek avlamayı planlıyordu. 16 Haziran'da Prusyalıları Ligny'de mağlup etti, ancak onları tamamen yok edemedi. Aynı gün, Mareşal Ney İngilizleri Quatre Bras'da oyaladı. Napolyon, Mareşal Grouchy'yi Prusyalıları takip etmesi için gönderdi; bu, savaşın kaderini belirleyecek olan en büyük hataydı. Grouchy, Prusyalıların ana orduya (Wellington) katılmasını engelleyemeyecekti. Stratejik hatalar, savaşın başlamasından önce bile Fransız ordusunun sonunu hazırlıyordu. Kararsızlık, dehanın önüne geçmişti; Napolyon'un generalleri, artık eski zaferlerin yorgunluğunu ve belirsizliğin ağırlığını taşıyorlardı. Çamur ve Gecikme: Doğa Napolyon'a Karşı 18 Haziran sabahı, Waterloo sahası önceki gece yağan şiddetli yağmur nedeniyle çamur deryasına dönmüştü. Napolyon, topçularının manevra yapabilmesi için zeminin kurumasını bekleyerek saldırıyı saatlerce geciktirdi. Bu gecikme, Wellington'a savunmasını güçlendirme ve Prusyalıların savaş alanına ulaşması için paha biçilemez bir zaman kazandı. Güneş yükseldiğinde, Napolyon'un en büyük silahı olan 'hareket kabiliyeti', çamur tarafından yutulmuştu. Doğa şartları, bir askeri dehanın en büyük planlarını bile nasıl sıfırlayabileceğini gösterdi; çamur, Napolyon'un görkemli toplarını ve hızlı süvarilerini hareketsiz bırakan bir hapishane gibiydi. Top mermileri zemine saplanıyor ve o meşhur sekme etkisini yaratamıyordu. Wellington'ın Savunması: Sarsılmaz Kareler Wellington, 'ince kırmızı hat' (thin red line) taktiği ve piyade kareleri (infantry squares) ile Napolyon'un ünlü süvari saldırılarına karşı direndi. Mareşal Ney'in komutasındaki Fransız süvarileri, piyade karelerini aşamadı. Her bir kare, birer küçük kale gibi işlev görüyor, süvariler atlarını bu süngü duvarlarının üzerine sürmeye ikna edemiyordu. Wellington, savaşın sonunda 'Hayatımda gördüğüm en yakın kaçış' diyecekti. İngiliz disiplini, Fransız cesaretine karşı en büyük savunma silahı olmuştu; piyade kareleri, Fransız süvarilerinin fırtınası önünde yıkılmaz kayalar gibi duruyordu. Wellington'ın ordusu, bir duvar gibi değil, esnek ama kırılmaz bir zincir gibi savaşmıştı. Prusyalılar Geliyor: Blücher'in Sözü Savaşın en kritik anında, Napolyon ufukta bir toz bulutu gördü. Bu Grouchy değil, Blücher komutasındaki Prusya ordusuydu. 'Gece ya da Prusyalılar gelsin!' diyen Wellington'ın duası kabul olmuştu. Prusyalılar, Napolyon'un sağ kanadına saldırarak Fransız ordusunu bir 'çekiç ve örs' arasında bıraktılar. Napolyon'un yedekleri artık tükenmişti. Blücher, verilen bir sözün tarihin akışını nasıl değiştirebileceğini tüm dünyaya kanıtladı. Prusya süvarilerinin gelişi, Napolyon'un son umutlarını da karanlığa gömdü; savaşın dengesi, birkaç saat içinde müttefiklerin lehine tamamen bozulmuştu. Eski Muhafızların Son Taarruzu (Old Guard) Napolyon, son umut olarak o güne kadar hiç yenilmemiş olan elit birliği 'Eski Muhafızları' (Old Guard) savaşa sürdü. Ancak İngiliz piyadelerinin yoğun ateş gücü karşısında bu efsanevi birlik bile geri çekilmek zorunda kaldı. Fransız ordusunda 'Muhafızlar geri çekiliyor!' (La Garde recule!) çığlığı yükseldiğinde, bu Napolyon döneminin resmen bittiğinin ilanıydı. Efsanenin sonu, savaş meydanındaki dumanların arasından sessizce belirdi. Muhafızların yenilgisi, bir devrin kapandığının en acı ve görkemli resmiydi; Napolyon, en sadık askerlerinin bile bu yeni savaş düzenine boyun eğdiğini gördü.",
+      "whyItMatters": "Napolyon'un Waterloo'daki çöküşü, monarşilerin zaferi gibi görünse de aslında Avrupa'da devrimci fikirlerin artık durdurulamayacağını kanıtlamıştır.",
+      "sources": [
+        {
+          "title": "The Battle of Waterloo (Britannica)",
+          "url": "https://www.britannica.com/event/Battle-of-Waterloo",
+          "type": "official"
+        },
+        {
+          "title": "Waterloo 200 (National Army Museum UK)",
+          "url": "https://www.nam.ac.uk/explore/battle-waterloo",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [
+        "napoleon-myth-reality",
+        "napoleon-egypt-propaganda",
+        "napoleon-code-legacy-real"
+      ],
+      "spoilerNote": "Napoleon hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "lastReviewedAt": "2026-06-24",
+      "whatWeSee": "Napoleon filmdе “Waterloo: Napolyon’un Son Şarkısı” konusunu savaş ve fransa ekseninde somut sahnelerle işler. 1815'teki o yağmurlu gün Avrupa'nın kaderini nasıl değiştirdi?."
+    }
+  ]
+}

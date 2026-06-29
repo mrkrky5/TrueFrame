@@ -1,0 +1,294 @@
+{
+  "locale": "tr",
+  "chunkIndex": 44,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-025-olympic-games",
+      "title": "Antik Olimpiyatlar",
+      "subtitle": "Ekrandaki iz, tarihteki karşılık",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Antik Dünya",
+      "region": "Yunanistan",
+      "themes": [
+        "Demokrasi",
+        "Mitoloji",
+        "Savaş"
+      ],
+      "whatWeSee": "Assassin's Creed Odyssey'de Olimpiyat görevleri, atletizm ve tanrılara adanmış yarışları oyun mekaniğine dönüştürür. Oyuncu antik Yunan'ın en ünlü spor ritüelinde yarışır. Oyuncu kutsal alana yürüyen atletleri, tribünde şehir bayraklarını ve yarış öncesi adak törenlerini izleyerek oyunun dini ve siyasi boyutunu birlikte görüyor.",
+      "realHistory": "Antik Olimpiyatlar MÖ 776'dan itibaren Olympia'da dört yılda bir yapıldı; Zeus onuruna. Yarışlar koşu, güreş, boks, pentatlon ve chariot içerdi. Katılım başlangıçta Yunan erkek özgür vatandaşlarla sınırlıydı; barış (ekecheiria) dönemi ilan edilirdi. Zafer kazananlara olive crown verildi; şehir devletleri prestij kazandı. Oyunlar din ve siyaset aracıydı: liderler barış görüşmeleri yaptı. Olympia'daki tapınak ve heykeller dini bağlamı güçlendirdi. Odyssey oyunu modern spor gibi sunar; gerçekte dini yasaklar ve şehir devleti rekabeti belirleyiciydi. Antik Olimpiyat Oyunları, Yunan dünyasında yalnız atletik rekabet değil kutsal takvim ve diplomatik temas alanıydı. Olympia'daki festivaller Zeus kültü etrafında düzenlenir, birçok polis geçici ateşkes ilan ederek sporcuların güvenli geçişini sağlardı. Yarışlar başlangıçta sınırlı disiplinlerden oluşsa da zamanla güreş, pankration ve atlı mücadelelerle genişledi. Zafer kazananlar şehirlerine döndüğünde siyasal prestij ve maddi ayrıcalık elde ederdi. Buna karşın katılım, cinsiyet ve yurttaşlık çizgileriyle sert biçimde sınırlandı. Oyunlar, birlik idealiyle hiyerarşik gerçekliğin aynı sahnede buluştuğu bir kurumdu. Antik Olimpiyatlar Antik Olimpiyatlar MÖ 776'dan itibaren Olympia'da dört yılda bir yapıldı; Zeus onuruna. Olympia festivali sırasında ilan edilen kutsal ateşkes, sporcuların güvenli yolculuğunu sağlarken ticaret akışını da hızlandırdı. Şairler, elçiler ve tüccarlar yarış günlerini şehirlerarası prestij pazarlığına çevirdi. Kadın katılımı sert biçimde sınırlı olsa da oyunlar ortak Yunan kimliğinin ritüel vitrini oldu.",
+      "accuracyNote": "Oyun tarihleri ve Olympia Britannica ile uyumludur.",
+      "whyInteresting": "Aynı stad hem tanrı onuru hem şehir devleti rekabetiydi.",
+      "misconception": "Olimpiyat yalnızca spor festivaliydi; din ve siyaset merkeziydi.",
+      "nextTopics": [
+        "Atina Demokrasisi",
+        "Sparta Eğitimi",
+        "Peloponez Savaşı"
+      ],
+      "sources": [
+        {
+          "title": "Ancient Olympic Games (Britannica)",
+          "url": "https://www.britannica.com/sports/Olympic-Games/ancient-Greece",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Olympia archaeological site (UNESCO)",
+          "url": "https://whc.unesco.org/en/list/517/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Panhellenic games (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Panhellenic_Games/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-026-triremes",
+        "tf26-027-slavery",
+        "tf26-028-theatre"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Odyssey Olimpiyat görevleri ile antik Olympia festivali ve ekecheiria barış ilanı.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-yunan",
+        "yunanistan",
+        "assassins-creed",
+        "antik-olimpiyatlar",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun Olimpiyatı mini-oyun yapar; gerçekte dini festival ve siyasi arenaydı.",
+      "whyItMatters": "Aynı stad hem tanrı onuru hem şehir devleti rekabetiydi.",
+      "isFlagship": false,
+      "quickRealityCheck": "Olimpiyatlar neden Zeus tapınağı yanında yapıldı?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-026-triremes",
+      "title": "Trirem Savaşları",
+      "subtitle": "Trirem Savaşları hakkında yanlış bilinen",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Antik Dünya",
+      "region": "Yunanistan",
+      "themes": [
+        "Demokrasi",
+        "Mitoloji",
+        "Savaş"
+      ],
+      "whatWeSee": "Assassin's Creed Odyssey'de triremler Ege'de hızla süzülür; oyuncu kendi gemisini yükseltir, ram (dümen) saldırıları ve deniz savaşları aksiyon sekansı olarak sunulur. Adalar arası seyahat, antik Yunan'ın deniz gücünü oyunlaştırır. Oyuncu burnunda koç başı olan uzun savaş gemilerinin kürek ritmiyle hızlandığını, dar dönüş manevralarıyla rakip bordaya çarptığı anı deniz köpüğü içinde izliyor.",
+      "realHistory": "Trirem, antik Akdeniz'in en etkili savaş gemisiydi: üç sıra kürekçi, bronz dümen (embolon) ve dar gövde. Atina 5. yüzyılda trirem filosuyla Deniz Birliği'ni finanse etti; her gemi vatandaş kürekçilerle yürüdü. Salamis (MÖ 480) ve Knidos gibi savaşlar trirem manevralarıyla kazanıldı. Gemi başına maliyet yüksekti; zengin vatandaşlar 'trierarkhos' olarak donanım üstlendi. Arkeoloji: Zeytin ağaçlarından kalıp, bronz dümen buluntuları ve Pire liman kalıntıları trirem teknolojisini doğrular. Kürek ritmi ve komuta disiplini savaşın belirleyicisiydi; rüzgâr ikinci plandaydı. Odyssey hız ve hasar barları kullanır; gerçekte filo lojistiği (su, tahıl, liman) seferberliği sınırlardı. Triremler aynı zamanda ticaret ve keşif için de kullanıldı; savaş gemisi ile ticaret gemisi ayrımı bazen bulanıktı. Triremeler, antik Akdeniz savaşını belirleyen hız ve manevra platformlarıydı; üç sıra kürek, kısa sürede ivme ve dönüş avantajı sağlıyordu. Atina, Laurion gümüş gelirini donanmaya yatırarak yüzlerce gemilik bir güç kurdu ve yurttaşları deniz hizmetine bağladı. Çarpışmada amaç çoğu zaman gemiyi batırmaktan çok pruvalı koçla bordayı parçalamak, kürek düzenini bozup rakibi hareketsiz bırakmaktı. Liman altyapısı, kereste tedariki ve eğitimli kürekçi sınıfı olmadan bu üstünlük sürdürülemezdi. Deniz gücü böylece askeri teknik kadar maliye ve emek organizasyonu meselesi haline geldi. Trirem Savaşları",
+      "accuracyNote": "Trirem yapısı ve savaş rolü arkeoloji ile uyumludur; oyun hızı dramatize edilmiştir.",
+      "whyInteresting": "Bir gemi sınıfı, şehir devletinin imparatorluk hayalini mümkün kıldı.",
+      "misconception": "Antik gemiler yelkenle savaşırdı; triremde asıl güç kürek ve dümen darbesiydi.",
+      "nextTopics": [
+        "Atina Demokrasisi",
+        "Sparta Eğitimi",
+        "Peloponez Savaşı"
+      ],
+      "sources": [
+        {
+          "title": "Trireme (Britannica)",
+          "url": "https://www.britannica.com/technology/trireme",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Battle of Salamis (Britannica)",
+          "url": "https://www.britannica.com/event/Battle-of-Salamis",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Athenian Navy (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Athenian_Navy/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-027-slavery",
+        "tf26-028-theatre",
+        "tf26-029-myth-history"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Odyssey deniz savaş mekaniği ile MÖ 5. yüzyıl Atina trirem filosu ve Salamis taktikleri.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-yunan",
+        "yunanistan",
+        "assassins-creed",
+        "trirem-savaslari",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun tek kahramanın gemisini merkeze alır; Atina demokrasisi filoyu kolektif vergi ve kürek emeğiyle ayakta tuttu.",
+      "whyItMatters": "Bir gemi sınıfı, şehir devletinin imparatorluk hayalini mümkün kıldı.",
+      "isFlagship": false,
+      "quickRealityCheck": "Salamis'te Yunan filosu neden dar su kanallarında avantajlıydı?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-027-slavery",
+      "title": "Yunan Köleliği",
+      "subtitle": "Yunan köleliği: demokrasi kimin özgürlüğü?",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Antik Dünya",
+      "region": "Yunanistan",
+      "themes": [
+        "Demokrasi",
+        "Mitoloji",
+        "Savaş"
+      ],
+      "whatWeSee": "Assassin's Creed Odyssey'de köleler şehirlerde, madenlerde ve evlerde görünür; oyuncu bazen özgürleştirme seçenekleriyle karşılaşır. Oyun antik dünyayı açık harita özgürlüğüyle sunar; kölelik arka planda sistem olarak kalır. Kadrajda zengin avluda emir alan köleler, atölyede çalışan zincirli emekçiler ve mecliste özgürlük konuşması yapan yurttaşlar sert bir karşıtlık kuruyor.",
+      "realHistory": "Antik Yunan'da kölelik yaygındı; Atina demokrasisi vatandaş özgürlüğünü köle emeğine dayandırdı. Köleler savaş ganimeti, borç, doğum veya korsanlık yoluyla köleleşti. Madenler (Laurion gümüş madenleri) ve ev hizmeti ekonominin temeliydi. Kölelerin hukuki statüsü şehirden şehre değişti; bazıları para biriktirip azat olabildi. Demokrasi manifestoları çoğu zaman 'yurttaş' sınıfını kasteder; kadınlar ve köleler dışarıda kaldı. Odyssey köleliği mekanik olarak gösterir; tarihsel kayıtlar onların olmadan polis'in ayakta kalamayacağını gösterir. Köle isyanları (ör. Atina'da sınırlı) kayıtlara geçti ama sistem kırılmadı. Klasik Yunan dünyasında kölelik, üretimden ev hizmetine kadar ekonominin birçok alanını taşıyan temel kurumdu. Atina demokrasisi yurttaş katılımını yüceltirken, bu özgür zamanın önemli bölümü köleleştirilmiş emek sayesinde mümkün oluyordu. Köleler savaş esirlerinden borçlulara ve korsan ticareti kurbanlarına kadar farklı yollardan sisteme dahil edildi. Hukuki statüleri sınırlıydı; aile birliği, mülkiyet ve hareket özgürlüğü efendinin kararına bağlıydı. Bazı uzman işçiler ücret benzeri gelir elde etse de bu durum yapısal bağımlılığı kaldırmıyordu. Demokrasi ve eşitsizlik aynı şehirde birlikte işliyordu. Yunan Köleliği Antik Yunan'da kölelik yaygındı; Atina demokrasisi vatandaş özgürlüğünü köle emeğine dayandırdı. Atina'da Laurion madenlerine gönderilen köleler yüksek ölüm riski nedeniyle kısa ömürlü iş döngülerinde çalıştırıldı. Ev içindeki kölelik daha görünmezdi ama hukuki korunma yine sınırlıydı. Köle emeği, yurttaş erkeklerin mahkeme ve meclis katılımı için zaman yaratan temel altyapı işlevi gördü.",
+      "accuracyNote": "Köleliğin yaygınlığı klasik kaynaklarla doğrulanır; oyundaki özgürleştirme seçenekleri dramatize edilmiştir.",
+      "whyInteresting": "Demokrasi mitinin görünmez şartı köle emeğidir.",
+      "misconception": "Antik Yunan herkes için özgürdü; kölelik toplumun sessiz temeliydi.",
+      "nextTopics": [
+        "Atina Demokrasisi",
+        "Sparta Eğitimi",
+        "Peloponez Savaşı"
+      ],
+      "sources": [
+        {
+          "title": "Slavery in ancient Greece (Britannica)",
+          "url": "https://www.britannica.com/topic/slavery/Slavery-in-classical-antiquity",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Athenian democracy (Britannica)",
+          "url": "https://www.britannica.com/topic/democracy/Athenian-democracy",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Laurion mines (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Laurion/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-022-sparta-childhood",
+        "tf26-028-theatre"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Odyssey'deki köle NPC'leri ile antik Yunan kölelik ekonomisi ve Laurion madenleri.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-yunan",
+        "yunanistan",
+        "assassins-creed",
+        "yunan-koleligi",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun köleliği yan görev düzeyinde tutar; gerçekte tüm şehir ekonomisinin omurgasıydı.",
+      "whyItMatters": "Demokrasi mitinin görünmez şartı köle emeğidir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Atina demokrasisi hangi grupları 'yurttaş' saymıyordu?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-028-theatre",
+      "title": "Tiyatro ve Polis",
+      "subtitle": "Tiyatro: polisin sesi, demokrasinin sahnesi",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Antik Dünya",
+      "region": "Yunanistan",
+      "themes": [
+        "Demokrasi",
+        "Mitoloji",
+        "Savaş"
+      ],
+      "whatWeSee": "Assassin's Creed Odyssey'de Atina tiyatrosu, oyun yazarlarının, siyasetçilerin ve sıradan izleyicilerin tek bir gerilimli mekanda buluştuğu gürültülü bir yurttaşlık sahnesi gibi görünür. Görevler dramatik performansları birer istihbarat merkezi gibi ele alır; kulis entrikalarıyla kamusal gösteri yan yana ilerler. Oyun, sahnedeki anlatıları kontrol etmenin şehirdeki ittifakları neredeyse askeri eylem kadar doğrudan etkileyebileceğini ima eder.",
+      "realHistory": "MÖ 5. yüzyıl Atina'sında tiyatro yalnızca eğlence değil; din, finans ve siyasetle bağlantılı resmi bir yurttaşlık kurumuydu. City Dionysia'daki büyük dramatik yarışmalar magistralar tarafından düzenleniyor, yurttaşlık yükümlülükleriyle finanse ediliyor ve geniş erkek yurttaş kitleleri tarafından izleniyordu. Varlıklı Atinalılar, liturjik bir görev olarak koroları finanse ederek kültürel gösteriyi kamusal sorumluluğun görünür bir sergisine dönüştürüyordu. Trajediler mitolojik malzemeyi kullansa da temaları tekrar tekrar savaş, hukuk, liderlik, yas ve kolektif kararların bedellerine değiyordu. Özellikle Aristophanes'in komedileri, çağdaş siyasetçileri ve politikaları açıkça alaya alarak performansın eleştiri için meşru bir alan olabildiğini gösteriyordu. Tiyatrolar, ziyaretçilere ve müttefik heyetlere Atina prestijini de yansıtıyordu; bu nedenle festival kültürünün diplomatik değeri vardı. Kanıtlar, polis'in daha yoksul yurttaşlar için katılımı mümkün kılacak adımlar attığını; böylece tiyatronun demokratik yaşam içindeki işlevini pekiştirdiğini gösterir. Bu, tiyatronun Meclis veya mahkemeler gibi kurumların yerini aldığı anlamına gelmez; ancak ortak siyasal tahayyülü şekillendirmeye yardım eder. Odyssey performans mekanlarının sosyal yoğunluğunu iyi yakalar, fakat uzun kurumsal süreçleri kişiselleştirilmiş komplo anlatılarına sıkıştırır. Tarihsel olarak tiyatronun gücü, gizli kulis manevralarından çok yurttaşları ahlaki ve siyasal çatışmayı birlikte tartışmaya alıştıran tekrarlı, kolektif kamusal izleme pratiğinden geliyordu.",
+      "accuracyNote": "Mekan ve sosyal enerji güçlüdür; nedensel ağırlık kurumlardan bireysel aktörlere kaydırılmıştır.",
+      "whyInteresting": "Sanatın devlet pratiğine gömülü bir siyasal teknoloji olduğunu gösterir.",
+      "misconception": "Antik drama, yurttaşlar için geniş bir kamusal tartışma işlevi görmesine rağmen çoğu zaman elit eğlencesi sanılır.",
+      "nextTopics": [
+        "Atina Demokrasisi",
+        "Sparta Eğitimi",
+        "Peloponez Savaşı"
+      ],
+      "sources": [
+        {
+          "title": "Greek theatre (Britannica)",
+          "url": "https://www.britannica.com/art/Western-theatre/The-Greek-theatre",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Dionysia (Britannica)",
+          "url": "https://www.britannica.com/topic/Dionysia",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Aristophanes (Stanford Encyclopedia)",
+          "url": "https://plato.stanford.edu/entries/aristophanes/",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-024-oracle-delphi",
+        "tf26-027-slavery"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Odyssey atmosferi doğru verir; fakat gerçek etki, izole gizli planlardan çok zaman içinde kurumlar ve seyircilerden doğuyordu.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-yunan",
+        "yunanistan",
+        "assassins-creed",
+        "tiyatro-ve-polis",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun tiyatro siyasetini görev ölçeğinde entrikalara kişiselleştirir; oysa tarihsel sistem tekrar eden festivallere, yurttaşlık finansmanına ve kitlesel seyirciliğe dayanıyordu.",
+      "whyItMatters": "Sanatın devlet pratiğine gömülü bir siyasal teknoloji olduğunu gösterir.",
+      "isFlagship": true,
+      "quickRealityCheck": "Atina tiyatrosu yalnızca bir boş zaman etkinliği değil, bir yurttaşlık forumuydu.",
+      "lastReviewedAt": "2026-06-27"
+    }
+  ]
+}

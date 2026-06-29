@@ -1,0 +1,290 @@
+{
+  "locale": "tr",
+  "chunkIndex": 62,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-106-loyalists",
+      "title": "Loyalistler",
+      "subtitle": "Loyalistler hakkında yanlış bilinen",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Devrim",
+        "Siyaset",
+        "Kimlik"
+      ],
+      "whatWeSee": "Hamilton müzikalinde devrim kahramanları öne çıkar; Loyalist sesi zayıf kalır veya karşıt olarak geçer. King George şarkıları komik düşman çizer; müzikal izleyiciye bağımsızlık tarafını duygusal olarak haklı hissettirir. Kadrajda komşuların aynı sokakta farklı bayraklar taşıdığı, kapılara sadakat işaretleri çizildiği ve ayrılık kararının aileyi böldüğü bir koloni atmosferi beliriyor.",
+      "realHistory": "Amerikan Bağımsızlık Savaşı'nda Loyalistler (Tories) Britanya tacına bağlı kaldı; sayıları tarihçiler arasında tartışmalı olsa da yüz binlerle ifade edilir. New York, Georgia ve Karayipler'de güçlüydüler. Savaş sonrası birçok kişi Kanada'ya veya Britanya'ya göç etti; mülkleri musadere edildi. Loyalistlerin motivasyonları tek tip değildi: bazıları meşru kraliyet otoritesine inandı, bazıları kölelik düzenini korumak istedi, bazıları yerel komşuluk bağlarıyla taraf oldu. Hamilton müzikalinde bu çeşitlilik neredeyse yoktur; anlatı devrimci oluşumu kurucu destan yapar. Tarihsel kayıtlar Loyalist gazeteleri, ihtarname imzaları ve göç listelerini saklar. Savaşın 'kim vatanseverdi' sorusu, zaferden sonra yazılan ulusal hafıza tarafından belirlendi. Bugün Kanada'da United Empire Loyalists dernekleri bu hafızanın parçasıdır. Amerikan Devrimi sırasında kolonilerde herkes bağımsızlık yanlısı değildi; yüz binlerce kişi taça sadık loyalist çizgide kaldı. Tüccarlar, Anglikan din adamları, bazı memurlar ve güvenlik kaygısı taşıyan aileler, isyanın ekonomik düzeni yıkacağından endişe etti. Savaş ilerledikçe sadakat seçimi mahalle içi hesaplaşmaya dönüştü; mülklere el kondu, şiddetli misillemeler yaşandı. 1783 sonrası on binlerce loyalist Kanada'ya, Karayiplere veya Britanya'ya göç ederek yeni ağlar kurdu. Bu hareketlilik, devrimin yalnız özgürleşme değil zorunlu yer değiştirme tarihi olduğunu da gösterir. Loyalistler Amerikan Bağımsızlık Savaşı'nda Loyalistler (Tories) Britanya tacına bağlı kaldı; sayıları tarihçiler arasında tartışmalı olsa da yüz binlerle ifade edilir.",
+      "accuracyNote": "Loyalist göçü ve musadere belgelenmiştir; müzikal taraflılığı bilinçli sanatsal tercihtir.",
+      "whyInteresting": "Aynı savaş bugün ABD'de özgürlük, Kanada'da sadakat hafızası olarak okunur.",
+      "misconception": "Tüm kolonistler devrime destek verdi; önemli bir Loyalist nüfus vardı.",
+      "nextTopics": [
+        "Bağımsızlık Bildirisi",
+        "Hamilton'ın Finans Sistemi",
+        "Federalistler"
+      ],
+      "sources": [
+        {
+          "title": "Loyalists (American Revolution)",
+          "url": "https://www.britannica.com/topic/Loyalist-American-Revolution",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "American Revolution (Britannica)",
+          "url": "https://www.britannica.com/event/American-Revolution",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "United Empire Loyalists Association",
+          "url": "https://www.uelac.org/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-107-french-alliance",
+        "tf26-108-constitution",
+        "tf26-109-native-nations"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton'daki King George şarkıları ile Amerikan Bağımsızlık Savaşı Loyalist göçü ve mülk kayıpları.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "abd-devrimi",
+        "kurucular",
+        "hamilton",
+        "loyalistler",
+        "true-frame"
+      ],
+      "spoilerNote": "Hamilton hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Müzikal Loyalistleri karikatür düşman yapar; arşivler onların da komşu ve aile ağları olduğunu gösterir.",
+      "whyItMatters": "Aynı savaş bugün ABD'de özgürlük, Kanada'da sadakat hafızası olarak okunur.",
+      "isFlagship": false,
+      "quickRealityCheck": "Savaş bitince Loyalistlere ne oldu; hangi şehirler en büyük göç dalgasını gördü?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-107-french-alliance",
+      "title": "Fransız İttifakı",
+      "subtitle": "Fransız ittifakı: Lafayette ve Yorktown",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Devrim",
+        "Siyaset",
+        "Kimlik"
+      ],
+      "whatWeSee": "Hamilton'da Lafayette ve Fransız desteği 'Yorktown' zaferine giden yolda öne çıkar. Müzikal, devrimin uluslararası boyutunu şarkılarla coşkulu sunar; izleyici Fransızların savaşın dönüm noktası olduğunu hisseder. Kamera harita başındaki subay görüşmelerini, Fransız bayraklı gemilerin limana girişini ve kuşatma hatlarında ortak hücum hazırlığını aynı akışta gösteriyor.",
+      "realHistory": "1778'de imzalanan Fransız-Amerikan ittifakı, kolonilerin bağımsızlık şansını değiştirdi. Fransa intikam (Yedi Yıl Savaşı yenilgisi) ve denge politikasıyla girdi; Lafayette gönüllü olarak katıldı. Fransız filosu ve topçu desteği 1781 Yorktown kuşatmasında kritikti; Cornwallis teslim oldu. İttifak mali yük getirdi: Fransa borçlandı, bu da 1789 devrimine katkıda bulundu. ABD tarafında bazıları Fransa'nın mutlakiyetçi monarşisine şüpheyle baktı. Müzikal Lafayette'i kahraman yapar; tarihsel kayıtlar müzakere, kredi ve deniz gücünün ağırlığını gösterir. Yorktown olmadan bağımsızlık yıllar daha sürebilirdi. 1778 Fransız ittifakı, Amerikan isyanını yerel bir ayaklanmadan küresel savaşa dönüştüren kritik eşikti. Saratoga zaferi, Paris'e kolonilerin sürdürülebilir bir ortak olabileceği sinyalini verdi ve resmi antlaşmalar imzalandı. Fransız donanması Karayipler ile Atlantik'te İngiliz kuvvetlerini bölerek Yorktown kuşatmasına stratejik zemin hazırladı. Lafayette gibi subaylar yalnız askeri deneyim değil siyasal sembol değer de taşıdı. Buna rağmen ittifak karşılıksız değildi; Fransa, Britanya'yı zayıflatmayı ve savaş sonrası pazarlık gücünü artırmayı hedefliyordu. Devrimci zafer, bu jeopolitik hesabın desteğiyle mümkün oldu. Fransız İttifakı 1778'de imzalanan Fransız-Amerikan ittifakı, kolonilerin bağımsızlık şansını değiştirdi. Fransız hazinesi, Amerikan cephesine asker ve mühimmat taşırken sigorta, ikmal ve donanma masrafını ayrı kalemlerden finanse etti. Rochambeau birlikleri düzenli ödeme ile yerel gerilimi sınırladı. De Grasse'ın Chesapeake zaferi, Yorktown kuşatmasını kapatıp ittifakın savaş sonucuna doğrudan etkisini kesinleştirdi.",
+      "accuracyNote": "Yorktown ve ittifak tarihleri belgelenmiştir.",
+      "whyInteresting": "Aynı ittifak hem ABD zaferi hem Fransa'nın mali krizine katkı verdi.",
+      "misconception": "Koloniler savaşı kendi başlarına kazandı; Fransız deniz ve kara desteği dönüm noktasıydı.",
+      "nextTopics": [
+        "Bağımsızlık Bildirisi",
+        "Hamilton'ın Finans Sistemi",
+        "Federalistler"
+      ],
+      "sources": [
+        {
+          "title": "Franco-American alliance (Britannica)",
+          "url": "https://www.britannica.com/event/Franco-American-alliance",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Siege of Yorktown (Britannica)",
+          "url": "https://www.britannica.com/event/Siege-of-Yorktown",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Marquis de Lafayette (Britannica)",
+          "url": "https://www.britannica.com/biography/Marquis-de-Lafayette",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-102-hamilton-finance",
+        "tf26-108-constitution"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton'ın Lafayette şarkıları ile 1778 Franco-American alliance ve Yorktown 1781.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "abd-devrimi",
+        "kurucular",
+        "hamilton",
+        "fransiz-i-ttifaki",
+        "true-frame"
+      ],
+      "spoilerNote": "Hamilton hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Müzikal ittifakı duygusal dostluk yapar; gerçekte deniz filosu ve mali kredi belirleyiciydi.",
+      "whyItMatters": "Aynı ittifak hem ABD zaferi hem Fransa'nın mali krizine katkı verdi.",
+      "isFlagship": false,
+      "quickRealityCheck": "Yorktown'da Fransız filosu neden kritikti?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-108-constitution",
+      "title": "Anayasa Tartışması",
+      "subtitle": "Anayasa: birlik mi, federal güç mü?",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Devrim",
+        "Siyaset",
+        "Kimlik"
+      ],
+      "whatWeSee": "Hamilton müzikalinde anayasa tartışması Federalist-Cumhuriyetçi kavgası olarak geçer. 'Non-Stop' ve Kongre sahneleri, ABD'nin temel yasasının nasıl müzakere edildiğini hızlandırılmış sunar. Sahnede delegeler sıcak salonda temsil oranlarını tartışıyor, koridorda gazeteciler not tutuyor ve yeni anayasanın hangi gücü sınırlayacağı üzerine sert pazarlık dönüyor.",
+      "realHistory": "1787 Philadelphia Konvansiyonu ABD Anayasası'nı yazdı; 1788 onaylandı. Tartışma merkezi federal güç ile eyalet hakları arasındaydı. Federalist Papers (Hamilton, Madison, Jay) anayasayı savundu. Bill of Rights (1791) uzlaşma ürünüydü. Hamilton güçlü merkez savunucusuydu; Jefferson daha geniş eyalet vizyonu istedi. Anayasa kölelik ve oy hakkı sorularını erteledi; bu çatlaklar sonraki yüzyılı şekillendirdi. Müzikal anayasayı kurucu dram yapar; arşivler Konvansiyon tutanaklarını saklar. ABD Anayasa tartışmaları, bağımsızlık zaferinden sonra zayıf konfederasyon düzeninin nasıl güçlendirileceği sorusuna verilen çelişkili yanıtlardan doğdu. Federalistler ortak maliye, sürekli ordu ve ticaret düzenlemesi için merkez yetkisini artırmak isterken, anti-federalistler eyalet özerkliğinin erimesinden kaygı duydu. Philadelphia Konvansiyonu'nda temsil, kölelik sayımı ve yürütme yetkisi başlıklarında yoğun pazarlıklar yapıldı. Onay sürecinde yayımlanan makaleler kamuoyunu yeni bir anayasal dil etrafında mobilize etti. Sonuçta kabul edilen metin, güçlü devlet talebini hak güvenceleriyle dengeleyen yaşayan bir uzlaşma çerçevesi sundu. Anayasa Tartışması 1787 Philadelphia Konvansiyonu ABD Anayasası'nı yazdı; 1788 onaylandı. Philadelphia uzlaşmaları temsil krizini geçici olarak çözerken kölelik meselesini ertelenmiş formüllerle anayasal metne yerleştirdi. Güçler ayrılığı yürütmeyi frenledi, fakat federal vergi kapasitesini de artırdı. Onay sürecindeki broşür polemikleri, erken Amerikan kamusal alanında ideolojik cephelerin nasıl kurulduğunu net biçimde gösterdi.",
+      "accuracyNote": "Konvansiyon tarihleri ve Federalist Papers belgelenmiştir.",
+      "whyInteresting": "Aynı belge hem birlik hem ertelenmiş çatışmalar taşır.",
+      "misconception": "Anayasa hızlı ve uzlaşmalı doğdu; şiddetli tartışma ve ödün vardı.",
+      "nextTopics": [
+        "Bağımsızlık Bildirisi",
+        "Hamilton'ın Finans Sistemi",
+        "Federalistler"
+      ],
+      "sources": [
+        {
+          "title": "Constitution of the United States (US Senate)",
+          "url": "https://www.senate.gov/civics/constitution_item/constitution.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Constitutional Convention (Britannica)",
+          "url": "https://www.britannica.com/event/Constitutional-Convention",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Federalist Papers (Congress.gov)",
+          "url": "https://www.congress.gov/resources/display/content/The+Federalist+Papers",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-104-enslavement-contradiction",
+        "tf26-102-hamilton-finance"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton'ın Non-Stop ve Kongre sahneleri ile 1787 Constitutional Convention ve Federalist Papers.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "abd-devrimi",
+        "kurucular",
+        "hamilton",
+        "anayasa-tartismasi",
+        "true-frame"
+      ],
+      "spoilerNote": "Hamilton hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Müzikal anayasayı birkaç şarkıya sıkıştırır; gerçekte onay süreci eyalet eyalet yürüdü.",
+      "whyItMatters": "Aynı belge hem birlik hem ertelenmiş çatışmalar taşır.",
+      "isFlagship": true,
+      "quickRealityCheck": "Bill of Rights neden anayasa onayından sonra eklendi?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-109-native-nations",
+      "title": "Yerli Uluslar",
+      "subtitle": "Bir sahnenin sakladığı sistem",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Devrim",
+        "Siyaset",
+        "Kimlik"
+      ],
+      "whatWeSee": "Hamilton'da siyasal merkez, kurucu elitlerin Londra'yla ve birbirleriyle hesaplaşmasıdır; Yerli uluslar kadrajda çok az yer alır. Bu anlatı, devrimi sanki iki taraflı bir imparatorluk kavgasıymış gibi hissettirebilir. Oysa sınır hattında savaş, diplomasi ve toprak denklemi Yerli konfederasyonların aktif kararlarıyla biçimleniyordu.",
+      "realHistory": "18. yüzyılın sonlarında Kuzey Amerika'da Haudenosaunee, Shawnee, Cherokee, Creek ve başka birçok Yerli ulus, bağımsız siyasi aktörler olarak hareket ediyordu. Amerikan Devrimi sırasında topluluklar tek bir blok halinde davranmadı; bazıları Britanya'yla ittifak kurdu, bazıları isyancı kolonilerle pazarlık yaptı, bazıları tarafsız kalmaya çalıştı. Kararlar bölgesel güvenlik, ticaret yolları ve hayatta kalma hesaplarına dayanıyordu.\n\n1783 Paris Antlaşması'nda Britanya, Yerli ulusları masaya dahil etmeden geniş toprakları ABD'ye bıraktı. Kâğıt üzerindeki bu devir, sahadaki egemenlik gerçekliğiyle çelişiyordu. Yeni federal devlet, antlaşmalar ve askeri seferlerle Ohio Vadisi ile güneydoğuda ilerledi. 1790'larda süren Kuzeybatı Kızılderili Savaşı ve ardından Greenville Antlaşması, sınır inşasının yerleşimci yayılma lehine nasıl zorla kurulduğunu gösterdi.\n\nAntlaşma dili çoğu kez eşit taraflar varsaydı, ancak açlık, askeri baskı ve yerinden edilme tehdidi pazarlığı asimetrik hale getirdi. Dolayısıyla kurucu dönem hikayesi sadece anayasa ve kabine tartışmalarından ibaret değildir; Yerli ulusların direniş, uyum ve diplomasi stratejileri olmadan tablo eksik kalır. Bugün birçok topluluk, o dönemin antlaşmalarını hukuki hak iddiası için yeniden kullanmaya devam ediyor. Bu devamlılık, Yerli egemenliğinin geçmişte kapanmış bir başlık değil, güncel hukuk ve toprak mücadelesi üreten yaşayan bir siyasi alan olduğunu da gösterir. Kurucu dönemde atılan sınır adımları, modern ABD'nin toprak rejiminde hâlâ hissedilen uzun süreli hukuki çatlaklar bırakmıştır.",
+      "accuracyNote": "Kurucu elit çatışması doğru zeminde, ancak Yerli ulusların siyasi ağı müzikalde doğal olarak dar temsil edilir.",
+      "whyInteresting": "Aynı dönemde hem yeni bir cumhuriyet kurulup hem de çok sayıda Yerli ulus kendi diplomatik çizgisini korumaya çalıştı.",
+      "misconception": "Amerikan Devrimi sırasında Yerli toplumların pasif kaldığı ve tek tutum aldığı düşünülür.",
+      "nextTopics": [
+        "Bağımsızlık Bildirisi",
+        "Hamilton'ın Finans Sistemi",
+        "Federalistler"
+      ],
+      "sources": [
+        {
+          "title": "Native Americans and the American Revolution",
+          "url": "https://www.nps.gov/subjects/americanrevolution/native-americans-and-the-american-revolution.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Treaty of Paris, 1783",
+          "url": "https://history.state.gov/milestones/1776-1783/treaty-of-paris",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Northwest Indian War",
+          "url": "https://www.britannica.com/event/Northwest-Indian-War",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-110-burr-hamilton",
+        "tf26-107-french-alliance",
+        "tf26-108-constitution"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton dönemin retoriğini güçlü verir; True Frame sahne dışındaki Yerli diplomasi ve savaş hattını ekler.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "abd-devrimi",
+        "kurucular",
+        "hamilton",
+        "yerli-uluslar",
+        "true-frame"
+      ],
+      "spoilerNote": "Hamilton hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Müzikal kurucu siyaseti merkezler; tarihsel gerçeklikte sınır politikası Yerli uluslarla süren uzun bir güç mücadelesiydi.",
+      "whyItMatters": "Aynı dönemde hem yeni bir cumhuriyet kurulup hem de çok sayıda Yerli ulus kendi diplomatik çizgisini korumaya çalıştı.",
+      "isFlagship": false,
+      "quickRealityCheck": "1783'te toprak devri yapılırken o topraklarda yaşayan Yerli uluslar neden müzakere masasında yoktu?",
+      "lastReviewedAt": "2026-06-27"
+    }
+  ]
+}

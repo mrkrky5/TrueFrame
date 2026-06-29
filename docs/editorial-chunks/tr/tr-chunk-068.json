@@ -1,0 +1,290 @@
+{
+  "locale": "tr",
+  "chunkIndex": 68,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-134-mulberry-harbours",
+      "title": "Yapay Limanlar",
+      "subtitle": "Yapay Limanlar için gerçek zemin",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "era": "Modern Tarih",
+      "region": "Normandiya",
+      "themes": [
+        "Savaş",
+        "Çıkarma",
+        "Hafıza"
+      ],
+      "whatWeSee": "Saving Private Ryan, D-Day kaosunu kıyı hattında yoğunlaştırır; dev yüzer liman mühendisliği ise kadrajın dışında kalır.",
+      "realHistory": "Filmde gördüğümüz Omaha sahneleri, çıkarma gününün şiddetini çok güçlü biçimde verir; fakat asıl lojistik soru ertesi gün başlar: Müttefikler tonlarca mühimmat, araç, yakıt ve yiyeceği işgal altındaki kıyıya nasıl taşıdı? Cevap, Mulberry adı verilen yapay liman sistemiydi. Britanya'da gizlice planlanan bu proje, yüzlerce beton ve çelik parçanın Manş Denizi'nden çekilerek Normandiya kıyısında birleştirilmesine dayanıyordu.\n\nMulberry A (Amerikan sektörü) ve Mulberry B (Arromanches, Britanya sektörü) farklı koşullarda kuruldu. Haziran 1944 fırtınası Amerikan limanına ağır hasar verdi; buna karşılık Arromanches hattı onarılarak aylarca kullanıldı. Bu sayede tank, kamyon, topçu ve ikmal malzemesi düzenli akış kazandı. Liman yalnızca iskele değil; dalgakıran blokları, yüzer yol sistemleri ve boşaltma platformlarından oluşan modüler bir altyapıydı. Tarihçiler, Normandiya harekatının sürdürülebilirliğinde bu mühendislik çözümünün kritik payı olduğu konusunda büyük ölçüde hemfikirdir.\n\nSaving Private Ryan'ın dili bilinçli olarak piyadenin göz hizasında kalır. Bu yüzden liman inşaatı doğrudan gösterilmez; seyirci daha çok sahildeki hayatta kalma mücadelesini izler. O boşluk, askeri tarihin önemli bir dersini hatırlatır: muharebe zaferi ile operasyonel başarı arasında lojistik köprü vardır. Mulberry limanları olmadan iç bölgelere ilerleme çok daha yavaş, kırılgan ve maliyetli olurdu.\n\nMulberry anlatısının önemli bir tarafı da mühendislik emeğinin görünmezliğidir. Binlerce işçi ve deniz personeli, montaj parçalarını kıyıya taşımak, dalga etkisini hesaplamak ve hasarlı bölümleri hızla onarmak için gece gündüz çalıştı. Arromanches sahasında kurulan müzeler ve savaş günlükleri, bu operasyonun sadece teknik değil örgütsel bir başarı olduğunu gösterir. Yani hikaye yalnızca 'yapay liman yapıldı' cümlesinden ibaret değildir; deniz hava tahmini, çekici rota planı ve sahra lojistiğinin birlikte çalıştığı karmaşık bir ağdır.",
+      "accuracyNote": "Film çıkarma deneyimini doğru bir yoğunlukla aktarır; ancak Mulberry gibi arka plan lojistiğini bilinçli olarak kadraj dışı bırakır.",
+      "whyInteresting": "Yapay Limanlar üzerinden bakınca sahnedeki atmosfer, Normandiya, Omaha Plajı ve Fransız köyleri çevresindeki gerçek kurum ve alışkanlıklarla bağ kurar.",
+      "misconception": "Yapay Limanlar konusunun tek bir basit açıklamayla çözüldüğü sanılır. Kaynaklar, bu basit anlatının arkasında daha karmaşık bir düzen olduğunu gösterir.",
+      "nextTopics": [
+        "Omaha Plajı",
+        "Fortitude Aldatması",
+        "Hava İndirmeleri"
+      ],
+      "sources": [
+        {
+          "title": "Imperial War Museums - Mulberry Harbours",
+          "url": "https://www.iwm.org.uk/history/the-mulberry-harbours",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Mulberry harbour",
+          "url": "https://www.britannica.com/technology/Mulberry",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "National WWII Museum - D-Day Logistics",
+          "url": "https://www.nationalww2museum.org/war/articles/logistics-d-day",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-135-hedgerows",
+        "tf26-136-canadian-beaches",
+        "tf26-137-french-civilians"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Bu kart, Yapay Limanlar konusunu Saving Private Ryan üzerinden tarihsel kayıtlarla karşılaştırır.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ikinci-dunya-savasi",
+        "normandiya",
+        "d-day",
+        "yapay-limanlar",
+        "true-frame"
+      ],
+      "spoilerNote": "Saving Private Ryan hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Yapay Limanlar ekranda daha net bir odak kazanır; karakterlerin yolu, mekân seçimi ve çatışma ritmi bu konuyu kolay takip edilir kılar. Tarihte aynı başlık, D-Day ve Normandiya Harekâtı gibi daha uzun süreçlerin içinde ilerler.",
+      "whyItMatters": "Yapay Limanlar üzerinden bakınca sahnedeki atmosfer, Normandiya, Omaha Plajı ve Fransız köyleri çevresindeki gerçek kurum ve alışkanlıklarla bağ kurar.",
+      "isFlagship": false,
+      "quickRealityCheck": "D-Day sadece sahile çıkmak değildi; sahile çıktıktan sonra orduyu besleyecek limanı da kurmak gerekiyordu.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-135-hedgerows",
+      "title": "Çitli Arazi",
+      "subtitle": "Ekrandaki iz, tarihteki karşılık",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "era": "Modern Tarih",
+      "region": "Normandiya",
+      "themes": [
+        "Savaş",
+        "Çıkarma",
+        "Hafıza"
+      ],
+      "whatWeSee": "Saving Private Ryan'da Normandiya içlerine ilerleyen birlikler, dar yolları ve yüksek çit setlerini geçerken sürekli pusu tehdidi yaşar. Kamera görüşü kısıtlı bir savaş hissi verir; asker nereye ateş edeceğini çoğu zaman son anda görür. Film bu sıkışmayı iyi taşır, ancak araziye karşı geliştirilen taktik uyarlamaların teknik ayrıntısı daha kısa tutulur.",
+      "realHistory": "Normandiya'daki bocage denilen çitli arazi, Müttefiklerin kıyıdan sonra en zorlandığı doğal savunma alanlarından biriydi. Yüzyıllar boyunca tarla sınırı olarak oluşan kalın toprak setler ve yoğun çalı duvarları, tank ve piyade görüşünü ciddi biçimde kısıtlıyordu. Alman birlikleri bu avantajı hızla kullandı: kısa mesafeli pusu, gizli makineli mevzi ve geri çekilip yeniden tutunma taktiği, ilerlemeyi beklenenden yavaş hale getirdi.\n\nMüttefik birlikler başlangıçta açık arazi doktriniyle hareket ettiği için bocage içinde kayıp verdi. Çözüm, sahada geliştirilen pratik uyarlamalarla geldi. Bazı Amerikan birlikleri tankların önüne metal kesiciler ekleyerek çit setlerini daha kontrollü yarmaya başladı; bu doğaçlama araçlar \"Rhino tank\" olarak bilinir oldu. Piyade-tank koordinasyonu, keşif disiplini ve topçu hazırlığı bu ortamda yeniden ayarlandı.\n\nDolayısıyla çitli arazi bir dekor değil, operasyon temposunu belirleyen başlıca etkendi. Normandy'de zafer yalnız çıkarma gününde değil, sonraki haftalarda bu zor coğrafyaya uyum sağlama kapasitesiyle kazanıldı. Araziyi okumayan ordu, sayıca üstün olsa da ilerleyemiyordu. Cobra Harekatı gibi kırılmalar, cepheyi ancak bu öğrenme süreci tamamlandıktan sonra açabildi. Kısacası Normandiya zaferi, taktik inovasyonun zamanında yapılmasına bağlıydı. Ayrıca hava üstünlüğü bile bocage içinde sınırlı etki gösterdi; çünkü hedef tespiti zorlaştığı için kara birliklerinin yerel keşif ve koordinasyon başarısı belirleyici hale geldi. Bu deneyim, modern ordulara araziye uyumlu birleşik harekatın teoriden çok sahada öğrenilen bir beceri olduğunu net biçimde gösterdi.",
+      "accuracyNote": "Sıkışma hissi ve yakın mesafe tehlikesi inandırıcıdır; uyarlama taktiklerinin kurumsal öğrenme süreci dramatik akışta sadeleştirilmiştir.",
+      "whyInteresting": "Bazen savaşın kaderini yeni bir tank modeli değil, tarlayı bölen eski bir çit sistemi belirler.",
+      "misconception": "Normandiya'da kıyı hattı geçildikten sonra ilerleyişin kolay olduğu düşünülür; asıl yıpratma savaşlarından biri bocage içinde yaşandı.",
+      "nextTopics": [
+        "Omaha Plajı",
+        "Fortitude Aldatması",
+        "Hava İndirmeleri"
+      ],
+      "sources": [
+        {
+          "title": "Normandy Invasion (Britannica)",
+          "url": "https://www.britannica.com/event/Normandy-Invasion",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The U.S. Army in the Bocage Country (U.S. Army Center of Military History)",
+          "url": "https://history.army.mil/html/books/007/7-4-1/cmhPub_7-4-1.pdf",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Normandy Hedgerow Fighting (The National WWII Museum)",
+          "url": "https://www.nationalww2museum.org/war/articles/hedgerow-hell-normandy",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-136-canadian-beaches",
+        "tf26-137-french-civilians",
+        "tf26-138-medics"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Saving Private Ryan'ın Normandiya içi çatışmaları, bocage savaşının dar görüş ve pusu baskısını sinemada görünür kılar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ikinci-dunya-savasi",
+        "normandiya",
+        "d-day",
+        "citli-arazi",
+        "true-frame"
+      ],
+      "spoilerNote": "Saving Private Ryan hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film bocage gerilimini güçlü biçimde hissettirir fakat taktik uyarlamaların geliştirilme sürecini kısa geçer. Tarihte ilerlemenin anahtarı, araziye karşı hızla öğrenen küçük teknik yeniliklerdi.",
+      "whyItMatters": "Bazen savaşın kaderini yeni bir tank modeli değil, tarlayı bölen eski bir çit sistemi belirler.",
+      "isFlagship": false,
+      "quickRealityCheck": "Normandiya'da tanklara eklenen hedge-cutter düzenekleri operasyon hızını neden belirgin biçimde artırdı?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-136-canadian-beaches",
+      "title": "Kanada Sahilleri",
+      "subtitle": "Juno Beach: Kanada'nın D-Day cephesi",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "era": "Modern Tarih",
+      "region": "Normandiya",
+      "themes": [
+        "Savaş",
+        "Çıkarma",
+        "Hafıza"
+      ],
+      "whatWeSee": "Saving Private Ryan, D-Day hafızasını Omaha Beach'in vahşeti üzerinden kurduğu için izleyiciler çoğu zaman çıkarmanın öncelikle Amerikan merkezli bir görsel haritasıyla ayrılır. Kanada sektörleri anlatının merkezi değildir; filmdeki gerçekçilik kıyının diğer kesimlerinde de benzer baskı ima etse bile. Böylece popüler kültür Normandiya'ya dair duygusal bir gerçeği miras alırken Juno'nun operasyonel rolünü yine de eksik temsil eder.",
+      "realHistory": "6 Haziran 1944'te Normandiya çıkarması beş plaj boyunca yürütüldü; Juno başlıca Kanada 3. Piyade Tümeni ve 2. Zırhlı Tugayı'na tahsis edilmişti. Kanada hücum dalgaları mayınlı engeller, savunma tahkimatları ve zamanlama ile düzeni bozan dalga koşullarıyla karşılaştı. İlk kayıplar yüksekti; buna karşın akşama doğru birçok Kanada birliği komşu bazı sektörlerden daha içeri ilerlemişti, ancak planlanan tüm birleşme noktaları takviminde sağlanamadı. İlerleme, kıyı çıkışlarını açmaya, kıyı karmaşası sonrası komuta bütünlüğünü yeniden kurmaya ve sonraki zırhlı ile ikmal dalgalarını entegre etmeye bağlıydı. Alman direnişi, trafik sıkışması ve karşı taarruz riski taktik başarıya rağmen tahkimi sınırladı. Sonraki haftalarda Kanada kuvvetleri Caen, Carpiquet, Verrieres Ridge çevresinde ve nihayet Falaise harekatlarında ağır çatışmalara girdi; ardından Scheldt yaklaşımının temizlenmesinde de büyük roller üstlendi. Tarihyazımında Omaha'nın sinematik baskınlığı, daha geniş tutunmanın çok uluslu koordinasyonla mümkün olduğunu zaman zaman gölgeledi. Juno, çevresel bir yan eylem değildi; cephe sürekliliğini korumada, lojistiği desteklemede ve Alman savunma baskısını dağıtmada merkezîydi. Bu gerçeği tanımak, D-Day'i farklı ama birbirine bağımlı yükler taşıyan bir koalisyon harekatı olarak yeniden çerçeveler. Ünlü filmlerin ürettiği seçici hafıza anlaşılabilir; ancak operasyon kayıtları, Kanada birliklerinin hem çıkarma gününde hem de onu izleyen yıpratıcı muharebede merkezî katılımcılar olduğunu gösterir.",
+      "accuracyNote": "Çatışma yoğunluğu gerçektir; ancak temsil vurgusu Kanada'nın operasyonel merkeziliğini gölgede bırakır.",
+      "whyInteresting": "Tek bir anlatı imgesi küresel medyaya hakim olduğunda hafıza hiyerarşisinin nasıl oluştuğunu gösterir.",
+      "misconception": "Normandiya, koordineli bir Müttefik taarruzu yerine çoğu zaman neredeyse yalnızca ABD başarısı olarak hatırlanır.",
+      "nextTopics": [
+        "Omaha Plajı",
+        "Fortitude Aldatması",
+        "Hava İndirmeleri"
+      ],
+      "sources": [
+        {
+          "title": "Juno Beach (Juno Beach Centre)",
+          "url": "https://www.junobeach.org/canada-in-wwii/articles/juno-beach/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "D-Day in Canada (Canadian War Museum)",
+          "url": "https://www.warmuseum.ca/firstworldwar/history/after-the-war/legacy/d-day/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Normandy landings (Britannica)",
+          "url": "https://www.britannica.com/event/Normandy-Invasion",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-132-operation-fortitude",
+        "tf26-140-memory"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Film şoku güçlü biçimde aktarır; arşiv tarihi ise bu şokun ardındaki çok uluslu yapıyı geri getirir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ikinci-dunya-savasi",
+        "normandiya",
+        "d-day",
+        "kanada-sahilleri",
+        "true-frame"
+      ],
+      "spoilerNote": "Saving Private Ryan hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Omaha'ya sinematik odak dikkat alanını daraltır; oysa tarihsel sonuçlar Juno dahil tüm plajların koordinasyonuna bağlıydı.",
+      "whyItMatters": "Tek bir anlatı imgesi küresel medyaya hakim olduğunda hafıza hiyerarşisinin nasıl oluştuğunu gösterir.",
+      "isFlagship": true,
+      "quickRealityCheck": "D-Day başarısı tek bir ikonik sektöre değil, beş plajın tamamına dayanıyordu.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-137-french-civilians",
+      "title": "Fransız Siviller",
+      "subtitle": "Fransız siviller: işgal, direniş, intikam",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "era": "Modern Tarih",
+      "region": "Normandiya",
+      "themes": [
+        "Savaş",
+        "Çıkarma",
+        "Hafıza"
+      ],
+      "whatWeSee": "Saving Private Ryan Normandiya çıkarmasından sonra Fransız köylerinde sivilleri gösterir. Çevirmen sahnesi, işgal altındaki günlük hayatın karmaşıklığını kısa ama yoğun verir. Kadrajda yıkılmış Fransız sokakları, bodrumda saklanan aileler ve kurtuluş birliklerini tereddütle karşılayan siviller işgalin karmaşık duygusunu görünür kılıyor. Köy meydanındaki gerilim işgal sonrası hafızayı şekillendirir.",
+      "realHistory": "1944 Haziran'ından sonra ABD birlikleri Fransa'nın kırsalını ve kasabalarını işgal etti. Siviller karşılama, korku ve intikam arasında kaldı. FFI (Fransız direniş) bazı bölgelerde aktifti; işbirlikçiler cezalandırıldı. Ryan'daki köy sahnesi gerilim ve ahlaki gri alanı gösterir: savaş yalnızca askerler arasında değildi. Sivil kayıplar bombalamalar ve çatışmalarda yükseldi. Normandiya sonrası 'liberation' hem özgürlük hem yıkım getirdi. Film sivilleri kısa gösterir; arşivler tahliye, malzeme kıtlığı ve işgal disiplinini belgeler. 1944 Normandiya harekâtı sırasında Fransız siviller, işgalden kurtuluşa geçişte çifte baskı yaşadı. Alman denetimi altında yıllarca kıtlık, zorla çalıştırma ve ihbar korkusuyla yaşayan kasabalar, Müttefik bombardımanlarında da ağır kayıplar verdi. Yerel direniş ağları istihbarat ve sabotajla ilerlemeyi kolaylaştırdı, fakat misilleme riski her aileyi etkiledi. Kurtuluş sonrası sokaklarda sevinç görüntülerinin yanında işbirlikçilik suçlamalarıyla sert hesaplaşmalar görüldü. Bu dönem, askeri zafer anlatısının arkasında kalan sivil kırılganlığı, intikam duygusunu ve yeniden toplumsallaşma çabasını birlikte taşır. Fransız Siviller 1944 Haziran'ından sonra ABD birlikleri Fransa'nın kırsalını ve kasabalarını işgal etti. Normandiya'da Caen ve çevresine yönelen bombardımanlar, kurtuluş umudunu ağır sivil kayıplarla aynı ana sıkıştırdı. Aileler haftalarca bodrumlarda yaşarken su, ilaç ve ekmek kıtlığı derinleşti. İşbirlikçilik suçlamalarıyla yapılan yerel hesaplaşmalar, savaşın bitiminde bile toplumsal yaraların kapanmasını daha da geciktirdi.",
+      "accuracyNote": "Normandiya çıkarması ve sivil etkiler belgelenmiştir.",
+      "whyInteresting": "Aynı asker hem kurtarıcı hem işgalci olarak görülebilirdi.",
+      "misconception": "Savaş cephede biterdi; işgal günlük hayatı yıllarca şekillendirdi.",
+      "nextTopics": [
+        "Omaha Plajı",
+        "Fortitude Aldatması",
+        "Hava İndirmeleri"
+      ],
+      "sources": [
+        {
+          "title": "Normandy invasion (Britannica)",
+          "url": "https://www.britannica.com/event/Normandy-Invasion",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Liberation of France (Imperial War Museum)",
+          "url": "https://www.iwm.org.uk/history/the-liberation-of-france",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "French Resistance (Britannica)",
+          "url": "https://www.britannica.com/topic/French-Resistance",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-136-canadian-beaches",
+        "tf26-140-memory"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Saving Private Ryan'ın Fransız köy sahnesi ile 1944 Normandiya sivil deneyimi ve FFI.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ikinci-dunya-savasi",
+        "normandiya",
+        "d-day",
+        "fransiz-siviller",
+        "true-frame"
+      ],
+      "spoilerNote": "Saving Private Ryan hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film sivili birkaç sahneye sıkıştırır; gerçekte her köy ayrı işgal hikâyesiydi.",
+      "whyItMatters": "Aynı asker hem kurtarıcı hem işgalci olarak görülebilirdi.",
+      "isFlagship": false,
+      "quickRealityCheck": "Normandiya sonrası köylerde direniş ve işbirlikçilik nasıl bir arada yaşandı?",
+      "lastReviewedAt": "2026-06-25"
+    }
+  ]
+}

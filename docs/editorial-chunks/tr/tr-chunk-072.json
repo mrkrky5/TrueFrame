@@ -1,0 +1,290 @@
+{
+  "locale": "tr",
+  "chunkIndex": 72,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-155-radiation-myth",
+      "title": "Radyasyon Korkusu",
+      "subtitle": "Ekrandaki iz, tarihteki karşılık",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "era": "Modern Tarih",
+      "region": "Ukrayna",
+      "themes": [
+        "Teknoloji",
+        "Devlet",
+        "Afet"
+      ],
+      "whatWeSee": "Chernobyl dizisinde radyasyon, görünmeyen ama her an öldürebilen bir tehdit olarak işlenir; karakterler çoğu zaman neye maruz kaldığını bilmeden hareket eder. Bu yaklaşım belirsizlik duygusunu güçlü verir. Ancak dramatik anlatıda farklı dozlar aynı yoğunlukta hissedilir; gerçek tarihte akut maruziyet, uzun dönem risk ve psikolojik etki birbirinden ayrı katmanlardır.",
+      "realHistory": "Çernobil sonrası radyasyon korkusu iki eksende büyüdü: ölçülebilir biyolojik zarar ve belirsizlikten kaynaklanan toplumsal kaygı. Reaktör çevresinde ilk saatlerde çok yüksek doza maruz kalan personel ve itfaiyecilerde akut radyasyon sendromu görüldü; bu grup en ağır kısa dönem sağlık yükünü taşıdı. Daha geniş coğrafyada ise tartışma özellikle iyot-131 maruziyeti ve çocukluk çağı tiroid kanseri artışı etrafında şekillendi. Maruziyetin gıda zinciri, özellikle süt tüketimi üzerinden taşınması kritik bir faktördü.\n\nUNSCEAR, WHO ve IAEA çizgisindeki değerlendirmeler, etkilerin tüm nüfusta aynı şiddette olmadığını, yüksek riskin belirli gruplarda yoğunlaştığını vurgular. Bu bulgu felaketin küçük olduğu anlamına gelmez. Tahliye, damgalanma, iş kaybı, doğurganlık korkuları ve devlet bilgisizliği, milyonlarca insanda uzun süreli psikososyal yük yarattı. Bilimsel belirsizlikle siyasi güvensizlik birleşince korku dalgası büyüdü.\n\nDolayısıyla radyasyon korkusunu ne tamamen irrasyonel ne de tek başına fiziksel dozla açıklamak yeterlidir. Çernobil deneyimi, halk sağlığında iletişim, şeffaflık ve risk sınıflandırmasının teknik müdahale kadar hayati olduğunu gösterdi. Çernobil sonrası risk algısında çocuklar ve hamileler etrafında yoğunlaşan korku, bilimsel bilgiye erişim eksikliğiyle daha da büyüdü. Sağlık izlemi programları yıllar içinde iyileşse de ilk dönem belirsizliği toplumsal hafızada kalıcı iz bıraktı. Bu nedenle afet yönetiminde güvenilir kurum iletişimi, teknik müdahalenin ayrılmaz bir parçası kabul edilir.",
+      "accuracyNote": "Dizi erken dönem kaosu güçlü biçimde verir ve ana olay akışı tarihsel temellidir. Klinik risk dağılımı ise dramatik yoğunluk nedeniyle sadeleştirilmiştir.",
+      "whyInteresting": "Aynı felaketin hem nükleer fizik hem toplumsal psikoloji meselesi olması, modern afet tarihindeki en güçlü derslerden biridir.",
+      "misconception": "Radyasyona maruz kalan herkesin aynı hızda ve aynı biçimde ağır hastalandığı sanılır. Oysa etki, doz ve maruziyet yoluna göre çok değişir.",
+      "nextTopics": [
+        "Reaktör Testi",
+        "RBMK Tasarımı",
+        "Tasfiye Ekipleri"
+      ],
+      "sources": [
+        {
+          "title": "Chernobyl 20 years on (World Health Organization)",
+          "url": "https://www.who.int/news-room/questions-and-answers/item/chernobyl-20-years-on",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "UNSCEAR Chernobyl Assessments",
+          "url": "https://www.unscear.org/unscear/en/chernobyl.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Chernobyl (IAEA)",
+          "url": "https://www.iaea.org/topics/chernobyl",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-156-soviet-secrecy",
+        "tf26-157-firefighters",
+        "tf26-158-exclusion-zone"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Chernobyl'deki korku anlatısı, UNSCEAR ve WHO'nun doz temelli bulgularıyla birlikte okunduğunda daha dengeli anlaşılır.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "cernobil",
+        "nukleer",
+        "afet",
+        "radyasyon-korkusu",
+        "true-frame"
+      ],
+      "spoilerNote": "Chernobyl hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi görünmez tehdidi etkili anlatır ama farklı maruziyet düzeylerini dramatik olarak birbirine yaklaştırır. Tarihsel raporlar, yüksek akut doz vakalarıyla düşük doz belirsizliklerinin ayrı değerlendirilmesini önerir.",
+      "whyItMatters": "Aynı felaketin hem nükleer fizik hem toplumsal psikoloji meselesi olması, modern afet tarihindeki en güçlü derslerden biridir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Çernobil sonrası en güçlü uzun dönem kanıt neden özellikle çocukluk çağı tiroid kanseri alanında toplandı?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-156-soviet-secrecy",
+      "title": "Sovyet Gizliliği",
+      "subtitle": "Sovyet gizliliği: radyasyon haberi neden yavaş?",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "era": "Modern Tarih",
+      "region": "Ukrayna",
+      "themes": [
+        "Teknoloji",
+        "Devlet",
+        "Afet"
+      ],
+      "whatWeSee": "Chernobyl dizisinde yetkililer radyasyon haberini geciktirir, ölçümleri gizler ve Pravda'da felaketi küçültür. İzleyici bilginin neden saatlerce hareket etmediğini görür. Sahnede yetkililerin kapalı toplantıda rapor sakladığı, şehirde olağan hayatın sürdüğü ve uzaktaki ölçüm alarmının gerçeği sessizce ele verdiği anlar var. Radyasyon ölçümü sahneleri krizin ölçeğini hissettirir.",
+      "realHistory": "26 Nisan 1986 patlamasından sonra Sovyet sisteminin gizlilik refleksi devreye girdi. Reaktör yangını saatlerce resmi olarak doğrulanmadı; Pripyat sakinleri 36 saate kadar tahliye edilmedi. Sverdlovsk'tan gelen askeri ölçümler merkezle çelişti. Gorbachev glasnost öncesi bürokrasi felaketi 'teknik arıza' diye çerçeveledi. Batı sensörleri (İsveç) radyasyonu tespit edince gizlilik çöktü. Liquidatörler korunmasız görevlendirildi; kayıtlar eksik. Chernobyl dizisi bu gecikmeyi dramatize eder; IAEA ve Ukrayna arşivleri aynı örüntüyü doğrular. Gizlilik, can kaybını artırdı. Çernobil sonrası Sovyet yönetiminin ilk tepkisi, teknik arıza kadar bilgi akışını da merkezi denetim altında tutmak oldu. Yerel yetkililer, Moskova'dan onay almadan risk düzeyi açıklamaktan kaçındı; bu gecikme tahliye kararlarının saatlerce ertelenmesine yol açtı. İsveç'teki radyasyon ölçümleri uluslararası baskı yaratınca resmi açıklama geldi, ancak dil uzun süre belirsiz tutuldu. Parti hiyerarşisi içinde kötü haberin cezalandırılması kültürü, sahadaki uzmanların erken uyarı kapasitesini zayıflattı. Kriz, Sovyet sisteminde gizlilik refleksinin kamu sağlığı ve kurumsal güven üzerindeki yıkıcı maliyetini açıkça ortaya koydu. Sovyet Gizliliği 26 Nisan 1986 patlamasından sonra Sovyet sisteminin gizlilik refleksi devreye girdi. Kaza sonrası resmi rapor dili, sorumluluğu bireysel hata düzeyinde tutup sistemik tasarım kusurlarını geri plana itti. Hastanelerde doz bilgisi eksikliği tedavi planlarını zorlaştırdı. Uluslararası baskı arttıkça açıklamalar genişledi, fakat ilk gecikmenin yarattığı güven kaybı Sovyet kurumlarının itibarını kalıcı biçimde zedeledi.",
+      "accuracyNote": "Tahliye gecikmesi ve Batı tespiti IAEA raporlarıyla uyumludur.",
+      "whyInteresting": "Aynı sistem hem felaketi hem haberini yönetmeye çalıştı.",
+      "misconception": "Felaket anında herkes bilgilendirildi; gecikme binlerce kişiyi riske attı.",
+      "nextTopics": [
+        "Reaktör Testi",
+        "RBMK Tasarımı",
+        "Tasfiye Ekipleri"
+      ],
+      "sources": [
+        {
+          "title": "Chernobyl disaster (IAEA)",
+          "url": "https://www.iaea.org/topics/chernobyl",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Chernobyl (Britannica)",
+          "url": "https://www.britannica.com/event/Chernobyl-disaster",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "WHO Chernobyl report",
+          "url": "https://www.who.int/health-topics/chernobyl",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "chernobyl-disaster",
+        "chernobyl-secrecy"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "major",
+      "mediaConnection": "Chernobyl dizisinin Pravda ve ölçüm sahneleri ile 1986 Sovyet bilgi gecikmesi.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "cernobil",
+        "nukleer",
+        "afet",
+        "sovyet-gizliligi",
+        "true-frame"
+      ],
+      "spoilerNote": "Chernobyl hikâyesinin sonunu veya büyük sürprizlerini anlatabilir.",
+      "mediaChanged": "Dizi gecikmeyi saat saat gösterir; gerçekte bürokrasi ve ideoloji birleşti.",
+      "whyItMatters": "Aynı sistem hem felaketi hem haberini yönetmeye çalıştı.",
+      "isFlagship": true,
+      "quickRealityCheck": "Batı radyasyonu neden Sovyetlerden önce tespit etti?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-157-firefighters",
+      "title": "İtfaiyeciler",
+      "subtitle": "İtfaiyeciler: bilmeden radyasyona",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "era": "Modern Tarih",
+      "region": "Ukrayna",
+      "themes": [
+        "Teknoloji",
+        "Devlet",
+        "Afet"
+      ],
+      "whatWeSee": "Chernobyl dizisinde gece vardiyası itfaiyecileri görünür radyasyona müdahale ederken felaketin ilk saatlerinin en çarpıcı sahnelerini oluşturur. Dizi insan ölçeğinde gösterir; IAEA, UN Chernobyl ve Sovyet sağlık kayıtları doz ile sonuçları belgeler.",
+      "realHistory": "26 Nisan 1986'da Chernobyl 4. reaktör patladığında Pripyat ve çevre itfaiye birimleri alarm aldı. Gece vardiyası ekipleri yangına müdahale etti; çoğu reaktörün yanmakta olduğunu ve radyasyonun tehlikesini tam bilmiyordu. İlk müdahaleciler — itfaiyeciler ve sonraki günlerde 'likidatörler' — yüksek doz radyasyona maruz kaldı; birçoğu haftalar veya aylar içinde öldü. Sovyet kayıtları ve sonraki soruşturmalar, komuta zincirindeki belirsizlik, gecikmiş tahliye ve bilgi gizleme ile birleşen trajediyi belgeler. Dizi bu gece vardiyasını insan ölçeğinde gösterir; arşivler ise doz kayıtları ve sağlık sonuçlarını. Chernobyl itfaiyecileri, teknolojik felakette 'sıradan kahramanlık'ın bedelini simgeler. Radyasyon görünmezdi; bu yüzden ilk saatlerde normal yangın protokolü uygulandı — ve bedel ağırdı. Pripyat İtfaiye Teşkilatı 26 Nisan 1986 gece yarısı alarm aldı; ekipler reaktör çatısındaki yangına su püskürttü. Radyasyon ölçüm cihazları dozu gösterdiğinde bazıları şok oldu; komuta zinciri belirsizdi. İtfaiyeci Vasily Ignatenko ve meslektaşları yüksek doza maruz kaldı; haftalar içinde öldüler. Sonraki günlerde binlerce 'likidatör' çağrıldı. Sovyet kayıtları ilk saatlerde bilginin yukarı taşınmasında gecikme olduğunu gösterir. Dizi bu gece vardiyasını dramatize eder; UN Chernobyl ve IAEA arşivleri sağlık sonuçlarını doğrular. Radyasyon görünmezdi; normal yangın protokolü uygulandı — bedel ağırdı. Chernobyl itfaiyecileri, teknolojik felakette sıradan kahramanlığın sınırını simgeler.",
+      "accuracyNote": "İlk müdahale ve yüksek maruziyet iyi belgelenmiştir; bazı diyaloglar dramatize edilmiştir.",
+      "whyInteresting": "Görünmez tehlike, görünür cesaretle karşılandı — protokol yetersiz kaldı.",
+      "misconception": "İtfaiyeciler riski tam biliyordu; kayıtlar belirsizlik ve gecikmiş bilgi gösterir.",
+      "nextTopics": [
+        "Reaktör Testi",
+        "RBMK Tasarımı",
+        "Tasfiye Ekipleri"
+      ],
+      "sources": [
+        {
+          "title": "Chernobyl disaster (IAEA)",
+          "url": "https://www.iaea.org/topics/chernobyl",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Chernobyl firefighters (BBC)",
+          "url": "https://www.bbc.com/news/world-europe-36129378",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Liquidators and first responders (UN Chernobyl)",
+          "url": "https://www.un.org/en/chernobyl",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "chernobyl-disaster",
+        "tf26-156-soviet-secrecy"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Chernobyl gece vardiyası sahneleri ile Pripyat itfaiye ve likidatör arşivleri.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "cernobil",
+        "nukleer",
+        "afet",
+        "i-tfaiyeciler",
+        "true-frame"
+      ],
+      "spoilerNote": "Chernobyl hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi gece dramını yoğunlaştırır; sağlık ve doz kayıtları tam tabloyu verir.",
+      "whyItMatters": "Görünmez tehlike, görünür cesaretle karşılandı — protokol yetersiz kaldı.",
+      "isFlagship": false,
+      "quickRealityCheck": "Dizideki gece vardiyası, gerçek itfaiye ve likidatör kayıtlarıyla ne kadar örtüşüyor?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-158-exclusion-zone",
+      "title": "Dışlama Bölgesi",
+      "subtitle": "Dışlama Bölgesi sadece dekor değil",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "era": "Modern Tarih",
+      "region": "Ukrayna",
+      "themes": [
+        "Teknoloji",
+        "Devlet",
+        "Afet"
+      ],
+      "whatWeSee": "Chernobyl dizisinde Pripyat boşaltılır; askerler, itfaiyeciler ve bilim insanları radyasyon bölgesine girer. Dışlama bölgesi (Zone) hayalet şehir ve ölçüm cihazlarıyla ekrana gelir; izleyici coğrafi sınırın insan hayatını nasıl kestiğini görür. Kamera boş apartman blokları, paslanmış dönme dolap ve ölçüm cihazıyla ilerleyen korumalı ekipleri gösterirken terk edilmiş kentin radyasyon sessizliği hissediliyor.",
+      "realHistory": "26 Nisan 1986 patlamasından sonra Sovyet yetkililer 30 km çapında Dışlama Bölgesi (Chernobyl Exclusion Zone) ilan etti. Pripyat'ın 50.000 sakini saatler içinde tahliye edildi; kişisel eşyalar bırakıldı. Bölge askeri ve sivil görevlilerle doldu: liquidatörler reaktörü kapattı, radyoaktif enkaz temizlendi. Sınırlar zamanla genişletildi; 2600 km²'yi kapsar. Bugün bölge kısmen vahşi yaşam sığınağına dönüşmüştür ama radyasyon hot spot'ları sürer. Dışlama, felaketin coğrafi hafızasını çizer: harita üzerinde çizilen çizgi, ev, okul ve mezarlığı terk edilmiş bıraktı. Turizm ve medya (dizi dahil) Zone'u sembolleştirdi; yerel hafıza ise kayıp ev ve sağlık korkusuyla yaşar. 1986 Çernobil kazasının ardından oluşturulan dışlama bölgesi, nükleer felaket yönetiminde uzun süreli mekânsal kontrolün en bilinen örneklerinden biri oldu. Pripyat ve çevresindeki yerleşimler acele tahliye edildi, ardından kontaminasyon haritalarıyla çok katmanlı güvenlik halkaları kuruldu. Askeri birlikler, mühendis ekipleri ve likidatörler betonlama, enkaz kaldırma ve ölçüm görevlerini yıllarca sürdürdü. Bölge, bir yandan ekolojik geri dönüşün laboratuvarına dönüşürken diğer yandan zorunlu göçün toplumsal hafızasını taşıdı. Bugün bile erişim, doz limitleri ve idari izinler üzerinden sıkı biçimde düzenlenmektedir. Dışlama Bölgesi 26 Nisan 1986 patlamasından sonra Sovyet yetkililer 30 km çapında Dışlama Bölgesi (Chernobyl Exclusion Zone) ilan etti.",
+      "accuracyNote": "Tahliye ve Zone sınırları IAEA ve Ukrayna arşivleriyle uyumludur.",
+      "whyInteresting": "Bir nükleer felaket, harita üzerinde yeni bir siyasi coğrafya yarattı.",
+      "misconception": "Bölge baştan tamamen boştu; yıllarca temizlik ve görev devam etti.",
+      "nextTopics": [
+        "Reaktör Testi",
+        "RBMK Tasarımı",
+        "Tasfiye Ekipleri"
+      ],
+      "sources": [
+        {
+          "title": "Chernobyl Exclusion Zone (IAEA)",
+          "url": "https://www.iaea.org/topics/chernobyl",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Chernobyl disaster (Britannica)",
+          "url": "https://www.britannica.com/event/Chernobyl-disaster",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Pripyat evacuation (WHO Chernobyl)",
+          "url": "https://www.who.int/health-topics/chernobyl",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-159-trial",
+        "tf26-160-energy-politics",
+        "tf26-156-soviet-secrecy"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Chernobyl dizisinin Pripyat tahliye sahneleri ile 1986 Exclusion Zone ilanı ve liquidatör operasyonları.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "cernobil",
+        "nukleer",
+        "afet",
+        "dislama-bolgesi",
+        "true-frame"
+      ],
+      "spoilerNote": "Chernobyl hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi Zone'u görsel olarak güçlendirir; gerçekte sınır kararları saatler ve günler içinde değişti.",
+      "whyItMatters": "Bir nükleer felaket, harita üzerinde yeni bir siyasi coğrafya yarattı.",
+      "isFlagship": false,
+      "quickRealityCheck": "Pripyat sakinleri tahliyede kişisel eşyalarını neden çoğu zaman alamadı?",
+      "lastReviewedAt": "2026-06-25"
+    }
+  ]
+}

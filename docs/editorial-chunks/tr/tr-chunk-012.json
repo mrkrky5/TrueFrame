@@ -1,0 +1,247 @@
+{
+  "locale": "tr",
+  "chunkIndex": 12,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tsushima-samurai-power",
+      "title": "Samuray Gücü: Düellonun Ötesi",
+      "subtitle": "Sadece kılıç değil, bir siyasi ve ekonomik güç odağı.",
+      "mediaType": "game",
+      "mediaTitle": "Ghost of Tsushima / Shōgun",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Samuray",
+        "Japonya",
+        "Siyaset"
+      ],
+      "whatWeSee": "Medyada samuraylar genellikle sadece onur ve düello odaklı savaşçılar olarak gösterilir.",
+      "realHistory": "Samuraylar aslında toprak yöneten, vergi toplayan ve yerel adaleti sağlayan bir yönetici sınıftı. Güçleri sadece kılıç ustalıklarından değil, Shogun'un kurduğu feodal sistemdeki yerlerinden geliyordu. Ghost of Tsushima / Shōgun oyunundaki bu anlatı, dönemin gerçek siyasi atmosferini ve toplumsal çatışmalarını anlamak için önemli bir perspektif sunar.\n\nSamuray statüsü toprak geliri ve şogunluk hiyerarşisine bağlıydı. Daimyo mahkemelerinde arazi ve vergi kayıtları tutulurdu. Bushido kimliği şekillendirse de günlük otorite yazılı kayıtlar üzerinden işlerdi.\n\nSamuray sınıfı toprak kayıtları, vergi tahsilatı ve yerel mahkeme kararları üzerinden günlük otorite kurardı. Daimyo'lar kendi bölgelerinde adalet dağıtır, köylülerin vergi yükünü belirler ve askeri hizmet karşılığında toprak tahsis ederdi. Edo döneminde rehin kültürü, aile üyelerinin şogunluk merkezine gönderilmesiyle sadakat teminatı oluştururdu. Kılıç sembolik güç taşısa da asıl otorite feodal hiyerarşideki konumdan geliyordu.\n\nSavaş mevsimleri dışında samuraylar idari görevlerle meşgul olur, tapınak ve şehir yönetiminde rol alırdı. Hostage kültürü Edo'ya gönderilen aile üyeleriyle şogunluk sadakatini pekiştirirdi.\n\nSavaş dışı dönemlerde samuraylar tapınak yönetimi ve toprak kayıtlarıyla idari görev üstlenirdi.\n\nSamurayların her zaman kılıçla savaştığı olduğu sanılır; oysa kayıtlara göre 16. yüzyıla kadar asıl silahları atlı okçuluktu.\n\n16. yüzyıla kadar atlı okçuluk samurayların birincil savaş becerisiydi; kılıç sonraki dönemlerde sembolik ağırlık kazandı.",
+      "accuracyNote": "Shōgun dizisi bu siyasi katmanları oldukça başarılı yansıtırken, aksiyon oyunları genellikle savaş becerisine odaklanır.",
+      "whyInteresting": "Samuraylar, Shogun’a bağlılıklarını kanıtlamak için aile üyelerini rehin (hostage culture) olarak Edo’ya göndermek zorundaydı.",
+      "misconception": "Samurayların her zaman kılıçla savaştığı sanılır; oysa 16. yüzyıla kadar asıl silahları atlı okçuluktu.",
+      "nextTopics": [
+        "Edo Dönemi",
+        "Sengoku Jidai",
+        "Bushido"
+      ],
+      "sources": [
+        {
+          "title": "Samurai (Britannica)",
+          "url": "https://www.britannica.com/topic/samurai",
+          "type": "official"
+        },
+        {
+          "title": "Feudalism in Japan (MET Museum)",
+          "url": "https://www.metmuseum.org/toah/hd/shog/hd_shog.htm",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [
+        "onna-musha-samurai-women"
+      ],
+      "reviewerNote": "Feodal yapı MET ve Britannica ile doğrulandı.",
+      "mediaConnection": "Ghost of Tsushima, samuray onurunun Moğol taktikleri karşısında nasıl bir kimlik krizine dönüştüğünü Jin Sakai karakteri üzerinden ustalıkla anlatır.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "ghost-of-tsushima",
+        "japonya",
+        "samuray",
+        "siyaset"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Shōgun dizisi bu siyasi katmanları oldukça başarılı yansıtırken, aksiyon oyunları genellikle savaş becerisine odaklanır.",
+      "whyItMatters": "Samuraylar, Shogun’a bağlılıklarını kanıtlamak için aile üyelerini rehin (hostage culture) olarak Edo’ya göndermek zorundaydı.",
+      "quickRealityCheck": "Samurayların her zaman kılıçla savaştığı denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "mongol-efficiency-yam",
+      "title": "Moğol İmparatorluğu ve Hızın Sırrı",
+      "subtitle": "Dünyanın ilk etkili posta sistemi: Yam.",
+      "mediaType": "game",
+      "mediaTitle": "Age of Empires II / Ghost of Tsushima",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Moğollar",
+        "Lojistik",
+        "İletişim"
+      ],
+      "whatWeSee": "Moğollar genellikle kontrolsüz, sadece yağmalayan barbar ordular olarak gösterilir.",
+      "realHistory": "Moğol Yam sistemi (Moğolların hızlı haberleşme ve posta ağı), her 30-40 kilometrede bir kurulan at değiştirme istasyonlarından oluşurdu. Bir Yam binicisi, günde 200-250 kilometre yol kat edebilirdi; bu o dönem için dijital bir devrim kadar sarsıcı bir hızdı. Mesajlar, Hanın mührünü taşıyan özel plakalarla (Paiza) korunurdu. Age of Empires II / Ghost of Tsushima oyunundaki bu anlatı, dönemin gerçek siyasi atmosferini ve toplumsal çatışmalarını anlamak için önemli bir perspektif sunar.\n\nPaiza mührü taşıyan elçiler durdurulamazdı. Yam ağı İpek Yolu ticaret güvenliğini artırdı.\n\nYam istasyonlarında yetkili biniciler Paiza mührü taşıyarak durmadan at değiştirirdi. Bu ağ ticaret kervanlarının güvenliğini de artırdı; Pax Mongolica döneminde İpek Yolu canlandı. Cengiz Han'ın ölüm haberinin haftalar içinde imparatorluğun uç noktalarına ulaşması sistemin askeri ve idari etkinliğini gösterir. Her 30-40 kilometrede bir at değiştirme noktası kurulurdu.\n\nYam binicileri günde 200-250 kilometre yol kat edebilirdi; bu o dönem için olağanüstü bir hızdı. Mesajlar hanın mührünü taşıyan plakalarla korunurdu.\n\nİstasyonlar arası at değişimi, haber ve ticaret trafiğini aynı altyapı üzerinden hızlandırdı.\n\nMoğolların sadece yakıp yıktığı olduğu sanılır; oysa kayıtlara göre Pax Mongolica dönemi, İpek Yolu’nun en güvenli ve ticaretin en yoğun olduğu dönemdir.",
+      "accuracyNote": "Bu sistem, Cengiz Han’ın imparatorluğunun farklı uçları arasındaki iletişimi o dönem için mucizevi bir hızda tutmuştur.",
+      "whyInteresting": "Yam sistemi o kadar etkiliydi ki, Cengiz Han öldüğünde haberi binlerce kilometre ötedeki generallere sadece birkaç hafta içinde ulaşmıştı.",
+      "misconception": "Moğolların sadece yakıp yıktığı sanılır; oysa Pax Mongolica dönemi, İpek Yolu’nun en güvenli ve ticaretin en yoğun olduğu dönemdir.",
+      "nextTopics": [
+        "Cengiz Han",
+        "İpek Yolu",
+        "Pax Mongolica"
+      ],
+      "sources": [
+        {
+          "title": "The Mongol Empire (UNESCO)",
+          "url": "https://en.unesco.org/silkroad/content/mongol-empire",
+          "type": "official"
+        },
+        {
+          "title": "Pax Mongolica (Britannica)",
+          "url": "https://www.britannica.com/topic/Pax-Mongolica",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Lojistik veriler UNESCO ile doğrulandı.",
+      "mediaConnection": "Moğol İmparatorluğu'nu konu alan Marco Polo gibi dizilerde, Yam sisteminin sağladığı muazzam iletişim hızı imparatorluğun sınırlarını nasıl bir arada tuttuğunu gösterir.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "age-of-empires-ii-",
+        "iletiim",
+        "lojistik",
+        "moollar"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Age of Empires II / Ghost of Tsushima bu konuyu sahne diliyle yoğunlaştırır; bu sistem, Cengiz Han’ın imparatorluğunun farklı uçları arasındaki iletişimi o dönem için mucizevi bir hızda tutmuştur.",
+      "whyItMatters": "Yam sistemi o kadar etkiliydi ki, Cengiz Han öldüğünde haberi binlerce kilometre ötedeki generallere sadece birkaç hafta içinde ulaşmıştı.",
+      "quickRealityCheck": "Moğolların sadece yakıp yıktığı denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "ottoman-gunpowder-1453",
+      "title": "Osmanlı Barutu ve İstanbul’un Fethi",
+      "subtitle": "Surları yıkan devasa topların arkasındaki teknoloji.",
+      "mediaType": "game",
+      "mediaTitle": "Age of Empires II / Assassin's Creed Revelations",
+      "difficulty": "medium",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Osmanlı",
+        "Teknoloji",
+        "Savaş"
+      ],
+      "whatWeSee": "Medyada İstanbul’un fethi genellikle sadece kahramanlık ve kılıç savaşları üzerinden anlatılır.",
+      "realHistory": "Osmanlı İmparatorluğu'nun 15. ve 16. yüzyıllardaki yükselişi, tarihte 'Barut İmparatorlukları' (Gunpowder Empires) olarak bilinen dönemin en parlak örneğidir. 1453 İstanbul kuşatması, sadece bir şehrin el değiştirmesi değil, askeri teknolojinin dünyayı nasıl kökten değiştirdiğinin kanıtıdır. II. Mehmed (Fatih), kuşatma için o güne kadar görülmemiş büyüklükte, 'Şahi' adı verilen devasa toplar döktürmüştür. Macar usta Urban tarafından dökülen bu topların her biri yaklaşık 600 kilo ağırlığında gülleler fırlatabiliyordu. Ancak barut teknolojisi sadece dev toplardan ibaret değildi; Osmanlı ordusu, Yeniçeriler aracılığıyla ateşli silahları (arkebüz ve tüfek) disiplinli bir piyade gücüyle birleştiren dünyadaki ilk düzenli ordulardan biriydi. Bu teknolojik üstünlük, Osmanlıların sadece Bizans surlarını yıkmasını değil, aynı zamanda Çaldıran ve Mohaç gibi meydan savaşlarında da kesin zaferler kazanmasını sağlamıştır. Osmanlı askeri dehası, barutu sadece yıkım için değil, lojistik ve stratejik bir üstünlük kurmak için en verimli şekilde kullanmayı başarmıştır.\n\nİstanbul'un fethinde kullanılan topların gürültüsünün kilometrelerce öteden duyulduğu ve halk arasında kıyamet kopuyor algısı yarattığı söylenir.\n\nİronik bir şekilde, surları yıkan bu teknoloji, aynı zamanda Avrupa'daki feodalizmin de sonunu getirmiştir; çünkü artık hiçbir yerel bey, yüksek surlarının arkasına saklanarak merkezi krallıklara meydan okuyamaz hale gelmiştir.",
+      "accuracyNote": "Age of Empires ve diğer strateji oyunları, Osmanlı toplarını genellikle anında yıkım yapan 'süper silahlar' gibi gösterir. Ancak tarihsel gerçeklikte, bu dev topların kullanımı son derece zordu. Bir Şahi topunun soğuması ve tekrar ateşlenmesi saatler sürüyordu ve bazen topun kendisi aşırı ısınmadan dolayı infilak ediyordu. Ayrıca oyunlarda Yeniçeriler her zaman tüfekli birimler olarak resmedilse de, barutlu silahların yaygınlaşması kademeli bir süreçti ve okçuluk geleneği 17. yüzyıla kadar önemini korumaya devam etti. Assassin’s Creed Revelations gibi oyunlarda tasvir edilen 'bomba yapımı' ise tarihsel bir gerçeğe dayanır; Osmanlı ordusu bünyesinde 'Humbaracı Ocağı' adında, el bombaları ve havan topları üzerine uzmanlaşmış özel bir sınıf bulunuyordu.",
+      "whyInteresting": "İstanbul'un fethinde kullanılan topların gürültüsünün kilometrelerce öteden duyulduğu ve halk arasında kıyamet kopuyor algısı yarattığı söylenir. İronik bir şekilde, surları yıkan bu teknoloji, aynı zamanda Avrupa'daki feodalizmin de sonunu getirmiştir; çünkü artık hiçbir yerel bey, yüksek surlarının arkasına saklanarak merkezi krallıklara meydan okuyamaz hale gelmiştir. Fatih Sultan Mehmed, bu topların tasarımıyla bizzat ilgilenmiş ve bizzat balistik hesaplamalar yapmıştır; bu da onun sadece bir komutan değil, bir mühendis zihniyetine sahip olduğunu gösterir. Bu dev topların bazıları bugün hala Londra Kulesi (Tower of London) gibi müzelerde sergilenmektedir ve boyutları görenleri hala şaşırtmaya devam etmektedir.",
+      "misconception": "İstanbul surlarının sadece bir kapının açık unutulmasıyla düştüğü sanılır; oysa surlar haftalarca süren ağır topçu ateşiyle ciddi hasar almıştı.",
+      "nextTopics": [
+        "II. Mehmed",
+        "Bizans Surları",
+        "Barut İmparatorlukları"
+      ],
+      "sources": [
+        {
+          "title": "Fall of Constantinople (Britannica)",
+          "url": "https://www.britannica.com/event/Fall-of-Constantinople-1453",
+          "type": "official"
+        },
+        {
+          "title": "Ottoman Empire and Gunpowder (National Geographic)",
+          "url": "https://www.nationalgeographic.com/history/history-magazine/article/ottoman-empire-gunpowder",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Teknolojik veriler Britannica ile doğrulandı.",
+      "mediaConnection": "Bu kart, oyundaki Age of Empires II / Assassin’s Creed Revelations atmosferi ve tarihsel kurgusundan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "age-of-empires-ii-",
+        "osmanl",
+        "savas",
+        "teknoloji",
+        "bilim"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Age of Empires II / Assassin's Creed Revelations sahne diliyle konuyu yoğunlaştırır; kayıtlar ise aynı konuyu daha parçalı bir çerçevede anlatır.",
+      "whyItMatters": "Dikkat çekici biçimde, surları yıkan bu teknoloji, aynı zamanda Avrupa'daki feodalizmin de sonunu getirmiştir; çünkü artık hiçbir yerel bey, yüksek surlarının arkasına saklanarak merkezi krallıklara meydan okuyamaz hale gelmiştir.",
+      "quickRealityCheck": "İstanbul surlarının sadece bir kapının açık unutulmasıyla düştüğü denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "flat-earth-myth-medieval",
+      "title": "Orta Çağ’da Dünya Düz mü Sanılıyordu?",
+      "subtitle": "Büyük bir tarihsel yanılgının anatomisi.",
+      "mediaType": "general",
+      "mediaTitle": "Popüler Kültür Yanılgıları",
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Bilim",
+        "Orta Çağ",
+        "Astronimi"
+      ],
+      "whatWeSee": "Birçok popüler anlatı Orta Çağ insanının dünyayı düz sandığını tekrarlar; bu iddia modern dönemde üretilmiş bir efsanedir.",
+      "realHistory": "Orta Çağ'da 'herkes dünyanın düz olduğuna inanıyordu' tezi, tarih yazımında en inatçı yanlışlardan biridir. Geç Antik Çağ'dan itibaren eğitimli çevrelerde Aristotelesçi kozmoloji ve Ptolemaios geleneği üzerinden dünyanın küresel olduğu bilgisi yaygındı. Manastır okulları, katedral okulları ve daha sonra üniversitelerde kullanılan birçok metin küresel dünya modelini içeriyordu. Thomas Aquinas gibi skolastik yazarlar, küresellik fikrini tartışmasız bir zemin kabul eder.\n\nBu mitin modern biçimi 19. yüzyılda güç kazandı. Bilim-din çatışmasını dramatize eden bazı popüler eserler, Kristof Kolomb'un 'düz dünya inancına karşı savaştığı' kurgusunu yaydı. Oysa Kolomb tartışmasının merkezinde dünyanın şekli değil, çevresinin hesaplanması ve Asya'ya batıdan ulaşma mesafesi vardı. Erken modern denizcilik hesapları da küresel dünya varsayımıyla yapılıyordu.\n\nElbette her dönemde her insan aynı kozmoloji bilgisini paylaşmıyordu; yerel folklor ve teolojik yorum farklılıkları vardı. Ancak kurumsal bilgi tarihine bakıldığında düz dünya inancının Orta Çağ'ın baskın öğretisi olduğu söylenemez. Bu yanlış anlatı, 'karanlık çağ' klişesini besleyerek dönemin entelektüel çeşitliliğini görünmez kılar.\n\nMitin kalıcı olmasının bir nedeni eğitim anlatılarının basitleştirme eğilimidir: modernliği ilerleme, Orta Çağ'ı karanlık dönem olarak sunan şema, düz dünya klişesini kullanışlı bir sembole dönüştürdü. Oysa bilim tarihi çalışmaları, dönemin çok katmanlı bilgi dünyasını gösteriyor. Astronomi, takvim hesapları ve denizcilik pratiği küresel modelle uyumluydu. Bu yüzden doğru soru 'Orta Çağ neyi bilmiyordu?' değil, 'hangi bilgiyi kim, hangi kurumda dolaşıma sokabiliyordu?' sorusudur. Bu perspektif, geçmişi küçümseyen çizgisel ilerleme anlatısını da daha eleştirel okumamızı sağlar.",
+      "accuracyNote": "Popüler kültürdeki düz dünya klişesi tarihsel literatürle uyumlu değildir; tartışma esasen ölçüm ve kozmografya hesapları üzerindeydi.",
+      "whyInteresting": "Eratosthenes, milattan önce 3. yüzyılda Dünya’nın çevresini sadece %1’lik bir hata payıyla ölçmüştü.",
+      "misconception": "Kolomb’un Dünya’nın yuvarlak olduğunu kanıtlamak için yola çıktığı sanılır; oysa herkes yuvarlak olduğunu biliyordu, o sadece mesafeyi yanlış hesaplamıştı.",
+      "nextTopics": [
+        "Kolomb",
+        "Eratosthenes",
+        "Orta Çağ Bilimi"
+      ],
+      "sources": [
+        {
+          "title": "Britannica - Flat Earth myth",
+          "url": "https://www.britannica.com/topic/flat-Earth",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "History of Science Society resources",
+          "url": "https://hssonline.org/resources/",
+          "type": "reference",
+          "verified": true
+        },
+        {
+          "title": "Stanford Encyclopedia - Medieval cosmology",
+          "url": "https://plato.stanford.edu/",
+          "type": "reference",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "medieval-lifespan-myth",
+        "pirate-maps-myth",
+        "nero-fiddling-myth"
+      ],
+      "reviewerNote": "Tarihsel yanılgı Britannica ile doğrulandı.",
+      "mediaConnection": "Modern yapımlar Orta Çağ insanını 'dünyayı düz sanan cahiller' olarak gösterse de, o dönemin bilginleri ve denizcileri dünyanın küresel olduğunu gayet iyi biliyordu.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "astronimi",
+        "bilim",
+        "orta-cag",
+        "popler-kltr-yanl"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Popüler Kültür Yanılgıları bu konuyu sahne diliyle yoğunlaştırır; popüler kültürdeki düz dünya klişesi tarihsel literatürle uyumlu değildir; tartışma esasen ölçüm ve kozmografya hesapları üzerindeydi.",
+      "whyItMatters": "Orta Çağ kilisesi ve bilginleri, Dünya'nın küresel olduğunu uzun süredir savunuyordu.",
+      "quickRealityCheck": "Sorun dünyanın şekli değil, büyüklüğü ve rota hesabıydı.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

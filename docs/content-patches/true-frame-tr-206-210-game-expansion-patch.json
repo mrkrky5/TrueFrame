@@ -1,0 +1,443 @@
+{
+  "patchId": "tr-game-expansion-206-210-source-aware-patch",
+  "locale": "tr",
+  "sourceChunks": [
+    "game-expansion-002"
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-new-content-generation",
+  "summary": {
+    "cardCount": 5,
+    "newCards": [
+      "tf26-206-acshadows-yasuke",
+      "tf26-207-acshadows-tanegashima",
+      "tf26-208-acshadows-nobunaga",
+      "tf26-209-acmirage-samarra-ghilman",
+      "tf26-210-twom-sarajevo-siege"
+    ],
+    "flagshipNewCards": [
+      "tf26-206-acshadows-yasuke",
+      "tf26-210-twom-sarajevo-siege"
+    ],
+    "standardNewCards": [
+      "tf26-207-acshadows-tanegashima",
+      "tf26-208-acshadows-nobunaga",
+      "tf26-209-acmirage-samarra-ghilman"
+    ],
+    "mediaFocus": [
+      "Assassin's Creed Shadows",
+      "Assassin's Creed Mirage",
+      "This War of Mine"
+    ],
+    "sourceUpdates": [
+      "tf26-206-acshadows-yasuke",
+      "tf26-207-acshadows-tanegashima",
+      "tf26-208-acshadows-nobunaga",
+      "tf26-209-acmirage-samarra-ghilman",
+      "tf26-210-twom-sarajevo-siege"
+    ],
+    "notes": [
+      "İkinci oyun genişleme batch'i AC Shadows, AC Mirage ve This War of Mine odağında üretildi.",
+      "Yasuke ve Saraybosna kartları 400+ kelime ve ### başlıklı flagship yapıda yazıldı.",
+      "Yasuke kartında modern temsil ile sınırlı tarihsel kayıtlar ayrıştırıldı; kesin olmayan statü iddiaları yumuşatıldı.",
+      "Samarra kartı, mevcut Bağdat/House of Wisdom içeriğini tekrar etmeden Abbasi askerî-siyasi krizine odaklandı."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-206-acshadows-yasuke",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "AC Shadows için Yasuke konusu kaynak sınırları vurgulanarak üretildi; modern temsil ile sınırlı çağdaş kayıtlar ayrıştırıldı.",
+      "fields": {
+        "title": "Yasuke",
+        "subtitle": "Nobunaga’nın hizmetindeki Afrikalı savaşçı",
+        "mediaType": "game",
+        "mediaTitle": "Assassin's Creed Shadows",
+        "era": "Erken Modern",
+        "region": "Japonya",
+        "themes": [
+          "Japonya",
+          "Kimlik",
+          "Sengoku",
+          "Biyografi"
+        ],
+        "whatWeSee": "Assassin's Creed Shadows, Yasuke'yi Sengoku Japonya'sının savaş alanına taşıyarak oyuncuya çok güçlü bir tarihsel imge verir: Oda Nobunaga'nın çevresinde yer alan Afrikalı bir savaşçı, katana, zırh ve saray siyaseti arasında görünür hale gelir. Oyun bu figürü doğal olarak aksiyon ve karakter dramına genişletir. Gerçek tarih ise daha dar, ama daha ilginçtir: Yasuke gerçekten kayıtlara girmiştir; fakat hayatının büyük bölümü birkaç çağdaş gözlem ve sonradan büyüyen yorumlar arasındadır.",
+        "realHistory": "### Kayıtların söylediği\n\nYasuke, 1580'lerin başında Japonya'da Oda Nobunaga'nın çevresinde görülen Afrikalı bir adamdı. Kaynakların ortak noktası, onun Japonya'ya Cizvit misyoner Alessandro Valignano'nun hizmetinde gelmesi ve Nobunaga'nın ilgisini çekmesidir. Smithsonian ve National Geographic'in özetlediği anlatılarda, Nobunaga'nın Yasuke'nin ten renginin boya olmadığını anlamak için onu yıkattırdığı, ardından onu kendi hizmetine aldığı aktarılır. Bu ayrıntı bugün rahatsız edici görünür; zaten önemli olan da budur. Yasuke'nin hikâyesi yalnız “egzotik bir savaşçı” masalı değil, 16. yüzyılda Japonya'nın Portekizli tüccarlar, Cizvitler, silah ticareti ve yabancı hizmetlilerle temas ettiği karmaşık Nanban dünyasının bir parçasıdır.\n\nBu dünya, popüler samuray anlatılarının çoğundan daha bağlantılıdır. Japonya henüz Edo dönemindeki uzun kapanma rejimine girmemişti; Avrupa gemileri, misyoner ağları, Çin ve Hint Okyanusu bağlantıları, gümüş ticareti ve ateşli silahlar Sengoku siyasetinin dış çeperinde değil, doğrudan içinde yer alıyordu. Yasuke'nin görünürlüğü de bu temasın insan ölçeğindeki izidir.\n\n### Statü tartışması\n\nYasuke'nin “samuray” olup olmadığı modern tartışmanın merkezindedir. Bazı anlatılar onu açıkça ilk Siyah samuray diye sunar; bazı tarihçiler ise kayıtların bunun modern anlamda kesin bir unvan olarak okunmasına yetmediğini vurgular. Daha güvenli ifade şudur: Yasuke, Nobunaga'nın yakın hizmetinde bulunan, ona eşlik eden ve savaşçı/retainer statüsüyle ilişkilendirilen tarihsel bir figürdü. Ona isim verilmesi, para ya da konut gibi ayrıcalıklar tanınması ve silah taşıma iması onu sıradan bir hizmetkârdan ayırır; ama bu sınırlı kayıtları, uzun bir savaş kariyerine sahip tam belgeli bir samuray biyografisi gibi büyütmek doğru olmaz.\n\nBuradaki sorun, “samuray” kelimesinin farklı dönemlerde farklı toplumsal anlamlar taşımasıdır. Edo döneminin daha kalıplaşmış sınıf düzenini geriye doğru uygulamak, 1580'lerin savaş ortamını fazla düzenli gösterir. Sengoku dünyasında hizmet, sadakat, silah taşıma, hane ilişkisi ve ödül pratikleri daha esnekti. Bu yüzden Yasuke'yi ne tamamen efsane ilan etmek ne de hakkında bilinmeyen her boşluğu kesin bilgiyle doldurmak sağlıklı olur.\n\n### Honnō-ji ve sessizlik\n\nYasuke'nin en dramatik tarihsel anı, 1582 Honnō-ji Olayı çevresindedir. Nobunaga, Akechi Mitsuhide'nin isyanı sırasında öldü; Yasuke'nin daha sonra Nobunaga'nın oğlu Nobutada'nın tarafında bulunduğu ve yakalandıktan sonra Cizvitlere teslim edildiği aktarılır. Bundan sonrası karanlıktır. Tarihçiler onun nerede öldüğünü, Japonya'da kalıp kalmadığını ya da başka bir göreve dönüp dönmediğini bilmiyor. Bu sessizlik, medya için büyük bir boşluk yaratır.\n\nBu boşluk aynı zamanda tarihsel dürüstlük testidir. Bir karakterin hikâyesi ne kadar çekiciyse, belgesiz kısımlar o kadar kolay kesin bilgi gibi anlatılır. Yasuke'de de modern romanlar, diziler, oyunlar ve internet tartışmaları çoğu zaman birkaç sağlam kaydın üzerine çok geniş psikoloji, motivasyon ve savaş kariyeri inşa eder.\n\n### Modern temsilin yaptığı şey\n\nAssassin's Creed Shadows bu boşluğu doğal olarak doldurur. Oyun, Yasuke'yi dramatik bir ana karaktere dönüştürür; bunu yaparken tarihsel çekirdeği genişletir, duygusal ve aksiyon odaklı bir hikâye kurar. True Frame açısından önemli ayrım burada başlar: Yasuke'nin varlığı uydurma değildir, fakat onun hakkında bildiklerimiz modern anlatıların sunduğu kadar geniş değildir. En dürüst okuma, onu hem gerçek bir tarihsel temas noktası hem de günümüz temsil tartışmalarının büyüttüğü bir figür olarak görmektir. Yasuke'nin önemi, yalnız “samuray mıydı?” sorusunda değil; Japonya'nın kapalı ve tek renkli sanılan geçmişinin aslında ticaret, misyonerlik, savaş ve kültürel temaslarla ne kadar bağlantılı olduğunu göstermesindedir.",
+        "accuracyNote": "Yasuke'nin Nobunaga çevresinde yer aldığı tarihsel olarak desteklenir; ancak yaşamının ayrıntıları sınırlı kayıtlara dayanır. Oyun bu boşluğu dramatik biçimde genişletir.",
+        "whyInteresting": "Yasuke, modern temsil tartışmalarının ortasında kalsa da asıl gücü, 16. yüzyıl Japonya'sının sanılandan daha bağlantılı bir dünya olduğunu göstermesidir.",
+        "misconception": "Yasuke'nin tüm hayatının ayrıntılı biçimde belgelendiği sanılır. Gerçekte birkaç önemli kayıt vardır; geri kalan büyük alan yorum ve dramatizasyondur.",
+        "nextTopics": [
+          "Tanegashima",
+          "Oda Nobunaga",
+          "Samuray İmgesi"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-207-acshadows-tanegashima",
+          "tf26-208-acshadows-nobunaga"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "none",
+        "mediaConnection": "Assassin's Creed Shadows, gerçek kayıtlarda kısa ve parçalı görünen Yasuke'yi oynanabilir ana karaktere dönüştürür; tarihsel okuma bu temsilin dayandığı sınırlı zemini ayırır.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "assassins-creed",
+          "japonya",
+          "sengoku",
+          "yasuke",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun Yasuke'nin boşluklarla dolu biyografisini aksiyon ve karakter dramıyla genişletir; tarihsel kaynaklar ise varlığı güçlü, ayrıntıları sınırlı bir figür gösterir.",
+        "whyItMatters": "Yasuke tartışması, popüler medyanın gerçek ama eksik belgelenmiş kişileri nasıl büyüttüğünü ve temsil ile tarihsel kanıt arasındaki çizginin neden önemli olduğunu gösterir.",
+        "isFlagship": true,
+        "quickRealityCheck": "Yasuke'nin varlığı gerçek mi, yoksa tartışma daha çok onun statüsü ve modern anlatıların eklediği ayrıntılar hakkında mı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Smithsonian Magazine - Who Was Yasuke, Japan's First Black Samurai?",
+            "url": "https://www.smithsonianmag.com/history/who-was-yasuke-japans-first-black-samurai-180981416/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "National Geographic - The real history of Yasuke, Japan’s first Black samurai",
+            "url": "https://www.nationalgeographic.com/history/article/the-real-history-of-yasuke-japans-first-black-samurai",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "British Museum - Samurai large print guide",
+            "url": "https://www.britishmuseum.org/exhibitions/samurai/samurai-large-print-guide",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-207-acshadows-tanegashima",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Tanegashima ateşli silahları, katananın romantik ağırlığını dengeleyen teknoloji ve savaş lojistiği açısıyla yazıldı.",
+      "fields": {
+        "title": "Tanegashima",
+        "subtitle": "Japonya'ya ateşli silahın gelişi",
+        "mediaType": "game",
+        "mediaTitle": "Assassin's Creed Shadows",
+        "era": "Erken Modern",
+        "region": "Japonya",
+        "themes": [
+          "Japonya",
+          "Teknoloji",
+          "Savaş",
+          "Ticaret"
+        ],
+        "whatWeSee": "Assassin's Creed Shadows gibi Sengoku dönemi anlatıları, samuray kılıcı, kale kuşatması ve gölge suikastını öne çıkarır. Fakat bu dönemin gerçek savaş alanını anlamak için sadece katanaya bakmak yetmez. 16. yüzyıl Japonya'sında ateşli silahlar, özellikle matchlock tüfekler, savaşın ritmini ve orduların örgütlenmesini değiştiren büyük bir teknolojik kırılmaydı.",
+        "realHistory": "1543 civarında Portekizli tüccarların Tanegashima adasına getirdiği matchlock tüfekler, Japonya'da hızla kopyalandı ve yerel üretime uyarlandı. Bu silahlar Japoncada çoğu zaman adanın adıyla, Tanegashima diye anıldı. Önemli nokta şudur: Japon savaşçı sınıfı ateşli silahları “onursuz” diye reddetmedi; aksine kısa sürede teknik olarak benimsedi.\n\nSengoku döneminde savaş yalnız bireysel kılıç ustalığıyla değil, piyade düzeni, kale teknolojisi, ikmal ve ateş gücüyle kazanılıyordu. 1575 Nagashino Muharebesi, Oda Nobunaga ve Tokugawa Ieyasu'nun Takeda süvarilerine karşı ateşli silahları etkili savunma düzeniyle kullandığı klasik örnek olarak hatırlanır. Bu anlatı bazen fazla basitleştirilir; silahlar tek başına Japonya'yı birleştirmedi. Fakat kale savunması, piyade eğitimi ve toplu ateş taktikleriyle birleştiğinde savaş alanındaki güç dengesini ciddi biçimde değiştirdi.\n\nOyunların samuray estetiği doğal olarak kılıcı daha görünür kılar. Tarihsel çerçeve ise daha mekaniktir: tüfek üretimi, barut tedariki, eğitimli ashigaru birlikleri ve komuta disiplini. Sengoku Japonya'sını anlamak için “eski kılıç kültürü modern ateşe yenildi” demek de eksik kalır; daha doğrusu, Japon savaş elitleri yeni teknolojiyi kendi siyasal mücadelelerine hızla ekledi.",
+        "accuracyNote": "Tanegashima ateşli silahlarının 1543 sonrası Japonya'da yayılması güçlü biçimde kabul edilir. Nagashino'nun rolü önemlidir, ancak silahların tek başına belirleyici olduğu aşırı basit yorumlardan kaçınmak gerekir.",
+        "whyInteresting": "Samuray imgesinin en romantik olduğu yerde, gerçek savaş alanını çoğu zaman barut, üretim ve piyade eğitimi belirliyordu.",
+        "misconception": "Samurayların ateşli silahları onur nedeniyle reddettiği sanılır; Sengoku döneminde birçok güç onları hızla benimsedi.",
+        "nextTopics": [
+          "Yasuke",
+          "Oda Nobunaga",
+          "Samuray İmgesi"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-206-acshadows-yasuke",
+          "tf26-208-acshadows-nobunaga"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "Assassin's Creed Shadows'un samuray ve savaş atmosferi, Sengoku dönemindeki ateşli silah dönüşümüyle birlikte okununca daha az romantik ama daha tarihsel bir zemin kazanır.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "assassins-creed",
+          "japonya",
+          "sengoku",
+          "tanegashima",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun kılıç ve gizlilik estetiğini öne çıkarır; tarihsel savaş alanında matchlock tüfek, kale savunması ve toplu piyade taktikleri de belirleyiciydi.",
+        "whyItMatters": "Teknoloji transferinin ne kadar hızlı askerî düzene çevrilebildiğini gösterir; Sengoku dünyası gelenekle modernleşmenin değil, ikisinin aynı anda çalıştığı bir alandır.",
+        "isFlagship": false,
+        "quickRealityCheck": "Sengoku savaşlarını yalnız kılıç kültürüyle mi okumalıyız, yoksa barut ve üretim kapasitesi de hikâyenin merkezinde mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Japan National Tourism Organization - Tanegashima Island",
+            "url": "https://www.japan.travel/en/spot/595/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Battle of Nagashino",
+            "url": "https://www.britannica.com/event/Battle-of-Nagashino",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "World History Encyclopedia - Oda Nobunaga",
+            "url": "https://www.worldhistory.org/Oda_Nobunaga/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-208-acshadows-nobunaga",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Nobunaga, tek boyutlu zalim/deha portresi yerine kurum, savaş, dinî güç merkezleri ve unifikasyon süreci içinde çerçevelendi.",
+      "fields": {
+        "title": "Oda Nobunaga",
+        "subtitle": "Birleştirici mi, yıkıcı mı?",
+        "mediaType": "game",
+        "mediaTitle": "Assassin's Creed Shadows",
+        "era": "Erken Modern",
+        "region": "Japonya",
+        "themes": [
+          "Japonya",
+          "Siyaset",
+          "Din",
+          "Sengoku"
+        ],
+        "whatWeSee": "Assassin's Creed Shadows, Oda Nobunaga'yı Sengoku Japonya'sının sert güç merkezlerinden biri olarak sahneye taşır. Popüler kültürde Nobunaga çoğu zaman iki uçta anlatılır: ya ülkeyi birleştiren vizyoner komutan ya da acımasız tapınak yakan tiran. Gerçek tarih, bu iki imgenin arasında daha karmaşık bir devlet kurma süreci gösterir.",
+        "realHistory": "Oda Nobunaga, Japonya'yı fiilen birleştirme sürecini başlatan üç büyük figürden ilki olarak hatırlanır; ancak ülkeyi tek başına tamamıyla birleştirmedi. Onun açtığı yol, Toyotomi Hideyoshi ve Tokugawa Ieyasu tarafından devam ettirildi. Nobunaga'nın önemi yalnız kazandığı savaşlarda değil, savaş, ticaret ve dinî güç merkezleri arasındaki dengeyi değiştirmesindedir.\n\nSengoku döneminde birçok Budist kurum yalnız ibadet merkezi değildi; silahlı birliklere, toprak gelirlerine ve siyasî ittifaklara sahipti. Nobunaga'nın Enryakuji ve Ikkō-ikki gibi güçlerle çatışması bu yüzden sadece “din düşmanlığı” diye okunamaz. Daha doğru çerçeve, bağımsız askerî-dinî odakların merkezî iktidar kurma projesiyle çatışmasıdır. Bu çatışma çok sert, çoğu zaman vahşice yürütüldü; fakat hedef inancın kendisinden çok siyasî-askerî özerklikti.\n\nNobunaga aynı zamanda ateşli silahları, kale mimarisini, piyade düzenini ve ticari serbestliği daha etkin kullanan bir iktidar tarzıyla ilişkilendirilir. Bu da onu “modernleşmenin tek kahramanı” yapmaz; ama Sengoku kaosundan daha merkezi bir düzen çıkmasında kritik bir kırılma noktası haline getirir. Oyunlar onu dramatik bir karaktere dönüştürür; tarih ise onu kurumları zorla yeniden hizaya sokan, hem yenilikçi hem yıkıcı bir savaş lideri olarak görür.",
+        "accuracyNote": "Nobunaga'nın Japon birliğine giden süreçteki rolü önemlidir; ancak ülkeyi tek başına tamamladığı ya da Budizme genel bir inanç düşmanlığıyla hareket ettiği gibi basit okumalar yanıltıcıdır.",
+        "whyInteresting": "Nobunaga'nın hikâyesi, devlet kurmanın bazen reform, ticaret ve teknoloji kadar sert bastırma ve korku siyasetiyle de ilerlediğini gösterir.",
+        "misconception": "Nobunaga'nın ya sadece büyük bir modernleştirici ya da yalnızca din düşmanı bir zalim olduğu sanılır; gerçek daha karmaşık bir iktidar dönüşümüdür.",
+        "nextTopics": [
+          "Yasuke",
+          "Tanegashima",
+          "Samuray İmgesi"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-206-acshadows-yasuke",
+          "tf26-207-acshadows-tanegashima"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "minor",
+        "mediaConnection": "Assassin's Creed Shadows, Nobunaga'yı aksiyon ve entrika odağında gösterirken tarihsel arka plan onun savaş teknolojisi, dinî kurumlar ve merkezîleşme ilişkisini açar.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "assassins-creed",
+          "japonya",
+          "sengoku",
+          "oda-nobunaga",
+          "true-frame"
+        ],
+        "spoilerNote": "Assassin's Creed Shadows tarihsel karakter kullanımı ve Sengoku dönemi güç dengelerine dair ipuçları içerebilir.",
+        "mediaChanged": "Oyun karakter gerilimini öne çıkarır; tarihsel Nobunaga ise yalnız kişisel irade değil, ticaret, silah, kale ve dinî güç merkezleriyle kurulan sert bir merkezîleşme hikâyesidir.",
+        "whyItMatters": "Nobunaga'yı anlamak, Japonya'nın savaşan beylikler çağından daha merkezi bir düzene nasıl geçtiğini ve bu geçişin ne kadar şiddetli olduğunu gösterir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Nobunaga'nın Budist kurumlarla savaşı inanca karşı mıydı, yoksa siyasî-askerî güç merkezlerine karşı mı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Britannica - Oda Nobunaga",
+            "url": "https://www.britannica.com/biography/Oda-Nobunaga",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "World History Encyclopedia - Oda Nobunaga",
+            "url": "https://www.worldhistory.org/Oda_Nobunaga/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "UBC Open Collections - Oda Nobunaga and the Buddhist institutions",
+            "url": "https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/831/items/1.0094163",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-209-acmirage-samarra-ghilman",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "AC Mirage'in Altın Çağ Bağdat imgesini, Samarra krizi ve askerî bürokrasinin halifelik otoritesini zorlamasıyla dengeleyen yeni kart.",
+      "fields": {
+        "title": "Samarra Krizi",
+        "subtitle": "Halifeliğin parlak yüzünün arkasındaki askerî güç",
+        "mediaType": "game",
+        "mediaTitle": "Assassin's Creed Mirage",
+        "era": "Orta Çağ",
+        "region": "Irak",
+        "themes": [
+          "Abbasi",
+          "Siyaset",
+          "Askeri Tarih",
+          "İslam Tarihi"
+        ],
+        "whatWeSee": "Assassin's Creed Mirage, Abbasi dünyasını çoğunlukla Bağdat'ın bilim, ticaret ve şehir hayatı üzerinden hissettirir. Bu tercih doğru bir atmosfer yaratır; fakat 9. yüzyıl Abbasi siyasetinin yalnız entelektüel parlaklıktan ibaret olmadığını da hatırlamak gerekir. Bağdat ve Samarra çevresinde halifelik otoritesi, askerî elitler ve saray dengeleri arasında kırılgan bir yapı vardı.",
+        "realHistory": "Samarra, 836'da Abbasi halifesi el-Mu'tasım döneminde yeni bir başkent olarak kuruldu. UNESCO'nun tanımına göre kent, 836–892 arasındaki Abbasi mimarisi ve şehir planlaması için olağanüstü bir örnektir. Ancak Samarra yalnız görkemli saraylar ve büyük camiler demek değildi; aynı zamanda yeni askerî düzenin mekânıydı. Halife, özellikle Türk ve diğer askerî grupları Bağdat halkıyla çatışmadan uzak tutmak için saray ve garnizon düzenini ayrı bir şehirde topladı.\n\nBu çözüm kısa vadede sarayı korudu, uzun vadede ise askerî elitlerin siyasetteki ağırlığını büyüttü. 861–870 arasında yaşanan ve genellikle “Samarra Anarşisi” diye anılan dönem, halifelerin hızla değiştiği, saray darbelerinin ve askerî hiziplerin kararları belirlediği bir krizdi. Halife teoride İslam dünyasının en yüksek siyasal figürüydü; pratikte ise maaş, garnizon sadakati ve komutan rekabeti iktidarın sınırlarını belirliyordu.\n\nMirage'in Bağdat'ı, Abbasi dünyasının şehirli ve kültürel gücünü iyi taşır. Samarra krizi ise aynı dünyanın başka yüzünü gösterir: bilim ve ticaretin arkasında, profesyonel askerî sınıfın ve saray bürokrasisinin kırılgan dengeleri vardı. Bu yüzden “Altın Çağ” ifadesi doğru olabilir, ama eksiktir; altının üzerinde çatlaklar da vardı.",
+        "accuracyNote": "Samarra'nın Abbasi başkenti olarak rolü güçlü kaynaklarla desteklenir. Samarra Anarşisi daha uzman bir tarih başlığıdır; kart bu süreci genel okur için askerî-siyasi kriz olarak sadeleştirir.",
+        "whyInteresting": "Aynı Abbasi dünyası hem House of Wisdom gibi entelektüel kurumlarla hem de halifeleri belirleyen askerî hiziplerle hatırlanmalıdır.",
+        "misconception": "Abbasi Altın Çağı'nın yalnız bilim ve kültürden oluştuğu sanılır; saray, ordu ve vergi düzeni aynı hikâyenin sert tarafıdır.",
+        "nextTopics": [
+          "Bağdat",
+          "House of Wisdom",
+          "İslam Altın Çağı"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-083-ac-mirage-baghdad",
+          "tf26-084-house-wisdom-baghdad"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "Assassin's Creed Mirage, Bağdat'ın canlı şehir dokusunu öne çıkarır; Samarra krizi bu dünyanın askerî ve saray siyasetiyle ne kadar kırılgan olduğunu hatırlatır.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "assassins-creed",
+          "abbasi",
+          "samarra",
+          "islam-tarihi",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun Abbasi dünyasını şehir, ticaret ve bilgi atmosferiyle kurar; tarihsel arka planda halifeliği zorlayan askerî elitler ve Samarra merkezli krizler vardı.",
+        "whyItMatters": "Parlak medeniyet anlatılarını yalnız kültürel başarıyla değil, onları taşıyan ve bazen bozan kurumlarla birlikte okumayı sağlar.",
+        "isFlagship": false,
+        "quickRealityCheck": "Abbasi Altın Çağı'nı anlamak için yalnız Bağdat'ın bilim çevresine bakmak yeterli mi, yoksa Samarra'daki askerî siyaset de aynı resmin parçası mı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "UNESCO World Heritage Centre - Samarra Archaeological City",
+            "url": "https://whc.unesco.org/en/list/276/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Encyclopaedia Iranica - Abbasid Caliphate",
+            "url": "https://www.iranicaonline.org/articles/abbasid-caliphate/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "French Ministry of Culture - Samarra: Abbasid capital",
+            "url": "https://archeologie.culture.gouv.fr/en/samarra-abbasid-capital",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-210-twom-sarajevo-siege",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "This War of Mine için Saraybosna kuşatması, doğrudan asker kahramanlığı yerine sivil hayatta kalma ve savaş suçu kayıtları üzerinden flagship olarak üretildi.",
+      "fields": {
+        "title": "Saraybosna Kuşatması",
+        "subtitle": "This War of Mine ve sivil savaş deneyimi",
+        "mediaType": "game",
+        "mediaTitle": "This War of Mine",
+        "era": "Modern Tarih",
+        "region": "Bosna-Hersek",
+        "themes": [
+          "Savaş",
+          "Toplum",
+          "Afet",
+          "İnsani Yardım"
+        ],
+        "whatWeSee": "This War of Mine, savaş oyunlarında alıştığımız bakışı tersine çevirir. Oyuncu seçkin bir asker, komutan ya da kahraman keskin nişancı değildir; kuşatma altındaki bir şehirde yiyecek, ilaç, yakacak ve güvenlik arayan sivilleri yönetir. Gece dışarı çıkmak ganimet değil hayatta kalma riskidir. Gündüz beklemek dinlenme değil, soğuk, açlık ve korku arasında tükenmektir. Bu yapı, Saraybosna kuşatması gibi modern şehir savaşlarında sivillerin yaşadığı gerçek deneyime doğrudan bağlanır.",
+        "realHistory": "### Savaşın merkezindeki siviller\n\nSaraybosna, 1992'den 1995 sonuna kadar Bosna Savaşı'nın en ağır şehir kuşatmalarından birini yaşadı; kuşatmanın fiilen 1996'ya uzanan kapanış süreciyle birlikte şehir, modern Avrupa hafızasında sivil savaş deneyiminin simgelerinden biri haline geldi. Birleşmiş Milletler'in IRMCT sayfası, kuşatma sırasında işlenen suçlara dair ICTY ve Mekanizma davalarını özetler; Stanislav Galić, Dragomir Milošević, Radovan Karadžić ve Ratko Mladić gibi isimlerin davaları, sivillere yönelik keskin nişancı ve topçu saldırılarının hukuki hafızada nasıl yer tuttuğunu gösterir. Bu nedenle Saraybosna yalnız bir cephe değil, şehir halkının hedef haline geldiği bir gündelik hayat kriziydi.\n\nKuşatmanın ayırt edici tarafı, şehrin coğrafyasının sivillere karşı bir silaha dönüşmesiydi. Tepelerden izlenen caddeler, sıradan geçişleri ölüm riskine çevirdi; pazar yerleri, su kuyrukları ve tramvay hatları askeri olmayan insanların sürekli tehlike altında yaşadığı alanlar haline geldi. Savaşın görünür çizgisi cephe hattıydı; görünmeyen çizgisi ise her gün evden çıkıp çıkmama kararıydı.\n\n### Gündelik hayatta kalma\n\nThis War of Mine'ın gücü burada ortaya çıkar. Resmî 11 bit studios sayfası oyunu, “elit asker” yerine kuşatma altındaki şehirde yiyecek, ilaç, keskin nişancı tehlikesi ve düşman yağmacılar arasında hayatta kalmaya çalışan siviller üzerinden tanımlar. Bu, Saraybosna'nın doğrudan bire bir simülasyonu değildir; şehir adı çoğu zaman kurgusal tutulur. Fakat oyunun kurduğu temel gerçeklik, Saraybosna tanıklıklarıyla örtüşür: savaşta en zor kararlar bazen cephede değil, evde verilir. Su bulmak, yakacak toplamak, yaşlıyı mı çocuğu mu önce besleyeceğine karar vermek, gece dışarı çıkmanın riskini tartmak ve ahlaki sınırların açlık altında nasıl değiştiğini görmek.\n\nBu yüzden oyundaki yağma, takas ve saklanma mekanikleri basit “survival” sistemi gibi okunmamalı. Kuşatma koşullarında pazar ekonomisi bozulur, eşyaların değeri değişir, ilaç yiyecekten daha değerli hale gelebilir, güven ilişkileri parçalanabilir. Bir komşudan yardım istemek bile risk hesabına dönüşür. Oyun bu psikolojiyi soyutlaştırır; tarihsel Saraybosna ise bunun gerçek şehir ölçeğinde yaşandığını gösterir.\n\n### Hukuki hafıza\n\nSaraybosna kuşatması, modern insancıl hukuk açısından da önemlidir. IRMCT arşivi kuşatma suçlarını, Markale pazar yeri saldırılarını ve sivillerin keskin nişancı/topçu tehdidi altında yaşamasını ayrı hatırlama başlıklarıyla sunar. Bu kayıtlar, şehir savaşını yalnız strateji haritası değil, korunması gereken sivillerin sürekli ihlal edilen güvenliği olarak görür. This War of Mine da benzer bir etik kaydırma yapar: “düşmanı yenmek” yerine “sivil olarak zarar görmeden kalabilmek” temel meseledir.\n\nBu bakış, savaş oyunlarının alışılmış ödül sistemini tersine çevirir. Daha fazla düşman öldürmek başarı değildir; bazen kimseyi öldürmeden bir geceyi atlatmak başarıdır. Bu küçük tasarım farkı, savaş hafızasında büyük bir yön değiştirir.\n\n### Oyunun yaptığı çeviri\n\nOyun elbette Saraybosna'nın tüm tarihini anlatmaz. Etnik temizlik, uluslararası diplomasi, Dayton süreci ve mahkeme kayıtları oyunun arka planında kalır. Fakat oyun, savaş hafızasında genellikle kaybolan bir ölçüyü görünür kılar: apartman boşlukları, soğuk odalar, stok defterleri, ilaç yokluğu ve ahlaki yorgunluk. True Frame açısından bu bağlantı çok güçlüdür. This War of Mine, savaş oyunlarının kahramanlık dilini kırar; Saraybosna ise bu kırılmanın neden gerekli olduğunu tarihsel olarak gösterir. Savaşın gerçek yüzü bazen ilerleyen birlikler değil, bir sonraki geceye kadar dayanıp dayanamayacağını bilmeyen sivillerdir.",
+        "accuracyNote": "This War of Mine doğrudan belgesel değildir; ancak kuşatma altındaki sivil deneyimini, Saraybosna ve benzeri modern şehir savaşlarının belgelenmiş koşullarıyla uyumlu biçimde kurgular.",
+        "whyInteresting": "Savaş oyunlarının çoğu cepheyi büyütürken, This War of Mine savaşın ev içindeki ahlaki ve fiziksel maliyetini merkeze alır.",
+        "misconception": "Savaşın asıl deneyiminin askerler arasında yaşandığı sanılır; modern kuşatmalarda sivil hayat çoğu zaman savaşın merkezidir.",
+        "nextTopics": [
+          "İnsani Hukuk",
+          "Sivil Savaş Deneyimi",
+          "Kuşatma Şehirleri"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-211-twom-humanitarian-ethics"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "none",
+        "mediaConnection": "This War of Mine'ın kuşatma altındaki sivilleri merkeze alan yapısı, Saraybosna kuşatmasının hukuki ve insani kayıtlarıyla güçlü biçimde ilişkilidir.",
+        "accuracyType": "inspired-by-reality",
+        "isPremium": false,
+        "tags": [
+          "this-war-of-mine",
+          "saraybosna",
+          "kusatma",
+          "sivil-savas-deneyimi",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun askerî zaferi değil sivil hayatta kalmayı oynanabilir hale getirir; tarihsel Saraybosna kayıtları bu bakışın neden yalnız dramatik değil, gerçekçi de olduğunu gösterir.",
+        "whyItMatters": "Saraybosna ve This War of Mine birlikte okunduğunda savaş, strateji haritasından çıkıp gıda, ilaç, su ve etik kararlar meselesine dönüşür.",
+        "isFlagship": true,
+        "quickRealityCheck": "Bir savaş oyununda en gerçekçi şey silah mekanikleri mi, yoksa kuşatma altındaki sivillerin hayatta kalma kararları mı olabilir?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "11 bit studios - This War of Mine",
+            "url": "https://11bitstudios.com/games/this-war-of-mine/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "IRMCT / United Nations - The Siege of Sarajevo",
+            "url": "https://www.irmct.org/en/mip/features/sarajevo",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "UNHCR - Looking back at the siege of Sarajevo",
+            "url": "https://www.unhcr.org/news/briefing-notes/looking-back-siege-sarajevo-20-years-after",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "ICTY - Prosecutor v. Stanislav Galić Judgement",
+            "url": "https://www.icty.org/x/cases/galic/tjug/en/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

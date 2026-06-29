@@ -1,0 +1,270 @@
+{
+  "locale": "tr",
+  "chunkIndex": 78,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-179-corruption",
+      "title": "Yolsuzluk",
+      "subtitle": "Bir sahnenin sakladığı sistem",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Suç",
+        "Ekonomi",
+        "Siyaset"
+      ],
+      "whatWeSee": "Boardwalk Empire'da yolsuzluk, arka oda pazarlıkları, seçim anlaşmaları ve polisle kirli bağlar üzerinden kişisel bir güç oyunu gibi görünür. Dizi bunu bilinçli yapar; birkaç karakterin kararıyla şehrin yönü değişir. Gerçekteyse Prohibition döneminde sistem, ruhsat, ihale, parti makinesi ve federal-yerel yetki çatışmasının birleşimiyle işliyordu.",
+      "realHistory": "1920-1933 arasındaki Prohibition dönemi, yolsuzluğu büyüten bir ekonomik teşvik sistemi yarattı. Volstead Yasası alkolü yasakladı, fakat talep sürdü; bu da kaçak üretim, taşıma ve koruma ağlarını çok karlı hale getirdi. Atlantic City'de Enoch Nucky Johnson gibi siyasi patronlar, belediye ihaleleri, polis atamaları, turizm gelirleri ve parti örgütü üzerinden geniş bir denetim kurdu. Benzer ağlar Chicago ve New York gibi şehirlerde farklı ölçekte görüldü.\n\nYolsuzluk yalnızca para alışverişi değildi. Mahkeme süreçlerine etki, liman kontrolü, oy mobilizasyonu ve kamu görevlerinin patronajla dağıtılması aynı zincirin parçalarıydı. Federal ajanlar baskıyı artırdıkça yerel aktörlerle yetki krizi büyüdü; soruşturmalar bazen siyasal pazarlık aracına dönüştü. 1933'te yasağın kaldırılmasıyla kaçak içki ekonomisi biçim değiştirdi, ama suç-siyaset ilişkisi yeni sektörlere kayarak varlığını sürdürdü.\n\nDolayısıyla bu dönem, kötü kişilerin dönemi olmanın ötesinde, zayıf uygulanabilir bir yasanın kurumları nasıl aşındırdığını gösteren bir laboratuvardır. Kural ile uygulama arasındaki boşluk büyüdüğünde, yolsuzluk yönetim tekniğine dönüşebilir. Gazete ağları ve kamuoyu da bu dönemde ikili bir rol oynadı: bazı yayınlar yolsuzluğu ifşa ederken bazıları siyasi patronajla besleniyordu. Böylece medya, reform talebiyle manipülasyon arasında gidip gelen bir güç alanına dönüştü. Bu karmaşa, demokratik kurumların hukuki çerçeve kadar şeffaflık kültürüne de ihtiyaç duyduğunu gösterir. Bu yüzden dönem, kurumsal tasarım tartışmaları için hâlâ referans kabul edilir.",
+      "accuracyNote": "Dizi pek çok tarihsel kişiden esinlenir ve dönemin atmosferini başarılı verir. Ancak ilişki ağları ve zamanlamalar dramatik akış için yoğunlaştırılmıştır.",
+      "whyInteresting": "Ahlak adına çıkan bir yasanın, beklenmedik biçimde organize suçun kurumsallaşmasını hızlandırması tarihsel bir paradokstur.",
+      "misconception": "Yolsuzluğun sadece kötü insanların tercihi olduğu sanılır. Oysa kurumsal teşvikler ve denetim zafiyeti en az bireyler kadar belirleyicidir.",
+      "nextTopics": [
+        "Gizli Barlar",
+        "Kaçak İçki",
+        "Ahlak Hareketi"
+      ],
+      "sources": [
+        {
+          "title": "Prohibition (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/event/Prohibition-United-States-history-1920-1933",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Enoch L. Johnson (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/biography/Enoch-L-Johnson",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Prohibition Primary Sources (Library of Congress)",
+          "url": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/progressive-era-to-new-era-1900-1929/prohibition/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-180-public-health",
+        "tf26-177-repeal",
+        "tf26-178-jazz-age"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Boardwalk Empire'ın Atlantic City evreni, Prohibition döneminin yerel patronaj ve federal denetim gerilimini dramatize eder.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organize-suc",
+        "abd",
+        "yolsuzluk",
+        "true-frame"
+      ],
+      "spoilerNote": "Boardwalk Empire hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi yolsuzluğu kişisel ahlak dramı olarak keskinleştirir. Tarihte belirleyici olan, yasa tasarımı ve kurum kapasitesinin yarattığı yapısal teşviklerdi.",
+      "whyItMatters": "Kamusal niyetle çıkarılan bir yasanın, zayıf uygulamada ters sonuç üretebileceğini gösterir. Bugünkü politika tartışmaları için de doğrudan bir derstir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Prohibition döneminde neden bazı şehirlerde suç ağları kalıcı parti makineleriyle birleşti?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-180-public-health",
+      "title": "Kamu Sağlığı",
+      "subtitle": "Kamu sağlığı: yasak sonrası hastane ve salgın",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Suç",
+        "Ekonomi",
+        "Siyaset"
+      ],
+      "whatWeSee": "Boardwalk Empire, Yasak Dönemi’ni yalnızca suç ekonomisi değil, kamu sağlığı felaketi olarak da resmediyor. Kaçak içki ağları, siyasi koruma ve morg sahneleri aynı anlatıda birleşiyor. Dizi, “yasaklamak çözüm müdür?” sorusunu sert bir zeminde kuruyor: pazar kaybolmuyor, yalnızca daha karanlık ve daha tehlikeli bir forma kayıyor.",
+      "realHistory": "ABD’de 1920-1933 arasındaki Prohibition dönemi alkol kullanımını tamamen ortadan kaldırmadı; düzenlenmiş pazarın yerini denetimsiz kaçak ağlar aldı. Volstead Act ülke genelinde eşit uygulanamadı: bazı şehirlerde güçlü baskı varken bazı bölgelerde siyasal himaye, rüşvet ve seçici denetim kaçak ekonomiyi büyüttü. Bu asimetri organize suça sürdürülebilir gelir sağladı.\n\nHalk sağlığı açısından en ağır sonuçlardan biri sahte veya kirli içki kaynaklı zehirlenmelerdi. Metanol karışımları körlük ve ölüm vakalarına yol açtı. Endüstriyel alkolün denatüre edilmesi gibi federal uygulamalar da tartışmalı sonuçlar üretti; yasa dışı ağlar bu ürünleri yeniden tüketime sokabildi. Hastane kayıtları ve dönem raporları, sorunun yalnızca suç oranı değil doğrudan ölümcül sağlık riski olduğunu gösterir.\n\n1933’te 21. Değişiklik ile yasağın kalkması, “serbest bırakma”dan ibaret değildi. Lisanslama, vergi denetimi, ürün standardı ve dağıtım kontrolü yeniden kuruldu. Böylece politika yaklaşımı, tamamen bastırma yerine düzenleme ve zarar azaltma yönüne kaydı. Bu deneyim, modern madde politikaları için temel bir ders bırakır: talebi süren bir ürünü mutlak yasakla yeraltına itmek, çoğu zaman tüketimi değil risk düzeyini artırır. Dizi suçun dramatik yüzünü öne çıkarır; tarihsel bağlam ise kamu sağlığı kapasitesi ve düzenleyici devletin önemini görünür kılar. Bu yüzden Prohibition tecrübesi, ahlak temelli yasakların sağlık sonuçlarını ayrıca ölçmeyen politikaların uzun vadede geri tepebileceğini açıkça kanıtlar.",
+      "accuracyNote": "Yasak dönemi kaçak ağları ve zehirlenme vakaları gerçektir; anlatı temposu dramatik etki için yoğunlaştırılmıştır.",
+      "whyInteresting": "Bu kart hukuk, ekonomi ve sağlık politikasının tek bir tarihsel dosyada nasıl iç içe geçtiğini gösterir.",
+      "misconception": "Yaygın yanılgı, Prohibition’un otomatik olarak toplum sağlığını iyileştirdiğidir.",
+      "nextTopics": [
+        "Gizli Barlar",
+        "Kaçak İçki",
+        "Ahlak Hareketi"
+      ],
+      "sources": [
+        {
+          "title": "Prohibition (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/event/Prohibition-United-States-history"
+        },
+        {
+          "title": "Alcohol During Prohibition (NIAAA)",
+          "url": "https://www.niaaa.nih.gov/alcohols-effects-health/alcohol-topics-z/prohibition"
+        },
+        {
+          "title": "Poisoning and Prohibition (CDC MMWR Archive)",
+          "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/00001773.htm"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-172-bootlegging",
+        "tf26-176-women-reformers"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Boardwalk Empire yeraltı ağlarını büyütüyor; True Frame aynı dönemi halk sağlığı ve düzenleme perspektifiyle dengeliyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organize-suc",
+        "abd",
+        "kamu-sagligi",
+        "true-frame"
+      ],
+      "spoilerNote": "Boardwalk Empire hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi suç figürlerini merkezliyor; tarihsel veriler asıl kırılmanın denetimsiz ürün dolaşımı ve zehirlenme dalgaları olduğunu gösteriyor.",
+      "whyItMatters": "Bugünün bağımlılık ve zarar azaltma politikalarında da benzer denge sorusu güncelliğini koruyor.",
+      "isFlagship": true,
+      "quickRealityCheck": "Bir ürünü yasaklamak her zaman kullanımı azaltır mı, yoksa daha ölümcül bir pazara mı iter?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-181-constitutional-role",
+      "title": "Anayasal Rol",
+      "subtitle": "Yetkisiz görünen ama teamülle çalışan güç.",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "era": "Modern Tarih",
+      "region": "Birleşik Krallık",
+      "themes": [
+        "Monarşi",
+        "Medya",
+        "Siyaset"
+      ],
+      "whatWeSee": "The Crown, hükümdarın doğrudan siyasi karar vermediği ama haftalık başbakan görüşmeleri, atama törenleri ve ulusal kriz anlarında güçlü sembolik etki ürettiği bir düzen gösteriyor. Saray dili tarafsızlık vurgusu taşısa da her jest kamuoyu ve hükümet ilişkisini etkiliyor. Dizi, yetkinin yalnız hukuk metniyle değil teamül, ritüel ve kamu algısı üzerinden işlendiğini görünür hale getiriyor.",
+      "realHistory": "Birleşik Krallık'ta monarşi, tek bir yazılı anayasa metninden çok yasa ve teamül birleşimiyle işler. Hükümdar ülkeyi yönetmez; devlet sürekliliğini temsil eder. Başbakanı resmen atar, parlamentoyu açar, yasaları onaylar, fakat siyasal sorumluluk seçilmiş hükümete aittir. Klasik çerçevede monarkın etkisi danışılma, teşvik etme ve uyarma sınırında tanımlanır.\n\n20. yüzyılın ikinci yarısında rol medya çağında daha görünür hale geldi. Taç giyme töreninin televizyonda yayınlanması ve kriz dönemlerinde ulusa seslenişler, sembolik meşruiyeti geniş kitlelere taşıdı. Ancak görünürlük arttıkça tarafsızlık baskısı da büyüdü; aile krizleri, Commonwealth tartışmaları ve başbakanlarla ilişkiler bu dengeyi sık sık zorladı.\n\nBu nedenle anayasal monarşi yetkisiz bir dekor değildir; doğrudan icra gücü olmadan kurumlar arası süreklilik ve güven üretme mekanizmasıdır. Aynı zamanda kırılgandır: birçok kural hukuk maddesinden çok alışkanlığa dayanır. Teamül kültürü güçlü olduğunda düzen sorunsuz işler, kutuplaşma arttığında aynı belirsizlik kriz riski doğurabilir. Monarşinin pratik gücü, resmi yetkiden çok bu denge dilini sürdürebilme kapasitesinde yatar.\n\nGüncel tartışmalarda bu rolün sınırı özellikle anayasal kriz anlarında görünür olur. Hükümdarın müdahalesi sembolik kaldıkça sistem öngörülebilirliğini korur; sembolik sınır aşılırsa tarafsızlık sermayesi hızla erir. Bu yüzden monarşinin etkisi çoğu kez yaptığı hamlelerden çok, yapmamayı seçtiği hamlelerle ölçülür.",
+      "accuracyNote": "Tarafsızlık, sembolik temsil ve başbakanla düzenli temas doğru temelde. Dizide bazı diyaloglar dramatik etki için kişiselleştirilmiş.",
+      "whyInteresting": "Hükümdarın en önemli gücü çoğu zaman karar almak değil, kriz anında tarafsızlık ve süreklilik görüntüsünü koruyabilmesidir.",
+      "misconception": "Monarşi ya mutlak güç ya da tamamen etkisiz sembol sanılır; pratikte etkisi çoğunlukla teamül ve kriz yönetimi alanındadır.",
+      "nextTopics": [
+        "Taç Giyme",
+        "Commonwealth",
+        "Saray ve Medya"
+      ],
+      "sources": [
+        {
+          "url": "https://www.royal.uk/the-role-of-the-monarchy"
+        },
+        {
+          "url": "https://www.britannica.com/topic/monarchy/Monarchy-in-the-modern-world"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "crown-tv-coronation-1953",
+        "tf26-183-commonwealth",
+        "tf26-184-royal-media"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Crown'daki saray-başbakan dinamiği, True Frame'de Britanya'nın teamül temelli anayasal mimarisiyle okunuyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "monarsi",
+        "the-crown",
+        "ingiltere",
+        "anayasal-rol",
+        "true-frame"
+      ],
+      "spoilerNote": "The Crown hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi ilişki ve duygu boyutunu öne çıkarıyor. Tarihsel düzende asıl ağırlık, sessiz prosedürler ve teamül sürekliliğinde toplanır.",
+      "whyItMatters": "The Crown'un gösterdiği saray ritüelleri, modern demokrasilerde yazılı olmayan kuralların da kurumlar kadar belirleyici olabileceğini hatırlatır.",
+      "isFlagship": false,
+      "quickRealityCheck": "Anayasal monarşide gerçek güç imzada mı, yoksa o imzayı sınırlayan teamüllerde mi?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-183-commonwealth",
+      "title": "Commonwealth",
+      "subtitle": "Küçük ayrıntı, büyük tarih",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "era": "Modern Tarih",
+      "region": "Birleşik Krallık",
+      "themes": [
+        "Monarşi",
+        "Medya",
+        "Siyaset"
+      ],
+      "whatWeSee": "The Crown'da Commonwealth çoğu zaman resmi ziyaretler, kriz görüşmeleri ve protokol dili üzerinden görünür. Saray sahneleri, Londra'nın artık doğrudan imparatorluk yönetmediği bir dönemde sembolik liderliği sürdürme çabasını öne çıkarır. Dizide bu başlık, aile dramının arka planı değil; dış politika ile monarşi meşruiyetinin kesiştiği bir test alanı gibidir.",
+      "realHistory": "Commonwealth, Britanya İmparatorluğu'nun çözülme sürecinde ortaya çıkan gevşek fakat siyasi açıdan önemli bir çok devletli çerçevedir. 20. yüzyıl ortasında dekolonizasyon hızlandıkça, eski sömürgelerin bir kısmı bağımsız cumhuriyet olurken Commonwealth içinde kalmayı tercih etti. Bu yapı hukuken imparatorluk devamı değildi; ortak dil, kurum mirası, eğitim ağları ve diplomatik forum üzerinden işleyen yeni bir ilişki biçimiydi.\n\nKraliçe II. Elizabeth döneminde Commonwealth toplantıları, Londra'nın azalan sert gücünü telafi eden yumuşak güç aracına dönüştü. Ancak bu alan çatışmasız değildi. Irk ayrımı politikaları, Güney Afrika meselesi, Rhodesia krizi ve göç tartışmaları, örgütün değerler söylemi ile üyelerin ulusal çıkarları arasındaki boşluğu sürekli görünür kıldı. Monarşinin sembolik liderliği bazı üyelerde istikrar işareti sayılırken, bazılarında sömürge geçmişinin devamı olarak eleştirildi.\n\nThe Crown bu gerilimi kişisel diplomasi ve protokol diliyle anlatır. Tarihsel tabloda ise asıl mesele, imparatorluk sonrası dönemde eşitlik iddiası taşıyan bir ağın gerçekten ne kadar eşit çalışabildiğidir. Commonwealth'in kalıcılığı, bağlayıcı hukuktan çok siyasi ihtiyaç ve karşılıklı fayda hesaplarına dayanır.\n\nBu yüzden Commonwealth, nostaljik bir kulüp değil; Britanya'nın dünya rolünü yeniden tanımlama girişiminin canlı laboratuvarıdır. Öğrenci değişimlerinden hukuk işbirliklerine, spor diplomatisinden göç ağlarına kadar uzanan pratik bağlar, sembolik çerçevenin yalnızca törensel olmadığını ama asimetrik geçmişin gerilimini de sürekli taşıdığını gösterir.",
+      "accuracyNote": "Sembolik diplomasi ve protokol gerilimi isabetlidir; ekonomik eşitsizlikler ve yerel siyasi itirazlar ekranda daha sınırlı yer bulur.",
+      "whyInteresting": "Resmi olarak eşit ortaklık iddiasındaki bir yapının, tarihsel güç asimetrileriyle nasıl pazarlık ettiğini gösterir.",
+      "misconception": "Commonwealth'in Britanya'nın doğrudan kontrol ettiği gizli bir imparatorluk devamı olduğu düşünülür.",
+      "nextTopics": [
+        "Anayasal Rol",
+        "Taç Giyme",
+        "Saray ve Medya"
+      ],
+      "sources": [
+        {
+          "title": "The Commonwealth - About Us",
+          "url": "https://thecommonwealth.org/about-us",
+          "type": "official"
+        },
+        {
+          "title": "Britannica - Commonwealth",
+          "url": "https://www.britannica.com/topic/Commonwealth-association-of-states",
+          "type": "article"
+        },
+        {
+          "title": "UK Parliament - Decolonisation and the Commonwealth",
+          "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/empire/overview/decolonisation/",
+          "type": "official"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-184-royal-media",
+        "the-crown-suez-crisis-empire-end",
+        "tf26-186-prime-ministers"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Crown'daki devlet ziyaretleri ve zirveler, dekolonizasyon sonrası Commonwealth toplantılarının sembolik-siyasi işleviyle ilişkilidir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "monarsi",
+        "the-crown",
+        "ingiltere",
+        "commonwealth",
+        "true-frame"
+      ],
+      "spoilerNote": "The Crown hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi yapıyı saray merkezli diplomasiye odaklıyor; tarihsel gerçeklikte üye devletlerin iç politikaları ve sömürge mirası gerilimi belirleyici.",
+      "whyItMatters": "İmparatorluk sonrasında gücün sadece askeri kapasiteyle değil, ağ kurma ve sembolik meşruiyetle de sürdürüldüğünü anlamaya yardım eder.",
+      "isFlagship": false,
+      "quickRealityCheck": "Commonwealth, Britanya'nın imparatorluğu sürdürmesi mi yoksa etkisini yeni biçimde yeniden kurması mıydı?",
+      "lastReviewedAt": "2026-06-26"
+    }
+  ]
+}

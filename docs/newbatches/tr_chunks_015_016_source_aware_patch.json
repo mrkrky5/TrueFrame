@@ -1,0 +1,438 @@
+{
+  "batch": "tr_chunks_015_016_source_aware_patch",
+  "locale": "tr",
+  "sourceChunks": [
+    "tr-chunk-015.json",
+    "tr-chunk-016.json"
+  ],
+  "notes": "Source-aware editorial patch for TR chunks 015 and 016. Applies only listed fields and source updates.",
+  "entries": [
+    {
+      "id": "marco-polo-court",
+      "locale": "tr",
+      "verdict": "minorEdit",
+      "fields": {
+        "reviewerNote": "Marco Polo'nun önemi, Çin'e ilk ulaşan Avrupalı olmasından çok Yuan dünyasını Avrupa okuruna kalıcı bir anlatıyla aktarmasıdır.",
+        "mediaConnection": "Bu kart, Marco Polo dizisindeki saray ve kültürel çatışma anlatısını Kubilay Han döneminin seyahat, ticaret ve imparatorluk ağıyla karşılaştırır."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Marco Polo (Britannica)",
+            "url": "https://www.britannica.com/biography/Marco-Polo",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Marco Polo (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/Marco_Polo/",
+            "type": "reference",
+            "verified": true
+          }
+        ],
+        "setVerificationStatus": "verified",
+        "setSourceQuality": "strong"
+      },
+      "reviewNotes": [
+        "Mevcut metin genel olarak temizdi; sadece reviewer note ve kaynak metadata normalize edildi."
+      ]
+    },
+    {
+      "id": "crusader-states-daily",
+      "locale": "tr",
+      "verdict": "rewrite",
+      "fields": {
+        "realHistory": "Haçlı devletleri, 1099’daki Kudüs fethinden sonra Levant’ta kurulan Latin siyasi yapılardı; ama bu topraklarda hayat yalnızca kuşatma ve meydan savaşlarından ibaret değildi. Kudüs Krallığı, Antakya Prensliği, Trablus Kontluğu ve Akka gibi merkezlerde Frank soylular, yerel Hristiyan topluluklar, Müslümanlar, Yahudiler, tüccarlar ve hacılar aynı ekonomik alanları paylaşmak zorundaydı.\n\nGünlük yaşamda uzlaşma savaş kadar belirleyiciydi. Frank lordları vergi toplamak, tarımı sürdürmek ve liman ticaretini işletmek için yerel memurlara, çevirmenlere ve aracı ailelere ihtiyaç duyuyordu. Akka gibi limanlarda Venedik, Ceneviz ve Pisa toplulukları kendi mahalleleri ve ticari ayrıcalıklarıyla varlık gösterdi. Baharat, tekstil, cam, tıp bilgisi ve mimari teknikler bu temaslar üzerinden dolaşıma girdi.\n\nKingdom of Heaven bu dünyayı çoğu zaman savaş ahlakı ve Kudüs’ün kaderi üzerinden anlatır. Tarihsel tablo ise daha karmaşıktır: çatışma sürekliydi, ama günlük yönetim ticaret, vergi, yerel hukuk ve pratik işbirliği olmadan sürdürülemezdi. Haçlı Doğusu’nu ilginç yapan şey, din savaşının gölgesinde bile bir arada yaşamanın idari yollarının aranmasıdır.",
+        "accuracyNote": "Film savaş ve diplomasi anlarını öne çıkarır; gerçek Haçlı devletleri ise liman ticareti, yerel vergi düzeni ve kültürel temaslarla ayakta kalan karmaşık yapılardı.",
+        "whyInteresting": "Akka gibi liman şehirleri, savaş alanı olmanın yanında Venedikli ve Cenevizli tüccarların Doğu Akdeniz ticaretini örgütlediği yoğun merkezlerdi.",
+        "misconception": "Haçlı devletlerinde herkesin sürekli din savaşı halinde yaşadığı sanılır; gerçekte çatışma kadar yerel işbirliği, ticaret ve diplomasi de gündelik düzenin parçasıydı.",
+        "mediaChanged": "Kingdom of Heaven, Kudüs’ün savunmasını ve ahlaki çatışmaları yoğunlaştırır; tarihsel Haçlı Doğusu ise pazar, liman, vergi ve yerel aracılar üzerinden daha gündelik bir yapıya sahipti.",
+        "whyItMatters": "Bu konu, Orta Çağ Akdeniz’inde dinî sınırların sert olmasına rağmen ticaret ve yönetim zorunluluklarının insanları aynı şehir düzeninde buluşturduğunu gösterir.",
+        "quickRealityCheck": "Haçlı Doğusu sadece bitmeyen bir savaş alanı mıydı, yoksa savaşın yanında ticaret ve yerel işbirliğiyle ayakta kalan karmaşık bir toplum muydu?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Crusader States to 1187 (Britannica)",
+            "url": "https://www.britannica.com/event/Crusades/The-Crusader-states-to-1187",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Kingdom of Jerusalem (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/Kingdom_of_Jerusalem/",
+            "type": "reference",
+            "verified": true
+          }
+        ],
+        "setVerificationStatus": "verified",
+        "setSourceQuality": "strong"
+      },
+      "reviewNotes": [
+        "Tekrar eden paragraflar ve aşırı romantize edilmiş yerel uyum dili temizlendi."
+      ]
+    },
+    {
+      "id": "early-islamic-expansion",
+      "locale": "tr",
+      "verdict": "rewrite",
+      "fields": {
+        "realHistory": "7. yüzyıldaki erken İslam fetihleri yalnızca askerî coşkuyla açıklanamaz. Arap orduları Suriye, Mısır, Irak ve İran’a ilerlediğinde Bizans ile Sasani imparatorlukları onlarca yıllık savaş, ağır vergi yükü ve iç krizler yüzünden yıpranmış durumdaydı. Yermük ve Kadisiye gibi savaşlar bu büyük güçlerin askeri kırılma noktaları oldu; fakat fetihlerin kalıcı hale gelmesi, savaş meydanından sonra kurulan idari düzenle mümkünleşti.\n\nYeni yönetimler birçok bölgede yerel elitleri ve bürokratik pratikleri tamamen ortadan kaldırmak yerine dönüştürerek kullandı. Gayrimüslim topluluklar farklı koşullarda cizye, himaye ve yerel ibadet düzeni çerçevesinde yeni rejime bağlandı. Bu durum her yerde barışçıl ya da eşitlikçi değildi; ancak sadece “zorla dönüşüm” modeli de tabloyu açıklamaz. Vergi, güvenlik, mezhep gerilimi ve yerel pazarlıklar fetih sürecini belirleyen ana unsurlardandı.\n\nThe Message veya Hz. Ömer gibi yapımlar fetihleri çoğu zaman dinî motivasyon ve liderlik üzerinden anlatır. Tarihsel açıdan asıl dikkat çekici nokta, bu motivasyonun Bizans-Sasani yorgunluğu, yerel hoşnutsuzluk ve yeni yönetim pratikleriyle birleşerek çok hızlı bir siyasi dönüşüm yaratmasıdır.",
+        "accuracyNote": "Fetihlerin hızı yalnızca askerî başarıyla değil, Bizans-Sasani yıpranması, vergi düzeni, yerel anlaşmalar ve yeni idari pratiklerle açıklanmalıdır.",
+        "whyInteresting": "Yermük ve Kadisiye gibi savaşlar yalnızca cephe zaferi değil, iki eski imparatorluk düzeninin aynı dönemde zayıfladığını gösteren kırılma noktalarıydı.",
+        "misconception": "Erken İslam fetihlerinin sadece kılıç zoruyla ilerlediği sanılır; gerçekte savaş, anlaşma, vergi düzeni ve yerel pazarlık aynı sürecin parçalarıydı.",
+        "mediaChanged": "Dizi ve filmler fetihleri çoğu zaman iman ve liderlik hikâyesi olarak anlatır; tarihsel tablo ise siyasi boşluk, imparatorluk yorgunluğu ve idari uyumla daha karmaşıktır.",
+        "whyItMatters": "Bu dönem, büyük tarihsel dönüşümlerin yalnızca ideolojiyle değil, eski düzenlerin yıpranması ve yeni yönetim biçimlerinin kurulmasıyla hızlandığını gösterir.",
+        "quickRealityCheck": "Erken İslam fetihleri sadece dinî coşkuyla mı yayıldı, yoksa Bizans ve Sasani dünyasındaki siyasi boşluk bu hızı belirleyen ana etkenlerden biri miydi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Expansion of the Islamic Community (Britannica)",
+            "url": "https://www.britannica.com/topic/Islamic-world/Expansion-of-the-Islamic-community",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Art of the Umayyad Period (The Met)",
+            "url": "https://www.metmuseum.org/toah/hd/umay/hd_umay.htm",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setVerificationStatus": "verified",
+        "setSourceQuality": "strong"
+      },
+      "reviewNotes": [
+        "Dhimmi/eman anlatısı genellemeci olmaktan çıkarıldı; yerel farklılıklara alan açıldı."
+      ]
+    },
+    {
+      "id": "chernobyl-secrecy",
+      "locale": "tr",
+      "verdict": "rewrite",
+      "fields": {
+        "realHistory": "Çernobil felaketinde teknik arıza ile devletin bilgi yönetimi birbirinden ayrılamaz. 26 Nisan 1986’da 4 numaralı reaktördeki güvenlik testi, RBMK tasarımının riskleri ve operatör kararlarıyla birleşerek kontrolden çıktı. Patlamadan sonra ilk saatlerde sahadaki itfaiyeciler ve çalışanlar çok yüksek radyasyon dozlarına maruz kaldı; Pripyat ise ancak yaklaşık 36 saat sonra tahliye edildi.\n\nSovyet yönetiminin ilk refleksi kazayı açık biçimde duyurmak değil, kontrol altında tutuyor görüntüsü vermekti. Radyasyon bulutunun Sovyet sınırları dışına taşması ve İsveç’te ölçümlerin yükselmesi, felaketin uluslararası düzeyde saklanamayacağını gösterdi. Bu gecikme, yalnız teknik güvenlik sorunlarını değil, kapalı bürokrasinin kriz anında halk sağlığını nasıl ikinci plana itebildiğini de ortaya koydu.\n\nHBO’nun Chernobyl dizisi “yalanın maliyeti” temasını güçlü biçimde kurar. Tarihsel açıdan bazı karakterler ve sahneler yoğunlaştırılmıştır; ancak devlet imajını koruma refleksi, teknik uyarıların bastırılması ve acil durum bilgisinin geç dolaşıma girmesi felaketin temel dersleri arasındadır.",
+        "accuracyNote": "Dizi siyasi baskı ve gizlilik atmosferini güçlü verir; bazı karakterler kolektif bilim insanı ve bürokrat rollerinin dramatik birleşimidir.",
+        "whyInteresting": "Çernobil’in dünya tarafından fark edilmesi, yalnız Sovyet açıklamalarıyla değil, radyasyon bulutunun İsveç’teki ölçümlerde görülmesiyle hızlandı.",
+        "misconception": "Kazanın yalnızca tek bir operatör hatasından çıktığı sanılır; gerçekte tasarım kusurları, test koşulları, eğitim eksikleri ve kapalı kriz yönetimi birlikte etkili oldu.",
+        "mediaChanged": "Chernobyl dizisi olayları birkaç karakter ve sahneye yoğunlaştırır; tarihsel kayıtlarda felaket, teknik tasarım sorunları ile devletin bilgi saklama refleksinin birleştiği daha geniş bir krizdir.",
+        "whyItMatters": "Çernobil, yüksek riskli teknolojilerde güvenliğin yalnız mühendislikle değil, açık bilgi akışı ve kurumsal hesap verebilirlikle de ilgili olduğunu gösterir.",
+        "quickRealityCheck": "Çernobil sadece teknik bir kaza mıydı, yoksa kapalı devlet kültürünün felaketi büyüttüğü bir kriz yönetimi dersi miydi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Chornobyl Accident (UNSCEAR)",
+            "url": "https://www.unscear.org/unscear/en/chernobyl.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Chornobyl: IAEA Safety and Legacy",
+            "url": "https://www.iaea.org/topics/chornobyl",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Monitoring the Fallout (IAEA Bulletin)",
+            "url": "https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull28-3/28302793032.pdf",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setVerificationStatus": "verified",
+        "setSourceQuality": "strong"
+      },
+      "reviewNotes": [
+        "Gorbaçov/SSCB çöküşü ve doğa laboratuvarı gibi yan başlıklar kısa alanlarda ana mesajı dağıtıyordu; ana odak bilgi saklama ve kriz yönetimine çekildi."
+      ]
+    },
+    {
+      "id": "mongols-culture-exchange",
+      "locale": "tr",
+      "verdict": "rewrite",
+      "fields": {
+        "realHistory": "Moğol İmparatorluğu yalnızca yıkım ve kuşatma hikâyesi değildir; geniş imparatorluk alanı aynı zamanda insan, mal, teknik bilgi ve diplomatik haberin daha hızlı dolaştığı bir Avrasya düzeni kurdu. Pax Mongolica denilen görece güvenlik ortamı, İpek Yolu üzerindeki bazı ticaret hatlarını canlandırdı. Bu güvenlik her yerde aynı değildi ve Moğol fetihlerinin yıkıcılığını silmez; fakat imparatorluk yolları, elçiler, tüccarlar ve zanaatkârlar için yeni bağlantılar açtı.\n\nYam posta sistemi, yetkili elçilerin istasyonlarda at değiştirerek ilerlemesini sağladı. Paiza gibi yetki belgeleri, taşıyıcının imparatorluk kaynaklarından yararlanmasına izin veriyordu. Bu ağ yalnız askeri emirler için değil, vergi, diplomasi ve ticaret için de önemliydi. Çin, İslam dünyası ve Avrupa arasında teknik ve kültürel temasların artmasında bu bağlantıların payı vardı.\n\nPopüler kültürde Moğollar çoğu zaman tek boyutlu “barbar istilası” olarak görünür. Tarihsel gerçek daha sert ama daha karmaşıktır: fetihler şehirleri yıktı, ama aynı imparatorluk ağı bilgi ve ticaret dolaşımını da hızlandırdı.",
+        "accuracyNote": "Moğol dönemi hem büyük yıkımlar hem de Avrasya ölçeğinde bağlantıların güçlenmesiyle birlikte okunmalıdır; yalnız 'barbarlık' ya da yalnız 'küreselleşme' açıklaması eksik kalır.",
+        "whyInteresting": "Yam sistemi, imparatorluğun haberleşme ve yönetim hızını artıran istasyonlu bir posta ağıydı; bu da Moğol gücünün yalnız süvari saldırısından ibaret olmadığını gösterir.",
+        "misconception": "Moğolların yalnızca medeniyetleri yok ettiği sanılır; gerçekte yıkıcı fetihlerin yanında ticaret, elçilik ve teknoloji dolaşımını hızlandıran bir imparatorluk ağı da kurdular.",
+        "mediaChanged": "Popüler yapımlar Moğolları çoğu zaman yağmacı süvari dalgası olarak gösterir; tarihsel tablo, aynı gücün posta, ticaret ve diplomasi ağlarıyla da işlediğini gösterir.",
+        "whyItMatters": "Pax Mongolica örneği, imparatorlukların aynı anda hem yıkıcı hem bağlayıcı olabileceğini; savaşın ardından yeni küresel temas yolları doğabileceğini gösterir.",
+        "quickRealityCheck": "Moğollar yalnızca yakıp yıkan bir güç müydü, yoksa Avrasya’da ticaret ve bilgi dolaşımını da hızlandıran bir imparatorluk ağı mı kurdular?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Mongol Empire (UNESCO Silk Roads)",
+            "url": "https://en.unesco.org/silkroad/content/mongol-empire",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Pax Mongolica (Britannica)",
+            "url": "https://www.britannica.com/topic/Pax-Mongolica",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Geregee / Golden Paiza (United Nations)",
+            "url": "https://www.un.org/ungifts/geregee-or-golden-paiza-chinggis-khan",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setVerificationStatus": "verified",
+        "setSourceQuality": "strong"
+      },
+      "reviewNotes": [
+        "'İlk tıbbi kongreler', '10 güne kadar haberleşme' gibi fazla iddialı ve bağlamsız ifadeler çıkarıldı."
+      ]
+    },
+    {
+      "id": "ottoman-beyond-war",
+      "locale": "tr",
+      "verdict": "rewrite",
+      "fields": {
+        "realHistory": "Osmanlı tarihini yalnız fetihler üzerinden okumak, imparatorluğun asıl süreklilik kaynaklarını gözden kaçırır. Şehirler cami, medrese, imaret, hamam, çeşme, han ve darüşşifa gibi vakıf yapıları etrafında örgütleniyordu. Bu kurumlar yalnız mimari süs değil; eğitim, sağlık, yemek dağıtımı, temizlik ve ticaret gibi gündelik ihtiyaçları düzenleyen sosyal altyapıydı.\n\nMimar Sinan’ın eserleri bu kurumsal dünyanın en görünür yüzüdür. Süleymaniye veya Selimiye gibi büyük külliyeler ibadet mekânı olmanın yanında okul, aşevi, hastane ve misafirlik işlevleriyle şehir hayatını biçimlendirdi. Su yolları, kemerler ve çeşmeler de imparatorluk başkentinin büyümesini mümkün kılan teknik altyapının parçasıydı.\n\nBilim ve zanaat alanında Osmanlı dünyası tek çizgili bir yükseliş ya da çöküş hikâyesine indirgenemez. Astronomi, tıp, haritacılık, mimarlık ve lonca düzenleri farklı dönemlerde farklı yoğunluklarla sürdü. Popüler anlatıların savaş merkezli bakışı yerine Osmanlı’yı vakıflar, şehir hizmetleri ve uzmanlaşmış zanaatlar üzerinden okumak daha dengeli bir tablo verir.",
+        "accuracyNote": "Osmanlı şehir hayatında vakıf kurumları, külliyeler ve su altyapısı askeri başarılar kadar kalıcı bir miras bıraktı; ancak bu mirası 'ilk refah devleti' gibi anakronik ifadelerle anlatmak doğru olmaz.",
+        "whyInteresting": "Külliye modeli, ibadet alanını okul, aşevi, hamam, hastane ve konaklama yapılarıyla birleştirerek şehrin gündelik ihtiyaçlarını tek bir mimari ağ içinde topluyordu.",
+        "misconception": "Osmanlı mirasının yalnız fetihlerden ibaret olduğu sanılır; gerçekte mimari, vakıf hizmetleri, su altyapısı ve zanaat düzeni imparatorluğun uzun ömürlü taraflarıdır.",
+        "mediaChanged": "Dizi ve filmler Osmanlı’yı çoğu zaman sefer, saray ve savaş üzerinden anlatır; tarihsel şehir hayatı ise vakıf, külliye, lonca ve su mimarisi gibi daha sakin ama kalıcı kurumlarla şekillendi.",
+        "whyItMatters": "Bu konu, bir imparatorluğun gücünün yalnız orduda değil; hastane, aşevi, yol, çeşme ve okul gibi gündelik kurumları sürdürebilme kapasitesinde de yattığını gösterir.",
+        "quickRealityCheck": "Osmanlı yalnız savaş ve fetih tarihi mi, yoksa şehir hizmetleri, mimari ve vakıf kurumlarıyla da anlaşılması gereken bir medeniyet yapısı mı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Ottoman Art (Britannica)",
+            "url": "https://www.britannica.com/art/Ottoman-art",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Ottomans (Museum With No Frontiers / Discover Islamic Art)",
+            "url": "https://islamicart.museumwnf.org/gai/isl/page.php?theme=10",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Ottoman Palace Cuisine of the Classical Period (Muslim Heritage)",
+            "url": "https://muslimheritage.com/ottoman-palace-cuisine-of-the-classical-period/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setVerificationStatus": "verified",
+        "setSourceQuality": "strong"
+      },
+      "reviewNotes": [
+        "Genel iddialar anakronik 'ilk refah devleti' dilinden çıkarıldı; kurumsal şehir ve vakıf altyapısına oturtuldu."
+      ]
+    },
+    {
+      "id": "mesopotamia-legacy",
+      "locale": "tr",
+      "verdict": "approvedAsIs",
+      "fields": {},
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Mesopotamia (Britannica)",
+            "url": "https://www.britannica.com/place/Mesopotamia",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Mesopotamia Gallery (The British Museum)",
+            "url": "https://www.britishmuseum.org/collection/galleries/mesopotamia",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setVerificationStatus": "verified",
+        "setSourceQuality": "strong"
+      },
+      "reviewNotes": [
+        "Metin daha önce temizlenmiş ve iyi durumda. Yalnız kaynak metadata normalize edildi."
+      ]
+    },
+    {
+      "id": "baghdad-daily-life-new",
+      "locale": "tr",
+      "verdict": "minorEdit",
+      "fields": {
+        "accuracyNote": "Bağdat’ın dairesel kuruluş planı erken Abbasi iktidarının merkeziyetçi vizyonunu gösterir; 9. yüzyıl şehir hayatı ise saray, pazar, kitap kültürü ve sağlık kurumlarının birlikte işlediği daha geniş bir ağdı.",
+        "whyInteresting": "Kâğıt üretimi ve kitap ticareti, Bağdat’ta bilginin yalnız saray çevresinde değil kâtipler, çevirmenler ve kitapçılar üzerinden şehir hayatında da dolaşmasını sağladı.",
+        "quickRealityCheck": "9. yüzyıl Bağdat’ı sadece saray entrikalarının geçtiği egzotik bir dekor muydu, yoksa pazarları, kitapçıları, hastaneleri ve su altyapısıyla büyük bir bilgi şehri miydi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Baghdad (Britannica)",
+            "url": "https://www.britannica.com/place/Baghdad",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "House of Wisdom (UNESCO)",
+            "url": "https://en.unesco.org/silkroad/content/house-wisdom",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setVerificationStatus": "verified",
+        "setSourceQuality": "strong"
+      },
+      "reviewNotes": [
+        "Gövde iyi; sadece kısa alanlar ve genel UNESCO URL'si düzeltildi."
+      ]
+    },
+    {
+      "id": "ottoman-diet-culture",
+      "locale": "tr",
+      "verdict": "rewrite",
+      "fields": {
+        "realHistory": "Osmanlı mutfağı, saray ziyafetlerinden ibaret değildi; imparatorluk coğrafyasının ticaret yolları, iklimleri ve inanç pratikleri sofraya yansıyordu. Saray mutfağı olan Matbah-ı Âmire, kalabalık personeli, tedarik kayıtları ve özel ocaklarıyla büyük bir organizasyondu. Ancak sıradan sofralarda çorba, pilav, ekmek, yoğurt, sebze, baklagil, meyve ve ölçülü et kullanımı daha belirleyiciydi.\n\nKlasik dönem Osmanlı sofrasını bugünkü Türk mutfağıyla birebir düşünmek yanıltıcıdır. Domates, patates, mısır ve bazı biber türleri Amerika kıtası kökenlidir ve Osmanlı mutfağına daha geç dönemlerde yaygın biçimde girdi. Bu yüzden Fatih ya da Kanuni dönemi sofrasını domatesli yemeklerle hayal etmek anakroniktir. Baharat ise yalnız yemeği 'aşırı güçlü' yapmak için değil, tat, koku ve sindirim dengesini kurmak için kullanılırdı.\n\nDizilerde saray masaları çoğu zaman et ve gösterişle doldurulur. Tarihsel mutfak ise protokol, mevsim, tedarik, dinî takvim ve coğrafi çeşitliliğin birleştiği daha dengeli bir kültürdür.",
+        "accuracyNote": "Dizi sofraları çoğu zaman geç dönem ve modern yemek alışkanlıklarını klasik Osmanlı dönemine taşır; özellikle domates, patates ve mısır gibi ürünler için tarihsel dönem ayrımı yapılmalıdır.",
+        "whyInteresting": "Bugün çok sıradan görünen domatesli yemekler, klasik Osmanlı saray sofrasının ana unsuru değildi; bu malzemeler imparatorluk mutfağına daha geç dönemde yerleşti.",
+        "misconception": "Osmanlı mutfağının yalnız bol etli ve çok baharatlı olduğu sanılır; gerçekte mevsim, tahıl, baklagil, sebze, süt ürünleri ve saray tedarik düzeni en az et kadar önemlidir.",
+        "mediaChanged": "Osmanlı dizileri sofraları çoğu zaman görsel ihtişam için zenginleştirir; tarihsel mutfak ise dönem, malzeme ve tedarik kayıtlarıyla daha ölçülü ve değişken bir yapıya sahiptir.",
+        "whyItMatters": "Osmanlı mutfağını doğru okumak, imparatorluk tarihini yalnız savaş ve saray entrikası üzerinden değil; ticaret, göç, iklim ve gündelik hayat üzerinden de anlamayı sağlar.",
+        "quickRealityCheck": "Osmanlı sofraları gerçekten bugünkü domatesli ve ağır etli Türk mutfağına mı benziyordu, yoksa dönem ve malzeme farkları tabloyu değiştiriyor mu?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Ottoman Palace Cuisine of the Classical Period (Muslim Heritage)",
+            "url": "https://muslimheritage.com/ottoman-palace-cuisine-of-the-classical-period/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Culinary Culture of the Ottoman Palace and Istanbul (Özge Samancı)",
+            "url": "https://www.researchgate.net/publication/283491497_The_Culinary_Culture_of_the_Ottoman_Palace_Istanbul_during_the_last_period_of_the_Empire",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setVerificationStatus": "verified",
+        "setSourceQuality": "strong"
+      },
+      "reviewNotes": [
+        "Tekrar eden bloklar ve modern malzeme anakronizmi temizlendi."
+      ]
+    },
+    {
+      "id": "silk-road-travel-new",
+      "locale": "tr",
+      "verdict": "rewrite",
+      "fields": {
+        "realHistory": "İpek Yolu tek bir çizgi değil, Çin’den Orta Asya’ya, İran’a, Anadolu’ya ve Akdeniz’e uzanan çok kollu bir ticaret ve temas ağıydı. Kervanlar yalnız ipek taşımazdı; baharat, değerli taş, kâğıt, seramik, metal eşya, at, tekstil, dinî fikirler ve teknik bilgiler de bu ağ üzerinde dolaşırdı. Yolculuk uzun, pahalı ve riskli olduğu için güvenli konaklama noktaları hayatiydi.\n\nKervansaraylar bu sistemin lojistik düğümleriydi. İyi işleyen bölgelerde yaklaşık bir günlük yol aralıklarıyla kurulan bu yapılar, tüccarlara konaklama, hayvan bakım alanı, depo, güvenlik ve haber alışverişi sağladı. Şehir içindeki hanlar ise yalnız uyuma yeri değil; pazarlık, kredi, mal depolama ve aracılık mekânlarıydı.\n\nPopüler anlatılarda İpek Yolu çoğu zaman çölde ilerleyen deve kervanına indirgenir. Gerçekte bu ağ, kara yolları, liman bağlantıları, yerel pazarlar ve devletlerin güvenlik politikalarıyla işleyen erken bir küreselleşme biçimiydi. Onu önemli yapan tek mal ipek değil; malın yanında dil, din, hastalık ve bilginin de hareket etmesidir.",
+        "accuracyNote": "Kervansaraylar her yerde aynı standartta değildi; ama iyi örgütlenmiş güzergâhlarda yaklaşık bir günlük yol aralıklarıyla ticareti ve güvenliği destekleyen düğümler olarak çalıştı.",
+        "whyInteresting": "Kervansaraylar yalnız konaklama yeri değil; tüccarların haber aldığı, mal sakladığı, hayvanlarını dinlendirdiği ve farklı coğrafyalardan insanlarla temas kurduğu sosyal merkezlerdi.",
+        "misconception": "İpek Yolu’nun tek bir yol olduğu sanılır; gerçekte farklı kara ve deniz bağlantılarını içeren büyük bir ticaret ve fikir ağıydı.",
+        "mediaChanged": "Filmler ve belgeseller İpek Yolu’nu çoğu zaman deve kervanı görüntüsüne indirger; tarihsel gerçeklikte hanlar, kervansaraylar, limanlar ve yerel pazarlar aynı ağın parçalarıydı.",
+        "whyItMatters": "İpek Yolu, erken küreselleşmenin yalnız mallarla değil, bilgi, inanç, teknoloji ve hastalıkların dolaşımıyla da kurulduğunu gösterir.",
+        "quickRealityCheck": "İpek Yolu sadece ipek taşıyan tek bir rota mıydı, yoksa kervansaraylarla desteklenen çok kollu bir ticaret ve kültür ağı mı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "About the Silk Roads (UNESCO)",
+            "url": "https://www.unesco.org/en/silk-roads/about-silk-roads",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Caravanserai (National Geographic Education)",
+            "url": "https://education.nationalgeographic.org/resource/caravanserai/",
+            "type": "reference",
+            "verified": true
+          },
+          {
+            "title": "The Persian Caravanserai (UNESCO World Heritage Centre)",
+            "url": "https://whc.unesco.org/en/list/1668/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setVerificationStatus": "verified",
+        "setSourceQuality": "strong"
+      },
+      "reviewNotes": [
+        "Bölümlü metin daha doğal akışa dönüştürüldü; 3 gün ücretsiz konaklama genellemesi çıkarıldı."
+      ]
+    },
+    {
+      "id": "medieval-japan-daily-life",
+      "locale": "tr",
+      "verdict": "minorEdit",
+      "fields": {
+        "reviewerNote": "Pirinç ekonomisi, köy yapısı ve samuray dışı gündelik hayat vurgusu dengeli; yalnız kaynaklar daha doğrudan hale getirildi."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Medieval Japan (Britannica)",
+            "url": "https://www.britannica.com/place/Japan/Medieval-Japan",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Samurai and Daimyo (The Met)",
+            "url": "https://www.metmuseum.org/toah/hd/shog/hd_shog.htm",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setVerificationStatus": "verified",
+        "setSourceQuality": "strong"
+      },
+      "reviewNotes": [
+        "Mevcut gövde iyi; kaynak ve reviewer note güncellendi."
+      ]
+    },
+    {
+      "id": "mesopotamian-markets-new",
+      "locale": "tr",
+      "verdict": "rewrite",
+      "fields": {
+        "realHistory": "Mezopotamya pazarlarını yalnız takas yapılan basit meydanlar gibi düşünmek yanıltıcıdır. Sümer ve Babil dünyasında ticaret, borç, kira, ortaklık, miras ve faiz ilişkileri kil tabletler üzerine yazılıyordu. Para madeni sikke biçimine gelmeden önce bile arpa ve gümüş, değer ölçüsü ve ödeme standardı olarak kullanılabiliyordu. Bu yüzden ekonomi yalnız mal değiş tokuşundan değil, kayıt ve güven sisteminden oluşuyordu.\n\nTapınaklar ve saraylar büyük depolama, dağıtım ve kredi merkezleri gibi çalıştı. Çiftçiye tohum veya gümüş borç verilebilir, geri ödeme tarihi ve faiz oranı tabletle kayıt altına alınabilirdi. Hammurabi ve benzeri hukuk metinleri de borç, faiz, kira ve sorumluluk ilişkilerini düzenleyerek ticari hayatı daha öngörülebilir hale getirmeye çalıştı.\n\nBu yapıyı 'modern bankacılık' diye birebir adlandırmak anakronik olur; fakat benzer ihtiyaçlar çok eskidir: kim kime ne borçlu, hangi tarihte ödeyecek, tanık kim, sözleşme nasıl doğrulanacak? Mezopotamya’nın önemi burada yatar. Yazı ve matematik, yalnız edebiyat için değil, hesap tutmak ve güven üretmek için de gelişti.",
+        "accuracyNote": "Mezopotamya ekonomisinde kredi, faiz ve sözleşme pratikleri vardı; ancak bunları doğrudan modern banka sistemiyle eşitlemek yerine erken kayıt ve güven teknolojileri olarak okumak daha doğrudur.",
+        "whyInteresting": "Kil tabletler yalnız tarihî metin değil; borç, kira ve ödeme yükümlülüklerini saklayan erken ekonomik kayıt araçlarıydı.",
+        "misconception": "Madeni para yokken ticaretin basit takastan ibaret olduğu sanılır; gerçekte arpa, gümüş standardı ve yazılı sözleşmeler karmaşık bir kredi düzeni yaratmıştı.",
+        "mediaChanged": "Antik pazar sahneleri çoğu zaman görsel dekor olarak kalır; tarihsel Mezopotamya’da pazar, tapınak deposu, hukuk metni ve kil tablet aynı ekonomik sistemin parçalarıydı.",
+        "whyItMatters": "Bu konu, finansın temelinde yalnız para değil; kayıt, güven, tanıklık ve geri ödeme beklentisinin bulunduğunu çok erken bir örnekle gösterir.",
+        "quickRealityCheck": "Paranın icadından önce ekonomi sadece takas mıydı, yoksa Mezopotamya’da borç, faiz ve yazılı sözleşme düzeni zaten var mıydı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Mesopotamian Clay Tablets (Banca d'Italia)",
+            "url": "https://www.bancaditalia.it/servizi-cittadino/musei-e-visite/museo-moneta/tavolette-mesopotamiche/index.html?com.dotmarketing.htmlpage.language=1",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Emergence of Lending and Writing (Citéco)",
+            "url": "https://www.citeco.fr/10000-years-history-economics/the-origins/emergence-of-lending-and-writing-initially-used-for-accounting",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Mesopotamia (Britannica)",
+            "url": "https://www.britannica.com/place/Mesopotamia",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setVerificationStatus": "verified",
+        "setSourceQuality": "strong"
+      },
+      "reviewNotes": [
+        "'Merkez bankası' benzetmesi yumuşatıldı; anakronik modern bankacılık dili düzeltildi."
+      ]
+    }
+  ]
+}

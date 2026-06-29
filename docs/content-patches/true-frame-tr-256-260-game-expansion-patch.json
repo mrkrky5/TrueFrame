@@ -1,0 +1,555 @@
+{
+  "patchId": "true-frame-tr-256-260-game-expansion-patch",
+  "locale": "tr",
+  "sourceChunks": [],
+  "contentRange": {
+    "startId": "tf26-256",
+    "endId": "tf26-260"
+  },
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-new-card-generation",
+  "summary": {
+    "cardCount": 5,
+    "newCards": [
+      "tf26-256-kcd-plague-quarantine",
+      "tf26-257-bannerlord-feudal-army",
+      "tf26-258-vampyr-1918-flu",
+      "tf26-259-manorlords-town-formation",
+      "tf26-260-forhonor-chivalry-myth"
+    ],
+    "flagshipNewCards": [],
+    "standardNewCards": [
+      "tf26-256-kcd-plague-quarantine",
+      "tf26-257-bannerlord-feudal-army",
+      "tf26-258-vampyr-1918-flu",
+      "tf26-259-manorlords-town-formation",
+      "tf26-260-forhonor-chivalry-myth"
+    ],
+    "mediaFocus": [
+      "Kingdom Come: Deliverance",
+      "Mount & Blade II: Bannerlord",
+      "Vampyr",
+      "Manor Lords",
+      "For Honor"
+    ],
+    "sourceUpdates": [
+      "tf26-256-kcd-plague-quarantine",
+      "tf26-257-bannerlord-feudal-army",
+      "tf26-258-vampyr-1918-flu",
+      "tf26-259-manorlords-town-formation",
+      "tf26-260-forhonor-chivalry-myth"
+    ],
+    "notes": [
+      "Bu batch, oyun odaklı genişleme havuzunun ortaçağ/şehir/salgın ve savaşçı mitleri bölümünden üretildi.",
+      "Hiçbir kart flagship’e zorlanmadı; beş konu da standart kart olarak temiz ve kaynaklı şekilde tutuldu.",
+      "Manor Lords ve For Honor için gerçek tarih ile kurgusal/stilize oyun dünyası ayrımı özellikle açık bırakıldı."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-256-kcd-plague-quarantine",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Kingdom Come: Deliverance’ın Orta Çağ gündelik gerçekçiliği salgın yönetimi, miasma teorisi ve karantina tarihçesiyle kaynaklı yeni karta dönüştürüldü.",
+      "fields": {
+        "title": "Orta Çağ Salgın Önlemleri",
+        "subtitle": "Mikrop yokken hastalık nasıl yönetiliyordu?",
+        "mediaType": "game",
+        "mediaTitle": "Kingdom Come: Deliverance",
+        "era": "Orta Çağ",
+        "region": "Bohemya / Avrupa",
+        "themes": [
+          "Orta Çağ",
+          "Hastalık",
+          "Sağlık",
+          "Din"
+        ],
+        "whatWeSee": "Kingdom Come: Deliverance, Orta Çağ Bohemya’sını yalnız kılıç ve kale üzerinden değil; köy, kilise, hekim, söylenti ve gündelik korku üzerinden hissettirir. Salgın ya da hastalık fikri bu dünyada modern bir laboratuvar problemi gibi değil, topluluğun düzenini bozan belirsiz bir tehdit gibi durur. Oyundaki gerçekçilik hissi de buradan gelir: insanlar hastalığı anlamaya çalışır, ama ellerindeki bilgi mikrop teorisi değil; koku, temas, dua, izolasyon ve yerel otorite karışımıdır.",
+        "realHistory": "Orta Çağ toplumları hastalık karşısında tamamen pasif değildi; fakat neyi durdurmaya çalıştıklarını bugünkü gibi bilmiyorlardı. Mikrop teorisi yokken hastalık çoğu zaman kötü hava, bozulmuş çevre, Tanrı’nın cezası, günah, yıldız etkisi ya da yabancıların getirdiği tehlike gibi açıklanıyordu. Wellcome Collection’ın miasma anlatısı, “kötü hava” fikrinin çöplük, atık ve pis kokuyla bağlantılı düşünüldüğünü gösterir. Bu yüzden temizlik, tütsü, güzel koku, ateş yakma ve havayı “düzeltme” girişimleri tıbbi olduğu kadar sembolik anlam da taşırdı.\n\nYine de uygulamalar yalnız batıl inançtan ibaret değildi. Limanlarda gemileri bekletme, hasta evlerini ayırma, yolcuları kontrol etme, pazar hareketini sınırlama ve kalabalık temasını azaltma gibi önlemler zamanla gelişti. CDC’nin karantina tarihçesi, 14. yüzyılda veba taşıyabileceği düşünülen gemilerin kırk gün bekletilmesinin modern karantina kelimesine kaynak olduğunu aktarır. Bu sistemler kusurluydu; rüşvet, ticaret baskısı ve bilgi eksikliğiyle sık sık deliniyordu. Ama temel sezgi güçlüydü: hareketi yavaşlatmak, salgını da yavaşlatabilirdi.\n\nKingdom Come gibi gerçekçi Orta Çağ oyunlarında hastalık sahnesi bu yüzden yalnız tıbbi ayrıntı değildir. Salgın, köyün ekonomisini, kilisenin otoritesini, lordun düzen kurma iddiasını ve halkın korku dilini aynı anda test eder. Gerçek tarih de bunu söyler: salgın yönetimi, modern bilimden önce bile toplumun kimleri içeri alacağına, kimleri dışarıda bırakacağına ve hangi bilgiyi güvenilir sayacağına dair sert kararlar üretmiştir.",
+        "accuracyNote": "Oyun doğrudan tarih dersi vermez; fakat Orta Çağ hastalık korkusunu gündelik hayat, din, yerel otorite ve sınırlı tıp bilgisiyle birlikte hissettirmesi tarihsel olarak güçlü bir zemine oturur.",
+        "whyInteresting": "Mikrop bilinmeden önce bile toplumlar hastalığı yönetmek için izolasyon, hareket kontrolü ve çevre düzenleme gibi araçlar geliştirdi.",
+        "misconception": "Orta Çağ insanlarının salgın karşısında hiçbir pratik önlem almadığı sanılır; gerçekte açıklamalar yanlış olsa bile bazı önlemler temas ve hareketi sınırlamaya dayanıyordu.",
+        "nextTopics": [
+          "Karantina Fikri",
+          "Orta Çağ Temizliği",
+          "Veba Doktorları"
+        ],
+        "relatedCardIds": [
+          "tf26-192-quarantine",
+          "tf26-196-medieval-hygiene",
+          "tf26-197-doctors"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "Kingdom Come: Deliverance’ın gündelik Orta Çağ gerçekçiliği, salgın öncesi tıp anlayışı, karantina fikri ve miasma teorisiyle birlikte okunabilir.",
+        "accuracyType": "partly-real",
+        "tags": [
+          "kingdom-come-deliverance",
+          "orta-cag",
+          "saglik",
+          "salgin",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun hastalık ve tedaviyi karakter deneyimi içinde verir; tarihsel kaynaklar aynı meselenin miasma, izolasyon, liman kontrolü ve yerel otoriteyle daha geniş bir sistem olduğunu gösterir.",
+        "whyItMatters": "Salgın tarihi, bilim eksikken bile toplumların risk, söylenti ve düzen arasında nasıl karar verdiğini anlamayı sağlar.",
+        "isFlagship": false,
+        "quickRealityCheck": "Mikrop teorisi yokken karantina fikri neden yine de işe yarayabilecek bir sezgiye dayanıyordu?",
+        "sources": [
+          {
+            "title": "CDC Stacks - History of Quarantine",
+            "url": "https://stacks.cdc.gov/view/cdc/84791",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Emerging Infectious Diseases - Lessons from the History of Quarantine",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3559034/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Wellcome Collection - Anxiety in the air",
+            "url": "https://wellcomecollection.org/stories/anxiety-in-the-air",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "CDC Stacks - History of Quarantine",
+            "url": "https://stacks.cdc.gov/view/cdc/84791",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Emerging Infectious Diseases - Lessons from the History of Quarantine",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3559034/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Wellcome Collection - Anxiety in the air",
+            "url": "https://wellcomecollection.org/stories/anxiety-in-the-air",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-257-bannerlord-feudal-army",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Bannerlord’un kurgusal sefer sistemi, feodal hizmet, fief ekonomisi, scutage ve ikmal sınırlamalarıyla tarihsel zemine bağlandı.",
+      "fields": {
+        "title": "Feodal Orduyu Beslemek",
+        "subtitle": "Vasal çağrısı savaşın yalnız başlangıcıydı",
+        "mediaType": "game",
+        "mediaTitle": "Mount & Blade II: Bannerlord",
+        "era": "Orta Çağ",
+        "region": "Avrupa / Kurgusal Calradia",
+        "themes": [
+          "Feodalizm",
+          "Ekonomi",
+          "Askeri Tarih",
+          "Orta Çağ"
+        ],
+        "whatWeSee": "Mount & Blade II: Bannerlord, kurgusal Calradia’da ordu toplamayı neredeyse gündelik ekonomi haline getirir: köylerden asker alınır, vasallar çağrılır, kaleler kuşatılır, erzak biter ve maaşlar moral kadar önem kazanır. Oyun tarihsel bir ülkeyi bire bir anlatmaz; ama feodal savaşın en önemli gerçeğini sezdirir. Ordu, yalnız savaşçı sayısı değil, onu besleyen toprak, vergi, bağlılık ve yol sistemiyle ayakta kalır.",
+        "realHistory": "Feodal savaş, çoğu zaman “lord çağırdı, şövalyeler geldi” kadar basit anlatılır. Gerçekte vassal-fief ilişkisi hem hukuki hem ekonomik bir pazarlıktı. World History Encyclopedia, feodal düzende vassalın askerî hizmet verebildiğini, bazı durumlarda bu hizmetin scutage gibi para ödemeleriyle değiştirilebildiğini açıklar. Bu ayrıntı önemlidir: savaş, yalnız sadakat yeminiyle değil, parayla, süreyle ve pratik kapasiteyle sınırlıydı.\n\nOrta Çağ ordularının en büyük sorunu çoğu zaman savaş meydanı değil yoldaki gündelik ihtiyaçtı. İnsan ve hayvanlar için yiyecek, ok, at, nal, araba, çadır, aşçı, demirci ve haberci gerekiyordu. Uzun seferlerde bu yük büyür; lordun kendi gelirleri, vasalların katkısı ve yerel halktan alınan ikmal birlikte kullanılırdı. Bu nedenle feodal ordu, modern anlamda sürekli ve standart bir kurumdan çok, ilişkiler ağıydı. Hizmet süreleri sınırlı olabilir, vassallar çıkarına aykırı gördüğü seferlerde isteksiz davranabilir, hükümdarlar paralı asker ya da vergiyle bu boşluğu kapatmaya çalışabilirdi.\n\nBannerlord’un gerçek değeri burada ortaya çıkar. Oyuncu asker topladığında yalnız “birim” almaz; maaş, moral, erzak, ganimet, kale garnizonu ve bağlılık sorununu da üstlenir. Calradia kurgu olsa da mekanik tarihsel bir mantığa yaklaşır: Orta Çağ’da savaş, kimin daha cesur olduğundan çok kimin daha uzun süre adam besleyebildiğiyle de ilgilidir.",
+        "accuracyNote": "Bannerlord gerçek bir tarih simülasyonu değil; fakat vasallık, fief, ordu toplama, maaş, erzak ve bağlılık arasındaki ilişki feodal sefer ekonomisinin temel problemleriyle uyumludur.",
+        "whyInteresting": "Orta Çağ savaşını anlamanın yolu yalnız zırha ve kaleye değil, maaş defterine, erzak arabasına ve hizmet süresine bakmaktan geçer.",
+        "misconception": "Feodal orduların sınırsız sadakatle toplanan kalıcı ordular olduğu sanılır; gerçekte hizmet süresi, ikmal ve para savaş kapasitesini sert biçimde sınırlandırdı.",
+        "nextTopics": [
+          "Hanedan Evlilikleri",
+          "Kuşatma Mühendisliği",
+          "Paralı Ordular"
+        ],
+        "relatedCardIds": [
+          "tf26-220-ck3-dynastic-marriage",
+          "tf26-254-aoe-siege-engineering",
+          "tf26-255-totalwar-condottieri"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "Bannerlord’un ordu toplama ve ikmal mekaniği, gerçek feodal hizmet, fief gelirleri ve sefer ekonomisiyle birlikte okunabilir.",
+        "accuracyType": "inspired-by-reality",
+        "tags": [
+          "mount-and-blade",
+          "bannerlord",
+          "feodalizm",
+          "orta-cag",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun feodal savaşı oynanabilir bir ekonomi sistemine çevirir; tarihsel tabloda aynı sistem daha karmaşık hizmet yükümlülükleri, vergiler ve lojistik sınırlardan oluşuyordu.",
+        "whyItMatters": "Savaş tarihini yalnız kahramanlıkla değil, devlet kapasitesi ve ikmal üzerinden okumayı sağlar.",
+        "isFlagship": false,
+        "quickRealityCheck": "Bir Orta Çağ ordusunu güçlü yapan şey kaç şövalyesi olduğu mu, yoksa onları kaç hafta besleyebildiği mi?",
+        "sources": [
+          {
+            "title": "World History Encyclopedia - Feudalism",
+            "url": "https://www.worldhistory.org/Feudalism/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Feudalism",
+            "url": "https://www.britannica.com/topic/feudalism",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "ResearchGate - Military Logistics during the Reign of Edward I of England, 1272–1307",
+            "url": "https://www.researchgate.net/publication/240728408_Military_Logistics_during_the_Reign_of_Edward_I_of_England_1272-1307",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "World History Encyclopedia - Feudalism",
+            "url": "https://www.worldhistory.org/Feudalism/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Feudalism",
+            "url": "https://www.britannica.com/topic/feudalism",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "ResearchGate - Military Logistics during the Reign of Edward I of England, 1272–1307",
+            "url": "https://www.researchgate.net/publication/240728408_Military_Logistics_during_the_Reign_of_Edward_I_of_England_1272-1307",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-258-vampyr-1918-flu",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Vampyr’ın doğaüstü Londra atmosferi 1918 influenza pandemisi, savaş sansürü ve kamu sağlığı yüküyle kaynaklı yeni karta çevrildi.",
+      "fields": {
+        "title": "1918 Grip Pandemisi",
+        "subtitle": "Londra’nın görünmeyen düşmanı",
+        "mediaType": "game",
+        "mediaTitle": "Vampyr",
+        "era": "Modern Tarih",
+        "region": "Britanya / Dünya",
+        "themes": [
+          "Hastalık",
+          "Modern Tarih",
+          "Sağlık",
+          "Londra"
+        ],
+        "whatWeSee": "Vampyr, 1918 Londra’sını sisli sokaklar, hastaneler, morglar ve ahlaki çöküş hissiyle kurar. Oyunun doğaüstü vampir anlatısı kurgudur; fakat üzerine oturduğu şehir gerçek bir felaketin gölgesindedir. Savaşın bitişine yaklaşan Avrupa’da insanlar yalnız cephe kayıplarıyla değil, evlerine kadar giren görünmez bir salgınla da yüzleşti.",
+        "realHistory": "1918–1919 influenza pandemisi, modern tarihin en yıkıcı sağlık krizlerinden biriydi. CDC, dünya nüfusunun yaklaşık üçte birinin enfekte olduğunu ve ölümlerin en az 50 milyon olarak tahmin edildiğini aktarır. Bu tablo, I. Dünya Savaşı’nın son aylarıyla üst üste bindi. Askerî hareketlilik, kalabalık kışlalar, sansür, yetersiz sağlık kapasitesi ve savaş yorgunluğu salgının etkisini ağırlaştırdı.\n\n“İspanyol gribi” adı yanıltıcıdır. Hastalık İspanya’da doğduğu için değil, savaşan ülkelerde haberler sansürlenirken tarafsız İspanya basınının salgını daha açık yazması nedeniyle bu adla anıldı. Wellcome’ın 1918–1919 rapor kayıtları, Britanya’da salgının kamu sağlığı, hastane kapasitesi ve ölüm istatistikleri üzerinden takip edildiğini gösterir. Londra gibi büyük şehirlerde kalabalık ulaşım, işçi mahalleleri ve hastane yükü salgını gündelik hayatın içine taşıdı.\n\nVampyr’ın karanlık Londra’sı bu yüzden yalnız gotik atmosfer değildir. Oyun, doğaüstü tehdidi gerçek bir sağlık krizinin üzerine bindirir. Tarihsel açıdan asıl korku vampirden değil, nedeni tam anlaşılamayan, genç yetişkinleri de öldürebilen ve savaş haberleri arasında kaybolan bir hastalıktan geliyordu. 1918 pandemisi, modern tıbbın bile toplumsal güven, bilgi akışı ve sağlık altyapısı olmadan ne kadar kırılgan kalabileceğini gösterdi.",
+        "accuracyNote": "Vampyr’ın vampir hikâyesi kurgudur; fakat 1918 Londra’sının savaş yorgunluğu, hastane baskısı ve influenza pandemisi arka planı güçlü tarihsel zemine sahiptir.",
+        "whyInteresting": "Salgının “İspanyol” diye anılması bile hastalığın biyolojisinden çok savaş dönemi haber rejimini ve sansürü anlatır.",
+        "misconception": "1918 gribinin yalnız yaşlıları etkileyen sıradan bir grip olduğu sanılır; pandeminin ayırt edici yönlerinden biri genç yetişkinlerde de yüksek ölüm yükü yaratmasıydı.",
+        "nextTopics": [
+          "Orta Çağ Salgın Önlemleri",
+          "Kamu Sağlığı",
+          "Saraybosna Kuşatması"
+        ],
+        "relatedCardIds": [
+          "tf26-256-kcd-plague-quarantine",
+          "tf26-180-public-health",
+          "tf26-210-twom-sarajevo-siege"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "Vampyr’ın 1918 Londra atmosferi, influenza pandemisinin savaş, sansür ve şehir sağlığıyla kesişen gerçek tarihiyle okunabilir.",
+        "accuracyType": "partly-real",
+        "tags": [
+          "vampyr",
+          "1918-gribi",
+          "londra",
+          "saglik",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun pandemiyi gotik korku anlatısına zemin yapar; tarihsel kaynaklar aynı dönemin savaş sansürü, hastane yükü ve küresel ölüm ölçeğini gösterir.",
+        "whyItMatters": "1918 pandemisi, sağlık krizlerinin yalnız virüsle değil; haber akışı, savaş koşulları ve kamu kapasitesiyle de şekillendiğini hatırlatır.",
+        "isFlagship": false,
+        "quickRealityCheck": "1918 gribine neden “İspanyol gribi” dendi; gerçekten İspanya’da başladığı için mi?",
+        "sources": [
+          {
+            "title": "CDC Archive - History of 1918 Flu Pandemic",
+            "url": "https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-commemoration/1918-pandemic-history.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "National Archives - The Influenza Epidemic of 1918",
+            "url": "https://www.archives.gov/exhibits/influenza-epidemic/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Wellcome Collection - Report on the pandemic of influenza, 1918-19",
+            "url": "https://wellcomecollection.org/works/puxqa3uh",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "CDC Archive - History of 1918 Flu Pandemic",
+            "url": "https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-commemoration/1918-pandemic-history.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "National Archives - The Influenza Epidemic of 1918",
+            "url": "https://www.archives.gov/exhibits/influenza-epidemic/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Wellcome Collection - Report on the pandemic of influenza, 1918-19",
+            "url": "https://wellcomecollection.org/works/puxqa3uh",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-259-manorlords-town-formation",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Manor Lords’un kasaba kurma mekaniği burgage parselleri, açık tarla sistemi, pazar hakkı ve manorial kayıtlar üzerinden kaynaklı yeni karta dönüştürüldü.",
+      "fields": {
+        "title": "Orta Çağ Kasabası",
+        "subtitle": "Ev, tarla ve pazar aynı planın parçasıydı",
+        "mediaType": "game",
+        "mediaTitle": "Manor Lords",
+        "era": "Orta Çağ",
+        "region": "Avrupa",
+        "themes": [
+          "Orta Çağ",
+          "Şehir Planlama",
+          "Ekonomi",
+          "Gündelik Yaşam"
+        ],
+        "whatWeSee": "Manor Lords, kasaba kurmayı yalnız bina yerleştirme oyunu gibi değil, toprağın kullanımı, ev parselleri, pazar, üretim zinciri ve mevsimsel tarım düzeni olarak gösterir. Bir evin arkasındaki bahçe, tarlanın konumu, pazarın merkezi ve yolların akışı küçük kararlar gibi görünür. Oysa Orta Çağ yerleşimlerinde bu kararlar, kimin ne üreteceğini, nerede satacağını ve hangi topluluğa bağlı yaşayacağını belirlerdi.",
+        "realHistory": "Orta Çağ kasabası, rastgele büyüyen ev yığınından ibaret değildi. Birçok yerleşimde pazar hakkı, lordluk kontrolü, kilise, yol bağlantısı ve tarım alanı birlikte işledi. Historic England’ın ortaçağ yerleşimleri rehberi, yerleşim kalıntılarının köy, mezra, manastır çevresi ve pazar yerleri gibi farklı biçimlerde izlenebildiğini gösterir. Kentleşme, yalnız nüfus artışı değil, hukuki hak ve ekonomik işlev meselesiydi.\n\nBurgage parselleri bu düzenin önemli parçalarından biriydi. Genellikle caddeye dar cepheli, arkaya doğru uzayan ev ve bahçe alanları, kasaba içindeki üretim ve ticareti toprağa bağladı. Bu düzen, zanaatkârın hem yaşadığı hem çalıştığı alanı şekillendiriyordu. Kasaba dışındaysa açık tarla sistemi, ortak kullanım hakları, otlaklar ve manorial kayıtlar gündelik ekonominin çerçevesini oluşturdu. Historic England’ın field systems rehberi, açık tarla sistemlerinin post-Roman kırsal peyzajda uzun süre belirleyici olduğunu aktarır.\n\nManor Lords’un güçlü yanı, Orta Çağ ekonomisini yalnız “kale ve savaş” üzerinden değil, yerleşim dokusu üzerinden düşündürmesidir. Gerçek tarihte de kasaba, küçük bir üretim motoruydu: oduncu, çiftçi, değirmenci, demirci, tüccar ve lord aynı mekânsal düzen içinde birbirine bağlanıyordu. Bir yolun pazara çıkması, bir evin arkasındaki bahçe ya da tarlanın ortak düzene göre bölünmesi yalnız estetik değil; iktidar ve geçim meselesiydi.",
+        "accuracyNote": "Manor Lords belirli bir kasabayı bire bir yeniden kurmaz; ancak burgage parselleri, açık tarla sistemi, pazar ve yerleşim ekonomisi arasındaki ilişki tarihsel yerleşim çalışmalarıyla uyumludur.",
+        "whyInteresting": "Kasaba kurmak, Orta Çağ’da bina dizmekten çok hak, vergi, üretim ve topluluk ilişkilerini mekâna yerleştirmekti.",
+        "misconception": "Orta Çağ köy ve kasabalarının plansız, tamamen organik büyüdüğü sanılır; birçok yerleşimde pazar, yol, parsel ve tarla düzeni hukuki-ekonomik çerçeveyle şekillendi.",
+        "nextTopics": [
+          "Kırsal Etki",
+          "Kale Ekonomisi",
+          "Sanayi Şehri"
+        ],
+        "relatedCardIds": [
+          "tf26-199-rural-impact",
+          "tf26-261-stronghold-castle-economy",
+          "tf26-262-anno1800-industrial-city"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "Manor Lords’un yerleşim ve üretim zinciri, gerçek ortaçağ burgage parselleri, açık tarla sistemleri ve manorial kayıtlarla birlikte okunabilir.",
+        "accuracyType": "partly-real",
+        "tags": [
+          "manor-lords",
+          "orta-cag",
+          "sehir-planlama",
+          "ekonomi",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun kasaba planını oynanabilir kaynak zincirine dönüştürür; tarihsel kayıtlar aynı düzenin pazar hakkı, parsel biçimi ve ortak tarla sistemiyle kurulduğunu gösterir.",
+        "whyItMatters": "Gündelik yerleşim tarihi, siyasi ve ekonomik düzenin büyük savaşlardan çok ev, tarla ve pazar üzerinden de okunabileceğini gösterir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Bir Orta Çağ kasabasını kasaba yapan şey yalnız ev sayısı mıydı, yoksa pazar hakkı ve toprak düzeni mi?",
+        "sources": [
+          {
+            "title": "Historic England - Medieval Settlements",
+            "url": "https://historicengland.org.uk/images-books/publications/iha-medieval-settlements/heag210-medieval-settlements/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Historic England - Field Systems",
+            "url": "https://historicengland.org.uk/images-books/publications/iha-field-systems/heag204-field-systems/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "UK National Archives - Manorial Records",
+            "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/manorial-records/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Historic England - Medieval Settlements",
+            "url": "https://historicengland.org.uk/images-books/publications/iha-medieval-settlements/heag210-medieval-settlements/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Historic England - Field Systems",
+            "url": "https://historicengland.org.uk/images-books/publications/iha-field-systems/heag204-field-systems/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "UK National Archives - Manorial Records",
+            "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/manorial-records/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-260-forhonor-chivalry-myth",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "For Honor’ın onurlu savaşçı estetiği şövalyelik ideali, aristokrat statü, fidye ekonomisi ve sınırlı savaş ahlakı üzerinden kaynaklı yeni karta dönüştürüldü.",
+      "fields": {
+        "title": "Şövalyelik Miti",
+        "subtitle": "Onurlu düello mu, sınıflı şiddet mi?",
+        "mediaType": "game",
+        "mediaTitle": "For Honor",
+        "era": "Orta Çağ",
+        "region": "Avrupa / Kurgusal Dünya",
+        "themes": [
+          "Orta Çağ",
+          "Şövalyelik",
+          "Yanlış Bilinenler",
+          "Savaş"
+        ],
+        "whatWeSee": "For Honor, şövalye, samuray ve viking imgelerini büyük ölçüde stilize edilmiş onur kodları üzerinden karşı karşıya getirir. Oyuncu için savaş, çoğu zaman bire bir düello, ağır zırh, ritüel hareket ve savaşçı kimliği demektir. Bu görüntü güçlüdür; ama özellikle Avrupa şövalyeliğinde “onur” ile savaş pratiği arasında her zaman romantik bir uyum yoktu.",
+        "realHistory": "Şövalyelik, gerçek savaş pratiği ile edebi idealin karışımıydı. Getty Museum’un açıklamasına göre chivalry, 11. ve 12. yüzyıllarda savaşta cesaret, sadakat ve cömertlik gibi değerleri vurgulayan bir onur kodu olarak gelişti; geç Orta Çağ’da el yazmaları ve aristokrat kültür bu ideali daha da yaygınlaştırdı. Bu, şövalyelerin yalnız vahşi savaşçılar olduğu anlamına gelmez. Eğitim, soy, din, tören, arma ve saray kültürü gerçekten önemliydi.\n\nFakat savaş meydanı bu idealden çok daha sertti. “Onurlu davranış” çoğu zaman eşit statüdeki soylular arasında daha güçlü işledi. Cambridge’in ransom culture çalışması, savaş esirleri ve fidye pratiğinin geç Orta Çağ savaş ekonomisinde önemli yer tuttuğunu gösterir. Soylu bir esiri öldürmek yerine fidye almak kârlıydı; sıradan piyade, köylü ya da şehir halkı aynı korumaya sahip değildi. Kuşatma, yağma, köy yakma, zorla vergi toplama ve sivillerin hedef haline gelmesi şövalyelik edebiyatının parlak yüzünün dışında kalır.\n\nFor Honor’ın savaşçı estetiği bu nedenle tarihsel gerçeklikten çok hafızadaki arketipleri kullanır. Şövalye onuru vardı; ama evrensel bir insan hakları kodu değildi. Daha çok aristokrat erkeklerin kendi statülerini, cesaretlerini ve meşruiyetlerini anlatma diliydi. Gerçek savaş, bu dil ile ekonomik çıkar, fidye pazarı ve sınıfsal şiddet arasında gidip geldi.",
+        "accuracyNote": "For Honor tarihsel milletleri bire bir simüle etmez; stilize savaşçı arketipleri kullanır. Şövalyelik ise gerçek bir kültürel idealdir, fakat savaş pratiğinde sınıf, fidye ve yağma gerçekleriyle sınırlıydı.",
+        "whyInteresting": "Şövalyelik hem gerçek bir değer sistemi hem de soylu şiddeti güzelleştiren bir anlatı diliydi.",
+        "misconception": "Şövalyelerin savaşta herkese aynı onur kurallarıyla davrandığı sanılır; gerçekte bu kurallar çoğu zaman statü sahibi rakipler için daha geçerliydi.",
+        "nextTopics": [
+          "Paralı Ordular",
+          "Kuşatma Mühendisliği",
+          "Feodal Orduyu Beslemek"
+        ],
+        "relatedCardIds": [
+          "tf26-255-totalwar-condottieri",
+          "tf26-254-aoe-siege-engineering",
+          "tf26-257-bannerlord-feudal-army"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "For Honor’ın şövalye estetiği, gerçek Orta Çağ chivalry ideali, aristokrat savaş kültürü ve fidye ekonomisiyle birlikte okunabilir.",
+        "accuracyType": "inspired-by-reality",
+        "tags": [
+          "for-honor",
+          "sovalyelik",
+          "orta-cag",
+          "yanlis-bilinenler",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun onurlu savaşçı arketiplerini keskinleştirir; tarihsel tablo, bu onur dilinin soylu statü, fidye ve savaş ekonomisiyle sınırlı çalıştığını gösterir.",
+        "whyItMatters": "Orta Çağ savaşını romantize etmeden okumak, onur söyleminin kimleri kapsayıp kimleri dışarıda bıraktığını görmeyi sağlar.",
+        "isFlagship": false,
+        "quickRealityCheck": "Şövalyelik gerçekten herkesi koruyan bir ahlak kodu muydu, yoksa daha çok soylular arası savaş dilini mi düzenliyordu?",
+        "sources": [
+          {
+            "title": "Getty Museum - Chivalry in the Middle Ages",
+            "url": "https://www.getty.edu/art/exhibitions/chivalry/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The Metropolitan Museum of Art - The Art of Chivalry",
+            "url": "https://www.metmuseum.org/met-publications/the-art-of-chivalry-european-arms-and-armor-from-the-metropolitan-museum-of-art",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Cambridge University Press - Ransom Culture in the Late Middle Ages",
+            "url": "https://assets.cambridge.org/97811070/10949/excerpt/9781107010949_excerpt.pdf",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Getty Museum - Chivalry in the Middle Ages",
+            "url": "https://www.getty.edu/art/exhibitions/chivalry/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The Metropolitan Museum of Art - The Art of Chivalry",
+            "url": "https://www.metmuseum.org/met-publications/the-art-of-chivalry-european-arms-and-armor-from-the-metropolitan-museum-of-art",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Cambridge University Press - Ransom Culture in the Late Middle Ages",
+            "url": "https://assets.cambridge.org/97811070/10949/excerpt/9781107010949_excerpt.pdf",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

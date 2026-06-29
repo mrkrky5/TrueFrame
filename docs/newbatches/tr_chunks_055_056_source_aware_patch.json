@@ -1,0 +1,343 @@
+{
+  "batch": "tr-chunks-055-056-source-aware",
+  "sourceChunks": [
+    "tr-chunk-055.json",
+    "tr-chunk-056.json"
+  ],
+  "reviewedAt": "2026-06-28",
+  "notes": [
+    "External source-aware editorial review for Turkish chunks 055 and 056.",
+    "Only changed fields are included. Apply by id + locale.",
+    "sourceUpdates are separated from text field updates.",
+    "Flagship cards were expanded where the original body was repetitive or too short."
+  ],
+  "entries": [
+    {
+      "id": "tf26-075-armor-cost",
+      "locale": "tr",
+      "decision": "minor_rewrite",
+      "reason": "Subtitle generic; body was generally sound but needed tighter class/cost framing and cleaner source metadata.",
+      "fields": {
+        "subtitle": "İyi zırh güç kadar gelir de isterdi",
+        "whatWeSee": "Kingdom Come: Deliverance’ta iyi zırh bir seviye ödülü değil, ciddi bir ekonomik eşik gibi çalışır. Oyuncu tam takım ekipmana hızla ulaşamaz; parça uyumu, tamir, pas temizliği ve bakım sürekli masraf çıkarır. Böylece savaş gücü yalnız beceriye değil, köken, patronaj ve gelir ağına bağlı görünür.",
+        "realHistory": "Geç Orta Çağ’da nitelikli zırh, yalnız demir veya çelikten yapılmış koruyucu bir kabuk değildi; uzman usta emeği, ölçü alma, malzeme kalitesi ve bakım bilgisi gerektiren pahalı bir sistemdi. Bir savaşçının koruması tek parça “parlak zırh”tan oluşmazdı: gambeson, mail, plaka parçaları, miğfer, eldiven, dizlik, ayak koruması ve bazen at donanımı birlikte düşünülürdü. Setin kalitesi arttıkça fiyat da dramatik biçimde yükselirdi.\n\nMaliyet satın alma anında bitmezdi. Zırhın paslanmaması, kayışlarının değiştirilmesi, perçinlerinin onarılması ve iç astarının yenilenmesi gerekiyordu. Seferde zarar gören bir parça, savaşçıyı yerel ustaya, yedek parçaya veya patronun ödeme gücüne bağımlı hale getirirdi. Bu yüzden tam donanımlı savaşçı görüntüsü çoğu zaman arkasında soylu hane, maaşlı hizmet, ganimet paylaşımı veya kredi ilişkisi bulunan bir ekonomik düzeni gösterir.\n\nKingdom Come bu hissi güçlü verir: iyi ekipman hayatta kalma şansını artırır ama onu edinmek ve sürdürmek ayrı bir mücadeledir. Tarihsel açıdan zırh, savunma teknolojisi olduğu kadar sınıfsal konum göstergesidir. Üzerinizdeki metal, yalnız ne kadar korunduğunuzu değil, hangi gelir ağına erişebildiğinizi de söyler.",
+        "mediaChanged": "Oyun zırh masrafını oynanış döngüsüne çevirir; tarihsel düzlemde bakım, kredi, patronaj ve at ekipmanı yükü daha karmaşık bir finansman sorunudur.",
+        "whyItMatters": "Zırh, Orta Çağ savaşında teknolojinin sınıfsal sınırlarla nasıl iç içe geçtiğini görünür kılar.",
+        "quickRealityCheck": "Orta Çağ’da zırhın asıl pahalı kısmı sadece satın almak mıydı, yoksa onu seferler boyunca çalışır halde tutabilmek mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Met - Arms and Armor: Common Misconceptions",
+            "url": "https://www.metmuseum.org/essays/arms-and-armor-common-misconceptions-and-frequently-asked-questions",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The Met - Arms and Armor Department",
+            "url": "https://www.metmuseum.org/departments/arms-and-armor",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Armour",
+            "url": "https://www.britannica.com/technology/armour-protective-clothing",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-076-markets",
+      "locale": "tr",
+      "decision": "flagship_rewrite_expand",
+      "reason": "Flagship text had repetition and underdeveloped market-rights/legal structure. Expanded with rights, measurements, fairs, guilds and information flow.",
+      "fields": {
+        "subtitle": "Pazar meydanı: ticaret, vergi ve haber akışı",
+        "whatWeSee": "Kingdom Come: Deliverance’da pazarlar yalnız alışveriş yeri değildir; Henry burada ekipman alır, pazarlık yapar, haber duyar ve yerel düzenin kim tarafından kontrol edildiğini hisseder. Tartılar, tezgâhlar, hanlar ve görevli figürler, ekonominin sadece para değil otorite meselesi olduğunu gösterir.",
+        "realHistory": "### Pazar hakkı: meydan kime aitti?\nGeç Orta Çağ’da pazar, rastgele açılan bir alışveriş alanı değildi. Bir yerleşimin düzenli pazar veya yıllık panayır kurabilmesi çoğu zaman kral, lord ya da şehir otoritesinden gelen imtiyaza bağlıydı. Bu hak, ticareti belirli gün ve mekâna toplar; aynı zamanda vergi, kira, geçiş ücreti ve mahkeme yetkisi üretirdi. Bu yüzden pazar meydanı, yalnız ekonomik değil hukuki bir alandı.\n\n### Fiyat, ölçü ve güven\nKingdom Come’daki pazarlık hissi doğru bir sezgi taşır ama tarihsel pazarda fiyatı sadece iki kişinin anlaşması belirlemezdi. Hasat durumu, savaş geçişleri, yol güvenliği, kıtlık riski, lonca sınırlamaları ve yerel ölçü denetimi fiyatları etkilerdi. Tartı hilesi, düşük kaliteli mal, sahte ölçü veya vergi kaçırma gibi sorunlar belediye görevlilerini ve yerel mahkemeleri doğrudan ilgilendirirdi. Bu nedenle pazar düzeni, güven üretmek zorundaydı: alıcı malın ne aldığını, satıcı ise kimin hangi hakla tezgâh açabileceğini bilmek isterdi.\n\n### Köy ile kent arasındaki bağ\nPazar, kırsal üretici ile kent tüketicisi arasındaki haftalık köprüydü. Köylü tahıl, yumurta, hayvan ya da odun getirir; karşılığında tuz, demir eşya, kumaş, ayakkabı veya küçük aletler alırdı. Ancak bu buluşma eşit şartlarda gerçekleşmezdi. Yol ücreti, tezgâh kirası, lonca kısıtları ve borç ilişkileri küçük üreticinin hareket alanını daraltabilirdi. Buna rağmen pazar günü, para kadar haberin de dolaştığı andı: savaş söylentileri, vergi değişiklikleri, evlilik pazarlıkları ve iş fırsatları aynı meydanda öğrenilirdi.\n\n### Oyunun yakaladığı gerçek\nKingdom Come pazarı oyun döngüsüne bağlar: al, sat, tamir ettir, bilgi topla. Tarihsel olarak bu döngü çok daha kurumsaldı. Pazar, feodal ve kentsel otoritenin gündelik hayatta hissedildiği en somut yerlerden biriydi. Kimin tezgâh açabildiği, hangi ölçünün geçerli olduğu ve kimin anlaşmazlığı çözdüğü, Orta Çağ toplumunda gücün nasıl işlediğini açıkça gösterirdi.",
+        "accuracyNote": "Oyun pazar atmosferini ve pazarlık hissini iyi verir; pazar hakkı, ölçü denetimi ve yerel mahkeme boyutu doğal olarak sadeleşir.",
+        "whyInteresting": "Pazar meydanı, mal kadar haberin, verginin ve yerel otoritenin de dolaştığı bir merkezdi.",
+        "misconception": "Orta Çağ pazarlarında fiyatların tamamen serbest pazarlıkla belirlendiği sanılır; oysa imtiyaz, ölçü denetimi ve lonca kısıtları önemliydi.",
+        "mediaChanged": "Oyun pazarı erişilebilir bir alışveriş döngüsü yapar. Tarihte pazar, kimin ticaret yapabileceğini ve hangi şartlarla yapacağını belirleyen hukuki-ekonomik bir kurumdu.",
+        "whyItMatters": "Pazarı anlamak, Orta Çağ ekonomisinde devlet, şehir ve köy arasındaki bağın gündelik hayatta nasıl kurulduğunu gösterir.",
+        "quickRealityCheck": "Bir kasabada pazar kurulmasını belirleyen şey sadece alıcı-satıcı ihtiyacı mıydı, yoksa pazar hakkı ve yerel otorite izni mi?",
+        "readingTimeMinutes": 3,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The National Archives - Markets and fairs",
+            "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/markets-fairs/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Centre for Metropolitan History - Markets and fairs in thirteenth-century England",
+            "url": "https://archives.history.ac.uk/ihrcms/cmh/projects/research/markets-and-fairs.html",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Guild",
+            "url": "https://www.britannica.com/topic/guild",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-079-sieges",
+      "locale": "tr",
+      "decision": "minor_rewrite",
+      "reason": "Good overall; tightened action-vs-logistics contrast and removed overly broad phrasing.",
+      "fields": {
+        "subtitle": "Kale savaşı çoğu zaman bekleyiş savaşıydı",
+        "whatWeSee": "Kingdom Come’da kuşatma, baskın ve kale çatışmaları kısa, yüksek gerilimli anlar halinde görünür. Oyuncu sura yaklaşır, kapı zorlar, ok yağmurundan kaçınır ve kısa sürede taktik karar verir. Bu tempo etkilidir; fakat gerçek kuşatmaların büyük bölümü haftalar süren bekleyiş, erzak hesabı, hastalık ve mühendislik emeğiyle ilerlerdi.",
+        "realHistory": "Geç Orta Çağ’da kuşatma, ani kahramanlık patlamasından çok kaynak yönetimi savaşıydı. Bir kaleyi almak çoğu zaman doğrudan hücumla değil, ikmal hatlarını kesmek, su kaynaklarını kontrol etmek, değirmenleri ele geçirmek ve savunmacıyı moral açısından yıpratmakla mümkün olurdu. Doğrudan saldırı yapılırsa kayıp yüksek olabilirdi; bu yüzden sabır çoğu zaman kılıçtan daha ucuz bir silahtı.\n\nKuşatma hazırlığı geniş bir iş bölümü gerektirirdi. Marangozlar, demirciler, kazmacılar, taşıyıcılar ve mühendislik bilgisine sahip ustalar süreçte rol alırdı. Mancınık, toprağa gömülen yaklaşma hatları, hendek doldurma işleri, merdivenler ve duvar onarımları hem saldıran hem savunan taraf için sürekli emek demekti. Savunma tarafı da pasif beklemezdi; gece baskınları, karşı tüneller, yangın çıkarma girişimleri ve hızlı tamiratlarla saldırganın zaman maliyetini artırmaya çalışırdı.\n\nOyun dövüş yoğunluğunu iyi hissettirir ama kuşatmanın asıl gerçeği, çoğu kararın çatışma dakikalarında değil bekleyiş günlerinde alınmasıdır. Hasat takvimi, ordunun yiyeceği, askerlerin hastalanması ve çevre köylerin ne kadar yük taşıyabileceği sonucu belirleyebilirdi. Bu nedenle kuşatma, cephedeki asker kadar arka plandaki tedarikçinin de savaşıdır.",
+        "mediaChanged": "Oyun kuşatmayı aksiyon merkezli çatışmalara yoğunlaştırır; tarihsel süreçte belirleyici olan çoğu unsur ikmal, mühendislik ve zaman baskısıydı.",
+        "whyItMatters": "Kuşatma tarihi, Orta Çağ savaşının yalnız cesaretle değil organizasyon kapasitesiyle kazanıldığını gösterir.",
+        "quickRealityCheck": "Bir kaleyi düşürmek için sura tırmanmak mı daha belirleyiciydi, yoksa kalenin yiyecek ve su bağlantısını kesmek mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Britannica - Siege warfare",
+            "url": "https://www.britannica.com/topic/siege-warfare",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Bohemia",
+            "url": "https://www.britannica.com/place/Bohemia",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Boydell & Brewer - The Art of Warfare in Western Europe During the Middle Ages",
+            "url": "https://boydellandbrewer.com/9780851155708/the-art-of-warfare-in-western-europe-during-the-middle-ages/",
+            "type": "book",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-080-literacy",
+      "locale": "tr",
+      "decision": "flagship_rewrite_expand",
+      "reason": "Flagship content repeated and needed clearer distinction between reading, writing, seals, clerical literacy and practical numeracy.",
+      "fields": {
+        "subtitle": "Okumak, yazmak ve mühür basmak aynı şey değildi",
+        "whatWeSee": "Kingdom Come: Deliverance’da okuryazarlık nadir ve sınıfsal bir beceri olarak görünür. Henry başlangıçta kitap okuyamaz; rahipler, kâtipler, soylular ve bazı tüccarlar yazı dünyasına daha yakındır. Oyun, okuma öğrenmeyi yalnız kişisel gelişim değil, statü kapısı gibi hissettirir.",
+        "realHistory": "### Yazı kimin elindeydi?\n1403 Bohemyası gibi geç Orta Çağ toplumlarında okuryazarlık tek bir beceri değildi. Latince okuyabilmek, yerel dilde mektup yazabilmek, hesap tutabilmek, mühür tanıyabilmek ve bir belgeyi sözlü olarak doğrulatabilmek farklı düzeylerdi. Ruhban sınıfı, noterler, şehir kâtipleri ve bazı eğitimli tüccarlar yazılı belgelerle doğrudan çalışırken, köylülerin çoğu belge düzenine tanık, mühür, işaret veya sözlü formül üzerinden dolaylı katılırdı.\n\n### Belge gücü\nOkuryazarlığın önemi yalnız kitap okumaktan gelmezdi. Vergi kayıtları, borç senetleri, mülkiyet ihtilafları, miras anlaşmaları ve mahkeme tutanakları yazıyla kalıcı hale gelirdi. Bir köylü sözleşmeyi okuyamasa bile, belgenin varlığı onun hayatını etkileyebilirdi. Kâtip ya da noter, sözlü anlaşmayı yazılı otoriteye çeviren aracı sınıftı. Bu yüzden yazı bilen kişi yalnız bilgi sahibi değil, hukuki sonucu şekillendirebilen biri haline gelirdi.\n\n### Şehir, ticaret ve sayısal okuryazarlık\nKentlerde okuryazarlık daha pratik biçimler aldı. Tüccarlar fiyat, borç, stok ve ortaklık hesabı tutmak zorundaydı; bazı zanaatkârlar lonca kayıtları ve sipariş defterleriyle çalışıyordu. Bu, herkesin edebi metin okuyabildiği anlamına gelmez. Ancak sayı, mühür, işaret ve kısa kayıt bilgisi kent ekonomisinde değerli hale geldi. Yazının gücü, manastır ve saraydan pazar meydanına doğru genişledi.\n\n### Oyunun doğru sezgisi\nKingdom Come’un okuryazarlığı ayrı bir beceri olarak göstermesi güçlü bir tarihsel sezgi taşır. Henry’nin metni çözememesi yalnız komik bir oyun detayı değil, sınıfsal bir gerçekliktir. Yazı dünyasına erişim, hukuka, ticarete ve otoriteye erişim demekti. Bu nedenle Orta Çağ’da okuryazarlık “kitap bilgisi”nden daha fazlasıydı: mühür, kayıt, borç ve statü diliydi.",
+        "accuracyNote": "Oyunun okuryazarlığı sınıfsal ve kurumsal bir eşik olarak göstermesi isabetlidir; okuryazarlık oranları bölge, sınıf, cinsiyet ve dil düzeyine göre değiştiği için kesin tek oran vermekten kaçınmak gerekir.",
+        "whyInteresting": "Bir harfi okuyabilmek, bazen bir borcun, mirasın veya mahkeme kararının anlamını değiştirebiliyordu.",
+        "misconception": "Orta Çağ’da herkes tamamen cahildi ya da herkes basitçe okuyabiliyordu gibi iki uç anlatı yanlıştır; beceri düzeyi sınıfa, mesleğe, dile ve mekâna göre değişirdi.",
+        "mediaChanged": "Oyun okuryazarlığı beceri ağacı gibi sunar; tarihsel düzlemde yazı, kâtipler, mühürler, tanıklar ve belgeler üzerinden çalışan bir otorite sistemiydi.",
+        "whyItMatters": "Okuryazarlık, Orta Çağ’da bilginin değil, hukuki ve ekonomik gücün kimde toplandığını anlamayı sağlar.",
+        "quickRealityCheck": "1403 Bohemyası’nda bir köylü belgeyi okuyamasa bile, mühür ve tanık sistemi onun hayatını nasıl etkileyebilirdi?",
+        "readingTimeMinutes": 3,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "World History Encyclopedia - Medieval Education",
+            "url": "https://www.worldhistory.org/Medieval_Education/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Bohemia",
+            "url": "https://www.britannica.com/place/Bohemia",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Late medieval Czech, Latin and German charter corpus study",
+            "url": "https://arxiv.org/abs/2305.16718",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-081-privateers",
+      "locale": "tr",
+      "decision": "minor_rewrite_source_cleanup",
+      "reason": "Text was solid; tightened legal distinction and source set.",
+      "fields": {
+        "subtitle": "Korsanlıkla devlet hizmeti arasındaki ince çizgi",
+        "whatWeSee": "Pirates of the Caribbean, privateer ile korsan arasındaki çizgiyi bilerek bulanıklaştırır. Aynı kaptan bir sahnede taç adına hareket eden meşru aktör, başka sahnede serbest yağmacı gibi görünebilir. Film hukuki ayrımı geri plana iter; karakterin karizması bayraktan daha önemli hale gelir.",
+        "realHistory": "Privateer, devletin verdiği letter of marque sayesinde düşman ticaret gemilerine saldırma yetkisi alan özel silahlı kaptandı. Bu sistem, 16.–18. yüzyıllarda Avrupa güçleri için maliyeti düşük bir deniz savaşı yöntemiydi. Devlet kendi donanmasını sürekli büyütmek yerine özel sermayeyi kullanır; kaptan ve yatırımcı ganimetten pay alırken düşman ticaretine zarar verilirdi.\n\nAncak bu meşruiyet kırılgandı. Lisans yalnız belirli savaş, düşman ve süre için geçerliydi. Savaş bittiğinde, izin belgesi iptal edildiğinde ya da yanlış hedef seçildiğinde aynı eylem korsanlık sayılabilirdi. Ele geçirilen gemilerin prize court gibi mahkemelerde değerlendirilmesi de bu yüzden önemliydi: ganimetin yasal olup olmadığı sadece denizde değil, mahkeme ve liman kayıtlarında belirlenirdi.\n\nFilmdeki bulanıklık bu tarihsel gerçeğe dokunur. Privateerlik romantik özgürlük değil, devletin deniz şiddetini sözleşme, lisans ve ganimet paylaşımı üzerinden özel aktörlere devretmesidir. 1856 Paris Deklarasyonu ile privateering’in kaldırılması, bu gri alanın modern devlet donanması lehine kapatılmaya çalışıldığını gösterir.",
+        "mediaChanged": "Film privateer statüsünü korsan kimliğiyle neredeyse tek bir macera arketipine dönüştürür; tarihte statüyü belirleyen şey somut yetki belgesi, hedef ülke ve savaş koşuluydu.",
+        "whyItMatters": "Aynı geminin bir gün meşru savaş aracı, başka bir gün suçlu korsan sayılabilmesi, deniz savaşında hukukun ne kadar stratejik olduğunu gösterir.",
+        "quickRealityCheck": "Letter of marque geçersiz kaldığında, aynı kaptanın aynı saldırısı neden bir anda suç kategorisine düşebilirdi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Britannica - Privateer",
+            "url": "https://www.britannica.com/topic/privateer",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Letter of marque and reprisal",
+            "url": "https://www.britannica.com/topic/letter-of-marque-and-reprisal",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "ICRC - Paris Declaration Respecting Maritime Law, 1856",
+            "url": "https://ihl-databases.icrc.org/en/ihl-treaties/paris-decl-1856/declaration",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-082-blackbeard",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Repeated blocks and needed stronger distinction between theatrical fear and documented operations.",
+      "fields": {
+        "subtitle": "Edward Teach’in korku tiyatrosu",
+        "whatWeSee": "Pirates of the Caribbean’de efsanevi korsanlar doğaüstü güçlere, lanetli gemilere ve abartılı kişisel mitlere bağlanır. Blackbeard popüler kültürde neredeyse şeytani bir figürdür: duman, karanlık sakal, korkuya kapılan mürettebat ve limanları titreten bir isim.",
+        "realHistory": "Edward Teach ya da Thatch, Karasakal adıyla 1716–1718 arasında Atlantik ve Karayip dünyasının en ünlü korsanlarından biri haline geldi. Onu etkili yapan şey yalnız şiddet değil, bilinçli imaj yönetimiydi. Sakalına yanan fitiller iliştirdiğine dair anlatı, korku yaratıp karşı tarafı çatışmadan teslim olmaya zorlayan bir psikolojik savaş taktiği olarak okunur.\n\nKarasakal’ın gücü, Queen Anne’s Revenge gibi büyük ve silahlı bir gemiyle ticaret rotalarını tehdit edebilmesinden geliyordu. Charleston ablukası, onun sadece tek tek gemi yağmalayan biri olmadığını; bir limanın ekonomik akışını felce uğratabilecek kapasiteye ulaştığını gösterdi. Bu nedenle sömürge yönetimleri için Karasakal bir macera figürü değil, ticaret ve otoriteye yönelik gerçek bir güvenlik sorunuydu.\n\n1718’de Virginia Valisi Alexander Spotswood’un girişimiyle Robert Maynard komutasındaki güçler Ocracoke çevresinde Karasakal’a saldırdı ve onu öldürdü. Sonrasında başının sergilenmesi, sömürge otoritelerinin korsanlığa karşı caydırıcı propaganda üretme isteğini açıkça gösterir. Popüler kültür Karasakal’ı büyülü bir canavara çevirir; tarihsel Edward Teach ise teatral korkuyu ekonomik saldırıyla birleştiren kısa ömürlü ama etkili bir korsan kaptandı.",
+        "accuracyNote": "Karasakal’ın ölümü, Queen Anne’s Revenge ve Ocracoke operasyonu belgelenmiştir; gömülü hazine ve doğaüstü güçler popüler mit katmanıdır.",
+        "whyInteresting": "Karasakal’ın en güçlü silahlarından biri topu kadar, düşmanın zihninde kurduğu sahneydi.",
+        "misconception": "Karasakal’ın gücünün gizli hazine veya doğaüstü lanetten geldiği sanılır; asıl gücü korku yönetimi, gemi ateş gücü ve ticaret rotalarına baskıydı.",
+        "mediaChanged": "Film Blackbeard’ı mitolojik bir korsan figürüne dönüştürür; tarihsel kayıtlar daha çok kısa ama yoğun bir şiddet, abluka ve sömürge karşı operasyon hikâyesi verir.",
+        "whyItMatters": "Karasakal örneği, korsan mitinin nasıl bilinçli korku gösterisi ve kolonyal güvenlik sorunundan doğduğunu gösterir.",
+        "quickRealityCheck": "Blackbeard neden sadece yağmacı değil, koloni yönetimleri için ticaret rotalarını tehdit eden siyasi bir sorun haline geldi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "National Park Service - Blackbeard (Edward Teach)",
+            "url": "https://www.nps.gov/caha/learn/historyculture/blackbeard-edward-teach.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Royal Museums Greenwich - Who was Blackbeard?",
+            "url": "https://www.rmg.co.uk/stories/maritime-history/who-was-blackbeard",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Queen Anne's Revenge Project - Blackbeard",
+            "url": "https://www.qaronline.org/history/blackbeard-history-dreaded-pirate",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-083-pirate-code",
+      "locale": "tr",
+      "decision": "minor_rewrite_source_cleanup",
+      "reason": "Good concept; tightened code/quartermaster balance and updated sources.",
+      "fields": {
+        "subtitle": "Kaos değil, gemi üstü sözleşme",
+        "whatWeSee": "Pirates of the Caribbean’de gemi üstündeki tartışmalar, kaptanın sözüne karşı mürettebatın itiraz edebildiği bir düzen ima eder. Ganimet paylaşımı, ceza, sadakat ve kaptan yetkisi esprili diyaloglarla geçer. Film bunu eğlenceli bir kaos gibi verir ama arka planda yazılı bir deniz sözleşmesi fikri vardır.",
+        "realHistory": "17. ve 18. yüzyıl Atlantik korsan gemilerinde birçok mürettebat, articles adı verilen yazılı veya sözlü kurallarla yönetilirdi. Bu kurallar romantik bir ayrıntı değil, ölüm riski yüksek bir iş ortamını düzenleme yöntemiydi. Kaptan savaş anında güçlüydü; fakat günlük düzende quartermaster yiyecek, disiplin, ganimet ve mürettebat şikâyetleri konusunda dengeleyici bir otorite olabiliyordu.\n\nBartholomew Roberts gibi kaptanların kuralları, ışıkların ne zaman söneceğinden kumar yasağına, yaralanma tazminatından nöbet düzenine kadar somut hükümler içerirdi. Özellikle yaralanma ödemeleri, korsan gemisinin yalnız yağma değil, risk paylaşımı yapan bir deniz emek düzeni olduğunu gösterir. Ganimet paylaşımı da isyan riskini azaltacak şekilde görece öngörülebilir tutulurdu.\n\nBu düzen korsanlığı adil ya da romantik kılmaz; şiddet, zorla katılım ve köle ticaretiyle iç içe bir dünya söz konusuydu. Ancak “tamamen kuralsız korsan” imgesi de eksiktir. Uzun seferlerde su, yiyecek, disiplin ve pay meselesi düzenlenmezse gemi içi düzen hızla çökerdi. Pirate Code fikrinin tarihsel karşılığı tam da burada başlar.",
+        "mediaChanged": "Film kuralları karizmatik atışma ve espri malzemesine çevirir; gerçek korsan maddeleri ise ölüm, yaralanma, ganimet ve disiplin risklerini yönetmek için vardı.",
+        "whyItMatters": "Korsan kuralları, devlet dışı bir topluluğun bile denizin ortasında sözleşme ve denge mekanizması üretmek zorunda kaldığını gösterir.",
+        "quickRealityCheck": "Korsan gemilerinde quartermaster neden kaptanın yanında ikinci bir güç merkezi haline gelebiliyordu?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Royal Museums Greenwich - Pirate fact or fiction",
+            "url": "https://www.rmg.co.uk/stories/maritime-history/pirates-fact-or-fiction",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "World History Encyclopedia - Bartholomew Roberts",
+            "url": "https://www.worldhistory.org/Bartholomew_Roberts/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Library of Congress - Captain Bartholomew Roberts",
+            "url": "https://www.loc.gov/pictures/item/2007675644/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-084-treasure-myth",
+      "locale": "tr",
+      "decision": "flagship_rewrite_expand",
+      "reason": "Flagship had strong direction but needed more structure, less generic phrasing, and clearer distinction between cargo economy and later fiction.",
+      "fields": {
+        "subtitle": "Haritadaki X işareti çoğu zaman roman mirasıdır",
+        "whatWeSee": "Pirates of the Caribbean, korsanlığı lanetli altın, gizli sandıklar, haritalar ve doğaüstü hazine arayışları etrafında kurar. Bu anlatı çok etkilidir: korsan başarısı, sürekli ticaret gemisi hedefleyen riskli bir deniz ekonomisinden çok tek büyük ganimeti bulma macerası gibi görünür.",
+        "realHistory": "### Korsanın ganimeti neydi?\n17. yüzyıl sonu ve 18. yüzyıl başındaki Atlantik korsanlığı, çoğu zaman gömülü altın arayışı değil, satılabilir kargo ele geçirme işiydi. Şeker, tütün, tekstil, erzak, halat, silah, gemi malzemesi, sikke ve bazen insan emeği bu ekonominin parçasıydı. Korsan mürettebat için en değerli ganimet, saklanacak romantik bir sandıktan çok hızlıca bölüştürülebilen, satılabilen veya geminin devamını sağlayan maldı.\n\n### Neden gömmek mantıklı değildi?\nGanimeti uzak bir adaya gömmek çoğu durumda kötü bir stratejiydi. Mürettebat payını hemen isterdi; yiyecek, rom, barut, bakım ve liman aracılığı sürekli nakit veya değiş tokuş gerektirirdi. Ayrıca ganimetle oyalanmak donanma devriyeleri, privateer avcıları veya rakip korsanlar tarafından yakalanma riskini artırırdı. Bu yüzden korsan ekonomisi çoğu zaman hız, pazar erişimi ve yozlaşmış aracılarla ilişki kurma becerisi üzerine kuruluydu.\n\n### Mit nasıl büyüdü?\nGömülü hazine imgesi tamamen yoktan çıkmadı; bazı tekil hikâyeler ve söylentiler vardır. Ancak popüler kültürdeki harita, X işareti ve lanetli sandık fikri, özellikle 19. yüzyıl korsan edebiyatıyla güçlendi. Treasure Island gibi eserler, korsanlığı ekonomi ve şiddet dünyasından çıkarıp macera haritasına çevirdi. Pirates of the Caribbean da bu mirası bilinçli biçimde kullanır.\n\n### Gerçek daha karanlık\nTarihsel korsanlık, büyülü büyük ikramiyeden çok zorla ele geçirme, kaçak satış, hastalık, disiplin, pazar bağlantısı ve imparatorluk rekabetiyle ilgiliydi. Nassau gibi limanlar yalnız romantik sığınaklar değil, yasadışı ticaretin ve deniz işçiliğinin düğüm noktalarıydı. Bu nedenle gömülü hazine miti eğlenceli ama yanıltıcıdır: korsanların asıl hazinesi çoğu zaman toprağın altında değil, ele geçirilmiş kargonun ne kadar hızlı paraya çevrilebildiğindeydi.",
+        "accuracyNote": "Filmler korsan folkloruna sadıktır; ancak tarihsel korsan ekonomisi tekil hazine sandıklarından çok kargo, ganimet paylaşımı ve liman aracılığına dayanır.",
+        "whyInteresting": "Gömülü hazine miti, kurmacanın ekonomik tarihi nasıl daha temiz ve romantik bir maceraya dönüştürebildiğini gösterir.",
+        "misconception": "Korsanların çoğunun haritalarla işaretlenmiş altın sandıkları gömdüğü sanılır; belgeye dayalı tablo daha çok satılabilir kargo ve hızlı paylaşım ekonomisini gösterir.",
+        "mediaChanged": "Film gömülü hazine mitolojisini yükseltir; tarihsel korsanlık ise ele geçirilen ticari malların hızlı dağıtımı ve satışına dayanıyordu.",
+        "whyItMatters": "Bu kart, korsan romantizminin arkasındaki gerçek deniz ekonomisini ve popüler kültürün bu ekonomiyi nasıl değiştirdiğini görünür kılar.",
+        "quickRealityCheck": "Korsanlar çoğunlukla haritada işaretli altın mı arıyordu, yoksa satılabilir kargo ve liman aracılığı mı peşindeydi?",
+        "readingTimeMinutes": 3,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Royal Museums Greenwich - Pirate fact or fiction",
+            "url": "https://www.rmg.co.uk/stories/maritime-history/pirates-fact-or-fiction",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Royal Museums Greenwich - Golden Age of Piracy",
+            "url": "https://www.rmg.co.uk/stories/maritime-history/pirates-history-golden-age-piracy",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "National Geographic - Pirates' Golden Age in the Caribbean",
+            "url": "https://www.nationalgeographic.com/history/article/pirates-golden-age-caribbean",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "locale": "tr",
+  "chunkIndex": 40,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-006-animal-cults",
+      "title": "Hayvan Kültleri",
+      "subtitle": "İbis ve kedi: tapınak geliri, tanrı değil süs",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Origins",
+      "era": "Antik Dünya",
+      "region": "Mısır",
+      "themes": [
+        "Antik Dünya",
+        "Din",
+        "Gündelik Yaşam"
+      ],
+      "whatWeSee": "Assassin's Creed Origins, tapınak çevrelerinde ibis, kedi ve çakal figürlerini yoğun biçimde kullanarak canlı bir inanç atmosferi kuruyor. Oyuncu adak alanları ve hayvan mezarlıkları arasında dolaşırken bunu mistik bir dünya olarak okuyor. Fakat bu görüntünün arkasında ciddi bir üretim ve dağıtım düzeni vardı.",
+      "realHistory": "Hayvan kültleri, Geç Dönem ve Ptolemaios Mısır'ında hem dini bağlılığın hem de kurumsal ekonominin parçasıydı. Ziyaretçiler belli tanrılara adak sunmak için ibis, kedi, şahin ya da köpek gibi hayvanların mumyalanmış formlarını satın alıyordu. Bu pratik, bireysel dua ile tapınak finansmanını aynı noktada buluşturdu. Özellikle Saqqara ve Tuna el-Gebel gibi merkezlerde kitlesel hayvan mumyası depoları bulunması, talebin ölçeğini açıkça gösteriyor.\n\nSistem rastgele işlemiyordu: hayvanların yetiştirilmesi, beslenmesi, kesimi, mumyalanması ve depolanması için uzmanlaşmış iş kolları vardı. Bazı dönemlerde arz baskısı nedeniyle daha basit paketler üretildiği, hatta içeriği sınırlı örneklerin piyasaya çıktığı da arkeolojik analizlerle tartışılıyor. Bu da kült pratiğinin ekonomik gerilimler yaşadığını gösterir.\n\nPtolemaios yönetimi altında Yunan kökenli elitler ile yerel rahip ağları bu alanda pazarlık ilişkisi kurdu. Tapınaklar yerel bağlılığı güçlendirirken, merkez yönetim de bu bağlılığı siyasi istikrara çevirmeye çalıştı. Yani hayvan adakları yalnızca bireysel dindarlık değil, aynı zamanda çok kültürlü bir krallığın meşruiyet politikasına dokunan bir araçtı. Yerel pazarlar bu talep sayesinde canlandı.\n\nHayvanların kutsallaştırılması doğrudan hayvanın kendisine tapınmak anlamına gelmiyordu; çoğu durumda hayvan, ilgili tanrının dünyevi sembolü olarak görülüyordu. Yani adak pratiği, sembol dili üzerinden ilahi dünyayla temas kurma çabasıydı. Görsel olarak egzotik duran bu alan, aslında oldukça örgütlü bir ibadet piyasasıdır.",
+      "accuracyNote": "Hayvan adaklarının varlığı ve yaygınlığı doğrulanmış; oyunda işin üretim tarafı doğal olarak azaltılmış.",
+      "whyInteresting": "Mistik görünen bir ritüelin arkasında neredeyse endüstriyel bir organizasyon bulunması şaşırtıcı.",
+      "misconception": "Antik Mısır'da insanlar hayvanlara doğrudan tanrı diye taptı sanılır.",
+      "nextTopics": [
+        "İskenderiye Kütüphanesi",
+        "Nil Taşkınları",
+        "Mumyalama Gerçeği"
+      ],
+      "sources": [
+        {
+          "title": "Animal Mummies in Ancient Egypt",
+          "url": "https://www.britishmuseum.org/exhibitions/cats-ancient-egypt",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Bastet",
+          "url": "https://www.britannica.com/topic/Bastet",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Saqqara Animal Necropolis Research",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/saqqara/animalmummies.html",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-008-temple-economy",
+        "tf26-003-mummification"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Origins'in hayvan imgeleri doğru bir kapı açıyor; True Frame kapının arkasındaki işleyişi tamamlıyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-misir",
+        "misir",
+        "assassins-creed",
+        "hayvan-kultleri",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun hayvan kültlerini daha çok atmosfer ve görev malzemesi olarak sunuyor. Tarihte bu alan, tapınakların düzenli gelir kapılarından biriydi.",
+      "whyItMatters": "Mistik görünen bir ritüelin arkasında neredeyse endüstriyel bir organizasyon bulunması şaşırtıcı.",
+      "isFlagship": false,
+      "quickRealityCheck": "Neden bazı tapınaklarda tek bir tür hayvan mumyası on binlerle ifade ediliyor?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-007-pyramids-labor",
+      "title": "Piramit İşçileri",
+      "subtitle": "Giza işçileri: köle değil, yemekli emek",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Origins",
+      "era": "Antik Dünya",
+      "region": "Mısır",
+      "themes": [
+        "Antik Dünya",
+        "Din",
+        "Gündelik Yaşam"
+      ],
+      "whatWeSee": "Assassin's Creed Origins'te Giza piramitleri devasa bir keşif sahnesi: tüneller, gizli odalar ve ufukta yükselen taş kütleler. Oyuncu bu yapıları Bayek'in çağının canlı parçası gibi deneyimliyor. Böyle bir sunum, piramitleri aynı dönemde inşa edilmiş yapılarla yan yana düşünmeye itebiliyor ve zaman farkını hissettirmeyi zorlaştırıyor.",
+      "realHistory": "Giza'daki büyük piramitler, Bayek'in yaşadığı MÖ 1. yüzyıldan yaklaşık iki bin yıl önce, Eski Krallık döneminde inşa edildi. Bu yüzden Origins'teki zaman düzleminde piramitler yeni proje değil, çoktan antikleşmiş anıtlardı. Ptolemaios çağında bölge ziyaret edilen, onarılan ve siyasi simge olarak kullanılan bir hafıza alanıydı.\n\nİnşa emeği konusunda popüler kültürde köle anlatısı baskın olsa da arkeoloji daha karmaşık bir tablo sunuyor. Giza işçi köylerinde bulunan ekmek fırınları, bira üretim izleri, et tüketimi kalıntıları ve düzenli konutlar; en azından çekirdek iş gücünün organize, beslenen ve uzmanlaşan ekiplerden oluştuğunu gösteriyor. Corvee benzeri dönemsel yükümlülükler, taş ustaları ve denetleyici ekiplerle birlikte çalışmış olabilir. Yani süreç, yalnızca zorla çalıştırma değil, devletin lojistik kapasitesi ve teknik planlamasıyla yürüyen büyük bir seferberlikti.\n\nTaşın taş ocağından şantiyeye gelişi de başlı başına teknik başarıydı. Nil taşkın takvimi, kızak sistemleri, rampalar ve ekip koordinasyonu birlikte çalışmadan bu ölçekte blok taşınamazdı. Yönetim tarafında yiyecek dağıtımı, yaralanma bakımı ve iş gücü rotasyonu kritik rol oynadı. Piramit inşası bu nedenle yalnızca mühendislik değil, yüksek düzeyli organizasyon tarihidir.\n\nPiramitlerin kalıcılığı da bu emeğin sonucudur: taş blokların yerleştirilmesi kadar, tedarik zinciri, sağlık, beslenme ve yönetim kararları belirleyici oldu. Bu nedenle piramit hikayesi, anıttan çok iş organizasyonunun tarihidir.",
+      "accuracyNote": "Giza'nın Bayek döneminde var olduğu doğru; inşa süreci oyunun zamanından çok daha erken bir döneme aittir.",
+      "whyInteresting": "Taşa bakarken insanı unutmak kolay; bu kart tam tersini yapıp emeği merkeze taşıyor.",
+      "misconception": "Piramitlerin tamamen kırbaç altındaki köleler tarafından kısa sürede yapıldığı düşünülür.",
+      "nextTopics": [
+        "İskenderiye Kütüphanesi",
+        "Nil Taşkınları",
+        "Mumyalama Gerçeği"
+      ],
+      "sources": [
+        {
+          "title": "The Giza Project at Harvard University",
+          "url": "https://giza.fas.harvard.edu/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Pyramid",
+          "url": "https://www.britannica.com/topic/pyramid-architecture",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Workers and the Building of the Pyramids",
+          "url": "https://www.metmuseum.org/toah/hd/pyrb/hd_pyrb.htm",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-008-temple-economy",
+        "ac-origins-siwa"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Origins'in Giza deneyimi güçlü bir giriş; True Frame zaman farkını ve emek örgütlenmesini netleştiriyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-misir",
+        "misir",
+        "assassins-creed",
+        "piramit-i-scileri",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun piramitleri Bayek çağının aktif oyun alanı gibi hissettiriyor. Tarihte esas inşa faaliyeti çok daha eski bir devlet düzenine ait.",
+      "whyItMatters": "Taşa bakarken insanı unutmak kolay; bu kart tam tersini yapıp emeği merkeze taşıyor.",
+      "isFlagship": false,
+      "quickRealityCheck": "Piramitleri köleler yaptı iddiası neden işçi köylerinden gelen beslenme ve barınma kanıtlarıyla çelişiyor?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-008-temple-economy",
+      "title": "Tapınak Ekonomisi",
+      "subtitle": "Tapınak arazisi: kutsal toprak, devlet bankası",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Origins",
+      "era": "Antik Dünya",
+      "region": "Mısır",
+      "themes": [
+        "Antik Dünya",
+        "Din",
+        "Gündelik Yaşam"
+      ],
+      "whatWeSee": "Assassin's Creed Origins'te tapınaklar genelde rahipler, adaklar ve gizli koridorlarla anılıyor; oyuncu bu mekanları daha çok görev noktası olarak deneyimliyor. Oysa avludan depoya uzanan her hareketin mali bir karşılığı vardı. Kutsal alan, aynı zamanda tahıl, kira ve iş gücü akışının düğüm noktasıydı.",
+      "realHistory": "Ptolemaios Mısır'ında tapınaklar yalnızca ibadet edilen yerler değildi; büyük arazi portföylerine sahip, üretimden pay alan ve yerel emek ağlarını yöneten ekonomik aktörlerdi. Nil taşkın döngüsüne bağlı tarım gelirleri, tapınak depoları üzerinden işleniyor; rahip sınıfı, taşra yöneticileri ve kraliyet görevlileri arasında sürekli pazarlıklar yaşanıyordu. Bu nedenle tapınak muhasebesi, dini ritüeller kadar politik önem taşır.\n\nRosetta Taşı gibi belgeler, vergi indirimi, bağış ayrıcalığı ve kült giderlerinin hukuki çerçevesini gösterir. Aynı metinlerde kralın meşruiyeti ile tapınakların ekonomik talepleri birbirine bağlanır; yani siyasi sadakat çoğu zaman mali tavizlerle güçlendirilir. Edfu, Dendera ve Philae gibi merkezlerde uzun süren inşa faaliyetleri, yalnızca estetik yatırım değil, bölgesel istihdam ve prestij üretimidir.\n\nTapınak ekonomisi kredi ve borç ilişkilerine de temas ediyordu. Tohumluk tahıl, kira yükümlülükleri ve ayni ödeme sistemleri üzerinden köylü hanelerle kurum arasında sürekli bir mali bağ kuruluyordu. Bir kötü hasat yılında borç ertelemesi ya da ek yükümlülük tartışmaları doğrudan sosyal tansiyonu etkileyebiliyordu. Bu yüzden tapınak, sadece kutsal tören değil kriz yönetimi alanıydı.\n\nTapınak sistemi içinde hayvan adakları, atölyeler, papirus üretimi ve eğitim faaliyetleri de yer alır. Böylece kutsal alan, çevresindeki köyler için hem ibadet hem geçim kapısı olur. Bu model Roma dönemine geçişte kademeli baskı görse de uzun süre varlığını korudu. Tapınak ekonomisini anlamak, Antik Mısır'da din ile bütçenin neden birbirinden ayrı düşünülemediğini açık eder.",
+      "accuracyNote": "Ptolemaios döneminde tapınakların güçlü kurumsal rolü belgeli; oyunda bu çok katmanlı işleyiş kısaltılmış.",
+      "whyInteresting": "İbadet mekaniği ile para akışının aynı çatı altında birleşmesi dönemi çok canlı kılıyor.",
+      "misconception": "Tapınakların sadece dua edilen sessiz yapılar olduğu sanılır.",
+      "nextTopics": [
+        "İskenderiye Kütüphanesi",
+        "Nil Taşkınları",
+        "Mumyalama Gerçeği"
+      ],
+      "sources": [
+        {
+          "title": "The Ptolemaic Period in Egypt",
+          "url": "https://www.britannica.com/place/ancient-Egypt/The-Ptolemaic-period-305-30-bce",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Rosetta Stone",
+          "url": "https://www.britishmuseum.org/collection/object/Y_EA24",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Edfu Temple Inscriptions and Economy",
+          "url": "https://oi.uchicago.edu/research/publications/saoc/edfu-inscriptions",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-004-scribes",
+        "tf26-006-animal-cults",
+        "ac-origins-siwa"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Origins'in tapınak atmosferi doğru bir başlangıç; True Frame bu atmosferi ekonomik haritaya bağlıyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-misir",
+        "misir",
+        "assassins-creed",
+        "tapinak-ekonomisi",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun tapınakları çoğunlukla aksiyon mekaniğine hizmet edecek şekilde sadeleştiriyor. Tarihte bu kurumlar vergi, arazi ve iş gücü yönetiminin merkezindeydi.",
+      "whyItMatters": "İbadet mekaniği ile para akışının aynı çatı altında birleşmesi dönemi çok canlı kılıyor.",
+      "isFlagship": true,
+      "quickRealityCheck": "Bir tapınağın siyasi etkisi daha çok heykellerden mi geliyordu, yoksa kontrol ettiği toprak ve depolardan mı?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-009-desert-routes",
+      "title": "Çöl Yolları",
+      "subtitle": "Çöl yolu: Siwa'dan Kızıldeniz'e ticaret",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Origins",
+      "era": "Antik Dünya",
+      "region": "Mısır",
+      "themes": [
+        "Antik Dünya",
+        "Din",
+        "Gündelik Yaşam"
+      ],
+      "whatWeSee": "Assassin's Creed Origins çöl yollarını vahalar, dar geçitler ve kervan izleriyle bir macera hattı gibi sunuyor. Haritada uzun mesafe sürüşleri yaparken rota daha çok tehlike ve keşif duygusu yaratıyor. Ancak bu yollar, dönemin ticaret nabzını tutan planlı koridorlardı ve devletin gözetim ağının parçasıydı.",
+      "realHistory": "Mısır'ın çöl yolları, özellikle Doğu Çöl koridorları, Nil vadisini Kızıldeniz limanlarına bağlayan stratejik damarlardı. Ptolemaios döneminde Berenike ve Myos Hormos gibi limanlara uzanan güzergahlar üzerinden altın, taş, aromatik ürünler, fil dişi ve daha sonra Hint Okyanusu ticaretine bağlı mallar taşınıyordu. Bu rotalar yalnızca tüccarlar için değil, devlet gelirleri için de kritikti.\n\nÇöl geçişi rastgele yapılmazdı. Kuyuların, gözetleme noktalarının ve küçük garnizonların yerleri önceden bilinir, kervanlar su planına göre hareket ederdi. Develerin yaygınlaşmasıyla taşıma kapasitesi arttı, fakat güvenlik riski de sürdü; eşkıyalık, hava koşulları ve lojistik kopuşlar sürekli tehdit oluşturdu. Bu yüzden rota kontrolü askeri gözetim ve vergi toplama mekanizmalarıyla birlikte işledi.\n\nArkeolojik olarak bulunan ostraka ve yol istasyonları, bu güzergahlarda görevli askerlerin erzak, maaş ve sevkiyat notları tuttuğunu gösterir. Yani rotalar sadece kum üzerinde açılmış patikalar değil, yazılı denetimle çalışan idari hatlardı. Bir kervanın geçişi, yük listesi ve gümrük benzeri tahsilatla birlikte kayıt altına alınabiliyordu.\n\nSiwa gibi vahalar ise sadece dinlenme noktası değildi; haber, inanç ve pazar akışının kesiştiği istasyonlardı. Amun kahinliği gibi dini merkezler, kervan hareketiyle sosyal prestij de kazanıyordu. Çöl yollarını anlamak, Mısır'ı yalnızca Nil'e bağımlı bir uygarlık olarak değil, kara ve deniz ağlarını birlikte yöneten çok eksenli bir ticaret devleti olarak görmemizi sağlar.",
+      "accuracyNote": "Doğu Çöl bağlantıları tarihsel temele dayanıyor; oyundaki yoğun çatışma ve hız duygusu dramatize edilmiş.",
+      "whyInteresting": "Sessiz görünen kum hattının aslında uluslararası ticaretin omurgası çıkması güçlü bir ters köşe.",
+      "misconception": "Çöl bölgelerinin antik dünyada üretken ticarete kapalı boş alanlar olduğu düşünülür.",
+      "nextTopics": [
+        "İskenderiye Kütüphanesi",
+        "Nil Taşkınları",
+        "Mumyalama Gerçeği"
+      ],
+      "sources": [
+        {
+          "title": "Berenike and the Ancient Maritime Spice Route",
+          "url": "https://www.britishmuseum.org/collection/term/BIOG25035",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Egypt: The Ptolemaic and Roman Periods",
+          "url": "https://www.britannica.com/place/Egypt/The-Ptolemaic-and-Roman-periods",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Trade Routes in the Eastern Desert of Egypt",
+          "url": "https://www.ifao.egnet.net/recherche/archeologie/eastern-desert/",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "ac-origins-siwa",
+        "tf26-010-afterlife"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Origins'in geniş çöl haritası, True Frame okumasıyla birlikte ticaret coğrafyasına dönüşüyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-misir",
+        "misir",
+        "assassins-creed",
+        "col-yollari",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun çölü çoğunlukla kişisel keşif alanı olarak hissettiriyor. Tarihte rotalar sıkı lojistik ve vergi denetimiyle çalışan ekonomik koridorlardı.",
+      "whyItMatters": "Sessiz görünen kum hattının aslında uluslararası ticaretin omurgası çıkması güçlü bir ters köşe.",
+      "isFlagship": false,
+      "quickRealityCheck": "Bir kervanın hangi kuyuda duracağını belirleyen şey şans mıydı, yoksa devletin çizdiği rota düzeni mi?",
+      "lastReviewedAt": "2026-06-27"
+    }
+  ]
+}

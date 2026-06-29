@@ -1,0 +1,291 @@
+{
+  "locale": "tr",
+  "chunkIndex": 54,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-071-village-life",
+      "title": "Köy Hayatı",
+      "subtitle": "Köy Hayatı: görünenden fazlası",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "era": "Orta Çağ",
+      "region": "Bohemya",
+      "themes": [
+        "Orta Çağ",
+        "Sınıf",
+        "Gündelik Yaşam"
+      ],
+      "whatWeSee": "Kingdom Come'da köy hayatı, tarladan pazara uzanan kısa görevlerle canlı görünür: değirmen, han, demirci, vergi memuru, köylü tartışmaları. Oyuncu gün içinde pek çok işle temas eder ve herkesin bir telaşı vardır. Ama hasat takvimi, angarya yükü ve hukuk düzeninin gündelik hayata nasıl baskı yaptığı çoğu zaman sahnenin gerisinde kalır.",
+      "realHistory": "15. yüzyıl başı Bohemya kırsalı, romantik bir köy kartpostalından çok karmaşık bir yükümlülük sistemiydi. Köylü hanelerinin yaşamı, toprağın mülkiyetinden çok toprağa bağlı borç ve hizmet ilişkileriyle belirlenirdi. Birçok köylü, senyöre kira benzeri ödemelerin yanında yol yapımı, hasat yardımı ya da taşıma gibi angarya hizmetler sunmak zorundaydı. Üretim başarısı yalnız hava koşuluna değil, değirmen erişimine, tohum kalitesine ve yerel pazar ağlarına bağlıydı.\n\nBohemya'da gümüş üretimi ve bölgesel ticaret bazı kasabaları canlandırsa da kırsaldaki kırılganlık sürüyordu. Kötü hasat yılları hızlıca borç sarmalına dönüşebiliyor, hayvan kaybı veya savaş geçişleri haneleri uzun süre toparlanamayacak biçimde zayıflatabiliyordu. Kilise takvimi, iş ritmini ve toplumsal zamanı düzenleyen ana çerçeveydi; bayram, oruç, nikah ve miras süreçleri dini kurumlarla iç içeydi.\n\nOyundaki güçlü taraf, bu dünyanın maddi dokusunu hissettirmesi. Eksik kalan taraf ise, köy hayatının asıl belirleyicisi olan yükümlülük zincirinin ne kadar az kaçış alanı bıraktığını yeterince sert göstermemesi. Orta Çağ köyü, yoksullukla değil belirsizlikle de mücadele eden bir düzen demekti. Üstelik köylü için adalet aramak bile maliyetliydi; yerel mahkemeye gitmek zaman, tanık ve ödeme gerektirirdi. Bu yüzden pek çok haksızlık hukuken değil, pazarlıkla veya sessiz kabullenmeyle çözülürdü. Ayrıca savaş dönemlerinde geçen orduların zorla erzak toplaması, kayıtlı yükümlülüklerin üstüne fiili bir ikinci vergi bindiriyor ve köy ekonomisini yıllarca toparlanamayacak biçimde bozuyordu.",
+      "accuracyNote": "Mekansal atmosfer ve meslek çeşitliliği başarılıdır; ancak hukuki bağımlılık ve zorunlu hizmetlerin sertliği oyun ritmi için kısmen yumuşatılmıştır.",
+      "whyInteresting": "Aynı hanede hem pazar için üretim hem de zorunlu hizmet yükü birlikte yürüyordu.",
+      "misconception": "Orta Çağ köyünün yalnız yoksulluktan ibaret olduğu düşünülür; asıl mesele, belirsiz gelirle sabit yükümlülükleri taşıma zorunluluğuydu.",
+      "nextTopics": [
+        "Lonca Düzeni",
+        "Soylu Yükümlülüğü",
+        "Kilise Takvimi"
+      ],
+      "sources": [
+        {
+          "title": "Bohemia (Britannica)",
+          "url": "https://www.britannica.com/place/Bohemia",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Serfdom (Britannica)",
+          "url": "https://www.britannica.com/topic/serfdom",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Time Traveller's Guide to Medieval England (Yale University Press)",
+          "url": "https://yalebooks.yale.edu/book/9780300203547/the-time-travellers-guide-to-medieval-england/",
+          "type": "book",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-072-guilds",
+        "tf26-073-noble-duty",
+        "tf26-074-church-calendar"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Kingdom Come'un Bohemya köyleri, feodal gündelik yaşamın üretim ve statü ilişkilerini görünür kılan bir oyun zemini sunar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "orta-cag",
+        "bohemya",
+        "feodalizm",
+        "koy-hayati",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun köy yaşamını hareketli görev akışına çevirerek gündelik üretim düzenini daha erişilebilir kılar. Gerçekte köylünün manevra alanı dardı; angarya, vergi ve iklim riski aynı anda baskı kuruyordu.",
+      "whyItMatters": "Aynı hanede hem pazar için üretim hem de zorunlu hizmet yükü birlikte yürüyordu.",
+      "isFlagship": false,
+      "quickRealityCheck": "Bir köylü hanesi için kötü hasat mı yoksa artan angarya talebi mi daha yıkıcı olurdu?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-072-guilds",
+      "title": "Lonca Düzeni",
+      "subtitle": "Lonca: zanaatkâr şehri kim yönetiyordu?",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "era": "Orta Çağ",
+      "region": "Bohemya",
+      "themes": [
+        "Orta Çağ",
+        "Sınıf",
+        "Gündelik Yaşam"
+      ],
+      "whatWeSee": "Kingdom Come: Deliverance, kent yaşamını sıkı biçimde düzenlenen bir zanaat ekonomisi olarak sunar. Demirciler, değirmenciler, hancılar ve terziler eğitim, itibar ve yerel hiyerarşi kurallarına gömülü görünür. Oyuncu üretimi toplumsal statü olarak deneyimler: kimin kimi eğittiği, kimin ne satabildiği ve kime kent otoritelerinin güvendiği önemlidir. Lonca benzeri düzen, şiddet ve siyasi belirsizlik ortasında istikrar için vazgeçilmez hissettirir.",
+      "realHistory": "Geç ortaçağ Bohemya'sında kentsel zanaat üretimi, yerel farklılıklar önemli olsa da lonca sistemlerine benzeyen ya da doğrudan lonca olarak işleyen kurumlarca yapılandırılıyordu. Bu örgütlenmeler çıraklığı, kalfalığa ilerlemeyi, kalite standartlarını ve pazar ayrıcalıklarına erişimi düzenliyordu. Kent içinde özerk devletler değillerdi; etkileri kent meclisleri, hukuki beratlar, vergi rejimleri ve bölgesel yöneticilerle yürütülen pazarlığa bağlıydı. Zanaat tüzükleri çoğu zaman kabul edilebilir malzemeleri, atölye davranışını ve hileye verilecek cezaları tanımlayarak lonca yaşamının ekonomik olduğu kadar hukuki olduğunu da gösteriyordu. 15. yüzyıl başları çevresindeki dönem ciddi siyasi ve dini gerilimler içeriyordu; bu baskılar arz zincirindeki kopmalar, değişen talep ve kentsel hizip siyaseti yoluyla zanaatkarları doğrudan etkiledi. Yine de lonca kurumları süreklilik de sağladı; karşılıklı yardımı, ritüel kimliği ve vasıflı emeğe geçiş için öngörülebilir yolları mümkün kıldı. Tarihçiler loncaların dışlayıcı olabildiğini vurgular; ancak bunların ürün standartlarını ve eğitim kalitesini işaretleyerek kentsel pazarlarda güveni istikrara kavuşturduğunu da belirtir. Orta Avrupa'dan kalan kayıtlar, ustalık statüsü, ücret koşulları ve belediye denetimi üzerine ihtilaflar gösterir; bu da ekonominin kişisel beceri kadar evrak düzeni ve kolektif pazarlıkla da yönetildiğini ortaya koyar. Oyun statüye bağlı zanaat dünyalarının toplumsal dokusunu iyi aktarır, ancak doğal olarak bireysel yükselişi merkeze alır. Tarihsel olarak kalıcı sonuçlar, tek bir istisnai derecede yetenekli kişinin girişiminden çok kurumsal kurallar, kent mahkemeleri ve müzakere edilmiş otoriteye bağlıydı.",
+      "accuracyNote": "Kentsel zanaat gerçekçiliği yüksektir; meclisler ve beratlara yapısal bağımlılık yeterince vurgulanmaz.",
+      "whyInteresting": "Gündelik atölye yaşamını yönetişim ve kurumsal güvenin daha büyük sorularına bağlar.",
+      "misconception": "Loncalar çoğu zaman yenilik karşıtı tekeller diye indirgenir; standartlaştırma ve eğitimdeki rolleri göz ardı edilir.",
+      "nextTopics": [
+        "Köy Hayatı",
+        "Soylu Yükümlülüğü",
+        "Kilise Takvimi"
+      ],
+      "sources": [
+        {
+          "title": "Guild (Britannica)",
+          "url": "https://www.britannica.com/topic/guild",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Medieval guilds (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Guilds_in_Medieval_Europe/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Bohemia history (Britannica)",
+          "url": "https://www.britannica.com/place/Bohemia",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-076-markets",
+        "tf26-080-literacy"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Kingdom Come yaşanan zanaat hiyerarşisini iyi yakalar; ancak derindeki motor belediye hukuku ve kurumsal yönetişimdi.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "orta-cag",
+        "bohemya",
+        "feodalizm",
+        "lonca-duzeni",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oynanış bireysel ilerlemeyi öne çıkarır; oysa tarihsel zanaat sistemi kolektif tüzükler ve kentsel hukuk kurumlarıyla yönetiliyordu.",
+      "whyItMatters": "Gündelik atölye yaşamını yönetişim ve kurumsal güvenin daha büyük sorularına bağlar.",
+      "isFlagship": true,
+      "quickRealityCheck": "Loncalar yalnızca meslek kulüpleri değil, hukuki-ekonomik düzenleyicilerdi.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-073-noble-duty",
+      "title": "Soylu Yükümlülüğü",
+      "subtitle": "Küçük ayrıntı, büyük tarih",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "era": "Orta Çağ",
+      "region": "Bohemya",
+      "themes": [
+        "Orta Çağ",
+        "Sınıf",
+        "Gündelik Yaşam"
+      ],
+      "whatWeSee": "Kingdom Come: Deliverance'da Henry, soylu Sir Radzig'in oğlu olarak keşfedilir; soylu yükümlülük, onur ve sınıf hiyerarşisi oyunun ana çatışmasıdır. Görüntüde soylu efendi vergi topluyor, mahkeme şikayetlerini dinliyor ve baskın haberi gelince zırh kuşanıp koruma sorumluluğunu yerine getiriyor. Kale avluları feodal yükümlülüğün görünür mekânıdır.",
+      "realHistory": "15. yüzyıl Bohemya'sında (özellikle Sigismund-Luxembourg dönemi) soylular toprak, asker ve yönetim yükü taşıdı. 'Noblesse oblige' teamülü: ayrıcalık karşılığında koruma ve adalet. KCD 1403 Hussite öncesi Bohemya'yı canlandırır; soylu statü doğum, evlilik ve kraliyet armağanıyla gelir. Soylular şehir meclisleri ve kırsal adalet üzerinde etkiliydi. Oyun Henry'nin yükselişini dramatize eder; tarihsel kayıtlar soylu-köylü gerilimini ve feodal yükümlülüğü belgeler. Geç ortaçağ Avrupa'sında soylu yükümlülüğü, yalnız savaşta öne çıkmak değil toprak yönetimi, adalet dağıtımı ve koruma sorumluluğunu kapsıyordu. Bir senyör, bağlı köylülerden vergi toplarken kıtlık, baskın ve yol güvenliği gibi krizlerde düzen sağlamakla da yükümlüydü. Feodal bağlılık yeminleri karşılıklıydı; efendi himaye sunamadığında vasal sadakati hızla eriyebilirdi. Şövalyelik ideali metinlerde erdem diliyle anlatılsa da pratikte borç, miras ve ittifak pazarlıkları belirleyiciydi. Bu ikilik, ortaçağ aristokrasisinin ahlaki söylem ile çıkar hesabını aynı yapıda birleştirdiğini gösterir. Soylu Yükümlülüğü 15. Bohemya'da soylu yükümlülüğü, savaş çağrısına katılmanın yanı sıra köprü, değirmen ve pazar güvenliğini sürdürmeyi de kapsıyordu. Kıtlık yıllarında vergi indirimi yapmayan lordlar hızlıca isyan riskiyle karşılaştı. Bu yüzden meşruiyet, unvandan çok kriz anındaki koruma kapasitesi, tahıl dağıtımı, yol onarımı, vergi şeffaflığı, yerel adalet ve kriz lojistiği performansıyla ölçülüyordu.",
+      "accuracyNote": "Bohemya feodal yapısı ortaçağ kaynaklarıyla uyumludur; Henry kurgusaldır.",
+      "whyInteresting": "Aynı unvan hem ayrıcalık hem sorumluluk paketiydi.",
+      "misconception": "Soyluluk yalnızca lüks demekti; askeri ve yönetim yükü şarttı.",
+      "nextTopics": [
+        "Köy Hayatı",
+        "Lonca Düzeni",
+        "Kilise Takvimi"
+      ],
+      "sources": [
+        {
+          "title": "Bohemia medieval history (Britannica)",
+          "url": "https://www.britannica.com/place/Bohemia",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Hussite Wars (Britannica)",
+          "url": "https://www.britannica.com/event/Hussite-Wars",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Medieval nobility (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Medieval_Nobility/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-074-church-calendar",
+        "tf26-075-armor-cost",
+        "tf26-076-markets"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "KCD'nin Henry-Radzig soyluluk hattı ile 15. yy Bohemya feodal düzeni.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "orta-cag",
+        "bohemya",
+        "feodalizm",
+        "soylu-yukumlulugu",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun soyluluğu kişisel macera yapar; gerçekte toprak ve askeri yükümlülük sınıfsaldı.",
+      "whyItMatters": "Aynı unvan hem ayrıcalık hem sorumluluk paketiydi.",
+      "isFlagship": false,
+      "quickRealityCheck": "Ortaçağ Bohemya'sında soylu statü nasıl korunurdu?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-074-church-calendar",
+      "title": "Kilise Takvimi",
+      "subtitle": "İbadet listesinden fazlası: zamanın sosyal düzeni",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "era": "Orta Çağ",
+      "region": "Bohemya",
+      "themes": [
+        "Orta Çağ",
+        "Sınıf",
+        "Gündelik Yaşam"
+      ],
+      "whatWeSee": "Kingdom Come: Deliverance, köy ritmini ayin günleri, pazar zorunluluğu ve aziz takvimiyle hissettirir; takvimin ekonomik etkisi oyuncuya dolaylı yansır.",
+      "realHistory": "Orta Çağ Avrupa'sında kilise takvimi yalnızca dini bir zaman çizelgesi değildi; tarım, pazar, emek ve hukuki hayatı düzenleyen ortak saat işlevi görüyordu. Noel, Paskalya, Aziz günleri ve oruç dönemleri, çalışma temposunu, et tüketimini, panayır tarihlerini ve borç ödeme alışkanlıklarını etkiliyordu. Bohemya gibi bölgelerde yerel aziz kültleri, Roma takviminin üstüne ek bir ritim kurabiliyordu.\n\nKCD'nin dünyasında duyduğumuz çan sesleri ve ayin çağrıları bu yüzden tarihsel olarak anlamlıdır. Köylü için pazar ayinine katılım yalnızca inanç değil, topluluk üyeliğinin kanıtıydı. Aynı şekilde oruç günleri mutfak ekonomisini değiştirir, et yerine balık ve tahıl tüketimini artırırdı. Panayırların çoğu bir yortu çevresine yerleştirilir; bu da ticaretin dini takvimle senkronize işlemesine yol açardı.\n\n15. yüzyıl sonu Bohemya'sında dini pratik, Hus hareketinin mirası ve Katolik kurumların baskısı arasında gerilimliydi. Takvim düzeni devam ederken inanç yorumu siyasallaşıyordu. Bu nedenle litürjik zaman, yalnızca ibadet sırası değil; aidiyet, itaat ve yerel otorite ilişkilerinin ölçüsüdür. Oyun bunu ayrıntılı teoloji anlatmadan, günlük ritim üzerinden yakalar.\n\nLitürjik takvim, zaman algısını da belirliyordu: hasat hazırlığı, evlilik tarihleri, mahkeme günleri ve borç ödeme döngüleri çoğu yerde dini dönemlerle uyumlu ilerlerdi. Kimi bölgelerde piskoposluk otoritesi pazaryeri tarihlerini doğrudan etkileyebiliyor, bu da yerel ekonomi üzerinde ciddi sonuç üretiyordu. Dolayısıyla takvim yalnızca sembolik bir inanç göstergesi değil; insanlara ne zaman çalışacaklarını, ne zaman kutlayacaklarını ve ne zaman topluluk önüne çıkacaklarını söyleyen ortak bir sosyal protokoldü. Üstelik takvime uyum, yerel otoriteye itaatin ölçüsü olarak da değerlendirilebiliyordu.",
+      "accuracyNote": "Oyun mekansal ve gündelik ayrıntıları iyi verir; teolojik tartışmalar ve bölgesel farklılıklar ise oynanış temposu nedeniyle sadeleşir.",
+      "whyInteresting": "Kilise takvimi, insanların ne zaman çalışacağını, ne zaman oruç tutacağını, ne zaman pazara gideceğini ve hangi günleri topluluk önünde geçireceğini belirliyordu.",
+      "misconception": "Kilise takviminin yalnızca ibadet günlerini sıraladığı sanılır; gerçekte tarım, pazar, emek ve topluluk ilişkilerini de düzenliyordu.",
+      "nextTopics": [
+        "Köy Hayatı",
+        "Lonca Düzeni",
+        "Soylu Yükümlülüğü"
+      ],
+      "sources": [
+        {
+          "title": "Britannica - Liturgical year",
+          "url": "https://www.britannica.com/topic/liturgical-year",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Catholic Encyclopedia - Ecclesiastical calendar",
+          "url": "https://www.newadvent.org/cathen/03132a.htm",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Oxford Reference - Medieval church calendar",
+          "url": "https://www.oxfordreference.com/",
+          "type": "reference",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-075-armor-cost",
+        "tf26-076-markets",
+        "kcd2-medieval-law"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Bu kart, Kilise Takvimi konusunu Kingdom Come: Deliverance üzerinden tarihsel kayıtlarla karşılaştırır.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "orta-cag",
+        "bohemya",
+        "feodalizm",
+        "kilise-takvimi",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Kingdom Come: Deliverance çan sesleri, ayinler ve köy ritmiyle takvimi hissettirir; tarihsel düzende bu takvim aynı zamanda ekonomik ve sosyal hayatın zaman çizelgesiydi.",
+      "whyItMatters": "Takvimi anlamak, Orta Çağ’da dinin yalnız inanç değil, gündelik zaman yönetimi ve yerel otorite dili olduğunu gösterir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Kilise takvimi sadece dua günlerini mi belirliyordu, yoksa çalışma, pazar ve oruç düzenini de mi kuruyordu?",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

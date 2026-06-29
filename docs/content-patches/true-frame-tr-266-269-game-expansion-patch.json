@@ -1,0 +1,451 @@
+{
+  "patchId": "true-frame-tr-266-269-game-expansion-patch",
+  "locale": "tr",
+  "sourceChunks": [],
+  "contentRange": {
+    "startId": "tf26-266",
+    "endId": "tf26-269"
+  },
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-new-card-generation",
+  "summary": {
+    "cardCount": 4,
+    "newCards": [
+      "tf26-266-last-duel-trial-by-combat",
+      "tf26-267-tetris-cold-war-software",
+      "tf26-268-argo-iran-hostage",
+      "tf26-269-12years-slavery-testimony"
+    ],
+    "flagshipNewCards": [
+      "tf26-266-last-duel-trial-by-combat",
+      "tf26-269-12years-slavery-testimony"
+    ],
+    "standardNewCards": [
+      "tf26-267-tetris-cold-war-software",
+      "tf26-268-argo-iran-hostage"
+    ],
+    "mediaFocus": [
+      "The Last Duel",
+      "Tetris",
+      "Argo",
+      "12 Years a Slave"
+    ],
+    "sourceUpdates": [
+      "tf26-266-last-duel-trial-by-combat",
+      "tf26-267-tetris-cold-war-software",
+      "tf26-268-argo-iran-hostage",
+      "tf26-269-12years-slavery-testimony"
+    ],
+    "notes": [
+      "Bu batch, film ağırlıklı ve hassas tarih konuları içerdiği için 4 kartta tutuldu.",
+      "The Last Duel ve 12 Years a Slave flagship yapıldı; hukuk/tanıklık/kölelik gibi yüksek hassasiyetli başlıklar kaynak sınırlılığı ve etik anlatım açısından dikkatli işlendi.",
+      "Tetris ve Argo standart kart olarak kaldı; her ikisi de medya-vs-gerçeklik düzleminde lisans/diplomasi farkını net taşıyor."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-266-last-duel-trial-by-combat",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "The Last Duel konusu hassas tanıklık/adli şiddet meselesi olduğu için kadının sözü, feodal hukuk ve trial by combat yapısı ayrı başlıklara bölünerek işlendi.",
+      "fields": {
+        "title": "Son Düello ve Orta Çağ Adaleti",
+        "subtitle": "Tanıklık, beden ve Tanrı hükmü arasında hukuk",
+        "mediaType": "film",
+        "mediaTitle": "The Last Duel",
+        "era": "Orta Çağ",
+        "region": "Fransa",
+        "themes": [
+          "Hukuk",
+          "Kadın Tarihi",
+          "Şiddet",
+          "Orta Çağ"
+        ],
+        "whatWeSee": "The Last Duel, 14. yüzyıl Fransa’sında Marguerite de Carrouges’un suçlamasını, Jean de Carrouges ile Jacques Le Gris arasındaki ölümcül düelloya bağlar. Film aynı olayı farklı bakış açılarından yeniden kurarak seyirciyi tek bir kahramanlık anlatısına değil, güç, sınıf, erkek onuru ve kadının tanıklığı arasındaki gerilime bakmaya zorlar. Ekrandaki düello görkemli bir şövalye hesaplaşması gibi görünür; gerçekte ise bedenin, hukuki kanıtın yerine geçtiği sert bir yargılama biçimidir.",
+        "realHistory": "### Davanın zemini\n\n1386’da Jean de Carrouges, komşusu ve eski dostu Jacques Le Gris’i eşi Marguerite de Carrouges’a tecavüz etmekle suçladı. Dava yalnız iki erkek arasındaki hakaret ya da mülk rekabeti değildi; Marguerite’in beyanı, feodal hiyerarşi ve erkek onuru aynı dosyada birleşti. Smithsonian’ın tarihsel özetinde aktarıldığı gibi olay, Fransa Kralı VI. Charles’ın huzurunda sonuçlanan bir judicial duel, yani mahkemece onaylanmış savaş davasına dönüştü. Bu nokta önemlidir: filmde gördüğümüz dövüş yasa dışı intikam değil, dönemin hukuk düzeni içinde anlam taşıyan bir kanıt mekanizmasıydı.\n\n### Tanıklığın sınırı\n\nOrta Çağ hukukunda tanıklık bugünkü anlamda eşit ve tarafsız bir hak değildi. Cinsiyet, statü, aile bağı ve yerel patronaj kimin sözüne ne kadar ağırlık verileceğini belirliyordu. Marguerite’in suçlaması, yalnız Le Gris’in hayatını değil kendi hayatını da riske attı. Carrouges düelloda yenilirse bu yenilgi, Tanrı’nın hükmü gibi okunacak ve Marguerite’in yalancı tanıklık yaptığı varsayılacaktı. Bu nedenle filmdeki gerilim sadece iki zırhlı erkeğin dövüşü değildir; bir kadının anlatısının erkeklerin savaş kapasitesine teslim edilmesidir.\n\nBu durum, The Last Duel’in neden modern seyirciye bu kadar rahatsız edici geldiğini açıklar. Film, geçmişi sadece “barbar hukuk” diye dışarı atmaz; adaletin kimin bedeni üzerinden ölçüldüğünü sorar. Marguerite’in sesi ancak kocasının hukuk hamlesi ve düello hakkı üzerinden duyulabilir hale gelir. Yani görünürlük kazanır, ama kendi başına tam özneleşemez.\n\n### Düello miti\n\nTrial by combat, Avrupa Orta Çağı’nda bazı zor davalarda ilahi hükmün bedensel karşılığı gibi düşünüldü: kazananın haklı olduğuna inanılırdı. Princeton Middle Ages for Educators’ın Jean de Carrouges–Jacques Le Gris davasını ayrı bir eğitim dosyası olarak ele alması da bu olayın hem hukuk hem de hafıza açısından ne kadar güçlü kaldığını gösterir. Ancak bu sistemi “Tanrı karar verdi” basitliğine indirgemek eksik olur. Düello pahalıydı, statü gerektiriyordu, siyasi bağlantılarla şekilleniyordu ve tarafların fiziksel gücüyle derinden ilişkiliydi. Kanıt arayışı, savaş pratiğiyle karışıyordu.\n\nThe Last Duel bu yüzden iyi bir True Frame örneğidir: Orta Çağ’ı sadece kirli, vahşi ve egzotik göstermez; hukukun nasıl ritüelleştiğini, bedenin nasıl delile dönüştüğünü ve kadının sözünün erkek onuru içinde nasıl sıkıştığını gösterir. Gerçek tarih, düellonun sonucundan daha sert bir şey söyler: adalet sistemi bazen gerçeği bulmak için değil, toplumun kabul edebileceği bir hüküm sahnesi üretmek için çalışır.\n\nBu olayın sonraki yüzyıllarda tekrar tekrar anlatılması da tesadüf değildir. Aydınlanma dönemi yazarları ve modern tarihçiler, bazen Le Gris’in suçlu olup olmadığına, bazen de Marguerite’in sesinin nasıl bastırıldığına odaklandı. Böylece aynı dava farklı dönemlerde farklı soruların aynasına dönüştü: Tanrı hükmü gerçekten hukuk olabilir mi, kadın tanıklığı neden erkekler arasındaki statü çatışmasına bağlandı ve şiddet içeren bir ritüel toplum tarafından nasıl meşru kabul edildi? Film, bu uzun hafıza tartışmasını çağdaş bir bakışla yeniden açar.",
+        "accuracyNote": "Film gerçek 1386 Carrouges–Le Gris davasından beslenir; ancak karakter iç dünyaları ve bazı sahne düzenleri dramatik anlatı için yorumlanmıştır. Temel tarihsel zemin, Marguerite’in suçlaması ve mahkemece onaylanan düello çerçevesidir.",
+        "whyInteresting": "Kılıçla yapılan final, aslında Orta Çağ hukukunda tanıklık, cinsiyet ve ilahi hüküm fikrinin nasıl iç içe geçtiğini gösterir.",
+        "misconception": "Bu tür düelloların yalnız kişisel intikam olduğu sanılır; bazı davalarda düello doğrudan mahkemece tanınan bir yargılama biçimiydi.",
+        "nextTopics": [
+          "Şövalyelik Miti",
+          "Orta Çağ Temizliği",
+          "Kilise ve Reform"
+        ],
+        "sources": [
+          {
+            "title": "Smithsonian Magazine - The True History Behind The Last Duel",
+            "url": "https://www.smithsonianmag.com/history/the-true-history-behind-the-last-duel-180978860/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Princeton Middle Ages for Educators - Jean de Carrouges versus Jacques Le Gris",
+            "url": "https://middleagesforeducators.princeton.edu/anatomy-duel-jean-de-carrouges-versus-jacques-le-gris-video-lecture",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "University of Toronto - Trial by Battle in France and England",
+            "url": "https://utoronto.scholaris.ca/server/api/core/bitstreams/ed1c812a-fab1-4d6b-b96e-daed8d7d2ee6/content",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-260-forhonor-chivalry-myth",
+          "tf26-196-medieval-hygiene",
+          "tf26-218-pentiment-peasants-war"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "spoilerLevel": "minor",
+        "mediaConnection": "The Last Duel’in final düellosu, Jean de Carrouges ile Jacques Le Gris arasındaki 1386 davası ve trial by combat hukuk pratiğiyle doğrudan ilişkilidir.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "orta-cag",
+          "hukuk",
+          "kadin-tarihi",
+          "the-last-duel",
+          "true-frame"
+        ],
+        "spoilerNote": "The Last Duel’in ana dava sonucuna ve final düellosuna dair bilgi içerir.",
+        "mediaChanged": "Film olayı üç bakış açısıyla dramatize eder; tarihsel kayıtlar ise davanın hukuk biçimini, sınıf ilişkilerini ve Marguerite’in tanıklığının taşıdığı riski daha sınırlı ama sert biçimde gösterir.",
+        "whyItMatters": "Bu hikâye, adalet sistemlerinin yalnız kanıtla değil, toplumun kime inanmayı mümkün gördüğüyle de şekillendiğini hatırlatır.",
+        "quickRealityCheck": "Düelloyu kazanan kişinin haklı sayılması, gerçekten adaleti mi gösteriyordu yoksa dönemin hukuk ritüelini mi?",
+        "lastReviewedAt": "2026-06-28",
+        "isFlagship": true
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Smithsonian Magazine - The True History Behind The Last Duel",
+            "url": "https://www.smithsonianmag.com/history/the-true-history-behind-the-last-duel-180978860/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Princeton Middle Ages for Educators - Jean de Carrouges versus Jacques Le Gris",
+            "url": "https://middleagesforeducators.princeton.edu/anatomy-duel-jean-de-carrouges-versus-jacques-le-gris-video-lecture",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "University of Toronto - Trial by Battle in France and England",
+            "url": "https://utoronto.scholaris.ca/server/api/core/bitstreams/ed1c812a-fab1-4d6b-b96e-daed8d7d2ee6/content",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-267-tetris-cold-war-software",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Tetris filmi, oyun tarihinden çok Sovyet yazılım sahipliği ve geç Soğuk Savaş lisans savaşları üzerinden işlendi.",
+      "fields": {
+        "title": "Tetris ve Sovyet Yazılımı",
+        "subtitle": "Bir bulmaca oyunu nasıl lisans savaşına dönüştü?",
+        "mediaType": "film",
+        "mediaTitle": "Tetris",
+        "era": "Modern Tarih",
+        "region": "Sovyetler Birliği / Japonya / ABD",
+        "themes": [
+          "Soğuk Savaş",
+          "Teknoloji",
+          "Ekonomi",
+          "Oyun Tarihi"
+        ],
+        "whatWeSee": "Tetris filmi, Henk Rogers’ın Sovyetler Birliği’ne gidip oyunun haklarını almaya çalışmasını gerilimli bir Soğuk Savaş hikâyesi gibi kurar. Bürokratlar, lisans anlaşmaları, Nintendo, Robert Maxwell ve Moskova koridorları aynı satranç tahtasına dizilir. Film bazı sahneleri casus filmi ritmiyle büyütür; ama merkezdeki gerçek soru sağlamdır: basit bir oyun, devlet mülkiyeti ve küresel yazılım pazarı arasında nasıl sıkıştı?",
+        "realHistory": "Tetris, Alexey Pajitnov tarafından 1980’lerde Sovyet Bilimler Akademisi çevresindeki bilgisayar ortamında geliştirildi. MoMA’nın koleksiyon kaydı, oyunu geometrik ve mekânsal bir bulmaca olarak tanımlar; Tetris Company biyografisi de Pajitnov’un 1984’te, Moskova Akademisi için çalışırken oyunu yarattığını aktarır. Ancak Sovyet sisteminde bir devlet kurumunda çalışan geliştiricinin fikrî mülkiyet hakkı, Batı’daki bireysel yazılım girişimciliği mantığıyla aynı değildi.\n\nBu yüzden Tetris’in dünyaya yayılması sadece “iyi oyun tuttu” hikâyesi değildir. Elektronorgtechnica/ELORG gibi Sovyet lisans kanalları, yabancı şirketlerle hangi platform için hangi hakların verildiğini belirlemeye çalıştı. PC, arcade, konsol ve handheld haklarının birbirine karışması, Mirrorsoft, Spectrum HoloByte, Nintendo ve Henk Rogers arasında karmaşık bir ticari düğüm yarattı. Film bu süreci kovalamaca ve tehdit sahneleriyle hızlandırır; tarihsel çekirdek ise geç Soğuk Savaş’ta yazılımın artık kültürel ürün değil, küresel hak yönetimi meselesine dönüşmesidir.\n\nTetris’in önemi de buradadır. Dört karelik parçalar politik görünmez; ama oyunun lisans hikâyesi Sovyet devlet mülkiyeti, Japon donanım stratejisi ve Batı telif hukukunu aynı masaya getirir. Pajitnov’un yaratıcılığı, Rogers’ın ticari ısrarı ve Nintendo’nun Game Boy hamlesi birleşince Tetris yalnız popüler bir puzzle değil, Soğuk Savaş’ın son yıllarında fikrî mülkiyetin sınır aşan gücünü gösteren bir vaka haline geldi.",
+        "accuracyNote": "Film lisans mücadelesinin temel yönünü doğru yakalar, fakat casusluk ve aksiyon tonunu dramatik etki için artırır. Gerçek hikâyede asıl gerilim, yazılım haklarının Sovyet devlet sistemi ve küresel oyun pazarı arasında nasıl tanımlanacağıydı.",
+        "whyInteresting": "Tetris, politik içerik taşımayan bir oyunun bile Soğuk Savaş ekonomisi ve telif hukuku içinde ne kadar politik hale gelebileceğini gösterir.",
+        "misconception": "Tetris’in dünyaya yayılmasının yalnız Nintendo’nun iyi pazarlaması sayesinde olduğu sanılır; gerçekte hak sahipliği ve lisans kavgası hikâyenin merkezindeydi.",
+        "nextTopics": [
+          "Teknoloji Ağacı Miti",
+          "Atom Çağı İyimserliği",
+          "Gözetim Kapitalizmi"
+        ],
+        "sources": [
+          {
+            "title": "MoMA - Alexey Pajitnov, Tetris, 1984",
+            "url": "https://www.moma.org/collection/works/152403",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Tetris - Corporate Bios",
+            "url": "https://tetris.com/corporate-bios",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Guardian - Henk Rogers on buying Tetris",
+            "url": "https://www.theguardian.com/games/2025/may/12/henk-rogers-interview-tetris-kgb",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-253-civ-tech-tree-myth",
+          "tf26-225-fallout-atomic-optimism",
+          "tf26-227-cyberpunk-surveillance-capitalism"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "spoilerLevel": "minor",
+        "mediaConnection": "Tetris filmi, oyunun Sovyet kökenini ve uluslararası lisans kavgasını dramatize ederek geç Soğuk Savaş yazılım ekonomisini görünür kılar.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "soguk-savas",
+          "teknoloji",
+          "oyun-tarihi",
+          "tetris",
+          "true-frame"
+        ],
+        "spoilerNote": "Tetris filminin hak mücadelesi sonucuna dair genel bilgi içerir.",
+        "mediaChanged": "Film lisans görüşmelerini casus filmi temposuna yaklaştırır; tarihsel süreçte asıl düğüm, Sovyet devlet kurumları ile Batı şirketlerinin platform bazlı hakları farklı anlamasıydı.",
+        "whyItMatters": "Bugünkü oyun ve yazılım ekonomisini anlamak için yaratıcılığın tek başına yetmediğini; lisans, platform ve mülkiyet rejimlerinin ürünü belirlediğini gösterir.",
+        "quickRealityCheck": "Tetris’i dünyaya taşıyan şey yalnız oyunun kalitesi miydi, yoksa Sovyet yazılım haklarının çözülmesi de aynı derecede belirleyici miydi?",
+        "lastReviewedAt": "2026-06-28",
+        "isFlagship": false
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "MoMA - Alexey Pajitnov, Tetris, 1984",
+            "url": "https://www.moma.org/collection/works/152403",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Tetris - Corporate Bios",
+            "url": "https://tetris.com/corporate-bios",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Guardian - Henk Rogers on buying Tetris",
+            "url": "https://www.theguardian.com/games/2025/may/12/henk-rogers-interview-tetris-kgb",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-268-argo-iran-hostage",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Argo, filmdeki gerilim ile Canadian Caper’ın diplomatik/istihbarat zemini ayrılarak yazıldı.",
+      "fields": {
+        "title": "Argo ve Rehine Krizi",
+        "subtitle": "Sahte film, gerçek diplomasi ve dramatize edilen kaçış",
+        "mediaType": "film",
+        "mediaTitle": "Argo",
+        "era": "Modern Tarih",
+        "region": "İran / ABD / Kanada",
+        "themes": [
+          "Soğuk Savaş",
+          "Diplomasi",
+          "Casusluk",
+          "İran"
+        ],
+        "whatWeSee": "Argo, Tahran’daki ABD elçiliği baskınından kaçan altı diplomatın, sahte bir bilimkurgu filmi ekibi kılığıyla ülkeden çıkarılmasını yüksek tempolu bir gerilim gibi anlatır. Filmde havaalanı sahnesi, kimlik kontrolü ve son dakika takibi neredeyse kusursuz bir Hollywood finaline dönüşür. Gerçek olay daha az aksiyonlu ama daha karmaşıktır: CIA planı kadar Kanada’nın diplomatik koruması, sahte kimlikler ve İran Devrimi sonrası güvensizlik ortamı da belirleyiciydi.",
+        "realHistory": "4 Kasım 1979’da İranlı öğrenciler ABD’nin Tahran Büyükelçiliği’ni bastı ve kriz 444 gün sürdü. Bu sırada altı Amerikalı diplomat elçilik yerleşkesinden kaçmayı başardı. U.S. Diplomacy Center’ın özetine göre bu altı kişi yaklaşık üç ay Kanadalı diplomatların evlerinde saklandı; 28 Ocak 1980’de CIA görevlisi Tony Mendez’in yönettiği operasyonla Kanada film ekibi kılığına girerek ülkeden çıkarıldı. CIA’in kendi anlatısı da operasyonun “Canadian Six” için kurulan sahte Argo film projesi etrafında yürüdüğünü aktarır.\n\nFilm bu çekirdeği korur, fakat gerilimi artırmak için bazı noktaları büyütür. Gerçek operasyonda Kanada’nın rolü yalnız arka plan yardımı değildi; Ken Taylor ve John Sheardown’ın sağladığı sığınak, Kanada pasaportları ve diplomatik risk, kaçışın olmazsa olmaz parçasıydı. Argo ise hikâyeyi daha çok CIA merkezli bir kahramanlık anlatısına yaklaştırır. Ayrıca havaalanındaki son dakika kovalamaca hissi, tarihsel raporların anlattığı daha sakin ama yine de tehlikeli çıkış sürecinden dramatik olarak daha yoğundur.\n\nBu fark filmi değersiz kılmaz; tam tersine True Frame açısından iyi bir örnek yapar. Argo, gerçek bir gizli operasyonun nasıl sinema diline çevrildiğini gösterir. Belgelerde diplomasi, pasaport, ev sahipliği ve dikkatli planlama öne çıkar; filmde ise süre, tehdit ve takip hissi büyütülür. Gerçek hikâyenin gücü, kurşunlardan çok uluslararası işbirliğinde ve kâğıt üzerindeki güvenilir kimliklerin hayat kurtarabilmesindedir.",
+        "accuracyNote": "Argo gerçek Canadian Caper operasyonuna dayanır; fakat CIA rolünü dramatik merkez yapar ve bazı kaçış anlarını gerilim için abartır. Kanada’nın diplomatik katkısı tarihsel olarak çok daha merkeziydi.",
+        "whyInteresting": "Sahte bir film projesi, gerçek bir diplomatik kaçış planının en güvenilir kılığına dönüşmüştür.",
+        "misconception": "Argo’nun anlattığı operasyonun tamamen CIA’in tek başına yürüttüğü bir plan olduğu sanılabilir; Kanada’nın sığınak, pasaport ve diplomatik risk katkısı hayatiydi.",
+        "nextTopics": [
+          "İran Devrimi",
+          "MKUltra",
+          "Nükleer Caydırıcılık"
+        ],
+        "sources": [
+          {
+            "title": "U.S. Diplomacy Center - Argo and the Canadian Six",
+            "url": "https://diplomacy.state.gov/argo-and-the-canadian-six/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "CIA - Argo: The Ingenious Exfiltration of the Canadian Six",
+            "url": "https://www.cia.gov/stories/story/argo-the-ingenious-exfiltration-of-the-canadian-six/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "White House Historical Association - Jimmy Carter, Iran, and the Canadian Caper",
+            "url": "https://www.whitehousehistory.org/jimmy-carter-iran-and-the-canadian-caper",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-252-1979revolution-iran",
+          "tf26-245-codbo-mkultra",
+          "tf26-230-mgs-nuclear-deterrence"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "spoilerLevel": "minor",
+        "mediaConnection": "Argo, İran rehine krizi sırasında altı Amerikalı diplomatın Kanada desteği ve CIA kılıf operasyonuyla Tahran’dan çıkarılmasını dramatize eder.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "soguk-savas",
+          "iran",
+          "diplomasi",
+          "argo",
+          "true-frame"
+        ],
+        "spoilerNote": "Argo filminin kaçış operasyonu sonucuna dair bilgi içerir.",
+        "mediaChanged": "Film gerçek operasyonu yüksek gerilimli havaalanı finaline dönüştürür; tarihsel belgelerde asıl ağırlık Kanada koruması, sahte kimlik hazırlığı ve diplomatik işbirliğindedir.",
+        "whyItMatters": "Kriz anlarında istihbarat operasyonlarının yalnız gizli ajan becerisiyle değil, diplomatik ağlar ve güvenilir belge rejimleriyle çalıştığını gösterir.",
+        "quickRealityCheck": "Argo’daki kaçışın başarısı daha çok son dakika cesaretine mi, yoksa aylarca süren diplomatik hazırlığa mı dayanıyordu?",
+        "lastReviewedAt": "2026-06-28",
+        "isFlagship": false
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "U.S. Diplomacy Center - Argo and the Canadian Six",
+            "url": "https://diplomacy.state.gov/argo-and-the-canadian-six/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "CIA - Argo: The Ingenious Exfiltration of the Canadian Six",
+            "url": "https://www.cia.gov/stories/story/argo-the-ingenious-exfiltration-of-the-canadian-six/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "White House Historical Association - Jimmy Carter, Iran, and the Canadian Caper",
+            "url": "https://www.whitehousehistory.org/jimmy-carter-iran-and-the-canadian-caper",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-269-12years-slavery-testimony",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "12 Years a Slave hassas bir tanıklık ve kölelik tarihi olduğu için kişisel acı, kurumlaşmış şiddet ve birincil kaynak değeri ayrı başlıklarda dengelendi.",
+      "fields": {
+        "title": "12 Yıllık Esaret ve Tanıklık",
+        "subtitle": "Bir kişinin hikâyesi, bütün bir kölelik sistemini nasıl görünür kılar?",
+        "mediaType": "film",
+        "mediaTitle": "12 Years a Slave",
+        "era": "Modern Tarih",
+        "region": "ABD",
+        "themes": [
+          "Kölelik",
+          "ABD Tarihi",
+          "Eşitlik",
+          "Toplum"
+        ],
+        "whatWeSee": "12 Years a Slave, özgür doğmuş Solomon Northup’un kaçırılıp Louisiana’da köleleştirilmesini kişisel bir hayatta kalma hikâyesi olarak anlatır. Film, şiddeti yalnız arka plan dekoru yapmaz; beden, isim, aile ve zaman duygusunun nasıl sistematik biçimde parçalandığını gösterir. Seyirci Northup’un bireysel deneyimini izler; gerçek tarih ise bu deneyimin tekil değil, ABD’de kölelik ve insan kaçakçılığı düzeninin belgelenmiş bir parçası olduğunu gösterir.",
+        "realHistory": "### Özgürlükten köleliğe\n\nSolomon Northup, New York’ta özgür bir Siyah erkek olarak yaşıyordu. 1841’de Washington, D.C.’ye iş vaadiyle götürüldü, kaçırıldı ve köle olarak satıldı. Northup’un 1853 tarihli anısı, başlığında da belirttiği gibi onun Washington’da kaçırılıp Louisiana’daki Red River yakınlarında bir plantasyondan 1853’te kurtarılmasını anlatır. UNC Documenting the American South dijital metni, bu anlatıyı birincil kaynak olarak erişilebilir kılar. Smithsonian NMAAHC koleksiyonundaki Twelve Years a Slave baskısı da kitabın tanıklık değerini maddi bir tarih nesnesi olarak korur.\n\nBu hikâyede korkunç olan şey, yalnız tek bir suçun işlenmesi değildir. Northup’un özgür statüsü, sahte isim, sahte satış ve ırkçı hukuk düzeni içinde neredeyse silinir. National Archives’ın Brig Orleans manifestosu, Northup’un “Plat Hamilton” adıyla New Orleans’a gönderilen kişiler arasında belgelendiğini gösterir. Yani filmdeki kimlik gaspı dramatik bir buluş değildir; arşivde iz bırakan bir sistem pratiğidir.\n\n### Plantasyon düzeni\n\nFilm, köleliği yalnız fiziksel şiddetle değil, zaman ve irade kontrolüyle gösterir. Plantasyonda çalışma ritmi, gözetim, ceza tehdidi, aile bağlarının koparılması ve hukuki savunmasızlık aynı düzenin parçalarıdır. Northup’un anlatısı, pamuk ve şeker ekonomisinin insan bedenini mülk gibi işleyen yapısını içeriden gösterir. Bu nedenle 12 Years a Slave sadece “iyi bir adamın başına gelen kötü olay” değildir; özgür Siyahların bile kaçırılabildiği, köle pazarının hukuki boşluk ve ırkçı varsayımlarla beslendiği bir dünya anlatır.\n\nFilmin gücü, köleliği soyut bir kurum yerine gündelik zorunluluklar üzerinden hissettirmesidir: ne zaman konuşulacağı, ne zaman susulacağı, kimin adının kullanılacağı, kimin mektup gönderebileceği, kimin acısının kanıt sayılacağı. Bu ayrıntılar, köleliğin yalnız ekonomik değil, epistemik bir düzen olduğunu da gösterir: bazı insanların sözü baştan değersizleştirilir.\n\n### Tanıklığın gücü\n\nNorthup kurtulduktan sonra anısını yayımladı ve anlatısı kölelik karşıtı kamuoyunda güçlü bir belgeye dönüştü. Ancak tanıklık tek başına adalet getirmedi. Onu kaçıranların cezalandırılmasında hukuk sistemi sınırlı kaldı; çünkü dönemin ırkçı yasal yapısı Siyah tanıklığı ve yetki alanı sorunları üzerinden failleri koruyabiliyordu. Bu nokta, filmin duygusal kurtuluş finalini tarihsel olarak daha acı kılar: birey kurtulabilir, ama kurumun ürettiği adaletsizlik devam eder.\n\n12 Years a Slave bu yüzden True Frame için çok güçlüdür. Film, bir yaşamı merkeze alır; tarih ise o yaşamı kölelik ekonomisi, insan kaçakçılığı, ırkçı hukuk ve tanıklık kültürü içine yerleştirir. Northup’un hikâyesi yalnız geçmişte kalmış bir acı değil, belgelenmiş bir sistem suçunun sesidir.\n\nBu tanıklığın bugün hâlâ etkili olmasının nedeni, okuyucuya yalnız “kölelik kötüydü” sonucunu vermesi değildir. Northup, köleliğin nasıl işlediğini; satış belgesinden kırbaç tehdidine, sahte isimden aile ayrılığına kadar küçük görünen idari ayrıntılarla gösterir. Böylece film ve anı birlikte, insanlık dışı bir kurumun yalnız kaba kuvvetle değil, muhasebe, ulaşım, mahkeme ve sessizlikle de ayakta kaldığını hatırlatır. Tanıklık, bu sessizliğe karşı tarihsel bir kayıt haline gelir.",
+        "accuracyNote": "Film Solomon Northup’un 1853 tarihli anısına dayanır; bazı karakter sahneleri sinema dili için yoğunlaştırılmıştır. Northup’un kaçırılması, köleleştirilmesi ve kurtarılması birincil kaynaklar ve arşiv belgeleriyle desteklenir.",
+        "whyInteresting": "Tek bir kişinin tanıklığı, köleliği soyut bir kurum olmaktan çıkarıp isim, beden, belge ve hukuk düzeyinde görünür kılar.",
+        "misconception": "12 Years a Slave’in yalnız bireysel bir trajedi anlattığı sanılır; gerçekte hikâye, özgür Siyahların bile hedef alınabildiği geniş bir kölelik ve kaçırma düzenini gösterir.",
+        "nextTopics": [
+          "Haudenosaunee Konfederasyonu",
+          "Sömürge Birlikleri",
+          "Köylü Savaşı"
+        ],
+        "sources": [
+          {
+            "title": "UNC Documenting the American South - Twelve Years a Slave",
+            "url": "https://docsouth.unc.edu/fpn/northup/northup.html",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Smithsonian NMAAHC - Twelve Years A Slave object record",
+            "url": "https://nmaahc.si.edu/object/nmaahc_2014.262",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "U.S. National Archives - Slave Manifest of Solomon Northup",
+            "url": "https://www.archives.gov/fort-worth/highlights/solomon-northup",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-204-ac3-haudenosaunee",
+          "tf26-242-bfv-senegalese-tirailleurs",
+          "tf26-218-pentiment-peasants-war"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "spoilerLevel": "minor",
+        "mediaConnection": "12 Years a Slave, Solomon Northup’un kendi anlatısını sinemaya uyarlayarak ABD’de kölelik, kaçırma ve tanıklık tarihine doğrudan bağlanır.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "kolelik",
+          "abd-tarihi",
+          "taniklik",
+          "12-years-a-slave",
+          "true-frame"
+        ],
+        "spoilerNote": "12 Years a Slave’in temel olay örgüsü ve Northup’un kurtuluşuna dair bilgi içerir.",
+        "mediaChanged": "Film Northup’un deneyimini dramatik yoğunlukla izletir; arşivler aynı hikâyenin belge, manifest, hukuk ve kölelik ekonomisi katmanlarını gösterir.",
+        "whyItMatters": "Köleliği yalnız geçmişte kalmış ahlaki kötülük olarak değil, belge üreten, isim değiştiren ve hukuku kendi lehine işleten bir sistem olarak görmeyi sağlar.",
+        "quickRealityCheck": "Solomon Northup’un hikâyesi sadece bir kaçırılma olayı mıydı, yoksa kölelik sisteminin hukuki ve ekonomik işleyişini mi açığa çıkarıyordu?",
+        "lastReviewedAt": "2026-06-28",
+        "isFlagship": true
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "UNC Documenting the American South - Twelve Years a Slave",
+            "url": "https://docsouth.unc.edu/fpn/northup/northup.html",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Smithsonian NMAAHC - Twelve Years A Slave object record",
+            "url": "https://nmaahc.si.edu/object/nmaahc_2014.262",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "U.S. National Archives - Slave Manifest of Solomon Northup",
+            "url": "https://www.archives.gov/fort-worth/highlights/solomon-northup",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

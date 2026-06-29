@@ -1,0 +1,2447 @@
+{
+  "meta": {
+    "title": "True Frame — Game-heavy content expansion topic proposals",
+    "generatedFor": "editorial/product review (planning only; no card content written)",
+    "sourceOfTruthInspected": [
+      "data/cards.tr.json (367 cards)",
+      "data/cards.index.tr.json"
+    ],
+    "enums": {
+      "mediaType": [
+        "game",
+        "film",
+        "series",
+        "book",
+        "general",
+        "other"
+      ],
+      "difficulty": [
+        "basic",
+        "medium",
+        "deep"
+      ],
+      "spoilerLevel": [
+        "none",
+        "minor",
+        "major"
+      ],
+      "accuracyType": [
+        "real",
+        "partly-real",
+        "inspired-by-reality",
+        "fictionalized",
+        "fiction"
+      ]
+    },
+    "existingDistribution": {
+      "game": 114,
+      "film": 101,
+      "series": 96,
+      "general": 56,
+      "totalFlagship": 78
+    },
+    "notes": [
+      "possibleReliableSources lists candidate institutions/works by name, NOT fabricated URLs; exact URLs to be verified at generation time.",
+      "duplicateRisk is assessed against existing 367 TR cards."
+    ]
+  },
+  "totals": {
+    "totalTopics": 85,
+    "gameTopics": 62,
+    "nonGameTopics": 23,
+    "flagshipCandidates": 24,
+    "byMediaType": {
+      "game": 62,
+      "film": 12,
+      "series": 7,
+      "general": 4
+    },
+    "bySourceViability": {
+      "strong": 68,
+      "medium": 17
+    }
+  },
+  "topics": [
+    {
+      "proposedIdBase": "ac4-republic-of-pirates",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed IV: Black Flag",
+      "gameOrMediaFranchise": "Assassin's Creed",
+      "proposedCardTitleTR": "Korsanlar Cumhuriyeti: Nassau (1706–1718)",
+      "proposedCardTitleEN": "The Republic of Pirates: Nassau (1706–1718)",
+      "realWorldAngle": "The short-lived pirate haven at Nassau in the Bahamas during the Golden Age of Piracy, its loose self-governance, and how British naval power and pardons dismantled it.",
+      "whyItFitsTrueFrame": "Black Flag romanticizes a pirate brotherhood; the real frame is a fragile maritime order shaped by trade routes, empire, and labor escaping merchant/navy discipline.",
+      "possibleThemes": [
+        "Korsanlar",
+        "Denizcilik",
+        "Ticaret",
+        "Siyaset"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Britannica: Golden Age of Piracy / Edward Teach",
+        "Colin Woodard, The Republic of Pirates (academic press)",
+        "National Maritime Museum (Royal Museums Greenwich): piracy"
+      ],
+      "duplicateRisk": "low — no existing pirate/Black Flag card (existing korsanlar theme is minimal).",
+      "notes": "Anchor topic for an entire missing franchise (Black Flag)."
+    },
+    {
+      "proposedIdBase": "ac4-privateering-war-economy",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed IV: Black Flag",
+      "gameOrMediaFranchise": "Assassin's Creed",
+      "proposedCardTitleTR": "Korsanlık mı, Devlet Hizmeti mi? Privateer Sistemi",
+      "proposedCardTitleEN": "Privateering vs Piracy: Letters of Marque",
+      "realWorldAngle": "How states legalized sea raiding via letters of marque, blurring the line between piracy and naval auxiliary in imperial wars.",
+      "whyItFitsTrueFrame": "The game treats pirates as outlaws; in reality many were state-sanctioned privateers, showing how legality of violence followed political convenience.",
+      "possibleThemes": [
+        "Denizcilik",
+        "Hukuk",
+        "Savaş",
+        "Ekonomi"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Britannica: privateer / letter of marque",
+        "National Maritime Museum: privateering",
+        "Lloyd's / maritime law histories (academic)"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "ac4-blackbeard-image",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed IV: Black Flag",
+      "gameOrMediaFranchise": "Assassin's Creed",
+      "proposedCardTitleTR": "Karasakal Efsanesi: Edward Thatch'in Gerçeği",
+      "proposedCardTitleEN": "The Blackbeard Image vs Edward Thatch",
+      "realWorldAngle": "The deliberate self-branding of Blackbeard (smoking fuses, terror theater) and how reputation was a weapon, versus the thin documentary record of the man.",
+      "whyItFitsTrueFrame": "A perfect media-vs-reality case: the in-game legend mirrors how Thatch himself manufactured an image that later media amplified.",
+      "possibleThemes": [
+        "Korsanlar",
+        "Medya",
+        "Biyografi",
+        "Denizcilik"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Britannica: Edward Teach (Blackbeard)",
+        "North Carolina Office of State Archaeology: Queen Anne's Revenge project",
+        "National Maritime Museum"
+      ],
+      "duplicateRisk": "low",
+      "notes": "Ties image-making to archaeology (QAR shipwreck)."
+    },
+    {
+      "proposedIdBase": "ac3-haudenosaunee-confederacy",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed III",
+      "gameOrMediaFranchise": "Assassin's Creed",
+      "proposedCardTitleTR": "Haudenosaunee Konfederasyonu ve Devrim Diplomasisi",
+      "proposedCardTitleEN": "The Haudenosaunee Confederacy and Revolution-era Diplomacy",
+      "realWorldAngle": "The Six Nations (Iroquois) Confederacy, its governance, and the impossible diplomatic position of Indigenous nations during the American Revolution.",
+      "whyItFitsTrueFrame": "Connor's story personalizes a vast political tragedy; the frame is Indigenous sovereignty, alliance, and displacement behind the patriotic war narrative.",
+      "possibleThemes": [
+        "Siyaset",
+        "Kimlik",
+        "Savaş",
+        "Diplomasi"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "minor",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Smithsonian National Museum of the American Indian",
+        "Britannica: Iroquois Confederacy",
+        "Library of Congress: American Revolution and Native nations"
+      ],
+      "duplicateRisk": "low — no AC III / American Revolution card exists.",
+      "notes": "Strong, underrepresented region/perspective."
+    },
+    {
+      "proposedIdBase": "ac3-boston-massacre-propaganda",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed III",
+      "gameOrMediaFranchise": "Assassin's Creed",
+      "proposedCardTitleTR": "Boston Katliamı ve Revere'in Gravürü",
+      "proposedCardTitleEN": "The Boston Massacre and Revere's Engraving",
+      "realWorldAngle": "How the 1770 incident became revolutionary propaganda through Paul Revere's misleading engraving, and the trial that followed (John Adams defending the soldiers).",
+      "whyItFitsTrueFrame": "Direct media-vs-reality: an early example of image manipulation shaping public memory of an event.",
+      "possibleThemes": [
+        "Propaganda",
+        "Medya",
+        "Hukuk",
+        "Devrim"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Library of Congress: Boston Massacre engraving",
+        "Massachusetts Historical Society",
+        "Britannica: Boston Massacre"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "acshadows-yasuke-retainer",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Shadows",
+      "gameOrMediaFranchise": "Assassin's Creed",
+      "proposedCardTitleTR": "Yasuke: Nobunaga'nın Hizmetindeki Afrikalı",
+      "proposedCardTitleEN": "Yasuke: The African Retainer of Oda Nobunaga",
+      "realWorldAngle": "The documented African man who served Oda Nobunaga in the 1580s, what the limited primary sources actually say, and how myth has inflated the record.",
+      "whyItFitsTrueFrame": "High-profile, contested topic; the frame separates thin but real documentation from modern dramatization and online mythmaking.",
+      "possibleThemes": [
+        "Japonya",
+        "Kimlik",
+        "Sengoku",
+        "Biyografi"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": true,
+      "sourceViability": "medium",
+      "possibleReliableSources": [
+        "Thomas Lockley & Geoffrey Girard, African Samurai (use cautiously)",
+        "Britannica: Oda Nobunaga",
+        "Academic Japanese-history journals on Jesuit-era records (Luís Fróis letters)"
+      ],
+      "duplicateRisk": "low — feudal Japan exists via Ghost/Shogun but no Yasuke/Shadows card.",
+      "notes": "Sensitive/contested; emphasize source limits, avoid overclaiming."
+    },
+    {
+      "proposedIdBase": "acshadows-tanegashima-firearms",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Shadows",
+      "gameOrMediaFranchise": "Assassin's Creed",
+      "proposedCardTitleTR": "Tanegashima: Japonya'ya Ateşli Silahın Gelişi",
+      "proposedCardTitleEN": "Tanegashima: Firearms Arrive in Japan",
+      "realWorldAngle": "The 1543 Portuguese introduction of matchlock guns, rapid domestic mass-production, and how firearms reshaped Sengoku warfare (e.g., Nagashino).",
+      "whyItFitsTrueFrame": "Counters the katana-centric samurai image with the decisive role of guns and logistics in unification-era battles.",
+      "possibleThemes": [
+        "Japonya",
+        "Teknoloji",
+        "Savaş",
+        "Ticaret"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Metropolitan Museum of Art: Japanese arms and armor",
+        "Britannica: Battle of Nagashino",
+        "Noel Perrin, Giving Up the Gun (academic discussion)"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "acshadows-nobunaga-unification",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Shadows",
+      "gameOrMediaFranchise": "Assassin's Creed",
+      "proposedCardTitleTR": "Oda Nobunaga ve Japonya'nın Birleşmesi",
+      "proposedCardTitleEN": "Oda Nobunaga and the Unification of Japan",
+      "realWorldAngle": "Nobunaga's military-administrative innovations, treatment of Buddhist power centers, and the messy reality behind the 'ruthless visionary' image.",
+      "whyItFitsTrueFrame": "The frame is institutional change (markets, castles, religion-state conflict), not just a warlord biography.",
+      "possibleThemes": [
+        "Japonya",
+        "Siyaset",
+        "Din",
+        "Sengoku"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "minor",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Britannica: Oda Nobunaga",
+        "Cambridge History of Japan (academic)",
+        "Tokyo National Museum"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "acmirage-samarra-ghilman",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Mirage",
+      "gameOrMediaFranchise": "Assassin's Creed",
+      "proposedCardTitleTR": "Samarra ve Gulam Askerler: Halifeliğin Krizi",
+      "proposedCardTitleEN": "Samarra and the Ghilman: The Abbasid Crisis",
+      "realWorldAngle": "The 'Anarchy at Samarra' (861–870), the rise of Turkic slave-soldiers (ghilman) as kingmakers, and the fragility of caliphal authority behind Baghdad's golden-age image.",
+      "whyItFitsTrueFrame": "Mirage centers Baghdad's splendor; the frame is the military-political instability that undercut it, distinct from the existing House of Wisdom cards.",
+      "possibleThemes": [
+        "Abbasi",
+        "Siyaset",
+        "Askeri Tarih",
+        "İslam Tarihi"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "medium",
+      "possibleReliableSources": [
+        "Britannica: Abbasid dynasty / Samarra",
+        "Hugh Kennedy, The Court of the Caliphs (academic)",
+        "UNESCO: Samarra Archaeological City"
+      ],
+      "duplicateRisk": "low — distinct from existing ac-mirage-baghdad / house-wisdom-baghdad.",
+      "notes": "Deliberately avoids the already-covered House of Wisdom / Round City angles."
+    },
+    {
+      "proposedIdBase": "twom-sarajevo-siege",
+      "mediaType": "game",
+      "mediaTitle": "This War of Mine",
+      "gameOrMediaFranchise": "This War of Mine",
+      "proposedCardTitleTR": "Kuşatma Altında Sivil Hayat: Saraybosna (1992–1996)",
+      "proposedCardTitleEN": "Civilian Survival Under Siege: Sarajevo (1992–1996)",
+      "realWorldAngle": "The longest siege of a capital in modern warfare, daily civilian survival (water, fuel, sniper alley), and the explicit inspiration for the game.",
+      "whyItFitsTrueFrame": "The game's core (ordinary people, not soldiers) maps directly onto documented siege memory and humanitarian records.",
+      "possibleThemes": [
+        "Savaş",
+        "Toplum",
+        "Afet",
+        "İnsani Yardım"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "ICTY (UN) case records on the Siege of Sarajevo",
+        "ICRC archives",
+        "Britannica: Siege of Sarajevo",
+        "Galerija 11/07/95 and Historical Museum of BiH"
+      ],
+      "duplicateRisk": "low — no civilian-siege/This War of Mine card exists.",
+      "notes": "Anchor for the missing 'civilian war experience' direction."
+    },
+    {
+      "proposedIdBase": "twom-humanitarian-ethics",
+      "mediaType": "game",
+      "mediaTitle": "This War of Mine",
+      "gameOrMediaFranchise": "This War of Mine",
+      "proposedCardTitleTR": "Hayatta Kalma Ahlakı: Yağma, Paylaşım ve İnsani Hukuk",
+      "proposedCardTitleEN": "The Ethics of Survival: Scavenging and Humanitarian Law",
+      "realWorldAngle": "Real dilemmas of civilians in besieged cities and how international humanitarian law (Geneva Conventions) frames protection of non-combatants.",
+      "whyItFitsTrueFrame": "The game's moral choices connect to a real legal/ethical system rather than abstract 'hard choices'.",
+      "possibleThemes": [
+        "Etik",
+        "Hukuk",
+        "Savaş",
+        "Toplum"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "ICRC: Geneva Conventions explainers",
+        "UNHCR",
+        "Britannica: international humanitarian law"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "papersplease-border-regime",
+      "mediaType": "game",
+      "mediaTitle": "Papers, Please",
+      "gameOrMediaFranchise": "Papers, Please",
+      "proposedCardTitleTR": "Sınır Bürokrasisi ve Belge Rejimleri",
+      "proposedCardTitleEN": "Border Bureaucracy and Document Regimes",
+      "realWorldAngle": "The 20th-century rise of passports, visas, and checkpoint bureaucracy (esp. Cold War Eastern Bloc) as instruments of state control.",
+      "whyItFitsTrueFrame": "The fictional Arstotzka stands in for real document regimes; the frame is how paperwork became power.",
+      "possibleThemes": [
+        "Devlet",
+        "Sınır",
+        "Göç",
+        "Toplum"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "John Torpey, The Invention of the Passport (Cambridge UP)",
+        "Britannica: passport",
+        "League of Nations / interwar passport conference records"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "papersplease-surveillance-informants",
+      "mediaType": "game",
+      "mediaTitle": "Papers, Please",
+      "gameOrMediaFranchise": "Papers, Please",
+      "proposedCardTitleTR": "Gözetim Devleti ve Muhbir Ağları",
+      "proposedCardTitleEN": "The Surveillance State and Informant Networks",
+      "realWorldAngle": "How authoritarian states (e.g., the Stasi in the GDR) built mass informant systems, and the bureaucratic banality of repression.",
+      "whyItFitsTrueFrame": "The game's pressure to comply mirrors documented surveillance regimes; the frame is institutionalized informing.",
+      "possibleThemes": [
+        "Devlet",
+        "Casusluk",
+        "Toplum",
+        "Etik"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "BStU / Stasi Records Archive (Germany)",
+        "Britannica: Stasi",
+        "Stasi Museum Berlin"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "frostpunk-year-without-summer",
+      "mediaType": "game",
+      "mediaTitle": "Frostpunk",
+      "gameOrMediaFranchise": "Frostpunk",
+      "proposedCardTitleTR": "Yazsız Yıl: Tambora ve İklim Felaketi (1816)",
+      "proposedCardTitleEN": "The Year Without a Summer: Tambora (1816)",
+      "realWorldAngle": "The 1815 Tambora eruption causing the 1816 global cold/famine, crop failures, migration, and social crisis.",
+      "whyItFitsTrueFrame": "Frostpunk's frozen-world premise has a real analogue; the frame is how sudden climate shock breaks food and governance systems.",
+      "possibleThemes": [
+        "Afet",
+        "Çevre",
+        "Toplum",
+        "Bilim"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Smithsonian: Tambora 1815",
+        "Britannica: Mount Tambora",
+        "Gillen D'Arcy Wood, Tambora (Princeton UP)"
+      ],
+      "duplicateRisk": "low",
+      "notes": "Use 'Çevre' as a new theme (not yet in vocabulary)."
+    },
+    {
+      "proposedIdBase": "frostpunk-emergency-governance",
+      "mediaType": "game",
+      "mediaTitle": "Frostpunk",
+      "gameOrMediaFranchise": "Frostpunk",
+      "proposedCardTitleTR": "Olağanüstü Hâl Yönetimi ve Şirket Kasabaları",
+      "proposedCardTitleEN": "Emergency Governance and Company Towns",
+      "realWorldAngle": "Historical company towns and crisis governance (rationing, martial order, paternalistic control) during industrial emergencies.",
+      "whyItFitsTrueFrame": "The game's law-book choices echo real trade-offs between survival, order, and rights in company-run settlements.",
+      "possibleThemes": [
+        "Devlet",
+        "Sınıf",
+        "Ekonomi",
+        "Sanayi Devrimi"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "medium",
+      "possibleReliableSources": [
+        "Library of Congress: company towns (e.g., Pullman)",
+        "Britannica: company town",
+        "National Park Service: Pullman National Monument"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "hellblade-psychosis-representation",
+      "mediaType": "game",
+      "mediaTitle": "Hellblade: Senua's Sacrifice",
+      "gameOrMediaFranchise": "Hellblade",
+      "proposedCardTitleTR": "Psikoz Temsili: Oyun, Tıp ve Damga",
+      "proposedCardTitleEN": "Representing Psychosis: Game, Medicine, and Stigma",
+      "realWorldAngle": "The game's collaboration with neuroscientists and people with lived experience to depict psychosis, versus historical stigmatization of mental illness.",
+      "whyItFitsTrueFrame": "A rare game built on explicit scientific consultation; the frame is psychiatry, lived experience, and the history of 'madness' as moral failing.",
+      "possibleThemes": [
+        "Bilim",
+        "Psikoloji",
+        "Sağlık",
+        "Toplum"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "minor",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Wellcome Collection / Wellcome Trust (Hellblade collaboration)",
+        "Paul Fletcher (University of Cambridge) public talks",
+        "WHO: mental health"
+      ],
+      "duplicateRisk": "low",
+      "notes": "Developer collaboration is itself a documented, citable fact."
+    },
+    {
+      "proposedIdBase": "hellblade-norse-orkney-picts",
+      "mediaType": "game",
+      "mediaTitle": "Hellblade: Senua's Sacrifice",
+      "gameOrMediaFranchise": "Hellblade",
+      "proposedCardTitleTR": "Pikt ve Norse Dünyası: Orkney'de Kültürlerin Kesişimi",
+      "proposedCardTitleEN": "Picts and Norse: Cultural Collision in Orkney",
+      "realWorldAngle": "The real Pictish/Norse contact zone in northern Britain and Orkney, and how Norse myth (Hel, the dead) framed worldview.",
+      "whyItFitsTrueFrame": "The game blends myth and illness; the frame distinguishes archaeological Pict/Norse reality from mythic narrative.",
+      "possibleThemes": [
+        "Vikingler",
+        "Mitoloji",
+        "Arkeoloji",
+        "Kültür"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "minor",
+      "flagshipCandidate": false,
+      "sourceViability": "medium",
+      "possibleReliableSources": [
+        "Historic Environment Scotland: Orkney / Pictish sites",
+        "British Museum: Vikings",
+        "National Museums Scotland"
+      ],
+      "duplicateRisk": "low — existing viking cards are England/settlement focused.",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "pentiment-german-peasants-war",
+      "mediaType": "game",
+      "mediaTitle": "Pentiment",
+      "gameOrMediaFranchise": "Pentiment",
+      "proposedCardTitleTR": "Alman Köylü Savaşı (1525) ve Sınıf Öfkesi",
+      "proposedCardTitleEN": "The German Peasants' War (1525) and Class Anger",
+      "realWorldAngle": "The largest popular uprising in Europe before the French Revolution, its religious-economic grievances, and brutal suppression.",
+      "whyItFitsTrueFrame": "Pentiment's village tensions sit atop a real revolt; the frame is rural class conflict entangled with the Reformation.",
+      "possibleThemes": [
+        "Sınıf",
+        "Din",
+        "Devrim",
+        "Orta Çağ"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "minor",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Britannica: German Peasants' War",
+        "German Historical Museum (DHM)",
+        "Peter Blickle, The Revolution of 1525 (academic)"
+      ],
+      "duplicateRisk": "low — distinct from existing Pentiment printing-press cards.",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "pentiment-reformation-indulgences",
+      "mediaType": "game",
+      "mediaTitle": "Pentiment",
+      "gameOrMediaFranchise": "Pentiment",
+      "proposedCardTitleTR": "Reform, Endüljans ve Dini Otoritenin Sarsılması",
+      "proposedCardTitleEN": "Reformation, Indulgences, and Shaken Authority",
+      "realWorldAngle": "How indulgence sales, print, and Luther's challenge fractured religious authority in the early 16th century.",
+      "whyItFitsTrueFrame": "Connects the game's manuscript/print theme to the institutional crisis of the Church.",
+      "possibleThemes": [
+        "Din",
+        "Reformasyon",
+        "Matbaa",
+        "Siyaset"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Britannica: Reformation / indulgence",
+        "German Historical Museum",
+        "Luther memorials (UNESCO, Eisleben/Wittenberg)"
+      ],
+      "duplicateRisk": "medium — pentiment-printing-press touches print culture; keep angle on Church authority/indulgences.",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "ck3-dynastic-marriage-politics",
+      "mediaType": "game",
+      "mediaTitle": "Crusader Kings III",
+      "gameOrMediaFranchise": "Paradox Grand Strategy",
+      "proposedCardTitleTR": "Hanedan Evlilikleri: Siyaset Yatak Odasında",
+      "proposedCardTitleEN": "Dynastic Marriage: Politics in the Bedchamber",
+      "realWorldAngle": "How medieval/early-modern dynasties used marriage, inheritance law, and legitimacy to build and lose realms (e.g., Habsburg marriage strategy).",
+      "whyItFitsTrueFrame": "CK3 gamifies succession; the frame is real dynastic statecraft where families were instruments of geopolitics.",
+      "possibleThemes": [
+        "Hanedan",
+        "Siyaset",
+        "Hukuk",
+        "Krallık"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Britannica: House of Habsburg / dynastic union",
+        "Kunsthistorisches Museum Vienna",
+        "Cambridge medieval history (academic)"
+      ],
+      "duplicateRisk": "low — no grand-strategy/dynastic-politics card exists.",
+      "notes": "Anchor for the missing Paradox grand-strategy direction."
+    },
+    {
+      "proposedIdBase": "eu4-mercantilism-colonialism",
+      "mediaType": "game",
+      "mediaTitle": "Europa Universalis IV",
+      "gameOrMediaFranchise": "Paradox Grand Strategy",
+      "proposedCardTitleTR": "Merkantilizm ve Erken Sömürgecilik",
+      "proposedCardTitleEN": "Mercantilism and Early Colonialism",
+      "realWorldAngle": "Early-modern trade nodes, chartered companies, and mercantilist policy that the game abstracts as 'trade power'.",
+      "whyItFitsTrueFrame": "EU4's map-painting hides real systems of extraction, monopoly, and state-backed commerce.",
+      "possibleThemes": [
+        "Ekonomi",
+        "Ticaret",
+        "İmparatorluk",
+        "Denizcilik"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Britannica: mercantilism / chartered company",
+        "Rijksmuseum (VOC history)",
+        "The National Archives (UK): East India Company"
+      ],
+      "duplicateRisk": "low",
+      "notes": "Pairs well with the Obra Dinn / East India Company topic."
+    },
+    {
+      "proposedIdBase": "victoria3-industrial-labor",
+      "mediaType": "game",
+      "mediaTitle": "Victoria 3",
+      "gameOrMediaFranchise": "Paradox Grand Strategy",
+      "proposedCardTitleTR": "Sanayileşme, Emek ve Sınıfın Doğuşu",
+      "proposedCardTitleEN": "Industrialization, Labor, and the Birth of Class",
+      "realWorldAngle": "19th-century factory labor, urbanization, child labor, and the emergence of organized labor movements that Victoria 3 models as 'pops' and interest groups.",
+      "whyItFitsTrueFrame": "The game's economic abstractions rest on real labor history and reform struggles.",
+      "possibleThemes": [
+        "Sanayi Devrimi",
+        "Sınıf",
+        "Ekonomi",
+        "Toplum"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "The National Archives (UK): Factory Acts",
+        "Britannica: Industrial Revolution / trade union",
+        "International Labour Organization (ILO) history"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "hoi4-war-economy-mobilization",
+      "mediaType": "game",
+      "mediaTitle": "Hearts of Iron IV",
+      "gameOrMediaFranchise": "Paradox Grand Strategy",
+      "proposedCardTitleTR": "Topyekûn Savaş Ekonomisi ve Seferberlik",
+      "proposedCardTitleEN": "Total War Economy and Mobilization",
+      "realWorldAngle": "How WWII states converted civilian economies to war production (rationing, women in factories, lend-lease) behind the game's 'military factories' abstraction.",
+      "whyItFitsTrueFrame": "HOI4 reduces war to production sliders; the frame is the social transformation of total mobilization.",
+      "possibleThemes": [
+        "II. Dünya Savaşı",
+        "Ekonomi",
+        "Lojistik",
+        "Toplum"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Imperial War Museums (IWM): home front",
+        "US National WWII Museum",
+        "Britannica: war economy / Lend-Lease"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "fallout-civil-defense-duck-cover",
+      "mediaType": "game",
+      "mediaTitle": "Fallout",
+      "gameOrMediaFranchise": "Fallout",
+      "proposedCardTitleTR": "Sığınağa! Soğuk Savaş Sivil Savunması",
+      "proposedCardTitleEN": "Duck and Cover: Cold War Civil Defense",
+      "realWorldAngle": "1950s–60s US/USSR civil defense (fallout shelters, 'duck and cover' films, CONELRAD) and how it managed public fear of nuclear war.",
+      "whyItFitsTrueFrame": "Fallout's vault premise satirizes a real culture; the frame is documented civil-defense policy and propaganda.",
+      "possibleThemes": [
+        "Soğuk Savaş",
+        "Propaganda",
+        "Toplum",
+        "Bilim"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "US National Archives: civil defense films (Duck and Cover)",
+        "Smithsonian: Cold War civil defense",
+        "Britannica: civil defense / fallout shelter"
+      ],
+      "duplicateRisk": "low — existing cold-war cards are proxy-wars/fear-system; this is civil-defense specific.",
+      "notes": "Anchor for the Fallout franchise."
+    },
+    {
+      "proposedIdBase": "fallout-atompunk-retrofuturism",
+      "mediaType": "game",
+      "mediaTitle": "Fallout",
+      "gameOrMediaFranchise": "Fallout",
+      "proposedCardTitleTR": "Atom Çağı İyimserliği: 1950'ler Retrofütürizmi",
+      "proposedCardTitleEN": "Atomic Optimism: 1950s Retrofuturism",
+      "realWorldAngle": "Postwar atomic optimism (atomic kitchens, 'Atoms for Peace', nuclear-powered everything) versus the risks it downplayed.",
+      "whyItFitsTrueFrame": "Fallout's aesthetic is a direct satire of a real cultural moment; the frame is the gap between atomic hype and reality.",
+      "possibleThemes": [
+        "Bilim",
+        "Kültür",
+        "Teknoloji",
+        "Modern Tarih"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Smithsonian / National Museum of American History",
+        "Eisenhower 'Atoms for Peace' speech (archives)",
+        "Britannica: Atoms for Peace"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "fallout-vault-human-experiments",
+      "mediaType": "game",
+      "mediaTitle": "Fallout",
+      "gameOrMediaFranchise": "Fallout",
+      "proposedCardTitleTR": "Vault Deneyleri ve İnsan Üzerinde Araştırma Etiği",
+      "proposedCardTitleEN": "Vault Experiments and Research Ethics",
+      "realWorldAngle": "Real unethical human experiments (Tuskegee, Cold War radiation studies) and the rise of informed-consent ethics (Nuremberg Code, Belmont Report).",
+      "whyItFitsTrueFrame": "The vaults' secret experiments parody documented abuses; the frame is the history of research ethics.",
+      "possibleThemes": [
+        "Etik",
+        "Bilim",
+        "Sağlık",
+        "Devlet"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "minor",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "US CDC: Tuskegee Study history",
+        "US Dept. of Energy: ACHRE (radiation experiments report)",
+        "Britannica: Nuremberg Code"
+      ],
+      "duplicateRisk": "low",
+      "notes": "Sensitive; handle factually."
+    },
+    {
+      "proposedIdBase": "cyberpunk-surveillance-capitalism",
+      "mediaType": "game",
+      "mediaTitle": "Cyberpunk 2077",
+      "gameOrMediaFranchise": "Cyberpunk",
+      "proposedCardTitleTR": "Gözetim Kapitalizmi: Veri Yeni Petrol mü?",
+      "proposedCardTitleEN": "Surveillance Capitalism: Is Data the New Oil?",
+      "realWorldAngle": "The real economics of data extraction, behavioral targeting, and the concept of surveillance capitalism behind Night City's corporate dystopia.",
+      "whyItFitsTrueFrame": "2077 is fiction, but its corporate-data world maps to documented business models and privacy debates.",
+      "possibleThemes": [
+        "Teknoloji",
+        "Ekonomi",
+        "Toplum",
+        "Etik"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "medium",
+      "possibleReliableSources": [
+        "Shoshana Zuboff, The Surveillance Capitalism (academic)",
+        "EU GDPR official texts / European Data Protection Board",
+        "Britannica: data privacy"
+      ],
+      "duplicateRisk": "low",
+      "notes": "Anchor for a near-future tech-politics direction."
+    },
+    {
+      "proposedIdBase": "cyberpunk-corporate-sovereignty",
+      "mediaType": "game",
+      "mediaTitle": "Cyberpunk 2077",
+      "gameOrMediaFranchise": "Cyberpunk",
+      "proposedCardTitleTR": "Şirket Egemenliği: Devlet Gibi Davranan Şirketler",
+      "proposedCardTitleEN": "Corporate Sovereignty: When Companies Act Like States",
+      "realWorldAngle": "Historical precedents for corporations exercising state-like power (East India Company, company towns, modern corporate enclaves).",
+      "whyItFitsTrueFrame": "Night City's megacorps echo real cases where firms held quasi-sovereign authority.",
+      "possibleThemes": [
+        "Şirketler",
+        "Siyaset",
+        "Ekonomi",
+        "Devlet"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "The National Archives (UK): East India Company",
+        "Britannica: chartered company",
+        "Smithsonian: company towns"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "deathstranding-logistics-infrastructure",
+      "mediaType": "game",
+      "mediaTitle": "Death Stranding",
+      "gameOrMediaFranchise": "Death Stranding",
+      "proposedCardTitleTR": "Lojistik Medeniyeti Kurar: Yollar, Posta ve Taşıyıcılar",
+      "proposedCardTitleEN": "Logistics Builds Civilization: Roads, Mail, and Porters",
+      "realWorldAngle": "How postal systems, road networks, and porterage (e.g., Inca chasqui runners, early postal relays) literally held states together.",
+      "whyItFitsTrueFrame": "The game makes delivery heroic; the frame is the real, under-celebrated history of infrastructure and logistics as state power.",
+      "possibleThemes": [
+        "Lojistik",
+        "Teknoloji",
+        "Devlet",
+        "İletişim"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Smithsonian National Postal Museum",
+        "UNESCO: Qhapaq Ñan (Inca road system)",
+        "Britannica: postal system / Cursus publicus"
+      ],
+      "duplicateRisk": "low",
+      "notes": "Pairs with existing 'messengers' history without duplicating a specific war card."
+    },
+    {
+      "proposedIdBase": "mgs-nuclear-deterrence-mad",
+      "mediaType": "game",
+      "mediaTitle": "Metal Gear Solid",
+      "gameOrMediaFranchise": "Metal Gear",
+      "proposedCardTitleTR": "Karşılıklı Yok Oluş: Nükleer Caydırıcılık Mantığı",
+      "proposedCardTitleEN": "Mutual Assured Destruction: The Logic of Deterrence",
+      "realWorldAngle": "Cold War deterrence theory (MAD), the arms race, and near-miss incidents (e.g., 1983 Petrov / Able Archer) behind Metal Gear's anti-nuke themes.",
+      "whyItFitsTrueFrame": "MGS is explicitly about nukes; the frame is the real strategic doctrine and the human fragility of the system.",
+      "possibleThemes": [
+        "Soğuk Savaş",
+        "Bilim",
+        "Siyaset",
+        "Askeri Tarih"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Nuclear Threat Initiative (NTI)",
+        "Britannica: deterrence / mutual assured destruction",
+        "National Security Archive (GWU): Able Archer 83"
+      ],
+      "duplicateRisk": "low — distinct from Oppenheimer/Manhattan cards (doctrine, not the bomb's creation).",
+      "notes": "Anchor for the MGS franchise (currently only a combo card)."
+    },
+    {
+      "proposedIdBase": "mgs-private-military-companies",
+      "mediaType": "game",
+      "mediaTitle": "Metal Gear Solid",
+      "gameOrMediaFranchise": "Metal Gear",
+      "proposedCardTitleTR": "Özel Askeri Şirketler: Savaşın Taşeronlaşması",
+      "proposedCardTitleEN": "Private Military Companies: Outsourcing War",
+      "realWorldAngle": "The modern rise of PMCs and the long history of mercenaries (condottieri, Hessians), and the accountability gaps they create.",
+      "whyItFitsTrueFrame": "MGS's 'soldiers without borders' reflects a real, growing privatization of force.",
+      "possibleThemes": [
+        "Askeri Tarih",
+        "Ekonomi",
+        "Hukuk",
+        "Şiddet"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "medium",
+      "possibleReliableSources": [
+        "ICRC: private military and security companies (Montreux Document)",
+        "Britannica: mercenary / condottiere",
+        "Geneva Centre for Security Sector Governance (DCAF)"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "specops-moral-injury-trauma",
+      "mediaType": "game",
+      "mediaTitle": "Spec Ops: The Line",
+      "gameOrMediaFranchise": "Spec Ops",
+      "proposedCardTitleTR": "Ahlaki Yara: Savaş Travması ve Kahraman Anlatısının Eleştirisi",
+      "proposedCardTitleEN": "Moral Injury: War Trauma and the Critique of Heroic Shooters",
+      "realWorldAngle": "The clinical concepts of PTSD and 'moral injury', and the laws/ethics around weapons like white phosphorus.",
+      "whyItFitsTrueFrame": "The game critiques the shooter genre; the frame is real military psychology and the law of armed conflict.",
+      "possibleThemes": [
+        "Psikoloji",
+        "Etik",
+        "Savaş",
+        "Medya"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "major",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "US Dept. of Veterans Affairs: PTSD / moral injury",
+        "ICRC: incendiary weapons / Protocol III",
+        "Britannica: post-traumatic stress disorder"
+      ],
+      "duplicateRisk": "low",
+      "notes": "Spoiler major because the game's twist is the point; frame around real concepts, not plot."
+    },
+    {
+      "proposedIdBase": "specops-dubai-migrant-labor",
+      "mediaType": "game",
+      "mediaTitle": "Spec Ops: The Line",
+      "gameOrMediaFranchise": "Spec Ops",
+      "proposedCardTitleTR": "Dubai'yi Kim İnşa Etti? Göçmen İşçiler ve Kentin Yükselişi",
+      "proposedCardTitleEN": "Who Built Dubai? Migrant Labor and the Vertical City",
+      "realWorldAngle": "Dubai's rapid construction boom, migrant labor conditions (kafala system debates), and the engineering of a desert megacity.",
+      "whyItFitsTrueFrame": "The game's buried Dubai is a backdrop; the frame is the real labor and infrastructure story behind such cities.",
+      "possibleThemes": [
+        "Şehir Planlama",
+        "Göç",
+        "Ekonomi",
+        "Toplum"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "medium",
+      "possibleReliableSources": [
+        "ILO: labour migration in the Gulf",
+        "Human Rights Watch / Amnesty International reports (NGO)",
+        "Britannica: Dubai"
+      ],
+      "duplicateRisk": "low",
+      "notes": "Use NGO sources carefully and attribute clearly."
+    },
+    {
+      "proposedIdBase": "tombraider-archaeology-vs-looting",
+      "mediaType": "game",
+      "mediaTitle": "Tomb Raider",
+      "gameOrMediaFranchise": "Tomb Raider",
+      "proposedCardTitleTR": "Arkeoloji mi, Yağma mı? Müzeler ve Eserlerin İadesi",
+      "proposedCardTitleEN": "Archaeology vs Looting: Museums and Repatriation",
+      "realWorldAngle": "The difference between scientific archaeology and looting, the antiquities trade, and modern repatriation debates (e.g., Parthenon Marbles, Benin Bronzes).",
+      "whyItFitsTrueFrame": "Lara Croft embodies the 'adventurer grabs treasure' myth; the frame is real archaeological ethics and colonial collecting.",
+      "possibleThemes": [
+        "Arkeoloji",
+        "Etik",
+        "Kültür",
+        "İmparatorluk"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "UNESCO: 1970 Convention (illicit cultural property)",
+        "British Museum / Smithsonian repatriation statements",
+        "Society for American Archaeology: ethics"
+      ],
+      "duplicateRisk": "low — existing Alexandria-library archaeology angle is event-specific, not the ethics of looting.",
+      "notes": "Anchor for Tomb Raider/Uncharted adventure-archaeology critique."
+    },
+    {
+      "proposedIdBase": "uncharted-colonial-adventure-myth",
+      "mediaType": "game",
+      "mediaTitle": "Uncharted",
+      "gameOrMediaFranchise": "Uncharted",
+      "proposedCardTitleTR": "Maceracı Miti: Lost City Hikâyeleri ve Sömürgeci Bakış",
+      "proposedCardTitleEN": "The Adventurer Myth: 'Lost Cities' and the Colonial Gaze",
+      "realWorldAngle": "How 'lost city' legends (El Dorado, Z) emerged from colonial-era exploration, and what real expeditions and modern remote-sensing find instead.",
+      "whyItFitsTrueFrame": "Nathan Drake is the pulp-explorer fantasy; the frame is the history of exploration narratives and their distortions.",
+      "possibleThemes": [
+        "Keşif",
+        "Kültür",
+        "Arkeoloji",
+        "İmparatorluk"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "medium",
+      "possibleReliableSources": [
+        "Royal Geographical Society",
+        "Britannica: El Dorado / Percy Fawcett",
+        "Smithsonian Magazine (long-form, secondary)"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "plaguetale-black-death-causes",
+      "mediaType": "game",
+      "mediaTitle": "A Plague Tale: Innocence",
+      "gameOrMediaFranchise": "A Plague Tale",
+      "proposedCardTitleTR": "Kara Ölüm (1347–1351): Neden ve Sonuçlar",
+      "proposedCardTitleEN": "The Black Death (1347–1351): Causes and Consequences",
+      "realWorldAngle": "The mid-14th-century plague pandemic, Yersinia pestis, mortality scale, and its social/economic aftershocks (labor, wages, religion).",
+      "whyItFitsTrueFrame": "The game's plague-and-rats horror sits on real pandemic history, distinct from the 1665 Great Plague card already in the app.",
+      "possibleThemes": [
+        "Hastalık",
+        "Orta Çağ",
+        "Toplum",
+        "Afet"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Britannica: Black Death",
+        "Wellcome Collection: history of plague",
+        "Ole J. Benedictow, The Black Death (academic)"
+      ],
+      "duplicateRisk": "medium — existing london-fire-plague is 1665; clearly date/scope this as 1347 pandemic.",
+      "notes": "Anchor for A Plague Tale."
+    },
+    {
+      "proposedIdBase": "plaguetale-rats-fleas-transmission",
+      "mediaType": "game",
+      "mediaTitle": "A Plague Tale: Innocence",
+      "gameOrMediaFranchise": "A Plague Tale",
+      "proposedCardTitleTR": "Fareler mi Suçlu? Veba Bulaşma Tartışması",
+      "proposedCardTitleEN": "Are Rats to Blame? The Plague Transmission Debate",
+      "realWorldAngle": "The classic rat-flea transmission model versus newer research on human ectoparasites and pneumonic spread.",
+      "whyItFitsTrueFrame": "The game makes rats the literal threat; the frame is a live scientific debate about how plague actually spread.",
+      "possibleThemes": [
+        "Hastalık",
+        "Bilim",
+        "Yanlış Bilinenler",
+        "Orta Çağ"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "WHO: plague factsheet",
+        "Peer-reviewed epidemiology (PNAS/Lancet plague modelling)",
+        "Wellcome Collection"
+      ],
+      "duplicateRisk": "low",
+      "notes": "Great 'misconception' card."
+    },
+    {
+      "proposedIdBase": "stalker-exclusion-zone-resettlement",
+      "mediaType": "game",
+      "mediaTitle": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+      "gameOrMediaFranchise": "S.T.A.L.K.E.R.",
+      "proposedCardTitleTR": "Yasak Bölge: Çernobil Tahliyesi ve Pripyat'ın Boşalması",
+      "proposedCardTitleEN": "The Exclusion Zone: Chernobyl Evacuation and Empty Pripyat",
+      "realWorldAngle": "The 1986 evacuation, the creation and management of the Chernobyl Exclusion Zone, abandoned Pripyat, returnees (samosely), and wildlife recovery.",
+      "whyItFitsTrueFrame": "The game's Zone is fictionalized; the frame is the real, ongoing geography and human story of the exclusion zone, distinct from the disaster's cause.",
+      "possibleThemes": [
+        "Afet",
+        "Çevre",
+        "Sovyetler",
+        "Toplum"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "IAEA: Chernobyl reports",
+        "UNDP/UN Chernobyl Forum",
+        "Britannica: Chernobyl disaster / Pripyat"
+      ],
+      "duplicateRisk": "medium — existing chernobyl-disaster/chernobyl-secrecy are about the accident; focus this on the Zone/resettlement.",
+      "notes": "Clearly differentiate from existing Chernobyl cards."
+    },
+    {
+      "proposedIdBase": "stalker-dark-tourism-ethics",
+      "mediaType": "game",
+      "mediaTitle": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+      "gameOrMediaFranchise": "S.T.A.L.K.E.R.",
+      "proposedCardTitleTR": "Felaket Turizmi: Çernobil'i Gezmek Etik mi?",
+      "proposedCardTitleEN": "Dark Tourism: Is Visiting Chernobyl Ethical?",
+      "realWorldAngle": "The growth of dark/disaster tourism to Chernobyl (amplified by media), and debates about memory, voyeurism, and respect.",
+      "whyItFitsTrueFrame": "The game helped mythologize the Zone; the frame is how disaster sites become tourist and media products.",
+      "possibleThemes": [
+        "Medya",
+        "Etik",
+        "Hafıza",
+        "Toplum"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "medium",
+      "possibleReliableSources": [
+        "Academic dark-tourism research (Lennon & Foley)",
+        "UNESCO / heritage-of-tragedy discussions",
+        "Reputable journalism (secondary)"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "bf1-gallipoli-campaign",
+      "mediaType": "game",
+      "mediaTitle": "Battlefield 1",
+      "gameOrMediaFranchise": "Battlefield",
+      "proposedCardTitleTR": "Çanakkale: Gelibolu Kara Savaşları (1915)",
+      "proposedCardTitleEN": "Gallipoli: The 1915 Land Campaign",
+      "realWorldAngle": "The failed Allied Gallipoli campaign, Ottoman defense, ANZAC memory, and the brutal stalemate of the Dardanelles front.",
+      "whyItFitsTrueFrame": "BF1 showcases lesser-known fronts; Gallipoli is hugely significant in Turkish, ANZAC, and Ottoman history.",
+      "possibleThemes": [
+        "I. Dünya Savaşı",
+        "Osmanlı",
+        "Askeri Tarih",
+        "Hafıza"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Imperial War Museums (IWM)",
+        "Australian War Memorial",
+        "Britannica: Gallipoli Campaign"
+      ],
+      "duplicateRisk": "low — high local (TR) relevance and not yet covered.",
+      "notes": "Strong resonance for a Turkish-first audience."
+    },
+    {
+      "proposedIdBase": "bf1-arab-revolt-lawrence",
+      "mediaType": "game",
+      "mediaTitle": "Battlefield 1",
+      "gameOrMediaFranchise": "Battlefield",
+      "proposedCardTitleTR": "Arap İsyanı ve Lawrence Efsanesi",
+      "proposedCardTitleEN": "The Arab Revolt and the Lawrence Myth",
+      "realWorldAngle": "The WWI Arab Revolt against the Ottomans, T.E. Lawrence's actual vs mythologized role, and the broken promises of the postwar settlement.",
+      "whyItFitsTrueFrame": "BF1's desert chapter dramatizes Lawrence; the frame separates the man from the legend and the politics of Sykes-Picot.",
+      "possibleThemes": [
+        "I. Dünya Savaşı",
+        "Orta Doğu",
+        "Osmanlı",
+        "Siyaset"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Imperial War Museums",
+        "The National Archives (UK): Sykes-Picot",
+        "Britannica: T.E. Lawrence / Arab Revolt"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "bfv-senegalese-tirailleurs",
+      "mediaType": "game",
+      "mediaTitle": "Battlefield V",
+      "gameOrMediaFranchise": "Battlefield",
+      "proposedCardTitleTR": "Unutulan Askerler: Sömürge Birlikleri (Tirailleurs)",
+      "proposedCardTitleEN": "The Forgotten Soldiers: Colonial Troops (Tirailleurs)",
+      "realWorldAngle": "The role of colonial and African troops in the French and Allied armies, their erasure from postwar memory, and events like Thiaroye.",
+      "whyItFitsTrueFrame": "BF V's 'untold stories' framing matches a real gap in WWII memory about colonial soldiers.",
+      "possibleThemes": [
+        "II. Dünya Savaşı",
+        "Kimlik",
+        "İmparatorluk",
+        "Hafıza"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Imperial War Museums",
+        "Mémorial / French defense historical service (SHD)",
+        "Britannica: Tirailleurs Sénégalais"
+      ],
+      "duplicateRisk": "low",
+      "notes": "Pairs thematically with existing Harlem Hellfighters card but distinct war/units."
+    },
+    {
+      "proposedIdBase": "bfv-norway-heavy-water",
+      "mediaType": "game",
+      "mediaTitle": "Battlefield V",
+      "gameOrMediaFranchise": "Battlefield",
+      "proposedCardTitleTR": "Ağır Su Sabotajı: Norveç ve Nazi Atom Programı",
+      "proposedCardTitleEN": "The Heavy Water Sabotage: Norway and the Nazi Atomic Program",
+      "realWorldAngle": "The 1943 Norwegian resistance sabotage of the Vemork heavy-water plant and its role in hampering Nazi nuclear research.",
+      "whyItFitsTrueFrame": "BF V's Nordlys chapter dramatizes a real, decisive resistance operation.",
+      "possibleThemes": [
+        "II. Dünya Savaşı",
+        "Bilim",
+        "Casusluk",
+        "Teknoloji"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Norsk Industriarbeidermuseum (Vemork)",
+        "Imperial War Museums",
+        "Britannica: Norwegian heavy water sabotage"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "cod-stalingrad-urban-war",
+      "mediaType": "game",
+      "mediaTitle": "Call of Duty",
+      "gameOrMediaFranchise": "Call of Duty",
+      "proposedCardTitleTR": "Stalingrad: Şehir Savaşı ve Keskin Nişancı Miti",
+      "proposedCardTitleEN": "Stalingrad: Urban Warfare and the Sniper Myth",
+      "realWorldAngle": "The 1942–43 Battle of Stalingrad, the reality of urban attrition, and the propaganda/mythology around snipers like Vasily Zaitsev.",
+      "whyItFitsTrueFrame": "CoD/Enemy at the Gates popularized the sniper duel; the frame is the documented battle vs propaganda legend.",
+      "possibleThemes": [
+        "II. Dünya Savaşı",
+        "Sovyetler",
+        "Askeri Tarih",
+        "Propaganda"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Imperial War Museums",
+        "US National WWII Museum",
+        "Britannica: Battle of Stalingrad"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "codbo-mkultra-mind-control",
+      "mediaType": "game",
+      "mediaTitle": "Call of Duty: Black Ops",
+      "gameOrMediaFranchise": "Call of Duty",
+      "proposedCardTitleTR": "MKUltra: CIA'nın Zihin Kontrolü Programı",
+      "proposedCardTitleEN": "MKUltra: The CIA's Mind-Control Program",
+      "realWorldAngle": "The real CIA MKUltra experiments (LSD, coercive interrogation), their exposure (Church Committee), and the ethics fallout.",
+      "whyItFitsTrueFrame": "Black Ops centers brainwashing; MKUltra is the documented program behind the trope.",
+      "possibleThemes": [
+        "Soğuk Savaş",
+        "Etik",
+        "Casusluk",
+        "Bilim"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "minor",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "US National Archives / Church Committee report",
+        "CIA FOIA reading room (MKUltra documents)",
+        "Britannica: MKUltra"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "codbo-bay-of-pigs",
+      "mediaType": "game",
+      "mediaTitle": "Call of Duty: Black Ops",
+      "gameOrMediaFranchise": "Call of Duty",
+      "proposedCardTitleTR": "Domuzlar Körfezi: Başarısız Bir Gizli Operasyon",
+      "proposedCardTitleEN": "The Bay of Pigs: An Operation That Failed",
+      "realWorldAngle": "The 1961 CIA-backed invasion of Cuba, its failure, and its role in escalating the Cold War toward the Missile Crisis.",
+      "whyItFitsTrueFrame": "Black Ops uses Cuban operations as set-pieces; the frame is the documented covert history.",
+      "possibleThemes": [
+        "Soğuk Savaş",
+        "Siyaset",
+        "Askeri Tarih",
+        "ABD"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "JFK Presidential Library",
+        "US National Security Archive (GWU)",
+        "Britannica: Bay of Pigs invasion"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "cod-vietnam-tunnel-warfare",
+      "mediaType": "game",
+      "mediaTitle": "Call of Duty: Black Ops",
+      "gameOrMediaFranchise": "Call of Duty",
+      "proposedCardTitleTR": "Cu Chi Tünelleri: Yeraltında Vietnam Savaşı",
+      "proposedCardTitleEN": "The Cu Chi Tunnels: The Vietnam War Underground",
+      "realWorldAngle": "The vast Viet Cong tunnel networks, asymmetric warfare, and the civilian-military reality of the Vietnam War.",
+      "whyItFitsTrueFrame": "Vietnam shooters flatten the war into spectacle; the frame is asymmetric tactics and the human cost.",
+      "possibleThemes": [
+        "Soğuk Savaş",
+        "Askeri Tarih",
+        "Taktik",
+        "Toplum"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "medium",
+      "possibleReliableSources": [
+        "US National Archives: Vietnam War",
+        "Britannica: Vietnam War / Cu Chi tunnels",
+        "Vietnam War museums (secondary)"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "mafia2-postwar-gi-bill-suburbia",
+      "mediaType": "game",
+      "mediaTitle": "Mafia II",
+      "gameOrMediaFranchise": "Mafia",
+      "proposedCardTitleTR": "Savaş Sonrası Amerika: GI Bill, Banliyö ve Refah",
+      "proposedCardTitleEN": "Postwar America: The GI Bill, Suburbs, and Prosperity",
+      "realWorldAngle": "The post-WWII US boom: the GI Bill, suburbanization, consumer credit, and the uneven access (redlining) behind the 'American Dream'.",
+      "whyItFitsTrueFrame": "Mafia II's 1940s-50s setting frames the era as gangster backdrop; the real frame is the social engineering of postwar prosperity.",
+      "possibleThemes": [
+        "Modern Tarih",
+        "Ekonomi",
+        "Toplum",
+        "ABD"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "US National Archives: GI Bill",
+        "Library of Congress: redlining / HOLC maps",
+        "Britannica: G.I. Bill"
+      ],
+      "duplicateRisk": "low — existing Mafia cards are Prohibition/immigration/RICO.",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "lanoire-black-dahlia-tabloid",
+      "mediaType": "game",
+      "mediaTitle": "L.A. Noire",
+      "gameOrMediaFranchise": "L.A. Noire",
+      "proposedCardTitleTR": "Kara Yıldız Cinayeti ve Tabloid Basının Doğuşu",
+      "proposedCardTitleEN": "The Black Dahlia and the Rise of Tabloid Crime",
+      "realWorldAngle": "The 1947 Elizabeth Short murder, the sensationalist press that fed on it, and how unsolved true crime became mass entertainment.",
+      "whyItFitsTrueFrame": "L.A. Noire's cases echo real LA crime; the frame is the media ecosystem that turned victims into spectacle.",
+      "possibleThemes": [
+        "Suç",
+        "Medya",
+        "ABD Tarihi",
+        "Toplum"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "minor",
+      "flagshipCandidate": false,
+      "sourceViability": "medium",
+      "possibleReliableSources": [
+        "Los Angeles Public Library archives",
+        "Britannica: Black Dahlia",
+        "Reputable historical journalism (secondary)"
+      ],
+      "duplicateRisk": "low — distinct from existing policing/postwar-trauma L.A. Noire cards.",
+      "notes": "Frame around media, not graphic detail."
+    },
+    {
+      "proposedIdBase": "gta-media-moral-panic",
+      "mediaType": "game",
+      "mediaTitle": "Grand Theft Auto",
+      "gameOrMediaFranchise": "Grand Theft Auto",
+      "proposedCardTitleTR": "Ahlaki Panik: Medya, Şiddet ve 'Tehlikeli Oyunlar' Korkusu",
+      "proposedCardTitleEN": "Moral Panic: Media, Violence, and 'Dangerous Games'",
+      "realWorldAngle": "The history of moral panics (comics, pinball, rock, video games), the sociology of moral panic (Cohen), and what research actually says about media effects.",
+      "whyItFitsTrueFrame": "GTA is the perennial scapegoat; the frame is a well-studied recurring social phenomenon.",
+      "possibleThemes": [
+        "Medya",
+        "Toplum",
+        "Sosyoloji",
+        "Yanlış Bilinenler"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Stanley Cohen, Folk Devils and Moral Panics (academic)",
+        "APA statements on media violence research",
+        "Britannica: moral panic"
+      ],
+      "duplicateRisk": "low",
+      "notes": "Self-aware, meta topic that fits True Frame's mission well."
+    },
+    {
+      "proposedIdBase": "obradinn-east-india-company",
+      "mediaType": "game",
+      "mediaTitle": "Return of the Obra Dinn",
+      "gameOrMediaFranchise": "Return of the Obra Dinn",
+      "proposedCardTitleTR": "Şirket, Gemi, Sigorta: Doğu Hindistan Ticareti ve Lloyd's",
+      "proposedCardTitleEN": "Company, Ship, Insurance: East India Trade and Lloyd's",
+      "realWorldAngle": "Early-modern maritime trade companies, the dangers of long voyages, and the birth of marine insurance (Lloyd's of London) to manage catastrophic risk.",
+      "whyItFitsTrueFrame": "The game is literally an insurance investigation of a lost ship; the frame is the real machinery of maritime trade and risk.",
+      "possibleThemes": [
+        "Denizcilik",
+        "Ekonomi",
+        "Ticaret",
+        "Hukuk"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "National Maritime Museum (RMG)",
+        "Lloyd's of London corporate history",
+        "The National Archives (UK): East India Company"
+      ],
+      "duplicateRisk": "low",
+      "notes": "Unusually clean media-to-frame mapping (insurance adjuster premise)."
+    },
+    {
+      "proposedIdBase": "1979revolution-iran-revolution",
+      "mediaType": "game",
+      "mediaTitle": "1979 Revolution: Black Friday",
+      "gameOrMediaFranchise": "1979 Revolution",
+      "proposedCardTitleTR": "İran Devrimi (1979): Bir Rejimin Çöküşü",
+      "proposedCardTitleEN": "The Iranian Revolution (1979): A Regime Falls",
+      "realWorldAngle": "The 1979 revolution, the fall of the Shah, mass mobilization, and the contested memory of events like Black Friday.",
+      "whyItFitsTrueFrame": "Built by people who lived/researched it; the game uses real photos/footage as a deliberate documentary frame.",
+      "possibleThemes": [
+        "Devrim",
+        "Siyaset",
+        "Orta Doğu",
+        "İran"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Britannica: Iranian Revolution",
+        "US National Security Archive (GWU): Iran 1979",
+        "Academic Middle East history (Abrahamian)"
+      ],
+      "duplicateRisk": "low — no modern Iran/1979 card exists.",
+      "notes": "Underrepresented region; pairs with the Argo film proposal."
+    },
+    {
+      "proposedIdBase": "civ-tech-tree-myth",
+      "mediaType": "game",
+      "mediaTitle": "Civilization",
+      "gameOrMediaFranchise": "Civilization",
+      "proposedCardTitleTR": "Teknoloji Ağacı Miti: Tarih Bir Merdiven mi?",
+      "proposedCardTitleEN": "The Tech Tree Myth: Is History a Ladder?",
+      "realWorldAngle": "How the 'tech tree' implies inevitable, linear progress, versus contingency, lost technologies, and parallel non-Western innovation.",
+      "whyItFitsTrueFrame": "A core gameplay abstraction becomes a teachable misconception about how technology actually develops.",
+      "possibleThemes": [
+        "Teknoloji",
+        "Bilim",
+        "Yanlış Bilinenler",
+        "Medeniyet"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Britannica: history of technology",
+        "Science Museum (London)",
+        "Academic STS (e.g., David Edgerton, The Shock of the Old)"
+      ],
+      "duplicateRisk": "medium — civ-linear-history & civ-great-leaders exist; keep this strictly on the tech-tree mechanic.",
+      "notes": "Strong meta-history card; ensure distinct from civ-linear-history."
+    },
+    {
+      "proposedIdBase": "aoe-siege-engineering",
+      "mediaType": "game",
+      "mediaTitle": "Age of Empires II",
+      "gameOrMediaFranchise": "Age of Empires",
+      "proposedCardTitleTR": "Kuşatma Mühendisliği: Mancınık, Trebüşe ve Surların Sonu",
+      "proposedCardTitleEN": "Siege Engineering: Trebuchets and the End of Walls",
+      "realWorldAngle": "The real engineering of medieval siege weapons (torsion vs counterweight), logistics of sieges, and how gunpowder ended high medieval walls.",
+      "whyItFitsTrueFrame": "AoE abstracts siege units; the frame is the physics, labor, and supply behind besieging a city.",
+      "possibleThemes": [
+        "Orta Çağ",
+        "Teknoloji",
+        "Mühendislik",
+        "Askeri Tarih"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Royal Armouries (UK)",
+        "Britannica: trebuchet / siege",
+        "Academic medieval military history"
+      ],
+      "duplicateRisk": "medium — total-war-siege-starvation exists; angle on engineering/mechanics, not starvation.",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "totalwar-mercenary-condottieri",
+      "mediaType": "game",
+      "mediaTitle": "Total War: Medieval II",
+      "gameOrMediaFranchise": "Total War",
+      "proposedCardTitleTR": "Paralı Ordular: Condottieri ve Savaşın Ekonomisi",
+      "proposedCardTitleEN": "Armies for Hire: Condottieri and the Economy of War",
+      "realWorldAngle": "Renaissance Italian mercenary captains (condottieri), contracts, and how city-states outsourced war finance and risk.",
+      "whyItFitsTrueFrame": "Total War lets you buy mercenaries instantly; the frame is the real market and politics of hired armies.",
+      "possibleThemes": [
+        "Orta Çağ",
+        "Ekonomi",
+        "Askeri Tarih",
+        "Siyaset"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Britannica: condottiere",
+        "The Metropolitan Museum of Art (Renaissance Italy)",
+        "Academic Renaissance warfare studies"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "kcd-plague-quarantine-bohemia",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "gameOrMediaFranchise": "Kingdom Come: Deliverance",
+      "proposedCardTitleTR": "Orta Çağ Bohemya'sında Salgın ve Karantina Önlemleri",
+      "proposedCardTitleEN": "Epidemic and Quarantine in Medieval Bohemia",
+      "realWorldAngle": "How medieval communities responded to epidemics (isolation, cordon, religious processions, miasma theory) before germ theory.",
+      "whyItFitsTrueFrame": "KCD's grounded daily life is a natural frame for real medieval public-health practice.",
+      "possibleThemes": [
+        "Orta Çağ",
+        "Hastalık",
+        "Sağlık",
+        "Din"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "medium",
+      "possibleReliableSources": [
+        "Wellcome Collection: history of medicine",
+        "Britannica: quarantine / miasma theory",
+        "Academic medieval medicine studies"
+      ],
+      "duplicateRisk": "medium — many KCD daily-life cards exist; keep tightly scoped to epidemic response.",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "bannerlord-feudal-levy-economy",
+      "mediaType": "game",
+      "mediaTitle": "Mount & Blade II: Bannerlord",
+      "gameOrMediaFranchise": "Mount & Blade",
+      "proposedCardTitleTR": "Feodal Orduyu Beslemek: Vasal, Tımar ve Sefer Ekonomisi",
+      "proposedCardTitleEN": "Feeding a Feudal Army: Vassals, Fiefs, and Campaign Economy",
+      "realWorldAngle": "How real feudal/early-modern rulers raised, paid, and supplied armies (levies, retinues, the limits of feudal service days).",
+      "whyItFitsTrueFrame": "Bannerlord models recruitment/economy; the frame is the genuine constraints that shaped medieval campaigns.",
+      "possibleThemes": [
+        "Feodalizm",
+        "Ekonomi",
+        "Askeri Tarih",
+        "Orta Çağ"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "medium",
+      "possibleReliableSources": [
+        "Britannica: feudalism / scutage",
+        "Royal Armouries",
+        "Academic medieval logistics studies"
+      ],
+      "duplicateRisk": "low — Bannerlord world is fictional but mechanics map to real feudal systems.",
+      "notes": "Note the fictional Calradia setting; frame on real feudal logistics."
+    },
+    {
+      "proposedIdBase": "vampyr-spanish-flu-1918",
+      "mediaType": "game",
+      "mediaTitle": "Vampyr",
+      "gameOrMediaFranchise": "Vampyr",
+      "proposedCardTitleTR": "1918 Grip Pandemisi: Londra ve Görünmeyen Düşman",
+      "proposedCardTitleEN": "The 1918 Influenza Pandemic: London and the Invisible Enemy",
+      "realWorldAngle": "The 1918–19 influenza pandemic, its staggering toll, wartime censorship of news, and public-health response in cities like London.",
+      "whyItFitsTrueFrame": "Vampyr is set in flu-stricken 1918 London; the supernatural plot sits on a very real catastrophe.",
+      "possibleThemes": [
+        "Hastalık",
+        "Modern Tarih",
+        "Sağlık",
+        "Londra"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "US CDC: 1918 pandemic",
+        "Wellcome Collection",
+        "Britannica: influenza pandemic of 1918-19"
+      ],
+      "duplicateRisk": "low — distinct era from Black Death / 1665 plague cards.",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "manorlords-medieval-town-formation",
+      "mediaType": "game",
+      "mediaTitle": "Manor Lords",
+      "gameOrMediaFranchise": "Manor Lords",
+      "proposedCardTitleTR": "Bir Kasaba Nasıl Doğar? Burgage Parselleri ve Ortak Topraklar",
+      "proposedCardTitleEN": "How a Town Is Born: Burgage Plots and Common Land",
+      "realWorldAngle": "Real medieval town formation: burgage plots, market charters, the open-field system, and common land before enclosure.",
+      "whyItFitsTrueFrame": "Manor Lords is praised for authentic town-building; the frame is the actual property and agricultural systems it models.",
+      "possibleThemes": [
+        "Orta Çağ",
+        "Şehir Planlama",
+        "Ekonomi",
+        "Gündelik Yaşam"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "The National Archives (UK): manorial records",
+        "Britannica: open-field system / burgage",
+        "Historic England"
+      ],
+      "duplicateRisk": "medium — overlaps KCD daily-life/markets; angle on town/land tenure systems.",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "forhonor-knight-chivalry-myth",
+      "mediaType": "game",
+      "mediaTitle": "For Honor",
+      "gameOrMediaFranchise": "For Honor",
+      "proposedCardTitleTR": "Şövalyelik Miti: Onurlu Düello mu, Kanlı Pragmatizm mi?",
+      "proposedCardTitleEN": "The Chivalry Myth: Honorable Duel or Bloody Pragmatism?",
+      "realWorldAngle": "The gap between the literary ideal of chivalry and the brutal reality of medieval combat, ransom economics, and treatment of non-nobles.",
+      "whyItFitsTrueFrame": "For Honor pits idealized knights/vikings/samurai; the frame is how 'honor codes' often masked pragmatic, unequal violence.",
+      "possibleThemes": [
+        "Orta Çağ",
+        "Şövalyelik",
+        "Yanlış Bilinenler",
+        "Savaş"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Royal Armouries",
+        "Britannica: chivalry",
+        "Academic studies on medieval warfare and ransom"
+      ],
+      "duplicateRisk": "medium — samurai-honor cards exist; angle on European chivalry + cross-cultural comparison.",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "anno1800-industrial-city-public-health",
+      "mediaType": "game",
+      "mediaTitle": "Anno 1800",
+      "gameOrMediaFranchise": "Anno",
+      "proposedCardTitleTR": "Sanayi Şehri: Duman, Gecekondu ve Halk Sağlığı",
+      "proposedCardTitleEN": "The Industrial City: Smoke, Slums, and Public Health",
+      "realWorldAngle": "19th-century industrial urbanization, sanitation crises (cholera, the Great Stink), and the birth of modern public-health infrastructure.",
+      "whyItFitsTrueFrame": "Anno 1800 gamifies industrial city-building; the frame is the real human and sanitary cost that drove reform.",
+      "possibleThemes": [
+        "Sanayi Devrimi",
+        "Şehir Planlama",
+        "Sağlık",
+        "Toplum"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Wellcome Collection: John Snow / cholera",
+        "Britannica: Industrial Revolution / public health",
+        "Science Museum (London)"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "stronghold-castle-as-economy",
+      "mediaType": "game",
+      "mediaTitle": "Stronghold",
+      "gameOrMediaFranchise": "Stronghold",
+      "proposedCardTitleTR": "Kale Sadece Savunma Değil: Bir Ekonomik Motor",
+      "proposedCardTitleEN": "A Castle Is Not Just Defense: It's an Economic Engine",
+      "realWorldAngle": "Castles as administrative, economic, and symbolic centers (food stores, lordship, justice), not merely military forts.",
+      "whyItFitsTrueFrame": "Stronghold ties castle to food/economy; the frame is the real multifunction role of castles, complementing the existing AoE2 castle-politics card.",
+      "possibleThemes": [
+        "Orta Çağ",
+        "Ekonomi",
+        "Mimari",
+        "Feodalizm"
+      ],
+      "suggestedDifficulty": "basic",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "English Heritage / Historic England: castles",
+        "Britannica: castle",
+        "Château museums (e.g., Guédelon experimental archaeology)"
+      ],
+      "duplicateRisk": "medium — aoe2-castles-politics exists; angle on castle-as-economy/admin, not politics.",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "imitation-game-bletchley-enigma",
+      "mediaType": "film",
+      "mediaTitle": "The Imitation Game",
+      "gameOrMediaFranchise": "The Imitation Game",
+      "proposedCardTitleTR": "Bletchley Park: Enigma'yı Kırmak ve Turing'in Gerçeği",
+      "proposedCardTitleEN": "Bletchley Park: Breaking Enigma and the Real Turing",
+      "realWorldAngle": "The collective codebreaking effort at Bletchley Park (incl. Polish cryptologists and many women), the bombe, and the film's compressions/distortions of Turing's life.",
+      "whyItFitsTrueFrame": "The film centers a lone genius; the frame is a large, collaborative intelligence operation and the real history of computing and Turing's persecution.",
+      "possibleThemes": [
+        "II. Dünya Savaşı",
+        "Bilim",
+        "Teknoloji",
+        "Kimlik"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "minor",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Bletchley Park Trust",
+        "The National Museum of Computing",
+        "Britannica: Alan Turing / Enigma"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "hidden-figures-nasa-segregation",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "gameOrMediaFranchise": "Hidden Figures",
+      "proposedCardTitleTR": "Gizli Kahramanlar: NASA, Ayrımcılık ve Hesap Makineleri",
+      "proposedCardTitleEN": "Hidden Figures: NASA, Segregation, and Human Computers",
+      "realWorldAngle": "The Black women mathematicians at NACA/NASA (Katherine Johnson et al.), segregation-era labor, and the transition to electronic computing.",
+      "whyItFitsTrueFrame": "The film dramatizes real people; the frame is the documented history of segregation, labor, and the space race.",
+      "possibleThemes": [
+        "Uzay",
+        "Bilim",
+        "Eşitlik",
+        "Kadın Tarihi"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "NASA History Office",
+        "Smithsonian National Air and Space Museum",
+        "Britannica: Katherine Johnson"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "allquiet-wwi-antiwar-memory",
+      "mediaType": "film",
+      "mediaTitle": "All Quiet on the Western Front (2022)",
+      "gameOrMediaFranchise": "All Quiet on the Western Front",
+      "proposedCardTitleTR": "Batı Cephesinde Yeni Bir Şey Yok: Savaşın Anlamsızlığı",
+      "proposedCardTitleEN": "All Quiet on the Western Front: The Futility of War",
+      "realWorldAngle": "The German WWI experience, trench attrition, the armistice's final hours, and the anti-war literary tradition (Remarque).",
+      "whyItFitsTrueFrame": "Complements existing 1917/Valiant Hearts cards with the German perspective and the politics of the armistice.",
+      "possibleThemes": [
+        "I. Dünya Savaşı",
+        "Cephe",
+        "Hafıza",
+        "Toplum"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "minor",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Imperial War Museums",
+        "Deutsches Historisches Museum",
+        "Britannica: Erich Maria Remarque / Western Front"
+      ],
+      "duplicateRisk": "medium — several WWI cards exist; angle on German side + armistice.",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "master-commander-royal-navy",
+      "mediaType": "film",
+      "mediaTitle": "Master and Commander: The Far Side of the World",
+      "gameOrMediaFranchise": "Master and Commander",
+      "proposedCardTitleTR": "Yelkenli Çağında Donanma Hayatı: Napolyon Savaşları'nda Royal Navy",
+      "proposedCardTitleEN": "Naval Life in the Age of Sail: The Napoleonic Royal Navy",
+      "realWorldAngle": "Daily life, discipline, scurvy/health, and tactics aboard Royal Navy ships during the Napoleonic Wars.",
+      "whyItFitsTrueFrame": "The film is praised for authenticity; the frame is the real social and medical world of the age of sail.",
+      "possibleThemes": [
+        "Denizcilik",
+        "Napoleon",
+        "Sağlık",
+        "Askeri Tarih"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "National Maritime Museum (RMG)",
+        "Britannica: Royal Navy / Napoleonic Wars",
+        "Academic naval history"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "last-duel-trial-by-combat",
+      "mediaType": "film",
+      "mediaTitle": "The Last Duel",
+      "gameOrMediaFranchise": "The Last Duel",
+      "proposedCardTitleTR": "Son Düello: Orta Çağ'da Adalet, Tanıklık ve Kadının Sözü",
+      "proposedCardTitleEN": "The Last Duel: Medieval Justice and a Woman's Testimony",
+      "realWorldAngle": "The 1386 judicial duel in France, trial by combat as legal procedure, and the legal status of women's testimony in medieval courts.",
+      "whyItFitsTrueFrame": "Based on a documented case; the frame is the medieval justice system and gendered law, not just the spectacle.",
+      "possibleThemes": [
+        "Orta Çağ",
+        "Hukuk",
+        "Kadın Tarihi",
+        "Şiddet"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "minor",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Eric Jager, The Last Duel (academic-popular)",
+        "Britannica: trial by combat",
+        "French national archives (case context)"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "tetris-cold-war-software-ip",
+      "mediaType": "film",
+      "mediaTitle": "Tetris (2023)",
+      "gameOrMediaFranchise": "Tetris",
+      "proposedCardTitleTR": "Tetris: Soğuk Savaş, Sovyet Yazılımı ve Telif Savaşı",
+      "proposedCardTitleEN": "Tetris: Cold War, Soviet Software, and an IP Battle",
+      "realWorldAngle": "The real story of Tetris's creation in the USSR, state ownership of software, and the tangled international licensing fight.",
+      "whyItFitsTrueFrame": "A film about a game becomes a frame for Soviet economics, intellectual property, and the late Cold War.",
+      "possibleThemes": [
+        "Soğuk Savaş",
+        "Teknoloji",
+        "Ekonomi",
+        "Sovyetler"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "minor",
+      "flagshipCandidate": false,
+      "sourceViability": "medium",
+      "possibleReliableSources": [
+        "Britannica: Tetris / Alexey Pajitnov",
+        "Computer history museums",
+        "Reputable tech journalism (secondary)"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "argo-iran-hostage-crisis",
+      "mediaType": "film",
+      "mediaTitle": "Argo",
+      "gameOrMediaFranchise": "Argo",
+      "proposedCardTitleTR": "Argo: İran Rehine Krizi ve Gerçeğin Dramatizasyonu",
+      "proposedCardTitleEN": "Argo: The Iran Hostage Crisis and Dramatized Truth",
+      "realWorldAngle": "The 1979–81 hostage crisis, the 'Canadian Caper' rescue, and the film's well-documented exaggerations (e.g., the airport chase).",
+      "whyItFitsTrueFrame": "A clear media-vs-reality case where a true event was reshaped for tension; complements the 1979 Revolution game topic.",
+      "possibleThemes": [
+        "Soğuk Savaş",
+        "Orta Doğu",
+        "Siyaset",
+        "İran"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "minor",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Jimmy Carter Presidential Library",
+        "US National Security Archive (GWU)",
+        "Britannica: Iran hostage crisis"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "12years-slavery-abolition",
+      "mediaType": "film",
+      "mediaTitle": "12 Years a Slave",
+      "gameOrMediaFranchise": "12 Years a Slave",
+      "proposedCardTitleTR": "12 Yıllık Esaret: Kölelik, Tanıklık ve İlga Mücadelesi",
+      "proposedCardTitleEN": "12 Years a Slave: Slavery, Testimony, and Abolition",
+      "realWorldAngle": "Solomon Northup's real 1853 memoir, the slave system of the antebellum US South, and the abolition movement.",
+      "whyItFitsTrueFrame": "Based on a primary-source memoir; the frame is the documented institution of slavery and the value of firsthand testimony.",
+      "possibleThemes": [
+        "Kölelik",
+        "ABD Tarihi",
+        "Eşitlik",
+        "Toplum"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "minor",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Smithsonian National Museum of African American History and Culture",
+        "Library of Congress: slave narratives",
+        "Britannica: Solomon Northup"
+      ],
+      "duplicateRisk": "low",
+      "notes": "Add 'Kölelik' as a theme (slavery exists thematically via tf26 but not named)."
+    },
+    {
+      "proposedIdBase": "hotel-rwanda-genocide-memory",
+      "mediaType": "film",
+      "mediaTitle": "Hotel Rwanda",
+      "gameOrMediaFranchise": "Hotel Rwanda",
+      "proposedCardTitleTR": "Ruanda Soykırımı: Hafıza, Medya ve Uluslararası Sessizlik",
+      "proposedCardTitleEN": "The Rwandan Genocide: Memory, Media, and International Silence",
+      "realWorldAngle": "The 1994 genocide, the role of radio propaganda (RTLM), international inaction, and contested aspects of the film's narrative.",
+      "whyItFitsTrueFrame": "The film personalizes a vast atrocity; the frame is documented genocide history, propaganda, and memory politics.",
+      "possibleThemes": [
+        "Şiddet",
+        "Medya",
+        "Hafıza",
+        "Propaganda"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "minor",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "UN / ICTR (International Criminal Tribunal for Rwanda)",
+        "Kigali Genocide Memorial (Aegis Trust)",
+        "Britannica: Rwanda genocide"
+      ],
+      "duplicateRisk": "low",
+      "notes": "Sensitive; rely on tribunal and memorial sources."
+    },
+    {
+      "proposedIdBase": "downfall-hitler-bunker-collapse",
+      "mediaType": "film",
+      "mediaTitle": "Downfall (Der Untergang)",
+      "gameOrMediaFranchise": "Downfall",
+      "proposedCardTitleTR": "Çöküş: Berlin'in Düşüşü ve Nazi Rejiminin Son Günleri",
+      "proposedCardTitleEN": "Downfall: The Fall of Berlin and the Regime's Last Days",
+      "realWorldAngle": "The 1945 Battle of Berlin, the Führerbunker, and debates about depicting Hitler's humanity without enabling sympathy.",
+      "whyItFitsTrueFrame": "Based on eyewitness accounts; the frame is the documented end of the Reich and the ethics of representation.",
+      "possibleThemes": [
+        "II. Dünya Savaşı",
+        "Siyaset",
+        "Hafıza",
+        "Şiddet"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Deutsches Historisches Museum",
+        "Imperial War Museums",
+        "Britannica: Battle of Berlin"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "apollo13-engineering-failure",
+      "mediaType": "film",
+      "mediaTitle": "Apollo 13",
+      "gameOrMediaFranchise": "Apollo 13",
+      "proposedCardTitleTR": "Apollo 13: Başarılı Bir Başarısızlık ve Mühendislik Krizi",
+      "proposedCardTitleEN": "Apollo 13: A Successful Failure and Engineering Under Pressure",
+      "realWorldAngle": "The 1970 in-flight explosion, the improvised CO2 scrubber fix, and the systems-engineering culture that saved the crew.",
+      "whyItFitsTrueFrame": "Largely faithful film; the frame is real crisis engineering and NASA process, complementing existing space cards.",
+      "possibleThemes": [
+        "Uzay",
+        "Bilim",
+        "Mühendislik",
+        "Teknoloji"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "NASA History Office",
+        "Smithsonian National Air and Space Museum",
+        "Britannica: Apollo 13"
+      ],
+      "duplicateRisk": "medium — space cards exist (Apollo 11); scope to Apollo 13 crisis engineering.",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "bridge-of-spies-u2-exchange",
+      "mediaType": "film",
+      "mediaTitle": "Bridge of Spies",
+      "gameOrMediaFranchise": "Bridge of Spies",
+      "proposedCardTitleTR": "Casus Takası: U-2 Olayı ve Soğuk Savaş Diplomasisi",
+      "proposedCardTitleEN": "The Spy Swap: The U-2 Incident and Cold War Diplomacy",
+      "realWorldAngle": "The 1960 U-2 shootdown, the Powers/Abel prisoner exchange, and back-channel Cold War diplomacy.",
+      "whyItFitsTrueFrame": "Based on real events; the frame is documented espionage and the legal-diplomatic machinery of the Cold War.",
+      "possibleThemes": [
+        "Soğuk Savaş",
+        "Casusluk",
+        "Diplomasi",
+        "Hukuk"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "minor",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "CIA FOIA reading room: U-2 program",
+        "US National Archives",
+        "Britannica: U-2 affair"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "peaky-blinders-postwar-veterans",
+      "mediaType": "series",
+      "mediaTitle": "Peaky Blinders",
+      "gameOrMediaFranchise": "Peaky Blinders",
+      "proposedCardTitleTR": "Savaştan Dönenler: WWI Sonrası Birmingham ve Sanayi Çeteleri",
+      "proposedCardTitleEN": "Coming Home from War: Post-WWI Birmingham and Industrial Gangs",
+      "realWorldAngle": "Post-WWI veteran trauma and unemployment, the real (earlier) Peaky Blinders street gangs, and industrial Birmingham's class world.",
+      "whyItFitsTrueFrame": "The show stylizes a real city and era; the frame is veteran reintegration, labor unrest, and street-gang history.",
+      "possibleThemes": [
+        "Modern Tarih",
+        "Sınıf",
+        "Suç",
+        "I. Dünya Savaşı"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "minor",
+      "flagshipCandidate": true,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Library of Birmingham archives",
+        "Imperial War Museums (shell shock / veterans)",
+        "Britannica: Birmingham / interwar Britain"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "narcos-cocaine-trade-drug-war",
+      "mediaType": "series",
+      "mediaTitle": "Narcos",
+      "gameOrMediaFranchise": "Narcos",
+      "proposedCardTitleTR": "Kokain Ticareti ve Uyuşturucu Savaşı: Escobar Efsanesinin Ötesi",
+      "proposedCardTitleEN": "The Cocaine Trade and the Drug War: Beyond the Escobar Legend",
+      "realWorldAngle": "The political economy of the cocaine trade, the US-led 'War on Drugs', and the contested memory of Pablo Escobar in Colombia.",
+      "whyItFitsTrueFrame": "Narcos blends fact and dramatization; the frame is the documented economics and politics of the drug war.",
+      "possibleThemes": [
+        "Suç",
+        "Siyaset",
+        "Ekonomi",
+        "Modern Tarih"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "minor",
+      "flagshipCandidate": false,
+      "sourceViability": "medium",
+      "possibleReliableSources": [
+        "US National Security Archive (GWU)",
+        "Britannica: Pablo Escobar / War on Drugs",
+        "Reputable journalism (secondary)"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "the-americans-cold-war-illegals",
+      "mediaType": "series",
+      "mediaTitle": "The Americans",
+      "gameOrMediaFranchise": "The Americans",
+      "proposedCardTitleTR": "Derin Casuslar: Soğuk Savaş'ta KGB 'İllegalleri'",
+      "proposedCardTitleEN": "Deep-Cover Spies: KGB 'Illegals' in the Cold War",
+      "realWorldAngle": "The real KGB 'illegals' program (deep-cover agents), exposed networks (e.g., the 2010 Illegals Program), and counterintelligence.",
+      "whyItFitsTrueFrame": "The show fictionalizes a documented espionage method; the frame is the reality of deep-cover intelligence.",
+      "possibleThemes": [
+        "Soğuk Savaş",
+        "Casusluk",
+        "Sovyetler",
+        "Kimlik"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "inspired-by-reality",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "medium",
+      "possibleReliableSources": [
+        "US FBI history / DOJ (2010 Illegals case)",
+        "US National Security Archive (GWU)",
+        "Britannica: espionage"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "rome-hbo-late-republic-patronage",
+      "mediaType": "series",
+      "mediaTitle": "Rome (HBO)",
+      "gameOrMediaFranchise": "Rome",
+      "proposedCardTitleTR": "Patronaj ve Politika: Geç Roma Cumhuriyeti'nin Çöküşü",
+      "proposedCardTitleEN": "Patronage and Politics: The Fall of the Late Roman Republic",
+      "realWorldAngle": "The patron-client system, populares vs optimates, and how the Republic's institutions failed into civil war and one-man rule.",
+      "whyItFitsTrueFrame": "Rome dramatizes elite intrigue; the frame is the real institutional collapse, distinct from the existing Colosseum/empire-decline cards.",
+      "possibleThemes": [
+        "Roma",
+        "Siyaset",
+        "Demokrasi",
+        "İmparatorluk"
+      ],
+      "suggestedDifficulty": "deep",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "minor",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Britannica: Roman Republic / Julius Caesar",
+        "The British Museum (Roman world)",
+        "Mary Beard, SPQR (academic-popular)"
+      ],
+      "duplicateRisk": "medium — Roman cards exist; scope to Republic's political institutions/patronage.",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "marco-polo-silk-road-yuan",
+      "mediaType": "series",
+      "mediaTitle": "Marco Polo",
+      "gameOrMediaFranchise": "Marco Polo",
+      "proposedCardTitleTR": "Kubilay Han'ın Sarayı: Yuan Yönetimi ve İpek Yolu Diplomasisi",
+      "proposedCardTitleEN": "Kublai Khan's Court: Yuan Administration and Silk Road Diplomacy",
+      "realWorldAngle": "The Yuan dynasty's governance of China, the reliability debate around Marco Polo's account, and Silk Road exchange.",
+      "whyItFitsTrueFrame": "The show uses a contested travelogue; the frame is Mongol-Yuan administration and the historiography of Polo's text.",
+      "possibleThemes": [
+        "Moğollar",
+        "Çin",
+        "İpek Yolu",
+        "Siyaset"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "medium",
+      "possibleReliableSources": [
+        "Britannica: Kublai Khan / Yuan dynasty / Marco Polo",
+        "The Met / British Museum (Yuan China)",
+        "Academic Mongol-studies"
+      ],
+      "duplicateRisk": "medium — Silk Road & Mongol cards exist; scope to Yuan court + Polo source-reliability.",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "vikings-valhalla-stamford-1066",
+      "mediaType": "series",
+      "mediaTitle": "Vikings: Valhalla",
+      "gameOrMediaFranchise": "Vikings",
+      "proposedCardTitleTR": "1066: Stamford Köprüsü ve Viking Çağı'nın Sonu",
+      "proposedCardTitleEN": "1066: Stamford Bridge and the End of the Viking Age",
+      "realWorldAngle": "The 1066 Norwegian invasion under Harald Hardrada, the Battle of Stamford Bridge, and how it set up Hastings weeks later.",
+      "whyItFitsTrueFrame": "The show dramatizes the late Viking Age; the frame is the pivotal 1066 campaigns, distinct from existing settlement/raid cards.",
+      "possibleThemes": [
+        "Vikingler",
+        "Savaş",
+        "İngiltere",
+        "Orta Çağ"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "English Heritage",
+        "British Museum: Vikings",
+        "Britannica: Battle of Stamford Bridge / Harald III"
+      ],
+      "duplicateRisk": "low — distinct event from existing viking cards.",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "dasboot-battle-of-atlantic",
+      "mediaType": "series",
+      "mediaTitle": "Das Boot",
+      "gameOrMediaFranchise": "Das Boot",
+      "proposedCardTitleTR": "Atlantik Savaşı: U-Bot Hayatı ve Konvoy Mücadelesi",
+      "proposedCardTitleEN": "The Battle of the Atlantic: U-Boat Life and the Convoy War",
+      "realWorldAngle": "The WWII Battle of the Atlantic, brutal U-boat service conditions, convoy/ASDIC tactics, and codebreaking's role.",
+      "whyItFitsTrueFrame": "Das Boot is famed for realism; the frame is the decisive, attritional naval campaign and its technology.",
+      "possibleThemes": [
+        "II. Dünya Savaşı",
+        "Denizcilik",
+        "Teknoloji",
+        "Askeri Tarih"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Imperial War Museums",
+        "Deutsches U-Boot-Museum",
+        "Britannica: Battle of the Atlantic"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "general-world-war-propaganda-posters",
+      "mediaType": "general",
+      "mediaTitle": "Propaganda ve Tarih",
+      "gameOrMediaFranchise": "(general history)",
+      "proposedCardTitleTR": "Savaş Afişleri: Devletler Kamuoyunu Nasıl Şekillendirdi?",
+      "proposedCardTitleEN": "War Posters: How States Shaped Public Opinion",
+      "realWorldAngle": "The visual language of WWI/WWII propaganda posters (recruitment, rationing, enemy imagery) and how mass persuasion was engineered.",
+      "whyItFitsTrueFrame": "A general card on the documented craft of state propaganda imagery, useful across many war-themed media.",
+      "possibleThemes": [
+        "Propaganda",
+        "Medya",
+        "Savaş",
+        "Toplum"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Imperial War Museums: poster collections",
+        "US Library of Congress / National Archives poster archives",
+        "Britannica: propaganda"
+      ],
+      "duplicateRisk": "low — propaganda is a theme but no dedicated posters card.",
+      "notes": ""
+    },
+    {
+      "proposedIdBase": "general-greek-fire-byzantine-secrecy",
+      "mediaType": "general",
+      "mediaTitle": "Bilim ve Tarih",
+      "gameOrMediaFranchise": "(general history)",
+      "proposedCardTitleTR": "Rum Ateşi: Bizans'ın Gizli Silahı ve Kayıp Teknoloji",
+      "proposedCardTitleEN": "Greek Fire: Byzantium's Secret Weapon and a Lost Technology",
+      "realWorldAngle": "The incendiary weapon 'Greek fire', the state secrecy that protected its formula, and why the recipe was ultimately lost.",
+      "whyItFitsTrueFrame": "A general card on technology, secrecy, and how knowledge can disappear — counters the 'tech only advances' assumption.",
+      "possibleThemes": [
+        "Bizans",
+        "Teknoloji",
+        "Askeri Tarih",
+        "Bilim"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "partly-real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Britannica: Greek fire / Byzantine Empire",
+        "Dumbarton Oaks (Byzantine studies)",
+        "Academic history of technology"
+      ],
+      "duplicateRisk": "low",
+      "notes": "Pairs conceptually with the Civilization tech-tree card."
+    },
+    {
+      "proposedIdBase": "general-maps-as-propaganda",
+      "mediaType": "general",
+      "mediaTitle": "Coğrafya ve Güç",
+      "gameOrMediaFranchise": "(general history)",
+      "proposedCardTitleTR": "Haritalar Yalan Söyler mi? Kartografya ve İktidar",
+      "proposedCardTitleEN": "Do Maps Lie? Cartography and Power",
+      "realWorldAngle": "How map projections, borders, and naming encode political choices (Mercator distortions, propaganda maps, contested borders).",
+      "whyItFitsTrueFrame": "A general card decoding the maps players/viewers take for granted in strategy games and media.",
+      "possibleThemes": [
+        "Coğrafya",
+        "Siyaset",
+        "Medya",
+        "Bilim"
+      ],
+      "suggestedDifficulty": "medium",
+      "suggestedAccuracyType": "real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "British Library: map collections",
+        "Library of Congress: Geography & Map Division",
+        "Britannica: map projection / cartography"
+      ],
+      "duplicateRisk": "low",
+      "notes": "Add 'Coğrafya' as a new theme."
+    },
+    {
+      "proposedIdBase": "general-standard-time-railways",
+      "mediaType": "general",
+      "mediaTitle": "Modernleşme ve Zaman",
+      "gameOrMediaFranchise": "(general history)",
+      "proposedCardTitleTR": "Saat Kaç? Demiryolları ve Standart Zamanın İcadı",
+      "proposedCardTitleEN": "What Time Is It? Railways and the Invention of Standard Time",
+      "realWorldAngle": "How railways forced the standardization of local time into time zones (railway time, 1884 Prime Meridian conference).",
+      "whyItFitsTrueFrame": "A general card showing how a now-invisible system (clock time) was a 19th-century technological-political construction.",
+      "possibleThemes": [
+        "Modernleşme",
+        "Teknoloji",
+        "Demiryolu",
+        "Zaman"
+      ],
+      "suggestedDifficulty": "basic",
+      "suggestedAccuracyType": "real",
+      "suggestedSpoilerLevel": "none",
+      "flagshipCandidate": false,
+      "sourceViability": "strong",
+      "possibleReliableSources": [
+        "Royal Museums Greenwich (Royal Observatory)",
+        "Britannica: standard time / International Meridian Conference",
+        "Smithsonian"
+      ],
+      "duplicateRisk": "low",
+      "notes": ""
+    }
+  ]
+}

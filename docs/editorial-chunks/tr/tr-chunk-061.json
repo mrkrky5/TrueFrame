@@ -1,0 +1,290 @@
+{
+  "locale": "tr",
+  "chunkIndex": 61,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-102-hamilton-finance",
+      "title": "Hamilton'ın Finans Sistemi",
+      "subtitle": "Hamilton'ın finansı: borç, banka, birlik",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Devrim",
+        "Siyaset",
+        "Kimlik"
+      ],
+      "whatWeSee": "Hamilton müzikalinde 'Cabinet Battle' ve finans şarkıları, Alexander Hamilton'ın federal borç ve banka planını dramatize eder. Jefferson'a karşı tartışma, erken ABD ekonomi savaşını müzikle anlatır. Sahnede meclis kürsüsünde borç planı savunulurken arka planda ticaret limanı, banka defterleri ve sert muhalefet bakışları yeni düzenin gerilimini gösteriyor.",
+      "realHistory": "1789'da Hazine sekreteri Hamilton, federal hükümetin eyalet savaş borçlarını üstlenmesini önerdi. İç borçlanma, gümrük vergisi ve Bank of the United States (1791) planının parçasıydı. Jefferson ve Madison merkezileşmeye karşı çıktı: tarım cumhuriyeti vizyonu. Hamilton ticaret ve sanayi devleti istedi. Uzlaşma 1790'da başkent (Washington DC) karşılığında borç planının kabulüyle geldi. Finans sistemi ABD'nin kredi güvenilirliğini kurdu ama eşitsizliği de derinleştirdi. Müzikal rap düellosu yapar; arşivler Federalist Papers ve Kongre tutanaklarını saklar. Alexander Hamilton'ın mali programı, bağımsızlık sonrası dağınık borç düzenini federal devlet inşasının kaldıraçlarına çevirmeyi hedefledi. Eyalet borçlarının merkezde toplanması, alacaklıları yeni birliğin istikrarına bağladı ve federal kredibiliteyi yükseltti. Ulusal banka önerisi, vergi toplama kapasitesiyle özel sermaye arasında kurumsal bir köprü kurdu. Muhalifler bunun ticaret merkezlerini kayırdığını savunsa da sistem, uzun vadeli kamu finansmanı için işleyen bir çerçeve sağladı. Potomac üzerindeki başkent uzlaşması, ekonomik planın siyasi bedelini görünür kılarak erken cumhuriyetin pazarlık mantığını ortaya koydu. Hamilton'ın Finans Sistemi 1789'da Hazine sekreteri Hamilton, federal hükümetin eyalet savaş borçlarını üstlenmesini önerdi. Hamilton, kamu borcunu tehdit değil kredi üretme aracı olarak gördü; düzenli faiz ödemesiyle yabancı yatırımcı güveni hedefledi. Gümrük gelirleri federal bütçenin omurgası yapılırken iç isyan riski de hesaplandı. Viski Vergisi krizi, mali devletin taşrada zorla uygulanma sınırlarını test etti.",
+      "accuracyNote": "Borç planı ve banka tarihleri belgelenmiştir.",
+      "whyInteresting": "Aynı plan hem birlik hem merkezileşme korkusunu doğurdu.",
+      "misconception": "Erken ABD ekonomisi doğal uzlaşmayla kuruldu; şiddetli parti kavgası vardı.",
+      "nextTopics": [
+        "Bağımsızlık Bildirisi",
+        "Federalistler",
+        "Kölelik Çelişkisi"
+      ],
+      "sources": [
+        {
+          "title": "Alexander Hamilton financial plan (Britannica)",
+          "url": "https://www.britannica.com/biography/Alexander-Hamilton",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Bank of the United States (Britannica)",
+          "url": "https://www.britannica.com/topic/Bank-of-the-United-States",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Federalist Papers (US Congress)",
+          "url": "https://www.congress.gov/resources/display/content/The+Federalist+Papers",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-108-constitution",
+        "tf26-104-enslavement-contradiction"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton'ın Cabinet Battle şarkıları ile 1790 federal borç ve banka tartışması.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "abd-devrimi",
+        "kurucular",
+        "hamilton",
+        "hamilton-in-finans-sistemi",
+        "true-frame"
+      ],
+      "spoilerNote": "Hamilton hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Müzikal finansı rap düellosuna indirger; gerçekte yıllar süren Kongre mücadelesiydi.",
+      "whyItMatters": "Aynı plan hem birlik hem merkezileşme korkusunu doğurdu.",
+      "isFlagship": false,
+      "quickRealityCheck": "Hamilton borç planını kabul ettirmek için neyi pazarlık etti?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-103-federalists",
+      "title": "Federalistler",
+      "subtitle": "Küçük ayrıntı, büyük tarih",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Devrim",
+        "Siyaset",
+        "Kimlik"
+      ],
+      "whatWeSee": "Hamilton'da Federalistler, parlak söz düelloları ve güçlü karakter rekabetleri içinde şekillenir. Hamilton'un merkezi devlet, finans ve anayasal düzen fikri ritmik bir çatışma diliyle anlatılır. İzleyici tarafları kolayca ayırt eder. Buna karşılık eyalet çıkarları, vergi direnci ve kırsal seçmen kaygısı gibi daha dağınık siyasi zemin doğal olarak daha az yer kaplar.",
+      "realHistory": "Federalistler, Amerikan Devrimi sonrasında zayıf konfederasyon yapısının yeni devleti taşıyamayacağı düşüncesinden doğdu. Alexander Hamilton, John Adams ve benzer çizgideki siyasetçiler; kredi güvenilirliği, ulusal borcun yönetimi, düzenli vergi ve merkezi yürütme olmadan cumhuriyetin kırılgan kalacağını savundu. Bu yaklaşım, yalnız ideolojik değil pratik bir kriz yanıtıydı: savaş borçları, dağınık para düzeni ve dış baskılar yeni ülkeyi zorlayıyordu.\n\n1790'larda ulusal banka, federal borçların üstlenilmesi ve sanayi teşviki gibi adımlar yoğun tartışma yarattı. Karşı tarafta Jefferson ve Madison çevresi, güçlü merkezin monarşik eğilim üretmesinden kaygı duydu; tarımsal cumhuriyet ve eyalet özerkliği vurgusu öne çıktı. Federalistler dış politikada Britanya ile dengeli ilişkiyi, iç politikada düzen ve mali istikrarı öncelikledi. Ancak Sedition Act gibi uygulamalar, ifade özgürlüğü tartışmalarında bu hareketin meşruiyetine zarar verdi.\n\nFederalist çizgi parti olarak gerilese de kurduğu kurumlar kalıcı oldu. Hazine sistemi, kamu kredisi, idari kapasite ve anayasal devlet pratiği büyük ölçüde bu dönemin mirasıdır. Tartışma bitmedi: bugünkü ABD siyasetinde merkez-yerel gerilimi hâlâ aynı sorular etrafında döner. Erken dönemdeki bu kavga, anayasanın soyut metinden canlı bir iktidar pazarlığına dönüşmesini sağladı ve devletin nerede başlayıp nerede duracağı sorusunu kalıcılaştırdı. Mahkeme kararları ve federal vergi mekanizması üzerinden bu çekişme kurumsallaştı; siyasal rekabet, ülkenin idari iskeletini fiilen inşa eden bir araca dönüştü.",
+      "accuracyNote": "Ana aktörler ve temel politik ayrışma doğru çerçevelenir; ekonomi politik ayrıntılar ve tabandaki sosyal etkiler sahne ritmi için sadeleştirilmiştir.",
+      "whyInteresting": "Bugün sıradan görünen kamu kredisi ve merkez bankası fikri, o dönemde cumhuriyetin kader tartışmasıydı.",
+      "misconception": "Federalistlerin yalnız elit çıkarı savunduğu düşünülür; hedeflerinin önemli kısmı devletin mali iflasını önlemekti.",
+      "nextTopics": [
+        "Bağımsızlık Bildirisi",
+        "Hamilton'ın Finans Sistemi",
+        "Kölelik Çelişkisi"
+      ],
+      "sources": [
+        {
+          "title": "Federalist Party (Britannica)",
+          "url": "https://www.britannica.com/topic/Federalist-Party",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Federalist Papers (Library of Congress)",
+          "url": "https://guides.loc.gov/federalist-papers/full-text",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Alexander Hamilton (U.S. Treasury)",
+          "url": "https://home.treasury.gov/about/history/people/alexander-hamilton",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-104-enslavement-contradiction",
+        "tf26-105-dueling-culture",
+        "tf26-106-loyalists"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton, Federalist-Anti-Federalist ayrımını kişisel rekabet üzerinden popüler kültüre taşır.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "abd-devrimi",
+        "kurucular",
+        "hamilton",
+        "federalistler",
+        "true-frame"
+      ],
+      "spoilerNote": "Hamilton hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Müzikal anlatı çatışmayı birkaç güçlü figürün sözel mücadelesine yoğunlaştırır ve süreci kişiselleştirir. Tarihte Federalist proje, dağınık ekonomik krizleri kurumsal devlete çevirme girişimiydi.",
+      "whyItMatters": "Bugün sıradan görünen kamu kredisi ve merkez bankası fikri, o dönemde cumhuriyetin kader tartışmasıydı.",
+      "isFlagship": false,
+      "quickRealityCheck": "Hamilton'un ulusal banka ısrarı, yeni cumhuriyetin hangi somut sorununu çözmeyi hedefliyordu?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-104-enslavement-contradiction",
+      "title": "Kölelik Çelişkisi",
+      "subtitle": "Özgürlük ilanı, kölelik gerçeği",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Devrim",
+        "Siyaset",
+        "Kimlik"
+      ],
+      "whatWeSee": "Hamilton, devrimi parlak bir özgürlük diliyle anlatırken köleliği çoğunlukla sahnenin kenarında bırakır. Kurucu figürlerin idealleri merkezde durur, plantasyon sistemi ise yalnız kısa işaretlerle görünür. Böylece seyirci, yüksek siyasi retoriği güçlü biçimde duyar ama o retoriğin kimi dışarıda bıraktığını daha az görür.",
+      "realHistory": "Amerikan Devrimi özgürlük iddiasıyla doğdu, fakat yeni federal düzen köleliği koruyan anayasal yapılarla kuruldu. Güney eyaletlerinin ekonomik ağırlığı, tütün ve daha sonra pamuk üretimindeki köle emeğine bağlıydı; bu nedenle birlik arayan kurucu elitler, sistemi kırmak yerine dengelemeyi seçti. 1787 Anayasası'ndaki üçte beş kuralı, oy hakkı olmayan köleleştirilmiş nüfusu temsil hesabına katarak köle sahibi eyaletlerin Kongre gücünü büyüttü.\n\nKaçak köle maddesi de köleliği eyalet sınırlarını aşan bir mülkiyet rejimi olarak tanıdı. Kuzeyde kademeli özgürleştirme adımları atılırken güneyde iç köle ticareti genişledi; 1793 sonrası pamuk ekonomisi hızlandıkça ailelerin zorla parçalanması arttı. Kurucu kuşağın bazı isimleri köleliğe karşı sözlü eleştiri getirse de ulusal ölçekte kaldırmaya dönük birleşik siyasi irade oluşmadı.\n\nBu çelişki sadece ahlaki değil kurumsaldı: özgürlük ideali ile ekonomik yapı birbirine ters yönde çalışıyordu. Haiti Devrimi'nin yarattığı korku, güneyli elitlerin güvenlik siyasetini sertleştirdi. Sonraki on yıllarda parti dengeleri, toprak genişlemesi ve mahkeme kararları aynı gerilimi yeniden üretti. İç Savaş'ın derin nedeni, kurucu dönemde ertelenen bu yapısal hesaplaşmaydı. Dolayısıyla problem, birkaç liderin kişisel tutarsızlığından çok, federal devletin mali ve temsil düzenine köle emeğini gömen uzun ömürlü bir kurumsal tasarımdı. Bu tasarım, anayasa metni değişmeden bile gündelik şiddet ve pazar ilişkileriyle sürekli yeniden üretilerek köleliği kalıcılaştırdı.",
+      "accuracyNote": "Kurucu tartışmaların gerilimi doğru, fakat köleliğin anayasal kapsamı sahnede sınırlı yer bulur.",
+      "whyInteresting": "Bir ulusun en güçlü özgürlük söyleminin aynı anda zorla emek rejimini taşıması, modern siyasi tarihin en sert paradokslarından biridir.",
+      "misconception": "Amerikan Devrimi'nin köleliği hemen zayıflattığı ve kısa sürede tasfiye ettiği sanılır.",
+      "nextTopics": [
+        "Bağımsızlık Bildirisi",
+        "Hamilton'ın Finans Sistemi",
+        "Federalistler"
+      ],
+      "sources": [
+        {
+          "title": "The Constitution of the United States",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Three-Fifths Clause",
+          "url": "https://www.britannica.com/topic/Three-Fifths-Compromise",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Slavery in the United States",
+          "url": "https://www.britannica.com/topic/slavery-sociology/The-United-States",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-108-constitution",
+        "tf26-102-hamilton-finance"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton duygusal anlatıyı kurar; True Frame aynı dönemin kölelik altyapısını görünür kılar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "abd-devrimi",
+        "kurucular",
+        "hamilton",
+        "kolelik-celiskisi",
+        "true-frame"
+      ],
+      "spoilerNote": "Hamilton hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Müzikal kurucu ideali öne çıkarır; tarihsel gerçeklikte özgürlük söylemi ile köle ekonomisi aynı devlet çatısı altında birlikte büyüdü.",
+      "whyItMatters": "Bir ulusun en güçlü özgürlük söyleminin aynı anda zorla emek rejimini taşıması, modern siyasi tarihin en sert paradokslarından biridir.",
+      "isFlagship": true,
+      "quickRealityCheck": "Özgürlük devrimi gerçekten tüm toplumu kapsasaydı, neden anayasa köleliği koruyan maddeler taşıdı?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-105-dueling-culture",
+      "title": "Düello Kültürü",
+      "subtitle": "Ekrandaki iz, tarihteki karşılık",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Devrim",
+        "Siyaset",
+        "Kimlik"
+      ],
+      "whatWeSee": "Hamilton'da düello siyasi tartışmanın son eşiği gibi sunuluyor. Sözlü rekabet ritimle yükseliyor, sonra sessiz bir karşılaşmaya iniyor. Müzikal kurgu, onur kavramını kişisel kaderle birleştirerek düelloyu neredeyse kaçınılmaz gösteriyor. İzleyici, hukuki çözümden çok itibarın beden üzerinden savunulduğu bir elit dünya görüyor.",
+      "realHistory": "Erken Amerikan cumhuriyetinde düello, özellikle seçkin erkekler arasında itibar krizini yönetmenin gayriresmi ama güçlü bir yoluydu. Kamu önünde hakarete uğramak siyasi kariyeri zayıflatabileceği için mesele çoğu zaman mahkeme yerine meydan okumaya taşınıyordu. Code Duello olarak bilinen kurallar, çağrı mektubundan arabulucu seçimine, mesafe belirlemeden atış sırasına kadar süreci standartlaştırıyordu. Hamilton-Burr düellosu bu kültürün en ünlü örneğidir, ancak benzer pratikler subaylar, gazeteciler ve politikacılar arasında da görüldü. Hukuki zemin ise çelişkiliydi: çok sayıda eyalette düello yasaktı, hatta ölümle sonuçlanınca cinayet tartışması açılabiliyordu. Buna rağmen sınıfsal ağlar ve siyasi nüfuz uygulamada esneklik yaratıyordu. 19. yüzyılın ilerleyen dönemlerinde parti kurumsallaşması, profesyonel hukuk ve modern basın geliştikçe düellonun meşruiyeti aşındı. Bazı eyaletlerde kamu görevine aday olanlardan düelloya katılmadığına dair yemin istenmesi dönüşümün hukuka yansımasıdır. Dolayısıyla düello salt öfke patlaması değil, zayıf kurumsal güven ortamında onur, erkeklik ve kamusal güç arasındaki gerilimin kodlanmış biçimidir. Hamilton bunu güçlü bir dramatik sembole dönüştürür; tarihsel çerçevede asıl mesele, genç cumhuriyetin şiddeti tamamen hukuk içine alamamış olmasıdır. Gazeteler düello haberlerini ayrıntılı biçimde yayımladıkça kamusal tepki büyüdü ve siyasi elitler için itibar hesabı tersine döndü. Bu medya etkisi, düellonun kültürel gerilemesinde yasa değişiklikleri kadar önemli bir rol oynadı. Kilise vaazları da bu dönüşümü hızlandırdı.",
+      "accuracyNote": "Hamilton-Burr olayı doğru temele dayanır; ancak gündelik düello prosedürleri anlatı akışı nedeniyle sadeleştirilir.",
+      "whyInteresting": "Bir cumhuriyet özgürlük vaadi taşırken, elit siyasetçilerin anlaşmazlığı bazen barut ve mesafe hesabıyla çözülüyordu.",
+      "misconception": "Düellonun tamamen plansız ve anlık öfkeyle gerçekleşen bireysel kavga olduğu düşünülür.",
+      "nextTopics": [
+        "Bağımsızlık Bildirisi",
+        "Hamilton'ın Finans Sistemi",
+        "Federalistler"
+      ],
+      "sources": [
+        {
+          "title": "Britannica - Duel",
+          "url": "https://www.britannica.com/topic/duel",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Alexander Hamilton",
+          "url": "https://www.britannica.com/biography/Alexander-Hamilton",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Library of Congress - The Burr-Hamilton Duel",
+          "url": "https://www.loc.gov/collections/aaron-burr-papers/articles-and-essays/the-burr-hamilton-duel/",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-106-loyalists",
+        "tf26-107-french-alliance",
+        "tf26-108-constitution"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton'ın sahne dili, erken ABD'deki onur rejiminin hukukla çatışan yapısını görünür kılan bir dramatik mercek sunar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "abd-devrimi",
+        "kurucular",
+        "hamilton",
+        "duello-kulturu",
+        "true-frame"
+      ],
+      "spoilerNote": "Hamilton hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Müzikal anlatı düelloyu kaderci ve kişisel bir doruk anına dönüştürüyor. Tarihte süreç, yazılı kuralları ve sınıfsal ağları olan yarı bürokratik bir itibar pratiğiydi.",
+      "whyItMatters": "Bir cumhuriyet özgürlük vaadi taşırken, elit siyasetçilerin anlaşmazlığı bazen barut ve mesafe hesabıyla çözülüyordu.",
+      "isFlagship": false,
+      "quickRealityCheck": "Yasa dışı sayılan bir düello pratiği, neden uzun süre seçkin çevrelerde itibar koruma yöntemi olarak kabul gördü?",
+      "lastReviewedAt": "2026-06-26"
+    }
+  ]
+}

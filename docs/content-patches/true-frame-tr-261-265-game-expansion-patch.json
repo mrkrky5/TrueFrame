@@ -1,0 +1,566 @@
+{
+  "patchId": "true-frame-tr-261-265-game-expansion-patch",
+  "locale": "tr",
+  "sourceChunks": [],
+  "contentRange": {
+    "startId": "tf26-261",
+    "endId": "tf26-265"
+  },
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-new-card-generation",
+  "summary": {
+    "cardCount": 5,
+    "newCards": [
+      "tf26-261-anno1800-industrial-city",
+      "tf26-262-stronghold-castle-economy",
+      "tf26-263-imitation-game-bletchley",
+      "tf26-264-allquiet-wwi-memory",
+      "tf26-265-master-commander-royal-navy"
+    ],
+    "flagshipNewCards": [
+      "tf26-263-imitation-game-bletchley"
+    ],
+    "standardNewCards": [
+      "tf26-261-anno1800-industrial-city",
+      "tf26-262-stronghold-castle-economy",
+      "tf26-264-allquiet-wwi-memory",
+      "tf26-265-master-commander-royal-navy"
+    ],
+    "mediaFocus": [
+      "Anno 1800",
+      "Stronghold",
+      "The Imitation Game",
+      "All Quiet on the Western Front (2022)",
+      "Master and Commander: The Far Side of the World"
+    ],
+    "sourceUpdates": [
+      "tf26-261-anno1800-industrial-city",
+      "tf26-262-stronghold-castle-economy",
+      "tf26-263-imitation-game-bletchley",
+      "tf26-264-allquiet-wwi-memory",
+      "tf26-265-master-commander-royal-navy"
+    ],
+    "notes": [
+      "Bu batch, oyun havuzunun son oyun konuları olan Anno 1800 ve Stronghold ile non-game genişleme konularına geçişi birleştirir.",
+      "Hidden Figures önerisi bu turda bilinçli atlandı; mevcut içerikte aynı başlığın insan bilgisayarlar, ayrımcılık, Mercury, Apollo ve Katherine Johnson eksenleri zaten kapsamlı işlendiği için tekrar riski yüksek.",
+      "The Imitation Game flagship yapıldı; Bletchley Park tek-dâhi anlatısından çıkarılıp kolektif codebreaking ve Turing’in savaş sonrası gördüğü ayrımcılıkla dengelendi."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-261-anno1800-industrial-city",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Anno 1800’ın sanayi şehri kurma hissi, 19. yüzyıl kentleşmesi, kolera ve modern kanalizasyon/kamu sağlığı altyapısının doğuşuyla kaynaklı karta dönüştürüldü.",
+      "fields": {
+        "title": "Sanayi Şehri ve Halk Sağlığı",
+        "subtitle": "Duman, kalabalık ve kanalizasyon modern şehri nasıl kurdu?",
+        "mediaType": "game",
+        "mediaTitle": "Anno 1800",
+        "era": "Modern Tarih",
+        "region": "Britanya / Avrupa",
+        "themes": [
+          "Sanayi Devrimi",
+          "Şehir Planlama",
+          "Sağlık",
+          "Toplum"
+        ],
+        "whatWeSee": "Anno 1800’da şehir büyüdükçe bacalar yükselir, işçi mahalleleri sıkışır, üretim zincirleri birbirine bağlanır ve oyuncu refah ile kirlilik arasında sürekli seçim yapar. Oyun bunu düzenli bir şehir kurma bulmacası gibi gösterir; gerçek 19. yüzyıl sanayi kentlerinde ise büyüme çoğu zaman kanalizasyon, temiz su, hastane ve konut kapasitesinden daha hızlı ilerledi.",
+        "realHistory": "Sanayi Devrimi yalnız fabrika ve buhar makinesi tarihi değildir; aynı zamanda modern halk sağlığı altyapısının da krizler içinden doğduğu dönemdir. 19. yüzyıl Londra, Manchester ve benzeri kentlerde nüfus hızla artarken işçi mahalleleri sıkıştı, atık yönetimi zayıf kaldı ve kirli su salgınların yayılmasını kolaylaştırdı. Kolera, özellikle temiz içme suyu ile kanalizasyonun ayrılmadığı yerlerde yıkıcı oldu. John Snow’un 1854 Broad Street pompası çevresindeki kolera ölümlerini haritalaması, hastalığı “kötü hava” ile açıklayan anlayışa karşı su kaynaklı bulaş fikrini güçlendiren sembol olaylardan biridir.\n\n1858’de Thames Nehri’ndeki atık ve sıcak hava Londra’da “Great Stink” diye bilinen krize yol açtı. Bu sadece kötü koku meselesi değildi; şehir yönetiminin büyümeyi altyapısız taşıyamadığını gösteren bir kırılmaydı. Joseph Bazalgette’in kanalizasyon ağı, Victoria dönemi Londra’sında halk sağlığı için en kalıcı müdahalelerden biri haline geldi. Böylece modern kent, yalnız özel girişim ve fabrika kârıyla değil, kamu yatırımı, mühendislik ve belediye kapasitesiyle de tanımlandı.\n\nAnno 1800’daki düzenli üretim kutucuklarının arkasındaki gerçek ders budur: sanayi şehri, fabrika kadar su, atık, konut ve sağlık sistemiyle ayakta kalır. İşçi mahallelerini sadece “nüfus” olarak görmek, sanayileşmenin bedelini görünmez kılar. Duman, kanalizasyon ve salgınlar modern şehir planlamasının niçin zorunlu hale geldiğini anlatır.",
+        "accuracyNote": "Oyun sanayi kentini dengeli bir yönetim sistemi gibi sadeleştirir. Tarihsel süreçte kolera, altyapı eksikliği ve kanalizasyon reformu çok daha dağınık, sınıfsal ve politik bir kriz olarak ilerledi.",
+        "whyInteresting": "Sanayi modernliği çoğu zaman makineyle anlatılır; oysa modern şehir, kanalizasyon ve temiz su olmadan çalışamazdı.",
+        "misconception": "Sanayi Devrimi’nin yalnız fabrika üretimiyle ilgili olduğu sanılır. Gerçekte sağlık altyapısı ve kent yönetimi aynı dönüşümün parçasıydı.",
+        "nextTopics": [
+          "Kale Ekonomisi",
+          "Sanayileşme ve Emek",
+          "Teknoloji Ağacı Miti"
+        ],
+        "sources": [
+          {
+            "title": "Wellcome Collection - John Snow cholera map/report",
+            "url": "https://wellcomecollection.org/works/uxgfjt62",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Science Museum Group - Joseph William Bazalgette",
+            "url": "https://collection.sciencemuseumgroup.org.uk/people/cp110961/joseph-william-bazalgette",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "London Museum - The Great Stink of 1858",
+            "url": "https://www.londonmuseum.org.uk/collections/london-stories/great-stink-of-1858/",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-222-victoria3-industrial-labor",
+          "tf26-253-civ-tech-tree-myth"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "spoilerLevel": "none",
+        "mediaConnection": "Anno 1800’ın üretim ve şehir büyütme döngüsü, 19. yüzyıl sanayi kentlerinde halk sağlığı altyapısının nasıl zorlandığını anlamak için güçlü bir başlangıç noktasıdır.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "sanayi-devrimi",
+          "sehir-planlama",
+          "halk-sagligi",
+          "anno-1800",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun kirlilik ve nüfusu yönetilebilir değerler halinde sunar; tarihsel gerçeklikte salgınlar, su kaynakları ve kanalizasyon yatırımları şehir siyasetinin merkezindeydi.",
+        "whyItMatters": "Şehirlerin büyümesi, yalnız ekonomik verimlilik değil, halk sağlığı ve altyapı kapasitesi sorunudur.",
+        "isFlagship": false,
+        "quickRealityCheck": "Bir sanayi şehrini güçlü yapan şey sadece fabrika sayısı mı, yoksa temiz su ve kanalizasyon gibi görünmeyen altyapılar mı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Wellcome Collection - John Snow cholera map/report",
+            "url": "https://wellcomecollection.org/works/uxgfjt62",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Science Museum Group - Joseph William Bazalgette",
+            "url": "https://collection.sciencemuseumgroup.org.uk/people/cp110961/joseph-william-bazalgette",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "London Museum - The Great Stink of 1858",
+            "url": "https://www.londonmuseum.org.uk/collections/london-stories/great-stink-of-1858/",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-262-stronghold-castle-economy",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Stronghold’daki kale kurma mekaniği savunma yapısı klişesinden çıkarılıp lordluk, ekonomi, depolama, adalet ve statü merkezi olarak kaleye bağlandı.",
+      "fields": {
+        "title": "Kale Ekonomisi",
+        "subtitle": "Kale sadece savaş makinesi değildi",
+        "mediaType": "game",
+        "mediaTitle": "Stronghold",
+        "era": "Orta Çağ",
+        "region": "Avrupa",
+        "themes": [
+          "Orta Çağ",
+          "Ekonomi",
+          "Mimari",
+          "Feodalizm"
+        ],
+        "whatWeSee": "Stronghold’da kale, duvar ve kulelerden ibaret değildir. Oyuncu odun, taş, tahıl, vergi, moral ve askerî savunmayı aynı anda yönetir. Bu yüzden oyun, çoğu fantastik Orta Çağ anlatısından daha doğru bir sezgi yakalar: kale ayakta kalacaksa çevresindeki ekonomi de işleyecektir.",
+        "realHistory": "Orta Çağ kalesi yalnız saldırıdan korunmak için yapılmış bir taş kutu değildi. Historic England’ın taş kaleler rehberi, kalelerin lordların konutu olduğu kadar politik güç, yerel idare, adalet ve statü merkezi olarak da işlediğini vurgular. Bir kaleye gelen çağdaş ziyaretçi yalnız sur görmezdi; ambarlar, mutfaklar, atölyeler, mahkeme alanları, şapel, hizmetliler ve çevredeki köylerden gelen ürün akışıyla karşılaşırdı.\n\nBu açıdan Stronghold’un gıda, üretim ve moral sistemleri tarihsel olarak anlamlıdır. Kale garnizonu sadece savaşta değil, barışta da tüketirdi. Tahılın toplanması, odunun kesilmesi, hayvanların beslenmesi, verginin alınması ve köylünün çalışabilir kalması askeri savunmanın ön koşuluydu. Güçlü bir lord, duvar yüksekliğiyle olduğu kadar depoları, gelirleri ve adalet dağıtma yetkisiyle de görünürdü.\n\nKalenin çevresindeki köyler, değirmenler ve pazar ilişkileri bu düzeni besliyordu. Kuşatma anında içeride ne kadar yiyecek kaldığı, dışarıda hangi tarlaların yakıldığı ve kimlerin çalışmaya devam edebildiği savaşın sonucunu etkileyebilirdi. Kale bu nedenle hem savunma mimarisi hem yerel yönetim makinesiydi. Oyunun sadeleştirdiği nokta, bu ilişkilerin uzun süreli hak, yükümlülük ve pazarlık ağlarıyla işlemesidir.",
+        "accuracyNote": "Stronghold ekonomi-savunma bağını iyi hissettirir; fakat gerçek kaleler tek bir komuta paneliyle değil, feodal yükümlülükler, yerel adalet ve köylü emeğiyle çalışıyordu.",
+        "whyInteresting": "Bir kalenin en güçlü tarafı bazen suru değil, çevresindeki tahıl ve vergi akışını kontrol etmesiydi.",
+        "misconception": "Kalelerin yalnız askerî savunma yapısı olduğu sanılır; çoğu aynı zamanda konut, yönetim, adalet ve ekonomi merkeziydi.",
+        "nextTopics": [
+          "Feodal Orduyu Beslemek",
+          "Kuşatma Mühendisliği",
+          "Manor Lords"
+        ],
+        "sources": [
+          {
+            "title": "Historic England - Stone Castles",
+            "url": "https://historicengland.org.uk/images-books/publications/iha-stone-castles/heag235-stone-castles/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "English Heritage - Medieval Castles",
+            "url": "https://www.english-heritage.org.uk/learn/histories/medieval-castles/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The National Archives - Medieval Castles",
+            "url": "https://www.nationalarchives.gov.uk/education/resources/medieval-castles/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-254-aoe-siege-engineering",
+          "tf26-257-bannerlord-feudal-army",
+          "tf26-259-manorlords-town-formation"
+        ],
+        "difficulty": "basic",
+        "readingTimeMinutes": 2,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "spoilerLevel": "none",
+        "mediaConnection": "Stronghold’un kale içi üretim ve savunma döngüsü, kalelerin askeri olduğu kadar ekonomik ve idari merkezler olduğunu gösteren tarihsel çerçeveyle örtüşür.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "orta-cag",
+          "kale",
+          "feodalizm",
+          "stronghold",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun kale ekonomisini okunabilir hale getirir; tarihsel gerçeklikte aynı sistem miras, vergi, mahkeme ve köylü yükümlülükleriyle daha karmaşık işlerdi.",
+        "whyItMatters": "Kale tarihini yalnız savaş olarak görmek, Orta Çağ iktidarının ekonomik ve idari yüzünü kaçırır.",
+        "isFlagship": false,
+        "quickRealityCheck": "Kale yalnız düşmanı dışarıda tutan bir duvar mıydı, yoksa çevresindeki köyleri ve kaynakları yöneten bir merkez mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Historic England - Stone Castles",
+            "url": "https://historicengland.org.uk/images-books/publications/iha-stone-castles/heag235-stone-castles/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "English Heritage - Medieval Castles",
+            "url": "https://www.english-heritage.org.uk/learn/histories/medieval-castles/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The National Archives - Medieval Castles",
+            "url": "https://www.nationalarchives.gov.uk/education/resources/medieval-castles/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-263-imitation-game-bletchley",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "The Imitation Game için Turing merkezli anlatı, Bletchley Park’ın kolektif istihbarat operasyonu, Polonyalı kriptologlar, kadın personel ve Turing’in savaş sonrası devlet şiddetiyle dengelendi.",
+      "fields": {
+        "title": "Bletchley Park ve Enigma",
+        "subtitle": "Tek dâhi değil, gizli bir kolektif operasyon",
+        "mediaType": "film",
+        "mediaTitle": "The Imitation Game",
+        "era": "II. Dünya Savaşı",
+        "region": "Birleşik Krallık / Avrupa",
+        "themes": [
+          "II. Dünya Savaşı",
+          "Bilim",
+          "Teknoloji",
+          "Kimlik"
+        ],
+        "whatWeSee": "The Imitation Game, Enigma’nın kırılmasını Alan Turing’in kişiliği, zekâsı ve yalnızlığı üzerinden anlatır. Film seyirciye güçlü bir dramatik merkez verir: topluma uymayan bir matematikçi, savaşın kaderini değiştirecek makineyi kurar. Bu odak etkileyicidir; fakat gerçek Bletchley Park, tek kişinin kapalı odada yaptığı mucizeden çok daha geniş bir istihbarat, matematik, mühendislik ve emek ağıydı.",
+        "realHistory": "### Enigma bir kişiyle kırılmadı\n\nBletchley Park, II. Dünya Savaşı boyunca Britanya’nın en gizli codebreaking merkezlerinden biriydi. Alman Enigma trafiğini okumak, tek bir şifreyi bir kez çözmek anlamına gelmiyordu; günlük değişen ayarlar, farklı askeri kollar, radyo dinleme ağları, dil uzmanları, matematikçiler, mühendisler ve operatörler arasında sürekli akan bir sistem gerekiyordu. Turing burada çok önemliydi, özellikle Bombe tasarımındaki rolüyle Enigma ayarlarını arama sürecini hızlandırdı. Ancak Bombe’nin çalışması, Turing’in fikrinden Bletchley organizasyonuna, mühendislik üretimine, operatörlerin gündelik emeğine ve yakalanan mesajlardaki insan hatalarını okumaya kadar uzanan bir zincirdi.\n\nFilm, dramatik sadelik için bu zinciri daraltır. İzleyici, çözümün neredeyse yalnız Turing’in zihninden çıktığını hissedebilir. Oysa İngilizlerin başarısı Polonyalı kriptologların savaş öncesi çalışmalarından da beslendi. Marian Rejewski, Jerzy Różycki ve Henryk Zygalski gibi Polonyalı matematikçilerin 1930’larda Enigma üzerine yaptığı çalışmalar, sonraki Bletchley çabasına kritik temel sağladı. Bu yüzden Enigma hikâyesi ulusal bir tek kahraman anlatısından çok, Avrupa çapında bir bilgi devri ve savaş zamanı işbirliği hikâyesidir.\n\n### Görünmeyen emek\n\nBletchley Park’ta yalnız matematikçiler yoktu. Daktilo kullananlar, mesaj ayıklayanlar, dil uzmanları, Wrens olarak bilinen kadın operatörler, arşivleyenler ve gece gündüz makine başında çalışan ekipler sistemin parçasıydı. Ultra istihbaratının değeri, tek bir mesajı okumaktan çok, çok sayıda parçayı güvenli biçimde anlamlı askeri bilgiye çevirebilmesindeydi. Kırılan bir mesajın askeri değere dönüşmesi için önce doğrulanması, sonra doğru birime iletilmesi ve Almanların şifrenin kırıldığını anlamayacağı biçimde kullanılması gerekiyordu.\n\nBu nedenle Bletchley başarısı, modern hesaplamanın doğuşuna da temas eder; ama bunu yalnız “bilgisayarın icadı” diye okumak eksik olur. Savaşta bilgi, hız ve gizlilik aynı anda yönetilmek zorundaydı. Makine, insan emeğini ortadan kaldırmadı; insan emeğinin çok daha hızlı, disiplinli ve gizli biçimde örgütlenmesini sağladı. The Imitation Game’in dramatik yalnızlığı, bu büyük kurum makinesini doğal olarak perde arkasında bırakır.\n\n### Turing’in trajedisi\n\nThe Imitation Game’in en güçlü taraflarından biri Turing’in savaş sonrası gördüğü devlet baskısını hatırlatmasıdır. Turing 1952’de eşcinselliği nedeniyle mahkûm edildi; savaş sırasında ülkesine katkısı onu bu ayrımcı sistemden korumadı. Daha sonra resmî özür ve af süreçleri geldi, fakat bunlar geriye dönük bir onarımdı. Bu çelişki True Frame açısından çok önemlidir: aynı devlet, savaşta Turing’in zekâsına ihtiyaç duydu; barışta kimliğini cezalandırdı.\n\nGerçek tarih, Turing’i yalnız dâhi olarak değil, kolektif emeğin içinde çalışan ve ayrımcı hukuk tarafından ezilen bir insan olarak görmeyi gerektirir. Böyle bakıldığında Enigma hikâyesi yalnız “şifre kırıldı ve savaş kısaldı” anlatısı değildir. Aynı zamanda kimin emeğinin görünür olduğu, kimin gizli kaldığı ve devletlerin kriz anında ihtiyaç duyduğu insanları barışta nasıl dışlayabildiği sorusudur.\n\nBu yüzden kartın odağı, filmin güçlü Turing portresini reddetmek değil, onu eksik kaldığı yerden tamamlamaktır: Bletchley Park bir laboratuvar dehası kadar, savaş zamanı bürokrasisi, kadın emeği, uluslararası bilgi paylaşımı ve gizlilik disipliniyle çalışan bir sistemdi.",
+        "accuracyNote": "Film Turing’in rolünü ve savaş sonrası gördüğü haksızlığı güçlü biçimde görünür kılar; ancak Bletchley Park’ın kolektif yapısını, Polonyalı ön çalışmaları ve çok sayıdaki kadın/personel emeğini dramatik amaçla daraltır.",
+        "whyInteresting": "Enigma hikâyesi aynı anda matematik, istihbarat, emek tarihi ve devletin kendi kahramanına uyguladığı ayrımcılık hikâyesidir.",
+        "misconception": "Enigma’nın yalnız Alan Turing tarafından tek başına kırıldığı sanılır; gerçekte Bletchley Park çok uluslu ön bilgiye ve büyük bir ekip çalışmasına dayanıyordu.",
+        "nextTopics": [
+          "Savaş Afişleri",
+          "Soğuk Savaş Casusluğu",
+          "Gözetim Devleti"
+        ],
+        "sources": [
+          {
+            "title": "Bletchley Park - Enigma",
+            "url": "https://www.bletchleypark.org.uk/our-story/enigma/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Imperial War Museums - How Alan Turing Cracked The Enigma Code",
+            "url": "https://www.iwm.org.uk/history/second-world-war/intelligence/how-alan-turing-cracked-the-enigma-code",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "JSTOR Daily - Cracking Enigma: The Polish Connection",
+            "url": "https://daily.jstor.org/polish-codebreakers/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "UK Government - Turing's Law pardons",
+            "url": "https://www.gov.uk/government/news/thousands-officially-pardoned-under-turings-law",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-213-papersplease-surveillance",
+          "tf26-245-codbo-mkultra",
+          "tf26-277-the-americans-illegals"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "spoilerLevel": "minor",
+        "mediaConnection": "The Imitation Game, Turing merkezli dramatik bir kapı açar; Bletchley Park kayıtları ve codebreaking tarihi aynı hikâyeyi daha kolektif ve kurumsal bir zemine yerleştirir.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "ikinci-dunya-savasi",
+          "enigma",
+          "alan-turing",
+          "bletchley-park",
+          "true-frame"
+        ],
+        "spoilerNote": "The Imitation Game’in ana tarihsel sonucuna dair bilgi içerir.",
+        "mediaChanged": "Film tek karakter merkezli gerilimi artırır; tarihsel gerçeklikte Enigma çözümü Polonyalı ön çalışmalar, Bletchley ekipleri, makineler ve gizli operasyon düzeniyle ilerledi.",
+        "whyItMatters": "Teknoloji tarihini yalnız dâhi anlatısıyla değil, görünmeyen emek ve ayrımcı kurumlar bağlamıyla okumayı sağlar.",
+        "isFlagship": true,
+        "quickRealityCheck": "Enigma’yı kıran şey yalnız Turing’in zekâsı mıydı, yoksa Polonyalı kriptologlardan makine operatörlerine uzanan bir ağ mı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Bletchley Park - Enigma",
+            "url": "https://www.bletchleypark.org.uk/our-story/enigma/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Imperial War Museums - How Alan Turing Cracked The Enigma Code",
+            "url": "https://www.iwm.org.uk/history/second-world-war/intelligence/how-alan-turing-cracked-the-enigma-code",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "JSTOR Daily - Cracking Enigma: The Polish Connection",
+            "url": "https://daily.jstor.org/polish-codebreakers/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "UK Government - Turing's Law pardons",
+            "url": "https://www.gov.uk/government/news/thousands-officially-pardoned-under-turings-law",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-264-allquiet-wwi-memory",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "All Quiet on the Western Front, Alman asker perspektifi, 1918 ateşkesi ve Remarque’ın anti-war hafızası üzerinden mevcut WWI kartlarına çakışmadan eklendi.",
+      "fields": {
+        "title": "Batı Cephesinde Sessizlik",
+        "subtitle": "Alman askerinin gözünden savaş hafızası",
+        "mediaType": "film",
+        "mediaTitle": "All Quiet on the Western Front (2022)",
+        "era": "I. Dünya Savaşı",
+        "region": "Almanya / Batı Cephesi",
+        "themes": [
+          "I. Dünya Savaşı",
+          "Cephe",
+          "Hafıza",
+          "Toplum"
+        ],
+        "whatWeSee": "All Quiet on the Western Front, savaşı kahramanlık yolculuğu gibi değil, genç bedenlerin sanayi ölçeğinde tüketildiği bir çöküş olarak gösterir. 2022 uyarlaması özellikle çamur, topçu ateşi, komuta körlüğü ve ateşkesin son saatlerindeki anlamsız ölüm duygusunu öne çıkarır. Seyirci savaşın sonunda zaferden çok boşalma ve yıkım hissiyle kalır.",
+        "realHistory": "Erich Maria Remarque’ın romanı, I. Dünya Savaşı’nı Alman cephesinden anlatan en güçlü savaş karşıtı metinlerden biri haline geldi. Hikâye kurmacadır; fakat kaynağını cephe deneyiminden, savaş sonrası travmadan ve genç kuşağın milliyetçi vaatlerle cepheye gönderilip hızla parçalanmasından alır. Bu bakış, Batı Cephesi’ni yalnız strateji haritası olarak değil, askerlerin psikolojik ve bedensel çözülüşü olarak okur.\n\n1918 ateşkesi de bu hafızanın merkezindedir. IWM’nin aktardığı gibi ateşkes 11 Kasım 1918’de kabul edildi ve çatışmalar saat 11.00’de durdu. Fakat savaş o ana kadar devam etti; cephedeki asker için barış, politikacıların imzasından önce değil, top seslerinin gerçekten kesildiği anda geldi. Film bu son saatleri dramatik biçimde yoğunlaştırır; tarihsel ayrıntılar bire bir aynı olmak zorunda değildir, ama verdiği duygu tarihsel olarak anlamlıdır.\n\nAll Quiet çizgisinin kalıcılığı, savaşı kahramanlık dilinden çıkarmasında yatar. Burada düşman askerinin de korktuğu, acıktığı, çamura saplandığı ve eve dönünce eski hayatına bağlanamayacağı görülür. Remarque’ın mirası da burada durur: savaşın nedenini açıklamaktan çok, savaşa gönderilen kuşağın nasıl boşaltıldığını anlatır. Bu yüzden film, Alman perspektifini yalnız tarihsel çeşitlilik için değil, savaş hafızasını daha dürüst okumak için önemser.",
+        "accuracyNote": "Film ve roman savaşın duygusal gerçeğini çok güçlü verir; bazı olaylar ve karakter çizgileri dramatik amaçla yoğunlaştırılır. Ateşkesin 11 Kasım 1918 saat 11.00’de yürürlüğe girmesi tarihsel zemindir.",
+        "whyInteresting": "Aynı savaş, zafer anıtlarında başka; cepheden dönen ya da dönemeyen gençlerin hafızasında bambaşka görünür.",
+        "misconception": "I. Dünya Savaşı anlatılarında Alman askeri çoğu zaman yalnız düşman taraf olarak görülür; Remarque çizgisi savaşın insanı nasıl tükettiğini Alman perspektifinden gösterir.",
+        "nextTopics": [
+          "Çanakkale",
+          "Arap İsyanı",
+          "Savaş Afişleri"
+        ],
+        "sources": [
+          {
+            "title": "Imperial War Museums - The Armistice and the end of the First World War",
+            "url": "https://www.iwm.org.uk/history/first-world-war/armistice",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "National WWI Museum and Memorial - Great War, Great Read",
+            "url": "https://www.theworldwar.org/news/great-war-great-read",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The Guardian Archive - All Quiet on the Western Front becomes instant bestseller",
+            "url": "https://www.theguardian.com/world/from-the-archive-blog/2019/mar/06/all-quiet-on-the-western-front-published-remarque-1929",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-240-bf1-gallipoli",
+          "tf26-241-bf1-arab-revolt-lawrence",
+          "tf26-282-war-propaganda-posters"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "spoilerLevel": "minor",
+        "mediaConnection": "All Quiet on the Western Front, I. Dünya Savaşı’nı Alman askerinin cephe yıkımı ve ateşkes hafızası üzerinden yorumlar.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "birinci-dunya-savasi",
+          "bati-cephesi",
+          "remarque",
+          "savas-hafizasi",
+          "true-frame"
+        ],
+        "spoilerNote": "Filmin savaş ve ateşkes sonucuna dair genel tarihsel bağlam içerir.",
+        "mediaChanged": "Film savaşın sonunu dramatik bir kişisel kader çizgisine bağlar; tarihsel bağlamda ateşkes, cephedeki askerler için politik imza ile fiziksel ölüm riski arasındaki son boşlukta yaşandı.",
+        "whyItMatters": "Savaş hafızasını yalnız kazanan-kaybeden çizgisiyle değil, cephedeki kuşağın yıkımıyla okumayı sağlar.",
+        "isFlagship": false,
+        "quickRealityCheck": "Ateşkes imzalandığında savaş gerçekten bitmiş miydi, yoksa askerler için saat 11.00’e kadar ölüm riski sürüyor muydu?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Imperial War Museums - The Armistice and the end of the First World War",
+            "url": "https://www.iwm.org.uk/history/first-world-war/armistice",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "National WWI Museum and Memorial - Great War, Great Read",
+            "url": "https://www.theworldwar.org/news/great-war-great-read",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The Guardian Archive - All Quiet on the Western Front becomes instant bestseller",
+            "url": "https://www.theguardian.com/world/from-the-archive-blog/2019/mar/06/all-quiet-on-the-western-front-published-remarque-1929",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-265-master-commander-royal-navy",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Master and Commander için Napolyon dönemi Royal Navy hayatı romantik deniz macerasından çıkarılıp disiplin, hiyerarşi, impressment ve gemi ekonomisiyle yazıldı.",
+      "fields": {
+        "title": "Yelkenli Çağında Donanma Hayatı",
+        "subtitle": "Royal Navy romantik macera mı, yüzen kurum mu?",
+        "mediaType": "film",
+        "mediaTitle": "Master and Commander: The Far Side of the World",
+        "era": "Napolyon Savaşları",
+        "region": "Britanya / Atlantik / Denizler",
+        "themes": [
+          "Denizcilik",
+          "Savaş",
+          "İmparatorluk",
+          "Sınıf"
+        ],
+        "whatWeSee": "Master and Commander, Napolyon Savaşları döneminde bir savaş gemisini hem macera sahnesi hem kapalı toplum gibi gösterir. Kaptan, subaylar, cerrah, denizciler, çocuk midshipman’ler ve topçu ekipleri aynı dar gövdede yaşar. Film deniz savaşını romantikleştirir ama geminin aslında yüzen bir kurum olduğunu da hissettirir.",
+        "realHistory": "18. yüzyıl sonu ve 19. yüzyıl başı Royal Navy’si, Britanya’nın küresel savaş gücünün temel araçlarından biriydi. Royal Museums Greenwich’in Nelson, Navy, Nation anlatısı, 1688’den 1815’e uzanan dönemde donanma hayatını, tersaneleri, deniz savaşlarını ve imparatorluk gücünü birlikte ele alır. Bir savaş gemisi yalnız top taşıyan ahşap bir araç değildi; hiyerarşi, disiplin, eğitim, yiyecek, hastalık, ceza ve beceri zinciriyle çalışan bir mikro toplumdu.\n\nGemide hayat romantik olmaktan çok sertti. Denizde aylar geçirmek, dar alan, tuzlu erzak, hastalık riski ve tehlikeli iş disiplini anlamına geliyordu. Mürettebatın bir kısmı gönüllüydü, bir kısmı ise impressment yani press gang sistemiyle zorla donanmaya alınabiliyordu. Bu durum, Britanya deniz gücünün arkasında yalnız vatanseverlik değil, devlet zorlaması ve emek ihtiyacı olduğunu gösterir.\n\nMaster and Commander’ın iyi yaptığı şey, deniz savaşını tek kaptan dehasından çok ekip ritmi, gemi düzeni ve teknik beceriyle ilişkilendirmesidir. Topları ateşlemek, yelkeni çevirmek, yaralıyı tedavi etmek ve fırtınada gemiyi ayakta tutmak ayrı ayrı uzmanlık gerektirirdi. Tarihsel gerçeklikte bu düzen, imparatorluk ticareti ve savaş ekonomisiyle doğrudan bağlıydı. Bir geminin gücü, yalnız bordasındaki toplardan değil, içindeki disiplinli ama çoğu zaman zorlanmış emekten geliyordu.",
+        "accuracyNote": "Film gemi içi hiyerarşi ve denizcilik becerisini güçlü verir; ancak Royal Navy’nin insan gücü, impressment ve imparatorluk bağlamı ekranda doğal olarak sınırlı kalır.",
+        "whyInteresting": "Bir savaş gemisi, aynı anda silah platformu, işyeri, okul, hapishane ve imparatorluk aracıdır.",
+        "misconception": "Yelkenli savaş gemileri çoğu zaman romantik macera mekânı sanılır; gerçekte disiplinli, sınıflı ve çoğu zaman zorlayıcı çalışma düzenleriydi.",
+        "nextTopics": [
+          "Privateer Sistemi",
+          "Korsanlar Cumhuriyeti",
+          "Royal Navy"
+        ],
+        "sources": [
+          {
+            "title": "Royal Museums Greenwich - Nelson, Navy, Nation gallery",
+            "url": "https://www.rmg.co.uk/national-maritime-museum/attractions/nelson-navy-nation-gallery",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Royal Museums Greenwich - Press gangs and impressment",
+            "url": "https://www.rmg.co.uk/collections/research-guides/research-guide-m2-press-gangs-impressment",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Google Books - Nelson's Navy: The Ships, Men and Organisation, 1793–1815",
+            "url": "https://books.google.com/books/about/Nelson_s_Navy.html?id=TBJvQgAACAAJ",
+            "type": "book",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-202-ac4-privateering",
+          "tf26-201-ac4-republic-of-pirates"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "spoilerLevel": "minor",
+        "mediaConnection": "Master and Commander’ın gemi içi düzeni, Napolyon dönemi Royal Navy’sinin disiplin, iş bölümü ve deniz gücü tarihine bağlanır.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "denizcilik",
+          "royal-navy",
+          "napolyon-savaslari",
+          "master-and-commander",
+          "true-frame"
+        ],
+        "spoilerNote": "Film dünyasına dair genel tarihsel bağlam içerir; büyük olay çözümü anlatmaz.",
+        "mediaChanged": "Film deniz hayatını karakter ve savaş gerilimiyle taşır; tarihsel bağlamda gemi aynı zamanda zorunlu emek, disiplin ve imparatorluk lojistiği alanıydı.",
+        "whyItMatters": "Deniz savaşını anlamak, imparatorlukların yalnız haritada değil gemi içindeki emek ve disiplinle kurulduğunu gösterir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Royal Navy gemisindeki güç yalnız kaptanın karizmasından mı, yoksa disiplin, emek ve devlet zorlamasından mi geliyordu?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Royal Museums Greenwich - Nelson, Navy, Nation gallery",
+            "url": "https://www.rmg.co.uk/national-maritime-museum/attractions/nelson-navy-nation-gallery",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Royal Museums Greenwich - Press gangs and impressment",
+            "url": "https://www.rmg.co.uk/collections/research-guides/research-guide-m2-press-gangs-impressment",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Google Books - Nelson's Navy: The Ships, Men and Organisation, 1793–1815",
+            "url": "https://books.google.com/books/about/Nelson_s_Navy.html?id=TBJvQgAACAAJ",
+            "type": "book",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

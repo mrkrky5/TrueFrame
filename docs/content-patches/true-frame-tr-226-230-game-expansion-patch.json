@@ -1,0 +1,551 @@
+{
+  "patchId": "true-frame-tr-226-230-game-expansion-patch",
+  "locale": "tr",
+  "sourceChunks": [],
+  "contentRange": [
+    226,
+    230
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-new-card-generation",
+  "summary": {
+    "cardCount": 5,
+    "newCards": [
+      "tf26-226-fallout-vault-experiments",
+      "tf26-227-cyberpunk-surveillance-capitalism",
+      "tf26-228-cyberpunk-corporate-sovereignty",
+      "tf26-229-deathstranding-logistics",
+      "tf26-230-mgs-nuclear-deterrence"
+    ],
+    "flagshipNewCards": [
+      "tf26-230-mgs-nuclear-deterrence"
+    ],
+    "standardNewCards": [
+      "tf26-226-fallout-vault-experiments",
+      "tf26-227-cyberpunk-surveillance-capitalism",
+      "tf26-228-cyberpunk-corporate-sovereignty",
+      "tf26-229-deathstranding-logistics"
+    ],
+    "mediaFocus": [
+      "Fallout",
+      "Cyberpunk 2077",
+      "Death Stranding",
+      "Metal Gear Solid"
+    ],
+    "sourceUpdates": [
+      "tf26-226-fallout-vault-experiments",
+      "tf26-227-cyberpunk-surveillance-capitalism",
+      "tf26-228-cyberpunk-corporate-sovereignty",
+      "tf26-229-deathstranding-logistics",
+      "tf26-230-mgs-nuclear-deterrence"
+    ],
+    "notes": [
+      "Bu batch Cursor konu havuzundaki Fallout research ethics, Cyberpunk 2077 teknoloji/şirket gücü, Death Stranding lojistik ve Metal Gear Solid nükleer caydırıcılık konularını kapsar.",
+      "Metal Gear Solid nükleer caydırıcılık kartı flagship olarak 400+ kelime ve ### başlıklarla yazıldı.",
+      "Hassas araştırma etiği ve gözetim konularında iddialar resmi/kurumsal kaynaklarla sınırlandırıldı."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-226-fallout-vault-experiments",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Fallout Vault-Tec deneyleri, gerçek araştırma etiği ihlalleri ve informed consent tarihine bağlandı; Tuskegee, insan radyasyon deneyleri ve Belmont Report kaynaklarıyla desteklendi.",
+      "fields": {
+        "title": "Vault Deneyleri",
+        "subtitle": "Fallout’un karanlık şakası ve araştırma etiği",
+        "mediaType": "game",
+        "mediaTitle": "Fallout",
+        "era": "Modern Tarih",
+        "region": "ABD",
+        "themes": [
+          "Soğuk Savaş",
+          "Etik",
+          "Bilim",
+          "Sağlık"
+        ],
+        "whatWeSee": "Fallout evreninde Vault-Tec sığınakları yalnız hayatta kalma alanı değildir; çoğu zaman insanların haberi olmadan yürütülen sosyal, psikolojik ya da biyolojik deneylere dönüşür. Oyuncu için bu, kara mizah ve korku öğesidir: güvenlik vaadiyle girilen yer, aslında kapalı bir laboratuvardır. Kurgu abartılıdır; fakat arkasındaki gerçek soru ciddidir. Devlet, bilim ve şirket gücü birleştiğinde insan rızası nerede başlar, nerede biter?",
+        "realHistory": "Fallout’taki Vault deneyleri bire bir gerçek olay değildir; ancak 20. yüzyıl araştırma etiği tarihindeki karanlık örneklerle açıkça konuşur. ABD’de Tuskegee çalışması, 1932–1972 arasında Siyah erkeklerde tedavi edilmeyen frenginin seyrini izledi; katılımcılara çalışma ve tedavi hakkında dürüst bilgi verilmedi. CDC, bu olayın araştırma etiği ve toplum güveni üzerinde kalıcı etkiler bıraktığını açıklar.\n\nSoğuk Savaş döneminde insan üzerinde radyasyon araştırmaları da ayrıca tartışmalı bir başlıktı. ABD Enerji Bakanlığı’nın Advisory Committee on Human Radiation Experiments arşivi, özellikle 1940’lar ve 1950’lerde yürütülen deneylerin etik standartlar, rıza ve devlet sorumluluğu açısından sonradan incelendiğini gösterir. Bu dosyalar, bilimsel merakın ulusal güvenlik diliyle birleştiğinde insan bedenini nasıl “veri kaynağına” çevirebildiğini hatırlatır.\n\nBu tarih, Nuremberg Code, Belmont Report ve modern informed consent ilkelerinin neden önemli olduğunu açıklar. Fallout, Vault-Tec’i grotesk bir şirket karikatürü gibi gösterir; ama sorduğu soru gerçektir: Bilimsel deney, katılımcıların özgür ve bilgilendirilmiş rızası olmadan ilerlerse araştırma değil istismara dönüşür.",
+        "accuracyNote": "Fallout’taki Vault deneyleri kurgu ve hicivdir. Ancak Tuskegee çalışması, insan radyasyon deneyleri ve Belmont Report gibi gerçek etik dönemeçler, oyunun karanlık araştırma eleştirisiyle doğrudan ilişkilendirilebilir.",
+        "whyInteresting": "Bir sığınağın güvenlik vaadinden deney alanına dönüşmesi, modern bilim tarihinde rıza ve güç ilişkisini tartışmak için güçlü bir medya kapısı açar.",
+        "misconception": "İnsan üzerindeki etik dışı araştırmaların yalnız savaş dönemi aşırılıkları olduğu sanılır; 20. yüzyılın barış zamanı kurumlarında da ağır ihlaller yaşandı.",
+        "nextTopics": [
+          "Soğuk Savaş Sivil Savunması",
+          "Atom Çağı İyimserliği",
+          "Gözetim Kapitalizmi"
+        ],
+        "sources": [
+          {
+            "title": "CDC - Effects on Research: The U.S. Public Health Service Untreated Syphilis Study at Tuskegee",
+            "url": "https://www.cdc.gov/tuskegee/about/effects-research.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "U.S. Department of Energy - Advisory Committee on Human Radiation Experiments Final Report",
+            "url": "https://ehss.energy.gov/ohre/roadmap/achre/report.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "HHS - The Belmont Report",
+            "url": "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-224-fallout-civil-defense",
+          "tf26-225-fallout-atomic-optimism",
+          "tf26-227-cyberpunk-surveillance-capitalism"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 2,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "spoilerLevel": "minor",
+        "mediaConnection": "Fallout’un Vault-Tec deneyleri, gerçek araştırma etiği krizleriyle birlikte okunduğunda kara mizahın arkasındaki tarihsel uyarı daha netleşir.",
+        "accuracyType": "inspired-by-reality",
+        "isPremium": false,
+        "tags": [
+          "fallout",
+          "soguk-savas",
+          "etik",
+          "bilim",
+          "true-frame"
+        ],
+        "spoilerNote": "Fallout evrenindeki Vault deneylerinin genel mantığına dair ipucu içerir; belirli oyun sonlarını anlatmaz.",
+        "mediaChanged": "Oyun gizli deneyleri grotesk ve kara mizahi biçimde büyütür; tarihsel bağlam ise rıza, ırk, devlet sırrı ve bilimsel sorumluluk üzerinden daha somut bir etik dosya açar.",
+        "whyItMatters": "Araştırma etiği, yalnız bilim insanlarının iç meselesi değil; güven, rıza ve devlet-şirket gücünün sınırlarıyla ilgili kamusal bir meseledir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Fallout’un Vault deneyleri tamamen absürt mü, yoksa gerçek araştırma etiği ihlallerinin büyütülmüş bir aynası mı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "CDC - Effects on Research: The U.S. Public Health Service Untreated Syphilis Study at Tuskegee",
+            "url": "https://www.cdc.gov/tuskegee/about/effects-research.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "U.S. Department of Energy - Advisory Committee on Human Radiation Experiments Final Report",
+            "url": "https://ehss.energy.gov/ohre/roadmap/achre/report.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "HHS - The Belmont Report",
+            "url": "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-227-cyberpunk-surveillance-capitalism",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Cyberpunk 2077’nin veri ve reklam distopyası, FTC commercial surveillance tanımı ve EDPB hedefli reklam/veri koruma çerçevesiyle gerçek dünyaya bağlandı.",
+      "fields": {
+        "title": "Gözetim Kapitalizmi",
+        "subtitle": "Night City’nin veri ekonomisi ne kadar uzak?",
+        "mediaType": "game",
+        "mediaTitle": "Cyberpunk 2077",
+        "era": "Yakın Gelecek",
+        "region": "Küresel",
+        "themes": [
+          "Teknoloji",
+          "Ekonomi",
+          "Gözetim",
+          "Etik"
+        ],
+        "whatWeSee": "Cyberpunk 2077’de Night City, reklam panoları, implantlar, ağlar ve şirket kontrolüyle yaşayan bir veri cehennemi gibidir. İnsan bedeni, alışkanlıkları ve arzuları piyasa için okunabilir hale gelir. Oyunun dünyası aşırılaştırılmıştır; fakat gerçek hayattaki veri ekonomisiyle aynı soruya yaklaşır: Kullanıcı davranışı yalnız hizmeti iyileştirmek için mi izlenir, yoksa tahmin edilip yönlendirilecek bir pazara mı dönüştürülür?",
+        "realHistory": "Gözetim kapitalizmi kavramı, dijital ekonomide kişisel verinin yalnız kayıt değil, davranış tahmini ve kâr üretimi için kullanılması fikrine dayanır. Cyberpunk 2077 bunu neon, megacorp ve beden modifikasyonu üzerinden büyütür; gerçek dünyada ise model daha gündeliktir. Arama, konum, tıklama, izleme pikseli, sosyal medya hedefleme araçları ve gerçek zamanlı reklam açık artırmaları, insanların dijital izlerini ticari değere çevirir.\n\nFTC, “commercial surveillance” ifadesini insanların bilgilerini toplama, analiz etme ve bundan kâr elde etme işi olarak tanımlar; bu uygulamaların veri ihlali, manipülasyon ve aldatma risklerini büyüttüğünü vurgular. Avrupa Veri Koruma Kurulu da sosyal medya kullanıcılarının hedeflenmesi konusunda kişisel verinin işlenmesi, meşru menfaat iddiası, rıza ve temel haklar dengesine özel dikkat çeker.\n\nNight City’deki fark, bu sürecin çıplak ve saldırgan görünmesidir. Gerçek dünyada aynı yapı çoğu zaman kullanım şartları, reklam panelleri ve “kişiselleştirme” dili altında çalışır. Bu yüzden Cyberpunk’ın distopyası uzak bir gelecek kehaneti değil; bugün zaten var olan veri çıkarımı modelinin daha açık, daha sert ve daha bedensel bir versiyonudur.",
+        "accuracyNote": "Cyberpunk 2077 kurgu bir şehir ve kurgu şirketler anlatır. Ancak veri toplama, hedefli reklam, davranışsal izleme ve ticari gözetim tartışmaları gerçek dijital ekonomi ve veri koruma hukukuyla güçlü biçimde ilişkilidir.",
+        "whyInteresting": "Oyunun neon distopyası, gündelik uygulama izinlerinin ve reklam teknolojisinin normalleştirdiği güç ilişkisini görünür hale getirir.",
+        "misconception": "Veri toplamanın yalnız teknik hizmet kalitesi için yapıldığı sanılır; gerçekte davranış tahmini ve reklam hedefleme ekonomisi çoğu platformun merkezindedir.",
+        "nextTopics": [
+          "Şirket Egemenliği",
+          "Vault Deneyleri",
+          "Özel Askeri Şirketler"
+        ],
+        "sources": [
+          {
+            "title": "FTC - Commercial Surveillance and Data Security Rulemaking",
+            "url": "https://www.ftc.gov/news-events/news/press-releases/2022/08/ftc-explores-rules-cracking-down-commercial-surveillance-lax-data-security-practices",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "European Data Protection Board - Guidelines 8/2020 on the targeting of social media users",
+            "url": "https://www.edpb.europa.eu/system/files/2021-04/edpb_guidelines_082020_on_the_targeting_of_social_media_users_en.pdf",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "European Data Protection Board - Right to privacy in a digital world",
+            "url": "https://www.edpb.europa.eu/home_en",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-228-cyberpunk-corporate-sovereignty",
+          "tf26-226-fallout-vault-experiments"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 2,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "spoilerLevel": "none",
+        "mediaConnection": "Cyberpunk 2077’nin megacorp ve reklam dünyası, gerçek ticari gözetim ve hedefli reklam tartışmalarıyla okunabilir.",
+        "accuracyType": "inspired-by-reality",
+        "isPremium": false,
+        "tags": [
+          "cyberpunk-2077",
+          "teknoloji",
+          "gozetim",
+          "veri-ekonomisi",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun gözetimi görünür ve saldırgan bir kent estetiğine çevirir; gerçek dünyada aynı mantık çoğu zaman kişiselleştirme, reklam ve platform ekonomisi diliyle daha sessiz işler.",
+        "whyItMatters": "Dijital çağda mahremiyet yalnız kişisel sır meselesi değil; ekonomik güç, davranış yönlendirme ve demokratik denetim meselesidir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Night City’nin veri pazarı tamamen kurgu mu, yoksa bugünkü ticari gözetim modelinin büyütülmüş hali mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "FTC - Commercial Surveillance and Data Security Rulemaking",
+            "url": "https://www.ftc.gov/news-events/news/press-releases/2022/08/ftc-explores-rules-cracking-down-commercial-surveillance-lax-data-security-practices",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "European Data Protection Board - Guidelines 8/2020 on the targeting of social media users",
+            "url": "https://www.edpb.europa.eu/system/files/2021-04/edpb_guidelines_082020_on_the_targeting_of_social_media_users_en.pdf",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "European Data Protection Board - Right to privacy in a digital world",
+            "url": "https://www.edpb.europa.eu/home_en",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-228-cyberpunk-corporate-sovereignty",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Cyberpunk megacorp fikri, East India Company gibi devlet benzeri yetkiler kullanan şirket örnekleriyle tarihsel zemine oturtuldu.",
+      "fields": {
+        "title": "Şirket Egemenliği",
+        "subtitle": "Şirketler devlet gibi davranınca",
+        "mediaType": "game",
+        "mediaTitle": "Cyberpunk 2077",
+        "era": "Modern Tarih",
+        "region": "Küresel",
+        "themes": [
+          "Şirketler",
+          "Siyaset",
+          "Ekonomi",
+          "İmparatorluk"
+        ],
+        "whatWeSee": "Cyberpunk 2077’de megacorp’lar yalnız ürün satan kurumlar değildir; güvenlik gücü, medya ağı, klinik, mahalle düzeni ve siyasi etki alanı kurarlar. Devlet vardır ama çoğu zaman şirketlerle aynı masadadır. Bu, oyunun en güçlü distopya damarlarından biridir: vatandaş, müşteri ve çalışan arasındaki sınır silinir. Gerçek tarihte de bazı şirketler belli dönemlerde sıradan ticari aktörden çok daha fazlası oldu.",
+        "realHistory": "Şirket egemenliği fikrini anlamak için en çarpıcı örneklerden biri East India Company’dir. Şirket 1600’de ticaret amacıyla kuruldu; zaman içinde imtiyaz, tekel, diplomasi ve askerî güçle büyük bir siyasal aktöre dönüştü. National Army Museum, East India Company’nin Hindistan altkıtasının geniş bölgelerini yönetir hale geldiğini ve bunu güçlü özel ordusu aracılığıyla yaptığını belirtir.\n\nBu model, Cyberpunk 2077’deki megacorp düzenine bire bir denk değildir; fakat benzer bir mantığı gösterir. Şirket yalnız pazara girmez, pazarın kurallarını da belirlemeye başlar. Ticaret imtiyazı, liman, özel güvenlik, yerel yönetimle anlaşma ve askerî kapasite birleştiğinde ekonomik güç siyasi egemenlik alanına taşar. Royal Museums Greenwich’in East India Company galerisi de şirketin yükselişi ve Asya’daki kalıcı etkilerini bu geniş tarihsel çerçevede ele alır.\n\nNight City’nin şirketleri kurgudur; ama “şirket devlet gibi davranırsa ne olur?” sorusu gerçek tarih kadar güncel bir sorudur. Charter şirketleri, şirket kasabaları ve modern veri platformları farklı dönemlere aittir; ortak nokta, demokratik denetime tabi olmayan özel gücün kamusal hayatı şekillendirme kapasitesidir.",
+        "accuracyNote": "Cyberpunk 2077’deki megacorp yapısı kurgu ve abartıdır. Ancak East India Company gibi tarihsel örnekler, şirketlerin belirli koşullarda ticaretin ötesine geçip askerî ve siyasal güç kullanabildiğini gösterir.",
+        "whyInteresting": "Night City’nin en uç distopyası, modern öncesi charter şirketlerinin ve modern özel güç tartışmalarının tarihsel yankısıyla daha gerçekçi görünür.",
+        "misconception": "Şirketlerin her zaman yalnız ekonomik aktör olduğu sanılır; bazı tarihsel şirketler ticaret, hukuk, askerî güç ve yönetim arasında devlet benzeri alanlar kurdu.",
+        "nextTopics": [
+          "Gözetim Kapitalizmi",
+          "Merkantilizm ve Sömürge Ticareti",
+          "Özel Askeri Şirketler"
+        ],
+        "sources": [
+          {
+            "title": "National Army Museum - Armies of the East India Company",
+            "url": "https://www.nam.ac.uk/explore/armies-east-india-company",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Royal Museums Greenwich - Traders: the East India Company and Asia",
+            "url": "https://www.rmg.co.uk/national-maritime-museum/attractions/traders-east-india-company-asia",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The National Archives - Material relating to charters of the East India Company",
+            "url": "https://discovery.nationalarchives.gov.uk/details/r/37812d09-adfd-4458-89a5-acb52d84cf24",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-227-cyberpunk-surveillance-capitalism",
+          "tf26-221-eu4-mercantilism-colonialism"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "spoilerLevel": "none",
+        "mediaConnection": "Cyberpunk 2077’nin megacorp dünyası, East India Company gibi tarihsel şirket egemenliği örnekleriyle birlikte daha güçlü okunur.",
+        "accuracyType": "inspired-by-reality",
+        "isPremium": false,
+        "tags": [
+          "cyberpunk-2077",
+          "sirketler",
+          "ekonomi",
+          "siyaset",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun şirket gücünü neon distopyasına taşır; tarihsel örnekler, özel şirketlerin belirli dönemlerde ticaretin ötesine geçip yönetim ve zor kullanma kapasitesi edinebildiğini gösterir.",
+        "whyItMatters": "Şirket gücü kamusal kararları belirlemeye başladığında ekonomi tartışması doğrudan demokrasi, hukuk ve hesap verebilirlik tartışmasına dönüşür.",
+        "isFlagship": false,
+        "quickRealityCheck": "Megacorp fikri sadece siberpunk abartısı mı, yoksa East India Company gibi tarihsel örneklerin geleceğe taşınmış hali mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "National Army Museum - Armies of the East India Company",
+            "url": "https://www.nam.ac.uk/explore/armies-east-india-company",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Royal Museums Greenwich - Traders: the East India Company and Asia",
+            "url": "https://www.rmg.co.uk/national-maritime-museum/attractions/traders-east-india-company-asia",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The National Archives - Material relating to charters of the East India Company",
+            "url": "https://discovery.nationalarchives.gov.uk/details/r/37812d09-adfd-4458-89a5-acb52d84cf24",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-229-deathstranding-logistics",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Death Stranding’in taşıyıcı/teslimat mekaniği, Qhapaq Ñan ve modern posta/railway mail sistemleri üzerinden gerçek altyapı tarihine bağlandı.",
+      "fields": {
+        "title": "Lojistik Medeniyeti Kurar",
+        "subtitle": "Death Stranding’in taşıyıcı kahramanlığı",
+        "mediaType": "game",
+        "mediaTitle": "Death Stranding",
+        "era": "Genel Tarih",
+        "region": "Küresel",
+        "themes": [
+          "Lojistik",
+          "Devlet",
+          "İletişim",
+          "Altyapı"
+        ],
+        "whatWeSee": "Death Stranding, teslimatı oyun dünyasının merkezine koyar. Yollar yapmak, paket taşımak, köprü kurmak ve izole insanları ağa bağlamak sıradan yan görev değil, medeniyetin yeniden kurulma biçimidir. Oyun bunu bilimkurgu ve yalnızlık diliyle anlatır; fakat temel fikir çok gerçektir. Devletler ve toplumlar yalnız ordularla değil, yollar, posta hatları, taşıyıcılar ve güvenilir teslimat ritimleriyle ayakta kalır.",
+        "realHistory": "Tarih boyunca lojistik, çoğu zaman kahramanlık anlatılarının arkasında kalır. Oysa bilgi, vergi, askerî emir, ticari mal ve kişisel mektup taşınmadan büyük ölçekli toplumlar sürdürülemez. UNESCO’nun Qhapaq Ñan tanımı, And Dağları boyunca uzanan İnka yol sistemini iletişim, ticaret ve savunma ağı olarak açıklar. Yaklaşık 30.000 kilometrelik bu ağ, dağ, çöl, vadi ve kıyı arasında siyasi birlik kurmanın altyapısıydı.\n\nModern dünyada posta sistemleri de benzer bir işlev gördü. Smithsonian National Postal Museum, posta tarihini yalnız mektup romantizmi değil, ulaşım, kimlik ve kamusal hizmet tarihi olarak ele alır. Railway Mail Service örneğinde trenler yalnız mektup taşımadı; posta hareket halindeyken ayrıştırılarak zaman ve mesafe yeniden düzenlendi.\n\nDeath Stranding bu gerçekliği duygusal hale getirir. Oyunda paket taşımak, kopmuş bir dünyada güven üretmektir. Tarihte de lojistik böyle çalıştı: yol, istasyon, kurye, tren, posta çantası ve kayıt sistemi olmadan devletin “varlığı” uzak bölgelere ulaşamazdı. Bu yüzden teslimat, küçük görünen ama uygarlık kuran bir iştir.",
+        "accuracyNote": "Death Stranding kurgu bir felaket sonrası dünya anlatır. Ancak yol ağları, posta sistemleri ve taşıyıcı altyapılarının devlet kurma ve toplumsal bağlantıdaki rolü tarihsel olarak güçlü biçimde belgelenmiştir.",
+        "whyInteresting": "Bir oyunun en sıradan görünen eylemi olan paket taşımak, tarihte devletlerin ve toplumların gerçekten nasıl birbirine bağlandığını anlatmak için şaşırtıcı derecede güçlüdür.",
+        "misconception": "Lojistik yalnız destek işi sanılır; gerçekte iletişim, ticaret, vergi ve kriz yönetiminin temel altyapısıdır.",
+        "nextTopics": [
+          "Şirket Egemenliği",
+          "Savaş Ekonomisi",
+          "Sınır Bürokrasisi"
+        ],
+        "sources": [
+          {
+            "title": "UNESCO World Heritage Centre - Qhapaq Ñan, Andean Road System",
+            "url": "https://whc.unesco.org/en/list/1459/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Smithsonian National Postal Museum - Railway Mail Service",
+            "url": "https://postalmuseum.si.edu/topics/railway-mail-service",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Smithsonian National Postal Museum - The Postal Service Begins",
+            "url": "https://postalmuseum.si.edu/the-postal-service-begins",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-223-hoi4-war-economy",
+          "tf26-212-papersplease-border-regime"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 2,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "spoilerLevel": "none",
+        "mediaConnection": "Death Stranding’in teslimat ve bağlantı mekaniği, Qhapaq Ñan gibi yol sistemleri ve modern posta ağlarıyla tarihsel zemine bağlanır.",
+        "accuracyType": "inspired-by-reality",
+        "isPremium": false,
+        "tags": [
+          "death-stranding",
+          "lojistik",
+          "altyapi",
+          "posta",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun teslimatı şiirsel ve bilimkurgusal bir yalnızlık deneyimine çevirir; tarihsel kaynaklar aynı mantığın yol, posta ve kurye sistemleriyle devlet kurma pratiğine dönüştüğünü gösterir.",
+        "whyItMatters": "Kriz anlarında toplumların dayanıklılığı çoğu zaman kahramanlıktan önce, malzeme ve bilginin doğru yere ulaşıp ulaşmamasına bağlıdır.",
+        "isFlagship": false,
+        "quickRealityCheck": "Death Stranding’deki teslimat işi sadece oyun mekaniği mi, yoksa medeniyetin görünmeyen altyapısını mı gösteriyor?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "UNESCO World Heritage Centre - Qhapaq Ñan, Andean Road System",
+            "url": "https://whc.unesco.org/en/list/1459/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Smithsonian National Postal Museum - Railway Mail Service",
+            "url": "https://postalmuseum.si.edu/topics/railway-mail-service",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Smithsonian National Postal Museum - The Postal Service Begins",
+            "url": "https://postalmuseum.si.edu/the-postal-service-begins",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-230-mgs-nuclear-deterrence",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "Metal Gear Solid için nükleer caydırıcılık konusu 400+ kelimelik başlıklı flagship karta dönüştürüldü; MAD mantığı, psikolojik caydırıcılık ve Able Archer 83 yanlış alarm riskiyle dengelendi.",
+      "fields": {
+        "title": "Karşılıklı Yok Oluş",
+        "subtitle": "Metal Gear ve nükleer caydırıcılık mantığı",
+        "mediaType": "game",
+        "mediaTitle": "Metal Gear Solid",
+        "era": "Soğuk Savaş",
+        "region": "Küresel",
+        "themes": [
+          "Soğuk Savaş",
+          "Nükleer Silahlar",
+          "Askeri Tarih",
+          "Siyaset"
+        ],
+        "whatWeSee": "Metal Gear Solid, nükleer silahları sadece arka plan tehdidi olarak kullanmaz; onları gizli üslerin, özel orduların, istihbarat oyunlarının ve dünya düzeninin merkezine yerleştirir. Devasa savaş makineleri abartılı görünür, ama serinin ana korkusu gerçektir: Nükleer silah bir kez üretildiğinde yalnız savaş aracı değil, sürekli çalışan bir siyasi baskı sistemine dönüşür.",
+        "realHistory": "### Caydırıcılığın mantığı\n\nMetal Gear Solid serisi nükleer silahı yalnız büyük patlama tehdidi olarak değil, siyasetin, casusluğun ve askerî teknolojinin merkezindeki bir korku sistemi olarak kullanır. Oyunda gizli üsler, yürüyen nükleer platformlar ve kontrol dışına çıkabilecek savaş makineleri vardır. Bu estetik abartılıdır; fakat Soğuk Savaş’ın gerçek mantığına temas eder. Nükleer caydırıcılık, silahı kullanmadan etkili kılma fikrine dayanır. Karşı taraf, saldırırsa kabul edilemez bir karşılık alacağını bildiği için saldırmaktan vazgeçer.\n\nMutual assured destruction, yani karşılıklı yok oluş fikri, bu mantığın en uç halidir. NTI’nin özetlediği gibi nükleer silahların ortaya çıkışı, savaşın ilk anında bile azami yıkım yaratabilme kapasitesi doğurdu. Caydırıcılık bu yüzden yalnız teknik değil psikolojik bir düzendi: liderlerin, komuta zincirlerinin ve istihbaratın karşı tarafın niyetini doğru okuması gerekiyordu.\n\n### Kırılgan denge\n\nBu sistem dışarıdan soğuk ve rasyonel görünebilir; gerçekte çok kırılgandı. Radar hatası, yanlış tatbikat yorumu, eksik istihbarat ya da siyasi paranoya, felakete giden zinciri başlatabilirdi. 1983 Able Archer tatbikatı bu yüzden önemlidir. National Security Archive, Able Archer 83 Sourcebook’u 1983 savaş korkusuna dair binden fazla sayfalık gizliliği kaldırılmış belge koleksiyonu olarak tanımlar. Daha sonra yayımlanan belgeler, Sovyet tarafında ABD/NATO’nun ilk saldırı hazırlığı yaptığına dair ciddi korkular oluştuğunu gösterir.\n\nMetal Gear’ın paranoyak tonu burada tarihsel karşılık bulur. Oyundaki sorun yalnız “kötü adam nükleer silah kullanacak mı?” değildir; asıl sorun, nükleer sistemin insanlar, kurumlar ve yanlış algılar tarafından yönetilmesidir. Teknoloji ne kadar güçlü olursa, yanlış yorumun bedeli de o kadar büyür.\n\n### Kahramanlık değil sistem riski\n\nPopüler aksiyon anlatıları çoğu zaman krizi tek kişinin durdurduğu bir sona bağlar. Metal Gear Solid bunu kullanır ama aynı zamanda sorgular: Nükleer çağda kahramanlık bile yeterli olmayabilir, çünkü sorun tek silah değil onu üreten güvenlik mimarisidir. Silahlanma yarışı, ikinci vuruş kapasitesi, gizli projeler ve doktrin dili sıradan vatandaşın erişemediği kapalı bir dünya kurar.\n\nTrue Frame açısından bu kartın önemi burada yatar. MGS, nükleer caydırıcılığı yalnız askeri strateji olarak değil, insan hatasına açık bir korku rejimi olarak görmemizi sağlar. Soğuk Savaş’ta barışı koruyan şey bazen rasyonel hesap, bazen de şans, tereddüt ve yanlış alarmı durdurabilen birkaç insan kararıydı. Bu yüzden nükleer caydırıcılık, güvenlik hissi kadar güvensizlik üretir: dünya yok edilmediği sürece sistem çalışıyor gibi görünür, ama çalışıp çalışmadığını ancak felaket olmadığında anlarız.\n\nMGS'nin anti-nükleer tonu burada yalnız mesaj değil, tarih okuma biçimidir. Oyuncuya güç fantezisi sunarken aynı anda o gücün sürdürülemezliğini gösterir. Bir silahın varlığı, onu kullanmama sözüyle meşrulaştırıldığında, bütün düzen karşı tarafın aynı mantıkla davranacağı varsayımına bağlı kalır. Soğuk Savaş'ın asıl gerilimi de buydu: barış, güvenin değil karşılıklı felaket ihtimalinin üzerine kurulmuştu.",
+        "accuracyNote": "Metal Gear Solid’in nükleer platformları ve karakterleri kurgudur. Ancak karşılıklı yok oluş, ikinci vuruş kapasitesi, yanlış alarm riski ve Able Archer 83 gibi Soğuk Savaş krizleri, serinin nükleer paranoya temasına gerçek tarihsel zemin sağlar.",
+        "whyInteresting": "MGS’nin aşırı görünen nükleer korkusu, Soğuk Savaş’ın aslında ne kadar kırılgan bir psikolojik denge üzerine kurulduğunu hatırlatır.",
+        "misconception": "Nükleer caydırıcılığın kusursuz ve tamamen rasyonel bir güvenlik sistemi olduğu sanılır; gerçekte yanlış alarm, yanlış okuma ve insan hatası sistemin kalıcı riskleriydi.",
+        "nextTopics": [
+          "Özel Askeri Şirketler",
+          "Soğuk Savaş Sivil Savunması",
+          "Atom Çağı İyimserliği"
+        ],
+        "sources": [
+          {
+            "title": "Nuclear Threat Initiative - Deterrence in the Age of Nuclear Proliferation",
+            "url": "https://www.nti.org/analysis/articles/deterrence-age-nuclear-proliferation/",
+            "type": "ngo",
+            "verified": true
+          },
+          {
+            "title": "National Security Archive - The Able Archer 83 Sourcebook",
+            "url": "https://nsarchive.gwu.edu/project/able-archer-83-sourcebook",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "National Security Archive - The Censored History of Able Archer 83",
+            "url": "https://nsarchive.gwu.edu/briefing-book/able-archer-83/2025-11-14/censored-history-able-archer-83",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-224-fallout-civil-defense",
+          "tf26-225-fallout-atomic-optimism"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "spoilerLevel": "none",
+        "mediaConnection": "Metal Gear Solid’in nükleer korkusu, Soğuk Savaş caydırıcılık teorisi ve Able Archer 83 gibi yanlış alarm/savaş korkusu dosyalarıyla birlikte okunabilir.",
+        "accuracyType": "inspired-by-reality",
+        "isPremium": false,
+        "tags": [
+          "metal-gear-solid",
+          "soguk-savas",
+          "nukleer-silahlar",
+          "caydiricilik",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun nükleer tehdidi devasa savaş makineleri ve gizli operasyonlarla kişiselleştirir; tarihsel gerçeklikte aynı korku doktrin, komuta zinciri, yanlış alarm ve psikolojik caydırıcılık üzerinden işledi.",
+        "whyItMatters": "Nükleer çağın en büyük güvenlik vaadi, aynı anda insanlığın en büyük sistem risklerinden birini taşıdı.",
+        "isFlagship": true,
+        "quickRealityCheck": "Nükleer caydırıcılık dünyayı daha güvenli mi yaptı, yoksa yanlış alarmın bedelini sonsuza kadar büyüttü mü?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Nuclear Threat Initiative - Deterrence in the Age of Nuclear Proliferation",
+            "url": "https://www.nti.org/analysis/articles/deterrence-age-nuclear-proliferation/",
+            "type": "ngo",
+            "verified": true
+          },
+          {
+            "title": "National Security Archive - The Able Archer 83 Sourcebook",
+            "url": "https://nsarchive.gwu.edu/project/able-archer-83-sourcebook",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "National Security Archive - The Censored History of Able Archer 83",
+            "url": "https://nsarchive.gwu.edu/briefing-book/able-archer-83/2025-11-14/censored-history-able-archer-83",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

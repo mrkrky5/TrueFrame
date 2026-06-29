@@ -1,0 +1,256 @@
+{
+  "locale": "tr",
+  "chunkIndex": 30,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "oppenheimer-los-alamos-culture",
+      "title": "Los Alamos: Sırlarla Yaşamak",
+      "subtitle": "Atom bombasının gölgesinde bir aile hayatı.",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Modern Tarih",
+        "Bilim",
+        "Psikoloji"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "oppenheimer",
+        "los-alamos",
+        "gizlilik",
+        "abd",
+        "bilim"
+      ],
+      "quickRealityCheck": "Oppenheimer filminde gördüğümüz o izole kasaba, New Mexico çöllerinde haritalarda bile görünmeyen, 6.000'den fazla insanın her gün birbirini denetlediği devasa bir açık hava hapishanesi gibi yönetiliyordu.",
+      "mediaChanged": "Film genellikle bilimsel tartışmalara odaklanır, ancak gerçek Los Alamos'ta en büyük stres kaynağı, ailelerin bile ne yapıldığını bilmemesi ve tüm mektupların sansürlenmesiydi.",
+      "realHistory": "Los Alamos, Manhattan Projesi için sıfırdan inşa edilmişti. Buraya gelen bilim insanlarına 'mühendis' deniyordu ve kimlikleri gizli tutuluyordu. Güvenlik o kadar katıydı ki, kasaba sakinlerinin mektupları kelime kelime okunuyor, dış dünya ile iletişim tamamen kesiliyordu. Çocuklar bile babalarının ne iş yaptığını bilmiyordu. Bu kapalılık ortamı, bilim insanları arasında 'Compartmentalization' (Bölümlere Ayırma) ilkesiyle birleşince, projenin farklı aşamalarında çalışanların bütünü görmesi engellendi. Bu durum, bombanın patlamasından sonra birçok bilim insanının yaşadığı 'vicdan azabı' ve 'şok' duygusunun temelini oluşturmuştur.\n\nSoruşturma ve arşiv belgeleri, oppenheimer filminde gördüğümüz o izole kasaba, New Mexico çöllerinde haritalarda bile görünmeyen, 6.000'den fazla insanın her gün birbirini denetlediği devasa bir açık hava hapishanesi gibi yönetiliyordu.\n\nBu örnek Los Alamos açısından önem taşır, modern 'devlet sırrı' ve 'güvenlik kültürü' kavramlarının laboratuvarı sayılır.\n\nKayıtlara göre, oppenheimer filminde gördüğümüz o izole kasaba, New Mexico çöllerinde haritalarda bile görünmeyen, 6.000'den fazla insanın her gün birbirini denetlediği devasa bir açık hava hapishanesi gibi yönetiliyordu.\n\nTarihî kayıtlar, oppenheimer filminde gördüğümüz o izole kasaba, New Mexico çöllerinde haritalarda bile görünmeyen, 6.000'den fazla insanın her gün birbirini denetlediği devasa bir açık hava hapishanesi gibi yönetiliyordu.",
+      "whyItMatters": "Los Alamos, modern 'devlet sırrı' ve 'güvenlik kültürü' kavramlarının laboratuvarı sayılır.",
+      "sources": [
+        {
+          "title": "Life at Los Alamos (Manhattan Project Heritage)",
+          "url": "https://www.manhattanprojectheritage.org/life-at-los-alamos",
+          "type": "official"
+        },
+        {
+          "title": "Secrecy at Los Alamos (Atomic Heritage Foundation)",
+          "url": "https://www.atomicheritage.org/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "oppenheimer-trinity",
+        "oppenheimer-science-state",
+        "oppenheimer-trinity-reality"
+      ],
+      "spoilerNote": "Oppenheimer hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "Oppenheimer filmdе “Los Alamos: Sırlarla Yaşamak” konusunu modern tarih ve bilim ekseninde somut sahnelerle işler. Atom bombasının gölgesinde bir aile hayatı.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "gladiator-arena-economics",
+      "title": "Kolezyum Ekonomisi ve 'Ekmek ve Oyunlar'",
+      "subtitle": "Roma halkını doyurmanın ve eğlendirmenin bedeli.",
+      "mediaType": "film",
+      "mediaTitle": "Gladiator",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Roma",
+        "Ekonomi",
+        "Siyaset"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "gladiator",
+        "roma",
+        "ekonomi",
+        "kolezyum",
+        "antik-dnya"
+      ],
+      "quickRealityCheck": "Gladiator filmindeki gladyatör oyunları sadece bir vahşet gösterisi değil; Roma imparatorlarının işsiz ve aç halkın isyan etmesini önlemek için uyguladığı 'Panem et Circenses' (Ekmek ve Oyunlar) politikasının en pahalı aracıydı.",
+      "mediaChanged": "Filmde oyunlar sanki her zaman varmış gibi sunulur, ancak Commodus gibi imparatorlar bu oyunları hazineyi iflas ettirecek kadar sık düzenleyerek Roma'nın ekonomik çöküşünü hızlandırmışlardır.",
+      "realHistory": "Roma'da nüfusun büyük bir kısmı fakirlik içindeydi. İmparatorlar, bedava tahıl (ekmek) dağıtarak ve devasa gladyatör oyunları (oyunlar) düzenleyerek halkın öfkesini dindirirdi. Kolezyum'da yapılan bir günlük oyunun maliyeti, bazen bir Roma lejyonunun yıllık maaşından daha fazlaydı. Gladyatörler, 'lanista' denilen menajerler tarafından eğitilen, beslenen ve sigortalanan birer 'yatırım'dı. Bu yüzden her dövüşün ölümle sonuçlanması ekonomik olarak istenmezdi. Commodus, bu sistemi suistimal ederek bizzat dövüşlere çıkmış ve her gösterisi için hazineden kendine devasa bir 'sahne ücreti' ödetmiştir.\n\nGünlük oyun maliyeti bazen lejyon yıllık maaşını aşıyordu. Commodus hazineden sahne ücreti çekerek sistemi suistimal etti.\n\nPanem et circenses sloganı imparatorların halkı doyurup eğlendirerek meşruiyet kazanma stratejisini özetler. Lanistalar gladyatörleri yatırım olarak görür; ölümlü dövüşler ekonomik kayıp demekti. Kolezyum'da bir günlük oyun maliyeti bazen lejyon yıllık maaşını aşıyordu. Commodus hazineden sahne ücreti çekerek sistemi kişisel siyasete alet etti.\n\nİmparatorlar oyunlarla halkın desteğini satın alır; bedava tahıl dağıtımıyla birlikte sunulurdu. Gladyatör okulları ekonomik yatırım merkezleriydi.\n\nLanista okulları gladyatörleri eğitir, besler ve sigortalayarak ekonomik döngüyü sürdürürdü.\n\nLanista okulları gladyatörleri besleyip eğiterek döngüyü sürdürürdü; ölüm ekonomik kayıp sayılırdı.\n\nSeyirci beklentisi ve ekonomik değer, dövüşlerin sonucunu ölüm dışı seçeneklere yönlendirebilirdi.",
+      "whyItMatters": "Ekmek ve Oyunlar politikası, popülizmin tarihteki en eski ve en etkili yönetim biçimlerinden biridir.",
+      "sources": [
+        {
+          "title": "Bread and Circuses (Britannica)",
+          "url": "https://www.britannica.com/topic/bread-and-circuses",
+          "type": "official"
+        },
+        {
+          "title": "The Economy of the Roman Empire (Oxford University)",
+          "url": "https://oxford.universitypressscholarship.com/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "gladiator-colosseum",
+        "gladiator-political-theater",
+        "gladiator-commodus-real"
+      ],
+      "spoilerNote": "Gladiator hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "Gladiator filmdе “Kolezyum Ekonomisi ve 'Ekmek ve Oyunlar'” konusunu roma ve ekonomi ekseninde somut sahnelerle işler. Roma halkını doyurmanın ve eğlendirmenin bedeli.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "chernobyl-rbmk-flaw",
+      "title": "RBMK Tasarımı: Gizlenen Mühendislik Hatası",
+      "subtitle": "Pozitif boşluk katsayısı ve felakete giden yol.",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Teknoloji",
+        "Modern Tarih",
+        "Sovyetler"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "chernobyl",
+        "nukleer-enerji",
+        "sovyetler",
+        "muhendislik",
+        "bilim"
+      ],
+      "quickRealityCheck": "Chernobyl dizisindeki o meşhur 'mavi kalem-kırmızı kalem' sahnesi gerçektir; RBMK reaktörlerinin en büyük sorunu, acil kapatma düğmesine (AZ-5) basıldığında kontrol çubuklarının uçlarındaki grafitin reaksiyonu bir anlığına hızlandırmasıydı.",
+      "mediaChanged": "Dizi bu teknik hatayı bir 'mahkeme dramı' gibi basitleştirir, ancak gerçekte Sovyet nükleer topluluğu bu hatayı 1970'lerden beri biliyor ama 'Sovyet mühendisliği hata yapmaz' inancıyla raporları hasıraltı ediyordu.",
+      "realHistory": "RBMK-1000 reaktörleri, Sovyetler Birliği'nin gururuydu. Ancak tasarımlarında 'pozitif boşluk katsayısı' denilen bir özellik vardı: Su azaldığında reaksiyon hızlanıyordu. Daha da kötüsü, kontrol çubuklarının uçları grafit kaplıydı. AZ-5 düğmesine basıldığında, bu grafit uçlar reaktöre ilk giren kısımlar oluyor ve güç seviyesini bir anda fırlatıyordu. Çernobil'de tam olarak bu oldu; operatörler sistemi durdurmak için düğmeye bastıklarında, reaktör durmak yerine bir bombaya dönüştü. Bu teknik kusur, ancak felaketten sonra ve uluslararası baskılarla kabul edildi.\n\nSovyet nükleer camiası kusuru biliyor ancak raporları gizledi. AZ-5 grafit uçları gücü geçici yükseltiyordu.\n\nRBMK tasarımındaki pozitif boşluk katsayısı soğutma suyu azaldığında güç artışına yol açıyordu. Kontrol çubuklarının grafit uçları AZ-5 düğmesine basıldığında önce reaktöre girerek gücü geçici yükseltiyordu. Sovyet nükleer kurumu bu kusurları 1970'lerden beri biliyor ancak raporları ideolojik baskıyla gizledi. Felaket ancak uluslararası baskıyla kabul edildi.\n\nRBMK reaktörleri grafit moderatör ve su soğutma kombinasyonuyla çalışıyordu. Tasarım kusuru felaketten sonra uluslararası incelemeyle belgelendi.\n\nOperatör eğitimi ve güvenlik testi prosedürleri tasarım kusurunu felaket anında kritik hale getirdi.\n\nFelaket sonrası uluslararası inceleme RBMK tasarım kusurunu belgeledi; benzer reaktörlerde düzeltmeler yapıldı.\n\nOperatör eğitimi ve test prosedürleri tasarım kusurunu felaket anında kritik hale getirdi.",
+      "whyItMatters": "Çernobil, bir mühendislik hatasının ideolojik inatla birleştiğinde ne kadar büyük bir bedeli olabileceğinin kanıtıdır.",
+      "sources": [
+        {
+          "title": "RBMK Reactors (World Nuclear Association)",
+          "url": "https://world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/appendices/rbmk-reactors.aspx",
+          "type": "official"
+        },
+        {
+          "title": "The Chernobyl Accident (IAEA)",
+          "url": "https://www.iaea.org/publications/reports/chernobyl",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "chernobyl-disaster",
+        "chernobyl-secrecy",
+        "chernobyl-bureaucracy-truth"
+      ],
+      "spoilerNote": "Chernobyl hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "Chernobyl dizide “RBMK Tasarımı: Gizlenen Mühendislik Hatası” konusunu teknoloji ve modern tarih ekseninde somut sahnelerle işler. Pozitif boşluk katsayısı ve felakete giden yol.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "crown-tv-coronation-1953",
+      "title": "1953 Taç Giyme Töreni ve TV Devrimi",
+      "subtitle": "Kraliyetin halkın oturma odasına girdiği gün.",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Medya",
+        "İngiltere",
+        "Modern Tarih"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "the-crown",
+        "ingiltere",
+        "medya",
+        "televizyon"
+      ],
+      "quickRealityCheck": "The Crown dizisinde Prens Philip'in taç giyme törenini televizyonda yayınlatma çabası gerçektir; bu karar, İngiltere'de televizyon satışlarını bir gecede %500 artırarak modern medya çağını başlatmıştır.",
+      "mediaChanged": "Dizi bu kararı daha çok bir 'aile içi güç savaşı' gibi gösterir, oysa bu İngiliz hükümetinin ve kilisesinin 'monarşinin gizemini bozar' endişesiyle şiddetle karşı çıktığı devasa bir kurumsal krizdi.",
+      "realHistory": "2 Haziran 1953'teki tören, dünya çapında 277 milyon kişi tarafından izlendi. O dönemde çoğu insan henüz televizyon sahibi değildi; insanlar komşularının evinde veya dükkan vitrinlerinin önünde toplandılar. Kraliçe Elizabeth II, başta kameraların kilisede (Westminster Abbey) olmasına karşı çıksa da, Prens Philip'in ısrarıyla 'halkın katılımı' fikrine ikna oldu. Bu olay, monarşinin artık sadece 'uzaktaki bir tanrısal güç' değil, televizyon aracılığıyla her eve konuk olan bir 'ulusal sembol' haline gelmesini sağladı. Ayrıca bu yayın, canlı TV yayıncılığı teknolojisinin gelişiminde de bir dönüm noktası oldu.\n\nBu örnek 1953 taç giyme töreni açısından önem taşır, monarşinin televizyon çağındaki sembolik gücünü yeniden tanımladı.\n\nKraliyetin halkın oturma odasına girdiği gün sorusu, arşivlerde yalnızca üst düzey anlatılardan değil günlük uygulamalardan da yanıtlanır.\n\nDizi bu kararı daha çok bir 'aile içi güç savaşı' gibi gösterir, oysa bu İngiliz hükümetinin ve kilisesinin 'monarşinin gizemini bozar' endişesiyle şiddetle karşı çıktığı devasa bir kurumsal krizdi.\n\nTarihî kayıtlar, the Crown dizisinde Prens Philip'in taç giyme törenini televizyonda yayınlatma çabası gerçektir; bu karar, İngiltere'de televizyon satışlarını bir gecede %500 artırarak modern medya çağını başlatmıştır.",
+      "whyItMatters": "1953 taç giyme töreni, monarşinin televizyon çağındaki sembolik gücünü yeniden tanımladı.",
+      "sources": [
+        {
+          "title": "The Coronation of Queen Elizabeth II (BBC)",
+          "url": "https://www.bbc.com/history/events/coronation_elizabeth_ii",
+          "type": "official"
+        },
+        {
+          "title": "Television and the Monarchy (National Science and Media Museum)",
+          "url": "https://www.scienceandmediamuseum.org.uk/",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [
+        "the-crown-monarchy",
+        "crown-monarchy-symbol",
+        "crown-commonwealth-empire"
+      ],
+      "spoilerNote": "The Crown hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "The Crown dizide “1953 Taç Giyme Töreni ve TV Devrimi” konusunu medya ve i̇ngiltere ekseninde somut sahnelerle işler. Kraliyetin halkın oturma odasına girdiği gün.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "vikings-silk-road-trade",
+      "title": "Vikingler ve İpek Yolu: Savaşçıdan Tüccara",
+      "subtitle": "Kuzeyden Hazar'a uzanan ticaret ağları.",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Vikingler",
+        "Ekonomi",
+        "Orta Çağ"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "vikings",
+        "ticaret",
+        "orta-cag",
+        "ipek-yolu"
+      ],
+      "quickRealityCheck": "Vikings dizisindeki Ragnar'ın 'batıyı keşfetme' hırsı gerçektir ancak Vikinglerin asıl zenginliği doğuya; Rusya nehirleri üzerinden Bizans ve Bağdat'a uzanan ticaret ağlarından geliyordu.",
+      "mediaChanged": "Dizi Vikingleri daha çok 'yağmacı' olarak resmeder. Gerçekte ise Vikingler, İsveç'ten yola çıkıp Hazar Denizi'ne kadar giden, gümüş ve ipek karşılığında kürk ve köle satan profesyonel tüccarlardı.",
+      "realHistory": "Vikingler, 'Varangian' (Varanglar) adıyla Rusya'nın nehir yollarını kullanarak (Volga ve Dinyeper) güneye indiler. Kiev ve Novgorod gibi şehirlerin temellerini attılar. Bağdat'ta basılmış binlerce gümüş Abbasi dirhemi bugün İskandinavya'daki Viking mezarlarından çıkmaktadır. Bu, kuzeyin en soğuk köşeleri ile İslam dünyasının kalbi arasında doğrudan bir ekonomik bağ olduğunu kanıtlar. Ayrıca Vikingler, Bizans İmparatoru'nun özel koruma birliği (Varangian Guard) haline gelerek, Doğu Roma'nın en güvendiği askerleri oldular. Savaşçılıkları, aslında ticari yollarını korumak ve köle ticaretini yönetmek için bir araçtı.\n\nSoruşturma ve arşiv belgeleri, vikings dizisindeki Ragnar'ın 'batıyı keşfetme' hırsı gerçektir ancak Vikinglerin asıl zenginliği doğuya; Rusya nehirleri üzerinden Bizans ve Bağdat'a uzanan ticaret ağlarından geliyordu.\n\nBu örnek Vikingler açısından önem taşır, sadece birer yağmacı değil, Avrupa'nın kuzeyini ve doğusunu küresel ekonomiye bağlayan ilk köprülerdir.\n\nDizi Vikingleri daha çok 'yağmacı' olarak resmeder; belgeler ise ise Vikingler, İsveç'ten yola çıkıp Hazar Denizi'ne kadar giden, gümüş ve ipek karşılığında kürk ve köle satan profesyonel tüccarlardı.\n\nTarihî kayıtlar, vikings dizisindeki Ragnar'ın 'batıyı keşfetme' hırsı gerçektir ancak Vikinglerin asıl zenginliği doğuya; Rusya nehirleri üzerinden Bizans ve Bağdat'a uzanan ticaret ağlarından geliyordu.",
+      "whyItMatters": "Vikingler, sadece birer yağmacı değil, Avrupa'nın kuzeyini ve doğusunu küresel ekonomiye bağlayan ilk köprülerdir.",
+      "sources": [
+        {
+          "title": "Viking Trade (National Museum of Denmark)",
+          "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/the-viking-warrior/trade-in-the-viking-age/",
+          "type": "museum"
+        },
+        {
+          "title": "The Silk Road and the Vikings (UNESCO)",
+          "url": "https://en.unesco.org/silkroad/content/viking-trade-routes-and-silk-roads",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "vikings-raid",
+        "viking-horned-helmet",
+        "vikings-funeral-fadlan-real"
+      ],
+      "spoilerNote": "Vikings hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "Vikings dizide “Vikingler ve İpek Yolu: Savaşçıdan Tüccara” konusunu vikingler ve ekonomi ekseninde somut sahnelerle işler. Kuzeyden Hazar'a uzanan ticaret ağları.",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "batch": "tr-chunks-003-004-source-aware",
+  "sourceChunks": [
+    "docs/editorial-chunks/tr/tr-chunk-003.json",
+    "docs/editorial-chunks/tr/tr-chunk-004.json"
+  ],
+  "locale": "tr",
+  "notes": [
+    "Reviewed chunk 003 and 004 together.",
+    "Patch includes only cards that need editorial/source updates.",
+    "got-roses and 1917-trenches were reviewed and approved as-is for this pass."
+  ],
+  "approvedAsIs": [
+    {
+      "id": "got-roses",
+      "reason": "Önceki patch sonrası metin uygulamanın medya-vs-tarih vaadine uygun; kaynaklar yeterli."
+    },
+    {
+      "id": "1917-trenches",
+      "reason": "Metin temiz, kaynaklar yeterli, tekrar/bozuk üretim izi görünmüyor."
+    }
+  ],
+  "entries": [
+    {
+      "id": "vikings-raid",
+      "locale": "tr",
+      "reviewDecision": "rewrite",
+      "fields": {
+        "realHistory": "Lindisfarne baskını, 8 Haziran 793’te Northumbria kıyısındaki Kutsal Ada’da bulunan St Cuthbert manastırına yapılan saldırıyla Avrupa hafızasına kazındı. Bu olay çoğu zaman “Viking Çağı’nın başlangıcı” diye anlatılır; daha doğru ifade, Batı Avrupa kaynaklarında büyük yankı uyandıran ilk sembolik kırılmalardan biri olduğudur. Çünkü hedef sıradan bir köy değil, kutsallığı ve öğrenim merkezi kimliğiyle bilinen savunmasız bir manastırdı.\n\nManastırlar erken Orta Çağ’da yalnız ibadet alanı değildi. El yazmaları, değerli metal kaplamalar, litürjik eşyalar, yiyecek stokları ve eğitim ağlarıyla bölgesel güç merkezleriydi. Viking akıncıları için bu tür yerler hızlı baskın mantığına uygundu: kıyıdan yaklaş, taşınabilir serveti al, esirlerle birlikte yerel kuvvetler toparlanmadan denize açıl. Longship teknolojisinin sığ sularda hareket edebilmesi ve ani iniş-kalkışa uygun olması, bu stratejiyi daha etkili kıldı.\n\nVikings dizisi Lindisfarne’ı Ragnar’ın kişisel keşif anı gibi dramatize eder. Tarihsel kayıtta ise baskının önemi tek bir kahramanın zekâsından çok, Kuzey Denizi çevresinde değişen denizcilik, ticaret, yağma ve savunma dengesindedir. Alcuin gibi çağdaş yazarların tepkisi, saldırının fiziksel yıkımdan fazlası olduğunu gösterir: Hristiyan dünya için kutsal mekânların dokunulmazlığı fikri kırılmıştır.\n\nBu yüzden Lindisfarne, Vikingleri yalnız “vahşi yağmacılar” olarak değil, deniz teknolojisini, istihbaratı ve fırsat kollayan ekonomi mantığını birleştiren hareketli bir dünya olarak okumaya yarar. Baskın, Avrupa’nın kıyı güvenliği ve manastır zenginliği hakkındaki varsayımlarını sarsan ilk büyük uyarı işaretlerinden biridir.",
+        "accuracyNote": "Lindisfarne baskını gerçektir; ancak dizideki Ragnar merkezli keşif anlatısı dramatik kurgudur. 793 saldırısı daha geniş Viking hareketliliğinin sembolik başlangıcı olarak okunmalıdır.",
+        "whyInteresting": "Lindisfarne’ın şoku, yalnız yağmadan değil, kutsal ve savunmasız kabul edilen bir manastırın denizden gelen hızlı bir baskınla vurulmasından kaynaklandı.",
+        "misconception": "Lindisfarne’ın Vikinglerin dünyaya ilk çıkışı olduğu sanılır; gerçekte daha önce de kuzeyli deniz hareketliliği vardı, ama 793 baskını Batı kaynaklarında çok daha büyük sembolik etki yarattı.",
+        "mediaChanged": "Vikings, baskını kişisel keşif ve inanç çatışması olarak yoğunlaştırır; tarihsel bağlamda olay, kıyı savunmasının, manastır servetinin ve Viking denizciliğinin kesiştiği daha geniş bir kırılmadır.",
+        "whyItMatters": "Lindisfarne, Orta Çağ Avrupa’sında güvenlik algısının nasıl değiştiğini ve kutsal mekânların bile denizden gelen hareketli güçler karşısında savunmasız kalabildiğini gösterir.",
+        "quickRealityCheck": "Lindisfarne sadece ani bir yağma mıydı, yoksa Avrupa’nın Viking deniz gücünü ciddiye almaya başladığı sembolik eşiklerden biri mi?",
+        "mediaConnection": "Vikings, Lindisfarne baskınını Viking Çağı’nın dramatik açılışı gibi kurar; tarihsel kayıtlar bu olayı Northumbria’daki manastır dünyası, deniz baskını taktikleri ve Hristiyan Avrupa’nın şok tepkisiyle birlikte okumayı gerektirir."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Viking Raid on Lindisfarne (English Heritage)",
+            "url": "https://www.english-heritage.org.uk/visit/places/lindisfarne-priory/History/viking-raid/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Lindisfarne Priory Research Record (Historic England)",
+            "url": "https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?resourceID=19191&uid=1578669",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "shogun-edo",
+      "locale": "tr",
+      "reviewDecision": "rewrite",
+      "fields": {
+        "whatWeSee": "Shōgun’da naip lordlar arasındaki güç mücadelesini, Toranaga’nın sabrını ve Anjin’in bu siyasi satrançta beklenmedik bir araç hâline gelişini izleriz.",
+        "realHistory": "Shōgun doğrudan Tokugawa Ieyasu’yu ve William Adams’ı anlatmaz; karakter isimlerini değiştirerek 1600 civarındaki Japon güç mücadelesinden beslenir. Toyotomi Hideyoshi’nin ölümünden sonra ülkenin geleceği, küçük varisinin adına hareket eden güçlü lordlar arasında belirsizleşti. 21 Ekim 1600’deki Sekigahara Muharebesi, bu belirsizliği Tokugawa Ieyasu lehine kırdı. Ieyasu 1603’te şogun unvanını aldı ve Edo merkezli Tokugawa düzeninin temellerini attı.\n\nBu düzenün asıl başarısı yalnız savaş kazanmak değildi. Tokugawa yönetimi, daimyo ailelerini sıkı gözetim altına alan, kaleleri ve evlilikleri denetleyen, ticareti ve seyahati kurallara bağlayan bir siyasi mimari kurdu. Daha sonra kurumsallaşan sankin-kōtai sistemi, daimyo beylerini belirli dönemlerde Edo’da bulunmaya ve ailelerini orada bırakmaya zorlayarak sadakati hem mali hem de kişisel baskıyla güvenceye aldı. Böylece barış, romantik bir uzlaşmadan çok sürekli denetlenen bir denge hâline geldi.\n\nWilliam Adams’ın hayatı da bu dönüşümün ilginç kenar çizgisidir. İngiliz denizci Japonya’ya ulaştığında yalnız egzotik bir yabancı değildi; gemicilik, topçuluk ve dış ticaret bilgisiyle Ieyasu için faydalı bir danışmana dönüştü. Shōgun’daki Anjin figürü bu tarihi dramatize eder, ama onu tek başına Japon siyasetini değiştiren kişi gibi okumamak gerekir.\n\nEdo barışı yaklaşık iki buçuk yüzyıl sürdü çünkü Tokugawa rejimi savaşçı sınıfı bürokrasiye, yerel lordları mali yükümlülüğe, dış ilişkileri ise kontrollü temaslara dönüştürdü. Dizinin entrika dili doğru bir gerilimi yakalar; gerçek tarih ise bu gerilimin nasıl uzun ömürlü bir yönetim sistemine çevrildiğini gösterir.",
+        "accuracyNote": "Dizi tarihsel kişileri doğrudan adlarıyla kullanmaz; Toranaga, Tokugawa Ieyasu’dan, Anjin ise William Adams’tan esinlenmiştir. Siyasi denge doğru yakalanır, fakat olaylar dramatik yoğunluk için sıkıştırılır.",
+        "whyInteresting": "Tokugawa barışı kılıçların ortadan kalkmasıyla değil, lordların hareketini, ailesini, mali gücünü ve siyasi bağlantılarını denetleyen bir sistemle kuruldu.",
+        "misconception": "Edo döneminin sadece dışa kapanma olduğu sanılır; gerçekte içerde yoğun şehirleşme, bürokrasi, ticaret ve kontrollü bilgi akışı vardı.",
+        "mediaChanged": "Shōgun, iktidar mücadelesini kişisel sadakat ve saray entrikası üzerinden izletir; tarihsel Tokugawa düzeni ise savaş sonrası barışı kurum, rehine siyaseti ve mali denetimle kalıcılaştırdı.",
+        "whyItMatters": "Sekigahara sonrası düzen, Japonya’da savaşçı iktidarın nasıl uzun süreli bürokratik ve kentsel bir rejime dönüşebileceğini gösterir.",
+        "quickRealityCheck": "Tokugawa barışı gerçekten yalnız büyük bir zaferin sonucu muydu, yoksa daimyo ailelerini ve kaynaklarını denetleyen uzun vadeli bir sistemin ürünü müydü?",
+        "mediaConnection": "Shōgun, Toranaga ve Anjin üzerinden 1600 Japonya’sındaki kırılmayı dramatize eder; tarihsel zeminde bu kırılma Sekigahara, Tokugawa Ieyasu, William Adams ve Edo merkezli yeni denetim düzeniyle ilişkilidir."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Real History Behind Shōgun (Smithsonian)",
+            "url": "https://www.smithsonianmag.com/history/the-real-history-behind-shogun-180983804/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Japan: Memoirs of a Secret Empire - Timeline 1600s (PBS)",
+            "url": "https://www.pbs.org/empires/japan/timeline_1600.html",
+            "type": "educational",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "ac2-davinci-tank",
+      "locale": "tr",
+      "reviewDecision": "rewrite",
+      "fields": {
+        "realHistory": "Leonardo da Vinci’nin zırhlı araç tasarımı, Rönesans savaş teknolojisinin gerçek bir prototipinden çok, bir mühendisin patronuna sunduğu iddialı bir konseptti. Ludovico Sforza’ya yazdığı askerî yetenekler listesiyle aynı çevrede düşünülmesi gerekir: Leonardo, yalnız ressam değil, kuşatma makineleri, köprüler ve silahlar tasarlayabilen bir mühendis olarak görünmek istiyordu.\n\nÇizimde kaplumbağa kabuğunu andıran konik bir gövde, çevreye yerleştirilmiş hafif toplar ve içeriden krankla hareket ettirilecek bir mekanizma vardır. Fikir etkileyicidir, ama pratikte ciddi sorunlar taşır. Araç ağır olurdu, insan gücüyle hareket etmesi zordu ve engebeli savaş alanında çevik davranması beklenemezdi. Ayrıca dişli düzeni ters çizildiği için tasarımın olduğu haliyle ilerlemesi mümkün görünmez. Bunun bilinçli bir “güvenlik hatası” mı, yoksa çizim/aktarım problemi mi olduğu kesin değildir.\n\nAssassin’s Creed II bu tasarımı çalışır ve yıkıcı bir Rönesans tankı gibi kullanır. Gerçekte ise Leonardo’nun aracı savaş meydanına çıkmış bir silah değil, kağıt üzerinde kalan bir gösteri ve korkutma fikridir. Değeri, başarılı bir tank olmasında değil, Rönesans’ta mühendislik hayal gücünün savaş siyasetiyle nasıl iç içe geçtiğini göstermesindedir.",
+        "accuracyNote": "Tasarım Leonardo’ya aittir; ancak oyundaki gibi aktif kullanılan, hızlı ve güvenilir bir tank değildi. Çizimdeki mekanik sorunlar ve güç kaynağı kısıtları onu pratik olmaktan uzaklaştırır.",
+        "whyInteresting": "Leonardo’nun zırhlı aracı, modern tankın atası olmaktan çok, savaş alanını psikolojik olarak etkilemeyi amaçlayan bir Rönesans mühendislik hayalidir.",
+        "misconception": "Da Vinci’nin tankının gerçekten üretildiği ve savaşa sokulduğu sanılır; gerçekte elimizde çalışan bir savaş aracı değil, problemli bir tasarım çizimi vardır.",
+        "mediaChanged": "Assassin’s Creed II, kağıt üzerindeki konsepti oyuncunun kullanabildiği işlevsel bir silaha dönüştürür; tarihsel gerçek ise daha çok patron arayan bir mühendislik vaadi ve savaş teknolojisi hayalidir.",
+        "whyItMatters": "Bu tasarım, Rönesans’ın yalnız sanat değil, askeri mühendislik, patronaj ve teknolojik gösteri çağı olduğunu hatırlatır.",
+        "quickRealityCheck": "Da Vinci’nin tankı gerçek bir savaş aracı mıydı, yoksa çalışması bile tartışmalı olan etkileyici bir Rönesans tasarımı mı?",
+        "mediaConnection": "Assassin’s Creed II, Leonardo’nun çizimini oyun mekaniğine dönüştürür; tarihsel kayıtta aynı fikir daha çok Sforza dönemi askeri mühendislik hayali olarak okunur."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Leonardo Models (Museo Nazionale Scienza e Tecnologia Leonardo da Vinci)",
+            "url": "https://www.museoscienza.org/en/leonardo/models",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Leonardo's Design: Armored Vehicle (Stanford)",
+            "url": "https://leonardodavinci.stanford.edu/submissions/ghoe/leonardo.htm",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "bf1-harlem-hellfighters",
+      "locale": "tr",
+      "reviewDecision": "rewrite from existing content",
+      "fields": {
+        "realHistory": "369. Piyade Alayı, I. Dünya Savaşı’nda Amerikan ordusundaki ırk ayrımcılığına rağmen Fransa cephesinde olağanüstü bir savaş sicili bıraktı. Birliğin kökeni New York Ulusal Muhafızları’na dayanıyordu; askerlerinin çoğu Harlem ve çevresinden geliyordu. ABD ordusu siyahi birlikleri çoğu zaman geri hizmete yönlendirirken, 369. Alay Fransız komutası altında cephe görevine verildi.\n\nFransız üniforması, Fransız silahları ve Fransız taktik sistemiyle savaşmaları, birliğin hikâyesini daha da çarpıcı kılar. Château-Thierry, Belleau Wood ve Argonne çevresindeki çarpışmalarda uzun süre cephede kaldılar; National Archives kayıtları 191 gün savaş hattında kaldıklarını aktarır. Bu, herhangi bir Amerikan birliği için en uzun cephe sürelerinden biri olarak anılır. Birlik Fransız Croix de Guerre ile onurlandırıldı.\n\nBattlefield 1, Harlem Hellfighters’ı kahramanlık sembolü olarak öne çıkarır. Tarihsel gerçek ise daha serttir: aynı askerler Avrupa’da madalya alırken, ülkelerine döndüklerinde Jim Crow dönemi ırkçılığı ve şiddetiyle karşılaştılar. Üstelik James Reese Europe’un yönettiği alay bandosu, cazın Avrupa’da tanınmasında önemli bir kültürel rol oynadı. Bu birlik, savaş alanı başarısı ile yurttaşlık mücadelesinin aynı hikâyede birleştiği güçlü bir örnektir.",
+        "accuracyNote": "Oyundaki kişiler kurgu olabilir; ancak 369. Alay’ın cephe hizmeti, Fransız komutası altında savaşması, aldığı nişanlar ve dönüşte yaşadığı ayrımcılık tarihsel olarak güçlü biçimde belgelenmiştir.",
+        "whyInteresting": "Harlem Hellfighters yalnız savaş performansıyla değil, James Reese Europe’un bandosuyla cazı Avrupa’ya taşıyan kültürel etkisiyle de hatırlanır.",
+        "mediaChanged": "Battlefield 1 bu birliği cephedeki cesaretiyle görünür kılar; tarihsel bağlamda hikâyenin diğer yarısı, ABD ordusundaki ayrımcılık ve savaş sonrası sivil haklar mücadelesidir.",
+        "whyItMatters": "369. Alay, askeri kahramanlığın yurttaşlık eşitliği getirmediğini; fakat bu çelişkinin daha sonraki hak mücadeleleri için güçlü bir hafıza yarattığını gösterir.",
+        "quickRealityCheck": "Harlem Hellfighters sadece başarılı bir cephe birliği miydi, yoksa savaşta kahraman sayılıp evde ayrımcılıkla karşılaşan bir Amerika çelişkisi mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Remembering the Harlem Hellfighters (Smithsonian NMAAHC)",
+            "url": "https://nmaahc.si.edu/explore/stories/remembering-harlem-hellfighters",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Photographs of the 369th Infantry (National Archives)",
+            "url": "https://www.archives.gov/education/lessons/369th-infantry",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Harlem Hellfighters (American Battle Monuments Commission)",
+            "url": "https://www.abmc.gov/news-events/news/harlem-hellfighters-most-storied-african-american-combat-unit-world-war-i/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "shogun2-shinobi",
+      "locale": "tr",
+      "reviewDecision": "rewrite from existing content",
+      "fields": {
+        "realHistory": "Gerçek shinobi imajı, popüler kültürdeki siyah maskeli suikastçıdan daha sade ve daha işlevseldi. Sengoku döneminde Iga ve Kōka gibi dağlık bölgelerde gelişen bu uzmanlık, doğaüstü dövüş becerisinden çok istihbarat toplama, düşman kalelerine sızma, haber taşıma, sabotaj ve kaçış bilgisiyle ilgiliydi. Başarılı bir shinobi’nin amacı dikkat çekmek değil, kalabalığın içinde kaybolmaktı.\n\nBu yüzden kılık değiştirme merkezi bir beceriydi. Tüccar, gezgin, rahip, işçi ya da hizmetli gibi görünmek, siyah bir kostümle çatıda koşmaktan çok daha işe yarardı. Ninjutsu metinleri de yalnız suikastı değil; arazi bilgisi, psikoloji, yangın çıkarma, şifreli iletişim, gözlem ve iz bırakmadan hareket etmeyi önemser. Silahlar vardı, ama çoğu zaman bilgi silahtan daha değerliydi.\n\nTotal War: Shogun 2, shinobi’yi oyun mekaniği gereği suikast, sabotaj ve ajan hareketleriyle temsil eder. Bu tamamen temelsiz değildir; fakat gerçek tarih, shinobi’yi tek başına ölümcül bir dövüşçüden çok profesyonel casus ve operasyon uzmanı olarak gösterir. Siyah “ninja kostümü” ise tarihsel günlük kıyafetten çok tiyatro ve görsel kodların mirasıdır.",
+        "accuracyNote": "Oyunda shinobi ajan rolü doğru bir çekirdeğe dayanır; ancak popüler siyah kostüm ve sürekli suikastçı imajı tarihsel gerçekliği basitleştirir.",
+        "whyInteresting": "Gerçek shinobi’nin en büyük başarısı dövüş kazanmak değil, düşman tarafından fark edilmeden bilgiyle geri dönmekti.",
+        "misconception": "Ninjaların her zaman siyah maskeli kıyafetlerle dolaştığı sanılır; gerçekte görevlerine göre sıradan insan gibi görünmeleri çok daha önemliydi.",
+        "mediaChanged": "Total War: Shogun 2, shinobi’yi görünür bir ajan birimine dönüştürür; tarihsel shinobi ise değerini çoğu zaman görünmez kalmasından alıyordu.",
+        "whyItMatters": "Shinobi örneği, savaş tarihinin yalnız meydan muharebelerinden değil, istihbarat, bilgi ve algı yönetiminden de oluştuğunu gösterir.",
+        "quickRealityCheck": "Gerçek shinobi siyah maskeli bir süper suikastçı mıydı, yoksa fark edilmemeyi başaran profesyonel bir casus mu?",
+        "mediaConnection": "Total War: Shogun 2, shinobi’yi strateji haritasında sabotaj ve suikast aracı olarak kullanır; tarihsel karşılığı daha geniş bir istihbarat ve kılık değiştirme pratiğidir."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "What are Ninjutsu and Ninja? (Iga-ryu Ninja Museum)",
+            "url": "https://www.iganinja.jp/en/about/ninja.html",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Iga-ryu Ninjutsu: What is a Ninja? (Iga-ryu Ninja Museum)",
+            "url": "https://www.iganinja.jp/en/about/igaryu.html",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Ninja (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/topic/ninja",
+            "type": "reference",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "ghost-onna-musha",
+      "locale": "tr",
+      "reviewDecision": "small rewrite + source cleanup",
+      "fields": {
+        "realHistory": "Samuray sınıfındaki kadınları yalnız pasif eşler veya kurbanlar olarak görmek yanıltıcıdır. Savaşçı ailelerde kadınlar, özellikle hane savunması, mülk yönetimi ve soy devamlılığı içinde ciddi sorumluluk taşıyabiliyordu. Onna-musha ya da savaşçı kadın figürü, bu dünyanın tamamen kurgu olmadığını gösterir; ancak her samuray kadınının cephede düzenli savaştığını söylemek de abartı olur.\n\nTarihsel hafıza Tomoe Gozen ve Nakano Takeko gibi güçlü örnekleri öne çıkarır. Tomoe Gozen’in anlatısı edebi ve yarı efsanevi katmanlar taşır; Nakano Takeko ise çok daha geç bir dönem olan Boshin Savaşı’nda kaydedilmiş bir örnektir. Bu çeşitlilik önemli: kadın savaşçılar tek bir döneme veya tek bir role indirgenemez. Naginata eğitimi, özellikle hane savunmasıyla ilişkilendirildiği için bu hafızanın en tanınan simgelerinden biri hâline geldi.\n\nGhost of Tsushima’daki Masako gibi karakterler bu geleneği kişisel intikam ve onur hikâyesiyle dramatize eder. Tarihsel gerçek daha dengelidir: kadınların askeri rolü genellikle istisnai koşullarda görünür olur, fakat samuray toplumunda güç, mülk ve aile savunması yalnız erkeklerin alanı değildi.",
+        "accuracyNote": "Kadın savaşçı örnekleri gerçektir, ancak yaygınlıkları dönemden döneme değişir. Oyun bu istisnai rolleri dramatik ve kişisel hikâyeye dönüştürür.",
+        "whyInteresting": "Naginata, samuray kadınlarının hane savunmasıyla ilişkilendirilen en güçlü sembollerden biri hâline geldi.",
+        "misconception": "Feodal Japonya’da kadınların hiçbir askeri veya siyasi sorumluluk taşımadığı sanılır; bazı kadınlar hane savunması, mülk yönetimi ve istisnai savaş rollerinde etkiliydi.",
+        "mediaChanged": "Ghost of Tsushima kadın savaşçıları kişisel intikam anlatısıyla öne çıkarır; tarihsel bağlamda onna-musha geleneği daha çok hane, mülk ve sınıfsal sorumluluk üzerinden anlaşılır.",
+        "whyItMatters": "Onna-musha örneği, samuray toplumunu yalnız erkek savaşçılar üzerinden okumamamız gerektiğini gösterir.",
+        "quickRealityCheck": "Ghost of Tsushima’daki savaşçı kadınlar tamamen kurgu mu, yoksa tarihsel hafızadaki istisnai ama gerçek kadın savaşçı rollerinin dramatize edilmiş hali mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Did Japan have female samurai? (Live Science)",
+            "url": "https://www.livescience.com/archaeology/did-japan-have-female-samurai",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Women Warriors of Early Japan (University of Hawaiʻi at Hilo)",
+            "url": "https://hilo.hawaii.edu/campuscenter/hohonu/volumes/documents/WomenWarriorsofEarlyJapanRochelleNowaki.pdf",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "good",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "napoleon-height",
+      "locale": "tr",
+      "reviewDecision": "small rewrite",
+      "fields": {
+        "realHistory": "Napolyon’un “çok kısa” olduğu fikri, tarihsel kayıttan çok propaganda, ölçü birimi karışıklığı ve karikatür geleneğinin birleşimidir. Ölümünden sonra boyu Fransız ölçüsüyle 5 pied 2 pouce olarak kaydedildi. Bu sayı İngiliz ölçüsü gibi okununca kısa görünür; modern ölçüye çevrildiğinde Napolyon’un boyu yaklaşık 1.68–1.70 metre aralığına gelir. Bu da onu kendi dönemindeki birçok Fransız erkeğinden kısa değil, ortalama civarında veya biraz üzerinde gösterir.\n\n“Küçük Onbaşı” lakabı da yalnız boyla açıklanmaz. Askerleriyle kurduğu yakınlık, genç yaşta yükselmesi ve cephedeki imajı bu lakabın oluşmasında daha belirleyicidir. Ayrıca Napolyon’un çevresinde seçkin ve uzun boylu muhafızların bulunması, görsel karşılaştırmada onu daha kısa gösterebilirdi. İngiliz karikatüristler ise onu küçük, öfkeli ve hırslı bir figür gibi çizerek bu imajı kalıcılaştırdı.\n\nTotal War: Napoleon gibi yapımlar bazen bu popüler imajdan beslenir. Gerçekte Napolyon’un hırsını boyuyla açıklamak, dönemin siyasi devrimlerini, askeri reformlarını ve Avrupa güç dengesini aşırı basitleştirir.",
+        "accuracyNote": "Napolyon kısa değildi; kısa imajı Fransız-İngiliz ölçü farkı, propaganda karikatürleri ve görsel karşılaştırmalardan güç aldı.",
+        "whyInteresting": "“Napolyon Kompleksi” terimi, büyük ölçüde yanlış anlaşılmış bir fiziksel imajın modern psikoloji diline sızmış hâlidir.",
+        "misconception": "Napolyon’un cüce denecek kadar kısa olduğu sanılır; gerçekte boyu döneminin ortalamasına yakındı.",
+        "mediaChanged": "Oyunlar ve popüler kültür Napolyon’u bazen kısa boylu hırs figürü gibi kullanır; tarihsel tablo, ölçü karışıklığı ve İngiliz propaganda görsellerinin bu miti büyüttüğünü gösterir.",
+        "whyItMatters": "Napolyon miti, basit bir fiziksel yanlış anlamanın bir liderin karakterini açıklamak için nasıl kalıcı bir klişeye dönüşebildiğini gösterir.",
+        "quickRealityCheck": "Napolyon gerçekten olağanüstü kısa mıydı, yoksa İngiliz propagandası ve ölçü birimi karışıklığı mı bu imajı büyüttü?"
+      },
+      "sourceUpdates": null
+    },
+    {
+      "id": "prestige-currents",
+      "locale": "tr",
+      "reviewDecision": "rewrite from existing content",
+      "fields": {
+        "realHistory": "Akımlar Savaşı, tek başına Tesla ile Edison’un kişisel kavgası değil, elektrik altyapısının nasıl kurulacağına dair teknik ve ticari bir mücadeleydi. Edison’un doğru akım sistemi şehir içinde işe yarayabiliyordu, fakat voltaj dönüşümü ve uzun mesafe iletim konusunda sınırlıydı. George Westinghouse’un desteklediği alternatif akım sistemi ise transformatörlerle voltajı yükseltip düşürebildiği için elektriği daha uzak mesafelere taşımada avantaj sağladı. Tesla’nın çok fazlı AC motorları bu sistemin teknik temelini güçlendirdi.\n\nEdison cephesi AC’nin tehlikeli olduğunu göstermek için kamuoyuna dönük sert kampanyalar yürüttü. Elektrikli sandalye tartışması ve hayvanların elektrikle öldürüldüğü gösteriler bu dönemin karanlık PR yöntemleri arasında anılır. Buna rağmen 1893 Chicago Dünya Fuarı’nın AC ile aydınlatılması ve Niagara Şelalesi hidroelektrik projesi, alternatif akımın ölçeklenebilirliğini görünür kıldı.\n\nThe Prestige, Tesla’yı gizemli ve neredeyse büyücü bir mucit gibi kullanır. Tarihsel Tesla gerçekten sıra dışıydı; ama AC’nin zaferi yalnız onun dehasıyla değil, Westinghouse’un sermayesi, patent anlaşmaları, mühendislik ekipleri ve şehirlerin büyüyen enerji ihtiyacıyla mümkün oldu.",
+        "accuracyNote": "Tesla, Edison ve Westinghouse arasındaki rekabet gerçektir; filmdeki kopyalama makinesi ise tamamen kurgudur.",
+        "whyInteresting": "AC’nin zaferi yalnız bilimsel bir fikir zaferi değil, elektriğin şehirler ve endüstri için ölçeklenebilir hâle gelmesiydi.",
+        "misconception": "Tesla’nın tek başına Edison’a karşı savaşı kazandığı sanılır; gerçekte Westinghouse’un sermayesi ve mühendislik ağı olmadan AC sistemi bu ölçekte yaygınlaşamazdı.",
+        "mediaChanged": "The Prestige, Tesla’yı gizemli bir mucit figürüne dönüştürür; tarihsel Akımlar Savaşı ise patent, yatırım, güvenlik algısı ve altyapı standartları mücadelesiydi.",
+        "whyItMatters": "Bugünkü elektrik şebekesinin arkasında yalnız icatlar değil, ticari rekabet ve kamuoyunu yönlendirme savaşları da vardır.",
+        "quickRealityCheck": "Akımlar Savaşı sadece Tesla-Edison düellosu muydu, yoksa Westinghouse’un sermayesi ve şehir altyapısının ihtiyaçları sonucu belirleyen asıl güç müydü?"
+      },
+      "sourceUpdates": null
+    },
+    {
+      "id": "ryan-higgins-boats",
+      "locale": "tr",
+      "reviewDecision": "rewrite",
+      "fields": {
+        "realHistory": "Saving Private Ryan’ın Omaha sahili açılışında gördüğümüz çıkarma botları, yalnız arka plandaki araçlar değildir; Normandiya gibi bir operasyonun mümkün olmasını sağlayan lojistik teknolojinin kendisidir. LCVP olarak bilinen Higgins botu, askerleri açık denizdeki gemilerden alıp sığ kıyıya kadar taşıyabiliyor, ön rampasını indirerek hızlı boşaltma sağlıyordu. Bu basit görünen tasarım, amfibi savaşın en zor sorusuna cevap veriyordu: liman olmadan kıyıya nasıl insan ve malzeme çıkarılır?\n\nAndrew Higgins’in tasarımı Louisiana’nın sığ, engelli bataklık sularında kullanılan teknelerden gelişti. Pervane ve gövde düzeni sığ suda çalışmaya uygundu; savaş için uyarlanınca ön rampa eklendi ve askerlerin yanlardan atlamak yerine doğrudan sahile çıkması sağlandı. LCVP yaklaşık 36 asker, bir jeep ve küçük birlik ya da yük taşıyabiliyordu. Büyük oranda kontrplak kullanılması, çeliğin savaş gemileri ve tanklar için ayrıldığı bir dönemde üretimi hızlandırdı.\n\nBu botlar askerleri koruyan zırhlı araçlar değildi. Yanları sınırlı koruma sağlıyordu; kapak açıldığında askerler doğrudan ateş hattıyla karşılaşıyordu. Film bu anın korkusunu çok iyi verir. Fakat sinema sahnesinin arkasında daha büyük bir hikâye vardır: binlerce botun üretilmesi, bakımının yapılması, doğru sahile doğru zamanda ulaşması ve dalga, mayın, engel, topçu ateşi gibi faktörlerle baş etmesi.\n\nHiggins Industries’in New Orleans’taki üretimi de savaşın sosyal tarihine bağlanır. Kadınlar ve siyahi işçiler dahil büyük bir işgücü bu araçların üretiminde yer aldı. Bu yüzden Higgins botu, yalnız bir mühendislik icadı değil; sanayi üretimi, lojistik planlama ve toplumsal emek sayesinde askeri stratejinin gerçeğe dönüşmesidir. D-Day’i mümkün kılan şey yalnız cesaret değil, o cesareti kıyıya taşıyan üretim zinciriydi.",
+        "accuracyNote": "Film bot içindeki panik, sarsıntı ve rampanın açıldığı anı güçlü biçimde verir; ancak botların gerçek önemi, sahne atmosferinden çok amfibi lojistiği mümkün kılan üretim ve tasarım sistemindedir.",
+        "whyInteresting": "Higgins botu savaş gemisi gibi görünmez; ama liman ele geçirilmeden sahile asker çıkarabilmesi, modern amfibi harekâtın kaderini değiştirdi.",
+        "misconception": "Higgins botlarının askerleri güvenle koruyan küçük savaş gemileri olduğu sanılır; gerçekte bunlar hızlı boşaltma için tasarlanmış, sınırlı korumalı taşıma araçlarıydı.",
+        "mediaChanged": "Saving Private Ryan botların içindeki dehşeti gösterir; tarihsel arka plan ise bu araçların sığ su tasarımı, seri üretimi ve D-Day lojistiğindeki merkezi rolüdür.",
+        "whyItMatters": "Higgins botları, büyük askeri zaferlerin yalnız cephedeki cesarete değil, doğru tasarım ve seri üretimle kurulmuş lojistik altyapıya bağlı olduğunu gösterir.",
+        "quickRealityCheck": "D-Day’i mümkün kılan şey yalnız asker cesareti miydi, yoksa o askerleri sahile ulaştıran Higgins botları gibi lojistik çözümler mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Research Starters: Higgins Boats (National WWII Museum)",
+            "url": "https://www.nationalww2museum.org/students-teachers/student-resources/research-starters/research-starters-higgins-boats",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Andrew Higgins (National Inventors Hall of Fame)",
+            "url": "https://www.invent.org/inductees/andrew-higgins",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "New Orleans, Louisiana and Higgins Industries (National Park Service)",
+            "url": "https://www.nps.gov/places/new-orleans-louisiana.htm",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

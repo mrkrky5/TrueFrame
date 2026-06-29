@@ -1,0 +1,416 @@
+{
+  "batch": "tr-chunks-027-028-source-aware",
+  "sourceChunks": [
+    "tr-chunk-027.json",
+    "tr-chunk-028.json"
+  ],
+  "notes": [
+    "External source-aware editorial review for Turkish chunks 027 and 028.",
+    "Only changed fields are included. Apply by id + locale.",
+    "sourceUpdates are separated from text field updates."
+  ],
+  "entries": [
+    {
+      "id": "ac-crusader-urban-life",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original body opened broken, repeated itself, and overstated daily harmony. Rewritten around urban life, trade colonies, pilgrimage and practical coexistence.",
+      "fields": {
+        "whatWeSee": "Assassin’s Creed, Akka ve Kudüs’ü çoğunlukla gerilim, suikast ve askeri kontrol alanları olarak gösterir.",
+        "realHistory": "Haçlı kentleri yalnız savaşın ve kuşatmanın sahnesi değildi. Kudüs Krallığı ve diğer Haçlı devletleri, Latin Hristiyan lordların yönettiği ama Müslüman, Doğu Hristiyanı, Yahudi ve Avrupalı toplulukların aynı ekonomik alanı paylaştığı karmaşık yapılardı. Bu durum barışçıl bir çokkültürlülük anlamına gelmiyordu; statü, vergi, hukuk ve güvenlik farklı gruplar için değişiyordu. Yine de gündelik hayatın işlemesi için ticaret, çeviri, yerel memurlar ve pratik pazarlıklar gerekliydi.\n\nAkka bunun en iyi örneklerinden biriydi. 1191’den sonra Haçlı dünyasının ana limanlarından biri haline gelen şehirde Venedik, Ceneviz ve Pisa gibi İtalyan denizci güçlerinin ticari mahalleleri ve depoları vardı. Liman ekonomisi, hacı akışı, gümrük gelirleri, kredi ilişkileri ve deniz taşımacılığı şehrin askeri önemini tamamlıyordu. Kudüs ise özellikle hac ve sembolik iktidar açısından öne çıkıyordu; sokaklarında farklı dillerin, ritüellerin ve hukuk alışkanlıklarının yan yana bulunması şaşırtıcı değildi.\n\nAssassin’s Creed’in taş sokakları ve kuleleri bu atmosferi iyi hissettirebilir, fakat gerçek şehirler sadece gizli örgütlerin kovalamaca alanı değildi. Akka ve Kudüs’ü anlamak için surların içindeki ticaret kolonilerine, dini kurumlara, yerel aracılara ve gündelik anlaşmalara da bakmak gerekir. Haçlı şehirleri, çatışmanın ortasında bile insanların alışveriş yapmaya, vergi toplamaya, ibadet etmeye ve birlikte yaşamın kurallarını yeniden pazarlamaya devam ettiğini gösterir.",
+        "accuracyNote": "Oyun Haçlı şehirlerini güvenlik ve suikast atmosferiyle yoğunlaştırır. Tarihsel tablo ise liman ticareti, hac ekonomisi, farklı cemaatlerin statüleri ve yerel idare pratikleriyle daha karmaşıktır.",
+        "whyInteresting": "Akka gibi limanlarda İtalyan ticaret kolonileri, Haçlı devletlerinin askeri gücü kadar ekonomik omurgasını da oluşturuyordu.",
+        "misconception": "Haçlı şehirlerinin yalnızca savaş alanı olduğu sanılır; gerçekte aynı kentlerde ticaret, hac, yerel bürokrasi ve kültürel temas günlük hayatın parçasıydı.",
+        "mediaChanged": "Oyun şehirleri sürekli tehdit ve gerilim altında gösterir; tarihsel Akka ve Kudüs ise aynı anda kale, liman, hac merkezi ve pazarlık alanıydı.",
+        "whyItMatters": "Haçlı şehirleri, dinî çatışmanın bile ticaret, vergi, liman ve yerel işbirliği ağlarını tamamen ortadan kaldırmadığını gösterir.",
+        "quickRealityCheck": "Assassin’s Creed’deki Haçlı şehirleri sadece savaş ve suikast dekoru mu, yoksa Akdeniz ticaretinin ve çok katmanlı gündelik hayatın merkezleri mi?",
+        "reviewerNote": "Akka’nın ticari mahalleleri ve Haçlı devletlerinin kent ekonomisi daha doğrudan kaynaklarla desteklendi."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Crusader States (Britannica)",
+            "url": "https://www.britannica.com/topic/Crusader-states",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Old City of Acre World Heritage Nomination (UNESCO)",
+            "url": "https://whc.unesco.org/uploads/nominations/1042.pdf",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Fortifications of the Genoese Quarter (JSTOR)",
+            "url": "https://www.jstor.org/stable/27224960",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "rdr-railroad-conquest",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original overcompressed the railroad as pure conquest and repeated generated prompt text. Rewritten around land grants, telegraph, standard time and Indigenous impact.",
+      "fields": {
+        "realHistory": "Red Dead Redemption’ın melankolik tarafı, demiryolunu yalnız bir ulaşım yeniliği değil, eski sınır hayatının kapanış işareti olarak göstermesidir. Tarihsel olarak da demiryolu, Batı’yı Washington’daki karar merkezlerine, şirket sermayesine ve ulusal pazara bağlayan büyük altyapı hamlesiydi. 1862 Pacific Railway Act, transcontinental railroad için federal arazi ve kredi desteği sağladı; bu da demiryolu şirketlerini Batı’daki en güçlü ekonomik aktörlerden biri haline getirdi.\n\nRaylar yalnız tren taşımadı. Telgraf hatları, posta, askerî hareketlilik, göçmen yerleşimi, arazi spekülasyonu ve standart zaman fikri de bu ağla birlikte güçlendi. Bir kasabanın “uzak” ya da “kanunsuz” kalabilmesi, demiryolu ve telgraf geldiğinde çok daha zorlaştı. Şirket takvimleri, tarifeler, şerifler, mahkemeler ve vergi düzeni eski yerel serbestliği daralttı.\n\nBu dönüşümün bedeli özellikle Yerli halklar için ağırdı. Demiryolları Batı’ya daha fazla yerleşimci, avcı ve asker taşıdı; bizon sürülerinin yok oluşu ise Plains halklarının geçim düzenini ve kültürel hayatını yıktı. Bu nedenle demiryolu ne tamamen ilerleme masalıdır ne de tek başına bütün şiddetin sebebi. Daha doğru çerçeve, devlet desteğiyle büyüyen şirket altyapısının araziyi, zamanı, hukuku ve yaşam biçimlerini yeniden düzenlemesidir.",
+        "accuracyNote": "Oyun demiryolunu eski dünyanın sonu gibi gösterirken doğru bir duyguyu yakalar; ancak tarihsel süreç şirket teşvikleri, federal arazi politikaları, telgraf, standart zaman ve Yerli halkların zorla yerinden edilmesiyle birlikte okunmalıdır.",
+        "whyInteresting": "Demiryolları yalnız mesafeyi kısaltmadı; 1883’te standart demiryolu zamanı gibi uygulamalarla insanların zamanı algılama biçimini de değiştirdi.",
+        "misconception": "Demiryolunun yalnız tarafsız bir teknoloji olduğu sanılır; gerçekte devlet desteği, şirket çıkarı, arazi politikası ve Yerli halkların hayatına yönelik büyük bir baskı sistemiyle birlikte ilerledi.",
+        "mediaChanged": "Red Dead Redemption demiryolunu melankolik bir modernleşme işareti olarak kullanır; kayıtlar bu modernleşmenin şirketleşme, arazi hibeleri, bizonların yok oluşu ve federal kontrolle birlikte geldiğini gösterir.",
+        "whyItMatters": "Demiryolları, teknolojinin yalnız hız değil; hukuk, mülkiyet, zaman, göç ve devlet gücü üzerinde de kalıcı etkiler yarattığını gösterir.",
+        "quickRealityCheck": "Red Dead Redemption’daki demiryolu yalnız ilerleme simgesi mi, yoksa Batı’nın şirket, devlet ve altyapı aracılığıyla yeniden düzenlenmesi mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Pacific Railway Act (National Archives)",
+            "url": "https://www.archives.gov/milestone-documents/pacific-railway-act",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The impact of the Transcontinental Railroad on Native Americans (Smithsonian)",
+            "url": "https://americanhistory.si.edu/explore/stories/TRR",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Where the Buffalo No Longer Roamed (Smithsonian Magazine)",
+            "url": "https://www.smithsonianmag.com/history/where-the-buffalo-no-longer-roamed-3067904/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Time Zones (National Museum of American History)",
+            "url": "https://americanhistory.si.edu/ontime/synchronizing/zones.html",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "shogun-sankin-kotai",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original repeated itself and implied the Shōgun plot was already the fully developed sankin-kōtai system. Reframed as later institutionalization of hostage politics.",
+      "fields": {
+        "realHistory": "Shōgun’daki rehine siyaseti, Tokugawa döneminde daha sistemli bir devlet mekanizmasına dönüşecek uygulamaların erken gerilimini hissettirir. Sankin-kōtai, yani “dönüşümlü ikamet”, özellikle 17. yüzyılda Tokugawa şogunluğunun daimyōları kontrol etmek için kullandığı en önemli araçlardan biri oldu. Daimyōlar belli aralıklarla Edo’ya gelmek, burada büyük tören alayları ve masraflı konaklama düzenleriyle şogunluk merkezinde görünmek zorundaydı.\n\nBu sistemin gücü yalnız rehin mantığında değildi. Daimyō ailesinin Edo’da kalması sadakati garanti altına alırken, yolculukların maliyeti de yerel lordların bağımsız askeri güç biriktirmesini zorlaştırdı. Her geliş gidiş; hizmetkârlar, atlar, konaklama, hediyeler ve gösterişli geçitlerle büyük harcamalar gerektiriyordu. Böylece şogunluk, daimyōları sürekli gözetim altında tutarken onların hazinesini de tüketen bir denge kurdu.\n\nAncak sankin-kōtai yalnız baskı üretmedi. Tōkaidō gibi ana yolların gelişmesi, hanların çoğalması, yol güvenliğinin artması ve Edo’nun devasa bir tüketim merkezine dönüşmesi bu zorunlu hareketlilikle bağlantılıydı. Dizi kişisel rehinelik ve saray gerilimini öne çıkarır; tarihsel sankin-kōtai ise aynı mantığın daha bürokratik, ekonomik ve kentsel ölçekte işlemiş halidir.",
+        "accuracyNote": "Shōgun’un geçtiği dönem, sankin-kōtai’nin tam Tokugawa sistemi olarak kurumsallaşmasından önceki siyasi gerilimi dramatize eder. Bu nedenle kart, dizideki rehine/misafirlik dilini daha sonraki Edo uygulamasıyla bağ kurarak okumalıdır.",
+        "whyInteresting": "Daimyō alayları yalnız bir kontrol aracı değildi; yol üzerindeki hanları, esnafı ve Edo’nun tüketim ekonomisini de büyüttü.",
+        "misconception": "Sankin-kōtai’nin sadece açık bir rehine sistemi olduğu sanılır; gerçekte siyasi gözetim, ekonomik yıpratma ve kentsel büyümeyi aynı anda üreten bir mekanizmaydı.",
+        "mediaChanged": "Dizi rehineliği kişisel dram ve saray tuzağı gibi gösterir; Edo döneminde bu mantık dönüşümlü ikamet, ailelerin Edo’da kalması ve masraflı daimyō alaylarıyla kurumsallaştı.",
+        "whyItMatters": "Sankin-kōtai, erken modern bir devletin şiddete başvurmadan da yol, para, aile ve tören üzerinden yerel güçleri nasıl denetleyebileceğini gösterir.",
+        "quickRealityCheck": "Shōgun’daki rehine gerilimi sadece kişisel bir tehdit mi, yoksa Tokugawa düzeninde bürokratik bir kontrol sistemine dönüşecek daha büyük bir mantığın işareti mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Sankin-kōtai (Britannica)",
+            "url": "https://www.britannica.com/topic/sankin-kotai",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Daimyo Procession to Edo (The Metropolitan Museum of Art)",
+            "url": "https://www.metmuseum.org/art/collection/search/835028",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "To Edo and Back: Alternate Attendance and Japanese Culture in the Early Modern Period (JSTOR)",
+            "url": "https://www.jstor.org/stable/133123",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "mafia-five-families",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original was too list-like and repeated generated claims. Rewritten around the Castellammarese War, Commission logic and the myth of the 'family'.",
+      "fields": {
+        "realHistory": "Mafia oyunlarındaki aile savaşları, gerçek New York mafyasının 20. yüzyıl başındaki kurumsallaşmasından izler taşır. 1930’ların başındaki Castellammarese Savaşı, eski usul patronluk düzeniyle daha modern, iş bölümü ve komisyon mantığına dayalı suç yönetimi arasındaki kırılmayı temsil eder. Lucky Luciano’nun yükselişi, mafyanın yalnız mahalle şiddetiyle değil; kumar, kaçak içki, sendika etkisi, rüşvet ve arabuluculuk ağlarıyla şirket benzeri bir yapıya dönüşmesinde önemli rol oynadı.\n\nNew York’taki Beş Aile düzeni, suçun tek bir “büyük patron”un keyfine bırakılmaması için kurulan bir denge sistemiydi. Gambino, Genovese, Lucchese, Bonanno ve Colombo aileleri farklı alanlarda güç kazandı; anlaşmazlıkları çözmek ve büyük kararları onaylamak için Komisyon gibi üst yapılar kullanıldı. Bu, mafyayı daha az suçlu yapmadı; tam tersine, şiddeti daha hesaplı, ekonomik çıkarı daha sürekli ve yolsuzluğu daha kurumsal hale getirdi.\n\nPopüler oyunlar bu dünyayı genellikle sadakat, aile ve karizmatik donlar üzerinden anlatır. Tarihsel kayıtlar ise bu “aile” dilinin çoğu zaman haraç, korku, sessizlik ve çıkar paylaşımı için kullanılan bir yönetim dili olduğunu gösterir. 1957 Apalachin toplantısının polis baskınıyla açığa çıkması, Amerikan kamuoyunun mafyanın yerel çetelerden çok daha örgütlü bir yapı olduğunu görmesinde dönüm noktası oldu.",
+        "accuracyNote": "Oyunlardaki aile rekabeti tarihsel zemine sahiptir; ancak gerçek Beş Aile düzeni romantik sadakatten çok rüşvet, haraç, sendika kontrolü ve ekonomik çıkar paylaşımı üzerine kuruluydu.",
+        "whyInteresting": "Komisyon fikri, organize suçun yalnız şiddetle değil; toplantı, temsil, bölge paylaşımı ve kriz yönetimiyle de çalışabildiğini gösterir.",
+        "misconception": "Mafyanın tek bir mutlak patron tarafından yönetildiği sanılır; New York örneğinde güç, aileler arası denge ve Komisyon mantığıyla daha karmaşık biçimde paylaşıldı.",
+        "mediaChanged": "Mafia oyunları donları ve aile içi sadakati öne çıkarır; tarihsel tablo ise Beş Aile, Komisyon ve ekonomik çıkar paylaşımı üzerinden daha kurumsal bir suç düzeni gösterir.",
+        "whyItMatters": "Beş Aile düzeni, organize suçun devlet dışı ama bürokratikleşmiş bir güç sistemi gibi çalışabileceğini gösterir.",
+        "quickRealityCheck": "Mafia’daki aile savaşları sadece dramatik çete kavgası mı, yoksa New York’ta suçun şirket benzeri bir federasyona dönüşmesinin oyunlaştırılmış hali mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Mafia Takedown: New York’s Five Families (FBI)",
+            "url": "https://www.fbi.gov/news/stories/mafia_012011/mafia-takedown",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "A 1957 Meeting Forced the FBI to Recognize the Mafia (Smithsonian Magazine)",
+            "url": "https://www.smithsonianmag.com/history/1957-meeting-forced-fbi-recognize-mafiaand-changed-justice-system-forever-180967204/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Lucky Luciano (The Mob Museum)",
+            "url": "https://themobmuseum.org/notable_names/lucky-luciano/",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "ac-templar-fall",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original mixed solid facts with conspiracy framing and repeated source-generated sentences. Rewritten around pilgrimage protection, finance and Philip IV's suppression.",
+      "fields": {
+        "realHistory": "Tapınak Şövalyeleri, Assassin’s Creed’in hayal ettiği gibi çağlar boyunca gizlice dünyayı yöneten bir ideoloji değildi. 12. yüzyıl başında Kutsal Topraklara giden hacıları korumak için kurulan, Papa’ya bağlı askeri-dini bir tarikattı. Zamanla Avrupa ve Doğu Akdeniz boyunca kaleler, bağışlar, muafiyetler ve mali hizmetler üzerinden büyük bir ağ kurdular. Bu ağ, hacıların ve soyluların parayı bir yerde yatırıp başka bir yerde kullanmasına benzer güvenli transfer pratikleri geliştirdi.\n\nBu güç onları hem gerekli hem tehlikeli hale getirdi. Kutsal Topraklardaki Haçlı varlığı gerilerken, tarikatın askeri anlamı zayıfladı ama serveti ve bağımsızlığı devam etti. Fransa Kralı IV. Philippe’in tarikata ağır borçları vardı ve Templarların doğrudan Papa’ya bağlı olması kraliyet otoritesi açısından rahatsız ediciydi. 13 Ekim 1307’de Fransa’daki Templarlar toplu şekilde tutuklandı; sapkınlık suçlamaları, işkence altında alınan itiraflar ve siyasi baskı tarikatın tasfiyesine giden yolu açtı.\n\nBu yüzden Templar hikâyesi iki uçtan da kaçınmalıdır. Ne oyunlardaki gibi her çağın arkasındaki tek gizli eldirler ne de yalnız masum bankacılardır. Gerçek Templarlar, Haçlı dünyasının savaş, hac, kredi, bağış ve kilise siyasetiyle iç içe geçmiş güçlü bir kurumuydu. Düşüşleri, ortaçağda dini saygınlığın bile kralın mali ve siyasi baskısı karşısında kırılabileceğini gösterir.",
+        "accuracyNote": "Assassin’s Creed, Templarları evrensel ve zamansız bir düzen ideolojisine dönüştürür. Tarihsel Tapınak Şövalyeleri ise Haçlı Seferleri bağlamında doğmuş, Papa’ya bağlı ve 14. yüzyılda siyasi-mali baskıyla tasfiye edilmiş bir tarikattı.",
+        "whyInteresting": "Tarikatın mali ağı, hacıların ve soyluların güvenli para transferi yapmasına yardımcı olarak erken finans tarihinin dikkat çekici örneklerinden birini oluşturdu.",
+        "misconception": "Templarların gizli dünyayı yöneten ebedi bir örgüt olduğu sanılır; gerçekte güçleri Haçlı Seferleri, papalık ayrıcalıkları, bağışlar ve mali ağlarla sınırlı tarihsel bir kurumdu.",
+        "mediaChanged": "Oyunlar Templarları çağlar üstü bir düzen projesi gibi gösterir; kayıtlar ise onların Haçlı dünyasında yükselen ve 1307–1312 sürecinde siyaset, borç ve suçlama kampanyasıyla çöken bir tarikat olduğunu gösterir.",
+        "whyItMatters": "Tapınak Şövalyelerinin düşüşü, dini otorite, finansal güç ve kraliyet siyasetinin Orta Çağ’da nasıl tehlikeli biçimde kesiştiğini gösterir.",
+        "quickRealityCheck": "Assassin’s Creed’deki Templarlar gerçekten tarihin gizli yöneticileri miydi, yoksa Haçlı dünyasında yükselip kral-papalık siyasetinde tasfiye edilen güçlü bir tarikat mı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Templars (Britannica)",
+            "url": "https://www.britannica.com/topic/Templars",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Templars at the Tower (Historic Royal Palaces)",
+            "url": "https://www.hrp.org.uk/blog/templars-at-the-tower/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "The Knights Templars: The First City Bankers? (Inner Temple)",
+            "url": "https://publications.innertemple.org.uk/yearbook/articles/%25yearbook%25/the-knights-templars-the-first-city-bankers/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "ghost-samurai-reality",
+      "locale": "tr",
+      "decision": "flagship_rewrite_expand",
+      "reason": "Flagship card was too short and leaned on broad Bushido claims. Expanded with period-specific Kamakura, weapons, tactics and media framing.",
+      "fields": {
+        "readingTimeMinutes": 4,
+        "realHistory": "### 1274’te Samuray Ne Demekti?\n\nGhost of Tsushima, samuray onurunu güçlü bir dramatik çatışma haline getirir: açık savaş mı, gizlilik mi, kural mı, hayatta kalma mı? Fakat 1274’teki Kamakura dönemi savaşçılarını, 19. yüzyılda romantize edilen “katı Bushidō” kalıbıyla bire bir okumak yanıltıcı olur. O dönemin samurayı öncelikle bağlı olduğu haneye hizmet eden, ödül, toprak, ün ve savaş başarısı peşinde koşan askeri bir elit sınıftı. Onur vardı; fakat bu onur modern filmlerdeki gibi her zaman yüz yüze kılıç düellosu anlamına gelmiyordu.\n\n### At, Yay ve Uyum Sağlama\n\nMoğol istilaları sırasında Japon savaşçı geleneği hâlâ atlı okçuluk, tachi gibi kılıçlar ve zırhlı elit savaşçılar etrafında şekilleniyordu. Katana, oyunun görsel kimliği için çok uygun olsa da 13. yüzyıl savaş alanını tek başına temsil etmez. Japon savunmacılar, Moğol ve Yuan-Goryeo kuvvetlerinin toplu hareket, davul, ok yağmuru, barutlu patlayıcılar ve farklı savaş disipliniyle karşılaşınca alışık oldukları bireysel meydan okuma düzeninin sınırlarını gördüler. Bu şok, onların “onursuz” taktiklere geçmesi değil, savaş alanının değişen koşullarına uyum sağlamasıydı.\n\n### Bushidō’nun Zamanı\n\nBugün samurayla birlikte düşündüğümüz Bushidō dili, büyük ölçüde daha geç dönemlerde, özellikle Edo barışı içinde sınıf kimliği ve ahlak anlatısı olarak sistemleşti. Bu, daha erken savaşçılarda sadakat, ün ve onur kavramları yoktu demek değildir; ama Ghost of Tsushima’daki “gizlilik kullanırsan samuraylığını kaybedersin” ikilemi tarihsel bir kanundan çok modern bir dramatik çerçevedir. Gerçek savaşçılar pusu, gece baskını, keşif, aldatma ve yerel bilgi gibi yöntemleri gerektiğinde kullanabiliyordu.\n\n### Tsushima’nın Gerçek Yeri\n\nTsushima gerçekten Moğol istilasının ilk hedeflerinden biriydi ve yerel savunma ağır bedel ödedi. Fakat Japonya’nın kurtuluşu tek bir yalnız kahramanın hikâyesi değildir. Kyushu’daki savunma hazırlıkları, yerel savaşçı ağları, deniz lojistiği ve 1274 ile 1281’deki fırtınalar birlikte rol oynadı. Oyun, bu büyük süreci Jin Sakai’nin kişisel ahlak krizi üzerinden anlatır. Tarihsel gerçek ise daha geniştir: Samuray kimliği, tek bir saf onur kodu değil; savaş teknolojisi, sınıf çıkarı, bağlılık, ödül ve hayatta kalma arasında sürekli yeniden şekillenen bir pratikti.",
+        "accuracyNote": "Oyun, 1274 istilasını modern izleyici için anlaşılır bir onur çatışmasına dönüştürür. Tarihsel olarak Kamakura samurayları daha çok atlı okçuluk, hane sadakati, ödül sistemi ve savaş alanında uyum sağlama pratiğiyle anlaşılmalıdır.",
+        "whyInteresting": "Ghost of Tsushima’daki en güçlü fikir, gerçek bir tarihsel kuralı değil, samuray imajının yüzyıllar içinde nasıl romantik bir ahlak anlatısına dönüştüğünü göstermesidir.",
+        "misconception": "Samurayların her dönemde aynı Bushidō kurallarına bağlı olduğu sanılır; gerçekte samuray kimliği Kamakura, Sengoku ve Edo dönemlerinde farklı anlamlar kazandı.",
+        "mediaChanged": "Oyun Jin Sakai’nin gizlilik kullanmasını samuray kimliğine ihanet gibi kurar; tarihsel savaşçılar ise pusu, keşif ve aldatmayı askeri başarının parçası olarak kullanabiliyordu.",
+        "whyItMatters": "Samuray tarihini doğru okumak, onur denen şeyin değişmez bir kural değil; dönem, sınıf, savaş teknolojisi ve siyasi ihtiyaçlarla biçimlenen bir anlatı olduğunu gösterir.",
+        "quickRealityCheck": "Ghost of Tsushima’daki samuray onuru 1274 savaş pratiğinin bire bir yansıması mı, yoksa daha geç dönemlerde romantize edilen samuray imajının dramatik kullanımı mı?",
+        "reviewerNote": "Flagship olduğu için genişletildi; Bushidō, katana/tachi ve Mongol invasion bağlamı daha temkinli kuruldu."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Samurai (Britannica)",
+            "url": "https://www.britannica.com/topic/samurai",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Art of the Samurai: Japanese Arms and Armor, 1156–1868 (The Metropolitan Museum of Art)",
+            "url": "https://www.metmuseum.org/exhibitions/listings/2009/art-of-the-samurai/photo-gallery",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Tracing the Mongolian Invasion (Kyushu National Museum)",
+            "url": "https://www.kyuhaku.jp/en/exhibition/exhibition_pre192.html",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "kcd-medieval-diet",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original repeated template text and made very precise claims about Bohemia without enough source support. Rewritten with broader, safer medieval Central European framing.",
+      "fields": {
+        "realHistory": "Kingdom Come: Deliverance’ın güçlü yanlarından biri, Orta Çağ Bohemyası’nı yalnız savaş ve soylu sofralarıyla değil, köy tencereleri, ekmek, bira ve pazar alışverişiyle de hissettirmesidir. 1403 civarında sıradan insanların beslenmesi büyük ölçüde tahıl, ekmek, lapa, pottage benzeri tencere yemekleri, baklagiller, lahana türleri, soğan, peynir, yumurta ve mevsime göre bulunabilen az miktarda et veya balık etrafında dönerdi. Et vardı, ama her gün büyük kızarmış butlar yemek çoğu hane için gerçekçi değildi.\n\nSınıf farkı sofrada çok belirgindi. Soylular ve zengin kentliler daha iyi ekmek, şarap, baharat, av eti ve daha çeşitli yemeklere ulaşabiliyordu. Köylüler için ise doyuruculuk, saklanabilirlik ve mevsim belirleyiciydi. Çavdar ve arpa gibi tahıllar, bölgesel iklim ve üretim koşullarına göre önemliydi. Bal tatlandırıcı olarak kullanılırken; patates, domates, mısır ve kırmızı biber gibi Amerika kökenli ürünler henüz Avrupa mutfağında yoktu.\n\nOyunlardaki tencere yemekleri bu yüzden iyi bir tarihsel hissiyat verir: Orta Çağ mutfağı tatsız bir sefalet değil, sınıf, mevsim, dinî takvim ve yerel üretimle sınırlanmış pratik bir beslenme düzeniydi. Bohemya’da ne yenirdi sorusunun cevabı, yalnız tariflerde değil; kimin toprağa, hayvana, fırına, değirmene ve pazara erişebildiğinde saklıdır.",
+        "accuracyNote": "KCD’nin yemek atmosferi tarihsel hissiyat açısından güçlüdür; ancak belirli bir yemeğin her köyde ve her sınıfta aynı şekilde yenildiğini varsaymak doğru değildir. Diyet mevsime, statüye, yerel üretime ve kilise takvimine göre değişirdi.",
+        "whyInteresting": "Orta Çağ sofrasını anlamak, hangi ürünlerin henüz Avrupa’da bulunmadığını da gösterir: patates, domates, mısır ve biber gibi ürünler 1403 Bohemyası’nda yoktu.",
+        "misconception": "Orta Çağ insanının ya sadece kuru ekmek yediği ya da sürekli et ziyafeti yaptığı sanılır; gerçek sofra tahıl, tencere yemeği, baklagil, bira ve sınıf farkları etrafında daha dengeliydi.",
+        "mediaChanged": "Filmler büyük et sofralarını öne çıkarır; Kingdom Come: Deliverance’ın tencere ve köy yemeği hissi ise gündelik beslenmeye daha yakın bir atmosfer kurar.",
+        "whyItMatters": "Beslenme, bir toplumun sınıf düzenini, iklimini, tarım kapasitesini ve ticaret bağlantılarını en doğrudan gösteren alanlardan biridir.",
+        "quickRealityCheck": "Kingdom Come’daki Orta Çağ sofrası gerçekten et ziyafetlerinden mi oluşuyordu, yoksa ekmek, tahıl, pottage ve mevsimlik ürünler mi gündelik hayatın temeliydi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "How to cook a medieval feast (The British Museum)",
+            "url": "https://www.britishmuseum.org/blog/how-cook-medieval-feast-11-recipes-middle-ages",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Food in Medieval England: Diet and Nutrition (PMC review)",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2175059/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Early medieval England food and diet (University of Cambridge)",
+            "url": "https://www.arch.cam.ac.uk/news/early-medieval-england-food-and-diet-explored-new-bioarchaeological-studies",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "oppenheimer-trinity-reality",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original repeated generated text and overstated unresolved atmosphere ignition fears. Rewritten with Gadget, implosion logistics, secrecy and downwinder context.",
+      "fields": {
+        "realHistory": "Trinity testi, Oppenheimer filminin anlattığı gibi yalnız patlama anından ibaret değildi; aylarca süren mühendislik, güvenlik, hava durumu, taşıma ve montaj kararlarının sonucuydu. New Mexico’daki Jornada del Muerto çölünde 16 Temmuz 1945 sabahı test edilen cihaz, “Gadget” adı verilen plütonyum implosion tasarımıydı. Bu tasarım, Hanford’dan gelen plütonyumu kullanabilmek için çok hassas patlayıcı simetriye ihtiyaç duyuyordu; bu yüzden Los Alamos’taki çalışmalar teorik fizikten çok büyük bir mühendislik sınavına dönüşmüştü.\n\nFilmdeki bekleyiş hissi tarihsel olarak güçlüdür, ama “dünyayı yakma” korkusu dikkatli anlatılmalıdır. Atmosferin tutuşabileceği ihtimali proje içinde ciddiye alınmış, hesaplamalarla son derece düşük/gerçekçi olmayan bir risk olduğu gösterilmişti. Trinity sabahındaki bahisler ve şakalar, çözülmemiş bir kıyamet hesabından çok bilim insanlarının gerilimle baş etme biçimiydi.\n\nPatlama 5:30’da gerçekleşti ve atom çağını görünür hale getirdi. Kule yok oldu, çöl zemini trinitite adı verilen camımsı bir kalıntıya dönüştü ve çevrede yaşayan insanlar testin gerçek niteliği konusunda bilgilendirilmedi. Bu yüzden Trinity yalnız bilimsel başarı değil; gizlilik, yerel halkın maruz kalması, askeri zaman baskısı ve savaşın ahlaki ağırlığıyla birlikte okunmalıdır.",
+        "accuracyNote": "Film patlama anındaki gerilimi güçlü yansıtır; ancak atmosferin yanması meselesi, test sabahına kadar çözülememiş gerçek bir olasılık gibi değil, daha önce hesaplanıp çok düşük görülen bir endişe olarak anlatılmalıdır.",
+        "whyInteresting": "Trinity’de test edilen “Gadget”, yalnız teorik bir fikir değil; patlayıcı mercekler, zamanlama, kablolama, kule ve ölçüm düzenekleriyle büyük bir mühendislik sistemiydi.",
+        "misconception": "Trinity’nin sadece tek bir parlak patlama olduğu sanılır; gerçekte test, gizlilik, lojistik, radyasyon, yerel halk ve savaş siyasetiyle iç içe geçmiş büyük bir operasyondu.",
+        "mediaChanged": "Oppenheimer patlama anını kişisel ve ahlaki bir doruk gibi kurar; tarihsel süreç ise Gadget’ın mühendisliği, test alanı lojistiği ve sonrasındaki radyasyon/fallout sorularıyla daha geniştir.",
+        "whyItMatters": "Trinity, bilimsel bilginin askeri karar, devlet gizliliği ve insan etkisiyle birleştiğinde nasıl geri dönüşsüz sonuçlar doğurabileceğini gösterir.",
+        "quickRealityCheck": "Trinity yalnız Oppenheimer’ın bekleyişi miydi, yoksa binlerce kişinin çalıştığı gizli bir mühendislik ve devlet operasyonunun son testi miydi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Trinity Site (National Park Service)",
+            "url": "https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Gadget (National Park Service)",
+            "url": "https://www.nps.gov/articles/000/the-gadget.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Trinity Test - 1945 (Atomic Heritage Foundation)",
+            "url": "https://ahf.nuclearmuseum.org/ahf/history/trinity-test-1945/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "chernobyl-biorobots-cost",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original used '90-second suicide mission' language and sweeping health claims. Rewritten to preserve the human cost while avoiding overclaiming.",
+      "fields": {
+        "realHistory": "Çernobil felaketinden sonra reaktör binasının çatısında kalan yüksek radyasyonlu grafit ve enkaz, felaketin kontrol altına alınması için temizlenmek zorundaydı. İlk denemelerde robotlar ve uzaktan kumandalı araçlar kullanıldı; fakat yoğun radyasyon elektronik sistemleri bozduğunda Sovyet yönetimi insan gücüne döndü. Bu yüzden bazı asker ve tasfiyeciler, daha sonra “biyo-robot” diye anılan kısa görevlerle çatıda çalıştırıldı.\n\nBu görevler dakikalarca süren kahramanlık pozları değildi. İşçiler kurşun plakalarla güçlendirilmiş geçici korumalar giyiyor, kısa süreliğine çatıya çıkıyor, kürekle birkaç parça enkazı aşağı itip hızla geri dönüyordu. Süreler kaynaklara ve bölgelere göre değişse de amaç aynıdır: tek seferde alınacak dozu sınırlamak. Bu sahne, insan bedeninin teknolojinin yetmediği yerde son araç gibi kullanılmasının en sert örneklerinden biridir.\n\nAncak bütün Çernobil müdahalesini yalnız çatıdaki biyo-robotlara indirgemek eksik olur. Tasfiyeciler arasında itfaiyeciler, askerler, mühendisler, madenciler, sağlık çalışanları, temizlik ekipleri ve inşaat işçileri vardı. 1986–1987’de yüz binlerce kişi temizlik ve toparlama çalışmalarında görev aldı; maruz kalınan dozlar ve uzun vadeli sağlık etkileri kişiden kişiye büyük farklılık gösterdi. HBO dizisi çatının dehşetini iyi hissettirir, ama gerçek hikâye çok daha geniş bir insan emeği ve devlet seferberliği tablosudur.",
+        "accuracyNote": "Dizi, çatıdaki kısa ve tehlikeli görevleri güçlü dramatize eder. Tarihsel olarak “biyo-robotlar” daha geniş liquidator seferberliğinin yalnız bir parçasıydı; sağlık etkileri ve dozlar kişiden kişiye farklılık gösterdiği için kesin genellemelerden kaçınmak gerekir.",
+        "whyInteresting": "“Biyo-robot” ifadesi, makinelerin bozulduğu bir ortamda insan bedeninin geçici ve harcanabilir bir araç gibi görülmesini çarpıcı biçimde özetler.",
+        "misconception": "Çernobil temizliğini birkaç kahramanın tek görevi çözdü sanılır; gerçekte farklı mesleklerden yüz binlerce tasfiyecinin yıllara yayılan çalışması gerekiyordu.",
+        "mediaChanged": "Chernobyl dizisi çatı görevlerini yoğun ve kısa bir sekansla anlatır; tarihsel olay, robotların başarısızlığı, çok kısa insan görevleri ve geniş liquidator seferberliğiyle daha uzun ve karmaşıktır.",
+        "whyItMatters": "Biyo-robotlar, yüksek teknoloji felaketlerinde bile son savunma hattının çoğu zaman insan emeği ve insan bedeni olduğunu hatırlatır.",
+        "quickRealityCheck": "Çernobil’de makineler başarısız olduğunda çatı gerçekten kısa insan görevleriyle mi temizlendi, yoksa bu sahne daha geniş bir liquidator seferberliğinin yalnız bir parçası mıydı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "International Chernobyl Disaster Remembrance Day Background (United Nations)",
+            "url": "https://www.un.org/en/observances/chernobyl-remembrance-day/background",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Chernobyl Accident 1986 (World Nuclear Association)",
+            "url": "https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "What it was really like on top of Reactor No. 4 (ABC News)",
+            "url": "https://www.abc.net.au/news/2019-06-22/chernobyl-what-it-was-really-like-on-top-of-reactor/11223876",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "gladiator-commodus-real",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original overstated 'Rome's collapse' and repeated generated claims. Rewritten to distinguish film drama from reign, arena performances and assassination.",
+      "fields": {
+        "title": "Gladyatör İmparator: Commodus’un Gerçek Sonu",
+        "subtitle": "Gladiator’ın dramatik tiranı ve tarihsel imparator arasındaki fark.",
+        "realHistory": "Gladiator, Commodus’u babasını öldüren, kısa sürede imparatorluğu çökerten ve sonunda arenada Maximus tarafından öldürülen bir tiran olarak kurar. Tarihsel Commodus daha karmaşık ama yine de sorunlu bir figürdür. 177’den itibaren Marcus Aurelius ile ortak imparator, 180’den sonra ise tek başına hükümdardı. Yani filmdeki gibi tahtı bir anda gasp eden dışlanmış bir oğul değil, hanedan içinde resmen hazırlanmış bir varisti.\n\nCommodus’un en dikkat çekici yanı, imparatorluk rolünü gladyatör ve Herkül imgesiyle birleştirmesiydi. Arenaya çıkması Roma elitleri için skandal kabul ediliyordu; çünkü imparatorun kendisini gladyatör gibi göstermesi, Roma sosyal hiyerarşisinin alışılmış sınırlarını bozuyordu. Fakat bu dövüşler modern filmdeki ölüm kalım eşitliğiyle düşünülmemelidir; imparatorun karşısına çıkan rakipler ve koşullar onun gerçek anlamda sıradan bir gladyatör gibi risk almadığını gösterir.\n\nÖlümü de filmden farklıdır. Commodus 192’de arenada değil, bir suikast planı sonucunda banyosunda güreşçi Narcissus tarafından boğularak öldürüldü. Onun ölümü Nerva-Antonine hanedanının sonunu ve Beş İmparator Yılı’na giden krizi başlattı. Bu yüzden Commodus’u “Roma’nın çöküşünü tek başına başlatan kişi” diye okumak fazla basittir. Daha doğru olan, onun saltanatını Roma imparatorluk kültürünün, saray entrikasının, gösteri siyasetinin ve hanedan kırılmasının tehlikeli birleşimi olarak görmektir.",
+        "accuracyNote": "Film Commodus’un kişiliğini ve gladyatör takıntısını tarihsel bir zeminden alır; ancak Marcus Aurelius’u öldürmesi, Maximus’la arenada ölmesi ve olayların birkaç güne sıkışması dramatik kurgudur.",
+        "whyInteresting": "Commodus’un arenaya çıkması, Roma elitleri için yalnız tuhaf bir hobi değil; imparatorluk makamının sosyal hiyerarşisini küçük düşüren politik bir skandaldı.",
+        "misconception": "Commodus’un Gladiator’daki gibi arenada öldüğü sanılır; gerçekte 192 yılında bir suikast planıyla banyosunda boğularak öldürüldü.",
+        "mediaChanged": "Gladiator Commodus’u Maximus’un kişisel düşmanı ve arenadaki final rakibi yapar; tarihsel Commodus ise uzun süre hüküm süren, kendini Herkül’le özdeşleştiren ve saray komplosuyla öldürülen bir imparatordu.",
+        "whyItMatters": "Commodus örneği, liderlik krizlerinin yalnız karakter zayıflığıyla değil; hanedan siyaseti, gösteri kültürü ve saray içi güç dengeleriyle de açıklanması gerektiğini gösterir.",
+        "quickRealityCheck": "Gladiator’daki Commodus gerçekten arenada mı öldü, yoksa film tarihsel bir suikastı dramatik bir gladyatör finaline mi çevirdi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Commodus (Britannica)",
+            "url": "https://www.britannica.com/biography/Commodus",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Commodus (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/commodus/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Commodus (Ancient Rome Live)",
+            "url": "https://ancientromelive.org/commodus/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

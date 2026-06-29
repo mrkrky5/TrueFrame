@@ -1,0 +1,443 @@
+{
+  "patchId": "true-frame-tr-280-284-game-expansion-patch",
+  "locale": "tr",
+  "sourceChunks": [],
+  "contentRange": {
+    "startId": "tf26-280",
+    "endId": "tf26-284"
+  },
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-new-card-generation",
+  "summary": {
+    "cardCount": 5,
+    "newCards": 5,
+    "flagshipNewCards": 0,
+    "standardNewCards": 5,
+    "mediaFocus": [
+      "Das Boot",
+      "Propaganda ve Tarih",
+      "Bilim ve Tarih",
+      "Coğrafya ve Güç",
+      "Modernleşme ve Zaman"
+    ],
+    "sourceUpdates": "Fresh source-checked cards with verified replacement sources.",
+    "notes": "Final continuation batch after tf26-275 through tf26-279; completes proposal topics 81-85. Hidden Figures was intentionally skipped earlier due to high overlap with existing app content."
+  },
+  "entries": [
+    {
+      "id": "tf26-280-dasboot-battle-of-atlantic",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Das Boot kartı, tek bir denizaltı geriliminden çıkarılıp Atlantik Savaşı'nın konvoy, U-Bot, teknoloji ve yıpratma savaşı boyutuna bağlandı.",
+      "fields": {
+        "title": "Atlantik Savaşı ve U-Bot Hayatı",
+        "subtitle": "Denizaltı geriliminin arkasındaki yıpratma savaşı",
+        "mediaType": "series",
+        "mediaTitle": "Das Boot",
+        "era": "II. Dünya Savaşı",
+        "region": "Atlantik / Avrupa",
+        "themes": [
+          "II. Dünya Savaşı",
+          "Denizcilik",
+          "Teknoloji",
+          "Askeri Tarih"
+        ],
+        "whatWeSee": "Das Boot, seyirciyi dar bir U-Bot gövdesinin içine kapatır: metal sesleri, oksijen, bekleyiş, panik, disiplin ve ani ölüm tehlikesi. Deniz savaşı burada büyük harita oklarıyla değil; ter, korku, teknik arıza ve su basıncıyla hissedilir. Kamera çoğu zaman ideolojik zaferden çok kapalı mekân gerilimini ve mürettebatın kırılganlığını öne çıkarır.",
+        "realHistory": "Gerçekte Atlantik Savaşı, II. Dünya Savaşı’nın en uzun ve en belirleyici yıpratma mücadelelerinden biriydi. Almanya’nın U-Bot stratejisi, Britanya’yı ve müttefiklerini denizden gelen ikmalden koparmaya dayanıyordu. Buna karşılık müttefik konvoy sistemi; eskort gemileri, hava devriyeleri, radar, sonar/ASDIC, şifre çözme ve endüstriyel gemi üretimiyle cevap verdi. Imperial War Museums bu savaşı, Kuzey Amerika ve imparatorluk hatlarından gelen ticaret gemilerini koruyan konvoylarla Alman denizaltıları ve savaş gemileri arasındaki mücadele olarak özetler. Das Boot’un güçlü yanı, bu dev kampanyayı tek bir teknedeki insan deneyimine indirgemesidir. Ama gerçek tablo yalnızca cesaret ya da korkudan ibaret değildi; yakıt, tonaj, hava üstünlüğü, kriptoloji ve üretim kapasitesi de aynı derecede belirleyiciydi. U-Bot mürettebatı çok yüksek risk altında yaşıyordu, fakat onların hedef aldığı ticaret gemilerindeki sivil denizciler de savaşın görünmeyen yükünü taşıdı. Bu yüzden Das Boot, denizaltı romantizmi değil; modern savaşta insanın makine ve strateji arasında nasıl sıkıştığını gösteren güçlü bir kapıdır.",
+        "accuracyNote": "Dizi/film çizgisi atmosfer ve denizaltı yaşamı konusunda güçlüdür; belirli olaylar ve karakterler dramatik kurguya göre düzenlenir.",
+        "whyInteresting": "Çünkü II. Dünya Savaşı’nı cephe hattından değil, ikmal ve teknoloji savaşının klostrofobik içinden gösterir.",
+        "misconception": "Atlantik Savaşı’nı sadece denizaltı düelloları gibi görmek eksik olur; asıl mesele ticaret, ikmal ve üretim kapasitesiydi.",
+        "nextTopics": [
+          "Konvoy sistemi",
+          "Enigma ve codebreaking",
+          "Sivil denizciler"
+        ],
+        "similarMedia": [
+          "Greyhound",
+          "The Cruel Sea",
+          "U-571"
+        ],
+        "relatedCardIds": [
+          "tf26-263-imitation-game-bletchley",
+          "tf26-265-master-commander-royal-navy",
+          "tf26-230-mgs-nuclear-deterrence"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "spoilerNote": "Belirli bölüm finali veya karakter kaderi anlatmaz; tarihsel bağlam verir.",
+        "mediaConnection": "Das Boot’un kapalı mekân gerilimini Atlantik Savaşı’nın konvoy, teknoloji ve ikmal tarihiyle karşılaştırır.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "das boot",
+          "u-bot",
+          "atlantik savaşı",
+          "konvoy",
+          "ikinci dünya savaşı"
+        ],
+        "mediaChanged": false,
+        "whyItMatters": "Savaş anlatıları çoğu zaman cephe kahramanlığına odaklanır; Atlantik Savaşı ise modern dünyanın ikmal hatlarına ne kadar bağımlı olduğunu gösterir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Das Boot’un dar gövde gerilimi etkileyicidir; gerçek savaşın kaderini ise konvoylar, teknoloji, şifre çözme ve gemi üretimi belirledi.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Imperial War Museums - Battle of the Atlantic",
+            "url": "https://www.iwm.org.uk/history/second-world-war/battle-of-the-atlantic",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "IWM - What you need to know about the Battle of the Atlantic",
+            "url": "https://www.iwm.org.uk/history/second-world-war/battle-of-the-atlantic/what-you-need-to-know",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Naval History and Heritage Command - Battle of the Atlantic",
+            "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/atlantic.html",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-281-general-war-propaganda-posters",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Genel propaganda kartı, savaş temalı medya ve oyunlarda görülen poster estetiğinin gerçek devlet ikna kampanyalarıyla ilişkisini açıklıyor.",
+      "fields": {
+        "title": "Savaş Afişleri ve Kamuoyu",
+        "subtitle": "Devletler insanları nasıl ikna etti?",
+        "mediaType": "general",
+        "mediaTitle": "Propaganda ve Tarih",
+        "era": "20. Yüzyıl",
+        "region": "Küresel",
+        "themes": [
+          "Propaganda",
+          "Medya",
+          "Savaş",
+          "Toplum"
+        ],
+        "whatWeSee": "Savaş filmlerinde ve oyunlarında propaganda afişleri genellikle arka plan dekoru gibi durur: duvarda bir asker, bir bayrak, tehditkâr bir düşman yüzü ya da üretime çağıran kısa bir slogan. Bazen atmosfer kurar, bazen dönemin politik havasını tek kareye sıkıştırır. Seyirci çoğu zaman bunları görür ama propaganda tasarımının ne kadar bilinçli olduğunu düşünmez.",
+        "realHistory": "Gerçekte savaş afişleri yalnızca süs ya da basit moral mesajı değildi. Devletler onları asker toplamak, tahvil satmak, gıda ve yakıt tasarrufu istemek, düşmanı şeytanlaştırmak, kadınları üretime çağırmak veya gizlilik davranışı öğretmek için kullandı. U.S. National Archives’ın Powers of Persuasion sergisi, II. Dünya Savaşı posterlerini ikna stratejilerinin görsel bir arşivi olarak ele alır. Birleşik Krallık National Archives koleksiyonu da posterlerin gıda üretimi, geri dönüşüm, askerî katılım ve sivil savunma gibi kampanyalarda kullanıldığını gösterir. Bu afişlerin gücü, uzun makale anlatmamasından gelir: tek imge, tek emir ve tek duygu. Korku, görev, utanç, aidiyet veya umut saniyeler içinde iletilir. Medyada gördüğümüz poster estetiği bu yüzden önemlidir; duvardaki küçük detay, dönemin devlet-vatandaş ilişkisinin nasıl kurulduğunu gösterir. Ama propaganda afişleri her zaman masum değildir. Düşmanı insanlıktan çıkarabilir, ırkçı klişeleri yayabilir ve savaşı ahlaki açıdan sadeleştirebilir. True Frame açısından afişe bakmak, savaşın cephe dışında zihinlerde de yürütüldüğünü fark etmektir.",
+        "accuracyNote": "Bu genel kart belirli bir film veya oyunu değil, savaş temalı medyada sık görülen poster dilinin tarihsel kaynağını açıklar.",
+        "whyInteresting": "Çünkü savaşın yalnızca silahla değil, görsel dil ve duygu yönetimiyle de yürütüldüğünü gösterir.",
+        "misconception": "Propaganda afişlerini sadece eski moda reklam gibi görmek eksik olur; çoğu doğrudan davranış değiştirmeyi hedefleyen devlet kampanyasıydı.",
+        "nextTopics": [
+          "Radyo propagandası",
+          "Savaş tahvilleri",
+          "Düşman karikatürleri"
+        ],
+        "similarMedia": [
+          "Battlefield 1",
+          "Call of Duty: WWII",
+          "The Man in the High Castle"
+        ],
+        "relatedCardIds": [
+          "tf26-240-bf1-gallipoli",
+          "tf26-241-bf1-arab-revolt-lawrence",
+          "tf26-245-codbo-mkultra"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "spoilerNote": "Genel tarihsel çerçeve verir; belirli bir yapımın olay örgüsünü açıklamaz.",
+        "mediaConnection": "Savaş oyunları ve dönem filmlerindeki afiş dekorunu gerçek devlet propaganda kampanyalarıyla okur.",
+        "accuracyType": "real",
+        "isPremium": false,
+        "tags": [
+          "propaganda",
+          "savaş afişleri",
+          "ikinci dünya savaşı",
+          "medya tarihi",
+          "kamuoyu"
+        ],
+        "mediaChanged": false,
+        "whyItMatters": "Görsel propaganda, modern kitle toplumlarında devletlerin duygu ve davranışı nasıl yönlendirdiğini anlamak için temel bir örnektir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Savaş afişleri yalnızca dekor değildi; askerlikten tasarrufa kadar toplumsal davranışı yönlendirmek için tasarlanmış ikna araçlarıydı.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "U.S. National Archives - Powers of Persuasion",
+            "url": "https://www.archives.gov/exhibits/powers-of-persuasion",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The National Archives - Second World War propaganda posters",
+            "url": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/second-world-war/second-world-war-propaganda-posters/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Library of Congress - The World War II poster collection",
+            "url": "https://www.loc.gov/item/2003542663/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-282-general-greek-fire-byzantine-secrecy",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Rum Ateşi kartı, 'kayıp teknoloji' fikrini fantastik bir gizemden çıkarıp Bizans deniz savaşı, devlet sırrı ve bilgi aktarımı bağlamına yerleştiriyor.",
+      "fields": {
+        "title": "Rum Ateşi ve Kayıp Teknoloji",
+        "subtitle": "Bizans’ın sırrı gerçekten neydi?",
+        "mediaType": "general",
+        "mediaTitle": "Bilim ve Tarih",
+        "era": "Orta Çağ",
+        "region": "Bizans / Doğu Akdeniz",
+        "themes": [
+          "Bizans",
+          "Teknoloji",
+          "Askeri Tarih",
+          "Bilim"
+        ],
+        "whatWeSee": "Oyunlarda ve fantastik tarih anlatılarında Rum Ateşi çoğu zaman büyülü bir süper silah gibi görünür: suyun üstünde yanan, gemileri tek hamlede yok eden, kayıp formülüyle gizemini koruyan bir alev. Bu imge etkileyici olduğu için kolayca abartılır; sanki Bizans donanması her savaşta yenilmez bir teknolojiye sahipmiş gibi anlatılır.",
+        "realHistory": "Gerçekte Rum Ateşi, Bizans’ın özellikle deniz savaşlarında kullandığı gizemli bir yakıcı silahtı. Royal Museums Greenwich, bu silahın su üzerinde yanmaya devam etmesiyle etkili olduğunu ve 7. yüzyılda Bizans savunmasında önemli rol oynadığını aktarır. Ancak kesin formülü bilinmiyor; kaynaklar, modern deneyler ve tarihçilerin yorumları arasında hâlâ belirsizlik vardır. Bu yüzden onu ‘antik napalm’ diye basitleştirmek de, tamamen büyülü bir efsane saymak da doğru değildir. Rum Ateşi’nin asıl önemi sadece kimyasal karışımında değil, devlet sırrı olarak korunmasında ve uzmanlık zinciriyle kullanılmasındadır. Bir silahın etkili olması için malzeme kadar depolama, pompalama, gemi tasarımı, eğitim, hava koşulları ve taktik de gerekir. Formülün zamanla kaybolmuş olması, teknolojinin her zaman çizgisel ilerlemediğini hatırlatır. Bilgi kitaplarda açıkça yazılmadığında, birkaç ustanın pratiğine veya devlet kurumunun sürekliliğine bağlı kaldığında kırılgan hâle gelir. True Frame açısından Rum Ateşi, kayıp teknolojiden çok bilgi yönetimi hikâyesidir: Bir sır, imparatorluğu koruyabilir; ama o sırrı taşıyan kurum çökerse teknoloji de tarihe karışabilir.",
+        "accuracyNote": "Rum Ateşi gerçek bir Bizans silahıdır; fakat popüler anlatılardaki formül, etki ve kullanım ayrıntılarının önemli bölümü belirsiz veya abartılıdır.",
+        "whyInteresting": "Çünkü teknoloji tarihinin sadece icatlarla değil, sır, kurum, uzmanlık ve kayıp bilgiyle de ilerlediğini gösterir.",
+        "misconception": "Rum Ateşi’nin kesin formülünün bilindiğini ya da her koşulda çalışan yenilmez bir süper silah olduğunu sanmak yanlıştır.",
+        "nextTopics": [
+          "Bizans donanması",
+          "Kayıp teknolojiler",
+          "Askerî sırlar"
+        ],
+        "similarMedia": [
+          "Assassin's Creed Revelations",
+          "Rise of the Tomb Raider",
+          "Total War"
+        ],
+        "relatedCardIds": [
+          "tf26-253-civ-tech-tree-myth",
+          "tf26-254-aoe-siege-engineering",
+          "tf26-255-totalwar-condottieri"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "spoilerNote": "Genel tarihsel bilgi verir; belirli bir yapımın olay örgüsüne bağlı değildir.",
+        "mediaConnection": "Oyun ve dizilerdeki 'antik süper silah' imgesini, Bizans deniz savaşı ve kayıp bilgi tarihiyle dengeler.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "rum ateşi",
+          "bizans",
+          "kayıp teknoloji",
+          "deniz savaşı",
+          "askeri tarih"
+        ],
+        "mediaChanged": false,
+        "whyItMatters": "Kayıp teknoloji örnekleri, ilerlemenin otomatik olmadığını ve bilginin kurumlarla birlikte korunması gerektiğini gösterir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Rum Ateşi gerçekti; ama kesin formülü ve etkisi popüler anlatılardaki kadar net değildir.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Royal Museums Greenwich - Greek Fire",
+            "url": "https://www.rmg.co.uk/stories/maritime-history/greek-fire",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "JSTOR - Greek Fire and the Defense of Byzantium, 678-1204",
+            "url": "https://www.jstor.org/stable/3106585",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "World History Encyclopedia - Greek Fire",
+            "url": "https://www.worldhistory.org/Greek_Fire/",
+            "type": "reference",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-283-general-maps-as-propaganda",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Haritalar kartı strateji oyunları, savaş filmleri ve tarih medyasında normal görülen harita dilini iktidar, seçim ve propaganda açısından sorguluyor.",
+      "fields": {
+        "title": "Haritalar Yalan Söyler mi?",
+        "subtitle": "Coğrafya, iktidar ve seçilmiş gerçekler",
+        "mediaType": "general",
+        "mediaTitle": "Coğrafya ve Güç",
+        "era": "Genel Tarih",
+        "region": "Küresel",
+        "themes": [
+          "Coğrafya",
+          "Siyaset",
+          "Medya",
+          "Bilim"
+        ],
+        "whatWeSee": "Strateji oyunlarında, savaş filmlerinde ve tarih belgesellerinde harita genellikle tarafsız bir gerçeklik ekranı gibi görünür. Sınırlar çizilir, oklar ilerler, renkler ülkeleri ayırır, isimler bölgeye kimlik verir. Seyirci veya oyuncu haritayı çoğu zaman tartışmasız kabul eder: Dünya zaten böyleymiş, mesele sadece kimin nereye yürüdüğüymüş gibi.",
+        "realHistory": "Gerçekte harita hiçbir zaman dünyayı saf hâliyle göstermez; seçer, küçültür, büyütür, adlandırır ve sessizce yorumlar. Projeksiyon tercihi bazı bölgeleri olduğundan büyük veya küçük gösterir. Sınır çizgileri, devlet iddialarını doğal gerçekmiş gibi sunabilir. Yer adları, kimin hafızasının merkeze alındığını gösterir. Library of Congress’in propaganda haritaları koleksiyonu, 20. yüzyılda haritaların yalnızca bilgi vermek için değil, korku yaratmak, destek toplamak ve siyasi mesaj iletmek için de kullanıldığını açıkça gösterir. Cornell’in Persuasive Maps koleksiyonu da haritaların temel amacının bazen coğrafi doğruluk değil, fikir ve inanç etkilemek olduğunu belirtir. Bu, bütün haritaların yalan olduğu anlamına gelmez; ama her haritanın bir seçimler dizisi olduğu anlamına gelir. Hangi ölçek kullanılacak, merkez nereye konacak, hangi sınır tanınacak, hangi halk görünmez kalacak? Medyada harita gördüğümüzde bu sorular önemlidir. Çünkü harita, özellikle savaş ve imparatorluk anlatılarında, politik iddiayı teknik gerçek gibi göstermenin en güçlü yollarından biridir.",
+        "accuracyNote": "Bu kart haritaların kullanışsız olduğunu değil, tarafsız görünmelerine rağmen politik ve görsel seçimler taşıdığını açıklar.",
+        "whyInteresting": "Çünkü oyuncuların ve izleyicilerin en çok güvendiği arayüzlerden biri olan haritanın da anlatı kurduğunu gösterir.",
+        "misconception": "Haritayı sadece objektif coğrafya sanmak yanıltıcıdır; her harita neyi göstereceğine ve neyi dışarıda bırakacağına karar verir.",
+        "nextTopics": [
+          "Mercator projeksiyonu",
+          "Sınır anlaşmazlıkları",
+          "Counter-mapping"
+        ],
+        "similarMedia": [
+          "Civilization",
+          "Europa Universalis IV",
+          "Hearts of Iron IV"
+        ],
+        "relatedCardIds": [
+          "tf26-221-eu4-mercantilism-colonialism",
+          "tf26-223-hoi4-war-economy",
+          "tf26-253-civ-tech-tree-myth"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "spoilerNote": "Genel tarihsel ve medya okuma kartıdır; belirli bir hikâye spoil etmez.",
+        "mediaConnection": "Strateji oyunları ve tarih medyasındaki harita arayüzlerini, gerçek kartografya ve propaganda tarihiyle yeniden okur.",
+        "accuracyType": "real",
+        "isPremium": false,
+        "tags": [
+          "harita",
+          "kartografya",
+          "propaganda",
+          "coğrafya",
+          "sınırlar"
+        ],
+        "mediaChanged": false,
+        "whyItMatters": "Haritalar dünyayı anlamamıza yardım eder; ama aynı zamanda iktidarın dünyayı nasıl göstermek istediğini de taşıyabilir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Haritalar tamamen yalan değildir; ama her harita ölçek, merkez, sınır, isim ve görsel vurgu gibi politik seçimler içerir.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Library of Congress - Propaganda Maps to Strike Fear, Inform, and Mobilize",
+            "url": "https://blogs.loc.gov/maps/2019/09/propaganda-maps-to-strike-fear-inform-and-mobilize-a-special-collection-in-the-geography-and-map-division/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Cornell University Library - Persuasive Maps",
+            "url": "https://persuasivemaps.library.cornell.edu/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Library of Congress - Collections with Maps",
+            "url": "https://www.loc.gov/maps/collections/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-284-general-standard-time-railways",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Standart zaman kartı, modernleşme konusunu görünmez altyapı üzerinden ele alıyor: tren tarifeleri, GMT, telgraf ve saat disiplininin toplumsal etkisi.",
+      "fields": {
+        "title": "Saat Kaç? Standart Zamanın İcadı",
+        "subtitle": "Demiryolları zamanı nasıl hizaladı?",
+        "mediaType": "general",
+        "mediaTitle": "Modernleşme ve Zaman",
+        "era": "19. Yüzyıl",
+        "region": "Britanya / ABD / Küresel",
+        "themes": [
+          "Modernleşme",
+          "Teknoloji",
+          "Demiryolu",
+          "Zaman"
+        ],
+        "whatWeSee": "Dönem dizilerinde, westernlerde veya sanayi çağı oyunlarında tren saati çoğu zaman sadece dekor gibi görünür: istasyon panosu, cep saati, buharlı lokomotif, geciken tren. Oysa bu küçük detay modern hayatın en büyük dönüşümlerinden birini taşır. İnsanların zamanı yerel güneşe göre değil, ağlara göre yaşamaya başlaması tarihte doğal değil, inşa edilmiş bir değişimdi.",
+        "realHistory": "Sanayi öncesinde birçok yerde zaman yereldi: öğle, güneşin bulunduğunuz yerde en tepeye geldiği ana göre düşünülürdü. Bu düzen, yavaş ulaşım çağında idare edilebilirdi. Fakat demiryolları farklı şehirleri tek tarife üzerinde bağlayınca yerel saatler tehlikeli ve karmaşık hâle geldi. Smithsonian, 18 Kasım 1883’te Kuzey Amerika demiryollarının Standard Railway Time’a geçtiğini ve birçok topluluğun aynı anda standart zamana uyum sağladığını aktarır. Royal Museums Greenwich de 1840’lardan itibaren Britanya’daki birçok demiryolu şirketinin yerel saat yerine Greenwich Mean Time’ı benimsediğini, 1852’de telgrafla saat sinyali gönderilebildiğini belirtir. Bu değişim sadece teknik kolaylık değildi; fabrikaların vardiyası, okul saati, bürokrasi, haberleşme ve gündelik disiplin de buna göre şekillendi. Standart zaman, modernleşmenin görünmez altyapılarından biridir. Bugün telefonumuzdaki saat doğal ve tartışmasız görünür, ama arkasında demiryolu kazalarını önleme, ticareti hızlandırma, imparatorluk iletişimini düzenleme ve toplumu ortak ritme sokma ihtiyacı vardır. True Frame açısından bu konu, modern dünyanın bazen en sıradan görünen araçlarla kurulduğunu gösterir.",
+        "accuracyNote": "Standart zaman tek bir anda dünyaya yayılmadı; demiryolları, telgraf, Greenwich referansı ve uluslararası anlaşmalarla kademeli olarak güçlendi.",
+        "whyInteresting": "Çünkü bugün doğal sandığımız saat düzeninin aslında demiryolu, ticaret ve devlet yönetimi ihtiyacından doğduğunu gösterir.",
+        "misconception": "Saat dilimleri ve standart zamanın hep var olduğunu sanmak yanlıştır; bunlar 19. yüzyıl modernleşmesinin teknik ve politik ürünleridir.",
+        "nextTopics": [
+          "Greenwich Mean Time",
+          "Telgraf",
+          "Fabrika zamanı"
+        ],
+        "similarMedia": [
+          "Hell on Wheels",
+          "The Railway Men",
+          "Anno 1800"
+        ],
+        "relatedCardIds": [
+          "tf26-261-anno1800-industrial-city",
+          "tf26-222-victoria3-industrial-labor",
+          "tf26-229-deathstranding-logistics"
+        ],
+        "difficulty": "basic",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "spoilerNote": "Genel tarihsel karttır; belirli bir yapımın hikâyesini açıklamaz.",
+        "mediaConnection": "Dönem medyasındaki tren ve cep saati detaylarını, standart zamanın gerçek modernleşme tarihiyle bağlar.",
+        "accuracyType": "real",
+        "isPremium": false,
+        "tags": [
+          "standart zaman",
+          "demiryolu",
+          "greenwich",
+          "gmt",
+          "modernleşme"
+        ],
+        "mediaChanged": false,
+        "whyItMatters": "Modern hayat yalnızca büyük makinelerle değil, herkesin aynı dakikaya uyması gibi görünmez standartlarla da kuruldu.",
+        "isFlagship": false,
+        "quickRealityCheck": "Bugünkü saat düzeni doğal değil; demiryolları, telgraf ve modern ticaretin zorladığı standartlaşmanın sonucudur.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Smithsonian National Museum of American History - Time Zones",
+            "url": "https://americanhistory.si.edu/ontime/synchronizing/zones.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Royal Museums Greenwich - What is Greenwich Mean Time?",
+            "url": "https://www.rmg.co.uk/stories/time/greenwich-mean-time-gmt",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Royal Museums Greenwich - History of Royal Observatory Greenwich",
+            "url": "https://www.rmg.co.uk/stories/space-astronomy/history-royal-observatory",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

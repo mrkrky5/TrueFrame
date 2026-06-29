@@ -1,0 +1,482 @@
+{
+  "patchId": "tr-chunks-023-024-source-aware-patch",
+  "locale": "tr",
+  "sourceChunks": [
+    23,
+    24
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-editorial-qa",
+  "summary": {
+    "cardCount": 11,
+    "approvedAsIs": [],
+    "minorEdit": [
+      "medieval-road-travel"
+    ],
+    "rewrite": [
+      "cold-war-fear-system",
+      "decolonization-complexity",
+      "mafia-immigration-crime",
+      "roman-empire-stability-myth",
+      "civ-great-leaders-simplification",
+      "last-emperor-court-ritual",
+      "crown-monarchy-symbol",
+      "ancient-childhood",
+      "night-fears-pre-lighting",
+      "crusaders-poverty-myth"
+    ],
+    "sourceUpdates": [
+      "cold-war-fear-system",
+      "decolonization-complexity",
+      "mafia-immigration-crime",
+      "roman-empire-stability-myth",
+      "medieval-road-travel",
+      "civ-great-leaders-simplification",
+      "last-emperor-court-ritual",
+      "crown-monarchy-symbol",
+      "ancient-childhood",
+      "night-fears-pre-lighting",
+      "crusaders-poverty-myth"
+    ],
+    "notes": [
+      "Chunk 023 contains 5 cards; chunk 024 contains 6 cards.",
+      "Flagship cards mafia-immigration-crime, last-emperor-court-ritual and crown-monarchy-symbol were expanded/rewritten for depth.",
+      "cold-war-fear-system and roman-empire-stability-myth had heavy trivia repetition and were rewritten into tighter source-aware narratives.",
+      "civ-great-leaders-simplification and crusaders-poverty-myth contained clear template residue and missing/weak short fields.",
+      "medieval-road-travel was already usable; only metadata and source updates were applied."
+    ]
+  },
+  "entries": [
+    {
+      "id": "cold-war-fear-system",
+      "reviewStatus": "rewrite-source-cleanup",
+      "notes": "Mevcut metin çok fazla trivia yığmıştı; Kitchen Debate, Duck and Cover, Stasi, uzay yarışı, propaganda gibi örnekleri tek tek bir liste yerine Soğuk Savaş'ın korku/rekabet sistemi içinde topladı.",
+      "fields": {
+        "readingTimeMinutes": 3,
+        "realHistory": "Soğuk Savaş, yalnız iki süper gücün nükleer füzelerle birbirini tehdit ettiği bir dönem değildi. 1947’den 1991’e uzanan bu düzen, askeri ittifakları, propaganda aygıtlarını, istihbarat servislerini, bilim yarışını ve günlük hayatı aynı korku atmosferinde birleştirdi. ABD ile Sovyetler Birliği doğrudan büyük bir savaşa girmekten kaçındı; çünkü nükleer caydırıcılık, açık çatışmayı iki taraf için de felaket haline getiriyordu. Bu yüzden rekabet çoğu zaman Kore, Vietnam, Afganistan, Angola gibi alanlarda vekalet savaşlarıyla, ekonomik yardımlarla, darbelerle ve diplomatik baskıyla yürüdü.\n\nCasusluk bu dünyanın en görünür simgelerinden biriydi, ama gerçek istihbarat işi filmlerdeki kadar şık değildi. Uzun raporlar, dinleme ağları, arşivler, ajan devşirme, kod çözme ve propaganda takibi, Bond tarzı aksiyondan daha belirleyiciydi. Mutfak Tartışması gibi olaylar ise ideolojik mücadelenin sadece tank ve füze üzerinden değil; mutfak, buzdolabı, tüketim, bilim eğitimi ve yaşam standardı üzerinden de yapıldığını gösterdi.\n\nBu dönemin asıl etkisi, korkunun kurumsallaşmasıydı. Çocuklara nükleer saldırı tatbikatları öğretiliyor, evlerde sığınak broşürleri dolaşıyor, gazeteler ve radyo yayınları iki sistemin üstünlüğünü sürekli anlatıyordu. Uzay Yarışı da yalnız bilimsel merak değil, füze teknolojisi ve ideolojik prestij meselesiydi. Soğuk Savaş’ı sadece casus gerilimi olarak görmek bu yüzden eksik kalır; modern dünyanın güvenlik devleti, medya propagandası, teknoloji yarışı ve küresel ittifak mantığı büyük ölçüde bu dönemde şekillendi.",
+        "accuracyNote": "Filmler Soğuk Savaş'ı çoğu zaman şık casuslar ve gizli operasyonlarla anlatır. Tarihsel gerçeklikte dönem, nükleer caydırıcılık, propaganda, istihbarat bürokrasisi, vekalet savaşları ve gündelik korkunun iç içe geçtiği daha geniş bir sistemdi.",
+        "whyInteresting": "Mutfak Tartışması, iki süper gücün rekabetinin bazen füze değil; mutfak, buzdolabı ve yaşam standardı üzerinden yürüdüğünü gösteren güçlü bir semboldür.",
+        "misconception": "Soğuk Savaş'ın sadece füzeler ve casuslarla ilgili olduğu sanılır; oysa eğitimden tüketim kültürüne, uzay yarışından haber diline kadar günlük hayatın birçok alanını şekillendirdi.",
+        "mediaChanged": "James Bond veya Bridge of Spies gibi yapımlar gerilimi kişiler ve operasyonlar üzerinden yoğunlaştırır; tarihsel tablo ise kurumların, propaganda ağlarının ve nükleer korkunun çok daha geniş etkisini gösterir.",
+        "whyItMatters": "Soğuk Savaş, bugünkü güvenlik devleti, küresel ittifaklar, teknoloji yarışı ve propaganda dilinin büyük kısmını anlamak için hâlâ temel bir çerçeve sunar.",
+        "quickRealityCheck": "Soğuk Savaş gerçekten sadece casuslar ve füzelerden mi ibaretti, yoksa modern dünyanın kurumlarını şekillendiren küresel bir korku sistemi miydi?",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Cold War — John F. Kennedy Presidential Library",
+            "url": "https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/the-cold-war",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Cold War International History Project — Wilson Center",
+            "url": "https://www.wilsoncenter.org/program/cold-war-international-history-project",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Cold War Key Documents: The Kitchen Debate — National Archives/DocsTeach",
+            "url": "https://docsteach.org/activity/cold-war-key-documents-the-kitchen-debate/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "decolonization-complexity",
+      "reviewStatus": "rewrite-source-cleanup",
+      "notes": "Bağımsızlığı tek tören/gün anlatısına indirmeden; yeni devletlerin kurum, ekonomi, sınır ve Soğuk Savaş baskısıyla uğraşmasını merkeze aldı.",
+      "fields": {
+        "realHistory": "Dekolonizasyon, II. Dünya Savaşı sonrasında Asya, Afrika ve Karayipler’de imparatorluk yönetimlerinin çözülmesiyle hızlanan büyük bir siyasal dönüşümdü. Ancak bu süreç, bir bayrağın indirilip yenisinin çekildiği tek bir anla bitmedi. Bağımsızlık ilanı çoğu ülke için başlangıçtı: yeni anayasa, ordu, bürokrasi, eğitim sistemi, sınır güvenliği ve ekonomik bağımsızlık gibi sorunlar aynı anda çözülmek zorundaydı.\n\nEski sömürgeci güçler doğrudan yönetimi bıraksalar bile ticaret, borç, şirket imtiyazları, dil, eğitim ve hukuk üzerinden etkilerini sürdürdüler. Bazı yeni devletler, sömürge döneminde çizilmiş sınırların içinde farklı etnik, dini ve bölgesel gerilimleri yönetmek zorunda kaldı. Soğuk Savaş da bu tabloyu ağırlaştırdı; bağımsızlık hareketleri ve yeni hükümetler çoğu zaman ABD-SSCB rekabetinin içine çekildi.\n\nFilmler bağımsızlık gününü doğal olarak coşkulu bir final gibi gösterebilir. Tarihsel çerçevede ise dekolonizasyon, siyasi egemenlik kazanıldıktan sonra da devam eden ekonomik ve psikolojik bir mücadeledir. Bugün Birleşmiş Milletler listesinde hâlâ kendi kendini yönetmeyen bölgelerin bulunması, sömürgesizleşmenin yalnız geçmişe ait kapanmış bir başlık olmadığını hatırlatır.",
+        "accuracyNote": "Bağımsızlık törenleri tarihsel olarak önemlidir; ancak bağımsızlığın ekonomik, kurumsal ve kültürel sonuçları genellikle on yıllar boyunca tartışılmaya devam eder.",
+        "whyInteresting": "Birleşmiş Milletler listesinde hâlâ kendi kendini yönetmeyen bölgelerin bulunması, dekolonizasyonun tamamen kapanmış bir tarih başlığı olmadığını gösterir.",
+        "misconception": "Sömürgeciliğin bağımsızlık günüyle tamamen bittiği sanılır; oysa ekonomik bağımlılık, sınır sorunları, dil ve hukuk mirası uzun süre etkili olabilir.",
+        "mediaChanged": "Filmler bağımsızlığı çoğu zaman bayrak değişimi ve halk coşkusu olarak bitirir; tarihsel süreç ise yeni devletlerin borç, sınır, kurum ve Soğuk Savaş baskısıyla boğuştuğu daha uzun bir dönüşümdür.",
+        "whyItMatters": "Dekolonizasyonu anlamak, bugünkü küresel eşitsizlikleri yalnız iç politika hatalarıyla değil, sömürge sonrası kurumsal ve ekonomik miraslarla birlikte okumayı sağlar.",
+        "quickRealityCheck": "Sömürgecilik bağımsızlık günüyle gerçekten bitti mi, yoksa ekonomik ve kültürel etkileri yeni devletlerin içinde yaşamaya devam mı etti?",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Decolonization — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/decolonization",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "17 Non-Self-Governing Territories — United Nations",
+            "url": "https://www.un.org/dppa/decolonization/en/nsgt",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "UN chief urges renewed push to complete decolonization — UN Geneva",
+            "url": "https://www.ungeneva.org/en/news-media/news/2026/02/115905/un-chief-urges-renewed-push-complete-decolonization-17-territories",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "mafia-immigration-crime",
+      "reviewStatus": "rewrite-expand-flagship",
+      "notes": "Flagship olmasına rağmen metin kısa kalmıştı. Göç, yoksulluk, Prohibition, Luciano/Komisyon, romantize edilen aile miti ve gerçek haraç ekonomisi daha geniş işlendi.",
+      "fields": {
+        "readingTimeMinutes": 4,
+        "realHistory": "Amerikan mafyasının yükselişi yalnız “kötü adamların” hikâyesi değildir; göç, dışlanma, yoksulluk ve zayıf kamu kurumlarıyla birlikte okunmalıdır. 19. yüzyıl sonu ve 20. yüzyıl başında Güney İtalya ve Sicilya’dan gelen birçok göçmen, New York, Chicago ve New Orleans gibi şehirlerin kalabalık mahallelerine yerleşti. Dil engeli, düşük ücretli işler, polisle güvensizlik ve sosyal ayrımcılık, bazı mahallelerde resmi kurumların yerine gayriresmi koruma ve arabuluculuk ağlarının güçlenmesine imkân verdi.\n\nBu durum mafyayı “topluluğun koruyucusu” yapmaz. İlk dönemlerde Kara El tarzı şantaj yöntemleri çoğu zaman yine aynı göçmen mahallelerindeki esnafı, işçiyi ve aileleri hedef aldı. Koruma vaadi haraçla, sessizlik yeminiyle ve korkuyla birlikte işledi. Bu yüzden mafya romantik bir aile dayanışması değil; sosyal dışlanmadan doğan boşluğu kullanan ve onu kendi çıkarı için kalıcı hale getiren bir suç düzeniydi.\n\n1920’lerde İçki Yasağı bu yapıyı büyüttü. Kaçak içki, kumar, sendika kontrolü, rüşvet ve polis bağlantıları, sokak çetelerini çok daha kârlı ve kurumsal ağlara dönüştürdü. 1931 sonrasında Lucky Luciano ve diğer liderlerle anılan Komisyon düzeni, suç dünyasında patronlar arası savaşı azaltmaya ve gelirleri daha öngörülebilir yönetmeye çalıştı. “Aile” dili bu kurumsallaşmayı daha kişisel ve onurlu gösterse de, gerçekte mesele çoğu zaman pazar paylaşımı, disiplin ve şiddet tekeli kurmaktı.\n\nMafia oyunları bu dünyanın yükseliş fantezisini, sadakat yeminlerini ve takım elbiseli karizmasını güçlü verir. Tarihsel çerçeve ise daha serttir: organize suç, göçmen dışlanmasının ürünü olabildiği gibi aynı dışlanmadan kâr eden bir sömürü mekanizmasına da dönüşebilir. Onu yalnız bireysel kötülük diye okumak eksik kalır; ama onurlu bir alternatif adalet sistemi gibi görmek de en az onun kadar yanıltıcıdır.",
+        "accuracyNote": "Mafia oyunları göçmen yoksulluğu ve aile sadakati atmosferini iyi kullanır; ancak gerçek La Cosa Nostra haraç, kumar, kaçak içki, rüşvet, sendika kontrolü ve şiddet üzerinden çalışan organize suç ağıydı.",
+        "whyInteresting": "İçki Yasağı, yerel sokak çetelerinin gelirini öngörülemeyecek ölçüde büyüterek mafyanın şirket benzeri bir yapıya dönüşmesini hızlandırdı.",
+        "misconception": "Mafyanın kendi topluluğunu koruyan onurlu bir aile olduğu sanılır; gerçekte çoğu zaman aynı topluluğun esnafını, işçisini ve gençlerini sömüren bir güç yapısıydı.",
+        "mediaChanged": "Mafia oyunları yükseliş, sadakat ve aile rekabetini öne çıkarır; tarihsel kayıtlar bu dünyanın göçmen yoksulluğu, haraç ekonomisi ve kurumsallaşmış suç ağıyla birlikte anlaşılması gerektiğini gösterir.",
+        "whyItMatters": "Organize suç, yalnız bireysel kötülük değil; dışlanma, ekonomik boşluk ve zayıf kamu kurumları içinde büyüyen alternatif bir güç sistemi olabilir.",
+        "quickRealityCheck": "Mafya gerçekten mahalleyi koruyan bir aile miydi, yoksa koruma vaadini haraç ve sessizlik düzenine çeviren bir suç yapısı mı?",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "History of La Cosa Nostra — FBI",
+            "url": "https://www.fbi.gov/investigate/transnational-organized-crime/history-of-la-cosa-nostra",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Birth of the Mob — The Mob Museum",
+            "url": "https://themobmuseum.org/exhibits/the-birth-of-the-mob/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "A 1957 Meeting Forced the FBI to Recognize the Mafia — Smithsonian Magazine",
+            "url": "https://www.smithsonianmag.com/history/1957-meeting-forced-fbi-recognize-mafiaand-changed-justice-system-forever-180967204/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "roman-empire-stability-myth",
+      "reviewStatus": "rewrite-source-cleanup",
+      "notes": "Mevcut metin çok uzun ve dağınıktı; Pax Romana'yı 'yalan' diye tersine çevirmek yerine göreli iç barış + askeri/vergi temelli imparatorluk düzeni olarak dengeli kurdu.",
+      "fields": {
+        "readingTimeMinutes": 3,
+        "realHistory": "Pax Romana, genellikle “Roma Barışı” diye çevrilir ve Augustus’tan sonraki yaklaşık iki yüzyıllık dönemde Akdeniz dünyasında görece istikrarı anlatır. Bu ifade tamamen yanlış değildir: iç savaşların azalması, yolların ve deniz ticaretinin daha güvenli hale gelmesi, kentleşme ve hukuk düzeninin yayılması birçok bölge için gerçek avantajlar yarattı. Roma vatandaşı veya imparatorluk ticaretinden faydalanan yerel elitler için bu dönem güçlü bir refah ve düzen hissi verebiliyordu.\n\nFakat bu barış savaşın yokluğu değil, Roma gücünün sınırları ve eyaletleri kontrol altında tutabilmesiydi. Lejyonlar Ren, Tuna, Suriye ve Britanya gibi sınır bölgelerinde sürekli hazır bekledi; isyanlar sert biçimde bastırıldı. Yahudi isyanları, Britanya’daki direnişler ve sınır savaşları, Pax Romana’nın herkes için huzurlu bir çağ olmadığını gösterir. Roma yolu, hukuk ve vergi sistemi ticareti kolaylaştırırken aynı zamanda askerî sevkiyatı, denetimi ve kaynak aktarımını da hızlandırıyordu.\n\nBu yüzden Pax Romana’yı ne sahte bir propaganda ne de evrensel huzur çağı diye okumak yeterlidir. Daha doğru çerçeve, Roma’nın geniş coğrafyada güvenlik, vergi ve yerel elit işbirliğiyle kurduğu askeri-siyasi dengedir. Barış vardı; ama bu barış, imparatorluğun otoritesini kabul edenler için daha görünür, ona direnenler için ise çoğu zaman kılıç zoruyla sürdürülen bir düzendi.",
+        "accuracyNote": "Pax Romana, göreli istikrar ve ticaret güvenliği sağladı; ancak bu düzen sınır orduları, eyalet vergileri, yerel elit işbirliği ve isyanların sert bastırılmasıyla ayakta kaldı.",
+        "whyInteresting": "Roma'nın yolları ticareti kolaylaştırdı, ama aynı zamanda bir isyan çıktığında lejyonların bölgeye daha hızlı ulaşmasını sağlayan askeri altyapıydı.",
+        "misconception": "Pax Romana'nın herkes için eşit ve huzurlu bir barış dönemi olduğu sanılır; oysa bu barış farklı eyaletlerde farklı hissedildi ve çoğu zaman Roma askeri gücüyle sürdürüldü.",
+        "mediaChanged": "Popüler anlatılar Roma Barışı'nı altın çağ gibi gösterir; tarihsel kayıtlar ise refah, ticaret, vergi, askeri denetim ve yerel direnişlerin aynı dönemde var olduğunu gösterir.",
+        "whyItMatters": "Pax Romana, büyük imparatorluklarda “barış” kavramının çoğu zaman güvenlik, ticaret ve zor kullanma kapasitesinin birleşimiyle kurulduğunu gösterir.",
+        "quickRealityCheck": "Pax Romana gerçekten herkes için huzur muydu, yoksa Roma düzenine uyum sağlayanlar için istikrar, direnenler için baskı anlamına mı geliyordu?",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Pax Romana — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Pax-Romana",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Roman Empire in the First Century — PBS",
+            "url": "https://www.pbs.org/empires/romans/empire/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Roman Empire (27 B.C.–393 A.D.) — The Met",
+            "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "medieval-road-travel",
+      "reviewStatus": "minor-edit-source-cleanup",
+      "notes": "Gövde metni dengeli ve kullanılabilir; sadece kaynak kalitesi/metadata ve kısa alanlar normalize edildi.",
+      "fields": {
+        "reviewerNote": "Orta Çağ seyahatinin imkânsız olmadığı, ancak mevsim, yol kalitesi, konaklama, güvenlik ve geçiş ücretleriyle şekillendiği kaynaklarla desteklendi.",
+        "mediaChanged": "Yapımlar yolculuğu çoğu zaman iki sahne arasındaki geçiş gibi kullanır; tarihsel kayıtlar yolculuğun ekonomik, sosyal ve güvenlik riski taşıyan başlı başına bir deneyim olduğunu gösterir.",
+        "whyItMatters": "Orta Çağ'da hareket etmenin zorluğu, haberin, ticaretin, askeri gücün ve dini hayatın neden bugünkünden farklı işlediğini anlamamıza yardım eder.",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Travel, trade and exploration in the Middle Ages — The British Library",
+            "url": "https://www.bl.uk/medieval-english-french-manuscripts/articles/travel-trade-and-exploration-in-the-middle-ages",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Geoffrey Chaucer's Canterbury Tales — The British Library",
+            "url": "https://www.bl.uk/works/the-canterbury-tales",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Roads and tracks — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/technology/road",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "civ-great-leaders-simplification",
+      "reviewStatus": "rewrite-source-cleanup",
+      "notes": "Şablon kalıntıları ve boş misconception düzeltildi; Civilization'ın lider merkezli mekaniği tarih yazımı tartışmasına bağlandı.",
+      "fields": {
+        "realHistory": "Civilization, oyuncuya binlerce yıl boyunca aynı liderin gözünden bir medeniyet yönetme hissi verir. Bu oyun tasarımı eğlenceli ve anlaşılırdır; fakat tarih yazımı açısından “büyük liderler” anlatısını bilinçli olarak abartır. Büyük Adam Kuramı, tarihin Sezar, Napolyon, Churchill gibi olağanüstü figürlerin kararlarıyla şekillendiğini öne çıkarır. Modern tarihçilik ise liderlerin önemini yok saymadan, onların toplumsal yapıların, ekonomik koşulların, teknolojinin, iklimin ve kurumların içinde hareket ettiğini vurgular.\n\nNapolyon örneği bunu iyi gösterir. Onun askeri yeteneği önemliydi; ama Fransız Devrimi’nin yarattığı yurttaş ordusu, liyakat sistemi, idari reformlar ve Avrupa’daki siyasal kriz olmasaydı aynı etkiyi yaratması mümkün olmazdı. Benzer şekilde bir medeniyetin yükselişi yalnız güçlü bir hükümdarla değil; tarım verimi, şehirleşme, vergi toplama kapasitesi, ticaret yolları ve bilgi aktarımıyla da ilgilidir.\n\nCivilization bu karmaşıklığı tek bir yüz, tek bir karar ağacı ve tek bir oyuncu iradesi altında toplar. Bu mekanik oyun için başarılıdır; çünkü dağınık tarihsel süreçleri yönetilebilir hale getirir. Ama gerçek tarih, liderlerin iradesiyle toplumun maddi koşulları arasındaki pazarlıktır. Bazen bir hükümdarın kararı kadar iklim, salgın, yazı teknolojisi veya ulaşım ağı da tarihin yönünü değiştirir.",
+        "accuracyNote": "Civilization'ın lider odaklı sadeleştirmesi oyun mekaniği için etkilidir; ancak tarihsel gerçeklikte liderler kurumlar, ekonomi, teknoloji, coğrafya ve toplumsal hareketlerle sınırlı hareket eder.",
+        "whyInteresting": "Tarihi bazen bir fatihten çok daha sessiz güçler değiştirir: iklim, tarım verimi, salgınlar, ulaşım ağları veya kayıt tutma teknolojileri.",
+        "misconception": "Tarihin yalnız büyük liderlerin iradesiyle yazıldığı sanılır; oysa liderler çoğu zaman toplumun, kurumların ve maddi koşulların izin verdiği alanda etkili olabilir.",
+        "mediaChanged": "Civilization oyuncuya her şeye kadir tek lider rolü verir; tarihsel çerçeve ise liderleri çok daha geniş toplumsal ve ekonomik süreçlerin içinde konumlandırır.",
+        "whyItMatters": "Bu kart, oyunların tarihi anlaşılır kılmak için yaptığı sadeleştirmenin nerede yararlı, nerede yanıltıcı olduğunu görmeyi sağlar.",
+        "quickRealityCheck": "Bir medeniyetin kaderini gerçekten tek bir lider mi belirler, yoksa liderler daha büyük ekonomik, teknolojik ve toplumsal süreçlerin içinde mi hareket eder?",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Great Man Theory — EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/religion-and-philosophy/great-man-theory",
+            "type": "reference",
+            "verified": true
+          },
+          {
+            "title": "History from Below — University of Sheffield",
+            "url": "https://newhistories.sites.sheffield.ac.uk/volumes/2009-10/volume-1/issue-7-theory/history-from-below",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "The Great Man Theory — The Decision Lab",
+            "url": "https://thedecisionlab.com/reference-guide/anthropology/great-man-theory",
+            "type": "reference",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "adequate",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "last-emperor-court-ritual",
+      "reviewStatus": "rewrite-expand-flagship",
+      "notes": "Flagship için metin kısa kalmıştı; Yasak Şehir ritüeli, 1912 sonrası özel durum, 1924 çıkarılışı ve Mançukuo tartışması daha derin işlendi.",
+      "fields": {
+        "readingTimeMinutes": 4,
+        "realHistory": "Puyi, 1908’de henüz çocukken Qing tahtına çıkarıldı; 1912’de Xinhai Devrimi sonrası tahttan indirildi. Fakat onun hikayesini tuhaf yapan şey, siyasi gücünü kaybettiği anda saray ritüelinin hemen yok olmamasıdır. Yeni Çin Cumhuriyeti kurulmuşken Puyi, özel koşullar altında Yasak Şehir’de yaşamaya devam etti. Dışarıda imparatorluk bitmişti; içeride ise unvanlar, harem ağaları, protokol, tören dili ve saray mekânı hâlâ eski düzenin sahnesini koruyordu.\n\nYasak Şehir bu sahnenin en güçlü unsuruydu. Kapıları, ekseni, avluları ve tören alanları imparatoru yalnız bir hükümdar değil, kozmik düzenin merkezi gibi göstermek üzere tasarlanmıştı. Puyi için bu mimari hem ayrıcalık hem de hapishaneydi. Çocuk yaşta kendisine eğilen insanlar, yaklaşılması yasak alanlar, yemek ve yürüyüş protokolleri, onun gündelik hayatını bile devlet törenine dönüştürüyordu. Fakat bu törenlerin arkasında artık gerçek bir siyasal iktidar yoktu.\n\n1924’te Puyi Yasak Şehir’den çıkarıldı. Sonraki hayatı, Çin’in 20. yüzyıldaki kırılmalarının neredeyse hepsinden geçti: Tianjin’de sürgün hayatı, Japonya’nın Mançukuo kukla devletinde “imparator” olarak kullanılması, II. Dünya Savaşı sonrası Sovyet ve Çin makamlarının elinde savaş suçlusu muamelesi, ardından yeniden eğitim ve sıradan yurttaşlık. The Last Emperor bu dönüşümü güçlü bir görsel dille verir, ama Puyi’yi yalnız masum bir çocuk kurban gibi okumak eksik kalır. O hem çöken bir sistemin ürünüydü hem de eski statüsünü geri kazanma umuduyla Japon politikasına eklemlendi.\n\nBu yüzden Yasak Şehir filmde yalnız dekor değildir. Siyasi gücünü kaybetmiş ama ritüelleri hâlâ süren bir imparatorluk dilinin mekânıdır. Puyi’nin hikâyesi, imparatorlukların sadece savaşla değil, sembollerinin gerçek güçten kopmasıyla da çöktüğünü gösterir.",
+        "accuracyNote": "Film saray atmosferini güçlü yansıtır; ancak Puyi’yi tamamen pasif bir kurban gibi okumak eksik kalır. Özellikle Mançukuo dönemi, Japon işgali ve Puyi’nin statü arayışıyla birlikte daha tartışmalı bir siyasi zemindir.",
+        "whyInteresting": "Puyi, tahttan indirildikten sonra yıllarca Yasak Şehir’de unvanını koruyan ama ülkeyi yönetmeyen bir imparator gibi yaşadı.",
+        "misconception": "Puyi’nin sadece masum bir çocuk kurban olduğu sanılır; gerçekte hayatı saray ritüeli, cumhuriyet, Japon kukla devleti ve yeniden eğitim arasında çok daha karmaşık bir dönüşümdür.",
+        "mediaChanged": "The Last Emperor sarayın yalnızlığını ve görkemini öne çıkarır; tarihsel kayıtlar bu görkemin 1912’den sonra gerçek iktidardan çok sembolik bir kabuğa dönüştüğünü gösterir.",
+        "whyItMatters": "Puyi’nin hikâyesi, imparatorlukların yalnız savaşla değil, ritüelleri anlamını kaybettiğinde de çöktüğünü gösterir.",
+        "quickRealityCheck": "Puyi gerçekten güçlü bir imparator muydu, yoksa eski düzenin ritüelleri içinde tutulan yetkisiz bir sembol müydü?",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Puyi — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/biography/Puyi",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Imperial Palaces of the Ming and Qing Dynasties — UNESCO",
+            "url": "https://whc.unesco.org/en/list/439/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Last Emperor of China Abdicates — HISTORY",
+            "url": "https://www.history.com/this-day-in-history/february-12/last-emperor-of-china-abdicates",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "crown-monarchy-symbol",
+      "reviewStatus": "rewrite-expand-flagship-source-cleanup",
+      "notes": "Mevcut metin çok uzun, iddialı ve kısmen güncelliğini yitirmişti. Elizabeth dönemi odağı korundu; anayasal tarafsızlık, haftalık başbakan görüşmesi, sembolik güç ve The Crown'un kurgu alanı dengelendi.",
+      "fields": {
+        "readingTimeMinutes": 4,
+        "realHistory": "The Crown’un anlattığı modern İngiliz monarşisi, mutlak yönetimden çok sembolik otorite üzerine kurulu bir kurumdur. II. Elizabeth’in uzun saltanatı bu dönüşümün en güçlü örneği oldu: hükümdar artık günlük siyaseti yönetmez, ama devletin sürekliliğini, anayasal ritüeli ve ulusal kimliğin görünür yüzünü temsil eder. Bu yüzden monarşinin gücü, imzalanan yasalardan çok törenlerde, kriz anlarında verilen mesajlarda, Commonwealth ilişkilerinde ve kamusal güven duygusunda görünür.\n\nAnayasal düzende hükümdar siyasi olarak tarafsız kalmak zorundadır. Başbakanla yapılan haftalık özel görüşmeler, bu tarafsız rolün en önemli parçasıdır: monark hükümeti doğrudan yönetmez, fakat “danışma, teşvik etme ve uyarma” hakkına sahiptir. Bu yetki günlük iktidardan çok süreklilik ve fren mekanizması gibi işler. The Crown dizisinin güçlü tarafı da buradadır: seyirciye, görünüşte törensel olan bir kurumun aile hayatı, medya baskısı ve devlet geleneği üzerinde nasıl ağır bir yük oluşturduğunu hissettirir.\n\nAncak dizinin kapalı kapılar ardındaki konuşmaları büyük ölçüde dramatik yorumdur. Kraliyet ailesinin özel konuşmaları kamuya açık kaynaklarla tam olarak bilinemeyeceği için, dizi tarihsel olayların çevresine karakter çatışmaları yerleştirir. Bu nedenle The Crown’u belge gibi değil, anayasal monarşinin duygusal ve kurumsal maliyetini anlatan dramatize edilmiş bir tarih okuması olarak izlemek daha doğru olur.\n\nBugün monarşi tartışması hâlâ devam eder: maliyet, sömürge mirası, medya skandalları ve genç kuşakların ilgisi kurumun geleceğini sorgulatır. Buna rağmen monarşi, Britanya’da devletin kişisel olmayan sürekliliğini temsil eden güçlü bir sembol olarak yaşamaya devam ediyor. Onu anlamak için yalnız “yetkisi var mı?” diye değil, “hangi ritüel ve temsil gücünü sürdürüyor?” diye sormak gerekir.",
+        "whatWeSee": "The Crown, Kraliçe II. Elizabeth döneminde saray protokolünü, aile krizlerini, medya baskısını ve hükümdarın tarafsız kalma zorunluluğunu dramatize eder.",
+        "accuracyNote": "Dizi tarihsel olayların genel kronolojisini kullanır; ancak kraliyet ailesinin özel konuşmaları ve kapalı kapılar ardındaki motivasyonları dramatik kurgu ile doldurulur.",
+        "whyInteresting": "Modern hükümdarın en önemli güçlerinden biri emir vermek değil; krizlerde süreklilik hissi yaratmak ve başbakanla yaptığı özel görüşmelerde danışma/uyarma rolünü sürdürmektir.",
+        "misconception": "Modern monarşinin ya tamamen güçlü bir gizli yönetim ya da tamamen anlamsız bir süs olduğu sanılır; gerçekte anayasal sınırlar içinde çalışan sembolik ve ritüel bir otoritedir.",
+        "mediaChanged": "The Crown aile içi dramayı ve kapalı görüşmeleri görünür kılar; tarihsel gerçeklikte monarşinin en önemli tarafı çoğu zaman açıkça söylenmeyen tarafsızlık, protokol ve süreklilik rolüdür.",
+        "whyItMatters": "Modern monarşi tartışması, bir kurumun siyasal yetkisi azalsa bile sembol, ritüel ve ulusal kimlik üzerinden nasıl etkili kalabildiğini gösterir.",
+        "quickRealityCheck": "The Crown’daki monarşi gizli bir siyasi güç mü, yoksa anayasal sınırlar içinde çalışan güçlü bir sembol ve süreklilik kurumu mu?",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Sovereign and the Prime Minister — The Royal Family",
+            "url": "https://www.royal.uk/the-sovereign-and-the-prime-minister",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Monarchy — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/monarchy",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Audiences — The Royal Family",
+            "url": "https://www.royal.uk/audiences",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "ancient-childhood",
+      "reviewStatus": "rewrite-source-cleanup",
+      "notes": "Çocukluğu ne modern anlamda uzatılmış masumiyet ne de 'küçük yetişkin' klişesiyle anlattı; oyun, koruma ritüeli, çıraklık, iş ve aile sevgisi dengelendi.",
+      "fields": {
+        "realHistory": "Antik ve Orta Çağ toplumlarında çocukluk bugünkü gibi uzun ve okul merkezli bir dönem değildi; ama bu, çocukların “hiç çocuk olmadığı” anlamına gelmez. Antik Roma’da çocuklar aile ve dinî ritüellerle korunması gereken kırılgan varlıklar olarak görülürdü. Erkek çocukların taktığı bulla gibi muskalar, çocukluk ile yetişkin yurttaşlık arasındaki sembolik sınırı gösterir. Oyuncak bebekler, minyatür arabalar, zarlar ve oyun taşları da çocukların yalnız işe hazırlanan küçük yetişkinler olmadığını hatırlatır.\n\nBuna rağmen erken yaşta sorumluluk almak yaygındı. Çocuklar aile işlerine yardım eder, tarlada, dükkânda veya ev üretiminde görev alırdı. Orta Çağ’da çıraklık, birçok çocuk için hem eğitim hem çalışma anlamına geliyordu. Soylu veya varlıklı ailelerde okuma-yazma, müzik ve dinî eğitim görülebilirken, yoksul çocukların hayatı daha erken emekle iç içe geçiyordu.\n\nÇocuk ölümlerinin yüksek olması, ailelerin çocuklarını sevmediği anlamına gelmez. Mezar yazıtları, oyuncaklarla gömülen çocuklar ve yas ritüelleri, kaybın derinliğini gösterir. Geçmişte çocukluk daha kısa ve daha riskliydi; ama oyun, koruma, sevgi ve eğitim yine de hayatın parçasıydı.",
+        "accuracyNote": "Geçmişte çocukluk bugünkü gibi uzun ve okul merkezli değildi; ancak oyuncaklar, koruma ritüelleri ve mezar buluntuları çocukların yalnız 'küçük yetişkinler' olarak görülmediğini gösterir.",
+        "whyInteresting": "Antik Roma’da çocukların taktığı bulla, yalnız takı değil; çocukluk dönemini kötülüklerden korumayı amaçlayan sembolik bir sınır işaretiydi.",
+        "misconception": "Eskiden çocukların hiç sevilmediği sanılır; oysa mezar yazıtları, oyuncaklar ve yas pratikleri ebeveynlerin çocuk kaybı karşısında derin acı yaşadığını gösterir.",
+        "mediaChanged": "Filmler çocukları ya saray prensi ya da sokak çocuğu gibi iki uçta gösterir; tarihsel gerçeklikte çocuklar oyun, aile işi, çıraklık ve koruma ritüelleri arasında büyürdü.",
+        "whyItMatters": "Çocukluğun tarihini anlamak, aile sevgisinin varlığını reddetmeden, geçmiş toplumlarda emek, eğitim ve hayatta kalma baskısının ne kadar erken başladığını gösterir.",
+        "quickRealityCheck": "Geçmişte çocuklar gerçekten hiç sevilmeyen küçük yetişkinler miydi, yoksa daha kısa ama oyun ve koruma ritüelleriyle tanınan bir çocuklukları mı vardı?",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Growing up in ancient Greece and Rome — British Museum",
+            "url": "https://www.britishmuseum.org/blog/growing-ancient-greece-and-rome",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Bulla pendant — British Museum Collection",
+            "url": "https://www.britishmuseum.org/collection/object/G_1894-1205-2",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Childhood — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/childhood",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "night-fears-pre-lighting",
+      "reviewStatus": "rewrite-source-cleanup",
+      "notes": "1667 Paris ve miasma gibi iddiaları daha temkinli kullandı; geceyi suç, yön bulma, düşük ışık ve kamusal aydınlatmanın dönüşümüyle anlattı.",
+      "fields": {
+        "realHistory": "Elektrik öncesi dünyada gece, bugünkü “loş ama görünür” film gecesine benzemezdi. Ev içinde ateş, mum veya yağ lambası sınırlı ve pahalı ışık sağlardı; ışık kaynağından birkaç adım uzaklaşınca okumak, dikmek veya ayrıntı görmek zorlaşırdı. Sokakta ise ay ışığı, meşale, fener ya da rehberlik eden kişiler olmadan hareket etmek riskliydi. Bu yüzden gece, yalnız karanlık değil; yön kaybı, suç korkusu, yangın riski ve toplumsal denetimin zayıfladığı bir zaman dilimiydi.\n\nŞehirlerde gece bekçileri ve sokağa çıkma kuralları bu belirsizliği azaltmaya çalıştı. Saat başı bağıran bekçiler, kapalı kapılar, erken kapanan iş yerleri ve sınırlı aydınlatma, geceyi gündüzden ayrı bir hukuki ve sosyal alan haline getiriyordu. Kamusal aydınlatmanın gelişmesi, özellikle 17. ve 18. yüzyıllarda şehir güvenliği ve gece ekonomisi için büyük bir dönüşüm yarattı. Daha sonra gaz ve elektrik ışığı, insanın geceyle ilişkisini kökten değiştirdi.\n\nPopüler yapımlar meşalelerle her yerin rahatça aydınlandığı bir gece sunar. Tarihsel gerçeklikte ise gece daha dar, daha yavaş ve daha duyusal bir dünyaydı. Sesler, ayın evresi, yol bilgisi ve güvenli eşlik, gecenin nasıl yaşanacağını belirlerdi.",
+        "accuracyNote": "Film geceleri çoğu zaman izleyicinin görmesi için aydınlatılır. Elektrik öncesi dönemde ışık pahalı ve sınırlıydı; ev içi ve sokak hayatı ateş, mum, yağ lambası, ay ışığı ve kamusal düzenlemelerle şekillenirdi.",
+        "whyInteresting": "Sokak aydınlatmasının yayılması, yalnız daha çok ışık değil; suç algısı, gece ekonomisi ve kamusal alanın geceye taşınması açısından büyük bir kentsel dönüşümdü.",
+        "misconception": "Gecenin eskiden bugünkü gibi sessiz ve huzurlu olduğu sanılır; oysa elektrik öncesi gece çoğu insan için yön bulma, güvenlik ve yangın riskiyle birlikte düşünülürdü.",
+        "mediaChanged": "Filmler gece sahnelerini görünür kılmak için loş ama okunabilir ışık kullanır; tarihsel gece ise çok daha karanlık, sınırlı ve riskli bir deneyimdi.",
+        "whyItMatters": "Aydınlatma teknolojisi, yalnız konforu değil; güvenliği, çalışma saatlerini, eğlenceyi ve şehir yaşamının ritmini değiştirdi.",
+        "quickRealityCheck": "Elektrik öncesi gece gerçekten romantik ve huzurlu muydu, yoksa güvenlik, yön bulma ve ışık kıtlığıyla şekillenen ayrı bir dünya mıydı?",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Electric lighting in the home — Science Museum",
+            "url": "https://www.sciencemuseum.org.uk/objects-and-stories/everyday-wonders/electric-lighting-home",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "A History of Timekeeping — Royal Museums Greenwich",
+            "url": "https://www.rmg.co.uk/stories/topics/brief-history-timekeeping",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Representations of Street Lamps in Revolutionary France — Technology and Culture",
+            "url": "https://hal.science/hal-04445566v1",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "crusaders-poverty-myth",
+      "reviewStatus": "rewrite-source-cleanup",
+      "notes": "Boş misconception ve 'borçtan kaçmak' gibi fazla basit iddia düzeltildi. Dini motivasyon, kefaret, maliyet ve çıkar beklentisi birlikte kuruldu.",
+      "fields": {
+        "realHistory": "Haçlı Seferleri’ni yalnız dini coşku ya da yalnız ekonomik çıkarla açıklamak yanıltıcıdır. Birinci Haçlı Seferi çağrısı, günahların affı, kutsal mekânların korunması ve hac fikriyle güçlü bir dinî anlam taşıyordu. Katılan birçok kişi için sefer, sıradan bir savaş değil, ruhani sonuçları olan ağır bir yemin ve kefaret eylemiydi.\n\nBuna rağmen ekonomi tamamen dışarıda değildi. Sefer hazırlığı pahalıydı: at, zırh, silah, hizmetkâr, yol masrafı ve uzun süreli yokluk ciddi kaynak gerektiriyordu. Bazı şövalyeler sefere çıkmak için topraklarını sattı, ipotek ettirdi veya borçlandı. Bu yüzden “zengin olmak için Doğu’ya gittiler” genellemesi zayıftır; birçok katılımcı büyük bir maddi risk aldı. Fakat yağma, ganimet, toprak, statü ve borç ilişkileri de seferlerin gerçek dünyadaki motivasyonlarının parçasıydı.\n\nFilmler genellikle haçlıları sadece inanç nutuklarıyla ya da sadece açgözlü yağmacılarla anlatır. Tarihsel tablo daha karmaşıktır: dini vaat, feodal görev, aile prestiji, ekonomik baskı ve siyasi fırsat aynı anda çalışıyordu. Haçlı seferleri bu yüzden hem inanç tarihi hem de Orta Çağ Avrupa’sının savaş finansmanı, miras, borç ve aristokrat rekabet tarihi olarak okunmalıdır.",
+        "accuracyNote": "Ekonomik nedenler dini inancı yok saymaz; seferlere katılım çoğu zaman ruhani vaat, feodal bağ, prestij ve ciddi mali riskin birleşimiydi.",
+        "whyInteresting": "Bir şövalyenin sefere hazırlanması çoğu zaman yıllık gelirinin birkaç katına mal olabiliyordu; bu nedenle Haçlı Seferleri yalnız savaş değil, büyük bir finansman problemiydi.",
+        "misconception": "Haçlıların yalnız servet arayan maceracılar olduğu sanılır; oysa birçok katılımcı dini yemin ve kefaret fikriyle büyük maddi risk aldı.",
+        "mediaChanged": "Filmler haçlıları çoğu zaman ya saf inanç savaşçıları ya da tamamen açgözlü yağmacılar gibi gösterir; tarihsel kayıtlar bu motivasyonların birbirine karıştığını gösterir.",
+        "whyItMatters": "Haçlı Seferleri, Orta Çağ’da inanç, borç, toprak, prestij ve savaş finansmanının birbirinden ayrılamayacağını gösteren güçlü bir örnektir.",
+        "quickRealityCheck": "Haçlılar sadece para için mi yola çıktı, yoksa dini vaatler, feodal yükümlülükler ve ekonomik riskler aynı anda mı etkiliydi?",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Crusades: motives for participation — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Crusades/Motives-for-participation",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Crusades: Motivations, Administration, and Cultural Influence — Newberry Digital Collections",
+            "url": "https://dcc.newberry.org/?p=14390",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "The Historiography of Crusade Finance — JurPress",
+            "url": "https://jurpress.squarespace.com/s/J771SP18-Final-Placement.pdf",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

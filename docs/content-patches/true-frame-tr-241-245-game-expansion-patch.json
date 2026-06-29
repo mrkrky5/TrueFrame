@@ -1,0 +1,556 @@
+{
+  "patchId": "true-frame-tr-241-245-game-expansion-patch",
+  "locale": "tr",
+  "sourceChunks": [],
+  "contentRange": [
+    241,
+    245
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-new-card-generation",
+  "summary": {
+    "cardCount": 5,
+    "newCards": [
+      "tf26-241-bf1-arab-revolt-lawrence",
+      "tf26-242-bfv-senegalese-tirailleurs",
+      "tf26-243-bfv-heavy-water-sabotage",
+      "tf26-244-cod-stalingrad-sniper-myth",
+      "tf26-245-codbo-mkultra"
+    ],
+    "flagshipNewCards": [
+      "tf26-241-bf1-arab-revolt-lawrence",
+      "tf26-242-bfv-senegalese-tirailleurs"
+    ],
+    "standardNewCards": [
+      "tf26-243-bfv-heavy-water-sabotage",
+      "tf26-244-cod-stalingrad-sniper-myth",
+      "tf26-245-codbo-mkultra"
+    ],
+    "mediaFocus": [
+      "Battlefield 1",
+      "Battlefield V",
+      "Call of Duty",
+      "Call of Duty: Black Ops"
+    ],
+    "sourceUpdates": [
+      "tf26-241-bf1-arab-revolt-lawrence",
+      "tf26-242-bfv-senegalese-tirailleurs",
+      "tf26-243-bfv-heavy-water-sabotage",
+      "tf26-244-cod-stalingrad-sniper-myth",
+      "tf26-245-codbo-mkultra"
+    ],
+    "notes": [
+      "Bu batch Cursor konu havuzundaki Battlefield ve Call of Duty savaş/Soğuk Savaş konularını kapsar.",
+      "Arap İsyanı ve Tirailleurs kartları yüksek tarihsel/siyasal bağlam taşıdığı için flagship olarak yazıldı.",
+      "Battlefield V Heavy Water, Call of Duty Stalingrad ve Black Ops MKUltra kartları standart fakat güçlü kaynaklı yeni kartlar olarak üretildi.",
+      "Savaş oyunlarındaki aksiyon sahneleri doğrudan kahramanlık anlatısı yerine diplomasi, sömürge hafızası, nükleer bilim, propaganda ve insan deneyleri bağlamıyla dengelendi."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-241-bf1-arab-revolt-lawrence",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "Battlefield 1’in çöl cephesi anlatısı Lawrence merkezli kahramanlıktan çıkarılıp Arap İsyanı, Osmanlı karşıtı yerel siyaset, İngiliz vaatleri ve Sykes-Picot sonrası kırılma üzerinden flagship karta dönüştürüldü.",
+      "fields": {
+        "title": "Arap İsyanı ve Lawrence Efsanesi",
+        "subtitle": "BF1 çöl cephesinde efsane ile diplomasi ayrılınca",
+        "mediaType": "game",
+        "mediaTitle": "Battlefield 1",
+        "era": "Modern Tarih",
+        "region": "Orta Doğu",
+        "themes": [
+          "I. Dünya Savaşı",
+          "Osmanlı",
+          "Siyaset",
+          "Propaganda"
+        ],
+        "whatWeSee": "Battlefield 1’in çöl cephesi bölümlerinde Osmanlı hatlarına karşı yürüyen baskınlar, zırhlı trenler, patlayıcı sabotajları ve T. E. Lawrence etrafında kurulan efsanevi bir isyan atmosferi görürüz. Oyun bu dünyayı hızlı, kişisel ve sinematik bir direniş hikâyesi gibi kurar. Gerçek tarih ise tek bir İngiliz subayın macerasından çok, Haşimi liderliği, Osmanlı savaş yükü, Britanya vaatleri ve savaş sonrası paylaşım planlarının iç içe geçtiği çok daha karmaşık bir dosyadır.",
+        "realHistory": "### İsyanın gerçek zemini\n\nBattlefield 1, Arap İsyanı’nı çölde geçen hareketli sabotaj sahneleri ve Lawrence figürünün gölgesinde hatırlatır. Bu görsel dil etkileyicidir; fakat 1916’da başlayan isyan, yalnız bir yabancı ajan anlatısı değildir. Hicaz Şerifi Hüseyin ve oğulları, Osmanlı İmparatorluğu’na karşı kendi siyasal hedefleriyle hareket etti. Britanya ise Osmanlı’yı cepheler arasında yıpratmak, Hicaz Demiryolu’nu baskı altında tutmak ve savaş sonrası Orta Doğu düzeninde avantaj kazanmak istiyordu.\n\nT. E. Lawrence bu ortamda önemli bir bağlantı subayı ve propaganda figürü haline geldi. Yerel kuvvetlerle birlikte hareket etti, isyanın dış dünyadaki imajını güçlendirdi ve kendi yazılarıyla efsanesini büyüttü. Fakat isyanı Lawrence’ın tek başına “başlattığı” ya da yönettiği düşüncesi, Arap aktörlerin siyasal iradesini gölgede bırakır. Gerçekte sahada Haşimi liderliği, kabile dengeleri, Osmanlı garnizonları, demiryolu hedefleri ve İngiliz lojistiği aynı anda belirleyiciydi.\n\n### Vaatler ve gizli planlar\n\nArap İsyanı’nın en tartışmalı kısmı, savaş sonrası düzenle ilgilidir. Britanya, farklı taraflara farklı beklentiler yaratan diplomatik mesajlar verdi. IWM’in özetlediği gibi, Britanya aynı dönemde Arap bağımsızlığına dair beklentiler yaratırken Sykes-Picot gibi gizli anlaşmalarla Fransa’yla Osmanlı Arap topraklarının geleceğini paylaşmıştı. 1917 Balfour Deklarasyonu ise Filistin için başka bir siyasal çerçeve açtı. Bu yüzden savaş bittikten sonra birçok Arap milliyetçisi, savaş sırasındaki vaatlerle savaş sonrası manda düzeni arasında derin bir kırılma gördü.\n\nOyunlarda bu tür diplomatik karmaşa genellikle aksiyonun arka planında kalır. Zırhlı tren patlatmak, çölde ata binmek ya da karakol basmak anlaşılır ve güçlü sahnelerdir. Fakat gerçek çatışmanın kalıcı sonucu, yalnız cephede değil haritada belirlendi: manda yönetimleri, sınır tartışmaları, hanedan projeleri ve sömürgeci gözetim mekanizmaları bölgede uzun süre etkili oldu.\n\n### Efsanenin gücü\n\nLawrence figürünün popüler kültürde bu kadar güçlü olmasının nedeni, hem gerçek risk almış olması hem de hikâyenin Batılı izleyiciye tanıdık bir kahraman yapısı sunmasıdır. Ancak True Frame açısından ilginç olan tam da bu noktadır: medya, yerel bir siyasal hareketi çoğu zaman dışarıdan gelen tek bir gözlemcinin macerasına dönüştürür. Battlefield 1 bu efsaneyi tamamen icat etmez; var olan bir medya mirasını oyun diline taşır. Tarihsel okuma ise isyanı Arap liderliği, Osmanlı savaş stratejisi ve savaş sonrası diplomatik hayal kırıklığıyla birlikte düşünmeyi gerektirir.\n\n### Oyun neyi sıkıştırır?\n\nBattlefield 1’in çöl cephesi, oyuncuya hızlı hedefler ve net düşman hatları verir. Tarihsel alanda ise hedefler kadar kimin adına savaşıldığı sorusu da belirsizdi. Osmanlı askerleri imparatorluğun çöküşünü durdurmaya çalışırken, Arap isyancılar yalnız askeri başarı değil savaş sonrası siyasal statü arıyordu. Britanya ise aynı sahada hem Osmanlı’yı zayıflatmak hem de savaş bittiğinde bölgedeki etkisini artırmak istiyordu. Bu çok katmanlı tablo, oyundaki her sabotaj sahnesinin arkasına ikinci bir soru yerleştirir: Cephede kazanılan başarı, masada verilen sözlerle aynı anlama mı geliyordu?",
+        "accuracyNote": "Battlefield 1 çöl cephesini sinematik sabotaj ve kişisel kahramanlık diliyle sıkıştırır. Arap İsyanı gerçektir; ancak Lawrence merkezli efsane, Haşimi liderliği ve savaş sonrası Sykes-Picot/manda siyaseti olmadan eksik kalır.",
+        "whyInteresting": "Bir oyun sahnesinde görünen çöl baskını, aslında Osmanlı’nın son döneminden modern Orta Doğu sınırlarına uzanan diplomatik bir kırılmanın parçasıdır.",
+        "misconception": "Arap İsyanı’nın neredeyse tamamen Lawrence tarafından yönetildiği sanılır; gerçekte yerel Arap liderliği, kabile dengeleri ve Britanya’nın savaş çıkarları birlikte belirleyiciydi.",
+        "nextTopics": [
+          "Çanakkale",
+          "Topyekûn Savaş Ekonomisi",
+          "Sınır Bürokrasisi"
+        ],
+        "relatedCardIds": [
+          "tf26-240-bf1-gallipoli",
+          "tf26-223-hoi4-war-economy",
+          "tf26-212-papersplease-border-regime"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "none",
+        "mediaConnection": "Battlefield 1’in çöl cephesi ve Lawrence imgesi, Arap İsyanı’nın gerçek askeri-diplomatik zeminiyle birlikte okununca daha doğru görünür.",
+        "accuracyType": "partly-real",
+        "tags": [
+          "battlefield",
+          "birinci-dunya-savasi",
+          "osmanli",
+          "arap-isyani",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun isyanı hızlı baskınlar ve Lawrence efsanesiyle görünür kılar; tarihsel tablo Haşimi siyaseti, Osmanlı cephesi, İngiliz vaatleri ve savaş sonrası paylaşım planlarıyla daha karmaşıktır.",
+        "whyItMatters": "Bu başlık, savaş oyunlarında aksiyonun arkasında kalan diplomatik kararların bugünkü bölgesel hafızayı nasıl şekillendirdiğini gösterir.",
+        "isFlagship": true,
+        "quickRealityCheck": "Arap İsyanı gerçekten Lawrence’ın kişisel macerası mıydı, yoksa savaş sonrası düzeni belirleyen daha büyük bir diplomatik pazarlığın parçası mıydı?",
+        "sources": [
+          {
+            "title": "Imperial War Museums - Who Was Lawrence of Arabia?",
+            "url": "https://www.iwm.org.uk/history/first-world-war/middle-east/t-e-lawrence",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Imperial War Museums - Why did Britain promise Palestine to Arabs and Zionists?",
+            "url": "https://www.iwm.org.uk/history/first-world-war/middle-east/balfour-declaration",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "U.S. Office of the Historian - Paris Peace Conference records on Sykes-Picot",
+            "url": "https://history.state.gov/historicaldocuments/frus1919Parisv05/d1",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Imperial War Museums - Who Was Lawrence of Arabia?",
+            "url": "https://www.iwm.org.uk/history/first-world-war/middle-east/t-e-lawrence",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Imperial War Museums - Why did Britain promise Palestine to Arabs and Zionists?",
+            "url": "https://www.iwm.org.uk/history/first-world-war/middle-east/balfour-declaration",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "U.S. Office of the Historian - Paris Peace Conference records on Sykes-Picot",
+            "url": "https://history.state.gov/historicaldocuments/frus1919Parisv05/d1",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-242-bfv-senegalese-tirailleurs",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "Battlefield V’in “anlatılmamış hikâyeler” çizgisi sömürge askerleri üzerinden açıldı; Tirailleurs Sénégalais, Fransız ordusundaki kolonyal emek, savaş sonrası tanınma eksikliği ve Thiaroye hafızasıyla flagship yapıya taşındı.",
+      "fields": {
+        "title": "Unutulan Askerler: Tirailleurs",
+        "subtitle": "Battlefield V ve sömürge askerlerinin hafızası",
+        "mediaType": "game",
+        "mediaTitle": "Battlefield V",
+        "era": "Modern Tarih",
+        "region": "Fransa / Afrika",
+        "themes": [
+          "II. Dünya Savaşı",
+          "İmparatorluk",
+          "Kimlik",
+          "Hafıza"
+        ],
+        "whatWeSee": "Battlefield V, II. Dünya Savaşı’nı yalnız Batı Avrupa’daki büyük Amerikan-İngiliz cepheleriyle değil, daha az anlatılan birlikler ve görevlerle de göstermeye çalışır. Bu yaklaşım, Fransız ordusundaki sömürge askerleri için güçlü bir kapı açar. Ekranda çoğu zaman “Müttefik asker” olarak geçen figürlerin arkasında, Afrika’dan Avrupa savaşına taşınan insan gücü, eşitsiz vatandaşlık ve savaş sonrası unutulma hikâyesi vardır.",
+        "realHistory": "### Üniformanın içindeki imparatorluk\n\nTirailleurs Sénégalais adı, yalnız bugünkü Senegal’den gelen askerleri anlatmaz; Fransız Batı Afrikası’nın farklı bölgelerinden toplanan ya da askere alınan Afrika kökenli birlikler için kullanılan geniş bir askeri adlandırmaydı. Bu birlikler 19. yüzyıldan itibaren Fransız sömürge ordusunun parçası oldu; I. Dünya Savaşı’nda ve II. Dünya Savaşı’nda Avrupa cephelerinde, Afrika’da ve Fransa’nın yeniden ele geçirilmesi sürecinde görev aldılar. Musée de l’Armée’nin koleksiyon anlatıları, bu askerlerin Fransız askeri tarihindeki görünür ama çoğu zaman sınırlı anlatılan yerini hatırlatır.\n\nBattlefield V’in “unutulmuş cepheler” fikri burada True Frame’e çok iyi oturur. Çünkü II. Dünya Savaşı popüler hafızasında Müttefik zaferi çoğu zaman ABD, Britanya ve Avrupa direnişi üzerinden anlatılır. Oysa Fransız ordusunun ve Özgür Fransa kuvvetlerinin içinde Kuzey Afrika’dan ve Sahra Altı Afrika’dan gelen çok sayıda asker vardı. Bu askerler yalnız yardımcı figür değildi; savaşın riskini taşıdı, cephede öldü, yaralandı ve savaş sonrası ülkesine döndüğünde çoğu zaman eşit yurttaşlık ya da eşit ödeme görmedi.\n\n### Hafızadan silinme\n\nSömürge askerlerinin hikâyesi, yalnız cephedeki cesaretle bitmez. Asıl kırılma, savaş sonrası tanınma meselesinde görünür. Fransa için savaşan Afrika kökenli askerlerin emekli maaşı, ödeme, terhis ve resmi hafıza konularında beyaz Fransız askerlerle aynı muameleyi görmemesi uzun süreli bir tartışma yarattı. 1944 Thiaroye olayı bu hafızanın en ağır dosyalarından biridir: Batı Afrikalı eski savaş esirleri ve askerler, ödeme ve hak talepleri sonrası Fransız kuvvetleri tarafından öldürüldü. AP’nin aktardığı gibi Fransa Cumhurbaşkanı Emmanuel Macron’un 2024’te bu olayı “massacre” olarak tanıması, dosyanın hâlâ kapanmadığını gösterir.\n\nBu nokta oyunun dramatik “savaş görevi” formatından daha büyüktür. Birlikte savaşan askerler barışa aynı statüyle dönmediğinde, zafer anlatısı eksik kalır. Sömürge askerleri bir yandan imparatorluğun askeri kapasitesini büyüttü; diğer yandan imparatorluğun eşitsiz vatandaşlık düzenini görünür kıldı.\n\n### Neden anlatılmalı?\n\nTirailleurs kartı, Battlefield V’in savaş hafızasını genişletme iddiasını daha somut hale getirir. Bu başlık yalnız “oyunda farklı bir birlik var” bilgisi değildir. Savaş tarihinin kimin yüzüyle anlatıldığı, kimin anıtlara yazıldığı ve kimin ücret/hak mücadelesinin yıllarca ertelendiği sorusudur. Popüler oyunlar, unutulmuş askerleri ekrana taşıyabilir; ama tarihsel sorumluluk, o askerleri yalnız dramatik fedakârlık figürü değil, sömürge düzeninin içinde hak arayan insanlar olarak da görmektir.\n\n### Battlefield neden iyi bir kapı açıyor?\n\nBattlefield V’in değeri, bu konuyu kusursuz anlatmasında değil, oyuncuyu alışılmış cephe haritasının dışına çıkarmasında yatar. Sömürge askerleri popüler hafızada çoğu zaman ya hiç görünmez ya da “yardımcı birlik” gibi geçer. Oysa savaş sonrası anma törenlerinde, okul kitaplarında ve müze sergilerinde kimin merkezde durduğu politik bir tercihtir. Tirailleurs kartı bu yüzden yalnız askeri tarih kartı değil, hafıza kartıdır: bir imparatorluk, insanları kendi savaşına çağırdığında onlara savaş bittikten sonra hangi statüyü verdi? Bu soru Battlefield’ın aksiyonunun ötesine geçer ve II. Dünya Savaşı anlatısını daha küresel, daha rahatsız edici ve daha dürüst hale getirir.",
+        "accuracyNote": "Battlefield V sömürge birlikleri meselesini dramatik görev ve karakter odağıyla işler. Tarihsel bağlamda Tirailleurs Sénégalais geniş bir kolonyal asker kategorisidir; katkıları, kayıpları ve savaş sonrası eşitsiz tanınmaları birlikte ele alınmalıdır.",
+        "whyInteresting": "II. Dünya Savaşı hafızasının “Müttefik zaferi” anlatısı, sömürge askerlerinin emeği ve eşitsiz hak mücadelesi eklenince çok daha farklı görünür.",
+        "misconception": "Sömürge askerlerinin sadece yan cephelerde küçük yardımcı roller oynadığı sanılır; gerçekte Fransız savaş kapasitesinin önemli parçalarından biri oldular.",
+        "nextTopics": [
+          "Topyekûn Savaş Ekonomisi",
+          "Çanakkale",
+          "Özel Askeri Şirketler"
+        ],
+        "relatedCardIds": [
+          "tf26-223-hoi4-war-economy",
+          "tf26-240-bf1-gallipoli",
+          "tf26-231-mgs-private-military-companies"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "none",
+        "mediaConnection": "Battlefield V’in az anlatılan savaş hikâyeleri, Fransız sömürge birliklerinin gerçek cephe katkısı ve savaş sonrası hafıza mücadelesiyle bağ kurar.",
+        "accuracyType": "partly-real",
+        "tags": [
+          "battlefield",
+          "ikinci-dunya-savasi",
+          "somurge-birlikleri",
+          "tirailleurs",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun sömürge askerlerini dramatik bir cephe deneyimiyle görünür kılar; tarihsel kaynaklar ise bu deneyimi imparatorluk, eşitsiz yurttaşlık ve savaş sonrası tanınma sorunu içine yerleştirir.",
+        "whyItMatters": "Savaş hafızası yalnız kazanan devletleri değil, o zaferin insan maliyetini taşıyan sömürge toplumlarını da görünür kıldığında daha dürüst olur.",
+        "isFlagship": true,
+        "quickRealityCheck": "II. Dünya Savaşı’nda Fransa için savaşan Afrikalı askerler zaferden sonra aynı hak ve hafıza içinde mi yer aldı?",
+        "sources": [
+          {
+            "title": "Musée de l’Armée - Tirailleurs sénégalais: quelques objets du Musée",
+            "url": "https://www.musee-armee.fr/magazine/tirailleurs-senegalais-quelques-objets-du-musee.html",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Musée de l’Armée - La Seconde Guerre mondiale collections",
+            "url": "https://www.musee-armee.fr/collections/explorer-les-collections/portofolios/la-seconde-guerre-mondiale.html",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "AP News - Macron calls 1944 killings of West African troops a massacre",
+            "url": "https://apnews.com/article/39ee93386e45eb2de1c9695acc068c52",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Musée de l’Armée - Tirailleurs sénégalais: quelques objets du Musée",
+            "url": "https://www.musee-armee.fr/magazine/tirailleurs-senegalais-quelques-objets-du-musee.html",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Musée de l’Armée - La Seconde Guerre mondiale collections",
+            "url": "https://www.musee-armee.fr/collections/explorer-les-collections/portofolios/la-seconde-guerre-mondiale.html",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "AP News - Macron calls 1944 killings of West African troops a massacre",
+            "url": "https://apnews.com/article/39ee93386e45eb2de1c9695acc068c52",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-243-bfv-heavy-water-sabotage",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Battlefield V Nordlys çizgisi Norveç ağır su sabotajı, Vemork, Operation Gunnerside ve Nazi atom programı bağlamıyla kaynaklı standart karta dönüştürüldü.",
+      "fields": {
+        "title": "Ağır Su Sabotajı",
+        "subtitle": "Norveç’te atom yarışının sessiz cephesi",
+        "mediaType": "game",
+        "mediaTitle": "Battlefield V",
+        "era": "Modern Tarih",
+        "region": "Norveç",
+        "themes": [
+          "II. Dünya Savaşı",
+          "Bilim",
+          "Casusluk",
+          "Teknoloji"
+        ],
+        "whatWeSee": "Battlefield V’in Nordlys çizgisi, işgal altındaki Norveç’te kayakla ilerleyen direnişçiler, gizli tesisler ve Alman savaş makinesine karşı yapılan kritik sabotaj hissi kurar. Oyun bu olayı kişisel cesaret ve sinematik gizlilik üzerinden büyütür. Gerçek tarih ise Vemork ağır su tesisinin, nükleer araştırma korkusunun ve Norveç direnişinin birleştiği çok katmanlı bir operasyondur.",
+        "realHistory": "II. Dünya Savaşı sırasında Norveç’teki Vemork tesisi, ağır su üretimi nedeniyle Müttefiklerin dikkatini çekti. Ağır su, nükleer reaktör araştırmalarında nötron yavaşlatıcı olarak kullanılabiliyordu; bu yüzden Alman işgali altındaki üretim kapasitesi stratejik risk sayıldı. 1943’te Norveçli komandoların yürüttüğü Operation Gunnerside, Vemork’taki ağır su hücrelerini hedef aldı. Norwegian Industrial Workers Museum, Heavy Water Cellar’ı tam da bu sabotaj görevinin gerçekleştiği yer olarak anlatır.\n\nOyun, bu olayı tek bir kahramanlık hattına sıkıştırır. Tarihsel olarak ise görev, uzun hazırlık, kötü hava koşulları, yerel bilgi, direniş ağı, İngiliz SOE planlaması ve tesisin teknik yapısını doğru anlama üzerine kuruldu. Atomic Heritage Foundation, 1943 baskınının Alman ağır su kapasitesini kesintiye uğrattığını ve Nazi nükleer araştırmasını yavaşlatan daha geniş Müttefik çabasının parçası olduğunu aktarır.\n\nBu operasyonun önemi bazen abartılı biçimde “tek başına Hitler’in atom bombasını durdurdu” diye anlatılır. Daha doğru okuma, Alman nükleer programının zaten çok sayıda teknik, sanayi ve örgütlenme problemi yaşadığı; Vemork sabotajının ise bu kapasiteyi daha da zorlaştırdığıdır. Battlefield V’in güçlü yanı, Norveç cephesini popüler hafızaya taşımasıdır. True Frame açısından değerli olan ise karanlık bir laboratuvar sahnesinin arkasında bilim, endüstri, işgal ve direnişin birlikte çalıştığını göstermesidir.",
+        "accuracyNote": "Nordlys bölümü gerçek ağır su sabotajından esinlenir; ancak karakterler ve olay örgüsü dramatize edilmiştir. Vemork ve Operation Gunnerside tarihsel olarak güçlü belgelenir, fakat operasyonu Nazi atom programını tek başına bitiren mucize gibi sunmak fazla basitleştirir.",
+        "whyInteresting": "Bir sabotaj görevi, yalnız askeri hedef değil; nükleer bilimin savaşta nasıl stratejik korkuya dönüştüğünün örneğidir.",
+        "misconception": "Vemork sabotajının tek başına Nazi atom bombasını durdurduğu sanılır; gerçekte daha geniş teknik ve endüstriyel sorunların içindeki kritik bir darbeydi.",
+        "nextTopics": [
+          "Topyekûn Savaş Ekonomisi",
+          "Karşılıklı Yok Oluş",
+          "Atom Çağı İyimserliği"
+        ],
+        "relatedCardIds": [
+          "tf26-223-hoi4-war-economy",
+          "tf26-230-mgs-nuclear-deterrence",
+          "tf26-225-fallout-atomic-optimism"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "Battlefield V’in Nordlys bölümü, Norveç’teki Vemork ağır su sabotajı ve savaş zamanı nükleer araştırma korkusuyla ilişkilidir.",
+        "accuracyType": "partly-real",
+        "tags": [
+          "battlefield",
+          "agir-su",
+          "norvec",
+          "nukleer-tarih",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun sabotajı kişisel kahramanlık ve gizlilik macerasına dönüştürür; tarihsel kayıtlar operasyonu bilimsel üretim, işgal ve Müttefik stratejisi içinde konumlandırır.",
+        "whyItMatters": "Nükleer çağın askeri tarihi, yalnız laboratuvarlarda değil, dağ tesislerine yapılan sabotajlarda ve sanayi altyapısında da yazıldı.",
+        "isFlagship": false,
+        "quickRealityCheck": "Vemork baskını gerçekten tek başına atom yarışını mı bitirdi, yoksa daha büyük bir nükleer savaş korkusunun kritik parçalarından biri miydi?",
+        "sources": [
+          {
+            "title": "Norwegian Industrial Workers Museum - The Heavy Water Cellar, Vemork",
+            "url": "https://www.nia.no/en/vemork/experiences/the-heavy-water-cellar/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Atomic Heritage Foundation - Operation Gunnerside",
+            "url": "https://ahf.nuclearmuseum.org/ahf/history/operation-gunnerside/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Hydro - 1943: The Heroes of Telemark",
+            "url": "https://www.hydro.com/us/global/about-hydro/company-history/1929---1945/1943-the-heroes-of-telemark/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Norwegian Industrial Workers Museum - The Heavy Water Cellar, Vemork",
+            "url": "https://www.nia.no/en/vemork/experiences/the-heavy-water-cellar/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Atomic Heritage Foundation - Operation Gunnerside",
+            "url": "https://ahf.nuclearmuseum.org/ahf/history/operation-gunnerside/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Hydro - 1943: The Heroes of Telemark",
+            "url": "https://www.hydro.com/us/global/about-hydro/company-history/1929---1945/1943-the-heroes-of-telemark/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-244-cod-stalingrad-sniper-myth",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Call of Duty ve popüler Stalingrad hafızası, keskin nişancı düellosu mitinden çıkarılıp kent yıpratması, siviller, propaganda ve şehir savaşı ölçeğiyle yazıldı.",
+      "fields": {
+        "title": "Stalingrad ve Keskin Nişancı Miti",
+        "subtitle": "Şehir savaşı tek düello değildi",
+        "mediaType": "game",
+        "mediaTitle": "Call of Duty",
+        "era": "Modern Tarih",
+        "region": "Sovyetler Birliği",
+        "themes": [
+          "II. Dünya Savaşı",
+          "Sovyetler",
+          "Askeri Tarih",
+          "Propaganda"
+        ],
+        "whatWeSee": "Call of Duty ve benzer savaş oyunlarında Stalingrad çoğu zaman yıkılmış binalar, keskin nişancı pozisyonları, politik komiser baskısı ve neredeyse film sahnesi gibi düzenlenmiş ölüm koridorlarıyla hatırlanır. Bu estetik güçlüdür; ama Stalingrad’ı yalnız bir keskin nişancı düellosu ya da birkaç dramatik sokak sahnesi gibi okumak, savaşın gerçek ölçeğini daraltır.",
+        "realHistory": "Stalingrad Muharebesi 1942–1943’te Doğu Cephesi’nin en yıkıcı dönemeçlerinden biri oldu. IWM’in özetlediği gibi Hitler için şehir, Kafkas petrolüne uzanan harekâtın parçası ve sembolik bir hedefti; Sovyetler içinse Volga hattı, sanayi ve rejim prestiji açısından kritik hale geldi. Şehir, bombardıman sonrası fabrika, bodrum, merdiven boşluğu, nehir kıyısı ve harabe bloklarından oluşan bir savaş alanına dönüştü.\n\nPopüler kültür Stalingrad’ı sık sık Vasily Zaitsev gibi keskin nişancı figürleri üzerinden anlatır. Bu figürler gerçek savaş propagandasında da önemliydi: moral yükseltir, bireysel ustalık hissi verir ve çok büyük bir yıpratma savaşını anlaşılır kahramanlık hikâyesine çevirirdi. Fakat muharebenin asıl belirleyici unsurları yalnız nişancı başarıları değildi. Modern War Institute’un Stalingrad şehir savaşı değerlendirmesi, çatışmanın küçük birlik taktikleri, bina bina ilerleme, ikmal, topçu, nehir geçişleri ve harabelerin savunma noktalarına dönüşmesiyle anlaşılması gerektiğini gösterir.\n\nSiviller de bu tablonun içindeydi. National WWII Museum, Stalingrad’a Almanlar yaklaştığında şehirde çok sayıda sivilin kaldığını ve bombardıman ile sokak savaşının içinde yaşamaya çalıştığını anlatır. Bu yüzden Stalingrad yalnız askerî bir dönüm noktası değil, şehirde sıkışmış toplumun da felaketiydi. Oyunların sunduğu keskin nişancı gerilimi tarihsel atmosferin bir parçasını yakalar; ama gerçek Stalingrad, tek bir tüfeğin namlusundan çok daha geniş bir yıkım haritasıdır.",
+        "accuracyNote": "Stalingrad’da keskin nişancılar ve propaganda figürleri gerçektir; fakat popüler oyun ve filmler muharebeyi kişisel düello estetiğine indirger. Tarihsel ağırlık şehir yıpratması, ikmal, topçu, fabrika bölgeleri ve sivil hayatta kalma üzerindedir.",
+        "whyInteresting": "Bir muharebenin hafızası, milyonlarca insanın yıkımından çok tek bir keskin nişancı hikâyesiyle akılda kalabilir.",
+        "misconception": "Stalingrad’ın esasen birkaç efsanevi keskin nişancı düellosundan ibaret olduğu sanılır; gerçekte şehir ölçeğinde bir yıpratma ve ikmal savaşıydı.",
+        "nextTopics": [
+          "Topyekûn Savaş Ekonomisi",
+          "Ahlaki Yara",
+          "Çanakkale"
+        ],
+        "relatedCardIds": [
+          "tf26-223-hoi4-war-economy",
+          "tf26-232-specops-moral-injury",
+          "tf26-240-bf1-gallipoli"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "Call of Duty’nin Stalingrad sahneleri, gerçek Doğu Cephesi şehir savaşı ve keskin nişancı propagandasıyla birlikte okunmalı.",
+        "accuracyType": "partly-real",
+        "tags": [
+          "call-of-duty",
+          "stalingrad",
+          "ikinci-dunya-savasi",
+          "propaganda",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun şehir savaşını bireysel hayatta kalma ve keskin nişancı gerilimiyle yoğunlaştırır; tarihsel gerçeklik çok daha geniş bir ikmal, topçu, yıkım ve sivil yaşam krizidir.",
+        "whyItMatters": "Stalingrad’ı doğru okumak, savaş oyunlarının kahramanlık kamerasının arkasındaki şehir ölçekli yıkımı görünür kılar.",
+        "isFlagship": false,
+        "quickRealityCheck": "Stalingrad denince akla gelen keskin nişancı imgesi tarihsel gerçeğin merkezi mi, yoksa daha büyük bir şehir savaşının seçilmiş sembolü mü?",
+        "sources": [
+          {
+            "title": "Imperial War Museums - What You Need To Know About The Battle Of Stalingrad",
+            "url": "https://www.iwm.org.uk/history/second-world-war/eastern-front/what-you-need-to-know-about-the-battle-of-stalingrad",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "National WWII Museum - Unsung Witnesses of the Battle of Stalingrad",
+            "url": "https://www.nationalww2museum.org/war/articles/unsung-witnesses-battle-stalingrad",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Modern War Institute at West Point - Urban Warfare Project Case Study: Stalingrad",
+            "url": "https://mwi.westpoint.edu/urban-warfare-project-case-study-1-battle-of-stalingrad/",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Imperial War Museums - What You Need To Know About The Battle Of Stalingrad",
+            "url": "https://www.iwm.org.uk/history/second-world-war/eastern-front/what-you-need-to-know-about-the-battle-of-stalingrad",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "National WWII Museum - Unsung Witnesses of the Battle of Stalingrad",
+            "url": "https://www.nationalww2museum.org/war/articles/unsung-witnesses-battle-stalingrad",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Modern War Institute at West Point - Urban Warfare Project Case Study: Stalingrad",
+            "url": "https://mwi.westpoint.edu/urban-warfare-project-case-study-1-battle-of-stalingrad/",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-245-codbo-mkultra",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Call of Duty: Black Ops’un beyin yıkama/soğuk savaş komplo dili CIA MKUltra dosyaları, LSD deneyleri, rıza sorunu ve 1977 Senato soruşturmasıyla bağlandı.",
+      "fields": {
+        "title": "MKUltra ve Zihin Kontrolü",
+        "subtitle": "Black Ops komplosu belgeli etik krize değince",
+        "mediaType": "game",
+        "mediaTitle": "Call of Duty: Black Ops",
+        "era": "Modern Tarih",
+        "region": "ABD",
+        "themes": [
+          "Soğuk Savaş",
+          "Casusluk",
+          "Etik",
+          "Bilim"
+        ],
+        "whatWeSee": "Call of Duty: Black Ops, Soğuk Savaş paranoyasını beyin yıkama, gizli programlar, hipnoz, kimyasal deneyler ve güvenilmez hafıza üzerinden kurar. Oyun bu öğeleri büyük komplo gerilimine taşır. Fakat arkasındaki fikir tamamen kurgu değildir: ABD istihbarat tarihindeki MKUltra programı, davranış kontrolü ve sorgulama araştırmalarında etik sınırların nasıl aşıldığını gösteren belgeli bir örnektir.",
+        "realHistory": "MKUltra, CIA’in 1950’lerden itibaren yürüttüğü davranış değiştirme ve sorgulama araştırmalarıyla ilişkilendirilen gizli programların en bilinen adıdır. Program kapsamında LSD ve başka maddeler, psikolojik baskı yöntemleri, hipnoz ve farklı davranış etkileyici teknikler araştırıldı. Sorun yalnız araştırmanın konusu değildi; asıl kırılma, birçok denemede bilgilendirilmiş rıza ve denetim ilkelerinin ihlal edilmesiydi.\n\n1970’lerde Kongre soruşturmaları ve 1977 Senato oturumları, MKUltra’nın kamuoyunda bilinir hale gelmesini sağladı. Senato belgesi, programı CIA’in “behavioral modification” araştırmaları bağlamında ele aldı. CIA Reading Room’da yer alan belgeler de programın daha sonra açılan arşiv izlerini gösterir. Kayıtların bir kısmının yok edilmiş olması, hem tarihçilerin hem de kamuoyunun programı tam anlamıyla yeniden kurmasını zorlaştırdı.\n\nBlack Ops bu gerçeği bireysel hafıza ve kontrol edilemeyen emirler üzerinden dramatize eder. Gerçek MKUltra ise daha bürokratik ve daha soğuk bir etik krizdir: devlet güvenliği adına bilimsel araştırma dili kullanılmış, fakat insan deneklerin hakları ve rızası çoğu zaman arka plana itilmiştir. Bu nedenle MKUltra, komplo anlatılarının beslendiği bir mit havuzu olduğu kadar, gerçek arşivleri olan bir devlet denetimi problemidir. True Frame açısından önemli ayrım burada başlar: her komplo iddiası doğru değildir; ama bazı komplo estetiklerinin tarihsel çekirdeği, gerçekten yaşanmış kapalı programlardan gelir.",
+        "accuracyNote": "Black Ops MKUltra benzeri programları aksiyon ve hafıza bozumu kurgusuyla dramatize eder. Gerçek MKUltra ise CIA belgeleri ve Senato soruşturmalarıyla doğrulanan, rıza ve insan deneyleri açısından ağır etik sorunlar taşıyan bir programdır.",
+        "whyInteresting": "Komplo gibi görünen bir oyun fikrinin arkasında gerçekten açılmış Senato dosyaları ve eksik arşivler vardır.",
+        "misconception": "MKUltra’nın tamamen internet komplo teorisi olduğu sanılır; programın varlığı belgelenmiştir, fakat popüler anlatılar çoğu zaman gerçek bulguların çok ötesine geçer.",
+        "nextTopics": [
+          "Karşılıklı Yok Oluş",
+          "Vault Deneyleri",
+          "Gözetim Devleti"
+        ],
+        "relatedCardIds": [
+          "tf26-230-mgs-nuclear-deterrence",
+          "tf26-226-fallout-vault-experiments",
+          "tf26-213-papersplease-surveillance"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "minor",
+        "mediaConnection": "Call of Duty: Black Ops’un beyin yıkama ve gizli program teması, CIA MKUltra belgeleri ve 1977 Senato soruşturmasıyla tarihsel zemine oturur.",
+        "accuracyType": "partly-real",
+        "tags": [
+          "call-of-duty",
+          "mkultra",
+          "soguk-savas",
+          "cia",
+          "true-frame"
+        ],
+        "spoilerNote": "Call of Duty: Black Ops’un hafıza ve kontrol temalarına dair genel ipuçları içerir; hikâyenin tüm sonunu anlatmaz.",
+        "mediaChanged": "Oyun MKUltra benzeri fikirleri kişisel komplo ve aksiyon gerilimi olarak büyütür; tarihsel kayıtlar daha bürokratik, daha belirsiz ve etik açıdan daha rahatsız edici bir tablo sunar.",
+        "whyItMatters": "MKUltra, güvenlik devleti ile bilimsel araştırma arasında denetim kaybolduğunda insan haklarının nasıl zarar görebileceğini gösterir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Black Ops’taki zihin kontrolü tamamen kurgu mu, yoksa MKUltra gibi gerçek programların abartılmış bir popüler kültür yankısı mı?",
+        "sources": [
+          {
+            "title": "U.S. Senate Select Committee - Project MKULTRA, CIA program of research in behavioral modification",
+            "url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-95mkultra.pdf",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "CIA Reading Room - Project MKULTRA document",
+            "url": "https://www.cia.gov/readingroom/document/00163357",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "National Security Archive - The top secret testimony of CIA’s MKULTRA chief",
+            "url": "https://nsarchive.gwu.edu/briefing-book/dnsa-intelligence/2025-10-30/top-secret-testimony-cias-mkultra-chief-50-years-later",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "U.S. Senate Select Committee - Project MKULTRA, CIA program of research in behavioral modification",
+            "url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-95mkultra.pdf",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "CIA Reading Room - Project MKULTRA document",
+            "url": "https://www.cia.gov/readingroom/document/00163357",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "National Security Archive - The top secret testimony of CIA’s MKULTRA chief",
+            "url": "https://nsarchive.gwu.edu/briefing-book/dnsa-intelligence/2025-10-30/top-secret-testimony-cias-mkultra-chief-50-years-later",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

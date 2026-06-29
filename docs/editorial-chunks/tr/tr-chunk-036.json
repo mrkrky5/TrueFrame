@@ -1,0 +1,201 @@
+{
+  "locale": "tr",
+  "chunkIndex": 36,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "civ-alphabet-revolution-real",
+      "title": "Alfabe: Tarihin En Büyük 'Teknolojisi'",
+      "subtitle": "Fikirlerin kopyalanabilir hale gelişi.",
+      "mediaType": "game",
+      "mediaTitle": "Civilization",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Antik Çağ",
+        "Teknoloji",
+        "Kültür"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "civilization",
+        "alfabe",
+        "fenikeliler",
+        "tarih"
+      ],
+      "quickRealityCheck": "Civilization oyununda 'Writing' veya 'Alphabet' sadece bir araştırma ağacı adımıdır; gerçekte ise alfabenin icadı, bilginin bir rahip sınıfının tekelinden çıkıp ticaret ve bilim için her yere yayılmasını sağlayan gerçek bir bilgi devrimidir.",
+      "mediaChanged": "Oyunlarda alfabe sadece 'bilim puanı' verir. Gerçekte Fenikelilerin geliştirdiği bu sistem, karmaşık hiyerogliflerin aksine sadece 22 sembolle her şeyi yazabilmeyi sağlayarak eğitimin maliyetini düşürmüştür.",
+      "realHistory": "MÖ 1200'lerde Fenikeliler, her biri bir sese karşılık gelen semboller sistemini (alfabe) geliştirdiler. Daha önceki Mezopotamya çivi yazıları veya Mısır hiyerogliflerini öğrenmek yıllar sürüyordu ve bu yüzden bilgi sadece küçük bir elit grubun elindeydi. Fenike alfabesi ise o kadar basitti ki, bir tüccar birkaç haftada öğrenip kayıt tutmaya başlayabilirdi. Yunanlılar bu sisteme ünlü harfleri ekleyerek bugünkü modern dillerin temelini attılar. Alfabe olmasaydı, ne Roma hukuku bu kadar yayılabilir ne de Rönesans'taki bilimsel patlama gerçekleşebilirdi. Bilgi 'taşınabilir' ve 'öğrenilebilir' hale geldi.\n\nSoruşturma ve arşiv belgeleri, civilization oyununda 'Writing' veya 'Alphabet' sadece bir araştırma ağacı adımıdır; gerçekte ise alfabenin icadı, bilginin bir rahip sınıfının tekelinden çıkıp ticaret ve bilim için her yere yayılmasını sağlayan gerçek bir bilgi devrimidir.\n\nBu örnek Alfabe açısından önem taşır, tarihteki ilk ve en önemli 'bilgi demokratikleşmesi' aracıdır.\n\nOyunlarda alfabe sadece 'bilim puanı' verir; belgeler ise Fenikelilerin geliştirdiği bu sistem, karmaşık hiyerogliflerin aksine sadece 22 sembolle her şeyi yazabilmeyi sağlayarak eğitimin maliyetini düşürmüştür.\n\nTarihî kayıtlar, civilization oyununda 'Writing' veya 'Alphabet' sadece bir araştırma ağacı adımıdır; gerçekte ise alfabenin icadı, bilginin bir rahip sınıfının tekelinden çıkıp ticaret ve bilim için her yere yayılmasını sağlayan gerçek bir bilgi devrimidir.",
+      "whyItMatters": "Alfabe, tarihteki ilk ve en önemli 'bilgi demokratikleşmesi' aracıdır.",
+      "sources": [
+        {
+          "title": "History of the Alphabet (Britannica)",
+          "url": "https://www.britannica.com/topic/alphabet/History-of-the-alphabet",
+          "type": "official"
+        },
+        {
+          "title": "The Phoenician Alphabet (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/alphabet/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "civ-great-leaders-simplification",
+        "civ-great-library-alexandria-real"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Civilization oyunda “Alfabe: Tarihin En Büyük 'Teknolojisi'” konusunu antik çağ ve teknoloji ekseninde somut sahnelerle işler. Fikirlerin kopyalanabilir hale gelişi.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "total-war-siege-starvation-real",
+      "title": "Kuşatma Gerçeği: Açlık ve Hastalık",
+      "subtitle": "Sur önündeki aylar ve bitmeyen bekleyiş.",
+      "mediaType": "game",
+      "mediaTitle": "Total War",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Orta Çağ",
+        "Savaş",
+        "Lojistik"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "total-war",
+        "kusatma",
+        "orta-cag",
+        "savas"
+      ],
+      "quickRealityCheck": "Total War oyunlarında kuşatmalar genellikle görkemli sur saldırılarıyla biter; ancak gerçek tarihte kuşatmaların %90'ı tek bir kılıç darbesi vurulmadan, içerideki halkın açlıktan veya hastalıktan teslim olmasıyla sonuçlanırdı.",
+      "mediaChanged": "Oyunlar koçbaşları ve kulelerle yapılan saldırılara odaklanır. Gerçekte bir kaleyi 'beklemek', orduya hücum ettirmekten çok daha ucuz ve güvenli bir taktikti.",
+      "realHistory": "Orta Çağ'da bir kaleyi kuşatan ordu için en büyük düşman surlar değil, kendi lojistiğiydi. Binlerce askeri tek bir noktada aylarca beslemek imkansızdı; bu yüzden asıl savaş, çevredeki köylerin yağmalanması ve temiz su kaynağı bulma mücadelesiydi. Kale içindekiler için ise durum daha vahimdi. Atlar, köpekler ve hatta fareler yenir; su kaynakları kirlendiği için dizanteri gibi hastalıklar orduları surlardan daha hızlı yok ederdi. 1418-1419 Rouen kuşatmasında halkın açlıktan deri kemerlerini yediği kaydedilmiştir. Çoğu zaman kale kapıları, bir 'kahramanlık' sonucu değil, içerideki birinin bir somun ekmek veya altın karşılığı gizlice kapıyı açmasıyla düşerdi.\n\nKayıtlara göre kuşatmaların büyük çoğunluğu tek bir kılıç darbesi vurulmadan, içerideki halkın açlıktan veya hastalıktan teslim olmasıyla sonuçlanırdı; görkemli sur saldırıları ise istisnai kalırdı.\n\nPopüler oyunlarda koçbaşları ve kulelerle yapılan saldırılara odaklanılır; oysa bir kaleyi beklemek, orduya hücum ettirmekten çok daha ucuz ve güvenli bir taktikti.\n\nBu örnek Kuşatma savaşı açısından önem taşır, askeri tarihte lojistiğin ve sabrın saf kaba kuvvetten daha belirleyici olduğunun kanıtıdır.\n\nTarihî kayıtlar, total War oyunlarında kuşatmalar genellikle görkemli sur saldırılarıyla biter; ancak gerçek tarihte kuşatmaların %90'ı tek bir kılıç darbesi vurulmadan, içerideki halkın açlıktan veya hastalıktan teslim olmasıyla sonuçlanırdı.",
+      "whyItMatters": "Kuşatma savaşı, askeri tarihte lojistiğin ve sabrın saf kaba kuvvetten daha belirleyici olduğunun kanıtıdır.",
+      "sources": [
+        {
+          "title": "Medieval Siege Warfare (Britannica)",
+          "url": "https://www.britannica.com/topic/siege-warfare",
+          "type": "official"
+        },
+        {
+          "title": "Life During a Medieval Siege (The British Library)",
+          "url": "https://www.bl.uk/",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [
+        "total-war-medieval-diplomacy-real"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Total War oyunda “Kuşatma Gerçeği: Açlık ve Hastalık” konusunu orta çağ ve savaş ekseninde somut sahnelerle işler. Sur önündeki aylar ve bitmeyen bekleyiş.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "mafia-rico-law-impact-real",
+      "title": "RICO Yasası: Mafyayı Bitiren Formül",
+      "subtitle": "Komisyonun çöküşü ve hukuk devrimi.",
+      "mediaType": "game",
+      "mediaTitle": "Mafia",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Suç",
+        "Hukuk",
+        "ABD"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "mafia",
+        "rico-yasasi",
+        "abd",
+        "hukuk"
+      ],
+      "quickRealityCheck": "Mafia oyunlarında aile liderlerini öldürerek suç örgütünü bitirirsiniz; gerçek hayatta ise mafyayı bitiren şey silahlar değil, 1970'te çıkan ve liderleri tetikçilerin işlediği suçlardan sorumlu tutan RICO yasasıdır.",
+      "mediaChanged": "Oyunlarda mafya her zaman güçlü bir aile bağıyla korunur. Gerçekte RICO yasası sonrası hapis cezaları o kadar arttı ki, mafyanın en sadık üyeleri (Omerta'yı bozarak) itirafçı olmaya başladılar.",
+      "realHistory": "1970 öncesinde, FBI ve federal savcılar Amerikan Mafyasını çökertmekte büyük zorluklar yaşıyordu. Münferit suçlar için 'askerleri' tutuklayabiliyorlardı, ancak 'Babalar' katı bir sessizlik kodu (Omertà) ve bürokrasi katmanları sayesinde dokunulmaz kalıyordu. 1970'te çıkan RICO (Racketeer Influenced and Corrupt Organizations) yasası, oyunun kurallarını kökten değiştirdi.\n\n### Örgütü Hedef Almak\nRICO, savcıların bireyleri bir 'suç işletmesinin' parçası oldukları için suçlamalarına olanak tanıdı; bu kişiler söz konusu cinayet veya haraç suçlarını bizzat işlememiş olsalar bile. Eğer bir lider cinayet emri verdiyse, artık tetikçi kadar sorumlu tutulabiliyordu. Bu 'işletme teorisi' yaklaşımı, hükümetin Beş Aile'nin tüm yapısını tek bir seferde hedef almasını sağladı.\n\n### Komisyon Davası\nRICO'nun en ünlü uygulaması, o dönem federal savcı olan Rudy Giuliani liderliğindeki 1985-86 Komisyon Davası'ydı. İlk kez New York'un beş büyük ailesinin liderleri aynı anda yargılandı ve mahkum edildi. Bu durum, mafyanın 'Altın Çağı'nı resmen sona erdirdi. Liderler artık kısa hapis cezaları yerine ömür boyu hapisle karşı karşıyaydı; bu da birçoğunun kendilerini kurtarmak için sessizlik kodunu bozmasına neden oldu.\n\n### Mafyanın Ötesinde\nMafya için tasarlanmış olsa da, RICO'nun geniş kapsamlı dili daha sonra beyaz yakalı suçlar, uyuşturucu kartelleri ve hatta siyasi yolsuzlukları hedef almak için kullanıldı. Günümüzde hala federal savcıların elindeki en güçlü araç olmaya devam ediyor ve Amerikan kolluk kuvvetlerinin organize suça yaklaşımını reaktif olmaktan çıkarıp sistemsel bir hale dönüzştürüyor.",
+      "whyItMatters": "RICO yasası, organize suçla mücadelede hukukun nasıl bir silah olarak kullanılabileceğini gösteren bir devrimdir.",
+      "sources": [
+        {
+          "title": "RICO Act (Britannica)",
+          "url": "https://www.britannica.com/topic/RICO-Act",
+          "type": "official"
+        },
+        {
+          "title": "The Fall of the Mob (FBI Records)",
+          "url": "https://www.fbi.gov/history/famous-cases/racketeer-influenced-and-corrupt-organizations-act-rico",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "mafia-prohibition",
+        "mafia-immigration-crime",
+        "mafia-prohibition-economics"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Mafia oyunda “RICO Yasası: Mafyayı Bitiren Formül” konusunu suç ve hukuk ekseninde somut sahnelerle işler. Komisyonun çöküşü ve hukuk devrimi."
+    },
+    {
+      "id": "oppenheimer-gray-board-1954-real",
+      "title": "1954 Güvenlik Soruşturması: Oppenheimer’ın Düşüşü",
+      "subtitle": "McCarthyizm ve atomun babası.",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Modern Tarih",
+        "Siyaset",
+        "Bilim"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "oppenheimer",
+        "siyaset",
+        "abd",
+        "mccarthyizm",
+        "bilim"
+      ],
+      "quickRealityCheck": "Oppenheimer filminin büyük bölümünü oluşturan o küçük odadaki sorgulama, 1954'teki gerçek 'Gray Board' duruşmalarıdır ve Amerika'nın en büyük kahramanını bir gecede 'güvenlik tehdidi' ilan etmiştir.",
+      "mediaChanged": "Film Lewis Strauss ile olan çekişmeyi vurgular. Gerçekte bu duruşma, Soğuk Savaş paranoyasının ve bilim insanlarının devlet üzerindeki etik eleştirilerini susturma çabasının bir sonucuydu.",
+      "realHistory": "1950'lerin başında ABD'de 'Kızıl Korku' (McCarthyizm) hakimdi. Robert Oppenheimer, atom bombasının yarattığı dehşetten sonra hidrojen bombasının geliştirilmesine etik nedenlerle karşı çıkmıştı. Bu muhalefeti, onu rakiplerinin hedefi haline getirdi. 1954'teki duruşmada, Oppenheimer'ın geçmişteki solcu bağlantıları 'vatan hainliği' şüphesiyle sunuldu. Duruşma sonunda Oppenheimer'ın güvenlik yetkisi iptal edildi; bu, onun bilimsel kariyerinin ve devlet üzerindeki etkisinin sonu demekti. Bu olay, bilim dünyasında 'özgür düşüncenin' devlet politikasıyla çatıştığında nasıl ezilebileceğinin en trajik örneği olarak tarihe geçti.\n\nGüvenlik iptali bilim camiasında şok yarattı. McCarthy döneminde siyasi baskı bilimsel özgürlüğü kısıtladı.\n\n1954 güvenlik duruşmasında Oppenheimer'ın geçmiş bağlantıları ve hidrojen bombasına muhalefeti gündeme getirildi. Atom Enerjisi Komisyonu güvenlik yetkisini iptal etti. McCarthy döneminde Kızıl Korku hakimdi; duruşma bilim dünyasında özgür düşüncenin devlet politikasıyla çatıştığında nasıl ezilebileceğini gösterdi.\n\nDuruşma tutanakları kamuya açıldığında bilim ve siyaset gerilimi yeniden tartışıldı. Oppenheimer'ın güvenlik iptali kariyerinin dönüm noktası oldu.\n\nKarar, soğuk savaş döneminde bilim insanlarının siyasi güvenilirlik testine tabi tutulduğunu gösterdi.\n\nOppenheimer'ın güvenlik iptali bilim camiasında uzun süre tartışma yarattı.\n\nKarar nükleer politika ve bilim etiği tartışmalarını yıllarca şekillendirdi.\n\nDuruşma tutanakları kamuya açıldığında bilim camiasında şok etkisi yarattı.\n\nAtom Enerjisi Komisyonu kararı Oppenheimerın devlet üzerindeki nüfuzunu sınırladı; hidrojen bombası muhalefeti sürecin tetikleyicilerinden biriydi.",
+      "whyItMatters": "Oppenheimer davası, bilim insanlarının icat ettikleri teknolojilerin politik sonuçları üzerindeki sorumluluğunu tartışmaya açan ilk büyük olaydır.",
+      "sources": [
+        {
+          "title": "J. Robert Oppenheimer Security Hearing (Britannica)",
+          "url": "https://www.britannica.com/event/J-Robert-Oppenheimer-security-hearing",
+          "type": "official"
+        },
+        {
+          "title": "The Trial of Robert Oppenheimer (Atomic Heritage Foundation)",
+          "url": "https://www.atomicheritage.org/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "oppenheimer-trinity",
+        "oppenheimer-science-state",
+        "oppenheimer-trinity-reality"
+      ],
+      "spoilerNote": "Oppenheimer hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "Oppenheimer filmdе “1954 Güvenlik Soruşturması: Oppenheimer’ın Düşüşü” konusunu modern tarih ve siyaset ekseninde somut sahnelerle işler. McCarthyizm ve atomun babası.",
+      "lastReviewedAt": "2026-06-27"
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "patchId": "tr-chunks-017-018-source-aware-review",
+  "locale": "tr",
+  "sourceChunks": [
+    "tr-chunk-017.json",
+    "tr-chunk-018.json"
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "editorial + factual + source review",
+  "summary": {
+    "cardCount": 12,
+    "approvedAsIs": [],
+    "minorEdit": [],
+    "rewrite": [
+      "constantinople-fall-turning-new",
+      "silk-road-network-turning",
+      "onna-musha-samurai-women",
+      "ac-brotherhood-rome",
+      "ac-revelations-istanbul",
+      "ac-syndicate-london",
+      "ac-valhalla-settlement",
+      "total-war-attila-collapse",
+      "aoe4-mongol-logistics",
+      "aoe2-castles-politics",
+      "rdr-railroads-frontier",
+      "kcd-medieval-crime"
+    ],
+    "sourceUpdates": [
+      "constantinople-fall-turning-new",
+      "silk-road-network-turning",
+      "onna-musha-samurai-women",
+      "ac-brotherhood-rome",
+      "ac-revelations-istanbul",
+      "ac-syndicate-london",
+      "ac-valhalla-settlement",
+      "total-war-attila-collapse",
+      "aoe4-mongol-logistics",
+      "aoe2-castles-politics",
+      "rdr-railroads-frontier",
+      "kcd-medieval-crime"
+    ],
+    "notes": [
+      "Chunk 017 and 018 contained several older generation traces: repeated sentences, template-style short fields, generic source URLs, and a few overconfident claims.",
+      "Major factual risks corrected: 1453 directly causing all exploration, onna-musha battlefield DNA percentage claim, Late Antique Little Ice Age used for 5th-century Rome, and overmodernized Ottoman intelligence framing.",
+      "All sourceQuality values are normalized to 'strong' and sources are replaced with more direct references where possible."
+    ]
+  },
+  "entries": [
+    {
+      "id": "constantinople-fall-turning-new",
+      "reviewStatus": "rewrite",
+      "rationale": "Original text overstates 1453 as a single direct cause of the Renaissance, Atlantic exploration, and feudal collapse. Rewritten as a major turning point with indirect and debated effects.",
+      "fields": {
+        "title": "1453: İstanbul’un Fethi ve Dünyanın Yön Değişimi",
+        "subtitle": "Bir şehrin düşüşünden fazlası",
+        "realHistory": "29 Mayıs 1453’te Konstantinopolis’in Osmanlılar tarafından alınması, Doğu Roma İmparatorluğu’nun siyasi sonu ve Osmanlıların İstanbul merkezli yeni bir imparatorluk düzeni kurması anlamına geldi. Bu olayın etkisi yalnızca kuşatma teknolojisinde değil, diplomasi, ticaret ve kültürel hafızada da hissedildi. II. Mehmed’in ağır topları ve kuşatma hazırlığı, güçlü surların artık tek başına güvenlik sağlamadığını gösterdi; fakat fethi “top teknolojisi feodalizmi bitirdi” diye tek nedene indirmek doğru olmaz.\n\nFethin Avrupa üzerindeki etkisi daha karmaşıktı. Akdeniz ve Karadeniz ticaret dengeleri değişti, Venedik ve Ceneviz gibi aktörler Osmanlı gücüyle yeni pazarlıklar yapmak zorunda kaldı. Portekiz ve İspanya’nın deniz yollarına yönelmesi yalnız 1453’e bağlanamaz; ama Osmanlıların Doğu Akdeniz’deki ağırlığı, Asya ticaretine alternatif rota arayışlarını daha önemli hale getiren etkenlerden biriydi.\n\nBizanslı bilginlerin İtalya’ya göçü de Rönesans’a katkıda bulundu, fakat Rönesans yalnız bu göçle başlamadı. Antik Yunanca metinlerin aktarımı, İtalyan şehir devletlerinin zenginliği, matbaa ve hümanist çevrelerle birleşince daha geniş bir dönüşüm yarattı. Bu yüzden 1453’ü tek başına “modern çağın düğmesine basan olay” gibi değil; eski Roma mirası, Osmanlı yükselişi ve Avrupa’nın yeni ticaret ufuklarının kesiştiği büyük bir tarihsel kavşak olarak okumak daha doğru olur.",
+        "accuracyNote": "Fetih büyük bir dönüm noktasıdır; ancak Rönesans, coğrafi keşifler ve Avrupa devletleşmesi tek bir olayın otomatik sonucu değil, uzun süreli süreçlerin birleşimidir.",
+        "whyInteresting": "II. Mehmed’in İstanbul’u yalnız fethedilecek bir şehir değil, Roma mirasını devralacak yeni bir imparatorluk başkenti olarak görmesi olayın siyasi anlamını büyütür.",
+        "misconception": "Fethin tek etkisinin Müslüman-Hristiyan çatışması olduğu sanılır; gerçekte ticaret, diplomasi, antik miras ve Osmanlı merkezileşmesi üzerinde de kalıcı sonuçları vardı.",
+        "mediaChanged": "Medya genellikle kuşatmayı tek bir kahramanlık ve topçu sahnesi olarak anlatır; tarihsel tablo ise askeri teknoloji kadar lojistik, diplomasi ve ticaret dengeleriyle ilgilidir.",
+        "whyItMatters": "1453, İstanbul’un Osmanlı başkentine dönüşmesini ve Doğu Akdeniz güç dengesinin yeniden kurulmasını anlamak için temel eşiktir.",
+        "quickRealityCheck": "1453 tek başına modern dünyayı başlatmadı; ama Osmanlı, Avrupa ve Akdeniz tarihinin yönünü kalıcı biçimde değiştirdi.",
+        "readingTimeMinutes": 3,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Fall of Constantinople — Britannica",
+            "url": "https://www.britannica.com/event/Fall-of-Constantinople-1453",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Mehmed II — Britannica",
+            "url": "https://www.britannica.com/biography/Mehmed-II-Ottoman-sultan",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Istanbul Historic Areas — UNESCO World Heritage Centre",
+            "url": "https://whc.unesco.org/en/list/356/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "silk-road-network-turning",
+      "reviewStatus": "rewrite",
+      "rationale": "Original text is broadly correct but contains inflated 'ancient internet' phrasing and overcompressed claims. Rewritten around network logic, caravanserais, exchange, and risk.",
+      "fields": {
+        "title": "İpek Yolu: Tek Yol Değil, Bir Ağ",
+        "subtitle": "Mal, fikir ve hastalıkların dolaştığı rota",
+        "realHistory": "İpek Yolu, Çin’den Roma’ya uzanan düz bir çizgi değil; Orta Asya, İran, Hindistan, Karadeniz, Anadolu ve Akdeniz’i birbirine bağlayan kara ve deniz yolları ağıydı. Bu ağda ipek önemli bir lüks maldı, ama tek hikâye değildi. Baharat, kâğıt, metal işçiliği, cam, at, ilaç, dini fikirler ve diplomatik haberler de aynı güzergâhlardan dolaşıyordu.\n\nKervansaraylar bu ağın güvenlik ve lojistik noktalarıydı. İyi hizmet verilen bölgelerde çoğu, yaklaşık bir günlük yol aralıklarıyla kurulur; tüccarlara, hayvanlara ve mallara geceleme imkânı sağlardı. Bu yapılar yalnız konaklama yeri değil, fiyat bilgisinin, haberin, dilin ve kültürel alışkanlıkların yayıldığı temas alanlarıydı.\n\nYine de İpek Yolu’nu romantik bir barış koridoru gibi düşünmek eksik olur. Savaş, vergi, salgın ve siyasi parçalanma ticareti sürekli etkiledi. Moğol egemenliği gibi bazı dönemlerde güvenlik ve hareketlilik artarken, başka dönemlerde güzergâhlar değişti ya da daraldı. Popüler anlatılar tek bir deve kervanı görüntüsüne takılır; gerçek tarihte ise İpek Yolu, değişen imparatorluklar ve şehirler üzerinden yaşayan esnek bir bağlantı sistemiydi.",
+        "accuracyNote": "İpek Yolu tek bir yol değil, farklı dönemlerde ağırlığı değişen kara ve deniz rotalarından oluşan geniş bir ticaret ve kültür ağıydı.",
+        "whyInteresting": "Kervansaraylar çoğu yerde yaklaşık bir günlük yol aralığıyla kurulduğu için, ticaretin ritmi neredeyse coğrafyaya işlenmiş bir zaman çizelgesine dönüşmüştü.",
+        "misconception": "İpek Yolu’nun yalnızca ipek taşıyan güvenli ve tekil bir rota olduğu sanılır; gerçekte çok kollu, dönem dönem riskli ve sürekli değişen bir ağdı.",
+        "mediaChanged": "Belgeseller çoğu zaman çölde ilerleyen tek bir kervan görüntüsüne odaklanır; tarihsel gerçeklikte limanlar, şehir pazarları, sınır kapıları ve kervansaraylar aynı ağın parçalarıydı.",
+        "whyItMatters": "İpek Yolu, küreselleşmenin modern çağdan önce de ticaret, din, teknoloji ve hastalık dolaşımıyla işlediğini gösterir.",
+        "quickRealityCheck": "İpek Yolu bir harita çizgisi değil; farklı halkların, malların ve fikirlerin temas ettiği hareketli bir ağdı.",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "About the Silk Roads — UNESCO",
+            "url": "https://www.unesco.org/en/silk-roads/about-silk-roads",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Silk Road — Britannica",
+            "url": "https://www.britannica.com/topic/Silk-Road",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Caravanserai — National Geographic Education",
+            "url": "https://education.nationalgeographic.org/resource/caravanserai/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "onna-musha-samurai-women",
+      "reviewStatus": "rewrite",
+      "rationale": "Original contains an unsafe claim that battlefield remains were ~30% women by DNA testing. Rewritten with a more careful distinction between legendary figures, documented later examples, and martial training.",
+      "fields": {
+        "title": "Onna-musha: Samuray Dünyasında Kadın Savaşçılar",
+        "subtitle": "Naginata, hane savunması ve istisnai cephe rolleri",
+        "realHistory": "Feodal Japonya’da samuray sınıfı yalnız erkeklerden oluşmuyordu; samuray ailelerindeki kadınlar da hane, mülk ve soy devamlılığı içinde önemli sorumluluklar taşıyordu. Bu kadınların hepsi cephe savaşçısı değildi, fakat bazıları silah eğitimi alır ve özellikle kale ya da hane savunmasında aktif rol üstlenirdi. Naginata, menzil avantajı nedeniyle bu gelenekle en çok ilişkilendirilen silahtır.\n\nTomoe Gozen gibi figürler, tarih ile destan arasındaki bölgede durur: savaşçı kadın imajının güçlü sembolleridir ama anlatıları edebi geleneğin süzgecinden geçmiştir. Daha geç ve daha belgeli örneklerde, Boshin Savaşı sırasında Nakano Takeko’nun Aizu tarafında savaşması gibi olaylar kadınların askeri rolünün tamamen kurgu olmadığını gösterir. Yine de bu örnekleri “samuray kadınların çoğu meydan savaşındaydı” diye genellemek doğru değildir.\n\nGhost of Tsushima ve Shōgun gibi yapımlar, kadın karakterleri onur, intikam ve siyasi sadakat üzerinden görünür kılar. Tarihsel gerçek daha dengelidir: samuray kadınları çoğu zaman hane yönetimi, evlilik ittifakları, eğitim ve mülk koruması içinde etkiliydi; bazı kriz anlarında ise bu sorumluluk doğrudan silahlı savunmaya dönüşebiliyordu.",
+        "accuracyNote": "Onna-musha geleneği gerçektir; ancak kaynakların bir kısmı destansı/edebi olduğundan, kadın savaşçıların yaygınlığı konusunda temkinli konuşmak gerekir.",
+        "whyInteresting": "Naginata’nın kadın savaşçı imajıyla ilişkilendirilmesi, Japon askeri kültüründe hane savunmasının da en az cephe savaşı kadar önemli görüldüğünü hatırlatır.",
+        "misconception": "Samuray kadınlarının yalnızca ev içinde pasif roller üstlendiği sanılır; gerçekte bazıları silah eğitimi aldı, hane savunmasına katıldı ve istisnai durumlarda cephede savaştı.",
+        "mediaChanged": "Oyun ve diziler kadın savaşçıları dramatik bireysel kahramanlar olarak öne çıkarır; tarihsel bağlamda bu roller daha çok aile, mülk, ittifak ve kriz anı savunmasıyla bağlantılıydı.",
+        "whyItMatters": "Onna-musha anlatısı, samuray toplumunda güç ve sorumluluğun yalnız erkek savaşçılar üzerinden okunamayacağını gösterir.",
+        "quickRealityCheck": "Kadın samuray savaşçılar vardı; ama onları ne tamamen yok saymak ne de her cephede yaygınmış gibi göstermek doğru.",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Samurai — Britannica",
+            "url": "https://www.britannica.com/topic/samurai",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Did Japan have female samurai? — Live Science",
+            "url": "https://www.livescience.com/archaeology/did-japan-have-female-samurai",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Japanese Arms and Armor — The Met",
+            "url": "https://www.metmuseum.org/toah/hd/shog/hd_shog.htm",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "ac-brotherhood-rome",
+      "reviewStatus": "rewrite",
+      "rationale": "Original is on-topic but overdramatic and uses weak/generic source metadata. Rewritten to distinguish game villainization from Renaissance papal politics.",
+      "fields": {
+        "title": "Rönesans Roma’sı ve Papalık Siyaseti",
+        "subtitle": "Borgia ailesinin gri güç oyunu",
+        "realHistory": "Assassin’s Creed Brotherhood, Roma’yı Borgia ailesinin yozlaşmış iktidarı altında gösterir. Bu dramatik çerçeve tamamen uydurma değildir: 15. yüzyıl sonu ve 16. yüzyıl başında papalık yalnız ruhani bir makam değil, İtalya’da toprak yöneten ve Avrupa krallıklarıyla pazarlık yapan siyasi bir güçtü. Rodrigo Borgia’nın VI. Alexander olarak papa seçilmesi, aile çıkarları, ittifaklar, makam dağıtımı ve Papalık Devleti’nin genişleme hedefleriyle iç içe geçti.\n\nCesare Borgia bu dünyanın en sert figürlerinden biriydi. Kardinallikten ayrılıp askeri ve siyasi kariyere yönelmesi, papalığın aile stratejisiyle dünyevi güç arasındaki sınırın ne kadar bulanıklaştığını gösterir. Machiavelli’nin Cesare’yi dikkatle izlemesi ve Prens’te ondan söz etmesi de bu nedenle önemlidir: Cesare, ahlaki bir kahraman değil, döneminin acımasız ama etkili güç siyasetinin örneğiydi.\n\nOyun Borgiaları neredeyse saf kötü karakterler haline getirir ve suikastçı-tapınakçı çatışmasıyla basitleştirir. Gerçekte ise aynı dönem sanat, şehir yenileme, diplomasi, nepotizm ve şiddetin birlikte var olduğu gri bir dünyaydı. Rönesans Roma’sını ilginç yapan da budur: güzellik ve yolsuzluk, freskler ve paralı askerler, kutsal otorite ve aile çıkarı aynı sokaklarda dolaşıyordu.",
+        "accuracyNote": "Borgia ailesinin nepotizm ve güç siyaseti gerçek tarihsel zemine sahiptir; fakat oyundaki gizli örgüt savaşı ve karakterlerin saf kötü-kahraman karşıtlığı kurgusaldır.",
+        "whyInteresting": "Cesare Borgia’nın hem kilise kariyerinden hem askeri-siyasi hırstan beslenen hayatı, Rönesans İtalya’sında din ve devlet gücünün nasıl iç içe geçtiğini gösterir.",
+        "misconception": "Rönesans papalarının sadece dini lider olduğu sanılır; gerçekte bazıları diplomasi, toprak siyaseti ve savaşın doğrudan aktörleriydi.",
+        "mediaChanged": "Oyun Borgia iktidarını karikatürize eder; tarihsel gerçeklikte yozlaşma, sanat hamiliği, şehir siyaseti ve Avrupa diplomasisi aynı yapının parçalarıydı.",
+        "whyItMatters": "Bu dönem, modern siyaset düşüncesinin neden ideal ahlaktan çok güç, ittifak ve meşruiyet sorunlarıyla ilgilenmeye başladığını anlamak için önemlidir.",
+        "quickRealityCheck": "Borgialar yalnız oyun kötüsü değildi; Rönesans papalığının dünyevi güçle kurduğu rahatsız edici ilişkinin sembolüydüler.",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Cesare Borgia — Britannica",
+            "url": "https://www.britannica.com/biography/Cesare-Borgia",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Alexander VI — Britannica",
+            "url": "https://www.britannica.com/biography/Alexander-VI",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Papal States — Britannica",
+            "url": "https://www.britannica.com/place/Papal-States",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "ac-revelations-istanbul",
+      "reviewStatus": "rewrite",
+      "rationale": "Original overmodernizes Ottoman intelligence and contains weak/generic sources plus a risky 1511 earthquake labor claim. Rewritten around Ottoman Istanbul's cosmopolitan structure, dynastic crisis, maritime intelligence, and game fiction.",
+      "fields": {
+        "title": "Osmanlı İstanbul’u ve Gizli Güç Dengeleri",
+        "subtitle": "1511’de saray, liman ve hanedan krizi",
+        "realHistory": "Assassin’s Creed Revelations, Ezio’yu 1511 İstanbul’una getirir ve şehri Osmanlı yükselişinin kozmopolit başkenti olarak gösterir. Bu atmosfer güçlüdür: İstanbul, fetihten sonra hızla yeniden nüfuslandırılmış, Müslüman, Rum, Ermeni, Yahudi, Latin ve farklı ticaret topluluklarının bir arada yaşadığı büyük bir imparatorluk merkezine dönüşmüştü. Galata, limanlar, çarşılar ve saray çevresi yalnız ticaretin değil, haberin de dolaştığı alanlardı.\n\nOyunun tarihsel arka planında önemli bir eşik vardır: II. Bayezid’in son yılları ve oğulları arasındaki taht mücadelesi. Selim ile Ahmed arasındaki gerilim, Osmanlı siyasetinde yalnız saray içinde değil, eyaletlerde ve askeri çevrelerde de hissedilen gerçek bir krizdi. Bu yüzden 1511 İstanbul’u “sakin bir başkent” değil, hanedan geleceğinin belirlendiği gergin bir merkezdi.\n\nOyundaki Osmanlı Suikastçıları ve Tapınakçı komplosu kurgudur. Fakat şehirde haber toplama, elçilik raporları, denizcilerin getirdiği bilgiler, tüccar ağları ve saray görevlilerinin aktardığı duyumlar gerçek bir siyasi işlev görüyordu. Piri Reis gibi denizcilerin harita ve rota bilgisi de yalnız coğrafi merak değil, stratejik değer taşıyordu. Revelations’ın en doğru tarafı, İstanbul’u tek bir kültürün dekoru değil, imparatorluk çapında bilgi, ticaret ve iktidar akışlarının düğüm noktası olarak hissettirmesidir.",
+        "accuracyNote": "Oyundaki Assassin/Templar çatışması kurgusaldır; ancak 1511 civarındaki hanedan gerilimi, liman-ticaret ağları ve İstanbul’un çok kültürlü imparatorluk merkezi oluşu tarihsel zemine sahiptir.",
+        "whyInteresting": "Piri Reis’in haritacılığı, Osmanlı denizciliğinde bilginin yalnız seyahat için değil, askeri ve diplomatik kararlar için de değer taşıdığını gösterir.",
+        "misconception": "Osmanlı İstanbul’unun yalnız saray ve camilerden ibaret olduğu sanılır; gerçekte limanlar, elçilikler, loncalar ve mahalle ağları şehrin siyasi nabzını oluşturuyordu.",
+        "mediaChanged": "Revelations gizli örgüt savaşını merkeze alır; tarihsel gerçeklikte güç dengesi daha çok hanedan rekabeti, deniz bilgisi, ticaret ve diplomatik haber akışı üzerinden işliyordu.",
+        "whyItMatters": "1511 İstanbul’u, Osmanlı başkentinin yalnız ihtişamlı bir dekor değil, bilgi ve iktidarın sürekli dolaştığı canlı bir merkez olduğunu gösterir.",
+        "quickRealityCheck": "Osmanlı İstanbul’unda gizli güç dengesi vardı; ama bu, modern istihbarat teşkilatından çok saray, liman, elçi ve tüccar ağlarının birleşimiydi.",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Istanbul — Britannica",
+            "url": "https://www.britannica.com/place/Istanbul",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Selim I — Britannica",
+            "url": "https://www.britannica.com/biography/Selim-I",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Piri Reis — Britannica",
+            "url": "https://www.britannica.com/biography/Piri-Reis",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "ac-syndicate-london",
+      "reviewStatus": "rewrite-expand-flagship",
+      "rationale": "Flagship card is vivid but contains broken wording, overlong compression, and mixed claims. Rewritten as a clean flagship around industrial power, class, child labor, railways, sanitation, and the game connection.",
+      "fields": {
+        "subtitle": "Sanayi Devrimi’nin dumanlı vitrini",
+        "realHistory": "Assassin’s Creed Syndicate’in 1868 Londra’sı, imparatorluğun merkezini hem büyüleyici hem de boğucu bir yer olarak gösterir. Bu tercih tarihsel olarak isabetlidir. Viktorya Londra’sı dünyanın finans, ticaret, ulaşım ve sanayi merkezlerinden biriydi; ama aynı zamanda yoksulluğun, çocuk işçiliğinin, kalabalık konutların ve ağır hava kirliliğinin de sahnesiydi. Şehir, ilerleme vitriniyle toplumsal maliyeti aynı anda taşıyordu.\n\nSanayi Devrimi üretimi hızlandırdı, fakat işçi sınıfı için hayat çoğu zaman uzun çalışma saatleri, güvencesizlik ve sağlıksız mahalleler anlamına geliyordu. Fabrikalar, atölyeler, madenler ve sokak ticareti çocuk emeğini de içine alıyordu. 1833 Fabrika Yasası gibi düzenlemeler bu sorunu sınırlamaya çalıştı, ama çocuk işçiliği ve kötü çalışma koşulları bir anda ortadan kalkmadı. Oyundaki fabrika kurtarma sahneleri bu gerçeği aksiyon diline çevirir; tarihsel düzlemde ise mücadele daha yavaş, hukuki ve sendikal bir süreçti.\n\nDemiryolları da Londra’yı yeniden şekillendirdi. İstasyonlar, banliyöler ve ray hatları insan ve mal akışını hızlandırırken, yeni ulaşım projeleri bazı yoksul mahalleleri yerinden etti. Şehir artık yalnız yürüyerek veya at arabasıyla kavranabilecek bir yer değildi; zaman, mesafe ve emek ritmi rayların programına bağlanıyordu.\n\nLondra’nın altyapı krizi ise 1858’deki Büyük Koku ile görünür hale geldi. Thames’e karışan atıklar ve sıcak hava, kenti yönetilemez bir sağlık sorunuyla yüzleştirdi. Joseph Bazalgette’in kanalizasyon sistemi bu krize verilen büyük mühendislik yanıtıydı. Bu sistem, Viktorya modernleşmesinin tipik yüzünü gösterir: teknoloji sorunu çözerken, aynı anda kenti daha disiplinli ve planlı bir yapıya dönüştürür.\n\nSyndicate, çete savaşları ve suikastçı anlatısı nedeniyle sınıf çatışmasını kişiselleştirir. Gerçekte Londra’daki gerilim yalnız birkaç kötü sanayiciyle açıklanamaz; ücretler, konut, kanalizasyon, polislik, göç, sendikalaşma ve imparatorluk ekonomisi aynı düğümün parçalarıydı. Oyunun güçlü yanı, bu düğümü hissettirmesidir: Viktorya Londra’sı hem modern dünyanın doğduğu yerlerden biri hem de bu doğumun bedelini en sert ödeyen şehirlerden biriydi.",
+        "accuracyNote": "Oyun Londra’nın mimari atmosferini ve sanayi dönemi gerilimini güçlü verir; fakat çete savaşı ve kahraman-kurtarıcı yapısı, gerçek sosyal reform ve işçi hareketlerinin uzun sürecini dramatik biçimde sadeleştirir.",
+        "whyInteresting": "1858’de Thames’in kokusu parlamentoyu bile harekete geçirecek kadar büyüyünce, Londra’nın modern kanalizasyon sistemi bir mühendislik lüksü değil siyasi zorunluluk haline geldi.",
+        "misconception": "Viktorya Londra’sının yalnız ilerleme ve zarafet dönemi olduğu sanılır; gerçekte aynı şehir ağır yoksulluk, çocuk işçiliği, salgın korkusu ve altyapı krizleriyle boğuşuyordu.",
+        "mediaChanged": "Syndicate sınıf çatışmasını çete savaşları ve Tapınakçı sanayiciler üzerinden görünür kılar; tarihsel gerçeklikte sorun daha yaygın, kurumsal ve uzun vadeli bir ekonomik düzendi.",
+        "whyItMatters": "Viktorya Londra’sı, modern şehir hayatının hem altyapı, ulaşım ve üretim başarısını hem de eşitsizlik maliyetini aynı anda gösterir.",
+        "quickRealityCheck": "Londra ilerlemenin vitriniydi; ama bu vitrin çocuk emeği, kirli hava ve altyapı krizleri üzerinde yükseliyordu.",
+        "readingTimeMinutes": 3,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Great Stink of 1858 — London Museum",
+            "url": "https://www.londonmuseum.org.uk/collections/london-stories/great-stink-of-1858/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The Great Stink — Historic England",
+            "url": "https://historicengland.org.uk/images-books/archive/collections/photographs/the-great-stink/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Industrial Revolution — Britannica",
+            "url": "https://www.britannica.com/event/Industrial-Revolution",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "ac-valhalla-settlement",
+      "reviewStatus": "rewrite",
+      "rationale": "Original incorrectly links Viking settlement units with burh, which is more strongly associated with Alfredian fortified settlements. Rewritten with Danelaw, Jórvík, place names, law, farming, and assimilation.",
+      "fields": {
+        "title": "Viking Yerleşimleri ve Kültürel Kaynaşma",
+        "subtitle": "Yağmadan yerleşime uzanan miras",
+        "realHistory": "Assassin’s Creed Valhalla’daki Ravensthorpe, Vikinglerin İngiltere’de yalnız yağmacı değil, kalıcı yerleşimci olarak da var olduğunu hatırlatır. 9. yüzyılda Büyük Viking Ordusu’nun akınları zamanla toprak tutma, çiftçilik yapma ve yerel yönetim kurma sürecine dönüştü. İngiltere’nin kuzey ve doğusunda Danelaw adıyla anılan bölgede İskandinav ve Anglo-Sakson topluluklar aynı coğrafyayı paylaşmaya başladı.\n\nBu yerleşimler yalnız askeri kamplar değildi. Jórvík/York gibi merkezler ticaret, zanaat ve kültürel temas alanları haline geldi. Yer adlarındaki “-by” ve “-thorpe” gibi İskandinav kökenli ekler, bu kalıcı etkinin bugün bile haritada görülebilen izleridir. Dil, hukuk, aile ilişkileri ve ticaret pratikleri de bu temasın parçasıydı.\n\nOyun yerleşim kurmayı genellikle ittifak ve savaş döngüsüyle anlatır. Gerçekte süreç daha yavaş ve karışıktı: kimi yerde şiddet ve zorla el koyma vardı, kimi yerde evlilik, Hristiyanlaşma, ticaret ve ortak günlük yaşam zamanla yeni bir İngiliz-İskandinav kültürü doğurdu. Valhalla’nın doğru yakaladığı şey, Viking etkisinin kılıçla başlayıp köy, pazar ve hukuk düzeniyle kalıcı hale gelmesidir.",
+        "accuracyNote": "Oyunun yerleşim mekaniği tarihsel açıdan iyi bir çıkış noktasıdır; fakat Viking-Sakson ilişkileri yalnız savaş veya ittifak değil, kuşaklar süren yerleşim ve uyum süreçleriydi.",
+        "whyInteresting": "İngiltere’deki birçok yer adı, Viking yerleşimlerinin askeri olaylardan çok daha kalıcı bir dil ve coğrafya mirası bıraktığını gösterir.",
+        "misconception": "Vikinglerin İngiltere’de yalnız yakıp yıkan istilacılar olduğu sanılır; gerçekte bazı bölgelerde çiftçi, tüccar ve şehir sakini olarak kalıcı topluluklar kurdular.",
+        "mediaChanged": "Valhalla yerleşim kurmayı oyun ilerlemesine bağlar; tarihsel süreçte yerleşim daha yavaş, yerel ve çoğu zaman kültürel karışımla ilerledi.",
+        "whyItMatters": "Viking mirası, İngiltere tarihinin yalnız savaşla değil, yerleşim, dil ve hukuk temasıyla da şekillendiğini gösterir.",
+        "quickRealityCheck": "Viking etkisi baskınla başladı; kalıcı izini köylerde, pazarlarda ve yer adlarında bıraktı.",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Danelaw — Britannica",
+            "url": "https://www.britannica.com/place/Danelaw",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Vikings in Britain — British Museum",
+            "url": "https://www.britishmuseum.org/collection/galleries/sutton-hoo-and-europe",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Jorvik Viking Centre — York Archaeology",
+            "url": "https://www.jorvikvikingcentre.co.uk/about-jvc/",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "total-war-attila-collapse",
+      "reviewStatus": "rewrite",
+      "rationale": "Original incorrectly uses the Late Antique Little Ice Age as a 4th-5th century driver and overstates climate as primary. Rewritten as fiscal, military, migration, and transformation process.",
+      "fields": {
+        "title": "Roma’nın Çöküşü: Bir Süreç Olarak Yıkım",
+        "subtitle": "Attila çağında çözülme ve dönüşüm",
+        "realHistory": "Total War: Attila, Batı Roma’yı tek bir savaşla değil, çok cepheli bir krizle karşı karşıya bırakır. Bu, tarihsel açıdan iyi bir sezgidir. Batı Roma İmparatorluğu’nun sonu 476’da bir imparatorun tahttan indirilmesiyle sembolleşir; ama çöküş bundan çok önce başlayan askeri, mali ve idari sorunların sonucuydu.\n\nRoma sınırları 4. ve 5. yüzyıllarda yoğun baskı altındaydı. Hun hareketleri, Gotlar ve diğer toplulukların Roma sınırlarına yönelmesini hızlandırdı; Roma ise bu grupları bazen düşman, bazen müttefik asker, bazen de sınır yerleşimcisi olarak yönetmeye çalıştı. Foederati sistemi kısa vadede askeri ihtiyaçlara cevap verdi, fakat merkezî otorite zayıfladıkça bu gruplar kendi siyasi ağırlıklarını kazandı.\n\nEkonomi ve vergi düzeni de en az savaş kadar belirleyiciydi. Orduyu finanse etmek zorlaştı, iç taht mücadeleleri merkezi yönetimi yıprattı, eyaletler üzerindeki kontrol gevşedi. Attila’nın Hun İmparatorluğu Roma için büyük bir tehdit ve haraç baskısı yarattı; ancak Batı Roma’nın çözülmesi yalnız Attila’ya bağlanamaz.\n\nOyun imparatorluğu “ayakta tutma” hissini güçlü verir. Tarihsel gerçeklikte ise Batı Roma’nın yıkılışı tamamen yok oluş değil, dönüşümdü. Roma hukuku, Latince, kilise kurumları ve idari alışkanlıklar yeni Germen krallıklarında yaşamaya devam etti.",
+        "accuracyNote": "Batı Roma’nın sonu tek bir barbar akınıyla açıklanamaz; mali kriz, iç siyaset, askeri dönüşüm ve göç baskısı birlikte düşünülmelidir.",
+        "whyInteresting": "Attila’nın gücü yalnız savaş meydanından değil, Roma’dan haraç koparabilen diplomatik ve psikolojik baskısından da geliyordu.",
+        "misconception": "Roma’nın bir günde yıkıldığı sanılır; gerçekte siyasi merkez çökerken Roma kültürü, hukuku ve kilise kurumları uzun süre yaşamaya devam etti.",
+        "mediaChanged": "Total War: Attila çöküşü dramatik krizler halinde gösterir; tarihsel süreçte çözülme daha yavaş, bölgesel ve kurumsal bir dönüşümdü.",
+        "whyItMatters": "Roma örneği, imparatorlukların çoğu zaman tek darbeyle değil, yönetim kapasitesi ve kaynak dengesi aşındığında çözüldüğünü gösterir.",
+        "quickRealityCheck": "Batı Roma 476’da sembolik olarak bitti; ama Roma dünyası kurumlarıyla ve kültürüyle çok daha uzun yaşadı.",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Fall of Rome — Britannica",
+            "url": "https://www.britannica.com/event/Fall-of-Rome",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Attila — Britannica",
+            "url": "https://www.britannica.com/biography/Attila",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Roman Empire in the First Century: Decline — PBS",
+            "url": "https://www.pbs.org/empires/romans/empire/decline.html",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "aoe4-mongol-logistics",
+      "reviewStatus": "rewrite",
+      "rationale": "Original duplicates prior Yam content and includes folkloric/overconfident claims. Rewritten with Paiza/Yam, relay stations, trade protection, and game mechanics.",
+      "fields": {
+        "title": "Moğol Lojistiği ve Yam Ağı",
+        "subtitle": "İmparatorluğu hızla konuşturan sistem",
+        "realHistory": "Age of Empires IV’te Moğolların hızlı hareket etmesi yalnız oyun dengesi değildir; Moğol başarısının önemli bir kısmı gerçekten hareketlilik ve haberleşme üstünlüğüne dayanıyordu. Yam adı verilen posta ve menzil sistemi, imparatorluk içinde ulakların at değiştirerek uzun mesafeleri hızlı aşmasını sağladı. Bu sistem, yalnız savaş emirleri için değil, vergi, ticaret, diplomasi ve yönetim bilgisi için de kullanıldı.\n\nYam istasyonları taze at, yiyecek ve konaklama sağlayan düğüm noktalarıydı. Yetkili elçiler paiza/gerege gibi yetki belgeleri taşıyarak geçiş, iaşe ve at değişimi hakkı kazanırdı. Böylece merkezden gelen emirler uç bölgelere daha hızlı ulaşabiliyor, farklı bölgelerdeki valiler ve komutanlar aynı imparatorluk düzenine bağlanabiliyordu.\n\nMoğolları yalnız “yakıp yıkan atlılar” olarak görmek bu yüzden eksik kalır. Evet, fetihleri çok yıkıcıydı; fakat geniş toprakları tutabilmeleri, ganimet kadar kayıt, iletişim, yol güvenliği ve uzman taşıma becerisine de bağlıydı. Oyun binaları paketleyip taşıma fikriyle bu hareketli devlet mantığını abartılı ama anlamlı biçimde görselleştirir.",
+        "accuracyNote": "Yam sistemi gerçek bir idari ve lojistik ağdı; ancak gün başına hız veya güvenlik üzerine verilen popüler rakamlar bağlama göre değiştiği için temkinli kullanılmalıdır.",
+        "whyInteresting": "Paiza taşıyan bir ulak, yalnız haber götüren kişi değil; imparatorluk otoritesinin yolda tanınmasını sağlayan resmi görevliydi.",
+        "misconception": "Moğolların yalnız savaşta hızlı olduğu sanılır; oysa haberleşme, at değişimi ve yetki belgeleri de bu hızın kurumsal parçasıydı.",
+        "mediaChanged": "Age of Empires IV bu hareketliliği oyun mekaniğine çevirir; tarihsel gerçeklikte hız, disiplinli menzil sistemi ve kaynak tahsisiyle mümkün oluyordu.",
+        "whyItMatters": "Yam ağı, büyük imparatorlukların yalnız fetihle değil, haberin ve emrin güvenilir dolaşımıyla ayakta kaldığını gösterir.",
+        "quickRealityCheck": "Moğol gücü sadece atlı okçuluk değildi; hızlı haberleşme ve lojistik de imparatorluğun silahıydı.",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Mongol Empire — UNESCO Silk Roads",
+            "url": "https://en.unesco.org/silkroad/content/mongol-empire",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Geregee or Golden Paiza — United Nations",
+            "url": "https://www.un.org/ungifts/geregee-or-golden-paiza-chinggis-khan",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Pax Mongolica — Britannica",
+            "url": "https://www.britannica.com/topic/Pax-Mongolica",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "aoe2-castles-politics",
+      "reviewStatus": "rewrite",
+      "rationale": "Original has title typo and leans on sensational siege trivia. Rewritten around castles as lordship, administration, storage, courts, and military deterrence.",
+      "fields": {
+        "title": "Kaleler: Sadece Savunma Değil, Siyasi Güç",
+        "subtitle": "Taş duvarların arkasındaki feodal düzen",
+        "whatWeSee": "Kaleler, haritadaki en güçlü yapılardır; özel birimler üretir, geniş alanları korur ve düşman ilerleyişini durdurur.",
+        "realHistory": "Age of Empires II’de kale, çoğu zaman güçlü bir savunma binasıdır. Orta Çağ’da da kaleler askeri açıdan önemliydi; fakat asıl işlevleri yalnız ok atmak veya kuşatmaya dayanmak değildi. Kale, yerel lordun bölgede kalıcı otorite kurduğunu gösteren siyasi işaretti. Vergi toplama, tahıl depolama, mahkeme düzenleme, asker çağırma ve çevredeki köyleri denetleme yetkisi çoğu zaman kalenin çevresinde somutlaşırdı.\n\nBir kalenin gücü taş duvar kadar lojistiğe bağlıydı. Su kaynağı, ambar, ahır, zanaat alanı ve haberleşme bağlantıları olmadan yüksek surlar uzun süre işe yaramazdı. Kuşatmalar da her zaman doğrudan duvar yıkmakla sonuçlanmazdı; aç bırakma, ikmal kesme, pazarlık ve teslim şartları en az saldırı kadar belirleyiciydi.\n\nKaleler barış zamanında da aktifti. İçlerinde hizmetliler, askerler, zanaatkârlar ve idari görevliler yaşar; çevre halkı için hem korku hem de koruma merkezi olurdu. Bu yüzden kaleyi yalnız savaş binası olarak görmek, feodal düzenin günlük işleyişini kaçırmak demektir.",
+        "accuracyNote": "Oyun kaleleri askeri güç olarak sadeleştirir; tarihsel kaleler aynı zamanda idari merkez, prestij göstergesi ve ekonomik kontrol noktasıydı.",
+        "whyInteresting": "Bir kalenin düşmesi, yalnız askeri mevzinin kaybı değil; çevredeki vergi, mahkeme ve sadakat düzeninin de sarsılması anlamına gelebilirdi.",
+        "misconception": "Kalelerin yalnız savaş zamanı işe yaradığı sanılır; gerçekte barış döneminde de yönetim, depolama ve yerel otorite merkeziydiler.",
+        "mediaChanged": "Age of Empires II kaleyi üretim ve savunma binası olarak gösterir; tarihsel gerçeklikte kale, feodal iktidarın günlük yönetim aracıydı.",
+        "whyItMatters": "Kaleler, Orta Çağ’da askeri mimarinin siyaset ve ekonomiyle nasıl iç içe geçtiğini gösterir.",
+        "quickRealityCheck": "Kale sadece taş duvar değildi; bir bölgenin vergi, mahkeme ve sadakat düzenini temsil ediyordu.",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Medieval Castles — English Heritage",
+            "url": "https://www.english-heritage.org.uk/learn/histories/medieval-castles/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Castle Architecture — Britannica",
+            "url": "https://www.britannica.com/technology/castle-architecture",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Castles — World History Encyclopedia",
+            "url": "https://www.worldhistory.org/castle/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "rdr-railroads-frontier",
+      "reviewStatus": "rewrite",
+      "rationale": "Original is conceptually good but too deterministic and repetitive. Rewritten around railroads, telegraph, land grants, standard time, federal reach, and Red Dead's frontier theme.",
+      "fields": {
+        "title": "Demiryolları ve Yerel Özgürlüğün Sonu",
+        "subtitle": "Vahşi Batı’nın raylarla bağlanması",
+        "realHistory": "Red Dead Redemption’ın geç dönem Batı hissi, demiryolu ve federal düzenin genişlemesiyle doğrudan ilişkilidir. Demiryolları sınır kasabalarını yalnız birbirine bağlamadı; onları ulusal piyasalara, saat çizelgelerine, krediye, telgrafa ve merkezi hukuk düzenine de bağladı. Böylece “uzakta kalmış” bölgeler giderek izlenebilir, vergilendirilebilir ve denetlenebilir hale geldi.\n\nBu dönüşüm yerli halklar ve küçük topluluklar için çoğu zaman yıkıcıydı. Demiryolu şirketleri geniş arazi hibeleriyle büyüdü; hatların geçtiği yerlerde avlanma alanları, göç yolları ve yerel ekonomik dengeler değişti. Kasabalar ray hattına göre değer kazandı ya da sönüp gitti. Kovboyluk, bağımsız avcılık ve küçük ölçekli sınır ekonomisi, sanayileşmiş tarım ve büyük şirket yapıları karşısında geriledi.\n\nDemiryolları zaman algısını bile değiştirdi. Tren tarifelerinin güvenilir işlemesi için 1883’te Kuzey Amerika demiryolları standart zaman uygulamasına geçti. Bu küçük gibi görünen ayrıntı, yerel hayatın sanayi ritmine bağlanmasının güçlü bir sembolüdür. Red Dead’in “kaçacak yer kalmadı” duygusu tam da burada doğar: sınır kapanırken, mesafe artık özgürlük değil altyapı meselesi haline gelir.",
+        "accuracyNote": "Demiryolları Vahşi Batı’nın sonunu tek başına yaratmadı; telgraf, arazi politikası, federal hukuk, şirketleşme ve yerli halkların zorla yerinden edilmesiyle birlikte etkili oldu.",
+        "whyInteresting": "Standart zamanın yayılması, demiryollarının yalnız mekânı değil, insanların zamanı algılama biçimini de değiştirdiğini gösterir.",
+        "misconception": "Vahşi Batı’nın yalnız kanunsuzluk yüzünden bittiği sanılır; gerçekte lojistik, iletişim ve şirketleşme eski sınır hayatını dönüştürdü.",
+        "mediaChanged": "Red Dead demiryolunu dramatik bir modernlik simgesi yapar; tarihsel gerçeklikte raylar, telgraf, banka kredisi ve federal hukuk aynı dönüşümün parçalarıydı.",
+        "whyItMatters": "Demiryolu, özgürlük mitinin altyapı ve şirket gücü karşısında nasıl çözüldüğünü anlamak için güçlü bir semboldür.",
+        "quickRealityCheck": "Vahşi Batı’yı bitiren yalnız şerifler değildi; raylar, telgraf ve tarifeler de eski kaçış alanlarını kapattı.",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Pacific Railway Act — National Archives",
+            "url": "https://www.archives.gov/milestone-documents/pacific-railway-act",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Time Zones — Smithsonian National Museum of American History",
+            "url": "https://americanhistory.si.edu/ontime/synchronizing/zones.html",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Transcontinental Railroad — Library of Congress",
+            "url": "https://www.loc.gov/collections/railroad-maps-1828-to-1900/articles-and-essays/history-of-railroads-and-maps/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "kcd-medieval-crime",
+      "reviewStatus": "rewrite",
+      "rationale": "Original contains a truncated quickRealityCheck and leans too heavily on ordeals/animal trials for a 15th-century KCD context. Rewritten around late medieval courts, fines, shame, status, and game simplification.",
+      "fields": {
+        "title": "Orta Çağ’da Suç, Hukuk ve Cezalandırma",
+        "subtitle": "KCD ve geç ortaçağ adaletinin gerçek yüzü",
+        "realHistory": "Kingdom Come: Deliverance suç ve ceza sistemini oyuncuya hızlı hissettirir: hırsızlık yaparsanız yakalanır, para cezası öder, hapse girer ya da itibar kaybedersiniz. Bu mekanik, Orta Çağ hukukunun önemli bir yönünü doğru yakalar: adalet yalnız suçluyu cezalandırmak değil, bozulan toplumsal düzeni görünür biçimde onarmaktı.\n\nGeç ortaçağ Avrupa’sında hukuk tek merkezden işlemezdi. Kraliyet, şehir, feodal lord ve kilise mahkemeleri farklı yetki alanlarına sahipti. 15. yüzyıla gelindiğinde yazılı kayıt, tanık beyanı ve yerel mahkeme usulleri daha önemli hale gelmişti. Erken dönemlerdeki “tanrısal yargı” gibi uygulamalar tarihsel hafızada yer etse de, KCD’nin geçtiği dönemi anlatırken her davayı kaynar su veya ateş sınavıyla açıklamak yanıltıcı olur.\n\nCezalar da her zaman ölüm değildi. Para tazmini, mal kaybı, kamusal teşhir, sürgün, kırbaç ve statü kaybı sık görülen yaptırımlardı. Ağır suçlarda idam vardı, fakat küçük suçlarda topluluk önünde utandırma ve ekonomik telafi daha işlevsel olabiliyordu. Oyunun sadeleştirdiği nokta da burasıdır: gerçek sistem yalnız gardiyan ve hapis değil, statü, tanıklık, pazarlık ve yerel otorite ağı üzerinden işlerdi.",
+        "accuracyNote": "KCD’nin suç/itibar mekaniği dönem hissini iyi verir; fakat gerçek mahkemeler daha çok yerel yetki, tanık, yazman kaydı, para cezası ve statü farklarıyla çalışıyordu.",
+        "whyInteresting": "Kamusal teşhir cezaları, yalnız bedeni değil itibarı hedef aldığı için küçük topluluklarda son derece güçlü bir yaptırım olabiliyordu.",
+        "misconception": "Orta Çağ’da her suçun ölümle cezalandırıldığı sanılır; gerçekte birçok dava para cezası, tazminat, teşhir veya uzlaşmayla sonuçlanabiliyordu.",
+        "mediaChanged": "Oyun adaleti hızlı ve oynanabilir hale getirir; tarihsel gerçeklikte hukuk, yerel mahkeme yetkileri ve toplumsal statü üzerinden daha yavaş işlerdi.",
+        "whyItMatters": "Geç ortaçağ hukukunu anlamak, dönemin tamamen kanunsuz değil; statüye bağlı ama kurallı bir düzen içinde işlediğini gösterir.",
+        "quickRealityCheck": "KCD’deki suç sistemi basitleştirilmiş olsa da, geç ortaçağda itibar, para cezası ve yerel otorite gerçekten belirleyiciydi.",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Law & Order in Medieval England — Harvard Law School",
+            "url": "https://hls.harvard.edu/today/law-order-in-medieval-england/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Medieval Law — Britannica",
+            "url": "https://www.britannica.com/topic/legal-system/Medieval-law",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Crime and Punishment: Medieval World — Reading Museum",
+            "url": "https://www.readingmuseum.org.uk/sites/default/files/downloads/Fact%20Sheet%20-%20Medieval%204_compressed.pdf",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "batch": "tr-chunks-067-068-source-aware",
+  "sourceChunks": [
+    "tr-chunk-067.json",
+    "tr-chunk-068.json"
+  ],
+  "notes": [
+    "External source-aware editorial review for Turkish chunks 067 and 068.",
+    "Only changed fields are included. Apply by id + locale.",
+    "sourceUpdates are separated from text field updates."
+  ],
+  "entries": [
+    {
+      "id": "tf26-129-armistice",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Generic subtitle and broad ending narrative tightened around the difference between ceasefire moment, last-hour casualties, and post-armistice implementation.",
+      "fields": {
+        "subtitle": "Ateşkes saati belliydi; savaş yine de sürdü",
+        "whatWeSee": "1917, ateşkes ve emir gecikmesi fikrini diplomasi masasından çok cephede zamana karşı koşulan bir görev hissiyle anlatır. Kamera sürekli hareket halinde kaldığı için savaşın sonu, tek bir kararın sahaya geç ulaşması halinde hâlâ ölümcül olabileceğini hissettirir. İzleyici büyük politik metinlerden çok, kararın siperdeki askere ulaşana kadar kaybettiği zamanı görür.",
+        "realHistory": "11 Kasım 1918 ateşkesi, tek bir kahramanlık hamlesinin değil, aylar süren askeri ve siyasi çözülmenin sonucuydu. Almanya Batı Cephesi'nde geri çekilirken içeride kıtlık, denizci isyanları ve rejim krizi büyüdü. Müttefiklerin Yüz Gün Taarruzu cephe dengesini bozdu; Berlin yönetimi artık savaşı sürdüremeyeceğini görerek mütareke arayışına girdi.\n\nCompiègne'de imzalanan metnin saat 11.00'de yürürlüğe girmesi planlandı. Bu saat, savaşın aynı anda bütün cephelerde bir düğmeye basılmış gibi durduğu anlamına gelmiyordu. Haberleşme gecikmeleri, komutanların son dakika hedefleri ve cephe alışkanlıkları nedeniyle bazı bölgelerde çatışma son ana kadar sürdü. Bu yüzden ateşkes günü bile yeni ölümler ve yaralanmalar yaşandı; savaşın bitişi bile düzenli ve temiz bir kapanış olmadı.\n\nAteşkes ayrıca nihai barış değildi. Esir dönüşleri, işgal bölgeleri, ağır silahların teslimi, demiryolu tahliyeleri ve tazminat pazarlıkları aylarca sürdü. 1919 Versailles düzeni hukuki çerçeveyi kurdu, ancak savaş sonrası şiddet, ekonomik çöküş ve siyasi radikalleşme birçok bölgede devam etti.\n\n1917'nin emir yetiştirme gerilimi bu yüzden tarihsel olarak anlamlıdır: savaşta karar almak kadar, o kararı zamanında ve güvenilir biçimde cepheye ulaştırmak da hayat meselesiydi. Ateşkes anı, silahların sessizleşmesinden önce gelen uzun bir devlet krizi ve sonrasında başlayan karmaşık bir geçiş yönetimidir.",
+        "accuracyNote": "Filmdeki görev kurgu olsa da emir gecikmesi, cephede haberleşme kırılganlığı ve ateşkesin sahaya düzensiz yansıması tarihsel zemine oturur.",
+        "whyInteresting": "Savaşın bitiş saati önceden bilinse bile cephede ölümcül kararların son dakikaya kadar devam edebilmesi çarpıcıdır.",
+        "misconception": "Ateşkes imzalanır imzalanmaz bütün cephelerde anında tam sessizlik oluştuğu sanılır.",
+        "mediaChanged": "Film ateşkes fikrini kişisel görev gerilimine yoğunlaştırır. Gerçekte süreç; diplomasi, komuta alışkanlığı, haberleşme gecikmesi ve savaş sonrası uygulama adımlarının birleşimiydi.",
+        "whyItMatters": "Ateşkesi anlamak, savaşların yalnız karar anıyla değil o kararın uygulanma kapasitesiyle de bittiğini gösterir.",
+        "quickRealityCheck": "Ateşkes saati biliniyorken neden bazı birlikler son saatlerde hâlâ saldırıya geçti?",
+        "reviewerNote": "Ateşkes kartı son-dakika çatışmaları ve mütareke sonrası uygulama süreciyle yeniden dengelendi.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Imperial War Museums - Voices of the First World War: Armistice",
+            "url": "https://www.iwm.org.uk/podcasts/voices-of-the-first-world-war/ep-47-armistice",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The National Archives - The war that did not end at 11am",
+            "url": "https://history.blog.gov.uk/2018/11/09/the-war-that-did-not-end-at-11am-on-11-november/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Commonwealth War Graves Commission - The Armistice and the final day",
+            "url": "https://www.cwgc.org/our-work/blog/the-armistice-remembering-those-who-died-on-the-great-war-s-final-day/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-130-home-front",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Generic headline and repetitive ending cleaned; expanded around home front as production, rationing, conscription, gendered labour, and censorship rather than a vague background.",
+      "fields": {
+        "subtitle": "Siperin arkasındaki fabrika ve karne savaşı",
+        "whatWeSee": "1917 iki askerin cephedeki koşusuna odaklanır; cephe gerisi doğrudan görünmez. Yine de her top mermisi, her erzak sandığı ve her tren hareketi sahnenin dışında çalışan dev bir savaş ekonomisine bağlıdır. Film, kişisel görevi öne çıkarırken bu görünmez üretim zincirinin ağırlığını ancak dolaylı biçimde hissettirir.",
+        "realHistory": "Birinci Dünya Savaşı'nda cephe gerisi, cepheden ayrı ve pasif bir alan değildi. Britanya'da mühimmat fabrikaları, demiryolları, limanlar, gıda dağıtımı ve haber sansürü savaşın temel parçalarına dönüştü. Cephedeki topçu ateşi, geride sürekli üretilen mermiye; asker hareketi, demiryolu planlamasına; moral ise mektup ve haber akışına bağlıydı.\n\n1915'teki mühimmat krizi, devletin sanayi üretimine daha doğrudan müdahalesini hızlandırdı. Çok sayıda kadın mühimmat, ulaşım, tarım ve kamu hizmetlerinde çalışmaya başladı. Bu iş yalnız ekonomik katkı değil, tehlikeli ve disiplinli bir savaş emeğiydi; patlama, kimyasal zehirlenme ve uzun çalışma saatleri günlük risklerdi. Aynı dönemde 1916 Askerlik Kanunu zorunlu askerliği getirdi ve ailelerin savaşla ilişkisini daha da doğrudan hale getirdi.\n\nGıda meselesi de cephe gerisinin ana kırılma noktalarından biriydi. U-boat tehdidi, nakliye sıkıntısı ve fiyat artışları 1917'den itibaren sivil hayatı zorladı; 1918'de karne uygulamaları daha merkezi hale geldi. Böylece evdeki sofra, cephedeki ikmal kadar politik bir konuya dönüştü. Grevler, yorgunluk ve kayıp haberleri savaşın yalnız askerleri değil bütün toplumu taşıdığını gösterdi.\n\n1917 bu dünyayı kadraja almaz; çünkü anlatı cephedeki acil görevi izler. Ama o görevin anlamı, geride çalışan milyonların üretim ve dağıtım kapasitesiyle kurulur. Cephe gerisi, savaşın arka planı değil; modern endüstriyel savaşın ikinci cephesidir.",
+        "accuracyNote": "Film cephe deneyimini seçer; cephe gerisindeki üretim, karne ve zorunlu askerlik yapısı tarihsel olarak daha geniş bir arka plan oluşturur.",
+        "whyInteresting": "Cephedeki iki askerin görevi, sahnede görünmeyen milyonlarca işçi, memur, sürücü ve aile üyesinin emeğine bağlıdır.",
+        "misconception": "Savaşın yalnız cephedeki askerler tarafından yürütüldüğü sanılır; üretim, gıda ve haberleşme sistemi savaşın yarısıydı.",
+        "mediaChanged": "Film tek gecelik cephe gerilimini büyütür. Tarihte aynı cephe, dört yıl boyunca fabrika, karne, sansür, zorunlu askerlik ve aile yaslarıyla taşındı.",
+        "whyItMatters": "Cephe gerisini anlamak, modern savaşın toplumu bütünüyle yeniden örgütleyen bir üretim ve kontrol sistemi olduğunu gösterir.",
+        "quickRealityCheck": "Bir topçu bataryasının susmaması için cephe gerisinde kimlerin çalışması gerekiyordu?",
+        "reviewerNote": "Cephe gerisi kartı home-front ekonomisi ve zorunlu askerlik/karne bağlamıyla yeniden yazıldı.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Imperial War Museums - Rationing and Food Shortages During the First World War",
+            "url": "https://www.iwm.org.uk/history/first-world-war/home-front/rationing-and-food-shortages",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "UK Parliament - Conscription: the First World War",
+            "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/yourcountry/overview/conscription/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Imperial War Museums - A Day in the Life of a Munitions Worker",
+            "url": "https://www.iwm.org.uk/history/first-world-war/home-front/a-day-in-the-life-of-a-munitions-worker",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The National Archives - Women and the First World War",
+            "url": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/early-20th-century/women-first-world-war/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-132-operation-fortitude",
+      "locale": "tr",
+      "decision": "flagship_expand",
+      "reason": "Flagship card was too short; expanded with headings around Bodyguard/Fortitude, FUSAG, double agents, post-D-Day delay of German reserves, and the limits of deception.",
+      "fields": {
+        "subtitle": "D-Day'den önce kurulan sahte savaş alanı",
+        "realHistory": "### Sahilde başlamayan çıkarma\n\nSaving Private Ryan, Normandiya çıkarmasını doğrudan asker deneyimiyle açar: sahil, makineli tüfek, siper ve beden şoku. Bu tercih sinemasal olarak güçlüdür ama D-Day'in en önemli katmanlarından birini doğal olarak kadraj dışında bırakır: Alman komutasının nereden saldırı bekleyeceğini yanlış okumasını sağlayan aldatma ağı. Operation Fortitude, çıkarma günündeki şiddeti azaltan sihirli bir plan değildi; ama Müttefiklerin kırılgan ilk günlerini korumak için zaman kazandıran büyük bir bilgi savaşıydı. Normandiya kıyısındaki askerlerin başarılı olabilmesi için Alman yedeklerinin doğru zamanda doğru yere ulaşmaması gerekiyordu.\n\n### Sahte ordu ve kontrollü bilgi\n\nFortitude, daha geniş Operation Bodyguard aldatma stratejisinin parçasıydı. Amaç, Alman yüksek komutasını ana çıkarmanın Normandiya'da değil Pas-de-Calais hattında olacağına inandırmaktı. Bunun için sahte birlik düzenleri, şişme araçlar, uydurma kamp alanları, kontrollü radyo trafiği ve çift ajan raporları birlikte kullanıldı. Patton'ın sözde komutasındaki First U.S. Army Group fikri özellikle etkiliydi; çünkü Almanlar Patton'ı büyük bir çıkarma için makul bir komutan olarak görüyordu. Aldatma yalnız “sahte tank” gösterisi değil, düşmanın zaten inanmak istediği beklentileri besleyen bütünlüklü bir senaryoydu. Güvenilir bir yalan üretmek için ayrıntıların birbirini tutması gerekiyordu: radyo konuşması, birlik hareketi, kamp görüntüsü ve ajan raporu aynı hikâyeyi anlatmalıydı.\n\n### Çıkarma sonrası devam eden oyun\n\nFortitude'un önemi 6 Haziran sabahı bitmedi. Alman komutası, Normandiya'yı ana saldırı değil de daha büyük Calais çıkarmasının ön hamlesi gibi yorumlamaya devam ettiği ölçüde yedek birliklerin hareketi gecikti. Bu gecikme, Müttefik köprübaşının tutunması için çok değerli bir zaman tamponu yarattı. İlk günlerde sahildeki birliklerin durumu hâlâ kırılgandı; liman yoktu, ikmal akışı sınırlıydı ve hava durumu her şeyi etkiliyordu. Fortitude bu zayıflıkları ortadan kaldırmadı, ama düşmanın onları hemen sömürmesini zorlaştırdı.\n\nD-Day'in başarısı yine de tek başına aldatmaya bağlanamaz. Hava üstünlüğü, donanma ateşi, paraşütçülerin gece operasyonları, çıkarma araçları, mühendislik ve sahildeki askerlerin dayanıklılığı belirleyiciydi. Fortitude'un asıl rolü, bütün bu unsurların çalışabileceği zamanı açmasıydı. Bu yüzden onu “savaşı kazandıran hile” diye değil, operasyonun riskini azaltan stratejik çarpan olarak okumak daha doğru olur.\n\n### Görünmeyen savaş\n\nBu kartın önemi şurada: savaş bazen en görünür patlama anında değil, düşmanın yanlış haritaya bakmasını sağladığın anda şekillenir. Saving Private Ryan sahildeki bedensel gerçeği anlatır; Fortitude ise o sahile gelmeden önce kurulan zihinsel savaş alanını gösterir. Modern harekâtta bilgi yönetimi, sahte sinyal ve güvenilir yalan üretimi doğrudan operasyonel güçtür. Sahte ordular gerçek mermiler sıkmadı; ama gerçek birliklerin nerede bekleyeceğini ve ne zaman hareket edeceğini etkiledi. Bu da bazen cephedeki ateş gücü kadar belirleyici olabilir.\n\nAldatma operasyonlarının başarısı aynı zamanda disiplinli sessizlik gerektiriyordu. Gerçek birliklerin nerede toplandığı gizlenirken sahte birliklerin iz bırakması gerekiyordu. Bu ters mantık, savaşta görünürlüğün de yönetilen bir kaynak olduğunu gösterir.",
+        "readingTimeMinutes": 3,
+        "accuracyNote": "Film cephe deneyimini seçtiği için Fortitude doğal olarak arka planda kalır; tarihsel başarı ise çıkarma öncesi ve sonrası yürütülen uzun bilgi yönetimiyle ilgilidir.",
+        "whyInteresting": "Sahte tanklar, çift ajan raporları ve yanlış radyo trafiği gibi görünmez hamlelerin gerçek birlik hareketlerini geciktirebilmesi çok çarpıcıdır.",
+        "misconception": "D-Day'in yalnız doğrudan askeri güçle kazanıldığı, aldatma operasyonlarının ikincil kaldığı düşünülür.",
+        "mediaChanged": "Film sahildeki görünür şiddeti merkezler. Tarihte çıkarmanın tutunmasında, Alman yedeklerinin yanlış beklentiyle oyalanması da önemli bir zaman avantajı yarattı.",
+        "whyItMatters": "Fortitude, modern savaşta bilgi yönetiminin yalnız propaganda değil doğrudan operasyonel zaman kazanma aracı olduğunu gösterir.",
+        "quickRealityCheck": "Normandiya çıkarmasında başarı sadece sahildeki asker sayısına mı, yoksa Alman yedeklerinin nerede beklediğine de mi bağlıydı?",
+        "reviewerNote": "Flagship kart 400+ kelimeye çıkarıldı; aldatma etkisi tek başına belirleyici gibi değil, operasyonel çarpan olarak çerçevelendi.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Imperial War Museums - D-Day's Parachuting Dummies and Inflatable Tanks",
+            "url": "https://www.iwm.org.uk/history/second-world-war/d-day/parachuting-dummies-and-inflatable-tanks",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "English Heritage - D-Day Deception: Operation Fortitude South",
+            "url": "https://www.english-heritage.org.uk/visit/places/dover-castle/history-and-stories/d-day-deception/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Encyclopaedia Britannica - Operation Fortitude",
+            "url": "https://www.britannica.com/event/Operation-Fortitude",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-133-airborne",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Generic subtitle and incomplete source metadata fixed; airborne landings reframed around objectives behind Utah, scattered drops, gliders, local initiative, and mission command.",
+      "fields": {
+        "subtitle": "Dağınık iniş, küçük tim, büyük sonuç",
+        "whatWeSee": "Saving Private Ryan, paraşütçüleri gecenin kaosunda dağılmış timler halinde gösterir: yanlış inişler, kırık telsizler ve anlık kararlarla tutulan köprüler. Büyük cephe savaşı başlamadan önce küçük birliklerin birbirini karanlıkta bulmaya çalışması gerilimi yükseltir. Film, hava indirmeyi tek kusursuz hamle değil, parçalı bir hayatta kalma ve görev tamamlama mücadelesi gibi kurar.",
+        "realHistory": "6 Haziran 1944 gecesi Amerikan 82. ve 101. Hava İndirme tümenleri, Utah Beach gerisindeki geçitleri, yol kavşaklarını ve köprüleri kontrol etmek için Normandiya'ya atıldı. Aynı gece İngiliz 6. Hava İndirme Tümeni de doğu kanadında kritik köprüleri ve bataryaları hedef aldı. Amaç, kıyıya çıkacak kuvvetlerin yanlarını korumak ve Alman takviyelerinin hareketini yavaşlatmaktı.\n\nPlan ayrıntılıydı, fakat hava indirme sahada dağınık ilerledi. Bulut, uçaksavar ateşi, gece navigasyonu ve pilot hataları nedeniyle birçok birlik hedef bölgeden uzağa indi. İlk saatlerde komuta zinciri parçalandı; bazı timler kendi subaylarını bulamadı, bazıları haritasız veya telsizsiz kaldı. Buna rağmen küçük birlik inisiyatifi belirleyici oldu. Paraşütçüler hedefe en yakın yolu seçmek yerine, bulundukları yerde görevin niyetine uygun işler yaptı: kavşak tuttu, köprüye yöneldi, telefon hattı kesti veya Alman hareketini geciktirdi.\n\nBu durum D-Day'in önemli derslerinden biridir. Hava indirme başarısı, kusursuz iniş düzeninden değil, dağınıklık içinde görev önceliğini koruyabilen askerlerden geldi. Film bu karmaşayı karakter düzeyinde gösterir; tarihsel ölçekte ise etki, yüzlerce küçük eylemin aynı anda Alman savunma ritmini bozmasından doğdu.\n\nHava indirmeleri kıyı çıkarmasının yerine geçmedi; onun nefes alacağı alanı açtı. Bu yüzden operasyon, modern savaşta planlama ile doğaçlama arasındaki ilişkinin güçlü bir örneğidir.",
+        "accuracyNote": "Dağınık iniş ve belirsizlik temsili isabetlidir; birim etkileri ve görev zamanlamaları film dili içinde doğal olarak sadeleşir.",
+        "whyInteresting": "Aynı operasyon hem çok ayrıntılı askeri planlama hem de sahada anlık problem çözme sınavıydı.",
+        "misconception": "Hava indirme çoğu zaman düzenli iniş planı gibi düşünülür; Normandiya'da dağınıklık norm, toparlanma becerisi belirleyiciydi.",
+        "mediaChanged": "Film karmaşayı bireysel hikayelerle verir. Tarihte sonuç, çok sayıda küçük timin hedef niyetini koruyarak Alman hareketini geciktirmesinden çıktı.",
+        "whyItMatters": "Hava indirmeleri, büyük operasyonların yalnız merkezden değil, sahadaki küçük birlik kararlarından da ayakta kaldığını gösterir.",
+        "quickRealityCheck": "Normandiya'da dengeyi tek büyük çarpışma mı değiştirdi, yoksa gece boyunca tutulan geçitler ve kavşaklar mı?",
+        "reviewerNote": "Kaynak metadata düzeltildi; hava indirmeleri dağınık iniş ve görev komutası bağlamına çekildi.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Imperial War Museums - How D-Day Was Fought From The Air",
+            "url": "https://www.iwm.org.uk/history/how-d-day-was-fought-from-the-air",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "U.S. Army - D-Day: The Airborne Assault",
+            "url": "https://www.army.mil/article/116382/d-day-the-airborne_assault",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Encyclopaedia Britannica - Normandy Invasion",
+            "url": "https://www.britannica.com/event/Normandy-Invasion",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-134-mulberry-harbours",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Generic short fields replaced and Mulberry narrative tightened around logistics, storm damage, Arromanches persistence, modular engineering, and the gap between beach combat and operational sustainment.",
+      "fields": {
+        "subtitle": "Sahilden sonra orduyu besleyen yüzer liman",
+        "whatWeSee": "Saving Private Ryan, D-Day kaosunu askerlerin kıyıya çıkma deneyiminde yoğunlaştırır. Dev yüzer liman mühendisliği ve kıyıya sürekli ikmal akışı ise doğal olarak kadrajın dışında kalır. Film sahilde hayatta kalmayı gösterir; Mulberry limanları ise o sahilde tutunmanın nasıl sürdürülebilir hale geldiğini anlatır.",
+        "realHistory": "D-Day'in en büyük sorusu yalnız sahile çıkmak değildi; ertesi gün ve sonraki haftalarda tank, kamyon, mühimmat, yakıt, yiyecek ve tıbbi malzemenin kıyıya nasıl aktarılacağıydı. Büyük limanlar henüz Alman kontrolündeyken Müttefikler bu sorunu Mulberry adı verilen yapay liman sistemiyle çözmeye çalıştı. Beton kesonlar, yüzer yollar, dalgakıranlar ve boşaltma platformları Britanya'da hazırlanıp Manş Denizi'nden Normandiya kıyılarına çekildi.\n\nİki ana sistem kuruldu: Amerikan sektöründeki Mulberry A ve Arromanches çevresindeki Britanya-Kanada hattı Mulberry B. Haziran 1944'teki sert fırtına Omaha açıklarındaki Amerikan limanına ağır zarar verdi; Arromanches tarafındaki sistem ise onarılarak aylarca çalıştı. Bu fark, projenin kırılganlığını azaltmaz; tersine, çıkarma lojistiğinin hava, deniz durumu ve hızlı onarım kapasitesine ne kadar bağımlı olduğunu gösterir.\n\nMulberry yalnız teknik bir icat değil, dev bir organizasyon işiydi. Çekici gemiler, mühendis birlikleri, sahil işçileri, hava tahmin ekipleri ve boşaltma düzeni birlikte çalışmadan liman parçaları işe yaramazdı. Saving Private Ryan piyadenin göz hizasında kalmayı seçtiği için bu altyapıyı göstermemesi anlaşılırdır. Ancak muharebe zaferi ile harekât başarısı arasındaki köprü tam burada kurulur.\n\nNormandiya'da ilerleme, yalnız cesaretle değil sürekli ikmalle mümkün oldu. Mulberry limanları, savaş filmlerinde görünmeyen lojistiğin bir ordunun kaderini nasıl belirlediğini gösteren en iyi örneklerden biridir.",
+        "accuracyNote": "Film çıkarma deneyimini güçlü biçimde aktarır; Mulberry gibi arka plan lojistiğini bilinçli olarak kadraj dışında bırakır.",
+        "whyInteresting": "D-Day'in devamı, sahile çıkmak kadar sahile geçici bir liman kurabilmeye de bağlıydı.",
+        "misconception": "Normandiya çıkarmasının yalnız ilk gün sahilde kazanıldığı sanılır; asıl başarı, kıyıya sürekli ikmal akışı kurulunca kalıcı hale geldi.",
+        "mediaChanged": "Film piyadenin hayatta kalma anını merkezler. Tarihsel tabloda ise mühendislik, deniz hava tahmini ve boşaltma düzeni zaferin görünmeyen taşıyıcısıdır.",
+        "whyItMatters": "Mulberry limanları, askeri tarihte lojistiğin en dramatik sahne kadar belirleyici olabileceğini gösterir.",
+        "quickRealityCheck": "D-Day'de sahile çıkmak yetti mi, yoksa sahile çıkan orduyu besleyecek geçici liman da mı gerekiyordu?",
+        "reviewerNote": "Generic kısa alanlar değiştirildi; Mulberry A/B ve Haziran fırtınası dengeli biçimde işlendi.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Imperial War Museums - How the Mulberry Harbours kept D-Day afloat",
+            "url": "https://www.iwm.org.uk/history/second-world-war/d-day/how-the-mulberry-harbours-kept-d-day-afloat",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Encyclopaedia Britannica - Mulberry harbour",
+            "url": "https://www.britannica.com/technology/Mulberry",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The National WWII Museum - D-Day Logistics",
+            "url": "https://www.nationalww2museum.org/war/articles/logistics-d-day",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-135-hedgerows",
+      "locale": "tr",
+      "decision": "minor_rewrite",
+      "reason": "Good core retained, but generic subtitle replaced and the technical/tactical learning curve around bocage and Rhino tanks tightened.",
+      "fields": {
+        "subtitle": "Bocage: tarlayı bölen çit, orduyu yavaşlatan duvar",
+        "realHistory": "Normandiya'daki bocage denilen çitli arazi, Müttefiklerin kıyıdan sonra en zorlandığı doğal savunma alanlarından biriydi. Yüzyıllar boyunca tarla sınırı olarak oluşan kalın toprak setler ve yoğun çalı duvarları, tank ve piyade görüşünü ciddi biçimde kısıtlıyordu. Alman birlikleri bu avantajı hızla kullandı: kısa mesafeli pusu, gizli makineli tüfek mevzisi ve geri çekilip yeniden tutunma taktiği ilerlemeyi beklenenden yavaş hale getirdi.\n\nMüttefik birlikler başlangıçta açık araziye göre hazırlanmış taktiklerle hareket ettiği için bocage içinde ciddi kayıplar verdi. Çözüm sahada geliştirilen uyarlamalarla geldi. Bazı Amerikan birlikleri tankların önüne metal kesiciler ekleyerek çit setlerini daha kontrollü yarmaya başladı; bu doğaçlama araçlar “Rhino” düzenekleri olarak bilinir oldu. Piyade-tank koordinasyonu, keşif disiplini ve topçu hazırlığı da bu ortamda yeniden ayarlandı.\n\nDolayısıyla çitli arazi yalnız dekor değil, operasyon temposunu belirleyen bir etkendi. Normandiya zaferi sadece çıkarma gününde değil, sonraki haftalarda bu zor coğrafyaya uyum sağlama kapasitesiyle kazanıldı. Araziyi okumayan ordu, sayıca ve ateş gücü bakımından üstün olsa bile ilerleyemiyordu.\n\nCobra Harekâtı gibi kırılmalar, bu öğrenme süreci belirli bir olgunluğa eriştikten sonra etkili oldu. Bocage deneyimi, modern ordulara teknolojinin tek başına yeterli olmadığını; yerel araziye uygun küçük teknik yeniliklerin ve birlikler arası koordinasyonun bazen stratejik sonuç üretebildiğini gösterdi.",
+        "accuracyNote": "Sıkışma hissi ve yakın mesafe tehlikesi inandırıcıdır; taktik uyarlamaların deneme-yanılma süreci film akışında kısalır.",
+        "whyInteresting": "Bazen savaşın kaderini yeni bir tank modeli değil, tarlayı bölen eski bir çit sistemi belirler.",
+        "misconception": "Normandiya'da kıyı hattı geçildikten sonra ilerleyişin kolay olduğu düşünülür; asıl yıpratma savaşlarından biri bocage içinde yaşandı.",
+        "mediaChanged": "Film bocage gerilimini güçlü biçimde hissettirir; tarihsel süreçte ilerlemenin anahtarı araziye karşı hızla öğrenilen teknik ve taktik uyarlamalardı.",
+        "quickRealityCheck": "Normandiya'da tankların önüne eklenen hedge-cutter düzenekleri neden ilerleme hızını değiştirdi?",
+        "reviewerNote": "Bocage kartı kaynaklı çekirdeğini korudu; subtitle ve taktik inovasyon çerçevesi temizlendi.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "U.S. Army Center of Military History - The U.S. Army in the Bocage Country",
+            "url": "https://history.army.mil/html/books/007/7-4-1/cmhPub_7-4-1.pdf",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "National Museum of the United States Army - Rhino Tank",
+            "url": "https://www.thenmusa.org/armyinnovations/rhinotank/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The National WWII Museum - Hedgerow Hell in Normandy",
+            "url": "https://www.nationalww2museum.org/war/articles/hedgerow-hell-normandy",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-136-canadian-beaches",
+      "locale": "tr",
+      "decision": "flagship_expand",
+      "reason": "Flagship card was too short; expanded with headings and stronger separation between Omaha’s cinematic memory and Juno’s operational role.",
+      "fields": {
+        "realHistory": "### Omaha gölgesinde kalan Juno\n\nSaving Private Ryan, D-Day hafızasını büyük ölçüde Omaha Beach üzerinden kurar. Bu tercih anlaşılır; filmin açılışı, savaş sinemasının en güçlü kıyı sahnelerinden biridir. Fakat bu sinematik yoğunluk, Normandiya çıkarmasının beş plajdan oluşan çok uluslu bir harekât olduğunu zaman zaman gölgeler. Juno Beach, yalnız “diğer plajlardan biri” değil, Kanada birliklerinin ana yükü taşıdığı kritik bir sektördü. Normandiya'yı tek bir kıyı görüntüsüne indirgemek, harekâtın gerçek yapısını daraltır.\n\n### Kanada çıkarma görevi\n\n6 Haziran 1944'te Juno, başlıca Kanada 3. Piyade Tümeni ve 2. Kanada Zırhlı Tugayı'nın sorumluluğundaydı. Çıkarma kuvvetleri mayınlı engeller, sahil tahkimatları, dalga koşulları ve kıyıya yaklaşırken oluşan zamanlama sorunlarıyla karşılaştı. İlk dalgalar ağır kayıp verdi; kıyı savunması, makineli tüfekler, topçu ve su altı/sahil engelleri saldırıyı zorlaştırdı. Buna rağmen Kanada birlikleri gün sonunda bazı noktalarda içeri doğru önemli mesafe kat etti. Bu başarı, bütün hedeflerin kusursuz tutturulduğu anlamına gelmez. Kıyı çıkışlarının açılması, zırhlı birliklerin doğru zamanda ilerlemesi, trafik sıkışıklığının çözülmesi ve komşu plajlarla temas kurulması hâlâ zorlu bir işti.\n\n### Çıkarma gününden sonra\n\nJuno'nun önemi yalnız 6 Haziran sabahıyla sınırlı değildi. Kanada kuvvetleri sonraki haftalarda Caen çevresi, Carpiquet, Verrières Ridge ve Falaise hattında çok sert çatışmalara girdi. Normandiya köprübaşının genişlemesi, tek bir ikonik plajın değil, bütün plajların ve iç bölge savaşlarının birlikte çalışmasına bağlıydı. Kanada birlikleri Alman savunmasını belirli sektörlerde sürekli baskı altında tutarak Müttefik ilerleyişinin bütününe katkı sağladı. Bu süreç, D-Day'in bir günlük zafer değil, haftalar süren yıpratma ve lojistik devamlılık meselesi olduğunu gösterir.\n\nKanada cephesini hesaba katmak, Britanya ve Amerikan katkılarını azaltmaz; tersine çıkarmanın gerçek koalisyon doğasını daha net gösterir. Bir plajda yaşanan gecikme, başka bir plajdaki ilerlemeyi etkileyebilir; bir sektörde tutulan baş, komşu sektördeki takviye planını güvenceye alabilir. Juno bu karşılıklı bağımlılığın önemli parçalarından biridir.\n\n### Hafıza hiyerarşisi\n\nBu kartın meselesi Omaha'nın önemini azaltmak değildir; D-Day'in hafıza haritasını genişletmektir. Popüler kültür bir sahneyi dünya çapında ikonik hale getirdiğinde, diğer cephelerin fedakârlığı daha az görünür olabilir. Juno Beach, D-Day'in Amerikan, Britanya, Kanada ve diğer Müttefik kuvvetlerin birbirine bağımlı çalıştığı bir koalisyon harekâtı olduğunu hatırlatır. Normandiya başarısı, tek bir görüntüye sığmayacak kadar çok uluslu, çok plajlı ve çok aşamalıydı. Bu nedenle Juno'yu merkeze almak, sinema hafızasını düzeltmek değil; onu tamamlamaktır.\n\nJuno'nun temsil edilme biçimi, tarih anlatısında “kim görünür, kim arka planda kalır?” sorusunu da açar. Kanada birlikleri kıyıda yalnız bir ulusal bölüm değil, bütün köprübaşının ritmini etkileyen bir operasyonel yük taşıdı. Onların hikâyesi hatırlandığında Normandiya daha doğru görünür: aynı gün içinde farklı plajlarda farklı kayıplar, farklı ilerleme hızları ve ortak bir stratejik amaç vardı. Bu çeşitlilik, çıkarmanın asıl büyüklüğünü tek bir kahramanlık görüntüsünden daha iyi anlatır.",
+        "readingTimeMinutes": 3,
+        "accuracyNote": "Film Omaha merkezli hafızayı güçlü biçimde kurar; bu, Kanada sektörünün operasyonel önemini değil yalnız temsil ağırlığını sınırlar.",
+        "whyInteresting": "Tek bir ikonik sinema sahnesi, çok uluslu bir harekâtın hafıza dengesini nasıl değiştirebildiğini gösterir.",
+        "misconception": "Normandiya çıkarması çoğu zaman yalnız Amerikan başarısı gibi hatırlanır; oysa beş plajın tamamı birbirine bağlıydı.",
+        "mediaChanged": "Omaha'ya sinematik odak dikkat alanını daraltır. Tarihsel sonuçlar Juno dahil bütün plajların koordinasyonuna ve sonraki iç bölge muharebelerine bağlıydı.",
+        "whyItMatters": "Juno'yu anlamak, D-Day'i tek bir kahramanlık sahnesinden çıkarıp koalisyon harekâtı olarak okumayı sağlar.",
+        "quickRealityCheck": "D-Day başarısı tek bir ikonik sektöre mi, yoksa beş plajın aynı anda tutunmasına mı dayanıyordu?",
+        "reviewerNote": "Flagship kart 400+ kelimeye çıkarıldı; Juno’nun operasyonel rolü ve hafıza hiyerarşisi ayrıştırıldı.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Juno Beach Centre - D-Day",
+            "url": "https://www.junobeach.org/canada-in-wwii/articles/d-day/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Veterans Affairs Canada - D-Day and the Battle of Normandy",
+            "url": "https://www.veterans.gc.ca/en/remembrance/military-history/second-world-war/d-day-and-battle-normandy",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Encyclopaedia Britannica - Normandy Invasion",
+            "url": "https://www.britannica.com/event/Normandy-Invasion",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-137-french-civilians",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Repetitive realHistory cleaned and civilian experience reframed around bombardment, occupation, liberation, resistance/reprisal, scarcity, and post-liberation tension.",
+      "fields": {
+        "subtitle": "Kurtuluş sevinci ile bombardıman acısı aynı köyde",
+        "whatWeSee": "Saving Private Ryan, Normandiya çıkarmasından sonra Fransız köylerinde sivilleri kısa ama yoğun sahnelerle gösterir. Yıkılmış sokaklar, bodrumda saklanan aileler ve kurtuluş birliklerini tereddütle karşılayan insanlar, savaşın yalnız askerler arasında geçmediğini hatırlatır. Film bu sivilleri hikâyenin merkezine almaz; ama işgal altındaki günlük hayatın karmaşıklığını görünür kılar.",
+        "realHistory": "1944 Normandiya harekâtı sırasında Fransız siviller, işgalden kurtuluşa geçişte çifte baskı yaşadı. Alman işgali altında yıllarca kıtlık, zorla çalıştırma, ihbar korkusu ve direniş-misilleme döngüsüyle yaşayan kasabalar, Müttefik bombardımanları sırasında da ağır kayıplar verdi. Kurtuluş sevincinin yanında yıkılmış evler, ölü aile üyeleri ve kayıp geçim kaynakları vardı.\n\nNormandiya'daki birçok şehir ve kasaba büyük ölçüde bombalandı. Caen, Saint-Lô, Falaise ve çevresinde sivil hayat haftalarca bodrumlara, mağaralara ve geçici sığınaklara sıkıştı. Su, ilaç, ekmek ve barınma eksikliği askeri ilerlemenin doğrudan parçası haline geldi. Yerel direniş ağları istihbarat ve sabotajla Müttefiklere yardım ederken, siviller Alman misillemesinden korkmaya devam etti.\n\nKurtuluş sonrası dönem de basit bir mutlu son değildi. İşbirlikçilik suçlamaları, yerel hesaplaşmalar ve geri dönen mülteciler toplumsal yaraları daha görünür hale getirdi. Müttefik askerler birçok yerde kurtarıcı olarak karşılandı; fakat aynı varlık, yiyecek ve barınma baskısı yaratıyor, güvenlik şüphesini de beraberinde getiriyordu.\n\nSaving Private Ryan sivili birkaç dramatik ana sığdırır. Tarihsel gerçeklikte ise her köyün kendi işgal, direniş, bombardıman ve yeniden inşa hikayesi vardı. Normandiya'yı yalnız askeri harita olarak değil, sivil dayanıklılık ve travma coğrafyası olarak okumak gerekir.",
+        "accuracyNote": "Normandiya çıkarması ve sivil etkiler belgelenmiştir; film, sivillerin uzun süren işgal ve yeniden inşa deneyimini doğal olarak kısaltır.",
+        "whyInteresting": "Kurtuluşun aynı anda hem sevinç hem yas getirebilmesi, savaş hafızasını tek tonlu kahramanlık anlatısından çıkarır.",
+        "misconception": "Savaşın cephede bittiği sanılır; işgal, bombardıman, kıtlık ve yerel hesaplaşmalar sivillerin hayatını yıllarca şekillendirdi.",
+        "mediaChanged": "Film sivili birkaç sahneye sıkıştırır; tarihsel tabloda her köy ayrı bir işgal, direnç, kayıp ve yeniden inşa hikâyesi taşır.",
+        "whyItMatters": "Fransız sivillerin deneyimi, askeri kurtuluşun toplumsal bedelini ve hafızadaki gri alanları görünür kılar.",
+        "quickRealityCheck": "Normandiya'da kurtuluş sevinci neden aynı anda bombardıman travması ve işbirlikçilik hesaplaşmasıyla yaşandı?",
+        "reviewerNote": "Tekrarlı blok temizlendi; sivillerin deneyimi işgal, bombardıman ve kurtuluş sonrası gerilim ekseninde yeniden yazıldı.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Falaise Memorial - Civilians and the Liberation",
+            "url": "https://www.falaise-suissenormande.com/en/explorer/une-autre-bataille-de-normandie/le-memorial-de-falaise/la-visite/2e-partie-les-civils-et-la-liberation/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Imperial War Museums - The Liberation of France",
+            "url": "https://www.iwm.org.uk/history/the-liberation-of-france",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Encyclopaedia Britannica - French Resistance",
+            "url": "https://www.britannica.com/topic/French-Resistance",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

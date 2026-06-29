@@ -1,0 +1,463 @@
+{
+  "patchId": "tr-chunks-077-078-source-aware-patch",
+  "locale": "tr",
+  "sourceChunks": [
+    77,
+    78
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-editorial-qa",
+  "summary": {
+    "cardCount": 8,
+    "approvedAsIs": [],
+    "minorEdit": [],
+    "rewrite": [
+      "tf26-175-organized-crime",
+      "tf26-177-repeal",
+      "tf26-178-jazz-age",
+      "tf26-179-corruption",
+      "tf26-181-constitutional-role",
+      "tf26-183-commonwealth"
+    ],
+    "flagshipRewrite": [
+      "tf26-176-women-reformers",
+      "tf26-180-public-health"
+    ],
+    "sourceUpdates": [
+      "tf26-175-organized-crime",
+      "tf26-176-women-reformers",
+      "tf26-177-repeal",
+      "tf26-178-jazz-age",
+      "tf26-179-corruption",
+      "tf26-180-public-health",
+      "tf26-181-constitutional-role",
+      "tf26-183-commonwealth"
+    ],
+    "notes": [
+      "077–078 batch 069–070 patch şemasına hizalandı: entries / fields / sourceUpdates ayrımı korundu.",
+      "Boardwalk Empire kartlarında tekrar eden realHistory blokları, generic subtitle ve zayıf mediaConnection alanları temizlendi.",
+      "The Crown kartlarında legacy relatedCardIds temizlendi; monarşi/Commonwealth anlatısı güncel resmi kaynaklarla dengelendi.",
+      "Flagship kartlar tf26-176-women-reformers ve tf26-180-public-health 400+ kelime başlıklı yapıya genişletildi."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-175-organized-crime",
+      "reviewStatus": "rewrite",
+      "notes": "Generic subtitle ve eksik tag temizlendi; organize suç kartı kişisel mafya hikâyesinden çıkarılıp Prohibition'ın ürettiği pazar, lojistik, rüşvet ve siyasi patronaj yapısıyla yeniden kuruldu.",
+      "fields": {
+        "subtitle": "Yasak pazarı suç ağını nasıl büyüttü?",
+        "whatWeSee": "Boardwalk Empire, organize suçu yalnız silahlı çatışma üzerinden değil, masa başı pazarlık, liman erişimi, polis ilişkisi ve siyasi bağışlarla kurulan bir şehir düzeni olarak gösterir. Kaçak içki bir ürün olmaktan çıkar; otel, kumar, belediye, seçim ve kolluk ilişkilerini birbirine bağlayan nakit akışına dönüşür. Dizi karakterleri dramatik biçimde yakınlaştırır, fakat verdiği temel his güçlüdür: Prohibition döneminde suç, sokak dışı bir yönetim kapasitesi de kazandı.",
+        "realHistory": "ABD'de Prohibition 1920'de yürürlüğe girdiğinde amaç alkol üretimi ve satışını bastırmaktı; fakat talep tamamen ortadan kalkmadı. Yasal pazar yeraltına taşınınca kaçak üretim, taşıma, depolama ve dağıtım yeni bir kâr alanı haline geldi. Bu boşluk, daha önce parçalı çalışan suç gruplarının bölgesel tedarik ağlarına dönüşmesini hızlandırdı.\n\nKanada, Karayipler ve kıyı hatları üzerinden gelen içki; liman işçileri, kamyoncular, depocular, muhasebeciler, sahte ruhsatlar ve rüşvet ilişkileriyle iç pazara sokuldu. Şiddet elbette vardı, ama ağların kalıcılığını yalnız silah açıklamaz. Asıl dayanıklılık; tedarik sürekliliği, fiyat farkı, yerel koruma ve para aklama kanallarından geldi. Atlantic City'de Enoch “Nucky” Johnson gibi siyasi patronların varlığı, Boardwalk Empire'ın Nucky Thompson karakterine tarihsel zemin sağlar; fakat karakter bire bir biyografi değil, dönemin suç-siyaset karışımının dramatik temsilidir.\n\nProhibition organize suçu icat etmedi. Kentlerde kumar, fuhuş, haraç ve patronaj ilişkileri daha önce de vardı. Ancak alkol yasağı, bu ağlara olağanüstü düzenli ve yüksek hacimli bir gelir sağladı. Bu gelir, bazı grupların şirket benzeri muhasebe, lojistik ve koruma düzenleri kurmasına yardım etti. Yasağın kalkmasından sonra bu kapasite tamamen kaybolmadı; kumar, sendika nüfuzu, kredi tefeciliği ve başka yasa dışı pazarlara taşındı.",
+        "accuracyNote": "Dizi suç ağlarının ekonomik mantığını güçlü yakalar; fakat karakter ilişkileri, şehirler arası temaslar ve zaman çizelgesi dramatik bütünlük için sıkıştırılmıştır.",
+        "whyInteresting": "Prohibition, yasa dışı pazarı sadece büyütmedi; suç örgütlerine lojistik, muhasebe ve siyasi koruma üzerinden daha kurumsal çalışma alışkanlığı kazandırdı.",
+        "misconception": "Organize suçun birkaç acımasız liderin kişisel şiddetiyle büyüdüğü sanılır. Gerçekte pazar talebi, zayıf uygulama ve yerel patronaj en az şiddet kadar belirleyiciydi.",
+        "relatedCardIds": [
+          "tf26-172-bootlegging",
+          "tf26-176-women-reformers",
+          "tf26-177-repeal"
+        ],
+        "tags": [
+          "prohibition",
+          "organize-suc",
+          "abd",
+          "organize-suc",
+          "true-frame"
+        ],
+        "mediaConnection": "Boardwalk Empire'ın Atlantic City merkezli pazarlıkları, Prohibition döneminde kaçak alkol ekonomisinin liman, yerel siyaset ve kolluk korumasıyla nasıl birleştiğini görünür kılar.",
+        "mediaChanged": "Dizi kişisel liderlik ve ihanet gerilimini artırır; tarihsel tabloda belirleyici olan, talebi süren bir ürünün yasaklanmasıyla doğan lojistik ve patronaj ekonomisidir.",
+        "whyItMatters": "Bir yasağın tek başına toplumsal davranışı değiştirmediğini, kimi zaman daha dayanıklı yasa dışı kurumlar üretebildiğini gösterir.",
+        "quickRealityCheck": "Prohibition alkol pazarını küçültmek isterken neden bazı suç ağlarını daha kalıcı ve kurumsal hale getirdi?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "National Archives - The Volstead Act",
+            "url": "https://www.archives.gov/education/lessons/volstead-act",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "FBI History - The American Gangster Era",
+            "url": "https://www.fbi.gov/history/famous-cases/the-american-gangster-era",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Encyclopaedia Britannica - Enoch L. Johnson",
+            "url": "https://www.britannica.com/biography/Enoch-L-Johnson",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-176-women-reformers",
+      "reviewStatus": "flagship_rewrite",
+      "notes": "Flagship olmasına rağmen tekrar eden ve dağınık bloklar içeriyordu; WCTU, oy hakkı, sosyal reform kaygıları ve hareketin ırksal/sınıfsal sınırları başlıklı yapıyla genişletildi.",
+      "fields": {
+        "subtitle": "Oy hakkı, ev içi şiddet ve yasak siyaseti",
+        "whatWeSee": "Boardwalk Empire'de kadın reformcular, gangster dünyasının kenarında duran süs karakterler değildir. Margaret Thompson çizgisi üzerinden oy hakkı, sağlık kampanyaları, bağış ağları ve Prohibition savunusu aynı dönemin politik dili içinde görünür. Dizi bu alanı kişisel hikâyeye bağlar; tarihsel arka planda ise kadın örgütleri, kilise ağları ve yerel kampanyalar Amerikan siyasetini uzun süre etkileyen gerçek bir reform gücüydü.",
+        "realHistory": "### Evden siyasete uzanan hat\n\n19. yüzyılın sonu ve 20. yüzyılın başında ABD'deki kadın reform hareketi, alkol karşıtlığını yalnız ahlaki bir tercih olarak değil, aile güvenliği ve toplumsal refah sorunu olarak gördü. WCTU gibi örgütler, alkolü ev içi şiddet, yoksulluk, iş disiplini, çocukların bakımı ve aile gelirinin kaybı ile ilişkilendirdi. Bu dil bugünden bakınca paternalist ve kimi zaman dışlayıcı görünebilir; ancak dönemin kadınları için kamusal siyasete girmenin güçlü araçlarından biriydi. Kadınların oy hakkı sınırlıyken, “evi koruma” iddiası onların sokakta, kilisede, okulda ve belediye toplantılarında siyasal aktör olarak görünmesini meşrulaştırdı.\n\nBu hareketin gücü yalnız kürsü konuşmalarından gelmiyordu. Dilekçe kampanyaları, yerel toplantılar, gazete yazıları, okul etkinlikleri, yardım ağları ve kilise çevreleri birbirine bağlandı. Böylece kadın reformcular, henüz tam siyasal eşitlik tanınmadan önce modern kampanya tekniklerini kullanan geniş bir taban örgütlenmesi kurdu.\n\n### WCTU ve Anti-Saloon League\n\nWoman's Christian Temperance Union, geniş üyelik ağı ve yerel şubeleriyle temperance hareketinin en görünür kadın örgütlerinden biriydi. Anti-Saloon League ise daha dar ama çok etkili bir lobi makinesi kurdu; adaylara baskı yaptı, eyalet düzeyinde kampanyalar yürüttü ve anayasal yasak fikrini federal gündeme taşıdı. Bu iki çizgi aynı hedefe farklı araçlarla yaklaştı: biri moral reform ve sosyal hizmet diliyle, diğeri seçim matematiği ve baskı grubu disipliniyle çalıştı. 18. Değişiklik ve Volstead Yasası bu uzun kampanyanın sonucuydu.\n\nBoardwalk Empire'ın gösterdiği arka oda siyasetini anlamak için bu reform cephesini görmek gerekir. Prohibition yalnız gangsterlere fırsat veren bir yasa değildi; öncesinde çok güçlü, ahlaki iddiaları olan ve gerçek sosyal sorunlara işaret eden bir reform koalisyonu vardı. Yasa başarısız sonuçlar üretmiş olsa bile, onu doğuran kaygılar tamamen uydurma değildi.\n\n### Oy hakkı bağlantısı\n\n1920'de 19. Değişiklik'in onaylanması, kadınların federal düzeyde oy hakkını tanıdı. Aynı dönemde Prohibition'ın başlaması tesadüf değildi; iki hareketin örgütlenme ağları, kampanya dili ve “toplumu iyileştirme” iddiası sık sık kesişti. Yine de bu bağlantı basit bir başarı hikâyesi değildir. Oy hakkı tüm kadınlara eşit erişim sağlamadı; Siyah kadınlar ve başka azınlık grupları birçok eyalette seçmen bastırma, şiddet ve yerel engellerle karşılaştı. Temperance hareketinin bazı kolları göçmenlere, işçi sınıfı eğlence kültürüne ve Siyah topluluklara karşı dışlayıcı bir dil de kullandı.\n\nBu yüzden kadın reformcuları tek renkli bir ilerleme hikâyesi olarak anlatmak eksik kalır. Bazıları çocuk emeği, konut sağlığı ve eğitim gibi alanlarda ilerici işler yaptı; bazıları ise Amerikanlaşma, göçmen karşıtlığı ve ırksal dışlama diliyle hareket etti. Reformun ahlaki enerjisi, her zaman eşitlikçi sonuç üretmedi.\n\n### Reformun çelişkisi\n\nProhibition kadın reformcuların siyasal gücünü gösterdi, fakat aynı zamanda yasağın sınırlarını da açığa çıkardı. Alkol tüketimini tamamen bitirmek yerine büyük bir kaçak pazar, yolsuzluk ve sağlık riski üretildi. Bu durum reform hareketini böldü: kimi gruplar yasağı savunmaya devam etti, kimileri daha düzenleyici ve yerel çözümlere yöneldi. Boardwalk Empire bu karmaşayı gangster dramı içinde gösterir; tarihsel gerçek ise daha geniştir. Kadın reformcular modern kitle siyasetinin dönüştürücü aktörleriydi, fakat taşıdıkları hareket hem sosyal koruma vaadi hem de sınıfsal/ırksal sınırları olan bir siyasal mühendislik projesiydi.\n\nBu miras bugün de önemlidir. Bir politika gerçek bir toplumsal zarardan doğabilir, fakat uygulama aracı yanlış seçildiğinde beklenmeyen zararlar üretebilir. Kadın reformcuların hikâyesi bu yüzden hem kamusal siyasete girişin hem de iyi niyetli yasakçılığın sınırlarının tarihidir.",
+        "accuracyNote": "WCTU, Anti-Saloon League, 18. Değişiklik ve 19. Değişiklik bağlantısı tarihsel zemine sahiptir. Dizi kadın reformculuğunu birkaç karakter ve Atlantic City hattı üzerinden dramatize eder.",
+        "whyInteresting": "Aynı reform dalgası kadınların kamusal siyasette görünürlüğünü artırırken, alkol yasağı üzerinden yeni bir yeraltı ekonomisi ve eşitsizlik tartışması da üretti.",
+        "misconception": "Prohibition yalnız gangsterlerin veya erkek politikacıların hikâyesi sanılır. Kadın reform ağları, yasağın siyasal meşruiyet kazanmasında merkezi rol oynadı.",
+        "relatedCardIds": [
+          "tf26-173-temperance",
+          "tf26-177-repeal",
+          "tf26-180-public-health"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "mediaConnection": "Boardwalk Empire'ın Margaret ve reform çevresi sahneleri, WCTU, oy hakkı hareketi ve Prohibition kampanyalarının kesiştiği tarihsel reform zeminine bağlanır.",
+        "mediaChanged": "Dizi kadın reformculuğunu gangster dünyasıyla temas eden birkaç dramatik sahneye indirger; tarihsel süreçte bu hareket on yıllara yayılan örgüt, dilekçe, lobi ve oy hakkı kampanyalarıyla ilerledi.",
+        "whyItMatters": "Prohibition'ı anlamak için yalnız suç ekonomisine değil, yasağın arkasındaki sosyal zarar kaygılarına ve bu kaygıların nasıl dışlayıcı politikalara dönüşebildiğine de bakmak gerekir.",
+        "quickRealityCheck": "Kadın reformcular Prohibition'ı yalnız ahlak için mi savundu, yoksa aile güvenliği ve siyasal temsil arayışı da bu kampanyanın parçası mıydı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "National Archives - 19th Amendment to the U.S. Constitution",
+            "url": "https://www.archives.gov/milestone-documents/19th-amendment",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "National Park Service - Suffrage in 60 Seconds: Temperance",
+            "url": "https://www.nps.gov/articles/000/suffrage60seconds_temperance.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Library of Congress - Temperance Movement & Prohibition",
+            "url": "https://guides.loc.gov/alcoholic-beverage-industry/temperance-prohibition",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "U.S. House History - WCTU Petition for Woman Suffrage",
+            "url": "https://history.house.gov/HouseRecord/Detail/15032436230",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-177-repeal",
+      "reviewStatus": "rewrite",
+      "notes": "Tekrarlı realHistory ve zayıf mediaConnection temizlendi; Repeal yalnız barların açılması değil 21. Değişiklik, eyalet düzenlemesi, vergi ve suç ekonomisinin yeniden konumlanması olarak yazıldı.",
+      "fields": {
+        "subtitle": "21. Değişiklik ve yasağın kontrollü sonu",
+        "whatWeSee": "Boardwalk Empire'ın son dönem hattında yasağın kalkması, barların yeniden görünür hale gelmesi ve kaçakçılık gelirinin yön değiştirmesi üzerinden hissedilir. Dizi bunu Nucky Thompson'ın Atlantic City pazarlıklarıyla kişiselleştirir. Tarihsel gerçeklikte ise Repeal yalnız bir gecelik kutlama değil; federal yasağın bitmesi, eyaletlerin yeniden düzenleyici aktör haline gelmesi ve organize suç ekonomisinin yeni alanlara kaymasıydı.",
+        "realHistory": "Prohibition, 18. Değişiklik ve Volstead Yasası ile 1920'de ulusal ölçekte yürürlüğe girdi. 1930'lara gelindiğinde yasağın maliyeti daha görünür hale gelmişti: kaçak pazar büyümüş, federal ve yerel uygulama kapasitesi zorlanmış, mahkemeler yük altında kalmış ve Büyük Buhran döneminde vergi geliri ihtiyacı artmıştı. Kamuoyunda da “ahlaki zafer” fikri yerini uygulanabilirlik tartışmasına bırakıyordu.\n\n21. Değişiklik 5 Aralık 1933'te onaylanarak 18. Değişiklik'i yürürlükten kaldırdı. Bu ABD Anayasası tarihinde önceki bir anayasa değişikliğini tamamen kaldıran tek değişikliktir. Ancak sonuç “her yerde sınırsız serbestlik” değildi. Alkol düzenlemesi büyük ölçüde eyaletlere döndü; lisanslama, yaş sınırı, satış saatleri, yerel kuru/ıslak bölge ayrımları ve vergi rejimleri farklı biçimlerde kuruldu.\n\nKaçak içki ekonomisi bu kararla ağır darbe aldı, çünkü ana ürün yeniden yasal kanala girdi. Fakat Boardwalk Empire'ın sezdiği gibi, suç ağları bir gecede yok olmadı. Bazıları yasal eğlence, otel ve dağıtım işlerine yaklaşırken, bazıları kumar, kredi tefeciliği, sendika nüfuzu ve başka yasa dışı alanlara yöneldi. Repeal bu yüzden yalnız “içki serbestisi” değil, devletin başarısız bir yasak politikasından düzenleme ve vergilendirme modeline geri dönüşüdür.",
+        "accuracyNote": "21. Değişiklik'in 5 Aralık 1933'te 18. Değişiklik'i kaldırması tarihsel olarak nettir. Dizideki karakter hattı kurgusaldır; federal dönüşüm ve Atlantic City ekonomisi dramatik akışa göre sıkıştırılmıştır.",
+        "whyInteresting": "Yasağın kalkması, suç ekonomisini bir anda silmedi; kara pazarın dayandığı ana teşviki azaltıp onu başka alanlara itti.",
+        "misconception": "Repeal'ın gangsterliği ve kaçakçılığı tek gecede bitirdiği sanılır. Gerçekte yasal pazar geri gelirken suç ağları yeni gelir alanlarına uyum sağladı.",
+        "relatedCardIds": [
+          "tf26-172-bootlegging",
+          "tf26-175-organized-crime",
+          "tf26-180-public-health"
+        ],
+        "mediaConnection": "Boardwalk Empire'ın son dönem pazarlıkları, 21. Değişiklik sonrası federal yasağın bitmesi ve Atlantic City gibi kentlerde suç ekonomisinin yeniden yön bulmasıyla tarihsel bağ kurar.",
+        "mediaChanged": "Dizi Repeal'ı karakterlerin kaderi üzerinden dramatize eder; tarihsel tabloda asıl kırılma federal yasaktan eyalet merkezli lisans ve vergi düzenine geçiştir.",
+        "whyItMatters": "Repeal, kamu politikasında başarısız bir mutlak yasağın nasıl düzenleme, vergilendirme ve yerel denetim modeline çevrilebildiğini gösterir.",
+        "quickRealityCheck": "21. Değişiklik Prohibition'ı bitirdiğinde alkol gerçekten tamamen serbest mi oldu, yoksa yetki eyalet düzenlemelerine mi döndü?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "National Constitution Center - 21st Amendment: Repeal of Prohibition",
+            "url": "https://constitutioncenter.org/the-constitution/amendments/amendment-xxi",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Congress.gov Constitution Annotated - Overview of Twenty-First Amendment",
+            "url": "https://constitution.congress.gov/browse/essay/amdt21-S1-1/ALDE_00000047/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "National Archives - The Volstead Act",
+            "url": "https://www.archives.gov/education/lessons/volstead-act",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-178-jazz-age",
+      "reviewStatus": "rewrite",
+      "notes": "Tekrarlı son blok ve romantize eden kısa açıklamalar temizlendi; Caz Çağı kartı speakeasy, radyo/plak endüstrisi, Siyah müzisyen emeği, ticari sömürü ve Büyük Buhran bağlamıyla yeniden kuruldu.",
+      "fields": {
+        "subtitle": "Speakeasy, radyo ve Siyah müziğin çelişkili yükselişi",
+        "whatWeSee": "Boardwalk Empire, 1920'lerin caz kulüplerini kaçak içki, şık gece hayatı ve siyasi pazarlıkla aynı görüntüye yerleştirir. Müzik dekor gibi durmaz; karakterlerin paraya, statüye ve tehlikeye yaklaşma biçimini belirler. Dizi bu dünyayı parlak ve stilize gösterir, fakat parlaklığın altında Prohibition ekonomisi, ırk ayrımı ve eğlence piyasasının sert hiyerarşileri vardır.",
+        "realHistory": "Caz Çağı, yalnız eğlenceli bir moda dönemi değildi. New Orleans'tan Chicago, New York ve başka kentlere taşınan Siyah Amerikalı müzisyenler; blues, ragtime, dans müziği ve doğaçlama geleneklerini yeni kentsel mekânlarda birleştirdi. Louis Armstrong ve Duke Ellington gibi isimler, cazın ulusal ve uluslararası ölçekte tanınmasına yardım etti. Radyo, plak endüstrisi ve gece kulüpleri bu yayılımı hızlandırdı.\n\nProhibition, cazın sahnesini beklenmedik biçimde büyüttü. Speakeasy'ler ve yasadışı kulüpler, müşteriye yalnız içki değil, müzik, dans ve sınıf atlama hissi satıyordu. Kaçak içki gelirleri bazı kulüplerin en iyi müzisyenleri çekmesine imkân verdi; gangster patronajı ile kültürel yenilik iç içe geçti. Bu durum cazın görünürlüğünü artırdı, ama sanatçıların emeğini daha özgür hale getirmedi. Siyah müzisyenler çoğu zaman beyaz seyirciye çalıyor, telif ve işletme kontrolünde eşitsizlik yaşıyor, kulüp girişlerinde ve konaklamada ayrımcılıkla karşılaşıyordu.\n\nBoardwalk Empire bu çelişkiyi atmosferle sezdirir. Tarihsel gerçeklikte Caz Çağı, özgürleşme ile sömürünün aynı anda işlediği bir kültür ekonomisidir. 1929 Büyük Buhranı, spekülatif zenginlik ve gösterişli tüketim görüntüsünü sarstığında bu dünyanın kırılganlığı daha görünür oldu. Caz kalıcılaştı; fakat onun yükselişi, Prohibition'ın suç ekonomisi ve ABD'nin ırk/sınıf sınırları olmadan tam anlaşılamaz.",
+        "accuracyNote": "Dizi 1920'lerin gece hayatı atmosferini güçlü verir; ancak Atlantic City çizgisi, cazın Chicago, New York, New Orleans ve kayıt endüstrisiyle kurduğu daha geniş ağı doğal olarak daraltır.",
+        "whyInteresting": "Cazın yükselişi, bir sanat formunun aynı anda özgürleşme dili, ticari ürün ve yasadışı gece ekonomisinin parçası olabileceğini gösterir.",
+        "misconception": "1920'lerin yalnız eğlence ve refah çağı olduğu sanılır. Aynı dönemde ırk ayrımı, telif eşitsizliği, gangster patronajı ve ekonomik kırılganlık da müziği şekillendirdi.",
+        "relatedCardIds": [
+          "tf26-171-speakeasies",
+          "tf26-175-organized-crime",
+          "tf26-179-corruption"
+        ],
+        "mediaConnection": "Boardwalk Empire'ın speakeasy sahneleri, Prohibition'ın yasadışı kulüp ekonomisiyle cazın ticari ve kültürel yükselişini aynı tarihsel hatta birleştirir.",
+        "mediaChanged": "Dizi Caz Çağı'nı parlak suç estetiğiyle yoğunlaştırır; tarihsel tablo ise Siyah müzisyen emeği, kayıt piyasası, ırk ayrımı ve Büyük Buhran'ın kırılganlaştırdığı tüketim kültürünü de içerir.",
+        "whyItMatters": "Caz, Prohibition döneminin hem kaçış vaadini hem de ABD'nin ırk ve sınıf gerilimlerini aynı anda duyulur kılar.",
+        "quickRealityCheck": "Prohibition cazı yalnız yasak yüzünden mi popülerleştirdi, yoksa speakeasy ekonomisi ve kayıt/radyo piyasası da bu yükseliğin parçası mıydı?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Smithsonian - The Jazz Age: American Style in the 1920s",
+            "url": "https://www.si.edu/exhibitions/jazz-age-american-style-1920s-event-exhib-6160",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The Mob Museum - The Rise of Jazz and Jukeboxes",
+            "url": "https://prohibition.themobmuseum.org/the-history/how-prohibition-changed-american-culture/jazz-and-jukeboxes/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Encyclopaedia Britannica - Jazz Age",
+            "url": "https://www.britannica.com/event/Jazz-Age",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-179-corruption",
+      "reviewStatus": "rewrite",
+      "notes": "Generic subtitle korunduğu için değiştirildi; yolsuzluk kartı bireysel ahlak bozukluğundan çıkarılıp Prohibition'ın yarattığı teşvikler, Nucky Johnson tipi patronaj, medya ve federal-yerel yetki gerilimi üzerinden yeniden yazıldı.",
+      "fields": {
+        "subtitle": "Yasak, patronaj ve satın alınan şehir",
+        "whatWeSee": "Boardwalk Empire'da yolsuzluk, arka oda pazarlığı ve polis koruması üzerinden kişisel güç oyunu gibi görünür. Nucky Thompson'ın telefonu, bir ruhsatı, bir baskını ya da seçim sonucunu etkileyebilecek kadar güçlüdür. Dizi bunu dramatik biçimde kişiselleştirir; tarihsel bağlamda ise yolsuzluk, Prohibition'ın yarattığı kâr, yerel patronaj ve federal uygulama boşluklarının birleşimiydi.",
+        "realHistory": "Prohibition döneminde yolsuzluk, yalnız birkaç görevlinin rüşvet alması değildi. Volstead Yasası alkol pazarını yasakladı ama talep sürdüğü için koruma satılabilir bir hizmete dönüştü. Polis baskınının yapılmaması, mahkeme dosyasının zayıflatılması, limandaki sevkiyatın görmezden gelinmesi, belediye ihalesinin doğru kişiye verilmesi ve seçim günü oy mobilizasyonu aynı sistemin parçaları haline geldi.\n\nAtlantic City bu açıdan güçlü bir örnektir. Enoch “Nucky” Johnson, turizm, eğlence, parti örgütü ve yerel kamu görevleri üzerinden geniş bir etki ağı kurdu. Boardwalk Empire'ın Nucky Thompson'ı doğrudan belgesel karakter değildir; ama gerçek Johnson figürü, şehir patronajı ile kaçak içki ekonomisinin nasıl birleşebildiğini anlamak için tarihsel bir anahtardır. Benzer mekanizmalar Chicago ve New York gibi kentlerde farklı biçimlerde işledi.\n\nFederal uygulama arttıkça yolsuzluk tamamen bitmedi; bazen daha karmaşık hale geldi. Yerel kolluk ile federal ajanlar arasındaki yetki çatışması, siyasi patronların pazarlık alanını büyütebiliyordu. Gazeteler ve kamuoyu da çift yönlü rol oynadı: bazı yayınlar yolsuzluğu ifşa ederken bazıları patronaj ilişkilerinden beslendi. Bu dönem bu yüzden kurumsal tasarım açısından önemlidir. Uygulanabilirliği zayıf bir yasa, yüksek kâr ve düşük güven ortamında yolsuzluğu istisna olmaktan çıkarıp yönetim tekniğine dönüştürebilir.",
+        "accuracyNote": "Dizi dönemin yolsuzluk atmosferini doğru yakalar; fakat karakter ilişkileri ve olay sırası dramatik yoğunluk için birleştirilmiştir.",
+        "whyInteresting": "Ahlak adına çıkarılan bir yasa, sahada rüşvetin fiyatını artırıp şehir yönetimini kaçak pazarla daha sıkı bağlayabildi.",
+        "misconception": "Yolsuzluğun sadece bireysel ahlaksızlıktan doğduğu sanılır. Prohibition örneği, kötü tasarlanmış teşviklerin kurumları nasıl aşındırdığını gösterir.",
+        "relatedCardIds": [
+          "tf26-172-bootlegging",
+          "tf26-175-organized-crime",
+          "tf26-177-repeal"
+        ],
+        "mediaConnection": "Boardwalk Empire'ın Atlantic City evreni, Enoch Johnson tipi yerel patronajın Prohibition ekonomisiyle nasıl birleştiğini dramatize eder.",
+        "mediaChanged": "Dizi yolsuzluğu karakterlerin kişisel hırsı üzerinden keskinleştirir; tarihsel ölçekte belirleyici olan, yasa tasarımı, yerel parti makineleri, kolluk kapasitesi ve kara pazar kârının birleşimidir.",
+        "whyItMatters": "Kamusal niyetle çıkarılan bir yasa uygulanabilir değilse, suçla mücadele ederken kurumların içini de boşaltabilir.",
+        "quickRealityCheck": "Prohibition döneminde yolsuzluk neden sadece rüşvet değil, şehir yönetimini ayakta tutan bir patronaj tekniği haline gelebildi?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Encyclopaedia Britannica - Enoch L. Johnson",
+            "url": "https://www.britannica.com/biography/Enoch-L-Johnson",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "National Archives - The Volstead Act",
+            "url": "https://www.archives.gov/education/lessons/volstead-act",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Library of Congress - Prohibition Primary Sources",
+            "url": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/progressive-era-to-new-era-1900-1929/prohibition/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-180-public-health",
+      "reviewStatus": "flagship_rewrite",
+      "notes": "Flagship kart kamu sağlığı açısından güçlü ama tek bloktu; alkol tüketimi, denetimsiz ürün, metanol/denatüre alkol ve Repeal sonrası düzenleme mantığı başlıklarıyla 400+ kelimelik yapıya genişletildi.",
+      "fields": {
+        "subtitle": "Yasak, zehirli pazar ve zarar azaltma dersi",
+        "whatWeSee": "Boardwalk Empire, Prohibition'ı genellikle kaçakçılık, rüşvet ve şehir siyasetiyle anlatır; fakat bu dünyanın arkasında sert bir kamu sağlığı sorusu vardır. Dizi, güvenilmeyen içki, hastane/morg gerilimi ve yeraltı pazarının karanlık tarafını gösterdiğinde mesele yalnız suç olmaktan çıkar. Asıl soru şudur: Devlet bir ürünü yasakladığında risk gerçekten azalır mı, yoksa denetimsiz pazarda daha ölümcül hale mi gelir?",
+        "realHistory": "### Tüketim azaldı ama kaybolmadı\n\nProhibition'ın kamu sağlığı etkisi tek cümleyle özetlenemez. Bazı araştırmalar ve National Archives değerlendirmeleri, yasağın ilk döneminde alkol tüketiminin düştüğünü gösterir. Bu önemli bir noktadır: Prohibition tamamen etkisiz değildi. Fakat uzun vadede talep bütünüyle ortadan kalkmadı; fiyatlar, kaçak erişim, yerel tolerans ve sosyal alışkanlıklar yeni bir denge yarattı. Düzenlenmiş pazar kapandığında tüketici çoğu zaman daha güvenli ürüne değil, daha belirsiz ürüne yöneldi.\n\nBu tablo Boardwalk Empire'ın suç ekonomisini daha gerçekçi kılar. Dizide talep hep vardır; değişen şey, talebi kimin karşıladığıdır. Sağlık açısından kritik nokta da budur: içki içen kişinin davranışı devam ederken, ürün standardı ve denetim ortadan kalkarsa risk tüketicinin bedenine taşınır.\n\n### Denetimsiz ürün riski\n\nKamu sağlığı açısından en karanlık alan, kaçak içkinin içeriğiydi. Sahte viski, kötü damıtım, endüstriyel alkolün yeniden işlenmesi ve metanol karışımları körlük ve ölüm vakalarına yol açtı. Endüstriyel kullanım için denatüre edilen alkol, içilebilir olmaması için zehirli katkılar içeriyordu; kaçakçılar bu ürünü yeniden damıtmaya çalıştığında tüm toksinleri güvenilir biçimde ayıramıyordu. Bu yüzden Prohibition döneminde sağlık riski yalnız “fazla içmek” değil, ne içildiğini bilememekti.\n\nBu risk sınıfsal olarak da eşit dağılmadı. Daha pahalı ve güvenilir kaçak ürünlere erişebilenler ile ucuz, karışımı belirsiz içkiye yönelenler aynı tehlikeyle karşılaşmadı. Yoksul tüketiciler, kötü ürünün ve yetersiz sağlık erişiminin yükünü daha ağır taşıdı.\n\n### Devlet kapasitesi ve ters sonuç\n\nMutlak yasak, uygulama kapasitesi yetersiz olduğunda sağlık riskini başka yere taşır. Federal ajanlar ve yerel kolluk kuvvetleri her üretim noktasını, her speakeasy'yi ve her dağıtım kanalını denetleyemedi. Rüşvet ve siyasi koruma eklenince tüketici güvenliği daha da zayıfladı. Yasa, ürün standardını ve ruhsatlı satış kanalını kapattığında, kötü ürünün piyasadan ayıklanmasını da zorlaştırdı.\n\nBurada mesele yalnız “yasak iyi mi kötü mü?” sorusu değildir. Devletin ürün güvenliği, tedaviye erişim, bilgi verme ve yerel denetim kapasitesi yoksa, sert yasak çoğu zaman ölçülmesi zor bir gölge pazar yaratır. Bu gölge pazarda tüketici şikâyet edemez, ürün geri çağrılamaz, satış noktası kapatılamaz ve sağlık uyarısı düzenli biçimde iletilemez.\n\n### Repeal sonrası ders\n\n1933'te 21. Değişiklik ile Prohibition'ın kalkması, yalnız alkolün serbest bırakılması değildi. Lisanslama, vergi, ürün standardı, yaş sınırı, eyalet ve yerel satış kuralları yeniden kuruldu. Böylece politika mantığı bastırmadan düzenlemeye kaydı. Bu deneyim modern madde politikaları için hâlâ önemlidir: talebi süren bir ürünü tamamen yeraltına itmek, bazı tüketimi azaltabilir; ama ürün güvenliği, sağlık hizmetine erişim ve denetim kapasitesi yoksa toplam zararı artırabilir.\n\nBoardwalk Empire suç figürlerini öne çıkarır; tarihsel okuma, o suç ekonomisinin bedenlerde ve hastanelerde bıraktığı sağlık maliyetini de görünür kılar. Prohibition'ın kalıcı dersi, kamu sağlığı hedefinin yalnız yasak metniyle değil, uygulama kapasitesi, ürün güvenliği ve zarar azaltma araçlarıyla birlikte tasarlanması gerektiğidir.",
+        "accuracyNote": "Yasak döneminde tüketimin bazı dönemlerde düşmesi, kaçak ürün ve metanol/denatüre alkol kaynaklı zehirlenmeler ve 1933 sonrası düzenleme dönüşümü kaynaklarla desteklenir. Dizi bu sağlık boyutunu suç dramının içinde seçici biçimde gösterir.",
+        "whyInteresting": "Prohibition, iyi niyetli bir kamu sağlığı hedefinin denetimsiz pazar yaratınca nasıl yeni sağlık riskleri üretebildiğini gösteren güçlü bir tarih laboratuvarıdır.",
+        "misconception": "Prohibition'ın ya tamamen işe yaramadığı ya da otomatik olarak toplumu sağlıklı hale getirdiği sanılır. Gerçekte tüketim, ürün güvenliği, suç ekonomisi ve düzenleme kapasitesi birlikte değerlendirilmelidir.",
+        "relatedCardIds": [
+          "tf26-172-bootlegging",
+          "tf26-177-repeal",
+          "tf26-179-corruption"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "mediaConnection": "Boardwalk Empire'ın yeraltı içki ekonomisi, Prohibition'ın yalnız suç değil ürün güvenliği ve halk sağlığı krizi olarak da okunmasını sağlar.",
+        "mediaChanged": "Dizi dramatik odağı gangsterlere verir; tarihsel kaynaklar denetimsiz ürün, metanol zehirlenmeleri, tüketim davranışı ve Repeal sonrası düzenleyici devlet tartışmasını da merkeze alır.",
+        "whyItMatters": "Bugünkü bağımlılık, yasak ve zarar azaltma tartışmalarında da aynı soru geçerlidir: politika riski ortadan mı kaldırıyor, yoksa daha görünmez ve ölümcül hale mi getiriyor?",
+        "quickRealityCheck": "Alkol yasağı tüketimi azaltmaya çalışırken neden bazı içkileri daha tehlikeli hale getirdi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "National Archives - The Volstead Act",
+            "url": "https://www.archives.gov/education/lessons/volstead-act",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "American Journal of Public Health - Did Prohibition Really Work? Alcohol Prohibition as a Public Health Innovation",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1470475/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "The Mob Museum - Alcohol as Medicine and Poison",
+            "url": "https://prohibition.themobmuseum.org/the-history/the-prohibition-underworld/alcohol-as-medicine-and-poison/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "National Constitution Center - 21st Amendment: Repeal of Prohibition",
+            "url": "https://constitutioncenter.org/the-constitution/amendments/amendment-xxi",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-181-constitutional-role",
+      "reviewStatus": "rewrite",
+      "notes": "Genel gövde korunacak kadar sağlamdı ama kaynaklar başlıksızdı ve relatedCardIds legacy içeriyordu; güncel Kral dönemi resmi kaynaklarıyla constitutional monarchy anlatısı ve tarafsızlık sınırı netleştirildi.",
+      "fields": {
+        "subtitle": "İmza yetkisi, teamül sınırı",
+        "whatWeSee": "The Crown, hükümdarı karar alan bir yönetici gibi değil, kararların çevresindeki ritüel ve teamül diliyle gösterir. Başbakanla haftalık görüşmeler, devlet açılışları, atama törenleri ve krizlerdeki ulusa seslenişler, görünürde sembolik ama kamu algısı açısından etkili sahnelerdir. Dizi bu ilişkiyi kişisel duygu ve saray gerilimiyle büyütür; tarihsel gerçeklikte ise asıl ağırlık, hükümdarın ne yapabileceğinden çok ne yapmaması gerektiğini belirleyen teamüllerdedir.",
+        "realHistory": "Birleşik Krallık anayasal monarşisinde hükümdar “reign but does not rule” ilkesine yakın bir çerçevede konumlanır: devlet başkanıdır, fakat hükümet etme yetkisi seçilmiş hükümettedir. Hükümdar başbakanı resmen atar, Parlamento'yu açar, yasaları Royal Assent ile onaylar ve devletin sürekliliğini temsil eder. Ancak bu yetkiler modern dönemde büyük ölçüde bakan tavsiyesi, Parlamento çoğunluğu ve anayasal teamüller tarafından sınırlandırılır.\n\nBaşbakanla haftalık görüşmeler bu rolün en ilginç alanlarından biridir. Royal.uk, hükümdarın siyasi konularda tarafsız kaldığını; buna rağmen gerekli gördüğünde başbakana danışma, teşvik etme ve uyarma rolü taşıdığını belirtir. Bu görüşmeler gizlidir, kayıt yayımlanmaz ve kamuoyu çoğu zaman yalnız ilişkinin sembolik yüzünü görür. The Crown'un dramatik gücü de buradan gelir: görünmeyen görüşmeleri karakter çatışmasına çevirir.\n\nMonarşinin etkisi bu yüzden mutlak güç ile etkisiz dekor arasında bir yerde aranmalıdır. Kriz anlarında süreklilik, tarafsızlık ve ulusal birlik görüntüsü üretebilir; fakat bu sermaye, doğrudan parti siyasetine girildiği anda zayıflar. Modern medya çağında risk daha da büyümüştür. Her jest, fotoğraf, konuşma ve gecikme yorumlanır. The Crown bu duyguyu abartabilir, fakat anayasal soruyu doğru yakalar: yazılı olmayan kurallar güçlü kurumlar yaratabilir, ama aynı zamanda belirsizlik ve meşruiyet tartışması da üretir.",
+        "accuracyNote": "Hükümdarın başbakanı ataması, Parlamento açılışı, Royal Assent ve haftalık audience uygulaması kaynaklarla uyumludur. Dizide özel görüşmelerin duygu ve diyalog düzeyi dramatik olarak kurgulanır.",
+        "whyInteresting": "Anayasal monarşide en önemli güç bazen emir vermek değil, tarafsız kalmayı sürdürebilecek kadar geri durabilmektir.",
+        "misconception": "Monarşi ya mutlak siyasi güç ya da tamamen etkisiz dekor sanılır. Modern Britanya'da etkisi daha çok teamül, temsil ve krizlerde süreklilik üretme kapasitesindedir.",
+        "relatedCardIds": [
+          "tf26-183-commonwealth",
+          "tf26-184-royal-media",
+          "tf26-186-prime-ministers"
+        ],
+        "mediaConnection": "The Crown'daki saray-başbakan dinamiği, Britanya'nın yazılı olmayan teamüllerle çalışan anayasal monarşi düzeniyle birlikte okunmalıdır.",
+        "mediaChanged": "Dizi ilişki ve duygu boyutunu öne çıkarır; tarihsel düzende belirleyici olan, hükümdarın resmi yetkilerini teamül ve bakan tavsiyesiyle sınırlayan sessiz prosedürlerdir.",
+        "whyItMatters": "Modern demokrasilerde kurumların yalnız yazılı metinlerle değil, herkesin kabul ettiği davranış sınırlarıyla da ayakta durduğunu hatırlatır.",
+        "quickRealityCheck": "Anayasal monarşide gerçek güç imzada mı, yoksa o imzayı hangi teamüllerin sınırladığında mı?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Royal.uk - The role of the Monarchy",
+            "url": "https://www.royal.uk/the-role-of-the-monarchy",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Royal.uk - The Sovereign and the Prime Minister",
+            "url": "https://www.royal.uk/the-sovereign-and-the-prime-minister",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "UK Parliament - Parliament and Crown",
+            "url": "https://www.parliament.uk/about/how/role/relations-with-other-institutions/parliament-crown/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "UCL Constitution Unit - What is the role of the monarchy?",
+            "url": "https://www.ucl.ac.uk/social-historical-sciences/constitution-unit/constitution-unit-publications/constitution-unit-explainers/what-role-monarchy",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-183-commonwealth",
+      "reviewStatus": "rewrite",
+      "notes": "Generic subtitle ve legacy relatedCardIds temizlendi; Commonwealth kartı saray merkezli nostalji yerine dekolonizasyon, eşit üyelik iddiası, Head of Commonwealth sembolizmi ve sömürge mirası gerilimiyle yeniden kuruldu.",
+      "fields": {
+        "subtitle": "İmparatorluk sonrası ağ mı, eşit ortaklık mı?",
+        "whatWeSee": "The Crown'da Commonwealth çoğu zaman resmi ziyaretler, zirveler, protokol konuşmaları ve sarayın dış politika sahnesindeki görünürlüğü üzerinden anlatılır. Bu sahneler, Londra'nın artık doğrudan imparatorluk yönetmediği bir dönemde sembolik ağırlığını korumaya çalıştığını hissettirir. Dizi konuyu çoğu zaman Kraliçe'nin kişisel diplomasi becerisine bağlar; tarihsel gerçeklikte ise Commonwealth, dekolonizasyon sonrası eşitlik iddiası ile sömürge mirası arasındaki gerilimli bir ağdır.",
+        "realHistory": "Commonwealth, Britanya İmparatorluğu'nun çözülmesiyle ortaya çıkan gevşek ama siyasi açıdan önemli bir çok devletli çerçevedir. 1949 London Declaration, cumhuriyet olan üyelerin de Commonwealth içinde kalabilmesinin önünü açarak yapının imparatorluk bağlılığından daha esnek bir ortaklığa dönüşmesini sağladı. Bugün Commonwealth, farklı kıtalardan, farklı anayasal sistemlere sahip ülkeleri bir araya getirir; üye devletler teorik olarak eşit söz hakkına sahiptir.\n\nBu eşitlik iddiası tarihsel yükten bağımsız değildir. Birçok üye ülke, Britanya sömürge yönetiminden bağımsızlık kazandıktan sonra bu ağda kaldı. Ortak dil, hukuk geleneği, eğitim bağlantıları, spor diplomatisi ve kalkınma programları pratik bağlar kurdu. Fakat Güney Afrika apartheid tartışmaları, Rhodesia krizi, göç politikaları ve güncel tazminat/kolonyal hafıza tartışmaları, Commonwealth'in yalnız dostane bir kulüp olmadığını gösterdi. Eski imparatorluk merkeziyle eski sömürgeler arasında sembolik eşitlik ile tarihsel asimetri sürekli pazarlık halindedir.\n\nMonarşinin rolü de burada önemlidir. Hükümdar Commonwealth ülkelerinin tamamının devlet başkanı değildir; bazıları cumhuriyettir. Buna rağmen üye ülkeler King Charles'ı Head of the Commonwealth olarak tanır. Bu rol hukuki egemenlikten çok sembolik süreklilik ve diplomatik görünürlük üretir. The Crown saray perspektifini öne çıkarır; dengeli tarih okuması ise üye devletlerin kendi ajandasını, dekolonizasyon mirasını ve ortaklığın eşitlik sınavını da merkeze almalıdır.",
+        "accuracyNote": "Commonwealth'in dekolonizasyon sonrası dönüşümü, Head of the Commonwealth rolü ve üye devlet eşitliği kaynaklarla uyumludur. Dizi protokol ve saray perspektifini doğal olarak öne çıkarır.",
+        "whyInteresting": "Commonwealth, imparatorluk sonrası Britanya etkisinin askeri ya da doğrudan yönetim yerine ağ, ritüel ve diplomasiyle nasıl sürdüğünü gösterir.",
+        "misconception": "Commonwealth'in Britanya'nın doğrudan kontrol ettiği gizli bir imparatorluk devamı olduğu sanılır. Daha doğru okuma, eşitlik iddiası taşıyan ama sömürge mirasıyla gerilimli bir siyasi ağ olduğudur.",
+        "relatedCardIds": [
+          "tf26-181-constitutional-role",
+          "tf26-184-royal-media",
+          "tf26-186-prime-ministers"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "mediaConnection": "The Crown'daki devlet ziyaretleri ve zirveler, dekolonizasyon sonrası Commonwealth'in sembolik liderlik ve siyasi ağ işleviyle ilişkilidir.",
+        "mediaChanged": "Dizi Commonwealth'i saray merkezli diplomasiyle anlatır; tarihsel gerçeklikte üye devletlerin iç politikaları, sömürge mirası ve eşitlik iddiasının sınırları daha belirleyicidir.",
+        "whyItMatters": "İmparatorluk sonrası gücün yalnız askerî veya ekonomik kapasiteyle değil, ağ kurma, ritüel ve sembolik meşruiyet üzerinden de sürdürülebileceğini gösterir.",
+        "quickRealityCheck": "Commonwealth, Britanya'nın imparatorluğu sürdürmesi mi, yoksa eski imparatorluk ilişkilerini daha gevşek ve eşitlik iddialı bir ağa dönüştürmesi mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Commonwealth Secretariat - About us",
+            "url": "https://thecommonwealth.org/about-us",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Commonwealth Secretariat - Member countries",
+            "url": "https://thecommonwealth.org/our-member-countries",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "UK Parliament - Contemporary context: Commonwealth of Nations",
+            "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/contemporary-context/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Royal.uk - The Commonwealth",
+            "url": "https://www.royal.uk/the-commonwealth",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

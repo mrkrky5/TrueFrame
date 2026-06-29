@@ -1,0 +1,1930 @@
+{
+  "locale": "tr",
+  "sourceFile": "data/cards.tr.json",
+  "totalCards": 367,
+  "totalChunks": 82,
+  "chunkSizeTarget": 8,
+  "chunks": [
+    {
+      "file": "tr-chunk-001.json",
+      "cardCount": 4,
+      "ids": [
+        "ac-origins-siwa",
+        "ac-odyssey-athens",
+        "kcd-bohemia",
+        "ghost-tsushima-invasion"
+      ],
+      "titles": [
+        "Siwa Amun Kahini",
+        "Renkli Atina",
+        "Kuttenberg Gümüşü",
+        "Tsushima İstilası (1274)"
+      ],
+      "isFlagship": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "file": "tr-chunk-002.json",
+      "cardCount": 4,
+      "ids": [
+        "rdr2-frontier",
+        "chernobyl-disaster",
+        "oppenheimer-trinity",
+        "gladiator-colosseum"
+      ],
+      "titles": [
+        "Sınırın Kapanışı",
+        "4 Numaralı Reaktör",
+        "Trinity Deneyi",
+        "Arenanın Gerçeği"
+      ],
+      "isFlagship": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "file": "tr-chunk-003.json",
+      "cardCount": 5,
+      "ids": [
+        "vikings-raid",
+        "shogun-edo",
+        "ac2-davinci-tank",
+        "bf1-harlem-hellfighters",
+        "shogun2-shinobi"
+      ],
+      "titles": [
+        "Lindisfarne Baskını (793)",
+        "Sekigahara'dan Barışa",
+        "Da Vinci'nin Tankı",
+        "Harlem Cehennem Savaşçıları",
+        "Gerçek Shinobi"
+      ],
+      "isFlagship": [
+        true,
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-004.json",
+      "cardCount": 6,
+      "ids": [
+        "ghost-onna-musha",
+        "napoleon-height",
+        "prestige-currents",
+        "got-roses",
+        "1917-trenches",
+        "ryan-higgins-boats"
+      ],
+      "titles": [
+        "Samuray Kadınlar",
+        "Napolyon’un Boyu",
+        "Akımlar Savaşı",
+        "Güllerin Savaşı",
+        "Siper Hayatı",
+        "Higgins Botları"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "file": "tr-chunk-005.json",
+      "cardCount": 4,
+      "ids": [
+        "last-kingdom-danelaw",
+        "viking-horned-helmet",
+        "iron-maiden-myth",
+        "medieval-hygiene"
+      ],
+      "titles": [
+        "Danelaw",
+        "Boynuzlu Miğfer Miti",
+        "Demir Bakire",
+        "Orta Çağ'da Temizlik"
+      ],
+      "isFlagship": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-006.json",
+      "cardCount": 4,
+      "ids": [
+        "london-fire-plague",
+        "roman-fast-food",
+        "ac-unity-revolution",
+        "ac-mirage-baghdad"
+      ],
+      "titles": [
+        "Yangın ve Veba",
+        "Antik Roma’da Fast Food",
+        "Fransız Devrimi ve Ekmek İsyanları",
+        "Bilgeliğin Evi: Abbasi Bağdat’ı"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "file": "tr-chunk-007.json",
+      "cardCount": 4,
+      "ids": [
+        "ac-valhalla-vikings",
+        "napoleon-myth-reality",
+        "medieval-lifespan-myth",
+        "pentiment-printing-press"
+      ],
+      "titles": [
+        "İngiltere’de Viking Yerleşimleri",
+        "Napolyon: Mit vs. Siyasi Gerçeklik",
+        "Orta Çağ’da Yaşam Süresi Yanılgısı",
+        "Matbaanın Devrimi ve Okuryazarlık"
+      ],
+      "isFlagship": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-008.json",
+      "cardCount": 4,
+      "ids": [
+        "lanoire-policing",
+        "mafia-prohibition",
+        "valiant-hearts-wwi",
+        "civ-linear-history"
+      ],
+      "titles": [
+        "1940’lar Los Angeles’ı ve Polis Yolsuzluğu",
+        "İçki Yasağı ve Mafyanın Yükselişi",
+        "Birinci Dünya Savaşı ve Sivil Hayat",
+        "Tarih Gerçekten Doğrusal Bir İlerleme mi?"
+      ],
+      "isFlagship": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-009.json",
+      "cardCount": 4,
+      "ids": [
+        "kcd2-medieval-law",
+        "last-samurai-rebellion",
+        "band-of-brothers-airborne",
+        "the-terror-arctic"
+      ],
+      "titles": [
+        "Orta Çağ Şehir Kanunları ve Adalet",
+        "Son Samuray ve Satsuma İsyanı",
+        "Easy Bölüğü ve Bastogne Kuşatması",
+        "Franklin’in Kayıp Seferi ve Kuzey Kutbu"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        true,
+        true
+      ]
+    },
+    {
+      "file": "tr-chunk-010.json",
+      "cardCount": 5,
+      "ids": [
+        "kingdom-of-heaven-crusades",
+        "rome-series-spectacle",
+        "the-crown-monarchy",
+        "pirate-maps-myth",
+        "nero-fiddling-myth"
+      ],
+      "titles": [
+        "Haçlı Seferleri: Kudüs’ün Düşüşü",
+        "Ekmek ve Sirk: Roma’da Halkı Eğlemek",
+        "Modern Monarşi ve Siyasi Sembolizm",
+        "Korsan Haritaları ve Gömülü Hazineler",
+        "Nero ve Roma Yangını"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-011.json",
+      "cardCount": 6,
+      "ids": [
+        "spartan-war-machines-myth",
+        "witch-hunts-period",
+        "ancient-roman-day",
+        "medieval-night-life",
+        "ancient-city-smells",
+        "rome2-legions"
+      ],
+      "titles": [
+        "Spartalılar Sadece Savaş Makinesi miydi?",
+        "Cadı Avları Orta Çağ’da mıydı?",
+        "Bir Roma Vatandaşının Sıradan Günü",
+        "Orta Çağ’da Gece Hayatı ve İki Uykulu Düzen",
+        "Antik Şehirler Gerçekten Nasıl Kokuyordu?",
+        "Roma Lejyonları ve Askeri Disiplin"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-012.json",
+      "cardCount": 4,
+      "ids": [
+        "tsushima-samurai-power",
+        "mongol-efficiency-yam",
+        "ottoman-gunpowder-1453",
+        "flat-earth-myth-medieval"
+      ],
+      "titles": [
+        "Samuray Gücü: Düellonun Ötesi",
+        "Moğol İmparatorluğu ve Hızın Sırrı",
+        "Osmanlı Barutu ve İstanbul’un Fethi",
+        "Orta Çağ’da Dünya Düz mü Sanılıyordu?"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-013.json",
+      "cardCount": 6,
+      "ids": [
+        "ottoman-harem-reality",
+        "three-kingdoms-legend",
+        "house-wisdom-baghdad",
+        "persian-empire-admin",
+        "mongol-horse-archery",
+        "empire-collapse-speed"
+      ],
+      "titles": [
+        "Harem: Gerçek ve Fantezi",
+        "Üç Krallık: Tarih vs. Efsane",
+        "Abbasi Bağdat’ı ve Bilgelik Evi",
+        "Pers İmparatorlukları: Bürokrasi ve Yönetim",
+        "Moğol Atlı Okçuluğu ve Taktik Dehası",
+        "İmparatorluklar Neden Çöker?"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-014.json",
+      "cardCount": 5,
+      "ids": [
+        "sengoku-japan-hostage",
+        "shogun-trade-sakoku",
+        "cold-war-proxy-wars",
+        "utopia-political-history",
+        "last-emperor-china-fall"
+      ],
+      "titles": [
+        "Daimyo Siyaseti ve Rehin Kültürü",
+        "Sakoku: Kapalı Ülke ve Kontrollü Ticaret",
+        "Vekalet Savaşları: Neden Doğrudan Savaşmadılar?",
+        "Ütopya Projeleri ve Gerçek Siyaset",
+        "Son İmparator ve Çin’in Dönüşümü"
+      ],
+      "isFlagship": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-015.json",
+      "cardCount": 5,
+      "ids": [
+        "marco-polo-court",
+        "crusader-states-daily",
+        "early-islamic-expansion",
+        "chernobyl-secrecy",
+        "mongols-culture-exchange"
+      ],
+      "titles": [
+        "Marco Polo ve Kubilay Han’ın Sarayı",
+        "Kutsal Topraklarda Günlük Yaşam",
+        "Erken İslam Fetihleri ve Siyasi Vakum",
+        "Çernobil: Bilgi ve Devlet İmajı",
+        "Pax Mongolica ve Kültürel Değişim"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-016.json",
+      "cardCount": 7,
+      "ids": [
+        "ottoman-beyond-war",
+        "mesopotamia-legacy",
+        "baghdad-daily-life-new",
+        "ottoman-diet-culture",
+        "silk-road-travel-new",
+        "medieval-japan-daily-life",
+        "mesopotamian-markets-new"
+      ],
+      "titles": [
+        "Osmanlı: Savaşın Ötesinde Bir Medeniyet",
+        "Mezopotamya: Uygarlığın Beşiğinin Mirası",
+        "Altın Çağ’da Bağdat’ta Bir Gün",
+        "Osmanlı Mutfağı ve Yemek Kültürü",
+        "İpek Yolu’nda Yolculuk ve Kervansaraylar",
+        "Feodal Japonya’da Sıradan Bir Gün",
+        "Mezopotamya Pazarları ve İlk Bankacılık"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-017.json",
+      "cardCount": 6,
+      "ids": [
+        "constantinople-fall-turning-new",
+        "silk-road-network-turning",
+        "onna-musha-samurai-women",
+        "ac-brotherhood-rome",
+        "ac-revelations-istanbul",
+        "ac-syndicate-london"
+      ],
+      "titles": [
+        "1453: Bir Çağın Kapanışının Küresel Etkisi",
+        "İpek Yolu: Bir Yol Değil, Bir Ağ",
+        "Onna-musha: Savaşçı Samuray Kadınlar",
+        "Rönesans Roma’sı ve Papalık Siyaseti",
+        "Osmanlı İstanbul’u ve İstihbarat Ağları",
+        "Viktorya Londra’sı ve Sınıf Çatışması"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "file": "tr-chunk-018.json",
+      "cardCount": 6,
+      "ids": [
+        "ac-valhalla-settlement",
+        "total-war-attila-collapse",
+        "aoe4-mongol-logistics",
+        "aoe2-castles-politics",
+        "rdr-railroads-frontier",
+        "kcd-medieval-crime"
+      ],
+      "titles": [
+        "Viking Yerleşimleri ve Kültürel Kaynaşma",
+        "Roma’nın Çöküşü: Bir Süreç Olarak Yıkım",
+        "Moğol Lojistiği ve Hızlı Haberleşme",
+        "Kalerler: Sadece Savunma Değil, Siyasi Güç",
+        "Demiryolları ve Yerel Özgürlüğün Sonu",
+        "Orta Çağ’da Suç, Hukuk ve Cezalandırma"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-019.json",
+      "cardCount": 7,
+      "ids": [
+        "total-war-three-kingdoms-warlords",
+        "lanoire-postwar-trauma",
+        "rome-patronage-mobs",
+        "gladiator-political-theater",
+        "shogun-hostage-politics",
+        "last-kingdom-alfred-england",
+        "chernobyl-bureaucracy-truth"
+      ],
+      "titles": [
+        "Üç Krallık: Savaş Beyleri ve Meşruiyet",
+        "Savaş Sonrası Travma ve Polislik Kültürü",
+        "Roma’da Himaye Sistemi ve Halkın Gücü",
+        "Gladyatör Oyunları: Bir Siyasi Tiyatro",
+        "Rehineler ve Sadakat: Feodal Japonya’da Güç Dengesi",
+        "Büyük Alfred ve Birleşik İngiltere Hayali",
+        "Bürokrasi ve Felaket: Çernobil’in Gerçek Yüzü"
+      ],
+      "isFlagship": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-020.json",
+      "cardCount": 6,
+      "ids": [
+        "band-of-brothers-heroism",
+        "oppenheimer-science-state",
+        "medieval-magic-vs-reason",
+        "vikings-not-only-raiders",
+        "pirates-democracy-myth",
+        "samurai-loyalty-myth"
+      ],
+      "titles": [
+        "Siperlerdeki Gerçek: Kahramanlık ve Savaş Yorgunluğu",
+        "Bilim ve Devlet: Atom Çağının Doğuşu",
+        "Orta Çağ: Batıl İnanç mı, Mantık mı?",
+        "Vikingler: Sadece Yağmacı mı, Yoksa Küresel Tüccar mı?",
+        "Korsanlar ve Demokrasi: Denizin Kanunsuz Kanunları",
+        "Samuray Onuru: Sadakat mi, Pragmatizm mi?"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-021.json",
+      "cardCount": 6,
+      "ids": [
+        "harem-pleasure-myth",
+        "wild-west-gunfights-myth",
+        "ancient-travel-myth",
+        "medieval-city-diet",
+        "pre-news-news",
+        "pre-clock-time"
+      ],
+      "titles": [
+        "Osmanlı Haremi: Bir Saray Okulu ve Siyasi Merkez",
+        "Vahşi Batı: Düellolar mı, Yoksa Silah Kontrolü mü?",
+        "Antik Dünyada Hareketlilik: Kimse Evinden Çıkmıyor muydu?",
+        "Orta Çağ Şehirlerinde Sofra: Sadece Ekmek mi?",
+        "Haberin Yolculuğu: Gazetelerden Önce Haber Nasıl Yayılırdı?",
+        "Zamanın Ruhu: Saatlerden Önce Zaman Nasıl Yaşanırdı?"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-022.json",
+      "cardCount": 4,
+      "ids": [
+        "black-death-labor-shift",
+        "printing-press-authority",
+        "ottoman-bazaar-shopping",
+        "industrial-rev-daily-life"
+      ],
+      "titles": [
+        "Kara Ölüm: Felaketten Doğan Sosyal Devrim",
+        "Matbaa: Bilginin ve Otoritenin Sarsılışı",
+        "Osmanlı Çarşısı: Bir Sosyal Müzakere Alanı",
+        "Sanayi Devrimi: Fabrikalar ve Evin Dönüşümü"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-023.json",
+      "cardCount": 5,
+      "ids": [
+        "cold-war-fear-system",
+        "decolonization-complexity",
+        "mafia-immigration-crime",
+        "roman-empire-stability-myth",
+        "medieval-road-travel"
+      ],
+      "titles": [
+        "Soğuk Savaş: Küresel Korku ve Casusluk Sistemi",
+        "Dekolonizasyon: İmparatorlukların Sonu mu?",
+        "Mafya: Göç, Yoksulluk ve Organizasyon",
+        "Roma Barışı: Pax Romana Gerçekten Huzurlu muydu?",
+        "Orta Çağ Yollarında Seyahat: Bir Macera mı, Kabus mu?"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-024.json",
+      "cardCount": 6,
+      "ids": [
+        "civ-great-leaders-simplification",
+        "last-emperor-court-ritual",
+        "crown-monarchy-symbol",
+        "ancient-childhood",
+        "night-fears-pre-lighting",
+        "crusaders-poverty-myth"
+      ],
+      "titles": [
+        "Büyük Liderler Teorisi ve Tarihin Sadeleştirilmesi",
+        "Yasak Şehir: Ritüelin Boşluğu",
+        "Modern Dünyada Monarşi: Bir Sembolün Gücü",
+        "Antik ve Orta Çağ’da Çocukluk: Sadece \"Küçük Yetişkinler\" mi?",
+        "Karanlığın Hakimiyeti: Aydınlanma Öncesi Gece Korkusu",
+        "Haçlı Seferleri: İnanç mı, Yoksa Ekonomik Bunalım mı?"
+      ],
+      "isFlagship": [
+        false,
+        true,
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-025.json",
+      "cardCount": 6,
+      "ids": [
+        "ancient-gods-explanation",
+        "medieval-monastery-science",
+        "modern-propaganda-origins",
+        "roman-entertainment-ordinary",
+        "pre-modern-hospitals",
+        "gladiator-bread-circuses"
+      ],
+      "titles": [
+        "Tanrılar ve Doğa: Antik İnancın Mantığı",
+        "Manastırlar: Bilimin Bekçileri",
+        "Propagandanın Doğuşu: Kitleleri Yönetme Sanatı",
+        "Roma da Eğlence: Kolezyum Dışında Ne Vardı?",
+        "Antik Hastaneler: Şifa mı, Yoksa Dua mı?",
+        "Ekmek ve Oyunlar: Halkı Nasıl Uyutursunuz?"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-026.json",
+      "cardCount": 6,
+      "ids": [
+        "medieval-knights-reality",
+        "ac-assassin-order-real",
+        "rdr-pinkerton-agency",
+        "shogun-christian-daimyo",
+        "ghost-mongol-navy",
+        "mafia-prohibition-economics"
+      ],
+      "titles": [
+        "Şövalyelik: Onur mu, Yoksa Askeri Bürokrasi mi?",
+        "Gerçek Haşhaşiler: Alamut’un Fedaileri",
+        "Pinkerton Ajansı: Şirketlerin Özel Ordusu",
+        "Hristiyan Samuraylar ve Misyoner Gerilimi",
+        "Moğol Donanması ve İlahi Rüzgarlar",
+        "İçki Yasağı ve Mafyanın Altın Çağı"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-027.json",
+      "cardCount": 5,
+      "ids": [
+        "ac-crusader-urban-life",
+        "rdr-railroad-conquest",
+        "shogun-sankin-kotai",
+        "mafia-five-families",
+        "ac-templar-fall"
+      ],
+      "titles": [
+        "Haçlı Kentlerinde Yaşam: Akka ve Kudüs",
+        "Demiryolları ve Vahşi Batı'nın Sonu",
+        "Sankin-kotai: Rehineler ve Refah",
+        "Beş Aile: New York’un Gizli Sahipleri",
+        "Tapınak Şövalyeleri: Yükselişten İnfaza"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-028.json",
+      "cardCount": 5,
+      "ids": [
+        "ghost-samurai-reality",
+        "kcd-medieval-diet",
+        "oppenheimer-trinity-reality",
+        "chernobyl-biorobots-cost",
+        "gladiator-commodus-real"
+      ],
+      "titles": [
+        "Samuray Gerçekliği: Onur mu, Pragmatizm mi?",
+        "Orta Çağ’da Ne Yenirdi? (Bohemya 1403)",
+        "Trinity: İlk Ateşin Lojistiği",
+        "Çernobil’in Biyo-robotları",
+        "Gladyatör İmparator: Commodus"
+      ],
+      "isFlagship": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-029.json",
+      "cardCount": 4,
+      "ids": [
+        "got-war-of-roses-real",
+        "shogun-tokugawa-rise-real",
+        "napoleon-egypt-propaganda",
+        "300-persian-immortals-real"
+      ],
+      "titles": [
+        "Güllerin Savaşı: Westeros’un Gerçek İlhamı",
+        "Tokugawa’nın Doğuşu: Toranaga’nın Gerçek Dehası",
+        "Mısır Seferi ve Propaganda",
+        "Gerçek Ölümsüzler vs. Maskeli Canavarlar"
+      ],
+      "isFlagship": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-030.json",
+      "cardCount": 5,
+      "ids": [
+        "oppenheimer-los-alamos-culture",
+        "gladiator-arena-economics",
+        "chernobyl-rbmk-flaw",
+        "crown-tv-coronation-1953",
+        "vikings-silk-road-trade"
+      ],
+      "titles": [
+        "Los Alamos: Sırlarla Yaşamak",
+        "Kolezyum Ekonomisi ve 'Ekmek ve Oyunlar'",
+        "RBMK Tasarımı: Gizlenen Mühendislik Hatası",
+        "1953 Taç Giyme Töreni ve TV Devrimi",
+        "Vikingler ve İpek Yolu: Savaşçıdan Tüccara"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-031.json",
+      "cardCount": 5,
+      "ids": [
+        "last-kingdom-alfred-dream",
+        "saving-private-ryan-omaha",
+        "napoleon-code-legacy-real",
+        "300-hoplite-phalanx-real",
+        "oppenheimer-rad-downwinders"
+      ],
+      "titles": [
+        "Kral Alfred’in Rüyası: Birleşik İngiltere",
+        "Omaha Plajı: 20 Dakika vs. Gerçeklik",
+        "Napolyon Kanunları: Modern Dünyanın Kodu",
+        "Hoplit Falanksı: Çelikten Duvar",
+        "Downwinders: Trinity'nin Görünmez Kurbanları"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-032.json",
+      "cardCount": 4,
+      "ids": [
+        "gladiator-female-gladiatrix",
+        "chernobyl-pripyat-delay",
+        "crown-commonwealth-empire",
+        "napoleon-waterloo-masterclass"
+      ],
+      "titles": [
+        "Gladiatrix: Arenanın Gizli Savaşçıları",
+        "Pripyat: 36 Saatlik Sessizlik",
+        "İmparatorluktan İngiliz Milletler Topluluğu’na",
+        "Waterloo: Napolyon’un Son Şarkısı"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "file": "tr-chunk-033.json",
+      "cardCount": 7,
+      "ids": [
+        "300-thermopylae-masterclass",
+        "1917-trench-comms-real",
+        "valiant-hearts-war-dogs-real",
+        "pentiment-printing-press-clash",
+        "the-terror-franklin-canning",
+        "last-emperor-manchukuo-propaganda",
+        "1917-no-mans-land-reality"
+      ],
+      "titles": [
+        "Thermopylai: Termopil’in Gerçek 300’ü",
+        "Siperlerde İletişim: Koşucular ve Gecikmeler",
+        "Merhamet Köpekleri: Sanitätshunde",
+        "Matbaa vs. El Yazması: Bir Çağın Kırılışı",
+        "Franklin Seferi ve Konserve Felaketi",
+        "Mançukuo: Bir Propaganda Devleti",
+        "No Man's Land: Gerçek Bir Kabus"
+      ],
+      "isFlagship": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-034.json",
+      "cardCount": 4,
+      "ids": [
+        "1917-siper-savasi-flagship",
+        "the-terror-arctic-tragedy-flagship",
+        "band-of-brothers-hedgerows-real",
+        "saving-private-ryan-higgins-boat"
+      ],
+      "titles": [
+        "Siper Savaşı: Batı Cephesi’nin Statik Cehennemi",
+        "Franklin Seferi: Buzun İçindeki Kayıp İmparatorluk",
+        "Hedgerow Savaşı: Normandiya’nın Bitmez Labirenti",
+        "Higgins Boat: Normandiya’yı Kazanan Araç"
+      ],
+      "isFlagship": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-035.json",
+      "cardCount": 4,
+      "ids": [
+        "got-battle-of-bastards-hastings-real",
+        "vikings-funeral-fadlan-real",
+        "the-crown-aberfan-tragedy-real",
+        "the-crown-suez-crisis-empire-end"
+      ],
+      "titles": [
+        "Piçler Savaşı ve 1066 Hastings",
+        "Viking Cenazeleri ve İbn Fadlan",
+        "Aberfan Felaketi ve Kraliçe'nin Pişmanlığı",
+        "Süveyş Krizi: İmparatorluğun Tabutu"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        true,
+        true
+      ]
+    },
+    {
+      "file": "tr-chunk-036.json",
+      "cardCount": 4,
+      "ids": [
+        "civ-alphabet-revolution-real",
+        "total-war-siege-starvation-real",
+        "mafia-rico-law-impact-real",
+        "oppenheimer-gray-board-1954-real"
+      ],
+      "titles": [
+        "Alfabe: Tarihin En Büyük 'Teknolojisi'",
+        "Kuşatma Gerçeği: Açlık ve Hastalık",
+        "RICO Yasası: Mafyayı Bitiren Formül",
+        "1954 Güvenlik Soruşturması: Oppenheimer’ın Düşüşü"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-037.json",
+      "cardCount": 4,
+      "ids": [
+        "napoleon-painting-image-propaganda-real",
+        "300-spartan-women-rights-real",
+        "gladiator-spartacus-legacy-real",
+        "1917-gas-masks-evolution-real"
+      ],
+      "titles": [
+        "Napolyon'un İmajı: At mı, Katır mı?",
+        "Spartalı Kadınlar: Antik Dünyanın En Özgürleri",
+        "Spartaküs: Bir Köle İsyanının Gerçeği",
+        "Gaz Maskeleri: Kimyasal Ölüme Karşı Yarış"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-038.json",
+      "cardCount": 5,
+      "ids": [
+        "last-emperor-forbidden-city-eunuchs-real",
+        "civ-great-library-alexandria-real",
+        "total-war-medieval-diplomacy-real",
+        "saving-private-ryan-snipers-reality",
+        "tf26-001-alexandria-library"
+      ],
+      "titles": [
+        "Yasak Şehir: Hadımlar ve İktidar",
+        "İskenderiye Kütüphanesi: Bilginin Kaybı mı?",
+        "Orta Çağ Diplomasisi: Evlilik ve Kan",
+        "Keskin Nişancı Gerçeği vs. Er Ryan",
+        "İskenderiye Kütüphanesi"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-039.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-002-nile-floods",
+        "tf26-003-mummification",
+        "tf26-004-scribes",
+        "tf26-005-cleopatra-politics"
+      ],
+      "titles": [
+        "Nil Taşkınları",
+        "Mumyalama Gerçeği",
+        "Yazıcıların Gücü",
+        "Kleopatra'nın Siyaseti"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-040.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-006-animal-cults",
+        "tf26-007-pyramids-labor",
+        "tf26-008-temple-economy",
+        "tf26-009-desert-routes"
+      ],
+      "titles": [
+        "Hayvan Kültleri",
+        "Piramit İşçileri",
+        "Tapınak Ekonomisi",
+        "Çöl Yolları"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-041.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-010-afterlife",
+        "tf26-011-arena-politics",
+        "tf26-013-legion-discipline",
+        "tf26-014-citizenship"
+      ],
+      "titles": [
+        "Ölümden Sonra Yaşam",
+        "Arena ve Siyaset",
+        "Lejyon Disiplini",
+        "Roma Yurttaşlığı"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-042.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-015-roads",
+        "tf26-018-provincial-life",
+        "tf26-019-colosseum-labor",
+        "tf26-020-fall-myth"
+      ],
+      "titles": [
+        "Roma Yolları",
+        "Eyaletlerde Yaşam",
+        "Kolezyumun Bedeli",
+        "Roma'nın Çöküş Efsanesi"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "file": "tr-chunk-043.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-021-athenian-democracy",
+        "tf26-022-sparta-childhood",
+        "tf26-023-peloponnesian-war",
+        "tf26-024-oracle-delphi"
+      ],
+      "titles": [
+        "Atina Demokrasisi",
+        "Sparta Eğitimi",
+        "Peloponez Savaşı",
+        "Delphi Kehaneti"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "file": "tr-chunk-044.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-025-olympic-games",
+        "tf26-026-triremes",
+        "tf26-027-slavery",
+        "tf26-028-theatre"
+      ],
+      "titles": [
+        "Antik Olimpiyatlar",
+        "Trirem Savaşları",
+        "Yunan Köleliği",
+        "Tiyatro ve Polis"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "file": "tr-chunk-045.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-029-myth-history",
+        "tf26-030-persian-wars",
+        "tf26-031-longships",
+        "tf26-032-raids-trade"
+      ],
+      "titles": [
+        "Mit ve Tarih",
+        "Pers Savaşları",
+        "Uzun Gemiler",
+        "Yağma ve Ticaret"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "file": "tr-chunk-046.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-033-runes",
+        "tf26-034-norse-religion",
+        "tf26-035-danelaw",
+        "tf26-036-vinland"
+      ],
+      "titles": [
+        "Rün Yazıları",
+        "Nors İnancı",
+        "Danelaw Düzeni",
+        "Vinland Yolculuğu"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "file": "tr-chunk-047.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-037-shieldmaidens",
+        "tf26-039-christianization",
+        "tf26-040-stamford-bridge",
+        "tf26-042-burhs"
+      ],
+      "titles": [
+        "Kalkanlı Kadınlar",
+        "Hristiyanlaşma",
+        "Stamford Bridge",
+        "Burh Savunmaları"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-048.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-043-wessex",
+        "tf26-044-danish-settlement",
+        "tf26-045-law-codes",
+        "tf26-046-monasteries"
+      ],
+      "titles": [
+        "Wessex'in Yükselişi",
+        "Dan Yerleşimleri",
+        "Kanun Metinleri",
+        "Manastır Dünyası"
+      ],
+      "isFlagship": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-049.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-047-shield-wall",
+        "tf26-048-names-identity",
+        "tf26-049-norman-conquest",
+        "tf26-050-bayeux-tapestry"
+      ],
+      "titles": [
+        "Kalkan Duvarı",
+        "İsim ve Kimlik",
+        "Norman Fethi",
+        "Bayeux Halısı"
+      ],
+      "isFlagship": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-050.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-052-kamikaze",
+        "tf26-055-archery",
+        "tf26-056-island-defense",
+        "tf26-058-peasants-war"
+      ],
+      "titles": [
+        "Kamikaze Rüzgarı",
+        "Atlı Okçuluk",
+        "Ada Savunması",
+        "Köylüler ve Savaş"
+      ],
+      "isFlagship": [
+        true,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-051.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-059-shrine-culture",
+        "tf26-060-clan-loyalty",
+        "tf26-061-daimyo-politics",
+        "tf26-062-foreign-pilots"
+      ],
+      "titles": [
+        "Tapınak Kültürü",
+        "Klan Sadakati",
+        "Daimyo Siyaseti",
+        "Yabancı Denizciler"
+      ],
+      "isFlagship": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-052.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-063-jesuit-missions",
+        "tf26-064-hostage-system",
+        "tf26-065-tea-ceremony",
+        "tf26-066-castle-towns"
+      ],
+      "titles": [
+        "Cizvit Misyonları",
+        "Rehine Düzeni",
+        "Çay Töreni",
+        "Kale Şehirleri"
+      ],
+      "isFlagship": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-053.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-067-seppuku",
+        "tf26-068-port-trade",
+        "tf26-069-sekigahara",
+        "tf26-070-edo-peace"
+      ],
+      "titles": [
+        "Seppuku Gerçeği",
+        "Liman Ticareti",
+        "Sekigahara Sonrası",
+        "Edo Barışı"
+      ],
+      "isFlagship": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-054.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-071-village-life",
+        "tf26-072-guilds",
+        "tf26-073-noble-duty",
+        "tf26-074-church-calendar"
+      ],
+      "titles": [
+        "Köy Hayatı",
+        "Lonca Düzeni",
+        "Soylu Yükümlülüğü",
+        "Kilise Takvimi"
+      ],
+      "isFlagship": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-055.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-075-armor-cost",
+        "tf26-076-markets",
+        "tf26-079-sieges",
+        "tf26-080-literacy"
+      ],
+      "titles": [
+        "Zırhın Bedeli",
+        "Pazarlar",
+        "Kuşatma Gerçeği",
+        "Okuryazarlık"
+      ],
+      "isFlagship": [
+        false,
+        true,
+        false,
+        true
+      ]
+    },
+    {
+      "file": "tr-chunk-056.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-081-privateers",
+        "tf26-082-blackbeard",
+        "tf26-083-pirate-code",
+        "tf26-084-treasure-myth"
+      ],
+      "titles": [
+        "Privateer Gerçeği",
+        "Karasakal Efsanesi",
+        "Korsan Kuralları",
+        "Gömülü Hazine"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "file": "tr-chunk-057.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-085-port-royal",
+        "tf26-086-women-pirates",
+        "tf26-087-naval-punishment",
+        "tf26-088-maps-navigation"
+      ],
+      "titles": [
+        "Port Royal",
+        "Kadın Korsanlar",
+        "Deniz Cezaları",
+        "Harita ve Seyir"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "file": "tr-chunk-058.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-089-enslaved-labor",
+        "tf26-090-pirate-democracy",
+        "tf26-091-bastille",
+        "tf26-093-estates-general"
+      ],
+      "titles": [
+        "Köle Emeği",
+        "Korsan Demokrasisi",
+        "Bastille Günü",
+        "Etats Generaux"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-059.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-094-declaration-rights",
+        "tf26-095-reign-terror",
+        "tf26-096-sans-culottes",
+        "tf26-097-women-march"
+      ],
+      "titles": [
+        "Haklar Bildirisi",
+        "Terör Dönemi",
+        "Sans-Culottes",
+        "Kadınların Yürüyüşü"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-060.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-098-revolutionary-calendar",
+        "tf26-099-vendee",
+        "tf26-100-napoleon-rise",
+        "tf26-101-declaration"
+      ],
+      "titles": [
+        "Devrim Takvimi",
+        "Vendée Direnişi",
+        "Napolyon'un Yükselişi",
+        "Bağımsızlık Bildirisi"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-061.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-102-hamilton-finance",
+        "tf26-103-federalists",
+        "tf26-104-enslavement-contradiction",
+        "tf26-105-dueling-culture"
+      ],
+      "titles": [
+        "Hamilton'ın Finans Sistemi",
+        "Federalistler",
+        "Kölelik Çelişkisi",
+        "Düello Kültürü"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-062.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-106-loyalists",
+        "tf26-107-french-alliance",
+        "tf26-108-constitution",
+        "tf26-109-native-nations"
+      ],
+      "titles": [
+        "Loyalistler",
+        "Fransız İttifakı",
+        "Anayasa Tartışması",
+        "Yerli Uluslar"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-063.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-110-burr-hamilton",
+        "tf26-111-outlaw-myth",
+        "tf26-112-railroad-frontier",
+        "tf26-113-cattle-drives"
+      ],
+      "titles": [
+        "Burr ve Hamilton",
+        "Kanunsuz Efsanesi",
+        "Demiryolu Sınırı",
+        "Sığır Sürüşleri"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-064.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-114-pinkertons",
+        "tf26-115-reservation-system",
+        "tf26-116-boomtowns",
+        "tf26-117-frontier-law"
+      ],
+      "titles": [
+        "Dedektif Ajansları",
+        "Rezervasyon Sistemi",
+        "Patlama Kasabaları",
+        "Sınır Hukuku"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-065.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-118-bounty-hunters",
+        "tf26-119-women-frontier",
+        "tf26-122-artillery",
+        "tf26-123-no-mans-land"
+      ],
+      "titles": [
+        "Ödül Avcıları",
+        "Sınırda Kadınlar",
+        "Topçu Ateşi",
+        "Sahipsiz Bölge"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-066.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-124-messengers",
+        "tf26-126-shell-shock",
+        "tf26-127-colonial-troops",
+        "tf26-128-war-horses"
+      ],
+      "titles": [
+        "Cephe Habercileri",
+        "Savaş Travması",
+        "Sömürge Askerleri",
+        "Savaş Atları"
+      ],
+      "isFlagship": [
+        true,
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "file": "tr-chunk-067.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-129-armistice",
+        "tf26-130-home-front",
+        "tf26-132-operation-fortitude",
+        "tf26-133-airborne"
+      ],
+      "titles": [
+        "Ateşkes Anı",
+        "Cephe Gerisi",
+        "Fortitude Aldatması",
+        "Hava İndirmeleri"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-068.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-134-mulberry-harbours",
+        "tf26-135-hedgerows",
+        "tf26-136-canadian-beaches",
+        "tf26-137-french-civilians"
+      ],
+      "titles": [
+        "Yapay Limanlar",
+        "Çitli Arazi",
+        "Kanada Sahilleri",
+        "Fransız Siviller"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-069.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-138-medics",
+        "tf26-139-german-defenses",
+        "tf26-140-memory",
+        "tf26-142-trinity-test"
+      ],
+      "titles": [
+        "Cephe Sıhhiyecileri",
+        "Atlantik Duvarı",
+        "D-Day Hafızası",
+        "Trinity Deneyi"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-070.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-143-oak-ridge",
+        "tf26-144-hanford",
+        "tf26-145-security",
+        "tf26-146-women-workers"
+      ],
+      "titles": [
+        "Oak Ridge",
+        "Hanford",
+        "Gizlilik Düzeni",
+        "Gizli Kadın Emeği"
+      ],
+      "isFlagship": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-071.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-148-hiroshima-context",
+        "tf26-150-cold-war-start",
+        "tf26-151-reactor-test",
+        "tf26-153-liquidators"
+      ],
+      "titles": [
+        "Hiroşima Bağlamı",
+        "Soğuk Savaş Gölgesi",
+        "Reaktör Testi",
+        "Tasfiye Ekipleri"
+      ],
+      "isFlagship": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-072.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-155-radiation-myth",
+        "tf26-156-soviet-secrecy",
+        "tf26-157-firefighters",
+        "tf26-158-exclusion-zone"
+      ],
+      "titles": [
+        "Radyasyon Korkusu",
+        "Sovyet Gizliliği",
+        "İtfaiyeciler",
+        "Dışlama Bölgesi"
+      ],
+      "isFlagship": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-073.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-159-trial",
+        "tf26-160-energy-politics",
+        "tf26-161-human-computers",
+        "tf26-162-segregation"
+      ],
+      "titles": [
+        "Mahkeme Anlatısı",
+        "Enerji Siyaseti",
+        "İnsan Bilgisayarlar",
+        "Ayrımcılık Sistemi"
+      ],
+      "isFlagship": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-074.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-163-mercury-program",
+        "tf26-164-apollo-11",
+        "tf26-165-katherine-johnson",
+        "tf26-166-cold-war-prestige"
+      ],
+      "titles": [
+        "Mercury Programı",
+        "Apollo 11",
+        "Katherine Johnson",
+        "Soğuk Savaş Prestiji"
+      ],
+      "isFlagship": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-075.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-167-mission-control",
+        "tf26-168-computers-transition",
+        "tf26-169-risk",
+        "tf26-170-public-memory"
+      ],
+      "titles": [
+        "Görev Kontrol",
+        "Bilgisayara Geçiş",
+        "Uzay Riskleri",
+        "Uzay Hafızası"
+      ],
+      "isFlagship": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-076.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-171-speakeasies",
+        "tf26-172-bootlegging",
+        "tf26-173-temperance",
+        "tf26-174-federal-enforcement"
+      ],
+      "titles": [
+        "Gizli Barlar",
+        "Kaçak İçki",
+        "Ahlak Hareketi",
+        "Federal Uygulama"
+      ],
+      "isFlagship": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-077.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-175-organized-crime",
+        "tf26-176-women-reformers",
+        "tf26-177-repeal",
+        "tf26-178-jazz-age"
+      ],
+      "titles": [
+        "Organize Suç",
+        "Kadın Reformcular",
+        "Yasağın Kalkması",
+        "Caz Çağı"
+      ],
+      "isFlagship": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-078.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-179-corruption",
+        "tf26-180-public-health",
+        "tf26-181-constitutional-role",
+        "tf26-183-commonwealth"
+      ],
+      "titles": [
+        "Yolsuzluk",
+        "Kamu Sağlığı",
+        "Anayasal Rol",
+        "Commonwealth"
+      ],
+      "isFlagship": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-079.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-184-royal-media",
+        "tf26-186-prime-ministers",
+        "tf26-187-public-grief",
+        "tf26-188-royal-finance"
+      ],
+      "titles": [
+        "Saray ve Medya",
+        "Başbakanlarla İlişki",
+        "Kamusal Yas",
+        "Kraliyet Finansmanı"
+      ],
+      "isFlagship": [
+        true,
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "file": "tr-chunk-080.json",
+      "cardCount": 4,
+      "ids": [
+        "tf26-189-empire-memory",
+        "tf26-190-privacy",
+        "tf26-191-plague-spread",
+        "tf26-192-quarantine"
+      ],
+      "titles": [
+        "İmparatorluk Hafızası",
+        "Mahremiyet ve Görev",
+        "Vebanın Yayılışı",
+        "Karantina Fikri"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "file": "tr-chunk-081.json",
+      "cardCount": 5,
+      "ids": [
+        "tf26-193-flagellants",
+        "tf26-194-antisemitism",
+        "tf26-195-labor-shortage",
+        "tf26-196-medieval-hygiene",
+        "tf26-197-doctors"
+      ],
+      "titles": [
+        "Flagellantlar",
+        "Salgın ve Nefret",
+        "Emek Kıtlığı",
+        "Orta Çağ Temizliği",
+        "Veba Doktorları"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "file": "tr-chunk-082.json",
+      "cardCount": 3,
+      "ids": [
+        "tf26-198-death-art",
+        "tf26-199-rural-impact",
+        "tf26-200-memory"
+      ],
+      "titles": [
+        "Ölüm Sanatı",
+        "Kırsal Etki",
+        "Kara Ölüm Hafızası"
+      ],
+      "isFlagship": [
+        false,
+        false,
+        true
+      ]
+    }
+  ]
+}

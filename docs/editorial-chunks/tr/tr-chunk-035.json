@@ -1,0 +1,201 @@
+{
+  "locale": "tr",
+  "chunkIndex": 35,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "got-battle-of-bastards-hastings-real",
+      "title": "Piçler Savaşı ve 1066 Hastings",
+      "subtitle": "Kalkan duvarları ve ok yağmuru.",
+      "mediaType": "series",
+      "mediaTitle": "Game of Thrones",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Orta Çağ",
+        "Taktik",
+        "İngiltere"
+      ],
+      "isFlagship": false,
+      "accuracyType": "inspired-by-reality",
+      "spoilerLevel": "minor",
+      "tags": [
+        "game-of-thrones",
+        "hastings",
+        "orta-cag",
+        "savas"
+      ],
+      "quickRealityCheck": "Game of Thrones'daki Piçler Savaşı'nın (Battle of the Bastards) o meşhur kalkan duvarı ve ceset yığınları sahneleri, 1066'daki tarihi Hastings Savaşı'ndaki sıkışık ve kanlı çarpışmalardan ilham almıştır.",
+      "mediaChanged": "Dizi devleri ve kurgusal karakterleri eklese de, kalkan duvarının (shield wall) aşılmazlığı ve bir ordunun kendi ölüleri arasında sıkışıp kalması gerçektir.",
+      "realHistory": "1066 yılında İngiltere'nin kaderini belirleyen Hastings Savaşı'nda, Sakson kralı Harold'ın ordusu bir tepenin üzerinde 'kalkan duvarı' kurmuştu. Norman şövalyeleri bu duvarı aşmak için saatlerce uğraştı. Cesetler o kadar birikmişti ki, iki taraf da hareket etmekte zorlanıyordu. Dizideki Jon Snow'un cesetler arasında nefessiz kaldığı sahne, tarihteki bu sıkışık ve klostrofobik savaş atmosferinin en iyi temsillerinden biridir. Hastings'te de tıpkı dizideki gibi, disiplini bozulan taraf (Saksonlar) kalkan duvarını terk edince saniyeler içinde yok edilmiştir.\n\nDisiplin bozulunca Norman süvarisi boşluğu değerlendirdi. Ceset yığınları hareketi zorlaştırdı.\n\n14 Ekim 1066'da Sakson kralı Harold'ın ordusu tepede kalkan duvarı kurmuştu. Norman şövalyeleri saatlerce saldırdı; disiplin bozulunca süvari boşluğu değerlendirdi. Ceset yığınları o kadar kalınlaştı ki hareket zorlaştı. Hastings'te kalkan duvarını terk eden taraf saniyeler içinde yok edildi.\n\nHarold'un kardeşleri savaşta öldü; komuta zinciri zayıflayınca Sakson hattı dağıldı. Norman zaferi İngiltere'nin Norman yönetimine geçişini başlattı.\n\nNorman zaferi İngiltere yönetimini ve toprak mülkiyet düzenini kökten değiştirdi.\n\nHarold savaşta öldü; Norman yönetimi İngiltere toprak mülkiyet düzenini kökten değiştirdi.\n\nWilliam Fetihçi taç giyme töreni Westminster'da gerçekleşti; Norman yönetimi toprak mülkiyetini yeniden düzenledi.\n\nSakson kalkan duvarını terk eden taraf saniyeler içinde yenildi.",
+      "whyItMatters": "Hastings, İngiltere'nin Fransız etkisine girmesine ve bugünkü İngiliz dilinin ve kültürünün oluşmasına neden olan en önemli dönüm noktasıdır.",
+      "sources": [
+        {
+          "title": "The Battle of Hastings (Britannica)",
+          "url": "https://www.britannica.com/event/Battle-of-Hastings",
+          "type": "official"
+        },
+        {
+          "title": "Battle of the Bastards Inspiration (History Extra)",
+          "url": "https://www.historyextra.com/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "got-roses",
+        "got-war-of-roses-real"
+      ],
+      "spoilerNote": "Game of Thrones hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "Game of Thrones dizide “Piçler Savaşı ve 1066 Hastings” konusunu orta çağ ve taktik ekseninde somut sahnelerle işler. Kalkan duvarları ve ok yağmuru.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "vikings-funeral-fadlan-real",
+      "title": "Viking Cenazeleri ve İbn Fadlan",
+      "subtitle": "Kuzeyli savaşçıların ölüm ritüelleri.",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Vikingler",
+        "Kültür",
+        "Din"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "vikings",
+        "iskandinavya",
+        "cenaze",
+        "ibn-fadlan"
+      ],
+      "quickRealityCheck": "Vikings dizisindeki gemi yakma ve kurban etme sahneleri, 10. yüzyılda bir Arap elçisi olan İbn Fadlan'ın Volga Bulgarları ziyareti sırasında bizzat şahit olduğu Viking (Rus) cenaze törenlerine dayanmaktadır.",
+      "mediaChanged": "Dizi bu sahneleri bazen daha estetik ve hızlı sunar. İbn Fadlan'ın notlarındaki gerçekler ise çok daha vahşi, ritüelistik ve toplumsal baskı içeren detaylarla doludur.",
+      "realHistory": "İbn Fadlan, Volga nehrinde bir Viking reisinin cenazesini saniye saniye kaydetmiştir. Reis ölünce gemisine konulmuş, yanına kıymetli eşyaları ve kurban edilen hayvanları yerleştirilmiştir. Hatta reise öbür dünyada eşlik etmesi için bir cariye de kurban edilmiştir. En sonunda gemi ateşe verilmiş ve yanarak nehre bırakılmıştır. Bu ritüel, Vikinglerin ölümden sonraki hayata (Valhalla veya Hel) geçişteki inançlarının bir göstergesidir. İbn Fadlan'ın bu notları olmasaydı, Vikinglerin bu karanlık ve görkemli ritüelleri hakkında bugünkü kadar detaylı bilgiye sahip olamazdık.\n\nTarihî kayıtlar, 10. yüzyılda Arap elçisi İbn Fadlan'ın Volga Bulgarları ziyaretinde Viking cenaze törenlerine bizzat tanık olduğunu gösterir; dizideki gemi yakma sahneleri bu etnografik notlara dayanır.\n\nDizi bu sahneleri bazen daha estetik ve hızlı sunar; İbn Fadlan'ın notlarındaki gerçekler ise çok daha vahşi, ritüelistik ve toplumsal baskı içeren ayrıntılarla doludur.\n\nBu metin, Orta Çağ'da farklı medeniyetlerin birbirini nasıl gözlemlediğine dair en önemli etnografik kaynaklardan birini okumamızı sağlar.\n\nİbn Fadlan'ın Rivayet'i, Volga Bulgarları ziyaretinde gördüğü gemi yakma ve kurban ritüellerini Arap elçi gözüyle kaydetti. Bu metin, Viking cenaze pratiklerinin dış kaynaklardan bilinen en ayrıntılı anlatımlarından biridir.",
+      "whyItMatters": "İbn Fadlan'ın notları, Orta Çağ'da farklı medeniyetlerin birbirlerini nasıl gözlemlediklerini gösteren en önemli etnografik kaynaklardan biridir.",
+      "sources": [
+        {
+          "title": "Ibn Fadlan and the Rus (Britannica)",
+          "url": "https://www.britannica.com/biography/Ibn-Fadlan",
+          "type": "official"
+        },
+        {
+          "title": "Viking Burial Customs (National Museum of Denmark)",
+          "url": "https://en.natmus.dk/",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [
+        "vikings-raid",
+        "viking-horned-helmet",
+        "vikings-silk-road-trade"
+      ],
+      "spoilerNote": "Vikings hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "Vikings dizide “Viking Cenazeleri ve İbn Fadlan” konusunu vikingler ve kültür ekseninde somut sahnelerle işler. Kuzeyli savaşçıların ölüm ritüelleri.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "the-crown-aberfan-tragedy-real",
+      "title": "Aberfan Felaketi ve Kraliçe'nin Pişmanlığı",
+      "subtitle": "Bir kasabanın yok oluşu ve monarşinin tepkisi.",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "İngiltere",
+        "Modern Tarih",
+        "Toplum"
+      ],
+      "isFlagship": true,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "the-crown",
+        "aberfan",
+        "ingiltere",
+        "modern-tarih"
+      ],
+      "quickRealityCheck": "The Crown dizisinin en duygusal bölümlerinden biri olan Aberfan maden felaketi, 1966'da Galler'de gerçekleşen ve 116'sı çocuk 144 kişinin öldüğü gerçek bir trajedidir.",
+      "mediaChanged": "Dizi Kraliçe Elizabeth II'nin duygusuzluğunu vurgular. Gerçekte Kraliçe, bölgeyi ziyaret etmekte 8 gün geciktiği için hayatı boyunca en büyük pişmanlığının bu olduğunu defalarca dile getirmiştir.",
+      "realHistory": "### 21 Ekim 1966: Siyah Bir Çığ\nO sabah Aberfan kasabası, Galler'in tipik yağmurlu havasıyla uyandı. Kasabanın üzerindeki Merthyr Dağı'nda, yıllardır biriktirilen maden atık yığınlarından biri (Tip 7), aşırı yağışlar ve altındaki gizli su kaynakları nedeniyle dengesini kaybetti. Saat 09:15'te, 100 bin tondan fazla kömür çamuru ve kaya parçası, saatte 30 kilometre hızla kasabaya doğru kaymaya başladı. İlk hedef Pantglas Ortaokulu'ydu. Çocuklar sınıflarında derslerine yeni başlamışken, okul devasa bir siyah yığının altında kaldı. Bu bir doğal afet değil, uyarılara kulak asmayan bir sanayi devinin (Ulusal Kömür Kurulu) neden olduğu bir katliamdı.\n\n### Sekiz Günlük Sessizlik ve Monarşi Krizi\nDizi, Kraliçe'nin felaket karşısındaki mesafeli duruşunu işlerken tarihi bir gerçeğe dayanır. Danışmanları ve hükümet, Kraliçe'nin bölgeye gitmesinin kurtarma çalışmalarını aksatacağını savundu. Ancak Kraliçe Elizabeth II, bu tavsiyeye uyarak bölgeye ancak 8 gün sonra gitti. Oysa eşi Prens Philip ve Başbakan Wilson çoktan olay yerine ulaşmıştı. Bu gecikme, monarşinin halkın acısına ne kadar uzak kalabileceğine dair bir sembole dönüştü. Kraliçe, yıllar sonra bu kararı hayatının en büyük hatası ve pişmanlığı olarak nitelendirecekti. O gün Aberfan'da döktüğü gözyaşları, sadece bir kasabanın değil, bir monarkın halkıyla olan bağının da sınavıydı.\n\n### İhmal, Yolsuzluk ve Adalet Arayışı\nFelaketten sonra kurulan Davies Komisyonu, Ulusal Kömür Kurulu'nun (NCB) yığının tehlikeli olduğunu bildiğini ancak maliyetleri düşürmek için hiçbir önlem almadığını ortaya çıkardı. Daha da kötüsü, NCB başkanı Lord Robens başlangıçta suçu aşırı yağmura atarak sorumluluktan kaçmaya çalıştı. Felaket kurbanlarının ailelerine verilen tazminatlar komik düzeydeydi ve NCB, atık yığınlarının kaldırılması için kurbanların bağış fonlarından bile para kesmeye çalıştı. Aberfan, sadece bir maden kazası değil, devlet kurumlarının halkın canını kâra kurban ettiği bir sistemik çöküşün adıdır.\n\n### Aberfan'ın Mirası: Güvenlik Yasaları\nBu trajedi, İngiltere'de maden güvenliği ve endüstriyel atık yönetimi konularında devrim niteliğinde yasaların (Mines and Quarries - Tips Act 1969) çıkmasını sağladı. Bugün Aberfan, hem Galler halkının hafızasında derin bir yara hem de 'kurumsal ihmalin' evrensel bir simgesidir. Kasabadaki anıt mezarlık ve her yıl yapılan anma törenleri, bir neslin yok oluşunun asla unutulmayacağının kanıtıdır. Kraliçe, saltanatı boyunca Aberfan'ı dört kez daha ziyaret ederek bu yarayı sarmaya çalışmıştır.",
+      "whyItMatters": "Aberfan, sanayi devriminin getirdiği ihmallerin ve kriz anında liderliğin öneminin bir simgesidir.",
+      "sources": [
+        {
+          "title": "The Aberfan Disaster (BBC Archive)",
+          "url": "https://www.bbc.com/news/uk-wales-37617005",
+          "type": "official"
+        },
+        {
+          "title": "Queen Elizabeth and Aberfan (The Guardian)",
+          "url": "https://www.theguardian.com/",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "the-crown-monarchy",
+        "crown-monarchy-symbol",
+        "crown-tv-coronation-1953"
+      ],
+      "spoilerNote": "The Crown hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "The Crown dizide “Aberfan Felaketi ve Kraliçe'nin Pişmanlığı” konusunu i̇ngiltere ve modern tarih ekseninde somut sahnelerle işler. Bir kasabanın yok oluşu ve monarşinin tepkisi."
+    },
+    {
+      "id": "the-crown-suez-crisis-empire-end",
+      "title": "Süveyş Krizi: İmparatorluğun Tabutu",
+      "subtitle": "1956 ve İngiliz küresel gücünün sonu.",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Modern Tarih",
+        "Siyaset",
+        "İngiltere"
+      ],
+      "isFlagship": true,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "the-crown",
+        "suveys-krizi",
+        "ingiltere",
+        "modern-tarih"
+      ],
+      "quickRealityCheck": "The Crown dizisinde Başbakan Eden'ın sağlığını ve koltuğunu kaybettiği Süveyş Krizi, İngiltere'nin artık bir 'süper güç' olmadığını dünyaya ilan eden gerçek bir diplomatik intihardır.",
+      "mediaChanged": "Dizi bu krizi bir 'erkeklik ve onur' meselesi gibi sunar. Gerçekte ise bu, ABD'nin onayı olmadan İngiltere'nin artık dünya siyasetinde tek başına hareket edemeyeceğinin kanıtlandığı stratejik bir kırılmadır.",
+      "realHistory": "### Millileştirme ve Gizli Sevres Protokolü\n1956 yılında Mısır lideri Cemal Abdünnasır, Süveyş Kanalı'nı millileştirme kararı alınca, İngiltere ve Fransa bunu bir varoluşsal tehdit olarak algıladı. Kanal, hem deniz yolu ticareti hem de askeri strateji açısından hayati öneme sahipti. İngiltere Başbakanı Anthony Eden, Nasır'ı 'Müslüman bir Hitler' olarak nitelendiriyor ve onun devrilmesini istiyordu. Ancak ABD Başkanı Eisenhower, diplomasiden yanaydı. Bunun üzerine İngiltere, Fransa ve İsrail, tarihe 'Sevres Protokolü' olarak geçecek gizli bir anlaşma yaptılar. Plana göre İsrail Mısır'a saldıracak, İngiltere ve Fransa ise 'kanalı korumak için barış gücü' adı altında müdahale edecekti. Bu, tarihin en büyük diplomatik kumpaslarından biriydi.\n\n### ABD'nin Ekonomik Kırbacı\nOperasyon başladığında askeri olarak başarılı olunsa da, diplomatik ve ekonomik olarak tam bir felaket yaşandı. ABD Başkanı Eisenhower, müttefiklerinin kendisine haber vermeden böyle bir maceraya atılmasına çok öfkelendi. ABD, BM üzerinden İngiltere'ye ateşkes baskısı yaparken, çok daha etkili bir silah kullandı: Ekonomik yaptırım. ABD, İngiliz sterlinini piyasaya sürerek çökertme ve İngiltere'nin IMF kredilerini bloke etme tehdidinde bulundu. İngiltere, askeri olarak kazandığı bir sahada, ekonomik olarak diz çökerek çekilmek zorunda kaldı. Bu durum, finansal gücün askeri güçten daha etkili olabildiğinin ilk büyük örneğidir.\n\n### Süper Güçlerin Yeni Düzeni\nSüveyş Krizi, dünyanın artık 'Avrupa merkezli' olmadığını kesinleştirdi. İngiltere ve Fransa geri çekilirken, dünya siyasetine ABD ve Sovyetler Birliği'nin (ve nükleer caydırıcılığın) hakim olduğu yeni bir dönem başladı. Mısır'da Nasır, askeri olarak yenilmesine rağmen diplomatik olarak devleşti ve Pan-Arabizm'in kahramanı oldu. İngiltere için ise bu kriz, 'Güneş Batmayan İmparatorluk' imajının nihai çöküşüydü. Bu olaydan sonra İngiltere, dış politikasını tamamen ABD ile uyumlu hale getirmeye (Special Relationship) odaklanmak zorunda kaldı.\n\n### Eden’ın İstifası ve Kraliçe'nin Sınavı\nBaşbakan Anthony Eden, hem bozulan sağlığı hem de meclisteki ağır eleştiriler sonucunda istifa etmek zorunda kaldı. Kraliçe Elizabeth II için bu kriz, monarşinin siyaset üzerindeki sınırlı etkisini ve başbakanların kararlarının imparatorluğun kaderini nasıl bir gecede değiştirebileceğini gördüğü ilk büyük ders oldu. Süveyş, sadece bir kanalın mülkiyeti değil, 19. yüzyılın emperyalist mantığının 20. yüzyılın gerçeklerine çarpıp parçalandığı andır.",
+      "whyItMatters": "Süveyş Krizi, 20. yüzyılda küresel güç dengesinin Avrupa'dan ABD ve Sovyetlere geçtiği kesin andır.",
+      "sources": [
+        {
+          "title": "The Suez Crisis (Britannica)",
+          "url": "https://www.britannica.com/event/Suez-Crisis",
+          "type": "official"
+        },
+        {
+          "title": "Suez Crisis (National Archives UK)",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/suez-crisis/",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "the-crown-monarchy",
+        "crown-monarchy-symbol",
+        "crown-tv-coronation-1953"
+      ],
+      "spoilerNote": "The Crown hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "The Crown dizide “Süveyş Krizi: İmparatorluğun Tabutu” konusunu modern tarih ve siyaset ekseninde somut sahnelerle işler. 1956 ve İngiliz küresel gücünün sonu."
+    }
+  ]
+}

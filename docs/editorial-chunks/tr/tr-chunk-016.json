@@ -1,0 +1,413 @@
+{
+  "locale": "tr",
+  "chunkIndex": 16,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "ottoman-beyond-war",
+      "title": "Osmanlı: Savaşın Ötesinde Bir Medeniyet",
+      "subtitle": "Mimari, tıp ve şehircilik mirası.",
+      "mediaType": "general",
+      "mediaTitle": "Atmosfer",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Osmanlı",
+        "Mimari",
+        "Bilim"
+      ],
+      "whatWeSee": "Osmanlı genellikle sadece askeri başarıları ve fethileriyle medyada yer alır.",
+      "realHistory": "Osmanlı, özellikle tıp (Darüşşifalar), su mimarisi (su kemerleri ve çeşmeler) ve Mimar Sinan ile zirveye ulaşan mimari bir dehaya sahipti. Osmanlı toplumsal yapısı, savaş meydanlarının çok ötesinde, 'Millet Sistemi' adı verilen ve farklı dini cemaatlerin kendi iç hukuklarına göre yönetildiği benzersiz bir çoğulculuğa dayanıyordu. Şehir planlamasında 'İmaret' sistemi, bir cami çevresinde kütüphane, hastane, okul ve aşevi gibi sosyal kurumların kümelenmesini sağlayarak tarihin ilk 'refah devleti' modellerinden birini sunmuştur. Osmanlı bilim geleneği, Ali Kuşçu ve Takiyüddin gibi isimlerin astronomi ve matematik alanındaki çalışmalarıyla doruk noktasına ulaşmış; İstanbul Rasathanesi döneminin en ileri gözlem araçlarına ev sahipliği yapmıştır. Müze-i Hümayun'un kuruluşu ile başlayan modern müzecilik anlayışı, imparatorluğun kültürel mirasa sahip çıkma ve kimlik inşa etme çabasının bir yansımasıdır. Zanaat kollarındaki 'Lonca' nizamnameleri, sadece üretim kalitesini değil, aynı zamanda fiyat istikrarını ve işçi-çırak ilişkilerini katı ahlaki kurallarla düzenleyerek sosyal barışı sağlamıştır.",
+      "accuracyNote": "Osmanlı’nın toplumsal yapısı (Vakıf sistemi), sosyal devlet anlayışının tarihteki en gelişmiş örneklerinden biridir.",
+      "whyInteresting": "Osmanlı’da kuş evleri gibi ince detaylar, mimarinin sadece insan için değil, tüm canlılar için tasarlandığını gösterir.",
+      "misconception": "Osmanlı’da bilimin 16. yüzyıldan sonra tamamen bittiği sanılır; oysa birçok alanda (özellikle tıp ve astronomi) çalışmalar devam etmiştir.",
+      "nextTopics": [
+        "Mimar Sinan",
+        "Osmanlı Vakıf Sistemi",
+        "Darüşşifalar"
+      ],
+      "sources": [
+        {
+          "title": "Ottoman Architecture (Britannica)",
+          "url": "https://www.britannica.com/art/Ottoman-art",
+          "type": "official"
+        },
+        {
+          "title": "Ottoman Science (Turkish Historical Society)",
+          "url": "https://www.ttk.gov.tr/",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "ancient-city-smells"
+      ],
+      "reviewerNote": "Mimari ve sosyal veriler Britannica ve TTK ile doğrulandı.",
+      "mediaConnection": "Osmanlı dönemini işleyen diziler genellikle askeri zaferlere odaklansa da, imparatorluğun gerçek gücü kurumsallaşmış hukuk ve karmaşık bürokrasi yapısında saklıdır.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "atmosfer",
+        "bilim",
+        "mimari",
+        "osmanl"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Atmosfer bu konuyu sahne diliyle yoğunlaştırır; osmanlı’nın toplumsal yapısı (Vakıf sistemi), sosyal devlet anlayışının tarihteki en gelişmiş örneklerinden biridir.",
+      "whyItMatters": "Osmanlı’da kuş evleri gibi ince detaylar, mimarinin sadece insan için değil, tüm canlılar için tasarlandığını gösterir.",
+      "quickRealityCheck": "Osmanlı’da bilimin 16 denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": ""
+    },
+    {
+      "id": "mesopotamia-legacy",
+      "title": "Mezopotamya: Uygarlığın Beşiğinin Mirası",
+      "subtitle": "Yazıdan tekerleğe, bugünü şekillendiren geçmiş.",
+      "mediaType": "general",
+      "mediaTitle": "Medeniyet",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Mezopotamya",
+        "Medeniyet",
+        "Teknoloji"
+      ],
+      "whatWeSee": "Mezopotamya çoğu belgesel ve popüler anlatıda 'ilk medeniyet' etiketiyle anılır; yazı, hukuk, şehir ve ölçü sistemlerinin gündelik hayata nasıl bağlandığı ise çoğu zaman hızlı geçilir.",
+      "realHistory": "Mezopotamya tek bir devlet ya da tek bir halk değil; Sümer, Akad, Babil ve Asur gibi farklı toplumların binlerce yıl boyunca aynı nehir havzasında kurduğu katmanlı bir uygarlık alanıdır. Dicle ve Fırat çevresindeki sulama düzeni, yalnızca tarımı değil; iş bölümü, kayıt tutma, vergi ve merkezi yönetim ihtiyacını da büyüttü. Çivi yazısının ortaya çıkışı bu yüzden sadece kültürel bir başarı değil, aynı zamanda idari bir zorunluluktu.\n\nBu bölgenin mirası gündelik hayatımıza kadar uzanır. 60'lık sayı sistemi, saat ve açı ölçülerinde hâlâ iz bırakır. Yazılı hukuk geleneği, borç, mülkiyet, ceza ve aile ilişkilerini kayıt altına alan metinlerle güçlendi. Zigguratlar da yalnızca dini yapılar değildi; şehir ekonomisi, depolama, iş gücü ve ritüel düzeniyle iç içe geçmiş kamusal merkezlerdi.\n\nMezopotamya'yı sadece 'uygarlığın beşiği' diye anmak kolaydır, fakat asıl ilginç olan bu beşiğin nasıl işlediğidir. Sulama kanalı, kil tablet, tapınak ekonomisi ve hukuk metni aynı sistemin parçalarıydı. Bugün modern şehir, bürokrasi ve ölçü fikrine baktığımızda, bu coğrafyanın bıraktığı iz hâlâ görünür.",
+      "accuracyNote": "Mezopotamya mirası tek bir buluş listesine indirgenmemelidir; yazı, hukuk, ölçü, sulama ve şehir yönetimi uzun süreli ve katmanlı süreçlerin ürünüdür.",
+      "whyInteresting": "Bugün bir saati 60 dakikaya ve bir daireyi 360 dereceye bölmemiz, Mezopotamya'da gelişen 60'lık sayı sistemiyle ilişkilidir.",
+      "misconception": "Mezopotamya'nın yalnızca bir bölge adı olduğu sanılır; gerçekte bu ad, binlerce yıl boyunca üst üste gelen şehir, devlet ve kültür katmanlarını anlatır.",
+      "nextTopics": [
+        "Sümerler",
+        "Hammurabi Kanunları",
+        "Zigguratlar"
+      ],
+      "sources": [
+        {
+          "title": "Mesopotamia (Britannica)",
+          "url": "https://www.britannica.com/place/Mesopotamia",
+          "type": "official"
+        },
+        {
+          "title": "Ancient Mesopotamia (The British Museum)",
+          "url": "https://www.britishmuseum.org/collection/galleries/mesopotamia",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Teknolojik ve kültürel veriler British Museum ile doğrulandı.",
+      "mediaConnection": "Bu kart, Mezopotamya temalı belgesel ve popüler anlatıların kısa geçtiği uygarlık mirasını; yazı, sulama, hukuk ve ölçü sistemi üzerinden tamamlar.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "medeniyet",
+        "mezopotamya",
+        "teknoloji",
+        "bilim"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Popüler anlatılar Mezopotamya'yı birkaç büyük buluşla özetler; tarihsel tablo ise sulama, yazı, hukuk ve tapınak ekonomisinin birlikte çalıştığı daha karmaşık bir sistem gösterir.",
+      "whyItMatters": "Mezopotamya'yı anlamak, modern yönetim, kayıt tutma, hukuk ve şehir hayatının çok eski idari ihtiyaçlardan doğduğunu görmemizi sağlar.",
+      "quickRealityCheck": "Mezopotamya sadece 'ilk medeniyet' etiketi mi, yoksa bugün kullandığımız ölçü, kayıt ve yönetim fikirlerinin erken laboratuvarı mı?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "baghdad-daily-life-new",
+      "title": "Altın Çağ’da Bağdat’ta Bir Gün",
+      "subtitle": "Pazarlar, kanallar ve kütüphaneler.",
+      "mediaType": "general",
+      "mediaTitle": "Günlük Hayat",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Bağdat",
+        "Günlük Hayat",
+        "Abbasi"
+      ],
+      "whatWeSee": "Bağdat dizilerde genellikle sadece saray entrikalarıyla gösterilir.",
+      "realHistory": "9. yüzyıl Bağdat’ı yalnızca halife sarayından ibaret değildi. Dicle kıyısındaki şehir, tüccarların, çevirmenlerin, hekimlerin, kâtiplerin ve zanaatkârların aynı sokaklarda karşılaştığı büyük bir kozmopolit merkezdi. Harun Reşid ve özellikle Abbasi saray çevresiyle anılan bu dünya, masallardaki egzotik şehir imgesinden daha somut bir şehir düzenine sahipti: köprüler, pazarlar, su kanalları, kütüphaneler ve yoğun bir yazı kültürü.\n\nBilgelik Evi etrafında yürüyen çeviri faaliyetleri, Yunanca, Süryanice, Farsça ve Hint kaynaklı bilgilerin Arapçaya taşınmasını sağladı. Bu yalnızca sarayın merakı değildi; kâğıt üretimi ve kitap ticareti sayesinde bilgi şehir hayatının görünür bir parçasına dönüştü. Bimaristanlar, dönemin hastane anlayışını temsil ediyor; hekimlik, eczacılık ve gözlem kültürü Bağdat’ın gündelik hayatıyla iç içe geçiyordu.\n\nPopüler yapımlar Bağdat’ı çoğu zaman saray entrikası veya çöl masalı gibi gösterir. Oysa şehir, kanallarla beslenen mahalleleri, hareketli pazarları ve kitap kültürüyle Abbasi dünyasının en gelişmiş kentlerinden biriydi. Onu ilginç yapan yalnızca altın kubbeler değil; kağıdın, suyun, ticaretin ve bilginin gündelik hayata karışmış olmasıdır.",
+      "accuracyNote": "Şehrin dairesel planı (Round City), koruma ve idari kontrol için özel olarak tasarlanmıştı.",
+      "whyInteresting": "Bağdat’ta kâğıt üretimi ve kitap ticareti öyle yaygındı ki, bilgi yalnızca saray kütüphanelerinde değil sokaktaki satıcıların ve kâtiplerin dünyasında da dolaşıyordu.",
+      "misconception": "Bağdat’ın sadece saraydan veya çöl dekorundan ibaret olduğu sanılır; oysa şehir kanallar, pazarlar, hastaneler ve kitap kültürüyle büyük bir metropoldü.",
+      "nextTopics": [
+        "Dairesel Şehir",
+        "Abbasi Saray Hayatı",
+        "Binbir Gece Masalları"
+      ],
+      "sources": [
+        {
+          "title": "Baghdad History (Britannica)",
+          "url": "https://www.britannica.com/place/Baghdad",
+          "type": "official"
+        },
+        {
+          "title": "The Round City of Baghdad (UNESCO)",
+          "url": "https://en.unesco.org/",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "ancient-roman-day",
+        "medieval-night-life",
+        "ottoman-diet-culture"
+      ],
+      "reviewerNote": "Şehir planı ve sosyal hayat verileri UNESCO ve Britannica ile doğrulandı.",
+      "mediaConnection": "Bağdat’ı konu alan yapımlar saray ve entrika atmosferini öne çıkarır; bu kart, aynı şehrin pazar, hastane, kitap ve su altyapısı üzerinden gündelik hayatını tamamlar.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "abbasi",
+        "badat",
+        "gnlk-hayat"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Yapımlar çoğu zaman saray hayatını ve egzotik atmosferi öne çıkarır; tarihsel Bağdat ise ticaret, su yönetimi, hastaneler ve yazı kültürüyle çok daha kentsel bir hikâyedir.",
+      "whyItMatters": "Bağdat’ın altın çağını anlamak, Orta Çağ İslam dünyasını yalnızca saray ve savaş üzerinden değil, şehir planlaması, sağlık ve bilgi üretimi üzerinden de okumayı sağlar.",
+      "quickRealityCheck": "9. yüzyıl Bağdat’ı gerçekten sadece saray entrikalarının geçtiği bir dekor muydu — yoksa dünyanın en canlı bilgi ve ticaret merkezlerinden biri mi?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "ottoman-diet-culture",
+      "title": "Osmanlı Mutfağı ve Yemek Kültürü",
+      "subtitle": "Saray ziyafetlerinden sokak lezzetlerine.",
+      "mediaType": "general",
+      "mediaTitle": "Günlük Hayat",
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Osmanlı",
+        "Yemek Kültürü",
+        "Günlük Hayat"
+      ],
+      "whatWeSee": "Osmanlı dizilerinde masalar her zaman devasa et yemekleriyle doludur.",
+      "realHistory": "Osmanlı mutfağı, Orta Asya, Anadolu, Balkanlar ve Arap Yarımadası'nın lezzetlerini birleştiren devasa bir sentezdir. Saray mutfağı (Matbah-i Amire), yüzlerce aşçının çalıştığı, yemeklerin 'eczane' hassasiyetiyle hazırlandığı bir organizasyondu. Osmanlı diyetinde sebze, meyve, baklagiller ve kuzu eti ön plandadır. Özellikle pilav, börek ve şerbet çeşitleri sofraların vazgeçilmezidir. Sanılanın aksine, baharat kullanımı malzemenin tadını bastırmak için değil, onu vurgulamak ve sindirimi kolaylaştırmak için dengeli yapılırdı.\n\nDomates ve patates 18.-19. yüzyılda girdi; klasik dönem sofraları bunları içermezdi. Matbah-ı Amire reçeteleri nesiller arası aktarıldı.\n\nMatbah-ı Amire'de görevli aşçılar saray mutfağının reçetelerini kayıt altına aldı. Domates, patates ve mısır 18.-19. yüzyılda girdi; Kanuni veya Fatih dönemi sofraları bunları içermezdi. Klasik dönemde yemekler yer minderlerinde, çorba ve pilav ağırlıklı menülerle sunulurdu. Baharat tadı bastırmak yerine dengelemek için kullanılırdı.\n\nRamazan ve bayram sofraları saray protokolünün görünür yüzünü oluştururdu. Klasik dönemde kaşık ve çorba ağırlıklı menüler yer sofralarında sunulurdu.\n\nSaray ziyafetleri protokol ve gösterişin yanı sıra dönemin ekonomik gücünü de yansıtırdı.\n\nOsmanlı yemeğinin sadece çok baharatlı olduğu sanılır; oysa kayıtlara göre asıl amaç malzemenin doğal tadını korumaktı.\n\nKlasik dönem sofraları yer minderlerinde kurulur; çorba ve pilav ağırlıklı menüler misafir ağırlama protokolünün temelini oluştururdu.",
+      "accuracyNote": "Osmanlı dizilerindeki sofra tasvirleri genellikle 19. yüzyıl sonrası Avrupa etkisiyle oluşan sofraları andırır. Klasik dönemde yemekler daha sade, yer sofralarında ve kaşık ağırlıklı bir düzenle yenirdi.",
+      "whyInteresting": "Bugün Türk mutfağının vazgeçilmezi olan domates, patates, fasulye ve mısır gibi Amerika kıtası kökenli ürünler Osmanlı topraklarına ancak 18. ve 19. yüzyıllarda girmiştir. Yani Kanuni Sultan Süleyman veya Fatih Sultan Mehmed ömürleri boyunca hiç domates tatmamışlardır.",
+      "misconception": "Osmanlı yemeğinin sadece çok baharatlı olduğu sanılır; oysa asıl amaç malzemenin doğal tadını korumaktı.",
+      "nextTopics": [
+        "Matbah-ı Amire",
+        "Kahve Kültürü",
+        "Şerbet"
+      ],
+      "sources": [
+        {
+          "title": "Ottoman Cuisine (Turkish Cultural Foundation)",
+          "url": "https://www.turkishculturalfoundation.org/",
+          "type": "official"
+        },
+        {
+          "title": "History of Ottoman Food (Britannica)",
+          "url": "https://www.britannica.com/place/Ottoman-Empire/Ottoman-institutions-and-society",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "ancient-roman-day",
+        "medieval-night-life",
+        "baghdad-daily-life-new"
+      ],
+      "reviewerNote": "Mutfak kültürü verileri Türk Kültür Vakfı ile doğrulandı.",
+      "mediaConnection": "Osmanlı saray mutfağını konu alan yapımlar, yemek kültürünün sadece bir beslenme biçimi değil, aynı zamanda bir sosyal hiyerarşi ve diplomasi aracı olduğunu gösterir.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "gnlk-hayat",
+        "osmanl",
+        "yemek-kltr"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Günlük Hayat sahne diliyle konuyu yoğunlaştırır; kayıtlar ise aynı konuyu daha parçalı bir çerçevede anlatır.",
+      "whyItMatters": "Osmanlı mutfağı, imparatorluk coğrafyasının ticaret ve göç yollarını sofraya taşıyan bir sentezdir.",
+      "quickRealityCheck": "Osmanlı yemeğinin sadece çok baharatlı olduğu denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "silk-road-travel-new",
+      "title": "İpek Yolu’nda Yolculuk ve Kervansaraylar",
+      "subtitle": "Binlerce kilometrelik ticaretin güvenliği.",
+      "mediaType": "general",
+      "mediaTitle": "Günlük Hayat",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "İpek Yolu",
+        "Ticaret",
+        "Seyahat"
+      ],
+      "whatWeSee": "Medyada İpek Yolu genellikle sadece çölde giden bir grup deve olarak gösterilir.",
+      "realHistory": "İpek Yolu üzerinde her 30-40 kilometrede bir yer alan Kervansaraylar, antik dünyanın 'lojistik merkezleri'ydi. Tüccarlar burada güvenle konaklıyor, hayvanlarını dinlendiriyor ve farklı milletlerden insanlarla bilgi alışverişinde bulunuyorlardı.\n\n### Kağıt ve Bilginin Yolculuğu\nİpek Yolu'nun tarihe en büyük etkisi, kağıt üretim tekniklerinin Çin'den İslam dünyasına ve oradan Avrupa'ya taşınmasıdır. 751 yılındaki Talas Savaşı'ndan sonra esir alınan Çinli kağıt ustaları, Semerkant ve Bağdat'ta ilk kağıt fabrikalarını kurmuşlardır. Kağıdın ucuzlaması, bilginin yayılmasını hızlandırarak Orta Çağ'da büyük bir entelektüel devrim yaratmıştır.\n\n### Kültürel ve Dini Hibritleşme\nBu yol, sadece malların değil, inançların da yoluydu. Budizm Hindistan'dan Çin'e, İslam ise Orta Asya üzerinden uzak diyarlara bu yol sayesinde ulaşmıştır. İpek Yolu, deniz yollarının keşfiyle önemini kaybetse de, yüzyıllar boyunca insanlık tarihinin en büyük kültürel laboratuvarı olarak kalmıştır. Bugün bu yolun geçtiği güzergahlardaki mutfak kültürü, mimari ve müzik, bu antik küreselleşmenin yaşayan kanıtlarıdır.",
+      "accuracyNote": "Kervansaraylar, tüccarların milliyetine bakılmaksızın 3 gün boyunca ücretsiz konaklama sunan bir vakıf sistemiyle yönetilirdi.",
+      "whyInteresting": "İpek Yolu sadece mal değil; dinlerin (Budizm, İslam), dillerin ve hastalıkların (Veba) taşındığı bir ana damardı.",
+      "misconception": "İpek Yolu’nun tek bir yol olduğu sanılır; oysa birçok farklı koldan oluşan devasa bir ağdır.",
+      "nextTopics": [
+        "Kervansaraylar",
+        "Baharat Yolu",
+        "Marco Polo"
+      ],
+      "sources": [
+        {
+          "title": "The Silk Road (UNESCO)",
+          "url": "https://en.unesco.org/silkroad/about-silk-road",
+          "type": "official"
+        },
+        {
+          "title": "Silk Road History (Britannica)",
+          "url": "https://www.britannica.com/topic/Silk-Road",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "ancient-roman-day",
+        "medieval-night-life",
+        "baghdad-daily-life-new"
+      ],
+      "reviewerNote": "UNESCO İpek Yolu projesi verileriyle doğrulandı.",
+      "mediaConnection": "İpek Yolu üzerindeki kervansarayları betimleyen yapımlar, bu mekanların sadece durak değil, aynı zamanda küresel fikirlerin paylaşıldığı birer sosyal merkez olduğunu anlatır.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "gnlk-hayat",
+        "ipek-yolu",
+        "seyahat",
+        "ticaret"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Genellikle sadece ipek taşıyan kervanlar gösterilir. Gerçekte bu yoldan sadece ipek değil; kağıt, barut, dinler (Budizm, İslam), diller ve hatta veba gibi hastalıklar da taşınmıştır.",
+      "whyItMatters": "İpek Yolu sadece mal değil; dinlerin (Budizm, İslam), dillerin ve hastalıkların (Veba) taşındığı bir ana damardı.",
+      "quickRealityCheck": "Gerçek. İpek Yolu tek bir yol değil, Çin ile Akdeniz'i birbirine bağlayan devasa bir ticaret ve fikir ağıydı.",
+      "spoilerNote": ""
+    },
+    {
+      "id": "medieval-japan-daily-life",
+      "title": "Feodal Japonya’da Sıradan Bir Gün",
+      "subtitle": "Köylüler, keşişler ve pirinç tarlaları.",
+      "mediaType": "general",
+      "mediaTitle": "Günlük Hayat",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Japonya",
+        "Günlük Hayat",
+        "Feodalizm"
+      ],
+      "whatWeSee": "Feodal Japonya temalı yapımlarda günlük hayat çoğu zaman samurayların onuru, kılıç eğitimi, saray entrikaları ve savaş meydanları üzerinden görünür; pirinç eken köylüler ve köy ekonomisi arka planda kalır.",
+      "realHistory": "Feodal Japonya’da toplumun büyük çoğunluğu samuray değildi. Köylerde yaşayan çiftçiler, özellikle pirinç üretimi üzerinden hem yerel ekonominin hem de savaşçı sınıfın geçim düzeninin merkezindeydi. Pirinç yalnızca yiyecek değildi; koku gibi ölçülerle vergi, maaş ve siyasi güç de onun üzerinden hesaplanıyordu. Bir daimyonun gücü çoğu zaman kaç kılıca sahip olduğuyla değil, ne kadar pirinç geliri toplayabildiğiyle anlaşılırdı.\n\nBu durum köylüleri tamamen güçsüz yapmıyordu. Ağır vergiler, kıtlık ve savaş baskısı altında ezilseler de birçok köy kendi içinde anlaşmazlık çözen, üretimi planlayan ve yerel dayanışma kuran yapılara sahipti. Budist tapınakları ve yerel kurumlar kimi bölgelerde eğitim, güvenlik ve ekonomik dayanışma alanı işlevi gördü. Sengoku dönemindeki İkkō-ikki hareketleri ise köylülerin, keşişlerin ve yerel savaşçıların bir araya geldiğinde samuray otoritesine ciddi biçimde meydan okuyabildiğini gösterir.\n\nShōgun gibi yapımlar samuray sınıfının disiplinini ve saray siyasetini iyi hissettirebilir; fakat dönemin ayakta kalmasını sağlayan görünmez zemin pirinç tarlalarıydı. Kılıç taşıyan sınıfın ihtişamı, çoğu zaman toprağı süren insanların emeğine ve vergisine bağlıydı.",
+      "accuracyNote": "Shogun dizisi veya benzeri yapımlar samurayların disiplinini iyi yansıtsa da, sıradan halkın bu askeri sınıf üzerindeki ekonomik gücü (pirinç üretimi) genellikle arka planda kalır.",
+      "whyInteresting": "Samuray maaşlarının ve daimyo gücünün pirinç üzerinden ölçülmesi, feodal Japonya’da tarımın yalnızca geçim değil siyasi iktidar aracı olduğunu gösterir.",
+      "misconception": "Köylülerin tamamen pasif ve güçsüz olduğu sanılır; oysa köy toplulukları ve İkkō-ikki gibi hareketler bazı bölgelerde samuray otoritesine ciddi biçimde meydan okuyabildi.",
+      "nextTopics": [
+        "Pirinç Ekonomisi",
+        "Budist Tapınakları",
+        "İkkō-ikki"
+      ],
+      "sources": [
+        {
+          "title": "Feudal Society in Japan (Britannica)",
+          "url": "https://www.britannica.com/place/Japan/Medieval-Japan",
+          "type": "official"
+        },
+        {
+          "title": "Daily Life in Medieval Japan (National Museum of Japanese History)",
+          "url": "https://www.rekihaku.ac.jp/english/",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [
+        "ancient-roman-day",
+        "medieval-night-life",
+        "baghdad-daily-life-new"
+      ],
+      "reviewerNote": "Toplumsal yapı Japon Ulusal Tarih Müzesi ile doğrulandı.",
+      "mediaConnection": "Feodal Japonya temalı dizi ve oyunlar samuray dünyasını öne çıkarır; bu kart, aynı dönemin köy ekonomisini ve sıradan insanların siyasi ağırlığını tamamlayıcı bir katman olarak okur.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "feodalizm",
+        "gnlk-hayat",
+        "japonya",
+        "samuray"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Dizi ve oyunlar feodal Japonya’yı çoğunlukla samuray bakışından anlatır; tarihsel zeminde pirinç üretimi, köy özerkliği ve vergi düzeni en az savaş kadar belirleyicidir.",
+      "whyItMatters": "Feodal Japonya’yı sadece kılıç ve onur üzerinden okumak, bu dünyanın ekonomik omurgasını oluşturan köylü emeğini görünmez kılar.",
+      "quickRealityCheck": "Feodal Japonya’da güç gerçekten sadece samurayların elinde miydi — yoksa pirinç üreten köyler bu düzenin görünmez omurgası mıydı?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "mesopotamian-markets-new",
+      "title": "Mezopotamya Pazarları ve İlk Bankacılık",
+      "subtitle": "Borç, faiz ve kil tablet sözleşmeler.",
+      "mediaType": "general",
+      "mediaTitle": "Ekonomi",
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Mezopotamya",
+        "Ekonomi",
+        "Hukuk"
+      ],
+      "whatWeSee": "Antik pazarlar genellikle sadece takas usulü alışveriş yapılan yerler olarak gösterilir.",
+      "realHistory": "Modern finans sisteminin temelleri, sanıldığının aksine Wall Street'te değil, 4000 yıl önce Mezopotamya'nın kerpiç tapınaklarında atılmıştır. Sümer ve Babil medeniyetlerinde, tapınaklar sadece dini merkezler değil, aynı zamanda dünyanın ilk 'merkez bankaları' gibi işlev görüyordu. Henüz madeni para icat edilmeden önce, arpa ve gümüş standart bir ödeme aracı olarak kullanılıyordu. Tapınak rahipleri, çiftçilere tohum veya ekipman ödünç verir, bu borçları ise 'kil tabletler' üzerine titizlikle kaydederlerdi. Babil'de gelişen bu sistem, kredi, faiz, ipotek ve hatta çek benzeri ödeme emirlerini içeriyordu. Hammurabi Kanunları'nın büyük bir kısmı, bu ticari ilişkileri, borç-faiz oranlarını ve dolandırıcılığa karşı verilen cezaları düzenlemek için yazılmıştır. Pazarlar, sadece mal takası yapılan yerler değil, bu hukuki sözleşmelerin şahitler huzurunda mühürlendiği karmaşık ekonomik ekosistemlerdi.\n\nBugün bir saatin 60 dakika, bir dairenin 360 derece olmasının nedeni Mezopotamyalıların kullandığı '60'lık sayı sistemi'dir.\n\nBu sistem, matematikte ve dolayısıyla muhasebe ve finans kayıtlarında muazzam bir kolaylık sağlıyordu.\n\nBabil'de faiz oranları o kadar yüksekti ki (genellikle %20-%33 arası), borcunu ödeyemeyenler kölelik riskiyle karşı karşıya kalırdı; bu yüzden halef krallar bazen meşruiyet kazanmak için tüm borçları silen 'af ilanları' (Amesharu) yaparlardı.",
+      "accuracyNote": "Oyunlarda antik pazarlar genellikle sadece görsel bir dekor veya basit bir takas mekanı olarak sunulur. Ancak Mezopotamya'daki ekonomik hayat, bugün kullandığımız birçok finansal kavramın 'analog' halini barındırıyordu. Örneğin bir borç senedi olan kil tablet, başka birine devredilebiliyordu (ciro ediliyordu). Oyunlar bu derinliği genellikle yansıtmasa da, o dönemde bir tüccarın sahip olduğu 'kredi notu' ve mühürlü tabletlerin güvenilirliği, modern bankacılığın ruhunu yansıtır. Kil tabletlerin bir zarf içine konulup üzerine tekrar aynı bilgilerin yazılması, tarihteki ilk 'veri doğrulama' ve 'güvenlik' yöntemlerinden biridir.",
+      "whyInteresting": "Bugün bir saatin 60 dakika, bir dairenin 360 derece olmasının nedeni Mezopotamyalıların kullandığı '60'lık sayı sistemi'dir. Bu sistem, matematikte ve dolayısıyla muhasebe ve finans kayıtlarında muazzam bir kolaylık sağlıyordu. Babil'de faiz oranları o kadar yüksekti ki (genellikle %20-%33 arası), borcunu ödeyemeyenler kölelik riskiyle karşı karşıya kalırdı; bu yüzden halef krallar bazen meşruiyet kazanmak için tüm borçları silen 'af ilanları' (Amesharu) yaparlardı. Antik Mezopotamya, paranın fiziksel formundan ziyade, 'güven ve kayıt' üzerine kurulu bir sistemin ne kadar güçlü olabileceğini kanıtlamıştır.",
+      "misconception": "Paranın icadına kadar ticaretin çok basit olduğu sanılır; oysa Mezopotamya’da modern finansın temelleri atılmıştı.",
+      "nextTopics": [
+        "Hammurabi Kanunları",
+        "Çivi Yazılı Tabletler",
+        "Babil Ekonomisi"
+      ],
+      "sources": [
+        {
+          "title": "Economy of Ancient Mesopotamia (Britannica)",
+          "url": "https://www.britannica.com/place/Mesopotamia/Economy",
+          "type": "official"
+        },
+        {
+          "title": "Banking in Babylon (University of Chicago)",
+          "url": "https://oi.uchicago.edu/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Ekonomik sistem Chicago Üniversitesi Şarkiyat Enstitüsü verileriyle doğrulandı.",
+      "mediaConnection": "Mezopotamya çarşılarını canlandıran sahneler, yazının ve matematiğin ilk kez ticari ihtiyaçlar doğrultusunda bu tezgahlarda nasıl doğduğunu hissettirir.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "ekonomi",
+        "hukuk",
+        "mezopotamya"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Ekonomi sahne diliyle konuyu yoğunlaştırır; kayıtlar ise aynı konuyu daha parçalı bir çerçevede anlatır.",
+      "whyItMatters": "Bu başlık, bu sistem, matematikte ve dolayısıyla muhasebe ve finans kayıtlarında muazzam bir kolaylık sağlıyordu fikrini medya anlatısından ayrı okumayı sağlar.",
+      "quickRealityCheck": "Paranın icadına kadar ticaretin çok basit olduğu denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

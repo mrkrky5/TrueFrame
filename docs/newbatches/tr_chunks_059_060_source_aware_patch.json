@@ -1,0 +1,344 @@
+{
+  "batch": "tr-chunks-059-060-source-aware",
+  "sourceChunks": [
+    "tr-chunk-059.json",
+    "tr-chunk-060.json"
+  ],
+  "notes": [
+    "External source-aware editorial review for Turkish chunks 059 and 060.",
+    "Only changed fields are included. Apply by id + locale.",
+    "sourceUpdates are separated from text field updates."
+  ],
+  "entries": [
+    {
+      "id": "tf26-094-declaration-rights",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Generic short fields were cleaned up; the card now distinguishes the Declaration's universal language from its limited initial scope.",
+      "fields": {
+        "subtitle": "Hak dili kuruldu, kapsam tartışması kaldı",
+        "whatWeSee": "Assassin’s Creed Unity, devrim Paris’ini sokak gerilimi, kulüp siyaseti ve söylenti akışıyla verir. İnsan ve Yurttaş Hakları Bildirgesi ise çoğu zaman duvar afişi ya da arka plan fikri gibi kalır. Oyun, hak dilinin doğduğu atmosferi hissettirir; fakat bu metnin hangi kurumları değiştirdiğini ve kimleri dışarıda bıraktığını doğal olarak daha az açar.",
+        "realHistory": "26 Ağustos 1789’da kabul edilen İnsan ve Yurttaş Hakları Bildirgesi, Eski Rejim ayrıcalıklarına karşı yeni bir siyasal dil kurdu. Egemenliğin kaynağını ulusa bağladı; hukukun önünde eşitlik, ifade özgürlüğü, mülkiyet, güvenlik ve keyfi tutuklamaya karşı korunma gibi başlıkları devrimci düzenin temeline yerleştirdi. Metin yalnız hukuki bir liste değil, kralın ve ayrıcalıklı sınıfların üstünde soyut bir yurttaşlık ilkesi olduğunu ilan eden güçlü bir meşruiyet hamlesiydi.\n\nAncak bildirgenin evrensel dili, pratikte herkes için eşit sonuç üretmedi. Kadınlar siyasal hakların dışında kaldı; köleleştirilmiş insanlar ve sömürgelerde yaşayan topluluklar metnin vaat ettiği özgürlük alanına tam dahil edilmedi. Olympe de Gouges’in 1791’de yayımladığı Kadın ve Yurttaş Hakları Bildirgesi, bu dışlamaya doğrudan cevap niteliğindeydi. Devrim ilerledikçe savaş, ekonomik kriz ve Terör Dönemi, hak söylemi ile olağanüstü devlet şiddeti arasındaki gerilimi daha da görünür kıldı.\n\nUnity’nin yakaladığı sokak enerjisi bu yüzden doğru ama eksiktir. Bildirge, yalnızca devrimci coşkunun sloganı değil; anayasa tartışmaları, mahkeme pratikleri, kulüp siyaseti ve sonraki hak mücadeleleri için sürekli başvurulan bir referans oldu. Tarihsel önemi, hem modern hak dilini güçlendirmesinde hem de “bu haklar kimleri kapsıyor?” sorusunu açık bırakmasında yatar.",
+        "accuracyNote": "Oyun devrim atmosferini iyi verir; bildirgenin hukuki dili, dışladığı gruplar ve sonraki tartışma etkisi daha sınırlı görünür.",
+        "whyInteresting": "Aynı metin hem ayrıcalık düzenini kıran güçlü bir başlangıç, hem de dışarıda bıraktığı gruplar için yeni bir mücadele zemini oldu.",
+        "misconception": "1789 Bildirgesi’nin hakları en başından tüm topluma eşit biçimde uyguladığı sanılır.",
+        "mediaChanged": "Unity bildirgeyi daha çok devrim atmosferinin parçası yapar; tarihsel ağırlık, metnin kurumları ve yurttaşlık sınırlarını yeniden tanımlamasındadır.",
+        "whyItMatters": "Haklar Bildirgesi, modern özgürlük dilinin nasıl hem kurucu hem eksik olabileceğini gösterir.",
+        "quickRealityCheck": "1789’da ilan edilen hak dili gerçekten herkesi kapsıyor muydu, yoksa kapsam sonraki mücadelelerle mi genişledi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Declaration of Human and Civic Rights of 26 August 1789",
+            "url": "https://www.conseil-constitutionnel.fr/en/declaration-of-human-and-civic-rights-of-26-august-1789",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Declaration of the Rights of Man - 1789",
+            "url": "https://avalon.law.yale.edu/18th_century/rightsof.asp",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "French Revolution Digital Archive",
+            "url": "https://frda.stanford.edu/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-095-reign-terror",
+      "locale": "tr",
+      "decision": "minor_rewrite",
+      "reason": "Text was already usable, but the institutional framing of emergency law, price controls and tribunals needed to be tightened.",
+      "fields": {
+        "subtitle": "Giyotin değil, olağanüstü hukuk düzeni",
+        "realHistory": "Terör Dönemi, 1793-1794 arasında devrimin iç ve dış tehdit algısıyla olağanüstü yetkiler üretmesinin sonucuydu. Cumhuriyet gençti, Avrupa monarşileriyle savaş halindeydi ve içeride karşı devrim korkusu yüksekti. Bu baskı altında Kamu Selameti Komitesi merkezi yürütme gücüne dönüştü. Devrim Mahkemeleri hızlandırıldı; 17 Eylül 1793 tarihli Şüpheliler Yasası, kimin “cumhuriyet düşmanı” sayılabileceğini genişleterek tutuklama eşiğini düşürdü.\n\nAynı dönemde siyaset yalnız idam meydanlarında işlemiyordu. İaşe krizi, fiyat artışları ve kent yoksulluğu, devrimci yönetimi temel mallar için fiyat maksimumları koymaya itti. Sans-culottes baskısı, Jakoben çizginin radikalleşmesini hızlandırırken yerel komiteler ve Paris seksiyonları da olağanüstü yönetimin günlük ayaklarına dönüştü. Giyotinin simge değeri büyüktür; fakat dönemin gerçek ağırlığı, hukuk ve idarenin “geçici güvenlik” gerekçesiyle olağan dışı biçimde genişlemesindedir.\n\n9 Thermidor’da Robespierre’in düşüşü, bu sistemin kendi aktörlerini de yutabileceğini gösterdi. Terör Dönemi bu yüzden yalnız birkaç liderin aşırılığı değil; savaş, gıda krizi, temsil kaygısı ve olağanüstü hukuk arasındaki tehlikeli birleşmenin tarihsel örneğidir.",
+        "accuracyNote": "Meydan şiddeti ve politik paranoya hissi güçlüdür; dönemin hukuki-idari mekanizmaları oyun temposu içinde daralır.",
+        "whyInteresting": "Devrim kendini savunmaya çalışırken, karşı çıktığı keyfi iktidar araçlarını başka bir adla yeniden üretebildi.",
+        "misconception": "Terör Dönemi’nin sadece Robespierre’in kişisel aşırılığı olduğu sanılır; savaş, iaşe krizi ve olağanüstü hukuk birlikte çalıştı.",
+        "mediaChanged": "Oyun dönemi suikast ve gizli örgü çatışması ekseninde kişiselleştirir; tarihsel tabloda şiddeti büyüten asıl unsur genişleyen güvenlik devletiydi.",
+        "whyItMatters": "Terör Dönemi, özgürlük adına kurulan bir rejimin güvenlik baskısıyla nasıl cezai devlete dönüşebileceğini gösterir.",
+        "quickRealityCheck": "1793’te mesele sadece giyotin miydi, yoksa olağanüstü yasalar ve iaşe politikası da şiddeti sistemleştirdi mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Reign of Terror (Britannica)",
+            "url": "https://www.britannica.com/event/Reign-of-Terror",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Law of Suspects",
+            "url": "https://revolution.chnm.org/d/417/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "The Maximum",
+            "url": "https://revolution.chnm.org/d/415/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-096-sans-culottes",
+      "locale": "tr",
+      "decision": "flagship_expand",
+      "reason": "Flagship card was too short and needed structured expansion around clothing, food prices, sections, Jacobin alliance/tension, and Thermidor.",
+      "fields": {
+        "subtitle": "Pantolon sembolü, ekmek siyaseti",
+        "realHistory": "Sans-culottes, Fransız Devrimi’nin yalnız “öfkeli kalabalık” diye anlatılamayacak kent tabanlı siyasal gücüydü. İsimleri, aristokratların diz altı culotte modasına karşı işçi ve zanaatkârların uzun pantolonundan geldi; yani giyim, doğrudan sınıfsal ve siyasal bir beyana dönüştü. Bu sembol sade görünür ama devrimci Paris’te kimin “halk” adına konuşabildiğini belirleyen güçlü bir kimlik işaretiydi.\n\n### Sokak kimliği ve geçim siyaseti\nHareketin çekirdeğinde Parisli zanaatkârlar, küçük esnaf, gündelik ücretliler ve mahalle seksiyonlarında örgütlenen aktif yurttaşlar vardı. Onları harekete geçiren şey yalnız soyut cumhuriyet ideali değildi. Ekmek fiyatı, ücretlerin erimesi, temel mallara erişim ve savaş ekonomisinin yarattığı baskı, devrimci meşruiyetin günlük sınavıydı. Bir yurttaş için özgürlük, eğer ailesine ekmek götüremiyorsa soyut kalıyordu. Bu yüzden sans-culottes talepleri çoğu zaman fiyat denetimi, stokçuluğa karşı önlem, daha doğrudan temsil ve “halk düşmanı” sayılan aktörlere sert müdahale etrafında toplandı.\n\n1792-1794 arasında mahalle seksiyonları, kulüp siyaseti ve sokak gösterileri Paris’te karar alıcıları sürekli baskı altında tuttu. Jakobenlerle ilişkileri basit bir emir-komuta ilişkisi değildi. Kimi anlarda ittifak kurdular; kimi anlarda merkez yönetim, tabanın ekonomik ve cezai taleplerini fazla tehlikeli buldu. Sans-culottes, devrimci hükümet için hem vazgeçilmez destek hem de kontrol edilmesi gereken bağımsız bir baskı gücüydü.\n\n### Devrimci ortak mı, yönetilmesi gereken güç mü?\nSans-culottes baskısı, Genel Maksimum gibi fiyat politikalarının ve radikal güvenlik önlemlerinin siyasal zeminini güçlendirdi. Fakat bu güç kalıcı olmadı. Thermidor sonrasında mahalle örgütlenmeleri zayıflatıldı, fiyat kontrolü geriletildi ve sokak siyasetinin meşruiyeti sistemli biçimde kırıldı. Böylece hareket, devrimci iktidarın ihtiyaç duyduğu ama aynı zamanda korktuğu bir toplumsal aktöre dönüştü.\n\nAssassin’s Creed Unity kalabalığın enerjisini doğru yakalar: slogan, öfke, yoksulluk ve şiddet ihtimali aynı sokakta dolaşır. Tarihsel ayrıntı ise şunu ekler: bu enerji yalnız ideolojiyle açıklanamaz. Sans-culottes’un siyasi gücü, mutfak masasına gelen ekmekle mecliste tartışılan egemenlik fikrini birbirine bağlayabilmesinden doğdu. Bu yüzden hareket, modern protesto siyasetinde ekonomik adalet talebinin neden hızla temsil krizine dönüşebildiğini anlamak için hâlâ güçlü bir örnektir.\n\n### Popüler hafızadaki miras\nSans-culottes imgesi sonraki kuşaklarda hem devrimci cesaretin hem de kontrolsüz kitle şiddetinin sembolü olarak kullanıldı. Bu ikili miras önemlidir: hareketi yalnız kahramanlaştırmak da yalnız kriminalleştirmek de eksik kalır. Onlar, devrimin “halk” dediği kesimin devletten ne beklediğini açıkça gösterdi: ucuz ekmek, siyasi ses, haysiyet ve düşman kabul edilen ayrıcalıklı gruplara karşı hesap sorma. Unity’nin sokak atmosferi bu sesi duyurur; tarih, o sesin hangi ekonomik basınçlardan çıktığını ve neden kısa sürede bastırıldığını açıklar.\n\nBu mirasın zor tarafı, aynı hareketin hem demokratik katılım talebini hem de cezalandırıcı siyaset arzusunu taşımasıdır. Sans-culottes, temsilin yalnız sandık ve meclisle sınırlı kalmadığını, sokak baskısının da kurumları değiştirebildiğini gösterdi. Fakat bu baskı, olağanüstü hukukla birleştiğinde özgürlük dilini daha sert bir denetim diline de çevirebildi.",
+        "accuracyNote": "Kıyafet sembolü ve halk mobilizasyonu gerçektir; oyun, mahalle seksiyonları ve fiyat politikası gibi kurumsal ayrıntıları doğal olarak sadeleştirir.",
+        "whyInteresting": "Sans-culottes, devrimci ideali doğrudan yaşam maliyeti, ekmek fiyatı ve mahalle örgütlenmesiyle birleştirdi.",
+        "misconception": "Sans-culottes’un yalnızca fanatik ve kontrolsüz bir kalabalık olduğu sanılır.",
+        "mediaChanged": "Unity sokak enerjisini hızlandırır; tarihsel kayıtlarda bu enerji, ekonomik kriz ve örgütlü mahalle siyasetiyle birlikte çalışır.",
+        "whyItMatters": "Sans-culottes, halk katılımının devrimi nasıl ileri taşıyıp aynı anda yeni bir yönetim krizine dönüştürebileceğini gösterir.",
+        "quickRealityCheck": "Sans-culottes sadece devrim coşkusu muydu, yoksa ekmek fiyatı ve temsil krizine verilen örgütlü bir yanıt mıydı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Sansculotte (Britannica)",
+            "url": "https://www.britannica.com/topic/sansculotte",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Sans-Culottes and Popular Politics (EHNE)",
+            "url": "https://ehne.fr/en/encyclopedia/themes/the-french-revolution-and-europe/actors-and-practices/the-sans-culottes",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "The Maximum",
+            "url": "https://revolution.chnm.org/d/415/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-097-women-march",
+      "locale": "tr",
+      "decision": "minor_rewrite",
+      "reason": "Text was decent but too short; expanded political meaning and reduced over-specific crowd certainty.",
+      "fields": {
+        "whatWeSee": "Assassin’s Creed Unity’de Parisli kadınların ekmek protestosu ve Versailles’a uzanan yürüyüşü görev zinciri gibi görünür. Arno Dorian kurgusal kahraman olarak olayın içindedir; fakat olayın tarihsel çekirdeği gerçektir: ekmek krizi, saray izolasyonu ve sokak siyasetinin birleştiği bir kırılma anı.",
+        "realHistory": "5 Ekim 1789 sabahı Paris’teki pazar kadınları ve mahalle kalabalıkları, ekmek fiyatı ve tahıl kıtlığı nedeniyle Hôtel de Ville çevresinde toplandı. Protesto kısa sürede yalnız geçim meselesi olmaktan çıktı; silah arayışı, Ulusal Meclis üzerindeki baskı ve kralın Versailles’ta uzak bir merkezde kalmasına duyulan öfke aynı hatta birleşti.\n\nKalabalık yağmur altında Versailles’a yürüdü. Kadınların yanında erkekler ve Ulusal Muhafız unsurları da vardı, ancak hareketin sembolik gücü Parisli kadınların öncülüğünden geliyordu. Sarayda müzakereler, gerilim ve şiddet yaşandı; ertesi gün XVI. Louis ve ailesi Paris’e dönmek zorunda kaldı. Bu dönüş, monarşinin saraydan bağımsız hareket edebilme kapasitesini ciddi biçimde sınırladı.\n\nBu nedenle yürüyüş, yalnız “ekmek isteyen kalabalık” anlatısına sığmaz. Ekmek fiyatı, siyasal egemenlik ve kraliyet otoritesi aynı krizde birleşti. Unity olayı aksiyon ritmine çeker; tarihsel anlamı ise kadınların geçim talebini doğrudan rejim krizine dönüştürebilmesindedir.",
+        "accuracyNote": "5 Ekim 1789 yürüyüşü ve kraliyet ailesinin Paris’e getirilmesi doğrudur; Arno Dorian ve Assassin-Templar hattı kurgusaldır.",
+        "whyInteresting": "Geçim talebiyle başlayan yürüyüş, monarşinin fiziksel merkezini Versailles’tan Paris’e çekerek siyasetin yönünü değiştirdi.",
+        "misconception": "Kadınların Yürüyüşü’nün yalnızca anlık ekmek öfkesi olduğu sanılır; olay doğrudan monarşi krizine bağlandı.",
+        "mediaChanged": "Oyun yürüyüşü görev zinciri yapar; gerçekte olay, kadınların sokak siyasetini kraliyet otoritesine dayattığı bir dönüm noktasıydı.",
+        "whyItMatters": "Kadınların Yürüyüşü, devrim siyasetinin yalnız meclislerde değil pazar yerlerinde ve ekmek kuyruklarında da kurulduğunu gösterir.",
+        "quickRealityCheck": "5 Ekim 1789’da kadınların ekmek yürüyüşü neden kralın Paris’e dönmesiyle sonuçlandı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "March on Versailles (Britannica)",
+            "url": "https://www.britannica.com/event/March-on-Versailles",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Versailles at the Heart of the French Revolution",
+            "url": "https://en.chateauversailles.fr/discover/history/key-dates/versailles-heart-french-revolution",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Women in the French Revolution (Library of Congress)",
+            "url": "https://guides.loc.gov/women-in-the-french-revolution",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-098-revolutionary-calendar",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Repeated and partly inaccurate text was fixed; the calendar's official timeline and social friction were corrected.",
+      "fields": {
+        "subtitle": "Devrim zamanı bile yeniden adlandırdı",
+        "whatWeSee": "Assassin’s Creed Unity’de Paris sokaklarında ay adları ve tarih dili değişmiş görünür: Vendémiaire, Brumaire, Thermidor gibi sözcükler devrimin yalnız kurumları değil zamanı da dönüştürmek istediğini hissettirir. Oyun bu ayrıntıyı çoğu zaman atmosfer olarak kullanır; tarihsel olarak ise takvim, kilise ve monarşiyle bağları koparma girişimiydi.",
+        "realHistory": "Fransız Devrim Takvimi 1793’te yürürlüğe girdi, ancak başlangıç noktası geriye dönük olarak 22 Eylül 1792, yani Cumhuriyet’in ilanı ve sonbahar ekinoksu kabul edildi. Sistem, yılı on iki otuz günlük aya böldü; her ay üç adet on günlük “décade” içeriyordu. Ay adları krallar, azizler veya kilise ritüelleri yerine doğa ve tarım imgelerinden türetildi: Vendémiaire üzüm hasadını, Brumaire sisi, Thermidor yaz sıcağını çağrıştırıyordu.\n\nAmaç yalnız pratik tarih değiştirmek değildi. Devrimci yönetim, Hristiyan haftasını, pazar gününü ve azizler takvimini kırarak yurttaş zamanı yaratmak istiyordu. Fakat sistem gündelik hayatta dirençle karşılaştı. On günlük döngü, çalışanların alıştığı dinlenme ritmini bozdu; uluslararası ticaret ve yerel pazar ilişkileri eski takvimle yeni takvim arasında sürekli çeviri gerektirdi. Paris’te memurlar ve mahkemeler yeni dili kullanmaya çalışırken, kırsalda eski alışkanlıklar uzun süre yaşamaya devam etti.\n\nNapolyon yönetimi idari verimlilik ve pratik uyumsuzluk gerekçeleriyle takvimi 1805 sonunda kaldırdı; 1 Ocak 1806’da Gregoryen takvime dönüldü. Bu kısa ömür, reformun önemsiz olduğu anlamına gelmez. Devrim Takvimi, devletin zamanı bile siyasi bir alan olarak gördüğünü gösteren en somut örneklerden biridir.",
+        "accuracyNote": "Takvim reformu ve 1806’da Gregoryen takvime dönüş kaynaklarla uyumludur; oyunda tarihsel kullanım süresi ve toplumsal direnç doğal olarak sadeleşir.",
+        "whyInteresting": "Bir rejimin yalnız yasaları değil, haftayı ve ay adlarını da değiştirmeye çalışması otorite iddiasını çok somut kılar.",
+        "misconception": "Devrim Takvimi’nin yüzyıllarca kullanıldığı sanılır; resmi kullanım yaklaşık on iki yıl sürdü.",
+        "mediaChanged": "Oyun takvimi dekoratif arka plan gibi gösterir; tarihsel olarak her ay adı ve on günlük hafta düzeni siyasi bir yeniden kodlama girişimiydi.",
+        "whyItMatters": "Devrim Takvimi, modern devletin zamanı bile ideolojik ve idari bir araç olarak düzenleyebileceğini gösterir.",
+        "quickRealityCheck": "Vendémiaire ve Thermidor gibi ay adları ne kadar süre resmi kaldı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "French Revolutionary Calendar (Britannica)",
+            "url": "https://www.britannica.com/topic/French-revolutionary-calendar",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "French Republican Calendar (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/French_Republican_Calendar/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The French Republican Calendar: A Case Study in the Sociology of Time (JSTOR)",
+            "url": "https://www.jstor.org/stable/2094573",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-099-vendee",
+      "locale": "tr",
+      "decision": "minor_rewrite",
+      "reason": "Good core; tightened causes and removed too-broad ethical phrasing while keeping civil-war complexity.",
+      "fields": {
+        "subtitle": "Devrimin kırsalda açtığı iç savaş",
+        "realHistory": "Vendée İsyanı (1793-1796), Fransız Devrimi’nin en kanlı iç savaşlarından biriydi. Batı Fransa’daki kırsal Katolik nüfus, zorunlu askerlik, din karşıtı politikalar ve yerel özerklik kaybı nedeniyle Cumhuriyet yönetimine karşı silahlı direnişe geçti. Hareket aristokrat liderlik unsurları taşısa da tabanda köylüler, yerel zanaatkârlar ve rahip ağları önemli rol oynadı.\n\nParis’te alınan devrimci kararlar kırsalda soyut ideoloji olarak değil, gündelik hayatı değiştiren müdahale olarak hissedildi. Kilise mülklerinin kamulaştırılması, ruhban sınıfının devlete bağlılık yemini ve ardından gelen zorunlu askerlik, yerel topluluklar için hem inanç hem aile düzenine doğrudan saldırı gibi algılandı. Bu nedenle Vendée’yi yalnız “aristokratların kışkırttığı monarşi yanlısı isyan” diye okumak eksik kalır.\n\nÇatışmalar kısa sürede toplu infazlar, köy yakmaları ve kitlesel sivil ölümler içeren karşılıklı sertlik döngüsüne dönüştü. Cumhuriyet ordusunun “infernal columns” operasyonları ve isyancıların misillemeleri, devrim tarihinin en tartışmalı hafıza alanlarından birini yarattı. Unity’nin Paris merkezli kaosu bu kırsal cepheyi sınırlı verir; tarihsel tablo ise devrimin aynı anda kurucu, zorlayıcı ve yıkıcı olabildiğini gösterir.",
+        "accuracyNote": "Dönemin kutuplaşma ruhu doğru yakalanır; Vendée’nin kırsal, dini ve askerlik temelli dinamikleri oyunda ikincil kalır.",
+        "whyInteresting": "Aynı devrimci devlet bir bölgede özgürleştirici, başka bir bölgede yaşam dünyasına saldırı gibi algılanabildi.",
+        "misconception": "Vendée’nin yalnızca aristokratların organize ettiği dar bir karşı-devrim hareketi olduğu düşünülür.",
+        "mediaChanged": "Unity odağı Paris komplolarına daraltır; Vendée ise devrim ile kırsal toplum arasındaki meşruiyet savaşını görünür kılar.",
+        "whyItMatters": "Vendée, devrimlerin merkezden taşraya inerken nasıl iç savaşa dönüşebileceğini anlamak için kritik bir örnektir.",
+        "quickRealityCheck": "Vendée direnişi neden sadece “monarşi yanlısı isyan” etiketiyle açıklanamaz?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "War of the Vendée (Britannica)",
+            "url": "https://www.britannica.com/event/War-of-the-Vendee",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "War in the Vendée (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/War_in_the_Vendee/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "French Revolution Digital Archive",
+            "url": "https://frda.stanford.edu/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-100-napoleon-rise",
+      "locale": "tr",
+      "decision": "flagship_expand",
+      "reason": "Flagship card was too short and repetitive; expanded around military rise, propaganda, 18 Brumaire, Consulate reforms and imperial turn.",
+      "fields": {
+        "subtitle": "Devrimin subayı, düzenin imparatoru",
+        "realHistory": "Napolyon Bonaparte’ın yükselişi, Fransız Devrimi’nin açtığı askeri ve kurumsal boşlukta şekillendi. Eski aristokrat terfi düzeni sarsılmış, cumhuriyet orduları savaş baskısı altında yetenekli subaylara daha hızlı alan açmıştı. Korsikalı bir topçu subayı olan Napolyon, bu yeni dünyada hem askeri başarı hem propaganda üretme becerisiyle öne çıktı. Onun hikayesi, tek başına “büyük adam” anlatısından çok, devrimci krizin yetenekli ve hırslı aktörlere açtığı alanın sonucudur.\n\n### Cumhuriyet ordusundan siyasi aktöre\n1793 Toulon kuşatmasındaki rolü, onun adını Paris’te duyurdu. 1796-1797 İtalya seferi ise Napolyon’u yalnız başarılı bir general değil, kendi askerleri üzerinde kişisel sadakat kurabilen bir politik figüre dönüştürdü. Zaferler, ganimet dağıtımı, hızlı bildiriler ve gazeteler üzerinden kurduğu imaj, onu Direktuar yönetiminin sıradan komutanlarından ayırdı. Mısır seferi askeri açıdan tartışmalıydı; ancak Fransa’daki siyasi kriz ve haber akışını yönetme becerisi, prestijinin tamamen çökmesini engelledi.\n\n1799’da Direktuar zayıflamış, savaş, mali sorunlar ve yönetim güvensizliği rejimi yıpratmıştı. 18 Brumaire darbesi, Napolyon’un “devrimi kurtarma” diliyle iktidarı ele geçirmesini sağladı. Fakat kurtarılan şey çoğulcu devrim siyaseti değil, düzen ve merkezi otorite ihtiyacıydı. Birinci Konsül olarak yürütme gücünü yoğunlaştırdı; yönetim, maliye, eğitim ve hukuk alanlarında merkezi reformları hızlandırdı.\n\n### Devrim mirası ve imparatorluk\nNapolyon’un çelişkisi burada yatar: Devrimin eşit yurttaşlık, kariyere yetenekle yükselme ve hukuki standardizasyon mirasını devraldı; ama bunu giderek kişisel otorite ve askeri genişleme ile birleştirdi. Code Napoléon mülkiyet, aile ve hukuk düzenini standartlaştırdı; devletin taşradaki varlığını daha okunur hale getirdi. Buna karşılık siyasi muhalefet daraldı, basın denetlendi ve savaş ekonomisi toplum üzerinde ağır yük oluşturdu. 1804’te kendini imparator ilan etmesi, devrimden çıkan askeri liderin monarşik sembolleri yeni bir biçimde geri çağırdığını gösterdi.\n\nAssassin’s Creed Unity Napolyon’u genç ve dikkat çekici bir figür olarak sahneye sokar. Tarihsel olarak asıl önemli olan cameo etkisi değil, onun devrim krizinden nasıl bir düzen vaadi çıkardığıdır. Napolyon, devrimin saf devamı değildi; devrimin açtığı kurumları ve savaş enerjisini imparatorluk düzenine çeviren geçiş figürüydü.\n\n### Neden bu kadar hızlı yükseldi?\nNapolyon’un başarısı yalnız askeri deha ile açıklanamaz. Devrim orduları sürekli savaş halindeydi; bu da hızlı terfi, risk alma ve yeni taktiklerin denenmesi için alan açtı. Direktuar’ın zayıflığı, başarılı generali siyasal kurtarıcı gibi gösterdi. Kamuoyu zafer bekliyor, ordu güçlü bir lider arıyor, siyasetçiler ise düzeni sağlayacak bir isim istiyordu. Napolyon tam bu beklentilerin kesişiminde yükseldi. Bu yüzden onun hikayesi, devrimin nasıl hem fırsat hem yorgunluk ürettiğini gösteren en güçlü örneklerden biridir.\n\nBu yükselişin bedeli de vardı. Devrim, ayrıcalıklı doğumu zayıflatırken orduyu yeni bir toplumsal merdivene çevirdi; fakat bu merdiven kalıcı barış değil, sürekli seferberlik istedi. Napolyon düzen vaat ederken Fransa’yı daha geniş bir Avrupa savaş sistemine bağladı. Bu yüzden yükselişi, başarı kadar yorgunluk ve merkezileşme hikayesidir.",
+        "accuracyNote": "Napolyon’un genç subay olarak yükselişi tarihsel zemine uygundur; oyun, Toulon-İtalya-Mısır-18 Brumaire hattını arka plan cameo ritmine sıkıştırır.",
+        "whyInteresting": "Napolyon aynı anda devrimin açtığı meritokrasi kapısından yükseldi ve devrimin çoğulcu siyasetini daraltan yeni bir otorite kurdu.",
+        "misconception": "Napolyon’un Fransız Devrimi’nin saf ve kesintisiz devamı olduğu sanılır.",
+        "mediaChanged": "Unity Napolyon’u kısa ama güçlü bir figür gibi gösterir; tarihsel dönüşüm, askeri başarıların kurum ve propaganda gücüne çevrilmesindedir.",
+        "whyItMatters": "Napolyon’un yükselişi, devrimlerin düzen arayışıyla nasıl otoriter bir imparatorluk projesine evrilebileceğini gösterir.",
+        "quickRealityCheck": "18 Brumaire’de Napolyon devrimi gerçekten kurtardı mı, yoksa krizden kişisel iktidar mı çıkardı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Napoleon I (Britannica)",
+            "url": "https://www.britannica.com/biography/Napoleon-I",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Coup of 18 Brumaire (Britannica)",
+            "url": "https://www.britannica.com/event/Coup-of-18-Brumaire",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Napoleon.org - The Life of Napoleon I Timeline",
+            "url": "https://www.napoleon.org/en/young-historians/napodoc/chrono-consulat-1er-empire/",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-101-declaration",
+      "locale": "tr",
+      "decision": "minor_rewrite",
+      "reason": "Text was solid; tightened the diplomatic function, drafting process and exclusion contradiction without overexpanding.",
+      "fields": {
+        "subtitle": "Özgürlük manifestosu, diplomasi belgesi",
+        "realHistory": "Bağımsızlık Bildirisi, 4 Temmuz 1776’da bir anda doğan tek kişilik ilham metni değildi; aylar süren kopuş tartışmasının ve Kongre içi revizyonların sonucuydu. Thomas Jefferson ana taslağı yazdı, ancak Adams, Franklin ve Komite’nin diğer üyeleriyle birlikte metin işlendi; ardından Kıta Kongresi metni siyasi olarak kabul edilebilir hale getirmek için önemli değişiklikler yaptı. Belgenin amacı yalnız felsefi özgürlük beyanı değildi. Kolonilerin Britanya’dan kopuşunu uluslararası hukuk diliyle gerekçelendirmek ve özellikle Fransa gibi potansiyel müttefiklere siyasi ciddiyet göstermek gerekiyordu.\n\nMetindeki “bütün insanlar eşit yaratılmıştır” iddiası devrimci bir dil sundu, fakat 1776’daki pratik kapsamı çok sınırlıydı. Kadınlar, köleleştirilmiş Afrikalılar, Yerli uluslar ve mülksüz kesimler yeni siyasal topluluğun dışında kaldı. Jefferson’ın köle ticaretini eleştiren bölümü nihai metinden çıkarıldı; bu da birlik stratejisinin eşitlik iddiasını nasıl daralttığını gösterir.\n\nBu yüzden bildiri hem kurucu bir metin hem de büyük bir çelişki belgesidir. Sonraki yüzyıllarda kölelik karşıtları, kadın hakları savunucuları ve sivil haklar hareketi aynı dili daha geniş bir eşitlik talebi için kullandı. Hamilton sahne ritmiyle karar anını hızlandırır; tarihsel ağırlık ise belgenin diplomasi, koalisyon ve dışlama gerilimini aynı anda taşımasındadır.",
+        "accuracyNote": "Belgenin dönüm noktası rolü doğru; taslak, komite ve Kongre revizyon süreci müzikal akışta doğal olarak sıkıştırılır.",
+        "whyInteresting": "Aynı metin hem eşitlik iddiasını ilan etti hem de bu iddianın dışında bırakılan gruplar için gelecekte mücadele dili sağladı.",
+        "misconception": "Bağımsızlık Bildirisi’nin tek bir kişinin anlık ilhamıyla ve neredeyse hiç değiştirilmeden yazıldığı düşünülür.",
+        "mediaChanged": "Hamilton karar sürecini sahne temposuna uyarlar; tarihsel süreç daha uzun, daha diplomatik ve daha çelişkili bir pazarlıktı.",
+        "whyItMatters": "Bağımsızlık Bildirisi, kurucu metinlerin hem ideal hem siyasi uzlaşma ürünü olduğunu gösterir.",
+        "quickRealityCheck": "Bildirideki eşitlik cümlesi 1776’da gerçekten herkesi kapsıyor muydu?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Declaration of Independence: A Transcription",
+            "url": "https://www.archives.gov/founding-docs/declaration-transcript",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Declaration of Independence, 1776",
+            "url": "https://history.state.gov/milestones/1776-1783/declaration",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Jefferson's Original Rough Draught of the Declaration",
+            "url": "https://www.loc.gov/exhibits/declara/ruffdrft.html",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "patchId": "tr-chunks-081-082-source-aware-patch",
+  "locale": "tr",
+  "sourceChunks": [
+    81,
+    82
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-editorial-qa",
+  "summary": {
+    "cardCount": 8,
+    "approvedAsIs": [],
+    "minorEdit": [],
+    "rewrite": [
+      "tf26-193-flagellants",
+      "tf26-194-antisemitism",
+      "tf26-195-labor-shortage",
+      "tf26-197-doctors",
+      "tf26-198-death-art",
+      "tf26-199-rural-impact"
+    ],
+    "sourceUpdates": [
+      "tf26-193-flagellants",
+      "tf26-194-antisemitism",
+      "tf26-195-labor-shortage",
+      "tf26-196-medieval-hygiene",
+      "tf26-197-doctors",
+      "tf26-198-death-art",
+      "tf26-199-rural-impact",
+      "tf26-200-memory"
+    ],
+    "notes": [
+      "Flagship kartlar tf26-196-medieval-hygiene ve tf26-200-memory 400+ kelime başlıklı yapıya genişletildi.",
+      "Kara Veba kartlarında tekrar eden realHistory blokları, generic subtitle/mediaChanged alanları ve kaynak kalitesi zayıf/generic linkler temizlendi.",
+      "Veba doktoru kartında gagalı maskenin 14. yüzyıl Kara Veba ikonu değil, erken modern/17. yüzyıl miasma kültürüyle ilişkili olduğu daha net ayrıldı.",
+      "Kırsal etki kartında Wharram Percy gibi terk edilmiş köylerin tek nedenle Kara Veba'ya bağlanamayacağı; nüfus şoku, ücretler, toprak kullanımı ve geç dönem enclosure dinamiklerinin birlikte düşünülmesi gerektiği vurgulandı."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-193-flagellants",
+      "reviewStatus": "rewrite",
+      "notes": "Generic subtitle ve tekrar eden realHistory blokları temizlendi; hareketin kısa ömürlü kitlesel tövbe ritüeli, kilise tepkisi ve azınlık şiddetiyle ilişkisi daha dengeli kuruldu.",
+      "fields": {
+        "subtitle": "Veba korkusu sokakta tövbe ritüeline dönüşünce",
+        "whatWeSee": "Kara Veba temalı yapımlarda flagellantlar, sokaklarda ilahi söyleyerek yürüyen ve sırtlarını kamçılayan kalabalıklar olarak görünür. Görsel olarak çok güçlüdür: hastalığa karşı tıbbi çare bulunamayınca bedenin cezalandırılması bir tür toplu açıklama ve kontrol arayışı gibi sahnelenir. Bu imge tarihsel bir çekirdeğe dayanır; fakat hareket kilisenin resmî ve düzenli politikası değil, hızla büyüyüp hızla kuşku uyandıran bağımsız bir dinsel dalgaydı.",
+        "realHistory": "1348–1350 arasındaki büyük veba dalgası sırasında Avrupa'nın birçok bölgesinde kendini kamçılama hareketleri görünür hale geldi. Gruplar şehirden şehre yürür, belirli ritüel düzenleri içinde dua eder, ilahi söyler ve vebayı insanlığın günahlarına bağlardı. Bu davranış, çaresizlik içinde anlam arayan toplumlar için ilk anda güçlü bir tövbe dili sundu. Bazı şehirlerde kalabalıklar onları kabul etti; bazı yerel din adamları da harekete sempatiyle baktı.\n\nAncak hareket büyüdükçe kilise açısından sorunlu hale geldi. Flagellant grupları, ruhban denetimi dışında vaaz veriyor, günah çıkarma ve kurtuluş fikrine dair resmî öğretiyi gölgeleyebilecek iddialar taşıyabiliyordu. Papa VI. Clement'in 1349'da hareketi kınaması bu yüzden yalnız 'aşırı dindarlık' tepkisi değildi; kontrolsüz kitle hareketinin sapkınlık, toplumsal karışıklık ve şiddet riski üretmesiyle ilgiliydi.\n\nBu risk bazı şehirlerde çok somutlaştı. Veba korkusu, Yahudi topluluklara ve başka azınlıklara yönelik suçlama dalgalarıyla birleştiğinde flagellant kalabalıkları bazen nefret ve pogrom atmosferinin parçası oldu. Her flagellant grubu aynı şiddeti işlemedi; ama hareketin sokak gücü, salgın döneminde kimin suçlu ilan edileceği sorusunu daha tehlikeli hale getirdi.\n\nBu nedenle flagellantları yalnız karanlık bir Orta Çağ dekoru gibi görmek eksik kalır. Onlar, tıbbi belirsizlik, dinsel korku, kilise otoritesi ve kalabalık siyaseti arasındaki kırılgan ilişkinin görünür yüzüdür.",
+        "accuracyNote": "Flagellant hareketleri ve 1349 papalık kınaması iyi belgelenmiştir; fakat hareketin örgütlenmesi, şiddetle ilişkisi ve yerel kabul düzeyi bölgeden bölgeye değişir.",
+        "whyInteresting": "Bir salgın ritüeli kısa süre içinde hem halk dindarlığı hem de resmî otorite için tehdit olarak okunabilir hale geldi.",
+        "misconception": "Flagellantların kilisenin resmî salgın politikası olduğu sanılır; gerçekte hareket çoğu zaman ruhban denetiminin dışında gelişti ve 1349'da kınandı.",
+        "relatedCardIds": [
+          "tf26-194-antisemitism",
+          "tf26-191-plague-spread",
+          "tf26-192-quarantine"
+        ],
+        "readingTimeMinutes": 2,
+        "mediaConnection": "Kara Veba temalı sokak tövbesi sahneleri, 1349 flagellant dalgası ve papalık kınamasıyla birlikte okununca daha doğru bağlama oturur.",
+        "mediaChanged": "Yapımlar flagellantları görsel şok olarak kullanır; tarihsel kaynaklar bu hareketi dinsel tövbe, kurum dışı otorite ve salgın şiddetiyle birlikte ele alır.",
+        "whyItMatters": "Felaket anlarında anlam arayışı, kurumsal denetim zayıfladığında hızla kalabalık siyasetine ve dışlayıcı şiddete dönüşebilir.",
+        "quickRealityCheck": "Flagellant yürüyüşleri gerçekten kilisenin onayladığı bir çözüm müydü, yoksa kısa sürede kınanan bağımsız bir kitle hareketi mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Flagellants (Fitzwilliam Museum)",
+            "url": "https://fitzmuseum.cam.ac.uk/explore-our-collection/highlights/context/stories-and-histories/the-flagellants",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Flagellant (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/topic/flagellant",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Don’t Whip Yourself for Faith, Said the Pope (Christian History Institute)",
+            "url": "https://christianhistoryinstitute.org/dailystory/permalink/dont-whip-yourself-for-faith-said-the-pope",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-194-antisemitism",
+      "reviewStatus": "rewrite",
+      "notes": "Metin genel olarak güçlüydü; kaynaklı çerçeve korundu ama başlık dili daha netleştirildi, pogromların her yerde aynı işlemediği ve Papa VI. Clement'in müdahalesinin yerel şiddeti durdurmaya yetmediği daha dikkatli yazıldı.",
+      "fields": {
+        "subtitle": "Salgın korkusu günah keçisi arayınca",
+        "whatWeSee": "Kara Veba temalı yapımlar genellikle karanlık sokaklara, kapatılan kapılara, cenaze arabalarına ve hastalığın bedensel dehşetine odaklanır. Bu korku atmosferi tarihsel olarak yerindedir; ancak çoğu anlatıda eksik kalan katman, salgın paniğinin komşu topluluklara yönelen nefretle nasıl birleştiğidir. Yahudi topluluklara yönelik suçlamalar, veba tarihinin en ağır ve en az gösterilen gerçeklerinden biridir.",
+        "realHistory": "1347–1351 arasındaki Kara Veba, Avrupa'da yalnız tıbbi ve demografik bir felaket yaratmadı; zaten var olan antisemit önyargıları da ölümcül biçimde tetikledi. Hastalığın nedenini açıklayacak mikrop bilgisi yoktu. İnsanlar kötü hava, ilahi ceza, astrolojik işaretler ve komplo söylentileri arasında anlam aradı. Bu ortamda Yahudiler, “kuyuları zehirlemek” veya Hristiyanları bilerek hasta etmek gibi asılsız iddialarla hedef haline getirildi.\n\nBu iddiaların kanıtla ilgisi yoktu. Yahudi topluluklar da vebadan ölüyordu; Papa VI. Clement'in 1348'de yayımladığı metinlerde de bu nokta vurgulandı. Buna rağmen yerel kalabalıklar, bazı şehir yönetimleri ve ekonomik çıkar grupları şiddeti durdurmadı. 1348–1350 arasında Strasbourg, Basel, Freiburg ve başka merkezlerde Yahudi topluluklara yönelik pogromlar yaşandı; bazıları sürüldü, bazıları yakılarak öldürüldü, bazı topluluklar da Doğu Avrupa'ya göç etmek zorunda kaldı.\n\nHer şehirde aynı yoğunlukta şiddet yaşandığını varsaymak doğru değildir. Bazı yerlerde koruma çabaları oldu, bazı yöneticiler saldırıları engellemeye çalıştı. Fakat geniş resim açıktır: salgın korkusu, önceden var olan dinsel ve ekonomik düşmanlıkla birleşince günah keçisi mekanizmasına dönüştü.\n\nBu yüzden Kara Veba anlatısı yalnız hastalık anlatısı değildir. Filmlerde görülen panik doğru olabilir; ama tarihsel hakikat, bu paniğin kimlere yöneltildiğini ve bazı toplulukların hem hastalık hem nefret tarafından nasıl vurulduğunu da anlatmayı gerektirir.",
+        "accuracyNote": "Antisemit suçlamalar ve 1348–1350 pogromları güçlü biçimde belgelenmiştir; ancak şiddetin biçimi ve ölçeği şehirden şehre değiştiği için tek tip Avrupa anlatısı kurmamak gerekir.",
+        "whyInteresting": "Papa VI. Clement'in Yahudileri korumaya çalışan açıklamaları bile yerel kalabalık şiddetini durdurmaya yetmedi.",
+        "misconception": "Kara Veba'nın yalnız tıbbi bir felaket olduğu sanılır; gerçekte salgın korkusu, antisemit önyargılarla birleşerek kitlesel şiddet üretti.",
+        "mediaConnection": "Kara Veba temalı yapımların salgın paniği, antisemit pogrom kayıtlarıyla tamamlanmadan eksik kalır.",
+        "mediaChanged": "Yapımlar çoğu zaman hastalığın görsel dehşetini öne çıkarır; tarihsel kayıtlar aynı korkunun Yahudi topluluklara yönelen suçlama ve pogromlara dönüştüğünü gösterir.",
+        "whyItMatters": "Kriz anlarında bilgi eksikliği, hazır düşman imgeleriyle birleştiğinde toplumsal felaketin ikinci bir şiddet dalgasına dönüşebileceğini gösterir.",
+        "quickRealityCheck": "Kara Veba sırasında Yahudiler de ölüyorken, kuyu zehirleme suçlaması neden bu kadar hızlı yayıldı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Antisemitism in History: From the Early Church to 1400 (USHMM)",
+            "url": "https://encyclopedia.ushmm.org/content/en/article/antisemitism-in-history-from-the-early-church-to-1400",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Pope Clement VI on the Jews (1348) - Fordham Sourcebook",
+            "url": "https://sourcebooks.fordham.edu/source/1348-blackdeath-jews.asp",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "The Black Death (Holocaust Explained / Wiener Holocaust Library)",
+            "url": "https://www.theholocaustexplained.org/anti-semitism/medieval-antisemitism/the-black-death/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Black Death: effects and significance (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/event/Black-Death/Effects-and-significance",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-195-labor-shortage",
+      "reviewStatus": "rewrite",
+      "notes": "Tekrarlı realHistory blokları temizlendi; işgücü kıtlığı yalnız 'hayatta kalanlar zenginleşti' gibi basit bir formüle indirgenmeden ücret baskısı, Statute of Labourers, hareketlilik ve bölgesel farklarla anlatıldı.",
+      "fields": {
+        "subtitle": "Veba sonrası iş gücü pazarlığı",
+        "whatWeSee": "Kara Veba temalı yapımlarda tarlaların boş kalması, işçi bulamayan lordlar ve çöken köy düzeni çoğu zaman arka plan görüntüsü gibi geçer. Oysa bu görüntülerin arkasında Avrupa'nın emek düzenini sarsan büyük bir pazarlık vardır. Hayatta kalan köylüler ve işçiler, felaketin ardından aynı koşullara geri dönmek istemedi; lordlar ve krallıklar ise eski ücret ve bağlılık düzenini korumaya çalıştı.",
+        "realHistory": "Kara Veba, 14. yüzyıl Avrupa'sında yalnız nüfus kaybı yaratmadı; iş gücünün fiyatını ve pazarlık gücünü de değiştirdi. Çok sayıda işçinin ölmesi, tarla, zanaat ve hizmet işlerinde çalışan insan sayısını azalttı. Hayatta kalanlar daha yüksek ücret, daha iyi kira şartı veya başka bir lordun toprağına geçme imkânı arayabildi. Bu durum, özellikle İngiltere gibi kayıtları güçlü bölgelerde açık biçimde izlenir.\n\nİngiltere'de kraliyet, 1349 Ordinance of Labourers ve 1351 Statute of Labourers ile veba öncesi ücret düzeylerini korumaya çalıştı. Amaç, işçilerin yükselen taleplerini sınırlamak ve işgücü hareketliliğini denetlemekti. Yasa, ücret tavanı ve çalışma zorunluluğu gibi düzenlemeler içeriyordu; fakat uygulama her yerde aynı ölçüde etkili olmadı. Mahkeme kayıtları, işçilerin yasağa rağmen daha iyi şartlar aradığını ve işverenlerin de işgücü bulmak için kuralları esnetebildiğini gösterir.\n\nBu süreci “veba feodalizmi bitirdi” diye tek cümleyle kapatmak da doğru değildir. Serfliğin gerilemesi bölgeye göre değişti ve yüzyıllara yayıldı. Batı Avrupa'da bazı yerlerde ücretli işçilik ve kiralama yaygınlaşırken, Doğu Avrupa'da daha farklı bağımlılık biçimleri güçlenebildi. İngiltere'deki gerilim, 1381 Köylü Ayaklanması'nın arka planındaki uzun baskı birikiminin de parçalarından biriydi.\n\nBu nedenle emek kıtlığı, felaketin ters yüz edilmiş bir sonucudur: ölüm korkunçtu, fakat hayatta kalanların işgücü daha değerli hale geldi. Bu değer artışı ise hemen özgürlük getirmedi; yasa, mahkeme ve toplumsal çatışma üzerinden yeniden pazarlık edildi.",
+        "accuracyNote": "Statute of Labourers ve veba sonrası ücret baskısı iyi belgelenmiştir; ancak sonuçlar bölgeden bölgeye değiştiği için tüm Avrupa'da aynı feodal çözülme çizgisi varsayılmamalıdır.",
+        "whyInteresting": "Demografik felaket, hayatta kalan bazı işçiler için beklenmedik bir pazarlık gücü yaratırken devletin ücretleri dondurma girişimini de doğurdu.",
+        "misconception": "Veba sonrası emek düzeninin bir anda çöktüğü sanılır; gerçekte ücret, göç, yasa ve mahkeme üzerinden uzun bir çekişme yaşandı.",
+        "relatedCardIds": [
+          "tf26-199-rural-impact",
+          "tf26-200-memory",
+          "tf26-198-death-art"
+        ],
+        "mediaConnection": "Boş tarla ve lord krizi imgeleri, Statute of Labourers ve manorial kayıtlarla birlikte okunduğunda veba sonrası emek pazarlığının ölçeği görünür olur.",
+        "mediaChanged": "Yapımlar çoğu zaman kırsal boşluğu dramatik görüntü olarak kullanır; arşivler bu boşluğun ücret davaları, işgücü hareketliliği ve yasal baskıyla yönetilmeye çalışıldığını gösterir.",
+        "whyItMatters": "Kara Veba, iş hukukunun ve emek pazarlığının erken Avrupa tarihinde krizle nasıl şekillendiğini gösteren güçlü bir örnektir.",
+        "quickRealityCheck": "Veba sonrası işçiler gerçekten daha güçlü mü oldu, yoksa devlet ve lordlar bu gücü yasayla sınırlamaya mı çalıştı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Plague (The National Archives UK)",
+            "url": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/early-modern/plague/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Parliament and the Black Death (UK Parliament)",
+            "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliament-and-the-black-death/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Statute of Laborers, 1351 (Yale Avalon Project)",
+            "url": "https://avalon.law.yale.edu/medieval/statlab.asp",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Economic and social effects of the Black Death (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/event/Black-Death/Economic-and-social-effects",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-196-medieval-hygiene",
+      "reviewStatus": "flagship_rewrite",
+      "notes": "Flagship olduğu halde tekrarlı ve tek eksenliydi; 'kirli Orta Çağ' klişesi yerine temizlik pratikleri, altyapı sınırları, miasma teorisi ve sinema estetiği başlıklarıyla genişletildi.",
+      "fields": {
+        "subtitle": "Kirli Orta Çağ klişesi neyi saklıyor?",
+        "whatWeSee": "Kara Veba temalı yapımlarda Orta Çağ çoğu zaman tek bir kokuya indirgenir: çamurlu sokak, lağım, yıkanmayan bedenler ve karanlık evler. Bu estetik salgının dehşetini artırır, ama tarihsel tabloyu fazla basitleştirir. Sorun insanların temizlik fikrinden tamamen habersiz olması değil; mikrop bilgisinin yokluğu, kalabalık yerleşim, zayıf altyapı ve belediye kurallarının sınırlı uygulanmasıydı.",
+        "realHistory": "### Temizlik vardı, ama modern hijyen değildi\n\nOrta Çağ Avrupası'nı “kimsenin yıkanmadığı” tek tip bir dünya gibi anlatmak yanlıştır. Birçok şehirde hamamlar, çamaşır yıkama pratikleri, el yıkama alışkanlıkları ve koku giderme yöntemleri vardı. Manastırlar, saraylar ve varlıklı şehir evleri suya erişim ve temizlik açısından kırsal yoksullardan farklıydı. Bazı tıp metinleri banyo, koku ve beden bakımına dair öneriler veriyordu. Yani temizlik kültürü yok değildi; fakat bu kültür mikrop teorisine dayanmıyordu.\n\nBu ayrım önemlidir. İnsanlar beden, koku ve çevre temizliğiyle ilgilenebiliyor, ama hastalığın bakteriyel veya pire/kemirgen kaynaklı döngüsünü bilmiyordu. Dolayısıyla doğru görünen bazı davranışlar yanlış nedenlerle yapılıyor, bazı tehlikeler ise hiç fark edilmiyordu.\n\n### Altyapı sınırı\n\nBüyük şehirlerde asıl sorun, bireysel yıkanma isteğinden çok altyapıydı. Dar sokaklar, hayvan dışkısı, pazar atıkları, yetersiz kanalizasyon, kuyuların kirlenme riski ve kalabalık hanlar sağlık koşullarını zorlaştırıyordu. Londra ve Paris gibi şehirlerde çöp, mezbaha ve sokak temizliği için kurallar kondu; fakat uygulama kapasitesi sınırlıydı. Kuralların varlığı bile “hiç kimse önemsemiyordu” iddiasını zayıflatır; aynı zamanda uygulamadaki yetersizlik de gerçek riski gösterir.\n\nKara Veba bağlamında bu durum daha da karmaşıktı. Vebanın temel etkeni Yersinia pestis olsa da Orta Çağ insanı bunu bilmiyordu. Kirli çevre bazı kemirgen ve pire döngülerini kolaylaştırabilir, ama salgını sadece “pislik”le açıklamak hem biyolojiyi hem ticaret yollarını hem de insan hareketini görmezden gelir.\n\n### Miasma ve koku mantığı\n\nDönemin yaygın açıklamalarından biri miasma, yani hastalığın kötü hava ve kötü kokudan geldiği fikriydi. Bu yüzden tütsüler, güzel kokulu otlar, sirke, gül suyu ve havayı temizleme ritüelleri tıbbi veya koruyucu sayılabiliyordu. Bugünden bakınca bu yöntemler yetersiz görünür; fakat kendi bilgi sistemi içinde tutarlıydı. İnsanlar kokuyu hastalıkla ilişkilendiriyor, dolayısıyla kokuyu düzeltmeyi sağlık müdahalesi sayıyordu.\n\nBu nedenle temizlik kartının asıl dersi şudur: Orta Çağ insanı “pis olduğu için” vebaya yenilmedi. Salgının yıkıcılığı, sınırlı tıbbi bilgi, eksik altyapı, yoğun ticaret, hayvan-insan yakınlığı ve toplumsal panikle birlikte oluştu.\n\n### Sinemanın abartısı\n\nFilmler karanlık, çamurlu ve kötü kokulu şehirleri sever; çünkü bu estetik vebayı hemen hissettirir. Ancak bu görüntü her yeri ve herkesi temsil etmez. Hamam kültürü, çamaşır pratikleri, belediye düzenlemeleri ve tıbbi temizlik tavsiyeleri aynı dönemin parçasıdır. Daha doğru bir True Frame okuması, “temizlik vardı ama modern hijyen yoktu” cümlesinde toplanabilir. Klişeyi kırmak, felaketin büyüklüğünü azaltmaz; onu daha doğru nedenlerle anlamamızı sağlar.",
+        "accuracyNote": "Orta Çağ'da hamam, çamaşır ve şehir temizlik düzenlemeleri vardı; fakat uygulama bölge ve sınıfa göre değişti. Mikrop teorisinin bilinmemesi ve altyapı eksikliği, temizlik pratiklerinin salgını durdurmasını engelledi.",
+        "whyInteresting": "Orta Çağ insanı temizlikten tamamen habersiz değildi; asıl kırılma, temizlik pratiklerinin modern mikrop bilgisiyle desteklenmemesiydi.",
+        "misconception": "Orta Çağ'da kimsenin yıkanmadığı sanılır. Oysa birçok yerde banyo ve temizlik alışkanlıkları vardı; sorun bunların salgın biyolojisini açıklamaya yetmemesiydi.",
+        "readingTimeMinutes": 3,
+        "mediaConnection": "Kirli sokak estetiği, ortaçağ hamam ve şehir sağlığı kaynaklarıyla birlikte okunduğunda daha dengeli bir sağlık tarihi anlatısı kurar.",
+        "mediaChanged": "Yapımlar tek tip 'pis Orta Çağ' atmosferi kurar; tarihsel kaynaklar temizlik alışkanlıkları, belediye düzenlemeleri, miasma teorisi ve altyapı sınırlarını birlikte gösterir.",
+        "whyItMatters": "Salgınları yalnız 'pislik'le açıklamak, hem dönemin gerçek pratiklerini hem de hastalığın biyolojik ve ekonomik yayılımını yanlış anlamaya yol açar.",
+        "quickRealityCheck": "Veba filmlerindeki kirli sokaklar doğru olabilir; peki bu, Orta Çağ'da hiç temizlik kültürü olmadığı anlamına gelir mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Scrub-a-Dub in a Medieval Tub (JSTOR Daily)",
+            "url": "https://daily.jstor.org/scrub-a-dub-in-a-medieval-tub/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Sanitation, Baths, and Street-Cleaning in the Middle Ages and Renaissance (JSTOR)",
+            "url": "https://www.jstor.org/stable/2848055",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Miasma theory (Science Museum)",
+            "url": "https://www.sciencemuseum.org.uk/objects-and-stories/medicine/miasma-theory",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-197-doctors",
+      "reviewStatus": "rewrite",
+      "notes": "Veba doktoru kartı korunabilir durumdaydı ama kaynak seti ve tarih ayrımı güçlendirildi; gagalı maskenin Kara Veba değil erken modern miasma kültürüyle bağlantısı daha net ve daha temkinli yazıldı.",
+      "fields": {
+        "subtitle": "Gagalı maske Kara Veba'nın değil, sonraki salgınların ikonu",
+        "whatWeSee": "Kara Veba denince sinema ve oyunlarda en tanıdık figürlerden biri gagalı maskeli veba doktorudur: uzun burun, koyu pelerin, eldiven, asa ve sisli sokak. Görsel o kadar güçlüdür ki çoğu izleyici bunu 1347–1351 Kara Veba'sının doğal parçası sanır. Oysa bu ikon, büyük ölçüde Kara Veba'dan yüzyıllar sonra oluşmuş erken modern bir tıp ve miasma imgesidir.",
+        "realHistory": "14. yüzyıl Kara Veba'sında hekimler, rahipler, cerrahlar ve yerel sağlık görevlileri vardı; fakat bugün bildiğimiz gagalı veba doktoru kostümü bu döneme ait değildir. Uzun burunlu maskenin kökeni genellikle 17. yüzyılda Charles de Lorme'a atfedilen koruyucu kıyafet anlatısıyla ilişkilendirilir. Balmumu kaplı uzun giysi, eldiven, gözlük ve içine aromatik otlar konan gaga biçimli maske, hastalığın kötü havadan yayıldığını düşünen miasma teorisine dayanıyordu.\n\nBuradaki hata, simge ile dönem arasındaki kaymadır. 1347–1351 salgınında Avrupa şehirleri çoğunlukla karantina, ev kapatma, cenaze düzeni, dua, kan alma ve sınırlı tıbbi müdahalelerle cevap verdi. Mikrop teorisi yoktu; Yersinia pestis ya da pire/kemirgen döngüsü bilinmiyordu. Ancak gagalı maske, 14. yüzyılın genel tıbbi pratiğini temsil etmez.\n\nÜstelik 17. yüzyıl kostümünün kullanım ölçeği konusunda da dikkatli olmak gerekir. Bazı anlatılar ve gravürler bu imgeyi popülerleştirdi; fakat her salgın bölgesinde yaygın biçimde kullanıldığı kesin değildir. Bugün gördüğümüz maskeli figür, tarihsel gerçeklik kadar sonradan oluşmuş görsel hafızanın da ürünüdür.\n\nBu yüzden filmlerdeki gagalı doktor yanlış değil, anakronik bir semboldür: veba korkusunu mükemmel temsil eder, ama Kara Veba'nın kendisini bire bir temsil etmez.",
+        "accuracyNote": "Gagalı veba doktoru kostümünü 1347–1351 Kara Veba'sına yerleştirmek anakroniktir. Erken modern kaynaklar ve 17. yüzyıl miasma kültürüyle ilişki daha sağlamdır; kullanımın yaygınlığı konusunda ise kanıtlar sınırlıdır.",
+        "whyInteresting": "Tarihin en tanınan salgın ikonlarından biri, çoğu yapımın anlattığı salgından yaklaşık üç yüzyıl sonra belirginleşti.",
+        "misconception": "Gagalı veba doktoru maskesinin Orta Çağ Kara Veba döneminde standart koruyucu kıyafet olduğu sanılır.",
+        "mediaConnection": "Kara Veba temalı filmler ve oyunlar gagalı doktoru salgın ikonu olarak kullanır; tarihsel bağlam kostümü 17. yüzyıl miasma düşüncesine yerleştirir.",
+        "mediaChanged": "Yapımlar etkili bir ikon seçer ama yüzyılları karıştırır; tarihsel kaynaklar 14. yüzyıl tıbbı ile erken modern plague-doctor kostümünü ayırır.",
+        "whyItMatters": "Güçlü bir görsel sembolün doğru döneme ait olup olmadığını ayırmak, tarihsel atmosfer ile tarihsel gerçeklik arasındaki farkı görmeyi sağlar.",
+        "quickRealityCheck": "Gagalı doktor maskesi gerçekten Kara Veba döneminin sahnesi mi, yoksa 17. yüzyıl salgınlarının sonradan Kara Veba'ya taşınan simgesi mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The celebrity physician and the plague (Wellcome Collection)",
+            "url": "https://wellcomecollection.org/stories/the-celebrity-physician-and-the-plague",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Plague Doctor Costumes (Public Domain Review)",
+            "url": "https://publicdomainreview.org/collection/plague-doctor-costumes/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "The extraordinary career of the Plague Doctor (University of Münster)",
+            "url": "https://www.uni-muenster.de/Religion-und-Politik/en/aktuelles/schwerpunkte/epidemien/03_Thema_Masken.shtml",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Miasma theory (Science Museum)",
+            "url": "https://www.sciencemuseum.org.uk/objects-and-stories/medicine/miasma-theory",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-198-death-art",
+      "reviewStatus": "rewrite",
+      "notes": "Tekrarlı realHistory blokları ve dekor dili temizlendi; memento mori, danse macabre ve ars moriendi ayrımı daha net kuruldu.",
+      "fields": {
+        "subtitle": "İskelet imgesi felaketle nasıl konuşur?",
+        "whatWeSee": "Kara Veba temalı yapımlarda iskeletler, kurukafalar, mezarlık duvarları ve ölümle dans eden figürler çoğu zaman atmosfer öğesi gibi kullanılır. Bu imgeler karanlık dekor değil; Avrupa'da ölümün kitlesel ve sürekli bir deneyim haline geldiği dönemin görsel diline dayanır. Sinema bu dili tek bir korku imgesi yapar; sanat tarihi ise memento mori, danse macabre ve ars moriendi gibi farklı gelenekleri ayırır.",
+        "realHistory": "Kara Veba, Avrupa'da ölüm imgelerinin yaygınlaşmasını hızlandırdı; fakat bütün ölüm sanatı doğrudan tek bir salgından çıkmış değildir. Memento mori, “ölümü hatırla” fikriyle izleyiciye hayatın geçiciliğini hatırlatır. Danse macabre geleneğinde iskelet ya da ölüm figürü, papazdan krala, tüccardan köylüye herkesi dansa çağırır; mesaj nettir: statü, zenginlik ve güç ölüm karşısında kalıcı değildir.\n\nArs moriendi geleneği ise başka bir yönden önemlidir. “İyi ölme sanatı” metinleri, ölüm döşeğinde nasıl davranılması gerektiğini, tövbe, vasiyet, son ayin ve ruhsal hazırlık gibi başlıklarla anlatır. Bu metinler yalnız korku üretmez; ölümün düzgün, ritüel ve toplumsal olarak yönetilebilir bir geçişe dönüştürülmesine yardım eder.\n\nVeba sonrası dönemde bu imgelerin gücü arttı, çünkü insanlar ölümü uzak bir olasılık değil, sokakta, evde ve kilisede sürekli karşılaşılan bir gerçek olarak yaşadı. Paris'teki mezarlık duvarları, Orta Avrupa'daki ölüm dansı örnekleri ve el yazmaları, felaketin yalnız demografik değil görsel ve ruhsal hafızasını da gösterir.\n\nBu yüzden filmlerdeki iskelet imgeleri tamamen uydurma değildir; fakat onları yalnız “Orta Çağ karanlığı” klişesi gibi okumak eksiktir. Bu imgeler, toplumun ölümü anlamlandırma, eşitleme ve ona hazırlanma çabasının parçasıydı.",
+        "accuracyNote": "Danse macabre, memento mori ve ars moriendi gelenekleri veba sonrası Avrupa'da güçlenmiştir; ancak her ölüm imgesi doğrudan Kara Veba'ya bağlanamaz.",
+        "whyInteresting": "İskelet figürü yalnız korkutmaz; toplumsal statüleri eşitleyen ve ölümü ritüel olarak yönetmeye çalışan bir dil de kurar.",
+        "misconception": "Ortaçağ ölüm sanatı yalnız batıl korku veya karanlık dekor sanılır; gerçekte hazırlık, eşitlik ve ahlaki uyarı işlevleri de taşır.",
+        "relatedCardIds": [
+          "tf26-200-memory",
+          "tf26-199-rural-impact",
+          "tf26-196-medieval-hygiene"
+        ],
+        "mediaConnection": "Filmlerdeki kurukafa ve ölüm dansı motifleri, danse macabre freskleri ve ars moriendi el yazmalarıyla tarihsel bağ kurar.",
+        "mediaChanged": "Yapımlar ölüm imgelerini korku atmosferi için seçer; tarihsel bağlam bu imgelerin ritüel, öğretici ve toplumsal hafıza işlevini de gösterir.",
+        "whyItMatters": "Bir toplumun felaketi nasıl resmettiği, ölümü nasıl anladığını ve sonraki kuşaklara nasıl aktardığını gösterir.",
+        "quickRealityCheck": "Filmlerde gördüğümüz iskelet imgeleri sadece korku dekoru mu, yoksa veba sonrası ölümle baş etme dilinin parçası mı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Danse macabre (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/art/danse-macabre",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Ars moriendi print (British Museum)",
+            "url": "https://www.britishmuseum.org/collection/object/P_1904-0206-127",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Memento Mori (The Met Collection)",
+            "url": "https://www.metmuseum.org/art/collection/search/436838",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-199-rural-impact",
+      "reviewStatus": "rewrite",
+      "notes": "Tekrarlı realHistory blokları temizlendi; Wharram Percy gibi örneklerin doğrudan ve yalnız Kara Veba'ya bağlanamayacağı düzeltilerek kırsal nüfus, manorial kayıtlar, ücretli emek ve arazi kullanımı birlikte işlendi.",
+      "fields": {
+        "subtitle": "Boş köyler tek bir salgınla mı açıklanır?",
+        "whatWeSee": "Kara Veba temalı yapımlarda terk edilmiş köyler, boş tarlalar ve tek başına kalmış çiftçiler kırsal felaketin en sessiz görüntüleridir. Şehirlerdeki ölüm arabaları kadar dramatik görünmezler; ama salgının uzun vadeli etkisini anlamak için köy kayıtları, kira defterleri ve terk edilmiş yerleşim arkeolojisi en az mezarlık sahneleri kadar önemlidir.",
+        "realHistory": "Kara Veba kırsal Avrupa'yı derinden etkiledi, fakat her terk edilmiş köyü doğrudan ve yalnız vebaya bağlamak doğru değildir. Nüfus kaybı, işgücü kıtlığı ve miras kırılmaları kırsal düzeni sarstı. Bazı tarlalar işlenmeden kaldı, bazı lordlar ücretli işçiliğe veya kiralama düzenine yöneldi, bazı bölgelerde hayvancılık ve özellikle koyunculuk daha kârlı hale geldi. Bu süreçler yer yer köylerin küçülmesine veya terk edilmesine katkı sağladı.\n\nİngiltere'deki Wharram Percy gibi iyi incelenmiş terk edilmiş köyler, bu konuda dikkatli olmayı öğretir. Yerleşim Orta Çağ boyunca uzun süre yaşadı; fakat nihai terk edilme yalnız 1348–1349 vebasıyla açıklanmaz. English Heritage, Wharram Percy'nin erken 16. yüzyıla gelindiğinde büyük ölçüde boşaldığını; bunun gradual abandonment ve forced evictions gibi daha uzun süreçlerle ilişkili olduğunu belirtir. Yani veba önemli bir şok olabilir, ama tek neden değildir.\n\nManorial kayıtlar bu dönüşümü daha somut gösterir: kira gelirleri düşer, işgücü davaları artar, miras ilişkileri değişir, bazı aile hatları kesilir. Kırsal toplumlar bazen komşu köylerden göç alarak toparlandı, bazen de ekonomik merkez değişince eski yerleşim önemini yitirdi. Doğu ve Batı Avrupa'da sonuçlar aynı değildi; Batı'da bazı bağımlılık biçimleri gevşerken başka bölgelerde daha sert emek kontrolü görülebildi.\n\nBu yüzden kırsal etki kartının ana dersi şudur: Veba köyleri yalnız boşaltmadı; toprak, emek, miras ve üretim ilişkilerini yeniden pazarlığa açtı. Filmlerdeki hayalet köy imgesi güçlüdür, ama arkasında tek bir ölüm anından çok yüzyıllık kırsal dönüşüm vardır.",
+        "accuracyNote": "Kara Veba kırsal nüfus ve emek düzenini sarsmıştır; ancak terk edilmiş köylerin nedenleri çoğu zaman veba, arazi kullanımı değişimi, göç, kiralama ve geç dönem enclosure süreçlerinin birleşimidir.",
+        "whyInteresting": "Bir köyün kaybolması bazen salgından çok daha uzun süren ekonomik ve hukuki dönüşümlerin sessiz sonucudur.",
+        "misconception": "Ortaçağdaki terk edilmiş köylerin tamamının doğrudan Kara Veba yüzünden boşaldığı sanılır; gerçekte nedenler bölgeye ve zamana göre değişir.",
+        "mediaConnection": "Terk edilmiş köy görüntüleri, manorial kayıtlar ve Wharram Percy gibi arkeolojik örneklerle birlikte daha doğru okunur.",
+        "mediaChanged": "Yapımlar boş köyü tek felaket imgesi yapar; tarihsel kaynaklar nüfus şoku, işgücü kıtlığı, arazi kullanımı ve uzun dönem ekonomik tercihleri birlikte gösterir.",
+        "whyItMatters": "Kırsal dönüşümü anlamak, Kara Veba'nın Avrupa'da toprak ve emek ilişkilerini nasıl uzun vadeli biçimde değiştirdiğini görmeyi sağlar.",
+        "quickRealityCheck": "Bir ortaçağ köyü terk edildiyse, bunu hemen Kara Veba'ya bağlamak doğru mu?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "History of Wharram Percy Deserted Medieval Village (English Heritage)",
+            "url": "https://www.english-heritage.org.uk/visit/places/wharram-percy-deserted-medieval-village/history/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Wharram Percy deserted medieval village (Historic England)",
+            "url": "https://historicengland.org.uk/listing/the-list/list-entry/1011377",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Manorial records (The National Archives UK)",
+            "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/manorial-records/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Economic and social effects of the Black Death (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/event/Black-Death/Economic-and-social-effects",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-200-memory",
+      "reviewStatus": "flagship_rewrite",
+      "notes": "Flagship kart tekrarlıydı ve bazı nüfus/Floransa iddiaları fazla kesin duruyordu; hafıza, kayıt, sanat, ekonomi ve 'ortaçağ karanlığı' miti başlıklarıyla daha dengeli 400+ kelimelik yapıya çıkarıldı.",
+      "fields": {
+        "subtitle": "Felaket nasıl hafızaya dönüştü?",
+        "whatWeSee": "Kara Veba temalı yapımlar boş köyleri, toplu mezarları, çan seslerini ve 'veba çağı'na dair karanlık diyalogları tek bir felaket atmosferinde birleştirir. Bu sinemasal yoğunluk işe yarar; izleyiciye ölümün her yeri sardığı hissini verir. Ancak Kara Ölüm hafızası yalnız ani ölüm görüntülerinden oluşmaz. Vergi kayıtları, miras davaları, vaazlar, edebiyat, sanat ve sonraki yüzyılların tarih anlatıları da bu hafızayı kurar.",
+        "realHistory": "### Ölümden kayda\n\n1347–1351 arasındaki Kara Veba, Avrupa ve Akdeniz dünyasında çok büyük nüfus kaybı yarattı. Ölüm oranı bölgeye göre değişti; bazı yerler ağır biçimde çökerken bazı bölgelerde etkiler daha sınırlı kaldı. Bu yüzden tek bir kesin yüzdeyle bütün Avrupa'yı anlatmak doğru değildir. Yine de ortak şok açıktır: aileler parçalandı, işgücü azaldı, kilise kadroları boşaldı, miras ve kira ilişkileri yeniden düzenlendi.\n\nBu şokun izleri yalnız kroniklerde değil, gündelik kayıt dilinde de görülür. Manorial defterler hangi kiracının öldüğünü, hangi toprağın el değiştirdiğini, hangi hizmet yükümlülüğünün aksadığını kaydedebilir. Kilise kayıtları, rahip ölümleri ve yeni atamalar üzerinden demografik kaybı hissettirir. Bu belgeler, filmlerdeki tek büyük felaket anının yıllarca süren bir idari ve toplumsal artçıya sahip olduğunu gösterir.\n\n### Edebiyat ve görsel hafıza\n\nBoccaccio'nun Decameron'u, vebayı yalnız ölüm istatistiği değil, gündelik hayatın, aile bağlarının ve şehir düzeninin çözülmesi olarak anlatır. Bu edebi hafıza önemlidir; çünkü salgının insanlara yalnız bedenleriyle değil, dil ve anlatı biçimleriyle de ne yaptığını gösterir. Danse macabre, memento mori ve ars moriendi gibi gelenekler de aynı hafıza alanında çalıştı. Ölüm daha görünür, daha öğretici ve daha kolektif bir imgeye dönüştü.\n\nAncak bu imgelerin hepsini basitçe “ortaçağ karanlığı” diye okumak yanıltıcıdır. Ölüm sanatı yalnız korku üretmez; hazırlık, tövbe, eşitlik ve ritüel dili de kurar. Bir iskeletin kralı da köylüyü de dansa çağırması, ölümün toplumsal hiyerarşileri geçici hale getirdiği fikrini anlatır.\n\n### Ekonomik hafıza\n\nKara Ölüm sonrası Avrupa yalnız yas tutmadı; yeniden pazarlık yaptı. İşgücü kıtlığı bazı bölgelerde ücretleri ve hareketliliği artırdı; krallıklar bunu sınırlamaya çalıştı. Terk edilmiş tarlalar, değişen kira ilişkileri, zanaat üretimindeki kopmalar ve kırsal göç hafızanın ekonomik yüzünü oluşturdu. Bu nedenle vebayı sadece ölümle değil, hayatta kalanların kurduğu yeni düzenle de düşünmek gerekir.\n\n### Modern mit\n\nBugünkü popüler hafızada Kara Veba çoğu zaman “karanlık Orta Çağ” fikrinin kanıtı gibi kullanılır. Bu kısmen anlaşılırdır: salgın gerçekten dehşet vericiydi. Ama aynı zamanda bu kullanım, Orta Çağ toplumlarının karmaşıklığını siler. İnsanlar yalnız paniğe kapılmadı; kayıt tuttu, yas tuttu, pazarlık etti, suçladı, sanat üretti, yeni kurallar denedi ve felaketi anlamlandırmaya çalıştı.\n\nTrue Frame açısından bu kartın önemi burada yatar. Sinema boş sokak ve toplu mezar imgesini seçer; tarih ise aynı felaketin belgelerde, hukuki kayıtlarda, edebiyatta ve görsel kültürde nasıl yaşamaya devam ettiğini gösterir. Kara Ölüm hafızası, ölüm anından sonra başlar.",
+        "accuracyNote": "Kara Veba'nın demografik ve kültürel etkileri güçlü biçimde desteklenir; ancak ölüm oranları, toparlanma hızı ve bölgesel sonuçlar değişken olduğu için tek bir Avrupa genellemesi dikkatli kurulmalıdır.",
+        "whyInteresting": "Aynı felaket bir yerde edebiyat, başka yerde kira defteri, başka yerde iskelet freski olarak yaşamaya devam etti.",
+        "misconception": "Kara Veba'nın ardından Avrupa'nın tek biçimde karanlığa gömüldüğü sanılır; gerçekte bazı bölgeler hızla uyum sağlarken bazıları uzun süre demografik ve ekonomik boşluk taşıdı.",
+        "readingTimeMinutes": 3,
+        "relatedCardIds": [
+          "tf26-198-death-art",
+          "tf26-199-rural-impact",
+          "tf26-195-labor-shortage"
+        ],
+        "mediaConnection": "Boş köy, toplu mezar ve ölüm imgeleri; Boccaccio, manorial kayıtlar, ölüm sanatı ve modern tarih yazımıyla birlikte okunmalıdır.",
+        "mediaChanged": "Yapımlar tek bir felaket anına yoğunlaşır; tarihsel hafıza ise kayıt, miras, sanat, emek pazarlığı ve modern 'karanlık Orta Çağ' miti içinde katman katman oluşur.",
+        "whyItMatters": "Toplumsal travmalar yalnız yaşandıkları anda değil, sonraki kuşakların onları nasıl kayda geçirdiği ve nasıl anlattığıyla da tarih olur.",
+        "quickRealityCheck": "Kara Veba hafızası sadece toplu mezar görüntülerinden mi oluşur, yoksa vergi defterleri, edebiyat ve ölüm sanatı da aynı hafızanın parçası mı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Black Death (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/event/Black-Death",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Boccaccio, Decameron (British Library)",
+            "url": "https://www.bl.uk/collection-items/boccaccio-decameron",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Mortality Risk and Survival in the Aftermath of the Medieval Black Death (PNAS / PMC)",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4013036/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Black Death mortality not as widespread as long thought (Max Planck Society)",
+            "url": "https://www.mpg.de/18236353/black-death-mortality-not-as-widespread-as-long-thought",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

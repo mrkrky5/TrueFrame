@@ -1,0 +1,432 @@
+{
+  "patchId": "tr-game-expansion-201-205-source-aware-patch",
+  "locale": "tr",
+  "sourceChunks": [],
+  "contentRange": [
+    201,
+    205
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-new-content",
+  "summary": {
+    "cardCount": 5,
+    "approvedAsIs": [],
+    "minorEdit": [],
+    "rewrite": [],
+    "flagshipRewrite": [],
+    "newCards": [
+      "tf26-201-ac4-republic-of-pirates",
+      "tf26-202-ac4-privateering",
+      "tf26-203-ac4-blackbeard-image",
+      "tf26-204-ac3-haudenosaunee",
+      "tf26-205-ac3-boston-massacre"
+    ],
+    "flagshipNewCards": [
+      "tf26-201-ac4-republic-of-pirates",
+      "tf26-204-ac3-haudenosaunee"
+    ],
+    "sourceUpdates": [
+      "tf26-201-ac4-republic-of-pirates",
+      "tf26-202-ac4-privateering",
+      "tf26-203-ac4-blackbeard-image",
+      "tf26-204-ac3-haudenosaunee",
+      "tf26-205-ac3-boston-massacre"
+    ],
+    "notes": [
+      "Yeni içerik genişlemesinin ilk batch'i oyun ağırlıklı Assassin's Creed odaklıdır: Black Flag ve AC III.",
+      "069-070 patch şemasına hizalı tutuldu; yeni kartlar için entries içinde operation: add kullanıldı.",
+      "Flagship kartlar 400+ kelime ve ### başlık yapısıyla üretildi.",
+      "Kaynaklar web üzerinden kontrol edilerek resmi/müze/arşiv ağırlıklı seçildi."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-201-ac4-republic-of-pirates",
+      "operation": "add",
+      "reviewStatus": "new_card_flagship",
+      "notes": "Yeni oyun ağırlıklı genişleme batch'inin flagship kartı; Black Flag romantizmi Nassau'nun fiili korsan sığınağı, privateer artığı deniz emeği ve Woodes Rogers müdahalesiyle dengelendi.",
+      "fields": {
+        "title": "Korsanlar Cumhuriyeti",
+        "subtitle": "Nassau özgürlük ütopyası mıydı?",
+        "mediaType": "game",
+        "mediaTitle": "Assassin's Creed IV: Black Flag",
+        "era": "Erken Modern Dönem",
+        "region": "Karayipler",
+        "themes": [
+          "Korsanlar",
+          "Denizcilik",
+          "Ticaret",
+          "Siyaset"
+        ],
+        "whatWeSee": "Assassin's Creed IV: Black Flag, Nassau'yu imparatorlukların dışında kalmış, korsanların kendi düzenini kurduğu parlak ve tehlikeli bir özgürlük alanı gibi gösterir. Edward Kenway ve çevresindeki figürler, Kraliyet Donanması'nın disiplini ile ticaret şirketlerinin hırsına karşı denizde kendi kaderini seçmeye çalışan insanlar olarak görünür. Bu atmosfer etkileyicidir; fakat gerçek Nassau, romantik bir korsan cumhuriyetinden çok, savaş ekonomisi, düşük ücretli deniz emeği, sömürge ticareti ve devlet denetimindeki boşlukların kısa süreli kesişimiydi.",
+        "realHistory": "### Nassau neden korsan üssü oldu?\n\nAssassin's Creed IV: Black Flag, Nassau'yu özgürlük arayan korsanların kurduğu yarı romantik bir kardeşlik alanı gibi gösterir. Oyunda ada, imparatorluk donanmalarının ve ticaret şirketlerinin dışında kalmış bir liman ütopyasına benzer. Tarihte ise Nassau'nun korsan sığınağına dönüşmesi yalnız macera ruhuyla açıklanamaz. Bahamalar, 18. yüzyıl başında Atlantik ticaret yollarına yakın ama devlet denetimi zayıf bir alandı. Liman, sığ sular ve adalar, büyük donanma gemileri için zorlayıcı; küçük ve hızlı korsan gemileri için avantajlıydı.\n\nKorsanların bir kısmı eski privateer, eski donanma mensubu ya da ticaret gemisi denizcisiydi. Savaş döneminde devlet adına düşman gemilerine saldırmak yasal sayılabilirken, savaş bitince aynı denizcilik becerisi yasa dışı korsanlığa kayabiliyordu. Royal Museums Greenwich'in anlattığı gibi privateering ile korsanlık arasındaki sınır, çoğu zaman savaş zamanı hukuku ve ele geçirilen kargonun değerine göre çiziliyordu. Bu yüzden Nassau, yalnız “kanunsuz adamlar”ın değil, imparatorluk savaş ekonomisinin artık kullanmadığı denizci emeğinin de toplandığı bir yerdi.\n\n### Kardeşlik mi, kırılgan düzen mi?\n\nOyunun korsan kardeşliği hissi tamamen uydurma değildir. Bazı korsan mürettebatlarında ganimet paylaşımı, kaptan seçimi ve yaralanma tazminatı gibi kurallar vardı. Bu düzen, Kraliyet Donanması'nın sert disiplininden ve ticaret gemilerinin düşük ücretlerinden kaçan insanlar için cazipti. Fakat bunu modern demokrasi ya da eşitlikçi cumhuriyet gibi okumak fazla ileri gider. Nassau'daki düzen gevşek, şiddete açık ve sürekli ganimet akışına bağımlıydı. Ayrıca korsan ekonomisi Atlantik köle ticareti ve sömürge ticaretiyle iç içeydi; Blackbeard'ın Queen Anne's Revenge gemisinin daha önce La Concorde adlı bir köle gemisi olması bu karanlık zemini açıkça gösterir.\n\nNassau'nun “cumhuriyet” tarafı bu yüzden sınırlı bir metafordur. Korsanlar resmi devlet kurmadı; daha çok zayıf yönetimli bir limanda fiili özerklik yarattı. Ticaret gemilerini yağmaladılar, yerel ekonomiyi canlandırdılar, ama aynı zamanda bölgedeki imparatorluk çıkarlarını tehdit ettiler. Bu tehdit büyüdükçe Londra için Nassau bir renkli sapma değil, deniz ticaretine zarar veren stratejik sorun haline geldi.\n\n### Sonu neden hızlı geldi?\n\n1718'de Woodes Rogers'ın Bahamalar'a kraliyet valisi olarak gelişi dönüm noktası oldu. Rogers'ın görevi Nassau'daki korsan düzenini bitirmekti. Bunu yalnız askeri güçle değil, af politikasıyla da yaptı: teslim olan korsanlara bağışlanma imkânı sunuldu, direnmeye devam edenler ise kovalandı. Bazı korsanlar affı kabul etti, bazıları kaçtı, bazıları da yakalandı ya da öldürüldü.\n\nBlack Flag'in romantik tarafı, korsanlığı bireysel özgürlük ve denizde kaderini seçme hakkı olarak hissettirmesidir. Gerçek tarih daha serttir. Nassau kısa süreli bir kaçış alanıydı; ama onu mümkün kılan şey, imparatorluk savaşları, sömürge ticareti, düşük ücretli deniz emeği ve devlet denetimindeki boşluktu. Devlet geri döndüğünde “korsan cumhuriyeti” uzun ömürlü olamadı. Bu yüzden Nassau'nun gerçek hikâyesi, özgürlüğün değil, hukukun ve şiddetin kimin elinde olduğunun hikâyesidir.",
+        "accuracyNote": "Black Flag, Nassau'nun korsan sığınağı ve bazı tarihsel figürlerini güçlü biçimde kullanır; ancak “korsan cumhuriyeti” fikri, resmi ve kalıcı bir devlet düzeninden çok kısa ömürlü bir fiili liman düzeni olarak okunmalıdır.",
+        "whyInteresting": "Nassau hikâyesi, korsanlığı yalnız macera değil, imparatorluk ticareti ve savaş sonrası deniz emeği krizi olarak okumayı sağlar.",
+        "misconception": "Nassau'nun tam anlamıyla eşitlikçi, bağımsız ve istikrarlı bir korsan devleti olduğu sanılır; gerçekte gevşek, şiddete açık ve çok kısa ömürlü bir korsan sığınağıydı.",
+        "nextTopics": [
+          "Privateer Sistemi",
+          "Karasakal Efsanesi",
+          "Haudenosaunee Konfederasyonu"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-202-ac4-privateering",
+          "tf26-203-ac4-blackbeard-image"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "none",
+        "mediaConnection": "Black Flag'in Nassau anlatısı, Golden Age of Piracy kaynakları ve Woodes Rogers'ın 1718 müdahalesiyle birlikte okunduğunda korsan romantizminin arkasındaki imparatorluk boşluğu görünür olur.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "assassins-creed",
+          "black-flag",
+          "korsanlar",
+          "nassau",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun korsan düzenini özgürlük ve kardeşlik hissiyle romantize eder; tarihsel kaynaklar aynı düzenin savaş sonrası privateer emeği, sömürge ticareti ve kraliyet müdahalesiyle kırılgan olduğunu gösterir.",
+        "whyItMatters": "Bu kart, yasa dışı görünen bir dünyanın aslında devletlerin savaş ve ticaret sistemleriyle nasıl bağlantılı olduğunu gösterir.",
+        "isFlagship": true,
+        "quickRealityCheck": "Nassau gerçekten bir korsan cumhuriyeti miydi, yoksa devlet denetimi zayıflayınca oluşmuş kısa ömürlü bir liman düzeni mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Royal Museums Greenwich - History of pirates: the Golden Age of Piracy",
+            "url": "https://www.rmg.co.uk/stories/maritime-history/pirates-history-golden-age-piracy",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Queen Anne's Revenge Project - Woodes Rogers was the first Royal Governor of the Bahamas",
+            "url": "https://www.qaronline.org/blog/2018-07-25/did-you-know-woodes-rogers-first-royal-governor",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Queen Anne's Revenge Project - Blackbeard's Queen Anne's Revenge",
+            "url": "https://www.qaronline.org/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-202-ac4-privateering",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Black Flag için standart kart; korsan/privateer ayrımı ve letter of marque sistemi kaynaklı biçimde netleştirildi.",
+      "fields": {
+        "title": "Privateer Sistemi",
+        "subtitle": "Korsanlık mı, devlet hizmeti mi?",
+        "mediaType": "game",
+        "mediaTitle": "Assassin's Creed IV: Black Flag",
+        "era": "Erken Modern Dönem",
+        "region": "Atlantik",
+        "themes": [
+          "Denizcilik",
+          "Hukuk",
+          "Savaş",
+          "Ekonomi"
+        ],
+        "whatWeSee": "Assassin's Creed IV: Black Flag'de korsanlar imparatorlukların düzenine karşı duran bağımsız denizciler gibi görünür. Oyun, bayrak değiştiren gemiler, ele geçirilen kargolar ve liman pazarlıklarıyla denizde hukuk ile suç arasındaki çizgiyi bulanıklaştırır.",
+        "realHistory": "Assassin's Creed IV: Black Flag korsanları çoğu zaman imparatorluk gemilerine karşı özgür deniz haydutları gibi gösterir; fakat erken modern deniz hukukunda “korsan” ile “privateer” arasındaki sınır her zaman net değildi. Privateer, özel bir gemi sahibinin ya da kaptanın savaş zamanında devlet tarafından verilen izinle düşman ticaret gemilerine saldırmasıydı. Bu izin genellikle “letter of marque” olarak bilinir ve ele geçirilen mallar mahkeme ya da prize sistemi üzerinden ganimete dönüştürülürdü.\n\nBu sistem devletler için ucuz bir deniz savaşı yöntemiydi. Her hedef için büyük donanma kurmak yerine özel gemilere yasal saldırı hakkı verilir, düşman ticareti zayıflatılırdı. Aynı beceriler savaş bitince sorun haline gelirdi. Denizciler ganimete alışmış, ticaret rotalarını öğrenmiş ve silahlı gemi yönetmeyi bilen insanlardı; barış döneminde iş ve para azalınca privateering kolayca korsanlığa kayabiliyordu.\n\nRoyal Museums Greenwich'in özetlediği gibi privateerlar savaşta yetkiliydi; ama yetkiyi veren siyasi bağlam ortadan kalkınca aynı davranış korsanlık sayılabilirdi. Bu, Black Flag'in merkezindeki ahlaki bulanıklığı daha ilginç hale getirir. Oyun, korsanı yasa dışı özgürlük figürü yapar; tarih ise denizdeki şiddetin çoğu zaman devlet tarafından önce teşvik edilip sonra kriminalize edildiğini gösterir. Yani mesele yalnız “iyi korsan / kötü imparatorluk” değildir. Deniz hukukunda şiddetin meşruiyeti, kimin bayrağı altında ve hangi savaş sırasında yapıldığına bağlıydı.",
+        "accuracyNote": "Oyun privateer/korsan ayrımını dramatik dünyasına yayar; tarihsel olarak ayrım, savaş zamanı devlet izni ve letter of marque gibi hukuki belgelerle kuruluyordu.",
+        "whyInteresting": "Aynı saldırı bir dönemde vatan hizmeti, başka bir dönemde idamlık korsanlık sayılabiliyordu.",
+        "misconception": "Privateerların korsanlardan tamamen farklı ve her zaman meşru aktörler olduğu sanılır; oysa sınır çoğu zaman savaşın hukuki durumuna bağlıydı.",
+        "nextTopics": [
+          "Korsanlar Cumhuriyeti",
+          "Karasakal Efsanesi",
+          "Boston Katliamı"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-201-ac4-republic-of-pirates",
+          "tf26-203-ac4-blackbeard-image"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "Black Flag'in deniz savaşı ve ganimet sistemi, privateering ve letter of marque tarihinin oyunlaştırılmış bir gölgesi gibi okunabilir.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "assassins-creed",
+          "black-flag",
+          "privateer",
+          "denizcilik",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun korsanlığı kişisel özgürlükle anlatır; tarihsel çerçeve devletlerin deniz şiddetini bazen yasal araç olarak kullandığını gösterir.",
+        "whyItMatters": "Privateer sistemi, modern devletlerin şiddeti yalnız yasaklamadığını; gerektiğinde özel aktörlere devredip sonra geri çektiğini gösterir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Bir gemiyi yağmalamak ne zaman korsanlık, ne zaman devlet onaylı savaş faaliyeti sayılır?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Royal Museums Greenwich - Research guide K1: Pirates and privateers",
+            "url": "https://www.rmg.co.uk/collections/research-guides/research-guide-k1-pirates-privateers",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Royal Museums Greenwich - Golden Age of Piracy",
+            "url": "https://www.rmg.co.uk/stories/maritime-history/pirates-history-golden-age-piracy",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Privateer",
+            "url": "https://www.britannica.com/topic/privateer",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-203-ac4-blackbeard-image",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Blackbeard kartı efsane/öz-imaj/arkeoloji çizgisine oturtuldu; QAR'ın La Concorde geçmişi özellikle eklendi.",
+      "fields": {
+        "title": "Karasakal Efsanesi",
+        "subtitle": "Edward Teach korkuyu nasıl kullandı?",
+        "mediaType": "game",
+        "mediaTitle": "Assassin's Creed IV: Black Flag",
+        "era": "Erken Modern Dönem",
+        "region": "Atlantik",
+        "themes": [
+          "Korsanlar",
+          "Medya",
+          "Biyografi",
+          "Denizcilik"
+        ],
+        "whatWeSee": "Assassin's Creed IV: Black Flag, Blackbeard'ı yalnız sert bir korsan değil, kendi efsanesini sahneleyen bir figür olarak gösterir. Sakal, duman, gürültü ve söylenti; oyunda top kadar etkili bir psikolojik silaha dönüşür.",
+        "realHistory": "Black Flag'deki Blackbeard, korku sahnesinin ustasıdır: sesi, görünüşü ve gemisiyle düşmanı daha çatışma başlamadan teslim olmaya iter. Bu temsil tamamen boş değildir. Edward Teach ya da Thatch olarak anılan Blackbeard hakkında belge kaydı sınırlıdır; fakat çağdaş anlatılar ve sonraki tarih yazımı onun korku imajını bilinçli kullandığını aktarır. Royal Museums Greenwich, saldırı sırasında sakalına ya da şapkasına yavaş yanan fitiller yerleştirdiği anlatısını özellikle bu “dehşet tiyatrosu” bağlamında açıklar.\n\nBurada önemli nokta, efsanenin yalnız sonradan kurulmamış olmasıdır. Blackbeard'ın kendi döneminde de şöhret, fiili silahtı. Denizde hızla teslim olan bir gemi, daha az çatışma ve daha çok ganimet demekti. Bu yüzden ürkütücü görünmek, gerçek top ve kılıç kadar işe yarayabilirdi. Ancak belgesel kayıt çok sınırlı olduğu için her ayrıntıyı kesin biyografi gibi okumak hatalıdır.\n\nQueen Anne's Revenge arkeolojisi bu imgeyi daha maddi bir zemine çeker. North Carolina'nın resmi QAR projesi, geminin Blackbeard'ın amiral gemisi olduğunu ve önce La Concorde adıyla Atlantik köle ticaretinde kullanıldığını aktarır. Böylece romantik korsan efsanesinin altında sömürgecilik, köle ticareti ve deniz savaş ekonomisi görünür hale gelir. Blackbeard'ın gerçek gücü yalnız kılıcında değil, korkuyu bir marka gibi kullanabilmesindeydi.",
+        "accuracyNote": "Blackbeard gerçek bir tarihsel korsandı; ancak hayatına dair kayıtlar sınırlıdır. Fitil, sakal ve korku imajı anlatıları güçlüdür, fakat her ayrıntı kesin biyografik veri gibi ele alınmamalıdır.",
+        "whyInteresting": "Blackbeard örneği, medya imajı ile gerçek tarihin bazen aynı anda doğduğunu gösterir: korsan kendi korku markasını daha yaşarken üretmiştir.",
+        "misconception": "Blackbeard'ın gücünün yalnız fiziksel şiddetten geldiği sanılır; oysa itibar ve korku gösterisi denizde teslimiyet üretmenin pratik aracıdır.",
+        "nextTopics": [
+          "Korsanlar Cumhuriyeti",
+          "Privateer Sistemi",
+          "Haudenosaunee Konfederasyonu"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-201-ac4-republic-of-pirates",
+          "tf26-202-ac4-privateering"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "Black Flag'in Blackbeard portresi, Queen Anne's Revenge arkeolojisi ve çağdaş korku imajı anlatılarıyla birlikte okunduğunda daha sağlam bir tarihsel çerçeve kazanır.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "assassins-creed",
+          "black-flag",
+          "blackbeard",
+          "karasakal",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun Blackbeard'ı büyük bir korsan kişiliğine dönüştürür; tarihsel kaynaklar aynı imajın zaten korku üretmek için kullanılan bilinçli bir deniz taktiği olduğunu gösterir.",
+        "whyItMatters": "Efsane yalnız gerçekliği bozmaz; bazen gerçek aktörlerin bizzat kullandığı bir güç aracıdır.",
+        "isFlagship": false,
+        "quickRealityCheck": "Blackbeard gerçekten bu kadar korkutucu muydu, yoksa korkutucu görünmek onun en etkili taktiği miydi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Queen Anne's Revenge Project - Blackbeard's Queen Anne's Revenge",
+            "url": "https://www.qaronline.org/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Royal Museums Greenwich - Who was Blackbeard?",
+            "url": "https://www.rmg.co.uk/stories/maritime-history/who-was-blackbeard",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "National Park Service - Blackbeard / Edward Teach",
+            "url": "https://www.nps.gov/caha/learn/historyculture/blackbeard-edward-teach.htm",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-204-ac3-haudenosaunee",
+      "operation": "add",
+      "reviewStatus": "new_card_flagship",
+      "notes": "AC III için flagship; Amerikan Devrimi kurucu baba anlatısının dışına çıkılarak Haudenosaunee egemenliği, taraf seçme baskısı ve savaş sonrası süreklilikle yazıldı.",
+      "fields": {
+        "title": "Haudenosaunee Konfederasyonu",
+        "subtitle": "Amerikan Devrimi kimin özgürlüğüydü?",
+        "mediaType": "game",
+        "mediaTitle": "Assassin's Creed III",
+        "era": "Modern Tarih",
+        "region": "ABD",
+        "themes": [
+          "Siyaset",
+          "Kimlik",
+          "Savaş",
+          "Diplomasi"
+        ],
+        "whatWeSee": "Assassin's Creed III, Amerikan Devrimi'ni yalnız Britanya'ya karşı kolonilerin özgürlük mücadelesi olarak göstermez. Connor'ın hikâyesi, savaşın Yerli topluluklar için toprak, ittifak ve hayatta kalma meselesi olduğunu hatırlatır. Oyun bu büyük tarihi kişisel bir dram üzerinden anlatır; gerçek çerçeve ise Haudenosaunee Konfederasyonu'nun devrim baskısı altında verdiği siyasi kararlar ve yaşadığı parçalanmadır.",
+        "realHistory": "### Devrim hikâyesinin dışında kalan merkez\n\nAssassin's Creed III, Amerikan Devrimi'ni yalnız koloniler ile Britanya arasındaki özgürlük savaşı olarak bırakmaz; Connor üzerinden savaşın Yerli halklar için ne kadar farklı göründüğünü hissettirir. Bu tercih önemlidir, çünkü popüler devrim anlatıları çoğu zaman Bağımsızlık Bildirgesi, Boston, Philadelphia ve kurucu babalar etrafında döner. Oysa aynı savaş, Haudenosaunee Konfederasyonu için egemenlik, toprak, ittifak ve hayatta kalma kriziydi.\n\nHaudenosaunee, Mohawk, Oneida, Onondaga, Cayuga, Seneca ve daha sonra Tuscarora uluslarını kapsayan Six Nations yapısıyla Kuzeydoğu Amerika'nın en etkili siyasi birliklerinden biriydi. Smithsonian National Museum of the American Indian'ın hazırladığı materyaller, Amerikan Devrimi dönemindeki Haudenosaunee deneyimini 1770–1794 arası süreklilik içinde ele alır. Bu geniş zaman aralığı önemli: savaş birkaç muharebeden ibaret değildi; diplomatik baskı, köylerin yakılması, göç, toprak kaybı ve savaş sonrası yeniden örgütlenme aynı hikâyenin parçalarıydı.\n\n### Taraf seçmek neden imkânsızdı?\n\nKoloniler bağımsızlık talep ederken, Haudenosaunee ulusları için ana mesele “özgürlük” kelimesinin kime ait olduğuydu. Britanya ile koloniler arasındaki çatışma, onların gözünde çoğu zaman Avrupalı yerleşimci toplumların kendi aralarındaki bir iç savaş gibi görünüyordu. Fakat tarafsız kalmak giderek zorlaştı. Hem Britanyalılar hem Amerikalılar ittifak istedi; yerleşim baskısı ise savaşın dışında bile toprak güvenliğini tehdit ediyordu.\n\nKonfederasyon içinde de tek bir tutum yoktu. NPS'nin özetlediği gibi bazı uluslar Britanya'yı, bazıları Amerikan tarafını destekledi; bazı topluluklar ise mümkün olduğunca tarafsız kalmaya çalıştı. Bu bölünme, Haudenosaunee siyasi yapısını zayıflatmakla kalmadı, akrabalık ve köy bağlarını da yaraladı. Bir devrimin “özgürlük savaşı” olarak anlatılması, aynı anda başka bir halkın toprak kaybı ve iç bölünme hikâyesi olabilir.\n\n### Oyun neyi doğru yakalıyor?\n\n Bu bedelin en ağır örneklerinden biri 1779 Sullivan-Clinton seferiyle görünür oldu: Amerikan güçleri Britanya yanlısı görülen Haudenosaunee yerleşimlerine yöneldi, köyler ve ekin alanları hedef alındı, birçok topluluk yerinden oldu. Bu şiddet, savaşın yalnız askerî ittifaklar üzerinden değil gıda, barınak ve gelecek nesillerin yaşam alanı üzerinden de yürüdüğünü gösterir.\n\nAssassin's Creed III, bütün bu karmaşayı bireysel bir karakterin hayatına sıkıştırır. Bu dramatik olarak kaçınılmazdır; ama tarihsel tablo daha geniştir. Connor'ın kişisel öfkesi, gerçekte yüzlerce yerleşim, antlaşma, sınır çizgisi ve diplomatik kararın parçası olan bir krizi temsil eder. Oyun, kurucu baba anlatısının yanına Yerli egemenliği sorusunu koyduğu için değerlidir. Ancak oyuncunun bunu “tek kahramanın intikam hikâyesi” olarak değil, Amerikan Devrimi'nin genellikle arka planda bırakılan siyasi bedeli olarak okuması gerekir.\n\nGerçek tarih, devrimin yalnız yeni bir devlet doğurmadığını; bazı halklar için toprak, güvenlik ve siyasi bütünlük kaybını da hızlandırdığını gösterir. Haudenosaunee deneyimi bu yüzden True Frame için güçlüdür: ekrandaki devrim heyecanının arkasında, özgürlük dilinin herkesi aynı şekilde özgürleştirmediği bir dünya vardır.",
+        "accuracyNote": "Oyun Haudenosaunee ve Amerikan Devrimi ilişkisini dramatik bir karakter üzerinden temsil eder. Tarihsel gerçeklik ise Six Nations içindeki farklı pozisyonlar, ittifak baskısı ve savaş sonrası toprak kayıplarıyla çok daha geniştir.",
+        "whyInteresting": "Amerikan Devrimi aynı anda bir bağımsızlık anlatısı ve Yerli egemenliği için ağır bir kırılma olabilir.",
+        "misconception": "Amerikan Devrimi'nin herkes için aynı anlamda özgürlük getirdiği sanılır; Yerli uluslar için süreç çoğu zaman toprak ve siyasi güvenlik kaybı anlamına geldi.",
+        "nextTopics": [
+          "Boston Katliamı",
+          "Korsanlar Cumhuriyeti",
+          "Privateer Sistemi"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-205-ac3-boston-massacre"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "minor",
+        "mediaConnection": "AC III'ün Connor merkezli anlatısı, Haudenosaunee Konfederasyonu'nun Amerikan Devrimi sırasında ve sonrasında yaşadığı diplomatik baskılarla birlikte okunmalıdır.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "assassins-creed",
+          "american-revolution",
+          "haudenosaunee",
+          "yerli-halklar",
+          "true-frame"
+        ],
+        "spoilerNote": "Assassin's Creed III'ün ana tarihsel çatışmasına dair bağlam içerir; finali anlatmaz.",
+        "mediaChanged": "Oyun devrim tarihini kişisel bir kahramanlık/ihanet çizgisine yoğunlaştırır; tarihsel kaynaklar aynı dönemi Yerli egemenliği ve toprak güvenliği krizi olarak genişletir.",
+        "whyItMatters": "Bu kart, popüler özgürlük anlatılarının kimin sesiyle kurulduğunu ve kimin bedelini görünmez bıraktığını sorgulatır.",
+        "isFlagship": true,
+        "quickRealityCheck": "Amerikan Devrimi, Haudenosaunee ulusları için gerçekten özgürlük müydü, yoksa daha zor bir taraf seçme baskısı mı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Smithsonian NMAI - American Revolution: Haudenosaunee Perseverance",
+            "url": "https://americanindian.si.edu/nk360/resources/American-Revolution-Haudenosaunee-Perseverance",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "National Park Service - The Six Nations Confederacy During the American Revolution",
+            "url": "https://www.nps.gov/articles/000/the-six-nations-confederacy-during-the-american-revolution.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Haudenosaunee Confederacy - Who We Are",
+            "url": "https://www.haudenosauneeconfederacy.com/who-we-are/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-205-ac3-boston-massacre",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "AC III için standart kart; Boston Massacre propaganda yönü LOC/MHS kaynaklarıyla güçlü biçimde işlendi.",
+      "fields": {
+        "title": "Boston Katliamı",
+        "subtitle": "Revere'in gravürü gerçeği nasıl değiştirdi?",
+        "mediaType": "game",
+        "mediaTitle": "Assassin's Creed III",
+        "era": "Modern Tarih",
+        "region": "ABD",
+        "themes": [
+          "Propaganda",
+          "Medya",
+          "Hukuk",
+          "Devrim"
+        ],
+        "whatWeSee": "Assassin's Creed III, devrim öncesi Boston'u söylenti, kalabalık öfkesi ve politik kışkırtma ortamı olarak kurar. Sokaklar yalnız görev alanı değil, kamuoyu savaşının sahnesidir. Boston Katliamı ve çevresindeki propaganda, bu atmosferi anlamak için en iyi tarihsel örneklerden biridir.",
+        "realHistory": "Assassin's Creed III, Boston sokaklarındaki gerilimi ve devrimci propaganda atmosferini oyun mekânına taşır. Bu dönemin en güçlü örneklerinden biri 5 Mart 1770 Boston Katliamı'dır. Olayda Britanya askerleri ile kalabalık arasında gerginlik yükseldi; ateş açılması sonucu beş kolonist öldü. Ancak olayın hafızadaki biçimi, yalnız ne olduğuyla değil, nasıl resmedildiğiyle belirlendi.\n\nPaul Revere'in ünlü gravürü bu yüzden önemlidir. Library of Congress kaydı, Revere'in baskısının Henry Pelham'ın tasarımından kopyalandığını ve Mart 1770 sonunda yayıldığını belirtir. Massachusetts Historical Society ise gravürün tarihsel olarak hatalı ve kışkırtıcı olduğunu açıkça vurgular: görüntü, Britanya askerlerini düzenli bir hat halinde, savunmasız kalabalığa planlı ateş açarken gösterir. Gerçek olay daha kaotik, kalabalık daha saldırgan ve askerlerin davranışı daha tartışmalıydı.\n\nBu, propaganda kelimesinin yalnız yalan anlamına gelmediğini gösterir. Revere'in gravürü gerçek bir ölümü ve gerçek bir öfkeyi alıp, onu devrimci bir simgeye dönüştürdü. Olaydan sonra John Adams'ın bazı Britanya askerlerini savunması da tabloyu daha karmaşık yapar: devrimci hareket hem hukuki meşruiyet iddiası taşımak hem de kamuoyu öfkesini büyütmek zorundaydı.\n\nAC III'ün sokak gerilimi bu atmosferi iyi yakalar. Fakat tarihsel ders daha nettir: Amerikan Devrimi yalnız savaş alanında değil, görüntülerde, broşürlerde, mahkemelerde ve hafıza üretiminde de kazanıldı.",
+        "accuracyNote": "Boston Katliamı gerçek bir olaydır; Paul Revere'in gravürü ise olayı bilinçli biçimde dramatize eden ve kamuoyu oluşturan bir politik görsel olarak okunmalıdır.",
+        "whyInteresting": "Bu olay, görsel medyanın devrimci hafızayı savaş başlamadan önce bile nasıl şekillendirebildiğini gösterir.",
+        "misconception": "Revere'in gravürünün olayın tarafsız ve doğru bir görsel kaydı olduğu sanılır; gerçekte güçlü bir propaganda imgesiydi.",
+        "nextTopics": [
+          "Haudenosaunee Konfederasyonu",
+          "Privateer Sistemi",
+          "Korsanlar Cumhuriyeti"
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-204-ac3-haudenosaunee"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "AC III'ün devrim öncesi Boston atmosferi, Paul Revere'in Boston Katliamı gravürü ve dönemin propaganda savaşlarıyla doğrudan ilişkilidir.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "assassins-creed",
+          "american-revolution",
+          "boston-massacre",
+          "propaganda",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun sokak gerilimini oynanabilir hale getirir; tarihsel kaynaklar aynı gerilimin broşür, gravür ve mahkeme diliyle kamu hafızasına dönüştüğünü gösterir.",
+        "whyItMatters": "Devrimler yalnız ordularla değil, olayların nasıl gösterildiği ve hatırlandığıyla da şekillenir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Boston Katliamı'nın hafızasını asıl belirleyen şey olayın kendisi miydi, yoksa Revere'in onu nasıl çizdiği mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Library of Congress - The Bloody Massacre perpetrated in King Street Boston",
+            "url": "https://www.loc.gov/pictures/item/2008661777/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Massachusetts Historical Society - The Bloody Massacre perpetrated in King Street",
+            "url": "https://www.masshist.org/database/2",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Boston Massacre",
+            "url": "https://www.britannica.com/event/Boston-Massacre",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

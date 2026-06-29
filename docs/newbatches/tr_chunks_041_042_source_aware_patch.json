@@ -1,0 +1,306 @@
+{
+  "patchId": "tr-chunks-041-042-source-aware-review",
+  "locale": "tr",
+  "sourceChunks": [
+    "tr-chunk-041.json",
+    "tr-chunk-042.json"
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "editorial + factual + source review",
+  "summary": {
+    "reviewedCards": 8,
+    "patchEntries": 8,
+    "approvedAsIs": 0,
+    "mainIssues": [
+      "tf26-014-citizenship içinde aynı bilgi birkaç kez tekrarlanıyordu; tam rewrite gerekliydi.",
+      "tf26-020-fall-myth flagship olduğu halde kısa kalıyordu; başlıklı ve daha derin bir flagship metne genişletildi.",
+      "Bazı kartlarda whyInteresting/whyItMatters aynı fikri tekrar ediyordu.",
+      "Bazı kaynaklarda weak/reference veya metadata eksikleri vardı; daha doğrudan museum/academic/reference kaynaklarla temizlendi."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-010-afterlife",
+      "reviewStatus": "minor_field_cleanup",
+      "rationale": "Gövde dengeli ve kaynaklıydı; kısa alanlarda tekrar vardı. Öte dünya inancının korku değil etik/ritüel düzen olduğu fikri korunup whyItMatters ayrıştırıldı.",
+      "fields": {
+        "whyItMatters": "Ölüm sonrası inancını yalnız mezar ve lanet üzerinden değil, gündelik ahlak, aile ritüeli ve toplumsal düzen üzerinden okumayı sağlar.",
+        "mediaChanged": "Oyun öte dünyayı gezilebilir, görsel bir deneyim alanı gibi kurar. Tarihsel pratikte ağırlık, aile ritüeli, cenaze ekonomisi ve Ma'at düzenine bağlı ahlaki süreklilik üzerindedir."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Journey to the afterlife (British Museum)",
+            "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/journey-afterlife",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The Weighing of the Heart (The Met)",
+            "url": "https://www.metmuseum.org/perspectives/the-weighing-of-the-heart",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Book of the Dead (Britannica)",
+            "url": "https://www.britannica.com/topic/Book-of-the-Dead",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-011-arena-politics",
+      "reviewStatus": "rewrite",
+      "rationale": "Metin temel olarak iyi olsa da gladyatör kanı/şifa gibi destek gerektiren trivia merkeze kaçıyordu. Arena, munera, imparatorluk cömertliği ve Commodus'un gösteri siyaseti üzerinden daha temiz kuruldu.",
+      "fields": {
+        "subtitle": "Arena, Roma'da sadece eğlence değil iktidar sahnesiydi.",
+        "realHistory": "Roma'da arena oyunları yalnızca kanlı eğlence değildi; kamu cömertliği, dini anma, zafer kutlaması ve şehir siyaseti aynı sahnede birleşirdi. Munera adı verilen gladyatör gösterileri başlangıçta seçkin ailelerin ölüleri anma törenleriyle ilişkiliydi; imparatorluk döneminde ise halkla doğrudan ilişki kurmanın güçlü araçlarından birine dönüştü. Oyunları finanse eden kişi, kalabalığa hem zenginliğini hem de yönetme kapasitesini gösterirdi.\n\nBu yüzden Kolezyum'daki kalabalık pasif bir seyirci kitlesi değildi. Halk imparatoru alkışlayabilir, yuhalayabilir, merhamet ya da ceza beklentisini sesle gösterebilirdi. Panem et circenses ifadesi, sadece halkı uyuşturma klişesi değil, beslenme güvencesi ve kamusal gösteri üzerinden kurulan siyasi pazarlığın kısa adıdır. Arenada imparator hem cömert hem güçlü hem de adil görünmek zorundaydı.\n\nCommodus döneminde bu denge daha kişisel hale geldi. Antik yazarlar onun arenada gladyatör gibi görünmeyi sevdiğini, hayvan avları ve gösterilerle kendi imajını büyütmeye çalıştığını aktarır. Bu performans halkın ilgisini çekebilirdi, ancak senato ve elitler için imparatorluk itibarını aşındıran tehlikeli bir sahneydi. Gladiator bu gerilimi Maximus'un kişisel hikâyesine indirger; tarihsel olarak arena, Roma'da iktidarın seyirci önünde sınandığı bir kamu tiyatrosuydu.",
+        "whyInteresting": "Kolezyumda kalabalığın sesi, bazen senato konuşmalarından daha doğrudan bir siyasi basınç yaratabiliyordu.",
+        "whyItMatters": "Arena oyunlarını yalnız vahşet olarak değil, Roma'da halk desteği, imparatorluk cömertliği ve siyasi meşruiyet üretimi olarak okumayı sağlar.",
+        "quickRealityCheck": "Commodus'un arenaya çıkması ona popülerlik mi kazandırdı, yoksa imparatorluk otoritesini sahne performansına indirerek risk mi yarattı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Gladiator (Britannica)",
+            "url": "https://www.britannica.com/sports/gladiator",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Bread and Circuses (Britannica)",
+            "url": "https://www.britannica.com/topic/bread-and-circuses",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Commodus (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/commodus/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-013-legion-discipline",
+      "reviewStatus": "minor_rewrite",
+      "rationale": "Gövde genel olarak doğruydu; subtitle jenerik kaldığı ve kaynak metadata eksik olduğu için düzenlendi. Disiplinin savaş anından çok kamp, ikmal ve kayıt rutini olduğu vurgusu güçlendirildi.",
+      "fields": {
+        "subtitle": "Roma ordusunu ayakta tutan şey yalnız cesaret değil rutindi.",
+        "realHistory": "Roma lejyon disiplini yalnızca savaş alanında verilen sert komutlardan ibaret değildi; eğitim, kamp düzeni, ikmal, maaş ve ceza sistemiyle kurulan sürekli bir kurumdu. Lejyonerler yürüyüş temposu, silah kullanımı, kamp kurma, hendek kazma ve nöbet düzeni konusunda tekrarlı talim görürdü. Birliğin dayanıklılığı çoğu zaman kahramanlık anından değil, her gün aynı işlerin aynı düzenle yapılmasından gelirdi.\n\nKamp yaşamı bu disiplinin merkezindeydi. Askerler yalnız savaşmaz; yol yapar, palisad kurar, erzak taşır, yazılı emirleri takip eder ve nöbet çizelgelerine uyardı. Centurionlar alt kademede düzeni sağlar, üst komutanlar stratejik hedefleri belirlerdi. Disiplinsizlik para kesintisi, kamusal aşağılama ya da ağır durumlarda ölüm cezasına kadar varabilirdi.\n\nGladiator bu sistemi Maximus'un kişisel liderliği üzerinden güçlü biçimde dramatize eder. Tarihsel gerçeklikte ise lejyon, tek bir komutanın karizmasından çok kurumsal tekrarın ürünüdür. Aynı düzen, sınır savunmasını, garnizon yönetimini, yol inşasını ve terhis sonrası kolonileri de etkiledi. Lejyon bu yüzden yalnız savaş makinesi değil, imparatorluğun taşradaki idari uzantısıydı.",
+        "whyItMatters": "Roma ordusunun başarısını yalnız kılıç gücüyle değil, lojistik, kamp disiplini ve kayıt düzeniyle açıklamayı sağlar.",
+        "mediaChanged": "Film disiplini birkaç yoğun cephe sahnesinde kişiselleştirir. Tarihsel düzende aynı disiplin, yıllar süren talim, kamp rutini ve idari kayıt sistemiyle işler."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Roman Army (Britannica)",
+            "url": "https://www.britannica.com/topic/Roman-army",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Roman Army (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/Roman_Army/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-014-citizenship",
+      "reviewStatus": "rewrite",
+      "rationale": "Bu kartta realHistory aynı bilgileri birkaç kez tekrar ediyordu ve mediaChanged otomatik/şablon hissi taşıyordu. Roma yurttaşlığı hukuk, askerlik, statü ve 212 Constitutio Antoniniana ekseninde yeniden yazıldı.",
+      "fields": {
+        "subtitle": "Roma'da kimlik, hak ve imparatorluk aidiyeti aynı statüde birleşiyordu.",
+        "realHistory": "Roma yurttaşlığı, yalnız kimlik duygusu değil somut bir hukuki statüydü. Yurttaş olmak; evlilik, mülkiyet, sözleşme yapma, mahkemeye başvurma ve bazı dönemlerde siyasi katılım haklarıyla ilişkiliydi. Cumhuriyet döneminde bu statü daha dar bir topluluğa aitti; imparatorluk genişledikçe İtalya, koloniler, yerel elitler, askerler ve azatlılar üzerinden daha karmaşık bir yurttaşlık haritası oluştu.\n\nOrdu bu haritanın en önemli geçiş yollarından biriydi. Yardımcı birliklerde hizmet eden bazı askerler terhis sonrası yurttaşlık kazanabiliyor, emekli asker kolonileri eyaletlerde Roma hukukunu ve Latin kültürünü yayabiliyordu. Bu durum yurttaşlığı yalnız şehir merkezinin ayrıcalığı olmaktan çıkarıp imparatorluk yönetiminin araçlarından biri haline getirdi. Yine de köleler, azatlılar, kadınlar ve peregrini gibi gruplar aynı haklara sahip değildi; Roma toplumu statüler arasındaki farklarla işliyordu.\n\nMS 212'de Caracalla'nın Constitutio Antoniniana fermanı, imparatorluktaki özgür sakinlerin büyük bölümüne Roma yurttaşlığı tanıyan büyük bir eşik oldu. Bu karar bazen eşitlik hamlesi gibi anlatılır; fakat vergi, hukuk uyumu ve imparatorluk aidiyetini güçlendirme amaçlarıyla birlikte düşünülmelidir. Gladiator'da yurttaşlık daha çok onur, sadakat ve Roma'ya ait olma duygusu olarak hissedilir. Tarihsel olarak ise civitas, kimin hangi mahkemeye gideceğini, hangi statüyle evleneceğini, hangi yükümlülüğü taşıyacağını belirleyen pratik bir hukuk diliydi.",
+        "whatWeSee": "Gladiator, Roma aidiyetini onur, askerlik ve imparatora sadakat üzerinden hissettirir. Maximus'un kimliği kişisel intikam hikâyesinin parçası olur; tarihsel arka planda ise yurttaşlık çok daha teknik bir hukuk ve statü meselesidir.",
+        "accuracyNote": "Film Roma aidiyetini duygusal ve askerî bir kimlik gibi kullanır; gerçek yurttaşlık ise farklı hak, yükümlülük ve statü katmanlarından oluşan hukuki bir sistemdi.",
+        "whyInteresting": "Roma yurttaşlığı bir pasaporttan çok daha fazlasıydı; mahkeme, mülkiyet, askerlik ve vergi düzenini belirleyen bir statüydü.",
+        "whyItMatters": "İmparatorlukların yalnız zorla değil, hak ve statü dağıtarak da insanları merkeze bağladığını gösterir.",
+        "mediaChanged": "Film yurttaşlığı kişisel onur ve Roma'ya sadakat duygusuna bağlar. Tarihsel kayıtlar aynı başlığı hukuk, askerlik, azat, eyalet statüsü ve vergi düzeni içinde daha parçalı gösterir.",
+        "quickRealityCheck": "Roma yurttaşlığı herkese aynı özgürlüğü mü veriyordu, yoksa statüye göre değişen hak ve yükümlülükler mi yaratıyordu?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Roman citizenship (Britannica)",
+            "url": "https://www.britannica.com/topic/Roman-citizenship",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Constitutio Antoniniana (Justus Liebig University Giessen)",
+            "url": "https://www.constitutio.de/en/constitutio-antoniniana-1",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Roman Citizenship (Livius)",
+            "url": "https://www.livius.org/articles/concept/citizenship-roman/",
+            "type": "reference",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-015-roads",
+      "reviewStatus": "minor_source_cleanup",
+      "rationale": "Gövde dengeliydi; UNRV gibi zayıf/reference kaynak yerine ORBIS ve akademik cursus publicus çalışmasıyla kaynak omurgası güçlendirildi.",
+      "fields": {
+        "subtitle": "Taş döşeli ağ, Roma'nın hız ve denetim teknolojisiydi.",
+        "whyItMatters": "Roma yollarını yalnız mühendislik harikası değil, ordu, posta, vergi ve eyalet yönetimini birbirine bağlayan devlet altyapısı olarak okumayı sağlar.",
+        "mediaChanged": "Film yolları düzen ve medeniyet sembolü gibi gösterir. Tarihsel çerçevede bu ağ aynı zamanda askerî öncelik, zorunlu bakım yükü ve resmi haberleşme sistemiyle bağlantılıdır."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Roman road system (Britannica)",
+            "url": "https://www.britannica.com/technology/Roman-road-system",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "ORBIS: The Stanford Geospatial Network Model of the Roman World",
+            "url": "https://orbis.stanford.edu/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Travel and Geography in the Roman Empire (Anne Kolb)",
+            "url": "https://sites.lsa.umich.edu/paul-in-athens/wp-content/uploads/sites/1400/2025/03/Kolb-2001-compressed.pdf",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-018-provincial-life",
+      "reviewStatus": "minor_source_cleanup",
+      "rationale": "Metin görece iyi durumdaydı; OxfordRE placeholder kaynağı daha doğrudan ve erişilebilir kaynaklarla değiştirildi. Eyaletlerin tek tip Roma kopyası olmadığı vurgusu korundu.",
+      "fields": {
+        "mediaConnection": "Gladiator merkezdeki iktidar dramını gösterir; bu kart aynı imparatorluğun taşrada vergi, garnizon, yerel elit ve kültürel melezlik üzerinden nasıl yaşandığını açar.",
+        "whyItMatters": "Roma'nın gücünü yalnız Kolezyum ve lejyonlarda değil, eyaletlerde işleyen vergi, tedarik, vatandaşlık ve yerel elit ağlarında aramayı sağlar.",
+        "quickRealityCheck": "Roma eyaletleri merkezin pasif kopyaları mıydı, yoksa yerel elitlerin ve geleneklerin düzeni yeniden şekillendirdiği alanlar mıydı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Roman provinces (Britannica)",
+            "url": "https://www.britannica.com/topic/ancient-Rome/Roman-provinces",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Art of the Roman Provinces, 1–500 CE (The Met)",
+            "url": "https://www.metmuseum.org/essays/art-of-the-roman-provinces-1-500-a-d",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The Roman Empire in a Connected World (Smarthistory)",
+            "url": "https://smarthistory.org/reframing-art-history/roman-empire-in-a-connected-world/",
+            "type": "reference",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-019-colosseum-labor",
+      "reviewStatus": "minor_rewrite",
+      "rationale": "Metin iyi fikir taşıyordu ama biraz kısa kalıyordu. İnşa finansmanı, hypogeum/velarium, hayvan/gladyatör tedariki ve görünmez emek zinciri biraz genişletildi.",
+      "fields": {
+        "realHistory": "Kolezyum, tek seferlik bir mimari başarı değil, sürekli çalışan bir emek ve yönetim projesiydi. Flavius hanedanı döneminde Vespasian ve Titus'un meşruiyet hamlesi olarak yükseldi; Nero'nun özel saray alanının halka açık bir gösteri merkezine çevrilmesi güçlü bir siyasi mesajdı. Travertenin çıkarılması, taşınması, demir kenetlerin üretimi, iskele kurulumu ve farklı zanaat ekiplerinin koordinasyonu büyük bir örgütlenme gerektiriyordu. Finansmanın bir kısmı Yahudiye seferlerinden gelen ganimetlerle ilişkilendirilir; işgücü ise köleleştirilmiş insanlar, uzman zanaatkârlar ve kamu ekiplerinin karışımından oluşuyordu.\n\nYapı tamamlandıktan sonra asıl maliyet bitmedi. Oyun günlerinde hayvanların getirilmesi, gladyatörlerin hazırlanması, sahne makineleri, temizlik, güvenlik, giriş-çıkış düzeni ve seyirci akışı için sürekli personel gerekiyordu. Hypogeum adı verilen yeraltı düzeni, hayvanları ve sahne sürprizlerini arenaya taşımak için ayrı bir teknik ekip isterdi. Velarium gölgelik sistemi bile uzman denizci ve işçi gruplarının kontrol ettiği büyük bir mekanizmaydı.\n\nBu yüzden Kolezyumun bedeli yalnız taşın fiyatı değildir. Arena, Roma gücünü sahnelerken o gücü her gösteride yeniden üretmek zorundaydı. İmparator ya da elit sponsorun cömertliği, taş ustasından hayvan bakıcısına kadar uzanan görünmez emek zinciriyle halk desteğine çevrilirdi.",
+        "whyInteresting": "Kolezyumda görünen birkaç dakikalık gösteri, taş ustalarından hayvan bakıcılarına ve sahne teknisyenlerine uzanan dev bir emek zincirine dayanıyordu.",
+        "whyItMatters": "Roma eğlencesinin yalnız gösteri değil, finansman, propaganda, lojistik ve iş gücü yönetimi meselesi olduğunu gösterir."
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Colosseum (Britannica)",
+            "url": "https://www.britannica.com/topic/Colosseum",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Colosseum (Parco archeologico del Colosseo)",
+            "url": "https://colosseo.it/en/area/the-colosseum/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Gladiatorial Games (The Met)",
+            "url": "https://www.metmuseum.org/toah/hd/glad/hd_glad.htm",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-020-fall-myth",
+      "reviewStatus": "flagship_rewrite_expand",
+      "rationale": "Flagship olduğu halde kısa ve iki kaynaklıydı. Metin, Commodus merkezli film etkisi ile Roma'nın çok yüzyıllı kriz/dönüşüm sürecini ayıran başlıklı flagship formata genişletildi.",
+      "fields": {
+        "readingTimeMinutes": 3,
+        "realHistory": "### Tek bir çöküş değil, uzun bir dönüşüm\n\nGladiator, Roma krizini Commodus'un kişisel yozlaşması, saray şiddeti ve arena siyaseti üzerinden yoğunlaştırır. Bu dramatik tercih işe yarar; izleyici imparatorluğun ahlaki çürümesini bir yüz üzerinden takip eder. Ancak tarihsel Roma'nın “çöküşü” tek bir kötü hükümdara, tek bir savaş yenilgisine ya da tek bir tarihe indirgenemez. MS 180 sonrası dönem gerçekten kırılganlıkları artırdı, fakat imparatorluk Commodus'tan sonra hemen yok olmadı.\n\n### Kriz ile reform aynı anda ilerledi\n\n3. yüzyılda hızlı imparator değişimleri, iç savaşlar, para değerindeki aşınma, salgınlar ve sınır baskıları merkezi yönetimi zorladı. Ordu daha pahalı hale geldi; eyalet savunması daha karmaşıklaştı; vergi sistemi üzerindeki baskı arttı. Buna rağmen Roma yalnız çöken bir yapı değildi. Diocletianus ve Constantinus dönemlerinde idare, ordu, vergi ve saray düzeni yeniden örgütlendi. Bu reformlar, eski imparatorluğu aynı biçimiyle kurtarmadı; ama onun farklı bir geç antik yapıya dönüşmesini sağladı.\n\n### Batı'nın sonu, Roma mirasının sonu değildir\n\n476'da Batı Roma'da son imparator Romulus Augustulus'un tahttan indirilmesi sembolik bir eşiktir. Yine de bu tarih “Roma bir gecede bitti” anlamına gelmez. Doğu Roma, yani Bizans, yüzyıllarca yaşamaya devam etti. Roma hukuku, kent kurumları, askerî unvanlar, vergi pratikleri ve Hristiyan imparatorluk fikri Akdeniz dünyasında etkisini sürdürdü. Batı'da ise Germen krallıkları Roma idari mirasını tamamen silmek yerine çoğu yerde kendi iktidarlarına uyarladı.\n\n### Film neden başka türlü anlatır?\n\nGladiator'ın hikâyesi kişisel adalet ve kötü iktidar üzerine kurulduğu için uzun yapısal dönüşümü saray trajedisine çevirir. Bu sinema açısından anlaşılır; iki yüzyıllık mali, askeri ve idari değişimi tek filmde anlatmak zordur. True Frame açısından önemli olan, bu sıkıştırmanın farkına varmaktır. Roma'nın hikâyesi yalnız çöküş değil; kriz, uyum, bölünme ve mirasın farklı coğrafyalarda yeniden kurulmasıdır. Bu yüzden “Roma çöktü mü?” sorusunun en doğru cevabı şudur: Batı'da siyasi merkez çöktü; Roma dünyası ise farklı biçimlerde yaşamaya devam etti.",
+        "accuracyNote": "Film Commodus dönemindeki siyasi çürüme hissini güçlü verir; ancak Roma'nın uzun kriz ve dönüşüm sürecini tek hükümdarın kişisel kötülüğüne indirger.",
+        "whyInteresting": "Roma örneği, bir imparatorluğun aynı anda hem kriz yaşayabileceğini hem de yeni kurumlar geliştirerek başka biçimlerde sürebileceğini gösterir.",
+        "whyItMatters": "Çöküş anlatılarının çoğu kişisel hata arar; bu kart kurum, maliye, ordu, çevre ve bölgesel süreklilik gibi daha yavaş değişen etkenleri görünür kılar.",
+        "mediaChanged": "Film uzun dönüşümü kısa bir saray trajedisine indirger. Tarihsel süreçte kriz, reform, bölünme ve yerel süreklilik yüzyıllar boyunca birlikte ilerler.",
+        "quickRealityCheck": "Roma gerçekten bir gecede mi çöktü, yoksa Batı'da siyasi merkez dağılırken Roma mirası başka kurumlarda yaşamaya devam mı etti?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Fall of Rome (Britannica)",
+            "url": "https://www.britannica.com/event/fall-of-Rome",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Fall of the Roman Empire (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/Fall_of_the_Roman_Empire/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Fall of Rome and the End of Civilization (Oxford Faculty of History)",
+            "url": "https://www.history.ox.ac.uk/publication/673324/manual",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Approaching Late Antiquity: The Transformation from Early to Late Empire (Oxford Academic)",
+            "url": "https://academic.oup.com/book/3070",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

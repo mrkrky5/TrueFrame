@@ -1,0 +1,292 @@
+{
+  "locale": "tr",
+  "chunkIndex": 52,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-063-jesuit-missions",
+      "title": "Cizvit Misyonları",
+      "subtitle": "Küçük ayrıntı, büyük tarih",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Erken Modern",
+      "region": "Japonya",
+      "themes": [
+        "Siyaset",
+        "Ticaret",
+        "Din"
+      ],
+      "whatWeSee": "Shogun'da Cizvitler, yalnızca din adamı değil, liman ticareti ve bilgi akışı üzerinde etkili siyasi aktörler olarak çizilir. Çeviri, aracılık ve mahkeme erişimi üzerinden güç üretirler. Dizi bu etkiyi özellikle Portekiz hattı ile Japon derebeyleri arasındaki kırılgan dengede gösterir; inanç dili ile ticari çıkar çoğu sahnede iç içe geçer.",
+      "realHistory": "Japonya'daki Cizvit misyonları 16. yüzyıl ortasında Francis Xavier'in gelişiyle başladı ve kısa sürede yalnızca dini değil, diplomatik-ticari bir ağın parçasına dönüştü. Kyushu'daki bazı daimyo, ateşli silah tedariki ve dış ticaret avantajı nedeniyle misyonerlerle pragmatik ilişkiler kurdu. Bu dönemde Hristiyan topluluklar belirli bölgelerde hızla büyürken, merkezi siyasi dengeler değiştikçe bu büyüme kırılgan hale geldi.\n\nMisyonerlerin etkisi doğrudan askeri komuta gücünden değil, bilgi aracılığı ve liman ekonomisine erişimden kaynaklanıyordu. Dil çevirisi, mektup trafiği, Avrupa bağlantıları ve ticaret aracılığı sayesinde bazı elit çevrelere yakınlık kurdular. Ancak bu durum Japon siyasi aktörleri için aynı zamanda egemenlik riski anlamına geliyordu: dış güçlerle dini bağın iç siyasete sızma ihtimali giderek daha fazla tartışıldı.\n\nToyotomi Hideyoshi'nin kısıtlamaları ve Tokugawa dönemindeki sertleşen yasaklar, bu şüpheyi kurumsal baskıya dönüştürdü. 17. yüzyıl başından itibaren misyon faaliyetleri daraldı, Hristiyan topluluklar yeraltına çekildi ve uzun süreli kapalılık rejimi güç kazandı.\n\nShogun'un verdiği temel sezgi doğru: Cizvit varlığı yalnızca \"inanç yayma\" değil, erken modern Asya'da ticaret, diplomasi ve güvenlik hesabının kesişiminde duran karmaşık bir güç ilişkisiydi. Sonraki yüzyıllarda gizli Hristiyan toplulukların (kakure kirishitan) hayatta kalması da, baskının mutlak olmadığını; yerel inanç pratiklerinin sessiz uyarlamalarla uzun süre devam edebildiğini gösterir. Bu miras, din tarihinin aynı zamanda devlet güvenliği tarihine bağlandığını kanıtlar.",
+      "accuracyNote": "Misyonların siyasi-ticari etkisi isabetli biçimde kurulmuştur; tarihsel zamanlama ve karakter temsilinde dramatik sıkıştırma vardır.",
+      "whyInteresting": "Aynı aktör grubunun hem ruhani otorite hem dış ticaret aracı olarak algılanabilmesi dönemin siyasetini benzersiz kılar.",
+      "misconception": "Cizvitlerin Japonya'da yalnızca dini vaazla etkili olduğu düşünülür.",
+      "nextTopics": [
+        "Daimyo Siyaseti",
+        "Yabancı Denizciler",
+        "Rehine Düzeni"
+      ],
+      "sources": [
+        {
+          "title": "Britannica - Christianity in Japan",
+          "url": "https://www.britannica.com/place/Japan/Christianity",
+          "type": "article"
+        },
+        {
+          "title": "Britannica - St. Francis Xavier",
+          "url": "https://www.britannica.com/biography/Saint-Francis-Xavier",
+          "type": "article"
+        },
+        {
+          "title": "Met Museum - Japan, 1600-1800 (trade and foreign contact)",
+          "url": "https://www.metmuseum.org/toah/hd/edoj/hd_edoj.htm",
+          "type": "museum"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-064-hostage-system",
+        "tf26-065-tea-ceremony",
+        "tf26-066-castle-towns"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Shogun'daki tercümanlık, liman pazarlığı ve saray erişimi temaları, Nanban ticareti dönemindeki Cizvit aracılık rolüyle örtüşür.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japonya",
+        "tokugawa",
+        "cizvit-misyonlari",
+        "true-frame",
+        "samuray"
+      ],
+      "spoilerNote": "Shogun hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi Cizvit etkisini yüksek yoğunluklu saray gerilimine çeviriyor; tarihsel süreçte etki bölgesel, dalgalı ve dönemsel olarak kırılan bir ağ şeklinde ilerledi.",
+      "whyItMatters": "Aynı aktör grubunun hem ruhani otorite hem dış ticaret aracı olarak algılanabilmesi dönemin siyasetini benzersiz kılar.",
+      "isFlagship": false,
+      "quickRealityCheck": "Japon yöneticiler Cizvitleri neden bir yandan kullanıp diğer yandan tehdit olarak görmeye başladı?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-064-hostage-system",
+      "title": "Rehine Düzeni",
+      "subtitle": "Rehine düzeni: aile mi, siyasi mühür mü?",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Erken Modern",
+      "region": "Japonya",
+      "themes": [
+        "Siyaset",
+        "Ticaret",
+        "Din"
+      ],
+      "whatWeSee": "Shogun'da daimyo aileleri Edo'da rehin tutulur; sadakat ve ihanet bu sistem üzerinden okunur. Toranaga'nın düzeni, insan rehinlerini siyasi mühür olarak kullanır. Görüntüde Edo'da tutulan aile üyeleri, uzun daimyo konvoyları ve merkezde kaydedilen sadakat ilişkileri rehine düzeninin siyasi mantığını görünür kılıyor.",
+      "realHistory": "Sankin-kōtai (alternating attendance) Tokugawa sisteminin direğiydi: daimyo aileleri Edo'da rehin, lordlar dönüşümlü olarak sarayda bulunurdu. Maliyet yükü daimyoları zayıflattı; sadakat sembolik ve maddi olarak güvence altına alındı. Rehinler arasında çocuklar vardı; kaçış veya isyan aile bedeli demekti. Sistem 17. yüzyılda olgunlaştı; Edo'nun nüfusu ve ekonomisi buna bağlı büyüdü. Shogun dizisi rehin dramını kişiselleştirir; tarihsel kayıtlar sistemin merkezi otoriteyi nasıl kurduğunu gösterir. Tokugawa siyasetinde rehine düzeni, çıplak zor kullanımından çok sürekli sadakat üretmeyi hedefleyen kurumsal bir denetim aracıdır. Daimyoların eş ve varisleri Edo'da tutulurken, beylerin kendileri de dönüşümlü ikamet yükümlülüğüyle merkeze bağlandı. Bu sistem olası isyan maliyetini artırdı; çünkü siyasi başkaldırı aile güvenliğini doğrudan riske sokuyordu. Aynı zamanda uzun konvoylar, yol altyapısı ve tüketim harcamaları üzerinden bölgesel ekonomileri merkezle ilişkilendirdi. Rehine uygulaması böylece korku, prestij ve mali bağımlılığı birleştirerek barış düzeninin görünmez omurgasını oluşturdu. Rehine Düzeni Sankin-kōtai (alternating attendance) Tokugawa sisteminin direğiydi: daimyo aileleri Edo'da rehin, lordlar dönüşümlü olarak sarayda bulunurdu. Sankin-kotai konvoyları, daimyo hazinelerini zorlayan gösterişli bir tören ekonomisi üretti; yol üstü hanlar ve tedarikçiler bu hareketten kazanç sağladı. Edo'da tutulan aile üyeleri, olası isyanı doğrudan kişisel bedelle ilişkilendirdi. Böylece merkez, büyük savaş açmadan taşra aristokrasisini disipline edebildi.",
+      "accuracyNote": "Sankin-kōtai Britannica ve akademik kaynaklarla uyumludur.",
+      "whyInteresting": "Aynı aile hem onur hem rehin olarak tutuldu.",
+      "misconception": "Rehin yalnızca misafirlikti; siyasi güvence ve maliyet baskısıydı.",
+      "nextTopics": [
+        "Daimyo Siyaseti",
+        "Yabancı Denizciler",
+        "Cizvit Misyonları"
+      ],
+      "sources": [
+        {
+          "title": "Sankin-kotai (Britannica)",
+          "url": "https://www.britannica.com/topic/sankin-kotai",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Tokugawa period (Britannica)",
+          "url": "https://www.britannica.com/event/Tokugawa-period",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Edo period Japan (Met Museum)",
+          "url": "https://www.metmuseum.org/toah/hd/edop/hd_edop.htm",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-068-port-trade",
+        "tf26-062-foreign-pilots"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Shogun'un Edo rehin sahneleri ile Tokugawa sankin-kōtai ve daimyo rehin sistemi.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japonya",
+        "tokugawa",
+        "rehine-duzeni",
+        "true-frame",
+        "samuray"
+      ],
+      "spoilerNote": "Shogun hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi rehini aile dramı yapar; gerçekte devlet güvenlik mimarisiydi.",
+      "whyItMatters": "Aynı aile hem onur hem rehin olarak tutuldu.",
+      "isFlagship": true,
+      "quickRealityCheck": "Sankin-kōtai daimyoları mali olarak nasıl kısıtladı?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-065-tea-ceremony",
+      "title": "Çay Töreni",
+      "subtitle": "Ekrandaki iz, tarihteki karşılık",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Erken Modern",
+      "region": "Japonya",
+      "themes": [
+        "Siyaset",
+        "Ticaret",
+        "Din"
+      ],
+      "whatWeSee": "Shogun dizisinde çay töreni (chanoyu) protokol, güç ve huzur sahnesi olarak geçer. Karakterler çay odasında (chashitsu) statü ve ittifak sinyali verir. Kamera sade çay odasında ölçülü hareketleri, seçilmiş seramiklerin prestij dilini ve sessiz diplomatik mesajların jestlerle aktarıldığı incelikli atmosferi yakalıyor.",
+      "realHistory": "Japon çay töreni 16. yüzyılda Sen no Rikyū ile estetik ve felsefi derinlik kazandı: wabi-sabi, sessizlik, eşitlik illüzyonu. Shogun ve daimyo çay odasını siyasi görüşme mekânı olarak kullandı. Tören ekipmanı (raku çanak) ve hareketler kodlanmıştı. Rikyū 1591'de Tokugawa Ieyasu ile gerilim sonrası seppuku emri aldı; çay siyasetle iç içeydi. Shogun dizisi töreni batılı izleyiciye açıklar; tarihsel kayıtlar çayın feodal diplomasi aracı olduğunu gösterir. Çay töreni, erken modern Japonya'da estetik zevkin ötesinde toplumsal statü ve diplomatik dil üreten bir pratikti. Wabi-sabi anlayışı sade nesnelerle ölçülü davranışı yüceltirken, törenin her adımı hiyerarşiyi incelikle kodluyordu. Daimyo ve samuray çevrelerinde çay odası, resmi müzakerenin gerginliğini yumuşatan ama güç ilişkilerini gizlemeyen bir sahne işlevi gördü. Kullanılan seramikler ve parşömenler ticaret ağlarıyla bağlantılı prestij göstergeleriydi. Böylece çay, savaş çağında bile kültürel sermaye, siyasal meşruiyet ve ekonomik dolaşımın kesişim noktasına yerleşti. Çay Töreni Japon çay töreni 16. Çay toplantıları, savaşçı elitler arasında sessiz diplomasi yürütmenin güvenli sahnesiydi; oturma düzeni, kap seçimi ve misafir sırası açık mesaj taşırdı. Raku seramiklerinin kusurlu estetiği bilinçli prestij tercihi sayılırdı. Tören adabını bilmek, saray çevresinde kültürel sermaye ve siyasi güven göstergesine dönüştü.",
+      "accuracyNote": "Rikyū ve chanoyu tarihi Britannica ile uyumludur.",
+      "whyInteresting": "Aynı fincan hem huzur hem iktidar müzakeresi taşıdı.",
+      "misconception": "Çay töreni yalnızca estetik ritüeldi; siyasi araçtı da.",
+      "nextTopics": [
+        "Daimyo Siyaseti",
+        "Yabancı Denizciler",
+        "Cizvit Misyonları"
+      ],
+      "sources": [
+        {
+          "title": "Tea ceremony Japan (Britannica)",
+          "url": "https://www.britannica.com/topic/tea-ceremony",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Sen no Rikyu (Britannica)",
+          "url": "https://www.britannica.com/biography/Sen-no-Rikyu",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Wabi-sabi (Met Museum)",
+          "url": "https://www.metmuseum.org/",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-066-castle-towns",
+        "tf26-067-seppuku",
+        "tf26-068-port-trade"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Shogun'un çay töreni sahneleri ile chanoyu, Sen no Rikyū ve feodal Japon diplomasi.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japonya",
+        "tokugawa",
+        "cay-toreni",
+        "true-frame",
+        "samuray"
+      ],
+      "spoilerNote": "Shogun hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi töreni kısa sahneye sıkıştırır; gerçekte yıllar süren ustalık eğitimi vardı.",
+      "whyItMatters": "Aynı fincan hem huzur hem iktidar müzakeresi taşıdı.",
+      "isFlagship": false,
+      "quickRealityCheck": "Sen no Rikyū neden seppuku emri aldı?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-066-castle-towns",
+      "title": "Kale Şehirleri",
+      "subtitle": "Kale Şehirleri hakkında yanlış bilinen",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Erken Modern",
+      "region": "Japonya",
+      "themes": [
+        "Siyaset",
+        "Ticaret",
+        "Din"
+      ],
+      "whatWeSee": "Shogun'da kale çevresindeki sokaklar ve kapılar, düzenli ama gerilimli bir şehir hayatı verir; jokamachi düzeninin kurumsal tarafı sezdirilir.",
+      "realHistory": "Japonya'da sengoku savaşlarının ardından Tokugawa düzeni kurulurken kale kentleri, yani jokamachi, askeri ve idari merkez olarak yeniden tasarlandı. Kale yalnızca lordun ikametgahı değildi; etrafındaki mahalle dokusu sınıf hiyerarşisini mekana çeviriyordu. Samuray konutları kaleye yakın halkalarda toplanırken zanaatkarlar ve tüccarlar daha dış çeperde konumlandırıldı. Kapılar, hendekler ve kontrol noktaları hem savunma hem nüfus denetimi için kullanıldı.\n\nEdo, Osaka, Himeji ve Kanazawa gibi merkezlerde jokamachi modeli, vergi toplama ve tahıl dolaşımını da düzenledi. Daimyo yönetimleri için şehir planı, siyasi sadakat kadar lojistik verimlilik anlamına geliyordu. Yol ağı, pazar alanı ve depo sistemi birlikte düşünülüyor; yangın, ayaklanma veya kuşatma riskine göre mahallelerin işlevi belirleniyordu. Tokugawa barışı döneminde bu kentler askeri kaleden çok bürokratik yönetim merkezine dönüştü; ancak sınıfsal ayrım mekanda yaşamaya devam etti.\n\nShogun dizisi, bu dünyayı bireysel entrikalar üzerinden anlatırken seyirciye mekansal hiyerarşiyi hissettiriyor: kimin hangi kapıdan geçebileceği, hangi mahallede kalabileceği ve hangi ritüelle kabul göreceği sürekli siyasetin parçası. Bu nedenle kale kentleri yalnızca dekor değil; iktidarın günlük akışta nasıl çalıştığını gösteren canlı bir sahnedir.\n\nJokamachi düzeninde gündelik hayat da sınıf kodlarına göre akardı. Hangi mahallede kimlerin yaşayacağı, yangın sonrası yeniden inşa kuralları, gece devriyelerinin güzergahı ve pazar vergileri merkezi otoritenin denetim araçlarıydı. Bu yüzden kale kentleri, yalnızca savaş hazırlığı değil toplumsal disiplin laboratuvarı olarak da okunur. Şehirdeki görsel estetik -ahşap cepheler, dar sokaklar, kapı ritüelleri- aynı anda düzen ve itaat mesajı taşır.",
+      "accuracyNote": "Dizi dramatik karakter odaklarını öne çıkarır; jokamachi düzeninin vergi, nüfus kontrolü ve sınıf planlaması boyutu kaynaklarda daha açık görünür.",
+      "whyInteresting": "Kale Şehirleri üzerinden bakınca sahnedeki atmosfer, Osaka, Edo ve Japon liman şehirleri çevresindeki gerçek kurum ve alışkanlıklarla bağ kurar.",
+      "misconception": "Kale Şehirleri konusunun tek bir basit açıklamayla çözüldüğü sanılır. Kaynaklar, bu basit anlatının arkasında daha karmaşık bir düzen olduğunu gösterir.",
+      "nextTopics": [
+        "Daimyo Siyaseti",
+        "Yabancı Denizciler",
+        "Cizvit Misyonları"
+      ],
+      "sources": [
+        {
+          "title": "Japan Encyclopedia - Castle towns (jokamachi)",
+          "url": "https://japanesewiki.com/history/Jokamachi.html",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Tokugawa period",
+          "url": "https://www.britannica.com/event/Tokugawa-period",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Met Museum - Samurai and castle culture",
+          "url": "https://www.metmuseum.org/toah/hd/japb/hd_japb.htm",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-067-seppuku",
+        "tf26-068-port-trade",
+        "tf26-069-sekigahara"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Shogun içindeki Kale Şehirleri sahneleri, gerçek tarihle yan yana okununca daha anlamlı hale gelir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japonya",
+        "tokugawa",
+        "kale-sehirleri",
+        "true-frame",
+        "samuray"
+      ],
+      "spoilerNote": "Shogun hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Kale Şehirleri ekranda daha net bir odak kazanır; karakterlerin yolu, mekân seçimi ve çatışma ritmi bu konuyu kolay takip edilir kılar. Tarihte aynı başlık, Sekigahara öncesi güç mücadelesi gibi daha uzun süreçlerin içinde ilerler.",
+      "whyItMatters": "Kale Şehirleri üzerinden bakınca sahnedeki atmosfer, Osaka, Edo ve Japon liman şehirleri çevresindeki gerçek kurum ve alışkanlıklarla bağ kurar.",
+      "isFlagship": false,
+      "quickRealityCheck": "Kale kentinde mimari estetik kadar sosyal hiyerarşi de inşa edilir.",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

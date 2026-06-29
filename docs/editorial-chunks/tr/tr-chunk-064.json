@@ -1,0 +1,282 @@
+{
+  "locale": "tr",
+  "chunkIndex": 64,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-114-pinkertons",
+      "title": "Dedektif Ajansları",
+      "subtitle": "Pinkertonlar: şerif değil, şirket ordusu",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Sınır",
+        "Şiddet",
+        "Modernleşme"
+      ],
+      "whatWeSee": "Red Dead Redemption'da Pinkerton ajanları çiftlik ve demiryolu çatışmalarında Batı'nın özel güvenlik yüzünü temsil eder. RDR2 kovalamacayı dramatize eder; Homestead 1892 ve grev kırma arşivleri ajansın emek mücadelesindeki gerçek rolünü belgeler.",
+      "realHistory": "Pinkerton National Detective Agency, 1850'lerde Allan Pinkerton tarafından kuruldu; demiryolu soygunları, dolandırıcılık ve grev kırma işlerinde ünlendi. 1892 Homestead Grevi'nde Carnegie Steel, Pinkerton adamlarını işçilere karşı gönderdi — kanlı çatışma, özel güvenliğin emek mücadelesindeki rolünü simgeledi. RDR2, Pinkerton'ları Van der Linde çetesine karşı kovalamaca ile gösterir; tarihsel ajans gerçekten demiryolu, banka ve büyük sermaye için çalıştı. 'Özel dedektif' ile devlet gücü arasındaki çizgi bulanıktı. Oyun Western dramını yoğunlaştırır; emek tarihçileri Homestead ve grev kırma arşivlerini okur. Pinkerton, Amerikan kapitalizminin şiddetli yan iş ortağı olarak hafızada kaldı. Allan Pinkerton 1850'de ajansı kurdu; demiryolu soygunları ve Lincoln korumasıyla ünlendi. 1892 Homestead Grevi'nde Carnegie Steel, 300 Pinkerton adamlarını Frick'in emriyle işçilere karşı gönderdi; kanlı çatışmada onlarca kişi yaralandı, birkaçı öldü. Olay, özel güvenliğin emek karşıtı kullanımının simgesi haline geldi. RDR2 Pinkerton'ları kovalamaca ile gösterir; tarihsel ajans demiryolu, banka ve büyük sermaye için çalıştı. Özel dedektif ile devlet gücü arasındaki çizgi bulanıktı. 20. yüzyıl başında federal işçi koruma yasaları tartışıldı; Pinkerton'un grev kırma rolü bu tartışmaları besledi. 20. yüzyıl başında federal işçi koruma tartışmaları Pinkerton'un grev kırma geçmişini gündeme taşıdı. Ajans demiryolu soygunları ve banka dolandırıcılığında da çalıştı; RDR2 bu çok yönlü rolü kovalamaca ile sınırlar.",
+      "accuracyNote": "Pinkerton'un grev kırma ve kovalamaca rolü tarihseldir; RDR karakterleri kurgusaldır.",
+      "whyInteresting": "Özel ajans, kamu polisinden önce bazı çatışmalara müdahale etti.",
+      "misconception": "Pinkerton sadece Batı kovalamacasıydı; asıl büyüme endüstriyel grevlerde oldu.",
+      "nextTopics": [
+        "Kanunsuz Efsanesi",
+        "Demiryolu Sınırı",
+        "Sığır Sürüşleri"
+      ],
+      "sources": [
+        {
+          "title": "Pinkerton National Detective Agency (Smithsonian)",
+          "url": "https://www.smithsonianmag.com/history/pinkerton-national-detective-agency-180958432/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Homestead Strike (Britannica)",
+          "url": "https://www.britannica.com/event/Homestead-Strike",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Labor and private detectives (US National Archives)",
+          "url": "https://www.archives.gov/education/lessons/homestead-strike",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "rdr-pinkerton-agency",
+        "tf26-111-outlaw-myth"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Red Dead Redemption 2 Pinkerton baskısı ile gerçek ajans arşivleri.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "vahsi-bati",
+        "red-dead",
+        "abd",
+        "dedektif-ajanslari",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "RDR Western romantizmi verir; Homestead kayıtları kanlı gerçeği gösterir.",
+      "whyItMatters": "Özel ajans, kamu polisinden önce bazı çatışmalara müdahale etti.",
+      "isFlagship": false,
+      "quickRealityCheck": "RDR2'deki Pinkerton kovalamacası, Homestead 1892 kayıtlarıyla nasıl yan yana gelir?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-115-reservation-system",
+      "title": "Rezervasyon Sistemi",
+      "subtitle": "Rezervasyon sınırı haritada neden keskin?",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Sınır",
+        "Şiddet",
+        "Modernleşme"
+      ],
+      "whatWeSee": "Red Dead Redemption 2, rezervasyon yaşamını daralan toprak, askeri yıldırma ve manipülatif antlaşma siyaseti üzerinden gösterir. Wapiti hikaye hattı, devlet ve ticari aktörlerin yas, zorlama ve stratejik aldatmasını vurgular. Oyuncular haritada idari görünen sınırlar görür; ancak anlatı bu çizgilerin güç ürünü olduğunu hissettirir. Duygusal merkez, tek bir dramatik muharebeden çok günlük baskı yoluyla ilerleyen mülksüzleştirmedir.",
+      "realHistory": "ABD rezervasyon sistemi, Yerli ulusları federal denetim altında kısıtlı topraklara yoğunlaştıran antlaşmalar, askeri seferler, yürütme kararları ve kongre yasalarıyla gelişti. Resmi dil çoğu kez koruma ya da uygarlık söylemine başvursa da uygulama tekrar tekrar toprak kaybı, siyasi tabiiyet ve ekonomik bağımlılık üretti. 1887 tarihli Dawes Act, ortak mülkiyeti bireysel parsellere bölüp sözde fazla toprakları Yerli olmayan yerleşime ve şirket kullanımına aktararak bu süreci hızlandırdı. Sonuç, birçok ulus için yıkıcı bir toprak daralması oldu. Federal görevliler erzak dağıtımını, hareket izinlerini, kolluğu ve eğitimi kontrol ederek yönetimi hane düzeyinde müdahaleci hale getirdi. Yatılı okul programları dil ve akrabalık pratiklerini bastırarak kültürel asimilasyonu hedefledi; misyonerler ve yöneticiler de hukuki ve toplumsal normları yeniden şekillendirdi. Demiryolu genişlemesi, çıkarımcı sanayi ve tarımsal spekülasyon, politika teşvikleriyle hizalanarak mülksüzleştirmeyi ulusal piyasa büyümesinin içine gömdü. Yerli topluluklar hukuki dilekçeler, diplomasi, uyum stratejileri ve direnişle karşılık verdi; ancak müzakere ağır bir zorlayıcı asimetri altında yürüdü. Bu nedenle rezervasyon sistemi, geçici bir sığınaktan çok çevreleme ve yeniden yapılandırmanın kalıcı bir rejimi olarak işledi. Red Dead bu uzun yayı karakter odaklı bir trajediye sıkıştırır ve duygusal olarak etkilidir. Tarihsel olarak ise mülksüzleştirme, açık şiddet kadar evrak, mahkeme, bütçe ve polis yetkileriyle taşınan birikimli ve bürokratik bir süreçti.",
+      "accuracyNote": "Zorlamanın temel dinamikleri inandırıcıdır; uzun bürokratik zaman çizelgesi hikaye temposu için sıkıştırılmıştır.",
+      "whyInteresting": "Mülksüzleştirmenin yalnızca savaş meydanı yenilgisiyle değil, evrak ve teşviklerle kurulan bir sistem olduğunu gösterir.",
+      "misconception": "Rezervasyon sınırları, zorlayıcı devlet gücünün sonuçları yerine sıklıkla uzlaşıya dayalı yerleşimler sanılır.",
+      "nextTopics": [
+        "Kanunsuz Efsanesi",
+        "Demiryolu Sınırı",
+        "Sığır Sürüşleri"
+      ],
+      "sources": [
+        {
+          "title": "Indian Removal Act (Britannica)",
+          "url": "https://www.britannica.com/event/Indian-Removal-Act",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Trail of Tears (NPS)",
+          "url": "https://www.nps.gov/trte/index.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Dawes Act (Britannica)",
+          "url": "https://www.britannica.com/event/Dawes-General-Allotment-Act",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-112-railroad-frontier",
+        "rdr2-frontier"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "RDR2 anlatı odağıyla empati kurdurur; tarih ise bu acının ardındaki politika mekanizmasını görünür kılar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "vahsi-bati",
+        "red-dead",
+        "abd",
+        "rezervasyon-sistemi",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun yoğunlaşmış bir krizi dramatize eder; oysa tarihsel mülksüzleştirme onlarca yıl boyunca hukuk, idare ve piyasa bütünleşmesiyle işledi.",
+      "whyItMatters": "Mülksüzleştirmenin yalnızca savaş meydanı yenilgisiyle değil, evrak ve teşviklerle kurulan bir sistem olduğunu gösterir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Rezervasyonlar çoğu durumda tarafsız koruma bölgeleri değil, kontrol ve toprak transferi araçlarıydı.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-116-boomtowns",
+      "title": "Patlama Kasabaları",
+      "subtitle": "Bir gecede kurulan kasaba, tren gelince neden solar?",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Sınır",
+        "Şiddet",
+        "Modernleşme"
+      ],
+      "whatWeSee": "Red Dead Redemption'da Valentine, Rhodes ve yeni kurulan kasabalar demiryolu, maden ve kanun kaçağının buluştuğu patlama kasabalarını canlandırır. Oyun Western romantizmini yoğunlaştırır; Bodie ve Deadwood arşivleri maden bitince nüfusun nasıl çöktüğünü belgeler.",
+      "realHistory": "19. yüzyıl Amerikan Batı'sında patlama kasabaları (boomtowns) altın, gümüş, demiryolu veya arazi spekülasyonuyla bir gecede büyüdü. Valentine ve Rhodes RDR2'de bu atmosferi taşır: salon, şerif ofisi, tek sokaklı merkez. Gerçek boomtowns hızla kurulur, hızla şiddetlenir, bazen terk edilirdi. Bodie, Deadwood, Tombstone örnekleri: maden bitince nüfus çöker. Hukuk geç gelir; özel güvenlik ve şerif arasında boşluk vardır. Oyun Western romantizmini yoğunlaştırır; maden ve demiryolu tarihçileri nüfus eğrilerini ve terk edilişi belgeler. Bodie, California 1870'lerde altınla patladı; 1880'lerde nüfus 10.000'i aştı, maden bitince hayalet kasaba oldu. Deadwood, South Dakota 1876 Black Hills altınıyla kuruldu. Tombstone gün batımı silahlarıyla ünlendi ama asıl motor maden ve arazi spekülasyonuydu. Boomtowns hızla kurulur: salon, şerif ofisi, tek sokaklı merkez. Demiryolu gelince kasaba kalıcı olabilir veya yeni hat başka yere taşır. RDR2 Valentine ve Rhodes bu atmosferi taşır; California State Parks Bodie'yi korunan örnek olarak sunar. Demiryolu gelince kasaba kalıcı olabilir veya yeni hat nüfusu başka yere taşırdı. Hukuk geç gelir; şiddet ve spekülasyon erken gelir. Tombstone ve Deadwood silah şiddetiyle ünlendi; asıl motor maden ve arazi spekülasyonuydu. California Gold Rush kayıtları bir gecede kurulan kasabaların nüfus eğrilerini gösterir.",
+      "accuracyNote": "Boomtown dinamiği tarihseldir; RDR kasaba isimleri ve olayları kurgusaldır.",
+      "whyInteresting": "Bir kasaba maden bitince haritadan silinebilirdi.",
+      "misconception": "Batı kasabaları kalıcıydı; çoğu konjonktürel patlamaydı.",
+      "nextTopics": [
+        "Kanunsuz Efsanesi",
+        "Demiryolu Sınırı",
+        "Sığır Sürüşleri"
+      ],
+      "sources": [
+        {
+          "title": "Boomtowns (Britannica)",
+          "url": "https://www.britannica.com/topic/boomtown",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Bodie ghost town (California State Parks)",
+          "url": "https://www.parks.ca.gov/?page_id=414",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Western mining towns (Library of Congress)",
+          "url": "https://www.loc.gov/collections/california-gold-rush/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-112-railroad-frontier",
+        "rdr-railroad-conquest"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "RDR2 kasaba sahneleri ile Batı maden ve demiryolu boomtown kayıtları.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "vahsi-bati",
+        "red-dead",
+        "abd",
+        "patlama-kasabalari",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun boş kasabayı dramatik mekân yapar; gerçekte terk ediliş çoğu zaman iflas, kuraklık veya hat kaymasıdır.",
+      "whyItMatters": "Bir kasaba maden bitince haritadan silinebilirdi.",
+      "isFlagship": true,
+      "quickRealityCheck": "RDR2 kasabaları, Bodie ve Deadwood arşivleriyle ne kadar örtüşüyor?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-117-frontier-law",
+      "title": "Sınır Hukuku",
+      "subtitle": "Sınırda 'kanun' kimin elindeydi?",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Sınır",
+        "Şiddet",
+        "Modernleşme"
+      ],
+      "whatWeSee": "Red Dead Redemption, frontier hukukunu tek bir devlet sesi yerine çarpışan otoriteler olarak anlatıyor: şerifler, federal ajanlar, ödül avcıları ve şirket güvenlikleri. Oyuncu sürekli gri bir zeminde karar veriyor. Oyun, “kanunsuz Batı” klişesini korurken aynı anda farklı yasa rejimlerinin çatıştığı daha karmaşık bir düzen hissi de kuruyor.",
+      "realHistory": "19. yüzyıl sonu Amerikan frontier bölgelerinde hukuk gerçekten parçalıydı; fakat bu durum “hiç hukuk yoktu” anlamına gelmez. İlçe şerifleri, eyalet mahkemeleri, federal marshal sistemi ve yerel milis yapıları aynı coğrafyada farklı yetkilerle çalışıyordu. Ulaşım ve iletişim ağları genişledikçe suçlar eyalet sınırlarını daha kolay aştı, bu da federal müdahaleyi artırdı. Esas sorun çoğu zaman yasa yokluğu değil, çakışan yetkiler ve kapasite eşitsizlikleriydi.\n\nDemiryolu şirketlerinin yükselişi tabloyu daha da karmaşıklaştırdı. Özel dedektif ve güvenlik ağları, kimi yerde soruşturmaya destek verirken kimi yerde emek hareketlerini bastırmada tartışmalı roller üstlendi. Pinkerton gibi kurumlar kamu gücü ile özel çıkar arasındaki sınırın ne kadar geçirgen olabildiğini gösterdi. Popüler kültürdeki düello ve kovalamaca görüntüleri gerçek olaylardan izler taşır; ancak uzun dönemli dönüşümün omurgası kayıt düzeni, vergi yönetimi, ulaşım altyapısı ve bürokratik merkezileşmeydi.\n\n1890’lar sonrasında “açık sınır” fikri zayıflarken hukuk daha prosedürel bir modele evrildi. Bu geçiş eşit işlemedi; etnik ve sınıfsal adaletsizlikler kalıcı etkiler bıraktı. Oyun bu dağınık güç alanını iyi hissettirir. Tarihsel okuma ise şu netliği ekler: frontier hukuku bir “vahşi boşluk” değil, yerel özerklik, sermaye baskısı ve federal kapasite arasında süren kurumsal pazarlıktı. Sonuçta düzen, silahlı çatışmadan çok kayıt, ulaşım ve yargı koordinasyonunun kurumsallaşmasıyla kalıcılaştı.",
+      "accuracyNote": "Yerel-federal gerilim olgusal zemine dayanır; karakter etkileri dramatik akış için sıkıştırılmıştır.",
+      "whyInteresting": "Bu kart western mitini çözerek hukuk sosyolojisi ve devlet inşası tartışmasına somut bir giriş sunar.",
+      "misconception": "Yaygın yanılgı, frontier bölgelerinin tamamen devletsiz ve kuralsız olduğudur.",
+      "nextTopics": [
+        "Kanunsuz Efsanesi",
+        "Demiryolu Sınırı",
+        "Sığır Sürüşleri"
+      ],
+      "sources": [
+        {
+          "title": "History of the U.S. Marshals Service",
+          "url": "https://www.usmarshals.gov/who-we-are/history"
+        },
+        {
+          "title": "Pinkerton National Detective Agency (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/topic/Pinkerton-National-Detective-Agency"
+        },
+        {
+          "title": "Law and Order in the American West (Library of Congress)",
+          "url": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/rise-of-industrial-america-1876-1900/law-and-order-in-the-american-west/"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-118-bounty-hunters",
+        "rdr2-frontier"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "RDR etik gri alanları büyütüyor; True Frame bu gri alanın kurumsal çakışmalardan nasıl doğduğunu açıklıyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "vahsi-bati",
+        "red-dead",
+        "abd",
+        "sinir-hukuku",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun hukuku kişisel hesaplaşmalara indiriyor; tarihsel süreç yetki çatışması ve bürokratik merkezileşmenin yavaş dönüşümünü gösteriyor.",
+      "whyItMatters": "Bu kart western mitini çözerek hukuk sosyolojisi ve devlet inşası tartışmasına somut bir giriş sunar.",
+      "isFlagship": false,
+      "quickRealityCheck": "Frontier’de kriz gerçekten kanun yokluğu muydu, yoksa birbiriyle yarışan yarım yetki rejimleri miydi?",
+      "lastReviewedAt": "2026-06-26"
+    }
+  ]
+}

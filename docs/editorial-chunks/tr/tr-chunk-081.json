@@ -1,0 +1,375 @@
+{
+  "locale": "tr",
+  "chunkIndex": 81,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-193-flagellants",
+      "title": "Flagellantlar",
+      "subtitle": "Küçük ayrıntı, büyük tarih",
+      "mediaType": "general",
+      "mediaTitle": "Kara Veba temalı yapımlar",
+      "era": "Orta Çağ",
+      "region": "Avrupa",
+      "themes": [
+        "Hastalık",
+        "Toplum",
+        "Yanlış Bilinenler"
+      ],
+      "whatWeSee": "Kara Veba temalı yapımlarda sokaklarda diz çökmüş, sırtlarını kamçılayan dini yürüyüşçüler veba korkusunun en çarpıcı görüntülerinden biridir. Bu sahneler 1348–1350 flagellant dalgasına dayanır; Papa VI. Clement 1349'da hareketi resmen kınadı.",
+      "realHistory": "1348–1350 civarında Avrupa'da flagellant (kendini kamçılayan) hareketleri yayıldı. Yüzlerce kişilik gruplar şehirden şehre yürüdü, günahları ve vebayı bağladı, kamçı ve ilahi ile kamu ritüeli oluşturdu. Başlangıçta halk ve bazı din adamları destekledi; hareket büyüyünce kilise endişelendi. Papa VI. Clement 1349'da flagellantları kınadı; kontrol dışı dinsel coşkunun ayaklanma ve sapkınlık riski taşıdığını düşündü. Bazı gruplar Yahudilere ve azınlıklara şiddet yöneltti — veba suçlamalarıyla birleşen tehlikeli bir dalga. Kara Veba temalı yapımlar flagellantları atmosfer için kullanır; kronikler ise hareketin kısa ömürlü ama şiddetli siyasal-dini etkisini kaydeder. Kendini cezalandırma, veba çağının en görünür inanç tepkilerinden biridir. Almanya ve Flandre'den başlayan gruplar yüzlerce kişilik kolonlar halinde yürüdü; beyaz kefene bürünür, kamçı ve ilahi ile kamu ritüeli oluştururdu. Hareket hızla büyüdü; bazı şehirler onları kabul etti, bazıları kapattı. Papa VI. Clement 1349'da flagellantları kınayan bir ferman yayınladı; kontrol dışı dinsel coşkunun ayaklanma ve sapkınlık riski taşıdığını düşündü. Kronikler hareketin birkaç yıl içinde söndüğünü kaydeder; fakat o kısa sürede sokak inancının siyasal gücünü gösterdi. Hareket birkaç yıl içinde söndü; fakat sokak inancının siyasal gücünü kısa sürede gösterdi. Kronikler hareketin Almanya ve Flandre'den yayıldığını, beyaz kefene bürünen grupların şehir şehir dolaştığını kaydeder.",
+      "accuracyNote": "Flagellant hareketleri ve papalık kınaması güçlü kaynaklarla desteklenir; her veba filminde tarihsel olarak yer almazlar.",
+      "whyInteresting": "Kitle ritüeli, kısa sürede hem dindarlık hem tehdit olarak okundu.",
+      "misconception": "Flagellantlar kilisenin resmi politikasıydı; oysa çoğu zaman resmi olarak kınandılar.",
+      "nextTopics": [
+        "Vebanın Yayılışı",
+        "Karantina Fikri",
+        "Salgın ve Nefret"
+      ],
+      "sources": [
+        {
+          "title": "Flagellants (Britannica)",
+          "url": "https://www.britannica.com/topic/flagellant",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Black Death religious responses (British Library)",
+          "url": "https://www.bl.uk/collection-items/black-death",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Medieval flagellant movement (Cambridge)",
+          "url": "https://www.cambridge.org/core/books/cambridge-history-of-christianity",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-194-antisemitism",
+        "tf26-195-labor-shortage",
+        "tf26-196-medieval-hygiene"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Sokak yürüyüşü sahneleri ile flagellant kronikleri ve papalık fermanları.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "kara-olum",
+        "orta-cag",
+        "yanlis-bilinenler",
+        "flagellantlar",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Sinema görsel şok seçer; papalık fermanları ve şiddet raporları tam tabloyu verir.",
+      "whyItMatters": "Felaket anında dini hareketlerin siyasetle nasıl kesiştiğini gösterir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Filmlerdeki kamçı yürüyüşleri, 1349 papalık kınamasıyla nasıl yan yana gelir?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-194-antisemitism",
+      "title": "Salgın ve Nefret",
+      "subtitle": "Kara Veba korkusu neden komşuya dönüştü?",
+      "mediaType": "general",
+      "mediaTitle": "Kara Veba temalı yapımlar",
+      "era": "Orta Çağ",
+      "region": "Avrupa",
+      "themes": [
+        "Hastalık",
+        "Toplum",
+        "Yanlış Bilinenler"
+      ],
+      "whatWeSee": "Kara Veba dönemini anlatan filmlerde karanlık sokaklar, karantina kapıları, cenaze alayları ve panik hâli öne çıkar. Çoğu yapım salgının dehşetini gösterir; Yahudi topluluklara yönelik suçlamaları ise nadiren açıkça işler.",
+      "realHistory": "1347–1351 arasında Avrupa'yı vuran Kara Veba, nüfusun önemli bir bölümünü öldürdü. Tıp henüz hastalığın bulaşma yolunu bilmiyordu; insanlar ölümü günah, kehanet veya dış düşmanlarla açıklamaya çalıştı. Bu boşlukta Yahudi topluluklar hedef haline geldi: “Kuyuları zehirlediler”, “Hristiyanları bilerek hasta ettiler” gibi söylentiler hızla yayıldı.\n\nİddialar mantıksız görünse de işe yarıyordu. Birçok yerde Yahudiler de vebadan ölüyordu; fakat salgın önceden var olan önyargıları besledi. 1348–1350 arasında Avrupa'nın birçok şehrinde pogromlar yaşandı. Strasbourg'da 14 Şubat 1349'da yüzlerce Yahudi yakılarak öldürüldü. Basel, Freiburg ve başka merkezlerde topluluklar ya katledildi ya da sürüldü.\n\nBazı yetkililer bu şiddeti durdurmaya çalıştı. Papa VI. Clement, 1348'de Yahudilerin vebadan sorumlu tutulamayacağını belirten bir ferman yayınladı; çünkü onlar da aynı salgından ölüyordu. Yine de yerel hükümdarlar, kalabalıklar ve tüccar çıkarları çoğu zaman korumayı uygulamadı.\n\nKara Veba filmlerinde gördüğümüz korku atmosferi gerçektir; fakat ekranda çoğu zaman görünmeyen katman, salgın korkusunun komşuya ve azınlığa nasıl dönüştüğüdür. Veba geçti; pogromların ve sürgünlerin izi kaldı.",
+      "accuracyNote": "Kara Veba temalı filmler genelde salgının görsel dehşetine odaklanır; 1348–1350 pogromlarını doğrudan anlatan yapımlar azdır. Tarihsel kayıtlar antisemit şiddetin ölçeğini belgeler; her şehirde aynı senaryonun yaşandığını varsaymak doğru değildir.",
+      "whyInteresting": "Papa VI. Clement, salgın sırasında Yahudileri korumak için resmi bir ferman çıkarmış olsa da yerel pogromları durduramamıştır.",
+      "misconception": "Kara Veba yalnızca tıbbi bir felaket sanılır; oysa salgın, önceden var olan antisemit önyargıları tetikleyerek kitlesel şiddete dönüştü.",
+      "nextTopics": [
+        "Vebanın Yayılışı",
+        "Karantina Fikri",
+        "Flagellantlar"
+      ],
+      "sources": [
+        {
+          "title": "Antisemitism in History: From the Early Church to 1400 (USHMM)",
+          "url": "https://encyclopedia.ushmm.org/content/en/article/antisemitism-in-history-from-the-early-church-to-1400",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Black Death: Effects and significance (Britannica)",
+          "url": "https://www.britannica.com/event/Black-Death/Effects-and-significance",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Pope Clement VI on the Jews (1348) — Fordham Sourcebook",
+          "url": "https://sourcebooks.fordham.edu/source/1348-blackdeath-jews.asp",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "The Black Death — Holocaust Explained (Wiener Library)",
+          "url": "https://www.theholocaustexplained.org/anti-semitism/medieval-antisemitism/the-black-death/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-195-labor-shortage",
+        "tf26-196-medieval-hygiene",
+        "tf26-197-doctors"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Kara Veba temalı yapımlar salgın korkusunu görselleştirir; bu kart, ekranda çoğu zaman görünmeyen antisemit şiddet katmanını tarihsel kayıtlarla tamamlar.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "kara-olum",
+        "orta-cag",
+        "yanlis-bilinenler",
+        "salgin-ve-nefret",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Filmler vebanın bedensel dehşetini öne çıkarır; Yahudi topluluklara yönelik suçlamalar ve pogromlar çoğu yapımda ya hiç anlatılmaz ya da arka planda kalır.",
+      "whyItMatters": "Felaket anlarında toplumlar nedenini ararken hazır düşman imgelerine sarılabilir; Kara Veba bunun en acı ortaçağ örneklerinden biridir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Kara Veba filmlerinde gördüğünüz panik gerçekti — peki salgın korkusu Avrupa'da neden komşuya dönüştü?",
+      "lastReviewedAt": "2026-06-24",
+      "reviewerNote": "Pogrom örnekleri USHMM ve Britannica ile çaprazlandı; Papa fermanı Fordham birincil kaynağından alındı."
+    },
+    {
+      "id": "tf26-195-labor-shortage",
+      "title": "Emek Kıtlığı",
+      "subtitle": "Ekrandaki iz, tarihteki karşılık",
+      "mediaType": "general",
+      "mediaTitle": "Kara Veba temalı yapımlar",
+      "era": "Orta Çağ",
+      "region": "Avrupa",
+      "themes": [
+        "Hastalık",
+        "Toplum",
+        "Yanlış Bilinenler"
+      ],
+      "whatWeSee": "Kara Veba temalı yapımlarda tarlaların sahipsiz kalması, işçi bulamayan lordlar ve kısa süreli 'herkesin değer kazandığı' dönem görünür. Ekran lord dramına odaklanır; vergi defterleri ve mahkeme kayıtları ise işçi pazarlığının gerçek ölçeğini gösterir.",
+      "realHistory": "Veba milyonlarca işçiyi öldürdükçe arz daraldı, hayatta kalanların pazarlık gücü arttı. İngiltere'de ücretler yükseldi; lordlar ve kraliyet 1351 Statute of Labourers ile ücret tavanı koymaya çalıştı — başarı kısıtlıydı. İşçiler daha iyi şartlar istedi, bazıları kırsaldan kaçıp kasabalara veya başka lorda gitti. Bu hareketlilik feodal bağı zayıflattı. Serfliğin fiilen sona ermesi yüzyıllar süren bir süreçti ama veba hızlandırıcı oldu. Batı Avrupa'da toprak genişledi, hayvancılık bazı bölgelerde arttı; Doğu'da farklı dinamikler işledi. Kara Veba temalı yapımlar nadiren vergi ve ücret defterlerini gösterir; tarihçiler ise 1350'ler İngiltere'sinde mahkeme kayıtlarından işçi kaçışını okur. Veba sadece ölüm değil, emek piyasasının yeniden fiyatlandığı bir dönüm noktasıydı. 1351 Statute of Labourers, veba sonrası yükselen ücretleri tavanla sınırlamaya çalıştı; ihlal edenlere para cezası verildi. Yine de işçiler başka lorda kaçtı, kasabalara göç etti veya daha iyi şart talep etti. 1381 Köylü Ayaklanması'nın arka planında bu gerilim vardı. Batı Avrupa'da bazı topraklar kenara çekildi, koyun yetiştiriciliği arttı; işgücü kıtlığı tarım modelini değiştirdi. Flaman ve İtalyan şehirlerinde farklı dinamikler işledi; İngiltere kayıtları en iyi belgelenmiş örneklerden biridir. Lordlar serfleri bağlamaya çalıştı; hayatta kalanlar 'neden eski koşullara dönelim?' diye sordu. Veba yalnızca ölüm değil, feodal emek ilişkisinin yeniden müzakere edildiği bir dönüm noktasıydı.",
+      "accuracyNote": "Statute of Labourers ve ücret baskısı iyi belgelenmiştir; her bölgede aynı sonuç görülmedi.",
+      "whyInteresting": "Felaket, bazı hayatta kalanların hayatını kısa süreliğine iyileştirdi.",
+      "misconception": "Veba tüm ekonomiyi çökertti; oysa işçi kıtlığı bazıları için pazarlık gücü yarattı.",
+      "nextTopics": [
+        "Vebanın Yayılışı",
+        "Karantina Fikri",
+        "Flagellantlar"
+      ],
+      "sources": [
+        {
+          "title": "Statute of Labourers 1351 (UK Parliament)",
+          "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/collections/parliament-and-the-black-death/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Economic consequences of the Black Death (Britannica)",
+          "url": "https://www.britannica.com/event/Black-Death/Economic-and-social-effects",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Labour after the plague (Cambridge Core)",
+          "url": "https://www.cambridge.org/core/journals/economic-history-review",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-196-medieval-hygiene",
+        "tf26-197-doctors",
+        "tf26-198-death-art"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Boş tarla ve lord krizi imgeleri ile Statute of Labourers ve mahkeme kayıtları.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "kara-olum",
+        "orta-cag",
+        "yanlis-bilinenler",
+        "emek-kitligi",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Filmler lord dramına odaklanır; arşivler ücret davaları ve göçü gösterir.",
+      "whyItMatters": "Salgın sonrası emek piyasası, modern iş hukukunun uzak öncüllerini taşır.",
+      "isFlagship": false,
+      "quickRealityCheck": "Terk edilmiş tarla sahneleri, 1351 ücret tavanı yasasıyla nasıl çelişir veya uyum sağlar?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-196-medieval-hygiene",
+      "title": "Orta Çağ Temizliği",
+      "subtitle": "Orta Çağ 'kirli' mi—temizlik alışkanlığı",
+      "mediaType": "general",
+      "mediaTitle": "Kara Veba temalı yapımlar",
+      "era": "Orta Çağ",
+      "region": "Avrupa",
+      "themes": [
+        "Hastalık",
+        "Toplum",
+        "Yanlış Bilinenler"
+      ],
+      "whatWeSee": "Kara Veba temalı yapımlarda kirli sokaklar, lağım kokusu ve 'hiç yıkanmayan' ortaçağ insanı klişesi öne çıkar; veba felaketi bu görüntüyle pekiştirilir. Oysa kayıtlar, birçok şehirde hamam, çamaşırhane ve çöp yönetimi alışkanlıklarının da var olduğunu gösterir.",
+      "realHistory": "Ortaçağ Avrupası evrensel olarak 'pis' değildi. Şehirlerde hamamlar işletiliyor, el yıkama ve çamaşır yıkama alışkanlıkları vardı; aristokrasi ve zanaatkârlar temizliğe önem verebiliyordu. Sorun, mikrop teorisinin bilinmemesi ve altyapının yetersizliğiydi: sokaklara dökülen atık, dar sokaklarda biriken lağım, kalabalık hanlar. Londra ve Paris gibi büyük kentler, çöp ve hayvan gübresiyle mücadele için düzenlemeler çıkardı; uygulama her zaman zayıftı. Veba sırasında kokunun hastalık taşıdığına inanıldı — miasma teorisi — bu yüzden güller, tütsü ve temizlik ritüelleri hem dini hem 'tıbbi' sayıldı. Kara Veba temalı yapımlar hijyen mitini abartır; tarihçiler ise banyo kültürü, lonca düzenlemeleri ve şehir temizlik yasalarını birlikte okur. Ortaçağ insanı her yerde aynı derecede kirli değildi; altyapı ve bilgi eksikliği asıl riski büyüttü. Paris ve Londra'da çöp taşıma ve sokak temizliği için belediye düzenlemeleri vardı; uygulama zayıf olsa da 'hiç hijyen yoktu' iddiası abartıdır. Loncalar bazı zanaatlerde atölye temizliğini denetledi. Hamamlar sosyal mekândı; soylular ve şehirli orta katman düzenli yıkanırdı. Kırsalda su erişimi sınırlıydı; şehir-kır ayrımı önemlidir. Veba sırasında kokunun hastalık taşıdığına inanılması, güller, tütsü ve temizlik ritüellerini hem dini hem tıbbi saydı. Sorun 'yıkanmama' değil, mikrop bilgisinin yokluğu ve lağım altyapısının yetersizliğiydi. Dar sokaklarda biriken atık, fare popülasyonunu besleyebilir; modern epidemiyoloji bu bağlantıyı sonradan kurdu. Kara Veba temalı yapımlar hijyen mitini abartır; tarihçiler banyo kültürü, lonca kuralları ve şehir yönetmeliklerini birlikte okumayı önerir.",
+      "accuracyNote": "Hamam ve şehir temizlik düzenlemeleri iyi belgelenmiştir; evrensel pislik stereotipi abartıdır.",
+      "whyInteresting": "Temizlik ritüelleri vardı ama mikrop bilinmiyordu — ikisi birlikte anlaşılmalı.",
+      "misconception": "Ortaçağda kimse yıkanmazdı; oysa birçok şehirde hamam kültürü canlıydı.",
+      "nextTopics": [
+        "Vebanın Yayılışı",
+        "Karantina Fikri",
+        "Flagellantlar"
+      ],
+      "sources": [
+        {
+          "title": "Medieval hygiene (British Library)",
+          "url": "https://www.bl.uk/medieval-english-french-manuscripts/articles/medieval-health-and-hygiene",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Baths and bathing in medieval Europe (JSTOR Daily)",
+          "url": "https://daily.jstor.org/a-short-history-of-medieval-bathing/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Miasma theory (Science Museum)",
+          "url": "https://www.sciencemuseum.org.uk/objects-and-stories/medicine/miasma-theory",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-192-quarantine",
+        "tf26-197-doctors"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Kirli sokak atmosferi ile ortaçağ hamam ve şehir temizlik yönetmelikleri.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "kara-olum",
+        "orta-cag",
+        "yanlis-bilinenler",
+        "orta-cag-temizligi",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Filmler tek tip 'kirli ortaçağ' verir; kayıtlar hamam, lonca ve çöp yasalarını ayırır.",
+      "whyItMatters": "Sağlık tarihini anlamak, felaketleri yalnızca 'pislik' ile açıklamayı engeller.",
+      "isFlagship": true,
+      "quickRealityCheck": "Veba filmlerindeki lağım sokakları, şehir hamam kayıtlarıyla nasıl yan yana okunur?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-197-doctors",
+      "title": "Veba Doktorları",
+      "subtitle": "Gaga maskesi: simge mi, meslek mi?",
+      "mediaType": "general",
+      "mediaTitle": "Kara Veba temalı yapımlar",
+      "era": "Orta Çağ",
+      "region": "Avrupa",
+      "themes": [
+        "Hastalık",
+        "Toplum",
+        "Yanlış Bilinenler"
+      ],
+      "whatWeSee": "Ortaçağ ve erken modern dönem filmlerinde uzun burunlu maske, deri önlük, asa ve karanlık sokaklarda yürüyen figürler. Seyirci için veba döneminin en tanınır görsel ikonudur.",
+      "realHistory": "Sinema ve oyunlarda gördüğünüz “veba doktoru” çoğu zaman gagalı maskeli, tütsülü, ürkütücü bir figürdür. Bu imgelerin önemli bir bölümü 17. yüzyıla aittir — Kara Veba'ya (1347–1351) değil.\n\nFransız saray hekimi Charles de Lorme, 1619'daki Paris salgını sırasında balmumu kaplı önlük, deri eldiven, gözlük ve içine tarçın, mür, kamfur gibi kokular konulmuş gagalı bir maske tasarladı. Amaç, miasma denen “zehirli hava”yı filtrelemekti. Doktorlar hastalığı mikroplardan değil, kötü kokudan gelen bir tehlike sanıyordu.\n\n14. yüzyıl Kara Veba'sında ise tablo farklıydı. Şehirlerde barber-cerrahlar, rahipler ve yerel hekimler vardı; tedavi sınırlıydı: karantina, yalıtım, kan alma ve dualar. Gaga maskesi henüz yoktu. Salgın kontrolü çoğu zaman tıptan çok idari kararlara — ev kapatma, liman karantinası, ceset taşıma kurallarına — dayanıyordu.\n\nBugün gagalı doktor, vebanın simgesi haline gelmiştir; fakat bu simge çoğu filmin anlattığı yüzyıldan üç yüz yıl sonradır. Kostüm miasma inancının ürünüdür; mucizevi bir tedavi değil, sınırlı bir koruma umuduydu.",
+      "accuracyNote": "Gagalı maskenin Kara Veba'da (1347–1351) kullanıldığı yaygın bir yanılgıdır; tasarım 1619 Paris salgınına tarihlenir. Kostümün her salgın bölgesinde gerçekten giyildiğine dair kanıtlar sınırlıdır; birçok görüntü sonradan yapılmış gravürlerden gelir.",
+      "whyInteresting": "Gagalı maske 17. yüzyılda tasarlandı; Kara Veba'dan yaklaşık üç asır sonradır.",
+      "misconception": "Veba doktorunun gagalı maskesi Orta Çağ'ın simgesi sanılır; oysa bu kostüm büyük ölçüde 17. yüzyıl miasma teorisinin ürünüdür.",
+      "nextTopics": [
+        "Vebanın Yayılışı",
+        "Karantina Fikri",
+        "Flagellantlar"
+      ],
+      "sources": [
+        {
+          "title": "The celebrity physician and the plague (Wellcome Collection)",
+          "url": "https://wellcomecollection.org/stories/the-celebrity-physician-and-the-plague",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Why plague doctors wore those strange beaked masks (National Geographic)",
+          "url": "https://www.nationalgeographic.com/history/article/plague-doctors-beaked-masks-coronavirus",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Miasma theory (Britannica)",
+          "url": "https://www.britannica.com/science/miasma-theory",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Why did 17th-century plague doctors wear beaked masks? (HistoryExtra)",
+          "url": "https://www.historyextra.com/period/stuart/why-did-17th-century-plague-doctors-wear-peculiar-beaked-masks/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-192-quarantine",
+        "tf26-196-medieval-hygiene"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Dönem filmleri gagalı veba doktorunu Kara Veba ikonu gibi gösterir; bu kart kostümün gerçek tarihini ve 14. yüzyıl tıbbının sınırlarını ayırır.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "kara-olum",
+        "orta-cag",
+        "yanlis-bilinenler",
+        "veba-doktorlari",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Filmler gagalı doktoru Orta Çağ'a taşır; tarihsel olarak bu kostüm 17. yüzyıl miasma teorisinin ürünüdür ve Kara Veba döneminde bilinmez.",
+      "whyItMatters": "Tarihin en ünlü görsel ikonlarından biri, anlattığımız yüzyıla ait olmayabilir; simge ile gerçeklik arasındaki farkı bilmek önemlidir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Filmlerdeki gagalı veba doktoru gerçekten Orta Çağ'dan mı geliyor — yoksa üç yüzyıl sonrasının miasma kostümü mü?",
+      "lastReviewedAt": "2026-06-24",
+      "reviewerNote": "Maskenin 1619 kökeni Wellcome ve National Geographic ile doğrulandı; Kara Veba kronolojisi ayrıldı."
+    }
+  ]
+}

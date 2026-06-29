@@ -1,0 +1,271 @@
+{
+  "locale": "tr",
+  "chunkIndex": 75,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-167-mission-control",
+      "title": "Görev Kontrol",
+      "subtitle": "Görev kontrol: beyaz gömlekli erkekler mi?",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Uzay",
+        "Bilim",
+        "Eşitlik"
+      ],
+      "whatWeSee": "Hidden Figures görev kontrol odasını doğrudan göstermez ama Langley hesaplarının Cape ve Houston'daki karar anlarına nasıl bağlandığını ima eder. Popüler hafızada görev kontrol beyaz gömlekli erkeklerle özdeşleşir. Görüntüde beyaz gömlekli konsol ekipleri kulaklıkla veri okurken dev ekranlarda kapsül telemetrisi akıyor, tek komutla odadaki gerilim bir anda yön değiştiriyor.",
+      "realHistory": "NASA Görev Kontrol (Houston, sonra Johnson Space Center) Apollo ve sonrası uçuşları yönetti. Konsol ekipleri yörünge, yakıt, iletişim ve yaşam destek izledi. Gene Kranz ve 'Failure is not an option' kültürü Apollo 13'te simgeleşti. Langley'deki hesaplar bu konsollara veri sağladı; Katherine Johnson'ın çalışmaları astronot güvenliği için kritikti. Görev kontrol televizyonda erkek mühendis yüzü olarak yayıldı; arka planda binlerce hesap ve simülasyon vardı. Hidden Figures bu görünürlük eşitsizliğini düzeltmeye çalışır. Görev kontrol merkezleri, uzay uçuşlarında kokpitten çok yer istasyonunun karar hızıyla güvenlik üreten kurumlardı. Houston'daki ekipler telemetri, yakıt, rehberlik ve iletişim verilerini ayrı konsollarda izleyip tek bir uçuş direktörüne sentezliyordu. Her konsol uzmanı, prosedür kitapları ve simülasyonlarla yetiştirilmişti; hata payı saniyelerle ölçülüyordu. Kamuoyu genellikle ön sıradaki erkek yöneticileri hatırlasa da veri akışını besleyen hesaplama birimleri ve arka ofis ekipleri kritik rol oynadı. Başarı, bireysel kahramanlıktan çok disiplinli ekip hiyerarşisi ve standartlaştırılmış iletişim dilinin sonucuydu. Görev Kontrol NASA Görev Kontrol (Houston, sonra Johnson Space Center) Apollo ve sonrası uçuşları yönetti. Görev kontrolünde her konsol, belirli alt sistemleri izleyen prosedür kartlarıyla çalışır ve karar zinciri sesli teyit olmadan ilerlemezdi. Simülasyonlara kasıtlı arızalar eklenerek ekip refleksi ölçülürdü. Kamuya görünen sakinlik, aylar süren eğitim, tekrar ve disiplinli ekip iletişimi pratiğinin sonucuydu.",
+      "accuracyNote": "Johnson Space Center ve Apollo kontrol yapısı NASA kayıtlarıyla uyumludur.",
+      "whyInteresting": "Aynı başarı hem televizyon yüzü hem görünmez hesap emeği taşır.",
+      "misconception": "Görev kontrol yalnızca Cape'deki birkaç kişiydi; ulusal ağ ve hesap emeği vardı.",
+      "nextTopics": [
+        "İnsan Bilgisayarlar",
+        "Ayrımcılık Sistemi",
+        "Mercury Programı"
+      ],
+      "sources": [
+        {
+          "title": "Mission Control (NASA)",
+          "url": "https://www.nasa.gov/history/mission-control/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Johnson Space Center history (NASA)",
+          "url": "https://www.nasa.gov/centers/johnson/about/history/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Apollo 13 (NASA)",
+          "url": "https://www.nasa.gov/mission_pages/apollo/apollo-13.html",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-164-apollo-11",
+        "tf26-168-computers-transition"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hidden Figures'ın NASA hesap-kontrol bağlantısı ile Houston Mission Control ve Apollo operasyonları.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "uzay-yarisi",
+        "nasa",
+        "bilim",
+        "gorev-kontrol",
+        "true-frame"
+      ],
+      "spoilerNote": "Hidden Figures hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film görev kontrolü dolaylı gösterir; popüler kültür onu tek oda dramına indirger.",
+      "whyItMatters": "Ay'a iniş, konsol ekranları kadar hesap odalarına da dayanıyordu.",
+      "isFlagship": false,
+      "quickRealityCheck": "Apollo 13 krizinde görev kontrol hangi kararları anlık aldı?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-168-computers-transition",
+      "title": "Bilgisayara Geçiş",
+      "subtitle": "İnsan bilgisayardan makineye: NASA'nın geçişi",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Uzay",
+        "Bilim",
+        "Eşitlik"
+      ],
+      "whatWeSee": "Hidden Figures, NASA’daki insan bilgisayarlardan elektronik sistemlere geçişi keskin bir eşik olarak gösteriyor. IBM odasının açılması, kod bilenlerin öne çıkması ve geride kalma korkusu anlatının gerilimini taşıyor. Film, teknolojik dönüşümü aynı anda mesleki hayatta kalma mücadelesi ve ırk-cinsiyet bariyerlerine karşı direnç hikâyesine çeviriyor.",
+      "realHistory": "NASA’daki hesaplama dönüşümü ani bir kopuş değil, uzun bir melez geçiş süreciydi. 1940’lar ve 1950’lerde NACA laboratuvarlarında “computer” unvanı, elde hesap yapan uzman matematik personeli ifade ediyordu. Bu ekipler aerodinamik verileri işliyor, tablolar çıkarıyor ve mühendislik hesaplarını tekrarlı kontrolle doğruluyordu. Mekanik masa makineleri yardımcıydı; asıl karar kalitesi insan uzmanlığından geliyordu.\n\n1958’de NASA’nın kurulması ve uzay yarışının hızlanmasıyla veri hacmi arttı. 1960’larda IBM ana sistemlerinin kuruma girişi yeni bir işbölümü yarattı: programlama bilen ekipler kritikleşti, fakat insan denetimi ortadan kalkmadı. Uçuş öncesi doğrulama adımlarında analitik kontrol zinciri sürdü. Dorothy Vaughan’ın FORTRAN öğrenerek ekibini yeni yapıya taşıması, dönüşümün “insan yerine makine” değil “insan becerisinin yeniden örgütlenmesi” olduğunu gösteren güçlü bir örnektir.\n\nBu teknik değişim, sivil haklar dönemindeki kurumsal dönüşümle birlikte okununca daha netleşir. Ayrımcılık kademeli biçimde gerilerken yeni görev alanları açıldı, ancak eşitsizlikler bir anda yok olmadı. Film bu gerilimi kişisel hikâyeler üzerinden etkili biçimde dramatize eder. Tarihsel perspektif ise temel mekanizmayı vurgular: yeniden eğitim, rol dönüşümü, çapraz denetim ve ekip adaptasyonu. Bu model, günümüzde otomasyon ve yapay zekâ tartışmalarında gördüğümüz beceri dönüşümünün erken bir tarihsel karşılığıdır. Dolayısıyla bu dönem, teknoloji değişiminde insan sermayesinin nasıl yeniden konumlandığını incelemek için güçlü ve öğretici bir tarih laboratuvarı sunar.",
+      "accuracyNote": "İnsan bilgisayarların varlığı ve IBM geçişi olgusaldır; zamanlama film ritmi için yoğunlaştırılmıştır.",
+      "whyInteresting": "Bu kart geçmişteki teknoloji dönüşümünü bugünkü otomasyon tartışmalarıyla doğrudan ilişkilendirir.",
+      "misconception": "Yaygın yanılgı, elektronik hesaplamanın insan uzmanlığını bir gecede gereksiz kıldığıdır.",
+      "nextTopics": [
+        "İnsan Bilgisayarlar",
+        "Ayrımcılık Sistemi",
+        "Mercury Programı"
+      ],
+      "sources": [
+        {
+          "title": "Computers at NASA: Human and Machine Era (NASA)",
+          "url": "https://www.nasa.gov/history/computers-at-nasa/"
+        },
+        {
+          "title": "Dorothy Vaughan Biography (NASA)",
+          "url": "https://www.nasa.gov/people/dorothy-vaughan-biography/"
+        },
+        {
+          "title": "The True Story of Hidden Figures (Smithsonian)",
+          "url": "https://www.smithsonianmag.com/history/the-true-story-of-hidden-figures-and-the-black-women-who-helped-win-the-space-race-180961339/"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-164-apollo-11",
+        "tf26-162-segregation"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hidden Figures bireysel direnci öne çıkarıyor; True Frame aynı süreci kurumsal yeniden beceri kazanımı olarak okuyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "uzay-yarisi",
+        "nasa",
+        "bilim",
+        "bilgisayara-gecis",
+        "true-frame"
+      ],
+      "spoilerNote": "Hidden Figures hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film geçişi tek bir kırılma anına bağlıyor; tarihsel süreçte insan ve makine hesaplama yıllarca birlikte ilerledi.",
+      "whyItMatters": "Teknoloji dönüşümlerinde kayıp-kazanç dengesini anlamak için rollerin nasıl yeniden tanımlandığına bakmak gerekir.",
+      "isFlagship": true,
+      "quickRealityCheck": "Yeni bilgisayarlar gelince insanlar devre dışı mı kaldı, yoksa denetim ve modelleme rolleri mi değişti?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-169-risk",
+      "title": "Uzay Riskleri",
+      "subtitle": "Bir sahnenin sakladığı sistem",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Uzay",
+        "Bilim",
+        "Eşitlik"
+      ],
+      "whatWeSee": "Hidden Figures'de risk, tek bir patlama korkusundan çok hesap masasında başlayan ve görev kontrolünde saniyelere sıkışan karar zinciri gibi işleniyor. Karakterler her düzeltmede başarılı görev ile geri dönemeyen astronot arasındaki çizgiyi yeniden çiziyor. Film, uzay uçuşunun cesaretten ibaret olmadığını; prosedür, tekrar doğrulama ve zaman baskısı altında alınan teknik kararlarla ayakta kaldığını hissettiriyor.",
+      "realHistory": "1950'ler ve 1960'larda insanlı uzay uçuşu çok yüksek belirsizlik altında yürütüldü. Roket motor arızası, rehberlik sapması, ısı kalkanı hasarı ve paraşüt açılmaması gibi riskler somuttu. Bu nedenle risk yönetimi yalnız fırlatma anına bırakılmadı; yer testleri, simülasyonlar, yedekli sistemler ve çok adımlı hesap doğrulaması birlikte kullanıldı.\n\nMercury programında astronot güvenliği, yeniden giriş koridorunun doğru hesaplanmasına doğrudan bağlıydı. Çok dik açı kapsülü yakabilir, çok sığ açı kapsülü atmosfere sekip kaybettirebilirdi. Bu eşik değerler, insan hesapçıların ve erken elektronik sistemlerin paralel kontrolüyle denetlendi. Görev kontrolünde risk, sıfırlanan bir değişken değil kabul edilebilir düzeye indirilen dinamik bir olasılık olarak ele alındı.\n\nKamu anlatısında uzay uçuşu çoğu zaman ulusal gurur sahnesi olarak sunuldu; teknik ekipler ise başarısızlık ihtimalini sürekli hesaplayarak çalıştı. Siyasi takvim ve prestij baskısı, bazen teknik olarak ideal erteleme kararlarını zorlaştırdı. Bu nedenle NASA içinde \"uçulabilir\" ile \"kabul edilebilir\" arasındaki fark her görevde yeniden müzakere edildi. Uzay yarışı, cesaret kadar prosedür kalitesi ve hesap doğruluğunun da yarışıdır.\n\nRisk kültürü ayrıca kurum içinde öğrenme döngüsü yarattı: her sapma raporlandı, her küçük hata sonraki görev prosedürüne işlendi. Böylece başarı, kusursuzluk varsayımından değil, hatayı erken yakalayıp sistem düzeyinde düzeltme kapasitesinden doğdu. Modern havacılık ve uzay güvenlik standartları bu birikimden doğrudan beslendi.",
+      "accuracyNote": "Risk türleri ve dar yeniden giriş penceresi doğru çerçevede. Film dramatik etki için bazı teknik süreçleri hızlandırıyor.",
+      "whyInteresting": "İnsanlı uçuşun en çarpıcı tarafı, belirsizliği yok etmek değil onu yönetilebilir sınıra indirmeyi öğrenmekti.",
+      "misconception": "Erken uzay uçuşları çoğu zaman saf kahramanlıkla açıklanır; oysa sonucu esasen mühendislik prosedürleri belirledi.",
+      "nextTopics": [
+        "İnsan Bilgisayarlar",
+        "Ayrımcılık Sistemi",
+        "Mercury Programı"
+      ],
+      "sources": [
+        {
+          "url": "https://www.nasa.gov/human-spaceflight/"
+        },
+        {
+          "url": "https://www.nasa.gov/people/katherine-johnson/"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-170-public-memory",
+        "tf26-167-mission-control",
+        "tf26-168-computers-transition"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hidden Figures'deki kritik hesap sahneleri, True Frame'de Mercury dönemi risk mimarisine bağlanıyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "uzay-yarisi",
+        "nasa",
+        "bilim",
+        "uzay-riskleri",
+        "true-frame"
+      ],
+      "spoilerNote": "Hidden Figures hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film riski kişisel gerilimle görünür kılıyor. Tarihte aynı gerilim, sayısal analiz, test disiplini ve kurum baskısının birleşiminde oluştu.",
+      "whyItMatters": "Risk yönetimi hikayesi, teknolojik ilerlemenin kahramanlık kadar ölçüm disiplini ve kurumsal karar kalitesine bağlı olduğunu gösterir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Bir görevi güvenli yapan şey cesaret mi, yoksa tekrar tekrar doğrulanan tolerans sınırları mı?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-170-public-memory",
+      "title": "Uzay Hafızası",
+      "subtitle": "Uzay Hafızası neden önemli?",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Uzay",
+        "Bilim",
+        "Eşitlik"
+      ],
+      "whatWeSee": "Hidden Figures uzay yarışını NASA'nın Langley kampüsünde çalışan Black kadın matematikçiler üzerinden anlatır. Apollo başarısı ekranda teknoloji zaferi olarak parlar; film aynı anda bu zaferin hafızadan silinen emekçilerini geri yazar. Sahnede roket kalkışı alkışla izlenirken arka planda hesap yapan kadınların sessiz masaları beliriyor, kamusal kahramanlık ile görünmeyen emek aynı görüntüye sığıyor.",
+      "realHistory": "ABD uzay programının kamusal hafızası uzun süre beyaz erkek mühendis ve astronot portrelerine sıkıştı. Oysa II. Dünya Savaşı'ndan itibaren NACA/NASA Langley'de 'human computers' olarak binlerce hesap yapıldı. Katherine Johnson, Dorothy Vaughan ve Mary Jackson orbital mekaniği, Fortran geçişi ve mühendislik bariyerlerini kırdı; Jim Crow Langley'de ayrı yemekhane ve tuvaletle sınırladı. Apollo 11 yayını milyonlarca eve girdi; başarı Cold War prestij silahı olarak çerçevelendi. Ancak arşivler hesap defterlerini, wind tunnel raporlarını ve gizli teknik notları gösterir. 2010'larda Johnson'a Presidential Medal of Freedom verilmesi, geç kamusal telafi örneğidir. Hidden Figures bu boşluğu doldurur; tarih yazımı hangi isimleri anıtta, hangilerini dipnotta bırakır sorusunu açar. Uzay hafızası bugün müze vitrinlerinde ve Hollywood'da hâlâ seçici. Uzay yarışının kamu hafızasında bıraktığı iz, yalnızca astronotların kahramanlığıyla değil arka plandaki bilim emekçileriyle de oluştu. 1960'larda ABD'de televizyon yayınları fırlatmaları ulusal gösteriye dönüştürürken, hesaplama ekipleri görünmez kaldı. Sonraki on yıllarda arşiv çalışmaları ve sözlü tarih projeleri, özellikle siyah kadın matematikçilerin katkılarını yeniden görünür yaptı. Bu düzeltme, Soğuk Savaş anlatısının askeri rekabet kadar toplumsal eşitsizlikleri de içerdiğini hatırlattı. Kamusal hafıza böylece tek bir kahraman çizgisinden çok katmanlı bir bilim, emek ve yurttaşlık hikâyesine evrildi. Uzay Hafızası",
+      "accuracyNote": "Johnson ve Vaughan'ın rolleri NASA ve biyografik kaynaklarla doğrulanır; bazı sahneler birleştirilmiştir.",
+      "whyInteresting": "Aynı başarı hem ulusal destan hem silinmiş emek hikâyesi olarak iki paralel hafızada yaşar.",
+      "misconception": "Uzay yarışı yalnızca Cape Canaveral'da kazanıldı; hesapların büyük kısmı Langley'de yapıldı.",
+      "nextTopics": [
+        "İnsan Bilgisayarlar",
+        "Ayrımcılık Sistemi",
+        "Mercury Programı"
+      ],
+      "sources": [
+        {
+          "title": "NASA Human Computers",
+          "url": "https://www.nasa.gov/history/human-computers/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Katherine Johnson (NASA)",
+          "url": "https://www.nasa.gov/people/katherine-johnson/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Apollo 11 (NASA History)",
+          "url": "https://www.nasa.gov/history/apollo-11/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-168-computers-transition",
+        "tf26-169-risk"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hidden Figures'ın Langley sahneleri ile NASA human computers arşivleri ve Apollo kamusal hafızası.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "uzay-yarisi",
+        "nasa",
+        "bilim",
+        "uzay-hafizasi",
+        "true-frame"
+      ],
+      "spoilerNote": "Hidden Figures hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film Apollo'yu duygusal dorukla sunar; arşivler on yıllık hesap emeğini ve ayrımcılık mücadelesini gösterir.",
+      "whyItMatters": "Büyük teknoloji anlatıları, emeğin kimden görünür kılındığına göre şekillenir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Apollo 11 canlı yayınında ekranda görünmeyen Langley hesapları neleri belirlemişti?",
+      "lastReviewedAt": "2026-06-25"
+    }
+  ]
+}

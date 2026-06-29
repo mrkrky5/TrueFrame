@@ -1,0 +1,275 @@
+{
+  "locale": "tr",
+  "chunkIndex": 45,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-029-myth-history",
+      "title": "Mit ve Tarih",
+      "subtitle": "Bir sahnenin sakladığı sistem",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Antik Dünya",
+      "region": "Yunanistan",
+      "themes": [
+        "Demokrasi",
+        "Mitoloji",
+        "Savaş"
+      ],
+      "whatWeSee": "Assassin's Creed Odyssey, mit ile tarihi aynı sahnede buluşturur: bir yanda Peloponez Savaşı'nın şehirleri, diğer yanda tanrılarla ve efsanevi yaratıklarla kurulan görev zincirleri. Oyun, Kassandra ya da Alexios'u hem politik çatışmanın hem de söylence dünyasının merkezine yerleştirir. Böylece oyuncu, Antik Yunan'ı belgesel doğrulukla değil, tarihsel atmosferle mitik hafızanın karışımı olarak deneyimler.",
+      "realHistory": "MÖ 5. yüzyıl Yunan dünyasında mit, günlük yaşamdan tamamen ayrı bir \"masal alanı\" değildi. Şehir devletleri siyasi kararlarını meclis, aristokrat ağlar ve askeri ittifaklarla alırken; tapınaklar, kahin merkezleri ve kutsal anlatılar toplumsal meşruiyet üretiminde etkiliydi. Delphi kehaneti, adak ekonomisi ve pan-Helenik festivaller farklı polisler arasında ortak bir kültürel dil kurardı.\n\nPeloponez Savaşı gibi büyük çatışmaların nedenleri ise daha somuttu: deniz ticareti, vergi yükümlülükleri, müttefik ağları ve güç dengesi kaygıları. Atina'nın deniz imparatorluğu iddiası ile Sparta'nın kara gücü arasındaki gerilim, Thukydides'in anlattığı üzere stratejik hesaplarla şekillendi. Yani tarihsel olayların ana motoru tanrısal müdahale değil, insan topluluklarının kaynak ve güvenlik mücadeleleriydi.\n\nYine de mitlerin etkisini küçümsemek doğru olmaz. Kahraman soyları, şehir köken efsaneleri ve tanrısal koruma anlatıları siyasal propaganda için sürekli kullanıldı. Odyssey bu gerçeği dramatize ederek abartır: mitik öğeleri doğrudan oynanabilir çatışmaya çevirir. Tarihsel açıdan daha dengeli okuma, miti \"yanlış bilgi\" diye dışlamak yerine, dönemin kimlik ve meşruiyet üretim araçlarından biri olarak değerlendirmektir.\n\nTragedya sahneleri, tapınak bağışları ve yurttaş törenleri de bu ilişkiyi güçlendiriyordu. Bir kentin politik hattı tartışılırken mitik atalara gönderme yapmak, bugünkü anlamda belge sunmaktan çok ortak aidiyet üretmeye yarıyordu. Bu yüzden mit, Antik Yunan'da geçmiş anlatısı kadar siyasal iletişim aracıdır.",
+      "accuracyNote": "Kent dokusu ve savaş atmosferi dönemi çağrıştırır; mitolojik dramatizasyon tarihsel nedenselliği bilinçli biçimde genişletir.",
+      "whyInteresting": "Aynı toplum hem eleştirel tarih yazımı üretebilir hem de mitik hafızayı siyasi araç olarak canlı tutabilir.",
+      "misconception": "Antik Yunan'da insanlar her olayı yalnızca mitlerle açıkladı sanılır; oysa diplomasi, vergi ve askeri strateji çok belirleyiciydi.",
+      "nextTopics": [
+        "Atina Demokrasisi",
+        "Sparta Eğitimi",
+        "Peloponez Savaşı"
+      ],
+      "sources": [
+        {
+          "title": "Peloponnesian War - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/event/Peloponnesian-War"
+        },
+        {
+          "title": "Greek Religion - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/ancient-Greek-religion"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-030-persian-wars",
+        "tf26-027-slavery",
+        "tf26-028-theatre"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Kart, Odyssey'in mitik anlatısını Peloponez dönemi siyasal-ekonomik gerçekleriyle birlikte okur.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-yunan",
+        "yunanistan",
+        "assassins-creed",
+        "mit-ve-tarih",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun mitolojik unsurları doğrudan fiziksel karşılaşmaya dönüştürür; tarihsel bağlamda mit çoğunlukla ritüel, kimlik ve siyasal söylem düzeyinde etkiliydi.",
+      "whyItMatters": "Aynı toplum hem eleştirel tarih yazımı üretebilir hem de mitik hafızayı siyasi araç olarak canlı tutabilir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Odyssey'de tanrılar doğrudan oyuna giriyor; gerçek Yunan kentlerinde kararları gerçekten tanrılar mı veriyordu, yoksa siyasi elitler mi?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-030-persian-wars",
+      "title": "Pers Savaşları",
+      "subtitle": "Pers Savaşları neden önemli?",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Antik Dünya",
+      "region": "Yunanistan",
+      "themes": [
+        "Demokrasi",
+        "Mitoloji",
+        "Savaş"
+      ],
+      "whatWeSee": "Assassin's Creed Odyssey'de Atina ve Sparta cepheleri, Pers ordularına karşı çarpışmalar ve Kassandra/Alexios'un Yunan şehir devletleri arasındaki savaşa karışması Pers tehdidini arka plana iter. Oyun büyük savaşları aksiyon görevi olarak sunar; harita üzerinde Ege adaları ve kıyı şehirleri Pers-Yunan çatışmasının coğrafyasını çizer.",
+      "realHistory": "Pers-Yunan Savaşları (MÖ 499-449) Doğu Akdeniz'de imparatorluk ile şehir devletleri arasındaki güç dengesini belirledi. İsyan Milet'te başladı; Atina ve Eretria'nın desteği Pers kralı I. Darius'u intikam seferine yöneltti. MÖ 490'da Maraton'da Atina hoplitleri kazandı; MÖ 480'de Kserkses'in büyük ordu ve filosu Thermopylae, Salamis ve Plataea'da durduruldu. Bu savaşlar Yunan birliği mitini doğurdu ama gerçekte şehirler çoğu zaman birbirine düşmandı. Persler yenilse de imparatorluk ayakta kaldı; Atina Deniz Birliği kurarak kendi hegemonyasını inşa etti. Odyssey bu çatışmayı kişisel bir aile dramasına bağlar; tarihsel kayıtlar ise lonca, koro finansmanı ve şehir tanrıları etrafında örgütlenmiş savaş ekonomisini gösterir. Herodot ve arkeolojik bulgular Pers ok ve mızrak uçlarını Yunan topraklarında belgeler. Savaşın sonucu Yunan felsefe ve tiyatrosunun altın çağına zemin hazırladı; aynı zamanda Atina- Sparta Peloponnes Savaşı'na giden yolu açtı. MÖ 5. yüzyıldaki Pers Savaşları, Ege'deki şehir devletlerinin yalnız askeri değil siyasi kimliğini de biçimlendirdi. Maraton'da hoplit düzeni, geniş Pers ordusuna karşı dar cephede etkili oldu; ardından Termopylai ve Salamis, kara ile deniz stratejisinin birlikte düşünülmesi gerektiğini gösterdi. Atina'nın donanma yatırımını artırması, Delos Birliği'nin doğuşuna ve imparatorluk benzeri bir güce dönüşmesine kapı açtı. Sparta'nın karadaki otoritesi ile Atina'nın denizdeki yükselişi arasındaki gerilim, daha sonra Peloponez Savaşı'nın temel dinamiğini hazırladı. Pers Savaşları",
+      "accuracyNote": "Savaş tarihleri ve mekânlar kaynaklarla uyumludur; oyundaki kahramanlar kurgusaldır.",
+      "whyInteresting": "Aynı savaş hem özgürlük destanı hem de Atina emperyalizminin başlangıcı olarak okunur.",
+      "misconception": "Yunanlar tek bir ulus olarak Pers'e karşı savaştı; oysa şehirler sık sık birbirine düşmandı.",
+      "nextTopics": [
+        "Atina Demokrasisi",
+        "Sparta Eğitimi",
+        "Peloponez Savaşı"
+      ],
+      "sources": [
+        {
+          "title": "Greco-Persian Wars (Britannica)",
+          "url": "https://www.britannica.com/event/Greco-Persian-Wars",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Battle of Salamis (Britannica)",
+          "url": "https://www.britannica.com/event/Battle-of-Salamis",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Herodotus (Stanford Encyclopedia)",
+          "url": "https://plato.stanford.edu/entries/herodotus/",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-028-theatre",
+        "tf26-029-myth-history"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Odyssey Ege haritası ve Pers-Yunan görevleri ile MÖ 5. yüzyıl Greco-Persian Wars kronolojisi.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-yunan",
+        "yunanistan",
+        "assassins-creed",
+        "pers-savaslari",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun Pers generallerini boss gibi sunar; kayıtlar lojistik, deniz filosu ve şehir ittifaklarını öne çıkarır.",
+      "whyItMatters": "Aynı savaş hem özgürlük destanı hem de Atina emperyalizminin başlangıcı olarak okunur.",
+      "isFlagship": false,
+      "quickRealityCheck": "Maraton zaferinden sonra Atina neden yine de Pers tehdidini ciddiye aldı?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-031-longships",
+      "title": "Uzun Gemiler",
+      "subtitle": "Uzun Gemiler: görünenden fazlası",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Orta Çağ",
+      "region": "İskandinavya",
+      "themes": [
+        "Denizcilik",
+        "Savaş",
+        "Göç"
+      ],
+      "whatWeSee": "Vikings dizisinde uzun gemiler, baskının ritmini belirleyen neredeyse başrol bir araçtır. Dar gövde, sığ kıyıya yanaşma ve ani saldırı etkisi görsel olarak çok güçlü verilir. Dizi bu gemileri hız ve cesaret sembolü yapar; kereste tedariği, bakım emeği ve mevsimsel sefer planı gibi belirleyici lojistik ayrıntılar daha az görünür.",
+      "realHistory": "Viking uzun gemileri, yalnız savaş sahnelerinin değil İskandinav yayılımının altyapısıydı. Klinker tekniğiyle bindirmeli kaplama yapılan hafif gövdeler hem açık denizde ilerlemeye hem de nehir ağızlarına girmeye uygun tasarlanıyordu. Bu ikili kabiliyet, kuzey Atlantik'teki adalara, Britanya kıyılarına ve Avrupa iç nehir hatlarına erişimi mümkün kıldı. Gemiler kürek ve yelkeni birlikte kullandığı için rüzgara bağımlılık azalıyor, kıyı baskınları daha öngörülemez hale geliyordu.\n\nAncak bu hareketlilik ciddi bir üretim ekonomisi gerektiriyordu. Uygun kereste, demir perçin, yelken dokuması ve deneyimli zanaatkar ağı olmadan uzun gemi filosu sürdürülemezdi. Seferler mevsime bağlıydı; mürettebatın çiftçilik döngüsüyle deniz zamanı arasında denge kuruluyordu. Gemi kaybı yalnız askeri değil, yerel güç hiyerarşisi açısından da ağır bir darbeydi.\n\nArkeolojik buluntular, özellikle Norveç'teki Gokstad ve Oseberg gemileri, bu teknolojinin tesadüfi değil yüksek düzeyde planlanmış olduğunu gösterir. Uzun gemi, Viking çağını açıklayan tek neden değildir; ama ticaret, göç ve şiddeti aynı anda mümkün kılan temel platformdur. Ayrıca gemilerin sökülüp onarılabilir yapısı, uzak seferlerden sonra filonun hızlıca yeniden hazırlanmasını sağlıyordu. Bu bakım çevikliği, Viking ağlarının sürekliliğinde çoğu zaman savaş kadar belirleyiciydi. Nehirler üzerinden iç bölgelere ulaşabilmeleri, kıyı toplumlarını kıta ticaretine bağlayarak Viking etkisini yalnız deniz kenarında değil hinterland şehirlerinde de hissedilir kılmıştır. Bu yüzden uzun gemi, askeri bir araçtan çok bir dolaşım sistemidir.",
+      "accuracyNote": "Gemi biçimi ve kıyıya ani iniş kabiliyeti genel olarak doğru yansıtılır; üretim lojistiği ve bakım maliyeti dramatik akışta sınırlı işlenir.",
+      "whyInteresting": "Tek bir gemi tasarımı, kuzey toplumlarının savaşını, ticaretini ve göçünü aynı anda hızlandırdı.",
+      "misconception": "Uzun gemilerin yalnızca yağma için üretildiği sanılır; aynı platform ticaret, yerleşim ve diplomatik temaslarda da kullanıldı.",
+      "nextTopics": [
+        "Yağma ve Ticaret",
+        "Rün Yazıları",
+        "Nors İnancı"
+      ],
+      "sources": [
+        {
+          "title": "Longship (Britannica)",
+          "url": "https://www.britannica.com/technology/longship",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Viking Ship Museum - Ship Types",
+          "url": "https://www.vikingeskibsmuseet.dk/en/professions/education/knowledge-of-ships/ship-types",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Viking Ships (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Viking_Ships/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-032-raids-trade",
+        "tf26-033-runes",
+        "tf26-034-norse-religion"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Vikings'in kıyı baskını sahneleri, uzun gemilerin hareket üstünlüğünü popüler kültüre güçlü biçimde taşıyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "viking",
+        "iskandinavya",
+        "denizcilik",
+        "uzun-gemiler",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "Vikings hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi gemiyi çoğunlukla baskın anının simgesi yapar ve operasyonel hazırlığı hızla geçer. Tarihsel düzlemde uzun gemi başarısı, yıllar süren zanaat birikimi ve mevsimsel örgütlenmeye dayanıyordu.",
+      "whyItMatters": "Tek bir gemi tasarımı, kuzey toplumlarının savaşını, ticaretini ve göçünü aynı anda hızlandırdı.",
+      "isFlagship": false,
+      "quickRealityCheck": "Uzun gemilerin sığ sulara girebilmesi Viking stratejisini yalnız denizde değil karada da nasıl değiştirdi?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-032-raids-trade",
+      "title": "Yağma ve Ticaret",
+      "subtitle": "Yağma ile ticaret aynı gemide mi?",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Orta Çağ",
+      "region": "İskandinavya",
+      "themes": [
+        "Denizcilik",
+        "Savaş",
+        "Göç"
+      ],
+      "whatWeSee": "Vikings dizisi, İskandinav denizcileri bir bölümde manastır yağmalayan savaşçılar, başka bir bölümde pazarlık yapan tüccarlar olarak gösterir. Uzun gemiler, ganimet paylaşımı ve yabancı liman temasları aynı hikaye içinde akar. Bu kurgu, \"Viking = sadece yağmacı\" algısını kırar; deniz ağlarının hem şiddet hem ticaret ürettiğini görselleştirir.",
+      "realHistory": "8.-11. yüzyıllar arasında İskandinav topluluklarının Britanya, Frank toprakları, Baltık ve Doğu Avrupa ile kurduğu ilişkiler tek bir modele sığmaz. Erken dönemde kıyı baskınları hızlı ganimet sağlasa da kalıcı zenginlik çoğu zaman ticaret ağlarına bağlanarak elde edildi. Gümüş, kürk, balmumu, silah, cam boncuk ve köle ticareti farklı limanları birbirine bağladı.\n\nBirkaç kuşak içinde bazı Viking grupları sadece baskın yapan sefer güçleri değil, yerleşim kuran ve vergi toplayan siyasi aktörlere dönüştü. Dublin, York ve Novgorod gibi merkezler bu dönüşümün farklı örneklerini sunar. Arkeolojik bulgular, İslam dünyasından gelen gümüş dirhemlerin İskandinavya'da yoğun biçimde dolaştığını gösterir; bu da ticaret bağlantılarının genişliğini doğrular.\n\nYağma ile ticaret arasında keskin bir çizgi yoktu. Aynı denizci mevsime, fırsata ve güç dengesine göre iki stratejiyi de kullanabilirdi. Yerel krallarla yapılan antlaşmalar, haraç düzenleri ve pazar erişimi şiddeti bazen azaltır, bazen yeniden üretirdi. Vikings dizisi dramatik nedenlerle lider figürlerini öne çıkarır; tarihsel düzlemde ise bu karmaşık ağların itici gücü çok sayıda yerel topluluk, liman aracısı ve mevsimsel deniz ekonomisiydi.\n\nGemilerin taşıdığı bilgi de en az mal kadar önemliydi. Rota bilgisi, kıyı pazarlarının takvimi ve güvenli kışlama noktaları nesiller boyunca aktarılıyor, böylece denizcilik ağı askeri akınların ötesinde sürdürülebilir bir ekonomik altyapıya dönüşüyordu.",
+      "accuracyNote": "Uzun gemi teknolojisi ve deniz hareketliliği doğru yansıtılır; olayların zaman ölçeği dramatik akış için sıklaştırılır.",
+      "whyInteresting": "Aynı aktörlerin hem korkulan akıncı hem de aranan ticaret ortağı olabilmesi, Orta Çağ deniz dünyasının esnekliğini gösterir.",
+      "misconception": "Vikinglerin yalnızca yıkım getirdiği düşünülür; oysa birçok bölgede ticaret, yerleşim ve siyasal yeniden örgütlenme de ürettiler.",
+      "nextTopics": [
+        "Uzun Gemiler",
+        "Rün Yazıları",
+        "Nors İnancı"
+      ],
+      "sources": [
+        {
+          "title": "Viking - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/Viking-people"
+        },
+        {
+          "title": "The Vikings - World History Encyclopedia",
+          "url": "https://www.worldhistory.org/Vikings/"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "vikings-raid",
+        "vikings-not-only-raiders",
+        "tf26-036-vinland"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Kart, Vikings'in baskın sahnelerini Kuzey Avrupa'nın çok merkezli ticaret ağlarıyla ilişkilendirir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "viking",
+        "iskandinavya",
+        "denizcilik",
+        "yagma-ve-ticaret",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Dizi kişisel liderlik hikayesini merkez alır; tarihsel tabloda ise dönüşümü belirleyen ana etken geniş ticaret ağları ve yerel pazarlık düzenleridir.",
+      "whyItMatters": "Aynı aktörlerin hem korkulan akıncı hem de aranan ticaret ortağı olabilmesi, Orta Çağ deniz dünyasının esnekliğini gösterir.",
+      "isFlagship": true,
+      "quickRealityCheck": "Viking gemileri sadece yağma için mi yelken açıyordu, yoksa aynı rota üstünde pazar, vergi ve diplomasi de mi taşınıyordu?",
+      "lastReviewedAt": "2026-06-27"
+    }
+  ]
+}

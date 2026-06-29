@@ -1,0 +1,296 @@
+{
+  "locale": "tr",
+  "chunkIndex": 14,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "sengoku-japan-hostage",
+      "title": "Daimyo Siyaseti ve Rehin Kültürü",
+      "subtitle": "Sadakati garanti altına almanın en sert yolu.",
+      "mediaType": "game",
+      "mediaTitle": "Total War: Shogun 2 / Shōgun",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Japonya",
+        "Siyaset",
+        "Sengoku"
+      ],
+      "whatWeSee": "Medyada klanlar arasındaki sadakat sadece onur ve söz üzerinden anlatılır.",
+      "realHistory": "En ünlü rehine, daha sonra Japonya'yı birleştirecek olan Tokugawa Ieyasu'dur. Çocukluğunu rakip klanların yanında rehine olarak geçiren Ieyasu, bu süreci rakiplerini tanımak ve siyasi manevralar öğrenmek için bir fırsata dönüştürmüştür. Rehinelik sistemi, sadece korku üzerine değil, klanlar arası 'kan bağı' ve kültürel entegrasyon üzerine kuruluydu. Bir klanın lideri, oğlunu başka bir klana rehine verdiğinde, aslında o klanın geleceğini rehin almış oluyordu. Bu sistem, Sekigahara Savaşı'na kadar Japonya'daki kırılgan ittifakların ana koruyucusu olmuştur.\n\nRehinler eğitim görür, gelecekteki ittifaklar için köprü oluştururdu. Ieyasu bu deneyimi siyasi manevraya çevirdi.\n\nSengoku döneminde rehin değişimi klanlar arası ittifakın teminatıydı. Tokugawa Ieyasu çocukluğunu Oda ve Imagawa klanları arasında rehin olarak geçirdi. Rehinler genellikle ev sahibi klanın sarayında eğitilir, savaş sanatları ve siyaset öğrenirdi. Bu sistem Sekigahara'ya (1600) kadar kırılgan dengeyi sürdüren diplomasi mekanizması olarak işledi.\n\nRehinlik sadece korku değil, klanlar arası kültürel entegrasyon aracıydı. Ev sahibi klan rehini eğiterek gelecekteki ittifak köprüsü kurardı.\n\nRehinlik sistemi klanlar arası evlilik ve eğitim ağlarını da güçlendiren diplomasi aracıydı.\n\nRehinelerin hapis hayatı yaşadığı olduğu sanılır; oysa kayıtlara göre bu durum bir nevi diplomatik ikamet ve eğitim süreciydi.\n\nIeyasu rehinlik deneyimini rakip klanları tanıma ve hayatta kalma stratejisine dönüştürdü.",
+      "accuracyNote": "Tokugawa Ieyasu, çocukluğunu farklı klanlar arasında bir rehin (hostage) olarak geçirerek hayatta kalmayı öğrenmiştir.",
+      "whyInteresting": "Rehinler genellikle kötü muamele görmez, aksine ev sahibi klan tarafından eğitilir ve gelecekteki siyasi bağlar için bir köprü olarak kullanılırdı.",
+      "misconception": "Rehinelerin hapis hayatı yaşadığı sanılır; oysa bu durum bir nevi diplomatik ikamet ve eğitim süreciydi.",
+      "nextTopics": [
+        "Tokugawa Ieyasu",
+        "Sengoku Jidai",
+        "Edo Dönemi"
+      ],
+      "sources": [
+        {
+          "title": "Sengoku Period (Britannica)",
+          "url": "https://www.britannica.com/event/Sengoku-period",
+          "type": "official"
+        },
+        {
+          "title": "Tokugawa Ieyasu (National Museum of Japanese History)",
+          "url": "https://www.rekihaku.ac.jp/english/",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Siyasi yapı Britannica ve Japon Ulusal Tarih Müzesi ile doğrulandı.",
+      "mediaConnection": "Shogun dizisindeki rehin alma ve siyasi pazarlık süreçleri, Sengoku dönemindeki feodal beylerin birbirlerini kontrol altında tutma yöntemlerini doğru bir şekilde yansıtır.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "japonya",
+        "sengoku",
+        "siyaset",
+        "total-war-shogun-2-",
+        "samuray"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Rehinelik genellikle bir hapis hayatı gibi gösterilir. Gerçekte rehineler, gittikleri sarayda soylu muamelesi görür, eğitim alır ve bazen kendi klanlarından daha iyi koşullarda yaşarlardı; ancak sadakat bozulduğunda ilk kurban edilirlerdi.",
+      "whyItMatters": "Rehinler genellikle kötü muamele görmez, aksine ev sahibi klan tarafından eğitilir ve gelecekteki siyasi bağlar için bir köprü olarak kullanılırdı.",
+      "quickRealityCheck": "Gerçek. Sengoku döneminde (1467-1603) rakip klanlar arasında barışı sağlamak için aile fertlerini rehine (O-kumi) verme geleneği çok yaygın ve kurumsal bir sistemdi.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "shogun-trade-sakoku",
+      "title": "Sakoku: Kapalı Ülke ve Kontrollü Ticaret",
+      "subtitle": "Japonya’nın dünyadan kopuşu (veya öyle sanılması).",
+      "mediaType": "series",
+      "mediaTitle": "Shōgun",
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Japonya",
+        "Ticaret",
+        "İzolasyon"
+      ],
+      "whatWeSee": "Dizide, yabancıların (Portekizliler) Japonya üzerindeki etkisi ve Shogun’un bu etkiyi kırma çabası işlenir.",
+      "realHistory": "1630'larda Tokugawa Şogunluğu tarafından ilan edilen 'Sakoku' (Kapalı Ülke) politikası, Japonya tarihinin en radikal ve en etkili kararlarından biridir. Bu politika, Japonya'nın yaklaşık 214 yıl boyunca dış dünyayla ilişkisini neredeyse tamamen kesmesine neden olmuştur. Şogunluk, bu kararı sadece 'yabancı düşmanlığı' nedeniyle değil, iktidarını tehdit eden misyonerlik faaliyetlerini durdurmak ve bölgesel beylerin (Daimyo) yabancı ticaret yoluyla zenginleşip ordu kurmasını engellemek için almıştır. Sakoku, bir 'korku' politikası değil, bir 'mutlak kontrol' stratejisidir. Sakoku döneminde Japonya dünyaya tamamen kapalı değildi; Nagasaki limanındaki yapay bir ada olan Dejima, dış dünyaya açılan tek ve çok dar bir pencereydi. Sadece Hollandalı tüccarlar (VOC) ve Çinlilerin bu adada ticaret yapmasına izin veriliyordu. Hollandalıların Hristiyanlığı yayma amacı taşımaması, şogunluk için onları 'güvenli' bir ticaret ortağı yapmıştır. Dejima, Japonya'nın Batı dünyasındaki bilimsel ve teknolojik gelişmeleri takip ettiği tek kanaldı. Hollandalı tüccarların getirdiği kitaplar ve aletler, Japonya'da 'Rangaku' (Hollanda Bilimi) denilen benzersiz bir bilim dalının doğmasını sağlamıştır. Sakoku'nun en sert uygulamaları Hristiyanlığa karşıydı. 1637'deki Shimabara İsyanı, köylülerin ve Hristiyanların şogunluğa karşı büyük bir başkaldırısıydı ve bu isyanın kanlı bir şekilde bastırılması, izolasyon politikasını kesinleştirmiştir. Japonya'da Hristiyan olmak yasaklanmış, yakalananlar 'Fumie' (dini ikonların üzerine basma) testine tabi tutulmuş ve inancından dönmeyenler idam edilmiştir. Şogunluk, dini bir 'bağlılık' meselesini siyasi bir 'ihanet' olarak görmüş ve Budizm ile Şintoizm'i ulusal kimliğin temeli olarak pekiştirmiştir. Bu durum, Japonya'nın kültürel homojenliğini sağlayan asıl güçtür. Dış ticaret kısıtlanınca, Japonya kendi iç kaynaklarına ve pazarına odaklanmak zorunda kaldı. Bu durum, ülke içinde devasa bir ekonomik canlanma yarattı. Pirinç borsaları, gelişmiş yol ağları ve şehirler arası ticaret, Japonya'yı sanayi öncesi dünyanın en gelişmiş ekonomilerinden biri haline getirdi. Yerel zanaatlar (seramik, ipek, kağıt yapımı) izolasyonun koruması altında mükemmelleşti. Sakoku, Japonya'yı 'fakirleştirmek' yerine, kendi kaynaklarıyla zenginleşen ve kendine yeten bir 'ada medeniyeti' kimliğine büründürmüştür. Japonya, bu dönemde dünyanın en sürdürülebilir orman yönetimi ve tarım sistemlerinden birini kurmuştur. Sakoku dönemi, Japonya'nın 'saf' estetiğinin damıtıldığı bir dönemdir. Dış etkilerden uzak kalan Japon sanatçılar, Ukiyo-e resimlerini, Kabuki tiyatrosunu ve Haiku şiirini en rafine hallerine ulaştırdılar. Batı'nın perspektif kuralları yerine kendi çizgisel ve sembolik anlatımlarını geliştirdiler. Çay seremonisi ve çiçek düzenleme (Ikebana), sadece birer hobi değil, birer yaşam felsefesi olarak halk tabanına yayıldı. Japonya bu dönemde, bugün dünyayı hayran bırakan o 'eşsiz' ve 'mistik' kültürel dokusunu ilmek ilmek dokumuştur. Bu, aslında bir izolasyonun yarattığı kültürel bir mucizedir. İzolasyona rağmen, Japonya dünyadan tamamen kopuk değildi. 'Rangaku' (Hollanda çalışmaları) aracılığıyla tıp, astronomi, coğrafya ve askeri teknoloji konularında Batı'dan sürekli bilgi akışı sağlanıyordu. Japon doktorlar, Hollandaca tıp.",
+      "accuracyNote": "Dizi, Cizvit papazlarının ve tüccarların siyasi nüfuzunu ve Japon otoritelerinin buna tepkisini tarihsel olarak isabetli yansıtır.",
+      "whyInteresting": "Hollandalılar, Nagazaki’deki yapay bir ada olan Dejima’da yaşamak zorundaydı ve Japonya’nın dünyadaki tek penceresiydiler.",
+      "misconception": "Japonya’nın bu dönemde teknolojik olarak geri kaldığı sanılır; oysa Dejima üzerinden Batı tıbbı ve teknolojisini (Rangaku) takip etmeye devam etmişlerdir.",
+      "nextTopics": [
+        "Dejima",
+        "Cizvitler",
+        "Tokugawa Shogunluğu"
+      ],
+      "sources": [
+        {
+          "title": "Sakoku (Britannica)",
+          "url": "https://www.britannica.com/topic/sakoku",
+          "type": "official"
+        },
+        {
+          "title": "Dutch-Japanese Relations (Rijksmuseum)",
+          "url": "https://www.rijksmuseum.nl/en/rijksstudio/timeline-dutch-history/1600-1850-japan",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [
+        "shogun-edo",
+        "shogun-hostage-politics",
+        "shogun-christian-daimyo"
+      ],
+      "reviewerNote": "Ticari ve diplomatik veriler Britannica ve Rijksmuseum ile doğrulandı.",
+      "mediaConnection": "Shogun (2024), Japonya'nın dış dünyaya kapandığı Sakoku dönemi öncesindeki yoğun Portekiz ticaretini ve misyonerlik faaliyetlerini merkezine alır.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "izolasyon",
+        "japonya",
+        "shogun-2024-shog",
+        "ticaret",
+        "samuray"
+      ],
+      "isFlagship": true,
+      "mediaChanged": "Japonya'nın dış dünyaya tamamen kapalı olduğu sanılır; gerçekte Hollandalılar ve Çinlilerle kontrollü ama hayati bir ticaret devam ediyordu.",
+      "whyItMatters": "Hollandalılar, Nagazaki’deki yapay bir ada olan Dejima’da yaşamak zorundaydı ve Japonya’nın dünyadaki tek penceresiydiler.",
+      "quickRealityCheck": "Sakoku tam izolasyon değil, devletin yönettiği seçici bağlantı rejimiydi.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "cold-war-proxy-wars",
+      "title": "Vekalet Savaşları: Neden Doğrudan Savaşmadılar?",
+      "subtitle": "Nükleer çağın gölgesinde satranç oynamak.",
+      "mediaType": "game",
+      "mediaTitle": "Battlefield / Call of Duty: Black Ops / Metal Gear Solid",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Soğuk Savaş",
+        "Siyaset",
+        "Modern Tarih"
+      ],
+      "whatWeSee": "Oyunlarda Soğuk Savaş, genellikle özel kuvvetlerin gizli operasyonları ve yerel çatışmalar üzerinden anlatılır.",
+      "realHistory": "Süper güçler (ABD ve SSCB), Karşılıklı Garantili Yıkım (MAD) nedeniyle doğrudan savaşmaktan kaçınmış, bunun yerine Vietnam, Kore ve Afganistan gibi yerlerde yerel grupları destekleyerek savaşmışlardır. 20. yüzyıl, insanlık tarihinin en hızlı teknolojik gelişimiyle en büyük yıkımlarının bir arada yaşandığı bir dönemdir. İki dünya savaşı, sömürgeciliğin çöküşü ve ardından gelen Soğuk Savaş, dünyayı ideolojik bir satranç tahtasına çevirmiştir. Modern devletler, kitle iletişim araçlarını kullanarak halkın algısını yönetmeyi (propaganda) bir sanat haline getirmiş; bilim ise nükleer enerjiden uzay keşfine kadar devasa adımlar atarken, aynı zamanda kitlesel imha silahlarının gölgesinde kalmıştır. Bu dönem, bireysel özgürlüklerin sorgulandığı, toplumsal hareketlerin (sivil haklar gibi) dünyayı değiştirdiği ve küreselleşmenin temellerinin atıldığı bir dönüşüm sürecidir. 1950-1990 yılları arasındaki vekalet savaşları, sadece ideolojik bir çatışma değil, aynı zamanda savunma sanayii ve teknoloji transferi için küresel bir laboratuvar işlevi görmüştür. Örneğin 1970'lerdeki Angola İç Savaşı, Küba, Güney Afrika, Sovyetler Birliği ve ABD'nin lojistik yeteneklerini test ettiği devasa bir satranç tahtasına dönüşmüştür. Bu dönemdeki 'Dominos Teorisi', dış politika yapıcılarını Vietnam gibi bölgelerde asimetrik harp tekniklerini geliştirmeye zorlamış; bu da modern kontrgerilla stratejilerinin temelini atmıştır. Kültürel alanda ise bu çatışmalar, yerel dillerde üretilen radyo yayınları ve propaganda afişleri aracılığıyla kitlelerin 'modernite' algısını kökten değiştirmiştir. İstihbarat servislerinin (CIA, KGB, Stasi) kullandığı 'Signals Intelligence' (SIGINT) teknikleri, bugünkü dijital gözetim toplumunun teknolojik ve yasal altyapısını oluşturmuştur.",
+      "accuracyNote": "Oyunlar bu çatışmaları genellikle birer aksiyon sekansı olarak sunsa da, vekalet savaşlarının jeopolitik mantığı tarihsel gerçektir.",
+      "whyInteresting": "Soğuk Savaş boyunca binlerce nükleer silah üretilmesine rağmen, bu silahlar hiçbir zaman bir savaşta doğrudan kullanılmamıştır.",
+      "misconception": "Soğuk Savaş’ın \"kansız\" geçtiği sanılır; oysa vekalet savaşlarında milyonlarca sivil ve asker hayatını kaybetmiştir.",
+      "nextTopics": [
+        "MAD Doktrini",
+        "Küba Füze Krizi",
+        "Demir Perde"
+      ],
+      "sources": [
+        {
+          "title": "Cold War Proxy Wars (Britannica)",
+          "url": "https://www.britannica.com/event/Cold-War/The-Third-World-and-the-Cold-War",
+          "type": "official"
+        },
+        {
+          "title": "The Nuclear Age (National Archives)",
+          "url": "https://www.archives.gov/",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Siyasi doktrinler Britannica ile doğrulandı.",
+      "mediaConnection": "Bu kart, oyundaki Battlefield / Call of Duty: Black Ops / Metal Gear Solid cepheleri ve savaş atmosferinden yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "battlefield-call-o",
+        "modern-tarih",
+        "siyaset",
+        "souk-sava"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Oyunlar bu çatışmaları genellikle birer aksiyon sekansı olarak sunsa da, vekalet savaşlarının jeopolitik mantığı tarihsel gerçektir.",
+      "whyItMatters": "Soğuk Savaş boyunca binlerce nükleer silah üretilmesine rağmen, bu silahlar hiçbir zaman bir savaşta doğrudan kullanılmamıştır.",
+      "quickRealityCheck": "Soğuk Savaş’ın \"kansız\" geçtiği denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": ""
+    },
+    {
+      "id": "utopia-political-history",
+      "title": "Ütopya Projeleri ve Gerçek Siyaset",
+      "subtitle": "İdeal toplum hayalinden totaliter kabusa.",
+      "mediaType": "game",
+      "mediaTitle": "BioShock / Atomic Heart",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Felsefe",
+        "Siyaset",
+        "Ütopya"
+      ],
+      "whatWeSee": "Oyunlarda denizin altına veya gökyüzüne kurulmuş, başlangıçta mükemmel görünen ama çökmüş toplumlar işlenir.",
+      "realHistory": "İdeal bir toplum yaratma hayali olan 'Ütopya', 20. yüzyıl siyasi tarihinde hem en ilham verici hem de en yıkıcı kavramlardan biri olmuştur. Bu kurgular genellikle Thomas More'un 1516 tarihli 'Utopia' eserinden bu yana, insan doğasının kusursuz bir sistem içinde terbiye edilebileceği inancına dayanır. BioShock serisinin temelini atan Ayn Rand'ın Objektivizmi, devlet müdahalesinden tamamen arınmış, sadece bireysel deha ve bencil çıkar üzerine kurulu bir toplum hayal eder. Tarihte bunun gerçek dünyadaki yansıması, Henry Ford'un 1928'de Brezilya Amazonları'nda kurduğu 'Fordlândia' kasabasıdır. Ford, orada Amerikan yaşam tarzını, çalışma disiplinini ve ahlakını orman ortasında bir ütopya olarak kurmaya çalışmış; ancak yerel işçilerin kültürüyle, doğayla ve katı kurallarıyla çatışınca proje tam bir felakete dönüşmüştür. Aynı şekilde, Sovyetler Birliği'nin başlangıçtaki 'teknolojik ütopya' vizyonu da, sistemin insan doğasını yok sayan katılığı nedeniyle zamanla baskıcı bir distopyaya evrilmiştir.",
+      "accuracyNote": "BioShock'un su altı şehri Rapture veya gökyüzü şehri Columbia, ütopik ideallerin nasıl hızla totaliter kabuslara dönüşebileceğinin sanatsal bir incelemesidir. Oyun, Ayn Rand'ın 'Atlas Silkindi' (Atlas Shrugged) romanındaki felsefeyi, gerçek dünyadaki ekonomik ve sosyal dinamiklerle çarpıştırarak analiz eder. Örneğin Rapture'daki çöküşün ana nedeni, 'fedakarlık' duygusunun yasaklanması ve denetimsiz bilimsel hırsın (ADAM kullanımı) toplumu fiziksel olarak mutasyona uğratmasıdır. Bu, tarihteki kontrolsüz sanayileşme ve sosyal Darwinizm tartışmalarının bir yansımasıdır. Oyunun aksiyon elementleri bir yana, sunduğu siyasi alt metin, 20. yüzyılın ideolojik savaşlarını anlamak için mükemmel bir laboratuvardır.",
+      "whyInteresting": "Dünyadaki en ünlü başarısız ütopya denemelerinden biri olan Fordlândia'da, Ford işçilere hamburger yemeyi ve Amerikan dansları yapmayı zorunlu kılmıştı. İşçiler bu duruma isyan edip kafeteryaları yıktığında, Ford ordunun müdahale etmesini istemiştir. Bu, 'özgürlükçü' ütopyaların bile zora düştüğünde ne kadar baskıcı olabileceğini gösterir. İronik bir şekilde, bugün Silikon Vadisi'ndeki birçok teknoloji devi, hala bu 'devletten bağımsız teknolojik ütopya' hayalini (Seasteading gibi projelerle) yaşatmaya çalışmaktadır. Ütopya kelimesi Yunanca'da hem 'iyi yer' (eu-topos) hem de 'hiçbir yer' (ou-topos) anlamına gelir; bu kelime oyunu, mükemmel bir toplumun aslında imkansız olduğunu en baştan fısıldamaktadır.",
+      "misconception": "Ütopyaların sadece bilim kurgu olduğu sanılır; oysa 20. yüzyıl tarihi bu hayallerin gerçek dünyadaki denemeleriyle doludur.",
+      "nextTopics": [
+        "Ayn Rand",
+        "Kolektivizm",
+        "Fordlândia"
+      ],
+      "sources": [
+        {
+          "title": "Objectivism (Britannica)",
+          "url": "https://www.britannica.com/topic/objectivism-philosophy",
+          "type": "official"
+        },
+        {
+          "title": "The Failure of Fordlândia (The Guardian)",
+          "url": "https://www.theguardian.com/travel/2017/mar/28/fordlandia-brazil-amazon-henry-ford-ghost-town",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Felsefi ve tarihsel analizler Britannica ve The Guardian ile doğrulandı.",
+      "mediaConnection": "Bu kart, BioShock / Atomic Heart yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "bioshock-atomic-he",
+        "felsefe",
+        "siyaset",
+        "topya"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "BioShock / Atomic Heart bu konuyu sahne diliyle yoğunlaştırır; bioShock'un su altı şehri Rapture veya gökyüzü şehri Columbia, ütopik ideallerin nasıl hızla totaliter kabuslara dönüşebileceğinin sanatsal bir incelemesidir.",
+      "whyItMatters": "İşçiler bu duruma isyan edip kafeteryaları yıktığında, Ford ordunun müdahale etmesini istemiştir.",
+      "quickRealityCheck": "Ütopyaların sadece bilim kurgu olduğu denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": ""
+    },
+    {
+      "id": "last-emperor-china-fall",
+      "title": "Son İmparator ve Çin’in Dönüşümü",
+      "subtitle": "İmparatorluktan modern cumhuriyete sancılı geçiş.",
+      "mediaType": "film",
+      "mediaTitle": "The Last Emperor",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Çin",
+        "Modernleşme",
+        "Biyografi"
+      ],
+      "whatWeSee": "Filmde Puyi’nin çocuk yaşta imparator olması, Yasak Şehir’deki hapsi ve daha sonra sıradan bir vatandaş olarak hayatını bitirmesi anlatılır.",
+      "realHistory": "Çin'in son imparatoru Puyi'nin hayatı, sadece kişisel bir dram değil, binlerce yıllık imparatorluk düzeninin çöküşünün sembolüdür. 1911 Xinhai Devrimi ile Qing Hanedanlığı devrildiğinde Puyi henüz 6 yaşındaydı. Devrim sonrası imzalanan 'Yasak Şehir'deki İmparatorun Şartlı Tahliyesi' anlaşmasıyla, 1924 yılına kadar sarayında lüks içinde ama dünyadan kopuk bir mahkum gibi yaşadı. 1930'larda Japonya tarafından kurulan kukla devlet Mançukuo'nun başına getirilmesi, onun bir siyasi piyon olarak kullanıldığının en acı kanıtıdır. II. Dünya Savaşı sonrası Sovyetlere esir düşen ve ardından Mao yönetimindeki Çin'de 'yeniden eğitim' alan Puyi, hayatını sıradan bir vatandaş ve bahçıvan olarak tamamlamıştır. Bu dönüşüm, Çin'in feodal bir yapıdan modern bir komünist devlete geçişindeki travmatik sürecin aynasıdır.\n\nyüzyılın en çarpıcı ve dramatik sınıf değişimlerinden biridir.\n\nBu durum, tarihin ne kadar acımasız ve öngörülemez olabileceğinin en somut örneğidir.\n\nYaygın bir izlenim, İmparatorluğun sadece bir günde bittiği olduğudur; kayıtlar ise 1911 devrimi sonrası Puyi yıllarca Yasak Şehir’de sembolik bir figür olarak kalmıştır.\n\nSinema yapımı, Puyi'nin kişisel dramına odaklanırken, arka plandaki Boxer İsyanı veya Qing Hanedanlığı'nın yapısal çöküş dinamiklerini basitleştirir.",
+      "accuracyNote": "Film, Puyi'nin kişisel dramına odaklanırken, arka plandaki Boxer İsyanı veya Qing Hanedanlığı'nın yapısal çöküş dinamiklerini basitleştirir. Ancak saray atmosferi ve dönemin ruhu oldukça gerçekçi bir dille özetlenmiştir.",
+      "whyInteresting": "Dünyanın en güçlü insanı (Göklerin Oğlu) olarak doğan birinin, hayatını bir bahçıvan ve arşivci olarak tamamlaması, 20. yüzyılın en çarpıcı ve dramatik sınıf değişimlerinden biridir. Bu durum, tarihin ne kadar acımasız ve öngörülemez olabileceğinin en somut örneğidir.",
+      "misconception": "İmparatorluğun sadece bir günde bittiği sanılır; oysa 1911 devrimi sonrası Puyi yıllarca Yasak Şehir’de sembolik bir figür olarak kalmıştır.",
+      "nextTopics": [
+        "Qing Hanedanlığı",
+        "1911 Çin Devrimi",
+        "Yasak Şehir"
+      ],
+      "sources": [
+        {
+          "title": "Puyi (Britannica)",
+          "url": "https://www.britannica.com/biography/Puyi",
+          "type": "official"
+        },
+        {
+          "title": "The Qing Dynasty (MET Museum)",
+          "url": "https://www.metmuseum.org/toah/hd/qing/hd_qing.htm",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [
+        "last-emperor-court-ritual",
+        "last-emperor-manchukuo-propaganda",
+        "last-emperor-forbidden-city-eunuchs-real"
+      ],
+      "reviewerNote": "Biyografik veriler Britannica ve MET ile doğrulandı.",
+      "mediaConnection": "Bu kart, The Last Emperor (1987) yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "biyografi",
+        "in",
+        "modernleme",
+        "the-last-emperor-19"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Bernardo Bertolucci'nin filmi atmosferik olarak mükemmel olsa da, Puyi'nin Mançukuo dönemindeki aktif işbirliğini ve Japon zulmündeki payını biraz daha insancıl bir çerçevede sunar.",
+      "whyItMatters": "Dünyanın en güçlü insanı (Göklerin Oğlu) olarak doğan birinin, hayatını bir bahçıvan ve arşivci olarak tamamlaması, 20.",
+      "quickRealityCheck": "Puyi'nin tahttan inişi bir son değil, Çin'in modernleşme sancılarının başlangıcıydı.",
+      "spoilerNote": "The Last Emperor hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

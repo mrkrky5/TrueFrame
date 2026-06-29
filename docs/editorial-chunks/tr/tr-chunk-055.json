@@ -1,0 +1,285 @@
+{
+  "locale": "tr",
+  "chunkIndex": 55,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-075-armor-cost",
+      "title": "Zırhın Bedeli",
+      "subtitle": "Ekrandaki iz, tarihteki karşılık",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "era": "Orta Çağ",
+      "region": "Bohemya",
+      "themes": [
+        "Orta Çağ",
+        "Sınıf",
+        "Gündelik Yaşam"
+      ],
+      "whatWeSee": "Kingdom Come: Deliverance'ta iyi zırh bir seviye ödülü değil, ciddi bir ekonomik eşik gibi çalışır. Oyuncu tam takım ekipmana hızla ulaşamaz; tamir, bakım ve parça uyumu sürekli masraf çıkarır. Böylece savaş gücü, köken ve gelirle bağlantılı görünür; şövalye estetiği pahalı bir yaşam biçimine dönüşür.",
+      "realHistory": "Geç Orta Çağ Bohemyası'nda nitelikli zırh, demir-çelik işçiliği, uzman usta emeği ve ithal malzeme gerektirdiği için yüksek maliyetliydi. Bir savaşçının koruması tek parça \"parlak zırh\"tan oluşmazdı; gambeson, zincir, plaka parçaları, miğfer, eldiven ve at donanımı birlikte düşünülürdü. Bu setin fiyatı çoğu köylü hanesinin yıllık gelirini aşabiliyordu.\n\nMaliyet yalnızca satın alımda değildi. Zırhın sürekli bakım, perçin onarımı, pas temizliği ve iç astar yenilemesi gerekiyordu. Seferde hasar alan parçalar yerel ustalara bağımlılık yaratıyor, uzun kampanyalarda lojistik giderleri büyütüyordu. Bu nedenle ağır teçhizat çoğunlukla soylular, maaşlı profesyoneller veya güçlü şehir milisleri tarafından sürdürülebiliyordu. Daha düşük gelirli savaşçılar karma ekipmanla savaşmayı tercih ediyor, koruma ile hareket arasında zorunlu denge kuruyordu.\n\nOyun bu ekonomik gerçeği güçlü hissettirir: iyi ekipman güç verir ama borç, yağma veya patronaj ilişkisi olmadan sürdürülemez. Tarihsel belgeler de benzer bir tablo sunar; silah-zırh piyasası askeri ihtiyaç kadar toplumsal statü üretiminde rol oynuyordu.\n\nDolayısıyla zırh, sadece savunma teknolojisi değil, sınıfsal konumun taşınabilir göstergesiydi. Birinin üzerindeki metal, çoğu zaman arkasındaki gelir ağını da gösterirdi. Bazı savaşçılar ekipmanı miras, rehin, ortak alım ya da ganimet paylaşımıyla tamamlıyor; bu da askeri başarı kadar yerel kredi ilişkilerinin kimin korunabildiğini belirlediğini ortaya koyuyordu. Zırhın ağırlığı kadar finansmanı da savaşın kaderini etkiliyordu.",
+      "accuracyNote": "Maliyet ve bakım vurgusu tarihsel olarak yerinde; bölgesel fiyat farkları ile finansman ilişkileri oyun içinde kaçınılmaz biçimde basitleştirilmiştir.",
+      "whyInteresting": "Bir savaş teknolojisinin, toplumsal sınıf sınırlarını nasıl görünür hale getirdiğini somut biçimde gösterir.",
+      "misconception": "Her savaşçının tam plaka zırhla savaştığı ve bunun sıradan bir ekipman olduğu sanılır.",
+      "nextTopics": [
+        "Köy Hayatı",
+        "Lonca Düzeni",
+        "Soylu Yükümlülüğü"
+      ],
+      "sources": [
+        {
+          "title": "The Met - Arms and Armor in Medieval Europe",
+          "url": "https://www.metmuseum.org/toah/hd/aams/hd_aams.htm",
+          "type": "museum"
+        },
+        {
+          "title": "Royal Armouries - Medieval Armour",
+          "url": "https://royalarmouries.org/stories/our-collection/medieval-armour/",
+          "type": "museum"
+        },
+        {
+          "title": "Britannica - Armour",
+          "url": "https://www.britannica.com/technology/armour-protective-clothing",
+          "type": "article"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-076-markets",
+        "kcd2-medieval-law"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Kingdom Come: Deliverance'taki ekipman ekonomisi, Bohemya şehir zanaatı ve geç Orta Çağ askeri maliyet kayıtlarıyla uyumlu bir çerçeve kurar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "orta-cag",
+        "bohemya",
+        "feodalizm",
+        "zirhin-bedeli",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun maliyeti oynanış dengesi için sadeleştiriyor; tarihsel düzlemde bakım, kredi ilişkileri ve at ekipmanı yükü daha karmaşık.",
+      "whyItMatters": "Bir savaş teknolojisinin, toplumsal sınıf sınırlarını nasıl görünür hale getirdiğini somut biçimde gösterir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Orta Çağ'da zırhın asıl pahalı kısmı satın almak mı, yoksa uzun süre kullanabilmek miydi?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-076-markets",
+      "title": "Pazarlar",
+      "subtitle": "Pazar günü: fiyatı kim belirliyordu?",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "era": "Orta Çağ",
+      "region": "Bohemya",
+      "themes": [
+        "Orta Çağ",
+        "Sınıf",
+        "Gündelik Yaşam"
+      ],
+      "whatWeSee": "Kingdom Come: Deliverance'da pazarlar, tüccarlar ve fiyat pazarlığı günlük hayatın merkezidir. Henry burada ekipman alır, dedikodu dinler ve feodal ekonomiyi hisseder. Kadrajda pazar meydanında tartılar kuruluyor, köylüler tahıl satıyor ve yerel görevli fiyat anlaşmazlığını çözerken para ile haber birlikte dolaşıyor.",
+      "realHistory": "Ortaçağ Bohemya'sında pazarlar haftalık veya yıllık panayır olarak düzenlenirdi. Kral ve soylular pazar ayrıcalığı (market rights) verirdi; vergi toplardı. Fiyatlar arz-talep, hasat ve savaşla dalgalanırdı. Loncalar kalite ve fiyatı denetlemeye çalışırdı. KCD 1403 Rattay ve Sasau pazarlarını canlandırır; tarihsel kayıtlar kırsal üreticinin şehir pazarına bağımlılığını gösterir. Pazar günü hem ekonomi hem sosyal buluşmaydı. Ortaçağ pazarları, kırsal üretim ile kent tüketimi arasında haftalık ritim kuran temel ekonomik düğümlerdi. Lord veya şehir konseyi tarafından verilen pazar imtiyazı, vergi toplama ve hukuki koruma sağlayarak ticareti belirli gün ve alanda yoğunlaştırdı. Tahıl, kumaş, tuz ve demir ürünleri yanında kredi ilişkileri ve haber akışı da bu meydanlarda dolaşırdı. Ölçü birimleri ve tartı denetimi sık anlaşmazlık yaratır, yerel mahkemeler fiyat ihtilaflarını çözmekte önemli rol oynardı. Pazar düzeni, feodal hiyerarşi içinde bile hareketli bir para ve bilgi ekonomisi üretti. Pazarlar Ortaçağ Bohemya'sında pazarlar haftalık veya yıllık panayır olarak düzenlenirdi. Ortaçağ pazarlarında tartı ve ölçü denetimi belediye görevlilerinin meşruiyet sınavıydı; hile yapan satıcıya para cezası ve tezgâh kapatma uygulanırdı. Panayır günleri uzak köylerden gelen üreticiler kredi ilişkileri kurardı. Böylece pazar, yalnız mal değişimi değil hukuk ve bilgi dolaşımı merkeziydi.",
+      "accuracyNote": "Ortaçağ pazar hakları genel tarih literatürüyle uyumludur.",
+      "whyInteresting": "Aynı meydan hem ticaret hem siyaset kulisiydi.",
+      "misconception": "Fiyatlar serbest piyasa ile belirlenirdi; ayrıcalık ve lonca kısıtları vardı.",
+      "nextTopics": [
+        "Köy Hayatı",
+        "Lonca Düzeni",
+        "Soylu Yükümlülüğü"
+      ],
+      "sources": [
+        {
+          "title": "Medieval markets (Britannica)",
+          "url": "https://www.britannica.com/topic/market-trade",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Guilds medieval Europe (Britannica)",
+          "url": "https://www.britannica.com/topic/guild",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Bohemia history (Britannica)",
+          "url": "https://www.britannica.com/place/Bohemia",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-072-guilds",
+        "tf26-080-literacy"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "KCD pazar sahneleri ile ortaçağ Bohemya haftalık pazar ve lonca düzeni.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "orta-cag",
+        "bohemya",
+        "feodalizm",
+        "pazarlar",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun pazarı oyun döngüsü yapar; gerçekte sezon ve vergi pazarları şekillendirdi.",
+      "whyItMatters": "Aynı meydan hem ticaret hem siyaset kulisiydi.",
+      "isFlagship": true,
+      "quickRealityCheck": "Pazar ayrıcalığını kim verirdi ve neden?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-079-sieges",
+      "title": "Kuşatma Gerçeği",
+      "subtitle": "Bir sahnenin sakladığı sistem",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "era": "Orta Çağ",
+      "region": "Bohemya",
+      "themes": [
+        "Orta Çağ",
+        "Sınıf",
+        "Gündelik Yaşam"
+      ],
+      "whatWeSee": "Kingdom Come'da kuşatma, baskın ve kale çatışmaları yüksek gerilimli anlar halinde görünür. Oyuncu sura yaklaşır, kapı zorlar, kısa sürede taktik karar verir. Bu anlatım tempoyu artırır. Buna karşılık gerçek kuşatmanın haftalar süren bekleyiş, erzak hesabı, hastalık riski ve mühendislik emeği gibi yorucu boyutları ekranda daha sınırlı yer bulur.",
+      "realHistory": "Geç Orta Çağ'da kuşatma, ani kahramanlık patlamasından çok sabır ve kaynak savaşıydı. Bir kaleyi almak çoğu zaman doğrudan hücumla değil, ikmal hatlarını kesmek, su kaynaklarını kontrol etmek ve savunmayı yıpratmakla mümkün oluyordu. Bohemya ve çevresindeki çatışmalarda bu gerçek açıkça görülür: araziyi bilen yerel güçler, küçük birliklerle geçitleri tutarak daha büyük orduları yavaşlatabiliyordu.\n\nKuşatma hazırlığı, marangozdan demirciye, taşıyıcıdan kazmacıya kadar geniş bir iş bölümü gerektirirdi. Kuşatma kuleleri, mancınıklar, toprak setler ve hendek düzenlemeleri ciddi mühendislik emeği isterdi. Savunma tarafı da pasif değildi; gece baskınları, karşı tüneller ve duvar onarımlarıyla saldırganın zaman maliyetini yükseltirdi. Çoğu kuşatmada belirleyici kırılma, yiyecek ve moralin tükenmesiydi.\n\nBu yüzden kuşatma gerçeği, kılıç becerisinden çok organizasyon kapasitesiyle ilgilidir. Oyundaki dövüş yoğunluğu doğru bir his verse de tarihsel sonuçlar genellikle çarpışma dakikalarında değil, haftalar boyunca süren lojistik baskıda alınırdı. Orta Çağ savaşının ritmi hızlı değil, inatçıydı. Surlar kadar çevredeki değirmenler, köprüler ve depolar da hedef haline geldiği için kuşatma çoğu zaman tüm bölgenin ekonomik felcine dönüşüyordu. Komutanlar bu nedenle askeri planı hasat takvimiyle birlikte düşünmek zorundaydı; yanlış zamanlanan bir sefer, zaferden önce ordunun dağılmasına yol açabiliyordu. Kısacası kuşatma, cephedeki asker kadar arka plandaki tedarikçinin de savaşçı olduğu bir mücadele biçimiydi.",
+      "accuracyNote": "Silah ve kale dokusu inandırıcıdır; kuşatmanın esas belirleyicisi olan uzun erzak savaşı ve hastalık etkisi oyun temposu nedeniyle kısaltılmıştır.",
+      "whyInteresting": "En çok ses getiren an hücum anıdır, ama tarihi değiştiren çoğu karar bekleyiş döneminde alınır.",
+      "misconception": "Kuşatmaların tek belirleyicisinin sura ilk çıkan birlik olduğu düşünülür; çoğu kez sonucu açlık, mühendislik ve moral belirledi.",
+      "nextTopics": [
+        "Köy Hayatı",
+        "Lonca Düzeni",
+        "Soylu Yükümlülüğü"
+      ],
+      "sources": [
+        {
+          "title": "Siege Warfare (Britannica)",
+          "url": "https://www.britannica.com/topic/siege-warfare",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Bohemia (Britannica)",
+          "url": "https://www.britannica.com/place/Bohemia",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Art of Warfare in Western Europe During the Middle Ages (Boydell & Brewer)",
+          "url": "https://boydellandbrewer.com/9780851155708/the-art-of-warfare-in-western-europe-during-the-middle-ages/",
+          "type": "book",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-080-literacy",
+        "kcd2-medieval-law"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Kingdom Come'un kale çatışmaları, geç Orta Çağ kuşatma atmosferine giriş sağlar fakat süreci dramatik olarak sıkıştırır.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "orta-cag",
+        "bohemya",
+        "feodalizm",
+        "kusatma-gercegi",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun kuşatmayı aksiyon merkezli kısa çatışmalara yoğunlaştırır ve süre baskısını azaltır. Tarihte kuşatmaların çoğu, mühendislik ve ikmal üzerinden yürüyen yavaş yıpratma süreçleriydi.",
+      "whyItMatters": "En çok ses getiren an hücum anıdır, ama tarihi değiştiren çoğu karar bekleyiş döneminde alınır.",
+      "isFlagship": false,
+      "quickRealityCheck": "Bir kaleyi düşürmede doğrudan hücumdan çok ikmal hatlarını kesmek neden daha etkili olabiliyordu?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-080-literacy",
+      "title": "Okuryazarlık",
+      "subtitle": "Okuryazarlık: kitap mu, mühür mü?",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "era": "Orta Çağ",
+      "region": "Bohemya",
+      "themes": [
+        "Orta Çağ",
+        "Sınıf",
+        "Gündelik Yaşam"
+      ],
+      "whatWeSee": "Kingdom Come: Deliverance'da okuryazarlık nadir bir beceridir; Henry kitap okuyamaz, rahipler ve soylular yazıyı kontrol eder. Oyun öğrenmeyi görev ve statü kapısı yapar. İzleyici kâtiplerin resmi kayıt tuttuğu masayı, mühür basan köylüleri ve pazarda hesap defteriyle alışveriş yapan tüccarları okuryazarlığın toplumsal farklarıyla görüyor.",
+      "realHistory": "15. yüzyıl Orta Avrupa'sında okuryazarlık düşüktü; kitleler için özellikle Latince okuryazarlık kilise ve hukuk sınıfına aitti. Almanca ve Çekçe yazılı kayıtlar şehirlerde arttı. Okuryazarlık sosyal statü işaretiydi: soylu, rahip, tüccar ve bazı zanaatkârlar okuyabiliyordu. Kütüphaneler manastır ve saraylardaydı. Matbaa henüz yaygın değildi (KCD 1403). Henry'nin okuryazarlık eksikliği dönemin gerçekçi bir ayrıntısıdır; eğitim sınıfsaldı. Geç ortaçağda okuryazarlık, toplumun küçük bir kesiminde yoğunlaşsa da yönetim ve ekonomi üzerinde orantısız etki yarattı. Ruhban sınıfı, noterler ve şehir kâtipleri sözleşme, vergi kaydı ve mahkeme tutanaklarını yazarak hukuki hafızayı kurumsallaştırdı. Köylülerin çoğu metin üretemese de mühür, tanık ve sözlü formüllerle belge düzenine dolaylı biçimde katıldı. Ticaret kentlerinde artan hesap defteri kullanımı, sayısal okuryazarlığı pratik bir beceriye dönüştürdü. Yazının gücü, bilgiye erişim kadar otorite kurma hakkını da belirlediği için sınıfsal ayrımları derinleştirdi. Okuryazarlık 15. Geç ortaçağda noterler ve kilise kâtipleri, sözlü anlaşmaları yazılı belgeye çevirerek mülkiyet ihtilaflarını azaltan bir aracı sınıf yarattı. Şehirlerde hesap defteri kullanımı arttıkça sayısal okuryazarlık değer kazandı. Yine de eğitim erişimi sınırlı kaldığından yazı gücü seçkin gruplarda, lonca elitlerinde, belediye mahkemelerinde ve kent yönetim ağlarında yoğunlaştı; bu yetki yerel siyasi nüfuz üretiyordu.",
+      "accuracyNote": "Ortaçağ okuryazarlık tahminleri akademik literatürle uyumludur.",
+      "whyInteresting": "Aynı harf hem dua hem mühür hem sözleşmeydi.",
+      "misconception": "Ortaçağda herkes okuma bilmiyordu; doğru, ama oranlar sınıf ve mekâna göre değişti.",
+      "nextTopics": [
+        "Köy Hayatı",
+        "Lonca Düzeni",
+        "Soylu Yükümlülüğü"
+      ],
+      "sources": [
+        {
+          "title": "Literacy medieval Europe (Britannica)",
+          "url": "https://www.britannica.com/topic/history-of-Europe/The-emergence-of-modern-Europe",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Medieval education (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Medieval_Education/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Hussite Bohemia (Britannica)",
+          "url": "https://www.britannica.com/place/Bohemia",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-072-guilds",
+        "tf26-076-markets"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "KCD'nin okuryazarlık mekaniği ile ortaçağ Avrupa okuryazarlık oranları ve kilise yazı tekeli.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "orta-cag",
+        "bohemya",
+        "feodalizm",
+        "okuryazarlik",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun okuryazarlığı beceri ağacı yapar; gerçekte eğitim kurumsal ve sınıfsaldı.",
+      "whyItMatters": "Aynı harf hem dua hem mühür hem sözleşmeydi.",
+      "isFlagship": true,
+      "quickRealityCheck": "1403'te Bohemya'da kimler okuma yazma biliyordu?",
+      "lastReviewedAt": "2026-06-25"
+    }
+  ]
+}

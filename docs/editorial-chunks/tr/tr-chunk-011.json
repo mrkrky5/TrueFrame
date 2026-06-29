@@ -1,0 +1,361 @@
+{
+  "locale": "tr",
+  "chunkIndex": 11,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "spartan-war-machines-myth",
+      "title": "Spartalılar Sadece Savaş Makinesi miydi?",
+      "subtitle": "Agoge sisteminin ardındaki toplumsal yapı.",
+      "mediaType": "film",
+      "mediaTitle": "300 Spartalı",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Yunan Tarihi",
+        "Savaş",
+        "Eğitim"
+      ],
+      "whatWeSee": "Filmde Spartalılar, çocukluktan itibaren sadece savaşmak için eğitilen, başka hiçbir sanatı veya kültürü olmayan süper askerler olarak gösterilir.",
+      "realHistory": "Sparta toplumu, dışarıdan göründüğü gibi sadece 'özgürlük savaşçılarından' ibaret değildi. Sparta ekonomisi, 'Helot' adı verilen köleleştirilmiş yerli halkın emeğine dayanıyordu. Helotların sayısı Spartalı vatandaşlardan çok daha fazlaydı ve Spartalılar, bu büyük köle nüfusunun isyan etmesini önlemek için sürekli teyakkuzda olan militarist bir sınıf haline geldiler. 7 yaşında başlayan 'Agoge' eğitimi, çocukları bireysellikten arındırıp devlete sadık, acıya dayanıklı askerler haline getirmeyi amaçlıyordu. Ancak bu katı sistem, Sparta'nın entelektüel ve sanatsal gelişimini baltalamış, nüfusun giderek azalmasına ve sonunda Sparta'nın bir askeri güç olarak silinmesine yol açmıştır. Onlar sadece Perslere karşı değil, kendi içlerindeki 'kölelik düzenini' korumak için de savaş makinesi olmak zorundaydılar.\n\nYaygın bir izlenim, Spartalıların sakat doğan bebekleri her zaman uçurumdan attığı olduğudur; arkeolojik araştırmalar bu uygulamanın anlatıldığı kadar yaygın olmadığını göstermektedir.\n\nYaygın izlenim, Spartalıların sakat doğan bebekleri her zaman uçurumdan attığı olduğudur; arkeolojik araştırmalar bu uygulamanın anlatıldığı kadar yaygın olmadığını göstermektedir.\n\nSoruşturma ve arşiv belgeleri, sparta'nın askeri disiplini, bir kahramanlık tercihi olduğu kadar, devasa bir köle nüfusunu (Helotlar) kontrol altında tutma zorunluluğuydu.",
+      "accuracyNote": "Sparta toplumu, helot adı verilen köle sınıfının emeği üzerine kuruluydu; askeri eğitim bu köle isyanlarını bastırmak için zorunluluktu.",
+      "whyInteresting": "Spartalılar, savaş alanına girmeden önce saçlarını tarayıp süslerlerdi; bu onlar için ölüme hazırlık ritüeliydi.",
+      "misconception": "Spartalıların sakat doğan bebekleri her zaman uçurumdan attığı sanılır; arkeolojik araştırmalar bu uygulamanın anlatıldığı kadar yaygın olmadığını göstermektedir.",
+      "nextTopics": [
+        "Agoge",
+        "Leonidas",
+        "Helotlar"
+      ],
+      "sources": [
+        {
+          "title": "Sparta (Britannica)",
+          "url": "https://www.britannica.com/place/Sparta",
+          "type": "official"
+        },
+        {
+          "title": "The Spartans (BBC History)",
+          "url": "https://www.bbc.co.uk/history/ancient/greeks/spartans_01.shtml",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "300-persian-immortals-real",
+        "300-hoplite-phalanx-real",
+        "300-thermopylae-masterclass"
+      ],
+      "reviewerNote": "Agoge sistemi ve toplumsal yapı Britannica ile doğrulandı.",
+      "mediaConnection": "Bu kart, 300 Spartalı yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "300-spartal",
+        "eitim",
+        "savas",
+        "yunan-tarihi"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "300 Ispartalı gibi filmlerde Spartalılar yarı çıplak ve sadece kılıç sallayan devler gibi gösterilir. Gerçekte ağır zırhlı hoplitler olarak sıkı bir 'Phalanx' düzeninde, disiplinli bir birlik olarak savaşırlardı.",
+      "whyItMatters": "Spartalılar, savaş alanına girmeden önce saçlarını tarayıp süslerlerdi; bu onlar için ölüme hazırlık ritüeliydi.",
+      "quickRealityCheck": "Sparta'nın askeri disiplini, bir kahramanlık tercihi olduğu kadar, devasa bir köle nüfusunu (Helotlar) kontrol altında tutma zorunluluğuydu.",
+      "spoilerNote": "300 Spartalı hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "witch-hunts-period",
+      "title": "Cadı Avları Orta Çağ’da mıydı?",
+      "subtitle": "Karanlık çağların değil, modernliğin sancısı.",
+      "mediaType": "general",
+      "mediaTitle": "Popüler Kültür Yanılgıları",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Toplum",
+        "Din",
+        "Hukuk"
+      ],
+      "whatWeSee": "Dizilerde ve filmlerde cadı yakma sahneleri genellikle 11-12. yüzyıl Orta Çağ atmosferinde geçer.",
+      "realHistory": "Cadı avlarının arkasındaki asıl nedenler; Küçük Buzul Çağı'nın yarattığı kıtlıklar, veba salgınları ve Katolik-Protestan çatışmalarıdır. İnsanlar, yaşadıkları talihsizliklere (hayvanların ölmesi, ekinlerin solması) günah keçisi arıyorlardı. Engizisyon mahkemeleri sanılanın aksine cadı avlarına daha temkinli yaklaşırken, yerel sivil mahkemeler daha acımasızdı. Yaklaşık 40.000-60.000 kişi (çoğunluğu kadın) bu süreçte hayatını kaybetmiştir. Bu dönem, aynı zamanda kadınların toplumsal ve ekonomik rollerinin kısıtlandığı bir süreci de temsil eder.\n\nMalleus Maleficarum yerel mahkemelerin soruşturma pratiğini güçlendirdi. İzlanda gibi bölgelerde erkek kurban istisnaları kayıtlıdır.\n\nCadı avlarının arkasında Küçük Buzul Çağı kıtlıkları, veba salgınları ve mezhepsel çatışmalar yatar. Malleus Maleficarum (1487) yerel mahkemelerin soruşturma pratiğini güçlendirdi. Engizisyon birçok davada temkinli kalırken sivil mahkemeler daha sert cezalar verdi. Yaklaşık 40.000-60.000 kişi bu süreçte hayatını kaybetti; İzlanda gibi bölgelerde erkek kurbanların çoğunlukta olduğu istisnalar kayıtlıdır.\n\nCadı avlarının zirvesi 16.-17. yüzyıl toplumsal krizleriyle örtüşür. Kıtlık dönemlerinde komşu ihbarları ve dini panik birbirini besledi.\n\nYerel mahkemeler engizisyona kıyasla daha hızlı ve sert yargılama pratiği uygulayabiliyordu.\n\nCadı avlarının sadece engizisyon tarafından yapıldığı olduğu sanılır; oysa kayıtlara göre çoğu dava yerel sivil mahkemeler tarafından yürütülmüştür.\n\n30 Yıl Savaşları döneminde soruşturmalar hızlandı; toplumsal panik komşu ihbarlarını artırdı.",
+      "accuracyNote": "Cadı avlarının zirvesi, 30 Yıl Savaşları gibi büyük toplumsal krizlerin yaşandığı 16. ve 17. yüzyıllardır.",
+      "whyInteresting": "Cadı avlarında sadece kadınlar değil, bazı bölgelerde (örneğin İzlanda) kurbanların %90’ı erkeklerdi.",
+      "misconception": "Cadı avlarının sadece engizisyon tarafından yapıldığı sanılır; oysa çoğu dava yerel sivil mahkemeler tarafından yürütülmüştür.",
+      "nextTopics": [
+        "Malleus Maleficarum",
+        "Salem Cadı Mahkemeleri",
+        "Erken Modern Avrupa"
+      ],
+      "sources": [
+        {
+          "title": "Witch-hunt (Britannica)",
+          "url": "https://www.britannica.com/topic/witch-hunt",
+          "type": "official"
+        },
+        {
+          "title": "The Great Witch Hunt (History Today)",
+          "url": "https://www.historytoday.com/archive/great-witch-hunt",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "medieval-lifespan-myth",
+        "pirate-maps-myth",
+        "nero-fiddling-myth"
+      ],
+      "reviewerNote": "Tarihsel dönem verileri Britannica ve History Today ile doğrulandı.",
+      "mediaConnection": "Cadı avları temalı filmler genellikle karanlık Orta Çağ atmosferini kullansa da, bu olayların zirve noktası aslında Rönesans ve Erken Modern dönemde yaşanmıştır.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "din",
+        "hukuk",
+        "popler-kltr-yanl",
+        "toplum"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Filmlerde cadı avları karanlık ve cahil Orta Çağ'da gösterilir. Gerçekte bu, devletlerin ve kiliselerin güç mücadelesi verdiği, dini savaşların (Reformasyon) yaşandığı ve toplumsal gerilimin arttığı 'Aydınlanma' öncesi dönemde yaygındı.",
+      "whyItMatters": "Cadı avlarında sadece kadınlar değil, bazı bölgelerde (örneğin İzlanda) kurbanların %90’ı erkeklerdi.",
+      "quickRealityCheck": "Yanılgı. Cadı avları sanılanın aksine Orta Çağ'da değil, Rönesans ve Erken Modern dönemde (15.-17. yüzyıl) zirve yapmıştır.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "ancient-roman-day",
+      "title": "Bir Roma Vatandaşının Sıradan Günü",
+      "subtitle": "Sabah selamından akşam banyosuna.",
+      "mediaType": "general",
+      "mediaTitle": "Günlük Hayat",
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Roma Tarihi",
+        "Toplum",
+        "Günlük Hayat"
+      ],
+      "whatWeSee": "Roma dizilerinde sadece suikastlar ve savaşlar görülür; ancak sıradan bir Romalının hayatı çok daha rutin ve sosyaldi.",
+      "realHistory": "Romalılar için gün 'Salutatio' ile başlardı. Bu, himaye altındaki kişilerin (client) sabah erkenden patronlarını (patronus) ziyaret ederek sadakatlerini göstermeleri ve o günkü yardımlarını almaları ritüeliydi. Ardından Forum'da işler halledilir, ticaret yapılır ve davalar izlenirdi. Öğleden sonra iş biter ve tüm şehir 'Thermae' adı verilen hamamlara akın ederdi. Hamamlar sadece temizlik değil, aynı zamanda kütüphanelerin, spor alanlarının ve yemek tezgahlarının bulunduğu devasa sosyal kulüplerdi. Sosyal Yardımlar ve Ekmek Sistemi\nRoma'da hayat, 'Annona' (bedava tahıl) ve 'Circenses' (eğlenceler) sayesinde, işsiz kitlelerin bile bir rutine ve temel ihtiyaçlara sahip olduğu organize bir sistemdi. Roma devleti, halkın ayaklanmasını engellemek için bu sosyal güvenlik ağını titizlikle yönetirdi. Akşam yemeği (Cena), ailenin ve dostların bir araya geldiği en önemli ritüeldi. Roma'da yaşayan bir Pleb için hayat zor olsa da, bugünkü birçok modern şehirden daha fazla sosyal imkana sahipti. Roma günlük yaşamı, modern 'kentsel yaşam' modelinin (sosyal alanlar, organize çalışma saatleri, devlet yardımları) ilk başarılı prototipidir.\n\nYaygın izlenim, Romalıların her gün şatafatlı ziyafetler yaptığı olduğudur; kayıtlar ise çoğu Romalının ana öğünü ekmek ve baklagillerden oluşan basit bir yemekti.",
+      "accuracyNote": "Pompeii ve Herculaneum’daki buluntular, Romalıların günlük alışkanlıklarını (fast food dükkanları, grafiti) çok detaylı şekilde doğrular.",
+      "whyInteresting": "Romalılar öğle yemeğini genellikle dışarıdaki termopolium denilen büfelerden ayaküstü yerlerdi (modern fast food’un atası).",
+      "misconception": "Romalıların her gün şatafatlı ziyafetler yaptığı sanılır; oysa çoğu Romalının ana öğünü ekmek ve baklagillerden oluşan basit bir yemekti.",
+      "nextTopics": [
+        "Pompeii",
+        "Roma Hamamları",
+        "Roma Mutfağı"
+      ],
+      "sources": [
+        {
+          "title": "Daily Life in Ancient Rome (Britannica)",
+          "url": "https://www.britannica.com/topic/daily-life-in-ancient-Rome",
+          "type": "official"
+        },
+        {
+          "title": "A Day in the Life of a Roman (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/article/637/daily-life-in-ancient-rome/",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "medieval-night-life",
+        "baghdad-daily-life-new",
+        "ottoman-diet-culture"
+      ],
+      "reviewerNote": "Günlük rutin verileri Britannica ve World History Encyclopedia ile doğrulandı.",
+      "mediaConnection": "Roma dizisi gibi yapımlar, imparatorluğun görkemli savaşları kadar sıradan vatandaşın sokaktaki günlük mücadelesine de ışık tutan nadir eserlerdendir.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "gnlk-hayat",
+        "roma-tarihi",
+        "toplum"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Dizilerde Romalılar sürekli ya savaşta ya da sefahattedir. Gerçekte sıradan bir vatandaş (Plebler), şafak vaktinde kalkıp akşamüstüne kadar çalışır, ardından ücretsiz halk hamamlarına giderek sosyalleşirdi. Ayrıca Romalıların sürekli yatarak yemek yediği miti sadece çok zenginler için geçerliydi.",
+      "whyItMatters": "Romalılar öğle yemeğini genellikle dışarıdaki termopolium denilen büfelerden ayaküstü yerlerdi (modern fast food’un atası).",
+      "quickRealityCheck": "Gerçek. Bir Roma vatandaşının günü, modern yaşamla şaşırtıcı benzerlikler taşır; iş, yemek, spor ve eğlence üzerine kuruluydu.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "medieval-night-life",
+      "title": "Orta Çağ’da Gece Hayatı ve İki Uykulu Düzen",
+      "subtitle": "Güneş battığında hayat bitiyor muydu?",
+      "mediaType": "general",
+      "mediaTitle": "Günlük Hayat",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Orta Çağ",
+        "Uyku",
+        "Toplum"
+      ],
+      "whatWeSee": "Filmlerde Orta Çağ geceleri ya tamamen karanlıktır ya da meşalelerle aydınlatılmış barlar görülür.",
+      "realHistory": "Yapay aydınlatma pahalı olduğu için insanlar genellikle hava kararınca uyur, ancak gece yarısı uyanıp birkaç saat sosyalleşip veya dua edip tekrar uyurlardı (iki parçalı uyku - biphasic sleep).\n\nRoger Ekirch'in arşiv çalışması, elektrik öncesi toplumlarda gece yarısı uyanıp kısa ara verdikten sonra tekrar uyumanın yaygın olduğunu gösterir. Köylerde gece bekçileri sokağa çıkışı denetler; curfew kelimesi ateşin örtülmesinden gelir.\n\nOrta Çağ kasabalarında gece bekçileri (watchmen) sokağa çıkışı denetler, kapanış saatlerini çan veya boru ile duyururdu. Curfew uygulaması yangın riskini azaltmayı ve gece vakti düzeni korumayı hedeflerdi; kelime Fransızca couvre-feu, yani ateşi ört anlamına gelir. Zengin evlerde mum ve yağ lambası sınırlı kullanılırken çoğu hane gün batımından sonra karanlıkta kalırdı. Kilise çanları hem dua vaktini hem de gece yarısı uyanma ritmini işaret edebilirdi.\n\nŞehir yönetimleri gece yangınlarına karşı ahşap binalarda ateş kullanımını sınırlardı. Kırsal bölgelerde ise ay ışığı ve yıldızlar tek aydınlatma kaynağıydı; bu yüzden gece yarısı uyanıp kısa bir ara vermek pratik bir ritim oluşturuyordu.\n\nKırsal bölgelerde ay ışığı tek aydınlatma kaynağıydı; gece yarısı uyanma bu ritme uyum sağlıyordu.\n\nİnsanların eskiden kesintisiz 8 saat uyuduğu olduğu sanılır; oysa kayıtlara göre bu tamamen endüstriyel devrim sonrası bir alışkanlıktır.",
+      "accuracyNote": "Tarihsel mektuplar ve tıbbi kayıtlar, modern elektrik öncesi toplumların uyku düzeninin bugünkünden çok farklı olduğunu doğrular.",
+      "whyInteresting": "Orta Çağ’da gece sokağa çıkma yasağı (curfew) çok yaygındı; kelime Fransızca couvre-feu (ateşi ört) kökeninden gelir.",
+      "misconception": "İnsanların eskiden kesintisiz 8 saat uyuduğu sanılır; oysa bu tamamen endüstriyel devrim sonrası bir alışkanlıktır.",
+      "nextTopics": [
+        "İki Parçalı Uyku",
+        "Aydınlatma Tarihi",
+        "Orta Çağ Kasabaları"
+      ],
+      "sources": [
+        {
+          "title": "The Myth of the 8-Hour Sleep (BBC News)",
+          "url": "https://www.bbc.com/news/magazine-16964783",
+          "type": "official"
+        },
+        {
+          "title": "At Day’s Close: Night in Times Past (A. Roger Ekirch)",
+          "url": "https://www.history.vt.edu/Ekirch/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "ancient-roman-day",
+        "baghdad-daily-life-new",
+        "ottoman-diet-culture"
+      ],
+      "reviewerNote": "Uyku düzeni araştırmaları BBC ve akademik kaynaklarla doğrulandı.",
+      "mediaConnection": "Kingdom Come: Deliverance, Orta Çağ'da gecelerin sadece karanlık değil, aynı zamanda sıkı denetlenen ve tehlikeli bir zaman dilimi olduğunu detaylıca işler.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "gnlk-hayat",
+        "orta-cag",
+        "toplum",
+        "uyku"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Günlük Hayat bu konuyu sahne diliyle yoğunlaştırır; tarihsel mektuplar ve tıbbi kayıtlar, modern elektrik öncesi toplumların uyku düzeninin bugünkünden çok farklı olduğunu doğrular.",
+      "whyItMatters": "Orta Çağ’da gece sokağa çıkma yasağı (curfew) çok yaygındı; kelime Fransızca couvre-feu (ateşi ört) kökeninden gelir.",
+      "quickRealityCheck": "İnsanların eskiden kesintisiz 8 saat uyuduğu denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "ancient-city-smells",
+      "title": "Antik Şehirler Gerçekten Nasıl Kokuyordu?",
+      "subtitle": "Açık lağımlar, parfümler ve baharatlar.",
+      "mediaType": "general",
+      "mediaTitle": "Atmosfer",
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Hijyen",
+        "Antik Dünya",
+        "Şehir Planlama"
+      ],
+      "whatWeSee": "Antik şehirler ya pırıl pırıl beyaz mermerli ya da çamur içinde pis yerler olarak gösterilir.",
+      "realHistory": "Antik şehirlerin atmosferi bugünkü metropollerden çok farklıydı. Roma ve İskenderiye'de Cloaca Maxima gibi kanalizasyon olsa da her sokağa uzanmazdı. Sokaklar lağım, tabakhane, Garum üretimi ve hayvan gübresi kokusuyla doluydu. Tapınak tütsüleri ve parfümler bu katmanı bastırmaya çalışırdı.\n\nRoma'da idrar çamaşırhanelerde temizlik için toplanırdı. Zenginler gül suyu kullanırdı. Yoğun nüfus salgın riskini artırırdı. Yazın mezbaha kokuları yoğunlaşırdı. Çeşmeler günlük yıkama altyapısı sağlardı. Yönetimler atık dökümünü düzenleyen yönetmelikler çıkarırdı. Koku yönetimi günlük kentsel pratiğin ayrılmaz parçasıydı.\n\nAntik insanların kokuya çok duyarlı olduğu sanılır; oysa kayıtlara göre koku, hayatın doğal ve kaçınılmaz bir parçası olarak kabul ediliyordu.\n\nVespasian döneminde halka açık tuvaletlerden idrar toplanması vergilendirilmiş; Pecunia non olet sözü bu uygulamayla ilişkilendirilir. Çamaşırhaneler amonyak içeriği nedeniyle idrarı değerli bir temizlik maddesi olarak kullanırdı.\n\nÇamaşırhaneler amonyak için idrar toplardı; koku yönetimi günlük kentsel pratiğin parçasıydı.\n\nMermer cepheler ve çamur sokaklar aynı kentte yan yana var olurdu; duyusal yoğunluk bu zıtlıktan doğuyordu.\n\nİmparator Vespasian idrar vergisiyle kamu geliri toplamış; bu uygulama antik kent ekonomisinin beklenmedik yüzlerinden biridir.\n\nBalık pazarları ve tabakhaneler mahalle merkezine yakın kurulur; yaz aylarında koku katmanı belirginleşirdi. Zengin konutlarda aromatik yağlar ve tütsüler günlük rutinin parçasıydı.",
+      "accuracyNote": "Medyada antik dünyayı ya steril beyaz mermerler içinde ya da çamur deryasında gösteren iki uç tasvir vardır. Gerçeklik, bu ikisinin aynı anda yaşandığı, duyusal açıdan son derece yoğun ve bazen rahatsız edici bir sentezdir.",
+      "whyInteresting": "Roma'da idrar, amonyak içeriği nedeniyle o kadar değerliydi ki, çamaşırhanelerde (fullonicae) kıyafetleri temizlemek için toplanırdı. Hatta İmparator Vespasian, halka açık tuvaletlere idrar toplama vergisi getirmiştir; meşhur 'Para kokmaz' (Pecunia non olet) sözü de buradan gelmektedir.",
+      "misconception": "Antik insanların kokuya çok duyarlı olduğu sanılır; oysa koku, hayatın doğal ve kaçınılmaz bir parçası olarak kabul ediliyordu.",
+      "nextTopics": [
+        "Cloaca Maxima",
+        "Antik Parfümler",
+        "Roma Hijyeni"
+      ],
+      "sources": [
+        {
+          "title": "Sanitation in Ancient Rome (Britannica)",
+          "url": "https://www.britannica.com/technology/sanitation/Ancient-Rome",
+          "type": "official"
+        },
+        {
+          "title": "The Senses of the Past (University of Cambridge)",
+          "url": "https://www.arch.cam.ac.uk/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "ottoman-beyond-war"
+      ],
+      "reviewerNote": "Hijyen verileri Britannica ve Cambridge Üniversitesi araştırmalarıyla doğrulandı.",
+      "mediaConnection": "Antik Roma atmosferini işleyen yapımlarda genellikle görsel ihtişam ön plandadır; ancak o dönemin kalabalık sokakları aslında oldukça yoğun ve kaotik bir koku haritasına sahipti.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "antik-dnya",
+        "atmosfer",
+        "ehir-planlama",
+        "hijyen"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Yapım antik dünyayı ya steril beyaz mermerler içinde ya da çamur deryasında gösteren iki uç tasvir vardır. Gerçeklik, bu ikisinin aynı anda yaşandığı, duyusal açıdan son derece yoğun ve bazen rahatsız edici bir sentezdir.",
+      "whyItMatters": "Hatta İmparator Vespasian, halka açık tuvaletlere idrar toplama vergisi getirmiştir; meşhur 'Para kokmaz' (Pecunia non olet) sözü de buradan gelmektedir.",
+      "quickRealityCheck": "Antik insanların kokuya çok duyarlı olduğu denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": ""
+    },
+    {
+      "id": "rome2-legions",
+      "title": "Roma Lejyonları ve Askeri Disiplin",
+      "subtitle": "Dünyayı fetheden savaş makinesinin sırrı.",
+      "mediaType": "game",
+      "mediaTitle": "Total War: Rome II",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Askeri Tarih",
+        "Roma",
+        "Savaş"
+      ],
+      "whatWeSee": "Oyunda lejyonlar, mükemmel bir uyum içinde manevra yapan, her komutu anında uygulayan çelikten bir duvar olarak gösterilir.",
+      "realHistory": "Roma lejyonlarının gücü, ekranda göründüğü gibi yalnızca kalkan duvarı ve disiplinli yürüyüşten ibaret değildi. Lejyon, savaş alanına çıkmadan önce bile bir örgütlenme makinesiydi: eğitim, hiyerarşi, lojistik, kamp kurma alışkanlığı ve emir zinciri aynı sistemin parçalarıydı. Marian reformlarıyla profesyonelleşen askerlik, Roma ordusunu geçici milislerden daha kalıcı bir askeri yapıya taşıdı.\n\nBir lejyonerin görevi yalnızca savaşmak değildi. Yürüyüş sırasında yol açar, hendek kazar, köprü kurar, gece konakladığı yeri hendek ve kazıklarla savunulan geçici bir kampa dönüştürürdü. Centurionlar yalnızca cesur dövüşçüler değil, düzeni ve cezayı uygulayan omurgaydı. Bu yüzden Roma ordusu bazen sayıca üstün olduğu için değil, daha iyi organize olduğu ve savaş alanına düzenini taşıyabildiği için kazandı.\n\nTotal War: Rome II gibi oyunlar testudo, ağır piyade hattı ve manevra disiplinini görsel olarak güçlü verir. Fakat gerçek lejyonun asıl farkı, tek bir dramatik çarpışmadan çok uzun yürüyüşlerde, ikmalde, kamp mühendisliğinde ve komuta zincirinde saklıydı. Roma ordusu bir savaşçı kalabalığı değil, hareket eden bir devlet kurumu gibiydi.",
+      "accuracyNote": "Oyun, Roma askeri dizilimlerini ve ekipmanlarını tanınır biçimde yansıtır; ancak lejyonların başarısını yalnızca savaş animasyonlarıyla değil, profesyonelleşme, lojistik ve kamp mühendisliğiyle birlikte okumak gerekir.",
+      "whyInteresting": "Bir lejyoner yalnızca savaşçı değildi; yürüyüş hattında yol açan, kamp kuran ve gerektiğinde mühendislik işi yapan askeri bir iş gücünün parçasıydı.",
+      "misconception": "Roma ordusunun her zaman sayıca üstün olduğu sanılır; oysa birçok başarı disiplin, eğitim, ikmal ve taktik düzen sayesinde geldi.",
+      "nextTopics": [
+        "Marian Reformları",
+        "Testudo Dizilimi",
+        "Yüzbaşı (Centurio)"
+      ],
+      "sources": [
+        {
+          "title": "The Roman Army (British Museum)",
+          "url": "https://www.britishmuseum.org/collection/galleries/roman-empire",
+          "type": "museum"
+        },
+        {
+          "title": "Roman Legion (Britannica)",
+          "url": "https://www.britannica.com/topic/legion-Roman-military-unit",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Askeri yapı British Museum ve Britannica ile doğrulandı.",
+      "mediaConnection": "Bu kart, Total War: Rome II’deki lejyon dizilimlerinden yola çıkarak Roma ordusunun disiplin, hiyerarşi ve kamp mühendisliği tarafını açıklar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "askeri-tarih",
+        "roma",
+        "savas",
+        "total-war-rome-ii",
+        "antik-dnya"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Oyun lejyonu savaş alanındaki düzeniyle gösterir; tarihsel gerçeklikte aynı düzen yürüyüş, kamp, ikmal ve mühendislik alışkanlıklarında da belirleyiciydi.",
+      "whyItMatters": "Roma lejyonu, askeri başarının yalnızca cesaretle değil, kurumlaşmış disiplin ve lojistikle kurulduğunu gösteren güçlü bir örnektir.",
+      "quickRealityCheck": "Roma lejyonları gerçekten sadece çelik gibi savaşan piyadeler miydi — yoksa aynı zamanda yürüyen bir mühendislik ve lojistik sistemi mi?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

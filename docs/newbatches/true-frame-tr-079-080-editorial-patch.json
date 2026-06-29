@@ -1,0 +1,450 @@
+{
+  "patchId": "tr-chunks-079-080-source-aware-patch",
+  "locale": "tr",
+  "sourceChunks": [
+    79,
+    80
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-editorial-qa",
+  "summary": {
+    "cardCount": 8,
+    "approvedAsIs": [],
+    "minorEdit": [],
+    "rewrite": [
+      "tf26-186-prime-ministers",
+      "tf26-187-public-grief",
+      "tf26-189-empire-memory",
+      "tf26-190-privacy",
+      "tf26-191-plague-spread"
+    ],
+    "sourceUpdates": [
+      "tf26-184-royal-media",
+      "tf26-186-prime-ministers",
+      "tf26-187-public-grief",
+      "tf26-188-royal-finance",
+      "tf26-189-empire-memory",
+      "tf26-190-privacy",
+      "tf26-191-plague-spread",
+      "tf26-192-quarantine"
+    ],
+    "notes": [
+      "Flagship kartlar tf26-184-royal-media, tf26-188-royal-finance ve tf26-192-quarantine 400+ kelime başlıklı yapıyla genişletildi.",
+      "The Crown kartlarında legacy relatedCardIds, bozuk slug/tag yapıları ve generic mediaChanged/whyItMatters alanları temizlendi.",
+      "Kara Veba kartlarında CDC/EID ve akademik kaynaklarla biyoloji, liman-karantina tarihi ve yanlış bilinenler daha kaynaklı hale getirildi."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-184-royal-media",
+      "reviewStatus": "flagship_rewrite",
+      "notes": "Flagship kart tekrar eden bloklar ve legacy relatedCardIds içeriyordu; 1953 televizyon eşiği, 1969 Royal Family belgeseli, Diana/tabloid çağı ve kontrollü görünürlük başlıklarıyla yeniden kuruldu.",
+      "fields": {
+        "subtitle": "Taht televizyona çıkınca mesafe nasıl değişti?",
+        "whatWeSee": "The Crown, saray ile medya arasındaki ilişkiyi yalnız röportaj ve skandal sahneleriyle değil, monarşinin görünürlük stratejisiyle anlatır. Törenler kameraya açılır, aile içi gerilimler tabloid diline taşınır, kriz anlarında saray basın ofisi kelimeleri dikkatle tartar. Dizi bazen kişisel dramı büyütür; fakat temel gerilim gerçektir: modern monarşi, hem görünür olmak hem de gizemini korumak zorundadır.",
+        "realHistory": "### Televizyon eşiği\n\n1953’te II. Elizabeth’in taç giyme töreninin televizyonda yayınlanması, Britanya monarşisi için büyük bir kırılmaydı. Royal.uk, törenin ilk kez televizyonla yayınlandığını ve yalnız Birleşik Krallık’ta yaklaşık 27 milyon kişinin izlediğini aktarır. Bu, monarşiyi yalnız Westminster Abbey’deki törensel bir kurum olmaktan çıkarıp oturma odalarına giren bir medya olayına dönüştürdü. Görünürlük, meşruiyeti genişletti; fakat aynı anda halkın daha fazla yakınlık beklemesine de yol açtı.\n\nThe Crown bu dönüşümü çoğu zaman aile üyelerinin kamera karşısında nasıl göründüğü üzerinden dramatize eder. Tarihsel açıdan daha önemli olan nokta şudur: televizyon, monarşinin mesafe üzerinden kurduğu otoriteyi kısmen yeniden pazarlığa açtı. Taç artık yalnız görülmeyen bir sembol değil, yönetilmesi gereken bir görüntüydü.\n\n### Kontrollü açıklık\n\n1969’da yayımlanan Royal Family belgeseli bu gerilimi daha da büyüttü. Royal.uk’in 1969 Noel yayını notu, o yıl özel bir Royal Family belgeseli hazırlandığı için Kraliçe’nin geleneksel Christmas Broadcast yapmadığını aktarır. Belgesel sarayı daha “insan” göstermeyi hedefliyordu; aile sofrası, gündelik konuşmalar ve perde arkası görüntülerle monarşi modernleşiyor gibi görünüyordu. Fakat bu açıklık riskliydi. Kurum çok sıradan görünürse büyüsünü kaybedebilir, çok kapalı kalırsa çağ dışı algılanabilirdi.\n\nBu nedenle sarayın medya dili zamanla daha hesaplı hale geldi. Röportajlar, resmi fotoğraflar, televizyon mesajları ve belgesel erişimleri birer protokol meselesine dönüştü. Monarşi, görünürlükten kaçamadığını kabul etti; ama görünürlüğün hızını ve bağlamını kontrol etmeye çalıştı.\n\n### Tabloid çağı ve kriz iletişimi\n\n1980’lerden itibaren tabloid rekabeti ve paparazzi kültürü bu dengeyi zorladı. Diana dönemi, medya ilişkisinin artık yalnız tören yayınlarıyla sınırlı olmadığını gösterdi. Özel hayat, evlilik krizi, röportajlar ve basın takibi anayasal kurumun meşruiyet tartışmasına bağlandı. 1997’de Diana’nın ölümünden sonra Kraliçe’nin televizyon konuşması, modern monarşide sessizliğin bile siyasi anlam taşıyabildiğini gösteren kritik bir örnektir.\n\nThe Crown medya krizlerini kişisel çatışma olarak yoğunlaştırır; tarihsel tablo ise daha kurumsaldır. Saray, 20. yüzyıl boyunca görünürlük ile mesafe arasında bir denge aradı. Başarılı olduğunda televizyon törenleri meşruiyet üretti; başarısız olduğunda tek bir fotoğraf, röportaj veya gecikmiş açıklama güven krizine dönüşebildi. Bu yüzden saray ve medya ilişkisi yalnız magazin tarihi değildir. Modern anayasal monarşinin kamuoyuyla yaptığı sürekli sözleşmenin ana alanlarından biridir.",
+        "accuracyNote": "Dizi medya krizlerini karakter dramına yoğunlaştırır; 1953 taç giyme yayını, 1969 Royal Family belgeseli ve 1997 Diana konuşması ise monarşinin kontrollü görünürlük stratejisinin gerçek dönemeçleridir.",
+        "whyInteresting": "Monarşi modernleşmek için kameraya ihtiyaç duydu; aynı kamera özel hayatı ve krizleri de kamu mülküne dönüştürdü.",
+        "misconception": "Kraliyet ailesinin medyadan tamamen uzak yaşadığı sanılır; 20. yüzyılın ikinci yarısında saray bilinçli ama kırılgan bir görünürlük stratejisi geliştirdi.",
+        "relatedCardIds": [
+          "tf26-181-constitutional-role",
+          "tf26-187-public-grief",
+          "tf26-190-privacy"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "mediaConnection": "The Crown’un televizyon ve basın sahneleri, 1953 taç giyme yayını, 1969 Royal Family belgeseli ve Diana dönemi medya krizleriyle birlikte okununca daha netleşir.",
+        "mediaChanged": "Dizi medya baskısını aile içi çatışma olarak dramatize eder; tarihsel süreçte saray, tören yayını, belgesel erişimi, basın ofisi ve kriz konuşmalarıyla uzun vadeli bir görünürlük yönetimi kurdu.",
+        "whyItMatters": "Medya çağında monarşinin meşruiyeti yalnız ritüele değil, o ritüelin hangi görüntüyle ve hangi hızda halka ulaştığına da bağlı hale geldi.",
+        "quickRealityCheck": "1953 taç giyme yayını monarşiyi güçlendirdi mi, yoksa halkın daha fazla özel erişim beklemesini de başlattı mı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Royal.uk - 50 facts about Queen Elizabeth II's Coronation",
+            "url": "https://www.royal.uk/50-facts-about-queen-elizabeth-iis-coronation",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Royal.uk - Christmas Broadcast 1969",
+            "url": "https://www.royal.uk/christmas-broadcast-1969",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Royal.uk - A speech by The Queen following the death of Diana, Princess of Wales",
+            "url": "https://www.royal.uk/speech-following-death-diana-princess-wales",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-186-prime-ministers",
+      "reviewStatus": "rewrite",
+      "notes": "Tekrarlı realHistory blokları ve bozuk whyItMatters temizlendi; başbakan görüşmeleri gizli siyasi diyalog değil, danışma/uyarma teamülü ve tarafsızlık sınırı içinde yeniden yazıldı.",
+      "fields": {
+        "subtitle": "Haftalık görüşme, gizli iktidar değil teamül",
+        "whatWeSee": "The Crown, Churchill’den Thatcher’a uzanan başbakan görüşmelerini sarayın en dramatik rutinlerinden biri gibi gösterir. Kapalı odada iki kişi konuşur; izleyici devletin yönünün bazen bu özel diyaloglarda değiştiğini hisseder. Dizi bu sahneleri karakter çatışması için güçlendirir. Gerçek teamül ise daha sınırlıdır: hükümdar günlük siyaseti yürütmez, fakat başbakanla düzenli ve gizli görüşerek danışılma, teşvik etme ve uyarma alanında kalır.",
+        "realHistory": "Britanya anayasal monarşisinde hükümet yetkisi seçilmiş başbakan ve kabine tarafından kullanılır. Hükümdar devlet sürekliliğini temsil eder; başbakanı atar, parlamentoyu açar, yasalara Royal Assent verir ve hükümet belgeleri üzerinden devlet işlerinden haberdar edilir. Ancak bu resmi görevler, hükümdarın bağımsız bir siyasi program yürüttüğü anlamına gelmez.\n\nRoyal.uk, hükümdarın başbakanla haftalık audience yaptığını, bu görüşmelerde siyasi olarak tarafsız kalmakla birlikte bakanlarını ve başbakanını gerektiğinde “advise and warn” çizgisinde uyarabildiğini belirtir. Görüşmeler tamamen özeldir; bu yüzden The Crown’daki diyalogların büyük kısmı tarihsel tutanak değil dramatik yorumdur. Bu gizlilik, monarşinin tarafsızlık sermayesini korumak için önemlidir: görüşmenin etkisi olabilir, ama görünür parti siyasetine dönüşmemelidir.\n\nII. Elizabeth’in uzun saltanatı boyunca çok farklı başbakanlarla çalışması, bu teamülün değerini artırdı. Churchill, Eden, Wilson, Thatcher, Blair ve sonraki başbakanlar farklı krizler getirdi; ancak monarşinin kurumsal çizgisi aynı kaldı. Başbakan karar verir, hükümdar tavsiyede bulunabilir ama siyasi sorumluluğu üstlenmez. The Crown ilişkiyi kişisel gerilimle anlatır; tarihsel okuma ise yazılı olmayan kuralların nasıl istikrar ürettiğini gösterir.",
+        "accuracyNote": "Haftalık başbakan görüşmesi ve gizlilik teamülü gerçektir; dizideki özel diyaloglar, tonlar ve çatışmalar dramatik yeniden kurmadır.",
+        "whyInteresting": "Britanya sisteminin en etkili rutinlerinden biri, kamuya açık karar değil kayıt dışı ama sınırlı bir danışma alanı olarak işler.",
+        "misconception": "Hükümdarın başbakanlarla günlük siyaseti yönettiği sanılır; pratikte rol tarafsızlık, bilgi alma ve sınırlı danışma teamülüyle çevrilidir.",
+        "relatedCardIds": [
+          "tf26-181-constitutional-role",
+          "tf26-184-royal-media",
+          "tf26-187-public-grief"
+        ],
+        "tags": [
+          "monarsi",
+          "the-crown",
+          "ingiltere",
+          "basbakanlarla-iliski",
+          "true-frame"
+        ],
+        "mediaConnection": "The Crown’un başbakan görüşmeleri, Royal.uk’in haftalık audience teamülü ve UK Parliament’in Crown-Parliament ilişkisiyle birlikte okunmalıdır.",
+        "mediaChanged": "Dizi kapalı görüşmeleri karakter çatışmasına dönüştürür; tarihsel teamül ise siyasi karar yetkisinin hükümette, danışma ve uyarı alanının hükümdarda kaldığı daha sınırlı bir düzen kurar.",
+        "whyItMatters": "Yazılı olmayan anayasal teamüller, modern demokrasilerde görünen kurumlar kadar istikrar üretebilir.",
+        "quickRealityCheck": "The Crown’daki başbakan görüşmeleri gerçek tutanak mı, yoksa gizli teamülü dramatize eden olası konuşmalar mı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Royal.uk - The Sovereign and the Prime Minister",
+            "url": "https://www.royal.uk/the-sovereign-and-the-prime-minister",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "UK Parliament - Parliament and Crown",
+            "url": "https://www.parliament.uk/about/how/role/relations-with-other-institutions/parliament-crown/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "UCL Constitution Unit - What is the role of the monarchy?",
+            "url": "https://www.ucl.ac.uk/social-historical-sciences/constitution-unit/constitution-unit-publications/constitution-unit-explainers/what-role-monarchy",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-187-public-grief",
+      "reviewStatus": "rewrite",
+      "notes": "Tekrarlı Diana yas blokları temizlendi; kamu yasının medya, protokol, canlı yayın konuşması ve sembolik uyum baskısıyla monarşi krizine dönüşmesi daha net kuruldu.",
+      "fields": {
+        "subtitle": "Diana’nın ardından yas, protokolü nasıl zorladı?",
+        "whatWeSee": "The Crown’da Diana’nın ölümü, yalnız aile trajedisi değil, monarşinin kamu duygusuyla ilişkisinin kırılma anı olarak anlatılır. Sarayın ilk sessizliği, halkın çiçeklerle kurduğu yas dili ve televizyon kameralarının sürekli varlığı aynı krizi büyütür. Dizi bu dönemi kişisel suçluluk ve kurum refleksi arasında dramatize eder; tarihsel olarak da 1997, modern monarşinin empati beklentisiyle yüzleştiği en sert eşiklerden biriydi.",
+        "realHistory": "31 Ağustos 1997’de Diana, Paris’teki kazada öldüğünde Britanya’da kamusal yas hızla geleneksel protokolün dışına çıktı. Kensington Palace ve Buckingham Palace çevresinde çiçekler, notlar ve kalabalıklar birikti; medya yayın akışını günlerce bu yasın çevresinde kurdu. Halkın beklentisi, yalnız resmi cenaze düzeni değil, sarayın duygusal olarak görünür olmasıydı.\n\nSarayın ilk günlerde daha mesafeli ve aile içi yas odaklı kalması, televizyon çağında “soğukluk” gibi okundu. Royal.uk’in yayımladığı konuşma kaydı, Kraliçe’nin 5 Eylül 1997’de Diana’nın ölümünden sonra televizyonla ulusa seslendiğini gösterir. Bu konuşma, yalnız taziye değil, kurumun halkla bağını yeniden kurma hamlesiydi. Duygusal beklenti o kadar büyüktü ki bayrak, tören dili, çocukların korunması ve Kraliçe’nin Londra’ya dönüş zamanlaması bile anayasal sembol tartışmasına dönüştü.\n\nThe Crown bu çatışmayı saray içi karar anlarıyla yoğunlaştırır. Tarihsel tabloda ise kamusal yas daha geniş bir medya olayıdır: canlı yayın, tabloid baskısı, Tony Blair’in “people’s princess” çerçevesi ve halkın kendiliğinden oluşturduğu ritüeller birlikte etkili oldu. 1997 krizi, modern monarşinin yalnız tarafsızlıkla değil, zamanında ve inandırıcı empati gösterebilme kapasitesiyle de değerlendirileceğini gösterdi.",
+        "accuracyNote": "Diana’nın ölüm tarihi, Kraliçe’nin 5 Eylül 1997 televizyon konuşması ve kamusal yas dalgası belgelenmiştir; The Crown iç konuşmaları ve karar süreçlerini dramatik olarak yeniden kurar.",
+        "whyInteresting": "Özel bir ölüm, medya çağında kurumun halkla duygusal sözleşmesini test eden anayasal bir krize dönüştü.",
+        "misconception": "Kraliyet ailesinin halkın duygusuna her zaman otomatik ve hızlı yanıt verdiği sanılır; 1997’de gecikme algısı bizzat krizin parçası oldu.",
+        "relatedCardIds": [
+          "tf26-184-royal-media",
+          "tf26-190-privacy",
+          "tf26-181-constitutional-role"
+        ],
+        "mediaConnection": "The Crown’un Diana yas sahneleri, Kraliçe’nin 1997 televizyon konuşması ve halkın saray önünde oluşturduğu kendiliğinden yas ritüelleriyle tarihsel zemine oturur.",
+        "mediaChanged": "Dizi krizi aile içi suçluluk ve karar sahnelerine indirger; tarihsel süreçte medya döngüsü, halkın çiçekli yas dili, başbakanın siyasi çerçevesi ve sarayın protokol esnekliği birlikte belirleyiciydi.",
+        "whyItMatters": "Kamusal yas, modern monarşide meşruiyetin yalnız gelenekle değil, halkın duygusal beklentisine zamanında cevap verebilmekle de kurulduğunu gösterir.",
+        "quickRealityCheck": "Diana’nın ölümünden sonra sorun yalnız sarayın ne yaptığı mıydı, yoksa ne kadar hızlı ve ne kadar görünür yaptığı mı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Royal.uk - A speech by The Queen following the death of Diana, Princess of Wales",
+            "url": "https://www.royal.uk/speech-following-death-diana-princess-wales",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Encyclopaedia Britannica - Diana, princess of Wales",
+            "url": "https://www.britannica.com/biography/Diana-princess-of-Wales",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Guardian - The death of Princess Diana: a week that rocked Britain",
+            "url": "https://www.theguardian.com/uk-news/2017/aug/31/death-of-diana-the-week-that-rocked-britain",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-188-royal-finance",
+      "reviewStatus": "flagship_rewrite",
+      "notes": "Flagship kart kısa ve tekrarlıydı; Civil List/Sovereign Grant geçişi, Crown Estate, Duchy ayrımı, restorasyon/şeffaflık tartışması ve diziyle medya algısı başlıklarıyla genişletildi.",
+      "fields": {
+        "subtitle": "Taç bütçesi: kamu parası, mülk geliri ve şeffaflık",
+        "whatWeSee": "The Crown kraliyet finansmanını çoğu zaman saray masrafı, protokol yükü ve kamuoyu eleştirisi üzerinden hissettirir. Görkemli törenler ve büyük mülkler ekranda gelenek gibi görünür; haber dilinde ise aynı şey bütçe, vergi ve hesap verebilirlik tartışmasına dönüşür. Dizi rakamları anlatmaz ama önemli bir soruyu açar: modern bir anayasal monarşinin maliyeti nasıl açıklanır?",
+        "realHistory": "### Civil List’ten Sovereign Grant’e\n\nBritanya monarşisinin finansmanı tek bir “kraliyet kendi parasını harcar” ya da “tamamen vergiyle yaşar” cümlesine indirgenemez. 1760’tan itibaren Crown Estate gelirlerinin devlete aktarılması karşılığında hükümdarın resmi görevleri için Civil List düzeni kullanıldı. 2012’den sonra bu yapı Sovereign Grant sistemine dönüştü. Sovereign Grant, hükümdarın resmi görevleri, çalışan personel, resmi seyahatler ve işgal edilen kraliyet saraylarının bakımı gibi kalemleri karşılamak için kullanılır.\n\nCrown Estate kişisel kraliyet mülkü gibi düşünülmemelidir. Gelirleri hükümete gider; Sovereign Grant ise bu gelirlerle bağlantılı formül üzerinden belirlenir ve Parlamento denetimiyle kamusal muhasebeye girer. Bu ayrım, kraliyet finansmanı tartışmalarının merkezindedir: sembolik kurumun giderleri kamu hesabında görünür, fakat bazı özel gelir ve mülk başlıkları ayrı hukuki düzenlere bağlıdır.\n\n### Kamu gideri ve özel gelir ayrımı\n\nKraliyet finansmanında Sovereign Grant dışında Duchy of Lancaster ve Duchy of Cornwall gibi farklı gelir kaynakları da vardır. Bunlar resmi görevleri ve aile üyelerinin bazı masraflarını destekleyen ayrı yapılardır. Taç mücevherleri, Crown Estate, kişisel mülkler ve resmi saray bakımı aynı sepete atıldığında tartışma kolayca bulanır. The Crown’un görsel dili de bazen bu bulanıklığı artırır: seyirci sarayı, serveti ve devleti tek bir görüntüde görür.\n\nGerçekte mesele hem muhasebe hem meşruiyettir. Buckingham Palace yenilemeleri, resmi seyahat masrafları ve personel giderleri kamuoyunda düzenli tartışma yaratır. Savunucular monarşinin diplomasi, turizm ve ulusal marka değeri ürettiğini vurgular. Eleştirmenler ise maliyet, ayrıcalık ve şeffaflık sorularını öne çıkarır. Bu tartışma, monarşinin yalnız tören değil kamu bütçesiyle ilişkili bir kurum olduğunu hatırlatır.\n\n### Neden politik hale gelir?\n\nKraliyet finansmanı özellikle ekonomik kriz dönemlerinde daha görünür hale gelir. Halkın yaşam maliyeti artarken saray restorasyonu veya resmi seyahat kalemi sembolik olarak büyür. Bu yüzden finansman tartışması yalnız “kaç para?” sorusu değildir; kurumun ne kadar hesap verebilir olduğu, hangi gelirlerin kamusal sayıldığı ve geleneksel ayrıcalığın demokratik denetimle nasıl bağdaştırıldığı sorusudur.\n\nThe Crown bu alanı çoğu zaman arka plan olarak kullanır; tarihsel okuma ise finansmanı modern monarşinin en somut meşruiyet testlerinden biri yapar. Taç hem semboldür hem bütçe satırıdır. Bu ikisini ayırmadan monarşinin bugünkü tartışmasını anlamak mümkün değildir.",
+        "accuracyNote": "Civil List’ten Sovereign Grant’e geçiş, Crown Estate gelir yapısı ve resmi harcama kalemleri kaynaklıdır. Dizi mali yapıyı dramatik arka plan yapar; gerçek tartışma yıllık raporlar, Parlamento açıklamaları ve kamu denetimi üzerinden yürür.",
+        "whyInteresting": "Kraliyet finansmanı, geleneksel sembolün modern kamu muhasebesiyle nasıl yan yana yaşamak zorunda kaldığını gösterir.",
+        "misconception": "Kraliyet ailesinin tamamen kendi servetiyle ya da tamamen doğrudan vergiyle finanse edildiği sanılır; gerçek yapı Crown Estate, Sovereign Grant, özel gelirler ve resmi gider ayrımıyla daha karmaşıktır.",
+        "relatedCardIds": [
+          "tf26-181-constitutional-role",
+          "tf26-184-royal-media",
+          "tf26-190-privacy"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "mediaConnection": "The Crown’un saray masrafı imgeleri, Sovereign Grant raporları ve Crown Estate yapısıyla birlikte okununca monarşinin mali boyutu daha doğru anlaşılır.",
+        "mediaChanged": "Dizi masrafı protokol ve ihtişam üzerinden gösterir; resmi kaynaklar finansmanı Sovereign Grant, Crown Estate gelirleri, resmi görev harcamaları ve ayrı özel gelir başlıklarıyla ayırır.",
+        "whyItMatters": "Anayasal monarşi demokratik düzende varlığını sürdürüyorsa, sembolik değer kadar kamuya açıklanabilir mali yapı da meşruiyetin parçasıdır.",
+        "quickRealityCheck": "Saray masrafı denince Crown Estate, Sovereign Grant ve kişisel kraliyet serveti aynı şey mi sayılmalı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Royal.uk - Sovereign Grant",
+            "url": "https://www.royal.uk/sovereign-grant",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "UK Government - Sovereign Grant recalculated as offshore wind profits rise",
+            "url": "https://www.gov.uk/government/news/sovereign-grant-recalculated-as-offshore-wind-profits-rise",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "UK Parliament Research Briefing - Royal finances",
+            "url": "https://commonslibrary.parliament.uk/research-briefings/sn05758/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Crown Estate - Official website",
+            "url": "https://www.thecrownestate.co.uk/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-189-empire-memory",
+      "reviewStatus": "rewrite",
+      "notes": "Generic subtitle ve bozuk tag temizlendi; The Crown’un saray merkezli imparatorluk hafızası anlatısı dekolonizasyon, Süveyş, Windrush ve müze/iade tartışmalarıyla daha kaynaklı hale getirildi.",
+      "fields": {
+        "subtitle": "Saray töreni, sömürge sonrası hafızayı örter mi?",
+        "whatWeSee": "The Crown’da imparatorluk hafızası genellikle resmi ziyaretler, Commonwealth törenleri, konuşmalar ve aile içi krizlerin arka planında belirir. Saray geçmişin sürekliliğini korumaya çalışır; değişen dünya ise bu sembollerin neyi unutturduğunu sorgular. Dizi bu gerilimi duygusal ve politik bir atmosfer olarak iyi kurar, fakat sömürge sonrası şiddet ve yurttaşlık tartışmalarını doğal olarak daha dar gösterir.",
+        "realHistory": "İkinci Dünya Savaşı sonrası Britanya’da imparatorluk hafızası yalnız nostalji konusu değildi; dış politika, göç, vatandaşlık ve ulusal kimlik tartışmalarının aktif bir parçasıydı. 1947’de Hindistan ve Pakistan’ın bağımsızlığıyla hızlanan dekolonizasyon, 1956 Süveyş Krizi’nde Britanya’nın küresel güç kapasitesinin sınırlarını açık biçimde gösterdi. Buna rağmen devlet söyleminde “dünya rolü” fikri tamamen kaybolmadı. Commonwealth, bu rolün daha yumuşak ve daha az doğrudan bir diplomatik çerçevesi olarak çalıştı.\n\nMonarşi bu geçişte sembolik süreklilik üretti. Kraliyet turları, Commonwealth toplantıları, anma törenleri ve televizyon konuşmaları parçalanan imparatorluk coğrafyasını ortak bir hikâyede tutmaya çalıştı. Fakat bu hikâye eşit biçimde hatırlanmadı. Kenya, Malaya, Kıbrıs ve başka bölgelerdeki sert dekolonizasyon süreçleri, “barışçıl çekilme” anlatısının sınırlarını gösterdi. Arşivlerin açılmasıyla gözaltı, zorla yer değiştirme ve baskı pratikleri daha görünür hale geldi.\n\nWindrush kuşağı ve sonraki vatandaşlık tartışmaları, imparatorluk mirasının geçmişte kalmadığını kanıtladı. Kimlerin Britanyalı sayıldığı, hangi belgelerin geçerli görüldüğü ve hangi emeklerin ulusal hikâyeye dahil edildiği hâlâ bu hafızayla bağlantılıdır. Müze koleksiyonları, eser iadesi ve heykel tartışmaları da aynı soruyu maddi kültür üzerinden sürdürür: imparatorluk yalnız törenlerde hatırlanan bir geçmiş mi, yoksa bugünkü eşitlik ve temsil meselelerinin kökü mü?\n\nThe Crown bu büyük tartışmaya saray penceresinden bakar. True Frame okumasında merkez, hangi acıların kamusal tanınma bulduğu ve hangi sembollerin geçmişle hesaplaşmayı ertelediğidir.",
+        "accuracyNote": "Dizi imparatorluk sonrası atmosferi semboller ve aile ilişkileri üzerinden verir; dekolonizasyon şiddeti, Windrush ve müze/iade tartışmaları ise daha geniş tarihsel bağlam gerektirir.",
+        "whyInteresting": "Bir ülkenin bugünkü kimlik tartışması, geçmişten hangi başarıları ve hangi zararları kamusal hafızaya aldığıyla doğrudan bağlantılıdır.",
+        "misconception": "İmparatorluk hafızasının yalnız eski törenler, nostalji ve saray protokolünden ibaret olduğu sanılır.",
+        "relatedCardIds": [
+          "tf26-183-commonwealth",
+          "tf26-184-royal-media",
+          "tf26-190-privacy"
+        ],
+        "tags": [
+          "monarsi",
+          "the-crown",
+          "ingiltere",
+          "imparatorluk-hafizasi",
+          "true-frame"
+        ],
+        "mediaConnection": "The Crown’un tören ve Commonwealth dili, National Archives dekolonizasyon kaynakları ve Süveyş/Windrush bağlamıyla birlikte okununca daha eleştirel bir çerçeve kazanır.",
+        "mediaChanged": "Dizi odağı saray ve aile ilişkilerine verir; tarihsel tartışmada dekolonizasyon şiddeti, göçmen yurttaşlık hakları ve kamusal tanınma mücadeleleri daha belirleyici ağırlık taşır.",
+        "whyItMatters": "İmparatorluk hafızasını doğru okumak, bugünkü temsil, vatandaşlık, müze ve eşitlik tartışmalarının tarihsel köklerini görünür kılar.",
+        "quickRealityCheck": "Süveyş’ten sonra jeopolitik güç gerilerken imparatorluk dili hangi semboller ve kurumlar üzerinden yaşamaya devam etti?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "UK National Archives - End of Empire",
+            "url": "https://www.nationalarchives.gov.uk/education/resources/end-of-empire/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "UK National Archives - Suez Crisis 1956",
+            "url": "https://www.nationalarchives.gov.uk/education/sessions/suez-crisis-1956/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "UK National Archives - The Empire Windrush",
+            "url": "https://www.nationalarchives.gov.uk/education/resources/the-empire-windrush/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Encyclopaedia Britannica - Decolonization and the loss of empire",
+            "url": "https://www.britannica.com/place/United-Kingdom/Decolonization-and-the-loss-of-empire",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-190-privacy",
+      "reviewStatus": "rewrite",
+      "notes": "Tekrarlı cümleler ve generic subtitle temizlendi; mahremiyet/görev gerilimi televizyon, başbakan görüşmeleri, Diana dönemi ve kontrollü şeffaflık üzerinden netleştirildi.",
+      "fields": {
+        "subtitle": "Özel hayat kamu görevine dönüşünce",
+        "whatWeSee": "The Crown, kraliyet mahremiyetini aile içi çatışma, basın baskısı ve görev duygusu üzerinden anlatır. Kapalı kapılar ardındaki konuşmalar, ertesi gün gazete manşetine dönüşebilir; kişisel acı ise kurumun meşruiyet testine bağlanır. Dizi bu gerilimi dramatik sahnelerle görünür kılar. Gerçek tarih de aynı soruyu tekrar tekrar sordu: hükümdar ve ailesi ne kadar özel kalabilir?",
+        "realHistory": "20. yüzyıl Britanya monarşisi, radyo ve televizyonla birlikte görünürlüğünü artırırken mahremiyet sınırlarını da yeniden tanımlamak zorunda kaldı. Taç giyme töreninin televizyona açılması, Christmas Broadcast geleneği ve resmi fotoğraf stratejileri halkla bağ kurmayı kolaylaştırdı. Ancak görünürlük arttıkça özel alanın haber değeri de büyüdü. Aile içi boşanma, sağlık, çocuklar, romantik ilişkiler ve kriz yönetimi artık yalnız özel hayat değil, kurumun kamu algısını etkileyen meselelerdi.\n\nAnayasal açıdan hükümdarın siyasi tarafsızlığı ve başbakanla görüşmelerin gizliliği hâlâ temel teamüldür. Royal.uk, hükümdarın başbakanla haftalık görüşmelerinin tamamen özel olduğunu belirtir. Bu gizlilik kişisel mahremiyetten çok anayasal işleyiş içindir: hükümdarın tarafsız danışma alanı ancak kamu polemiğine dönüşmediğinde korunabilir.\n\nDiana dönemi ise aile mahremiyetinin tabloid çağında ne kadar kırılgan olduğunu gösterdi. Röportajlar, paparazzi takibi ve 1997’deki kamusal yas, sarayın “never complain, never explain” çizgisinin her kriz için yeterli olmadığını ortaya koydu. The Crown bu kırılmayı aile dramı olarak kurar; tarihsel bağlamda mesele daha geniştir. Modern monarşi, mahremiyeti tamamen koruyamaz; ama her şeyi açarsa sembolik mesafesini kaybedebilir.\n\nBu nedenle mahremiyet ve görev arasındaki çizgi sabit değildir. Medya teknolojisi, kamu beklentisi ve kriz anı değiştikçe yeniden çizilir. Monarşinin güncel zorluğu da burada yatar: görünmez kalmak için bile profesyonel medya yönetimi yapmak gerekir.",
+        "accuracyNote": "Dizi özel konuşmaları ve aile içi gerilimleri dramatize eder; başbakan görüşmelerinin gizliliği, medya görünürlüğü ve Diana dönemi mahremiyet krizi ise kaynaklı tarihsel bağlama sahiptir.",
+        "whyInteresting": "Anayasal monarşide mahremiyet yalnız aile hakkı değil, kurumun tarafsızlığı ve meşruiyetiyle bağlantılı siyasi bir kaynaktır.",
+        "misconception": "Kraliyet ailesinin tamamen kapalı ve medyadan bağımsız yaşadığı sanılır; televizyon çağından beri kurum, kontrollü görünürlükle ayakta kalır.",
+        "relatedCardIds": [
+          "tf26-184-royal-media",
+          "tf26-187-public-grief",
+          "tf26-186-prime-ministers"
+        ],
+        "mediaConnection": "The Crown’un Diana, Charles ve saray içi kriz sahneleri, Royal.uk’in başbakan görüşmesi gizliliği ve 20. yüzyıl kraliyet medya stratejileriyle birlikte okunabilir.",
+        "mediaChanged": "Dizi mahremiyeti iç monolog ve kapalı oda sahneleriyle görünür kılar; gerçek kurum çoğu krizi perde arkasında, basın ofisi ve protokol diliyle yönetmeye çalıştı.",
+        "whyItMatters": "Modern monarşi, kamu güvenini korumak için neyin halkın bilme hakkı, neyin anayasal gizlilik ve aile mahremiyeti olduğunu sürekli yeniden ayarlamak zorundadır.",
+        "quickRealityCheck": "Kraliyet mahremiyeti kişisel bir ayrıcalık mı, yoksa tarafsızlık ve anayasal işleyiş için gerekli bir perde mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Royal.uk - The Sovereign and the Prime Minister",
+            "url": "https://www.royal.uk/the-sovereign-and-the-prime-minister",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Royal.uk - Christmas Broadcast 1969",
+            "url": "https://www.royal.uk/christmas-broadcast-1969",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Royal.uk - A speech by The Queen following the death of Diana, Princess of Wales",
+            "url": "https://www.royal.uk/speech-following-death-diana-princess-wales",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-191-plague-spread",
+      "reviewStatus": "rewrite",
+      "notes": "Kart güçlüydü ama kaynak ve çerçeve daha netleştirildi; Y. pestis, pire/kemirgen döngüsü, ticaret yolları ve pnömonik bulaş ayrı katmanlar halinde yazıldı.",
+      "fields": {
+        "subtitle": "Veba haritası, mikrop kadar ticaret haritasıydı",
+        "whatWeSee": "Kara Veba temalı yapımlarda salgın genellikle haritada hızla kararan şehirler, ceset arabaları ve limandan limana yayılan ölüm olarak görünür. Bu görsel dil güçlüdür; çünkü 14. yüzyıl insanı için veba gerçekten de anlaşılmaz ve durdurulamaz bir felaket gibiydi. Ancak tarihsel yayılımı yalnız “kirli şehir” ya da “fareler” diye okumak eksik kalır.",
+        "realHistory": "Kara Veba’nın etkeni Yersinia pestis bakterisidir. CDC, insanların çoğunlukla enfekte kemirgen pirelerinin ısırığıyla veya enfekte hayvanlarla temas ederek hastalandığını belirtir. Orta Çağ’daki salgında bu biyolojik döngü, Akdeniz ve Karadeniz ticareti, savaş, liman trafiği ve kentler arası hareketle birleşti. Bu yüzden salgın haritası aynı zamanda ticaret ve ulaşım haritasıydı.\n\n1347’den itibaren Karadeniz bağlantılı ticaret yolları ve Akdeniz limanları Avrupa’daki erken yayılımda kritik rol oynadı. Gemiler yalnız insan taşımıyordu; tahıl, kumaş, hayvan ürünü, kargo ve kemirgen ekolojisini de hareket ettiriyordu. Hastalık bir limana ulaştığında, şehir içi yoğunluk ve kırsal bağlantılar yeni dalgalar üretti. Bazı durumlarda pnömonik veba gibi akciğeri tutan ve damlacık yoluyla insandan insana bulaşabilen formlar da yayılımı hızlandırabildi.\n\nModern genetik çalışmalar, Kara Veba’nın Y. pestis ile bağlantısını güçlü biçimde destekler; Nature’da yayımlanan antik DNA çalışmaları, Orta Çağ kurbanlarından elde edilen bakteri genetiğinin bu bağlantıyı netleştirdiğini gösterdi. Ancak “hangi yol en baskındı?” sorusunun cevabı bölgeye göre değişebilir. Kemirgen-pire döngüsü, insan hareketi, iklim, ticaret ve sosyal panik aynı sistemin parçalarıydı.\n\nOrta Çağ insanı bakteriyi bilmediği için kötü hava, ilahi ceza, yabancılar veya komplo söylentileriyle açıklama aradı. Yapımlar çoğu zaman korkuyu doğru yakalar; tarihsel ders ise daha sistemiktir: salgınlar mikrop kadar ulaşım ağı, bilgi eksikliği ve toplumsal tepkiyle de yayılır.",
+        "accuracyNote": "Yersinia pestis bağlantısı güçlü biçimde desteklenir; ancak 14. yüzyıl yayılımında pire-kemirgen döngüsü, insan hareketi ve pnömonik bulaşın ağırlığı bölgeye göre değişebilir.",
+        "whyInteresting": "Kara Veba, bir hastalığın biyoloji ile ticaret ağları birleştiğinde nasıl kıtasal felakete dönüşebileceğini gösterir.",
+        "misconception": "Kara Veba’nın yalnız farelerden ya da yalnız kirli şehirlerden yayıldığı sanılır; gerçekte pireler, kemirgenler, insan hareketi, limanlar ve bazı durumlarda solunum yoluyla bulaş birlikte rol oynadı.",
+        "readingTimeMinutes": 2,
+        "mediaConnection": "Kara Veba temalı harita ve liman sahneleri, CDC’nin veba bulaş yolları ve antik DNA çalışmalarının Y. pestis bulgularıyla birlikte okunmalıdır.",
+        "mediaChanged": "Yapımlar ani ölüm ve karanlık sokak estetiğini öne çıkarır; tarihsel tablo ise liman ticareti, kemirgen ekolojisi, insan hareketi ve yanlış açıklamalarla daha katmanlıdır.",
+        "whyItMatters": "Salgınları anlamak için yalnız hastalığa değil, onu taşıyan ekonomi, ulaşım ve bilgi ortamına da bakmak gerekir.",
+        "quickRealityCheck": "Kara Veba sadece farelerden mi yayıldı, yoksa ticaret yolları ve insan hareketi de salgının ana motorlarından biri miydi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "CDC - About Plague",
+            "url": "https://www.cdc.gov/plague/about/index.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "CDC - How Plague Spreads",
+            "url": "https://www.cdc.gov/plague/causes/index.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Nature - A draft genome of Yersinia pestis from victims of the Black Death",
+            "url": "https://www.nature.com/articles/nature10549",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Encyclopaedia Britannica - Black Death",
+            "url": "https://www.britannica.com/event/Black-Death",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-192-quarantine",
+      "reviewStatus": "flagship_rewrite",
+      "notes": "Flagship karttaki Venice/Dubrovnik zaman çizgisi netleştirildi; trentina/quarantina ayrımı, Venedik lazaretto kurumlaşması ve liman-ticaret dengesi başlıklı yapıyla yeniden yazıldı. Spoiler düzeyi de general içerik için none yapıldı.",
+      "fields": {
+        "subtitle": "Kırk gün kuralı limanda nasıl doğdu?",
+        "whatWeSee": "Kara Veba temalı yapımlarda karantina çoğu zaman bir gecede kapanan şehir kapıları ve açıkta bekletilen gemilerle gösterilir. Bu görüntü dramatik olarak doğrudur: salgın korkusu liman kentlerini sert kararlar almaya zorladı. Fakat tarihsel karantina, ani panik kilidinden çok ticareti tamamen durdurmadan riski yavaşlatmaya çalışan idari bir liman teknolojisiydi.",
+        "realHistory": "### Trentina’dan quarantina’ya\n\n“Karantina” kelimesi kırk gün anlamındaki İtalyanca quaranta giorni ile ilişkilidir; fakat uygulama bir günde ve tek şehirde tam biçimiyle doğmadı. CDC’nin Emerging Infectious Diseases dergisindeki tarihsel değerlendirme, karantinanın ilk kez 1377’de Dubrovnik/Ragusa’da uygulandığını ve gelen kişilerin başlangıçta otuz gün anlamındaki trentina düzeniyle izole edildiğini aktarır. Daha sonra kırk günlük bekleme, Akdeniz liman dünyasında standartlaşan bir süre haline geldi.\n\nBu ayrım önemlidir. Orta Çağ kentleri bakteriyi bilmiyordu; ama hastalığın yolculukla, gemiyle ve temasla ilişkili olduğunu gözlemliyordu. Bu yüzden amaç mikrobu bilimsel olarak yok etmek değil, şüpheli yolcu ve yükü belirli süre ayrı tutarak ölüm ve belirti gelişimini beklemekti. Kırk gün hem dini ve sembolik çağrışımlara sahipti hem de pratik olarak bulaş şüphesi taşıyanların belirti göstermesine zaman tanıyordu.\n\n### Venedik ve lazaretto sistemi\n\nVenedik, karantinayı daha kurumsal hale getiren merkezlerden biriydi. CDC/EID kaynağı, Venedik Cumhuriyeti’nin 1423’te Santa Maria di Nazareth adasında ilk kalıcı veba hastanesini, yani lazaretto’yu açtığını aktarır. Bu sistem yalnız gemileri bekletmekten ibaret değildi. Yolcu, mürettebat, kargo ve önceki liman bilgileri izleniyor; şüpheli kişiler adalarda tutuluyor; mallar havalandırma, güneşletme veya dönemin “arındırma” pratiklerinden geçiriliyordu.\n\nKarantina aynı zamanda ekonomi politikasıydı. Limanı tamamen kapatmak ticaret devletleri için yıkıcı olurdu. Bu nedenle karantina, salgın korkusu ile ticari devamlılık arasında orta yol aradı. Tüccarlar gecikmelerden şikâyet etti, yerel güç sahipleri istisna istedi, yoksul denizciler ve yolcular daha ağır bekleme koşullarına maruz kaldı. Uygulama her zaman adil değildi; ama salgın yönetimini kayıt, süre ve yetki üzerinden kurumsallaştırdı.\n\n### Modern ders\n\nFilmler karantinayı genellikle sur kapısı ve panik sahnesiyle anlatır. Tarihsel gerçeklik daha bürokratiktir: liman meclisleri, sağlık görevlileri, bekleme adaları, kargo kayıtları ve istisna pazarlıkları. Bu yüzden karantina, yalnız Orta Çağ korkusu değil, modern sınır sağlığı ve uluslararası seyahat kurallarının erken atasıdır.\n\nKara Veba’nın dünyasında insanlar Y. pestis’i bilmiyordu; yine de hareketin hastalığı taşıdığını sezerek bir yönetim biçimi geliştirdiler. Bu yönetim kusurluydu, eşitsizdi ve sık sık delindi. Buna rağmen salgınla ticaret arasındaki dengeyi kurmaya çalışan ilk büyük kurumsal deneylerden biri olarak kalıcı etki bıraktı.",
+        "accuracyNote": "Dubrovnik/Ragusa’da 1377 trentina uygulaması, kırk günlük quarantina standardının sonraki gelişimi ve Venedik lazaretto sistemi kaynaklıdır. Filmler bu uzun kurumsallaşmayı çoğu zaman tek bir şehir kilidi gibi sıkıştırır.",
+        "whyInteresting": "Karantina, hastalık bilgisinin sınırlı olduğu bir çağda bile kentlerin gözlem, süre ve kayıtla risk yönetimi icat edebildiğini gösterir.",
+        "misconception": "Karantinanın Kara Veba ile aynı anda her yerde kırk günlük standart olarak başladığı sanılır; gerçekte uygulama liman liman, otuz günlük izolasyondan kırk günlük kurala doğru olgunlaştı.",
+        "relatedCardIds": [
+          "tf26-191-plague-spread",
+          "tf26-193-flagellants",
+          "tf26-194-antisemitism"
+        ],
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "none",
+        "spoilerNote": "",
+        "mediaConnection": "Liman kapanışı sahneleri, Dubrovnik/Ragusa’nın 1377 izolasyon düzeni ve Venedik’in 1423 lazaretto sistemiyle birlikte okunduğunda karantinanın gerçek kökeni daha netleşir.",
+        "mediaChanged": "Yapımlar karantinayı anlık şehir kilidi olarak gösterir; tarihsel süreçte karantina, sağlık kurulları, liman kayıtları, bekleme adaları ve ticari istisnalarla yürüyen uzun bir idari deneydi.",
+        "whyItMatters": "Karantina tarihi, salgın yönetiminin yalnız tıp değil, sınır, ticaret, kayıt ve eşitlik meselesi olduğunu hatırlatır.",
+        "quickRealityCheck": "Karantina gerçekten baştan kırk günlük ve tek tip bir uygulama mıydı, yoksa Ragusa’dan Venedik’e uzanan kademeli bir liman politikası mıydı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "CDC Emerging Infectious Diseases - Lessons from the History of Quarantine, from Plague to Influenza A",
+            "url": "https://wwwnc.cdc.gov/eid/article/19/2/12-0312_article",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "CDC Emerging Infectious Diseases - Osler and the Infected Letter",
+            "url": "https://wwwnc.cdc.gov/eid/article/11/5/04-0616_article",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Encyclopaedia Britannica - Quarantine",
+            "url": "https://www.britannica.com/science/quarantine",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

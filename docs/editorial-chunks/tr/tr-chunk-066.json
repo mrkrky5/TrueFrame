@@ -1,0 +1,293 @@
+{
+  "locale": "tr",
+  "chunkIndex": 66,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-124-messengers",
+      "title": "Cephe Habercileri",
+      "subtitle": "Cephe habercisi: telefon yok, insan var",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "era": "Modern Tarih",
+      "region": "Avrupa",
+      "themes": [
+        "Savaş",
+        "Teknoloji",
+        "Cephe"
+      ],
+      "whatWeSee": "1917'de Schofield ve Blake, durdurulması gereken saldırı emrini iletmek için ölüm tehlikesi altında cephe boyunca koşar. Film mesajı tek geceye sıkıştırır; izleyici haberleşmenin hayat kurtardığını hisseder. Kamera bombardıman altında koşan habercinin çamurlu hendeği aşmasını, kopmuş telefon hattını ve tek bir emrin tabur kaderini değiştirdiği saniyeyi gösteriyor.",
+      "realHistory": "I. Dünya Savaşı'nda cephe haberleşmesi telefon, telgraf ve insan kuryeye dayanıyordu. Siper hatları kesildiğinde koşucu ve bisikletli haberciler kritikti. Yanlış veya geciken emir binlerce ölüme yol açtı (Somme öncesi örnekler). 1917 filmi kurgusal bir görev üzerine kurulu ama mekanizma gerçek: komuta zinciri kırılınca cephe kendi başına kalırdı. Radyo henüz yaygın değildi; güvenilir iletişim lojistik zaferdi. Haberci genç askerlerden seçilirdi; kayıp oranı yüksekti. Birinci Dünya Savaşı siperlerinde haberleşme, teknoloji ile insan dayanıklılığının kırılgan bir bileşimiydi. Telefon hatları topçu ateşiyle sürekli koptuğu için emirler çoğu zaman koşucu haberciler, motosikletliler, işaret fişekleri ve güvercinlerle taşındı. Habercinin rotası yalnız hız değil arazi bilgisi, sis yoğunluğu ve düşman keskin nişancı tehdidine göre belirlenirdi. Tek bir mesajın gecikmesi, saldırı dalgasının yanlış zamanda başlamasına veya dost ateşine neden olabilirdi. Bu nedenle komutanlık, görünmez iletişim emekçilerini savaş planının merkezine koymak zorunda kaldı. Cephe Habercileri Birinci Dünya Savaşı'nda cephe haberleşmesi telefon, telgraf ve insan kuryeye dayanıyordu. Siper koşucuları genellikle aynı emrin birkaç kopyasını taşır, biri vurulursa diğeri farklı rota üzerinden birliğe ulaşsın diye ayrılırdı. Gece iletiminde parola zinciri ve ışık işaretleri kullanıldı. Haberleşme koptuğunda topçu-piyade koordinasyonu dakikalar içinde ölümcül dost ateşine çok hızla dönebiliyordu.",
+      "accuracyNote": "Haberleşme yöntemleri IWM kayıtlarıyla uyumludur; film görevi kurgusaldır.",
+      "whyInteresting": "Aynı cephede en yavaş teknoloji en hayati olabiliyordu.",
+      "misconception": "Modern radyo her zaman vardı; I. Dünya Savaşı'nda insan kurye kritikti.",
+      "nextTopics": [
+        "Siper Yaşamı",
+        "Topçu Ateşi",
+        "Sahipsiz Bölge"
+      ],
+      "sources": [
+        {
+          "title": "WWI communications (Imperial War Museum)",
+          "url": "https://www.iwm.org.uk/history/first-world-war",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Trench warfare command (Britannica)",
+          "url": "https://www.britannica.com/event/trench-warfare",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Battle of the Somme (UK National Archives)",
+          "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/first-world-war/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "1917-trenches",
+        "1917-trench-comms-real"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "1917'nin mesaj koşusu ile I. Dünya Savaşı cephe haberleşmesi ve kurye sistemleri.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "birinci-dunya-savasi",
+        "siper",
+        "1917",
+        "cephe-habercileri",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "1917 hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film tek mesajı gerilim motoru yapar; gerçekte binlerce emir gün boyu taşındı.",
+      "whyItMatters": "Aynı cephede en yavaş teknoloji en hayati olabiliyordu.",
+      "isFlagship": true,
+      "quickRealityCheck": "Telefon hattı kesilince komuta nasıl devam etti?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-126-shell-shock",
+      "title": "Savaş Travması",
+      "subtitle": "Savaş Travması hakkında yanlış bilinen",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "era": "Modern Tarih",
+      "region": "Avrupa",
+      "themes": [
+        "Savaş",
+        "Teknoloji",
+        "Cephe"
+      ],
+      "whatWeSee": "1917'de Schofield yol boyunca yaralı, titreyen ve konuşamayan askerlerle karşılaşır. Film savaş travmasını görsel olarak verir ama tıbbi terim veya hastane sürecine girmez; travma siperde anlık dehşet olarak sunulur. İzleyici siperin dibinde titreyen askeri, uzakta bitmeyen top seslerini ve arkadaşlarının onu sessizce güvenli noktaya taşımaya çalıştığı kırılgan anı görüyor.",
+      "realHistory": "I. Dünya Savaşı'nda 'shell shock' (sonra savaş nevrozları, PTSD) kitlesel bir fenomen haline geldi. Somme ve Passchendaele gibi cephelerde sürekli topçu ateşi, siper yaşamı ve ölüm korkusu askerlerde felç, titreme, körlük ve konuşma kaybına yol açtı. Britanya ordusu başta 'korkaklık' saydı; bazıları idam edildi. Dr. W.H.R. Rivers ve Craiglockhart hastanesi (Sassoon ve Owen) tedaviyi yeniden çerçeveledi: travma psikolojik ve fiziksel bir yaraydı. Toplam vaka sayısı yüz binleri buldu; cephe geri çekilen askerler lojistik yük oluşturdu. 1917 filmi bu gerçekliği tek gecede yoğunlaştırır; tarihsel kayıtlar yıllar süren savaş yorgunluğunu gösterir. Shell shock, modern savaşın insan maliyetini görünür kılan kavramlardan biri oldu ve II. Dünya Savaşı'ndan sonra PTSD araştırmalarına zemin hazırladı. Birinci Dünya Savaşı'nda shell shock terimi, sürekli bombardıman altında kalan askerlerde görülen titreme, konuşma kaybı, kabus ve ani panik tepkilerini tanımlamak için kullanıldı. İlk yıllarda bazı komutanlar bunu disiplin zaafı sayıp cezai yaklaşımlar benimsedi, ancak vaka sayısı arttıkça tıbbi yorum güç kazandı. Cepheye yakın dinlenme merkezleri, kısa süreli müdahale ve birliğe kontrollü dönüş yöntemleri geliştirildi. Bu deneyim, modern travma psikiyatrisi için dönüm noktası oldu. Savaş sonrası toplumlar, görünür yaralar kadar görünmeyen zihinsel hasarın da kalıcı olduğunu kabul etmeye başladı. Savaş Travması",
+      "accuracyNote": "Shell shock belgelenmiş tıbbi ve askeri bir krizdir; film spesifik vaka anlatmaz.",
+      "whyInteresting": "Aynı semptomlar hem tıbbi kriz hem komuta krizi olarak okundu.",
+      "misconception": "Savaş travması yeni bir icattır; I. Dünya Savaşı onu kitlesel ölçeğe taşıdı.",
+      "nextTopics": [
+        "Siper Yaşamı",
+        "Topçu Ateşi",
+        "Sahipsiz Bölge"
+      ],
+      "sources": [
+        {
+          "title": "Shell shock (Britannica)",
+          "url": "https://www.britannica.com/science/shell-shock",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "WWI psychological trauma (Imperial War Museum)",
+          "url": "https://www.iwm.org.uk/history/first-world-war",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Wilfred Owen (Britannica)",
+          "url": "https://www.britannica.com/biography/Wilfred-Owen",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-127-colonial-troops",
+        "tf26-128-war-horses",
+        "tf26-129-armistice"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "1917'nin yaralı asker sahneleri ile I. Dünya Savaşı shell shock vakaları ve Craiglockhart tedavisi.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "birinci-dunya-savasi",
+        "siper",
+        "1917",
+        "savas-travmasi",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "1917 hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film travmayı anlık görüntülerle verir; hastane kayıtları yıllar süren tedavi ve damgalanma sürecini gösterir.",
+      "whyItMatters": "Aynı semptomlar hem tıbbi kriz hem komuta krizi olarak okundu.",
+      "isFlagship": false,
+      "quickRealityCheck": "Shell shock başta neden disiplin suçu sayıldı?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-127-colonial-troops",
+      "title": "Sömürge Askerleri",
+      "subtitle": "Sömürge askerleri: imparatorluk cephesi",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "era": "Modern Tarih",
+      "region": "Avrupa",
+      "themes": [
+        "Savaş",
+        "Teknoloji",
+        "Cephe"
+      ],
+      "whatWeSee": "1917'de İngiliz askerleri cephede; film sömürge askerlerini doğrudan göstermez ama I. Dünya Savaşı'nın imparatorluk ordusu olduğunu hatırlatır. Schofield ve Blake'in görevi, Hindistan'dan Kanada'ya uzanan cephenin bir parçasıdır. Sahnede farklı üniformalı sömürge birlikleri çamurlu hatta ilerlerken, komuta çadırındaki haritalar ve tercüman emirleri imparatorluk savaşının çok dilli yüzünü açıyor.",
+      "realHistory": "I. Dünya Savaşı'nda Britanya İmparatorluğu milyonlarca sömürge askeri seferber etti. Hindistan'dan yaklaşık 1,5 milyon asker; Afrika, Avustralya, Kanada ve Karayipler'den yüz binler cepheye gitti. Sömürge birlikleri Gallipoli, Somme ve Doğu Afrika'da savaştı. Motivasyonlar karmaşıktı: sadakat, ücret, zorunluluk. Irk hiyerarşisi rütbe ve görev dağılımına yansıdı. 1917 filmi bu genişliği göstermez; odak iki İngiliz gencindedir. Tarihsel kayıtlar sömürge askerlerinin kayıp oranlarını ve eve dönüş sonrası siyasi etkilerini (ör. Hint bağımsızlık hareketi) belgeler. İmparatorluk ordusu, savaşın görünmeyen omurgasıydı. Birinci Dünya Savaşı cephelerinde imparatorluk orduları, Avrupa dışından getirilen milyonlarca sömürge askerine dayanıyordu. Hintli, Kuzey Afrikalı, Batı Afrikalı ve Karayipli birlikler farklı iklimlere, dillerine yabancı komuta zincirlerine ve çoğu zaman ayrımcı lojistik koşullara uyum sağladı. Propaganda afişleri sadakat ve imparatorluk birliği vurgulasa da ücret, rütbe ve izin haklarında belirgin eşitsizlikler vardı. Cephe deneyimi bu askerlerde yeni siyasi bilinç yarattı; dönüşte milliyetçi hareketlerle bağ kuran birçok gazi ortaya çıktı. Savaş, sömürge düzeninin askeri gücünü kullanırken meşruiyetini de aşındırdı. Sömürge Askerleri Birinci Dünya Savaşı'nda Britanya İmparatorluğu milyonlarca sömürge askeri seferber etti. Hint ve Afrikalı birlikler Batı Cephesi'nde soğuk iklime hazırlıksız yakalandı; kıyafet ve erzak standartları geç güncellendi. Mektuplar sansürden geçtiği için cephe deneyimi ailelere eksik aktarıldı. Savaş sonunda vaat edilen siyasi hakların gecikmesi, sömürge karşıtı örgütlenmeleri hızlandıran önemli bir kırılma yarattı.",
+      "accuracyNote": "Sömürge asker sayıları Commonwealth War Graves ve resmi kayıtlarla uyumludur.",
+      "whyInteresting": "Aynı savaş hem imparatorluk sadakati hem bağımsızlık tohumları ekti.",
+      "misconception": "Savaş yalnızca Avrupalı askerlerin savaşıydı.",
+      "nextTopics": [
+        "Siper Yaşamı",
+        "Topçu Ateşi",
+        "Sahipsiz Bölge"
+      ],
+      "sources": [
+        {
+          "title": "Indian Army WWI (Imperial War Museum)",
+          "url": "https://www.iwm.org.uk/history/the-indian-army-in-the-first-world-war",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Commonwealth forces WWI (Britannica)",
+          "url": "https://www.britannica.com/event/World-War-I",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "WWI colonial troops (UK National Archives)",
+          "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/first-world-war/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-124-messengers",
+        "tf26-128-war-horses"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "1917'nin Britanya cephesi ile I. Dünya Savaşı sömürge asker seferberliği ve Hint Cephe Birlikleri.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "birinci-dunya-savasi",
+        "siper",
+        "1917",
+        "somurge-askerleri",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "1917 hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film tek uluslu cephe izlenimi verir; gerçekte ordunun dörtte biri sömürgelerdendi.",
+      "whyItMatters": "Aynı savaş hem imparatorluk sadakati hem bağımsızlık tohumları ekti.",
+      "isFlagship": false,
+      "quickRealityCheck": "Hindistan'dan kaç asker I. Dünya Savaşı'na katıldı?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-128-war-horses",
+      "title": "Savaş Atları",
+      "subtitle": "Savaş atı: romantik değil, lojistik",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "era": "Modern Tarih",
+      "region": "Avrupa",
+      "themes": [
+        "Savaş",
+        "Teknoloji",
+        "Cephe"
+      ],
+      "whatWeSee": "1917'de atlar, romantik süvari ikonlarından çok çamur, topçu ateşi ve ikmal koridorlarında tükenen varlıklar olarak görünür. Görünümleri kısa ama sarsıcıdır: askerler imkansız zaman baskısı altında haber ve malzeme taşırken bedenleri harap arazide zorlanır. Film, topçu ve makineli tüfeklerle endüstriyel bir savaşta bile hayvan emeğinin cephenin günlük işleyişini ayakta tuttuğunu ima eder.",
+      "realHistory": "I. Dünya Savaşı çoğu zaman makineli tüfek, ağır top ve tankla hatırlanır; fakat cephenin günlük işleyişi hâlâ büyük ölçüde atlara, katırlara ve nalbant ağına bağlıydı. Demiryolu malzemeyi cephe gerisine kadar taşıyabiliyor, motorlu araçlar bazı hatlarda işe yarıyordu; ama kraterlerle parçalanmış yollar, çamur ve topçu ateşi altında son kilometre çoğu zaman hayvan gücüyle aşılabiliyordu.\n\nBatı Cephesi’nde top mermisi, erzak, su, kereste, tel örgü ve tıbbi malzeme cepheye ulaştırılmadan modern ateş gücü sürdürülemezdi. Bu yüzden ordular sadece asker değil; yem, ahır, veteriner, nalbant ve yeniden at temin eden depolar da organize etti. Hayvanlar bombardıman, hastalık, açlık, aşırı çalışma ve kötü hava koşulları nedeniyle büyük kayıplar verdi. Bir topun susması bazen mühimmat eksikliğinden değil, o mühimmatı çamurun içinden çekecek hayvan zincirinin kırılmasından kaynaklanabiliyordu.\n\n1917 filminde atlar romantik süvari ikonları gibi değil, harap olmuş arazide tükenen canlı lojistik unsurları gibi görünür. Bu küçük görüntü tarihsel olarak önemlidir: savaş sanayileşmişti, ama tamamen motorize olmamıştı. Modern topçu sistemi bile çoğu yerde sanayi öncesi enerjiye, yani hayvan emeğine yaslanıyordu.",
+      "accuracyNote": "Film hayvan emeğini kısa ama doğru bir atmosferle gösterir; gerçek ölçekte ise bu, milyonlarca hayvanı, yem tedarikini, veteriner hizmetini ve cephe lojistiğini kapsayan dev bir sistemdi.",
+      "whyInteresting": "Cephedeki en modern topçu sistemleri bile çoğu zaman son kilometrede at, katır, veteriner ve nalbant ağına bağımlıydı.",
+      "misconception": "I. Dünya Savaşı, yaygın hayvan gücüne dayalı lojistiğe rağmen çoğu kez tamamen motorize sanılır.",
+      "nextTopics": [
+        "Siper Yaşamı",
+        "Topçu Ateşi",
+        "Sahipsiz Bölge"
+      ],
+      "sources": [
+        {
+          "title": "Animals in WWI (Imperial War Museums)",
+          "url": "https://www.iwm.org.uk/history/animals-in-the-first-world-war",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Cavalry in World War I (Britannica)",
+          "url": "https://www.britannica.com/topic/cavalry",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Horses in the Great War (Australian War Memorial)",
+          "url": "https://www.awm.gov.au/articles/encyclopedia/horses",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "1917-trenches",
+        "tf26-124-messengers"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "1917 kasvetli tonu doğru yakalar; askeri arşivler hayvan taşımacılığına çok daha büyük bir sistemik bağımlılık gösterir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "birinci-dunya-savasi",
+        "siper",
+        "1917",
+        "savas-atlari",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "1917 hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film atları atmosferik bir kanıt olarak kullanır; tarihsel ordular ise onları sürekli bir lojistik altyapı olarak ele alıyordu.",
+      "whyItMatters": "Savaş atları, endüstriyel savaşın yalnız makinelerle değil, kırılgan canlı lojistik zincirleriyle de yürüdüğünü hatırlatır.",
+      "isFlagship": true,
+      "quickRealityCheck": "I. Dünya Savaşı gerçekten tamamen motorize miydi, yoksa ateş gücünü cepheye hâlâ atlar ve katırlar mı taşıyordu?",
+      "lastReviewedAt": "2026-06-27"
+    }
+  ]
+}

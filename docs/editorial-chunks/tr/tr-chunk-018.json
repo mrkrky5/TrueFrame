@@ -1,0 +1,376 @@
+{
+  "locale": "tr",
+  "chunkIndex": 18,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "ac-valhalla-settlement",
+      "title": "Viking Yerleşimleri ve Kültürel Kaynaşma",
+      "subtitle": "Assassin’s Creed Valhalla ve İngiltere’deki Viking mirasının gerçek yüzü.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Valhalla",
+      "mediaConnection": "Bu kart, oyundaki Viking yerleşimi (Ravensthorpe) üzerinden 9. yüzyıl İngiltere’sindeki Danelaw dönemini inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (British Museum, Jorvik Viking Centre, Britannica)",
+      "whatWeSee": "Eivor ve klanı, Norveç’i terk edip İngiltere’de kendi köylerini kurarlar. Diğer Sakson krallıklarıyla bazen savaşarak, bazen ittifak yaparak topraklarını genişletirler.",
+      "realHistory": "9. yüzyılın sonundaki Viking yerleşimleri, sadece yağmacıların sığındığı kamplar değil, Kuzey Avrupa'nın çehresini değiştiren kalıcı ve organize topluluklardı. İngiltere'de 'Danelaw' adı verilen bölge, Viking yasalarının (Danelag) geçerli olduğu, İskandinav ve Anglo-Sakson kültürlerinin iç içe geçtiği devasa bir alandı. Vikingler buraya sadece kılıçlarıyla değil, tarım aletleri, yeni dokuma teknikleri ve ticari ağlarıyla gelmişlerdi. Yerleşim birimleri (burh), hem savunma amaçlı tahkimatlarla korunuyor hem de bölgesel ticaretin merkezi haline geliyordu. Bu dönemde kurulan köylerin isimleri bugün hala İngiltere haritasında '-by' (Grimsby, Derby gibi) ekiyle yaşamaktadır. Viking yerleşimciler, yerel halkla evlilikler yaparak ve Hristiyanlığa geçerek İngiliz kimliğinin oluşumunda en az Saksonlar kadar büyük bir rol oynamışlardır.\n\nKayıtlara göre İskandinav topluluklarında kadınlar mülk edinebiliyor ve boşanma davası açabiliyordu; bu haklar birçok Hristiyan krallığındaki düzenlemelerden daha genişti.\n\n10. yüzyıla gelindiğinde Viking toplulukları İngiltere'nin en başarılı tüccarları ve şehir kurucuları arasına yerleşmişti.",
+      "accuracyNote": "Oyun, yerleşim birimi kurma (settlement building) mekaniği ile Vikinglerin 'ev kurma' arzusunu çok iyi yansıtır. Ancak Vikinglerin yerli halkla olan ilişkisi oyunun sunduğundan çok daha karmaşıktı; her zaman bir 'ittifak-savaş' ikilemi değil, bazen nesiller süren yavaş bir entegrasyon süreciydi. Ayrıca Vikinglerin dövmeleri ve kürk kıyafetleri popüler kültürün bir etkisi olup, arkeolojik olarak bu kadar gösterişli bir dış görünüşe dair kanıtlar kısıtlıdır.",
+      "whyInteresting": "Viking yerleşimlerinde kadınların mülkiyet hakkına sahip olabildiği ve boşanma davası açabildiği bilinmektedir. Bu, o dönemin Avrupa'sındaki birçok Hristiyan krallığından çok daha ileri bir toplumsal statüdür.",
+      "misconception": "Vikinglerin sadece \"istilacı\" olduğu sanılır; oysa onlar 10. yüzyıla gelindiğinde İngiltere’nin en başarılı tüccarları ve şehir kurucularıydılar.",
+      "themes": [
+        "Vikingler",
+        "Orta Çağ",
+        "İngiltere"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "The Danelaw - British Museum",
+          "url": "https://www.britishmuseum.org/collection/viking-britain",
+          "type": "archive"
+        },
+        {
+          "title": "Viking Age England - Britannica",
+          "url": "https://www.britannica.com/place/Danelaw",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "ac-syndicate-london",
+        "ac-valhalla-vikings"
+      ],
+      "nextTopics": [
+        "Danelaw",
+        "Büyük Alfred",
+        "Jorvik"
+      ],
+      "difficulty": "deep",
+      "era": "Orta Çağ",
+      "region": "İngiltere",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "assassins-creed-val",
+        "ingiltere",
+        "orta-cag",
+        "vikingler"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Assassin's Creed Valhalla sahne diliyle konuyu yoğunlaştırır; kayıtlar ise aynı konuyu daha parçalı bir çerçevede anlatır.",
+      "whyItMatters": "Bu başlık, bu, o dönemin Avrupa'sındaki birçok Hristiyan krallığından çok daha ileri bir toplumsal statüdür fikrini medya anlatısından ayrı okumayı sağlar.",
+      "quickRealityCheck": "Vikinglerin sadece \"istilacı\" olduğu denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "total-war-attila-collapse",
+      "title": "Roma’nın Çöküşü: Bir Süreç Olarak Yıkım",
+      "subtitle": "Total War: Attila ve İmparatorluğun neden bir gecede yıkılmadığının hikayesi.",
+      "mediaType": "game",
+      "mediaTitle": "Total War: Attila",
+      "mediaConnection": "Bu kart, oyundaki Roma’nın çöküş mekanikleri üzerinden 5. yüzyıl krizlerini inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (Gibbon Archive, MET, Britannica)",
+      "whatWeSee": "Roma İmparatorluğu, iç isyanlar, ekonomik çöküş, iklim değişikliği ve Hun akınları altında yavaş yavaş parçalanır. Oyuncu, bu kaçınılmaz sonu geciktirmeye çalışır.",
+      "realHistory": "Batı Roma İmparatorluğu'nun çöküşü, 476 yılında bir gecede yaşanan bir olay değil, yüzyıllara yayılan sistemik bir çözülme sürecidir. Bu sürecin en büyük tetikleyicilerinden biri, 4. ve 5. yüzyıllarda yaşanan iklim değişikliğidir; 'Geç Antik Küçük Buzul Çağı' olarak adlandırılan bu dönem, kuzeydeki kabileleri açlık nedeniyle güneye, Roma sınırlarına göç etmeye zorlamıştır. Hunların (Attila önderliğinde) baskısı, bu göç dalgasını (Kavimler Göçü) durdurulamaz bir çığ haline getirmiştir. Roma, bu yeni gelen kitleleri ya ordusuna dahil ederek (foederati) ya da sınırlarda iskan ederek kontrol etmeye çalışmış; ancak bu durum merkezi otoritenin zayıflamasına ve Roma ordusunun 'barbarlaşmasına' neden olmuştur. İçerideki ekonomik çöküş, vergi sisteminin bozulması ve bitmek bilmeyen iç savaşlar, Roma'nın bu devasa baskıya karşı koymasını imkansız kılmıştır.\n\nAttila, 'Tanrı'nın Kırbacı' olarak anılmasına rağmen, aslında Roma kültürüyle çok yakından tanışıktı ve Roma sarayında bir rehine olarak eğitim almıştı.\n\nOnun stratejisi sadece yakıp yıkmak değil, Roma'dan muazzam miktarda altın haraç alarak kendi imparatorluğunu finanse etmekti.\n\nYaygın bir izlenim, Roma’nın bir günde yıkıldığı olduğudur; kayıtlar ise Roma kültürü, yasaları ve dili, imparatorluk siyasi olarak bittikten sonra bile yüzyıllarca yaşamaya devam etmiştir.",
+      "accuracyNote": "Total War: Attila, iklim değişikliği ve göç mekanikleriyle bu süreci en iyi anlatan oyunlardan biridir. Ancak Roma'nın çöküşü sadece askeri bir yenilgi değil, aynı zamanda kültürel ve idari bir dönüşümdü. Batı Roma yıkıldıktan sonra bile Roma kurumları ve yasaları, yeni kurulan Cermen krallıklarında yaşamaya devam etmiştir.",
+      "whyInteresting": "Attila, 'Tanrı'nın Kırbacı' olarak anılmasına rağmen, aslında Roma kültürüyle çok yakından tanışıktı ve Roma sarayında bir rehine olarak eğitim almıştı. Onun stratejisi sadece yakıp yıkmak değil, Roma'dan muazzam miktarda altın haraç alarak kendi imparatorluğunu finanse etmekti.",
+      "misconception": "Roma’nın bir günde yıkıldığı sanılır; oysa Roma kültürü, yasaları ve dili, imparatorluk siyasi olarak bittikten sonra bile yüzyıllarca yaşamaya devam etmiştir.",
+      "themes": [
+        "Roma",
+        "Savaş",
+        "Siyaset"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "The Fall of the Roman Empire - Peter Heather",
+          "url": "https://www.britannica.com/event/Fall-of-the-Roman-Empire",
+          "type": "book"
+        },
+        {
+          "title": "The Decline and Fall of the Roman Empire - Edward Gibbon",
+          "url": "https://www.gutenberg.org/files/890/890-h/890-h.htm",
+          "type": "archive"
+        }
+      ],
+      "relatedCardIds": [
+        "ac-origins-siwa"
+      ],
+      "nextTopics": [
+        "Attila",
+        "Hunlar",
+        "Enflasyon"
+      ],
+      "difficulty": "deep",
+      "era": "Antik Çağ",
+      "region": "Avrupa",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "antik-a",
+        "avrupa",
+        "roma",
+        "savas",
+        "siyaset",
+        "total-war-attila",
+        "antik-dnya"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Total War: Attila sahne diliyle konuyu yoğunlaştırır; kayıtlar ise aynı konuyu daha parçalı bir çerçevede anlatır.",
+      "whyItMatters": "Bu başlık, onun stratejisi sadece yakıp yıkmak değil, Roma'dan muazzam miktarda altın haraç alarak kendi imparatorluğunu finanse etmekti fikrini medya anlatısından ayrı okumayı sağlar.",
+      "quickRealityCheck": "Roma’nın bir günde yıkıldığı denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "aoe4-mongol-logistics",
+      "title": "Moğol Lojistiği ve Hızlı Haberleşme",
+      "subtitle": "Age of Empires IV ve Yam sisteminin imparatorluğu nasıl bir arada tuttuğu.",
+      "mediaType": "game",
+      "mediaTitle": "Age of Empires IV",
+      "mediaConnection": "Bu kart, oyundaki Moğol hareketliliği üzerinden tarihin ilk hızlı haberleşme ağı olan Yam sistemini inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (UNESCO, British Museum, Britannica)",
+      "whatWeSee": "Moğollar, haritada inanılmaz bir hızla hareket eder, binalarını paketleyip taşıyabilirler. Haberleşme ve hareket kabiliyetleri diğer medeniyetlerin çok üzerindedir.",
+      "realHistory": "Moğol İmparatorluğu'nun başarısının asıl sırrı, sadece atlı okçuları değil, dünyayı birbirine bağlayan muazzam lojistik ağıydı. Cengiz Han tarafından kurulan 'Yam' (posta) teşkilatı, tarihin ilk gerçek küresel iletişim sistemidir. Her 30-40 kilometrede bir kurulan menziller (istasyonlar), ulakların taze atlar bulmasını ve haberlerin günde 300 kilometre hızla yayılmasını sağlıyordu. Bu sistem o kadar güvenliydi ki, bir tarihçi 'bir genç kızın başında bir altın tepsiyle imparatorluğun bir ucundan diğerine hiçbir saldırıya uğramadan gidebileceğini' yazmıştır. Moğollar, fethettikleri yerlerdeki mühendisleri, zanaatkarları ve bilginleri bir yerden başka bir yere taşıyarak tarihin en büyük teknoloji transferini gerçekleştirmişlerdir. Barutun, kağıt paranın ve baskı tekniklerinin Çin'den Batı'ya ulaşması, bu Moğol Barışı (Pax Mongolica) sayesinde olmuştur.\n\nMoğol ulakları, at sürerken uyuyabilme yeteneğiyle tanınırlardı.\n\nVücutlarını eyerlere bağlayarak, menziller arasında hiç durmadan yol kat edebiliyorlardı.\n\nYaygın bir izlenim, Moğolların sadece yakıp yıktığı olduğudur; kayıtlar ise onlar tarihteki ilk \"küresel haberleşme devrimini\" gerçekleştirmişlerdir.\n\nBu konu, oyundaki Moğol hareketliliği üzerinden tarihin ilk hızlı haberleşme ağı olan Yam sistemini inceler.\n\nYaygın izlenim, Moğolların sadece yakıp yıktığı olduğudur; kayıtlar ise onlar tarihteki ilk \"küresel haberleşme devrimini\" gerçekleştirmişlerdir.",
+      "accuracyNote": "Age of Empires IV, Moğolların mobilite avantajını oyun mekaniklerine çok iyi yansıtır. Ancak Moğollar sadece bir 'akıncı' güç değil, aynı zamanda son derece bürokratik bir devlet yapısına sahiptiler. Nüfus sayımı yapma, vergi toplama ve din özgürlüğü tanıma gibi konularda o dönem için devrimsel politikalar izlemişlerdir.",
+      "whyInteresting": "Moğol ulakları, at sürerken uyuyabilme yeteneğiyle tanınırlardı. Vücutlarını eyerlere bağlayarak, menziller arasında hiç durmadan yol kat edebiliyorlardı.",
+      "misconception": "Moğolların sadece yakıp yıktığı sanılır; oysa onlar tarihteki ilk \"küresel haberleşme devrimini\" gerçekleştirmişlerdir.",
+      "themes": [
+        "Moğollar",
+        "Lojistik",
+        "İpek Yolu"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "The Mongol Yam System - UNESCO",
+          "url": "https://en.unesco.org/silkroad/content/mongol-postal-system",
+          "type": "article"
+        },
+        {
+          "title": "Genghis Khan and the Making of the Modern World - Jack Weatherford",
+          "url": "https://www.britannica.com/biography/Genghis-Khan",
+          "type": "book"
+        }
+      ],
+      "relatedCardIds": [
+        "shogun2-shinobi"
+      ],
+      "nextTopics": [
+        "Yam",
+        "Paiza",
+        "Cengiz Han"
+      ],
+      "difficulty": "deep",
+      "era": "Orta Çağ",
+      "region": "Asya",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "age-of-empires-iv",
+        "asya",
+        "ipek-yolu",
+        "lojistik",
+        "moollar",
+        "orta-cag"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Age of Empires IV sahne diliyle konuyu yoğunlaştırır; kayıtlar ise aynı konuyu daha parçalı bir çerçevede anlatır.",
+      "whyItMatters": "Bu başlık, vücutlarını eyerlere bağlayarak, menziller arasında hiç durmadan yol kat edebiliyorlardı fikrini medya anlatısından ayrı okumayı sağlar.",
+      "quickRealityCheck": "Moğolların sadece yakıp yıktığı denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "aoe2-castles-politics",
+      "title": "Kalerler: Sadece Savunma Değil, Siyasi Güç",
+      "subtitle": "Age of Empires II ve Orta Çağ kalelerinin gerçek fonksiyonu.",
+      "mediaType": "game",
+      "mediaTitle": "Age of Empires II",
+      "mediaConnection": "Bu kart, oyundaki kale inşası üzerinden kalelerin Orta Çağ’daki siyasi ve ekonomik rolünü inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (English Heritage, Britannica, BBC History)",
+      "whatWeSee": "Kalerler, haritadaki en güçlü binalardır; özel birimler üretir, devasa alanları korur ve yıkılması en zor yapılardır.",
+      "realHistory": "Orta Çağ kaleleri, sadece askeri savunma yapıları değil, feodal sistemin siyasi ve ekonomik kalbiydi. Bir kale, yerel lordun otoritesini simgeler, çevresindeki köylülerin (serf) emeğini denetler ve toplanan vergileri (tahıl, mal) koruma altına alırdı. Kalenin varlığı, o bölgenin sadece bir ordu tarafından değil, bir bürokrasi tarafından da kontrol edildiğini gösterirdi. Kaleler sadece dış düşmanlara karşı değil, aynı zamanda yerel halkın isyanlarına karşı da bir güvenlik kalesiydi. Kuşatma savaşları, kaleleri doğrudan yıkmaktan ziyade, içeridekileri aç bırakarak teslim olmaya zorlamak üzerine kuruluydu. Bu yüzden bir kalenin su kaynağı ve ambar kapasitesi, burçlarının yüksekliğinden çok daha önemliydi.\n\nBir kaleyi ele geçirmek o kadar zordu ki, bazen kuşatmacılar kalenin önüne kendi küçük 'şehirlerini' kurar ve orada yıllarca beklerlerdi.\n\nYaygın bir izlenim, Kalelerin sadece \"savaş zamanı\" kullanıldığı olduğudur; kayıtlar ise kaleler barış zamanında bölgenin en yoğun ekonomik ve idari merkezleridir.\n\nBu konu, oyundaki kale inşası üzerinden kalelerin Orta Çağ’daki siyasi ve ekonomik rolünü inceler.\n\nYaygın izlenim, Kalelerin sadece \"savaş zamanı\" kullanıldığı olduğudur; kayıtlar ise kaleler barış zamanında bölgenin en yoğun ekonomik ve idari merkezleridir.",
+      "accuracyNote": "Age of Empires II'de kaleler devasa savunma kuleleri gibi görünse de, gerçekte bir kalenin en büyük gücü 'lojistik' ve 'psikolojik'ti. Kalenin düşmesi, o bölgedeki tüm idari yapının çökmesi anlamına geliyordu. Ayrıca kaleler sadece taş yapılar değil, içinde yüzlerce insanın yaşadığı, fırınları, ahırları ve zanaat atölyeleri olan küçük birer şehir gibiydi.",
+      "whyInteresting": "Bir kaleyi ele geçirmek o kadar zordu ki, bazen kuşatmacılar kalenin önüne kendi küçük 'şehirlerini' kurar ve orada yıllarca beklerlerdi. Bazen de kaleyi düşürmek için içeriye hastalıklı hayvan leşleri atarak biyolojik savaş başlatırlardı.",
+      "misconception": "Kalelerin sadece \"savaş zamanı\" kullanıldığı sanılır; oysa kaleler barış zamanında bölgenin en yoğun ekonomik ve idari merkezleridir.",
+      "themes": [
+        "Orta Çağ",
+        "Mimari",
+        "Siyaset"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "Castles in Medieval England - English Heritage",
+          "url": "https://www.english-heritage.org.uk/visit/places/castle-acre-castle-and-priory/history/",
+          "type": "archive"
+        },
+        {
+          "title": "Medieval Castles - Britannica",
+          "url": "https://www.britannica.com/technology/castle-architecture",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "ac-valhalla-settlement"
+      ],
+      "nextTopics": [
+        "Feodalizm",
+        "Tahkimat",
+        "Kuşatma"
+      ],
+      "difficulty": "medium",
+      "era": "Orta Çağ",
+      "region": "Avrupa",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "age-of-empires-ii",
+        "avrupa",
+        "mimari",
+        "orta-cag",
+        "siyaset"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Age of Empires II bu konuyu sahne diliyle yoğunlaştırır; age of Empires II'de kaleler devasa savunma kuleleri gibi görünse de, gerçekte bir kalenin en büyük gücü 'lojistik' ve 'psikolojik'ti.",
+      "whyItMatters": "Bazen de kaleyi düşürmek için içeriye hastalıklı hayvan leşleri atarak biyolojik savaş başlatırlardı.",
+      "quickRealityCheck": "Kalelerin sadece \"savaş zamanı\" kullanıldığı denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "rdr-railroads-frontier",
+      "title": "Demiryolları ve Yerel Özgürlüğün Sonu",
+      "subtitle": "Red Dead Redemption ve Vahşi Batı’nın nasıl \"evcilleştirildiği\".",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "mediaConnection": "Bu kart, oyundaki demiryolu inşası ve kanun kaçakları üzerinden Vahşi Batı’nın son dönemini inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (National Archives, Smithsonian, Britannica)",
+      "whatWeSee": "Oyun, 1911 yılında geçer; otomobiller, demiryolları ve federal bürokrasi yavaş yavaş vahşi doğayı ve eski tarz kanun kaçaklarını yok etmektedir.",
+      "realHistory": "Vahşi Batı'nın sonu, silahşorların ölümüyle değil, demiryollarının gelişiyle gerçekleşmiştir. Demiryolları, sınır kasabalarını (frontier) merkezi ekonomiye bağlayarak vahşi ve kuralsız hayatı, kurumsallaşmış ve vergilendirilmiş bir düzene dönüştürmüştür. Bu süreç, yerel halk ve yerli kabileler için özgürlüğün sonu, büyük şirketler ve federal devlet için ise yeni bir çağın başlangıcıydı. Demiryolu şirketleri, Amerikan hükümetinden aldıkları devasa toprak hibeleri sayesinde ülkenin en güçlü siyasi aktörleri haline gelmiştir. Kasabalar artık kendi kanunlarını değil, demiryolu tarifelerini ve merkezi hukuk sistemini takip etmek zorundaydı. Bu durum, kovboyluk gibi geleneksel yaşam biçimlerinin hızla yok olmasına ve sanayileşmiş bir tarım modelinin doğmasına neden olmuştur.\n\nDemiryollarından önce ABD'de her kasabanın kendi yerel saati vardı.\n\nYaygın bir izlenim, Vahşi Batı’nın \"kanunsuzluktan\" dolayı bittiği olduğudur; kayıtlar ise Vahşi Batı, \"lojistik ve iletişim altyapısının\" gelmesiyle bitmiştir.\n\nBu konu, oyundaki demiryolu inşası ve kanun kaçakları üzerinden Vahşi Batı’nın son dönemini inceler.\n\nYaygın izlenim, Vahşi Batı’nın \"kanunsuzluktan\" dolayı bittiği olduğudur; kayıtlar ise Vahşi Batı, \"lojistik ve iletişim altyapısının\" gelmesiyle bitmiştir.\n\nSoruşturma ve arşiv belgeleri, vahşi Batı’nın \"kanunsuzluktan\" dolayı bittiği denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "accuracyNote": "Red Dead Redemption 2, demiryolu inşasının doğa ve insan üzerindeki yıkıcı etkisini çok başarılı bir şekilde işler. Oyunun sunduğu 'kanunsuzluktan düzene geçiş' sancısı, Amerikan tarihinin en gerçekçi tasvirlerinden biridir. Demiryolları sadece mal değil, aynı zamanda merkezi devletin 'şeriflerini' ve 'vergi memurlarını' da sınıra taşımıştır.",
+      "whyInteresting": "Demiryollarından önce ABD'de her kasabanın kendi yerel saati vardı. Tren seferlerini düzenlemek için 1883 yılında 'standart zaman dilimleri' (time zones) icat edilmiştir; bu da sanayinin insan zamanını nasıl ele geçirdiğinin bir kanıtıdır.",
+      "misconception": "Vahşi Batı’nın \"kanunsuzluktan\" dolayı bittiği sanılır; oysa Vahşi Batı, \"lojistik ve iletişim altyapısının\" gelmesiyle bitmiştir.",
+      "themes": [
+        "Vahşi Batı",
+        "Demiryolu",
+        "Modernleşme"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "The Transcontinental Railroad - National Archives",
+          "url": "https://www.archives.gov/milestone-documents/pacific-railway-act",
+          "type": "archive"
+        },
+        {
+          "title": "The End of the Frontier - Smithsonian",
+          "url": "https://www.smithsonianmag.com/history/how-railroad-changed-face-america-180971927/",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "lanoire-postwar-trauma",
+        "rdr2-frontier",
+        "rdr-pinkerton-agency"
+      ],
+      "nextTopics": [
+        "Sanayi Devrimi",
+        "Federal Hukuk",
+        "Standart Zaman"
+      ],
+      "difficulty": "deep",
+      "era": "Yakın Çağ",
+      "region": "Kuzey Amerika",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "demiryolu",
+        "kuzey-amerika",
+        "modernleme",
+        "red-dead-redemption",
+        "vahi-bat",
+        "yakn-a"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Red Dead Redemption bu konuyu sahne diliyle yoğunlaştırır; red Dead Redemption 2, demiryolu inşasının doğa ve insan üzerindeki yıkıcı etkisini çok başarılı bir şekilde işler.",
+      "whyItMatters": "Tren seferlerini düzenlemek için 1883 yılında 'standart zaman dilimleri' (time zones) icat edilmiştir; bu da sanayinin insan zamanını nasıl ele geçirdiğinin bir kanıtıdır.",
+      "quickRealityCheck": "Vahşi Batı’nın \"kanunsuzluktan\" dolayı bittiği denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "kcd-medieval-crime",
+      "title": "Orta Çağ’da Suç, Hukuk ve Cezalandırma",
+      "subtitle": "Kingdom Come: Deliverance ve 15. yüzyıl adalet sisteminin gerçekleri.",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "mediaConnection": "Bu kart, oyundaki hırsızlık, hapis ve kamuya açık infazlar üzerinden Orta Çağ hukukunu inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (Prague City Archives, Britannica, BBC History)",
+      "whatWeSee": "Oyunda suç işlediğinizde gardiyanlar tarafından yakalanır, para cezası öder veya hapse atılırsınız. Ciddi suçlar ise kamuya açık alanlarda kırbaçlanma veya asılma ile cezalandırılır.",
+      "realHistory": "Orta Çağ'da hukuk, sadece suçluyu cezalandırmak değil, tanrısal adaleti yeryüzünde tesis etmek ve bozulan toplumsal dengeyi onarmak üzerine kuruluydu. Dönemin hukuk sisteminde 'kanıt' kavramı bugünkünden çok farklıydı; bazen 'tanrısal yargı' (ordeal) yöntemiyle, yani suçlunun elini kaynar suya sokması veya ateşte yürümesi istenerek masumiyeti test edilirdi. Ancak 15. yüzyıla gelindiğinde, Roma hukukunun yeniden keşfiyle birlikte daha profesyonel mahkemeler ve yazılı kanunlar (özellikle Kutsal Roma İmparatorluğu'nda) yaygınlaşmaya başlamıştı. İdamlar, sadece bir cezalandırma değil, halka verilen büyük bir ahlaki dersti ve bu yüzden meydanlarda birer tiyatro oyunu gibi sergilenirdi. Küçük suçlar için 'utanç cezaları' (boyunduruk, teşhir edilme) kullanılır, toplumsal aşağılama en büyük yaptırım kabul edilirdi.\n\nOrta Çağ'da bazen hayvanlar bile mahkemeye çıkarılırdı.\n\nEkinlere zarar veren çekirgeler veya bir insana saldıran domuzlar, avukatlar eşliğinde yargılanabilir ve hatta aforoz edilebilirlerdi.\n\nYaygın bir izlenim, Orta Çağ’da her suçun ölümle cezalandırıldığı olduğudur; kayıtlar ise adalet sistemi genellikle ekonomik tazminat ve toplumsal dışlama üzerine kuruluydu.\n\nBu konu, oyundaki hırsızlık, hapis ve kamuya açık infazlar üzerinden Orta Çağ hukukunu inceler.",
+      "accuracyNote": "Kingdom Come: Deliverance, dönemin hukuksuzluğunu ve sosyal hiyerarşisini en doğru yansıtan oyunlardan biridir. Oyundaki bir lordun sözünün kanun sayılması, feodal yetki paylaşımının gerçekçi bir yansımasıdır. Ancak gerçekte, köylülerin bile belirli durumlarda lordlarına karşı kilise mahkemelerine veya kraliyet mahkemelerine başvurma hakkı vardı.",
+      "whyInteresting": "Orta Çağ'da bazen hayvanlar bile mahkemeye çıkarılırdı. Ekinlere zarar veren çekirgeler veya bir insana saldıran domuzlar, avukatlar eşliğinde yargılanabilir ve hatta aforoz edilebilirlerdi.",
+      "misconception": "Orta Çağ’da her suçun ölümle cezalandırıldığı sanılır; oysa adalet sistemi genellikle ekonomik tazminat ve toplumsal dışlama üzerine kuruluydu.",
+      "themes": [
+        "Orta Çağ",
+        "Hukuk",
+        "Toplum"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "Crime and Punishment in Medieval Europe - Britannica",
+          "url": "https://www.britannica.com/topic/legal-system/Medieval-law",
+          "type": "article"
+        },
+        {
+          "title": "Medieval Justice - BBC History",
+          "url": "https://www.bbc.co.uk/history/british/middle_ages/crime_01.shtml",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "ac-syndicate-london",
+        "kcd-bohemia",
+        "kcd2-medieval-law"
+      ],
+      "nextTopics": [
+        "Engizisyon",
+        "İşkence",
+        "Toplumsal Düzen"
+      ],
+      "difficulty": "medium",
+      "era": "Orta Çağ",
+      "region": "Avrupa",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "avrupa",
+        "hukuk",
+        "kingdom-come",
+        "orta-cag",
+        "toplum"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Kingdom Come: Deliverance sahne diliyle konuyu yoğunlaştırır; kayıtlar ise aynı konuyu daha parçalı bir çerçevede anlatır.",
+      "whyItMatters": "Bu başlık, ekinlere zarar veren çekirgeler veya bir insana saldıran domuzlar, avukatlar eşliğinde yargılanabilir ve hatta aforoz edilebilirlerdi fikrini medya anlatısından ayrı okumayı sağlar.",
+      "quickRealityCheck": "Kingdom Come: Deliverance ve 15.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

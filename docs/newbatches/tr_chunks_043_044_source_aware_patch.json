@@ -1,0 +1,326 @@
+{
+  "patchId": "tr-chunks-043-044-source-aware-review",
+  "locale": "tr",
+  "sourceChunks": [
+    "tr-chunk-043.json",
+    "tr-chunk-044.json"
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "editorial + factual + source review",
+  "summary": {
+    "reviewedCards": 8,
+    "patchEntries": 8,
+    "approvedAsIs": 0,
+    "majorRewrites": 6,
+    "minorOrSourceOnly": 2,
+    "notes": [
+      "tf26 serisi genel olarak önceki jenerik kartlara göre daha temizdi; yine de birçok kartta başlık tekrarı, şablon cümle ve kısa alan zayıflığı vardı.",
+      "Flagship olan tf26-024-oracle-delphi ve tf26-028-theatre gövde olarak kısa kaldığı için genişletildi.",
+      "Olimpiyat, trirem ve kölelik kartlarında oyun mekaniği ile gerçek kurum/ekonomi arasındaki ayrım daha net kuruldu."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-021-athenian-democracy",
+      "reviewStatus": "minor_source_cleanup",
+      "rationale": "Metin genel olarak iyi; ancak subtitle ve kısa alanlar daha az jenerik hale getirildi, kaynak seti daha doğrudan Atina kurumlarına bağlandı.",
+      "fields": {
+        "subtitle": "Doğrudan katılımın parlak fikri ve dar yurttaşlık sınırı.",
+        "whyInteresting": "Atina demokrasisinin gücü, halk katılımı fikrini kurmasında; sınırı ise 'halk' dediği grubun kadınları, köleleri ve metoikosları dışarıda bırakmasında yatıyor.",
+        "whyItMatters": "Demokrasi fikrinin doğduğu yerde bile eşitlik iddiası ile dışlama pratiği aynı anda yaşayabiliyordu.",
+        "mediaChanged": "Oyun demokratik atmosferi meydan konuşmaları ve hizip gerilimiyle hissettiriyor. Tarihte ise meclis, kura, jüri ve yurttaşlık sınırı gibi prosedürler sistemin asıl omurgasıydı.",
+        "quickRealityCheck": "Klasik Atina'da karar sürecine gerçekten herkes mi katılıyordu, yoksa yurttaşlık dar ve ayrıcalıklı bir statü müydü?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Athenian democracy - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/democracy/The-Athenian-democracy",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Ancient Greece - The Metropolitan Museum of Art",
+            "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/greek.pdf",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Peloponnesian War - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Peloponnesian-War",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-022-sparta-childhood",
+      "reviewStatus": "rewrite",
+      "rationale": "Mevcut metinde agoge anlatısı iki kez dönüyor ve 'en özgür şehir' gibi fazla sloganlaşan ifade var. Agoge, kız çocuklarının eğitimi, helot düzeni ve kaynak sınırlılığı daha dengeli kuruldu.",
+      "fields": {
+        "subtitle": "Agoge, helot düzeni ve savaşçı yurttaş üretimi.",
+        "realHistory": "Sparta'da agoge, erkek çocukları yalnızca güçlü savaşçı yapmak için değil, onları devletin kolektif disiplinine bağlamak için kurulmuş bir eğitim düzeniydi. Kaynakların çoğu daha geç dönem yazarlarından geldiği için ayrıntılar dikkatle okunmalıdır; yine de temel tablo nettir: Spartalı erkek çocuklar erken yaşta aile merkezli hayattan çıkarılır, yaş grupları içinde dayanıklılık, itaat, savaş becerisi, ritüel ve kamusal davranış eğitimi alırdı.\n\nBu sistemin arkasında romantik bir 'doğuştan savaşçı' fikrinden çok sert bir toplumsal gerçeklik vardı. Spartalı yurttaş erkeklerin uzun süre askeri eğitime ayrılabilmesi, helot emeğine dayalı tarım düzeni sayesinde mümkün oluyordu. Agoge bu nedenle yalnız bireysel cesaret okulu değil, az sayıdaki Spartalı yurttaşın geniş bir bağımlı nüfusu kontrol altında tutmasını sağlayan siyasal bir mekanizmaydı.\n\nSparta kız çocukları da diğer birçok Yunan kentindeki kadınlara göre daha görünür bir fiziksel eğitim kültürüne sahipti; koşu, güç ve dayanıklılık ideali evlilik ve doğurganlık siyasetiyle ilişkilendiriliyordu. Bu durum modern anlamda eşitlik demek değildi, fakat Sparta'nın askeri toplum yapısının aile ve beden politikalarına kadar uzandığını gösterir.\n\nAssassin's Creed Odyssey agoge'yi kişisel güç ve kahramanlık mitine bağlar. Tarihsel okuma ise daha soğuktur: Sparta'nın sertliği, yalnız savaş meydanında değil çocukluk, aile, emek ve yurttaşlık sınırlarında üretiliyordu.",
+        "whyInteresting": "Sparta'nın savaşçı imajı yalnız eğitim sertliğinden değil, bu eğitimi mümkün kılan helot emeği ve devlet denetiminden doğuyordu.",
+        "whyItMatters": "Agoge, askeri disiplinin bir toplumun çocukluk, aile ve sınıf düzenini nasıl yeniden şekillendirebildiğini gösterir.",
+        "mediaChanged": "Oyun agoge'yi bireysel kahramanlık kökeni gibi işler; tarihsel çerçevede bu sistem devlet kontrollü kolektif askerleştirme ve helot düzenini koruma aracıdır.",
+        "quickRealityCheck": "Sparta çocukları yalnız daha iyi savaşçı olsun diye mi eğitiliyordu, yoksa bu eğitim bütün sosyal düzeni koruyan bir mekanizma mıydı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Sparta - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/place/Sparta",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Agoge - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/agoge",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Helot - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/helot",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-023-peloponnesian-war",
+      "reviewStatus": "minor_source_cleanup",
+      "rationale": "Gövde dengeli; subtitle jenerikliği ve kaynak metadata'sı temizlendi. Savaşın sadece Atina-Sparta aksiyonuna indirgenmemesi korunuyor.",
+      "fields": {
+        "subtitle": "Atina ile Sparta arasındaki uzun yıpratma savaşı.",
+        "whyInteresting": "Aynı savaş, demokrasi tartışmalarını, deniz ikmalini, müttefik haraçlarını, salgını ve propaganda dilini aynı anda dönüştürdü.",
+        "whyItMatters": "Peloponez Savaşı, askeri gücün tek başına yetmediğini; maliye, donanma, salgın ve iç siyaset dayanıklılığının da sonucu belirlediğini gösterir.",
+        "mediaChanged": "Oyun savaşı sık patlayan bölge çatışmaları ve oyuncu aksiyonu olarak kurar. Tarihte sonuç, yıllara yayılan mali krizler, salgın, diplomasi, Sicilya Seferi ve deniz ikmal hatlarının kırılmasıyla şekillendi.",
+        "quickRealityCheck": "Atina güçlü donanmasına rağmen neden veba, Sicilya Seferi ve tahıl hattı kaybı karşısında çözüldü?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Peloponnesian War - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Peloponnesian-War",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Peloponnesian War - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/Peloponnesian_War/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Landmark Thucydides - Yale University Press",
+            "url": "https://yalebooks.yale.edu/book/9780684827902/the-landmark-thucydides/",
+            "type": "book",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-024-oracle-delphi",
+      "reviewStatus": "flagship_rewrite_expand",
+      "rationale": "Flagship olduğu halde kısa ve tekrar eden bir gövdeye sahipti. Delphi'nin dini, siyasi, ekonomik ve yorumlayıcı işlevi başlıklı bir yapıyla genişletildi.",
+      "fields": {
+        "subtitle": "Pythia'nın belirsiz sözleri, şehir devletlerinin siyasi aracına nasıl dönüştü?",
+        "realHistory": "### Kehanet merkezi değil, diplomasi sahnesi\n\nDelphi, antik Yunan dünyasında yalnızca mistik bir tapınak değildi; şehir devletlerinin kararlarını meşrulaştırmak için başvurduğu pan-Helenik bir otoriteydi. Apollon tapınağındaki Pythia, tanrının sesi olarak kabul edilir; fakat kehanet süreci tek bir trans anından ibaret değildi. Danışanların getirdiği adaklar, rahiplerin yorumu, kutsal takvim, tapınağın prestiji ve cevabın nasıl aktarılacağı bu sistemin parçasıydı.\n\n### Belirsizlik neden güçtü?\n\nDelphi cevapları çoğu zaman çok anlamlıydı. Bu belirsizlik modern gözle 'kaçamak' gibi görünebilir, fakat antik siyaset için kullanışlıydı: şehir liderleri cevabı kendi koşullarına göre yorumlayabiliyor, başarısızlık durumunda da sorumluluğu yanlış yoruma bağlayabiliyordu. Savaş, koloni kurma, yasa değişikliği veya kriz anlarında Delphi'den alınan onay, yalnız dini rahatlama değil, kamuoyu önünde meşruiyet üretme aracına dönüşüyordu.\n\n### Kutsal alanın ekonomisi\n\nDelphi'nin gücü yalnız sözlerinden gelmiyordu. Kutsal alana gelen adaklar, hazine yapıları ve temsil törenleri, şehirlerin rekabetini taş ve bronza çevirdi. Krallar, tiranlar ve polisler burada görünür olmak istiyordu; çünkü Delphi'de yer almak, Yunan dünyasının ortak hafızasında yer almak demekti. Bu yüzden kutsal alan aynı zamanda diplomatik vitrin ve prestij pazarıydı.\n\n### Odyssey neyi doğru yakalıyor?\n\nAssassin's Creed Odyssey, Pythia'yı siyasi entrikanın merkezine koyarak doğru bir sezgi yakalıyor: kehanet hiçbir zaman siyasetten bağımsız değildi. Ancak oyun bu ağı kişisel görev ve gizli manipülasyon çizgisine indirger. Tarihte Delphi'nin etkisi daha kurumsaldı. Tapınağın otoritesi, yüzyıllar boyunca tekrarlanan danışma ritüellerinden, adak ekonomisinden ve çok anlamlı cevapların siyasal esnekliğinden doğdu.\n\nDelphi'yi ilginç kılan da budur: geleceği bildirdiğine inanılan bir merkez, aslında karar alıcıların bugünkü tercihlerini meşrulaştıran bir kurum gibi çalışıyordu.",
+        "readingTimeMinutes": 3,
+        "whyInteresting": "Delphi'nin gücü yalnız kehanet vermesinde değil, belirsiz cevabı siyasi meşruiyete çevirebilen kurumsal otoritesindeydi.",
+        "whyItMatters": "Delphi, inanç ile devlet kararının antik dünyada ne kadar iç içe geçtiğini gösterir.",
+        "mediaChanged": "Oyun kehaneti kişisel görev ve gizli manipülasyon çevresinde kurar; tarihsel Delphi ise adak, rahip yorumu, kutsal takvim ve şehirlerarası prestijle çalışan uzun ömürlü bir kurumdu.",
+        "quickRealityCheck": "Delphi kehanetleri neden çoğu zaman kesin emir gibi değil, siyasetçilerin yorumlayabileceği çok anlamlı cevaplar gibi işliyordu?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Archaeological Site of Delphi - UNESCO World Heritage Centre",
+            "url": "https://whc.unesco.org/en/list/393/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Delphi - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/place/Delphi",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Delphi - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/Delphi/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-025-olympic-games",
+      "reviewStatus": "rewrite",
+      "rationale": "Metin tekrar ediyor, bazı İngilizce ifadeler kalmış ve Olimpiyatı spor/din/siyaset ilişkisi yerine şablon parçalara bölüyor. Gövde yeniden kuruldu.",
+      "fields": {
+        "subtitle": "Zeus'a adanan yarışların spor, din ve şehir prestijiyle birleşmesi.",
+        "realHistory": "Antik Olimpiyatlar, modern anlamda yalnız spor organizasyonu değildi. Olympia'da Zeus kültü etrafında dört yılda bir düzenlenen pan-Helenik bir festivaldi. Koşu, güreş, boks, pankration, pentatlon ve atlı yarışlar bedensel rekabeti öne çıkarıyordu; fakat yarışların kutsal alanda yapılması, kurbanlar ve adaklarla çevrelenmesi, etkinliğin dini niteliğini sürekli görünür kılıyordu.\n\nOyunların siyasi yönü de en az spor kadar önemliydi. Ekecheiria olarak bilinen kutsal ateşkes, sporcuların ve ziyaretçilerin Olympia'ya güvenli biçimde ulaşmasını hedefliyordu. Bu ateşkes bütün savaşları kalıcı olarak durdurmuyordu; daha çok festivalin işlemesini sağlayan dini-siyasi bir geçiş güvenliği sağlıyordu. Yine de farklı polislerin aynı takvimde buluşması, diplomasiyi, ticareti ve prestij rekabetini aynı sahaya taşıdı.\n\nZafer kazanan atletler yalnız zeytin dalı tacı almıyordu; şehirlerine döndüklerinde onur, ayrıcalık ve bazen maddi ödüller kazanabiliyorlardı. Bu nedenle başarı bireysel olduğu kadar kentsel gurur meselesiydi. Katılım ise keskin sınırlarla belirlenmişti: oyunlar erkek Yunan yurttaş dünyasının ritüel vitriniydi; kadınlar ve köleler bu düzenin dışında bırakılıyordu.\n\nAssassin's Creed Odyssey, Olimpiyatları görev ve yarış mekaniğine çevirerek doğru bir giriş noktası sunar. Tarihsel tablo ise daha katmanlıdır: aynı stadyumda tanrıya adak, şehirlerarası propaganda, atletik şöhret ve sosyal dışlama birlikte işliyordu.",
+        "whyInteresting": "Aynı yarış, hem Zeus'a adak hem de şehir devletleri arasında prestij mücadelesiydi.",
+        "whyItMatters": "Antik Olimpiyatlar, sporun en başından beri din, siyaset, kimlik ve dışlama pratikleriyle birlikte yaşadığını gösterir.",
+        "mediaChanged": "Oyun Olimpiyatları görev ve mini oyun akışı olarak kurar; gerçekte festival Zeus kültü, kutsal ateşkes, şehir prestiji ve sınırlı katılım düzeniyle iç içeydi.",
+        "quickRealityCheck": "Olimpiyatlar sadece atletlerin yarıştığı bir spor etkinliği miydi, yoksa şehirlerin tanrı, prestij ve diplomasi sahnesi miydi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Ancient Olympic Games - International Olympic Committee",
+            "url": "https://www.olympics.com/ioc/ancient-olympic-games",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Archaeological Site of Olympia - UNESCO World Heritage Centre",
+            "url": "https://whc.unesco.org/en/list/517/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Olympic Truce - International Olympic Committee",
+            "url": "https://www.olympics.com/ioc/olympic-truce",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-026-triremes",
+      "reviewStatus": "rewrite",
+      "rationale": "Subtitle bozuktu; gövde tekrar ediyor ve teknik ayrıntılar bazı yerde yanlış terimlerle veriliyor. Trirem, Atina demokrasisi/finansı ve deniz gücü ilişkisiyle yeniden yazıldı.",
+      "fields": {
+        "subtitle": "Üç sıra kürek, bronz mahmuz ve Atina'nın deniz imparatorluğu.",
+        "realHistory": "Trirem, antik Akdeniz savaşını değiştiren hızlı ve dar gövdeli bir savaş gemisiydi. Adını üç sıra kürek düzeninden alır; asıl gücü yelkenden değil, eğitimli kürekçilerin ritimli hareketinden gelirdi. Pruvasındaki bronz mahmuz, düşman gemisinin bordasını parçalamak ya da kürek düzenini bozmak için kullanılırdı. Bu yüzden savaş, yalnız gemilerin çarpışması değil, dönüş açısı, hız, mürettebat disiplini ve komuta zamanlaması meselesiydi.\n\nAtina'nın 5. yüzyıldaki yükselişi trirem filosundan ayrı düşünülemez. Laurion gümüş gelirleri donanma yatırımlarını mümkün kıldı; donanma ise daha geniş yurttaş kitlesini kürek hizmeti üzerinden savaşın parçası haline getirdi. Bu durum Atina demokrasisinin sosyal dengelerini de etkiledi: savaş gücü artık yalnız hoplit zenginliğine değil, kürekçi yurttaşların emeğine de bağlıydı.\n\nSalamis gibi dar sularda triremler özellikle etkiliydi. Büyük ve kalabalık filolar açık alanda sayısal üstünlük sağlayabilirken, dar boğazlar manevra kabiliyeti yüksek gemilere avantaj veriyordu. Bu yüzden deniz savaşı yalnız cesaret değil, coğrafya okuma ve filo koordinasyonu meselesiydi.\n\nAssassin's Creed Odyssey, gemiyi oyuncunun kişisel aracı ve yükseltilebilir savaş makinesi gibi sunar. Tarihsel trirem ise tek kahramanın gemisinden çok, liman altyapısı, kereste, kürekçi eğitimi, maaş ve şehir finansmanı gerektiren kolektif bir sistemdi.",
+        "whyInteresting": "Bir gemi sınıfı, Atina'nın hem askeri gücünü hem de demokratik yurttaş emeğinin önemini büyüttü.",
+        "whyItMatters": "Trirem, askeri teknolojinin yalnız silah değil; vergi, liman, eğitim ve yurttaşlık düzeniyle birlikte çalıştığını gösterir.",
+        "mediaChanged": "Oyun deniz savaşını tek gemi yükseltmesi ve aksiyon hasarı üzerinden kurar. Tarihte trirem üstünlüğü filo disiplini, liman altyapısı, kürekçi emeği ve kent finansmanı olmadan sürdürülemezdi.",
+        "quickRealityCheck": "Trirem savaşlarında belirleyici olan şey geminin yelkeni mi, yoksa eğitimli kürekçilerin dar sularda yarattığı manevra üstünlüğü müydü?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Trireme - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/trireme/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Battle of Salamis - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Battle-of-Salamis",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Athenian Navy - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/Athenian_Navy/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-027-slavery",
+      "reviewStatus": "rewrite",
+      "rationale": "Mevcut gövde tekrar ediyor ve demokrasi-kölelik karşıtlığını biraz sloganlaştırıyor. Köleliğin çeşitliliği, Laurion madenleri ve yurttaş boş zamanı daha dengeli kuruldu.",
+      "fields": {
+        "subtitle": "Atina özgürlüğünün görünmeyen emek zemini.",
+        "realHistory": "Antik Yunan'da kölelik tek biçimli değildi; ev hizmetinden atölyeye, tarımdan madenlere kadar farklı alanlarda değişen koşullarla işliyordu. Atina gibi demokratik kurumlarıyla öne çıkan şehirlerde bile köleleştirilmiş emek, gündelik hayatın ve ekonominin temel parçasıydı. Bu yüzden 'özgür yurttaş' ideali, aynı toplumda özgür olmayan büyük bir nüfusun varlığıyla birlikte düşünülmelidir.\n\nAtina demokrasisi siyasi katılımı erkek yurttaşlara açarken kadınları, metoikosları ve köleleri dışarıda bıraktı. Yurttaş erkeklerin meclise, mahkemeye ve askeri göreve zaman ayırabilmesi, ev içinde ve üretimde başkalarının emeğine dayanıyordu. Bu durum demokrasiyi geçersiz kılmaz, fakat kapsamını doğru yere oturtur: Atina'da eşitlik evrensel değil, belirli bir yurttaş statüsü içindi.\n\nLaurion gümüş madenleri bu çelişkinin en sert örneklerinden biridir. Atina'nın donanma gücünü besleyen gümüş gelirleri, ağır ve tehlikeli koşullarda çalışan köle emeğiyle bağlantılıydı. Ev içi kölelik daha görünmez olabilirken, maden emeği daha yıkıcıydı; iki durumda da hukuki bağımlılık esastı. Bazı köleler para biriktirip azat edilebilse bile bu istisnalar sistemin temel eşitsizliğini ortadan kaldırmıyordu.\n\nAssassin's Creed Odyssey köleliği bazen NPC arka planı ya da özgürleştirme görevi olarak gösterir. Tarihsel gerçek daha yapısaldır: antik Yunan özgürlük söylemi, aynı anda köle emeğine dayanan bir toplumsal düzen içinde üretildi.",
+        "whyInteresting": "Atina'nın özgür yurttaş ideali, köle emeğinin görünmez desteği olmadan aynı ölçekte işleyemezdi.",
+        "whyItMatters": "Bu kart, demokrasi tarihini yalnız kurumların başarısı olarak değil, kimlerin dışarıda bırakıldığı sorusuyla birlikte okumayı sağlar.",
+        "mediaChanged": "Oyun köleliği çoğu zaman yan görev ve arka plan figürü olarak gösterir; gerçekte köle emeği evden madene kadar şehir ekonomisinin omurgasındaydı.",
+        "quickRealityCheck": "Atina demokrasisi 'halk yönetimi' ise, bu halkın dışında bırakılan köleler, kadınlar ve metoikoslar neyi gösteriyor?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Confronting Slavery in the Classical World - Michael C. Carlos Museum",
+            "url": "https://carlos.emory.edu/exhibition/confronting-slavery-classical-world",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Slavery in Classical Antiquity - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/slavery/Slavery-in-classical-antiquity",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Laurion Mines - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/Laurion/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-028-theatre",
+      "reviewStatus": "flagship_rewrite_expand",
+      "rationale": "Flagship olduğu halde kısa kalıyordu. Tiyatro, Dionysia festivali, finansman, demokratik kültür ve dışlama boyutlarıyla genişletildi.",
+      "fields": {
+        "subtitle": "Atina sahnesinde sanat, yurttaşlık ve siyaset aynı festivalde buluşuyordu.",
+        "realHistory": "### Sahne, festival ve yurttaşlık\n\nAtina tiyatrosu yalnız boş zaman eğlencesi değildi. Özellikle City Dionysia gibi festivaller, Dionysos kültü, devlet organizasyonu, zengin yurttaşların finansman yükümlülükleri ve geniş seyirci katılımını aynı yerde birleştiriyordu. Tragedya ve komedya yarışmaları, sanat etkinliği kadar şehir kimliğinin kamusal gösterisiydi. Sahneye çıkan mitler tanıdıktı; ama bu mitler üzerinden savaş, adalet, liderlik, yas, aile ve yasa gibi güncel sorunlar tartışmaya açılıyordu.\n\n### Demokrasiyle ilişkisi\n\nTiyatro, meclisin yerine geçmiyordu; yasa oylamıyor, doğrudan politika üretmiyordu. Yine de yurttaşları ortak bir duygusal ve ahlaki tartışma alanında topladığı için demokratik kültürün parçasıydı. Tragedyalar, kararların bedelini mitolojik hikâyeler üzerinden düşündürürken; Aristophanes gibi komedi yazarları çağdaş siyasetçileri, savaş politikalarını ve kamusal alışkanlıkları açıkça alaya alabiliyordu. Bu, Atina'nın siyasal özgüveni kadar kırılganlığını da gösterir.\n\n### Finansman ve dışlama\n\nSahne kolektif görünse de katılım eşit değildi. Erkek yurttaş topluluğu merkezdeydi; kadınlar, köleler ve metoikoslar bu kamusal yurttaşlık alanında sınırlı ya da dolaylı konuma sahipti. Varlıklı yurttaşların koro finansmanı gibi liturjik görevler üstlenmesi, sanatı aynı zamanda statü ve kamu hizmeti meselesine çevirdi. Yani tiyatro, sadece fikirlerin değil paranın ve yurttaşlık hiyerarşisinin de sahnesiydi.\n\n### Odyssey neyi yoğunlaştırıyor?\n\nAssassin's Creed Odyssey, tiyatroyu kulis entrikaları ve görev akışıyla dramatize eder. Bu, oyunsal olarak anlaşılır; fakat tarihsel güç daha yavaş ve kurumsaldı. Atina tiyatrosunun etkisi tek bir gizli planı açığa çıkarmasından değil, binlerce insanın tekrar tekrar aynı kamusal hikâyeleri izleyip şehir hayatının ahlaki sorunlarını birlikte düşünmesinden geliyordu.",
+        "readingTimeMinutes": 3,
+        "whyInteresting": "Atina tiyatrosu, sanatın yalnız estetik değil; yurttaşlık eğitimi, politik eleştiri ve kamu statüsü üretimi olduğunu gösterir.",
+        "whyItMatters": "Bu kart, demokrasinin sadece mecliste değil, ortak hikâyeler ve kamusal seyir deneyimi içinde de şekillendiğini anlatır.",
+        "mediaChanged": "Oyun tiyatro siyasetini görev ölçeğinde kişisel entrikalara indirger. Tarihte etki, tekrarlanan festivaller, koro finansmanı, kitlesel seyirci ve kamusal tartışma alışkanlığı üzerinden doğdu.",
+        "quickRealityCheck": "Atina tiyatrosu yalnız eğlence miydi, yoksa yurttaşların savaş, adalet ve liderlik üzerine birlikte düşündüğü bir kamusal forum muydu?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Greek Theatre - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/art/Western-theatre/The-Greek-theatre",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Dionysia - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/Dionysia",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Ancient Greece - The Metropolitan Museum of Art",
+            "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/greek.pdf",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Aristophanes - Stanford Encyclopedia of Philosophy",
+            "url": "https://plato.stanford.edu/entries/aristophanes/",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

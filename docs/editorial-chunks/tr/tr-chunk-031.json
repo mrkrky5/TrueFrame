@@ -1,0 +1,253 @@
+{
+  "locale": "tr",
+  "chunkIndex": 31,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "last-kingdom-alfred-dream",
+      "title": "Kral Alfred’in Rüyası: Birleşik İngiltere",
+      "subtitle": "Batı Saksonya'dan 'English' kimliğine.",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "İngiltere",
+        "Siyaset",
+        "Orta Çağ"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "the-last-kingdom",
+        "ingiltere",
+        "kral-alfred",
+        "orta-cag"
+      ],
+      "quickRealityCheck": "The Last Kingdom dizisindeki Kral Alfred'in 'tek bir İngiltere' (Angelcynn) hayali bir senaryo kurgusu değil; Viking işgali altındaki parçalanmış krallıkları birleştiren gerçek bir siyasi vizyondur.",
+      "mediaChanged": "Dizi Alfred'i biraz soğuk ve dindar bir figür olarak sunsa da, gerçek Alfred sadece bir savaşçı değil, aynı zamanda ülkesinde okuryazarlığı artırmak için Latince kitapları bizzat İngilizce'ye çeviren bir entelektüeldi.",
+      "realHistory": "Alfred the Great, Vikinglerin (Danelaw) eline geçmeyen tek Sakson krallığı olan Wessex'i savundu. 878'deki Edington Savaşı'nda Vikingleri yenerek onları barışa ve Hristiyanlığa davet etti. Ancak onun asıl başarısı savunma sistemindeydi: 'Burh' denilen müstahkem şehirler kurarak Vikinglerin hızlı saldırı taktiklerini geçersiz kıldı. Ayrıca ilk İngiliz donanmasını inşa ettirdi. Alfred, kendisini hiçbir zaman 'İngiltere Kralı' olarak adlandırmadı (Wessex Kralıydı), ancak torunu Athelstan'ın kuracağı birleşik İngiltere'nin kültürel, hukuki ve askeri temellerini o attı.\n\nBurh ağı Viking hızlı akınlarını kesmeyi amaçladı. Anglo-Sakson Kronikleri Alfred'in reformlarını kayıt altına aldı.\n\nAlfred 878 Edington Savaşı'nda Guthrum'u yenerek Danelaw sınırını güvence altına aldı. Burh sistemi müstahkem kasabalar ağı kurarak Viking akınlarının hızlı hareketini kesiyordu. Alfred kendini Wessex Kralı olarak adlandırdı; birleşik krallık torunu Athelstan'ın 927'deki ilanıyla tamamlandı. Anglo-Sakson Kronikleri onun hukuk ve eğitim reformlarını kayıt altına aldı.\n\nAlfred donanma inşasıyla kıyı savunmasını güçlendirdi. Wessex tek başına kalan Sakson krallığı olarak Viking baskısına direndi.\n\nWessex tek kalan Sakson krallığı olarak Viking baskısına karşı savunma hattını korudu.\n\nAthelstan 927'de birleşik İngiltere kralı ilan edildi; Alfred'in reformları bu sürecin temelini attı.\n\nAnglo-Sakson Kronikleri Alfred donanma ve hukuk reformlarını ayrıntılı biçimde kayıt altına aldı.",
+      "whyItMatters": "Alfred, bir milletin sadece kılıçla değil, dil, hukuk ve eğitimle nasıl inşa edilebileceğinin tarihteki en nadir örneklerinden biridir.",
+      "sources": [
+        {
+          "title": "Alfred the Great (Britannica)",
+          "url": "https://www.britannica.com/biography/Alfred-the-Great",
+          "type": "official"
+        },
+        {
+          "title": "The Anglo-Saxon Chronicles (British Library)",
+          "url": "https://www.bl.uk/collection-items/the-anglo-saxon-chronicle",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "last-kingdom-danelaw",
+        "last-kingdom-alfred-england"
+      ],
+      "spoilerNote": "The Last Kingdom hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "The Last Kingdom dizide “Kral Alfred’in Rüyası: Birleşik İngiltere” konusunu i̇ngiltere ve siyaset ekseninde somut sahnelerle işler. Batı Saksonya'dan 'English' kimliğine.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "saving-private-ryan-omaha",
+      "title": "Omaha Plajı: 20 Dakika vs. Gerçeklik",
+      "subtitle": "D-Day'in en kanlı sahilinin analizi.",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "II. Dünya Savaşı",
+        "Savaş",
+        "ABD"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "saving-private-ryan",
+        "normandiya",
+        "d-day",
+        "savas"
+      ],
+      "quickRealityCheck": "Er Ryan'ı Kurtarmak filminin ilk 20 dakikası, tarihteki en gerçekçi savaş sahnelerinden biri kabul edilir; gaziler bu sahneyi izlerken o günün travmalarını (koku ve ses dahil) yeniden yaşadıklarını belirtmişlerdir.",
+      "mediaChanged": "Film teknik olarak kusursuz olsa da, plajın o kadar dar bir sürede (20 dk) temizlendiği hissini verir. Gerçekte Omaha Plajı'ndaki tıkanıklık ve kaos 6 saatten fazla sürmüştür.",
+      "realHistory": "6 Haziran 1944'te Omaha Plajı'na çıkan Amerikan askerleri, en kötü senaryoyu yaşadılar. İstihbarat hataları nedeniyle Alman savunması beklenenden çok daha güçlüydü. Ayrıca tankların çoğu denizde battığı için piyadeler hiçbir koruma olmadan karaya çıkmak zorunda kaldı. Filmdeki o sahilin kızıl rengi bir abartı değil; deniz suyunun kana bulanması o günün en yaygın hatırlanan detayıdır. Omaha'da yaklaşık 2.400 asker hayatını kaybetti veya yaralandı. Sahilin alınmasını sağlayan şey, merkezi bir komuta değil, filmdeki Yüzbaşı Miller gibi küçük rütbeli subayların inisiyatif alarak askerleri kum setlerinin üzerinden tırmanmaya ikna etmesiydi.\n\nSoruşturma ve arşiv belgeleri, er Ryan'ı Kurtarmak filminin ilk 20 dakikası, tarihteki en gerçekçi savaş sahnelerinden biri kabul edilir; gaziler bu sahneyi izlerken o günün travmalarını (koku ve ses dahil) yeniden yaşadıklarını belirtmişlerdir.\n\nBu örnek Omaha Plajı açısından önem taşır, en iyi planlanmış askeri operasyonların bile sahadaki kaos ve 'savaşın sisi' karşısında ne kadar kırılgan olabileceğini gösterir.\n\nTarihî kayıtlar, er Ryan'ı Kurtarmak filminin ilk 20 dakikası, tarihteki en gerçekçi savaş sahnelerinden biri kabul edilir; gaziler bu sahneyi izlerken o günün travmalarını (koku ve ses dahil) yeniden yaşadıklarını belirtmişlerdir.",
+      "whyItMatters": "Omaha Plajı, en iyi planlanmış askeri operasyonların bile sahadaki kaos ve 'savaşın sisi' karşısında ne kadar kırılgan olabileceğini gösterir.",
+      "sources": [
+        {
+          "title": "Omaha Beach (U.S. National D-Day Memorial)",
+          "url": "https://www.dday.org/",
+          "type": "official"
+        },
+        {
+          "title": "D-Day: The Invasion of Normandy (Imperial War Museums)",
+          "url": "https://www.iwm.org.uk/history/the-10-things-you-need-to-know-about-d-day",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [
+        "ryan-higgins-boats",
+        "saving-private-ryan-higgins-boat",
+        "saving-private-ryan-snipers-reality"
+      ],
+      "spoilerNote": "Saving Private Ryan hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "Saving Private Ryan filmdе “Omaha Plajı: 20 Dakika vs. Gerçeklik” konusunu ii. dünya savaşı ve savaş ekseninde somut sahnelerle işler. D-Day'in en kanlı sahilinin analizi.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "napoleon-code-legacy-real",
+      "title": "Napolyon Kanunları: Modern Dünyanın Kodu",
+      "subtitle": "Kılıçtan daha keskin bir hukuk reformu.",
+      "mediaType": "film",
+      "mediaTitle": "Napoleon",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Hukuk",
+        "Fransa",
+        "Modern Tarih"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "napoleon",
+        "hukuk",
+        "fransa",
+        "modern-tarih"
+      ],
+      "quickRealityCheck": "Napolyon filminde neredeyse hiç bahsedilmeyen 1804 tarihli 'Code Civil', Napolyon'un 'Benim asıl zaferim kazandığım 40 savaş değil, sonsuza dek yaşayacak olan Medeni Kanunumdur' dediği gerçek mirasıdır.",
+      "mediaChanged": "Dizi/Filmler genellikle askeri üniformalara odaklanır, ancak Napolyon'un asıl etkisi, fethettiği topraklara getirdiği ve bugün bile Türkiye'den Japonya'ya kadar pek çok ülkenin hukukunda izi olan kanunlardır.",
+      "realHistory": "Napolyon Kanunları öncesinde Fransa'da her bölgenin kendi hukuku vardı ve bu tam bir karmaşaydı. 1804'te yayınlanan kanunlar; kanun önünde eşitlik, din özgürlüğü, liyakat esası (işin en yetenekli olana verilmesi) ve mülkiyet dokunulmazlığı gibi devrimci ilkeleri getirdi. Bu sistem, feodalizmin ve soyluluk ayrıcalıklarının sonunu getirdi. Napolyon bu kanunları fethettiği her yere (Almanya, İtalya, İspanya, Polonya) taşıdı. Bu durum, Avrupa'da orta sınıfın yükselmesine ve ulus devletlerin doğuşuna zemin hazırladı. Bugün Fransız hukuk sistemi hala büyük oranda bu temellere dayanır.\n\nBu örnek Napolyon Kanunları açısından önem taşır, modern vatandaşlık kavramının ve bürokratik devlet yapısının dünyadaki ana kaynağıdır.\n\nKılıçtan daha keskin bir hukuk reformu sorusu, arşivlerde yalnızca üst düzey anlatılardan değil günlük uygulamalardan da yanıtlanır.\n\nDizi/Filmler genellikle askeri üniformalara odaklanır, ancak Napolyon'un asıl etkisi, fethettiği topraklara getirdiği ve bugün bile Türkiye'den Japonya'ya kadar pek çok ülkenin hukukunda izi olan kanunlardır.\n\nTarihî kayıtlar, napolyon filminde neredeyse hiç bahsedilmeyen 1804 tarihli 'Code Civil', Napolyon'un 'Benim asıl zaferim kazandığım 40 savaş değil, sonsuza dek yaşayacak olan Medeni Kanunumdur' dediği gerçek mirasıdır.",
+      "whyItMatters": "Napolyon Kanunları, modern vatandaşlık kavramının ve bürokratik devlet yapısının dünyadaki ana kaynağıdır.",
+      "sources": [
+        {
+          "title": "Napoleonic Code (Britannica)",
+          "url": "https://www.britannica.com/topic/Napoleonic-Code",
+          "type": "official"
+        },
+        {
+          "title": "History of French Law (Conseil d'État)",
+          "url": "https://www.conseil-etat.fr/en/",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "napoleon-myth-reality",
+        "napoleon-egypt-propaganda",
+        "napoleon-waterloo-masterclass"
+      ],
+      "spoilerNote": "Napoleon hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "Napoleon filmdе “Napolyon Kanunları: Modern Dünyanın Kodu” konusunu hukuk ve fransa ekseninde somut sahnelerle işler. Kılıçtan daha keskin bir hukuk reformu.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "300-hoplite-phalanx-real",
+      "title": "Hoplit Falanksı: Çelikten Duvar",
+      "subtitle": "Bireysel güçten kolektif zafere.",
+      "mediaType": "film",
+      "mediaTitle": "300 Spartalı",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Yunan Tarihi",
+        "Savaş",
+        "Teknoloji"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "300-spartal",
+        "hoplit",
+        "savas",
+        "antik-yunan",
+        "antik-dnya"
+      ],
+      "quickRealityCheck": "300 filminde Spartalılar sanki solo birer MMA dövüşçüsü gibi sürekli saflarını bozup zıplarlar; oysa gerçek bir hoplit birliği saflarını bir santimetre bile bozsa tüm ordu saniyeler içinde yok edilirdi.",
+      "mediaChanged": "Film görsel şölen için askerleri zırhsız ve birbirinden kopuk gösterir. Gerçekte ise omuz omuza, kalkanların birbirine geçtiği, 'Phalanx' (Falanks) denilen, aşılması imkansız bir insan duvarı olarak savaşırlardı.",
+      "realHistory": "Hoplitlerin en önemli ekipmanı 'Aspis' denilen büyük yuvarlak kalkandı. Bu kalkan sadece taşıyanı değil, solundaki askerin de sağ tarafını korurdu. Bu yüzden Falanks düzeninde savaşmak, bireysel kahramanlıktan ziyade tam bir güven ve disiplin gerektiriyordu. Spartalıların Thermopylai'deki başarısı, geçidin darlığı sayesinde Pers ordusunun sayısal üstünlüğünü bu 'aşılmaz kalkan duvarına' çarptırmalarından geliyordu. Ayrıca Spartalılar, filmdeki gibi yarı çıplak değil; göğüslerinde ağır bronz veya lamine keten (linothorax) zırhlar, bacaklarında korumalıklar ve başlarında ikonik Korint miğferleri taşırlardı.\n\nLinothorax veya bronz zırh taşıdılar; filmdeki çıplak göğüs tasviri tarihsel değildir.\n\nAspis kalkanı sadece taşıyanı değil solundaki askerin sağ tarafını da korurdu. Dory mızrağı iki sıra derinliğe uzanırdı; falanks düzeni bireysel kahramanlıktan çok güven ve disiplin gerektiriyordu. Spartalılar linothorax veya bronz zırh, bacak korumalıkları ve Korint miğferi taşıdı. Thermopylai'de geçidin darlığı Pers sayısal üstünlüğünü falanks duvarına çarptırdı.\n\nFalanks hareket ederken ritmik ilerler; boşluk açılması tüm hattın çöküşüne yol açabilirdi. Filmdeki solo dövüş sahneleri bu disipline aykırıdır.\n\nThermopylai örneği dar arazi ile sayısal üstünlüğün falanks disipliniyle nasıl dengelenebileceğini gösterir.\n\nKorint miğferi ve bacak korumalıkları tam teçhizatın parçasıydı; film çıplak göğüs tasvirini abartır.\n\nThermopylai dar geçitte sayısal üstünlüğü falanks disipliniyle dengeledi.",
+      "whyItMatters": "Falanks düzeni, askeri tarihte 'kolektif disiplinin' bireysel güçten üstün olduğunun ilk büyük kanıtıdır.",
+      "sources": [
+        {
+          "title": "Hoplite (Britannica)",
+          "url": "https://www.britannica.com/topic/hoplite",
+          "type": "official"
+        },
+        {
+          "title": "Ancient Greek Warfare (Met Museum)",
+          "url": "https://www.metmuseum.org/toah/hd/grwk/hd_grwk.htm",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [
+        "spartan-war-machines-myth",
+        "300-persian-immortals-real",
+        "300-thermopylae-masterclass"
+      ],
+      "spoilerNote": "300 Spartalı hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "300 Spartalı filmdе “Hoplit Falanksı: Çelikten Duvar” konusunu yunan tarihi ve savaş ekseninde somut sahnelerle işler. Bireysel güçten kolektif zafere.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "oppenheimer-rad-downwinders",
+      "title": "Downwinders: Trinity'nin Görünmez Kurbanları",
+      "subtitle": "Rüzgarla gelen radyoaktif miras.",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Modern Tarih",
+        "Sağlık",
+        "ABD"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "major",
+      "tags": [
+        "oppenheimer",
+        "trinity",
+        "radyasyon",
+        "abd",
+        "bilim"
+      ],
+      "quickRealityCheck": "Oppenheimer filminde Trinity testi bir başarı hikayesi olarak biter; oysa test alanının yakınındaki New Mexico sakinleri (Downwinders), haftalarca gökten yağan 'beyaz külün' aslında ne olduğunu bilmeden radyoaktif zehirlenmeye maruz bırakılmışlardır.",
+      "mediaChanged": "Filmde çevre halkına verilen zarardan neredeyse hiç bahsedilmez. Gerçekte ise test öncesi halk tahliye edilmemiş, sonrasında ise radyoaktif serpintinin zararları on yıllarca gizlenmiştir.",
+      "realHistory": "Trinity testi genellikle bilimsel bir zafer olarak kutlansa da, hemen sonrasındaki çevresel etkileri çok sıkı korunan bir devlet sırrıydı. 'Downwinders' (Rüzgar Altındakiler), 16 Temmuz 1945 patlamasından kaynaklanan radyoaktif serpintinin yolu üzerinde yaşayan, çoğunluğu Hispanik ve yerli çiftçi ailelerinden oluşan Güney New Mexico sakinleriydi.\n\n### 'Kirli' Patlama\nTrinity'de kullanılan plütonyum bombası modern standartlara göre verimsizdi; bu da radyoaktif malzemenin çoğunun infilak etmek yerine buharlaşarak atmosfere karıştığı anlamına geliyordu. Serpinti bulutu 100 milden fazla yol kat ederek sığırların, ekinlerin ve su sarnıçlarının üzerine çöktü. Yerel halk, yaz ortasında kar gibi yağan 'ince beyaz bir tozdan' bahsetmiştir.\n\n### On Yıllar Süren Sessizlik\nTest 'Çok Gizli' olduğu için bölge sakinleri asla uyarılmadı veya tahliye edilmedi. İzleyen yıllarda yerel doktorlar bebek ölümlerinde ve nadir kanser türlerinde büyük bir artış kaydetti, ancak hükümet on yıllar boyunca herhangi bir bağlantıyı reddetti. 1990 tarihli Radyasyona Maruz Kalma Tazminat Yasası (RECA), başlangıçta New Mexico Downwinders'ı dışarıda bıraktı; bu durum 2020'lere kadar yoğun bir hukuki ve siyasi mücadelenin konusu olmaya devam etti.\n\n### Bilimin İnsani Maliyeti\nBu trajedi, Manhattan Projesi'nin etik 'kör noktalarını' gözler önüne sermektedir. Los Alamos'taki bilim adamları dünyanın geleceğini tartışırken, kendi arka bahçelerinde yaşayan insanlar Atom Çağı'nın istemeden de olsa ilk kurbanları haline geldiler. Downwinders'ın hikayesinin birçok ana akım tarihte (Oppenheimer filmiyle ilgili bazı eleştiriler dahil) yer almaması, tanınma ve adalet arayışının hala sürdüğünü göstermektedir.",
+      "whyItMatters": "Trinity kurbanlarının hikayesi, bilimsel ilerleme hırsının etik sınırlarını ve devletlerin 'ulusal güvenlik' adına neleri gizleyebileceğini gösterir.",
+      "sources": [
+        {
+          "title": "The Downwinders (National Cancer Institute)",
+          "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/trinity-test-exposure",
+          "type": "official"
+        },
+        {
+          "title": "Trinity Test Impact (Atomic Heritage Foundation)",
+          "url": "https://www.atomicheritage.org/history/trinity-test-1945",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "oppenheimer-trinity",
+        "oppenheimer-science-state",
+        "oppenheimer-trinity-reality"
+      ],
+      "spoilerNote": "Oppenheimer hikâyesinin sonunu veya büyük sürprizlerini anlatabilir.",
+      "whatWeSee": "Oppenheimer filmdе “Downwinders: Trinity'nin Görünmez Kurbanları” konusunu modern tarih ve sağlık ekseninde somut sahnelerle işler. Rüzgarla gelen radyoaktif miras."
+    }
+  ]
+}

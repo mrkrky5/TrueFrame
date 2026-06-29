@@ -1,0 +1,293 @@
+{
+  "locale": "tr",
+  "chunkIndex": 53,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-067-seppuku",
+      "title": "Seppuku Gerçeği",
+      "subtitle": "Seppuku: onur ritüeli mi, siyasi araç mı?",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Erken Modern",
+      "region": "Japonya",
+      "themes": [
+        "Siyaset",
+        "Ticaret",
+        "Din"
+      ],
+      "whatWeSee": "Shogun dizisinde seppuku (harakiri) onur ritüeli olarak gösterilir: beyaz giysi, kısa kılıç, tanık topluluk. Dizi Japon ölüm kültürünü batılı izleyiciye açıklar. Sahnede tören odasında diz çöken samuray, ritüeli denetleyen tanıklar ve son darbeyi bekleyen yardımcı figür seppukunun kamusal yönünü hissettiriyor.",
+      "realHistory": "Seppuku, samuray sınıfının ritüel intiharıydı; onur kaybı, yenilgi veya shogun emriyle uygulanırdı. 1600 sonrası Tokugawa düzeni seppuku'yu siyasi araç olarak kodladı: daimyo cezalandırması, rehin intiharı. Tanık (kaishakunin) boynu keserek acıyı kısaltırdı. Kadınlar için jigai (bıçakla boğaz) farklı ritüeldi. Shogun dizisi seppuku'yu dramatik doruk yapar; tarihsel kayıtlar 47 ronin (1703) gibi vakaları saklar. Seppuku 1873'te yasaklandı. Ritüel hem onur hem devlet disiplini aracıydı. Seppuku, samuray onur kültüründe bireysel cesaret gösterisinden çok hukuki ve siyasi düzenin ritüelleştirilmiş bir unsuruydu. Tokugawa döneminde bazı durumlarda infazın alternatif biçimi olarak uygulanarak statü kaybını sınırlayan bir çerçeve sundu. Törenin tanıkları, tanıklık metinleri ve yardımcı rolündeki kaishakunin, sürecin kontrolsüz şiddete dönüşmesini engelliyordu. Edebi metinler bu pratiği romantikleştirse de tarihsel kayıtlarda sınıfsal erişim ve devlet onayı belirleyici faktördür. Böylece seppuku, saf kişisel tercih değil hiyerarşik düzen içinde anlam kazanan kamusal bir performans olarak değerlendirilmelidir. Seppuku Gerçeği Seppuku, samuray sınıfının ritüel intiharıydı; onur kaybı, yenilgi veya shogun emriyle uygulanırdı. Edo hukukunda seppuku kararı sınıf statüsünü doğrudan etkiledi; aynı suç farklı sınıflarda farklı cezayla sonuçlanabiliyordu. Tanıkların varlığı ritüelin meşruiyetini kayda geçirirdi. 18. yüzyılda popüler tiyatro, bu pratiği onur dramına dönüştürerek tarihsel gerçekliğin üzerine güçlü bir estetik katman ekledi.",
+      "accuracyNote": "Seppuku ritüeli ve yasağı akademik kaynaklarla uyumludur.",
+      "whyInteresting": "Aynı ritüel hem kişisel onur hem merkezi otorite aracıydı.",
+      "misconception": "Seppuku yalnızca gönüllü onur eylemiydi; çoğu zaman emirdi.",
+      "nextTopics": [
+        "Daimyo Siyaseti",
+        "Yabancı Denizciler",
+        "Cizvit Misyonları"
+      ],
+      "sources": [
+        {
+          "title": "Seppuku (Britannica)",
+          "url": "https://www.britannica.com/topic/seppuku",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Forty-seven ronin (Britannica)",
+          "url": "https://www.britannica.com/topic/forty-seven-ronin",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Samurai (Britannica)",
+          "url": "https://www.britannica.com/topic/samurai",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-060-clan-loyalty",
+        "tf26-064-hostage-system"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Shogun'un seppuku sahneleri ile Edo dönemi ritüel intihar ve 47 ronin vakası.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japonya",
+        "tokugawa",
+        "seppuku-gercegi",
+        "true-frame",
+        "samuray"
+      ],
+      "spoilerNote": "Shogun hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi seppuku'yu açıklayıcı sahne yapar; gerçekte siyasi emir ve aile baskısı vardı.",
+      "whyItMatters": "Aynı ritüel hem kişisel onur hem merkezi otorite aracıydı.",
+      "isFlagship": false,
+      "quickRealityCheck": "Tokugawa döneminde seppuku neden siyasi araç haline geldi?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-068-port-trade",
+      "title": "Liman Ticareti",
+      "subtitle": "Liman ticareti: silah yasağı, kâr serbest",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Erken Modern",
+      "region": "Japonya",
+      "themes": [
+        "Siyaset",
+        "Ticaret",
+        "Din"
+      ],
+      "whatWeSee": "Shogun'da limanlar (Osaka, Nagasaki) ticaret, yabancı gemiler ve daimyo rekabetinin merkezidir. Blackthorne'un varışı liman politikasını hareketlendirir. İzleyici limanda denetlenen yabancı malları, tercüman aracılığıyla yapılan fiyat pazarlığını ve devlet görevlilerinin ticareti güvenlik çizgisi içinde tuttuğunu görüyor. Liman gümrük sahneleri ticaret yasağının sınırlarını gösterir.",
+      "realHistory": "Tokugawa öncesi ve erken Edo'da limanlar ekonomik ve siyasi güç merkeziydi. Sakai ve Osaka ticaret hub'ıydı; Nanban limanları gümüş ve silah akışını kontrol etti. 1630'lardan sonra sakoku politikası dış ticareti Nagasaki ve belirli Hollanda/Çin hatlarına indirdi. Liman vergisi, kâr payı ve daimyo rekabeti şehirleri büyüttü. Shogun dizisi limanı kültür çarpışması sahnesi yapar; tarihsel kayıtlar ticaretin merkezi otoriteyle nasıl müzakere edildiğini gösterir. Erken modern Japon liman ticareti, kapalı ülke klişesinden daha karmaşık, seçici bir dışa açıklık modeli sunar. Nagasaki gibi merkezlerde Çin ve Hollanda gemileri kontrollü rejim altında kabul edilirken, gümrük, depo ve tercüman ağları devlet gözetiminde çalıştı. Barut, ipek, şeker ve bilimsel aletler ekonomik değer kadar bilgi transferi taşıdı. Hıristiyan misyon faaliyetleri sınırlandırılırken ticari temas tamamen kesilmedi; kâr ile güvenlik arasında ince bir denge kuruldu. Limanlar böylece Tokugawa düzeninin hem gelir kapısı hem dünyayı filtreleyen diplomatik kapısı haline geldi. Liman Ticareti Tokugawa öncesi ve erken Edo'da limanlar ekonomik ve siyasi güç merkeziydi. Nagasaki'deki Dejima adacığı, yabancı tüccarların fiziksel olarak sınırlandığı ama ticaretin kesilmediği hibrit bir model sundu. Giriş çıkış izinleri sıkıydı; yine de tıp, astronomi ve haritacılık bilgisi bu kanal üzerinden Japon entelektüel çevrelerine ulaştı. Liman rejimi güvenlik ve kârı birlikte gözetti.",
+      "accuracyNote": "Sakoku ve Nagasaki Britannica ile uyumludur.",
+      "whyInteresting": "Aynı liman hem zenginlik hem tehdit kapısıydı.",
+      "misconception": "Japonya tamamen kapalıydı; liman üzerinden sınırlı ticaret sürdü.",
+      "nextTopics": [
+        "Daimyo Siyaseti",
+        "Yabancı Denizciler",
+        "Cizvit Misyonları"
+      ],
+      "sources": [
+        {
+          "title": "Sakoku (Britannica)",
+          "url": "https://www.britannica.com/topic/sakoku",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Nanban trade (Britannica)",
+          "url": "https://www.britannica.com/topic/Nanban-trade",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Dejima Nagasaki (Japan National Tourism)",
+          "url": "https://www.japan.travel/en/destinations/kyushu/nagasaki/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-064-hostage-system",
+        "tf26-062-foreign-pilots"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Shogun liman sahneleri ile Nanban ticareti ve Tokugawa sakoku liman politikası.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japonya",
+        "tokugawa",
+        "liman-ticareti",
+        "true-frame",
+        "samuray"
+      ],
+      "spoilerNote": "Shogun hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi limanı macera girişi yapar; gerçekte vergi ve yasak politikası belirleyiciydi.",
+      "whyItMatters": "Aynı liman hem zenginlik hem tehdit kapısıydı.",
+      "isFlagship": true,
+      "quickRealityCheck": "Sakoku sonrası dış ticaret neden Nagasaki ile sınırlandı?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-069-sekigahara",
+      "title": "Sekigahara Sonrası",
+      "subtitle": "Bir sahnenin sakladığı sistem",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Erken Modern",
+      "region": "Japonya",
+      "themes": [
+        "Siyaset",
+        "Ticaret",
+        "Din"
+      ],
+      "whatWeSee": "Shogun, Sekigahara sonrasını kişisel sadakat testleri, rehine siyaseti ve liman pazarlıklarıyla örülen gergin bir yeniden kurulum dönemi olarak anlatıyor. Savaş bitmiş görünse de herkes yeni düzende yerini korumaya çalışıyor. İzleyici için barış, huzurlu bir dönem değil; yeni hiyerarşinin dikkatle inşa edildiği ve sürekli denetlendiği kırılgan bir süreç gibi duruyor.",
+      "realHistory": "1600'deki Sekigahara Muharebesi Tokugawa Ieyasu lehine kritik bir askeri dönemeç yarattı, ancak asıl dönüşüm savaş sonrasında idari düzenin kurulmasıyla gerçekleşti. 1603'te şogunluk unvanıyla başlayan süreçte toprak dağılımı yeniden düzenlendi, daimyo aileleri sadakat düzeyine göre sınıflandırıldı ve stratejik bölgeler doğrudan bakufu denetimine alındı. Bu adımlar askeri zaferi kalıcı yönetime çevirdi. Zamanla kurumsallaşan sankin-kotai düzeni, daimyo beylerini Edo'ya düzenli geliş gidişe zorlayarak hem mali yük bindirdi hem de isyan kapasitesini sınırladı. Ulaşım ağları ve şehir ekonomisi bu sistemle birlikte genişledi. Dış politikada mutlak kapanma yerine seçici kontrol benimsendi; misyoner faaliyetleri ve bazı ticaret kanalları sert denetim altındayken belirli limanlar üzerinden bağlantı sürdü. Bu yüzden Tokugawa dönemi yalnız \"izolasyon\" etiketiyle açıklanamaz. Pirinç vergisi, samuray maaşları ve pazar fiyatları arasındaki denge siyasal istikrarın ekonomik temelini oluşturdu. Sekigahara sonrası Japonya'nın kalıcılığı kişisel dehadan çok, statü, vergi, hareketlilik ve güvenlik alanlarını birlikte yöneten kurumsal tasarımdan doğdu. Shogun'un entrika dili dönemin psikolojisine yaklaşır; tarihsel ağırlık ise yüzyıllar süren bu idari mimaride yatar. Daimyo kalelerinin onarım ve genişletme izne bağlanması da askeri kapasitenin merkezden kontrol edilmesini sağladı. Bu mekansal denetim, siyasi itaatin günlük hayatta nasıl somutlaştığını gösteren kritik bir araçtı. Nufus kayıtları da bu denetimi destekledi. Tapınak kayıtları da destek verdi.",
+      "accuracyNote": "Güç mücadelesi havası doğru yakalanır; ancak idari reformların uzun vadeli etkileri dramatik anlatıda sadeleşir.",
+      "whyInteresting": "Bir meydan savaşı, kılıçtan çok vergi, yol ve zorunlu ikamet kurallarıyla ayakta kalan bir yüzyıl düzenini tetikledi.",
+      "misconception": "Sekigahara'dan hemen sonra Japonya'nın bir gecede tamamen dışa kapandığı sanılır.",
+      "nextTopics": [
+        "Daimyo Siyaseti",
+        "Yabancı Denizciler",
+        "Cizvit Misyonları"
+      ],
+      "sources": [
+        {
+          "title": "Britannica - Battle of Sekigahara",
+          "url": "https://www.britannica.com/event/Battle-of-Sekigahara",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Tokugawa period",
+          "url": "https://www.britannica.com/event/Tokugawa-period",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Tokugawa Ieyasu",
+          "url": "https://www.britannica.com/biography/Tokugawa-Ieyasu",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-070-edo-peace",
+        "tf26-067-seppuku",
+        "tf26-068-port-trade"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Shogun'daki saray gerilimi, Tokugawa bakufusunun merkezileştirici araçlarıyla birlikte okunduğunda tarihsel karşılığını bulur.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japonya",
+        "tokugawa",
+        "sekigahara-sonrasi",
+        "true-frame",
+        "samuray"
+      ],
+      "spoilerNote": "Shogun hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi geçişi kişisel strateji çatışmalarına yoğunlaştırıyor. Tarihte kalıcı düzeni belirleyen temel unsur, uzun vadeli kontrol mekanizmalarının inşasıydı.",
+      "whyItMatters": "Bir meydan savaşı, kılıçtan çok vergi, yol ve zorunlu ikamet kurallarıyla ayakta kalan bir yüzyıl düzenini tetikledi.",
+      "isFlagship": false,
+      "quickRealityCheck": "Tokugawa otoritesini kalıcı yapan şey tek savaş galibiyeti miydi, yoksa daimyo hareketliliğini sınırlayan idari sistemler miydi?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-070-edo-peace",
+      "title": "Edo Barışı",
+      "subtitle": "Edo Barışı neden önemli?",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Erken Modern",
+      "region": "Japonya",
+      "themes": [
+        "Siyaset",
+        "Ticaret",
+        "Din"
+      ],
+      "whatWeSee": "Shogun dizisinde Tokugawa düzeni, kontrollü ticaret ve feodal sadakat üzerine kurulu görünür. Savaş sonrası barış, rehin düzeni ve liman kısıtlarıyla korunur; Blackthorne'un gelişi bu kapalı dünyayı sarsar. Sahnede Edo caddelerinde düzenli devriyeler, sıraya girmiş daimyo alayları ve savaş yerine ticaretle dolan hanlar uzun barışın ritmini görünür kılıyor.",
+      "realHistory": "1603'te Tokugawa Ieyasu shogun oldu; 1615 Osaka kuşatmasından sonra rakipler ezildi. Edo dönemi (1603-1868) 'Pax Tokugawa' olarak anılır: daimyo rehin sistemi (sankin-kōtai), Hristiyanlığın yasaklanması, silah toplama ve sınırlı dış ticaret (Nagasaki) merkezi otoriteyi güçlendirdi. İç savaşlar durdu; kentleşme ve kültür (ukiyo-e, kabuki) büyüdü. Barış, baskı fiyatıyla geldi: toprak sınıflandırması, statü kilidi ve izolasyon. Shogun dizisi 1600 civarına yaklaşır; tarihsel olarak Edo barışı on yıllar süren inşaata dayanır. Ticaret ve tarım refahı artsa da feodal yük ağırda kaldı. 1853 Perry gelene kadar kapı kapalı kaldı. Tokugawa dönemindeki Edo Barışı, yaklaşık iki buçuk yüzyıl boyunca büyük iç savaşların engellenmesiyle Japonya'da istikrar sağladı. Daimyoların askeri kapasitesi merkezi denetimle sınırlandı; kale inşası, evlilik ittifakları ve silah dolaşımı sıkı kurallara bağlandı. Sankin-kotai sistemi, yerel beyleri düzenli olarak Edo'ya taşıyarak hem siyasi bağlılık hem ekonomik yük oluşturdu. Uzun barış ortamı şehirleşmeyi, zanaat üretimini ve okuryazarlığı artırdı. Bu düzen sert hiyerarşi içeriyordu, ancak aynı zamanda 19. yüzyıl modernleşmesine taşınacak bürokratik ve mali deneyimi biriktirdi. Edo Barışı 1603'te Tokugawa Ieyasu shogun oldu; 1615 Osaka kuşatmasından sonra rakipler ezildi. Tokugawa barışı sırasında kale kasabaları, pirinç vergisinin nakit ekonomiye çevrildiği merkezler oldu. Samurai maaşları sabit kalırken Osaka ve Edo tüccarları kredi ağlarıyla güç kazandı. Bu dengesizlik, 18. yüzyıl reformlarını tetikleyen borç krizini ve sınıf gerilimini görünür biçimde artırdı.",
+      "accuracyNote": "Tokugawa kurumları akademik kaynaklarla uyumludur; dizi zaman çizgisi sıkıştırılmıştır.",
+      "whyInteresting": "Barış, silah değil kurumsal rehin ve ticaret kontrolüyle sağlandı.",
+      "misconception": "Edo dönemi tamamen durgundu; kentleşme ve kültür canlıydı ama siyasi rekabet kısıtlıydı.",
+      "nextTopics": [
+        "Daimyo Siyaseti",
+        "Yabancı Denizciler",
+        "Cizvit Misyonları"
+      ],
+      "sources": [
+        {
+          "title": "Tokugawa period (Britannica)",
+          "url": "https://www.britannica.com/event/Tokugawa-period",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Sankin-kotai (Britannica)",
+          "url": "https://www.britannica.com/topic/sankin-kotai",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Edo period Japan (Met Museum)",
+          "url": "https://www.metmuseum.org/toah/hd/edop/hd_edop.htm",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-068-port-trade",
+        "tf26-069-sekigahara"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Shogun'un feodal düzen sahneleri ile Tokugawa Edo barışı, sankin-kōtai ve sakoku politikaları.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japonya",
+        "tokugawa",
+        "edo-barisi",
+        "true-frame",
+        "samuray"
+      ],
+      "spoilerNote": "Shogun hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi barışı kişisel entrika ile sunar; gerçekte rehin ve ticaret politikası düzeni ayakta tuttu.",
+      "whyItMatters": "Barış, silah değil kurumsal rehin ve ticaret kontrolüyle sağlandı.",
+      "isFlagship": false,
+      "quickRealityCheck": "Daimyo rehin sistemi shogun'un gücünü nasıl güvenceye aldı?",
+      "lastReviewedAt": "2026-06-25"
+    }
+  ]
+}

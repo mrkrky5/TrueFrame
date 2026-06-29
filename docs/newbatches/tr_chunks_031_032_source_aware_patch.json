@@ -1,0 +1,376 @@
+{
+  "batch": "tr-chunks-031-032-source-aware",
+  "sourceChunks": [
+    "tr-chunk-031.json",
+    "tr-chunk-032.json"
+  ],
+  "notes": [
+    "External source-aware editorial review for Turkish chunks 031 and 032.",
+    "Only changed fields are included. Apply by id + locale.",
+    "sourceUpdates are separated from text field updates.",
+    "Main issues: repeated template residue, over-certain claims, weak/generic source URLs, and flagship depth for Waterloo."
+  ],
+  "entries": [
+    {
+      "id": "last-kingdom-alfred-dream",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original had repeated/generated paragraphs and overstated Alfred as if he directly created unified England. Reframed him as Wessex ruler whose military, legal and educational reforms prepared the ground later completed under Athelstan.",
+      "fields": {
+        "whatWeSee": "The Last Kingdom, Alfred’i Viking baskısı altındaki Wessex’in soğuk, dindar ve hesapçı kralı olarak gösterir. Dizide onun en büyük hedefi, parçalı Sakson krallıklarının ötesinde daha geniş bir “English” kimliği kurmaktır.",
+        "realHistory": "Büyük Alfred’in tarihsel önemi, “İngiltere’yi tek başına kurması”ndan değil, Wessex’i Viking baskısı altında ayakta tutan kurumları güçlendirmesinden gelir. 878’de Edington’da Guthrum’u yenmesi, askeri açıdan kritik bir dönemeçti; fakat daha kalıcı olan, bu zaferden sonra kurulan savunma ve yönetim düzeniydi.\n\nAlfred’in burh adı verilen tahkimatlı yerleşim ağı, Viking akınlarının hız avantajını azaltmak için tasarlanmıştı. Bu merkezler hem sığınak hem de yerel idare düğümü gibi çalıştı. Aynı dönemde hukuk derlemeleri, eğitim reformları ve Latince metinlerin Eski İngilizceye çevrilmesi, krallığı yalnız kılıçla değil yazılı kültürle de güçlendirme çabasıydı.\n\nThe Last Kingdom’ın “birleşik İngiltere rüyası” dramatik olarak doğru bir his verir, ama bunu modern ulus-devlet fikri gibi okumamak gerekir. Alfred kendisini bugünkü anlamda İngiltere kralı değil, Wessex kralı ve Anglo-Saksonların koruyucusu olarak konumlandırdı. Birleşik İngiltere’ye giden çizgi, oğlu Edward ve torunu Athelstan döneminde tamamlanacaktı.",
+        "accuracyNote": "Dizi Alfred’in dindarlığını, fiziksel kırılganlığını ve stratejik yönünü etkili biçimde dramatize eder. Ancak Alfred’in hedefi modern anlamda ulusal bir İngiltere kurmaktan çok, Viking baskısı altındaki Hristiyan Sakson düzenini savunmak ve daha geniş bir Anglo-Sakson siyasi zemin oluşturmaktı.",
+        "whyInteresting": "Alfred, savaşçı kral imajının yanında eğitim ve çeviri faaliyetlerini destekleyen nadir Orta Çağ hükümdarlarından biriydi.",
+        "misconception": "Alfred’in doğrudan birleşik İngiltere’yi kurduğu sanılır; gerçekte bu sürecin askeri, hukuki ve kültürel temelini hazırladı, siyasi tamamlanma ise sonraki kuşaklarda gerçekleşti.",
+        "mediaChanged": "Dizi Alfred’in vizyonunu karakter çatışmaları ve saray gerilimiyle yoğunlaştırır; tarihsel süreç ise Edington, burh ağı, eğitim reformları ve Athelstan dönemindeki birleşme adımlarıyla daha uzun ilerler.",
+        "whyItMatters": "Alfred’in hikayesi, siyasi birlik fikrinin yalnız savaşla değil; savunma altyapısı, hukuk, eğitim ve ortak dil üzerinden de kurulduğunu gösterir.",
+        "quickRealityCheck": "The Last Kingdom’daki Alfred gerçekten İngiltere’yi tek başına mı kurdu, yoksa birleşik krallığın temelini atan Wessex kralı mıydı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Alfred 'The Great' (r. 871–899) - Royal.uk",
+            "url": "https://www.royal.uk/alfred-great-r-871-899",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Anglo-Saxon Chronicle - British Library",
+            "url": "https://www.bl.uk/collection-items/the-anglo-saxon-chronicle",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Aethelstan - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/Aethelstan/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "saving-private-ryan-omaha",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original relied on vague claims about veteran reactions and simplified the beach timeline. Rewritten around Omaha’s tactical chaos, casualty uncertainty, failed armour support, and small-unit initiative.",
+      "fields": {
+        "whatWeSee": "Saving Private Ryan’ın açılışı, Omaha Plajı’na çıkan askerleri sis, makineli tüfek ateşi, boğulan çıkarma botları ve yönünü kaybetmiş küçük birlikler içinde gösterir. Film, savaşın ilk dakikalarını kahramanlık pozundan çok şok ve dağılma hissiyle anlatır.",
+        "realHistory": "Omaha Plajı, 6 Haziran 1944’te Normandiya çıkarmasının en ağır noktalarından biriydi. Amerikan birlikleri güçlü Alman savunması, mayınlar, engeller, yoğun makineli tüfek ateşi ve sahile ulaşamayan zırhlı destek nedeniyle ilk saatlerde ciddi kayıplar verdi. Plan kağıt üzerinde ayrıntılıydı; sahilde ise birlikler dağıldı, telsizler aksadı ve komuta zinciri çoğu yerde parçalandı.\n\nFilmin açılış sahnesi bu kaosu yoğunlaştırır. Gerçekte Omaha’nın kırılması yirmi dakikalık tek bir saldırıyla değil, saatler süren küçük inisiyatiflerle mümkün oldu. Kimi subaylar ve erler, sahilde beklemenin ölüm anlamına geldiğini fark edip tel engelleri aşmaya, kum setlerine çıkmaya ve Alman mevzilerini yanlardan zorlamaya başladı. Bu tür küçük kararlar, merkezi planın çöktüğü yerde ilerlemeyi mümkün kıldı.\n\nSaving Private Ryan bu yüzden teknik ayrıntıdan çok deneyim hissi açısından güçlüdür. Film bazı olayları sinema temposu için sıkıştırır; ancak Omaha’nın asıl gerçeğini doğru yakalar: en iyi hazırlanmış operasyon bile sahilde birkaç dakika içinde çamur, korku, yanlış iniş noktası ve bireysel kararların toplamına dönüşebilir.",
+        "accuracyNote": "Film, Omaha çıkarmasının duyusal ve psikolojik şiddetini güçlü biçimde verir. Yine de sahilin ele geçirilme süresi, birliklerin dağılımı ve bazı teknik ayrıntılar sinema dili için sıkıştırılmıştır.",
+        "whyInteresting": "Omaha’da ilerlemeyi çoğu zaman büyük stratejik emirler değil, sahilde hayatta kalmaya çalışan küçük birliklerin inisiyatifi sağladı.",
+        "misconception": "D-Day’in her plajda planlandığı gibi ilerlediği sanılır; Omaha’da planın birçok parçası çöktü ve başarı saatler süren dağınık baskıyla geldi.",
+        "mediaChanged": "Film yirmi dakikalık açılışla Omaha’nın dehşetini yoğunlaştırır; tarihsel süreç ise sahilin saatler boyunca açılmaya çalışıldığı daha uzun ve karmaşık bir mücadeleydi.",
+        "whyItMatters": "Omaha Plajı, askeri planlamanın sahadaki sis, korku ve rastlantı karşısında ne kadar kırılgan olabileceğini gösterir.",
+        "quickRealityCheck": "Saving Private Ryan’ın Omaha sahnesi birebir kronoloji mi anlatıyor, yoksa sahilin kaosunu ve savaşın hissini mi yoğunlaştırıyor?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Saving Private Ryan: History vs. Hollywood - The National WWII Museum",
+            "url": "https://www.nationalww2museum.org/about-us/notes-museum/saving-private-ryan-history-vs-hollywood",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "D-Day: The Invasion of Normandy - Imperial War Museums",
+            "url": "https://www.iwm.org.uk/history/the-10-things-you-need-to-know-about-d-day",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Omaha Beach - National D-Day Memorial",
+            "url": "https://www.dday.org/learn/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "napoleon-code-legacy-real",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original overstated global legal influence and included template residue. Rewritten to keep the Code Civil’s importance while noting its conservative/patriarchal limits.",
+      "fields": {
+        "whatWeSee": "Napoleon filmleri çoğu zaman at, top, üniforma ve meydan savaşlarına odaklanır. Napolyon’un kalıcı mirası olan 1804 Medeni Kanunu ise dramatik olmadığı için arka planda kalır.",
+        "realHistory": "Napolyon’un en kalıcı etkilerinden biri, savaş meydanlarından çok hukuk alanında görülür. 1804’te yürürlüğe giren Code Civil, devrim sonrası Fransa’daki karmaşık yerel hukuk düzenlerini daha standart, okunabilir ve merkezi bir hukuk sistemine bağladı. Kanun önünde eşitlik, mülkiyet hakkı, laik devlet otoritesi ve feodal ayrıcalıkların kaldırılması gibi devrim kazanımlarını kalıcılaştırdı.\n\nBu kanun, Napolyon’un fetihleriyle Avrupa’nın birçok bölgesine taşındı ve farklı ülkelerde medeni hukuk geleneğini etkiledi. Ancak onu yalnız “özgürlük belgesi” gibi okumak eksik olur. Code Civil aile hukuku ve kadınların hukuki konumu konusunda dönemin ataerkil sınırlarını da korudu; baba ve koca otoritesini güçlendiren hükümler içeriyordu.\n\nBu yüzden Napolyon’un hukuk mirası çift yönlüdür. Bir yandan aristokrat ayrıcalıkların ve parçalı yerel hukukların yerine daha rasyonel bir vatandaşlık düzeni sundu. Diğer yandan modern eşitlik fikrinin kendi dönemindeki sınırlılığını da gösterdi. Askeri zaferlerinin çoğu geri alınsa da, Code Civil’in yarattığı hukuk dili daha uzun yaşadı.",
+        "accuracyNote": "Code Civil modern hukuk tarihinde çok etkiliydi, fakat bütün dünyadaki hukuk sistemlerinin doğrudan kaynağı gibi sunulmamalıdır. Etkisi özellikle kıta Avrupası ve medeni hukuk geleneği üzerinden okunmalıdır.",
+        "whyInteresting": "Napolyon’un en kalıcı zaferi, çoğu filmde birkaç cümleyle geçilen bir hukuk kitabı oldu.",
+        "misconception": "Napolyon’un mirasının yalnız savaşlardan ibaret olduğu sanılır; gerçekte hukuk, mülkiyet ve vatandaşlık düzeni üzerindeki etkisi daha uzun ömürlüydü.",
+        "mediaChanged": "Filmler askeri dehayı öne çıkarır; tarihsel miras ise savaşların ötesinde, devletin vatandaşla ilişkisini kodlayan hukuk reformlarında da görünür.",
+        "whyItMatters": "Code Civil, devrimci eşitlik idealinin devlet eliyle nasıl kalıcı kurala dönüştürüldüğünü ve aynı anda kendi döneminin sınırlarını nasıl taşıdığını gösterir.",
+        "quickRealityCheck": "Napolyon’un asıl mirası sadece kazandığı savaşlar mıydı, yoksa modern hukuk ve vatandaşlık düzenine bıraktığı iz mi daha kalıcı oldu?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The French Civil Code or Code Civil, 21 March 1804 - Fondation Napoléon",
+            "url": "https://www.napoleon.org/en/history-of-the-two-empires/articles/the-french-civil-code-or-code-civil-21-march-1804-an-overview/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Napoleonic Code - Britannica",
+            "url": "https://www.britannica.com/topic/Napoleonic-Code",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Code Napoleon - The Napoleon Series",
+            "url": "https://www.napoleon-series.org/government/code-napoleon/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "300-hoplite-phalanx-real",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original contained repeated generated paragraphs and overstated phalanx mechanics. Reframed hoplite warfare as disciplined collective fighting rather than solo heroics.",
+      "fields": {
+        "whatWeSee": "300 Spartalı filminde savaş, çoğu zaman bireysel güç, zıplayan bedenler ve sinematik kılıç darbeleriyle anlatılır. Spartalılar neredeyse tek tek kahraman dövüşçüler gibi görünür.",
+        "realHistory": "Klasik Yunan savaşında hoplit gücünün temeli bireysel gösteri değil, falanks düzeniydi. Hoplitler büyük yuvarlak kalkan, mızrak, miğfer ve vücut korumasıyla omuz omuza savaşırdı. Bu düzende kalkan yalnız taşıyan kişiyi değil, yanındaki askerin açık kalan tarafını da korurdu; bu yüzden güven, ritim ve yerini terk etmeme hayatiydi.\n\nThermopylai’nin askeri anlamı da buradadır. Dar geçit, Pers ordusunun sayısal üstünlüğünü sınırladı ve hoplit düzeninin avantajını büyüttü. Spartalıların başarısı yalnız “daha cesur” olmalarından değil, araziyi, disiplinli safları ve ağır piyade düzenini doğru kullanmalarından kaynaklandı.\n\nFilmdeki çıplak göğüslü, dağınık ve sürekli solo dövüşen Spartalı imajı görsel olarak etkileyicidir; tarihsel olarak ise hoplitin gücü kolektif formasyonda saklıydı. Bir falanksın kırılması, tek bir kahramanın sahneye çıkmasıyla değil, hattaki güvenin bozulmasıyla başlardı.",
+        "accuracyNote": "300, Frank Miller çizgi romanının aşırı stilize dilini izler. Hoplitlerin çıplak, bireysel dövüşçüler gibi sunulması tarihsel doğruluktan çok görsel mit yaratma tercihi olarak okunmalıdır.",
+        "whyInteresting": "Falanks düzeninde bir askerin cesareti, öne atılmasından çok yanındaki adamı kalkanıyla koruyacak kadar yerinde kalmasında ölçülürdü.",
+        "misconception": "Spartalıların savaşı tek tek kahramanlık gösterileriyle kazandığı sanılır; gerçekte üstünlükleri disiplinli birlik düzeni ve arazi kullanımıyla ilgiliydi.",
+        "mediaChanged": "Film bireysel savaşçıyı büyütür; tarihsel hoplit savaşı ise kalkanların, safların ve ortak ritmin yarattığı kolektif güçle işler.",
+        "whyItMatters": "Falanks, askeri tarihte disiplinli kolektif hareketin bireysel gücü nasıl aşabildiğini gösteren erken örneklerden biridir.",
+        "quickRealityCheck": "300’deki Spartalılar gerçekten solo kahramanlar gibi mi savaşıyordu, yoksa güçleri falanks düzeninin kolektif disiplininden mi geliyordu?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Warfare in Ancient Greece - The Metropolitan Museum of Art",
+            "url": "https://www.metmuseum.org/essays/warfare-in-ancient-greece",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Hoplite - Britannica",
+            "url": "https://www.britannica.com/topic/hoplite",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Thermopylae - Britannica",
+            "url": "https://www.britannica.com/event/Battle-of-Thermopylae-Greek-history-480-BC",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "oppenheimer-rad-downwinders",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original is strong conceptually but included unverified anecdotal details and too-certain health causation. Rewritten with NPS/NCI framing: secrecy, fallout exposure, later dose/cancer-risk study, and contested recognition.",
+      "fields": {
+        "whatWeSee": "Oppenheimer, Trinity testini büyük ölçüde Los Alamos’taki bilim insanlarının heyecanı, korkusu ve etik sarsıntısı üzerinden gösterir. Patlama alanının çevresinde yaşayan siviller ise hikâyenin merkezinde değildir.",
+        "realHistory": "Trinity testi 16 Temmuz 1945’te New Mexico’da yapıldığında, yakın çevrede yaşayan insanlar test hakkında bilgilendirilmedi ve tahliye edilmedi. Patlama çok gizliydi; çevredeki topluluklara bunun ne olduğu ya da radyoaktif serpintinin ne anlama gelebileceği açıklanmadı. Bugün “downwinders” diye anılan bu insanlar, patlama sonrası rüzgârla taşınan radyoaktif serpinti tartışmasının merkezindedir.\n\nBu konuda dikkatli konuşmak gerekir: Her bireysel hastalığı tek başına Trinity’ye bağlamak bilimsel olarak kolay değildir. Ancak resmi ve akademik çalışmalar, New Mexico sakinlerinin değişen düzeylerde serpintiye maruz kalmış olabileceğini ve olası radyasyon kaynaklı kanser riskinin araştırılması gerektiğini gösterir. Bu nedenle downwinders meselesi yalnız sağlık değil, bilgilendirme, rıza ve devlet sorumluluğu meselesidir.\n\nFilmde Trinity çoğunlukla atom çağının doğuşu olarak görünür. Tarihsel çerçeveye downwinders eklendiğinde, aynı an başka bir anlam kazanır: Bilimsel başarı, test alanının dışındaki insanların habersizce taşıdığı riskle birlikte okunmalıdır. Bu görünmezlik, Manhattan Projesi’nin etik kör noktalarından biridir.",
+        "accuracyNote": "Downwinders anlatısında güçlü tanıklıklar ve devam eden tazminat/adalet tartışmaları vardır; ancak sağlık sonuçları anlatılırken bireysel hastalıklar için kesin nedensellik iddiası yerine maruziyet, risk ve resmi çalışma dili kullanılmalıdır.",
+        "whyInteresting": "Trinity yalnız laboratuvar başarısı değil, haberdar edilmeyen sivillerin de içine çekildiği bir devlet sırrı olayıydı.",
+        "misconception": "Trinity testinin yalnız boş bir çölde gerçekleştiği sanılır; gerçekte çevrede yaşayan insanlar testten ve potansiyel serpinti riskinden haberdar edilmedi.",
+        "mediaChanged": "Film patlamayı bilim insanlarının anı ve etik krizi üzerinden verir; downwinders hikayesi ise aynı olayın çevredeki siviller için görünmez risk ve tanınma mücadelesi olduğunu gösterir.",
+        "whyItMatters": "Downwinders meselesi, ulusal güvenlik adına yürütülen bilimsel projelerde bilgilendirme, rıza ve uzun vadeli sorumluluğun neden vazgeçilmez olduğunu gösterir.",
+        "quickRealityCheck": "Trinity gerçekten yalnız bilimsel bir başarı mıydı, yoksa çevrede yaşayan insanların bilmeden maruz kaldığı bir risk hikayesi de miydi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Trinity Test Downwinders - National Park Service",
+            "url": "https://www.nps.gov/articles/000/trinity-test-downwinders.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Study of Radiation Doses and Cancer Risks from the Trinity Test - National Cancer Institute",
+            "url": "https://dceg.cancer.gov/research/how-we-study/exposure-assessment/trinity",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Projected Cancer Risks to Residents of New Mexico from Trinity Fallout - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7497483/",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "gladiator-female-gladiatrix",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original made several claims too certain (night matches, class profile, clothing details). Rewritten to emphasize rarity, limited evidence, the Halicarnassus relief, literary references, and Severus-era ban.",
+      "fields": {
+        "whatWeSee": "Gladiator dünyası genellikle tamamen erkek savaşçılardan oluşan bir arena gibi görünür. Kadın dövüşçüler varsa bile çoğu yapımda egzotik bir istisna ya da görsel fantezi gibi kullanılır.",
+        "realHistory": "Roma’da kadın gladyatörlerin varlığı nadir ama gerçektir. Bu konuda kanıtlar erkek gladyatörler kadar bol değildir; birkaç yazılı referans, bazı hukuki yasaklar ve British Museum’daki Amazon ve Achillia kabartması gibi sınırlı ama önemli görsel veriler vardır. Bu yüzden gladiatrixleri büyük ve yaygın bir sınıf gibi değil, arenanın istisnai ama dikkat çekici figürleri olarak okumak gerekir.\n\nKadınların arenaya çıkması Roma toplumunda merak, rahatsızlık ve gösteri değerini aynı anda taşıyordu. Bazı gösterilerde kadın dövüşçüler mitolojik Amazon çağrışımıyla sunulabilir, bu da onları sıradan sporcu değil, izleyiciyi şaşırtan özel gösteri unsuru haline getirirdi. Septimius Severus döneminde kadınların arenada dövüşmesinin yasaklanması, bu pratiğin hem var olduğunu hem de elit ahlak tartışmalarıyla problemli görüldüğünü gösterir.\n\nBu tarih, Roma’da kadınların rollerinin basitçe “ev içi”ne indirgenemeyeceğini hatırlatır. Ancak bunu modern eşitlik anlatısı gibi de okumamak gerekir. Gladiatrixler özgürleşme sembolü olmaktan çok, Roma gösteri kültürünün sınırları zorlayan, nadir ve çoğu zaman erkek bakışıyla düzenlenen bir parçasıydı.",
+        "accuracyNote": "Kadın gladyatörler vardı, fakat erkek gladyatörler kadar yaygın değillerdi. Kanıt sınırlı olduğu için ayrıntılar kesin değil; en güvenli anlatım, nadirlik ve gösteri bağlamını birlikte vurgulamalıdır.",
+        "whyInteresting": "Amazon ve Achillia kabartması, kadın gladyatörlerin tamamen modern bir fantezi olmadığını gösteren en dikkat çekici kanıtlardan biridir.",
+        "misconception": "Roma arenasının bütünüyle erkeklere ait olduğu sanılır; gerçekte kadın dövüşçüler nadir de olsa arenaya çıktı ve bu durum antik kaynaklarda tartışma yarattı.",
+        "mediaChanged": "Filmler gladyatörlüğü çoğu zaman erkek cesareti üzerinden anlatır; tarihsel kayıtlar arenada sınırlı ama gerçek kadın dövüşçü örnekleri olduğunu gösterir.",
+        "whyItMatters": "Gladiatrixler, Roma toplumunda cinsiyet rollerinin katı olduğunu ama gösteri, statü ve merak ekonomisi içinde zaman zaman esneyebildiğini gösterir.",
+        "quickRealityCheck": "Kadın gladyatörler gerçekten var mıydı, yoksa modern filmlerin arenaya eklediği bir fantezi mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Relief of Two Female Gladiators, Amazon and Achillia - British Museum",
+            "url": "https://www.britishmuseum.org/collection/object/G_1847-0420-1",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Female Gladiators - Encyclopaedia Romana, University of Chicago",
+            "url": "https://penelope.uchicago.edu/encyclopaedia_romana/gladiators/amazones.html",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Were There Female Gladiators in Ancient Rome? - Live Science",
+            "url": "https://www.livescience.com/archaeology/romans/were-there-female-gladiators-in-ancient-rome",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "chernobyl-pripyat-delay",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original had highly specific but unsupported radiation multiplier and Bridge of Death certainty. Rewritten around verified 36-hour evacuation delay, official silence, and risk communication.",
+      "fields": {
+        "whatWeSee": "Chernobyl dizisinde Pripyat, patlamadan sonra bir süre normal hayatına devam eden genç bir Sovyet şehri olarak görünür. İnsanlar ne olduğunu tam bilmeden sokaklarda dolaşır, çocuklar oynar ve yetkililer bekler.",
+        "realHistory": "Çernobil kazası 26 Nisan 1986’da meydana geldiğinde Pripyat, santrale yalnız birkaç kilometre uzaklıktaydı. Buna rağmen şehir hemen boşaltılmadı. IAEA’ya göre yaklaşık 49 bin nüfuslu Pripyat, kazadan yaklaşık 36 saat sonra tamamen tahliye edildi. Tahliye başladığında halka bunun kısa süreli bir önlem olduğu söylendi; birçok insan evine döneceğini düşünerek yalnız temel eşyalarını aldı.\n\nBu gecikme, Sovyet kriz yönetiminin temel sorununu görünür kılar: Bilgiyi kontrol etme refleksi, hızlı risk iletişiminin önüne geçti. Yerel ve merkezi otoriteler, olayın ölçeğini kabul etmekte ve halka açık bilgi vermekte gecikti. Radyasyon görünmez olduğu için halkın gündelik hayata devam etmesi daha da trajik bir görüntü yarattı.\n\nDizideki bazı sahneler dramatik veya efsaneleşmiş ayrıntılar içerir; örneğin “Bridge of Death” anlatısı güçlü bir sembol olsa da her detayı kesin tarihsel veri gibi kullanılmamalıdır. Daha sağlam gerçek şudur: Pripyat’ın tahliyesi gecikti ve bu gecikme, nükleer felaketlerde şeffaflığın hayat kurtaran bir güvenlik unsuru olduğunu gösterdi.",
+        "accuracyNote": "36 saatlik tahliye gecikmesi güvenli bir bilgidir. Ancak belirli köprü sahneleri, kesin radyasyon çarpanları veya tek tek kişilerin akıbetleri anlatılırken efsaneleşmiş ayrıntıları belge gibi sunmamak gerekir.",
+        "whyInteresting": "Pripyat halkı radyasyonu görmediği için, felaketin en kritik saatlerinde günlük hayatın görüntüsüyle görünmez tehlike yan yana durdu.",
+        "misconception": "Çernobil’de halkın hemen tahliye edildiği sanılır; gerçekte Pripyat’ın boşaltılması kazadan yaklaşık 36 saat sonra başladı.",
+        "mediaChanged": "Dizi gecikmeyi kişisel panik ve bürokratik korku üzerinden dramatize eder; tarihsel kayıtlar ise tahliyenin merkezi onay, bilgi saklama ve kriz iletişimi sorunlarıyla geciktiğini gösterir.",
+        "whyItMatters": "Pripyat tahliyesi, felaket anlarında teknik bilgi kadar açık iletişim ve hızlı karar almanın da hayat kurtardığını gösterir.",
+        "quickRealityCheck": "Pripyat halkı kazadan hemen sonra mı tahliye edildi, yoksa şehir yaklaşık 36 saat görünmez risk altında mı kaldı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Chernobyl Accident - Frequently Asked Questions - IAEA",
+            "url": "https://www.iaea.org/topics/chornobyl/faqs",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Chernobyl: Reactions of National Authorities - OECD NEA",
+            "url": "https://www.oecd-nea.org/jcms/pl_28303/chernobyl-chapter-iii-reactions-of-national-authorities",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The International Chernobyl Project - IAEA",
+            "url": "https://www-pub.iaea.org/MTCD/Publications/PDF/Pub884e_web.pdf",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "crown-commonwealth-empire",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original overstated the Commonwealth as a smooth or chiefly personal royal achievement. Rewritten as decolonization-era symbolic diplomacy with limits and contested imperial legacy.",
+      "fields": {
+        "whatWeSee": "The Crown, Elizabeth II’nin Commonwealth gezilerini törenler, konuşmalar ve saray diplomasisi üzerinden gösterir. Kamera çoğu zaman kraliçenin eski imparatorlukla yeni dünya arasında sembolik bir bağ kurma çabasına odaklanır.",
+        "realHistory": "II. Dünya Savaşı sonrası Britanya İmparatorluğu hızla çözülürken, Commonwealth eski sömürgelerle ilişkiyi askeri yönetimden gönüllü işbirliği ve sembolik bağ düzeyine taşıyan bir model haline geldi. 1949 Londra Deklarasyonu, cumhuriyetlerin de Commonwealth içinde kalabilmesine imkân tanıyarak modern yapının temelini attı. Elizabeth II 1952’de tahta çıktığında bu dönüşüm çoktan başlamıştı.\n\nKraliçenin rolü doğrudan siyasi yönetim değil, sembolik süreklilikti. Devlet ziyaretleri, törenler ve kişisel ilişkiler, Britanya’nın sert imparatorluk gücü azaldıktan sonra yumuşak güç dili kurmasına yardım etti. Ancak bu süreci yalnız “barışçıl ve sorunsuz geçiş” gibi anlatmak eksik olur. Dekolonizasyon birçok bölgede şiddet, ekonomik bağımlılık, sınır krizleri ve sömürge mirası tartışmalarıyla birlikte yaşandı.\n\nThe Crown’un iyi yakaladığı şey, monarşinin burada gerçek yürütme gücünden çok temsil yükü taşımasıdır. Elizabeth II Commonwealth’in birleştirici yüzü oldu; fakat bu birlik, eski imparatorluğun acılarını tamamen silen bir yapı değildi. Daha doğru çerçeve, Commonwealth’i imparatorluğun bitişiyle yüzleşmeye çalışan ama aynı zamanda o mirasın tartışmalı izlerini taşıyan bir diplomatik ağ olarak okumaktır.",
+        "accuracyNote": "Elizabeth II’nin Commonwealth üzerindeki rolü sembolik ve birleştiriciydi; bağımsızlık süreçlerinin tamamını onun kişisel diplomasisiyle açıklamak fazla basit olur. Siyasi süreçler hükümetler, yerel bağımsızlık hareketleri ve küresel güç dengeleriyle şekillendi.",
+        "whyInteresting": "Commonwealth, imparatorluk sonrası dönemde bağın askeri emirle değil tören, dil, eğitim, hukuk ve diplomasiyle sürdürülmeye çalışıldığı bir yapıydı.",
+        "misconception": "Commonwealth’in sadece Britanya İmparatorluğu’nun yeni adı olduğu sanılır; gerçekte modern Commonwealth, bağımsız devletlerin gönüllü işbirliği iddiasıyla kurulan daha gevşek ve tartışmalı bir ağdır.",
+        "mediaChanged": "Dizi kraliçenin sembolik etkisini kişisel sahnelerle öne çıkarır; tarihsel bağlam ise dekolonizasyon, yerel bağımsızlık mücadeleleri ve eski imparatorluk mirasıyla daha karmaşıktır.",
+        "whyItMatters": "Commonwealth, modern dünyada sert imparatorluk gücü azaldığında sembol, kültür ve diplomatik ağların nasıl devreye girdiğini gösterir.",
+        "quickRealityCheck": "Commonwealth eski imparatorluğun yumuşak devamı mıydı, yoksa bağımsız devletlerin tartışmalı ama gönüllü işbirliği ağı mı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Our History - Commonwealth Secretariat",
+            "url": "https://thecommonwealth.org/history",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Queen Elizabeth II and the Commonwealth - Royal.uk",
+            "url": "https://www.royal.uk/queen-elizabeth-ii-and-the-commonwealth",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Decolonization - Britannica",
+            "url": "https://www.britannica.com/topic/decolonization",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "napoleon-waterloo-masterclass",
+      "locale": "tr",
+      "decision": "flagship_rewrite",
+      "reason": "Original had a good structure but was bloated, repetitive, and too dramatic. Rewritten as a flagship with clear headings, focusing on Hundred Days, Ligny/Quatre Bras, rain/delay, Wellington, Prussian arrival, and consequences without over-romanticizing.",
+      "fields": {
+        "whatWeSee": "Napoleon filmi Waterloo’yu çoğu zaman Napolyon ile Wellington arasında geçen son büyük düello gibi gösterir: yağmur, çamur, topçu ateşi, süvari hücumları ve imparatorluğun kapanış sahnesi.",
+        "realHistory": "Waterloo, yalnız Napolyon’un son yenilgisi değil, Avrupa’daki güç dengesinin yeniden kurulduğu bir kriz anıydı. 1815’te Elbe’den dönen Napolyon, Fransa’da şaşırtıcı bir hızla iktidarı yeniden ele geçirdi. Fakat bu dönüş, Avrupa devletleri için eski savaşların yeniden başlaması anlamına geliyordu. İngiltere, Prusya, Avusturya ve Rusya’nın dahil olduğu koalisyon, Napolyon’u bir kez daha durdurmak için harekete geçti.\n\n### Müttefikleri Ayrı Yakalama Planı\nNapolyon’un temel planı, Wellington’un Anglo-müttefik ordusu ile Blücher’in Prusya ordusunu birleşmeden yenmekti. 16 Haziran’da Ligny’de Prusyalıları mağlup etti, ama onları tamamen dağıtamadı. Aynı gün Quatre Bras’daki çatışmalar Wellington’un ordusunu meşgul etti. Bu iki sonuç, Napolyon’a bir fırsat verdi; fakat aynı zamanda büyük bir risk bıraktı: Prusyalılar geri çekilmişti, yok olmamıştı.\n\n### Yağmur, Çamur ve Geciken Saldırı\n17 Haziran gecesi yağan şiddetli yağmur, Waterloo sahasını çamura çevirdi. Napolyon saldırıyı zeminin kuruması için geciktirdiğinde, bu karar topçunun etkinliği açısından anlaşılırdı; fakat zaman Wellington’un lehine çalıştı. Wellington savunmasını güçlendirdi, Prusyalıların savaş alanına yaklaşması için de daha fazla saat kazanıldı. Waterloo’da doğa tek başına savaşı belirlemedi, ama kararların ağırlığını artıran bir faktör oldu.\n\n### Wellington’un Savunması ve Prusya’nın Gelişi\nWellington’un gücü, hattını son ana kadar tutabilmesiydi. Çiftlikler, yükseltiler, piyade kareleri ve disiplinli savunma, Fransız hücumlarını yıprattı. Napolyon’un süvarisi ve topçusu ağır baskı kurdu, fakat kesin kırılma sağlanamadı. Günün kaderi, Blücher’in Prusya kuvvetlerinin alana ulaşmasıyla değişti. Fransız ordusu artık yalnız Wellington’un ön cephesine değil, yan taraftan gelen Prusya baskısına da cevap vermek zorundaydı.\n\n### Bir Çağın Sonu\nEski Muhafızların son taarruzunun başarısız olması, sembolik olarak Napolyon efsanesinin de geri çekilmesiydi. Waterloo’dan sonra Napolyon’un siyasi dönüş ihtimali sona erdi ve Avrupa, Viyana düzeni etrafında daha muhafazakâr ama uzun süreli bir denge arayışına girdi. Film bunu büyük bir final gibi anlatır; tarihsel olarak ise Waterloo, tek bir dehanın yenilgisinden çok ittifak, zamanlama, lojistik, hava koşulları ve müttefik koordinasyonunun birleştiği bir savaştır.",
+        "accuracyNote": "Film Waterloo’yu kişisel düello gibi sadeleştirir. Gerçekte savaş; Ligny, Quatre Bras, Grouchy’nin Prusyalıları durduramaması, Wellington’un savunma hattı ve Blücher’in zamanında gelişiyle birlikte anlaşılır.",
+        "whyInteresting": "Waterloo’da Napolyon’un karşısında yalnız Wellington yoktu; savaşın kaderi, Prusyalıların yenilgiden sonra düzenini koruyup alana yetişebilmesine bağlıydı.",
+        "misconception": "Waterloo’nun yalnız Napolyon’un taktik hatasıyla kaybedildiği sanılır; gerçekte hava, gecikme, müttefik koordinasyonu, Prusya’nın gelişi ve Fransız komuta sorunları birlikte etkili oldu.",
+        "mediaChanged": "Film Waterloo’yu dramatik bir final ve Napolyon-Wellington karşılaşması gibi yoğunlaştırır; tarihsel savaş ise çok uluslu, saatlere yayılan ve koalisyon koordinasyonuyla kazanılan karmaşık bir çatışmaydı.",
+        "whyItMatters": "Waterloo, modern Avrupa siyasetinde tek lider karizmasının karşısına ittifak sistemi, lojistik ve kurumsal dayanıklılığın nasıl çıktığını gösterir.",
+        "quickRealityCheck": "Waterloo gerçekten sadece Napolyon’un son düellosu muydu, yoksa Avrupa koalisyonlarının zamanlama ve koordinasyonla kazandığı çok taraflı bir savaş mıydı?",
+        "readingTimeMinutes": 4
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Battle of Waterloo - National Army Museum",
+            "url": "https://www.nam.ac.uk/explore/battle-waterloo",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Battle of Waterloo - Britannica",
+            "url": "https://www.britannica.com/event/Battle-of-Waterloo",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Napoleon's Wet Hat - Deutsches Historisches Museum",
+            "url": "https://www.dhm.de/journal/en/post/napoleons-wet-hat",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

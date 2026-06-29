@@ -1,0 +1,283 @@
+{
+  "locale": "tr",
+  "chunkIndex": 6,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "london-fire-plague",
+      "title": "Yangın ve Veba",
+      "subtitle": "1666'nın acı faturası",
+      "mediaType": "series",
+      "mediaTitle": "Taboo / Outlander",
+      "era": "Modern Tarih",
+      "region": "İngiltere",
+      "themes": [
+        "Sağlık",
+        "Şehir Planlama",
+        "Kriz"
+      ],
+      "whatWeSee": "Büyük Londra Yangını'nın şehri küle çevirerek veba salgınını durdurduğunu ve şehri 'temizlediğini' görürüz.",
+      "realHistory": "1665 yılındaki Büyük Veba ve 1666 yılındaki Büyük Londra Yangını, şehri sadece fiziksel olarak değil, sosyal, ekonomik ve mimari açıdan da kökten değiştiren iki ardışık felakettir. 1665 vebası, Londra nüfusunun yaklaşık dörtte birini (yaklaşık 100.000 kişi) yok etmiştir. Şehir hala bu devasa travmayı atlatmaya çalışırken, 2 Eylül 1666 Pazar günü sabaha karşı Pudding Lane'deki bir fırında başlayan küçük bir yangın, tarihin en büyük kentsel yıkımlarından birine dönüşmüştür.\n\n### Yangının Mekaniği ve Tahribatı\nO dönemde Londra, ahşap binalardan oluşan, sokakları dar ve binaların birbirine neredeyse değdiği bir yapıdaydı. Kuru bir yazın ardından gelen şiddetli rüzgar, yangını hızla tüm şehre yaydı. İtfaiye teşkilatının olmadığı o dönemde, yangını durdurmanın tek yolu, yangının yolundaki binaları havaya uçurarak 'yangın koridorları' oluşturmaktı. Ancak Belediye Başkanı Sir Thomas Bloodworth'un kararsızlığı, yangının kontrol edilemez hale gelmesine neden oldu. Yangın 4 gün sürdü ve 13.200 evi, 87 kiliseyi ve şehrin simgesi olan St. Paul Katedrali'ni tamamen yok etti. Şehrin %80'i harabeye dönmüştü.\n\n### Yangın ve Veba Arasındaki İronik İlişki\nTarihsel bir ironi olarak, yangın Londra'nın veba sorununa 'nihai çözüm' olmuştur. Yangın, vebayı taşıyan ve şehrin pislik dolu, dar sokaklarında yaşayan milyonlarca fareyi ve onlara bağlı pireleri yok ederek salgının bitmesini sağlamıştır. Ayrıca, ahşap binaların yerini alan taş ve tuğla yapılar, farelerin yaşam alanlarını kısıtlamıştır. Bu durum, felaketin içinden doğan beklenmedik bir 'halk sağlığı' devrimi olarak kabul edilir. Yangın şehri yakarken, vebanın o dönemdeki genetik zincirini de fiziksel olarak kırmıştır.\n\n### Modern Şehirciliğin Doğuşu: Christopher Wren\nYangın sonrası Londra, Christopher Wren gibi dahi mimarların elinde yeniden şekillenmiştir. 1667 'Londra Yeniden İnşa Yasası', binaların artık ahşaptan yapılmasını yasaklamış ve caddelerin genişliğini standartlara bağlamıştır. Bu, modern kentsel planlamanın dünyadaki ilk büyük uygulamalarından biridir. Ayrıca, yangın mağdurlarına tazminat ödenmesi ihtiyacı, dünyanın ilk yangın sigorta şirketlerinin kurulmasını da tetiklemiştir. Bugün Londra'nın silüetini belirleyen St. Paul Katedrali, bu küllerden doğan yeni kentin en büyük anıtıdır.\n\n### Ekonomik Yıkım ve Küresel Ticaret\nLondra, o dönemde dünyanın en önemli ticaret limanlarından biriydi. Yangın sadece evleri değil, devasa depoları, gümrük binalarını ve ticaret kayıtlarını da yok etmiştir. Bu durum, Londra ekonomisinde geçici bir felç yaratmış olsa da, şehrin daha profesyonel ve modern bir finans merkezi olarak yeniden doğmasını sağlamıştır. Bank Of England'ın birkaç on yıl sonra kurulması, bu ekonomik yeniden yapılanmanın bir parçasıdır. Yangın, Londra'yı bir Orta Çağ kasabasından küresel bir imparatorluk başkentine dönüştüren sancılı bir doğumdur.\n\n### Sonuç: Külden Doğan Şehir\nLondra yangını, bir felaketin bir şehri nasıl modernize edebileceğinin en büyük örneğidir. Bugün Londra sokaklarında yürürken gördüğünüz o vakur taş binalar ve geniş meydanlar, aslında 1666'nın o dehşetli alevlerinin mirasıdır. Medya tasvirlerinde (filmler ve oyunlar) genellikle sadece kaos ve yıkım odaklı anlatılan bu olay, gerçek tarihte bir medeniyetin kendi küllerinden daha güvenli ve modern bir şekilde doğuşunun hikayesidir. Bu tarihsel ders, günümüzün kriz yönetimi ve şehircilik anlayışı için hala temel bir referans noktasıdır.",
+      "accuracyNote": "Yangın, yoksul ve vebanın en yoğun olduğu dış mahalleleri değil, zenginlerin yaşadığı merkezi vurdu. Salgının bitişi daha çok karantina ve ticaret kısıtlamalarına dayanır.",
+      "whyInteresting": "Yangın vebayı bitirmese de, şehri tamamen yeniden planlama fırsatı doğurmuş ve bugünkü Londra silüetini yaratmıştır.",
+      "misconception": "Yangının şehri veba farelerinden arındırdığı sanılır; oysa yangından sonra veba vakaları görülmeye devam etmiştir.",
+      "nextTopics": [
+        "Büyük Londra Yangını",
+        "Kara Ölüm",
+        "Christopher Wren"
+      ],
+      "sources": [
+        {
+          "title": "Great Fire and the Plague (Museum of London)",
+          "url": "https://www.museumoflondon.org.uk/schools/learning-resources/great-fire-london-1666",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "The Great Plague (National Archives)",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/great-plague/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [
+        "The Great Fire (2014)"
+      ],
+      "relatedCardIds": [
+        "chernobyl-disaster"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-27",
+      "reviewerNote": "National Archives kronolojik verileri, veba düşüşünün yangından önce başladığını kanıtlıyor.",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Bu kart, Taboo / Outlander yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ehir-planlama",
+        "ingiltere",
+        "kriz",
+        "modern-tarih",
+        "salk",
+        "taboo-outlander"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Filmlerde genellikle yangın ve veba tek bir kaotik olay gibi gösterilir. Gerçekte veba yangından bir yıl önce zirve yapmıştı ve yangın, ironik bir şekilde vebayı taşıyan farelerin ve pirelerin yaşam alanlarını yok ederek salgının bitmesine yardımcı olmuştur.",
+      "whyItMatters": "Yangın vebayı bitirmese de, şehri tamamen yeniden planlama fırsatı doğurmuş ve bugünkü Londra silüetini yaratmıştır.",
+      "quickRealityCheck": "Gerçek. Yangın ve Veba peş peşe gelerek Londra'yı tamamen değiştirmiştir.",
+      "spoilerNote": "Taboo / Outlander hikâyesine dair ipuçları içerebilir; sonu anlatmaz."
+    },
+    {
+      "id": "roman-fast-food",
+      "title": "Antik Roma’da Fast Food",
+      "subtitle": "Thermopolium kültürü",
+      "mediaType": "series",
+      "mediaTitle": "Pompeii / Rome",
+      "era": "Antik Dünya",
+      "region": "Roma",
+      "themes": [
+        "Günlük Yaşam",
+        "Ekonomi",
+        "Kültür"
+      ],
+      "whatWeSee": "Romalıların sokak kenarındaki tezgahlarda hızlıca yemek yediği ve kalabalık şehir merkezlerinde sosyalleştiği anlar.",
+      "realHistory": "Antik Roma'da evde yemek pişirmek bir lükstü. Şehir sakinlerinin çoğu, yemek pişirmenin ciddi bir yangın tehlikesi oluşturduğu ahşap apartman bloklarında (insulae) yaşıyordu. Bu nedenle halk, 'Thermopolium' adı verilen antik ayaküstü yemek dükkanlarına güveniyordu. L şeklindeki mermer tezgahları ve içindeki sıcak yemek küpleriyle (dolia) bu mekanlar, Roma sokaklarının ayrılmaz bir parçasıydı. Sadece Pompeii'de 150'den fazla bu tür işletme bulunmaktaydı.\n\n### Pleblerin Sosyal Mutfağı\nBu işletmeler, Roma işçi sınıfı (plebler) için şehrin temel mutfağıydı. Birçok kişi için Thermopolium, günün tek sıcak yemeğini yiyebildikleri yerdi. Atmosfer canlıydı ancak bu 'popina'lar (meyhaneler), buraları kumar, düşük seviyeli dedikodu ve siyasi muhalefetle ilişkilendiren üst sınıflar tarafından genellikle şüpheyle karşılanırdı.\n\n### Regio V Keşfi\n2020 yılında Pompeii'nin Regio V bölgesinde tam korunaklı bir Thermopolium'un keşfedilmesi, Roma sokak lezzetleri hakkındaki bilgilerimizi tazeledi. Tezgahın üzerindeki canlı fresklerde yeşilbaş ördek ve horoz gibi figürler yer alıyordu; bunlar muhtemelen okuma yazma bilmeyen halk için görsel birer menü görevi görüyordu. Kalıntı analizleri menüde şunların olduğunu doğruladı:\n* Salyangoz ve koyun eti yahnileri\n* Şarabın içine karıştırılmış ezilmiş baklalar (renk ve tat değiştirmek için)\n* Arpa ve tahıl lapaları\n\n### Kent Lojistiği\nTezgahlara gömülü 'dolia'lar, kuru gıdaları saklamak veya yahnileri sıcak tutmak için tasarlanmıştı. Popüler inanışın aksine, bu küpler her zaman sıvı yemekle dolu değildi; arkeolojik kanıtlar bunların çok amaçlı depolama üniteleri olduğunu gösteriyor. Bu sokak üstü tezgah ağı, organize kentsel gıda lojistiğinin tarihteki en erken örneklerinden birini temsil eder.",
+      "accuracyNote": "Pompeii'de bulunan Regio V bölgesindeki Thermopolium, üzerindeki canlı freskler ve kapların içindeki ördek, keçi ve balık kalıntılarıyla Roma diyetinin ne kadar çeşitli olduğunu bilimsel olarak doğrulamıştır.",
+      "whyInteresting": "Romalıların en sevdiği çeşni, yağ ve şarap kadar değerli bir ticari emtia olan Garum (fermente balık sosu) idi. Regio V sahasındaki son kalıntı analizleri, şarap küplerinin dibinde ezilmiş bakla izleri bile buldu; muhtemelen şarabı beyazlatmak ve tadını değiştirmek için kullanılıyordu.",
+      "misconception": "Romalıların her zaman büyük şölenlerde uzanarak yemek yediği sanılır; oysa bu sadece en zengin %1'in alışkanlığıydı.",
+      "nextTopics": [
+        "Thermopolium",
+        "Pompeii",
+        "Roma Mutfağı"
+      ],
+      "sources": [
+        {
+          "title": "The Thermopolium of Regio V (Pompeii Sites)",
+          "url": "https://pompeiisites.org/en/comunicati/the-thermopolium-of-regio-v-reopens-to-the-public/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Food in Ancient Rome (British Museum)",
+          "url": "https://www.britishmuseum.org/blog/how-prepare-ancient-roman-feast",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [
+        "Plebs (TV Series)"
+      ],
+      "relatedCardIds": [
+        "gladiator-colosseum"
+      ],
+      "difficulty": "easy",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-05-09",
+      "reviewerNote": "Archaeological findings in Pompeii provide definitive proof of urban ready-to-eat food culture.",
+      "spoilerLevel": "minor",
+      "images": {
+        "hero": {
+          "src": "/images/reconstructions/roman-fast-food.png",
+          "alt": "Pompeii Thermopolium",
+          "caption": "Antik Pompeii'deki bir sıcak yemek tezgahının (Thermopolium) yüksek kaliteli tarihsel canlandırması.",
+          "credit": "True Frame Yapay Zeka Canlandırması",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thermopolium_Regio_V_Pompeii.jpg",
+          "license": "CC BY-SA 4.0",
+          "type": "reconstruction"
+        },
+        "thumbnail": {
+          "src": "/images/reconstructions/roman-fast-food.png",
+          "alt": "Roma Fast Food",
+          "credit": "True Frame",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thermopolium_Regio_V_Pompeii.jpg",
+          "license": "CC BY-SA 4.0",
+          "type": "reconstruction"
+        }
+      },
+      "mediaConnection": "Bu kart, Pompeii / Rome yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-dnya",
+        "ekonomi",
+        "gnlk-yaam",
+        "kltr",
+        "pompeii-rome",
+        "roma"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Pompeii / Rome bu konuyu sahne diliyle yoğunlaştırır; pompeii'de bulunan Regio V bölgesindeki Thermopolium, üzerindeki canlı freskler ve kapların içindeki ördek, keçi ve balık kalıntılarıyla Roma diyetinin ne kadar çeşitli olduğunu bilimsel olarak doğrulamıştır.",
+      "whyItMatters": "Regio V sahasındaki son kalıntı analizleri, şarap küplerinin dibinde ezilmiş bakla izleri bile buldu; muhtemelen şarabı beyazlatmak ve tadını değiştirmek için kullanılıyordu.",
+      "quickRealityCheck": "Romalıların her zaman büyük şölenlerde uzanarak yemek yediği denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "Pompeii / Rome hikâyesine dair ipuçları içerebilir; sonu anlatmaz."
+    },
+    {
+      "id": "ac-unity-revolution",
+      "title": "Fransız Devrimi ve Ekmek İsyanları",
+      "subtitle": "Halkın öfkesi sadece bir fikir değil, bir açlık meselesiydi.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Unity",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Devrim",
+        "Politika",
+        "Ekonomi"
+      ],
+      "whatWeSee": "Unity'de Paris sokakları kalabalık, öfkeli ve aç; ekmek kuyrukları devrim duygusunu görünür kılar.",
+      "realHistory": "Fransız Devrimi'ni anlamak için yalnızca fikir metinlerine değil, gündelik ekmek fiyatına bakmak gerekir. 1788-1789 hasat krizleri ve lojistik sorunlar tahıl arzını daraltınca Paris'te ekmek fiyatları ücretlere göre sert biçimde yükseldi. İşçi ve zanaatkar haneler bütçelerinin büyük kısmını ekmeğe ayırdığı için küçük artışlar bile doğrudan siyasal öfkeye dönüştü.\n\nKentte söylenti ekonomisi de etkiliydi: depolama, karaborsa ve 'halkı aç bırakma komplosu' iddiaları kalabalık mobilizasyonunu hızlandırdı. Kadınların Ekim 1789 Versailles Yürüyüşü, ekmek krizinin siyasal temsil krizine nasıl bağlandığını gösteren net bir örnektir. Devrimci meclis fiyat denetimi, zorunlu satış ve arz düzenleme gibi araçlarla müdahale etmeye çalıştı; fakat savaş koşulları ve para değerindeki dalgalanma bu politikaları kırılgan hale getirdi.\n\nUnity, bu ekonomik gerilimi arka planda doğru bir tonda hissettirir. Oyuncu politik suikastların ortasında dolaşırken aslında daha geniş bir gerçekliğin içindedir: devrim, soyut özgürlük tartışması kadar mutfak masrafı krizidir. Ekmek fiyatı, ideoloji ile sokak davranışı arasında doğrudan köprü kurar.\n\nEkmek krizini tetikleyen etkenler arasında kötü hasat kadar taşımacılık maliyetleri ve para istikrarsızlığı da vardı. Tahılın kente gelişinde yaşanan gecikmeler, fiyat paniğini büyütüyor; söylentiler bu panikle birleşince siyasal şiddet ihtimali artıyordu. Devrimci yönetimlerin fiyat tavanı denemeleri kısa vadede rahatlatıcı olsa da arzı kalıcı biçimde düzeltmek zordu. Bu yüzden Paris'te ekonomi ve siyaset birbirini anlık olarak besleyen bir döngüye girdi. Mahalle düzeyindeki fırın denetimleri ve halk komiteleri, bu döngüyü kırma çabasının en görünür araçlarıydı. Karaborsa ile mücadele, devrimci meşruiyetin günlük testlerinden biri haline gelmişti.",
+      "accuracyNote": "Oyun devrim atmosferini güçlü verir; fiyat denetimi ve arz politikası gibi ekonomik mekanizmalar oynanışta daha kısa geçilir.",
+      "whyInteresting": "Ekmek fiyatlarındaki %10’luk bir artışın, o dönemde suç oranlarını ve isyanları doğrudan katladığı istatistiksel olarak kanıtlanmıştır.",
+      "misconception": "Marie Antoinette’in Ekmek bulamıyorlarsa pasta yesinler dediği yaygın bir söylentidir ancak bunu söylediğine dair hiçbir kanıt yoktur.",
+      "nextTopics": [
+        "Robespierre",
+        "Bastille Baskını",
+        "Giyotin"
+      ],
+      "sources": [
+        {
+          "title": "Britannica - French Revolution causes",
+          "url": "https://www.britannica.com/event/French-Revolution",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "EHNE - Bread and politics in revolutionary France",
+          "url": "https://ehne.fr/en/encyclopedia/themes/economic-history/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "French Revolution Digital Archive",
+          "url": "https://frda.stanford.edu/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Ekonomik veriler Britannica ile doğrulandı.",
+      "mediaConnection": "Bu kart, oyundaki Assassin’s Creed Unity atmosferi ve tarihsel kurgusundan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "assassins-creed-uni",
+        "devrim",
+        "ekonomi",
+        "politika"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Oyun devrim atmosferini güçlü verir; fiyat denetimi ve arz politikası gibi ekonomik mekanizmalar oynanışta daha kısa geçilir.",
+      "whyItMatters": "Ekmek fiyatlarındaki %10’luk bir artışın, o dönemde suç oranlarını ve isyanları doğrudan katladığı istatistiksel olarak kanıtlanmıştır.",
+      "quickRealityCheck": "Paris'te devrim sloganları kadar fırın fiyat listeleri de siyaseti belirliyordu.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "ac-mirage-baghdad",
+      "title": "Bilgeliğin Evi: Abbasi Bağdat’ı",
+      "subtitle": "Bağdat, dünyanın bilgi merkezi olduğu dönem.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Mirage",
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Bilim",
+        "Altın Çağ",
+        "İslam Tarihi"
+      ],
+      "whatWeSee": "Mirage, 9. yüzyıl Bağdat’ını devasa bir kütüphane, rasathane ve bilim merkezi olarak resmeder. Bilginler her köşede tartışmaktadır.",
+      "realHistory": "yüzyıl Bağdat'ı (Abbasi Hilafeti), antik dünyanın sadece siyasi değil, aynı zamanda bilimsel ve kültürel başkentiydi. Halife Mansur tarafından 'Medinetü's-Selam' (Barış Şehri) adıyla dairesel bir planla kurulan Bağdat, Dicle Nehri kıyısında yükselen ve tüm ticaret yollarının kesiştiği devasa bir metropoldü. Abbasi dönemi, İslam'ın 'Altın Çağı' olarak bilinir ve bu dönemin kalbinde 'Beytü'l-Hikme' (Bilgelik Evi) yer almaktaydı. Bağdat, o dönemde dünyanın en büyük kütüphanelerine ve en parlak zihinlerine ev sahipliği yapıyordu. Beytü'l-Hikme, sadece bir kütüphane değil, dünyanın dört bir yanından gelen alimlerin buluştuğu bir araştırma merkeziydi. Burada antik Yunan, Hint ve Fars metinleri Arapça'ya tercüme edilerek antik dünyanın mirası korunmuş ve geliştirilmiştir. Aristo'nun mantığı, Öklid'in geometrisi ve Hintli matematikçilerin 'sıfır' kavramı burada harmanlanmıştır. Bu 'Tercüme Hareketi', Avrupa'nın karanlık çağda olduğu bir dönemde bilginin meşalesini Bağdat'ta yakmıştır. Harezmi'nin cebirin temellerini burada atması ve Kindi'nin felsefi çalışmaları, modern bilimin kurucu taşlarıdır. Tercüme edilen her kitap için yazara kitabın ağırlığınca altın verildiği söylenir; bu, bilginin o dönemdeki değerinin en büyük kanıtıdır. Halife Mansur'un vizyonuyla inşa edilen 'Yuvarlak Şehir', mimari bir deha ürünüydü. Şehir, iç içe geçmiş üç sur duvarından oluşuyordu ve tam merkezde halifenin sarayı (Altın Kapı Sarayı) ile büyük cami yer alıyordu. Dört ana kapı, imparatorluğun dört bir yanına uzanan yolların başlangıcıydı. Bu dairesel plan, hem savunma kolaylığı sağlıyor hem de halifenin gücünü şehrin kalbinde sembolize ediyordu. Assassin's Creed Mirage, bu dairesel yapıyı ve surların arkasındaki o yoğun, kozmopolit atmosferi muazzam bir doğrulukla yansıtır. Şehir, kanallarla Dicle'den gelen suyla besleniyor ve dünyanın en gelişmiş su yönetim sistemlerinden birine sahipti. Şehir dışındaki 'Karkh' bölgesi ise ticaretin ve pazar yerlerinin asıl kalbiydi. yüzyılın ortalarında Abbasi otoritesi, saray içindeki güç çatışmalarıyla sarsılmaya başlamıştı. Özellikle 'Samarra Dönemi' olarak bilinen süreçte, halifelerin muhafız birliğini oluşturan Türk askerlerinin siyasi ağırlığı artmıştır. Halifeler, bazen kendi ordularının esiri haline gelmişlerdir. Bu siyasi istikrarsızlık, şehirdeki 'Zenç İsyanı' gibi toplumsal patlamalara da zemin hazırlamıştır. Mirage'daki 'Hidden Ones' (Gizli Olanlar) kurgusu, aslında bu gerçek siyasi kaosun ve sokaklardaki huzursuzluğun bir yansımasıdır. Siyaset, saray koridorlarından pazar yerlerine kadar her yere sızmış durumdaydı; her suikastın arkasında bir halife adayının veya bir vezirin parmağı vardı. Bağdat'ın bir bilim merkezi haline gelmesinin gizli kahramanı 'kağıt' teknolojisidir. 751 yılındaki Talas Savaşı'ndan sonra Çinlilerden öğrenilen kağıt yapım teknikleri, Bağdat'ta ilk büyük kağıt fabrikalarının kurulmasını sağlamıştır. Kağıdın ucuzlaması, kitapların daha kolay kopyalanmasına, kütüphanelerin büyümesine ve bilginin halk tabanına yayılmasına yol açmıştır. Papirüs ve parşömen gibi pahalı malzemelerin yerini kağıdın alması, İslam dünyasında gerçek bir entelektüel patlama yaratmıştır. Bağdat sokaklarındaki kitapçılar çarşısı (Suq.",
+      "accuracyNote": "Bağdat’ın dairesel planı ve Bilgelik Evi’nin önemi tarihsel kayıtlara (el-Yakubi ve Taberi) dayanır.",
+      "whyInteresting": "Bugün kullandığımız algoritma kelimesi ve cebir bilimi, o dönem Bağdat’ında çalışan el-Harezmi’ye dayanır.",
+      "misconception": "Orta Çağ’ın her yer için karanlık olduğu sanılır; ancak Avrupa karanlıktayken Bağdat bilimsel bir zirve yaşıyordu.",
+      "nextTopics": [
+        "Altın Çağ",
+        "el-Harezmi",
+        "Abbasi Halifeliği"
+      ],
+      "sources": [
+        {
+          "title": "House of Wisdom (UNESCO)",
+          "url": "https://en.unesco.org/silkroad/content/house-wisdom",
+          "type": "official"
+        },
+        {
+          "title": "The Golden Age of Baghdad (National Geographic)",
+          "url": "https://www.nationalgeographic.com/history/history-magazine/article/golden-age-baghdad",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "house-wisdom-baghdad"
+      ],
+      "reviewerNote": "UNESCO ve National Geographic kaynakları ile desteklendi.",
+      "mediaConnection": "Assassin’s Creed Mirage, 9. yüzyıl Bağdat'ını arkeolojik verilere dayanarak yeniden inşa ederken, şehrin altın çağındaki entelektüel canlılığı da gözler önüne serer.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "altn-a",
+        "assassins-creed-mir",
+        "bilim",
+        "islam-tarihi"
+      ],
+      "mediaChanged": "Oyundaki ana hikaye (Gizli Olanlar vs Düzen) kurgusaldır. Ancak şehirdeki siyasi gerilimler, Zenc İsyanı (köle isyanları) ve Türk muhafızların (Memlükler) artan gücü tamamen gerçektir.",
+      "whyItMatters": "Bugün kullandığımız algoritma kelimesi ve cebir bilimi, o dönem Bağdat’ında çalışan el-Harezmi’ye dayanır.",
+      "isFlagship": true,
+      "quickRealityCheck": "Bağdat'ın etkisi yalnızca sarayda değil, çeviri ağları ve pazar dolaşımında kuruldu.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    }
+  ]
+}

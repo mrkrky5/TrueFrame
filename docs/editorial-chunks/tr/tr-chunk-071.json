@@ -1,0 +1,290 @@
+{
+  "locale": "tr",
+  "chunkIndex": 71,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-148-hiroshima-context",
+      "title": "Hiroşima Bağlamı",
+      "subtitle": "Hiroşima: karar, hedef, sonrası",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Bilim",
+        "Savaş",
+        "Etik"
+      ],
+      "whatWeSee": "Oppenheimer Hiroşima'yı doğrudan göstermez ama Trinity sonrası karar sürecini ve Oppenheimer'ın vicdanını işler. İzleyici atom bombasının laboratuvar ile savaş kararı arasındaki mesafeyi hisseder. Sahnede savaş odasında hedef haritaları açılıyor, pilot brifingi sürüyor ve uzak şehir silueti kararın insani sonuçlarını sessiz bir ağırlıkla hissettiriyor.",
+      "realHistory": "6 Ağustos 1945'te 'Little Boy' uranyum bombası Hiroşima'ya atıldı; 9 Ağustos Nagasaki. Karar Truman ve danışmanları tarafından alındı; hedef: Japonya'nın hızlı teslimi ve Sovyet müdahalesini sınırlama. Hiroşima askeri üs ve sanayi merkeziydi; sivil kayıp yüz binlerle ölçülür. Oppenheimer sonrasında nükleer yayılım konusunda uyarı verdi. Tartışma sürer: alternatifler (blokaj, gösteri bombası) değerlendirildi mi? Oppenheimer filmi kararın insani yükünü kişiselleştirir; arşivler Potsdam ve hedef listelerini saklar. Hiroşima kararının bağlamı, 1945 yazında askeri hesap, diplomatik sinyal ve zaman baskısının kesişmesinde şekillendi. ABD yönetimi Japon anakarasına çıkarma halinde yüksek kayıp öngörüyor, savaşın hızla bitmesini öncelik sayıyordu. Aynı anda Sovyetlerin Pasifik savaşına giriş takvimi, savaş sonrası güç dengesi açısından Washington'da stratejik kaygı yaratıyordu. Hedef seçim komiteleri, askeri önem ve patlamanın gözlemlenebilir etkisini birlikte değerlendirdi. Sonuçta atom bombası kullanımı, yalnız taktik karar değil uluslararası düzenin nükleer döneme hangi etik maliyetle gireceğini belirleyen kırılma anı oldu. Hiroşima Bağlamı 6 Ağustos 1945'te 'Little Boy' uranyum bombası Hiroşima'ya atıldı; 9 Ağustos Nagasaki. Hiroşima öncesi hedef komiteleri, bombanın etkisini ölçebilmek için önceki bombardımandan görece az zarar görmüş şehirleri tercih etti. Bu teknik kriter, sivil yoğunluk gerçeğini ortadan kaldırmadı. Kararın ardından uluslararası hukukta ayrım gözetme ve orantılılık tartışmaları yeni bir döneme girdi.",
+      "accuracyNote": "Tarihler ve bombalar DOE/National Archives ile uyumludur; alternatif senaryolar tartışmalıdır.",
+      "whyInteresting": "Aynı patlama hem savaş sonu hem etik kriz başlangıcıdır.",
+      "misconception": "Bomba yalnızca bilim insanlarının kararıydı; siyasi liderlik onayladı.",
+      "nextTopics": [
+        "Los Alamos",
+        "Trinity Deneyi",
+        "Oak Ridge"
+      ],
+      "sources": [
+        {
+          "title": "Atomic bombings of Japan (Britannica)",
+          "url": "https://www.britannica.com/event/atomic-bombings-of-Hiroshima-and-Nagasaki",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Manhattan Project decisions (US DOE)",
+          "url": "https://www.energy.gov/management/manhattan-project",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Potsdam Conference (Britannica)",
+          "url": "https://www.britannica.com/event/Potsdam-Conference",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "oppenheimer-trinity",
+        "tf26-144-hanford"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Oppenheimer'ın post-Trinity sahneleri ile 1945 Hiroşima bombing kararı ve Potsdam bağlamı.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "oppenheimer",
+        "manhattan-projesi",
+        "bilim",
+        "hirosima-baglami",
+        "true-frame"
+      ],
+      "spoilerNote": "Oppenheimer hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film Hiroşima'yı gölge olarak tutar; gerçekte karar ayrı siyasi süreçti.",
+      "whyItMatters": "Aynı patlama hem savaş sonu hem etik kriz başlangıcıdır.",
+      "isFlagship": true,
+      "quickRealityCheck": "Truman hedef listesinde neden Hiroşima vardı?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-150-cold-war-start",
+      "title": "Soğuk Savaş Gölgesi",
+      "subtitle": "Soğuk Savaş Gölgesi neden önemli?",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Bilim",
+        "Savaş",
+        "Etik"
+      ],
+      "whatWeSee": "Oppenheimer'da Trinity patlaması, Hiroşima kararı ve 1945 sonrası güvenlik sorguları atom çağının siyasi gölgesini gösterir. Film laboratuvar dramını merkeze alır; Potsdam tutanakları, Baruch Planı ve 1949 Sovyet testi arşivleri diplomatik kırılmayı belgeler.",
+      "realHistory": "1945'te atom bombası savaşı bitirdi; aynı anda Soğuk Savaşın tohumlarını ekti. ABD–SSCB ittifakı, Almanya'nın düşüşüyle hızla gerildi. Potsdam'da Stalin'e atom projesinin varlığı ima edildi; Hiroşima ve Nagasaki sonrası nükleer tekel tartışması başladı. Oppenheimer filminin son bölümleri bu dönüşümü kişisel vicdan ve devlet güvenliği ekseninde gösterir. Baruch Planı ve Sovyet redleri, silahlanma yarışının başlangıcını işaret eder. Bilim insanları artık 'dâhi' değil, stratejik varlık olarak görüldü. Film laboratuvar dramını merkeze alır; arşivler ise 1945–1947 diplomatik kırılmayı belgeler. Atom gücü, savaş sonrası düzenin en hızlı şekillenen korkusu oldu. Temmuz 1945 Potsdam'da Truman Stalin'e atom bombasının varlığını ima etti; Sovyetler zaten casusluk ağıyla bilgi topluyordu. Hiroşima (6 Ağustos) ve Nagasaki (9 Ağustos) sonrası nükleer tekel tartışması başladı. Baruch Planı (1946) ABD'nin atom tekelini uluslararası denetime açmayı önerdi; Sovyetler reddetti. Oppenheimer 1954 güvenlik soruşturmasında 'güvenilirlik' tartışıldı; bilim insanları stratejik varlık haline geldi. 1949 Sovyet atom testi tekeli bitirdi; silahlanma yarışı hızlandı. Film kişisel vicdan ve devlet güvenliği ekseninde gösterir; National Archives 1945–1947 diplomatik dosyalarını saklar. 1949 Sovyet atom testi ABD tekelini bitirdi; NATO kuruluşu ve silahlanma yarışı hızlandı. Oppenheimer'ın 1954 güvenlik soruşturması, bilim ile devlet güvenliği arasındaki gerilimin kişisel yüzünü gösterir.",
+      "accuracyNote": "Trinity ve Hiroşima kronolojisi doğrudur; bazı toplantı diyalogları birleştirilmiştir.",
+      "whyInteresting": "Zafer silahı, bir yıl içinde sürekli tehdit imgelerine dönüştü.",
+      "misconception": "Atom bombası Soğuk Savaşı bitirdi; oysa çoğu tarihçi tersine başlattığını vurgular.",
+      "nextTopics": [
+        "Los Alamos",
+        "Trinity Deneyi",
+        "Oak Ridge"
+      ],
+      "sources": [
+        {
+          "title": "Potsdam Conference (US State Dept)",
+          "url": "https://history.state.gov/milestones/1945-1952/potsdam-conf",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Atomic diplomacy (National Archives)",
+          "url": "https://www.archives.gov/milestone-documents/truman-doctrine",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Origins of the Cold War (Britannica)",
+          "url": "https://www.britannica.com/event/Cold-War",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-148-hiroshima-context",
+        "oppenheimer-science-state"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Oppenheimer'ın Trinity ve sorgu sahneleri ile Potsdam ve Baruch Planı arşivleri.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "oppenheimer",
+        "manhattan-projesi",
+        "bilim",
+        "soguk-savas-golgesi",
+        "true-frame"
+      ],
+      "spoilerNote": "Oppenheimer hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Soğuk Savaş Gölgesi ekranda daha net bir odak kazanır; karakterlerin yolu, mekân seçimi ve çatışma ritmi bu konuyu kolay takip edilir kılar. Tarihte aynı başlık, Manhattan Projesi ve güvenlik soruşturması gibi daha uzun süreçlerin içinde ilerler.",
+      "whyItMatters": "Zafer silahı, bir yıl içinde sürekli tehdit imgelerine dönüştü.",
+      "isFlagship": false,
+      "quickRealityCheck": "Oppenheimer'daki güvenlik sorguları, 1945–1954 gerçek dosyalarıyla örtüşüyor mu?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-151-reactor-test",
+      "title": "Reaktör Testi",
+      "subtitle": "Reaktör Testi: görünenden fazlası",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "era": "Modern Tarih",
+      "region": "Ukrayna",
+      "themes": [
+        "Teknoloji",
+        "Devlet",
+        "Afet"
+      ],
+      "whatWeSee": "Chernobyl'de kritik gece, kontrol odasında üst üste alınan hatalı kararlarla felakete dönen bir test olarak anlatılır. Dizi gerilimi saniye saniye kurar ve izleyiciye geri dönüşsüz bir çöküş hissi verir. Bu doğru bir duygudur; ancak olay yalnızca panik değil, vardiya koşulları, tasarım kusuru ve güvenlik kültürü zafiyetinin birleşimidir.",
+      "realHistory": "26 Nisan 1986 gecesi Çernobil 4. ünitede yapılan deney, türbin durduğunda kalan dönme enerjisinin acil pompalara ne kadar süre güç sağlayacağını ölçmek için planlanmıştı. Test daha önce ertelenmiş, elektrik şebekesi talebi nedeniyle reaktör beklenenden uzun süre farklı güç düzeylerinde tutulmuştu. Gece vardiyasında güç seviyesi istenmeyen şekilde düştü; operatörler test koşuluna dönmek için prosedür sınırlarını zorladı ve çok sayıda kontrol çubuğunu dışarıda bıraktı.\n\nRBMK tasarımında düşük güç kararsızlığı ve kontrol çubuklarının uç yapısına bağlı başlangıçtaki pozitif reaktivite etkisi kritik risk oluşturuyordu. Bazı otomatik güvenlik sistemleri test akışı için devre dışıydı. AZ-5 düğmesine basıldığında güvenli kapanma beklenirken kısa süreli güç artışı oldu, yakıt kanalları hasar gördü ve buhar patlamalarıyla reaktör yıkıcı biçimde parçalandı.\n\nKazayı tek bir operatör hatasına indirgemek yanıltıcıdır. Tasarım tercihi, eğitim eksikliği, hiyerarşik baskı ve raporlama kültürü birlikte etkili oldu. Sonraki uluslararası teknik değerlendirmeler, insan hatasını kabul ederken sistemsel ve kurumsal nedenleri merkezi yere koydu. Olay sonrasında RBMK reaktörlerinde yapılan teknik güncellemeler ve işletme kurallarındaki değişiklikler, kazanın yalnız geçmişte kalmadığını gösterir. Tasarım güvenliği, operatör eğitimi ve denetim yapısındaki reformlar uluslararası nükleer standart tartışmalarını da etkiledi. Çernobil, mühendislikte öğrenme maliyetinin bazen çok ağır bedellerle geldiğini hatırlatan bir dönüm noktasıdır. Bu miras, güvenlik mühendisliğinde önleyici kültürün değerini kalıcılaştırdı.",
+      "accuracyNote": "Dizi ana olay sırasını büyük ölçüde korur ve teknik gerilimi iyi aktarır. Bazı karakter ve diyaloglar, karmaşık kurumları temsil etmek için birleştirilmiştir.",
+      "whyInteresting": "Bir güvenlik testinin, zayıf güvenlik kültüründe felaketi tetikleyen ana mekanizmaya dönüşmesi teknoloji tarihinin en sert derslerinden biridir.",
+      "misconception": "Kazanın yalnızca birkaç dikkatsiz operatör yüzünden olduğu sanılır. Oysa tasarım kusuru ve kurumsal baskı olmadan bu ölçekte bir kırılma beklenmezdi.",
+      "nextTopics": [
+        "RBMK Tasarımı",
+        "Tasfiye Ekipleri",
+        "Pripyat'ın Boşaltılması"
+      ],
+      "sources": [
+        {
+          "title": "INSAG-7: The Chernobyl Accident (IAEA)",
+          "url": "https://www.iaea.org/publications/3786/the-chernobyl-accident-updating-of-insag-1",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Chernobyl Accident 1986 (World Nuclear Association)",
+          "url": "https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident.aspx",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Chernobyl disaster (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/event/Chernobyl-disaster",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "chernobyl-rbmk-flaw",
+        "tf26-153-liquidators",
+        "chernobyl-pripyat-delay"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Chernobyl'in kontrol odası sahneleri, RBMK tasarım belgeleri ve INSAG değerlendirmeleriyle birlikte okununca daha net anlaşılır.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "cernobil",
+        "nukleer",
+        "afet",
+        "reaktor-testi",
+        "true-frame"
+      ],
+      "spoilerNote": "Chernobyl hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi olayları tek gece dramına sıkıştırarak anlaşılır kılar. Teknik kayıtlarda ise şebeke talebi, vardiya devri ve RBMK tasarım özellikleri birlikte belirleyicidir.",
+      "whyItMatters": "Bir güvenlik testinin, zayıf güvenlik kültüründe felaketi tetikleyen ana mekanizmaya dönüşmesi teknoloji tarihinin en sert derslerinden biridir.",
+      "isFlagship": false,
+      "quickRealityCheck": "AZ-5 düğmesi neden bazı koşullarda ilk anda güvenlik artışı yerine reaktivite yükselişine yol açabildi?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-153-liquidators",
+      "title": "Tasfiye Ekipleri",
+      "subtitle": "Küçük ayrıntı, büyük tarih",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "era": "Modern Tarih",
+      "region": "Ukrayna",
+      "themes": [
+        "Teknoloji",
+        "Devlet",
+        "Afet"
+      ],
+      "whatWeSee": "Chernobyl dizisi tasfiye ekiplerini sürekli ölüm riskinin içinde çalışan insanlar olarak gösteriyor: çatıya kısa çıkışlar, kirli enkaz temizliği, maden görevi ve koruyucu ekipman baskısı. Görsel dil teknik rapordan çok bedenin sınırını öne çıkarıyor. Felaketin maliyeti, reaktörden önce insanların çalışma süresinde ve yorgunluğunda okunuyor.",
+      "realHistory": "Likvidator terimi, Çernobil felaketinden sonra görevlendirilen geniş insan gücünü kapsar. Sayılar kaynağa göre değişse de yüz binlerce kişilik bir operasyon söz konusudur: askerler, mühendisler, itfaiyeciler, sağlık ekipleri, maden işçileri, helikopter personeli ve inşaat işçileri farklı görevlerde yer aldı. Müdahale yalnızca reaktör çatısındaki grafit temizliğiyle sınırlı değildi. Dekontaminasyon, kirli toprağın kaldırılması, yerleşim alanlarının yıkanması, atık taşınması, ölçüm faaliyetleri ve sarkofag inşası yıllara yayılan bir iş zinciri oluşturdu. Robotların yüksek radyasyonda arıza vermesi bazı görevlerin kısa süreli insan müdahalesiyle yapılmasına yol açtı; dizi bu gerçeği etkili biçimde gösterir. Ancak tarihsel tablo, dramatik dakikalardan daha uzundur. Sağlık etkileri maruziyet seviyesine ve görev tipine göre değişir; tüm personeli tek kader anlatısında toplamak bilimsel resmi basitleştirir. Birçok personel için risk sadece radyasyon değildi; yetersiz bilgi akışı, idari baskı ve koruma standardındaki farklılıklar da belirleyiciydi. Likvidator deneyimi, yüksek teknolojili krizlerde karar süreçlerinin insan emeği üzerine nasıl yıkılabildiğini açık biçimde ortaya koyar. Olayın kalıcı dersi, kriz yönetiminde teknik kapasite kadar şeffaf idari koordinasyonun da yaşamsal olduğudur. Ayrıca görev sonrası sağlık takibi ve tazmin süreçleri farklı cumhuriyetlerde farklı yürütüldüğü için maruziyet kayıtlarının karşılaştırılması zorlaştı. Bu durum, felaket sonrası adalet ve sağlık politikası tartışmalarını on yıllarca canlı tuttu. Arşivlerin geç açılması da bilimsel belirsizliği artırdı.",
+      "accuracyNote": "Dizideki çekirdek operasyonlar belgeli olaylara dayanır; ancak süre, kapsam ve sağlık sonuçları anlatı gereği sıkıştırılmıştır.",
+      "whyInteresting": "Nükleer çağın en kritik müdahalesi, otomasyon değil dakika hesabıyla çalışan insanların omzunda yürüdü.",
+      "misconception": "Likvidatorlerin yalnızca birkaç gönüllü askerden oluşan küçük bir ekip olduğu zannedilir.",
+      "nextTopics": [
+        "Reaktör Testi",
+        "RBMK Tasarımı",
+        "Pripyat'ın Boşaltılması"
+      ],
+      "sources": [
+        {
+          "title": "IAEA - Chernobyl",
+          "url": "https://www.iaea.org/topics/chernobyl",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "WHO - Health effects of the Chernobyl accident",
+          "url": "https://www.who.int/publications/m/item/health-effects-of-the-chernobyl-accident",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "UNSCEAR - Chernobyl assessments",
+          "url": "https://www.unscear.org/unscear/en/chernobyl.html",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "chernobyl-pripyat-delay",
+        "tf26-155-radiation-myth",
+        "tf26-156-soviet-secrecy"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Chernobyl'in yoğun kriz anlatısı, Sovyet müdahale modelinin emek, bürokrasi ve teknoloji ilişkisini tartışmaya açar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "cernobil",
+        "nukleer",
+        "afet",
+        "tasfiye-ekipleri",
+        "true-frame"
+      ],
+      "spoilerNote": "Chernobyl hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi en tehlikeli anları doğru biçimde vurguluyor, fakat operasyonun yıllara yayılan iş bölümü doğal olarak sıkıştırılıyor. Gerçekte tasfiye bir dizi acil sahneden çok, uzun süreli ve katmanlı bir programdı.",
+      "whyItMatters": "Nükleer çağın en kritik müdahalesi, otomasyon değil dakika hesabıyla çalışan insanların omzunda yürüdü.",
+      "isFlagship": false,
+      "quickRealityCheck": "Tasfiye ekiplerinin işi yalnızca reaktör çatısında kısa görevlerden mi oluştu, yoksa uzun vadeli dekontaminasyon ağı da temel miydi?",
+      "lastReviewedAt": "2026-06-26"
+    }
+  ]
+}

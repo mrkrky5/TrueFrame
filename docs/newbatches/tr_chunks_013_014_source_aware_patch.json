@@ -1,0 +1,463 @@
+{
+  "batch": "tr-chunks-013-014-source-reviewed",
+  "sourceChunks": [
+    "tr-chunk-013.json",
+    "tr-chunk-014.json"
+  ],
+  "locale": "tr",
+  "createdAt": "2026-06-27",
+  "notes": "Source-aware editorial patch. Apply by id/locale, preserving all unlisted fields.",
+  "entries": [
+    {
+      "id": "ottoman-harem-reality",
+      "locale": "tr",
+      "verdict": "rewrite",
+      "fields": {
+        "realHistory": "Osmanlı haremine dair popüler imaj, çoğu zaman Batılı oryantalist resimlerin ve televizyon dramalarının ürettiği kapalı, egzotik ve yalnızca cinsellik üzerinden okunan bir dünyadır. Harem kelimesi ise öncelikle “mahrem/korunan alan” anlamına gelir; Topkapı’daki Harem-i Hümayun, padişahın annesinin, eşlerinin, cariyelerin, çocukların ve saray görevlilerinin yaşadığı hanedan içi alandı.\n\nBu alan yalnızca özel hayat mekânı değildi. Harem, saray protokolünün öğretildiği, hiyerarşinin sıkı biçimde izlendiği ve hanedan devamlılığının yönetildiği bir kurumdu. Cariyeler belirli kademelerden geçer, saray adabı, dinî bilgi, el işi, müzik ve hizmet düzeni içinde yetiştirilirdi. Her kadın siyasi güce ulaşmazdı; fakat Valide Sultan, haseki ve hanedan kadınları özellikle 16. ve 17. yüzyıllarda atamalar, evlilik ağları, vakıflar ve saray içi ittifaklar üzerinden gerçek nüfuz kullanabildi.\n\nMuhteşem Yüzyıl gibi yapımlar harem içi rekabeti ve duygusal gerilimi görünür kılar; bu dramatik açıdan anlaşılırdır. Tarihsel açıdan eksik kalan taraf, haremin aynı zamanda bir hanedan yönetimi ve saray bürokrasisi alanı olmasıdır. Hürrem Sultan, Kösem Sultan veya Turhan Sultan gibi figürler yalnızca “padişahın yakını” oldukları için değil, saray ağı, vakıf siyaseti ve hanedan meşruiyeti içinde konum aldıkları için etkiliydi.\n\nBu yüzden harem ne romantik bir özgürlük alanı ne de basit bir hapishane olarak okunmalı. Kölelik, yükselme, eğitim, aile siyaseti ve devlet yönetimi aynı kurum içinde iç içe geçiyordu. Asıl gerçek, popüler fanteziden daha karmaşık ve daha siyasidir.",
+        "accuracyNote": "Diziler harem rekabetini büyütür; tarihsel harem ise hanedan ailesi, kadın görevliler, cariyeler, eunuklar, eğitim, protokol ve siyasi ağların birlikte işlediği mahrem bir saray kurumuydu.",
+        "whyInteresting": "Valide Sultan yalnızca aile büyüğü değildi; saray içi hiyerarşinin tepesinde durur, vakıflar ve hanedan bağlantıları üzerinden kamusal güç de kurabilirdi.",
+        "misconception": "Harem’in yalnızca padişahın eğlencesi için kurulmuş bir yer olduğu sanılır; gerçekte hanedan devamlılığı, eğitim, protokol ve saray siyasetiyle ilişkili bir kurumdu.",
+        "mediaChanged": "Muhteşem Yüzyıl harem içi entrikayı ve romantik rekabeti öne çıkarır; tarihsel kayıtlar ise haremin aynı zamanda hiyerarşik bir saray kurumu ve siyasi ağ merkezi olduğunu gösterir.",
+        "whyItMatters": "Harem örneği, Osmanlı sarayında kadınların tamamen görünmez olmadığını; fakat güçlerinin hanedan, kölelik, protokol ve vakıf düzeni gibi karmaşık yapılar içinde kurulduğunu gösterir.",
+        "quickRealityCheck": "Harem sadece egzotik bir kapalı oda mıydı, yoksa hanedan siyaseti ve saray hiyerarşisinin işlediği mahrem bir kurum mu?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Imperial Harem: Women and Sovereignty in the Ottoman Empire (Oxford University Press / Google Books)",
+            "url": "https://books.google.com/books/about/The_Imperial_Harem.html?id=L6-VRgVzRcUC",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Topkapı Palace and Harem (Milli Saraylar)",
+            "url": "https://www.millisaraylar.gov.tr/saraylar/topkapi-sarayi",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Women in the Ottoman Empire (Britannica)",
+            "url": "https://www.britannica.com/place/Ottoman-Empire/Women-in-the-Ottoman-Empire",
+            "type": "reference",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "reviewNotes": [
+        "Removed orientalist/fantasy phrasing and the overclaim that harem women were not enslaved."
+      ]
+    },
+    {
+      "id": "three-kingdoms-legend",
+      "locale": "tr",
+      "verdict": "rewrite",
+      "fields": {
+        "realHistory": "Üç Krallık dönemi, Han Hanedanlığı’nın çözülmesinden sonra Çin’in Wei, Shu ve Wu gibi rakip güç merkezlerine bölündüğü uzun bir iç savaş ve yeniden örgütlenme dönemidir. Popüler kültürde bu dönem çoğu zaman Luo Guanzhong’un 14. yüzyıl romanı Üç Krallığın Hikâyesi üzerinden bilinir. Roman, gerçek tarihsel olayları kahramanlık, sadakat, strateji ve kader temalarıyla büyütür; bu yüzden Cao Cao, Liu Bei, Guan Yu ve Zhuge Liang gibi figürler hem tarihsel kişiler hem de edebi mitler olarak yaşar.\n\nTarihsel kayıtların temel zemini ise Chen Shou’nun Sanguozhi adlı eseridir. Bu kayıtlar, romanın sunduğu doğaüstü strateji ve tek başına ordu yıkan kahraman anlatısından daha kuru ama daha sert bir tablo verir: vergi toplama, tarım kolonileri, yerel ittifaklar, saray darbeleri, salgınlar ve nüfus hareketleri. Dönemin yıkıcılığı büyüktü; fakat nüfus düşüşleri için verilen sayılar kaynaklara ve kayıt yöntemlerine göre değiştiği için kesin oranlarla konuşmak güvenli değildir.\n\nTotal War: Three Kingdoms bu ayrımı oyun mekaniğine bile taşır: “Romance” modu kahraman generalleri büyütürken, daha tarihsel mod ordu düzeni ve komuta ilişkisine yaklaşır. Gerçekte Üç Krallık’ın önemi, yalnızca destansı düellolarda değil, Han sonrası Çin devlet geleneğinin nasıl yeniden kurulduğunda yatar.\n\nBu yüzden dönemi yalnızca “efsanevi generaller çağı” diye okumak eksik kalır. Üç Krallık, Çin siyasi kültüründe sadakat ve strateji mitini kurarken, tarihsel düzeyde devlet çöküşü, savaş ekonomisi ve yeniden birleşme arayışının laboratuvarıdır.",
+        "accuracyNote": "Oyun ve roman geleneği karakterleri kahramanlaştırır; tarihsel kayıtlar ise aynı dönemi lojistik, idari kriz, ittifak ve nüfus hareketleriyle birlikte anlatır.",
+        "whyInteresting": "Cao Cao gibi figürler popüler kültürde kötü adam ya da dahi komutan olarak kalıplaşır; tarihsel kayıtlarda ise aynı kişi şair, yönetici ve sert bir reformcu olarak çok daha karmaşıktır.",
+        "misconception": "Üç Krallık romanındaki her sahnenin birebir tarih olduğu sanılır; gerçekte roman, tarihsel kayıtları yüzyıllar sonra edebi ve ahlaki bir destana dönüştürür.",
+        "mediaChanged": "Total War: Three Kingdoms romanın kahramanlık enerjisini oynanabilir hale getirir; tarihsel gerçeklikte dönemin belirleyicileri tekil düellolardan çok ittifak, vergi, tarım ve komuta düzeniydi.",
+        "whyItMatters": "Üç Krallık, popüler tarihin gerçek kayıtları nasıl efsaneye dönüştürdüğünü ve bir iç savaş döneminin kültürel hafızada nasıl kahramanlık destanı haline geldiğini gösterir.",
+        "quickRealityCheck": "Üç Krallık tarihi roman kahramanlarının birebir yaşadığı bir dönem mi, yoksa gerçek iç savaşın yüzyıllar sonra efsaneleştirilmiş hali mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Three Kingdoms Period (Britannica)",
+            "url": "https://www.britannica.com/event/Three-Kingdoms-period-China",
+            "type": "reference",
+            "verified": true
+          },
+          {
+            "title": "Romance of the Three Kingdoms (Britannica)",
+            "url": "https://www.britannica.com/topic/Romance-of-the-Three-Kingdoms",
+            "type": "reference",
+            "verified": true
+          },
+          {
+            "title": "The Han Dynasty (Metropolitan Museum of Art)",
+            "url": "https://www.metmuseum.org/toah/hd/hanb/hd_hanb.htm",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "reviewNotes": [
+        "Removed unsupported exact population-collapse framing."
+      ]
+    },
+    {
+      "id": "house-wisdom-baghdad",
+      "locale": "tr",
+      "verdict": "rewrite",
+      "fields": {
+        "realHistory": "Abbasi Bağdat’ı, 8. ve 9. yüzyıllardan itibaren yalnızca siyasi başkent değil, geniş bir çeviri ve bilgi dolaşımı ağının merkeziydi. “Bilgelik Evi” ya da Beytü’l-Hikme adıyla anılan yapı, bazen tek bir dev kütüphane gibi anlatılır; tarihsel olarak daha güvenli olan çerçeve, Abbasi saray himayesinde çalışan kütüphaneler, çevirmenler, matematikçiler, hekimler ve astronomlardan oluşan bir entelektüel çevredir.\n\nBu çevrede Yunanca, Süryanice, Farsça ve Sanskritçe geleneklerden metinler Arapçaya çevrildi. Fakat süreç yalnızca aktarma değildi; çeviriler üzerine şerhler yazıldı, hesap yöntemleri geliştirildi ve astronomi, tıp, matematik gibi alanlarda özgün çalışmalar üretildi. El-Harezmi’nin cebir çalışmaları, Hint sayı sisteminin yayılması ve astronomi tabloları bu atmosferin ürünleri arasında sayılır.\n\nAssassin’s Creed Mirage, Bağdat’ı hareketli pazarları, kütüphaneleri ve bilginleriyle görsel olarak güçlü bir entelektüel merkez gibi sunar. Oyun doğal olarak gizli örgütler ve macera anlatısını öne çıkarır; gerçek tarih ise daha çok saray himayesi, kâğıt üretimi, kitap ekonomisi, çeviri emeği ve çok dilli uzman ağları üzerinden işler.\n\nBilgelik Evi’nin tam fiziksel yapısı ve sınırları konusunda tarihçiler arasında ayrıntı tartışmaları vardır. Yine de Abbasi Bağdat’ının bilgi transferinde oynadığı rol tartışmasızdır. Bu mirası “Avrupa karanlıktayken Bağdat aydınlıktı” gibi basit bir karşıtlığa indirmek yerine, Akdeniz, İran, Hint ve İslam dünyalarını birbirine bağlayan bir bilgi ağı olarak okumak daha doğru olur.",
+        "accuracyNote": "Mirage entelektüel Bağdat atmosferini iyi verir; Bilgelik Evi’ni ise tek ve kesin sınırları bilinen bir kurumdan çok, Abbasi himayesindeki çeviri ve araştırma çevresi olarak okumak daha güvenlidir.",
+        "whyInteresting": "El-Harezmi’nin adı, algoritma kelimesinin tarihsel köklerinden biridir; bu da Bağdat’taki matematik geleneğinin modern dile bile iz bıraktığını gösterir.",
+        "misconception": "Orta Çağ’da bilimsel üretimin tamamen durduğu sanılır; gerçekte Abbasi Bağdat’ı farklı dillerden bilgiyi çeviren, tartışan ve geliştiren canlı bir merkezdi.",
+        "mediaChanged": "Assassin’s Creed Mirage Bilgelik Evi’ni atmosfer ve keşif mekânı olarak öne çıkarır; tarihsel önem ise çeviri hareketi, saray himayesi, kâğıt ve uzman ağlarının birleşiminden gelir.",
+        "whyItMatters": "Bağdat örneği, bilimin tek bir uygarlığın kapalı ürünü değil, çeviri, tartışma ve kültürlerarası dolaşımla büyüyen ortak bir miras olduğunu gösterir.",
+        "quickRealityCheck": "Bilgelik Evi tek başına mucizevi bir kütüphane miydi, yoksa Abbasi Bağdat’ındaki daha geniş çeviri ve araştırma ağının sembolü mü?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "House of Wisdom (UNESCO Silk Roads Programme)",
+            "url": "https://en.unesco.org/silkroad/content/house-wisdom",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Abbasid Caliphate (Britannica)",
+            "url": "https://www.britannica.com/topic/Abbasid-caliphate",
+            "type": "reference",
+            "verified": true
+          },
+          {
+            "title": "Assassin’s Creed Mirage – History of Baghdad Feature (Ubisoft)",
+            "url": "https://news.ubisoft.com/en-us/article/3q7ANVXHm68MIG99qNrPCl/assassins-creed-mirage-introduces-history-of-baghdad-feature-to-bring-players-closer-to-history",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "reviewNotes": [
+        "Merged with safer framing from previous Baghdad review; removed Dark Ages oversimplification and broken mediaChanged."
+      ]
+    },
+    {
+      "id": "persian-empire-admin",
+      "locale": "tr",
+      "verdict": "rewrite",
+      "fields": {
+        "realHistory": "Ahameniş Pers İmparatorluğu, popüler anlatılarda çoğu zaman Yunan kahramanlarının karşısındaki dev ve yabancı düşman olarak görünür. Oysa imparatorluğun asıl başarısı, yalnız savaş gücünde değil, geniş ve farklı halklardan oluşan bir coğrafyayı yönetebilmesindeydi. Büyük Kiros ve özellikle I. Darius döneminde imparatorluk, satraplık adı verilen eyalet yönetimleriyle düzenlendi.\n\nSatraplar merkeze vergi ve askerî yükümlülük sağlarken yerel elitlerle çalışıyor, bölgelerin dil ve hukuk alışkanlıklarını tamamen yok etmeye çalışmıyordu. Bu esneklik, imparatorluğun Mısır’dan Anadolu’ya, Mezopotamya’dan İran platosuna kadar çok farklı gelenekleri aynı siyasi çatı altında tutmasına yardımcı oldu. Darius döneminde geliştirilen yollar ve haberleşme sistemi de bu yönetimin sinir ağıydı. Kraliyet Yolu, yalnız ticareti değil, emirlerin ve raporların merkezle eyaletler arasında dolaşmasını sağladı.\n\nCyrus Cylinder gibi belgeler, Kiros’un Babil’i aldıktan sonra kendisini yerel dini düzeni onaran bir hükümdar gibi sunduğunu gösterir. Bu metni modern anlamda “insan hakları bildirgesi” diye okumak abartılı olabilir; fakat Pers yönetiminin meşruiyeti yalnız zorla değil, yerel tanrılar, tapınaklar ve elitlerle uyum dili kurarak üretmeye çalıştığını gösterir.\n\nPrince of Persia ya da 300 gibi yapımlar Persleri çoğu zaman egzotik dekor ya da “öteki” düşman olarak kullanır. Tarihsel Pers İmparatorluğu ise yol, kayıt, vergi, satraplık ve kültürel esneklik sayesinde antik dünyanın en etkili idari modellerinden birini kurmuştu.",
+        "accuracyNote": "Pers yönetimi hoşgörüyle birlikte merkezi vergi, askerî yükümlülük ve satrap denetimine dayanıyordu; bu yüzden yalnızca “özgürlükçü” ya da yalnızca “despotik” diye okunmamalı.",
+        "whyInteresting": "Cyrus Cylinder, Kiros’un Babil’deki iktidarını yerel tapınakları ve sürgün edilmiş toplulukları onarma diliyle meşrulaştırdığını gösterir.",
+        "misconception": "Perslerin yalnızca Yunanlıların barbar düşmanı olduğu sanılır; gerçekte Ahameniş yönetimi yol, posta, eyalet ve vergi sistemiyle antik imparatorluk yönetimini dönüştürdü.",
+        "mediaChanged": "300 gibi yapımlar Persleri canavarlaşmış bir düşman gibi gösterir; tarihsel Pers İmparatorluğu çok dilli, çok dinli ve yoğun bürokrasiyle işleyen sofistike bir siyasi yapıydı.",
+        "whyItMatters": "Pers modeli, imparatorlukların yalnız savaş kazanarak değil, farklı toplulukları yönetilebilir idari ağlara bağlayarak ayakta kaldığını gösterir.",
+        "quickRealityCheck": "Persler yalnızca Yunan dünyasının düşmanı mıydı, yoksa antik çağın en gelişmiş idari sistemlerinden birini kuran imparatorluk mu?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Achaemenid Persian Empire (Metropolitan Museum of Art)",
+            "url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The Cyrus Cylinder and Ancient Persia (Metropolitan Museum of Art)",
+            "url": "https://www.metmuseum.org/exhibitions/listings/2013/cyrus-cylinder",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Achaemenian Dynasty (Britannica)",
+            "url": "https://www.britannica.com/topic/Achaemenian-dynasty",
+            "type": "reference",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "reviewNotes": [
+        "Removed over-literal 'first superpower' quick check."
+      ]
+    },
+    {
+      "id": "mongol-horse-archery",
+      "locale": "tr",
+      "verdict": "rewrite",
+      "fields": {
+        "realHistory": "Moğol ordularının gücü, yalnızca “çok hızlı atlılar” olmalarından gelmiyordu. Bozkır yaşamı, çocukluktan itibaren binicilik, av, mesafe algısı ve yay kullanımını günlük pratiğe dönüştürüyordu. Bu beceri imparatorluk ölçeğinde disiplinli birlik düzeni, haberleşme, istihbarat ve at rotasyonuyla birleşince Moğol ordusu çağının en hareketli askerî gücüne dönüştü.\n\nMoğol bileşik yayı, ahşap, boynuz ve sinir gibi farklı malzemelerin birlikte kullanılmasıyla güçlü ve kısa bir silah haline gelmişti. At üzerinde kullanılabilmesi, okçulara hem menzil hem de hareket avantajı verdi. Yine de “her ok 300 metreden isabet ederdi” gibi iddialar fazla kesin olur. Asıl üstünlük, tek bir mucize atışta değil, hareket halindeyken baskı kurabilme, geri çekilir gibi yapıp düşmanı bozma ve farklı yönlerden koordineli saldırabilme becerisindeydi.\n\nHer savaşçının birden fazla at kullanması, sefer temposunu artırdı. Atlar dönüşümlü dinlendirilirken ordu uzun mesafeleri hızlı geçebiliyor, düşman ordularının beklemediği noktalarda belirebiliyordu. Sahte geri çekilme taktiği de yalnız cesaret değil, sıkı disiplin gerektiriyordu; dağınık bir ordu böyle bir manevrayı kolayca paniğe çevirebilirdi.\n\nAge of Empires veya Total War gibi oyunlar Moğol atlı okçularını yakalanamaz birimler olarak gösterir. Bu görsel sezgi doğru bir noktaya dokunur; ama tarihsel gerçeklikte hız, yay ve at kadar lojistik, keşif, komuta ve psikolojik savaşın birleşiminden doğuyordu.",
+        "accuracyNote": "Oyunlar Moğol atlı okçuluğunu hız ve menzil üzerinden doğru hissettirir; ancak gerçek üstünlük bileşik yay, çoklu at kullanımı, keşif ve disiplinli manevranın birlikte işlemesiydi.",
+        "whyInteresting": "Bir Moğol savaşçısının birden fazla atla sefere çıkması, ordunun yorulmadan ilerliyormuş gibi görünmesini sağlayan temel lojistik avantajlardan biriydi.",
+        "misconception": "Moğolların yalnızca kalabalık ve düzensiz akıncılar olduğu sanılır; gerçekte hızlarını planlı at rotasyonu, haberleşme ve disiplinli taktiklerle kullanıyorlardı.",
+        "mediaChanged": "Oyunlar Moğol atlı okçularını sürekli ateş eden sınırsız hareketli birlikler gibi gösterir; tarihsel başarı ise dikkatli at yönetimi, keşif ve koordinasyon gerektiriyordu.",
+        "whyItMatters": "Moğol örneği, askeri üstünlüğün yalnız silah teknolojisinden değil, o teknolojiyi taşıyan yaşam tarzı ve lojistik sistemden doğduğunu gösterir.",
+        "quickRealityCheck": "Moğol atlı okçuları sadece hızlı savaşçılar mıydı, yoksa hız, yay, at rotasyonu ve disiplinli taktiğin birleşimi mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Warfare in the Mongolian Empire (University of Washington Silk Road Seattle)",
+            "url": "https://depts.washington.edu/silkroad/culture/warfare/warfare.html",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Mongol Empire (Britannica)",
+            "url": "https://www.britannica.com/topic/Mongol-empire",
+            "type": "reference",
+            "verified": true
+          },
+          {
+            "title": "Pax Mongolica (Britannica)",
+            "url": "https://www.britannica.com/topic/Pax-Mongolica",
+            "type": "reference",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "reviewNotes": [
+        "Removed too-precise moving-shot claim."
+      ]
+    },
+    {
+      "id": "empire-collapse-speed",
+      "locale": "tr",
+      "verdict": "rewrite",
+      "fields": {
+        "realHistory": "Oyunlarda imparatorluk çöküşü genellikle bir başkentin düşmesi, son ordunun yok olması ya da haritada rengin silinmesiyle olur. Gerçek tarihte ise çöküş çoğu zaman uzun bir dönüşüm sürecidir. Batı Roma örneğinde 476 yılı güçlü bir semboldür; fakat imparatorluk düzeni o tarihten çok önce mali baskı, iç savaş, askerî rekabet, vergi sorunları ve yerel güçlerin yükselişiyle aşınmaya başlamıştı.\n\nRoma’nın batı yarısı tek bir “barbar akını” yüzünden yıkılmadı. Sınır baskıları, ordunun finansmanı, elitlerin merkezden kopması, ekonomik daralma ve siyasi meşruiyet krizleri birbirini besledi. Bazı bölgelerde Roma kurumları bir anda yok olmadı; yerel krallar Roma unvanlarını, hukuk alışkanlıklarını ve idari pratikleri sürdürmeye çalıştı. Bu yüzden tarihçiler çöküş kadar dönüşüm kavramını da kullanır.\n\nJoseph Tainter’ın karmaşık toplumlar teorisi bu durumu anlamak için yararlı bir çerçeve sunar: devletler sorunları çözmek için yeni kurumlar, vergiler, ordular ve bürokrasi katmanları üretir; bir noktadan sonra bu karmaşıklığın maliyeti getiriden fazla olabilir. Bu tek başına her imparatorluğu açıklamaz, ama çöküşü yalnız dış saldırıyla açıklamanın yetersiz olduğunu hatırlatır.\n\nCivilization ve Total War: Attila gibi oyunlar bu süreci mekaniklere çevirmek zorundadır. Özellikle Attila, göç, iklim baskısı, vergi ve iç huzursuzluk gibi faktörleri oyuna dahil ederek tek savaşlık yıkım fikrinden uzaklaşır. Tarihsel ders şudur: imparatorluklar çoğu zaman patlamaz; önce yönetmesi pahalı, savunması zor ve meşruiyeti kırılgan hale gelir.",
+        "accuracyNote": "Oyunlar çöküşü okunabilir hale getirmek için anlık kırılmalarla gösterir; tarihsel çöküş ise çoğu zaman mali, askerî, idari ve meşruiyet krizlerinin uzun süreli birleşimidir.",
+        "whyInteresting": "Batı Roma’nın 476’daki siyasi sonu, Roma dünyasının tamamen bittiği anlamına gelmedi; Doğu Roma yüzyıllarca yaşamaya devam etti ve batıda da birçok kurum dönüşerek sürdü.",
+        "misconception": "İmparatorlukların tek bir büyük savaş veya barbar akını yüzünden çöktüğü sanılır; gerçekte iç krizler ve dış baskılar genellikle birlikte işler.",
+        "mediaChanged": "Civilization çöküşü oyun akışı için keskin eşiklere bağlar; Total War: Attila ise vergi, göç ve iklim baskısıyla süreci daha tarihsel bir yıpranma olarak hissettirir.",
+        "whyItMatters": "Çöküşü süreç olarak okumak, bugünkü devlet krizlerini de tek bir felaketle değil, kurumların maliyeti, meşruiyeti ve uyum kapasitesiyle değerlendirmeyi sağlar.",
+        "quickRealityCheck": "Bir imparatorluk bir günde mi çöker, yoksa uzun süre yönetilemez hale geldikten sonra mı yıkılmış görünür?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Fall of Rome (Britannica)",
+            "url": "https://www.britannica.com/event/Fall-of-Rome",
+            "type": "reference",
+            "verified": true
+          },
+          {
+            "title": "The Collapse of Complex Societies (Cambridge University Press)",
+            "url": "https://www.cambridge.org/core/books/collapse-of-complex-societies/76D58C08A4A0B7A6C15B57388701B34C",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "The Roman Empire in Late Antiquity (Metropolitan Museum of Art)",
+            "url": "https://www.metmuseum.org/toah/hd/roem/hd_roem.htm",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "reviewNotes": [
+        "Removed unsupported hyperinflation/road-caused-collapse claims."
+      ]
+    },
+    {
+      "id": "sengoku-japan-hostage",
+      "locale": "tr",
+      "verdict": "rewrite",
+      "fields": {
+        "realHistory": "Sengoku döneminde Japonya, birbirleriyle sürekli ittifak kurup bozan daimyo ailelerinin dünyasıydı. Bu ortamda sadakat yalnız sözle güvence altına alınmazdı; evlilik, evlatlık bağları ve rehin değişimi siyasi dengeyi korumanın araçlarıydı. Bir lordun oğlu ya da yakın akrabası başka bir klanın yanında kaldığında, bu kişi hem güvence hem de gelecekteki ittifak kanalı haline gelirdi.\n\nTokugawa Ieyasu’nun çocukluğu bu düzenin en bilinen örneklerinden biridir. Matsudaira Takechiyo adıyla doğan Ieyasu, Oda ve Imagawa güçleri arasındaki rekabette çocuk yaşta rehin konumuna düştü. Bu deneyim romantik anlamda “iyi eğitim kampı” değildi; kırılgan ittifakların içinde hayatta kalmayı, beklemeyi ve rakip ailelerin davranışlarını okumayı öğrenmesi açısından belirleyici oldu.\n\nRehinlik her zaman zindan hayatı anlamına gelmezdi. Soylu rehinler çoğu zaman ev sahibi hanede statülerine uygun şekilde tutulur, eğitim görür ve saray çevresini tanırdı. Fakat bu durum güvenli oldukları anlamına da gelmezdi. İttifak bozulduğunda aynı kişi pazarlık kozu, baskı aracı ya da kurban haline gelebilirdi.\n\nShōgun ve Total War: Shogun 2 gibi yapımlar sadakati çoğu zaman onur ve kişisel bağlılık üzerinden anlatır. Tarihsel Sengoku siyasetinde ise sadakat, aile üyeleri, kaleler, evlilikler, rehinler ve çıkar dengeleriyle sürekli yeniden güvence altına alınan kırılgan bir pazarlıktı.",
+        "accuracyNote": "Rehinlik bazen eğitim ve diplomatik ikamet gibi işlerdi; fakat temel amacı ittifakı güvence altına almak ve sadakat bozulduğunda baskı aracı yaratmaktı.",
+        "whyInteresting": "Tokugawa Ieyasu’nun çocukluk rehinliği, daha sonra Japonya’yı birleştirecek bir liderin siyaset okuluna dönüşen zorunlu bir hayatta kalma deneyimiydi.",
+        "misconception": "Sengoku rehinlerinin her zaman zindanda tutulduğu sanılır; gerçekte soylu rehinler çoğu zaman hanede yetiştirilir, ama siyasi riskleri hiç kaybolmazdı.",
+        "mediaChanged": "Medyada sadakat çoğu zaman onur sözüyle açıklanır; Sengoku siyasetinde aile üyeleri, evlilikler ve rehinler ittifakların gerçek sigortasıydı.",
+        "whyItMatters": "Rehinlik sistemi, feodal siyasette güvenin kişisel erdemden çok somut teminat ve karşılıklı risk üzerinden kurulduğunu gösterir.",
+        "quickRealityCheck": "Sengoku döneminde rehinlik sadece hapis miydi, yoksa ittifakları ayakta tutan tehlikeli bir diplomasi aracı mı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Sengoku Period (Britannica)",
+            "url": "https://www.britannica.com/event/Sengoku-period",
+            "type": "reference",
+            "verified": true
+          },
+          {
+            "title": "Tokugawa Ieyasu (EBSCO Research Starters)",
+            "url": "https://www.ebsco.com/research-starters/history/tokugawa-ieyasu",
+            "type": "reference",
+            "verified": true
+          },
+          {
+            "title": "A Child Hostage in Nagoya (Nagoya International Center)",
+            "url": "https://www.nic-nagoya.or.jp/en/news-events/course/2023/03311651.html",
+            "type": "reference",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "reviewNotes": [
+        "Balanced benign-hostage language with coercive political reality."
+      ]
+    },
+    {
+      "id": "shogun-trade-sakoku",
+      "locale": "tr",
+      "verdict": "rewrite",
+      "fields": {
+        "realHistory": "Sakoku genellikle “Japonya’nın dünyaya tamamen kapanması” diye anlatılır; daha doğru ifade, Tokugawa şogunluğunun dış bağlantıları seçerek ve sıkı denetleyerek yönetmesidir. 17. yüzyılın ilk yarısında Hristiyan misyonerliği, Portekiz ve İspanyol etkisi, daimyo’ların dış ticaretle güçlenme ihtimali ve Shimabara İsyanı gibi gelişmeler, şogunluğu daha sert sınırlamalar koymaya itti.\n\nBu düzen Japonların serbestçe yurtdışına çıkmasını ve yabancıların ülkeye yayılmasını büyük ölçüde engelledi. Fakat Japonya bütünüyle kopmadı. Nagasaki’deki Dejima üzerinden Hollandalılarla, Çinli tüccarlarla, Kore elçiliği ve Tsushima bağlantısıyla, Ryukyu ve Ainu bölgeleri üzerinden farklı temaslar devam etti. Bu yüzden Sakoku, mutlak izolasyon değil, devletin kapıları kendi seçtiği noktalardan açtığı bir kontrol rejimiydi.\n\nDejima bu rejimin sembolü haline geldi. Hollandalı tüccarlar dar bir alanda yaşamak zorundaydı, hareketleri ve ticaretleri denetleniyordu; fakat getirdikleri kitaplar, aletler ve bilgiler Rangaku adı verilen “Hollanda çalışmaları”nın doğmasına katkı sağladı. Tıp, astronomi, haritacılık ve askeri teknoloji gibi alanlarda Batı bilgisi tamamen kesilmedi; yalnızca filtrelenerek ve denetlenerek dolaşıma girdi.\n\nShōgun dizisi, Sakoku’nun hemen öncesindeki Portekiz-Cizvit etkisini ve Japon otoritelerinin bu etkiyi nasıl siyasi tehdit olarak gördüğünü iyi hissettirir. Tarihsel gerçek ise basit “kapalı ülke” kalıbından daha ilginçtir: Tokugawa düzeni dünyayı reddetmedi; dünyayla bağlantının kimlerin elinde, hangi limanda ve hangi koşullarda kurulacağını belirlemeye çalıştı.",
+        "accuracyNote": "Sakoku tam kopuş değil, dış temasın liman, kişi, din ve ticaret kanalı üzerinden devlet tarafından sıkı biçimde seçildiği bir kontrol sistemiydi.",
+        "whyInteresting": "Dejima küçük bir ada gibi görünse de, Japonya’nın Batı tıbbı, haritacılık ve bilimsel araçlarla temas kurduğu en önemli filtrelerden biri haline geldi.",
+        "misconception": "Tokugawa Japonya’sının dünyadan tamamen habersiz ve teknolojik olarak donmuş olduğu sanılır; gerçekte sınırlı ama sürekli bilgi ve ticaret kanalları vardı.",
+        "mediaChanged": "Shōgun Portekizli tüccar ve Cizvitlerin etkisini dramatize eder; Sakoku sonrasında ise bu etkinin yerini daha dar, denetimli ve seçici bağlantı kanalları aldı.",
+        "whyItMatters": "Sakoku, izolasyonun bazen tamamen kopmak değil, küresel bağlantıyı devletin kontrol edebileceği sınırlı kanallara sıkıştırmak anlamına geldiğini gösterir.",
+        "quickRealityCheck": "Sakoku Japonya’nın dünyadan tamamen kopması mıydı, yoksa dış bağlantıyı devlet kontrolüne alan seçici bir rejim mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Sakoku (Britannica)",
+            "url": "https://www.britannica.com/topic/sakoku",
+            "type": "reference",
+            "verified": true
+          },
+          {
+            "title": "Shared Cultural Heritage of the Netherlands and Japan (Cultural Heritage Agency of the Netherlands)",
+            "url": "https://www.cultureelerfgoed.nl/publicaties/publicaties/2016/01/01/shared-cultural-heritage-of-the-netherlands-and-japan",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Rangaku and Dejima (Wacana / Universitas Indonesia)",
+            "url": "https://scholarhub.ui.ac.id/wacana/vol10/iss2/4/",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "reviewNotes": [
+        "Flagship rewrite; removed romantic 'pure culture' and total isolation claims."
+      ]
+    },
+    {
+      "id": "cold-war-proxy-wars",
+      "locale": "tr",
+      "verdict": "rewrite",
+      "fields": {
+        "realHistory": "Soğuk Savaş’ın “soğuk” kalması, savaşın kansız olduğu anlamına gelmez. ABD ve Sovyetler Birliği doğrudan tam ölçekli savaştan kaçındı, çünkü nükleer çağda böyle bir çatışma karşılıklı yok oluş riskini taşıyordu. Karşılıklı Garantili Yıkım mantığı, iki süper gücü birbirine doğrudan saldırmaktan caydırdı; fakat rekabeti dünyanın başka bölgelerine taşıdı.\n\nKore, Vietnam, Afganistan, Angola ve Orta Amerika’daki çatışmalar bu yüzden yalnız yerel savaşlar değildi. Yerel aktörlerin kendi hedefleri, ideolojileri ve tarihleri vardı; ama süper güçler bu savaşlara silah, para, eğitim, istihbarat ve diplomatik destekle dahil oldu. Böylece doğrudan ABD-SSCB savaşı yaşanmazken, milyonlarca insan bu rekabetin bedelini bölgesel savaşlarda ödedi.\n\nOyunlar Soğuk Savaş’ı çoğu zaman gizli operasyon, sabotaj ve özel kuvvet görevleri üzerinden anlatır. Bu atmosfer tamamen uydurma değildir; CIA, KGB ve müttefik istihbarat ağları dönemin önemli aktörleriydi. Fakat yalnız gizli ajan hikâyesi, savaşların yerel halk üzerindeki uzun süreli etkisini, mülteci krizlerini ve devlet yapılarındaki yıkımı kolayca arka plana iter.\n\nBu yüzden vekalet savaşlarını “iki büyük gücün satrancı” diye okumak yarı doğrudur. Satranç tahtasında taş gibi görünen ülkelerin kendi iç siyaseti, toplumsal yaraları ve bağımsız kararları vardı. Soğuk Savaş’ın en sert mirası da burada yatar: nükleer savaş çıkmadı, ama rekabet başka coğrafyalarda çok sıcak yaşandı.",
+        "accuracyNote": "Oyunlar gizli operasyonları öne çıkarır; tarihsel vekalet savaşları ise yerel aktörlerin kendi hedefleriyle süper güç desteğinin birleştiği çok katmanlı çatışmalardı.",
+        "whyInteresting": "Nükleer silahlar büyük savaşı caydırırken, aynı caydırıcılık rekabetin Vietnam, Kore ve Afganistan gibi dolaylı cephelere taşınmasına katkı sağladı.",
+        "misconception": "Soğuk Savaş’ın kansız geçtiği sanılır; gerçekte doğrudan süper güç savaşı yaşanmasa da vekalet savaşları milyonlarca insanı etkiledi.",
+        "mediaChanged": "Battlefield, Black Ops ve Metal Gear Solid gizli operasyon tarafını büyütür; tarihsel tabloda istihbarat kadar yerel siyaset, silah yardımı ve sivillerin yaşadığı yıkım da belirleyiciydi.",
+        "whyItMatters": "Vekalet savaşları, büyük güçlerin doğrudan çatışmadan kaçınırken başka toplumların savaş alanına dönüşmesine nasıl yol açabildiğini gösterir.",
+        "quickRealityCheck": "Soğuk Savaş gerçekten soğuk muydu, yoksa nükleer caydırıcılığın gölgesinde başka ülkelerde sıcak savaşlar mı yaşandı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Cold Conflict (National WWII Museum)",
+            "url": "https://www.nationalww2museum.org/war/articles/cold-conflict",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Cold War Diplomacy (National Museum of American Diplomacy)",
+            "url": "https://diplomacy.state.gov/discover-diplomacy/period/cold-war-diplomacy/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Third World and the Cold War (Britannica)",
+            "url": "https://www.britannica.com/event/Cold-War/The-Third-World-and-the-Cold-War",
+            "type": "reference",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "reviewNotes": [
+        "Removed generic 20th-century summary and focused on proxy-war logic."
+      ]
+    },
+    {
+      "id": "utopia-political-history",
+      "locale": "tr",
+      "verdict": "rewrite",
+      "fields": {
+        "realHistory": "BioShock ve Atomic Heart gibi oyunlar, “mükemmel toplum” vaadiyle kurulan kapalı sistemlerin nasıl kabusa dönüşebileceğini anlatır. Bu tür hikâyelerde çöküş genellikle bir laboratuvar kazası ya da liderin deliliğiyle başlar; tarihsel karşılıkları ise daha yavaştır. Ütopya projeleri çoğu zaman insan davranışını, yerel koşulları ve güç ilişkilerini fazla basitleştirdiği için kırılır.\n\nBioShock’un Rapture’ı, Ayn Rand’ın bireycilik ve serbest piyasa fikirlerinden esinlenen aşırı bir özgürlük deneyidir. Devlet, ahlakî sınırlama ve kamusal denetim yok edildiğinde yaratıcı dehanın özgürleşeceği varsayılır; oyunun gösterdiği şey ise denetimsiz güç, bağımlılık, bilimsel hırs ve sınıfsal eşitsizliğin aynı yapıyı içeriden çökertmesidir. Bu doğrudan tarih değil, 20. yüzyıl ideolojik deneylerine dair keskin bir alegoridir.\n\nGerçek dünyada Fordlândia gibi projeler bu açıdan öğreticidir. Henry Ford, 1920’lerde Brezilya Amazonu’nda kauçuk üretimi ve Amerikan tarzı düzenli bir şirket kasabası kurmak istedi. Ancak tarım bilgisi, yerel iklim, işçi kültürü ve şirket disiplini arasındaki uyumsuzluk projeyi başarısızlığa sürükledi. Burada sorun yalnız “iyi niyetli ütopyanın bozulması” değil, dışarıdan tasarlanmış bir düzenin yerel gerçekliği dinlememesiydi.\n\nÜtopya fikri bu yüzden popüler kültürde güçlüdür: en parlak vaatler bile kimin kuralları koyduğu, kimin bedel ödediği ve sistemin eleştiriye izin verip vermediği sorularını saklayamaz. BioShock’un yaptığı da tam olarak budur; ideal toplumun altındaki iktidar mekanizmasını görünür kılar.",
+        "accuracyNote": "BioShock tarihsel bir olayı uyarlamaz; Randçı bireycilik, kapalı şirket/koloni projeleri ve 20. yüzyıl ideolojik deneyleriyle konuşan politik bir alegori kurar.",
+        "whyInteresting": "Fordlândia, yalnız bir kauçuk plantasyonu değil; Amerikan şirket kültürünü Amazon’da yeniden üretmeye çalışan ve yerel gerçeklikle çatışan bir sosyal mühendislik deneyiydi.",
+        "misconception": "Ütopyaların yalnız bilim kurgu konusu olduğu sanılır; gerçekte 20. yüzyıl, şirket kasabaları ve ideolojik toplum projeleriyle bu hayalin birçok denemesini gördü.",
+        "mediaChanged": "BioShock ütopyayı hızlı ve grotesk bir çöküşle gösterir; tarihsel projelerde çöküş çoğu zaman ekoloji, emek ilişkisi, liderlik ve yerel kültürle uyumsuzluk üzerinden yavaş gelişir.",
+        "whyItMatters": "Ütopya anlatıları, iyi niyetli görünen sistemlerin bile denetim, çoğulculuk ve yerel gerçekliği dışladığında baskıcı hale gelebileceğini hatırlatır.",
+        "quickRealityCheck": "Ütopya yalnız hayalî bir şehir mi, yoksa gerçek dünyada da defalarca denenmiş bir sosyal mühendislik arzusu mu?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Objectivism (Britannica)",
+            "url": "https://www.britannica.com/topic/objectivism-philosophy",
+            "type": "reference",
+            "verified": true
+          },
+          {
+            "title": "Fordlandia – The Henry Ford (Google Arts & Culture)",
+            "url": "https://artsandculture.google.com/story/fordlandia-the-henry-ford/FwURITZarGKCJg",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Fordlandia (Smithsonian Libraries)",
+            "url": "https://www.si.edu/object/siris_sil_929065",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "reviewNotes": [
+        "Removed sensational cafeteria/army claim from whyItMatters."
+      ]
+    },
+    {
+      "id": "last-emperor-china-fall",
+      "locale": "tr",
+      "verdict": "rewrite",
+      "fields": {
+        "realHistory": "Puyi’nin hayatı, Çin’de imparatorluk düzeninin bir günde bitmediğini gösteren en çarpıcı örneklerden biridir. 1908’de henüz çocukken Qing tahtına çıkarıldı; 1911 Devrimi sonrasında imparatorluk fiilen sona erdi ve 1912’de tahttan indirildi. Buna rağmen özel düzenlemeler sayesinde bir süre Yasak Şehir’de imparatorluk unvanı ve saray ritüelleriyle yaşamayı sürdürdü. Bu durum, eski rejimin siyasi gücünü kaybetse bile sembolik olarak hemen yok olmadığını gösterir.\n\n1924’te Yasak Şehir’den çıkarılmasıyla Puyi’nin hayatı yeni bir kırılmaya girdi. Japon etkisine yaklaştı ve 1930’larda Japonya’nın kurduğu Mançukuo devletinin başına getirildi. Bu rol onu yalnız “kullanılmış masum çocuk” değil, Japon imparatorluk projesinin sembolik yüzü haline getirdi. The Last Emperor filmi Puyi’nin kişisel sıkışmışlığını güçlü biçimde anlatır; fakat Mançukuo döneminin siyasi sorumluluğunu doğal olarak daha insani ve kişisel bir çerçevede işler.\n\nII. Dünya Savaşı sonunda Puyi Sovyetler tarafından yakalandı, daha sonra Çin Halk Cumhuriyeti’ne teslim edildi ve savaş suçlusu olarak yeniden eğitim sürecinden geçti. 1959’da affedildikten sonra sıradan bir yurttaş olarak çalıştı; bu dönüşüm, filmin en güçlü tarihsel ironilerinden biridir.\n\nPuyi’nin hikâyesi yalnız bir kişinin düşüşü değildir. Qing sarayından cumhuriyete, Japon işgalinden komünist Çin’e uzanan çizgi, 20. yüzyıl Çin’inin kurum, kimlik ve meşruiyet krizlerini tek bir biyografide toplar.",
+        "accuracyNote": "Film saray atmosferi ve kişisel dönüşümü güçlü verir; Mançukuo dönemindeki Japon kukla düzenini ve Puyi’nin bu yapıdaki sorumluluğunu ise daha kişisel bir trajedi içinde yumuşatır.",
+        "whyInteresting": "Puyi, çocuk imparatorluktan kukla hükümdarlığa, savaş suçluluğundan sıradan yurttaşlığa uzanan hayatıyla 20. yüzyıl Çin tarihinin neredeyse bütün kırılmalarını tek biyografide taşır.",
+        "misconception": "Çin imparatorluğunun bir günde tamamen bittiği sanılır; Puyi’nin Yasak Şehir’de yıllarca sembolik olarak kalması, eski düzenin daha yavaş çözüldüğünü gösterir.",
+        "mediaChanged": "The Last Emperor Puyi’nin kişisel dramını öne çıkarır; tarihsel bağlamda aynı hikâye Qing’in çöküşü, Japon kukla devleti Mançukuo ve komünist yeniden eğitim süreciyle birlikte okunmalıdır.",
+        "whyItMatters": "Puyi’nin hayatı, modernleşmenin yalnız kurumları değil, insanların kimliğini, statüsünü ve geçmişle kurduğu ilişkiyi de kökten dönüştürdüğünü gösterir.",
+        "quickRealityCheck": "Puyi sadece talihsiz bir çocuk imparator muydu, yoksa Çin’in imparatorluktan modern devlete geçişindeki karmaşık siyasi dönüşümün sembolü mü?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Puyi (Britannica)",
+            "url": "https://www.britannica.com/biography/Puyi",
+            "type": "reference",
+            "verified": true
+          },
+          {
+            "title": "The Last Manchu: The Autobiography of Henry Pu Yi (Google Books)",
+            "url": "https://books.google.com/books/about/The_Last_Manchu.html?id=Us1X-PIypqQC",
+            "type": "book",
+            "verified": true
+          },
+          {
+            "title": "Puyi: The Last Emperor of China (ABC Listen)",
+            "url": "https://www.abc.net.au/listen/programs/nightlife/this-week-in-history-puyi/103183140",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "reviewNotes": [
+        "Removed broken truncated whyItMatters and over-romantic phrasing."
+      ]
+    }
+  ]
+}

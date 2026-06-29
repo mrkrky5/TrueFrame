@@ -1,0 +1,251 @@
+{
+  "locale": "tr",
+  "chunkIndex": 9,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "kcd2-medieval-law",
+      "title": "Orta Çağ Şehir Kanunları ve Adalet",
+      "subtitle": "Kılıçtan ziyade kanunlarla yönetilen şehirler.",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Hukuk",
+        "Şehir Hayatı",
+        "Orta Çağ"
+      ],
+      "whatWeSee": "KCD evreninde mahkeme, ceza ve itibar ilişkisi oyuncuya görev akışıyla yansır; kent hukukunun yazılı düzeni ise satır aralarında kalır.",
+      "realHistory": "Orta Çağ sonu Orta Avrupa'sında hukuk, tek bir 'kraliyet kanunu'ndan ibaret değildi. Krallık hukuku, feodal yetki, kilise mahkemesi ve kent hukuku aynı coğrafyada iç içe işliyordu. Bohemya gibi bölgelerde şehirlerin bir kısmı Magdeburg hukukundan türeyen belediye statülerini benimsedi. Bu statüler, miras, borç, ticaret anlaşmazlığı ve kamu düzeni gibi başlıklarda yerel mahkemelere önemli yetkiler veriyordu.\n\n' Stadtluft macht frei' ifadesi, şehirde belirli süre yaşayan serflerin statü dönüşümünü ima eden bir hukuk-sosyal pratikti. Her yerde aynı biçimde uygulanmasa da, kent yaşamının kişisel bağımlılık ilişkilerini gevşetebildiğini anlatır. Şehir duvarı bu yüzden yalnızca savunma çizgisi değil; farklı vergi rejimi, lonca üyeliği ve yargı usulünün de sınırıydı. Kırsalda senyörün doğrudan etkisi baskınken şehirde meclis, lonca ve yargıçlar arasında pazarlık alanı genişliyordu.\n\nKCD'nin sunduğu dünya, suç ve ceza meselesini kişisel onur ve yerel otorite çatışması üzerinden iyi hissettirir. Gerçek kayıtlarda ise süreç daha belgeli ve bürokratik ilerler: şahit beyanı, yazman kayıtları, para cezası ve uzlaşma protokolleri kritik rol oynar. Hapis cezası modern anlamda her zaman merkezde değildir; para tazmini, sürgün, kamusal teşhir ya da bedensel ceza kombinasyonları görülebilir.\n\nAyrıca mahkeme sistemi sınıf körü değildi. Asil, din adamı, şehirli tüccar ve köylünün aynı eylem için farklı sonuçlarla karşılaşabildiği örnekler çoktur. Kadınların dava ehliyeti bölgesel normlara göre değişirken dul kadınların mal varlığı davalarında daha görünür aktör olabildiği görülür. Bu karmaşık tablo, oyundaki 'adalet hissini' tarihsel bağlama yerleştirir: hukuk, soyut eşitlikten çok statü ve pazarlık üzerinden çalışır.\n\nYine de geç ortaçağ şehir hukuku, modern hukuka uzanan önemli bir köprü oluşturdu. Yazılı kayıt zorunluluğu, usul standartları ve temyiz imkanları zamanla güçlenerek keyfi yargı alanını daralttı. Bu nedenle KCD mahkemeleri üzerine düşünmek, yalnızca bir dönem dekorunu değil; Avrupa'da hukukun yerelden merkeze nasıl kurumsallaştığını anlamaya da yardımcı olur.",
+      "accuracyNote": "Oyunda adalet mekanizması dramatik akış için hızlandırılır; tarihsel pratikte yazman kaydı, para cezası ve statü farkları daha belirleyicidir.",
+      "whyInteresting": "Bir kölenin şehre kaçıp bir yıl bir gün yakalanmadan yaşaması durumunda özgür kalması kuralı (Stadtluft macht frei), o dönemin en ünlü kanunlarından biridir.",
+      "misconception": "Orta Çağ’da herkesin kanunsuz bir vahşet içinde yaşadığı sanılır; oysa şehirler son derece karmaşık ve katı hukuk sistemlerine sahipti.",
+      "nextTopics": [
+        "Magdeburg Hakları",
+        "Hansa Birliği",
+        "Kutsal Roma İmparatorluğu"
+      ],
+      "sources": [
+        {
+          "title": "Encyclopaedia Britannica - Magdeburg Law",
+          "url": "https://www.britannica.com/topic/Magdeburg-law",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "German Historical Institute - Stadtluft macht frei",
+          "url": "https://www.ghi-dc.org/publication/urban-freedom-and-law",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Oxford Medieval Studies - Urban law in late medieval Europe",
+          "url": "https://medievalstudies.web.ox.ac.uk/",
+          "type": "reference",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "kcd-bohemia",
+        "kcd-medieval-crime",
+        "kcd-medieval-diet"
+      ],
+      "reviewerNote": "Şehir kanunları Britannica ve British Library ile doğrulandı.",
+      "mediaConnection": "Bu kart, Kingdom Come: Deliverance II yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "ehir-hayat",
+        "hukuk",
+        "kingdom-come",
+        "orta-cag"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Oyunda adalet mekanizması dramatik akış için hızlandırılır; tarihsel pratikte yazman kaydı, para cezası ve statü farkları daha belirleyicidir.",
+      "whyItMatters": "Bir kölenin şehre kaçıp bir yıl bir gün yakalanmadan yaşaması durumunda özgür kalması kuralı (Stadtluft macht frei), o dönemin en ünlü kanunlarından biridir.",
+      "quickRealityCheck": "Orta Çağ hukuku tek bir yasa kitabı değil; şehir, feodalite ve kilise yetkilerinin pazarlık alanıdır.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "last-samurai-rebellion",
+      "title": "Son Samuray ve Satsuma İsyanı",
+      "subtitle": "Bir sınıfın çöküşü ve modern Japonya’nın doğuşu.",
+      "mediaType": "film",
+      "mediaTitle": "The Last Samurai (2003)",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Samuray",
+        "Japonya Tarihi",
+        "Modernleşme"
+      ],
+      "whatWeSee": "Filmde samuraylar, modern tüfeklere karşı sadece kılıçlarla savaşan, teknolojiyi tamamen reddeden onurlu savaşçılar olarak gösterilir.",
+      "realHistory": "1877 Satsuma İsyanı, samuray sınıfının modernleşen Japonya'daki ayrıcalıklarını kaybetmesine karşı başlattığı son büyük direniştir. Filmde samuraylar sadece kılıçla savaşan romantik figürler olarak gösterilse de, gerçekte isyancı lider Saigo Takamori ve ordusu modern tüfekler, toplar ve üniformalar kullanmışlardır. İsyanın asıl nedeni, samurayların maaşlarının kesilmesi ve kılıç taşıma haklarının ellerinden alınmasıydı; yani bu sadece bir 'onur' savaşı değil, aynı zamanda bir sınıfın ekonomik hayatta kalma mücadelesiydi.\n\nMeiji maaş kesintisi ve kılıç yasağı isyanı tetikledi. Saigo halk desteğiyle millî sembole dönüştü.\n\n1877 Satsuma İsyanı samuray sınıfının modernleşen Japonya'daki ayrıcalıklarını kaybetmesine karşı başlattığı son büyük direniştir. Saigo Takamori Kumamoto kuşatmasıyla isyanı başlattı; isyancılar modern tüfek ve toplar kullandı. Meiji maaş kesintisi ve 1876 kılıç yasağı ekonomik ve statü kaybını tetikledi. Saigo'nun ölümü sonrası halk desteği onu millî sembole dönüştürdü.\n\nŞiroyama Savaşı'nda imparatorluk ordusu topçu ve tüfek üstünlüğüyle isyancıları kuşattı. Saigo'nun intiharı sonrası halkın yoğun desteği imparatorluğu affetmeye zorladı.\n\nİsyanın bastırılması Meiji modernleşmesinin askeri ve bürokratik dönüşümünü hızlandırdı.\n\nSamurayların teknolojiye düşman olduğu sanılır; oysa kayıtlara göre samuraylar tarih boyunca yeni silah teknolojilerine (tüfek dahil) çok hızlı adapte olmuşlardır.\n\nPortekiz tüfeği Tanegashima 16. yüzyıldan beri samuray cephaneliğinin parçasıydı; film teknoloji düşmanlığı tasvirini abartır.",
+      "accuracyNote": "The Last Samurai filmi, samurayları teknoloji düşmanı olarak göstererek büyük bir tarihsel hata yapar. Samuraylar, Portekizlilerin tüfeği (Tanegashima) getirdiği 16. yüzyıldan beri ateşli silahları en etkili kullanan sınıflardan biri olmuştur.",
+      "whyInteresting": "İsyanın lideri Saigo Takamori, harakiri yaparak öldükten sonra Japon halkı tarafından o kadar çok sevildi ki, imparatorluk onu ölümünden sonra affetmek zorunda kaldı. Bugün Saigo, modern Japonya'nın en popüler figürlerinden biri ve 'son gerçek samuray' olarak anılmaktadır.",
+      "misconception": "Samurayların teknolojiye düşman olduğu sanılır; oysa samuraylar tarih boyunca yeni silah teknolojilerine (tüfek dahil) çok hızlı adapte olmuşlardır.",
+      "nextTopics": [
+        "Meiji Restorasyonu",
+        "Saigo Takamori",
+        "Bushido"
+      ],
+      "sources": [
+        {
+          "title": "Satsuma Rebellion (Britannica)",
+          "url": "https://www.britannica.com/event/Satsuma-Rebellion",
+          "type": "official"
+        },
+        {
+          "title": "Meiji Restoration (National Museum of Japanese History)",
+          "url": "https://www.rekihaku.ac.jp/english/",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Satsuma İsyanı ve teknoloji kullanımı Britannica ile doğrulandı.",
+      "mediaConnection": "Bu kart, The Last Samurai (2003) yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "japonya-tarihi",
+        "modernleme",
+        "samuray",
+        "the-last-samurai-20"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Film, samurayları teknoloji düşmanı olarak göstererek büyük bir tarihsel hata yapar. The Last Samurai (2003) sahne diliyle konuyu yoğunlaştırır; kayıtlar ise aynı konuyu daha parçalı bir çerçevede anlatır.",
+      "whyItMatters": "Günümüzde Saigo, modern Japonya'nın en popüler figürlerinden biri ve 'son gerçek samuray' olarak anılmaktadır.",
+      "quickRealityCheck": "Samurayların teknolojiye düşman olduğu denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "The Last Samurai (2003) hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "band-of-brothers-airborne",
+      "title": "Easy Bölüğü ve Bastogne Kuşatması",
+      "subtitle": "Havadaki piyadelerin en zorlu sınavı.",
+      "mediaType": "series",
+      "mediaTitle": "Band of Brothers",
+      "difficulty": "medium",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "İkinci Dünya Savaşı",
+        "Askeri Tarih",
+        "ABD"
+      ],
+      "whatWeSee": "Dizide, 101. Hava İndirme Tümeni’nin dondurucu soğukta, yetersiz mühimmat ve kıyafetle Bastogne’u Alman kuşatmasına karşı savunması anlatılır.",
+      "realHistory": "İkinci Dünya Savaşı'nın en seçkin birliklerinden biri olan 101. Hava İndirme Tümeni'ne bağlı 506. Alay 'Easy' Bölüğü, modern askeri tarihin en ikonik 'kardeşlik' hikayesidir. 1942'de Toccoa Kampı'nda kurulan bu birlik, 'Currahee' dağında aldıkları ağır eğitimle fiziksel ve mental olarak çelikleşmiştir. Easy Bölüğü, Normandiya Çıkartması'ndan (D-Day) başlayarak, Market Garden Operasyonu, Bastogne Kuşatması ve sonunda Hitler'in 'Kartal Yuvası'na kadar uzanan, savaşın en kritik cephelerinde görev yapmıştır. Onlar, 'sıradan insanların olağanüstü işler başardığı' bir birliğin adıydı. 6 Haziran 1944 sabahının ilk saatlerinde, Easy Bölüğü askerleri uçaksavar ateşi altındaki C-47 uçaklarından Normandiya'nın karanlığına atladılar. Birçoğu yanlış bölgelere inse de, küçük gruplar halinde birleşerek stratejik hedefleri ele geçirmeyi başardılar. Teğmen Richard Winters önderliğinde gerçekleştirilen Brécourt Manor saldırısı, bugün bile askeri akademilerde 'küçük bir birliğin büyük bir topçu bataryasını nasıl etkisiz hale getireceği' konusunda ders olarak okutulmaktadır. Bu operasyon, Easy Bölüğü'nün taktiksel zekasının ve bireysel cesaretinin ilk büyük kanıtıdır. D-Day, onlar için sadece bir başlangıçtı. Eylül 1944'te gerçekleştirilen Market Garden, savaşın en iddialı ve riskli operasyonlarından biriydi. Easy Bölüğü, Hollanda'daki kritik köprüleri ele geçirmek için gün ışığında atlayış yaptı. 'Cehennem Yolu' (Hell's Highway) olarak bilinen bölgede, Alman karşı saldırılarına karşı yolları açık tutmak için savaştılar. Bu operasyon müttefikler için tam bir başarı olmasa da, Easy Bölüğü'nün savunma hattındaki dayanıklılığını pekiştirmiştir. Hollanda halkı tarafından 'kurtarıcılar' olarak karşılanmaları, askerlerin savaşın insani boyutunu en derinden hissettikleri andır. Köylülerle paylaşılan o son rasyonlar, savaşın ortasında küçük birer teselliydi. Aralık 1944'te Easy Bölüğü, savaşın en zorlu sınavıyla karşılaştı: Ardenler Taarruzu sırasında Bastogne kasabasını savunmak. Yetersiz kışlık kıyafet, kısıtlı mühimmat ve dondurucu soğuk altında Alman ordusu tarafından kuşatıldılar. Tilki deliklerinde (foxholes) geçirilen haftalar, askerlerin dayanma sınırlarını zorlamıştır. Almanların 'teslim olun' çağrısına 101. Tümen komutanı McAuliffe'in verdiği meşhur 'Nuts!' (Hadi ordan!) cevabı, birliğin sarsılmaz iradesini simgeler. Bastogne, askeri bir zaferden ziyade, insan iradesinin doğa ve düşman karşısındaki mutlak direnişidir. Ağaçların arasından gelen havan ateşi, o kışı bir kabusa çevirmişti. Easy Bölüğü'nün ruhu, Binbaşı Richard Winters'ın 'Follow Me' (Beni Takip Edin) liderlik anlayışında gizlidir. Winters, askerlerine hiçbir zaman yapmayacağı bir şeyi emretmemiş, her zaman en önde savaşmıştır. Onun sessiz otoritesi ve stratejik dehası, birliğin kayıplarını en aza indirirken başarılarını en üst düzeye çıkarmıştır. Winters'ın liderliği, modern ordularda 'küçük birlik komutanlığı'nın altın standardı olarak kabul edilir. Savaş sonrası yazdığı hatıraları, askeri liderliğin etik boyutları üzerine en önemli kaynaklardan biridir. O, askerlerinin gözünde sadece bir komutan değil, bir baba figürüydü. Easy Bölüğü'nün başarısı, Toccoa Kampı'ndaki o acımasız eğitimde başlar. Kaptan Sobel'in tartışmalı ama disiplinli yönetimi altında.",
+      "accuracyNote": "Dizi, Stephen Ambrose’un tarihsel araştırmalarına ve hayatta kalan askerlerin röportajlarına dayandığı için son derece yüksek bir doğruluğa sahiptir.",
+      "whyInteresting": "Kuşatma sırasında askerlerin kışlık kıyafetleri yoktu ve birçoğu ayak donması (trench foot) nedeniyle saf dışı kalmıştır.",
+      "misconception": "Hava indirme birliklerinin sadece uçaktan atlayan elit birlikler olduğu sanılır; oysa çoğu zaman cephede en ön safta normal piyade gibi savaşmışlardır.",
+      "nextTopics": [
+        "Bulge Muharebesi",
+        "101. Hava İndirme",
+        "Normandiya Çıkarması"
+      ],
+      "sources": [
+        {
+          "title": "Battle of the Bulge (National WWII Museum)",
+          "url": "https://www.nationalww2museum.org/war/articles/battle-of-the-bulge",
+          "type": "museum"
+        },
+        {
+          "title": "101st Airborne History (U.S. Army)",
+          "url": "https://history.army.mil/",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "band-of-brothers-heroism",
+        "band-of-brothers-hedgerows-real"
+      ],
+      "reviewerNote": "Ulusal İkinci Dünya Savaşı Müzesi verileriyle doğrulandı.",
+      "mediaConnection": "Bu kart, Band of Brothers yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "abd",
+        "askeri-tarih",
+        "band-of-brothers",
+        "ikinci-dnya-sava"
+      ],
+      "isFlagship": true,
+      "mediaChanged": "Dizide bazı karakterlerin rolleri ve belirli anlardaki tepkileri drama için hafifçe değiştirilmiştir (Örn: Albert Blithe'ın ölümü dizide 1944 gibi gösterilir ama gerçekte 1967'de ölmüştür). Ayrıca bazı askeri hatalar görsellik için sadeleştirilmiştir.",
+      "whyItMatters": "Kuşatma sırasında askerlerin kışlık kıyafetleri yoktu ve birçoğu ayak donması (trench foot) nedeniyle saf dışı kalmıştır.",
+      "quickRealityCheck": "Normandiya paraşüt operasyonu kusursuz plan değil, dağınık iniş içinde kurulan doğaçlama koordinasyondur.",
+      "spoilerNote": "Band of Brothers hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "the-terror-arctic",
+      "title": "Franklin’in Kayıp Seferi ve Kuzey Kutbu",
+      "subtitle": "Buzun içine hapsolan 129 denizcinin gizemi.",
+      "mediaType": "series",
+      "mediaTitle": "The Terror",
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Keşif",
+        "Denizcilik",
+        "Trajedi"
+      ],
+      "whatWeSee": "Dizide, Kuzeybatı Geçidi’ni bulmaya çalışan iki geminin buzlar arasında sıkışması, mürettebatın kurşun zehirlenmesi ve açlıkla mücadelesi anlatılır.",
+      "realHistory": "1845 yılında Kaptan Sir John Franklin liderliğindeki HMS Erebus ve HMS Terror gemileri, İngiltere'den 'Kuzeybatı Geçidi'ni (Northwest Passage) bulmak üzere yola çıktılar. Bu, Victoria dönemi İngiltere'sinin en iddialı ve en teknolojik deniz seferiydi. Gemiler, o dönemin en güçlü buhar makineleriyle, demir takviyeli gövdelerle ve üç yıllık devasa bir gıda stokuyla donatılmıştı. Ancak bu görkemli seferden ne gemiler ne de 129 mürettebat bir daha geri dönebildi. Franklin Seferi, kutup keşifleri tarihindeki en büyük ve en hüzünlü gizem haline geldi. yüzyılın teknolojik kibrini yutmuştu. Gemiler, 1846 Eylül ayında King William Adası yakınlarında yoğun buz tabakasına sıkıştılar. Kaptanlar, buzun yazın eriyeceğini umuyorlardı, ancak beklenen erime hiçbir zaman gerçekleşmedi. İki yıl boyunca buzun içinde hapsolan mürettebat, dondurucu soğukla, skorbüt hastalığıyla ve gıda zehirlenmesiyle boğuştu. 1848'de gemileri terk ederek güneye, Back Nehri'ne doğru yürümeye karar verdiler. Ancak bu 'ölüm yürüyüşü', hiçbirinin hayatta kalamayacağı kadar ağır bir yolculuktu; dondurucu rüzgarlar ve karda ilerlemek imkansızdı. Buz, sadece gemileri değil, Victoria döneminin o sarsılmaz özgüvenini de yutmuştu. Her bir adım, kaçınılmaz sona bir adım daha yaklaşmaktı. Franklin Seferi'nin başarısızlığının en trajik nedenlerinden biri, o dönemin yeni teknolojisi olan konserve gıdalardır. Gemilere yüklenen binlerce konserve kutusu, aceleyle ve kalitesiz bir şekilde mühürlenmişti. Konserve kapaklarındaki kurşun lehimler, gıdaya sızarak mürettebatın yavaş yavaş kurşun zehirlenmesine maruz kalmasına neden oldu. Kurşun zehirlenmesi, sadece fiziksel çöküşe değil, aynı zamanda zihinsel karışıklığa, paranoyaya ve yanlış kararlar alınmasına da yol açtı. Mürettebat, en ihtiyaç duydukları anda kendi gıdaları tarafından sessizce zehirleniyordu. Bu durum, teknolojinin bazen en büyük düşman olabileceğinin acı bir örneğidir. Yemek yemek, aslında bir intihar eylemine dönüşmüştü. Franklin Seferi'nin akıbetini anlamaya çalışan arama ekipleri, bölgedeki yerli halk olan İnuityerle görüştüler. İnuityer, 'gemilerin buzun içinde kaybolduğunu' ve 'açlıktan ölen beyaz adamların birbirini yediğini' (yamyamlık) anlattılar. Victoria dönemi İngiltere'si bu iddiaları başlangıçta reddetti ve 'soylu İngiliz denizcilerinin' böyle bir şey yapmayacağını savundu. Ancak modern arkeolojik çalışmalar ve kemik analizleri, maalesef İnuit tanıklıklarının doğru olduğunu ve son aşamada hayatta kalmak için yamyamlığa başvurulduğunu kanıtlamıştır. Yerel bilgi, dönemin 'modern' biliminden daha doğru çıkmıştır. Doğada hayatta kalmanın sırrı, kitaplarda değil, o topraklarda yaşayanların hafızasındaydı. Yüzyılı aşkın bir süre devam eden aramalar, 21. yüzyılda inanılmaz bir keşifle sonuçlandı. 2014 yılında HMS Erebus, 2016 yılında ise HMS Terror gemilerinin enkazları, suyun altında neredeyse hiç bozulmamış bir halde bulundu. Özellikle HMS Terror'ün camlarının bile kırılmamış olması ve kütüphanesindeki kağıtların korunmuş olma ihtimali, bilim dünyasında büyük bir heyecan yarattı. Bu keşifler, gemilerin terk edildikten sonra buz tarafından değil, akıntılarla güneye taşındığını ve.",
+      "accuracyNote": "Dizi doğaüstü unsurlar içerse de, konserve kutularındaki kurşun zehirlenmesi ve mürettebatın rotası tarihsel kanıtlara (Inuit tanıklıkları dahil) dayanır.",
+      "whyInteresting": "Franklin seferindeki konserve kutuları, tarihin ilk büyük 'endüstriyel gıda faciası' sayılabilir. Düşük maliyetle alelacele yapılan kurşun lehimler, denizcilerin sadece fiziksel sağlığını değil, aynı zamanda muhakeme yeteneklerini de bozarak toplu bir çıldırma sürecini tetiklemiş olabilir.",
+      "misconception": "Kayıp denizcilerin sadece soğuktan öldüğü sanılır; oysa skorbüt, kurşun zehirlenmesi ve tüberküloz da en az soğuk kadar etkili olmuştur.",
+      "nextTopics": [
+        "Kuzeybatı Geçidi",
+        "HMS Terror",
+        "Viktorya Dönemi Keşifleri"
+      ],
+      "sources": [
+        {
+          "title": "Franklin’s Lost Expedition (Parks Canada)",
+          "url": "https://www.pc.gc.ca/en/culture/franklin",
+          "type": "official"
+        },
+        {
+          "title": "The Fate of Franklin (Royal Museums Greenwich)",
+          "url": "https://www.rmg.co.uk/stories/topics/sir-john-franklin-lost-arctic-expedition",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [
+        "the-terror-franklin-canning",
+        "the-terror-arctic-tragedy-flagship"
+      ],
+      "reviewerNote": "Greenwich Kraliyet Müzeleri ve Kanada Parkları verileriyle doğrulandı.",
+      "mediaConnection": "Bu kart, The Terror yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "major",
+      "isPremium": false,
+      "tags": [
+        "denizcilik",
+        "keif",
+        "the-terror",
+        "trajedi",
+        "savas"
+      ],
+      "isFlagship": true,
+      "mediaChanged": "Dizideki 'Tuunbaq' adlı yaratık tamamen kurgusal bir doğaüstü unsurdur. Gerçekte mürettebatın sonunu getiren şeyler; kurşun zehirlenmesi, iskorbüt, aşırı soğuk ve muhtemel yamyamlıktır. Ayrıca yerli halkla (İnuitler) olan ilişkiler dizide biraz daha gergin resmedilmiştir.",
+      "whyItMatters": "Franklin seferindeki konserve kutuları, tarihin ilk büyük 'endüstriyel gıda faciası' sayılabilir.",
+      "quickRealityCheck": "Franklin faciası, doğaya meydan okumaktan çok hazırlık ve uyum yetersizliğinin hikayesidir.",
+      "spoilerNote": "The Terror hikâyesinin sonunu veya büyük sürprizlerini anlatabilir.",
+      "lastReviewedAt": "2026-06-27"
+    }
+  ]
+}

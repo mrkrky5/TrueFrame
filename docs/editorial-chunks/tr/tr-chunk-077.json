@@ -1,0 +1,286 @@
+{
+  "locale": "tr",
+  "chunkIndex": 77,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-175-organized-crime",
+      "title": "Organize Suç",
+      "subtitle": "Ekrandaki iz, tarihteki karşılık",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Suç",
+        "Ekonomi",
+        "Siyaset"
+      ],
+      "whatWeSee": "Boardwalk Empire, organize suç ağını silahlı çatışmadan çok masa başı pazarlıkla anlatır: limanlar, oteller, polis ilişkileri ve siyasi bağış hatları aynı ekonominin parçalarıdır. Kaçak alkol sadece ürün değil, şehir yönetimini satın alan bir gelir akışı olarak görünür; şiddet ise düzeni korumanın maliyeti gibi işlenir.",
+      "realHistory": "ABD'de Prohibition (1920-1933) dönemi, alkol tüketimini bitirmedi; yasal pazarı yeraltına taşıdı. Bu boşluk, daha önce dağınık çalışan kaçakçılık gruplarının bölgesel ağlara dönüşmesini hızlandırdı. Atlantic City, Chicago, New York ve Detroit gibi merkezlerde tedarik, taşıma, rüşvet ve dağıtım zincirleri birbirine bağlandı. Organize suçun yükselişi yalnızca \"sert adam\" hikayesi değil, yasakla oluşan yeni bir pazar düzeniydi.\n\nKanada ve Karayipler'den gelen içki, limanlar ve kıyı hatları üzerinden iç piyasaya sokuluyordu. Yerel polis, belediye meclisleri ve bazı eyalet düzeyi aktörlerle kurulan patronaj ilişkileri, ağların devamlılığını sağladı. Şiddet önemliydi ama asıl kalıcılık muhasebe, lojistik ve siyasi koruma sayesinde kuruldu. Federal baskınlar dönemsel darbeler vurdu; yine de talep sürdükçe ağlar yeni ortaklıklar üretti.\n\nBoardwalk Empire bu yapıyı güçlü biçimde sezdirir. Ancak dizide zaman çizelgesi sıkıştırılır ve farklı şehirlerdeki figürler dramatik etki için yakınlaştırılır. Gerçekte her kentin etnik bileşimi, liman coğrafyası ve siyasi kültürü organize suç yapısını farklılaştırıyordu.\n\nProhibition kalkınca ağlar tamamen dağılmadı; kumar, işçi sendikaları, uyuşturucu ve kredi tefeciliği gibi alanlara yayıldı. Yani yasak dönemi, organize suçu icat etmekten çok onu modern şirket benzeri bir modele taşıdı. Birçok grubun restoran, nakliye ve eğlence işletmeleri üzerinden para aklama yöntemlerini kurumsallaştırması da sonraki on yılların suç ekonomisine doğrudan model sağladı.",
+      "accuracyNote": "Dönemin ekonomik mantığı güçlü yansıtılır; karakter ilişkileri ve kronoloji dramatik bütünlük için birleştirilmiştir.",
+      "whyInteresting": "Devlet, piyasa ve suç örgütlerinin aynı şehirde birbirine bağımlı hale gelebildiğini gösteren çarpıcı bir laboratuvardır.",
+      "misconception": "Organize suçun sadece birkaç acımasız mafya liderinin kişisel şiddetiyle büyüdüğü sanılır.",
+      "nextTopics": [
+        "Gizli Barlar",
+        "Kaçak İçki",
+        "Ahlak Hareketi"
+      ],
+      "sources": [
+        {
+          "title": "National Archives - Volstead Act and Prohibition",
+          "url": "https://www.archives.gov/milestone-documents/volstead-act",
+          "type": "official"
+        },
+        {
+          "title": "FBI History - The FBI and the American Gangster Era",
+          "url": "https://www.fbi.gov/history/famous-cases/the-american-gangster-era",
+          "type": "official"
+        },
+        {
+          "title": "Britannica - Prohibition",
+          "url": "https://www.britannica.com/event/Prohibition-United-States-history",
+          "type": "article"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-176-women-reformers",
+        "tf26-177-repeal",
+        "tf26-178-jazz-age"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Boardwalk Empire'ın Atlantic City merkezli pazarlıkları, Prohibition dönemindeki liman kaçakçılığı ve siyasal patronaj düzeniyle örtüşür.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organize-suc",
+        "abd",
+        "true-frame"
+      ],
+      "spoilerNote": "Boardwalk Empire hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi kişisel liderlik ve ihanet vurgusunu artırıyor; tarihsel tabloda belirleyici unsur daha çok pazar talebi, lojistik ve kamu kurumlarındaki açıklar.",
+      "whyItMatters": "Bir yasağın tek başına toplumsal davranışı değiştirmediğini, kimi zaman daha dayanıklı yasa dışı yapılara zemin hazırladığını gösterir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Prohibition alkolü azaltırken neden organize suç ağlarını aynı anda büyüttü?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-176-women-reformers",
+      "title": "Kadın Reformcular",
+      "subtitle": "Kadın reformcular: yasak, oy, sokak",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Suç",
+        "Ekonomi",
+        "Siyaset"
+      ],
+      "whatWeSee": "Boardwalk Empire'de Margaret Thompson ve çevresindeki kadınlar Prohibition döneminde oy, sağlık ve siyaset alanında hareket eder. Dizi kadın reformcuları gangster dünyasının içinde konumlandırır. Görüntüde kadın aktivistler pankartlarla yürüyor, toplantı salonunda yasa maddeleri tartışılıyor ve mahalle kapılarında oy hakkı için imza toplanıyor.",
+      "realHistory": "1920'ler ABD'sinde kadın reform hareketi Prohibition'ın arkasındaki güçlerden biriydi: WCTU (Kadın Hristiyan Birliği) ve suffragette dalgası 19. Değişiklik (1920) ile oy hakkını kazandı. Kadınlar yasak kampanyasında 'ev koruyucusu' retoriği kullandı; Prohibition 18. Değişiklik olarak geldi. Aynı dönemde sağlık ve eğitim reformları büyüdü. Boardwalk Empire Margaret'i siyasi aktör yapar; gerçekte reform kadınları hem ilerleme hem ırk sınırları taşıdı (beyaz orta sınıf ağırlıklı). Prohibition başarısız olunca reform hareketi bölündü. 20. yüzyıl başında ABD'de kadın reformcular, oy hakkı mücadelesini alkol yasağı, emek koruması ve şehir ahlak politikalarıyla birleştiren geniş koalisyonlar kurdu. Kulüp ağları, kilise örgütleri ve yerel kampanyalar üzerinden mahalle ölçeğinde güçlü bir siyasi mobilizasyon sağlandı. Bazı gruplar göçmen topluluklara karşı dışlayıcı diller kullanırken, diğerleri çalışma saatleri ve çocuk emeği konusunda ilerici düzenlemeler savundu. 19. Değişiklik oy hakkını tanıdı, fakat eşit temsil sorununu çözmedi. Reformcu kadınlar, modern kitle siyasetinin hem dönüştürücü hem çelişkili aktörleri olarak kalıcı etki bıraktı. Kadın Reformcular 1920'ler ABD'sinde kadın reform hareketi Prohibition'ın arkasındaki güçlerden biriydi: WCTU (Kadın Hristiyan Birliği) ve suffragette dalgası 19. Kadın reform ağları belediye meclislerinden eyalet yasama organlarına uzanan dilekçe zincirleri kurdu. Çocuk işçiliği ve konut sağlığı kampanyaları, oy hakkı talebine somut sosyal politika zemini sağladı. Hareket içindeki ırksal dışlamalar ise kazanımları eşitsiz dağıtarak uzun süreli eleştirileri besledi.",
+      "accuracyNote": "19. ve 18. Değişiklik tarihleri belgelenmiştir.",
+      "whyInteresting": "Aynı zafer hem oy hem yasak getirdi.",
+      "misconception": "Prohibition yalnızca gangsterlerin işiydi; kadın reform ağları tetikledi.",
+      "nextTopics": [
+        "Gizli Barlar",
+        "Kaçak İçki",
+        "Ahlak Hareketi"
+      ],
+      "sources": [
+        {
+          "title": "Prohibition (Britannica)",
+          "url": "https://www.britannica.com/event/Prohibition-United-States",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Women's suffrage US (Britannica)",
+          "url": "https://www.britannica.com/event/Woman-Suffrage",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "WCTU (Britannica)",
+          "url": "https://www.britannica.com/topic/Womans-Christian-Temperance-Union",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-172-bootlegging",
+        "tf26-177-repeal"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Boardwalk Empire'ın Margaret sahneleri ile 1920 kadın oy hakkı ve WCTU Prohibition kampanyası.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organize-suc",
+        "abd",
+        "kadin-reformcular",
+        "true-frame"
+      ],
+      "spoilerNote": "Boardwalk Empire hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi reformu gangster dramına bağlar; gerçekte on yıllık kampanya ve anayasa değişikliği vardı.",
+      "whyItMatters": "Prohibition, kadın oy hareketinin beklenmedik siyasi ürünlerinden biriydi.",
+      "isFlagship": true,
+      "quickRealityCheck": "Kadın oy hakkı ile Prohibition aynı dönemde neden peş peşe geldi?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-177-repeal",
+      "title": "Yasağın Kalkması",
+      "subtitle": "Repeal: 18. Değişiklik'in sonu",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Suç",
+        "Ekonomi",
+        "Siyaset"
+      ],
+      "whatWeSee": "Boardwalk Empire son sezonunda yasağın kalkması barların açılmasını, gangster ekonomisinin dönüşmesini ve Nucky Thompson'ın siyasi pazarlık içinde kalmasını gösterir. Dizi Atlantic City çizgisinde dramatize eder; 21. Değişiklik takvimi federal dönüşümün resmi tarihidir.",
+      "realHistory": "ABD'de Prohibition (1920–1933) 18. Değişiklik ile yürürlükteydi; alkol üretimi, taşınması ve satışı federal yasakla kısıtlandı. Büyük Buhran vergi geliri ihtiyacı, kaçak içki ekonomisinin yükü ve kamuoyu yorgunluğu Repeal kampanyasını güçlendirdi. 5 Aralık 1933'te 21. Değişiklik onaylandı; 18. Değişiklik yürürlükten kalktı. Alkol satışı eyalet lisansına döndü; kaçak damıtım ve gangster gelirleri çöktü veya yasal işe kaydı. Boardwalk Empire bu dönüşümü Atlantic City çizgisinde gösterir — karakter kurgusal, tarihsel çerçeve sağlam. Repeal, sadece 'içki serbesti' değil; federal vergi, eyalet düzenlemesi ve organize suçun yeniden konumlanması hikâyesidir. Prohibition (1920–1933) 18. Değişiklik ile yürürlükteydi. 5 Aralık 1933'te 21. Değişiklik onaylandı; Utah son onaylayan eyaletti. Alkol satışı eyalet lisansına döndü; her eyalet farklı hızda düzenledi. Kaçak damıtım ve gangster gelirleri çöktü veya yasal işe kaydı. Bazı organize suç örgütleri Kumar ve başka alanlara kaydı. Federal hükümet vergi geliri kazandı; yerel barlar yeniden açıldı. Repeal, sadece içki serbestiği değil; federal vergi, eyalet düzenlemesi ve organize suçun yeniden konumlanması hikâyesidir. Yerel barlar ve bira üreticileri yeni lisanslara başvurdu; organize suç bazı şehirlerde kumar ve başka alanlara kaydı. Repeal sonrası eyaletler farklı hızda düzenledi; bazıları sıkı lisans, bazıları daha gevşek uygulama seçti.",
+      "accuracyNote": "21. Değişiklik tarihi ve 1933 Repeal güçlü kaynaklarla desteklenir; Nucky kurgusaldır.",
+      "whyInteresting": "Yasak kalkınca suç ekonomisi bir gecede bitmedi ama yön değiştirdi.",
+      "misconception": "Repeal gangsterliği anında sildi; geçiş yıllar sürdü.",
+      "nextTopics": [
+        "Gizli Barlar",
+        "Kaçak İçki",
+        "Ahlak Hareketi"
+      ],
+      "sources": [
+        {
+          "title": "21st Amendment (US National Archives)",
+          "url": "https://www.archives.gov/milestone-documents/21st-amendment",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Prohibition repeal (Britannica)",
+          "url": "https://www.britannica.com/event/Prohibition-United-States-history",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Repeal of Prohibition (Library of Congress)",
+          "url": "https://www.loc.gov/collections/prohibition-and-reform/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-172-bootlegging",
+        "tf26-176-women-reformers"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Boardwalk Empire Repeal.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organize-suc",
+        "abd",
+        "yasagin-kalkmasi",
+        "true-frame"
+      ],
+      "spoilerNote": "Boardwalk Empire hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi Nucky çizgisinde dramatize eder; National Archives tarihsel takvimi verir.",
+      "whyItMatters": "Yasak ve kalkışı, politika-ekonomi-suç üçgeninin modern derslerini taşır.",
+      "isFlagship": false,
+      "quickRealityCheck": "Boardwalk Empire'daki Repeal gecesi, 21. Değişiklik takvimiyle örtüşüyor mu?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-178-jazz-age",
+      "title": "Caz Çağı",
+      "subtitle": "Caz Çağı sadece dekor değil",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Suç",
+        "Ekonomi",
+        "Siyaset"
+      ],
+      "whatWeSee": "Boardwalk Empire Atlantic City'de caz kulüpleri, kaçak içki ve şık gecelik hayatı canlandırır. Nucky Thompson çevresinde müzik, dans ve gangster ekonomisi iç içe geçer; 1920'lerin 'roaring' imajı ekranda parlar. Sahnede caz kulübünün yoğun ritmi, kaçak içki servisi yapan garsonlar ve parlak gece modasına karışan siyasi pazarlıklar aynı masalar etrafında dönüyor.",
+      "realHistory": "Caz Çağı (1920'ler) Prohibition, radyo ve plak endüstrisiyle birlikte büyüdü. New Orleans'tan Chicago ve New York'a göç eden müzisyenler (Louis Armstrong, Duke Ellington) yeni bir kentsel ses üretti. Prohibition (1920-1933) kaçak içkiyi organize suça bağladı; speakeasy'ler cazın doğal sahnesi oldu. Irk ayrımcılığı kulüpleri ve kayıt stüdyolarını böldü; Beyaz kitleler Afrika-Amerikan müziği çoğu zaman 'primitif' diye tüketti. Atlantic City gerçekten yarı resmi kumar ve içki merkeziydi; Enoch Johnson (Nucky) siyasi koruma karşılığında gangster ekonomisini yönetti. Caz hem özgürleşme hem sömürü hikâyesidir: müzisyenler ünlü oldu ama telif ve sahne hakları sınırlıydı. 1929 Büyük Buhran çağın sonunu getirdi. Boardwalk Empire bu dünyayı stilize eder; arşivler gangster dosyaları ve müzik kayıtlarını saklar. 1920'lerin Caz Çağı, yalnız müzik zevkinin değişimi değil şehir ekonomisi, ırk ilişkileri ve tüketim kültürünün yeniden düzenlenmesiydi. Yasak dönemi, kaçak içki ağlarını gece kulüpleriyle birleştirerek yeni bir eğlence piyasası yarattı. Radyo yayınları cazı ulusal ölçekte dolaşıma sokarken, siyah sanatçıların üretimi çoğu zaman beyaz işletmecilerin kâr modeline bağlandı. Spekülasyonla şişen finans ortamı ve gösterişli tüketim dili, toplumsal yükseliş hayalini güçlendirdi. 1929 çöküşü geldiğinde bu parlak vitrin, kırılgan kredi düzeni ve derin eşitsizlikleri açık biçimde görünür kıldı. Caz Çağı",
+      "accuracyNote": "Johnson ve Prohibition tarihi belgelenmiştir; dizi karakterleri birleştirilmiştir.",
+      "whyInteresting": "Yasak, yasaklanan müziği daha popüler hale getirdi.",
+      "misconception": "1920'ler yalnızca eğlence çağıydı; ayrımcılık ve organize suç aynı dönemin parçasıydı.",
+      "nextTopics": [
+        "Gizli Barlar",
+        "Kaçak İçki",
+        "Ahlak Hareketi"
+      ],
+      "sources": [
+        {
+          "title": "Prohibition (Britannica)",
+          "url": "https://www.britannica.com/event/Prohibition-United-States",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Jazz Age (Britannica)",
+          "url": "https://www.britannica.com/event/Jazz-Age",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Louis Armstrong (Britannica)",
+          "url": "https://www.britannica.com/biography/Louis-Armstrong",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-179-corruption",
+        "tf26-180-public-health",
+        "tf26-176-women-reformers"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Boardwalk Empire speakeasy sahneleri ile 1920'ler Prohibition, Atlantic City ve cazın yükselişi.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organize-suc",
+        "abd",
+        "caz-cagi",
+        "true-frame"
+      ],
+      "spoilerNote": "Boardwalk Empire hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi gangsteri romantize eder; gerçekte Prohibition şiddeti ve ırk sınırları müziği şekillendirdi.",
+      "whyItMatters": "Caz, yasak çağının hem kaçışı hem de ABD'nin ırk ve sınıf gerilimlerinin sesiydi.",
+      "isFlagship": false,
+      "quickRealityCheck": "Prohibition neden caz kulüplerini gangster ekonomisine bağladı?",
+      "lastReviewedAt": "2026-06-25"
+    }
+  ]
+}

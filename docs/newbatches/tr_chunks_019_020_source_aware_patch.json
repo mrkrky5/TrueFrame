@@ -1,0 +1,525 @@
+{
+  "patchId": "tr-chunks-019-020-source-aware-review",
+  "locale": "tr",
+  "sourceChunks": [
+    "tr-chunk-019.json",
+    "tr-chunk-020.json"
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "editorial + factual + source review",
+  "summary": {
+    "cardCount": 13,
+    "approvedAsIs": [],
+    "minorEdit": [
+      "total-war-three-kingdoms-warlords",
+      "gladiator-political-theater",
+      "shogun-hostage-politics",
+      "last-kingdom-alfred-england",
+      "band-of-brothers-heroism",
+      "oppenheimer-science-state",
+      "pirates-democracy-myth"
+    ],
+    "rewrite": [
+      "lanoire-postwar-trauma",
+      "rome-patronage-mobs",
+      "chernobyl-bureaucracy-truth",
+      "medieval-magic-vs-reason",
+      "vikings-not-only-raiders",
+      "samurai-loyalty-myth"
+    ],
+    "sourceUpdates": [
+      "total-war-three-kingdoms-warlords",
+      "lanoire-postwar-trauma",
+      "rome-patronage-mobs",
+      "gladiator-political-theater",
+      "shogun-hostage-politics",
+      "last-kingdom-alfred-england",
+      "chernobyl-bureaucracy-truth",
+      "band-of-brothers-heroism",
+      "oppenheimer-science-state",
+      "medieval-magic-vs-reason",
+      "vikings-not-only-raiders",
+      "pirates-democracy-myth",
+      "samurai-loyalty-myth"
+    ],
+    "notes": [
+      "Chunk 019 contains 7 cards; chunk 020 contains 6 cards.",
+      "One flagship card, lanoire-postwar-trauma, was too short and was expanded to flagship depth.",
+      "Several cards used sourceQuality as a descriptive string such as 'High (...)'; these are normalized to strong via sourceUpdates.",
+      "Overconfident or generic claims were softened, especially around Chernobyl bureaucracy, medieval rationality, Viking trade, and samurai loyalty."
+    ]
+  },
+  "entries": [
+    {
+      "id": "total-war-three-kingdoms-warlords",
+      "reviewStatus": "minor-edit-source-cleanup",
+      "notes": "Existing body is usable and avoids most Romance-vs-records traps. Updated short metadata and direct sources.",
+      "fields": {
+        "reviewerNote": "Üç Krallık döneminin Han sonrası parçalı güç mücadelesi olduğu ve romanla tarihsel kayıtların ayrılması gerektiği kaynaklarla desteklendi.",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Three Kingdoms period — Britannica",
+            "url": "https://www.britannica.com/event/Three-Kingdoms-period-China",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Early Three Kingdoms Period — World History Encyclopedia",
+            "url": "https://www.worldhistory.org/article/1174/the-early-three-kingdoms-period/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Records vs Romance of the Three Kingdoms — Empirical Study",
+            "url": "https://arxiv.org/abs/2008.10835",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "lanoire-postwar-trauma",
+      "reviewStatus": "rewrite-expand-flagship",
+      "notes": "Flagship card was too short for the flag and needed a wider postwar context. Expanded around veterans, GI Bill, battle fatigue/PTSD, housing pressure, noir atmosphere and policing culture.",
+      "fields": {
+        "realHistory": "L.A. Noire’ın 1947 Los Angeles’ı, savaş sonrası Amerika’nın iki yüzünü aynı anda taşır: bir yanda zafer, büyüyen banliyöler, otomobil kültürü ve yeni tüketim hayali; diğer yanda savaştan dönen askerlerin sessiz travması, konut baskısı, suç korkusu ve hızla genişleyen bir şehrin gerilimi. Cole Phelps’in hikâyesi bu çelişkinin kişisel yüzüdür. Cephede kahramanlıkla ilişkilendirilen bir adam, sivil hayatta sorgu odalarında, cinayet mahallerinde ve kendi geçmişinin gölgesinde yürür.\n\nII. Dünya Savaşı sonrasında milyonlarca Amerikan askeri eve döndü. GI Bill eğitim, işsizlik yardımı ve konut kredisi gibi imkanlar sağlayarak birçok veteran için orta sınıfa geçiş kapısı açtı; fakat bu dönüş herkes için aynı hızda veya aynı kolaylıkta işlemedi. Eğitim ve ev sahibi olma fırsatı, savaşın getirdiği psikolojik yükü otomatik olarak ortadan kaldırmadı. Bugün travma sonrası stres bozukluğu diye adlandırdığımız belirtiler o dönemde genellikle “battle fatigue”, “combat fatigue” ya da uyum sorunu gibi daha sınırlı kavramlarla açıklanıyordu. Erkeklik, disiplin ve “savaşı geride bırakma” beklentisi, birçok askerin yaşadığını açıkça anlatmasını zorlaştırdı.\n\nLos Angeles bu gerilimi büyüten bir sahneydi. Hollywood parıltısı ve yeni banliyö hayali, şehirdeki sınıf ayrımını, polis baskısını, ırksal eşitsizlikleri ve suç haberleriyle beslenen korkuyu gizlemiyordu. Savaş sonrası nüfus artışı, konut arayışı ve otomobil merkezli büyüme, şehri daha geniş ama aynı zamanda daha parçalı hale getirdi. Noir estetiği bu yüzden sadece siyah-beyaz gölgelerden ibaret değildir; güvenin kırıldığı, kurumların şüpheli göründüğü ve karakterlerin kendi geçmişlerinden kaçamadığı bir savaş sonrası ruh halidir.\n\nOyunun dedektiflik yapısı da bu dünyanın parçasıdır. Polislik, yalnızca kanıt toplamak değil; basın baskısı, kurum içi hiyerarşi, erkeklik performansı ve savaşta edinilmiş sertlik alışkanlıklarıyla iç içe geçer. Bazı eski askerler disiplinli bir hayata tutunmaya çalışırken, bazıları suç, bağımlılık, öfke veya kopukluk içinde kaybolur. L.A. Noire’ın sorgu sahneleri, bu nedenle yalnızca suçluyu yakalama oyunu değildir; insanların neyi sakladığı, neyi hatırlayamadığı ve neyi söylemeye dayanamadığıyla ilgilidir.\n\nBu bağlamda oyunun noir dili, dönemin tarihsel koşullarına iyi oturur. Sorgu odalarındaki kuşku, sokaklardaki şiddet ve polis teşkilatındaki sertlik yalnızca bireysel karakter kusurları değildir; savaşın ardından eve dönen bir toplumun kendini yeniden disipline etme çabasıdır. Cole Phelps’in kusurlu kahramanlığı da buradan gelir: madalya ve terfi, geçmişte yaşananları silmez; bazen sadece daha düzgün bir üniformanın altına saklar.\n\nL.A. Noire’ın tarihsel gücü, savaş sonrası travmayı tek bir hastalık etiketiyle anlatmamasında yatar. Travma; aile ilişkilerinde, polislik kültüründe, alkolde, öfkede, suskunlukta ve “normal hayata dönme” baskısında ortaya çıkar. Oyun elbette vakaları dramatize eder ve şehirdeki suç yoğunluğunu oynanış için sıkıştırır. Fakat temel duygu doğrudur: savaş bitse bile, savaşın ürettiği davranış biçimleri, korkular ve suçluluk duygusu eve döner. 1947 Los Angeles’ı bu nedenle yalnızca şık bir noir dekoru değil, zafer anlatısının arkasında kalan yaraların şehirleşmiş halidir.",
+        "accuracyNote": "Oyun, savaş sonrası travmayı ve noir atmosferini güçlü verir; ancak vaka yoğunluğu ve dedektiflik akışı oynanış için sıkıştırılmıştır. Tarihsel arka planı GI Bill, veteranların uyum süreci, battle fatigue/PTSD kavramları ve Los Angeles’ın hızlı büyümesiyle birlikte okumak gerekir.",
+        "whyInteresting": "Savaş sonrası refah anlatısının merkezinde bile sessizlik vardı: birçok veteran yaşadıklarını ailelerine bile anlatmadan, travmayı iş, alkol, öfke ya da içe kapanma üzerinden taşıdı.",
+        "misconception": "1940’ların sonu yalnızca refah ve Hollywood ışıltısı dönemi sanılır; aynı yıllar veteran travması, konut baskısı, suç korkusu ve şehirleşme gerilimiyle de şekillendi.",
+        "mediaChanged": "Oyun, noir vakaları üzerinden savaş sonrası Los Angeles’ı yoğunlaştırır; tarihsel gerçeklik ise veteran dönüşü, GI Bill, şehir büyümesi, polislik kültürü ve travma dilinin henüz olgunlaşmamış olmasıyla daha geniş bir tablo sunar.",
+        "whyItMatters": "Zafer anlatıları savaşın bittiği yerde durur; bu kart, savaşın bireylerin bedeninde, kurumların davranışında ve şehirlerin suç korkusunda yaşamaya devam ettiğini gösterir.",
+        "quickRealityCheck": "L.A. Noire’daki 1947 Los Angeles’ı yalnızca şık bir noir dekoru mu, yoksa savaş sonrası travmanın ve şehir geriliminin oyunlaştırılmış hali mi?",
+        "readingTimeMinutes": 4,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Servicemen’s Readjustment Act / GI Bill — National Archives",
+            "url": "https://www.archives.gov/milestone-documents/servicemens-readjustment-act",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "History of PTSD in Veterans — U.S. Department of Veterans Affairs",
+            "url": "https://www.ptsd.va.gov/understand/what/history_ptsd.asp",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "WWII Post-Traumatic Stress — The National WWII Museum",
+            "url": "https://www.nationalww2museum.org/war/articles/wwii-post-traumatic-stress",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "rome-patronage-mobs",
+      "reviewStatus": "rewrite",
+      "notes": "Original was too compressed and included an unnecessary 'Godfather origin' analogy. Rebuilt around clientela, local influence, collegia and HBO Rome.",
+      "fields": {
+        "realHistory": "Roma siyasetini yalnızca Senato konuşmaları ve büyük komutanlar üzerinden okumak eksik kalır. Gündelik güç, çoğu zaman patronus ile cliens arasındaki himaye ilişkileri üzerinden işlerdi. Zengin ve nüfuzlu bir patron, müvekkillerine hukuki destek, iş bağlantısı, maddi yardım veya koruma sağlayabilir; karşılığında onların sadakatini, oyunu, kalabalık içindeki görünürlüğünü ve siyasi desteğini beklerdi.\n\nBu ilişki modern anlamda eşit bir sözleşme değildi; hiyerarşikti, fakat tamamen tek taraflı da değildi. Bir patronun itibarı, yanında kaç kişinin yürüdüğü, forumda onu kaç kişinin desteklediği ve kriz anında ne kadar insanı harekete geçirebildiğiyle ölçülebilirdi. Collegia gibi mahalle ve meslek örgütleri de bu ağların içinde siyasi ağırlık kazanabiliyordu. Roma kalabalığı bu nedenle yalnızca rastgele bir öfke yığını değil, belirli ağlar üzerinden yönlendirilebilen gerçek bir güçtü.\n\nRome dizisi, Vorenus ve Pullo gibi karakterlerle bu ara katmanı görünür kılar. Büyük tarih kitaplarında çoğu zaman Sezar, Pompey veya Antonius öne çıkar; fakat onların gücü, şehirdeki yerel liderler, borç ilişkileri, himaye ağları ve sokak desteği olmadan kalıcı olamazdı. Roma’da siyaset, yüksek idealler kadar kimin kimi koruduğu, kimin kime borçlu olduğu ve kalabalığın hangi tarafa yöneleceğiyle de belirlenirdi.",
+        "accuracyNote": "Dizi, sıradan askerleri ve mahalle ilişkilerini tarihin merkezine yaklaştırarak dramatize eder; ancak patronaj ve yerel güç ağlarının Roma siyasetindeki ağırlığı tarihsel olarak güçlü bir zemine sahiptir.",
+        "whyInteresting": "Roma’da sabah selamı anlamındaki salutatio, yalnızca nezaket ziyareti değil; patronun gücünü ve müvekkil ağının büyüklüğünü gösteren günlük bir siyasi performanstı.",
+        "misconception": "Roma siyasetinin yalnızca aristokrat aileler arasında geçtiği sanılır; oysa halk desteği, himaye ağları ve mahalle örgütleri olmadan hiçbir lider uzun süre güçlü kalamazdı.",
+        "mediaChanged": "Rome, büyük liderlerin kararlarını sokak, mahalle ve patronaj ilişkileriyle bağlar; tarihsel bağlamda bu ağlar Roma toplumunun gündelik siyasi altyapısıydı.",
+        "whyItMatters": "Patronaj sistemi, kurumların zayıf veya sınırlı olduğu toplumlarda güvenlik, iş, hukuk ve siyasetin kişisel bağlar üzerinden nasıl örgütlenebildiğini gösterir.",
+        "quickRealityCheck": "Roma’da güç yalnızca Senato’da mı kuruluyordu, yoksa mahallelerdeki patron-müvekkil ağları da siyasetin motoru muydu?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Roman Empire: Social Order — PBS",
+            "url": "https://www.pbs.org/empires/romans/empire/order.html",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Clientela, Roman Republic — Wiley Online Library",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781444338386.wbeah20033",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "gladiator-political-theater",
+      "reviewStatus": "minor-edit-source-cleanup",
+      "notes": "Body was mostly solid after earlier cleanup. Only tightened accuracy note around thumb gesture and replaced weak sources with direct museum/official references.",
+      "fields": {
+        "accuracyNote": "Gladiator, gladyatörleri modern özgürlük savaşçılarına yaklaştırır; tarihsel arenada ise dövüşçülerin statüsü, eğitim sistemi ve sponsorun politik hesabı daha belirleyiciydi. Commodus’un arenaya ilgisi tarihsel bir zemine sahiptir, ancak filmdeki ölüm biçimi kurgusaldır.",
+        "reviewerNote": "Gladyatör oyunlarının dini köken, eğitim, arena düzeni ve siyasi gösteri boyutları Met ve Colosseo kaynaklarıyla desteklendi.",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Gladiators: Types and Training — The Met",
+            "url": "https://www.metmuseum.org/essays/gladiators-types-and-training",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Roman Games: Playing with Animals — The Met",
+            "url": "https://www.metmuseum.org/essays/roman-games-playing-with-animals",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Gladiators in the Arena — Parco archeologico del Colosseo",
+            "url": "https://colosseo.it/en/digital_exhibitions/gladiators-in-the-arena-between-colosseum-and-ludus-magnus/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "shogun-hostage-politics",
+      "reviewStatus": "minor-edit-source-cleanup",
+      "notes": "Existing body is good. Updated one short field to avoid treating all hostage practice as equivalent to later sankin-kotai, and replaced generic UNESCO source.",
+      "fields": {
+        "whyInteresting": "Tokugawa Ieyasu gibi bazı büyük liderler gençliklerinde rehine olarak yaşamış; bu deneyim, rakip güçleri gözlemleme, bekleme ve hayatta kalma becerisini erken yaşta öğrenmelerine katkı sağlamıştır.",
+        "accuracyNote": "Shōgun, aile üyelerinin 'misafir' gibi tutulduğu ama aslında siyasi teminat olduğu gerilimi iyi verir. Tokugawa dönemindeki sankin-kōtai daha kurumsal bir sistemdir; Sengoku bağlamında ise rehine siyaseti daha esnek, kişisel ve ittifak temelliydi.",
+        "reviewerNote": "Rehine siyaseti, Sengoku dönemi ittifak pratikleri ile Tokugawa döneminde kurumsallaşan alternate attendance sistemi birbirine karıştırılmadan ele alındı.",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Sankin-kōtai — Britannica",
+            "url": "https://www.britannica.com/topic/sankin-kotai",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Polity of the Tokugawa Era — Japan Society",
+            "url": "https://japansociety.org/news/the-polity-of-the-tokugawa-era/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Tokugawa Ieyasu on Military Government and the Social Order — Columbia Asia for Educators",
+            "url": "https://afe.easia.columbia.edu/ps/japan/ieyasu_four_classes.pdf",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "last-kingdom-alfred-england",
+      "reviewStatus": "minor-edit-source-cleanup",
+      "notes": "Existing card is clean and well scoped. Sources normalized and strengthened.",
+      "fields": {
+        "reviewerNote": "Alfred’in Edington sonrası savunma düzeni, eğitim/çeviri hamlesi ve birleşik İngiltere fikrinin modern ulus-devlet anlamına gelmediği doğrulandı.",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Alfred the Great — British Library",
+            "url": "https://www.bl.uk/people/alfred-the-great",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Alfred ‘The Great’ — Royal.uk",
+            "url": "https://www.royal.uk/alfred-great-r-871-899",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Law-code of King Alfred the Great — Cambridge Apollo Repository",
+            "url": "https://www.repository.cam.ac.uk/items/a5b9f0e5-3b11-4785-a4e4-7435dbacf49a",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "chernobyl-bureaucracy-truth",
+      "reviewStatus": "rewrite",
+      "notes": "Original overclaimed Chernobyl as the direct/primary reason for Soviet collapse and centered nature trivia. Reframed around safety culture, design flaws, delayed communication, Pripyat evacuation and the HBO dramatization.",
+      "fields": {
+        "realHistory": "Çernobil felaketi yalnızca bir operatör hatası ya da tek bir kötü karar değildir. 26 Nisan 1986’daki patlama, RBMK reaktör tasarımındaki zayıflıklar, güvenlik testinin kötü yürütülmesi, yetersiz güvenlik kültürü ve Sovyet bürokrasisinin gerçeği yukarıya doğru iletmekte zorlanan yapısının birleşimiyle ortaya çıktı. Bu yüzden olay, teknik bir arıza kadar kurumsal bir krizdi.\n\nPripyat’ın tahliyesi hemen başlamadı; şehirde yaşayanlar ilk saatlerde felaketin gerçek boyutunu bilmeden günlük hayata devam etti. Yetkililer başlangıçta olayı sınırlı göstermeye çalıştı, fakat radyoaktif bulutun başka ülkelerde ölçülmesi krizin gizlenemeyeceğini ortaya koydu. Bu gecikme, felaketin yalnız fiziksel değil, siyasi ve toplumsal maliyetini de büyüttü.\n\nHBO dizisi Chernobyl, bu süreci “yalanın bedeli” üzerinden anlatır. Legasov ve Shcherbina gibi karakterler dramatik olarak öne çıkarılır; Ulana Khomyuk ise birçok bilim insanını temsil eden kurgusal bir birleşim karakteridir. Buna rağmen dizinin temel sorusu tarihsel olarak güçlüdür: karmaşık teknoloji, kapalı kurumlar ve korkuya dayalı raporlama zinciriyle birleştiğinde, küçük görünen ihmaller felakete dönüşebilir.\n\nÇernobil Sovyet sistemine duyulan güveni ağır biçimde sarstı ve glasnost döneminin sembol olaylarından biri oldu. Yine de bunu SSCB’nin tek veya doğrudan nedeni gibi anlatmak fazla basitleştirici olur. Daha doğru okuma şudur: Çernobil, zaten ekonomik ve siyasi baskı altında olan bir sistemin gerçeği saklama refleksini görünür hale getirdi.",
+        "accuracyNote": "Dizi teknik atmosferi ve bürokratik baskıyı güçlü verir; ancak bazı karakterler ve olay dizilimleri dramatik amaçla birleştirilmiştir. Felaket, operatör hatası, RBMK tasarım kusurları ve zayıf güvenlik kültürünün birlikte okunması gereken bir olaydır.",
+        "whyInteresting": "Çernobil’in uluslararası ölçekte görünür hale gelmesinde diplomatik açıklamalardan önce radyasyon ölçümleri etkili oldu; bu, nükleer felaketlerin siyasi sınır tanımadığını gösterdi.",
+        "misconception": "Çernobil’in yalnızca bir teknik kaza olduğu sanılır; gerçekte tasarım, eğitim, güvenlik kültürü, bürokrasi ve bilgi saklama refleksi aynı zincirin parçalarıydı.",
+        "mediaChanged": "Chernobyl, gerçeği söyleme mücadelesini birkaç karakter üzerinden yoğunlaştırır; tarihsel süreç ise çok sayıda bilim insanı, bürokrat, işçi ve uluslararası ölçüm ağının iç içe geçtiği daha geniş bir krizdir.",
+        "whyItMatters": "Bu felaket, yüksek teknolojili sistemlerde güvenliğin yalnız mühendislikle değil, şeffaflık, raporlama kültürü ve kurumsal sorumlulukla da kurulduğunu gösterir.",
+        "quickRealityCheck": "Çernobil yalnızca kötü yürütülen bir test miydi, yoksa kapalı bürokrasinin ve zayıf güvenlik kültürünün büyüttüğü bir felaket mi?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Chernobyl Accident: Updating of INSAG-1 — IAEA",
+            "url": "https://www-pub.iaea.org/MTCD/publications/PDF/Pub913e_web.pdf",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Chernobyl Accident FAQ — IAEA",
+            "url": "https://www.iaea.org/topics/chornobyl/faqs",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Chernobyl: Reactions of National Authorities — OECD NEA",
+            "url": "https://www.oecd-nea.org/jcms/pl_28303/chernobyl-chapter-iii-reactions-of-national-authorities",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "band-of-brothers-heroism",
+      "reviewStatus": "minor-edit",
+      "notes": "Existing body is solid. Removed a too-cinematic percentage claim and normalized sources.",
+      "fields": {
+        "misconception": "Savaşın yalnızca heyecan ve kahramanlık dolu olduğu sanılır; oysa cephe deneyimi çoğu zaman bekleyiş, yorgunluk, korku, kayıp ve kısa süreli yoğun dehşet anlarından oluşur.",
+        "accuracyNote": "Dizi, Stephen Ambrose’un çalışmasına ve veteran anlatılarına dayandığı için türünün en güçlü örneklerinden biridir. Yine de her anı aktarımı gibi bazı sahneler seçme, yoğunlaştırma ve kişisel hatırlama etkisi taşır.",
+        "reviewerNote": "Easy Company anlatısı, National WWII Museum kaynakları ve savaş yorgunluğu/PTSD tarihçesiyle desteklendi; yüzdelik gibi kaynağa dayanmayan formüller kaldırıldı.",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Easy Company Exhibit — The National WWII Museum",
+            "url": "https://www.nationalww2museum.org/visit/museum-campus/easy-company-exhibit",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Easy Company PDF — The National WWII Museum",
+            "url": "https://www.nationalww2museum.org/sites/default/files/2017-07/2017-easy-company.pdf",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "History of PTSD in Veterans — U.S. Department of Veterans Affairs",
+            "url": "https://www.ptsd.va.gov/understand/what/history_ptsd.asp",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "oppenheimer-science-state",
+      "reviewStatus": "minor-edit-source-cleanup",
+      "notes": "Existing body is strong. Sources updated to official/primary-adjacent materials for Manhattan Project and the 1954 hearing.",
+      "fields": {
+        "reviewerNote": "Manhattan Project’in çok merkezli 'big science' yapısı ve Oppenheimer’ın 1954 güvenlik duruşması resmi/kurumsal kaynaklarla desteklendi.",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "In the Matter of J. Robert Oppenheimer — Los Alamos National Laboratory",
+            "url": "https://www.lanl.gov/media/publications/national-security-science/0723-in-the-matter-of-j-robert-oppenheimer",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "J. Robert Oppenheimer: Life, Work, and Legacy — Institute for Advanced Study",
+            "url": "https://www.ias.edu/oppenheimer-legacy",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "In the Matter of J. Robert Oppenheimer — Yale Avalon Project",
+            "url": "https://avalon.law.yale.edu/20th_century/opp06.asp",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "medieval-magic-vs-reason",
+      "reviewStatus": "rewrite",
+      "notes": "Original overcorrected the myth by making medieval rationality too uniform and reused flat-earth material from another card. Rebuilt with a more balanced distinction between popular belief, university scholasticism, natural philosophy and limits.",
+      "fields": {
+        "realHistory": "Orta Çağ insanını yalnızca büyüye ve hurafeye inanan karanlık bir figür olarak düşünmek yanıltıcıdır. Dönemde kehanet, mucize, muska ve halk inançları elbette vardı; fakat aynı çağda mantık, hukuk, teoloji ve doğa felsefesi etrafında oldukça gelişmiş bir öğrenme kültürü de oluştu. Özellikle 12. yüzyıldan itibaren Paris, Bologna ve Oxford gibi merkezlerde üniversite hayatı, metin yorumunu ve tartışmayı kurallı bir yönteme bağladı.\n\nSkolastik düşünce modern bilimin aynısı değildi; amacı çoğu zaman inanç, otorite ve aklı aynı düzen içinde uyumlu hale getirmekti. Buna rağmen 'her şeyi açıklamasız kabul eden cahil dönem' imajı doğru değildir. Disputatio yöntemiyle sorular karşıt görüşlerle tartışılır, Aristoteles mantığı kullanılır, tıp ve astronomi gibi alanlarda antik, İslamî ve Latin kaynaklar birlikte okunurdu. Roger Bacon gibi isimler, deney ve gözlemin önemini vurgulayan bir çizginin parçasıydı; ancak onları bugünkü anlamda laboratuvar bilim insanı gibi görmek de anakronik olur.\n\nPopüler kültürde Orta Çağ çoğu zaman şeytan, büyü ve batıl korku üzerinden anlatılır. Gerçekte ise dönemin insanları doğayı hem dini hem doğal nedenlerle açıklamaya çalışıyordu. Hastalık, yıldızlar, hava durumu veya doğa olayları hakkında bugün yanlış bulduğumuz fikirler taşıyorlardı; ama bu, akıl yürütmedikleri anlamına gelmez. Daha doğru çerçeve şudur: Orta Çağ, modern bilimin tamamlandığı bir dönem değil; ama Avrupa’da kurumsal öğrenmenin, mantıksal tartışmanın ve doğa üzerine sistemli düşünmenin önemli adımlar attığı bir dönemdir.",
+        "accuracyNote": "Popüler kültürdeki 'her şeyi büyüyle açıklayan Orta Çağ' görüntüsü basitleştiricidir. Ancak bunun tersi de doğru değildir: eğitimli çevrelerde mantık ve doğal nedenler tartışılırken, halk inançları ve dini açıklamalar da günlük hayatın parçasıydı.",
+        "whyInteresting": "Mekanik saatler, gözlükler ve üniversite tartışma kültürü, Orta Çağ’ın yalnızca karanlık bir durak değil, ölçme, okuma ve tartışma pratiklerinin güçlendiği bir dönem olduğunu gösterir.",
+        "misconception": "Orta Çağ insanının bilime tamamen düşman olduğu sanılır; gerçekte dönemin eğitimli çevreleri mantık, doğa felsefesi, tıp ve astronomi üzerine sistemli tartışmalar yürütüyordu.",
+        "mediaChanged": "Filmler ve oyunlar Orta Çağ’ı büyü, şeytan korkusu ve cehaletle yoğunlaştırır; tarihsel tablo ise halk inançlarıyla üniversite temelli mantık ve doğa felsefesinin yan yana yaşadığı daha karmaşık bir dünyadır.",
+        "whyItMatters": "Bu ayrım, geçmişi küçümseyen 'karanlık çağ' klişesini kırarken modern bilimin de bir anda değil, uzun kurumsal ve entelektüel süreçlerle oluştuğunu hatırlatır.",
+        "quickRealityCheck": "Orta Çağ insanı her doğa olayını büyüyle mi açıklıyordu, yoksa inançla birlikte mantık ve doğal nedenleri de tartışan bir öğrenme dünyası mı vardı?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Medieval Philosophy — Stanford Encyclopedia of Philosophy",
+            "url": "https://plato.stanford.edu/entries/medieval-philosophy/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Natural Philosophy in the Renaissance — Stanford Encyclopedia of Philosophy",
+            "url": "https://plato.stanford.edu/entries/natphil-ren/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Medieval Science — Britannica",
+            "url": "https://www.britannica.com/science/history-of-science/Medieval-science",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "vikings-not-only-raiders",
+      "reviewStatus": "rewrite",
+      "notes": "Original repeated horned helmet misconception from a separate card and used overbroad 'global trader' phrasing. Rebuilt around raiding, farming, trade, silver, settlement and Vinland.",
+      "fields": {
+        "realHistory": "Vikingleri yalnızca manastır yakan savaşçılar olarak düşünmek, Viking Çağı’nın önemli bir kısmını görünmez kılar. 'Viking' sözcüğü çoğu bağlamda denizaşırı akın faaliyetiyle ilişkiliydi; fakat İskandinav toplumlarının büyük çoğunluğu çiftçilik, balıkçılık, zanaat ve ticaretle yaşıyordu. Akın, ticaret ve yerleşim birbirinden tamamen ayrı dünyalar değildi: aynı gemiler bazen yağmaya, bazen ticarete, bazen de yeni topraklara göçe hizmet edebilirdi.\n\nArkeolojik buluntular bu ağların genişliğini gösterir. İslami dirhemler, Baltık ve Rus nehir yolları üzerinden gelen gümüş, İngiltere’deki Viking yerleşimleri ve Jórvík gibi kent merkezleri, Viking dünyasının yalnızca Kuzey Denizi kıyılarından ibaret olmadığını kanıtlar. Kürk, bal mumu, köle, demir, kehribar ve gümüş gibi mallar bu ağlarda dolaştı. Bu ticaretin karanlık tarafı da vardı: Viking ekonomisi yalnızca serbest mal değişimiyle değil, esir ticareti ve şiddetle de iç içeydi.\n\nVikinglerin Kuzey Amerika’ya ulaşması da denizcilik kapasitelerinin güçlü bir örneğidir. L’Anse aux Meadows, Norse varlığının arkeolojik olarak doğrulanmış en önemli kanıtıdır. Yine de bu başarıyı 'barışçıl küresel tüccarlar' diye romantize etmek doğru olmaz. Daha dengeli okuma şudur: Vikingler hem yağmacı hem tüccar hem yerleşimci hem denizciydi. Popüler kültür genellikle ilkini büyütür; tarihsel kayıtlar ise diğer roller olmadan Viking Çağı’nın anlaşılamayacağını gösterir.",
+        "accuracyNote": "Popüler diziler yağmayı öne çıkarır; arkeolojik kanıtlar ise Vikinglerin uzun mesafeli ticaret, yerleşim ve denizcilikte de etkili olduğunu gösterir. Ancak bu ticaret ağı şiddet, esirlik ve haraçtan tamamen bağımsız değildi.",
+        "whyInteresting": "Viking gümüş ekonomisinin izleri, İslam dünyasından gelen dirhemlerin Kuzey Avrupa hoardlarında bulunmasıyla görülebilir; bu, kuzey savaşçı imajının arkasındaki geniş ticaret bağlantılarını gösterir.",
+        "misconception": "Vikinglerin yalnızca yağmacı olduğu sanılır; gerçekte Viking Çağı aynı zamanda çiftçilerin, tüccarların, zanaatkârların, denizcilerin ve yerleşimcilerin dünyasıydı.",
+        "mediaChanged": "Popüler kültür Vikingleri çoğu zaman saldırı ve savaş sahneleriyle tanımlar; tarihsel tablo ise yağma, ticaret, yerleşim, denizcilik ve esir ekonomisinin birlikte çalıştığı daha karmaşık bir ağ gösterir.",
+        "whyItMatters": "Vikingleri sadece 'barbar istilacı' diye okumak, Orta Çağ Kuzey Avrupa’sının Akdeniz, İslam dünyası ve Atlantik’le kurduğu bağlantıları görünmez kılar.",
+        "quickRealityCheck": "Vikingler yalnızca köyleri yakan istilacılar mıydı, yoksa yağma, ticaret ve yerleşimi aynı anda kullanan denizci topluluklar mıydı?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "L’Anse aux Meadows National Historic Site — UNESCO World Heritage Centre",
+            "url": "https://whc.unesco.org/en/list/4/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Beyond sand and spices: introduction to Silk Roads — British Museum",
+            "url": "https://www.britishmuseum.org/blog/beyond-sand-and-spices-introduction-silk-roads",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Viking silver hoard reveals far-reaching trade links — University of Oxford",
+            "url": "https://www.ox.ac.uk/news/2025-08-11-viking-silver-hoard-reveals-far-reaching-trade-links-between-england-and-islamic",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "pirates-democracy-myth",
+      "reviewStatus": "minor-edit-source-cleanup",
+      "notes": "Body is solid and balanced. Tightened accuracy note to avoid broad claims about race that require a separate card.",
+      "fields": {
+        "accuracyNote": "Pirates of the Caribbean gibi filmler bu tüzükleri espri unsuru gibi sunsa da, birçok korsan gemisinde ganimet paylaşımı, ceza, nöbet, kaptan yetkisi ve yaralanma tazminatı gibi konular yazılı kurallarla belirlenirdi. Bu düzen, modern demokrasi değil; suç ekonomisi içinde işleyen sert bir gemi sözleşmesiydi.",
+        "reviewerNote": "Pirate code, pay distribution and marooning claims Royal Museums Greenwich and Britannica sources with direct references.",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Pirates: Fact or Fiction? — Royal Museums Greenwich",
+            "url": "https://www.rmg.co.uk/stories/maritime-history/pirates-fact-or-fiction",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The Golden Age of Piracy — Britannica",
+            "url": "https://www.britannica.com/topic/piracy/The-golden-age-of-piracy",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Pirate Code — Golden Age of Piracy",
+            "url": "https://waynesavage.com/the-pirate-code/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "samurai-loyalty-myth",
+      "reviewStatus": "rewrite",
+      "notes": "Original overcorrected loyalty as pure opportunism and used a too broad whyItMatters template. Rebalanced with Sengoku pragmatism, family survival, seppuku context and later Bushidō idealization.",
+      "fields": {
+        "realHistory": "Samuray sadakati gerçek bir değerdir, fakat popüler kültürdeki kadar düz ve değişmez değildir. Sengoku döneminde Japonya parçalı bir savaş alanıyken, bir savaşçının temel görevi yalnızca efendisi için ölmek değil; ailesinin, toprağının ve klanının hayatta kalmasını sağlamaktı. Bu nedenle ittifak değiştirmek, taraf beklemek veya daha güçlü bir patrona yanaşmak tamamen istisna değildi. Sadakat, çoğu zaman karşılıklı koruma, maaş, toprak ve statü ilişkisi içinde anlam kazanıyordu.\n\nSekigahara gibi kırılma anları, savaşın yalnızca cesaretle değil, bekleme, pazarlık ve hesapla da kazanıldığını gösterir. Bazı generallerin taraf değiştirmesi, tek bir kişinin ahlaki zayıflığı değil, Sengoku siyasetinin belirsiz yapısının sonucudur. Bu dönemde 'onur' vardı; ancak onur, ailenin bekası, askeri başarı, itibar ve doğru zamanda doğru hamleyi yapma becerisiyle birlikte düşünülüyordu.\n\nBugün yaygın olan kusursuz Bushidō imajı ise büyük ölçüde savaşların azaldığı Edo döneminde ve daha sonra modern ulusal anlatılarda sistemleştirildi. Seppuku da gerçek ve güçlü bir pratikti; fakat her başarısızlığın otomatik sonucu değildi. Bazen yenilgi, esaret veya utanç karşısında son seçenekti; bazen de siyasi baskı ve tören düzeniyle şekillenen bir karar haline geldi.\n\nGhost of Tsushima ve samuray filmleri bu dünyayı ahlaki ikilem olarak işler: sadakat mi, hayatta kalma mı, efendi mi, halk mı? Tarihsel gerçeklik de bu ikilemi tamamen reddetmez; sadece onu daha gri hale getirir. Samuray dünyasında sadakat önemlidir, ama çoğu zaman siyaset, mülkiyet ve klan çıkarı kadar önemlidir.",
+        "accuracyNote": "Samuray onuru tarihsel olarak gerçek bir kavramdır; ancak her dönemde aynı biçimde işlemedi. Sengoku döneminde pragmatik ittifaklar ve taraf değiştirmeler görülebilirken, Edo ve modern dönemlerde Bushidō daha sistemli ve idealleştirilmiş bir ahlak dili haline geldi.",
+        "whyInteresting": "Toyotomi Hideyoshi’nin düşük statülü bir kökenden Japonya’nın en güçlü liderlerinden birine yükselmesi, Sengoku dünyasında doğum kadar yetenek, fırsat, patronaj ve siyasi esnekliğin de belirleyici olabildiğini gösterir.",
+        "misconception": "Samurayların her koşulda aynı efendiye ölene kadar bağlı kaldığı sanılır; gerçekte sadakat çoğu zaman toprak, aile güvenliği, statü ve hayatta kalma hesabıyla birlikte işliyordu.",
+        "mediaChanged": "Popüler anlatılar samurayı mutlak sadakat ve seppuku üzerinden tanımlar; tarihsel kayıtlar ise onur, pragmatizm, aile çıkarı ve siyasi pazarlığın aynı anda var olduğu daha karmaşık bir sınıf gösterir.",
+        "whyItMatters": "Bu fark, samuray tarihini yalnızca romantik bir onur kodu olarak değil, feodal siyasetin zorunlu pazarlıkları içinde çalışan bir güç sistemi olarak okumamızı sağlar.",
+        "quickRealityCheck": "Samuray sadakati gerçekten her durumda ölümüne bağlılık mıydı, yoksa Sengoku dünyasında sadakat çoğu zaman pragmatik bir siyasi ilişki miydi?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Sengoku Period — Britannica",
+            "url": "https://www.britannica.com/event/Sengoku-period",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Toyotomi Hideyoshi — EBSCO Research Starters",
+            "url": "https://www.ebsco.com/research-starters/history/toyotomi-hideyoshi",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Bushidō: between history and myth — Japan House London",
+            "url": "https://www.japanhouselondon.uk/read-and-watch/bushido-the-way-of-the-samurai-warrior-between-history-and-myth/",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

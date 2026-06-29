@@ -1,0 +1,447 @@
+{
+  "batch": "tr-chunks-033-034-source-aware",
+  "sourceChunks": [
+    "tr-chunk-033.json",
+    "tr-chunk-034.json"
+  ],
+  "notes": [
+    "External source-aware editorial review for Turkish chunks 033 and 034.",
+    "Only changed fields are included. Apply by id + locale.",
+    "sourceUpdates are separated from text field updates."
+  ],
+  "entries": [
+    {
+      "id": "300-thermopylae-masterclass",
+      "locale": "tr",
+      "decision": "flagship_rewrite",
+      "reason": "Existing text was a strong topic but too rhetorical, over-certain, and too close to a heroic myth structure. Rewritten as a cleaner flagship that distinguishes the film myth, Herodotus-based tradition, allied Greek presence, terrain, hoplite tactics, Ephialtes, and later propaganda memory.",
+      "fields": {
+        "realHistory": "### Sadece 300 değil, dar geçit stratejisi\n\nMÖ 480’de Thermopylai’de yaşanan direniş gerçektir; fakat popüler anlatının yaptığı gibi savaşı yalnız 300 Spartalıya indirgemek yanıltıcıdır. Leonidas’ın yanında başlangıçta yaklaşık birkaç bin kişilik müttefik Yunan kuvveti vardı. Spartalılar bu gücün en disiplinli ve sembolik çekirdeğiydi; ama Thespialılar, Thebanlar, Phokialılar ve başka birlikler de geçidin savunmasında rol oynadı. Thermopylai’nin seçilme nedeni de kahramanlık gösterisi değil, coğrafyaydı. Dar geçit Pers ordusunun sayısal üstünlüğünü sınırlıyor, ağır zırhlı hoplitlerin düzenli savunmasını daha etkili hale getiriyordu.\n\n### Hoplit disiplini ve Pers ordusu\n\n300 filmi Spartalıları çoğu zaman tek tek dövüşen süper savaşçılar gibi gösterir. Gerçekte Yunan savunmasının gücü bireysel akrobasiden değil, falanks düzeninden geliyordu. Hoplitin aspis kalkanı yalnız kendisini değil, yanındaki askerin açık tarafını da korurdu. Bu yüzden hattın bozulması kişisel hata değil, tüm birliğin güvenliğini tehdit eden bir kırılmaydı. Pers ordusu ise “canavarlaşmış” bir düşman değil, çok uluslu, büyük ve iyi örgütlenmiş bir imparatorluk gücüydü. Dar arazi, bu ordunun süvari, okçu ve kitle üstünlüğünü tam kullanmasını zorlaştırdı.\n\n### Son gün ve hatırlanma biçimi\n\nHerodotos geleneğine göre Persler, Ephialtes’in gösterdiği dağ yoluyla Yunan savunmasının arkasına sarkabildi. Leonidas’ın son gün neden kaldığı konusunda antik anlatılar ve modern yorumlar farklı vurgu yapar: görev, kehanet, geri çekilmeyi örtme, zaman kazanma ve Sparta yasalarına bağlılık aynı hafıza içinde birleşmiştir. Son savunmada yalnız Spartalılar değil, özellikle Thespialılar da kritik yer tutar; bu ayrıntı popüler kültürde çoğu zaman kaybolur.\n\nThermopylai askeri olarak Persleri durdurmadı; Pers ordusu geçidi aştı. Ama savaşın siyasal etkisi büyüktü. Direniş, Salamis ve Plataia’ya giden süreçte Yunan tarafına zaman ve moral sağladı. Daha sonra “özgürlük tiranlığa karşı” anlatısının temel taşlarından biri haline geldi. Bu yüzden Thermopylai’yi yalnız kahramanlık destanı olarak değil, coğrafya, disiplin, ittifak ve propaganda hafızasının birleştiği bir olay olarak okumak gerekir.",
+        "whatWeSee": "300 Spartalı, Thermopylai’yi neredeyse tek başına savaşan 300 çıplak göğüslü Spartalı ile insanlıktan çıkarılmış Pers ordusu arasındaki fantastik bir direniş gibi gösterir.",
+        "mediaChanged": "Film, savaşın propaganda gücünü bilinçli olarak büyütür: Spartalıları saf kahramanlık, Persleri ise grotesk tehdit olarak kodlar. Tarihsel çerçevede ise Thermopylai; müttefik Yunan birlikleri, dar geçit taktiği, hoplit disiplini ve sonradan kurulan kahramanlık hafızasının birleşimidir.",
+        "accuracyNote": "Savaşın kendisi ve Leonidas’ın son direnişi tarihsel zemine sahiptir; ancak film, Persleri canavarlaştırır, Yunan müttefiklerin rolünü küçültür ve hoplit savaşını bireysel aksiyon sahnelerine çevirir.",
+        "whyInteresting": "Thermopylai’nin gücü yalnız savaş sonucunda değil, yenilginin sonraki kuşaklar tarafından nasıl bir direniş ve görev anlatısına dönüştürüldüğünde yatar.",
+        "misconception": "Thermopylai’de yalnız 300 Spartalının savaştığı sanılır; gerçekte geçitte daha geniş bir Yunan ittifakı vardı ve son savunmada Spartalıların yanında başka birlikler de kaldı.",
+        "whyItMatters": "Bu savaş, askeri bir yenilginin bile doğru coğrafya, disiplin ve hafıza anlatısıyla nasıl kalıcı bir siyasi sembole dönüşebileceğini gösterir.",
+        "quickRealityCheck": "Thermopylai gerçekten sadece 300 Spartalının destanı mıydı, yoksa daha geniş bir Yunan ittifakının dar geçitte verdiği ve sonradan efsaneleştirilen bir savunma mıydı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Battle of Thermopylae - Britannica",
+            "url": "https://www.britannica.com/event/Battle-of-Thermopylae",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Herodotus on Thermopylae - Livius",
+            "url": "https://www.livius.org/sources/content/herodotus/herodotus-on-thermopylae/",
+            "type": "primary-source",
+            "verified": true
+          },
+          {
+            "title": "Thermopylae (480 BCE) - Livius",
+            "url": "https://www.livius.org/articles/battle/thermopylae-480-bce/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "1917-trench-comms-real",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Removed repeated archive-style sentences and rebalanced the topic around the fragility of WWI communications rather than a single film-realism claim.",
+      "fields": {
+        "realHistory": "I. Dünya Savaşı’nda cephe iletişimi modern teknoloji ile çok eski yöntemlerin yan yana çalıştığı kırılgan bir sistemdi. Telefon hatları komuta ile ön hat arasında hızlı bağlantı sağlıyordu; fakat bu kablolar topçu ateşiyle kolayca kopuyor, onarımları da çoğu zaman ateş altında yapılıyordu. Telsiz teknolojisi henüz ağır, sınırlı ve güvenlik açısından sorunluydu. Bu yüzden sinyal bayrakları, güvercinler, koşucular ve sahra telefonları aynı anda kullanıldı.\n\n1917 filmindeki koşucu görevi bu yüzden tamamen kurgusal bir abartı değildir. Bir emrin ya da iptal mesajının zamanında ulaşması, bazen yüzlerce askerin hayatta kalması anlamına gelebilirdi. Koşucular çamur, keskin nişancı, topçu ateşi, gaz riski ve yanlış yön bulma tehlikesi içinde ilerlemek zorundaydı. Mesaj ulaştığında bile cephedeki durum değişmiş olabilirdi.\n\nFilm bu süreci tek bir kesintisiz yolculuk gibi yoğunlaştırır; gerçek savaşta iletişim çok daha parçalıydı. Aynı mesajın birden fazla yolla gönderilmesi, komutanların cephede olup biteni gecikmeli öğrenmesi ve emirlerin savaş alanına geç ulaşması, Batı Cephesi’nin en büyük yapısal sorunlarından biriydi.",
+        "mediaChanged": "1917 iletişim krizini kişisel bir koşu göreviyle görünür kılar; tarihsel gerçeklikte ise telefon, sinyal, güvercin ve koşucuların birlikte kullanıldığı ama topçu ateşiyle sürekli kırılan bir ağ vardı.",
+        "accuracyNote": "Film, haberci koşucuların tehlikesini doğru yakalar; ancak gerçek mesaj akışı genellikle tek kahramanca görevden çok, aynı emrin farklı kanallardan gönderildiği dağınık ve belirsiz bir süreçti.",
+        "whyInteresting": "Cephedeki en modern görünen araçlardan biri olan sahra telefonu, birkaç top mermisiyle devre dışı kalabiliyor ve komutayı yeniden insan bedeninin hızına mahkûm edebiliyordu.",
+        "misconception": "I. Dünya Savaşı’nda komutanların cepheyi anlık kontrol ettiği sanılır; gerçekte iletişim gecikmeleri kararları sık sık savaşın gerisinde bırakıyordu.",
+        "whyItMatters": "Modern savaşta bilgi akışı, silah kadar belirleyicidir; iletişim koptuğunda en iyi plan bile kör bir emre dönüşebilir.",
+        "quickRealityCheck": "1917’deki haberci görevi sadece sinema gerilimi mi, yoksa kopan telefon hatlarının ve geciken emirlerin gerçek savaş alanı karşılığı mı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Communication on the Front Line - National Army Museum",
+            "url": "https://ww1.nam.ac.uk/915/news/communication-front-line/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Communication - Canadian War Museum",
+            "url": "https://www.warmuseum.ca/firstworldwar/history/battles-and-fighting/tactics-and-logistics-on-land/communication/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Dogs in WWI - National WWI Museum and Memorial",
+            "url": "https://www.theworldwar.org/learn/about-wwi/dogs-wwi",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "valiant-hearts-war-dogs-real",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Rewrote away from unverifiable exact lifesaved claims and preserved the core idea: WWI dogs were used for messaging, supply, sentry and casualty-support roles.",
+      "fields": {
+        "realHistory": "I. Dünya Savaşı’nda köpekler yalnız maskot değildi. Farklı ordular onları haberleşme, nöbet, malzeme taşıma ve yaralı arama gibi görevlerde kullandı. Valiant Hearts’taki köpek karakteri bu gerçeği daha sevimli ve oynanabilir bir bulmaca ortağına dönüştürür; tarihsel arka planda ise görev çok daha ağırdı.\n\n“Mercy dog” ya da ambulans köpeği diye anılan eğitimli köpekler, çatışma sonrası no man’s land içinde yaralıları bulmaya yardım edebiliyordu. Bazıları küçük tıbbi malzeme taşıyor, bazıları bakıcılarına yaralı askerin yerini işaret edecek şekilde eğitiliyordu. Fakat bu hikâyeleri tek tek mucize gibi anlatmak yerine, savaş alanındaki pratik ihtiyacı görmek gerekir: Çamur, gaz, tel örgü ve makineli tüfek ateşi altında insan arama ekiplerinin ulaşamadığı yerlerde köpeklerin koku alma ve yön bulma becerisi değerliydi.\n\nBu hayvanlar savaşı romantikleştirmez; tersine savaşın ne kadar insan dışı koşullar ürettiğini gösterir. Bir yaralının bulunması bazen teknolojiyle değil, eğitimli bir hayvanın iz sürmesiyle mümkün oluyordu.",
+        "whatWeSee": "Valiant Hearts köpeği sadık bir yol arkadaşı ve bulmaca yardımcısı gibi kullanır; oyun onun üzerinden savaşın ortasında küçük bir merhamet alanı yaratır.",
+        "mediaChanged": "Oyun köpekleri duygusal ve oyun mekaniğine uygun hale getirir; tarihsel karşılıklarında ise köpekler haberci, nöbetçi, taşıyıcı ve yaralı arama görevleriyle savaşın lojistik parçasıydı.",
+        "accuracyNote": "Köpeklerin cephede kullanımı gerçektir; ancak kurtarılan kişi sayıları ve bireysel kahramanlık hikâyeleri kaynaklara göre değiştiği için temkinli verilmelidir.",
+        "whyInteresting": "Savaş teknolojisinin çöktüğü yerde, koku alma ve yön bulma gibi hayvansal beceriler modern ordular için hâlâ hayati hale gelebiliyordu.",
+        "misconception": "Savaş hayvanlarının sadece maskot olduğu sanılır; I. Dünya Savaşı’nda köpekler haberleşme, arama ve destek görevlerinde aktif biçimde kullanıldı.",
+        "whyItMatters": "Bu konu, savaş tarihinin yalnız silah ve generallerden değil, görünmez lojistik desteklerden ve hayvan emeğinden de oluştuğunu hatırlatır.",
+        "quickRealityCheck": "Valiant Hearts’taki köpek sadece sevimli bir oyun arkadaşı mı, yoksa I. Dünya Savaşı’nda kullanılan gerçek askeri ve tıbbi destek köpeklerinin yumuşatılmış bir temsili mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Dogs in WWI - National WWI Museum and Memorial",
+            "url": "https://www.theworldwar.org/learn/about-wwi/dogs-wwi",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "War Dogs: How WWI Led to the Military Working Dog Program - U.S. War Department",
+            "url": "https://www.war.gov/News/Feature-Stories/Story/article/3895789/war-dogs-how-wwi-led-to-the-military-working-dog-program/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "15 Animals That Went to War - Imperial War Museums",
+            "url": "https://www.iwm.org.uk/history/15-animals-that-went-to-war",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "pentiment-printing-press-clash",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Removed unsupported percentage/mass-production claims and framed the manuscript-to-print shift as an economic, religious and authority change rather than a simple technology triumph.",
+      "fields": {
+        "realHistory": "Pentiment’in arka planındaki en güçlü tarihsel gerilimlerden biri, el yazması kültürünün matbaa karşısında değer kaybetmesidir. Manastır scriptoria’larında kitap üretmek yavaş, pahalı ve uzmanlık isteyen bir işti. Bir metnin çoğaltılması yalnız teknik bir kopyalama değil; süsleme, düzeltme, yorum ve kurumsal denetim anlamına geliyordu.\n\n15. yüzyıl ortasında hareketli harfli baskının Avrupa’da yayılması, kitabın üretim hızını ve dolaşımını değiştirdi. Bu değişim el yazmasını bir gecede yok etmedi; uzun süre iki kültür yan yana yaşadı. Ama basılı metin, özellikle broşürler, dini tartışmalar ve yerel dillerdeki yayınlarla otorite ilişkisini sarstı. Luther döneminde Reform fikirlerinin hızla dolaşıma girmesi, matbaanın yalnız ekonomik değil siyasi ve dini bir güç olduğunu gösterdi.\n\nPentiment bu kırılmayı kişisel ve yerel ölçekte gösterir: bir sanatçının, bir manastırın ve küçük bir kasabanın bilgi üretimindeki yerinin değişmesi. Tarihsel olarak mesele “rahipler cahildi, matbaa özgürleştirdi” kadar basit değildir. Daha doğru çerçeve, bilginin üretildiği merkezlerin değişmesi ve metnin artık daha geniş, daha hızlı ve daha tartışmalı bir kamusal alana çıkmasıdır.",
+        "mediaChanged": "Pentiment bu dönüşümü melankolik ve yerel bir manastır hikâyesi olarak işler; tarihsel ölçekte ise el yazmasından baskıya geçiş, Reform tartışmaları ve otorite krizleriyle birleşen büyük bir medya değişimidir.",
+        "accuracyNote": "Matbaa el yazmasını hemen ortadan kaldırmadı; ancak üretim, çoğaltma ve dağıtım hızını değiştirerek dini ve siyasi tartışmaların erişimini büyüttü.",
+        "whyInteresting": "Matbaa devrimi yalnız kitap sayısını artırmadı; kimin metin üretebildiğini, kimin metni denetlediğini ve hangi fikirlerin hızla çoğalabildiğini değiştirdi.",
+        "misconception": "Matbaanın sadece kitapları hızlı basan nötr bir icat olduğu sanılır; gerçekte basılı metin, Avrupa’da dini ve siyasi otoritenin nasıl tartışıldığını değiştirdi.",
+        "whyItMatters": "Bu kırılma, medya teknolojisinin yalnız bilgi yaymadığını, kurumların güç dengesini de değiştirebildiğini gösterir.",
+        "quickRealityCheck": "Pentiment’teki scriptorium kaybı sadece hüzünlü bir sanat meselesi mi, yoksa bilginin üretim merkezinin el yazmasından matbaaya kaymasının yerel yansıması mı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "History of Printing - Britannica",
+            "url": "https://www.britannica.com/topic/printing-publishing/History-of-printing",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Printing Press & the Protestant Reformation - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/article/2039/the-printing-press--the-protestant-reformation/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Role of Printing in Medieval and Reformation Europe - University of Arizona Libraries",
+            "url": "https://exhibits.lib.arizona.edu/exhibits/show/reformation/role-of-printing",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "the-terror-franklin-canning",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Corrected the over-certain claim that canned food/lead alone determined the expedition's fate. Current framing treats lead as one possible factor among scurvy, starvation, cold, ice entrapment and decision failures.",
+      "fields": {
+        "realHistory": "Franklin seferindeki konserve meselesi The Terror’ın en çarpıcı gerçeklik katmanlarından biridir, ama trajediyi tek başına “bozuk kutular öldürdü” diye açıklamak fazla basittir. HMS Erebus ve HMS Terror, 1845’te dönemin ileri teknolojisiyle donatılmıştı: güçlendirilmiş gövdeler, yardımcı buhar makineleri ve yıllarca yeteceği düşünülen erzak. Konserve gıda bu özgüvenin parçasıydı.\n\nDaha sonraki araştırmalar mürettebat kalıntılarında yüksek kurşun düzeyleri buldu ve bunun konserveler, gemi içi su sistemleri veya başka kaynaklarla ilişkili olabileceği tartışıldı. Fakat kurşun zehirlenmesi, seferin çöküşünü açıklayan tek neden değildir. Gemilerin buzda sıkışması, iskorbüt, açlık, soğuk, hastalık, yön bulma sorunları ve ağır yüklerle güneye yürümeye çalışma kararı aynı felakette birleşti.\n\nThe Terror konserveleri neredeyse lanetli bir teknoloji gibi gösterir; tarihsel açıdan daha doğru okuma, modern görünen lojistiğin Arktik koşullarına karşı ne kadar kırılgan kaldığıdır. Teknoloji vardı, ama yerel bilgiye güven sınırlıydı; erzak vardı, ama koşullar planın dışında gelişti. Franklin trajedisi bu yüzden tek bir hatadan çok, birbirini büyüten küçük ve büyük hataların zinciridir.",
+        "mediaChanged": "Dizi konserve ve zehirlenme fikrini psikolojik korkuyla birleştirir; tarihsel kanıtlar ise kurşun maruziyetini olası faktörlerden biri olarak gösterir, fakat seferin sonunu buz, açlık, hastalık ve karar hatalarıyla birlikte okumak gerekir.",
+        "accuracyNote": "Kurşun maruziyeti ciddi bir tartışma konusudur; ancak modern araştırmalarda Franklin seferinin çöküşü tek nedenli açıklanmıyor.",
+        "whyInteresting": "Franklin seferi, dönemin en modern lojistik çözümlerinin bile Arktik çevre ve eksik yerel bilgi karşısında güvence olmadığını gösterir.",
+        "misconception": "Franklin ekibinin yalnız bozuk konserveler yüzünden öldüğü sanılır; gerçekte olası kurşun maruziyeti, iskorbüt, açlık, soğuk ve buzda mahsur kalma birlikte değerlendirilmelidir.",
+        "whyItMatters": "Teknolojik özgüvenin çevresel gerçekliği hafife alması, keşif tarihindeki en pahalı hatalardan birini doğurdu.",
+        "quickRealityCheck": "The Terror’daki konserve felaketi seferin tek açıklaması mı, yoksa daha büyük bir lojistik ve çevresel çöküşün yalnız bir parçası mı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "What Happened to Erebus and Terror's Crew? - Royal Museums Greenwich",
+            "url": "https://www.rmg.co.uk/stories/maritime-history/what-happened-to-erebus-terror-crew-true-story",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "History of the Franklin Expedition - Parks Canada",
+            "url": "https://parks.canada.ca/lhn-nhs/nu/epaveswrecks/culture/histoire-history",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Franklin Search - The Canadian Encyclopedia",
+            "url": "https://www.thecanadianencyclopedia.ca/en/article/franklin-search",
+            "type": "encyclopedia",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "last-emperor-manchukuo-propaganda",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Rewrote to distinguish Puyi's personal drama from Manchukuo as a Japanese puppet-state legitimacy project. Removed overbroad claims not central to this card.",
+      "fields": {
+        "realHistory": "The Last Emperor, Puyi’nin Mançukuo’ya gidişini kişisel bir kaçış, statü arayışı ve aldatılma hikâyesi olarak gösterir. Tarihsel zeminde Mançukuo, Japonya’nın Mançurya işgalini meşrulaştırmak için kurduğu bir kukla devlet projesiydi. Puyi’nin Qing hanedanı geçmişi, bu projeye tarihsel süreklilik ve yerel meşruiyet görüntüsü vermek için kullanıldı.\n\nPuyi kağıt üzerinde hükümdardı; gerçek güç Japon askeri ve sivil danışmanlarının, özellikle Kwantung Ordusu’nun elindeydi. Mançukuo propaganda dilinde düzen, kalkınma ve çok uluslu uyum vadeden modern bir devlet gibi sunuldu. Ancak bu vitrinin arkasında işgal, kaynak sömürüsü, askeri kontrol ve Çin egemenliğinin fiilen ortadan kaldırılması vardı.\n\nFilm Puyi’nin yalnızlığını ve kişisel zayıflığını güçlü anlatır; fakat Mançukuo’yu anlamak için onu sadece trajik bir bireyin sarayı olarak değil, imparatorluk propagandasının sahnesi olarak görmek gerekir. Puyi’nin eski imparatorluk unvanı, Japon yayılmacılığına tarihsel bir kılıf sağladı. 1945’te Japonya yenildiğinde Mançukuo’nun hızla çökmesi, bu devletin bağımsız bir siyasi temelinin ne kadar zayıf olduğunu gösterdi.",
+        "whatWeSee": "The Last Emperor, Puyi’nin Mançukuo dönemini eski imparatorun statü arayışı, yalnızlığı ve Japon denetimi altında giderek daralan hayatı üzerinden anlatır.",
+        "mediaChanged": "Film kişisel dramı öne çıkarır; tarihsel kayıtlar Mançukuo’nun Puyi’den çok Japonya’nın Mançurya işgalini meşrulaştırmak için kullandığı devlet vitrini olduğunu gösterir.",
+        "accuracyNote": "Puyi’nin Mançukuo’daki rolü tarihsel olarak gerçektir; ancak bu rol bağımsız egemenlikten çok Japon kontrolündeki sembolik hükümdarlık olarak okunmalıdır.",
+        "whyInteresting": "Mançukuo, eski bir hanedan sembolünün modern propaganda ve işgal siyaseti için nasıl yeniden kullanılabileceğinin çarpıcı örneklerinden biridir.",
+        "misconception": "Puyi’nin Mançukuo’da gerçekten bağımsız bir imparator gibi hüküm sürdüğü sanılır; gerçekte yetkisi Japon kontrolüyle sınırlı sembolik bir vitrindi.",
+        "whyItMatters": "Bu hikâye, kukla devletlerin yalnız askeri güçle değil, sembol, tören ve tarihsel meşruiyet iddialarıyla da kurulduğunu gösterir.",
+        "quickRealityCheck": "Puyi Mançukuo’da yeniden güç kazanmış bir imparator muydu, yoksa Japon işgalinin meşruiyet vitrini olarak kullanılan sembolik bir hükümdar mıydı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Manchukuo: Imperial Japan's Puppet State - Nippon.com",
+            "url": "https://www.nippon.com/en/in-depth/d00815/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Puyi - Britannica",
+            "url": "https://www.britannica.com/biography/Puyi",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Establishment of Manchukuo - Pacific Atrocities Education",
+            "url": "https://www.pacificatrocities.org/blog/the-establishment-of-manchukuo-beginning-of-the-japanese-conquest-of-china",
+            "type": "education",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "1917-no-mans-land-reality",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Cleaned repeated template text and kept the card focused on no man's land as terrain, tactical problem and psychological symbol.",
+      "fields": {
+        "realHistory": "No man’s land, I. Dünya Savaşı’nda iki siper hattı arasındaki boş alanın adıydı; ama “boş” kelimesi yanıltıcıdır. Bu bölge kraterler, dikenli teller, çamur, cesetler, patlamamış mühimmat ve keskin nişancı tehdidiyle doluydu. Mesafe cepheye göre değişirdi: bazı yerlerde yüzlerce metre, bazı yerlerde çok daha dar bir arazi iki orduyu ayırıyordu.\n\nGündüz no man’s land’e çıkmak çoğu zaman ölüm demekti. Gece ise devriyeler, tel kesme ya da tamir görevleri, yaralı arama ve keşif hareketleri yapılırdı. Bir işaret fişeği gökyüzünü aydınlattığında herkes olduğu yerde donmak zorundaydı. 1917 filmi bu alanı görsel olarak çamurlu, sessiz ve parçalanmış bir dünya gibi gösterirken gerçeğe yaklaşır; ancak gerçek no man’s land yalnız dekor değil, savaşın taktik kilidiydi.\n\nBir taarruz emri verildiğinde askerler kendi siperlerinden çıkıp bu açık araziyi geçmek zorundaydı. Makineli tüfek, topçu ateşi ve tel engelleri bu geçişi ölümcül hale getiriyordu. No man’s land bu yüzden savaşın anlamsızlığını değil sadece, modern ateş gücü karşısında insan bedeninin ne kadar savunmasız kaldığını da gösterir.",
+        "mediaChanged": "1917 no man’s land’i yoğun bir görsel deneyim olarak sunar; tarihsel gerçeklikte bu alan hem fiziksel engel, hem keşif bölgesi, hem de başarısız taarruzların toplu mezarıydı.",
+        "accuracyNote": "Film atmosferi doğru yakalar; fakat no man’s land cepheden cepheye değişen, bazen dar bazen geniş, sürekli topçu ateşi ve gece devriyeleriyle dönüşen bir araziydi.",
+        "whyInteresting": "No man’s land savaşta kimsenin sahip olmadığı değil, iki tarafın da sürekli öldürerek kontrol etmeye çalıştığı bir alandı.",
+        "misconception": "No man’s land’in sadece boş ve terk edilmiş arazi olduğu sanılır; gerçekte tel, krater, ceset, mühimmat ve gözlem tehdidiyle dolu aktif bir ölüm bölgesiydi.",
+        "whyItMatters": "Bu alan, savunmanın ateş gücüyle ne kadar güçlendiğini ve piyade taarruzunun neden bu kadar yıkıcı hale geldiğini açıklar.",
+        "quickRealityCheck": "1917’deki no man’s land sadece ürkütücü bir dekor mu, yoksa Batı Cephesi’nde modern ateş gücünün yarattığı gerçek bir taktik kilit mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Trench Warfare - National WWI Museum and Memorial",
+            "url": "https://www.theworldwar.org/learn/about-wwi/trench-warfare",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Living in the Trenches - Imperial War Museums",
+            "url": "https://www.iwm.org.uk/learning/resources/living-in-the-trenches",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Life in the Trenches - Imperial War Museums",
+            "url": "https://www.iwm.org.uk/history/first-world-war/western-front/life-in-the-trenches",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "1917-siper-savasi-flagship",
+      "locale": "tr",
+      "decision": "flagship_rewrite",
+      "reason": "Existing flagship was long but overly encyclopedic and rhetorically inflated. Rewritten into a structured flagship with cleaner sections and stronger factual balance.",
+      "fields": {
+        "realHistory": "### Siper sistemi: savunma ve yaşam alanı\n\n1917 filmi sürekli ilerleyen iki karakterin yolculuğunu anlatır; Batı Cephesi’nin gündelik gerçeği ise çoğu zaman hareket edememekti. Siperler basit çukurlar değil, ön hat, destek hattı, yedek hat ve haberleşme siperlerinden oluşan karmaşık savunma ağlarıydı. Askerler bu ağlarda nöbet tutuyor, yemek yiyor, uyumaya çalışıyor ve çoğu zaman çamur, bit, fare ve kötü hijyenle yaşıyordu. Siper ayağı gibi hastalıklar, doğrudan ateş kadar görünür olmasa da savaşın bedelinin parçasıydı.\n\n### Modern ateş gücü ve kilitlenme\n\nBatı Cephesi’nin statik hale gelmesinin nedeni askerlerin cesaretsizliği değil, savunmanın modern ateş gücüyle olağanüstü güçlenmesiydi. Makineli tüfekler, topçu ateşi, dikenli tel ve gözlem sistemleri açık arazide ilerleyen piyadeyi çok savunmasız bırakıyordu. Topçu ateşi yalnız mevzileri parçalamıyor; ses, sarsıntı ve sürekli ölüm beklentisiyle askerlerin psikolojisini de yıkıyordu. “Shell shock” denen travma belirtileri, savaşın bedensel olduğu kadar zihinsel bir yıkım olduğunu gösterdi.\n\n### İletişim ve no man’s land\n\nCephede karar almak, haber almak kadar zordu. Telefon hatları topçu ateşiyle kopabiliyor, emirler geç ulaşıyor, komutanlar ön hattın gerçek durumunu geriden ve gecikmeli görebiliyordu. Bu yüzden koşucular, güvercinler ve sinyal yöntemleri hâlâ önemliydi. İki siper arasındaki no man’s land ise savaşın en sert simgesiydi: tel örgüler, kraterler, cesetler, patlamamış mühimmat ve makineli tüfek hatlarıyla dolu bir ölüm alanı. Birkaç yüz metrelik arazi, binlerce insanın hayatına mal olabiliyordu.\n\n### 1917’nin yaptığı yoğunlaştırma\n\n1917, siper savaşını tek bir görev ve tek bir zaman baskısı içinde yoğunlaştırır. Bu sinema için güçlüdür; ama gerçek siper savaşı çoğu zaman ani kahramanlıktan çok beklemek, dayanmak, korkmak ve tekrar aynı hatta dönmekti. Film hareketi seçer; tarih ise hareketsizliğin, endüstriyel ateş gücünün ve komuta iletişimindeki kırılganlığın savaş biçimini nasıl değiştirdiğini gösterir. Bu yüzden siper savaşı yalnız bir cephe taktiği değil, 20. yüzyılın savaş algısını kalıcı biçimde değiştiren bir deneyimdir.",
+        "whatWeSee": "1917, Batı Cephesi’ni iki askerin zamana karşı ilerlediği kesintisiz bir görev gibi gösterir; siperler, no man’s land ve yıkılmış yerleşimler bu yolculuğun duraklarına dönüşür.",
+        "mediaChanged": "Film hareket ve aciliyet üzerinden çalışır; tarihsel siper savaşı ise çoğu zaman hareketsizlik, bekleyiş, kötü yaşam koşulları, topçu ateşi ve iletişim kopukluklarıyla tanımlanır.",
+        "accuracyNote": "1917 atmosfer ve ayrıntı açısından güçlüdür; ancak dramatik yapı gereği siper savaşının aylar süren statik, tekrar eden ve lojistik yönünü sıkıştırır.",
+        "whyInteresting": "Batı Cephesi’nde bazen birkaç yüz metre ilerlemek, haftalarca hazırlık ve binlerce kayıp anlamına gelebiliyordu.",
+        "misconception": "Siper savaşının sadece korkakça beklemek olduğu sanılır; gerçekte bu bekleyiş, modern ateş gücünün saldırıyı savunma karşısında kırılgan hale getirmesinin sonucuydu.",
+        "whyItMatters": "Siper savaşı, modern teknolojinin ilerleme fikrini nasıl kitlesel duraksama ve yıkıma çevirebildiğini gösterir.",
+        "quickRealityCheck": "1917’nin hareketli yolculuğu Batı Cephesi’nin tamamını anlatır mı, yoksa siper savaşının statik cehennemini görünür kılmak için seçilmiş sinemasal bir daraltma mı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Trench Warfare - National WWI Museum and Memorial",
+            "url": "https://www.theworldwar.org/learn/about-wwi/trench-warfare",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Trench Warfare - Britannica",
+            "url": "https://www.britannica.com/topic/trench-warfare",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Weapons of the Western Front - National Army Museum",
+            "url": "https://www.nam.ac.uk/explore/weapons-western-front",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "the-terror-arctic-tragedy-flagship",
+      "locale": "tr",
+      "decision": "flagship_expand",
+      "reason": "Flagship body was too short for flagship depth. Expanded while keeping the strong existing thesis: supernatural fiction vs real Arctic, logistics, Inuit knowledge, and imperial overconfidence.",
+      "fields": {
+        "realHistory": "### Viktorya özgüveni ve Arktik gerçekliği\n\n1845’te Sir John Franklin komutasındaki HMS Erebus ve HMS Terror, Kuzeybatı Geçidi’ni bulmak için yola çıktığında sefer, Britanya’nın teknolojiye ve imparatorluk disiplinine duyduğu güvenin vitrini gibiydi. Gemiler güçlendirilmişti, yardımcı buhar motorları vardı, erzak planı kağıt üzerinde uzun süreli hayatta kalmayı mümkün kılıyordu. The Terror dizisi bu güveni karanlık bir hayatta kalma hikâyesine çevirir; tarihsel gerçeklikte de kırılma tam burada başlar. Londra’da düzenli görünen plan, Arktik buz, mevsim, hastalık ve yön bilgisi karşısında hızla kırılganlaştı.\n\n### Buzda mahsur kalma ve ölüm yürüyüşü\n\nGemiler 1846’da King William Adası çevresinde buzlara sıkıştı. Franklin 1847’de öldü. 1848’de hayatta kalan mürettebat gemileri terk ederek güneye yürümeye çalıştı. Bu karar, seferin en trajik aşamasıdır. Ağır yükler, soğuk, açlık, iskorbüt, olası kurşun maruziyeti ve yetersiz yerel bilgi birleşti. 129 kişilik mürettebattan kimse sağ dönemedi. Dizideki doğaüstü canavar kurgudur; fakat gerçek koşullar zaten yeterince acımasızdır.\n\n### Konserve, kurşun ve tek neden tuzağı\n\nFranklin felaketi uzun süre bozuk konserve ve kurşun zehirlenmesiyle açıklanmaya çalışıldı. Bu ihtimal önemlidir; ancak modern okuma daha temkinlidir. Kurşun, iskorbüt, açlık, hiptermi, buzda mahsur kalma, komuta kararları ve çevreye uyum eksikliği birlikte düşünülmelidir. Trajediyi tek bir teknik kusura indirgemek, asıl dersi zayıflatır: ileri teknoloji, yanlış çevresel varsayımlarla birleştiğinde güvence değil risk üretebilir.\n\n### Inuit bilgisinin geç fark edilmesi\n\nSeferin sonuna dair en değerli izlerden bazıları Inuit tanıklıkları ve sözlü bilgiden geldi. Buna rağmen 19. yüzyıl Britanya arama kültürü bu bilgiyi uzun süre küçümsedi. Erebus’un 2014’te, Terror’ün 2016’da bulunması, yerel bilginin ve modern arkeolojinin birlikte çalıştığında kayıp bir hikâyeyi nasıl yeniden kurabileceğini gösterdi.\n\nBu yüzden The Terror yalnız kutup korkusu değildir. Franklin seferi, imparatorluk özgüveni, teknik iyimserlik, yerel bilginin görmezden gelinmesi ve doğanın sınır koyan gücü üzerine ağır bir tarih dersidir.",
+        "mediaChanged": "The Terror doğaüstü korkuyu merkeze alır; tarihsel trajedide ise buzda mahsur kalma, hastalık, açlık, lojistik hatalar ve Inuit bilgisinin geç ciddiye alınması yeterince güçlü bir gerçeklik zemini oluşturur.",
+        "accuracyNote": "Dizinin canavar unsuru kurgudur; gemiler, Franklin seferi, buzda mahsur kalma, gemilerin terk edilmesi ve Inuit tanıklıklarının önemi tarihsel zemine sahiptir.",
+        "whyInteresting": "Erebus ve Terror’ün bulunması, yalnız modern teknolojiyle değil, Inuit sözlü bilgisiyle de bağlantılıdır; bu durum kimin bilgisinin tarih yazımına dahil edildiğini sorgulatır.",
+        "misconception": "Franklin seferinin sadece bozuk konserve ya da tek bir teknik hata yüzünden bittiği sanılır; gerçekte çevre, hastalık, açlık, kararlar ve bilgi eksikliği birlikte etkiliydi.",
+        "whyItMatters": "Franklin seferi, teknolojik özgüvenin yerel bilgi ve çevresel gerçeklik karşısında nasıl yetersiz kalabileceğini gösterir.",
+        "quickRealityCheck": "The Terror’daki canavar kurgusal olabilir; peki gerçek Franklin trajedisi zaten teknoloji, buz, açlık ve bilgi körlüğünden oluşan yeterince korkutucu bir hikâye değil mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "History of the Franklin Expedition - Parks Canada",
+            "url": "https://parks.canada.ca/lhn-nhs/nu/epaveswrecks/culture/histoire-history",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Wrecks of HMS Erebus and HMS Terror National Historic Site - Parks Canada",
+            "url": "https://parks.canada.ca/lhn-nhs/nu/epaveswrecks",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Franklin Search - The Canadian Encyclopedia",
+            "url": "https://www.thecanadianencyclopedia.ca/en/article/franklin-search",
+            "type": "encyclopedia",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "band-of-brothers-hedgerows-real",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Removed repeated template text and made the bocage problem more concrete: terrain, German defensive use, Allied tactical adaptation and Culin/Rhino cutters.",
+      "fields": {
+        "realHistory": "Normandiya çıkarmasından sonra Müttefiklerin karşılaştığı en büyük sorunlardan biri, haritada küçük görünen bocage arazisiydi. Bu bölgedeki tarlalar, yüzyıllardır oluşmuş yüksek toprak setler ve sık çalılıklarla birbirinden ayrılıyordu. Uzaktan bakıldığında kırsal bir manzara gibi görünen bu yapı, savaş alanında doğal bir kale sistemine dönüştü.\n\nAlman birlikleri bu çitleri ve dar yolları savunma için çok etkili kullandı. Her tarla ayrı bir mevzi haline gelebiliyor, makineli tüfekler ve tanksavarlar kısa mesafeden ölümcül pusu kurabiliyordu. Tanklar çitin üzerinden çıkmaya çalıştığında alt zırhını açıkta bırakabiliyor veya hareket kabiliyetini kaybedebiliyordu. Bu yüzden ilerleme, açık arazideki hızlı manevradan çok tarladan tarlaya kanlı temizlik işine dönüştü.\n\nBand of Brothers bocage çatışmalarını kısa ve yoğun sahnelerle verir; gerçek süreç haftalara yayılan bir adaptasyondu. Müttefikler sonunda tankların önüne takılan hedgerow cutter/Rhino gibi araçlarla bu engelleri daha etkili aşmaya başladı. Bocage savaşı, üstün hava gücü ve zırhlı araçların bile yerel coğrafya karşısında nasıl yavaşlayabileceğini gösterir.",
+        "mediaChanged": "Band of Brothers bocage çatışmalarını aksiyon yoğunluğuyla gösterir; tarihsel gerçeklikte her çit hattı küçük bir savunma sistemi gibi çalışıyor ve ilerleme ağır, yavaş ve pahalı hale geliyordu.",
+        "accuracyNote": "Dizi bocage atmosferini iyi yansıtır; ancak gerçek taktik sorun, birkaç çatışmadan çok haftalarca süren araziye uyum ve mühendislik çözümü arayışıydı.",
+        "whyInteresting": "Normandiya’daki sıradan tarla sınırları, modern tankları ve piyadeyi yavaşlatan doğal savunma duvarlarına dönüştü.",
+        "misconception": "Normandiya çıkarmasından sonra Müttefiklerin hızla ilerlediği sanılır; bocage arazisi ilerlemeyi beklenenden çok daha zor ve yavaş hale getirdi.",
+        "whyItMatters": "Hedgerow savaşı, askeri teknolojinin değerinin her zaman arazinin izin verdiği ölçüde ortaya çıktığını gösterir.",
+        "quickRealityCheck": "Band of Brothers’taki çitli Normandiya arazisi sadece görsel atmosfer mi, yoksa Müttefik ilerleyişini gerçekten yavaşlatan taktik bir labirent mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Rhino Tank - National Museum of the United States Army",
+            "url": "https://www.thenmusa.org/armyinnovations/rhinotank/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "World War II Innovation - U.S. Army University Press",
+            "url": "https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/MilitaryReview_20160831_art024.pdf",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Breakout and Pursuit - U.S. Army Center of Military History",
+            "url": "https://history.army.mil/portals/143/Images/Publications/catalog/7-5.pdf",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "saving-private-ryan-higgins-boat",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Rewrote to avoid over-specific/duplicated claims and focus on why the LCVP mattered: shallow-water access, ramp, vulnerability, mass amphibious logistics.",
+      "fields": {
+        "realHistory": "Saving Private Ryan’ın açılışındaki LCVP/Higgins Boat’lar, Normandiya sahnelerinin yalnız arka plan aracı değildir. Bu tekneler, limanı olmayan sığ kumsallara büyük sayıda askeri ve malzemeyi çıkarabilme sorununa verilen pratik mühendislik cevabıydı. Andrew Higgins’in tasarımı, sığ suda çalışabilen tekne gövdesi ve önden açılan rampa sayesinde askerlerin kıyıya daha hızlı inmesini sağladı.\n\nBu avantaj aynı zamanda büyük bir tehlike yaratıyordu. Rampa açıldığında askerler doğrudan sahildeki makineli tüfek ve topçu ateşine maruz kalabiliyordu. Filmdeki dehşet bu açıdan doğrudur: araç askerleri kıyıya getiriyordu, ama onları kurşun geçirmez güvenli bir koridorla korumuyordu. Omaha gibi güçlü savunulan bir sahilde iniş anı bu yüzden çok ölümcüldü.\n\nHiggins Boat’un önemi tek bir teknede değil, seri üretim ve doktrin etkisindeydi. Müttefikler, Avrupa ve Pasifik’te amfibi harekâtı büyük ölçekte mümkün kılacak araçlara ihtiyaç duyuyordu. LCVP bu ihtiyacı karşıladı ve sivil/sığ su teknesi mantığından çıkan bir tasarımın savaşın lojistik şeklini nasıl değiştirebileceğini gösterdi.",
+        "mediaChanged": "Film Higgins Boat’u askerleri sahile taşıyan korkutucu bir giriş kapısı gibi gösterir; tarihsel açıdan bu tekneler, modern amfibi harekâtın kitlesel ölçekte yapılabilmesini sağlayan lojistik araçlardı.",
+        "accuracyNote": "LCVP’lerin ön rampası çıkarma hızını artırdı; ancak rampa açıldığı anda askerlerin savunmasız kalması özellikle Omaha gibi sahillerde büyük riskti.",
+        "whyInteresting": "Bir bataklık ve sığ su teknesi fikrinden gelen tasarım, Normandiya gibi devasa bir çıkarma operasyonunun sembollerinden birine dönüştü.",
+        "misconception": "Higgins Boat’ların yalnız basit taşıma tekneleri olduğu sanılır; gerçekte amfibi savaşın ölçeğini ve hızını değiştiren mühendislik çözümleriydi.",
+        "whyItMatters": "Savaşlarda bazen sonucu belirleyen şey en büyük silah değil, askerleri doğru yere zamanında çıkarabilen lojistik araçtır.",
+        "quickRealityCheck": "Saving Private Ryan’daki Higgins Boat sadece korkutucu bir açılış sahnesi mi, yoksa Normandiya çıkarmasını mümkün kılan temel amfibi lojistik aracı mı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "New Orleans in the Second World War - National WWII Museum",
+            "url": "https://www.nationalww2museum.org/war/articles/new-orleans-second-world-war",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Landing Craft Mechanized, the Other Higgins Boat at D-Day - National WWII Museum",
+            "url": "https://www.nationalww2museum.org/war/articles/louisiana-landing-craft-higgins-boat-d-day",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Lest We Forget: The Higgins Boat - U.S. Naval Institute",
+            "url": "https://www.usni.org/magazines/proceedings/2015/january/lest-we-forget-higgins-boat",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

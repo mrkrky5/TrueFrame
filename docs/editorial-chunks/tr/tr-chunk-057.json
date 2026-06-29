@@ -1,0 +1,288 @@
+{
+  "locale": "tr",
+  "chunkIndex": 57,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-085-port-royal",
+      "title": "Port Royal",
+      "subtitle": "Ekrandaki iz, tarihteki karşılık",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Erken Modern",
+      "region": "Karayipler",
+      "themes": [
+        "Denizcilik",
+        "Suç",
+        "Ticaret"
+      ],
+      "whatWeSee": "Pirates of the Caribbean'de Port Royal, top sesleri, üniformalı nöbetçiler ve kalabalık iskelelerle canlı bir deniz üssü gibi görünür. Korsan tehdidi neredeyse her sahnede hissedilir; hukukla suç ekonomisi yan yana akar. Film, limanı hem düzenin vitrini hem de kaosun kapısı olarak kurar.",
+      "realHistory": "17. yüzyılın ikinci yarısında Port Royal, İngiliz Jamaika'sının en zengin ve en tartışmalı limanlarından biriydi. Kentin yükselişi, sadece korsan baskınlarından değil şeker plantasyonları, Atlantik ticareti, kredi ağları ve sömürge savaşlarından beslenen daha geniş bir ekonomik düzenden geldi. Privateer denen lisanslı saldırganlar, İspanyol ticaretine vurdukları darbeyle İngiliz çıkarına hizmet ederken barış dönemlerinde aynı çevreler yasa dışı ilan edilebiliyordu.\n\nBu esneklik, sömürge yönetiminin hukuku çıkarına göre kullanma biçimini gösterir. Liman depoları rom, şeker, kereste, silah ve insan emeği ticaretinin düğüm noktasıydı. Köleleştirilmiş Afrikalılar rıhtım işlerinde, taşımada ve inşaatta kritik rol oynadı; refahın bedeli ırksal şiddet ve zorla çalıştırma üzerine kuruldu. Dolayısıyla Port Royal'i sadece \"korsan kasabası\" diye okumak, karadaki plantasyon düzenini ve devlet destekli şiddeti görünmez kılar.\n\n1692 depremi ve tsunami kentin büyük bölümünü batırdı, ancak bölgesel deniz şiddeti ve kaçak ticaret aynı anda bitmedi; ağlar başka limanlara kayarak devam etti. Port Royal'in tarihsel önemi, macera anlatısından çok erken modern imparatorlukta savaş, ticaret, hukuk boşluğu ve sömürge emeğinin nasıl iç içe geçtiğini göstermesidir. Ayrıca mahkeme kayıtları ve sigorta belgeleri, korsanlıkla resmi ticaretin aynı finans çevrelerinde buluşabildiğini göstererek limanın gri ekonomi karakterini açık biçimde doğrular. Bu yüzden Port Royal, Karayip dünyasında hukuki statüsü sürekli pazarlanan bir güç laboratuvarı olarak da değerlidir.",
+      "accuracyNote": "Port Royal'in askeri liman kimliği doğru yansır, ancak toplumsal eşitsizlik ve emek rejimi filmde sınırlı kalır.",
+      "whyInteresting": "Aynı limanın hem resmi savaş aracı hem de yarı-yasa dışı ticaret merkezi olması dönemin ikili ahlakını net gösterir.",
+      "misconception": "Port Royal'in yalnızca eğlence ve korsanlıkla yaşayan bağımsız bir şehir olduğu sanılır.",
+      "nextTopics": [
+        "Privateer Gerçeği",
+        "Karasakal Efsanesi",
+        "Korsan Kuralları"
+      ],
+      "sources": [
+        {
+          "title": "Port Royal",
+          "url": "https://www.britannica.com/place/Port-Royal-Jamaica",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Port Royal, Jamaica and the 1692 Earthquake",
+          "url": "https://www.worldhistory.org/article/2111/port-royal-jamaica-and-the-1692-earthquake/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Pirates and Privateers",
+          "url": "https://www.rmg.co.uk/stories/topics/pirates-privateers-buccaneers",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-086-women-pirates",
+        "tf26-087-naval-punishment",
+        "tf26-088-maps-navigation"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Filmin liman atmosferi güçlü bir giriş sağlar; True Frame bu atmosferin ekonomik ve sömürgesel zeminini tamamlar.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "korsanlik",
+        "karayipler",
+        "denizcilik",
+        "port-royal",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "Pirates of the Caribbean hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film limanı korsan çatışmasına odaklar; tarihsel tabloda plantasyon ekonomisi ve sömürge hukuku en az deniz baskınları kadar belirleyicidir.",
+      "whyItMatters": "Aynı limanın hem resmi savaş aracı hem de yarı-yasa dışı ticaret merkezi olması dönemin ikili ahlakını net gösterir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Port Royal'i zenginleştiren asıl şey neydi: maceracı korsanlar mı, yoksa şeker ve köle emeğine dayalı liman ekonomisi mi?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-086-women-pirates",
+      "title": "Kadın Korsanlar",
+      "subtitle": "Kadın Korsanlar hakkında yanlış bilinen",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Erken Modern",
+      "region": "Karayipler",
+      "themes": [
+        "Denizcilik",
+        "Suç",
+        "Ticaret"
+      ],
+      "whatWeSee": "Pirates of the Caribbean serisinde güçlü kadın karakterler (Elizabeth, Tia Dalma) korsan dünyasında söz sahibi olur. Dizi ve filmler kadın korsan figürünü romantize eder; tarihsel kayıtlarda bu isimler daha az ama silah değildir. Kamera güvertede kılıç taşıyan kadın korsanı, şaşkın mürettebat bakışlarını ve liman tavernasında yayılan ün söylentilerini art arda vererek efsanenin doğuşunu hissettiriyor.",
+      "realHistory": "Erken modern korsanlıkta kadınların varlığı belgelenmiştir ama sayıları erkeklerden çok daha azdır. Anne Bonny ve Mary Read, 1720'lerde Calico Jack Rackham'ın tayfasında yakalandı; mahkeme tutanakları onların savaşta erkek korsanlar kadar direndiğini kaydeder. Çin korsanlığında Cheng I Sao (Ching Shih), yüzlerce gemilik filoyu yönetti; Qing hükümetiyle anlaşma imzaladı. Kadın korsanlar çoğu zaman erkek kılığında veya karma tayfada hayatta kaldı; toplumsal cinsiyet normları deniz hayatında esnekti ama risk yüksekti. Karayip korsanlığının altın çağı (1650-1730) koloni ticaret yollarındaki boşluktan beslendi. Hollywood kadın korsanı özgürleşme metaforu yapar; tarihçiler ise ekonomik zorunluluk, kaçış ve şiddet bağlamını hatırlatır. Bonny ve Read'in idam cezası hamilelik nedeniyle ertelendi; sonları hakkında kesin kayıt yoktur. Erken modern Atlantik'te korsanlık erkek egemen görünse de kadınların tamamen dışlandığı bir alan değildi. Anne Bonny ve Mary Read gibi örnekler, gemi yaşamında cinsiyet kimliğinin bazen gizlendiğini bazen pazarlık Erken modern korsanlıkta kadınların varlığı belgelenmiştir ama sayıları erkeklerden çok daha azdır. 1720 Jamaika yargı kayıtlarında Bonny ve Read'in yalnız güvertede değil baskın planında da aktif olduğu görülür. İkisi de hamilelik beyanıyla idamı erteledi; bu ayrıntı sömürge hukukunun cinsiyetli boşluklarını gösterir. Kadın korsan anlatıları, liman toplumlarında ün ve korkuyu birlikte besledi.",
+      "accuracyNote": "Bonny ve Read tutanaklarla doğrulanır; Cheng I Sao Çin kaynaklarında tartışmalı ama güçlü kanıtlıdır.",
+      "whyInteresting": "Deniz hayatı karada olduğundan daha esnek cinsiyet rollerine izin verebiliyordu.",
+      "misconception": "Korsan gemilerinde kadınlar yaygındı; belgelenen örnekler sınırlı ama gerçektir.",
+      "nextTopics": [
+        "Privateer Gerçeği",
+        "Karasakal Efsanesi",
+        "Korsan Kuralları"
+      ],
+      "sources": [
+        {
+          "title": "Anne Bonny (Britannica)",
+          "url": "https://www.britannica.com/biography/Anne-Bonny",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Mary Read (Britannica)",
+          "url": "https://www.britannica.com/biography/Mary-Read",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Piracy Golden Age (Royal Museums Greenwich)",
+          "url": "https://www.rmg.co.uk/stories/topics/pirates-golden-age",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-087-naval-punishment",
+        "tf26-088-maps-navigation",
+        "tf26-089-enslaved-labor"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "PotC'nin Elizabeth korsan yayını ile 18. yüzyıl Anne Bonny/Mary Read mahkeme kayıtları.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "korsanlik",
+        "karayipler",
+        "denizcilik",
+        "kadin-korsanlar",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "Pirates of the Caribbean hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Disney korsanlığı macera parkı yapar; mahkeme kayıtları idam, kölelik ve şiddet bağlamını gösterir.",
+      "whyItMatters": "Deniz hayatı karada olduğundan daha esnek cinsiyet rollerine izin verebiliyordu.",
+      "isFlagship": false,
+      "quickRealityCheck": "Anne Bonny ve Mary Read mahkemede neden idam edilmedi?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-087-naval-punishment",
+      "title": "Deniz Cezaları",
+      "subtitle": "Deniz cezası: darağacı ve Kralın Kanunları",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Erken Modern",
+      "region": "Karayipler",
+      "themes": [
+        "Denizcilik",
+        "Suç",
+        "Ticaret"
+      ],
+      "whatWeSee": "Pirates of the Caribbean'de darağacı, kırbaç ve 'Kralın Kanunları' disiplin sahneleri deniz hayatının en sert yüzünü hatırlatır. PotC korku atmosferi için cezayı yoğunlaştırır; Britanya donanması kayıtları yazılı mahkeme sürecini gösterir.",
+      "realHistory": "18. yüzyıl Britanya Kraliyet Donanması'nda disiplin yazılıydı: Articles of War (Savaş Kanunları) isyan, kıyıya kaçış veya emre itaatsizliği ölümle cezalandırabilirdi. Kırbaçlama (flogging) rutindi; bazı suçlarda keelhauling (kıçtan halatla deniz altına çekme) anlatılır ama Britanya donanmasında nadir ve tartışmalıdır — Karayip filmleri bunu sık gösterir. Korsan gemilerinde de 'articles' vardı: pay, ganimet bölüşümü ve ceza kuralları mürettebat tarafından onaylanırdı. Devlet donanması daha hiyerarşik ve ölümcül olabilirdi; korsanlık ise kaçış ve paylaşım retoriği taşıdı — yine de kaptan otoritesi sertti. PotC disiplini korku atmosferi için yoğunlaştırır; National Archives ve donanma tarihçileri ise mahkeme kayıtlarından ceza istatistiklerini okur. Film dramı ile Articles of War arasındaki fark, tarih okumasının başlangıç noktasıdır. Articles of War (Savaş Kanunları) isyan, kıyıya kaçış veya emre itaatsizliği ölümle cezalandırabilirdi. Kırbaçlama (flogging) rutindi; ceza sayısı suça göre belirlenirdi ve gemi güvertesinde halka önünde uygulanırdı. Keelhauling (kıçtan halatla deniz altına çekme) Karayip filmlerinde sık görünür; Britanya donanmasında nadir ve tartışmalıdır. Bartholomew Roberts'ın articles'ı gibi metinler, kaptan otoritesi ile paylaşım ilkesini bir arada tutar. Devlet donanması daha hiyerarşik ve ölümcül olabilirdi; korsanlık kaçış retoriği taşısa da disiplin sertti. National Archives mahkeme kayıtlarından ceza istatistiklerini okur.",
+      "accuracyNote": "Flogging ve articles tarihseldir; keelhauling PotC'de abartılı olabilir.",
+      "whyInteresting": "Aynı denizde korsan ve donanma farklı 'adalet' dili kullandı.",
+      "misconception": "Korsanlar tamamen özgür ve cezasızdı; articles ve kaptan otoritesi sertti.",
+      "nextTopics": [
+        "Privateer Gerçeği",
+        "Karasakal Efsanesi",
+        "Korsan Kuralları"
+      ],
+      "sources": [
+        {
+          "title": "Royal Navy discipline (UK National Archives)",
+          "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Articles of War (Naval History and Heritage Command)",
+          "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/a/articles-for-war.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Piracy and pirate codes (Royal Museums Greenwich)",
+          "url": "https://www.rmg.co.uk/stories/topics/pirate-codes",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-082-blackbeard",
+        "tf26-088-maps-navigation"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "PotC deniz cezaları.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "korsanlik",
+        "karayipler",
+        "denizcilik",
+        "deniz-cezalari",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "Pirates of the Caribbean hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "PotC keelhauling ve anlık infaz verir; Britanya kayıtları yazılı mahkeme sürecini gösterir.",
+      "whyItMatters": "Aynı denizde korsan ve donanma farklı 'adalet' dili kullandı.",
+      "isFlagship": false,
+      "quickRealityCheck": "PotC'deki anlık darağacı, Articles of War mahkemeleriyle nasıl karşılaştırılır?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-088-maps-navigation",
+      "title": "Harita ve Seyir",
+      "subtitle": "Harita ve seyir: yıldız mı, defter mi?",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Erken Modern",
+      "region": "Karayipler",
+      "themes": [
+        "Denizcilik",
+        "Suç",
+        "Ticaret"
+      ],
+      "whatWeSee": "Pirates of the Caribbean, deniz seyrini büyülü pusulalar, gizli haritalar ve kaptan sezgisiyle romantikleştiriyor. Macera dili, hesap ve ölçüm rutinlerini geri plana itiyor. İzleyicide şu izlenim kalıyor: doğru içgüdü ve cesur manevra varsa okyanus kontrol altına alınabilir; teknik emek ise yalnızca dekor ayrıntısıdır.",
+      "realHistory": "17. ve 18. yüzyıl denizciliğinde rota tutturmak, anlık sezgiden çok disiplinli ölçüm ve kayıt pratiğine dayanıyordu. Subaylar enlem hesabı için güneş ve yıldız gözlemleri yapıyor, dead reckoning yöntemiyle hız-yön-zaman tahminlerini günlüklerde biriktiriyordu. Boylam sorunu uzun süre denizciliğin temel açmazlarından biriydi; doğruluk, hassas kronometrelerin yaygınlaşmasıyla belirgin biçimde arttı. Bu nedenle erken modern dönemde rota sapması ve gecikme sıradan risklerdi.\n\nHarita tek başına çözüm değildi. Pek çok deniz chart’ı sınırlı ayrıntı sunuyor, özellikle liman girişlerinde yerel pilot bilgisi kritik rol oynuyordu. Denizcilik verisi ticaret şirketleri ve donanmalar için stratejik sermayeydi. Korsan ağları da bu sistemin dışında değildi; birçok korsan eski denizci veya privateer geçmişinden geliyordu. Başarılarında yalnızca çatışma gücü değil, dar geçit bilgisi, mevsim rüzgârları ve kaçış rotası planlaması belirleyiciydi.\n\nKarayipler’de güç dengesi, top menzili kadar bilgi kalitesine bağlıydı. Seyir defteri tutmak, ölçümleri karşılaştırmak ve hatayı düzeltmek erken modern dönemin “veri yönetimi” pratiği gibiydi. Film büyülü bir macera atmosferi kurar; tarihsel çerçeve ise deniz imparatorluklarını asıl mümkün kılan teknik emek düzenini görünür kılar. Denizcilik bilgisine hâkim olan aktörler, fiilen ticaret hızını ve savaş stratejisini de belirliyordu. Bu yüzden seyrüsefer tarihi, imparatorluk rekabetini anlamada yalnızca savaş teknolojisi değil bilgi üretim altyapısı olarak da okunmalıdır.",
+      "accuracyNote": "Karayip korsanlığı ve rota rekabeti gerçektir; büyülü pusula gibi araçlar kurmaca unsurdur.",
+      "whyInteresting": "Bu kart korsan mitini harita tarihi, ölçüm bilimi ve deniz lojistiğiyle beklenmedik biçimde derinleştirir.",
+      "misconception": "Yaygın yanılgı, korsan başarısının sadece cesaret ve silah gücüne dayandığıdır.",
+      "nextTopics": [
+        "Privateer Gerçeği",
+        "Karasakal Efsanesi",
+        "Korsan Kuralları"
+      ],
+      "sources": [
+        {
+          "title": "Navigation (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/technology/navigation"
+        },
+        {
+          "title": "Longitude and Timekeeping (Royal Museums Greenwich)",
+          "url": "https://www.rmg.co.uk/stories/topics/longitude"
+        },
+        {
+          "title": "History of Nautical Charts (NOAA)",
+          "url": "https://nauticalcharts.noaa.gov/learn/history.html"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-084-treasure-myth",
+        "tf26-087-naval-punishment"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Pirates of the Caribbean macerayı öne çıkarıyor; True Frame aynı dünyaya teknik seyrüsefer emeğini ekliyor.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "korsanlik",
+        "karayipler",
+        "denizcilik",
+        "harita-ve-seyir",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "Pirates of the Caribbean hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film seyri sembolik nesnelere bağlıyor; tarihsel pratik ölçüm, kayıt ve ekip koordinasyonuyla yürüyordu.",
+      "whyItMatters": "Bu kart korsan mitini harita tarihi, ölçüm bilimi ve deniz lojistiğiyle beklenmedik biçimde derinleştirir.",
+      "isFlagship": true,
+      "quickRealityCheck": "Kaptan sezgisi tek başına yeterliyse neden seyir defterleri ve kronometreler bu kadar kritikleşti?",
+      "lastReviewedAt": "2026-06-26"
+    }
+  ]
+}

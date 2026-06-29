@@ -1,0 +1,309 @@
+{
+  "batch": "tr-chunks-005-006-source-aware",
+  "sourceChunks": [
+    "tr-chunk-005.json",
+    "tr-chunk-006.json"
+  ],
+  "notes": [
+    "External source-aware editorial review for Turkish chunks 005 and 006.",
+    "Only changed fields are included. Apply by id + locale.",
+    "sourceUpdates are separated from text field updates."
+  ],
+  "entries": [
+    {
+      "id": "last-kingdom-danelaw",
+      "locale": "tr",
+      "decision": "body-level rewrite + source update",
+      "fields": {
+        "whatWeSee": "The Last Kingdom, Alfred’in Wessex’i ayakta tutmaya çalıştığı ve Dan yerleşimlerinin İngiltere’nin kuzey/doğusunda kalıcı hale geldiği bir dünyayı gösterir.",
+        "realHistory": "Danelaw, İngiltere’nin “Vikingler geldi ve gitti” diye özetlenemeyecek kadar karmaşık bir dönemidir. 9. yüzyılın sonlarında Büyük Viking Ordusu Northumbria, East Anglia ve Mercia’nın büyük bölümünü sarsarken Wessex, Alfred’in yönetiminde ayakta kalan başlıca Anglo-Sakson güç oldu. Alfred’in 878’de Edington’da Guthrum’u yenmesi savaşı tamamen bitirmedi; asıl önemli sonuç, tarafların birlikte yaşamak zorunda kalacağı yeni bir sınır ve hukuk düzeninin oluşmasıydı.\n\nAlfred ile Guthrum arasındaki anlaşmalar, yalnızca “kim nereyi yönetecek” sorusunu değil, ticaret, tazminat ve insanlar arası anlaşmazlıkların nasıl çözüleceğini de düzenledi. Danelaw adı daha sonra belirginleşen bir kavramdır; ama anlattığı gerçek, kuzey ve doğu İngiltere’de Dan kökenli yerleşimcilerin kendi hukuk gelenekleri, yer adları, ticaret ağları ve topluluk meclisleriyle kalıcı bir iz bırakmasıdır. York/Jórvík gibi merkezler, savaş üssü olmanın ötesinde zanaat, pazar ve uzun mesafeli ticaret noktalarına dönüştü.\n\nBu yüzden Danelaw’ı yalnız işgal bölgesi gibi görmek eksik olur. Burada Anglo-Sakson ve İskandinav toplulukları çatıştı, evlendi, ticaret yaptı, birbirinin dilinden kelimeler aldı ve yerel yönetim pratiklerini dönüştürdü. İngilizcedeki bazı gündelik kelimelerde, kuzey İngiltere yer adlarında ve hukuki geleneklerde bu temasın izi hâlâ görülebilir. Ancak “Common Law doğrudan Danelaw’dan doğdu” gibi düz bir çizgi kurmak da fazla iddialıdır; daha doğru olan, Danelaw’ın İngiliz hukuk ve yerel yönetim kültürüne erken ve kalıcı bir katman eklediğini söylemektir.\n\nThe Last Kingdom bu düzeni Uhtred gibi kurgusal karakterlerin kişisel sadakat krizleri üzerinden anlatır. Tarihte ise asıl mesele tek bir kahramanın seçimi değil, parçalanmış krallıkların savaş, vaftiz, sınır anlaşması ve yerleşim yoluyla yeni bir İngiltere’ye dönüşmesidir. Alfred’in “birleşik İngiltere” fikri, ancak Danelaw gerçeğini kabul edip onunla mücadele ederek anlam kazanır.",
+        "accuracyNote": "Dizi, Alfred-Guthrum çatışmasının siyasi ağırlığını iyi yakalar; Uhtred gibi karakterler ve birçok olay örgüsü dramatik kurgu için birleştirilmiştir.",
+        "whyInteresting": "Danelaw, Vikinglerin yalnız yağmacı değil, yasa koyan, şehir kuran ve dili dönüştüren yerleşimciler olduğunu gösterir.",
+        "misconception": "Danelaw’ın sadece geçici bir Viking işgali olduğu sanılır; gerçekte kuzey ve doğu İngiltere’de hukuk, dil, yerleşim ve ticaret üzerinde kalıcı iz bıraktı.",
+        "mediaChanged": "The Last Kingdom, Danelaw’ı kişisel sadakat ve savaş dramı üzerinden anlatır; tarihsel gerçek ise antlaşmalar, yerleşim, yerel hukuk ve kültürel karışımın uzun süren sonucudur.",
+        "whyItMatters": "Danelaw, İngiltere’nin tek çizgili bir Anglo-Sakson hikâyesi değil, savaş ve uzlaşmayla şekillenen çok katmanlı bir toplum olduğunu hatırlatır.",
+        "quickRealityCheck": "Danelaw yalnız Vikinglerin ele geçirdiği toprak mıydı, yoksa İngiltere’nin hukukunu, dilini ve şehirlerini etkileyen kalıcı bir düzen miydi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Danelaw, 9th–11th century (Rochester Cathedral / Textus Roffensis)",
+            "url": "https://www.rochestercathedral.org/research/textus/danelaw",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Viking Age Collection (British Museum)",
+            "url": "https://www.britishmuseum.org/collection/cultures/viking-age",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "How Did the Vikings of Jorvik Live? (JORVIK Viking Centre)",
+            "url": "https://www.jorvikvikingcentre.co.uk/the-vikings/how-did-they-live/",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "viking-horned-helmet",
+      "locale": "tr",
+      "decision": "small rewrite + source URL cleanup",
+      "fields": {
+        "realHistory": "Vikinglerin savaşta boynuzlu miğfer taktığına dair güvenilir bir arkeolojik kanıt yoktur. Viking Çağı’ndan günümüze ulaşan en önemli miğfer örneği Gjermundbu buluntusudur ve boynuzsuzdur. Savaş alanında boynuzlu bir miğferin pratik olması da zordur: darbe yakalayabilir, dengeyi bozabilir ve yakın dövüşte savaşçıyı daha savunmasız hale getirebilirdi.\n\nBu imajın gücü Orta Çağ’dan çok modern döneme aittir. 19. yüzyılda romantik milliyetçilik, opera kostümleri ve popüler illüstrasyonlar Vikingleri daha “vahşi” ve tanınır göstermek için boynuzlu miğferi yaygınlaştırdı. Bronz Çağı İskandinavya’sında törensel boynuzlu başlıklar vardır; fakat bunlar Viking savaşçı ekipmanı değildir ve aralarında yaklaşık iki bin yıllık fark bulunur.\n\nVikings gibi yapımlar bu miti bazen doğrudan kullanmasa bile popüler kültürdeki Viking imajı hâlâ bu görsel mirasla yaşar. Gerçek Viking savaşçısını anlamak için boynuzdan çok gemi teknolojisine, zincir zırha, kalkanlara, ticaret ağlarına ve yerleşim pratiklerine bakmak gerekir.",
+        "accuracyNote": "Vikings dizisi boynuzlu miğfer klişesinden büyük ölçüde kaçınır; ancak deri ağırlıklı kostümler ve bazı saç/zırh tercihleri tarihsel gerçeklikten çok modern görsel dile yakındır.",
+        "whyInteresting": "Boynuzlu miğfer miti, Vikinglerden çok 19. yüzyılın Orta Çağ’ı daha vahşi gösterme arzusunu anlatır.",
+        "misconception": "Vikinglerin savaşta boynuzlu miğfer taktığı sanılır; güvenilir arkeolojik bulgular Viking savaş miğferlerinin boynuzsuz olduğunu gösterir.",
+        "mediaChanged": "Popüler kültür Vikingleri boynuzlu, kürklü ve sürekli savaş halinde hayal eder; tarihsel kayıtlar daha pratik donanım kullanan, ticaret ve yerleşimle de tanımlanan topluluklara işaret eder.",
+        "whyItMatters": "Bu mit, geçmişi çoğu zaman gerçek bulgulardan değil, modern sahne tasarımı ve ulusal romantizmden öğrendiğimizi gösterir.",
+        "quickRealityCheck": "Vikinglerin boynuzlu miğferle savaştığı görüntü tarihsel kanıt mı, yoksa 19. yüzyılın sahne ve illüstrasyon mirası mı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Viking Helmets (National Museum of Denmark)",
+            "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/weapons/helmets/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Horned Helmets and the Viksø Finds (Smithsonian)",
+            "url": "https://www.smithsonianmag.com/smart-news/iconic-viking-horned-helmets-actually-3000-years-old-180979339/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "iron-maiden-myth",
+      "locale": "tr",
+      "decision": "rewrite + source update",
+      "fields": {
+        "realHistory": "Demir Bakire, Orta Çağ zindanlarının vazgeçilmez işkence aleti gibi anlatılır; fakat bu imajın tarihsel zemini çok zayıftır. Orta Çağ hukuk kayıtlarında bu cihazın düzenli kullanıldığına dair güvenilir kanıt yoktur. İnsan biçimli, içi çivili metal kabin fikri daha çok 18. yüzyıl sonu ve 19. yüzyılın “karanlık Orta Çağ” hayal gücüyle güçlenmiştir.\n\nBu dönemde müzeler, panayırlar ve korku anlatıları geçmişi daha barbar gösterecek nesnelere büyük ilgi duyuyordu. Farklı parçaların bir araya getirilmesiyle oluşturulan ya da sonradan “ortaçağ işkencesi” diye etiketlenen objeler, ziyaretçiye dehşet satmanın etkili bir yoluydu. Demir Bakire de gerçek bir adli uygulamadan çok, geçmişe dair modern korkunun müze nesnesine dönüşmüş halidir.\n\nBu, Orta Çağ’da işkence hiç yoktu demek değildir. İşkence ve bedensel cezalar vardı; ancak popüler kültürde gördüğümüz karmaşık, teatral, neredeyse sahne dekoru gibi cihazların çoğu ya abartılmıştır ya da çok daha geç dönemlerde “ortaçağ” etiketiyle yeniden paketlenmiştir. Korku filmleri için Demir Bakire mükemmel bir görseldir; tarih içinse daha çok sahte hafızanın kanıtıdır.",
+        "accuracyNote": "Demir Bakire’nin yaygın Orta Çağ işkence aleti olduğu iddiası desteklenmez; cihazın ünü büyük ölçüde geç dönem müze ve korku kültürüyle büyümüştür.",
+        "whyInteresting": "Demir Bakire’nin kendisi kadar ilginç olan şey, modern insanların Orta Çağ’ı daha karanlık göstermek için böyle bir nesneye inanmak istemesidir.",
+        "misconception": "Demir Bakire’nin Orta Çağ’da yaygın kullanılan gerçek bir işkence aleti olduğu sanılır; güvenilir kanıtlar bunun daha çok modern bir korku miti olduğunu gösterir.",
+        "mediaChanged": "Korku filmleri Demir Bakire’yi zindanın doğal parçası gibi sunar; tarihsel bağlamda ise bu nesne, Orta Çağ’dan çok modern müzecilik ve sansasyon kültürünü anlatır.",
+        "whyItMatters": "Demir Bakire miti, geçmiş hakkındaki en kalıcı imgelerin bazen belgelerden değil, insanların görmek istediği korkunç hikâyelerden doğduğunu gösterir.",
+        "quickRealityCheck": "Demir Bakire gerçekten Orta Çağ mahkemelerinin kullandığı bir alet miydi, yoksa daha geç dönemde üretilmiş bir karanlık çağ efsanesi mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Are Iron Maidens Really Torture Devices? (Live Science)",
+            "url": "https://www.livescience.com/55985-are-iron-maidens-torture-devices.html",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Twisted History Behind Medieval Torture Museums (Atlas Obscura)",
+            "url": "https://www.atlasobscura.com/articles/medieval-torture-museums",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "medieval-hygiene",
+      "locale": "tr",
+      "decision": "small rewrite + source update",
+      "fields": {
+        "realHistory": "Orta Çağ Avrupa’sında insanların hiç yıkanmadığı fikri fazla basit bir mittir. Temizlik anlayışı bugünkü mikrop teorisine dayanmazdı; ama beden kokusu, leke, kir, kötü hava ve hastalık arasında ilişki kuran pratik bir hijyen kültürü vardı. Eller ve yüz yıkanır, çamaşırlar temizlenir, sabun ve kokulu bitkiler kullanılır, şehirlerde ücretli hamamlar bulunurdu.\n\nBu düzen her yerde aynı değildi. Zenginlerin özel banyo imkânı daha fazlaydı; köylüler dere, leğen, kazan ve mevsimsel yıkama pratiklerine bağlıydı. Kentlerde hamamlar hem temizlik hem sosyalleşme alanıydı; ancak yoğun nüfus, hayvan trafiği, atık dökümü ve mezbahalar şehir hijyenini sürekli zorlaştırıyordu. Bu yüzden Orta Çağ ne tamamen pis bir karikatürdü ne de modern anlamda sağlıklı bir çevreydi.\n\nDönem filmleri çoğu zaman çamur, çürük diş ve kirli yüzlerle “tarihsel gerçekçilik” kurar. Gerçek daha karışıktır: insanlar temizliği önemserdi, fakat hastalık nedenlerini bugünkü gibi anlamazdı ve altyapı sınırlıydı. Bu farkı görmek, Orta Çağ’ı hem romantize etmeden hem de küçümsemeden okumayı sağlar.",
+        "accuracyNote": "Orta Çağ’da temizlik pratikleri vardı; ancak modern kanalizasyon, mikrop teorisi ve kamu sağlığı bilgisi olmadığı için şehirler yine de ciddi sağlık riskleri taşıyordu.",
+        "whyInteresting": "Orta Çağ hamamları yalnız temizlik yeri değil, yemek, sohbet, bakım ve sosyalleşmenin iç içe geçtiği kamusal mekânlardı.",
+        "misconception": "Orta Çağ insanlarının hiç yıkanmadığı sanılır; gerçekte temizlik pratikleri vardı, sorun daha çok altyapı ve hastalık bilgisinin sınırlı olmasıydı.",
+        "mediaChanged": "Dönem filmleri kiri çoğu zaman tarihsel atmosferin kısa yolu olarak kullanır; kaynaklar ise temizlik alışkanlıkları ile kötü altyapının aynı anda var olduğunu gösterir.",
+        "whyItMatters": "Bu konu, geçmişi yalnız “pis ve geri” diye okumak yerine insanların kendi bilgi sınırları içinde sağlık ve düzen kurmaya çalıştığını gösterir.",
+        "quickRealityCheck": "Orta Çağ gerçekten hiç yıkanmayan insanların çağı mıydı, yoksa temizlik pratikleri modern hijyenden farklı mıydı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Health and Hygiene in the Middle Ages (British Library)",
+            "url": "https://www.bl.uk/the-middle-ages/articles/health-and-hygiene-in-the-middle-ages",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Did People in the Middle Ages Take Baths? (Medievalists.net)",
+            "url": "https://www.medievalists.net/2023/11/people-middle-ages-baths/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Medieval Hygiene (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/Medieval_Hygiene/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "london-fire-plague",
+      "locale": "tr",
+      "decision": "body-level rewrite + source update",
+      "fields": {
+        "whatWeSee": "Dönem dizilerinde Londra, veba, dar sokaklar ve büyük yangınla tek bir kıyamet atmosferine sıkıştırılır; yangının şehri hastalıktan arındırdığı ima edilir.",
+        "realHistory": "1665 Büyük Vebası ile 1666 Büyük Londra Yangını birbirine yakın iki felakettir, ama aynı olayın iki aşaması gibi okunmamalıdır. Veba, 1665’te Londra’da yaklaşık 100.000 kişinin ölümüne yol açtı. Yangın ise 2 Eylül 1666’da Pudding Lane’de başladı ve birkaç gün içinde şehir merkezinin büyük bölümünü yok etti: binlerce ev, onlarca kilise, Royal Exchange, Guildhall ve eski St Paul’s Katedrali yandı.\n\nEn yaygın mit, yangının vebayı bitirdiğidir. Bu kulağa ikna edici gelir çünkü yangın fareleri, pireleri ve kirli mahalleleri yok etmiş gibi hayal edilir. Fakat kayıtlar daha karmaşık bir tablo gösterir. Veba ölümleri yangından önce zaten düşüşe geçmişti; yangın Londra’nın tamamını değil, özellikle eski City bölgesinin bir kısmını yaktı. Veba vakaları yangından sonra da görülmeye devam etti. Bu yüzden yangını “vebanın kesin çözümü” diye anlatmak tarihsel olarak güvenli değildir.\n\nYangının asıl kalıcı etkisi şehir yönetimi ve yeniden inşa üzerindedir. Dar sokaklar, ahşap çıkmalar ve yangına açık yapı düzeni büyük bir risk olarak görüldü. 1667 Yeniden İnşa Yasası, yeni yapılarda tuğla ve taş kullanımını zorunlu hale getirdi; sokak genişlikleri ve bina düzeni daha sıkı kurallara bağlandı. Christopher Wren’in St Paul’s Katedrali gibi projeleri, felaket sonrası Londra’nın sembolik yüzünü değiştirdi. Ancak Londra tamamen baştan çizilmiş ideal bir planla kurulmadı; mülkiyet, para ve alışkanlıklar radikal tasarımları sınırladı.\n\nBu yüzden yangın, vebayı temizleyen mucizevi alevlerden çok, erken modern bir metropolün krizle nasıl başa çıkmaya çalıştığını gösterir. Taboo veya Outlander gibi yapımların karanlık atmosferi doğru bir duygu verir; ama gerçek tarih, felaketlerin kolay “temizlik” hikâyelerine sığmadığını anlatır.",
+        "accuracyNote": "Yangın Londra’nın büyük bölümünü yıktı, ancak vebayı tek başına bitirdiği fikri yaygın bir mittir; ölümler yangından önce düşmeye başlamıştı ve yangın tüm hastalık bölgelerini kapsamadı.",
+        "whyInteresting": "Büyük Yangın’ın en kalıcı sonucu, hastalığı yakıp yok etmesi değil; Londra’nın yapı kurallarını, sigorta fikrini ve kentsel risk algısını değiştirmesidir.",
+        "misconception": "Yangının Londra’yı veba farelerinden arındırarak salgını bitirdiği sanılır; kaynaklar bunun romantik ama hatalı bir açıklama olduğunu gösterir.",
+        "mediaChanged": "Diziler veba ve yangını tek bir karanlık felaket gibi birleştirir; tarihsel kayıtlar iki olayın bağlantılı görünse de farklı dinamiklerle ilerlediğini gösterir.",
+        "whyItMatters": "Bu hikâye, krizlerden sonra üretilen rahatlatıcı mitlerin gerçek neden-sonuç ilişkilerini nasıl örtebildiğini gösterir.",
+        "quickRealityCheck": "Büyük Londra Yangını gerçekten vebayı bitirdi mi, yoksa yangın sonrası doğan güçlü ama hatalı bir şehir efsanesi mi bu?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Three Myths About the Great Fire of London (London Museum)",
+            "url": "https://www.londonmuseum.org.uk/collections/london-stories/myths-great-fire-london/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Great Fire of London FAQs (The Monument)",
+            "url": "https://www.themonument.org.uk/great-fire-london-faqs",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Great Fire of London (London Fire Brigade)",
+            "url": "https://www.london-fire.gov.uk/museum/london-fire-brigade-history-and-stories/fires-and-incidents-that-changed-history/the-great-fire-of-london/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Great Plague (The National Archives)",
+            "url": "https://www.nationalarchives.gov.uk/education/resources/great-plague/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "roman-fast-food",
+      "locale": "tr",
+      "decision": "rewrite from existing + source cleanup",
+      "fields": {
+        "realHistory": "Antik Roma’da ayaküstü yemek kültürü, modern “fast food” benzetmesini hak edecek kadar görünürdü; ama bunu bugünkü zincir restoran mantığıyla düşünmemek gerekir. Pompeii gibi yoğun kentlerde birçok insan küçük konutlarda yaşıyor, evinde düzenli yemek pişirme imkânı bulamıyor ya da gün içinde dışarıda çalışıyordu. Thermopolium denen tezgâhlar, sıcak yiyecek ve içecek sunan pratik sokak işletmeleriydi.\n\nBu mekânların en tanınan formu, içine büyük dolia kapları gömülmüş tezgâhlardır. Kaplar yiyecek, içecek ya da kuru ürün saklamak için kullanılabiliyordu. Regio V’teki iyi korunmuş örnek, freskleri ve kalıntıları sayesinde bu kültürü somutlaştırdı: ördek resmiyle birlikte ördek kemiği, ayrıca domuz, keçi, balık ve kara salyangozu gibi kalıntılar tespit edildi. Şarap kabında ezilmiş bakla izleri bulunması, içeceklerin tat ve görünüşünün değiştirilebildiğini gösterir.\n\nPompeii / Rome gibi yapımlar Roma’yı genellikle villalar, şölenler ve elit sofralar üzerinden gösterir. Thermopolium ise başka bir Roma’yı açar: işçilerin, küçük esnafın, yolcuların ve apartman sakinlerinin hızlı, sıcak ve ucuz yemek aradığı gündelik şehir hayatını. Roma mutfağı yalnız imparatorluk ziyafeti değil, sokak tezgâhı, koku, kalabalık ve küçük hesap ekonomisidir.",
+        "accuracyNote": "Regio V thermopolium bulguları, Pompeii’de sıcak yemek ve içecek sunan sokak tezgâhlarının yaygınlığını ve menü çeşitliliğini somutlaştırır.",
+        "whyInteresting": "Regio V bulgularında resmedilen bazı hayvanlarla kap içindeki kemik kalıntılarının örtüşmesi, tezgâh fresklerinin kısmen görsel menü gibi çalışmış olabileceğini düşündürür.",
+        "misconception": "Romalıların çoğu zaman villalarda uzanarak şölen yaptığı sanılır; bu görüntü daha çok elitleri anlatır, kentli halkın önemli kısmı dışarıdan yemek alıyordu.",
+        "mediaChanged": "Pompeii / Rome elit sofralara ve dramatik sahnelere odaklanır; thermopolium kültürü ise Roma’nın daha sıradan, hızlı ve ekonomik gündelik yaşamını gösterir.",
+        "whyItMatters": "Thermopolium, antik şehirlerin de yemek, çalışma ve sınıf farkı üzerinden modern kentlere şaşırtıcı biçimde benzediğini gösterir.",
+        "quickRealityCheck": "Antik Roma’da yemek kültürü sadece zengin şölenlerinden mi ibaretti, yoksa sokak tezgâhları günlük hayatın merkezinde miydi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Thermopolium of Regio V Opens to the Public (Pompeii Archaeological Park)",
+            "url": "https://pompeiisites.org/en/press-releases/from-the-12th-august-the-thermopolium-of-regio-v-is-opening-to-the-public/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "How to Prepare an Ancient Roman Feast (British Museum)",
+            "url": "https://www.britishmuseum.org/blog/how-prepare-ancient-roman-feast",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "ac-unity-revolution",
+      "locale": "tr",
+      "decision": "small rewrite + source update",
+      "fields": {
+        "realHistory": "Fransız Devrimi’ni yalnız özgürlük, eşitlik ve anayasa tartışmalarıyla açıklamak eksik kalır; Paris sokaklarında siyaset çoğu zaman ekmek fiyatıyla başlıyordu. 1788–1789’daki kötü hasatlar, tahıl arzındaki aksaklıklar ve taşıma sorunları, şehirli yoksullar için temel gıda olan ekmeği ulaşılması zor hale getirdi. Bir işçi hanesi gelirinin büyük bölümünü ekmeğe ayırdığı için fiyat artışı doğrudan öfke, kuyruk ve söylenti üretiyordu.\n\nBu söylenti dünyası devrimci siyasetin önemli parçasıydı. Depocuların tahılı sakladığı, aristokratların halkı aç bırakmak istediği ya da fırıncıların fiyatları bilerek yükselttiği düşüncesi, kalabalıkları hızla harekete geçirebiliyordu. Ekim 1789’da Parisli kadınların Versailles’a yürüyüşü, ekmek talebinin temsil ve iktidar krizine nasıl bağlandığını gösterir. “Ekmek istiyoruz” talebi, kralın ve meclisin halktan kopuk yaşadığı duygusuyla birleştiğinde politik bir güç haline geldi.\n\nAssassin’s Creed Unity bu atmosferi kalabalık sokaklar, kuyruklar ve öfkeli Paris görüntüleriyle iyi hissettirir. Oyun suikast ve komplo çizgisini öne çıkarır; tarihsel zeminde ise devrim, fırın önündeki fiyat listesiyle meclis salonundaki egemenlik tartışmasının aynı anda yaşandığı bir krizdir.",
+        "accuracyNote": "Unity devrim atmosferini güçlü verir; ancak ekmek arzı, fiyat denetimi, söylenti ve pazar ahlakı gibi ekonomik mekanizmalar oynanışta doğal olarak kısaltılır.",
+        "whyInteresting": "Versailles Yürüyüşü, ekmek krizinin yalnız ekonomik değil, doğrudan siyasal bir meseleye dönüşebileceğini gösteren en güçlü örneklerden biridir.",
+        "misconception": "Fransız Devrimi’nin yalnız fikirlerden doğduğu sanılır; gerçekte açlık, fiyat paniği ve tahıl politikası sokak hareketlerini doğrudan besledi.",
+        "mediaChanged": "Unity devrimi komplo ve kalabalık şiddeti üzerinden yoğunlaştırır; tarihsel kayıtlar aynı kalabalığın ekmek, fiyat ve temsil krizleriyle de hareket ettiğini gösterir.",
+        "whyItMatters": "Ekmek isyanları, büyük siyasi devrimlerin çoğu zaman günlük hayatın en basit sorusundan başladığını hatırlatır: bugün ne yiyeceğiz?",
+        "quickRealityCheck": "Paris’te devrim yalnız sloganlarla mı büyüdü, yoksa fırın kuyruğu ve ekmek fiyatı da siyasetin merkezinde miydi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "French Revolution (Britannica)",
+            "url": "https://www.britannica.com/event/French-Revolution",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The October Days, 1789 (Liberty, Equality, Fraternity / George Mason University)",
+            "url": "https://revolution.chnm.org/items/show/541",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "A Bread Riot (Liberty, Equality, Fraternity / George Mason University)",
+            "url": "https://revolution.chnm.org/d/359",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "ac-mirage-baghdad",
+      "locale": "tr",
+      "decision": "flagship body-level rewrite + source update",
+      "fields": {
+        "whatWeSee": "Mirage, 9. yüzyıl Bağdat’ını kütüphaneler, pazarlar, saray çevresi, bilim insanları ve siyasi gerilimlerle dolu canlı bir Abbasi metropolü olarak gösterir.",
+        "realHistory": "Assassin’s Creed Mirage’ın Bağdat’ı, İslam dünyasının bilimsel ve ticari ağırlığının doruklarından birine bakar. Şehir 762’de Abbasi Halifesi el-Mansur tarafından dairesel planlı bir başkent olarak kuruldu; Dicle kıyısındaki konumu, onu yalnız bir saray merkezi değil, ticaret, kâğıt üretimi, kitap dolaşımı ve çeviri ağlarının kesiştiği bir metropol haline getirdi. 9. yüzyıla gelindiğinde Bağdat, Akdeniz, İran, Orta Asya ve Hint dünyasından gelen bilgilerin buluştuğu büyük bir şehir kültürüne sahipti.\n\n“Bilgeliğin Evi” çoğu zaman tek bir dev modern üniversite gibi hayal edilir, ama daha güvenli tarihsel çerçeve onu saray himayesi, kütüphane, çeviri faaliyeti ve bilimsel çevrelerin birleştiği bir entelektüel ağ olarak görmektir. Yunanca, Süryanice, Farsça ve Sanskritçe metinlerin Arapçaya çevrilmesi; matematik, astronomi, tıp ve felsefede yeni çalışmaların önünü açtı. El-Harezmi’nin cebir ve hesap üzerine çalışmaları, “algorithm” kelimesine uzanan etki zincirinin en bilinen örneklerinden biridir.\n\nMirage’ın geçtiği dönem yalnız altın çağ vitrini değildir. 9. yüzyılda Abbasi otoritesi saray hizipleri, Türk askerî elitlerinin yükselişi, Samarra dönemi ve yerel huzursuzluklarla sarsılıyordu. Zenc İsyanı gibi büyük toplumsal krizler de bu dünyanın arka planındadır. Yani Bağdat hem kitapçıların, çevirmenlerin ve astronomların şehriydi hem de iktidar mücadelesinin her mahalleye gölge düşürdüğü bir başkentti.\n\nOyun bu karmaşayı oyuncuya gezilebilir bir şehir olarak verir: pazar, cami, saray, ev, çatı ve kanal aynı anlatının parçası olur. Tarihsel gerçek de tam burada ilginçleşir. Bağdat’ın gücü yalnız sarayda ya da tek bir kurumda değil; kitap çoğaltan kâtiplerde, pazar ekonomisinde, himaye arayan bilginlerde, çeviri hareketinde ve imparatorluğun dört yanından gelen insan akışında kuruluyordu. Mirage, bu dünyayı kurgu suikast hikâyesiyle daraltır; ama şehrin bilgi ve iktidar arasında sıkışmış enerjisini doğru yerden yakalar.",
+        "accuracyNote": "Oyun 9. yüzyıl Bağdat atmosferini araştırmaya dayalı bir şehir olarak kurar; Hidden Ones/Order hikâyesi kurgudur, Bilgeliğin Evi ve Abbasi bilim dünyası ise daha geniş bir entelektüel ağ olarak düşünülmelidir.",
+        "whyInteresting": "Bağdat’ın gücü yalnız saray zenginliğinden değil, kâğıt, çeviri, kitap çoğaltma ve bilgin himayesi gibi bilgi altyapısından geliyordu.",
+        "misconception": "Bilgeliğin Evi’nin tek başına modern bir üniversite gibi çalıştığı sanılır; gerçekte Abbasi bilgi üretimi saray, kütüphane, çeviri çevreleri ve pazar ağlarının birleşimiydi.",
+        "mediaChanged": "Mirage, Bağdat’ı gezilebilir ve yoğun bir oyun şehrine çevirir; tarihsel Bağdat ise bilgi üretimi, ticaret ve saray siyasetinin aynı anda işlediği çok daha geniş bir metropoldü.",
+        "whyItMatters": "Abbasi Bağdat’ı, bilginin yalnız keşifle değil, çeviri, finansman, kitap üretimi ve şehir ekonomisiyle büyüdüğünü gösterir.",
+        "quickRealityCheck": "Mirage’daki Bağdat sadece egzotik bir dekor mu, yoksa Orta Çağ dünyasının en önemli bilgi ve iktidar merkezlerinden biri mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Assassin’s Creed Mirage Introduces History of Baghdad (Ubisoft)",
+            "url": "https://news.ubisoft.com/en-us/article/3q7ANVXHm68MIG99qNrPCl/assassins-creed-mirage-introduces-history-of-baghdad-feature-to-bring-players-closer-to-history",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Baghdad (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/place/Baghdad",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The House of Wisdom: Baghdad’s Intellectual Powerhouse (1001 Inventions)",
+            "url": "https://www.1001inventions.com/house-of-wisdom/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

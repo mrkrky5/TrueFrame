@@ -1,0 +1,294 @@
+{
+  "locale": "tr",
+  "chunkIndex": 56,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-081-privateers",
+      "title": "Privateer Gerçeği",
+      "subtitle": "Privateer Gerçeği: görünenden fazlası",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Erken Modern",
+      "region": "Karayipler",
+      "themes": [
+        "Denizcilik",
+        "Suç",
+        "Ticaret"
+      ],
+      "whatWeSee": "Pirates of the Caribbean privateer ile korsan arasındaki çizgiyi bilerek bulanıklaştırıyor. Aynı kaptan bir sahnede taç adına hareket eden meşru aktör, başka sahnede serbest yağmacı gibi görünebiliyor. Film temposu hukuki ayrımı geri plana itip karakter karizmasını öne çıkarıyor; bayrak değişse de macera mantığı neredeyse aynı kalıyor.",
+      "realHistory": "Privateer, devletin verdiği letter of marque sayesinde düşman ticaret gemilerine saldırma yetkisi alan özel silahlı kaptandı. Bu model 16.-18. yüzyıllarda Avrupa güçleri için maliyet düşüren bir savaş yöntemiydi; çünkü büyük donanmayı sürekli finanse etmek zordu. Devletler özel sermayeyi kullanıyor, karşılığında ganimet payı ve stratejik baskı üretiyordu. Ancak sistemin en kırılgan noktası meşruiyet sınırıydı. Lisans süresi bittiğinde veya savaş sona erdiğinde aynı eylem korsanlık sayılabiliyordu. Karayipler'deki şeker, gümüş ve köle ticareti trafiği bu geçişleri daha da karlı hale getirdi. Bu yüzden bazı kaptanlar savaş döneminde yasal, barış döneminde aranır fail haline geldi. Prize court kayıtları ganimetin kime ait olacağı konusunda yatırımcı, kaptan ve devlet arasında sık anlaşmazlıklar yaşandığını gösterir. 1856 Paris Deniz Hukuku Deklarasyonu privateering'i büyük ölçüde yasakladı ve devlet donanması merkezli model güç kazandı. Dolayısıyla privateerlik romantik özgürlük değil, devletin deniz şiddetini sözleşme ve lisans üzerinden piyasa aktörlerine devretmesidir. Filmdeki bulanıklık tarihsel bir gerçeğe dokunur, fakat asıl mesele kişisel asi ruh değil hukuk, vergi ve savaş ekonomisinin birlikte çalışmasıdır. Ayrıca sigorta şirketleri ile liman otoriteleri, hangi ele geçirmenin meşru kabul edileceğini belirlemede kritik rol oynadı. Böylece privateerlik denizde değil, mahkeme salonu ve finans kayıtlarında da şekillenen bir savaş ekonomisine dönüştü.",
+      "accuracyNote": "Geçişkenlik tarihsel olarak doğrudur; fakat filmler hukuki süreçleri sadeleştirip daha çok macera ritmine yaslanır.",
+      "whyInteresting": "Aynı gemi, aynı top, aynı mürettebat; sadece bir imza değişince meşru savaşçı ile suçlu arasındaki çizgi yer değiştirir.",
+      "misconception": "Privateer'in korsanın daha havalı adı olduğu sanılır.",
+      "nextTopics": [
+        "Karasakal Efsanesi",
+        "Korsan Kuralları",
+        "Gömülü Hazine"
+      ],
+      "sources": [
+        {
+          "title": "Britannica - Privateer",
+          "url": "https://www.britannica.com/topic/privateer",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Letter of marque and reprisal",
+          "url": "https://www.britannica.com/topic/letter-of-marque-and-reprisal",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Avalon Project - Declaration Respecting Maritime Law (1856)",
+          "url": "https://avalon.law.yale.edu/19th_century/decparis.asp",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-082-blackbeard",
+        "tf26-083-pirate-code",
+        "tf26-084-treasure-myth"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Serideki gri deniz kimlikleri, erken modern deniz savaşının lisanslı şiddet pratiğini tartışmak için güçlü bir giriş noktasıdır.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "korsanlik",
+        "karayipler",
+        "denizcilik",
+        "privateer-gercegi",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "Pirates of the Caribbean hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film, privateer statüsünü korsan kimliğiyle neredeyse birleşik bir karakter arketipine dönüştürüyor. Tarihte hukuki yetki belgesi, kaptanın statüsünü doğrudan belirleyen somut bir çizgiydi.",
+      "whyItMatters": "Aynı gemi, aynı top, aynı mürettebat; sadece bir imza değişince meşru savaşçı ile suçlu arasındaki çizgi yer değiştirir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Letter of marque iptal edildiğinde aynı kaptanın aynı saldırısı nasıl bir anda suç kategorisine düşüyor?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-082-blackbeard",
+      "title": "Karasakal Efsanesi",
+      "subtitle": "Kara Sakal: gerçek korsan, efsane sakal",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Erken Modern",
+      "region": "Karayipler",
+      "themes": [
+        "Denizcilik",
+        "Suç",
+        "Ticaret"
+      ],
+      "whatWeSee": "Pirates of the Caribbean'de efsanevi korsanlar süpernatürel maceralara karışır. Kara Sakal (Blackbeard) popüler kültürde sakallı canavar olarak anılır; tarihsel Edward Teach daha somut ve daha az büyülüdür. Görüntüde dumanlı fitillerle süslenmiş sakal, korkuyla geri çekilen tüccar mürettebatı ve liman çıkışını kapatan korsan gemisi efsanenin teatral gücünü yansıtıyor.",
+      "realHistory": "Edward Teach (Blackbeard), 1716-1718 arasında Karayip korsanlığının en ünlü isimlerinden biriydi. Sakalını fitille sardığı anlatılır; psikolojik korku taktiğiydi. Queen Anne's Revenge gemisini ele geçirdi; Ocracoke ve Charleston yakınlarında operasyon yaptı. Kasım 1718'de Virginia valisi tarafından gönderilen Robert Maynard birliği onu öldürdü. Blackbeard'ın hazinesi efsanedir; arkeologlar Queen Anne's Revenge enkazını buldu. Gerçek korsanlık kaçakçılık, köle ticareti ve şiddet üzerineydi; Disney versiyonu bunu filtreler. Korsan 'demokrasisi' (kaptan seçimi, paylaşım) sınırlı ve geçiciydi. Karasakal olarak bilinen Edward Teach, korsanlığın kısa ama yoğun altın çağında şiddetli imaj yönetimini ustaca kullanan bir kaptandı. Sakalına bağladığı fitiller ve dramatik kıyafetler, çoğu çatışmada psikolojik üstünlük sağlayarak kan dökülmeden teslimiyet getirmeyi amaçlıyordu. 1718'de Charleston ablukası, onun yalnız yağmacı değil liman ticaretini felce uğratabilecek bir stratejist olduğunu gösterdi. Koloni yönetimleri bu tehdide karşı af politikasıyla askeri baskıyı birlikte uyguladı. Ocracoke'daki ölümünden sonra bile anlatılar büyüyerek sürdü ve Karasakal, korsan gerçekliği ile popüler mitin birleştiği başlıca simgeye dönüştü. Karasakal Efsanesi Edward Teach (Blackbeard), 1716-1718 arasında Karayip korsanlığının en ünlü isimlerinden biriydi. Karasakal'ın Nassau-Carolina hattındaki etkisi, ganimet toplamaktan çok ticaret rotalarını kilitleyen abluka taktiklerinden geldi. Farklı milletlerden mürettebat, gemide pay ve disiplin kurallarını sözlü sözleşmelerle yürüttü. Ocracoke sonrası başının sergilenmesi, sömürge yönetimlerinin korsanlığa karşı güçlü, kasıtlı bir caydırıcı propaganda hamlesiydi.",
+      "accuracyNote": "Ölüm tarihi ve Maynard operasyonu belgelenmiştir; hazinesi efsanedir.",
+      "whyInteresting": "Aynı isim hem arkeolojik enkaz hem Hollywood canavarıdır.",
+      "misconception": "Korsanlar sürekli hazine peşindeydi; çoğu kaçakçılık ve yağmayla yaşadı.",
+      "nextTopics": [
+        "Privateer Gerçeği",
+        "Korsan Kuralları",
+        "Gömülü Hazine"
+      ],
+      "sources": [
+        {
+          "title": "Blackbeard (Britannica)",
+          "url": "https://www.britannica.com/biography/Blackbeard",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Queen Anne's Revenge (NC Dept Natural Resources)",
+          "url": "https://www.qaronline.org/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Golden Age piracy (Royal Museums Greenwich)",
+          "url": "https://www.rmg.co.uk/stories/topics/pirates-golden-age",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-084-treasure-myth",
+        "tf26-088-maps-navigation"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "PotC'nin Blackbeard referansları ile Edward Teach ve 1718 Ocracoke baskını.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "korsanlik",
+        "karayipler",
+        "denizcilik",
+        "karasakal-efsanesi",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "Pirates of the Caribbean hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Disney Blackbeard'ı mitolojik yapar; mahkeme ve valilik kayıtları av ve idam hikâyesi verir.",
+      "whyItMatters": "Aynı isim hem arkeolojik enkaz hem Hollywood canavarıdır.",
+      "isFlagship": false,
+      "quickRealityCheck": "Blackbeard neden Virginia valisinin hedefi oldu?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-083-pirate-code",
+      "title": "Korsan Kuralları",
+      "subtitle": "Küçük ayrıntı, büyük tarih",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Erken Modern",
+      "region": "Karayipler",
+      "themes": [
+        "Denizcilik",
+        "Suç",
+        "Ticaret"
+      ],
+      "whatWeSee": "Pirates of the Caribbean'de gemi üstündeki tartışmalar, kaptanın sözüne karşı mürettebatın itiraz edebildiği bir düzen ima eder. Ganimet paylaşımı, ceza ve sadakat gibi konular kısa diyaloglarla geçer. Film bunu eğlenceli bir kaos gibi verir ama arka planda yazılı bir deniz sözleşmesi hissedilir.",
+      "realHistory": "17. ve 18. yüzyılda Atlantik korsan gemilerinin çoğu, articles denilen yazılı kurallarla yönetiliyordu. Bu kurallar romantik bir ayrıntı değil, riskli deniz hayatını yönetmenin pratik yoluydu. Kaptan çatışma anında güçlüydü, fakat günlük düzende quartermaster denge kurar; yiyecek dağıtımı, disiplin ve ganimet tartışmalarında söz sahibiydi. Bartholomew Roberts'ın 1721 maddeleri, gece ışık düzeninden kumar kısıtına, yaralanma tazminatından nöbet disiplinine kadar somut hükümler içerir. Kolunu, gözünü ya da bacağını kaybeden denizciye belirli ödeme verilmesi, dönemin deniz işçiliği için sıra dışı bir güvencedir.\n\nKuralların en kritik kısmı ganimet paylaşımıydı. Kaptan ve bazı uzmanlar fazla pay alırdı, ancak fark sınırlı tutulurdu; böylece isyan riski azalırdı. Bu yapı, kraliyet donanmasının sert hiyerarşisine kıyasla daha pazarlıklı bir düzen sunuyordu. Nassau gibi limanlarda korsan toplulukları, kaçak ticaret, köle ekonomisi ve imparatorluk savaşlarıyla iç içe çalıştı. Yani korsan gemisi, tam özgürlük değil; devlet dışı ama sözleşmeli bir emek düzeniydi. Ayrıca korsan maddeleri, gemideki şiddeti tamamen bitirmese de öngörülebilir kılarak günlük işi sürdürülebilir hale getiriyordu. Bu model, bazı tarihçiler tarafından deniz emekçileri arasında erken sözleşme kültürü örneği olarak değerlendirilir. Özellikle uzun seferlerde su, yiyecek ve disiplinin paylaşımı konusunda anlaşma olmadan gemi içi düzen hızla çökebiliyordu. Bu denge, korsanlığın sadece yağmadan ibaret olmadığını açıkça gösterir.",
+      "accuracyNote": "Code fikri bütünüyle kurgu değildir; tarihsel belgelerde karşılığı vardır. Ancak filmde uygulama biçimi tek tip ve daha teatral görünür.",
+      "whyInteresting": "Devlet dışı bir topluluğun denizin ortasında mini bir anayasa üretmesi beklenmedik derecede modern bir örnektir.",
+      "misconception": "Korsanların tamamen kuralsız yaşadığı sanılır. Oysa birçok gemi, yazılı sözleşme olmadan ayakta kalamıyordu.",
+      "nextTopics": [
+        "Privateer Gerçeği",
+        "Karasakal Efsanesi",
+        "Gömülü Hazine"
+      ],
+      "sources": [
+        {
+          "title": "Pirate Codes (Royal Museums Greenwich)",
+          "url": "https://www.rmg.co.uk/stories/topics/pirates/pirate-codes",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Piracy (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/topic/piracy",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Rare Book Collection on Piracy (Library of Congress)",
+          "url": "https://www.loc.gov/collections/rare-book-selections-from-the-law-library-of-congress/about-this-collection/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-084-treasure-myth",
+        "tf26-085-port-royal",
+        "tf26-086-women-pirates"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Filmdeki Pirate Code söylemi, gerçek korsan maddeleriyle yan yana okununca daha tarihsel bir anlam kazanır.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "korsanlik",
+        "karayipler",
+        "denizcilik",
+        "korsan-kurallari",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "Pirates of the Caribbean hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film kuralları karizmatik atışmalar ve esprilerle öne çıkarır. Gerçekte bu maddeler, ölüm ve yaralanma riskini yöneten ciddi bir işleyiş mekanizmasıydı.",
+      "whyItMatters": "Devlet dışı bir topluluğun denizin ortasında mini bir anayasa üretmesi beklenmedik derecede modern bir örnektir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Korsan gemilerinde quartermaster neden kaptanın karşısında ikinci bir güç merkeziydi?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-084-treasure-myth",
+      "title": "Gömülü Hazine",
+      "subtitle": "Gömülü hazine: korsan miti, gerçek ganimet",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Erken Modern",
+      "region": "Karayipler",
+      "themes": [
+        "Denizcilik",
+        "Suç",
+        "Ticaret"
+      ],
+      "whatWeSee": "Pirates of the Caribbean, korsanlığı lanetli altın, gizli gömüler ve harita odaklı hazine arayışları etrafında kurar. Kaptanlar özgürlük, güç veya doğaüstü sonuç vaat eden tekil ganimetlerin peşine düşer. Deniz şiddeti maceracı bir koreografiye dönüşür ve izleyici korsan başarısını, sürekli akın ve yeniden satışa dayalı riskli bir deniz işletmesini yönetmekten çok efsanevi gömülü servet bulmak olarak görmeye yönlendirilir.",
+      "realHistory": "17. yüzyıl sonu ile 18. yüzyıl başındaki Atlantik korsanlığı, uzun soluklu bir hazine avcılığı girişiminden çok fırsatçı bir yağma ekonomisiydi. Korsan mürettebatlar şeker, tütün, tekstil, sikke, erzak ve denizcilik malzemesi taşıyan ticaret gemilerini hedef alır; ele geçirilen malları karaborsa değişimi, yozlaşmış aracılar veya korsan dostu limanlar üzerinden hızla nakde çevirirdi. Kalıcı kazanç hareketlilik ve kargonun hızlı elden çıkarılmasını gerektirirdi; çünkü ganimetle oyalanmak donanma devriyeleri ya da özel korsan karşıtı kampanyalarca yakalanma riskini artırırdı. Uzak adalara gömülü sandık ikonu, üzerinde anlaşılmış pay sistemlerine göre yapılan anlık dağıtıma dair kanıtlarla karşılaştırıldığında belgesel zeminde zayıf kalır. Birçok mürettebat tazminat, disiplin ve yaralanma ödemelerini tanımlayan yazılı ya da teamüle dayalı maddeler kullanıyordu; bu da saf kaostan çok örgütlü bir yönetişime işaret eder. Özel korsanlık (privateering) ile korsanlık arasındaki çizgi savaş dönemlerinde bulanıklaşabilir, barışta eski yardımcı unsurlar suçlu ilan edildiğinde yeniden sertleşirdi. Nassau gibi limanlar, imparatorluk rekabeti, emek yerinden edilmesi ve yasadışı ticaretin kesiştiği düğümler haline geldi. 19. yüzyıl kurmacası, özellikle Treasure Island sonrasında gömülü hazine motifini baskın bir popüler mite dönüştürdü. Filmler bu mitik geleneği bilinçli biçimde sahiplenir. Ancak tarihsel olarak korsanlık, tekil büyülü büyük ikramiyelerden çok lojistik, pazar erişimi, hastalık, zorlama ve değişken imparatorluk sistemleriyle sürekli pazarlıkla ilgiliydi.",
+      "accuracyNote": "Deniz atmosferi etkileyicidir; temel ekonomik teşvikler ise yoğun biçimde mitolojikleştirilmiştir.",
+      "whyInteresting": "Kurmacanın ekonomik tarihi kuşaklar boyunca nasıl yeniden yazabildiğini gösterir.",
+      "misconception": "Korsanlar, dolaşım ekonomilerindeki yüksek riskli akıncılar yerine yaygın biçimde profesyonel hazine gömücüler olarak hayal edilir.",
+      "nextTopics": [
+        "Privateer Gerçeği",
+        "Karasakal Efsanesi",
+        "Korsan Kuralları"
+      ],
+      "sources": [
+        {
+          "title": "Piracy (Britannica)",
+          "url": "https://www.britannica.com/topic/piracy-international-law",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Pirates and privateers (Royal Museums Greenwich)",
+          "url": "https://www.rmg.co.uk/stories/topics/pirates",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Golden Age of Piracy (National Geographic)",
+          "url": "https://www.nationalgeographic.com/history/article/pirates-golden-age-caribbean",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-088-maps-navigation",
+        "tf26-082-blackbeard"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "PotC korsan efsanesine sadıktır; ancak arşiv, hazine romansından çok ticaretin sekteye uğratılmasına işaret eder.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "korsanlik",
+        "karayipler",
+        "denizcilik",
+        "gomulu-hazine",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "Pirates of the Caribbean hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Filmler gömülü hazine mitolojisini yükseltir; oysa tarihsel korsanlık ele geçirilen ticari malların hızlı devir hızına dayanıyordu.",
+      "whyItMatters": "Kurmacanın ekonomik tarihi kuşaklar boyunca nasıl yeniden yazabildiğini gösterir.",
+      "isFlagship": true,
+      "quickRealityCheck": "Korsanların çoğu, haritada işaretli gömülü altından çok satılabilir kargo peşindeydi.",
+      "lastReviewedAt": "2026-06-27"
+    }
+  ]
+}

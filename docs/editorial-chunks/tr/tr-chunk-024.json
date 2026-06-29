@@ -1,0 +1,363 @@
+{
+  "locale": "tr",
+  "chunkIndex": 24,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "civ-great-leaders-simplification",
+      "title": "Büyük Liderler Teorisi ve Tarihin Sadeleştirilmesi",
+      "subtitle": "Civilization ve tarihin neden tek bir kişi tarafından yazılmadığı.",
+      "mediaType": "game",
+      "mediaTitle": "Civilization",
+      "mediaConnection": "Oyunun lider odaklı yapısı üzerinden tarih yazımı tartışması.",
+      "verificationStatus": "verified",
+      "readingTimeMinutes": 2,
+      "themes": [
+        "Felsefe",
+        "Tarih Yazımı"
+      ],
+      "sources": [
+        {
+          "title": "The Great Man Theory (Britannica)",
+          "url": "https://www.britannica.com/topic/Great-Man-theory",
+          "type": "official"
+        },
+        {
+          "title": "History from Below (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/social-history/",
+          "type": "academic"
+        }
+      ],
+      "realHistory": "Tarih yazımında 'Büyük Adam Kuramı' (Great Man Theory), olayların sadece Sezar, Napolyon veya Churchill gibi devasa figürlerin kararlarıyla şekillendiğini savunur. Ancak modern tarihçilik, bu yaklaşımın toplumsal hareketleri, ekonomik yapıları ve teknolojik değişimleri göz ardı ettiğini belirtir. Örneğin, Napolyon'un başarısı sadece onun dehası değil, Fransız Devrimi'nin yarattığı yeni vatandaşlık bilinci ve ordudaki liyakat sisteminin bir sonucudur. Civilization gibi oyunlar, bu karmaşıklığı basitleştirerek oyuncuya 'her şeye kadir lider' rolü verir. Gerçekte ise bir liderin gücü, yönettiği toplumun üretim kapasitesi, coğrafi avantajları ve o dönemdeki küresel ticaret ağlarıyla sınırlıdır. Tarihi değiştiren asıl güç, genellikle isimsiz kitlelerin ve biriken küçük teknik inovasyonların toplamıdır.\n\nSoruşturma ve arşiv belgeleri, i̇klim değişikliği veya bir tarım hastalığı, bazen bir fatihten daha çok tarih değiştirmiştir — bu iddia kaynaklarla ne kadar örtüşüyor?\n\nBu örnek Bu başlık açısından önem taşır, i̇klim değişikliği veya bir tarım hastalığı, bazen bir fatihten daha çok tarih değiştirmiştir fikrini medya anlatısından ayrı okumayı sağlar.\n\nOyunun lider odaklı yapısı üzerinden tarih yazımı tartışması.\n\nİlgili başlıklar arasında Tarih Yazımı ve Sosyoloji gibi konular, aynı dönemin kurumları ve günlük pratikleri hakkında ek ipuçları verir.",
+      "whatWeSee": "Tek bir lider binlerce yıl boyunca bir medeniyeti yönetir.",
+      "whyInteresting": "İklim değişikliği veya bir tarım hastalığı, bazen bir fatihten daha çok tarih değiştirmiştir.",
+      "accuracyNote": "Sadeleştirme bir oyun mekaniği olarak başarılıdır ancak tarihsel gerçeği gizler.",
+      "nextTopics": [
+        "Tarih Yazımı",
+        "Sosyoloji"
+      ],
+      "difficulty": "medium",
+      "relatedCardIds": [
+        "civ-alphabet-revolution-real",
+        "civ-great-library-alexandria-real"
+      ],
+      "sourceQuality": "Verified sources used.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "civilization",
+        "felsefe",
+        "tarih-yazm"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Civilization sahne diliyle konuyu yoğunlaştırır; kayıtlar ise aynı konuyu daha parçalı bir çerçevede anlatır.",
+      "whyItMatters": "Bu başlık, i̇klim değişikliği veya bir tarım hastalığı, bazen bir fatihten daha çok tarih değiştirmiştir fikrini medya anlatısından ayrı okumayı sağlar.",
+      "quickRealityCheck": "İklim değişikliği veya bir tarım hastalığı, bazen bir fatihten daha çok tarih değiştirmiştir — bu iddia kaynaklarla ne kadar örtüşüyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "last-emperor-court-ritual",
+      "title": "Yasak Şehir: Ritüelin Boşluğu",
+      "subtitle": "The Last Emperor ve bir imparatorluğun sembolik çöküşü.",
+      "mediaType": "film",
+      "mediaTitle": "The Last Emperor",
+      "mediaConnection": "Bu kart, The Last Emperor filmindeki Yasak Şehir sahnelerini Puyi’nin abdikasyonu, sarayda tutulması, Mançukuo dönemi ve imparatorluk ritüelinin çöküşüyle birlikte okur.",
+      "verificationStatus": "verified",
+      "readingTimeMinutes": 4,
+      "themes": [
+        "Çin",
+        "Siyaset"
+      ],
+      "sources": [
+        {
+          "title": "Puyi biography (Britannica)",
+          "url": "https://www.britannica.com/biography/Puyi",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang (UNESCO)",
+          "url": "https://whc.unesco.org/en/list/439/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Last emperor of China abdicates (HISTORY)",
+          "url": "https://www.history.com/this-day-in-history/february-12/last-emperor-of-china-abdicates",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "realHistory": "Puyi, 1908’de henüz çocukken Qing tahtına çıkarıldı; 1912’de Xinhai Devrimi sonrası tahttan indirildi. En tuhaf nokta, siyasi gücünü kaybetmesine rağmen Yasak Şehir’de imparator unvanı ve saray düzeniyle yaşamaya devam etmesiydi. Dışarıda Çin Cumhuriyeti kurulmuşken içeride eski ritüeller, harem ağaları, protokol ve saray dili sürüyordu. Bu durum, The Last Emperor’ın en güçlü fikrini oluşturur: imparatorluk artık ülkeyi yönetmiyor, ama kendi sahnesinde hâlâ oynuyordu.\n\nYasak Şehir’in mimarisi bu sahnenin parçasıydı. Ekseni, kapıları, renkleri ve tören alanları imparatoru “Göklerin Oğlu” olarak merkeze yerleştiriyordu. Puyi için bu düzen hem ayrıcalık hem hapishaneydi. Ona hizmet edenlerin sayısı, yemek ve yürüyüş protokolleri, kimlerin yaklaşabileceği ve hangi kapıların kullanılacağı, bir çocuğun gündelik hayatını bile devlet törenine dönüştürüyordu.\n\n1924’te Puyi Yasak Şehir’den çıkarıldı. Sonraki hayatı onu Tianjin’e, Japon etkisindeki Mançukuo’ya ve II. Dünya Savaşı sonrası savaş suçlusu olarak yeniden eğitime götürdü. Film bu dönüşümü bazen masumiyet ve kurbanlık üzerinden okur; tarihsel tablo daha karmaşıktır. Puyi hem çöken bir sistemin ürünüydü hem de Mançukuo döneminde eski statüsünü geri kazanma umuduyla Japon politikasının parçası oldu.\n\nBu yüzden Yasak Şehir yalnız dekor değildir. Boşalmış ritüelin, yani siyasi gücünü kaybetmiş ama sembolik ağırlığını sürdüren bir imparatorluk dilinin mekânıdır. Puyi’nin hikâyesi, modern çağın eski egemenlik biçimlerini nasıl sahneye, müzeye ve ideolojik pazarlığa çevirdiğini gösterir.",
+      "whatWeSee": "The Last Emperor, üç yaşında tahta çıkarılan Puyi’yi Yasak Şehir’in görkemli ama boğucu ritüelleri içinde gösterir. Saray onu tanrı-kral gibi kuşatır; dışarıdaki cumhuriyet, savaş ağaları ve modernleşme krizi ise duvarların dışında büyür.",
+      "whyInteresting": "Puyi, tahttan indirildikten sonra yıllarca Yasak Şehir’de unvanını koruyan ama ülkeyi yönetmeyen bir imparator gibi yaşadı.",
+      "accuracyNote": "Film saray atmosferini güçlü yansıtır; ancak Puyi’yi tamamen pasif bir kurban gibi okumak eksik kalır. Özellikle Mançukuo dönemi, Japon işgali ve Puyi’nin statü arayışıyla birlikte daha tartışmalı bir siyasi zemindir.",
+      "nextTopics": [
+        "Yasak Şehir",
+        "Qing Hanedanlığı"
+      ],
+      "difficulty": "medium",
+      "relatedCardIds": [
+        "last-emperor-china-fall",
+        "last-emperor-manchukuo-propaganda",
+        "last-emperor-forbidden-city-eunuchs-real"
+      ],
+      "sourceQuality": "strong",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "in",
+        "siyaset",
+        "the-last-emperor"
+      ],
+      "mediaChanged": "The Last Emperor sarayın yalnızlığını ve görkemini öne çıkarır; tarihsel kayıtlar bu görkemin 1912’den sonra gerçek iktidardan çok sembolik bir kabuğa dönüştüğünü gösterir.",
+      "whyItMatters": "Puyi’nin hikâyesi, imparatorlukların yalnız savaşla değil, ritüelleri anlamını kaybettiğinde de çöktüğünü gösterir.",
+      "isFlagship": true,
+      "quickRealityCheck": "Puyi gerçekten güçlü bir imparator muydu, yoksa eski düzenin ritüelleri içinde tutulan yetkisiz bir sembol müydü?",
+      "spoilerNote": "The Last Emperor hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "lastReviewedAt": "2026-06-24",
+      "misconception": "Puyi’nin sadece masum bir çocuk kurban olduğu sanılır; gerçekte hayatı saray ritüeli, cumhuriyet, Japon kukla devleti ve yeniden eğitim arasında çok daha karmaşık bir dönüşümdür."
+    },
+    {
+      "id": "crown-monarchy-symbol",
+      "title": "Modern Dünyada Monarşi: Bir Sembolün Gücü",
+      "subtitle": "The Crown ve krallığın neden hala var olduğunun hikayesi.",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "mediaConnection": "Dizideki Kraliçe II. Elizabeth in rolü üzerinden modern monarşi.",
+      "verificationStatus": "verified",
+      "readingTimeMinutes": 4,
+      "themes": [
+        "İngiltere",
+        "Siyaset"
+      ],
+      "sources": [
+        {
+          "title": "British Monarchy - Britannica",
+          "url": "https://www.britannica.com/topic/monarchy",
+          "type": "article"
+        },
+        {
+          "title": "Further Reading - Britannica",
+          "url": "https://www.britannica.com",
+          "type": "article"
+        }
+      ],
+      "realHistory": "İngiliz monarşisi, 21. yüzyılda sadece bir yönetim biçimi değil, dünyanın en iyi yönetilen ve en pahalı 'marka'larından biridir. Kraliçe II. Elizabeth'in 70 yıllık saltanatı, monarşiyi siyasi bir güç olmaktan çıkarıp, ulusal kimliğin, istikrarın ve 'yumuşak güç' diplomasisinin ana sembolü haline getirmiştir. Taç, artık orduları yöneten bir araç değil, turizmi, ticareti ve ulusal birliği besleyen bir prestij simgesidir. The Crown dizisi, bu sembolün arkasındaki insan maliyetini ve kurumun hayatta kalma mekanizmalarını derinlemesine işler. 'The Firm': Bir Şirket Olarak Monarşi Kraliyet ailesi üyeleri kendi aralarında monarşiye 'The Firm' (Şirket) derler. Bu isim, monarşinin profesyonel, hiyerarşik ve stratejik yapısını özetler. Şirket'in ana amacı, her ne pahasına olursa olsun kurumun (ve dolayısıyla Tacın) prestijini korumaktır. Bireysel mutluluklar, aşklar ve trajediler bu kurumsal amacın yanında ikincildir. II. Elizabeth'in en büyük başarısı, kendi kişiliğini Tacın arkasına tamamen saklayabilmiş olmasıdır. O, duygularını hiçbir zaman kameralar karşısında göstermeyen, her zaman 'görev' odaklı bir yöneticiydi. Bu disiplin, monarşiyi her türlü skandaldan koruyan sarsılmaz bir kalkandır. Yumuşak Güç: Commonwealth ve Küresel Diplomasi İngiliz hükümdarı, siyasi bir yetkisi olmasa da dünyanın en etkili diplomatıdır. Commonwealth (İngiliz Milletler Topluluğu) aracılığıyla 50'den fazla ülke ile kurulan bağlar, İngiltere'nin küresel siyasetteki 'yumuşak gücünü' (soft power) zirvede tutar. Kraliçe, 70 yıl boyunca yüzlerce devlet başkanıyla görüşmüş, savaşları ve barışları izlemiştir. Onun bir ziyareti, milyonlarca poundluk ticaret antlaşmasından daha etkili olabilirdi. Monarşi, İngiltere'nin 'küçük bir ada' değil, 'küresel bir imparatorluk mirası' olduğu illüzyonunu (ve etkisini) sürdüren ana unsurdur. Anayasal Monarşi ve 'Kralların Tanrısal Hakkı'ndan Hukuka Modern İngiliz monarşisi, 1688 'Muhteşem Devrim'den bu yana anayasal sınırlara sahiptir. Hükümdar, 'hüküm sürer ama yönetmez'. Tüm yetki parlamentodadır. Ancak hükümdar, parlamentonun açılışını yapar, yasaları onaylar ve başbakanı atar. Bu törensel yetkiler, devletin sürekliliğini ve siyasi tartışmaların üzerindeki 'tarafsız' bir otoriteyi simgeler. Eğer bir gün bir başbakan anayasayı ihlal etmeye çalışırsa, teorik olarak hükümdar son savunma hattıdır. Bu 'yedek lastik' rolü, İngiliz demokrasisinin en garip ama en güven verici parçasıdır. Monarşi Ekonomisi: Turizm ve 'Royal Warrant' Monarşinin İngiltere ekonomisine katkısı tartışmasızdır. Sadece kraliyet düğünleri ve törenleri her yıl milyonlarca turisti Londra'ya çekmektedir. Ayrıca 'Royal Warrant' (Kraliyet Onayı) alan markalar, bu unvanı dünya pazarlarında bir kalite ve prestij simgesi olarak kullanırlar. Buckingham Sarayı, Windsor Kalesi ve Londra Kulesi gibi yapılar, dünyanın en çok ziyaret edilen müzeleri arasındadır. Yapılan araştırmalar, monarşinin devlete olan maliyetinin, sağladığı ekonomik gelirin yanında çok küçük kaldığını göstermektedir. Monarşi, İngiltere'nin en başarılı ticari ürünüdür. Medya ve Monarşi: Aşk ve Nefret İlişkisi Monarşinin hayatta kalması için medyaya ihtiyacı vardır, ancak medya aynı zamanda monarşinin en büyük düşmanıdır. 1953'teki taç giyme töreninin televizyondan yayınlanmasıyla başlayan bu süreç, Prenses Diana döneminde bir medya çılgınlığına dönüşmüştür. Medya, kraliyet ailesini birer 'magazin figürü' haline getirmeye çalışırken, saray ise 'gizemini' korumaya çalışır. Walter Bagehot'ın dediği gibi: 'Gizem gittiğinde sihir de gider.' The Crown dizisi, bu gizem ve şeffaflık arasındaki o tehlikeli dengenin nasıl kurulduğunu (ve bazen nasıl bozulduğunu) anlatan en iyi kaynaktır. Modernizasyon ve Tasfiye Tartışmaları 21. yüzyılda monarşinin gerekliliği sorgulanmaktadır. Genç kuşaklar için monarşi, bazen 'eski bir sömürge mirası' veya 'gereksiz bir lüks' olarak görülebilmektedir. Kral III. Charles'ın 'daha küçük ve daha ucuz' bir monarşi vizyonu, bu eleştirilere bir cevaptır. Bazı Commonwealth ülkelerinin (Barbados gibi) cumhuriyete geçmesi, monarşinin küresel etkisinin azaldığının bir işaretidir. Ancak monarşi, bin yıllık tarihi boyunca pek çok kez 'bitti' denilen yerden değişerek ve adapte olarak çıkmayı başarmıştır. Hayatta kalmak, kraliyetin en iyi bildiği zanaattır.",
+      "whatWeSee": "Saraydaki iç çekişmeler, katı protokoller ve Kraliçe'nin aile fertleriyle olan gergin ilişkileri.",
+      "whyInteresting": "Kraliçe II. Elizabeth, pasaportu veya ehliyeti olmayan dünyadaki tek insandı; çünkü bu belgeler bizzat onun adına veriliyordu. Ayrıca İngiltere'deki tüm kuğuların ve balinaların teknik olarak sahibi sayılıyordu.",
+      "accuracyNote": "The Crown dizisi, saray protokollerini ve tarihi olayların kronolojisini %90 oranında doğru yansıtırken, kraliyet ailesinin kapalı kapılar ardındaki özel konuşmalarını tamamen kurgusal bir dramayla doldurur. Özellikle 1990'lardaki aile krizleri, reyting kaygısıyla tarihsel gerçeklikten daha 'agresif' bir dille sunulmuştur.",
+      "nextTopics": [
+        "II. Elizabeth",
+        "Anayasal Monarşi",
+        "Commonwealth"
+      ],
+      "difficulty": "medium",
+      "relatedCardIds": [
+        "the-crown-monarchy",
+        "crown-tv-coronation-1953",
+        "crown-commonwealth-empire"
+      ],
+      "sourceQuality": "Official constitutional history and royal archives.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "ingiltere",
+        "siyaset",
+        "the-crown",
+        "monarsi"
+      ],
+      "spoilerNote": "The Crown hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "isFlagship": true,
+      "mediaChanged": "Dizide Kraliçe'nin Başbakanlara karşı 'gizli' müdahaleleri bazen daha belirgin gösterilir. Gerçekte Kraliçe, 'tarafsızlık' kuralına o kadar bağlıdır ki, yüz ifadesinden bile ne düşündüğünü anlamak imkansızdır. Ayrıca aile içi dramalar magazinel bir dille genişletilmiştir.",
+      "whyItMatters": "Elizabeth, pasaportu veya ehliyeti olmayan dünyadaki tek insandı; çünkü bu belgeler bizzat onun adına veriliyordu.",
+      "quickRealityCheck": "Modern dünyada monarşi, siyasi yetkisi olmayan ancak ulusal kimliği bir arada tutan devasa bir 'yumuşak güç' sembolüdür. The Crown, bu sembolik gücün bedelini ne kadar doğru anlatıyor?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "ancient-childhood",
+      "title": "Antik ve Orta Çağ’da Çocukluk: Sadece \"Küçük Yetişkinler\" mi?",
+      "subtitle": "Oyun, eğitim ve çalışma: Geçmişte çocuk olmanın gerçekliği.",
+      "mediaType": "general",
+      "mediaTitle": "Günlük Hayat",
+      "mediaConnection": "Bu kart, antik ve orta çağ toplumlarındaki çocukluk kavramını ve çocukların günlük hayatını inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (British Museum, Britannica, History of Childhood)",
+      "whatWeSee": "Filmlerde çocuklar ya saraylarda prens gibi yaşar ya da sokaklarda sefil bir halde hırsızlık yaparlar; \"çocukluk\" kavramı pek işlenmez.",
+      "realHistory": "Antik Roma'da erkek çocuklar, 14-16 yaşına gelene kadar kötü ruhlardan korunmak için 'Bulla' adı verilen altın veya deri muskalar taşırlardı; çocukluk bir 'kutsal korunma' dönemi kabul edilirdi. Ancak Sparta gibi askeri toplumlarda erkek çocuklar 7 yaşında ailelerinden alınarak 'Agoge' adı verilen devlet kontrolündeki acımasız bir eğitim sistemine dahil edilirdi. Arkeolojik kazılarda bulunan kilden yapılmış eklemli bebekler ve kemikten oyulmuş zarlar, çocukların oyun dünyasının bugünkünden çok da farklı olmadığını kanıtlamaktadır. Orta Çağ'da ise çocuklar genellikle aile işlerine yardım eden 'çıraklar' olarak hayata atılır; oyun ile iş arasındaki çizgi çok erken yaşlarda silinirdi. Kız çocuklarının eğitimi genellikle ev yönetimi ve dokumacılık üzerine sınırlıyken; soylu ailelerde kız çocukları da okuma-yazma ve müzik eğitimi alabilmekteydi. Çocukluk, hayatta kalma oranının %50 olduğu bir çağda, her yaşın birer zafer kabul edildiği ve dini törenlerle kutlandığı kritik bir süreçti.",
+      "accuracyNote": "Filmlerde çocuklar ya sefil sokak çocukları ya da saraylardaki küçük prensler olarak resmedilir. Oysa tarihsel gerçeklikte orta sınıf bir Romalı veya esnaf bir Orta Çağ çocuğu, hem oyun oynuyor hem de çıraklık yoluyla hayata hazırlanıyordu. Çocuk mezarlarındaki oyuncaklar, ebeveynlerin çocuklarına duyduğu derin sevginin ve yasın en duygusal kanıtlarıdır.",
+      "whyInteresting": "Antik Roma'da çocukların kötü ruhlardan korunmak için boyunlarına taktıkları 'Bulla' adı verilen altın veya deri muskalar, onların yetişkin sayıldıkları güne kadar asla çıkarılmazdı. Bu muskalar, çocukluğun 'korunması gereken' kutsal bir dönem olduğunu simgeliyordu.",
+      "misconception": "Eskiden çocukların hiç sevilmediği sanılır; oysa mezar taşlarındaki yazıtlar ve yas tutma ritüelleri, ebeveynlerin çocuk kaybı karşısında bugünle aynı derin acıyı yaşadığını gösterir.",
+      "themes": [
+        "Toplum",
+        "Günlük Hayat",
+        "Aile"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "Children in Ancient Greece and Rome - British Museum",
+          "url": "https://www.britishmuseum.org/blog/growing-ancient-greece-and-rome",
+          "type": "archive"
+        },
+        {
+          "title": "The History of Childhood - Britannica",
+          "url": "https://www.britannica.com/topic/childhood",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "medieval-city-diet",
+        "ancient-roman-day",
+        "medieval-night-life"
+      ],
+      "nextTopics": [
+        "Eğitim Tarihi",
+        "Oyuncaklar",
+        "Aile Yapısı"
+      ],
+      "difficulty": "medium",
+      "era": "Antik Çağ",
+      "region": "Küresel",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "aile",
+        "antik-a",
+        "gnlk-hayat",
+        "kresel",
+        "toplum"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Filmdeki anlatımlerde çocuklar ya sefil sokak çocukları ya da saraylardaki küçük prensler olarak resmedilir. Oysa tarihsel gerçeklikte orta sınıf bir Romalı veya esnaf bir Orta Çağ çocuğu, hem oyun oynuyor hem de çıraklık yoluyla hayata hazırlanıyordu.",
+      "whyItMatters": "Bu muskalar, çocukluğun 'korunması gereken' kutsal bir dönem olduğunu simgeliyordu.",
+      "quickRealityCheck": "Eskiden çocukların hiç sevilmediği denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": ""
+    },
+    {
+      "id": "night-fears-pre-lighting",
+      "title": "Karanlığın Hakimiyeti: Aydınlanma Öncesi Gece Korkusu",
+      "subtitle": "Modern ışıklandırmadan önce insanın geceyle olan tehlikeli ilişkisi.",
+      "mediaType": "general",
+      "mediaTitle": "Günlük Hayat",
+      "mediaConnection": "Bu kart, elektrik öncesi dünyada gecenin yarattığı fiziksel ve psikolojik etkileri inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (Royal Observatory, Britannica, History of the Night)",
+      "whatWeSee": "Filmlerde gece sahneleri genellikle loş bir ışıkla her şeyin görülebildiği bir ortamdır; karakterler meşalelerle rahatça her yere giderler.",
+      "realHistory": "Elektrik öncesi dünyada gece, sadece karanlık değil, devlet otoritesinin sona erdiği ve 'kaosun' başladığı hukuki bir sınırdı. 1667 yılında Paris'te ilk sokak lambalarının (yağ lambaları) kurulması, tarihte ilk kez 'kamusal alanın' geceye taşınması ve suçla mücadelede bir devrimdir. İnsanlar, gece havasının 'Miasma' (zehirli koku) taşıdığına ve hastalık yaydığına inandıkları için pencerelerini sıkıca kapatır, bu da iç mekanlardaki hava kalitesini düşürürdü. Şehirlerde gece güvenliği, 'Watchmen' (gece bekçileri) loncaları tarafından sağlanır; bu bekçiler her saat başı 'Her şey yolunda' diye bağırarak halkın uyku güvenliğini teyit ederlerdi. Karanlıkta yön bulmak için 'Link-boys' adı verilen ve ellerinde meşalelerle para karşılığı insanlara rehberlik eden yoksul çocuklar birer 'canlı fener' görevi görürdü. Yapay ışığın yetersizliği, ayın evrelerini ve yıldızların konumunu günlük navigasyonun ve tarımsal faaliyetlerin ayrılmaz bir parçası haline getirmişti.",
+      "accuracyNote": "Filmlerde gece sahneleri genellikle loş bir ışıkla her şeyin görülebildiği bir ortamdır. Ancak gerçek bir Orta Çağ gecesinde elinizi önünüzde göremezdiniz; bu da insanların duyularının (özellikle işitme) bugünkünden çok daha keskin olmasına neden olmuştur. Gece duyulan her ses, hayati bir tehdit veya doğaüstü bir uyarı olarak yorumlanırdı.",
+      "whyInteresting": "Şehirlerde ilk sokak lambaları 17. yüzyıl sonunda suç oranını azaltmak için kurulmaya başlanmıştır. Bu gelişme, 'kamusal alan' kavramını geceye taşımış ve insanlığın 'gece hayatı' dediğimiz kültürü ilk kez keşfetmesini sağlamıştır.",
+      "misconception": "Gecenin her zaman bugünkü gibi \"sessiz ve huzurlu\" olduğu sanılır; oysa elektrik öncesi gece, insanın en derin korkularıyla yüzleştiği ve tamamen savunmasız kaldığı bir zaman dilimiydi.",
+      "themes": [
+        "Psikoloji",
+        "Günlük Hayat",
+        "Kültür"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "At Days Close: Night in Times Past - A. Roger Ekirch",
+          "url": "https://www.britannica.com/science/circadian-rhythm",
+          "type": "book"
+        },
+        {
+          "title": "History of Street Lighting - Science Museum",
+          "url": "https://www.sciencemuseum.org.uk/objects-and-stories/lighting-darkness",
+          "type": "archive"
+        }
+      ],
+      "relatedCardIds": [
+        "pre-clock-time",
+        "ancient-roman-day",
+        "medieval-night-life"
+      ],
+      "nextTopics": [
+        "Karanlık Çağlar",
+        "Aydınlanma",
+        "Uykunun Tarihi"
+      ],
+      "difficulty": "deep",
+      "era": "Orta Çağ",
+      "region": "Küresel",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "gnlk-hayat",
+        "kltr",
+        "kresel",
+        "orta-cag",
+        "psikoloji"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Filmdeki anlatımlerde gece sahneleri genellikle loş bir ışıkla her şeyin görülebildiği bir ortamdır. Günlük Hayat sahne diliyle konuyu yoğunlaştırır; kayıtlar ise aynı konuyu daha parçalı bir çerçevede anlatır.",
+      "whyItMatters": "Aydınlatma eksikliği, gece hayatını ve suç algısını doğrudan şekillendiren bir kentsel sorundu.",
+      "quickRealityCheck": "Gecenin her zaman bugünkü gibi \"sessiz ve huzurlu\" olduğu denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": ""
+    },
+    {
+      "id": "crusaders-poverty-myth",
+      "title": "Haçlı Seferleri: İnanç mı, Yoksa Ekonomik Bunalım mı?",
+      "subtitle": "Haçlıların sadece dini nedenlerle yola çıktığı efsanesinin ötesi.",
+      "mediaType": "general",
+      "mediaTitle": "Tarihi Yanılgı",
+      "mediaConnection": "Haçlı Seferleri nin arkasındaki sosyo-ekonomik nedenler.",
+      "verificationStatus": "verified",
+      "readingTimeMinutes": 2,
+      "themes": [
+        "Orta Çağ",
+        "Ekonomi",
+        "Savaş"
+      ],
+      "sources": [
+        {
+          "title": "Cruisades: Motives for Participation (Britannica)",
+          "url": "https://www.britannica.com/event/Crusades/Motives-for-participation",
+          "type": "official"
+        },
+        {
+          "title": "The Economics of the Crusades (The Medieval Review)",
+          "url": "https://scholarworks.iu.edu/journals/index.php/tmr",
+          "type": "academic"
+        }
+      ],
+      "realHistory": "Haçlı Seferleri'ne katılanların sadece 'servet arayan fakirler' olduğu düşüncesi büyük bir yanılgıdır. Yapılan araştırmalar, bir şövalyenin Kutsal Topraklar'a gitme maliyetinin, yıllık gelirinin yaklaşık dört katı olduğunu göstermektedir. Bu, birçok soylunun sefere çıkabilmek için topraklarını ipotek ettirdiği veya sattığı anlamına gelir. Yani Haçlılar, 'zenginleşmek' için değil, genellikle dini bir kefaret ödemek veya feodal görevlerini yerine getirmek için büyük bir ekonomik risk almışlardır. Elbette yağma ve yeni toprak kazanma arzusu mevcuttu, ancak bu motivasyon, seferlerin temelindeki dini ve ideolojik itici gücün gerisindeydi. Birinci Haçlı Seferi'nin başarısı, beklenen zenginlikten ziyade, katılımcıların bu büyük ekonomik fedakarlığı göze alabilmesiyle mümkün olmuştur.\n\nHaçlı Seferleri nin arkasındaki sosyo-ekonomik nedenler.\n\nBu örnek Birçok Haçlı lordu açısından önem taşır, Avrupa daki borçlarından kurtulmak için Doğu ya gitmiştir.\n\nİlgili başlıklar arasında Feodalizm ve Kudüs gibi konular, aynı dönemin kurumları ve günlük pratikleri hakkında ek ipuçları verir.\n\nTarihî kayıtlar, birçok Haçlı lordu, Avrupa daki borçlarından kurtulmak için Doğu ya gitmiştir — bu iddia kaynaklarla ne kadar örtüşüyor?\n\nİlgili başlıklar arasında Feodalizm ve Kudüs, aynı dönemin kurumları ve günlük uygulamaları hakkında ek okuma yolları sunar.",
+      "whatWeSee": "Filmlerde sadece şövalyeler ve dini nutuklar gösterilir.",
+      "whyInteresting": "Birçok Haçlı lordu, Avrupa daki borçlarından kurtulmak için Doğu ya gitmiştir.",
+      "accuracyNote": "Ekonomik nedenler dini inancı yok saymaz, onu tamamlar.",
+      "nextTopics": [
+        "Feodalizm",
+        "Kudüs",
+        "Tapınak Şövalyeleri"
+      ],
+      "difficulty": "deep",
+      "relatedCardIds": [
+        "medieval-magic-vs-reason",
+        "vikings-not-only-raiders",
+        "pirates-democracy-myth"
+      ],
+      "sourceQuality": "Verified sources used.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "ekonomi",
+        "orta-cag",
+        "savas",
+        "tarihi-yanlg"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Tarihi Yanılgı bu konuyu sahne diliyle yoğunlaştırır; ekonomik nedenler dini inancı yok saymaz, onu tamamlar.",
+      "whyItMatters": "Birçok Haçlı lordu, Avrupa daki borçlarından kurtulmak için Doğu ya gitmiştir.",
+      "quickRealityCheck": "Birçok Haçlı lordu, Avrupa daki borçlarından kurtulmak için Doğu ya gitmiştir — bu iddia kaynaklarla ne kadar örtüşüyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

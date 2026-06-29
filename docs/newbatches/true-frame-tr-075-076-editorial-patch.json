@@ -1,0 +1,477 @@
+{
+  "patchId": "tr-chunks-075-076-source-aware-patch",
+  "locale": "tr",
+  "sourceChunks": [
+    75,
+    76
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-editorial-qa",
+  "summary": {
+    "cardCount": 8,
+    "approvedAsIs": [],
+    "minorEdit": [],
+    "rewrite": [
+      "tf26-167-mission-control",
+      "tf26-169-risk",
+      "tf26-170-public-memory",
+      "tf26-171-speakeasies",
+      "tf26-173-temperance",
+      "tf26-174-federal-enforcement"
+    ],
+    "flagshipRewrite": [
+      "tf26-168-computers-transition",
+      "tf26-172-bootlegging"
+    ],
+    "sourceUpdates": [
+      "tf26-167-mission-control",
+      "tf26-168-computers-transition",
+      "tf26-169-risk",
+      "tf26-170-public-memory",
+      "tf26-171-speakeasies",
+      "tf26-172-bootlegging",
+      "tf26-173-temperance",
+      "tf26-174-federal-enforcement"
+    ],
+    "notes": [
+      "Görev kontrol kartında Mercury dönemi Cape Canaveral kontrol yapısı ile daha sonraki Houston/JSC Mission Control ayrımı netleştirildi.",
+      "Hidden Figures/NASA kartlarında tekrar eden paragraflar ve generic subtitle/mediaChanged alanları temizlendi; Langley human computers, FORTRAN/IBM geçişi ve kamusal hafıza daha kaynaklı hale getirildi.",
+      "Boardwalk Empire/Prohibition kartlarında speakeasy, bootlegging, temperance ve federal enforcement başlıkları yalnız suç dramı olarak değil, hukuk, ekonomi, uygulama kapasitesi ve toplumsal reform bağlamıyla yeniden kuruldu."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-167-mission-control",
+      "reviewStatus": "rewrite",
+      "notes": "Tekrarlı realHistory blokları temizlendi; Mercury dönemi kontrol yapısı ile Houston/JSC Mission Control karıştırılmadan, hesap emeği ve konsol karar zinciri birlikte anlatıldı.",
+      "fields": {
+        "subtitle": "Konsol odasının arkasındaki hesap ağı",
+        "whatWeSee": "Hidden Figures, klasik anlamda görev kontrol odasını merkeze almaz; odağı Langley’deki hesap emeği, Mercury dönemi uçuş baskısı ve görünmeyen teknik doğrulamadır. Buna rağmen film, yerdeki sayıların kapsüldeki astronot güvenliğine nasıl bağlandığını iyi hissettirir. Popüler hafızada görev kontrol çoğu zaman beyaz gömlekli erkeklerin kulaklıkla komut verdiği tek oda olarak kalır; film bu görüntünün arkasındaki matematik, veri ve emek ağını görünür kılar.",
+        "realHistory": "ABD insanlı uzay uçuşlarında görev kontrol, tek bir kahraman masası değil, farklı kurumlar ve uzmanlıkların birbirine bağlandığı bir karar sistemiydi. Mercury döneminde uçuş kontrolünün ana merkezi Cape Canaveral’daki Mercury Control Center’dı; Houston’daki Mission Control ise Gemini ve Apollo dönemlerinde simgeleşti. Bu ayrım önemli: Hidden Figures’ın ana zaman çizgisi Mercury hesaplarıyla ilişkilidir, bu yüzden doğrudan Apollo Houston odası gibi okunmamalıdır.\n\nGörev kontrolün gücü konsollarda görünen sakinlikten değil, o konsollara akan doğrulanmış veriden geliyordu. Yörünge, iletişim, tıbbi izleme, yakıt, rehberlik ve yeniden giriş gibi başlıklar ayrı uzmanlıklar tarafından takip edildi. Bir kararın uçuş direktörüne ulaşması, önceden yazılmış prosedürler, simülasyonlar ve sayısal doğrulama zinciri sayesinde mümkün oluyordu. Langley’deki insan bilgisayarlar ve erken elektronik hesap sistemleri bu zincirin görünmeyen tarafını oluşturdu.\n\nApollo 13 gibi krizler, görev kontrol kültürünün neden bu kadar disiplinli kurulduğunu gösterdi: sorun uzay aracında yaşansa bile çözüm çoğu zaman yerdeki ekiplerin veriyi hızla yorumlamasına bağlıydı. Hidden Figures bu sistemi tek oda dramı olarak anlatmaz; daha değerli bir şey yapar. O odanın arkasındaki hesap emeğini, özellikle kadın ve Siyah uzmanların katkısını hatırlatır.",
+        "accuracyNote": "Film görev kontrolü dolaylı gösterir. Mercury dönemi için Cape Canaveral kontrol yapısı, Apollo için Houston/JSC Mission Control ayrımı korunmalıdır.",
+        "whyInteresting": "Uzay uçuşunda karar, ekrandaki konsol kadar o konsola veri taşıyan görünmez doğrulama emeğine de bağlıydı.",
+        "misconception": "Görev kontrolün yalnız Houston’daki birkaç erkek mühendisten ibaret olduğu sanılır; Mercury, Langley hesap ekipleri, takip istasyonları ve Houston/JSC gelişimi ayrı halkalardır.",
+        "mediaConnection": "Hidden Figures’ın hesap odası sahneleri, Mercury uçuş kontrolü ve daha sonra Apollo ile simgeleşen Mission Control kültürünün görünmeyen veri altyapısına bağlanır.",
+        "mediaChanged": "Film görev kontrolü doğrudan sahnelemek yerine hesap emeğini öne çıkarır; popüler kültürün tek oda imgesi ise Mercury’den Apollo’ya uzanan çok merkezli kontrol ağını sadeleştirir.",
+        "whyItMatters": "Uzay görevlerinde güvenlik, yalnız astronot cesaretinden değil, yerdeki disiplinli iletişim ve doğrulama zincirinden doğar.",
+        "quickRealityCheck": "Hidden Figures’taki Mercury hesaplarını doğrudan Houston Apollo kontrol odasıyla eşitlemek doğru mu?",
+        "relatedCardIds": [
+          "tf26-161-human-computers",
+          "tf26-163-mercury-program",
+          "tf26-164-apollo-11"
+        ],
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "NASA - JSC Mission Control Center",
+            "url": "https://www.nasa.gov/johnson/jsc-mission-control-center/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "NASA - Apollo Mission Control Center Restoration",
+            "url": "https://www.nasa.gov/johnson/history/apollo-mcc-restoration/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "NASA - Project Mercury Overview",
+            "url": "https://www.nasa.gov/project-mercury/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Smithsonian National Air and Space Museum - Katherine Johnson, Hidden Figures, and John Glenn's Flight",
+            "url": "https://airandspace.si.edu/stories/editorial/glenn-johnson-hidden-figures",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-168-computers-transition",
+      "reviewStatus": "flagship_rewrite",
+      "notes": "Flagship kart 400+ kelimelik başlıklı yapıya genişletildi; IBM/FORTRAN geçişi ani iş kaybı değil, insan uzmanlığının yeniden konumlanması olarak kuruldu.",
+      "fields": {
+        "subtitle": "Makine gelince insan hesabı bitmedi",
+        "whatWeSee": "Hidden Figures, NASA’daki bilgisayara geçişi güçlü bir dramatik eşik olarak gösterir. IBM odası açılır, kod bilenler öne çıkar, eski hesap ekiplerinin geride kalma korkusu görünür olur. Film bu dönüşümü yalnız teknik yenilik değil, mesleki hayatta kalma ve eşitlik mücadelesi olarak anlatır. Bu duygu doğru; ama tarihsel süreç, tek günde insan bilgisayardan makineye geçiş değil, yıllarca süren karma bir öğrenme dönemiydi.",
+        "realHistory": "### İnsan bilgisayar dönemi\n\nNACA ve erken NASA yıllarında “computer” kelimesi önce bir makineyi değil, hesap yapan insanı ifade ediyordu. Langley’de 1930’lardan itibaren kadın hesap ekipleri rüzgâr tüneli verilerini işledi, uçuş tabloları hazırladı, aerodinamik deneyleri sayısal raporlara çevirdi ve mühendislerin karar vermesini sağlayan sonuçları kontrol etti. Bu iş basit büro işi değildi; ölçüm, tekrar, hata ayıklama ve mühendislik dilini anlama gerektiriyordu. West Area Computing’de çalışan Siyah kadın matematikçiler, bu emeği Jim Crow düzeninin ayrımcı sınırları içinde yürüttü.\n\n### Elektronik makineye geçiş\n\n1958’de NASA’nın kurulması ve uzay yarışının hızlanması veri hacmini büyüttü. Elektronik bilgisayarlar, özellikle IBM sistemleri ve ana bilgisayar odaları, daha hızlı işlem kapasitesi sağladı. Fakat bu makineler kendi başına güven üretmedi. Programların yazılması, çıktının anlamlandırılması, hatalı girişlerin yakalanması ve kritik sonuçların insan uzmanlarca kontrol edilmesi gerekiyordu. Bu yüzden geçiş, “insan yerine makine” formülünden çok “insan becerisinin makineyle yeniden örgütlenmesi” şeklinde ilerledi.\n\nDorothy Vaughan’ın hikâyesi bu dönüşümün en güçlü örneklerinden biridir. Vaughan, West Area Computing’i yönettikten sonra FORTRAN öğrenerek kendisini ve ekibini elektronik hesaplama çağında vazgeçilmez kılmaya çalıştı. NASA biyografileri, 1958’de ayrılmış tesislerin kaldırılmasından sonra eski West Computers çalışanlarının Analysis and Computation Division gibi daha entegre yapılara geçtiğini ve Vaughan’ın FORTRAN uzmanlığı geliştirdiğini aktarır. Bu, teknolojik değişimin yalnız cihaz alımı değil, beceri ve kurum dönüşümü olduğunu gösterir.\n\n### Değişimin eşitlik boyutu\n\nBilgisayara geçiş aynı zamanda fırsat ve risk üretti. Yeni programlama rolleri bazı kadınların teknik statüsünü artırdı; fakat eski ayrımcılık kalıpları bir anda kaybolmadı. Kimlerin eğitime eriştiği, kimlerin toplantıya çağrıldığı ve kimlerin teknik karar zincirinde görünür olduğu hâlâ kurum kültürüyle belirleniyordu. Hidden Figures’ın kişisel direnç anlatısı bu yüzden tarihsel olarak anlamlıdır: teknoloji değişirken eşitlik kendiliğinden gelmedi, insanlar yeni beceriyi hak ettikleri yere geçmek için kullandı.\n\n### Bugüne kalan ders\n\nBu kartın güncel değeri de burada yatar. NASA’daki geçiş, otomasyonun insanı basitçe dışarı atmadığını; işi parçaladığını, bazı görevleri dönüştürdüğünü ve yeni doğrulama katmanları yarattığını gösterir. İnsan bilgisayarlar elektronik sistemlerin rakibi değil, erken dönemde onların denetleyicisi, kullanıcısı ve eğiticisi oldu. Hidden Figures bu geçişi dramatik bir eşik gibi sıkıştırır; tarihsel gerçek ise daha öğreticidir: teknolojik dönüşümde ayakta kalanlar yalnız eski işi koruyanlar değil, kendi uzmanlığını yeni sistemin diline çevirebilenlerdir.",
+        "accuracyNote": "Film IBM/FORTRAN geçişini dramatik biçimde yoğunlaştırır; tarihsel süreç Langley’de insan bilgisayar emeği, elektronik hesaplama ve yeniden beceri kazanımının birlikte ilerlediği daha uzun bir dönemdir.",
+        "whyInteresting": "Geçmişteki bu teknoloji dönüşümü, bugünkü otomasyon ve yapay zekâ tartışmalarına çok erken bir tarihsel ayna tutar.",
+        "misconception": "Elektronik bilgisayarların gelmesiyle insan hesapçıların bir gecede gereksiz kaldığı sanılır; gerçekte yeni makinelerin kurulması insan doğrulaması, programlama ve yeniden eğitim gerektirdi.",
+        "mediaConnection": "Hidden Figures’ın IBM/FORTRAN hattı, NASA Langley’deki insan bilgisayarların elektronik hesaplama çağına geçişini kişisel hikâyeler üzerinden görünür kılar.",
+        "mediaChanged": "Film geçişi tek bir kariyer kırılması gibi anlatır; arşivler insan ve makine hesaplamanın yıllarca birlikte çalıştığını, eski ekiplerin programlama ve doğrulama rollerine geçtiğini gösterir.",
+        "whyItMatters": "Teknoloji değişiminde asıl soru yalnız hangi makinenin geldiği değil, insan uzmanlığının yeni sistemde nasıl yeniden değerlendirildiğidir.",
+        "quickRealityCheck": "IBM bilgisayarları gelince Langley’deki insan bilgisayarlar devre dışı mı kaldı, yoksa yeni sistemlerin programcısı ve denetleyicisi mi oldular?",
+        "relatedCardIds": [
+          "tf26-161-human-computers",
+          "tf26-162-segregation",
+          "tf26-165-katherine-johnson"
+        ],
+        "readingTimeMinutes": 3,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "NASA - When the Computer Wore a Skirt: Langley’s Computers, 1935–1970",
+            "url": "https://www.nasa.gov/history/langleys-computers-1935-1970/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "NASA - Dorothy Vaughan",
+            "url": "https://www.nasa.gov/people/dorothy-vaughan/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "NASA - A Human Computer Hidden No More",
+            "url": "https://www.nasa.gov/image-article/human-computer-hidden-no-more/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "National Park Service - Places of Hidden Figures",
+            "url": "https://www.nps.gov/articles/000/places-of-hidden-figures.htm",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-169-risk",
+      "reviewStatus": "rewrite",
+      "notes": "Generic subtitle ve zayıf kaynaklar düzeltildi; risk anlatısı roket arızası, yeniden giriş koridoru, insan-makine doğrulaması ve görev kontrol karar kültürü etrafında yeniden yazıldı.",
+      "fields": {
+        "subtitle": "Cesaret değil, doğrulanmış tolerans",
+        "whatWeSee": "Hidden Figures’te risk, yalnız roketin patlama ihtimali olarak değil, hesap masasında başlayan bir karar zinciri olarak görünür. Bir sayının yanlış çıkması, kapsülün yanlış açıyla dönmesi ya da zamanlamanın kayması astronotun hayatını değiştirebilir. Film bu gerilimi kişisel baskıyla anlatır; gerçek tarih ise riskin sayılar, testler, simülasyonlar ve kabul edilebilir toleranslarla yönetildiğini gösterir.",
+        "realHistory": "Erken insanlı uzay uçuşlarında risk çok katmanlıydı. Roket motoru arızası, rehberlik sapması, haberleşme kaybı, ısı kalkanı hasarı, paraşüt problemi ve okyanus kurtarma gecikmesi aynı görevin farklı aşamalarında ölümcül olabilir. Project Mercury’nin amacı yalnız bir insanı uzaya göndermek değildi; insanın uzay ortamında çalışıp çalışamayacağını ölçmek ve onu güvenli biçimde geri getirmekti.\n\nBu yüzden yeniden giriş hesapları kritik hale geldi. Kapsül atmosfere çok dik girerse aşırı ısı ve yapısal yük riski artar; çok sığ girerse doğru iniş koridoru kaçabilir. Katherine Johnson’ın John Glenn uçuşu öncesinde elektronik bilgisayar çıktılarını elle kontrol etmesi, bu güvenlik kültürünün sembolüdür. Burada mesele makineye güvensizlik değil, yeni bir teknolojinin insan uzmanlığıyla doğrulanmasıydı.\n\nRisk yönetimi, “sıfır risk” iddiasıyla değil, hatayı erken yakalayan sistemle çalıştı. Yer testleri, uçuş öncesi simülasyonlar, kontrol listeleri, yedekli sistemler ve görev kontrol prosedürleri riskleri azaltmak için kullanıldı. Hidden Figures bu teknik süreci birkaç dramatik ana sıkıştırır; fakat ana fikir doğrudur: uzay yarışı, kahramanlık kadar ölçüm disiplini ve hata toleransı yarışıdır.",
+        "accuracyNote": "Film teknik riskleri dramatik ritimle hızlandırır; Mercury güvenliği ise yeniden giriş hesapları, doğrulama zinciri ve sistem testleriyle yönetilen daha geniş bir süreçtir.",
+        "whyInteresting": "Uzay uçuşunun cesur tarafı kadar etkileyici olan şey, belirsizliği sayıya ve prosedüre çevirme çabasıdır.",
+        "misconception": "Erken uzay uçuşlarının neredeyse tamamen astronot cesaretiyle başarıldığı sanılır; gerçekte sonuç, çok katmanlı risk azaltma ve hesap doğrulama sistemine bağlıydı.",
+        "mediaConnection": "Hidden Figures’taki kritik hesap sahneleri, Mercury döneminin yeniden giriş, doğrulama ve görev güvenliği risklerine doğrudan bağlanır.",
+        "mediaChanged": "Film riski kişisel gerilimle görünür kılar; tarihsel kaynaklar aynı gerilimin test, simülasyon, elektronik hesap ve insan denetimi arasında paylaşıldığını gösterir.",
+        "whyItMatters": "Teknolojik ilerleme, yalnız sınırları zorlamakla değil, o sınırları ölçüp güvenli karar diline çevirmekle mümkün olur.",
+        "quickRealityCheck": "Bir uzay görevini güvenli yapan şey yalnız cesaret mi, yoksa tekrar tekrar doğrulanan tolerans sınırları mı?",
+        "relatedCardIds": [
+          "tf26-163-mercury-program",
+          "tf26-165-katherine-johnson",
+          "tf26-167-mission-control"
+        ],
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "NASA - Project Mercury Overview",
+            "url": "https://www.nasa.gov/project-mercury/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "NASA - Katherine Johnson Biography",
+            "url": "https://www.nasa.gov/centers-and-facilities/langley/katherine-johnson-biography/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Smithsonian National Air and Space Museum - Katherine Johnson, Hidden Figures, and John Glenn's Flight",
+            "url": "https://airandspace.si.edu/stories/editorial/glenn-johnson-hidden-figures",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-170-public-memory",
+      "reviewStatus": "rewrite",
+      "notes": "Tekrarlı son cümle ve generic subtitle temizlendi; uzay hafızası astronot merkezli kamu imgesi ile arşivlerdeki Langley emeği arasındaki gerilim üzerinden yeniden kuruldu.",
+      "fields": {
+        "subtitle": "Ayak izi görünür, hesap defteri sessiz",
+        "whatWeSee": "Hidden Figures, uzay yarışının kamusal hafızasını astronot portrelerinden çıkarıp Langley’deki Siyah kadın matematikçilere çevirir. Roket ve canlı yayın hâlâ önemlidir; fakat film, o görüntülerin arkasındaki hesap masalarını, ayrımcılık engellerini ve kurumsal görünmezliği merkeze alır. Böylece uzay başarısı yalnız “kim uzaya çıktı?” sorusuyla değil, “kimlerin emeği hatırlandı?” sorusuyla okunur.",
+        "realHistory": "ABD uzay programının kamusal hafızası uzun süre astronotlar, uçuş direktörleri ve beyaz erkek mühendisler etrafında şekillendi. Apollo 11 yayını küresel bir medya olayına dönüştü; Ay’a ilk adım, Soğuk Savaş prestijinin en güçlü simgelerinden biri oldu. Ancak bu simgenin arkasında Langley’deki insan bilgisayarlar, rüzgâr tüneli verileri, uçuş tabloları, yeniden giriş hesapları ve programlama geçişi vardı.\n\nKatherine Johnson, Dorothy Vaughan ve Mary Jackson’ın geç dönemde yeniden görünür olması, yalnız bireysel bir telafi hikâyesi değildir. NASA arşivleri, sözlü tarih çalışmaları, müze anlatıları ve Hidden Figures gibi popüler kültür ürünleri, uzay tarihinin kimin adıyla anlatıldığını değiştirdi. Johnson’ın 2015’te Presidential Medal of Freedom alması ve sonrasında NASA tesisleri ile eğitim programlarında bu isimlerin daha görünür hale gelmesi, hafızanın zamanla düzeltilebildiğini gösterir.\n\nYine de bu düzeltme, geçmişteki eşitsizliği tamamen ortadan kaldırmaz. Kimin anıtlaştırıldığı, kimin dipnotta kaldığı ve hangi emeğin “destek işi” sayıldığı tarih yazımının politik sorularıdır. Hidden Figures’ın önemi burada yatar: uzay başarısının duygusunu azaltmadan, o başarının daha adil bir emek haritasını çizer.",
+        "accuracyNote": "Johnson, Vaughan ve Jackson’ın katkıları NASA ve müze kaynaklarıyla güçlü biçimde belgelenmiştir; film bazı olayları zaman ve karakter ekonomisi için birleştirir.",
+        "whyInteresting": "Aynı uzay başarısı, bir yanda ulusal destan; diğer yanda geç tanınmış emek ve eşitlik mücadelesi olarak iki farklı hafıza üretir.",
+        "misconception": "Uzay yarışının yalnız Cape Canaveral, Houston ve astronotlarla kazanıldığı sanılır; Langley’deki hesap ekipleri bu başarının temel parçalarından biriydi.",
+        "mediaConnection": "Hidden Figures, NASA’nın insan bilgisayar arşivleriyle popüler hafıza arasındaki boşluğu kapatmaya çalışan bir yeniden görünür kılma anlatısıdır.",
+        "mediaChanged": "Film görünmeyen emeği duygusal merkez yapar; arşivler bu emeğin yıllara yayılan teknik üretim, ayrımcılık ve geç tanınma hikâyesi olduğunu gösterir.",
+        "whyItMatters": "Büyük teknoloji anlatıları, yalnız neyin başarıldığıyla değil, başarıyı mümkün kılan insanların nasıl hatırlandığıyla da şekillenir.",
+        "quickRealityCheck": "Apollo ve Mercury hafızasında ekranda görünen kahramanlar dışında hangi hesap ve doğrulama ekipleri vardı?",
+        "relatedCardIds": [
+          "tf26-161-human-computers",
+          "tf26-162-segregation",
+          "tf26-168-computers-transition"
+        ],
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "NASA - When the Computer Wore a Skirt: Langley’s Computers, 1935–1970",
+            "url": "https://www.nasa.gov/history/langleys-computers-1935-1970/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "NASA Science - Katherine Johnson",
+            "url": "https://science.nasa.gov/people/katherine-johnson/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "National Park Service - Places of Hidden Figures",
+            "url": "https://www.nps.gov/articles/000/places-of-hidden-figures.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Smithsonian Magazine - The True Story of Hidden Figures",
+            "url": "https://www.smithsonianmag.com/history/the-true-story-of-hidden-figures-and-the-black-women-who-helped-win-the-space-race-180961339/",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-171-speakeasies",
+      "reviewStatus": "rewrite",
+      "notes": "Generic subtitle temizlendi; speakeasy kartı yalnız gizli bar estetiği değil, yasa uygulama açığı, caz/gece hayatı, rüşvet ve sınıfsal/ırksal temas alanı olarak yeniden yazıldı.",
+      "fields": {
+        "subtitle": "Yasağın arka kapıdan açtığı gece hayatı",
+        "whatWeSee": "Boardwalk Empire’da speakeasy, yalnız içki saklanan bir bodrum değil; politikacı, polis, kaçakçı, müzisyen ve müşteri arasındaki görünmez anlaşmaların sahnesidir. Şifreli girişler, arka kapılar, caz müziği ve kalabalık masalar, yasa dışı olanın şehir hayatında nasıl sıradanlaştığını gösterir. Dizi bu atmosferi suç gerilimiyle büyütür; gerçek tarih ise speakeasy’lerin aynı zamanda eğlence, tüketim ve sosyal dönüşüm alanı olduğunu gösterir.",
+        "realHistory": "Prohibition döneminde 18. Değişiklik ve Volstead Yasası alkol üretimi, satışı ve taşınmasını yasakladı; talep ise ortadan kalkmadı. Bu boşluk speakeasy kültürünü büyüttü. New York, Chicago, Atlantic City ve daha küçük kentlerde mekanlar çok farklı ölçeklerde çalıştı: kimi birkaç masalık gizli oda, kimi rüşvet ve siyasi korumayla neredeyse açık kulüp gibiydi.\n\nBu mekanların “kimsenin bilmediği gizli yerler” olduğu fikri abartılıdır. Birçoğu mahalle düzeyinde bilinir, polis baskınından çok doğru ilişki ağıyla ayakta kalırdı. Gizlilik çoğu zaman gerçek saklanmadan çok hukuki mesafeyi koruma, rakiplerden kaçınma ve rüşvet zincirini yönetme biçimiydi. Kadınların gece hayatına daha görünür katılması, caz müziğinin yayılması ve farklı sınıfların aynı mekânda buluşması da speakeasy’leri yalnız suç tarihi değil kültür tarihi meselesi yapar.\n\nYine de bu özgürlük eşit değildi. Irk ayrımı, giriş ücretleri, güvenlik seçimi ve polis koruması bazı mekanlarda yeni dışlama biçimleri üretti. Boardwalk Empire’ın doğru yakaladığı şey, speakeasy’nin bir şehir aynası olmasıdır: kâğıt üzerindeki yasa ile sokaktaki toplumsal pratik arasındaki fark burada görünür hale gelir.",
+        "accuracyNote": "Dizi speakeasy atmosferini ve yolsuzluk bağlamını doğru yakalar; ancak mekanların ölçeği, açıklığı ve sosyal işlevi şehirden şehre değişiyordu.",
+        "whyInteresting": "Yasa dışı bir barın aynı anda kültürel yenilik merkezi, rüşvet ekonomisi ve toplumsal temas alanı olabilmesi Prohibition dönemini benzersiz kılar.",
+        "misconception": "Speakeasy’lerin tamamen gizli ve sadece gangsterlerin bildiği yerler olduğu sanılır; birçok mekan kentlilerin bildiği ama resmen inkâr edilen alanlardı.",
+        "mediaConnection": "Boardwalk Empire’ın speakeasy sahneleri, Prohibition kentlerinde alkol yasağının caz, gece hayatı ve yerel siyasetle nasıl birleştiğini gösteren tarihsel zemine dayanır.",
+        "mediaChanged": "Dizi mekanları suç dramı için yoğunlaştırır; tarihsel gerçeklikte speakeasy aynı zamanda gündelik eğlence, modern tüketim ve hukukla toplumsal pratik arasındaki kopuş alanıydı.",
+        "whyItMatters": "Speakeasy kültürü, bir yasağın toplum tarafından benimsenmediğinde nasıl fiili tolerans ve yeraltı ekonomisi üretebildiğini gösterir.",
+        "quickRealityCheck": "Speakeasy’ler gerçekten bilinmeyen gizli sığınaklar mıydı, yoksa birçok şehirde herkesin bildiği ama resmen yok saydığı mekanlar mı?",
+        "relatedCardIds": [
+          "tf26-172-bootlegging",
+          "tf26-173-temperance",
+          "tf26-174-federal-enforcement"
+        ],
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "National Constitution Center - The Eighteenth Amendment",
+            "url": "https://constitutioncenter.org/the-constitution/amendments/amendment-xviii/interpretations/169",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Speakeasy",
+            "url": "https://www.britannica.com/topic/speakeasy",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Mob Museum - The Speakeasies of the 1920s",
+            "url": "https://prohibition.themobmuseum.org/the-history/the-prohibition-underworld/the-speakeasies-of-the-1920s/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Library of Congress - 18th Amendment to the U.S. Constitution",
+            "url": "https://guides.loc.gov/18th-amendment",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-172-bootlegging",
+      "reviewStatus": "flagship_rewrite",
+      "notes": "Flagship kart 400+ kelimelik başlıklı yapıya genişletildi; kaçak içki yalnız mafya şiddeti değil, talep, lojistik, vergi kaybı, federal uygulama ve yerel siyaset ağı olarak kuruldu. Bozuk tag düzeltildi.",
+      "fields": {
+        "subtitle": "Yasak, talebi değil rotaları değiştirdi",
+        "whatWeSee": "Boardwalk Empire, kaçak içkiyi liman depoları, arka oda anlaşmaları, parti fonları ve silahlı rekabet üzerinden anlatır. Atlantic City’de içki kasası yalnız tüketim malı değil, siyasal güç ve şehir yönetimi aracıdır. Dizi kişisel iktidar oyunlarını öne çıkarır; gerçek tarih ise kaçak içkinin çok daha geniş bir ekonomi, lojistik ve uygulama krizi olduğunu gösterir.",
+        "realHistory": "### Yasağın açtığı pazar\n\n1920’de yürürlüğe giren Prohibition, alkol talebini ortadan kaldırmadı; onu yasal ekonomiden yasadışı tedarik zincirlerine taşıdı. 18. Değişiklik ve Volstead Yasası üretim, satış ve taşıma yasağı koyduğunda, büyük şehirlerdeki bar kültürü, göçmen mahallelerindeki içki alışkanlıkları ve orta sınıf eğlence talebi bir anda bitmedi. Bu talep, bootlegging ağlarının temel sermayesi oldu. Smithsonian’ın özetlediği gibi Prohibition, iyi niyetli bir kamu düzeni hedefiyle başlamasına rağmen Amerikalıların içmeyi bırakmaması nedeniyle yasadışı üretim ve dağıtımı hızla büyüttü.\n\n### Lojistik ve para\n\nKaçak içki düzeni yalnız birkaç silahlı gangsterden ibaret değildi. Kanada’dan gelen içki, Karayip rom rotaları, kıyı açıklarında bekleyen gemiler, kamyon ve demiryolu bağlantıları, sahte evraklar, depolar, muhasebeciler ve rüşvet kanalları aynı zincirin parçalarıydı. Büyük kentlerde organize suç grupları bu ağları kontrol etmeye çalıştı; fakat yerel siyasetçiler, polis, liman işçileri, speakeasy sahipleri ve sıradan müşteriler olmadan sistem yaşayamazdı. Boardwalk Empire’ın Atlantic City üzerinden gösterdiği şey bu yüzden tarihsel olarak anlamlıdır: kaçak içki, sokak suçu ile belediye siyaseti arasındaki sınırı bulanıklaştırdı.\n\nŞiddet önemliydi, ama tek açıklama değildi. Esas çekim merkezi kârdı. Yasal pazar kapatıldığında fiyat farkı yükseldi; risk primi kaçak içkiyi pahalı ama çok kârlı bir mala dönüştürdü. Bu gelir, organize suç gruplarına silah, avukat, muhasebe, koruma ve siyasi bağ satın alma kapasitesi verdi.\n\n### Devletin uygulama sınırı\n\nFederal devlet yasağı uygulamaya çalıştı, fakat kapasite baştan sınırlıydı. Treasury/Bureau of Internal Revenue hattı ve daha sonra Prohibition Unit, kaçak üretim ve taşımayı takip etti; Bureau of Investigation ise destek rolü üstlendi. FBI’ın kendi tarih anlatısı bile Prohibition’ın ilk dönemlerinde asıl yükün Treasury’nin vergi ve iç gelir birimlerinde olduğunu vurgular. Federal baskınlar bazı ağları dağıttı, fakat yerel kolluk rüşveti, mahkeme yükü ve halkın yasağa mesafeli yaklaşımı uygulamayı zayıflattı.\n\n### Ters sonuç\n\n1933’te Prohibition’ın sona ermesinde yalnız “insanlar içki istedi” açıklaması yetmez. Federal mahkemelerdeki yük, yolsuzluk, organize suçun büyümesi, Büyük Buhran’ın vergi ihtiyacı ve yasaya saygının aşınması birlikte etkili oldu. Kaçak içki tarihi bu yüzden bugün hâlâ kamu politikası açısından ders niteliğindedir: devlet talebi yok sayıp yalnız yasak koyarsa, pazar kaybolmaz; rotasını, aktörlerini ve şiddet maliyetini değiştirir. Boardwalk Empire bu süreci parlak ve karanlık bir suç dünyası olarak gösterir; tarihsel gerçek, o dünyanın aynı zamanda ekonomi politik bir laboratuvar olduğunu ekler.",
+        "accuracyNote": "Dizinin Atlantic City merkezli güç ağları tarihsel zemine oturur; fakat kaçak içki ekonomisi ulusal ölçekte liman, kara taşımacılığı, rüşvet, federal takip ve tüketici talebinden oluşan daha geniş bir sistemdi.",
+        "whyInteresting": "Prohibition, bir yasağın hedeflediği davranışı bitirmeyip onu daha kârlı, daha örgütlü ve daha yozlaştırıcı bir pazara dönüştürebileceğini gösterir.",
+        "misconception": "Kaçak içki düzeninin yalnız mafya şiddetiyle yürüdüğü sanılır; gerçekte finans, lojistik, yerel koruma ve toplumsal talep sistemi taşıdı.",
+        "mediaConnection": "Boardwalk Empire’ın liman, speakeasy ve arka oda sahneleri, Prohibition ekonomisinin çok aktörlü kaçak tedarik zincirine bağlanır.",
+        "mediaChanged": "Dizi kişisel güç savaşlarını büyütür; tarihsel tabloda kaçak içki, federal uygulama kapasitesi ile toplumun talebi arasındaki boşlukta çalışan sistemik bir ekonomiydi.",
+        "whyItMatters": "Yasak politikalarını değerlendirirken yalnız niyete değil, talebin nereye taşındığına, kimin güçlendiğine ve uygulama maliyetine bakmak gerekir.",
+        "quickRealityCheck": "Prohibition döneminde devlet mi daha hızlı örgütlendi, yoksa talebi karşılayan kaçak tedarik ağları mı?",
+        "relatedCardIds": [
+          "tf26-171-speakeasies",
+          "tf26-174-federal-enforcement",
+          "tf26-177-repeal"
+        ],
+        "readingTimeMinutes": 3,
+        "tags": [
+          "prohibition",
+          "organize-suc",
+          "abd",
+          "kacak-icki",
+          "true-frame"
+        ],
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "National Archives - The Volstead Act",
+            "url": "https://www.archives.gov/education/lessons/volstead-act",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Smithsonian National Museum of American History - Bootlegging",
+            "url": "https://americanhistory.si.edu/explore/exhibitions/american-enterprise/online/corporate-era/bootlegging",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "FBI - The Bureau and the Great Experiment",
+            "url": "https://www.fbi.gov/news/stories/the-bureau-and-the-great-experiment-012420",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Federal Judicial Center - Prohibition in the Federal Courts: A Timeline",
+            "url": "https://www.fjc.gov/history/exhibits/prohibition-in-federal-courts-timeline",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-173-temperance",
+      "reviewStatus": "rewrite",
+      "notes": "Generic subtitle temizlendi; Temperance hareketi yalnız baskıcı ahlakçılık değil, aile içi şiddet/yoksulluk kaygıları, kadın reform örgütleri, modern lobi ve uygulama krizi bağlamıyla dengelendi.",
+      "fields": {
+        "subtitle": "Ahlak reformu, lobi gücü ve ters sonuç",
+        "whatWeSee": "Boardwalk Empire, içki yasağının arkasındaki ahlak dilini kürsüler, yardım toplantıları ve siyasal pazarlıklarla gösterir. Reformcular aileyi ve toplumu korumaktan söz ederken, aynı şehirde kaçak içki, rüşvet ve oy hesabı büyür. Dizi hareketin ikiyüzlülüğe açık yüzünü güçlü anlatır; fakat tarihsel tablo, temperance hareketinin yalnız baskıcı bir proje değil, gerçek sosyal zarar kaygılarından doğan geniş bir reform dalgası olduğunu da hatırlatır.",
+        "realHistory": "Temperance hareketi 19. yüzyılda kilise ağları, kadın örgütleri, iş disiplini tartışmaları ve aile içi şiddet/yoksulluk kaygılarıyla büyüdü. Women’s Christian Temperance Union gibi örgütler, alkolü yalnız kişisel alışkanlık değil, ev içi güvenlik ve sosyal düzen sorunu olarak gördü. Anti-Saloon League ise bu ahlaki dili modern siyasi baskı ve lobi teknikleriyle birleştirerek eyalet ve federal düzeyde etkili oldu. Sonuçta hareket, 18. Değişiklik ve Volstead Yasası’na giden yolu açan ana toplumsal güçlerden biri haline geldi.\n\nAncak bir toplumsal sorunu yasak yoluyla çözme iddiası, sahada beklenenden farklı sonuçlar üretti. Göçmen mahallelerinde, işçi eğlence kültüründe ve büyük kent gece hayatında alkol yasağı geniş kabul görmedi. Uygulama kapasitesi düşük kaldıkça yasa, davranışı dönüştürmekten çok meşru ile gayrimeşru arasındaki çizgiyi yeniden çizdi. Speakeasy’ler, kaçak içki ağları ve yerel rüşvet sistemi bu boşlukta büyüdü.\n\nBu yüzden temperance mirası iki taraflı okunmalıdır. Hareketin çıkışındaki aile, sağlık ve sosyal zarar kaygıları gerçekti; fakat anayasal yasak yöntemi, talebi ve yerel kültürü yeterince hesaba katmadığında ters sonuç üretti. Boardwalk Empire bu gerilimi karakter çatışmasıyla anlatır. Tarihsel ders daha geniştir: kamu ahlakı adına yapılan reform, toplumsal rıza, yerel kapasite ve uygulama gerçekliği olmadan kalıcı sonuç vermez.",
+        "accuracyNote": "WCTU, Anti-Saloon League ve 18. Değişiklik hattı tarihsel olarak güçlüdür; dizide reformcu-siyasetçi ilişkileri dramatik amaçla keskinleştirilmiştir.",
+        "whyInteresting": "Temperance, iyi niyetli sosyal reformun sert yasak politikasına dönüştüğünde nasıl beklenmedik yeraltı ekonomileri üretebildiğini gösterir.",
+        "misconception": "Temperance hareketinin yalnız ikiyüzlü ahlakçılıktan ibaret olduğu sanılır; hareketin tabanında aile içi şiddet, yoksulluk ve sosyal zarar kaygıları da vardı.",
+        "mediaConnection": "Boardwalk Empire’daki reformcu-siyasetçi gerilimi, Temperance hareketinin ahlaki dil ile modern lobi gücünü birleştiren tarihsel yapısına bağlanır.",
+        "mediaChanged": "Dizi çatışmayı karakter düzeyinde yoğunlaştırır; tarihsel süreçte hareket, samimi sosyal kaygılar, dini ağlar, kadın örgütleri ve sert siyasi mühendislik arasında ilerledi.",
+        "whyItMatters": "Kamu politikalarının başarısı yalnız ahlaki hedefe değil, toplumun davranışını nasıl ve hangi araçlarla dönüştüreceğine bağlıdır.",
+        "quickRealityCheck": "Temperance hareketi sadece baskı mıydı, yoksa gerçek sosyal zarar kaygılarını yanlış araçlarla çözmeye çalışan bir reform dalgası mı?",
+        "relatedCardIds": [
+          "tf26-171-speakeasies",
+          "tf26-172-bootlegging",
+          "tf26-176-women-reformers"
+        ],
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Library of Congress - Alcoholic Beverage Industry: Temperance Groups",
+            "url": "https://guides.loc.gov/alcoholic-beverage-industry/for-temperance",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Constitution Annotated - Post-Civil War Temperance Organizations",
+            "url": "https://constitution.congress.gov/browse/essay/amdt18-2-3/ALDE_00013842/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "VCU Libraries Social Welfare History Project - Woman’s Christian Temperance Union",
+            "url": "https://socialwelfare.library.vcu.edu/religious/womens-christian-temperance-union/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Temperance Movement",
+            "url": "https://www.britannica.com/topic/temperance-movement",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-174-federal-enforcement",
+      "reviewStatus": "rewrite",
+      "notes": "Bozuk/generic whyItMatters ve tekrar eden realHistory blokları temizlendi; FBI merkezli yanılgı düzeltilip Treasury/Bureau of Internal Revenue, Prohibition Unit, BOI desteği, federal mahkeme yükü ve yerel koruma ağlarıyla yeniden yazıldı.",
+      "fields": {
+        "subtitle": "Yasak kâğıtta güçlü, sahada zayıf",
+        "whatWeSee": "Boardwalk Empire’da federal ajanlar, baskınlar ve kaçak içki depoları Prohibition’ın resmî yüzünü oluşturur. Dizi, devletin yasağı uygulama iddiasını yerel siyaset, polis koruması ve kaçakçı zekâsıyla sürekli çarpıştırır. Bu dramatik karşılaşma tarihsel olarak yerindedir; fakat uygulama gerçekte tek bir kahraman ajan hattından değil, vergi bürokrasisi, adli takip, yerel kolluk ve federal mahkemeler arasında dağılmış bir sistemden oluşuyordu.",
+        "realHistory": "Prohibition’ın uygulanması baştan sorunluydu. Volstead Yasası, 18. Değişikliği yürürlüğe koyan ayrıntılı çerçeveyi sağladı; ancak ülke çapında milyonlarca insanın gündelik alışkanlığını denetlemek, metni yazmaktan çok daha zordu. İlk yıllarda ana yük Treasury Department içindeki Bureau of Internal Revenue ve Prohibition Unit üzerindeydi. Bureau of Investigation, yani FBI’ın öncülü, bazı soruşturmalarda destek verdi; fakat Prohibition’ı tek başına yürüten kurum değildi.\n\nUygulama zayıflığının birkaç nedeni vardı. Ajan sayısı sınırlıydı, maaş ve eğitim sorunları yaygındı, yerel polis bazen isteksiz bazen de rüşvet ağlarına dahildi. Federal baskınlar kaçak depoları dağıtabilir, birkaç speakeasy’yi kapatabilir veya büyük dava başlatabilirdi; ama talep sürdükçe yeni rota ve yeni ortaklar hızla oluştu. Federal mahkemelerde dava yükü arttı, hukuk sistemi küçük ihlalden büyük organize suç dosyasına kadar geniş bir akışla baş etmek zorunda kaldı.\n\n1930’da Prohibition Unit’in Justice Department’a aktarılması, meselenin yalnız vergi denetimi olmaktan çıkıp organize suç ve adli kapasite sorunu haline geldiğini gösterdi. Yine de bu geçiş yasağın temel açığını kapatmadı: toplumun geniş kesimleri yasağı meşru görmediğinde, devletin zor gücü tek başına kalıcı uyum üretemedi. Boardwalk Empire’ın baskın sahneleri bu sınırı iyi yakalar; tarihsel ders ise daha nettir. Uygulanabilirlik, rıza ve kurum kapasitesi olmadan en sert yasa bile sahada pazarlık konusu haline gelir.",
+        "accuracyNote": "Dizideki baskın ve koruma ağı dinamiği tarihsel temele sahiptir; ancak Prohibition uygulaması FBI’dan çok Treasury/Bureau of Internal Revenue, Prohibition Unit, adli takip ve yerel kolluk ilişkileriyle yürüdü.",
+        "whyInteresting": "Federal devletin kâğıt üzerindeki güçlü yasağı, yerel rüşvet, yüksek talep ve sınırlı uygulama kapasitesi karşısında sürekli aşındı.",
+        "misconception": "Prohibition’ın FBI tarafından tek merkezden yürütüldüğü sanılır; asıl erken ağırlık Treasury ve iç gelir/vergi bürokrasisindeydi, BOI destek rolü oynadı.",
+        "mediaConnection": "Boardwalk Empire’ın federal baskın sahneleri, Volstead Yasası’nın uygulama kayıtları ve Prohibition dönemindeki federal-yel kolluk gerilimiyle tarihsel zemine oturur.",
+        "mediaChanged": "Dizi uygulamayı ajan-kaçakçı çatışması olarak yoğunlaştırır; tarihsel gerçeklikte mahkeme yükü, vergi takibi, yerel rüşvet ve kurumlar arası yetki değişimi belirleyiciydi.",
+        "whyItMatters": "Bir yasağın gerçek gücü, metnindeki sertlikten çok uygulanabilirlik, toplumsal rıza ve kurum kapasitesiyle ölçülür.",
+        "quickRealityCheck": "Prohibition’ı gerçekten FBI mı yürüttü, yoksa ilk yıllarda Treasury ve iç gelir/vergi bürokrasisi mi ana rolü taşıdı?",
+        "relatedCardIds": [
+          "tf26-171-speakeasies",
+          "tf26-172-bootlegging",
+          "tf26-177-repeal"
+        ],
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "National Archives - The Volstead Act",
+            "url": "https://www.archives.gov/education/lessons/volstead-act",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "FBI - The Bureau and the Great Experiment",
+            "url": "https://www.fbi.gov/news/stories/the-bureau-and-the-great-experiment-012420",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "ATF - Prohibition Unit, Bureau of Internal Revenue, U.S. Department of Treasury 1920–1926",
+            "url": "https://www.atf.gov/our-history/historical-articles/prohibition-unit-bureau-internal-revenue-u-s-department-treasury-1920-1926",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Federal Judicial Center - Prohibition in the Federal Courts: A Timeline",
+            "url": "https://www.fjc.gov/history/exhibits/prohibition-in-federal-courts-timeline",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

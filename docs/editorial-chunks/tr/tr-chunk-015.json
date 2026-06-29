@@ -1,0 +1,298 @@
+{
+  "locale": "tr",
+  "chunkIndex": 15,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "marco-polo-court",
+      "title": "Marco Polo ve Kubilay Han’ın Sarayı",
+      "subtitle": "Doğu ve Batı’nın ilk büyük buluşması.",
+      "mediaType": "series",
+      "mediaTitle": "Marco Polo (Netflix)",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Keşif",
+        "Moğollar",
+        "Kültürel Değişim"
+      ],
+      "whatWeSee": "Dizide, Venedikli bir tüccarın Moğol sarayındaki yükselişi ve iki farklı dünyanın kültürel çatışması anlatılır.",
+      "realHistory": "Marco Polo, 13. yüzyılda babası ve amcasıyla birlikte Asya'ya giden Venedikli bir tüccardı. Onu özel kılan şey Çin'e giden ilk Avrupalı olması değil, Yuan dönemi Moğol dünyasını Avrupa okuyucusuna ayrıntılı ve etkili bir anlatıyla aktarmasıydı. Kubilay Han'ın sarayında gördüğünü söylediği kağıt para, kömür kullanımı, posta ağı ve şehir düzeni, Avrupa'daki birçok okur için neredeyse masal gibi görünüyordu.\n\nPolo'nun seyahatnamesi, Moğol barışının ticareti ve hareketliliği nasıl mümkün kıldığını da gösterir. Geniş imparatorluk ağı, tüccarların, elçilerin ve haber taşıyıcılarının daha güvenli ilerleyebildiği bir çerçeve yaratmıştı. Kubilay Han sarayı ise yalnız Moğol askeri gücünün değil, Çin bürokrasisiyle birleşen çok kültürlü bir imparatorluk yönetiminin merkeziydi.\n\nNetflix dizisi Marco Polo'yu çoğu zaman savaşçı, casus ve saray entrikalarının aktif oyuncusu gibi dramatize eder. Tarihsel anlatıda ise onun rolü daha çok gözlemci, elçi ve imparatorluk düzenini Avrupa'ya tercüme eden bir aracıdır. Seyahatnamenin bazı ayrıntıları tartışılsa da, Avrupa'nın Doğu imgesini kalıcı biçimde etkilemiş olması açıktır.",
+      "accuracyNote": "Dizi bazı karakterleri dramatize etse de, Moğol sarayının ihtişamı ve kültürel çeşitliliği tarihsel betimlemelerle örtüşür.",
+      "whyInteresting": "Polo'nun kağıt para ve kömür kullanımı gibi anlattığı ayrıntılar, 13. yüzyıl Avrupası için neredeyse inanılmaz teknolojik farklar gibi görünüyordu.",
+      "misconception": "Marco Polo'nun Çin'e giden ilk Avrupalı olduğu sanılır; oysa babası ve amcası ondan önce bölgeye ulaşmıştı.",
+      "nextTopics": [
+        "İpek Yolu",
+        "Kubilay Han",
+        "Venedik Cumhuriyeti"
+      ],
+      "sources": [
+        {
+          "title": "Marco Polo (Britannica)",
+          "url": "https://www.britannica.com/biography/Marco-Polo",
+          "type": "official"
+        },
+        {
+          "title": "The Travels of Marco Polo (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/article/1173/the-travels-of-marco-polo/",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Seyehatname verileri Britannica ile doğrulandı.",
+      "mediaConnection": "Bu kart, Marco Polo dizisindeki saray ve kültürel çatışma anlatısını Kubilay Han döneminin gerçek seyahat ve imparatorluk ağıyla karşılaştırır.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "keif",
+        "kltrel-deiim",
+        "marco-polo-netflix",
+        "moollar"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Dizi Marco Polo'yu saray entrikalarının savaşçı figürü gibi büyütür; tarihsel anlatıda asıl önemi gözlemci, elçi ve kültür aktarıcısı olmasındadır.",
+      "whyItMatters": "Marco Polo'nun metni, Avrupa'nın Asya'yı hayal etme biçimini ve sonraki keşif arzusunu yüzyıllarca etkiledi.",
+      "quickRealityCheck": "Marco Polo'nun asıl önemi Çin'e ilk giden Avrupalı olmak mıydı, yoksa gördüklerini Avrupa'ya kalıcı bir anlatıya dönüştürmesi mi?",
+      "spoilerNote": "Marco Polo (Netflix) hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "crusader-states-daily",
+      "title": "Kutsal Topraklarda Günlük Yaşam",
+      "subtitle": "Savaşın gölgesinde bir arada yaşam.",
+      "mediaType": "film",
+      "mediaTitle": "Kingdom of Heaven",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Haçlı Seferleri",
+        "Günlük Hayat",
+        "Kudüs"
+      ],
+      "whatWeSee": "Medyada Haçlı Seferleri genellikle sadece bitmek bilmeyen savaşlar olarak gösterilir.",
+      "realHistory": "Haçlı Devletleri (Outremer), 1099'da Kudüs'ün fethinden sonra kurulan ve yaklaşık iki asır boyunca varlığını sürdüren siyasi bir yapıdır. Medyada anlatılanın aksine, bu dönem sadece savaştan ibaret değildi. Kudüs Krallığı, Antakya Prensliği ve Trablus Kontluğu gibi devletlerde yaşayan Avrupalı Haçlılar, zamanla bölgenin iklimine, yemeklerine (baharat kullanımı) ve sosyal hayatına adapte olmuşlardır. Müslüman, Hristiyan ve Yahudi topluluklar, çoğu zaman aynı pazarlarda ticaret yapmış ve günlük hayatın gereklilikleri doğrultusunda bir arada yaşamayı öğrenmişlerdir.\n\nFrank ve yerli halk yan yana yaşardı. Akka limanı Venedik ve Ceneviz kolonileriyle canlıydı.\n\nHaçlı krallıklarında Frank ve yerli halk yan yana yaşardı; mutfak ve mimaride Doğu etkisi görülür. Akka limanı Akdeniz ticaretinin kavşağıydı; Venedik ve Ceneviz kolonileri kendi mahallelerinde faaliyet gösterirdi. Haçlı lordları vergi toplamak için yerel Müslüman memurlarla çalışmak zorundaydı. Kudüs hac merkezi olarak her dilden ziyaretçi çekiyordu.\n\nHaçlı şehirlerinde çok dilli ticaret ve karma mahkeme uygulamaları yaygındı. Yerel halkla Frank lordlar arasında günlük işbirliği rutinleşmişti.\n\nGünlük yönetimde vergi tahsilatı ve adalet işleri yerel uzmanlarla yürütülürdü.\n\nBölgede sürekli bir din savaşı olduğu sanılır; oysa kayıtlara göre yerel emirler ve Haçlı beyleri bazen birbirlerine karşı ittifak kurmuşlardır.\n\nGünlük yönetimde vergi ve adalet işleri yerel uzmanlarla yürütülürdü.",
+      "accuracyNote": "Haçlıların yerel kültüre ve kıyafetlere uyum sağlaması tarihsel bir gerçektir. Dönemin şövalyeleri, sıcak iklim nedeniyle ağır metal zırhlar yerine yerel halkın kullandığı hafif pamuklu kumaşları ve sarıkları da (zırh üstüne) kullanmaya başlamışlardır.",
+      "whyInteresting": "Dönemin Arap tarihçisi Usame bin Münkiz, anılarında Haçlıların yerel adetlere (örneğin hamam kültürü veya yerel tıp) nasıl alıştığını şaşkınlıkla ve bazen alayla anlatır. Bu anlatılar, 'doğu-batı' çatışmasının günlük hayatta nasıl bir kültürel alışverişe dönüştüğünün en samimi kanıtlarıdır.",
+      "misconception": "Bölgede sürekli bir din savaşı olduğu sanılır; oysa yerel emirler ve Haçlı beyleri bazen birbirlerine karşı ittifak kurmuşlardır.",
+      "nextTopics": [
+        "Haçlı Devletleri",
+        "Kudüs Krallığı",
+        "Kültürel Etkileşim"
+      ],
+      "sources": [
+        {
+          "title": "Crusader States (Britannica)",
+          "url": "https://www.britannica.com/event/Crusades/The-Crusader-states-to-1187",
+          "type": "official"
+        },
+        {
+          "title": "Life in the Latin Kingdom of Jerusalem (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Kingdom_of_Jerusalem/",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "kingdom-of-heaven-crusades"
+      ],
+      "reviewerNote": "Toplumsal yapı verileri Britannica ve akademik kaynaklarla doğrulandı.",
+      "mediaConnection": "Bu kart, Kingdom of Heaven yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "gnlk-hayat",
+        "hacli-seferleri",
+        "kingdom-of-heaven",
+        "kuds"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Kingdom of Heaven bu konuyu sahne diliyle yoğunlaştırır; haçlıların yerel kültüre ve kıyafetlere uyum sağlaması tarihsel bir gerçektir.",
+      "whyItMatters": "Bu anlatılar, 'doğu-batı' çatışmasının günlük hayatta nasıl bir kültürel alışverişe dönüştüğünün en samimi kanıtlarıdır.",
+      "quickRealityCheck": "Bölgede sürekli bir din savaşı olduğu denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "Kingdom of Heaven hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "early-islamic-expansion",
+      "title": "Erken İslam Fetihleri ve Siyasi Vakum",
+      "subtitle": "Neden bu kadar hızlı yayıldı?",
+      "mediaType": "series",
+      "mediaTitle": "The Message / Hz. Ömer",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "İslam Tarihi",
+        "Siyaset",
+        "Bizans"
+      ],
+      "whatWeSee": "Medyada fetihler genellikle sadece dini motivasyon üzerinden anlatılır.",
+      "realHistory": "İslam orduları, özellikle Yarmuk (636) ve Kadisiye (636) savaşlarıyla dönemin iki süper gücünü mağlup etmiştir. Bu yayılma, sadece askeri bir başarı değil, aynı zamanda yeni bir idari ve hukuki sistemin (Dhimmi sistemi) getirilmesidir. Gayrimüslim tebaa, cizye vergisi karşılığında inanç özgürlüğü ve askeri koruma elde etmiştir. Bu hoşgörü politikası, fethedilen topraklarda direnişin düşük olmasını ve İslam kültürünün hızla yerleşmesini sağlamıştır. Bağdat, Şam ve Kurtuba gibi şehirler, bu yeni imparatorluğun entelektüel ve ekonomik merkezleri haline gelmiştir.\n\nEman anlaşmaları birçok yerde direnişi düşürdü. Şam, Bağdat ve Kurtuba idari merkezler haline geldi.\n\n636 Yarmuk ve Kadisiye savaşları Bizans ile Sasani İmparatorluğu'nu zayıflattı. Dhimmi sistemi gayrimüslim tebaaya cizye karşılığında inanç özgürlüğü tanıdı. Eman anlaşmaları birçok yerde direnişi düşürdü. Şam, Bağdat ve Kurtuba yeni idarenin idari ve entelektüel merkezleri olarak hızla gelişti.\n\nBizans ve Sasani topraklarındaki siyasi boşluk ve halk hoşnutsuzluğu fetih sürecini hızlandırdı. Yeni idare şehir merkezlerinde vergi ve adalet düzenini yeniden kurdu.\n\nFetihlerin sadece kılıç zoruyla yapıldığı olduğu sanılır; oysa kayıtlara göre yerel halkla yapılan anlaşmalar (Eman) fethin kalıcılığını sağlamıştır.\n\nBizans vergi ve mezhep baskısı bazı Hristiyan toplulukları yeni yönetime sıcak baktı; siyasi boşluk fetih sürecini hızlandırdı.",
+      "accuracyNote": "Müslüman orduları, Bizans ve Sasani topraklarındaki siyasi boşluğu ve halkın hoşnutsuzluğunu çok iyi değerlendirmiştir.",
+      "whyInteresting": "Müslüman yönetimi altına giren birçok Hristiyan topluluk, Bizans’ın ağır vergileri ve mezhepsel baskısından kurtuldukları için bu değişimi memnuniyetle karşılamıştır.",
+      "misconception": "Fetihlerin sadece kılıç zoruyla yapıldığı sanılır; oysa yerel halkla yapılan anlaşmalar (Eman) fethin kalıcılığını sağlamıştır.",
+      "nextTopics": [
+        "Dört Halife Dönemi",
+        "Sasanilerin Çöküşü",
+        "Yermük Savaşı"
+      ],
+      "sources": [
+        {
+          "title": "Islamic World Expansion (Britannica)",
+          "url": "https://www.britannica.com/topic/Islamic-world/Expansion-of-the-Islamic-community",
+          "type": "official"
+        },
+        {
+          "title": "The Arab Conquests (MET Museum)",
+          "url": "https://www.metmuseum.org/toah/hd/isla/hd_isla.htm",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Jeopolitik analizler Britannica ve MET ile doğrulandı.",
+      "mediaConnection": "Bu kart, The Message / Hz. Ömer yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "bizans",
+        "islam-tarihi",
+        "siyaset",
+        "the-message-hz-m"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Savaşlar genellikle sadece dini bir motivasyonla gösterilir. Gerçekte Bizans ve Sasani arasındaki 30 yıllık yıkıcı savaşlar her iki tarafı da bitirmiş, halkı ağır vergi yüküyle ezmişti; bu durum İslam ordularının 'kurtarıcı' olarak görülmesini sağlamıştır.",
+      "whyItMatters": "Müslüman yönetimi altına giren birçok Hristiyan topluluk, Bizans’ın ağır vergileri ve mezhepsel baskısından kurtuldukları için bu değişimi memnuniyetle karşılamıştır.",
+      "quickRealityCheck": "Gerçek. 7. yüzyıldaki hızlı İslam yayılması, Bizans ve Sasani imparatorluklarının zayıfladığı bir siyasi vakumda gerçekleşmiştir.",
+      "spoilerNote": "The Message / Hz. Ömer hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "chernobyl-secrecy",
+      "title": "Çernobil: Bilgi ve Devlet İmajı",
+      "subtitle": "Bir felaketin yönetimi ve gizlenen gerçekler.",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Modern Tarih",
+        "Sovyetler Birliği",
+        "Kriz Yönetimi"
+      ],
+      "whatWeSee": "Dizide, felaketin ardından yetkililerin gerçeği gizleme çabaları ve sistemin hantallığı işlenir.",
+      "realHistory": "26 Nisan 1986'da gerçekleşen Çernobil nükleer felaketi, sadece bir mühendislik hatası değil, Sovyetler Birliği'nin bürokratik hantallığının ve 'devlet imajını her şeyin önünde tutma' politikasının bir sonucudur. Felaket sonrası Pripyat şehri 36 saat boyunca tahliye edilmemiş, halk radyasyon bulutları altında günlük hayatına devam etmiştir. Sovyet yönetimi, kazayı uluslararası kamuoyundan gizlemeye çalışmış, ancak radyasyon bulutları İsveç'teki bir nükleer santralin dedektörlerini tetikleyince gerçek ortaya çıkmıştır. Kazanın asıl nedeni olan RBMK reaktörlerindeki tasarım kusuru (pozitif boşluk katsayısı), bilim dünyasında biliniyordu ancak 'Sovyet teknolojisi kusursuzdur' anlayışı nedeniyle bu uyarılar göz ardı edilmişti. Felaketi durdurmak için hayatlarını feda eden 'likidatörler' (temizlik işçileri, madenciler ve itfaiyeciler), tarihin en büyük sivil fedakarlık hikayelerinden birini yazmışlardır. Yaklaşık 600.000 kişi, radyasyonlu bölgeyi temizlemek için canla başla çalışmış ve birçoğu ömür boyu sürecek sağlık sorunlarıyla baş başa kalmıştır.\n\nÇernobil faciası, Mikhail Gorbaçov'un bizzat itiraf ettiği üzere, Sovyetler Birliği'nin çöküşünün asıl nedeni olabilir; çünkü devletin kendi halkına yalan söylemesi, halkın sisteme olan son güvenini de yok etmiştir.\n\nBugün 'Çernobil Hariç Tutma Bölgesi' (Exclusion Zone), insan müdahalesi olmadan doğanın nasıl hızla geri döndüğünü gösteren devasa bir laboratuvar haline gelmiştir; bölgede kurtlar, ayılar ve yabani atlar radyasyon seviyelerine rağmen çoğalmaktadır.",
+      "accuracyNote": "HBO'nun Chernobyl dizisi, felaketin teknik detaylarını ve siyasi atmosferini muazzam bir doğrulukla yansıtırken, bazı karakterleri dramatize etmiştir. Örneğin Valery Legasov karakteri, gerçekte olduğu gibi tek başına bir kahraman değil, büyük bir bilim kurulunun sözcüsüydü. Dizideki 'radyasyon yanıkları'nın dakikalar içinde oluşması veya 'helikopter kazası' gibi sahneler, görsel etkiyi artırmak için biraz abartılmıştır (kazada helikopter düşmüştü ancak radyasyon nedeniyle değil, pervanesinin bir vinç halatına çarpması sonucu düşmüştü). Yine de dizi, felaketin 'yalanların maliyeti' üzerine kurulu ana temasını tarihsel bir ders olarak başarıyla sunmuştur. Görsel açıdan Pripyat'ın ve reaktörün tasarımı, Sovyet estetiğine ve teknik şemalarına son derece sadıktır.",
+      "whyInteresting": "Çernobil faciası, Mikhail Gorbaçov'un bizzat itiraf ettiği üzere, Sovyetler Birliği'nin çöküşünün asıl nedeni olabilir; çünkü devletin kendi halkına yalan söylemesi, halkın sisteme olan son güvenini de yok etmiştir. Bugün 'Çernobil Hariç Tutma Bölgesi' (Exclusion Zone), insan müdahalesi olmadan doğanın nasıl hızla geri döndüğünü gösteren devasa bir laboratuvar haline gelmiştir; bölgede kurtlar, ayılar ve yabani atlar radyasyon seviyelerine rağmen çoğalmaktadır. Felaket sonrası reaktörü kapatmak için inşa edilen devasa çelik 'Lahit' (New Safe Confinement), insanoğlunun yaptığı en büyük hareketli metal yapıdır. Radyasyonun tamamen temizlenmesi için yaklaşık 20.000 yıl gerektiği tahmin edilmektedir; bu da insanlığın teknolojik hırsının bıraktığı en uzun ömürlü ve en tehlikeli mirastır.",
+      "misconception": "Kazanın sadece teknik bir hata olduğu sanılır; oysa tasarım hataları ve güvenlik testlerinin siyasi baskı altında yapılması asıl nedendir.",
+      "nextTopics": [
+        "Mihail Gorbaçov",
+        "Glasnost",
+        "Nükleer Enerji Tarihi"
+      ],
+      "sources": [
+        {
+          "title": "Chernobyl Disaster (Britannica)",
+          "url": "https://www.britannica.com/event/Chernobyl-disaster",
+          "type": "official"
+        },
+        {
+          "title": "IAEA Chernobyl Report",
+          "url": "https://www.iaea.org/topics/chornobyl",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "chernobyl-disaster",
+        "chernobyl-bureaucracy-truth",
+        "chernobyl-biorobots-cost"
+      ],
+      "reviewerNote": "Resmi raporlar ve Britannica ile doğrulandı.",
+      "mediaConnection": "Chernobyl dizisi, bir devletin kendi halkından gerçekleri saklama çabasının, teknik bir arızadan nasıl devasa bir toplumsal felakete dönüştüğünü vurgular.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "chernobyl",
+        "kriz-ynetimi",
+        "modern-tarih",
+        "sovyetler-birligi",
+        "bilim"
+      ],
+      "spoilerNote": "Chernobyl hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "isFlagship": false,
+      "mediaChanged": "Chernobyl sahne diliyle konuyu yoğunlaştırır; kayıtlar ise aynı konuyu daha parçalı bir çerçevede anlatır.",
+      "whyItMatters": "Bu başlık, bugün 'Çernobil Hariç Tutma Bölgesi' (Exclusion Zone), insan müdahalesi olmadan doğanın nasıl hızla geri döndüğünü gösteren devasa bir laboratuvar haline gelmiştir; bölgede kurtlar, ayılar ve yabani atlar radyasyon seviyelerine rağmen çoğalmaktadır fikrini medya anlatısından ayrı okumayı sağlar.",
+      "quickRealityCheck": "Kazanın sadece teknik bir hata olduğu denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "mongols-culture-exchange",
+      "title": "Pax Mongolica ve Kültürel Değişim",
+      "subtitle": "Barbarlık mı, yoksa küreselleşme mi?",
+      "mediaType": "general",
+      "mediaTitle": "Popüler Kültür Yanılgıları",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Moğollar",
+        "Kültürel Değişim",
+        "İpek Yolu"
+      ],
+      "whatWeSee": "Moğollar genellikle sadece yakıp yıkan ve medeniyeti geri götüren bir güç olarak gösterilir.",
+      "realHistory": "Moğol barışı (Pax Mongolica) sayesinde İpek Yolu tarihindeki en güvenli dönemi yaşamış; barut, matbaa ve pusula gibi teknolojiler Doğu’dan Batı’ya bu yolla geçmiştir. Moğol Barışı (Pax Mongolica), İpek Yolu üzerindeki ticaretin tarihin en güvenli seviyesine ulaşmasını sağlayarak Doğu ile Batı arasında benzersiz bir bilgi transferini tetiklemiştir. Moğolların kullandığı 'Yam' sistemi, kıtalar arası haberleşmeyi 10 güne kadar düşüren tarihin ilk organize posta teşkilatıdır. Tıp alanında Moğol sarayları, Müslüman, Çinli ve Avrupalı doktorların bir arada çalıştığı ve tedavi yöntemlerini karşılaştırdığı tarihin ilk 'tıbbi kongrelerine' ev sahipliği yapmıştır. Barut, pusula ve kâğıt gibi Çin icatlarının İslam dünyası üzerinden Avrupa'ya ulaşması, Moğol egemenliğinin yarattığı bu istikrarlı ortam sayesinde mümkün olmuştur. Kubilay Han'ın kurduğu 'Kâğıt Para' (Chao) sistemi, modern bankacılık ve parasal sistemlerin ilk büyük ölçekli uygulaması olarak iktisat tarihine geçmiştir.",
+      "accuracyNote": "Moğolların dini hoşgörüsü ve zanaatkarları koruma politikası, kültürel bir rönesansın yaşanmasını sağlamıştır.",
+      "whyInteresting": "Moğol imparatorluğunda bir kadın, başındaki altın dolu bir sepetle imparatorluğun bir ucundan diğerine saldırıya uğramadan gidebilirdi (söylenen bir deyim).",
+      "misconception": "Moğolların bilimle ilgilenmediği sanılır; oysa büyük rasathaneler kurmuş ve haritacılığa büyük önem vermişlerdir.",
+      "nextTopics": [
+        "Pax Mongolica",
+        "İpek Yolu Teknolojileri",
+        "Hulagu Han"
+      ],
+      "sources": [
+        {
+          "title": "The Mongol Empire and Global Exchange (UNESCO)",
+          "url": "https://en.unesco.org/silkroad/content/mongol-empire",
+          "type": "official"
+        },
+        {
+          "title": "Science and Technology under the Mongols (Britannica)",
+          "url": "https://www.britannica.com/topic/Mongol-empire/The-Mongols-and-the-West",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "medieval-lifespan-myth",
+        "pirate-maps-myth",
+        "nero-fiddling-myth"
+      ],
+      "reviewerNote": "UNESCO İpek Yolu projesi verileriyle doğrulandı.",
+      "mediaConnection": "Moğol istilasını konu alan yapımlarda genellikle sadece yıkım görülse de, bu süreç aslında Doğu ve Batı arasındaki teknoloji ve kültür transferini hızlandırmıştır.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "ipek-yolu",
+        "kltrel-deiim",
+        "moollar",
+        "popler-kltr-yanl"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Popüler Kültür Yanılgıları bu konuyu sahne diliyle yoğunlaştırır; moğolların dini hoşgörüsü ve zanaatkarları koruma politikası, kültürel bir rönesansın yaşanmasını sağlamıştır.",
+      "whyItMatters": "Moğol imparatorluğunda bir kadın, başındaki altın dolu bir sepetle imparatorluğun bir ucundan diğerine saldırıya uğramadan gidebilirdi (söylenen bir deyim).",
+      "quickRealityCheck": "Moğolların bilimle ilgilenmediği denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": ""
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "locale": "tr",
+  "chunkIndex": 20,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "band-of-brothers-heroism",
+      "title": "Siperlerdeki Gerçek: Kahramanlık ve Savaş Yorgunluğu",
+      "subtitle": "Band of Brothers ve II. Dünya Savaşı’ndaki asker psikolojisinin gerçekliği.",
+      "mediaType": "series",
+      "mediaTitle": "Band of Brothers",
+      "mediaConnection": "Bu kart, Band of Brothers’ın Normandiya ve Bastogne bölümleri üzerinden Easy Company deneyimini savaş psikolojisi, grup sadakati ve travma açısından okur.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (National WWII Museum, Britannica, Stephen Ambrose Archive)",
+      "whatWeSee": "Dizide askerler sadece birer savaş makinesi değil; korku, yas, açlık ve \"combat fatigue\" (savaş yorgunluğu) yaşayan insanlar olarak resmedilir. Dostluk, hayatta kalmanın tek yoludur.",
+      "realHistory": "II. Dünya Savaşı anlatılarında kahramanlık çoğu zaman tek bir cesur hamle gibi görünür. Band of Brothers’ın daha güçlü tarafı ise savaşın psikolojik ağırlığını saklamamasıdır: açlık, uykusuzluk, soğuk, kayıp korkusu ve yanındaki askere karşı duyulan sorumluluk. Easy Company’nin Normandiya’dan Bastogne’a uzanan deneyimi, savaşın yalnızca ilerleyen cephe çizgilerinden ibaret olmadığını gösterir.\n\nCephedeki askerler için dayanma gücü çoğu zaman soyut vatan söyleminden çok “küçük grup sadakati”ne bağlıydı. Birliğini, yanındaki arkadaşını ve aynı siperin içindeki birkaç insanı kaybetmemek, savaşın gündelik motivasyonuna dönüşebiliyordu. Bastogne gibi kuşatma koşullarında donma, yetersiz ikmal ve sürekli topçu ateşi, bugünkü dille travma sonrası stres bozukluğu diyeceğimiz etkileri artırdı. O dönemde bu durum çoğu zaman “combat fatigue” veya savaş yorgunluğu gibi ifadelerle anılıyordu.\n\nDizi, bu yüzden kahramanlığı parlatırken bile onu romantikleştirmemeye çalışır. Easy Company askerlerinin birçoğunun savaştan sonra yaşadıklarını yıllarca anlatmaması, sessizliğin de savaşın bir sonucu olduğunu hatırlatır. Gerçek savaş çoğu zaman büyük sözlerden değil, beklemekten, üşümekten, kayıp vermekten ve yine de yanındakini bırakmamaktan oluşur.",
+      "accuracyNote": "Dizi, Stephen Ambrose’un röportajlarına ve gerçek askerlerin anılarına dayandığı için türünün en doğru örneklerinden biridir. Özellikle üniformalar, silahlar ve taktiksel detaylar askeri danışmanlar eşliğinde hazırlanmıştır. Ancak her \"anı\" gibi, bazı olaylar veteranların (gazilerin) anlatımlarındaki öznel kahramanlık algısıyla şekillenmiş olabilir.",
+      "whyInteresting": "Easy Company askerlerinin birçoğu, savaştan sonra yıllarca yaşadıkları hakkında konuşmamış, hatta en yakın ailelerine bile detay vermemişlerdir. Bu \"sessiz nesil\" tavrı, savaşın yarattığı derin psikolojik etkinin bir sonucudur.",
+      "misconception": "Savaşın sadece \"heyecan ve macera\" dolu olduğu sanılır; oysa gerçek savaş, %90 bekleyiş ve sefalet, %10 ise saf dehşettir.",
+      "themes": [
+        "Modern Tarih",
+        "Savaş",
+        "Psikoloji"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "The National WWII Museum - Band of Brothers",
+          "url": "https://www.nationalww2museum.org/visit/museum-campus/easy-company-exhibit",
+          "type": "archive"
+        },
+        {
+          "title": "Combat Fatigue in WWII - Britannica",
+          "url": "https://www.britannica.com/science/combat-fatigue",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "lanoire-postwar-trauma",
+        "band-of-brothers-airborne",
+        "band-of-brothers-hedgerows-real"
+      ],
+      "nextTopics": [
+        "Normandiya Çıkarması",
+        "TSSB",
+        "II. Dünya Savaşı"
+      ],
+      "difficulty": "medium",
+      "era": "Modern Çağ",
+      "region": "Avrupa",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "avrupa",
+        "band-of-brothers",
+        "modern-a",
+        "modern-tarih",
+        "psikoloji",
+        "savas"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Band of Brothers kahramanlığı yalnızca zafer anlarıyla değil, korku, kayıp, bekleyiş ve savaş yorgunluğu üzerinden anlatır; bu yaklaşım onu birçok savaş anlatısından daha insani kılar.",
+      "whyItMatters": "Savaş anlatılarında kahramanlığı psikolojik bedelden ayırmak kolaydır; Easy Company’nin hikâyesi, cesaretin çoğu zaman korkuya rağmen devam etmek anlamına geldiğini gösterir.",
+      "quickRealityCheck": "Band of Brothers’taki kahramanlık anlatısı sadece cesur saldırılarla mı ilgilidir — yoksa savaş yorgunluğu, sessizlik ve arkadaşını bırakmama duygusuyla mı?",
+      "spoilerNote": "Band of Brothers hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "oppenheimer-science-state",
+      "title": "Bilim ve Devlet: Atom Çağının Doğuşu",
+      "subtitle": "Oppenheimer ve bilimsel keşfin siyasi güce teslimiyeti.",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "mediaConnection": "Bu kart, Oppenheimer filmindeki Manhattan Projesi ve güvenlik duruşması anlatısını bilim, devlet ve etik ilişkisi üzerinden okur.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (Los Alamos National Laboratory, Britannica, American Prometheus)",
+      "whatWeSee": "Filmde Oppenheimer, dünyayı değiştirecek bir güç (atom bombası) yaratırken, bu gücün kontrolünün bilim insanlarından çıkıp orduya ve siyasetçilere geçişini izleriz.",
+      "realHistory": "Manhattan Projesi, modern bilimin devlet gücüyle birleştiği en görünür kırılmalardan biriydi. 1942'den itibaren Los Alamos, Oak Ridge ve Hanford gibi merkezlerde bilimsel araştırma, askeri hedef ve endüstriyel üretim aynı programın parçaları haline geldi. Oppenheimer bu yapının en tanınan yüzüydü; fakat atom bombası yalnız bir bilim insanının değil, devlet tarafından örgütlenen büyük ölçekli bir bilim düzeninin sonucuydu.\n\nOppenheimer filmi, bu düzenin iki yüzünü birlikte gösterir: bilimsel merak ve siyasi kullanım. Los Alamos'ta çözülen teorik ve mühendislik problemleri, birkaç yıl içinde dünya siyasetini değiştiren bir silaha dönüştü. Bilim insanları savaşın baskısı altında çalışırken, ürettikleri bilginin nasıl ve nerede kullanılacağı üzerindeki kontrol giderek askeri ve siyasi otoriteye geçti.\n\nSavaş sonrasında bu gerilim daha da açık hale geldi. Oppenheimer nükleer silahların kontrolü ve hidrojen bombası tartışmalarında daha temkinli bir çizgiye yaklaşınca, Soğuk Savaş atmosferinin hedeflerinden biri oldu. 1954 güvenlik duruşması, bilimsel itibarın devlet güvenliği diliyle nasıl zedelenebileceğini gösterdi. Bu olay, yalnız bir kişinin düşüşü değil; bilim insanının devletle kurduğu ilişkinin sınırlarının da sınanmasıydı.\n\nBu yüzden atom çağını yalnız mühendislik başarısı olarak okumak eksik kalır. Manhattan Projesi, araştırmanın ölçeğini büyüttü ama aynı zamanda bilimi askeri bütçe, gizlilik ve siyasi hesapla daha sıkı bağladı. Oppenheimer'ın hikayesi bu ikilemi taşır: İnsanlık tarihinin en büyük bilimsel atılımlarından biri, aynı anda bilim insanının ahlaki ve siyasi sorumluluğunu ağırlaştırdı.",
+      "accuracyNote": "Film, Oppenheimer'ın iç dünyasını ve 1954 güvenlik duruşmasını merkeze alır; Manhattan Projesi'nin endüstriyel ölçeği ve Japonya'daki insani sonuçlar ise doğal olarak daha sınırlı görünür.",
+      "whyInteresting": "Manhattan Projesi, modern 'büyük bilim' modelinin en güçlü örneklerinden biri oldu: laboratuvar, fabrika, ordu ve devlet aynı hedef için birleştirildi.",
+      "misconception": "Atom bombasının yalnız bir mühendislik başarısı olduğu sanılır; gerçekte bu başarı diplomasi, savaş, etik ve devlet gücüyle iç içe geçmişti.",
+      "themes": [
+        "Modern Tarih",
+        "Bilim",
+        "Siyaset"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "Manhattan Project - Los Alamos National Laboratory",
+          "url": "https://www.lanl.gov/about/history-innovation/index.php",
+          "type": "archive"
+        },
+        {
+          "title": "J. Robert Oppenheimer - Britannica",
+          "url": "https://www.britannica.com/biography/J-Robert-Oppenheimer",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "chernobyl-bureaucracy-truth",
+        "oppenheimer-trinity",
+        "oppenheimer-trinity-reality"
+      ],
+      "nextTopics": [
+        "Manhattan Projesi",
+        "Soğuk Savaş",
+        "Kuantum Fiziği"
+      ],
+      "difficulty": "deep",
+      "era": "Modern Çağ",
+      "region": "ABD",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "abd",
+        "bilim",
+        "modern-a",
+        "modern-tarih",
+        "oppenheimer",
+        "siyaset"
+      ],
+      "spoilerNote": "Oppenheimer hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "isFlagship": false,
+      "mediaChanged": "Film Oppenheimer'ın kişisel sorumluluğuna odaklanır; tarihsel arka plan ise bilimin devlet bütçesi, gizlilik ve askeri hedeflerle nasıl yeniden şekillendiğini gösterir.",
+      "whyItMatters": "Oppenheimer'ın hikayesi, bilim insanlarının ürettikleri bilginin siyasi kullanımından tamamen ayrı duramayacağını gösterir.",
+      "quickRealityCheck": "Atom bombası sadece bir bilimsel keşif miydi, yoksa devlet gücüyle örgütlenen yeni bir bilim çağının başlangıcı mıydı?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "medieval-magic-vs-reason",
+      "title": "Orta Çağ: Batıl İnanç mı, Mantık mı?",
+      "subtitle": "Orta Çağ insanının dünyaya bakışındaki gerçek rasyonalite.",
+      "mediaType": "general",
+      "mediaTitle": "Tarihi Yanılgı",
+      "mediaConnection": "Bu kart, popüler kültürdeki \"Karanlık Çağ\" ve \"her şeyi büyüyle açıklayan cahil köylü\" imajını bilimsel verilerle inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (Cambridge History of Science, Britannica, Medieval Academy of America)",
+      "whatWeSee": "Filmlerde ve oyunlarda Orta Çağ insanı, her doğa olayını şeytanla veya büyüyle açıklayan, bilime düşman ve tamamen hurafelerle yaşayan bir figür olarak resmedilir.",
+      "realHistory": "Orta Çağ, sanılanın aksine sadece batıl inançların ve büyünün hakim olduğu bir 'karanlık' dönem değil; aksine 'mantık' (logic) ve 'rasyonel tartışmanın' zirve yaptığı bir çağdı. Skolastik felsefe, Hristiyan inancını Aristotelesçi mantıkla birleştirmeye çalışarak modern bilimsel düşüncenin temellerini atmıştır. 12. yüzyıldan itibaren kurulan üniversiteler (Bologna, Paris, Oxford), bilginin sadece ezberlenmediği, 'disputatio' adı verilen tartışma yöntemiyle sorgulandığı merkezlerdi. Orta Çağ insanı, evrenin Tanrı tarafından yaratılmış düzenli bir mekanizma olduğuna inanıyor, bu düzeni anlamak için gözlem ve aklı kullanıyordu. Modern bilimin babası sayılan Roger Bacon gibi isimler, doğayı anlamak için deneyin önemini Orta Çağ kilise okullarında savunmuşlardır. Cahillik değil, 'mantıklı bir dünya' arayışı bu çağın asıl karakteridir.\n\nYaygın bir izlenim, Orta Çağ’da herkesin dünyanın düz olduğuna inandığı olduğudur; kayıtlar ise eğitimli tüm Orta Çağ insanları (ve denizciler), antik çağdan beri dünyanın yuvarlak olduğunu kesin olarak biliyorlardı.\n\nBu konu, popüler kültürdeki \"Karanlık Çağ\" ve \"her şeyi büyüyle açıklayan cahil köylü\" imajını bilimsel verilerle inceler.\n\nYaygın izlenim, Orta Çağ’da herkesin dünyanın düz olduğuna inandığı olduğudur; kayıtlar ise eğitimli tüm Orta Çağ insanları (ve denizciler), antik çağdan beri dünyanın yuvarlak olduğunu kesin olarak biliyorlardı.",
+      "accuracyNote": "Popüler kültür Orta Çağ'ı her şeyi büyüyle açıklayan köylülerle resmeder. Oysa eğitimli bir Orta Çağ insanı, doğa olaylarının 'doğal nedenlerini' araştırıyor ve hurafeleri kilise otoriteleriyle birlikte reddediyordu. Dönemin 'Karanlık Çağ' olarak adlandırılması, Rönesans hümanistlerinin kendi dönemlerini parlatmak için uydurduğu bir propagandadır.",
+      "whyInteresting": "Orta Çağ'da mekanik saatlerin ve gözlüklerin icadı, bu çağın zamanı ölçmeye ve bilgiye ulaşmaya yönelik ne kadar rasyonel bir teknolojik ilerleme içinde olduğunun kanıtıdır.",
+      "misconception": "Orta Çağ’da herkesin dünyanın düz olduğuna inandığı sanılır; oysa eğitimli tüm Orta Çağ insanları (ve denizciler), antik çağdan beri dünyanın yuvarlak olduğunu kesin olarak biliyorlardı.",
+      "themes": [
+        "Orta Çağ",
+        "Bilim",
+        "Din"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "Science in the Middle Ages - Britannica",
+          "url": "https://www.britannica.com/science/history-of-science/Medieval-science",
+          "type": "article"
+        },
+        {
+          "title": "Medieval Education and Universities",
+          "url": "https://www.medievalacademy.org/page/Education",
+          "type": "archive"
+        }
+      ],
+      "relatedCardIds": [
+        "flat-earth-myth-medieval",
+        "vikings-not-only-raiders",
+        "pirates-democracy-myth"
+      ],
+      "nextTopics": [
+        "Skolastik Felsefe",
+        "Roger Bacon",
+        "Üniversiteler"
+      ],
+      "difficulty": "deep",
+      "era": "Orta Çağ",
+      "region": "Avrupa",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "avrupa",
+        "bilim",
+        "din",
+        "orta-cag",
+        "tarihi-yanlg"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Tarihi Yanılgı bu konuyu sahne diliyle yoğunlaştırır; popüler kültür Orta Çağ'ı her şeyi büyüyle açıklayan köylülerle resmeder.",
+      "whyItMatters": "Orta Çağ'da mekanik saatlerin ve gözlüklerin icadı, bu çağın zamanı ölçmeye ve bilgiye ulaşmaya yönelik ne kadar rasyonel bir teknolojik ilerleme içinde olduğunun kanıtıdır.",
+      "quickRealityCheck": "Orta Çağ’da herkesin dünyanın düz olduğuna inandığı denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "vikings-not-only-raiders",
+      "title": "Vikingler: Sadece Yağmacı mı, Yoksa Küresel Tüccar mı?",
+      "subtitle": "Vikinglerin kılıçtan çok gümüşle ilgilendiği o gerçek dünya.",
+      "mediaType": "general",
+      "mediaTitle": "Tarihi Yanılgı",
+      "mediaConnection": "Bu kart, popüler kültürdeki \"vahşi istilacı\" Viking imajını arkeolojik verilerle inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (British Museum, UNESCO, Britannica)",
+      "whatWeSee": "Vikingler, her zaman köyleri yakan, manastırları yağmalayan ve sadece savaş için yaşayan vahşi savaşçılar olarak resmedilir.",
+      "realHistory": "Vikingler, 8. ve 11. yüzyıllar arasında aslında Kuzey Avrupa’nın en başarılı tüccarları ve kaşifleriydi. Yağma (viking) sadece belirli bir grubun, belirli dönemlerde yaptığı bir faaliyetti. Vikinglerin büyük çoğunluğu çiftçi, balıkçı ve zanaatkardı. Onların asıl başarısı, Bağdat’tan Kuzey Amerika’ya, Konstantinopolis’ten Grönland’a uzanan devasa bir ticaret ağı kurmalarıydı. Viking gemileri sadece savaşçılar için değil, kürk, bal mumu, fildişi ve kehribar taşımak için tasarlanmıştı. Vikingler, gittikleri yerlerde sadece yıkım getirmemiş; Dublin, York ve Kiev gibi önemli ticaret şehirlerinin temellerini atmışlardır.\n\nVikingler, Kristof Kolomb’dan 500 yıl önce Kuzey Amerika’ya (Vinland) ulaşmış ve burada yerleşim birimleri kurmuşlardır.\n\nBu durum, onların denizcilik bilgisinin o dönem için ne kadar rakipsiz olduğunun kanıtıdır.\n\nYaygın bir izlenim, Vikinglerin boynuzlu miğfer taktığı olduğudur; kayıtlar ise arkeolojik kayıtlarda tek bir boynuzlu Viking miğferi bile yoktur.\n\nBu konu, popüler kültürdeki \"vahşi istilacı\" Viking imajını arkeolojik verilerle inceler.\n\nYaygın izlenim, Vikinglerin boynuzlu miğfer taktığı olduğudur; kayıtlar ise arkeolojik kayıtlarda tek bir boynuzlu Viking miğferi bile yoktur.\n\nSoruşturma ve arşiv belgeleri, vikinglerin boynuzlu miğfer taktığı denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "accuracyNote": "Popüler diziler (Vikings gibi) yağma sahnelerini öne çıkarır; ancak arkeolojik kazılarda bulunan Viking mezarlarından çıkan eşyaların çoğu (İslami gümüş dirhemler, İpek Yolu kumaşları) onların ne kadar derin bir ticari bağa sahip olduğunu kanıtlar. Viking kılıçlarının (Ulfberht gibi) çeliği bile Orta Asya’dan gelen tekniklerle geliştirilmiştir.",
+      "whyInteresting": "Vikingler, Kristof Kolomb’dan 500 yıl önce Kuzey Amerika’ya (Vinland) ulaşmış ve burada yerleşim birimleri kurmuşlardır. Bu durum, onların denizcilik bilgisinin o dönem için ne kadar rakipsiz olduğunun kanıtıdır.",
+      "misconception": "Vikinglerin boynuzlu miğfer taktığı sanılır; oysa arkeolojik kayıtlarda tek bir boynuzlu Viking miğferi bile yoktur. Bu imaj, 19. yüzyıl opera kostümleriyle uydurulmuştur.",
+      "themes": [
+        "Vikingler",
+        "Ticaret",
+        "Keşif"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "The Vikings as Traders - British Museum",
+          "url": "https://www.britishmuseum.org/collection/vikings",
+          "type": "archive"
+        },
+        {
+          "title": "Viking Trade Routes - UNESCO",
+          "url": "https://en.unesco.org/silkroad/content/viking-silk-road",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "ac-valhalla-settlement",
+        "medieval-magic-vs-reason",
+        "pirates-democracy-myth"
+      ],
+      "nextTopics": [
+        "Danelaw",
+        "Leif Erikson",
+        "İpek Yolu"
+      ],
+      "difficulty": "medium",
+      "era": "Orta Çağ",
+      "region": "Kuzey Avrupa",
+      "accuracyType": "fictionalized",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "keif",
+        "kuzey-avrupa",
+        "orta-cag",
+        "tarihi-yanlg",
+        "ticaret",
+        "vikingler"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Tarihi Yanılgı sahne diliyle konuyu yoğunlaştırır; kayıtlar ise aynı konuyu daha parçalı bir çerçevede anlatır.",
+      "whyItMatters": "Bu başlık, bu durum, onların denizcilik bilgisinin o dönem için ne kadar rakipsiz olduğunun kanıtıdır fikrini medya anlatısından ayrı okumayı sağlar.",
+      "quickRealityCheck": "Vikinglerin boynuzlu miğfer taktığı denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "pirates-democracy-myth",
+      "title": "Korsanlar ve Demokrasi: Denizin Kanunsuz Kanunları",
+      "subtitle": "Korsan gemilerindeki şaşırtıcı toplumsal sözleşme.",
+      "mediaType": "general",
+      "mediaTitle": "Tarihi Yanılgı",
+      "mediaConnection": "Bu kart, filmlerdeki kaotik korsan imajını Altın Çağ korsan gemilerinin gerçek tüzükleri ve ganimet düzeniyle karşılaştırır.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (Royal Museums Greenwich, Britannica, History of Piracy)",
+      "whatWeSee": "Korsanlar, hiçbir kuralı olmayan, sadece en güçlünün sözünün geçtiği ve sürekli bir kaos içinde yaşayan vahşi topluluklar olarak resmedilir.",
+      "realHistory": "Korsanlığın Altın Çağı'nda birçok gemi, dışarıdan göründüğü kadar başıboş değildi. Kraliyet donanmalarındaki sert disiplin ve düşük pay düzeninden kaçan denizciler için korsan gemileri, yazılı kuralları olan alternatif bir çalışma düzeni sunabiliyordu. Mürettebat genellikle gemi kurallarını kabul ederek katılır, ganimet paylaşımı, yaralanma tazminatı ve disiplin cezaları önceden belirlenirdi.\n\nBu düzen modern anlamda eşitlikçi bir demokrasi değildi; şiddet, yağma ve zorla ele geçirme üzerine kurulu bir suç ekonomisiydi. Yine de gemi içi yönetimde kaptanın gücü sınırsız olmayabilirdi. Kaptan savaş ve kovalamaca sırasında daha fazla yetki kullanır, günlük kararlarda ise mürettebatın ve quartermaster gibi görevlilerin ağırlığı artardı. Bu pratik, denizin ortasında hayatta kalmak için güven ve pay dağılımını zorunlu hale getiriyordu.\n\nPopüler filmler korsanlığı çoğu zaman kaotik, sarhoş ve kuralsız bir özgürlük gibi gösterir. Tarihsel kayıtlar ise bu kaosun içinde işleyen bir sözleşme mantığı olduğunu gösterir: kurallar ihlal edilirse marooning gibi ağır cezalar uygulanabilir, ganimet paylaşımı tartışmaya kapatılabilirdi. Korsan bayrakları da yalnız dekor değildi; teslim olmayı hızlandırarak gereksiz çatışmayı azaltan psikolojik araçlardı.\n\nBu yüzden korsan gemisini ne romantik bir özgürlük adası ne de tamamen kuralsız bir çete diye okumak yeterlidir. Daha doğru çerçeve, denizde suç işleyen ama kendi içinde disiplin, pay ve güvenlik kuralları geliştiren geçici bir toplumsal sözleşmedir.",
+      "accuracyNote": "Pirates of the Caribbean gibi filmler bu tüzükleri birer espri unsuru gibi sunsa da, gerçekte bu kurallar mühürlenir ve üzerine İncil (veya balta) ile yemin edilirdi. Kurallara uymayanlar için ıssız bir adada bırakılmak (marooning) gibi ağır cezalar gerçekten uygulanırdı. Ayrıca korsan gemilerinde ırkçılık, dönemin geri kalanına göre çok daha azdı; birçok eski köle, korsan gemilerinde özgür denizciler olarak yaşamıştır.",
+      "whyInteresting": "Bazı korsan gemilerinde yaralanan mürettebat için ganimetten ayrılan tazminat payları, erken bir iş kazası fonu gibi işliyordu.",
+      "misconception": "Korsanların tamamen kuralsız yaşadığı sanılır; oysa birçok gemide pay, ceza ve kaptan yetkisini belirleyen yazılı kurallar vardı.",
+      "themes": [
+        "Korsanlar",
+        "Demokrasi",
+        "Hukuk"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "Life Under the Jolly Roger - Royal Museums Greenwich",
+          "url": "https://www.rmg.co.uk/stories/topics/pirate-code",
+          "type": "archive"
+        },
+        {
+          "title": "The Golden Age of Piracy - Britannica",
+          "url": "https://www.britannica.com/topic/piracy/The-golden-age-of-piracy",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "mafia-immigration-crime",
+        "medieval-magic-vs-reason",
+        "vikings-not-only-raiders"
+      ],
+      "nextTopics": [
+        "Pirate Code",
+        "Henry Morgan",
+        "Deniz Hukuku"
+      ],
+      "difficulty": "medium",
+      "era": "Yeni Çağ",
+      "region": "Karayipler",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "demokrasi",
+        "hukuk",
+        "karayipler",
+        "korsanlar",
+        "tarihi-yanlg",
+        "yeni-a"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Pirates of the Caribbean gibi yapımlar korsanlığı kaotik özgürlük gibi gösterir; tarihsel korsan gemilerinde ise suç ekonomisinin içinde bile sözleşme, pay ve disiplin kuralları vardı.",
+      "whyItMatters": "Korsan gemileri, otorite boşluğunda bile insanların güven, pay ve yaptırım kuralları kurmadan birlikte hareket edemediğini gösterir.",
+      "quickRealityCheck": "Korsanlar gerçekten tamamen kuralsız mıydı, yoksa gemi içinde kendi sert sözleşmelerini mi kuruyorlardı?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "samurai-loyalty-myth",
+      "title": "Samuray Onuru: Sadakat mi, Pragmatizm mi?",
+      "subtitle": "Samurayların her zaman ölüme kadar sadık olduğu efsanesinin ötesi.",
+      "mediaType": "general",
+      "mediaTitle": "Tarihi Yanılgı",
+      "mediaConnection": "Bu kart, popüler kültürdeki \"her koşulda sadık samuray\" imajını tarihsel saf değiştirmelerle inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (History of Japan, Britannica, UNESCO)",
+      "whatWeSee": "Samuraylar, efendilerine son nefeslerine kadar bağlı olan ve en ufak bir başarısızlıkta seppuku (intihar) yapan onur timsalleri olarak gösterilir.",
+      "realHistory": "Japonya'nın iç savaşlar döneminde (Sengoku), samuraylar için sadakat aslında son derece pragmatik ve klan temelli bir kavramdı. Bir samurayın asıl görevi, kendi ailesinin ve klanının hayatta kalmasını sağlamaktı; eğer efendisi zayıf düşerse veya yeniliyorsa, samurayların daha güçlü bir tarafa geçmesi son derece yaygındı. Sekigahara Savaşı (1600) gibi tarihin en büyük kırılma noktaları, savaşın tam ortasında taraf değiştiren generaller sayesinde kazanılmıştır. Bugün bildiğimiz 'ölüme kadar koşulsuz sadakat' ve 'Bushido' kodu, aslında savaşların bittiği ve samurayların bürokratlaştığı barış döneminde (Edo) kurgulanmış bir ideolojidir. Samuraylar, sadece kılıç sallayan savaşçılar değil, aynı zamanda mülkiyet haklarını korumaya çalışan ve rasyonel kararlar alan yerel lordlardı. Sadakat, bir erdemden ziyade, karşılığında toprak ve rütbe alınan bir siyasi ticaretin parçasıydı.\n\nTarihteki en ünlü samuraylardan biri olan Toyotomi Hideyoshi, aslında bir köylü olarak hayata başlamış ve sadakatini her zaman en güçlü tarafa yönelterek Japonya'nın en güçlü lideri olmuştur.\n\nYaygın bir izlenim, Samurayların her zaman seppuku yaptığı olduğudur; kayıtlar ise bu törensel intihar, genellikle kaçınılmaz bir ölümden veya esaretin getireceği utançtan kurtulmak için yapılan son çareydi.",
+      "accuracyNote": "Ghost of Tsushima veya filmlerde samuraylar onur uğruna intihar etmeye hazır kahramanlar olarak gösterilir. Ancak tarihsel gerçeklikte, bir samurayın yenilgiyi kabul edip yeni bir efendiye hizmet etmesi onursuzluk değil, hayatta kalma becerisi sayılırdı. Onur (Meiyo) kavramı vardı; ancak bu, stratejik başarı ve ailenin bekasıyla doğrudan ilişkiliydi.",
+      "whyInteresting": "Tarihteki en ünlü samuraylardan biri olan Toyotomi Hideyoshi, aslında bir köylü olarak hayata başlamış ve sadakatini her zaman en güçlü tarafa yönelterek Japonya'nın en güçlü lideri olmuştur.",
+      "misconception": "Samurayların her zaman seppuku yaptığı sanılır; oysa bu törensel intihar, genellikle kaçınılmaz bir ölümden veya esaretin getireceği utançtan kurtulmak için yapılan son çareydi.",
+      "themes": [
+        "Japonya",
+        "Samuray",
+        "Siyaset"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "Sengoku Period - Britannica",
+          "url": "https://www.britannica.com/event/Sengoku-period",
+          "type": "article"
+        },
+        {
+          "title": "Samurai Ethics and Reality - UNESCO",
+          "url": "https://en.unesco.org/silkroad/content/samurai-culture",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "ghost-tsushima-invasion",
+        "medieval-magic-vs-reason",
+        "vikings-not-only-raiders"
+      ],
+      "nextTopics": [
+        "Sekigahara",
+        "Bushido",
+        "Daimyo"
+      ],
+      "difficulty": "deep",
+      "era": "Yeni Çağ",
+      "region": "Japonya",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "japonya",
+        "samuray",
+        "siyaset",
+        "tarihi-yanlg",
+        "yeni-a"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Tarihi Yanılgı sahne diliyle konuyu yoğunlaştırır; kayıtlar ise aynı konuyu daha parçalı bir çerçevede anlatır.",
+      "whyItMatters": "Bu başlık, tarihteki en ünlü samuraylardan biri olan Toyotomi Hideyoshi, aslında bir köylü olarak hayata başlamış ve sadakatini her zaman en güçlü tarafa yönelterek Japonya'nın en güçlü lideri olmuştur fikrini medya anlatısından ayrı okumayı sağlar.",
+      "quickRealityCheck": "Samurayların her zaman seppuku yaptığı denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

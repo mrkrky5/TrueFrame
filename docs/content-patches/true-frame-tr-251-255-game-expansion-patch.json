@@ -1,0 +1,580 @@
+{
+  "patchId": "true-frame-tr-251-255-game-expansion-patch",
+  "locale": "tr",
+  "sourceChunks": [],
+  "contentRange": {
+    "startId": "tf26-251",
+    "endId": "tf26-255"
+  },
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-new-card-generation",
+  "summary": {
+    "cardCount": 5,
+    "newCards": [
+      "tf26-251-obradinn-east-india-company",
+      "tf26-252-1979revolution-iran",
+      "tf26-253-civ-tech-tree-myth",
+      "tf26-254-aoe-siege-engineering",
+      "tf26-255-totalwar-condottieri"
+    ],
+    "flagshipNewCards": [
+      "tf26-251-obradinn-east-india-company",
+      "tf26-252-1979revolution-iran"
+    ],
+    "standardNewCards": [
+      "tf26-253-civ-tech-tree-myth",
+      "tf26-254-aoe-siege-engineering",
+      "tf26-255-totalwar-condottieri"
+    ],
+    "mediaFocus": [
+      "Return of the Obra Dinn",
+      "1979 Revolution: Black Friday",
+      "Civilization",
+      "Age of Empires II",
+      "Total War: Medieval II"
+    ],
+    "sourceUpdates": [
+      "tf26-251-obradinn-east-india-company",
+      "tf26-252-1979revolution-iran",
+      "tf26-253-civ-tech-tree-myth",
+      "tf26-254-aoe-siege-engineering",
+      "tf26-255-totalwar-condottieri"
+    ],
+    "notes": [
+      "Bu batch Cursor konu havuzunun 51–55 aralığından üretildi.",
+      "2 flagship kart 400+ kelime ve ### başlıklı yapıyla yazıldı.",
+      "Oyun mekanikleri gerçek tarih, kurum ve ekonomi çerçevesiyle ilişkilendirildi; pure lore veya plot recap yapılmadı."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-251-obradinn-east-india-company",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "Return of the Obra Dinn’in gemi, mürettebat ve sigorta soruşturması yapısı East India Company ticareti, deniz sigortası ve şirket-imparatorluk düzeniyle kaynaklı yeni flagship karta dönüştürüldü.",
+      "fields": {
+        "title": "Doğu Hindistan Gemileri",
+        "subtitle": "Gemi yalnız dekor değil, imparatorluk bilançosuydu",
+        "mediaType": "game",
+        "mediaTitle": "Return of the Obra Dinn",
+        "era": "Modern Tarih",
+        "region": "Britanya / Hint Okyanusu",
+        "themes": [
+          "Denizcilik",
+          "Ticaret",
+          "İmparatorluk",
+          "Ekonomi"
+        ],
+        "whatWeSee": "Return of the Obra Dinn, kayıp bir ticaret gemisini cinayet-gizem bulmacasına dönüştürür. Oyuncu cesetleri, meslekleri, aksanları, üniformaları ve kargo izlerini okuyarak gemide ne olduğunu anlamaya çalışır. Oyun doğaüstü bir olayı merkezine alsa da en güçlü gerçeklik hissi geminin kendisindedir: çok uluslu mürettebat, hiyerarşik görev dağılımı, sigorta kaydı, şirket malı ve uzak deniz ticaretinin soğuk muhasebesi.",
+        "realHistory": "### Gemi bir şirket uzantısıydı\n\nReturn of the Obra Dinn’in kurgusal gemisi, oyuncuya bir suç mahalli gibi görünür. Gerçek 18. ve erken 19. yüzyıl deniz dünyasında ise böyle gemiler aynı zamanda ticari yatırım, hukuki sorumluluk ve imparatorluk altyapısıydı. East India Company gibi şirketler, yalnız mal taşıyan sıradan tüccarlar değildi. Royal Museums Greenwich’in East India Company rehberi, şirketin arşivlerinin gemiler, kaptanlar, seferler ve ticari kayıtlar üzerinden okunabildiğini gösterir. Bu dünya, çay, pamuk, ipek, baharat ve porselen gibi malların Avrupa tüketimine bağlandığı uzun bir deniz ağıydı.\n\nBu ağın merkezinde gemideki emek vardı. Kaptan, subaylar, topçular, marangozlar, aşçılar, kamarotlar ve denizciler yalnız “arka plan karakteri” değildi; seferin hayatta kalma mekanizmasıydı. Fırtına, hastalık, isyan, korsan tehdidi, savaş ve yetersiz ikmal her yolculuğu ekonomik risk haline getiriyordu. Obra Dinn’in oyuncuya her kişiyi tek tek tanıtmaya zorlaması bu yüzden tarihsel olarak anlamlıdır: gemi, imparatorluk ticaretini taşıyan küçük ama karmaşık bir toplumsal düzendi.\n\n### Sigorta gerçeği\n\nOyundaki soruşturmacı, aslında sigorta hesabı yapan bir temsilci gibi çalışır: kim öldü, kargo ne oldu, sorumluluk kime yazılacak? Lloyd’s tarihçesi, kurumun 1688’de bir kahvehane çevresindeki denizcilik ve ticaret haberlerinden doğduğunu, zamanla risk paylaşımının merkezi haline geldiğini anlatır. Deniz sigortası, uzak ticaretin belirsizliğini sayıya çevirmenin yoluydu. Bir geminin batması yalnız trajedi değil, poliçe, zarar kaydı, ödeme ve hukuki tartışma demekti.\n\nBu bakış, Obra Dinn’in soğuk defter estetiğini güçlendirir. Oyuncu ölülerin hikâyesini çözerken aslında modern ticaretin temel sorusuyla uğraşır: risk kimindir? Lloyd’s’un deniz sigortası ve köle ticareti hakkındaki kurumsal değerlendirmesi, bu finansal altyapının Avrupa’nın denizaşırı genişlemesini ve sömürgeci ekonomileri kolaylaştırdığını da kabul eder. Bu nedenle deniz sigortası yalnız tarafsız muhasebe değil, imparatorluk ticaretinin çalışmasını sağlayan mekanizmalardan biriydi.\n\n### Ticaret ve şiddet aynı rotada\n\nEast India Company’nin tarihi yalnız mal değişimiyle sınırlı kalmadı. National Army Museum, şirketin Asya ticareti için kurulup zamanla Hindistan’da geniş bölgeleri yöneten ve kendi ordusuyla askeri güç kullanan bir yapıya dönüştüğünü anlatır. Bu, Obra Dinn gibi bir geminin neden sadece “ticaret gemisi” sayılamayacağını gösterir. Kargo ambarı, harita, silah, maaş defteri ve sigorta formu aynı sistemin parçalarıydı.\n\nOyun, bu yapıyı doğrudan ders gibi anlatmaz; ama oyuncuyu gemi toplumunun kayıtlarını okumaya zorlayarak gerçeğe yaklaşır. Her ölüm bireysel bir olaydır; fakat her ölüm aynı zamanda bir deftere yazılır. True Frame açısından asıl mesele budur: deniz macerası estetiğinin arkasında, insanları, malları ve riski küresel ölçekte hesaplayan bir ticaret imparatorluğu vardı.\n\n### Kayıt tutmanın ahlakı\n\nBu yüzden Obra Dinn’in defter tutma mekaniği yalnız oynanış aracı değildir. Oyuncu her kimliği doğru eşleştirdiğinde, gemideki insanı aynı anda hem birey hem kayıt satırı olarak görür. Erken modern deniz ticaretinde de insan hayatı, kargo değeri ve şirket zararı çoğu zaman aynı dosyada buluşuyordu. Oyunun rahatsız edici gücü buradan gelir: kaybolan geminin sırrını çözmek, aynı zamanda insanların küresel ticaret düzeni içinde nasıl sayıldığını ve nasıl unutulduğunu fark etmektir.",
+        "accuracyNote": "Oyun doğaüstü bir gemi gizemi kurar; tarihsel karşılık, East India Company gemilerinin çok uluslu emek, uzak ticaret, deniz sigortası ve imparatorluk ekonomisiyle ilişkisidir.",
+        "whyInteresting": "Bir gemi kayıp olduğunda yalnız mürettebat değil, yatırım, sigorta, kargo, şirket itibarı ve imparatorluk ticareti de krize giriyordu.",
+        "misconception": "East India Company gemilerinin yalnız egzotik mal taşıyan romantik ticaret araçları olduğu sanılır; gerçekte bu gemiler finans, hukuk, emek ve sömürgeci güç ilişkilerinin hareketli düğümleriydi.",
+        "nextTopics": [
+          "Merkantilizm",
+          "Şirket Egemenliği",
+          "Korsanlar Cumhuriyeti"
+        ],
+        "relatedCardIds": [
+          "tf26-221-eu4-mercantilism-colonialism",
+          "tf26-228-cyberpunk-corporate-sovereignty",
+          "tf26-201-ac4-republic-of-pirates"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "minor",
+        "mediaConnection": "Return of the Obra Dinn’in sigorta soruşturması ve gemi toplumu, East India Company ticareti ve Lloyd’s deniz sigortası kültürüyle birlikte okunabilir.",
+        "accuracyType": "inspired-by-reality",
+        "tags": [
+          "denizcilik",
+          "east-india-company",
+          "ticaret",
+          "sigorta",
+          "true-frame"
+        ],
+        "spoilerNote": "Return of the Obra Dinn’in oynanış yapısına dair küçük bağlam ipuçları içerir; çözümü anlatmaz.",
+        "mediaChanged": "Oyun kurgusal bir gemi felaketini kişisel kaderler üzerinden çözdürür; tarihsel çerçeve aynı gemi dünyasını ticaret şirketi, deniz sigortası ve imparatorluk ekonomisi olarak genişletir.",
+        "whyItMatters": "Deniz ticaretini yalnız macera olarak değil, modern kapitalizm ve imparatorluk kurumlarının teknik altyapısı olarak görmeyi sağlar.",
+        "isFlagship": true,
+        "quickRealityCheck": "Bir gemideki ölüm kaydı neden yalnız polisiye değil, aynı zamanda ticaret ve sigorta belgesi sayılır?",
+        "sources": [
+          {
+            "title": "Royal Museums Greenwich - Research guide F5: The East India Company",
+            "url": "https://www.rmg.co.uk/collections/research-guides/research-guide-f5-east-india-company",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Lloyd's - History",
+            "url": "https://www.lloyds.com/about-lloyds/history",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Lloyd's - Marine insurance and slavery",
+            "url": "https://www.lloyds.com/about-lloyds/history/the-trans-atlantic-slave-trade/lloyds-marine-insurance-and-slavery",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "National Army Museum - Armies of the East India Company",
+            "url": "https://www.nam.ac.uk/explore/armies-east-india-company",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Royal Museums Greenwich - Research guide F5: The East India Company",
+            "url": "https://www.rmg.co.uk/collections/research-guides/research-guide-f5-east-india-company",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Lloyd's - History",
+            "url": "https://www.lloyds.com/about-lloyds/history",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Lloyd's - Marine insurance and slavery",
+            "url": "https://www.lloyds.com/about-lloyds/history/the-trans-atlantic-slave-trade/lloyds-marine-insurance-and-slavery",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "National Army Museum - Armies of the East India Company",
+            "url": "https://www.nam.ac.uk/explore/armies-east-india-company",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-252-1979revolution-iran",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "1979 Revolution: Black Friday için İran Devrimi tek sokak çatışması değil; Şah rejimi, çok aktörlü protesto koalisyonu, Khomeini’nin dönüşü ve devrim sonrası iktidar konsolidasyonu üzerinden yeni flagship karta dönüştürüldü.",
+      "fields": {
+        "title": "İran Devrimi",
+        "subtitle": "Black Friday’den İslam Cumhuriyeti’ne",
+        "mediaType": "game",
+        "mediaTitle": "1979 Revolution: Black Friday",
+        "era": "Modern Tarih",
+        "region": "İran",
+        "themes": [
+          "Devrim",
+          "Siyaset",
+          "Medya",
+          "Toplum"
+        ],
+        "whatWeSee": "1979 Revolution: Black Friday, oyuncuyu sokak protestolarının, güvenlik güçlerinin, aile baskısının ve siyasi belirsizliğin içine yerleştirir. Kamera çoğu zaman bireyin ne gördüğüne, kime yardım ettiğine ve hangi ifadeyi kayda geçirdiğine odaklanır. Bu tercih doğru bir kapı açar: 1979 İran Devrimi yalnız saraydan düşen bir hükümdar hikâyesi değil, milyonlarca insanın farklı beklentilerle aynı rejime karşı sokağa çıktığı ve sonra devrimin yönü üzerinde kontrolü kaybettiği çok katmanlı bir kırılmadır.",
+        "realHistory": "### Rejim krizi\n\n1979 İran Devrimi, yalnız bir günde patlayan öfke değildi. Şah Muhammed Rıza Pehlevi yönetimi, hızlı modernleşme, Batı yanlısı dış politika, petrol gelirleri, güvenlik aygıtı ve siyasi baskı üzerine kurulu bir düzen yürütüyordu. Bu düzen bazı kesimler için eğitim, şehirleşme ve tüketim imkânı yaratırken, başka kesimler için eşitsizlik, kültürel yabancılaşma ve temsil eksikliği anlamına geldi. Muhalefet tek renkli değildi: İslamcılar, solcular, liberaller, öğrenciler, çarşı esnafı, dinî çevreler ve milliyetçi gruplar farklı nedenlerle Şah’a karşı birleşti.\n\n1978 boyunca gösteriler büyüdü. 8 Eylül 1978’de Tahran’daki Jaleh Meydanı’nda yaşanan ve “Black Friday” olarak anılan katliam, protesto hafızasında dönüm noktası oldu. 1979 Revolution oyununun başlığa bunu seçmesi bu yüzden anlamlıdır: sokakta yaşanan şiddet, devletin meşruiyet krizini daha görünür hale getirdi. Fakat tek olay devrimi açıklamaz. Grevler, yas törenleri, cami ağları, kasetler, posterler, sürgündeki Khomeini’nin mesajları ve güvenlik güçlerinin moral kaybı birlikte çalıştı.\n\n### Görüntü ve propaganda\n\nOyunda fotoğraf çekmek ve tanıklık önemli bir mekaniktir. Gerçek devrimde de görsel kültür büyük rol oynadı. University of Chicago Library’nin İran devrimi posterleri sergisi, 1979 sonrasında posterlerin hem devrimci hafızayı hem de savaş ve rejim meşruiyetini şekillendirdiğini gösterir. Devrim yalnız meydanda değil, duvarda, afişte, kasette ve gazetede de yürüdü. Khomeini’nin 1 Şubat 1979’da sürgünden dönüşü, milyonların karşıladığı büyük bir medya ve kitle siyaseti anına dönüştü.\n\nNational Security Archive’in değerlendirmesi, ABD istihbarat ve diplomasi raporlarının devrimi anlamakta karışık ve çoğu zaman yetersiz kaldığını aktarır. Bu nokta önemlidir: devrim yalnız İran toplumunun iç meselesi değildi; Soğuk Savaş, petrol, ABD desteği ve bölgesel güç dengesiyle de yakından izleniyordu. Şah’ın 16 Ocak 1979’da ülkeyi terk etmesi, monarşinin fiilen çözülmesini hızlandırdı; 11 Şubat’ta devrimci güçler belirleyici üstünlüğe ulaştı.\n\n### Devrimden sonra\n\nDevrimler çoğu zaman “eski rejim yıkıldı” cümlesiyle anlatılır; asıl zor bölüm ise kimin yeni düzeni kuracağıdır. 1979’da Şah’a karşı birleşen gruplar, devrim sonrasında aynı geleceği istemiyordu. Khomeini ve çevresi giderek daha belirleyici hale geldi; referandumla İslam Cumhuriyeti kuruldu, devrim kurumları güçlendi ve birçok eski müttefik dışarı itildi. Bu nedenle 1979’u yalnız özgürlük arayışı veya yalnız dinî iktidar hikâyesi diye okumak eksik kalır. Aynı anda umut, intikam, anti-emperyalizm, toplumsal adalet isteği, dinî seferberlik ve otoriter yeniden kuruluş vardı.\n\n1979 Revolution’ın değeri, oyuncuya tarihin nihai sonucunu değil, belirsizlik hissini yaşatabilmesidir. Sokaktaki kişi hangi hareketin geleceği belirleyeceğini bilmez; yalnız o anda kime güveneceğine karar verir. True Frame açısından tarihsel gerçek de burada başlar: devrim anında aynı sloganın altında duran insanlar, devrimden sonra çok farklı sonuçlarla karşılaşabilir.\n\n### Oyun için doğru odak\n\nBu nedenle 1979 Revolution’ın en güçlü tarafı, devrimi tek bir lider biyografisine çevirmemesi, oyuncuyu sokaktaki belirsizlikle baş başa bırakmasıdır. Bir fotoğrafı çekmek, bir ifadeyi vermek veya bir akrabayı korumak küçük seçim gibi görünür; fakat devrim anlarında bilgi, güvenlik ve sadakat hızla politikleşir. Tarihsel kaynaklar büyük çizgiyi anlatır, oyun ise bu çizginin birey üzerinde nasıl baskıya dönüştüğünü hissettirebilir.",
+        "accuracyNote": "Oyun bireysel tanıklık ve sokak gerilimi üzerinden ilerler. Tarihsel İran Devrimi ise Şah rejiminin krizi, çok aktörlü protesto koalisyonu, medya/afiş kültürü, Khomeini’nin dönüşü ve devrim sonrası iktidar mücadelesiyle birlikte okunmalıdır.",
+        "whyInteresting": "Bir devrim, sokakta ortak slogan yaratabilir; ama iktidar boşluğu açıldığında o sloganı kimin kuruma çevirdiği belirleyici olur.",
+        "misconception": "1979 İran Devrimi’nin yalnız Khomeini’nin yönettiği tek çizgili bir İslamcı hareket olduğu sanılır; gerçekte Şah’a karşı çok farklı kesimler birleşti, fakat devrim sonrası yönü bu koalisyonun tamamı belirleyemedi.",
+        "nextTopics": [
+          "Domuzlar Körfezi Operasyonu",
+          "MKUltra",
+          "Gözetim Devleti"
+        ],
+        "relatedCardIds": [
+          "tf26-246-codbo-bay-of-pigs",
+          "tf26-245-codbo-mkultra",
+          "tf26-213-papersplease-surveillance"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "minor",
+        "mediaConnection": "1979 Revolution: Black Friday’in sokak tanıklığı ve fotoğraf mekaniği, İran Devrimi’nin protesto, görsel propaganda ve iktidar boşluğu tarihine doğrudan bağlanır.",
+        "accuracyType": "partly-real",
+        "tags": [
+          "iran-devrimi",
+          "siyaset",
+          "devrim",
+          "black-friday",
+          "true-frame"
+        ],
+        "spoilerNote": "1979 Revolution: Black Friday’in tarihsel bağlamına dair ipuçları içerir; oyun sonunu anlatmaz.",
+        "mediaChanged": "Oyun devrimi bireysel kararlar ve sokak sahneleriyle yaşatır; tarihsel çerçeve protesto koalisyonu, dış politika, propaganda ve devrim sonrası iktidar konsolidasyonunu ekler.",
+        "whyItMatters": "İran Devrimi, halk hareketlerinin yalnız rejimi yıkma gücünü değil, yeni düzenin kimin elinde şekillendiği sorusunun ağırlığını da gösterir.",
+        "isFlagship": true,
+        "quickRealityCheck": "Bir devrimde aynı meydanda duran insanlar, devrimden sonra neden aynı geleceği paylaşmayabilir?",
+        "sources": [
+          {
+            "title": "University of Chicago Library - Visualizing a Revolution",
+            "url": "https://www.lib.uchicago.edu/collex/exhibits/graphics-revolution-and-war-iranian-poster-arts/visualizing-revolution/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "National Security Archive - Iran's 1979 Revolution Revisited",
+            "url": "https://nsarchive.gwu.edu/briefing-book/iran/2019-02-11/irans-1979-revolution-revisited-failures-few-successes-us-intelligence-diplomatic-reporting",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "History Today - Return of the Ayatollah: Iran's Islamic Revolution",
+            "url": "https://www.historytoday.com/archive/feature/return-ayatollah-irans-islamic-revolution",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "U.S. Office of the Historian - The Iranian Hostage Crisis",
+            "url": "https://history.state.gov/milestones/1977-1980/iranian-hostage-crisis",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "University of Chicago Library - Visualizing a Revolution",
+            "url": "https://www.lib.uchicago.edu/collex/exhibits/graphics-revolution-and-war-iranian-poster-arts/visualizing-revolution/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "National Security Archive - Iran's 1979 Revolution Revisited",
+            "url": "https://nsarchive.gwu.edu/briefing-book/iran/2019-02-11/irans-1979-revolution-revisited-failures-few-successes-us-intelligence-diplomatic-reporting",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "History Today - Return of the Ayatollah: Iran's Islamic Revolution",
+            "url": "https://www.historytoday.com/archive/feature/return-ayatollah-irans-islamic-revolution",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "U.S. Office of the Historian - The Iranian Hostage Crisis",
+            "url": "https://history.state.gov/milestones/1977-1980/iranian-hostage-crisis",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-253-civ-tech-tree-myth",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Civilization’ın teknoloji ağacı, tarih çizgisel ilerleme merdiveniymiş gibi okunmasın diye teleolojik ilerleme fikri, teknoloji-toplum ilişkisi ve bilimsel devrim tartışmalarıyla kaynaklı yeni karta dönüştürüldü.",
+      "fields": {
+        "title": "Teknoloji Ağacı Miti",
+        "subtitle": "Tarih gerçekten düz bir ilerleme merdiveni mi?",
+        "mediaType": "game",
+        "mediaTitle": "Civilization",
+        "era": "Genel Tarih",
+        "region": "Küresel",
+        "themes": [
+          "Teknoloji",
+          "Tarih Yazımı",
+          "Bilim",
+          "Siyaset"
+        ],
+        "whatWeSee": "Civilization serisinde teknoloji ağacı oyuncuya rahat anlaşılır bir ilerleme haritası verir: çömlekçilikten yazıya, metal işçiliğinden sanayiye, uçuşa ve uzaya doğru açılan dallar. Bu mekanik strateji oyunu için çok kullanışlıdır; oyuncuya plan, tercih ve ödül hissi verir. Ama gerçek tarih, her toplumun aynı merdiveni aynı sırayla çıktığı bir teknoloji listesi değildir.",
+        "realHistory": "Teknoloji ağacı, karmaşık tarihi oynanabilir hale getirir. Sorun mekanikte değil, bu haritayı gerçek tarihin doğal akışı gibi okumaktadır. Stanford Encyclopedia of Philosophy’nin ilerleme maddesi, “kaçınılmaz, küresel ve çizgisel ilerleme” fikrinin teleolojik bir tarih anlayışıyla ilişkili olduğunu vurgular. Yani dünya sanki tek bir hedefe doğru zorunlu olarak ilerliyormuş gibi anlatılır.\n\nGerçekte teknolojiler ihtiyaç, çevre, ticaret, savaş, kurum, emek ve tesadüfle şekillenir. Bazı buluşlar bir bölgede erken ortaya çıkar ama yayılmaz; bazı toplumlar belirli teknolojileri bilerek kullanmaz veya farklı önceliklere göre dönüştürür. Matbaa, barut, pusula, sulama sistemi ya da demiryolu aynı etkiyi her yerde yaratmadı. Teknoloji tek başına toplumu taşıyan motor değil, toplumla pazarlık eden bir araçtır.\n\nCivilization bu karmaşayı dallara böler: önce şu, sonra bu. Oyun için bu adil ve okunabilir bir tasarımdır; tarih içinse eksiktir. Bilimsel devrimler bile düz çizgi halinde işlemez. Paradigmalar, kurumlar, deney teknikleri ve finansman değişmeden bilgi “otomatik olarak” ilerlemez. Bu yüzden teknoloji ağacı, tarihin kendisi değil, tarihin oyunlaştırılmış dilidir. Oyuncuya güçlü bir strateji hissi verir; True Frame ise bunun arkasındaki soruyu sorar: İlerleme dediğimiz şey kimin ölçüsüne göre ilerlemedir?",
+        "accuracyNote": "Civilization teknoloji ağacını oynanabilirlik için sadeleştirir. Gerçek tarih ise çizgisel, kaçınılmaz ve evrensel bir teknoloji sırası izlemez.",
+        "whyInteresting": "Oyuncuya doğal görünen ilerleme çizgisi, aslında modern tarih anlatısının en güçlü varsayımlarından biridir.",
+        "misconception": "Tüm toplumların aynı teknolojik basamaklardan aynı sırayla geçtiği sanılır; oysa teknoloji tarihleri bölgesel ihtiyaçlar, kurumlar ve güç ilişkileriyle farklılaşır.",
+        "nextTopics": [
+          "Sanayileşme",
+          "Merkantilizm",
+          "Topyekûn Savaş Ekonomisi"
+        ],
+        "relatedCardIds": [
+          "tf26-222-victoria3-industrial-labor",
+          "tf26-221-eu4-mercantilism-colonialism",
+          "tf26-223-hoi4-war-economy"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "Civilization’ın teknoloji ağacı, tarihsel gelişmeyi oynanabilir bir ilerleme haritasına çevirir; gerçek tartışma teknolojinin toplumdan bağımsız ve çizgisel ilerleyip ilerlemediğidir.",
+        "accuracyType": "partly-real",
+        "tags": [
+          "civilization",
+          "teknoloji",
+          "tarih-yazimi",
+          "ilerleme",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun teknolojiyi net dallar ve ödüller halinde sunar; tarihsel okuma aynı sürecin çok daha düzensiz, bölgesel ve politik olduğunu gösterir.",
+        "whyItMatters": "Teknoloji tarihini düz bir başarı merdiveni gibi görmek, sömürgecilik, emek, çevre ve kurumların rolünü görünmez kılar.",
+        "isFlagship": false,
+        "quickRealityCheck": "Teknoloji ağacındaki bir sonraki adım gerçekten tarihin doğal yönü mü, yoksa oyunun düzenli hale getirdiği bir tasarım mı?",
+        "sources": [
+          {
+            "title": "Stanford Encyclopedia of Philosophy - Progress",
+            "url": "https://plato.stanford.edu/entries/progress/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Stanford Encyclopedia of Philosophy - Philosophy of Technology",
+            "url": "https://plato.stanford.edu/entries/technology/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Stanford Encyclopedia of Philosophy - Scientific Revolutions",
+            "url": "https://plato.stanford.edu/entries/scientific-revolutions/",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Stanford Encyclopedia of Philosophy - Progress",
+            "url": "https://plato.stanford.edu/entries/progress/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Stanford Encyclopedia of Philosophy - Philosophy of Technology",
+            "url": "https://plato.stanford.edu/entries/technology/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Stanford Encyclopedia of Philosophy - Scientific Revolutions",
+            "url": "https://plato.stanford.edu/entries/scientific-revolutions/",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-254-aoe-siege-engineering",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Age of Empires II’nin kuşatma makineleri, tek tıklık duvar yıkma mekaniği yerine mühendislik, ikmal, hendek, tünel, açlık ve uzun kuşatma süreçleriyle kaynaklı yeni karta dönüştürüldü.",
+      "fields": {
+        "title": "Kuşatma Mühendisliği",
+        "subtitle": "Mancınık tek başına kale yıkmazdı",
+        "mediaType": "game",
+        "mediaTitle": "Age of Empires II",
+        "era": "Orta Çağ",
+        "region": "Avrupa / Akdeniz",
+        "themes": [
+          "Orta Çağ",
+          "Savaş",
+          "Mühendislik",
+          "Kale"
+        ],
+        "whatWeSee": "Age of Empires II’de kuşatma makineleri çok nettir: mangonel, ram, trebuchet ya da bombard topu üretirsin, sura gönderirsin, taş duvar yıkılır. Bu mekanik savaşın okumasını kolaylaştırır; kale savunması ve kuşatma teknolojisi arasındaki gerilimi görünür kılar. Fakat gerçek ortaçağ kuşatmaları yalnız makine gücüyle değil, zaman, ikmal, moral, hastalık ve mühendislik sabrıyla kazanılırdı.",
+        "realHistory": "Ortaçağda kaleyi almak çoğu zaman açık meydan savaşından daha yıpratıcıydı. English Heritage’ın kuşatma savaşı anlatısı, saldırganların yalnız duvara taş fırlatmadığını; hendek kazma, tünel açma, sur altını zayıflatma, aç bırakma, kuşatma kuleleri ve pazarlık gibi yöntemleri birlikte kullandığını gösterir. Trebuchet gibi makineler güçlüydü, ama hedefi anında silen sihirli araçlar değildi.\n\nDover Castle’ın 1216–1217 kuşatmaları iyi bir örnektir. English Heritage, bu kuşatmalarda tünel, kapı saldırısı ve kuşatma makinelerinin savunmayı zorladığını anlatır. Kalenin düşmemesi yalnız taş duvar kalınlığıyla değil, savunucuların direnci, lojistik dayanıklılığı ve siyasi bağlamla ilişkiliydi. Kuşatma, mühendislik kadar sabır oyunuydu: saldıran taraf uzun süre orduyu beslemek, hastalığı kontrol etmek ve moral kaybını önlemek zorundaydı.\n\nAge of Empires II bu gerçekliği basitleştirir ve doğru yapar; çünkü oyun hız ister. Ama True Frame açısından güzel soru şudur: bir suru yıkan şey gerçekten mancınık mıydı, yoksa mühendis, erzak, zaman ve pazarlık zinciri mi? Ortaçağ kuşatma teknolojisi, savaşın yalnız cesaret değil, teknik organizasyon işi olduğunu gösterir.",
+        "accuracyNote": "Oyun kuşatma makinelerini kısa ve okunabilir bir savaş mekaniğine dönüştürür. Gerçekte kuşatmalar tünel, açlık, ikmal, mühendislik ve siyasi pazarlıkla birlikte yürüyen uzun operasyonlardı.",
+        "whyInteresting": "Kale savaşlarının en dramatik tarafı büyük taş makineleri değil, haftalarca hatta aylarca süren teknik ve lojistik dayanma gücüydü.",
+        "misconception": "Trebuchet ya da mancınığın tek başına kaleyi kolayca yıktığı sanılır; çoğu kuşatma çok daha karmaşık bir mühendislik ve ikmal mücadelesiydi.",
+        "nextTopics": [
+          "Hanedan Evlilikleri",
+          "Feodal Ordu",
+          "Paralı Ordular"
+        ],
+        "relatedCardIds": [
+          "tf26-220-ck3-dynastic-marriage",
+          "tf26-255-totalwar-condottieri",
+          "tf26-231-mgs-private-military-companies"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "Age of Empires II’nin kuşatma birimleri, gerçek ortaçağ kuşatmalarındaki mühendislik, lojistik ve savunma-zaman ilişkisiyle birlikte okunabilir.",
+        "accuracyType": "partly-real",
+        "tags": [
+          "age-of-empires",
+          "kusatma",
+          "orta-cag",
+          "muhendislik",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun kuşatmayı üretim ve saldırı döngüsüne indirger; tarihsel gerçeklikte suru zorlayan şey makine kadar açlık, hendek, tünel ve ikmal baskısıydı.",
+        "whyItMatters": "Kuşatma tarihi, savaş teknolojisinin tek başına değil örgütlenme ve kaynak yönetimiyle etkili olduğunu gösterir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Bir kaleyi yıkan şey gerçekten trebuchet miydi, yoksa onu aylarca çalıştırabilecek ordu düzeni mi?",
+        "sources": [
+          {
+            "title": "English Heritage - Medieval siege warfare",
+            "url": "https://www.english-heritage.org.uk/learn/story-of-england/medieval/siege-warfare/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "English Heritage - The Sieges of Dover Castle 1216–17",
+            "url": "https://www.english-heritage.org.uk/visit/places/dover-castle/history-and-stories/the-sieges-of-dover/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Royal Armouries - History of the Tower Armouries",
+            "url": "https://royalarmouries.org/about-us/royal-armouries-history/history-of-the-tower-armouries",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "English Heritage - Medieval siege warfare",
+            "url": "https://www.english-heritage.org.uk/learn/story-of-england/medieval/siege-warfare/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "English Heritage - The Sieges of Dover Castle 1216–17",
+            "url": "https://www.english-heritage.org.uk/visit/places/dover-castle/history-and-stories/the-sieges-of-dover/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Royal Armouries - History of the Tower Armouries",
+            "url": "https://royalarmouries.org/about-us/royal-armouries-history/history-of-the-tower-armouries",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-255-totalwar-condottieri",
+      "operation": "add",
+      "reviewStatus": "new_card",
+      "notes": "Total War: Medieval II’nin paralı ordu mekaniği, İtalyan condottieri sistemindeki sözleşmeli savaş, şehir devletleri rekabeti ve savaşın ekonomik girişime dönüşmesiyle kaynaklı yeni karta dönüştürüldü.",
+      "fields": {
+        "title": "Paralı Ordular",
+        "subtitle": "Condottieri ve savaşın ekonomisi",
+        "mediaType": "game",
+        "mediaTitle": "Total War: Medieval II",
+        "era": "Orta Çağ / Rönesans",
+        "region": "İtalya",
+        "themes": [
+          "Savaş",
+          "Ekonomi",
+          "Rönesans",
+          "Siyaset"
+        ],
+        "whatWeSee": "Total War: Medieval II’de paralı askerler pratik bir çözümdür: paran varsa hızlıca ordu kurar, açıklarını kapatır, cepheye hazır birlik gönderirsin. Oyun, savaşın yalnız sadakat ya da feodal yükümlülükle değil, nakit ve sözleşmeyle de yürüdüğünü gösterir. İtalya’daki condottieri sistemi bu mekaniğin en güçlü tarihsel karşılıklarından biridir.",
+        "realHistory": "14. ve 15. yüzyıl İtalya’sında şehir devletleri, papalık, prenslikler ve zengin aileler sürekli rekabet halindeydi. Bu parçalı siyasi yapı, savaşı profesyonel hizmete dönüştüren condottieri için uygun bir pazar yarattı. Condottiere kelimesi, hizmet koşullarını belirleyen “condotta” sözleşmesinden gelir. Yani bu kişiler yalnız savaşçı değil, askeri girişimciydi.\n\nMichael Mallett’in Renaissance Italy’de savaş üzerine çalışması, condottieri çağını yalnız renkli kaptanlar dizisi değil, şehir devletlerinin askeri ihtiyaçları ve ekonomik kapasitesi içinde ele alır. Bir condottiere, asker toplar, maaş pazarlığı yapar, savaş riskini hesaplar ve bazen işveren değiştirirdi. Bu durum onları güvenilmez yapabildiği gibi, şehirler için de vazgeçilmez kılıyordu: sürekli büyük vatandaş ordusu beslemek pahalıydı; sözleşmeli ordu daha esnek görünüyordu.\n\nFakat paralı savaşın kendi mantığı vardı. Bir komutanın amacı her zaman kesin zafer değil, gücünü ve pazarlık değerini korumak olabilirdi. Savaş uzadıkça maaş, yağma, erzak ve siyasi tavizler önem kazandı. Total War’daki “para ver, birlik al” mekaniği bu sistemi basitleştirir; ama temel fikir doğru kalır. Savaş, ideallerin yanında bir hizmet piyasasıydı. Condottieri tarihi, Rönesans İtalya’sında sanat, bankacılık ve şehir ihtişamının arkasında ücretli şiddetin de çalıştığını hatırlatır.",
+        "accuracyNote": "Oyun paralı askerleri hızlı ve pratik bir ordu mekaniği olarak sunar. İtalyan condottieri sistemi ise sözleşme, maaş, şehir devleti rekabeti ve askeri girişimcilik üzerine kurulu daha karmaşık bir yapıdır.",
+        "whyInteresting": "Rönesans İtalya’sında savaş yalnız soylu onuru değil, sözleşme, nakit akışı ve pazarlık gücüyle yürüyen bir piyasa işiydi.",
+        "misconception": "Paralı askerlerin yalnız disiplinsiz ve rastgele savaşçılar olduğu sanılır; condottieri çoğu zaman büyük şirketler gibi çalışan askeri girişimlerdi.",
+        "nextTopics": [
+          "Kuşatma Mühendisliği",
+          "Hanedan Evlilikleri",
+          "Özel Askeri Şirketler"
+        ],
+        "relatedCardIds": [
+          "tf26-254-aoe-siege-engineering",
+          "tf26-220-ck3-dynastic-marriage",
+          "tf26-231-mgs-private-military-companies"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "Total War: Medieval II’nin paralı asker mekaniği, İtalyan şehir devletlerinin condottieri sözleşmeleri ve savaş ekonomisiyle tarihsel karşılık bulur.",
+        "accuracyType": "partly-real",
+        "tags": [
+          "total-war",
+          "condottieri",
+          "parali-ordu",
+          "ronesans",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun paralı askerliği hızlı bir strateji seçeneği yapar; tarihsel sistemde bu seçenek şehir devletlerinin mali kapasitesi, diplomasi hesabı ve savaş piyasasıyla bağlantılıydı.",
+        "whyItMatters": "Condottieri, modern özel askeri şirketler tartışmasının uzak ama öğretici bir öncülü gibi okunabilir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Paralı asker sadakatsiz olduğu için mi sorunluydu, yoksa savaşın maliyetini açıkça pazarlığa çevirdiği için mi?",
+        "sources": [
+          {
+            "title": "Michael Mallett - Mercenaries and Their Masters: Warfare in Renaissance Italy",
+            "url": "https://books.google.com/books/about/Mercenaries_and_Their_Masters.html?id=vf1yCgAAQBAJ",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Encyclopaedia Britannica 1911 - Condottiere",
+            "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Condottiere",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "TED-Ed - The rise and fall of Italy's warriors-for-hire",
+            "url": "https://ed.ted.com/lessons/the-merciless-mercenaries-of-the-italian-renaissance-stephanie-honchell-smith",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "isPremium": false,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Michael Mallett - Mercenaries and Their Masters: Warfare in Renaissance Italy",
+            "url": "https://books.google.com/books/about/Mercenaries_and_Their_Masters.html?id=vf1yCgAAQBAJ",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Encyclopaedia Britannica 1911 - Condottiere",
+            "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Condottiere",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "TED-Ed - The rise and fall of Italy's warriors-for-hire",
+            "url": "https://ed.ted.com/lessons/the-merciless-mercenaries-of-the-italian-renaissance-stephanie-honchell-smith",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

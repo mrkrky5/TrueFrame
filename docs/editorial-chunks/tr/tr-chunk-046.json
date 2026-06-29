@@ -1,0 +1,295 @@
+{
+  "locale": "tr",
+  "chunkIndex": 46,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-033-runes",
+      "title": "Rün Yazıları",
+      "subtitle": "Küçük ayrıntı, büyük tarih",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Orta Çağ",
+      "region": "İskandinavya",
+      "themes": [
+        "Denizcilik",
+        "Savaş",
+        "Göç"
+      ],
+      "whatWeSee": "Vikings'te rünler genelde karanlık bir kehanet ya da lanet işareti gibi kullanılıyor. Bir taş, bir kemik parçası veya duvardaki oyma aniden sahnenin havasını değiştiriyor. Yazı, gündelik iletişimden çok savaşçı inanç dünyasının gizli anahtarı gibi sunuluyor; bu yüzden izleyici rünleri çoğunlukla mistik bir sembol dili olarak algılıyor.",
+      "realHistory": "Rün yazısı İskandinav dünyasında yalnızca dini bir sembol sistemi değildi; toplumsal hafızayı ve hukuki iddiaları taşıyan kamusal bir araçtı. 8. ve 11. yüzyıllar arasında özellikle Genç Futhark alfabesi kullanıldı. Danimarka, İsveç ve Norveç'te bulunan runestone örnekleri, yazıtların büyük bölümünün büyü değil anma metni olduğunu gösterir. Birçok taşta \"X bu taşı Y için diktirdi\" gibi formüller vardır; bu cümleler soy bağını, miras hakkını ve yerel statüyü ilan eder. Bazı yazıtlar köprü yapımı, sefer hatırası veya ticaret yolculukları hakkında bilgi verir. Yani rünler hem kişisel yas hem de kamusal bildirim işlevi görür. Yazı bilenlerin sayısı sınırlı olsa da metinlerin kamusal alana dikilmesi, mesajın topluluk tarafından tanınmasına dayanıyordu. Kuzey Atlantik bağlantıları arttıkça runik kültür de İngiltere, İzlanda ve Grönland hattında iz bırakmıştır. Bu tablo, Viking toplumunu sadece kılıç ve yağmadan ibaret gören çerçeveyi daraltır. Rünler, hukuk, hafıza ve itibar ekonomisinin kesişiminde yer alır. Arkeolojik kayıtlar farklı bölgesel yazım varyantlarını da gösterdiği için siyasal etki alanlarının dildeki izleri takip edilebilir. Kısacası rün, gizli büyü metninden çok, erken Orta Çağ kuzeyinde taşa işlenmiş bir toplumsal kayıt mekanizmasıdır. Üstelik taşların kamusal yollara veya köprü başlarına yerleştirilmesi, metnin sadece aile içi değil bölgesel dolaşım için tasarlandığını da kanıtlar. Bu yönüyle rün, yerel toplumda hukuki hafızayı maddi mekana sabitleyen bir teknolojidir.",
+      "accuracyNote": "Mistik kullanım örnekleri vardır, fakat mevcut arkeolojik yazıtların baskın kısmı dünyevi ve toplumsal içeriklidir.",
+      "whyInteresting": "Aynı semboller hem yas tutturuyor, hem mülk ilan ediyor, hem de bir ailenin adını yüzyıllar sonrasına taşıyor.",
+      "misconception": "Rünlerin yalnızca büyü ritüellerinde kullanılan gizli bir rahip alfabesi olduğu düşünülür.",
+      "nextTopics": [
+        "Uzun Gemiler",
+        "Yağma ve Ticaret",
+        "Nors İnancı"
+      ],
+      "sources": [
+        {
+          "title": "Britannica - Runic alphabet",
+          "url": "https://www.britannica.com/topic/runic-alphabet",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "National Museum of Denmark - Runes and rune stones",
+          "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/runes-and-rune-stones/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Uppsala University - Samnordisk runtextdatabas",
+          "url": "https://www.nordiska.uu.se/forskn/samnord.htm",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-034-norse-religion",
+        "tf26-035-danelaw",
+        "tf26-036-vinland"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Vikings'in karanlık sembol dili, runik taşların kamusal ilan işleviyle karşılaştırıldığında daha net bir tarihsel çerçeveye oturur.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "viking",
+        "iskandinavya",
+        "denizcilik",
+        "run-yazilari",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "Vikings hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi rünleri dramatik etki için kehanet ve tehdit dili olarak öne çıkarıyor. Tarihte rünlerin çok büyük kısmı anma, mülkiyet ve topluluk önünde beyan işlevi görüyor.",
+      "whyItMatters": "Aynı semboller hem yas tutturuyor, hem mülk ilan ediyor, hem de bir ailenin adını yüzyıllar sonrasına taşıyor.",
+      "isFlagship": false,
+      "quickRealityCheck": "Bir runestone yazıtında en sık görülen içerik büyü metni mi, yoksa bir akraba için dikilmiş anıt bildirimi mi?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-034-norse-religion",
+      "title": "Nors İnancı",
+      "subtitle": "Nors İnancı için gerçek zemin",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Orta Çağ",
+      "region": "İskandinavya",
+      "themes": [
+        "Denizcilik",
+        "Savaş",
+        "Göç"
+      ],
+      "whatWeSee": "Vikings'te tapınak kurbanları, Odin ve Thor'a dualar ve Hristiyanlığa geçiş çatışmaları İskandinav inancının dizi atmosferindeki yerini kurar. Dizi kişisel intikam hattına bağlar; arkeoloji ve kronikler inancın siyaset ve ticaretle iç içe olduğunu gösterir.",
+      "realHistory": "Viking Çağı İskandinavyası'nda çok tanrılı bir düzen vardı: Odin (savaş ve bilgi), Thor (gök gürültüsü), Freyja ve yerel koruyucular. Ritüeller ev, çiftlik ve meclis düzeyinde yürüdü; büyük tapınak kurbanları nadirdi ama yazılı kaynaklar ve arkeoloji (ör. Gamla Uppsala) güçlü izler bırakır. Ticaret, akın ve yerleşim Hristiyanlıkla temas artırdı. 10.–11. yüzyılda krallar vaftiz oldu; din, Norveç ve Danimarka'da siyasi birleşmenin aracı haline geldi. Eski inanç yavaşça kilise takvimine ve vaftiz ritüeline dönüştü; bazı motifler halk hikâyelerinde sürdü. Vikings dini çatışmayı kişisel intikam hattına bağlar; tarihçiler ise inancın savaş ekonomisi, krallık meşruiyeti ve ticaret ağlarıyla birlikte okunmasını önerir. Gamla Uppsala'da tapınak ve kurban izleri, büyük ritüellerin varlığını destekler. Adam of Bremen'ın 11. yüzyıl anlatısı abartılı olsa da çok tanrılı düzeni tarif eder. Odin savaş ve bilgi, Thor gök gürültüsü, Freyja bereket ile ilişkilendirildi; ritüeller çoğunlukla ev ve çiftlik düzeyinde yürüdü. 10.–11. yüzyılda Harald Bluetooth ve Olaf Tryggvason gibi krallar vaftiz oldu; din siyasi birleşmenin aracı haline geldi. Hristiyanlaşma zorla da yürüdü; tapınaklar yıkıldı, yeni kiliseler inşa edildi. Eski inanç yavaşça halk hikâyelerinde sürdü. Vikings dini çatışmayı dramatize eder; tarihçiler inancı savaş ekonomisi ve krallık meşruiyetiyle birlikte okur.",
+      "accuracyNote": "Çok tanrılı inanç ve Hristiyanlaşma süreci güçlü kaynaklarla desteklenir; dizi bazı ritüelleri dramatize eder.",
+      "whyInteresting": "Aynı toplumda akın kahramanlığı ile vaftiz politikası yan yana yürüdü.",
+      "misconception": "Vikingler yalnızca 'vahşi pagan' sanılır; oysa dinleri siyasi ve ekonomik ağlarla iç içeydi.",
+      "nextTopics": [
+        "Uzun Gemiler",
+        "Yağma ve Ticaret",
+        "Rün Yazıları"
+      ],
+      "sources": [
+        {
+          "title": "Old Norse religion (Britannica)",
+          "url": "https://www.britannica.com/topic/Germanic-religion-and-mythology",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Viking Age religion (National Museum of Denmark)",
+          "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/religion-magic-death-and-rituals/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Christianization of Scandinavia (Cambridge)",
+          "url": "https://www.cambridge.org/core/books/viking-world",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-035-danelaw",
+        "tf26-036-vinland",
+        "tf26-037-shieldmaidens"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Vikings'in dini sahneleri ile Gamla Uppsala ve Hristiyanlaşma kronikleri.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "viking",
+        "iskandinavya",
+        "denizcilik",
+        "nors-i-nanci",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "Vikings hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Nors İnancı ekranda daha net bir odak kazanır; karakterlerin yolu, mekân seçimi ve çatışma ritmi bu konuyu kolay takip edilir kılar. Tarihte aynı başlık, Viking seferleri ve yerleşimleri gibi daha uzun süreçlerin içinde ilerler.",
+      "whyItMatters": "Aynı toplumda akın kahramanlığı ile vaftiz politikası yan yana yürüdü.",
+      "isFlagship": false,
+      "quickRealityCheck": "Vikings'teki tapınak sahneleri, yazılı ve arkeolojik kayıtlarla ne kadar örtüşüyor?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-035-danelaw",
+      "title": "Danelaw Düzeni",
+      "subtitle": "Ekrandaki iz, tarihteki karşılık",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Orta Çağ",
+      "region": "İskandinavya",
+      "themes": [
+        "Denizcilik",
+        "Savaş",
+        "Göç"
+      ],
+      "whatWeSee": "Vikings'te Danelaw, savaş sonrası kurulan bir güç düzeni gibi görünür; pazarlık sahneleri kısa geçer, çatışma öne çıkar. İzleyici bunu doğal olarak fetih sonucu doğmuş bir çizgi olarak okur. Oysa tarihsel Danelaw, yalnızca kılıçla değil, pazarlar, yer adları, hukuk terimleri ve uzun süreli yerleşim ağlarıyla şekillendi.",
+      "realHistory": "Danelaw, 9. yüzyıl sonu ile 10. yüzyıl başında Doğu ve Kuzey İngiltere'de İskandinav etkisinin güçlü olduğu hukuki ve idari alanı anlatır. Büyük Pagan Ordusu'nun askeri baskısı başlangıçta belirleyici olsa da yapı kısa sürede sadece işgal modeli olmadı. York gibi merkezlerde ticaret büyüdü, gümüş dolaşımı ve zanaat üretimi arttı. Yer adlarında görülen -by, -thorpe, -toft ekleri, bu yerleşim dalgasının kalıcı izidir.\n\nFive Boroughs hattı gibi merkezler askeri olduğu kadar idari düğümlerdi. Wapentake gibi terimler yerel yönetim diline girdi. Wessex kralları bölgeyi geri alırken her şeyi silmedi; Anglo-Sakson ve İskandinav uygulamaları melez biçimde yaşadı. Evlilik, ticaret ve yerel mahkeme düzenleri, çatışmadan daha uzun ömürlü bir birlikte yaşama zemini oluşturdu.\n\nBu yüzden Danelaw, tek cepheli savaş anlatısına sığmaz. İngiltere'nin hukuk, dil ve şehirleşme tarihindeki dönüşüm noktalarından biridir. Dizideki şiddet atmosferi gerçektir, ancak kalıcılığı yaratan şey gündelik kurumların nasıl yeniden kurulduğudur. Arkeolojik bulgular da bu melezliği destekler: mezar gelenekleri, ağırlık ölçü sistemleri ve ticari materyal kültüründe çift yönlü etkiler görülür. Böylece Danelaw, iki tarafın birbirini tamamen silmediği, karşılıklı uyarlamalarla yeni bir düzen ürettiği alan olarak öne çıkar. Kalıcılık, fetih hızından çok yerel kurumların yeniden dengelenmesiyle oluştu. Bu miras, ada siyasetinde uzun süre hissedilen bir dönüşüm yarattı.",
+      "accuracyNote": "Dizi dönemin şiddetini iyi taşır, fakat uzun vadeli idari dönüşümü sınırlı gösterir. Danelaw'ın asıl kalıcılığı yerel kurumlarda görülür.",
+      "whyInteresting": "Bugün bir kasaba adında yaşayan bir ekin, Viking çağındaki yerleşim pazarlıklarını taşıması tarihsel sürekliliği somutlaştırır.",
+      "misconception": "Danelaw'ın geçici bir işgal hattı olduğu düşünülür. Oysa etkisi yüzyıllarca süren bir toplumsal ve hukuki karışımdır.",
+      "nextTopics": [
+        "Uzun Gemiler",
+        "Yağma ve Ticaret",
+        "Rün Yazıları"
+      ],
+      "sources": [
+        {
+          "title": "Danelaw (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/place/Danelaw",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Vikings in Britain (The British Museum)",
+          "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/vikings",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Jorvik and Viking-age York",
+          "url": "https://www.jorvikvikingcentre.co.uk/history/",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-036-vinland",
+        "tf26-037-shieldmaidens",
+        "vikings-funeral-fadlan-real"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Vikings'teki Dan-Sakson gerilimi, Danelaw'ın hukuk ve yerleşim mirasıyla birlikte okununca dengeli bir çerçeveye oturur.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "viking",
+        "iskandinavya",
+        "denizcilik",
+        "danelaw-duzeni",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "Vikings hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi Danelaw'ı daha çok askeri kontrol meselesi olarak verir. Tarihte hukuk, pazar düzeni ve yerel yönetim en az savaş kadar belirleyiciydi.",
+      "whyItMatters": "Bugün bir kasaba adında yaşayan bir ekin, Viking çağındaki yerleşim pazarlıklarını taşıması tarihsel sürekliliği somutlaştırır.",
+      "isFlagship": false,
+      "quickRealityCheck": "İngiltere haritasındaki hangi yer adı ekleri Danelaw yerleşimlerini bugün bile görünür kılar?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-036-vinland",
+      "title": "Vinland Yolculuğu",
+      "subtitle": "Vinland: keşif mi, kısa ömürlü koloni mi?",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Orta Çağ",
+      "region": "İskandinavya",
+      "themes": [
+        "Denizcilik",
+        "Savaş",
+        "Göç"
+      ],
+      "whatWeSee": "Vikings'te Vinland, bilinen haritaların ötesinde kaderini sınayan cesur denizcilerin ulaştığı uzak, neredeyse mitik bir sınır olarak görünür. Seferler kişisel kader arayışları olarak çerçevelenir ve bilinmeyen kıyılardaki karşılaşmalar anlık gerilim ile simgesel ağırlık taşır. Dizi, cesur liderlik ve cesaretin tek başına bir okyanus geçişini kalıcı bir yeni dünya dayanağına dönüştürebileceği hissini üretir.",
+      "realHistory": "İskandinavların Kuzey Atlantik'e yayılması, Vinland olarak anılan topraklara ulaşmadan önce İzlanda ve Grönland üzerinden aşamalı biçimde ilerledi. Olaylardan yüzyıllar sonra İzlanda'da kaleme alınan temel metinsel anlatılar değerli bir hafıza korusa da tarihsel malzemeyi edebi kurguyla birleştirdikleri için eleştirel okunmalıdır. Daha sağlam dayanakları arkeoloji sağlar: Newfoundland'daki L'Anse aux Meadows sahası, İskandinav yapılarına ve demir işçiliğine dair açık kanıtlar içerir; bu da 11. yüzyılın başlarında Kuzey Amerika'da bir Avrupa varlığını gösterir. Bu varlık önemliydi ama sınırlıydı. Mevcut kanıtlar, büyük ve kalıcı sömürge genişlemesinden çok kısa süreli yerleşim ya da tekrarlanan kısa kullanımı destekler. Çekirdek yerleşimlere uzaklık, zorlu lojistik, kırılgan ikmal hatları, belirsiz getiri ve yerel topluluklarla çatışma riskleri uzun vadeli sürdürülebilirliği kısıtladı. Kereste erişimi ve keşif amaçlı ticaret fırsatları seferleri muhtemelen teşvik etti; ancak demografi ve altyapı, geniş ölçekte kalıcı yerleşim için yetersizdi. Bu nedenle Vinland, doğrusal bir fetih tarihinden çok deneysel temas alanları tarihine aittir. Vikings batıya yönelen keşfin duygusal gücünü yakalar; fakat tarihsel yeniden kurulum, sert çevresel ve stratejik sınırlar altında kırılganlık, kesintililik ve uyarlanmayı vurgular. Temel düzeltme, İskandinav seferlerinin olup olmadığı değil; edebi gelenek maddi kanıtla sınandığında Kuzey Amerika'daki izlerinin ne kadar mütevazı ve koşullu göründüğüdür.",
+      "accuracyNote": "Uzun mesafe denizcilik olasıdır; kalıcılık ve jeopolitik etki dramada çoğu zaman abartılır.",
+      "whyInteresting": "Saga anlatısının güçlü arkeolojik verilerle çapraz doğrulanabildiği nadir örneklerden biridir.",
+      "misconception": "Vinland, sınırlı bir temas dönemi yerine sıkça kalıcı bir Viking kolonisi olarak hayal edilir.",
+      "nextTopics": [
+        "Uzun Gemiler",
+        "Yağma ve Ticaret",
+        "Rün Yazıları"
+      ],
+      "sources": [
+        {
+          "title": "L'Anse aux Meadows (Parks Canada)",
+          "url": "https://parks.canada.ca/lhn-nhs/nl/meadows",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Vikings in North America (Smithsonian)",
+          "url": "https://www.smithsonianmag.com/history/the-viking-explorer-who-beat-columbus-to-america-180950982/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Vinland (Britannica)",
+          "url": "https://www.britannica.com/place/Vinland",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-032-raids-trade",
+        "vikings-silk-road-trade"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Vikings keşif hırsını iyi yakalar; arkeoloji ise ardından gelen sürecin ölçeğini ve kırılganlığını geri getirir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "viking",
+        "iskandinavya",
+        "denizcilik",
+        "vinland-yolculugu",
+        "true-frame",
+        "savas"
+      ],
+      "spoilerNote": "Vikings hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi Vinland'ı bir atılım sınırı olarak dramatize eder; oysa kanıtlar kısıtlı ve kısa ömürlü bir İskandinav varlığına işaret eder.",
+      "whyItMatters": "Saga anlatısının güçlü arkeolojik verilerle çapraz doğrulanabildiği nadir örneklerden biridir.",
+      "isFlagship": true,
+      "quickRealityCheck": "İskandinav denizciler Kuzey Amerika'ya ulaştı, ancak orada kalıcı bir sömürge sistemi kurmadı.",
+      "lastReviewedAt": "2026-06-27"
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "batch": "tr-chunks-029-030-source-aware",
+  "sourceChunks": [
+    "tr-chunk-029.json",
+    "tr-chunk-030.json"
+  ],
+  "notes": [
+    "External source-aware editorial review for Turkish chunks 029 and 030.",
+    "Only changed fields are included. Apply by id + locale.",
+    "sourceUpdates are separated from text field updates."
+  ],
+  "entries": [
+    {
+      "id": "got-war-of-roses-real",
+      "locale": "tr",
+      "decision": "flagship_rewrite_expand",
+      "reason": "Original text overmapped Game of Thrones characters to historical figures, included loosely supported one-to-one claims, and was structurally dense. Rewritten as a source-aware flagship around Wars of the Roses, Scottish inspirations for Red Wedding, Hadrian's Wall, and the broader method of historical inspiration rather than direct equivalence.",
+      "fields": {
+        "whatWeSee": "Game of Thrones, Westeros’taki hanedan savaşlarını Stark, Lannister, Baratheon ve Targaryen gibi ailelerin iktidar mücadelesi üzerinden anlatır. Dizi ejderhalar ve doğaüstü tehditler ekler; fakat saray entrikası, meşruiyet krizi, çocuk hükümdarlar ve kanlı ittifak bozma sahneleri açıkça geç Orta Çağ siyasetini çağrıştırır.",
+        "realHistory": "Game of Thrones’un tarihsel ilhamı çoğu zaman tek bir olaya indirgenir: Güllerin Savaşı. Gerçekte bağlantı bundan daha esnektir. 1455–1487 arasında İngiltere tahtı için York ve Lancaster hanedanları arasında yaşanan çatışmalar, Westeros’taki aile rekabeti için güçlü bir tarihsel zemin sağlar. Zayıf kral, tartışmalı meşruiyet, taraf değiştiren soylular, evlilik ittifakları ve savaş meydanı kadar saray dedikodusunun da belirleyici olması, dizinin politik atmosferiyle örtüşür.\n\n### Hanedan krizi ve meşruiyet\n\nGüllerin Savaşı, yalnız iki ailenin kavgası değildi. Yüz Yıl Savaşı’nın yorgunluğu, soyluların özel orduları, VI. Henry’nin zayıf yönetimi ve taht üzerindeki rakip iddialar İngiltere’yi uzun bir istikrarsızlık dönemine sürükledi. York ve Lancaster aileleri aynı büyük hanedan ağının farklı kollarıydı; bu yüzden mesele “iyi aile” ve “kötü aile” ayrımı değil, kimin daha meşru yönetici sayılacağıydı. Westeros’ta da sorun çoğu zaman budur: Tahta kimin oturduğu kadar, o iddianın kimler tarafından kabul edildiği önemlidir.\n\nStark = York, Lannister = Lancaster gibi birebir eşlemeler bu yüzden dikkatli kullanılmalıdır. George R. R. Martin tarihsel olayları kopyalamaktan çok, onların mantığını fantastik bir dünyaya taşır. Warwick gibi “kral yapan” soylular, IV. Edward’ın tartışmalı evliliği, Kuledeki Prensler söylencesi ve taraf değiştiren büyük aileler, Westeros’taki güç oyunlarını hatırlatır; ama dizideki her karakterin tek bir tarihsel karşılığı yoktur.\n\n### İhanet, misafirlik ve kuzey sınırı\n\nDizinin başka tarihsel damarları da vardır. Kızıl Düğün’ün ilham kaynakları arasında İskoç tarihindeki Kara Akşam Yemeği ve Glencoe Katliamı sıkça anılır. Bu örneklerde asıl şok, yalnız öldürme eylemi değil; misafirlik, güven ve yemin gibi sosyal kuralların ihlal edilmesidir. Orta Çağ siyasetinde bu tür ihanetler, savaş meydanından bile daha derin bir travma yaratabilirdi.\n\nKuzeydeki Duvar da Hadrian Duvarı’nı çağrıştırır. Roma’nın kuzey sınırındaki taş duvar yalnız askeri hat değil, “biz” ve “onlar” ayrımının mekânsal ifadesiydi. Game of Thrones bu fikri büyütür, buz ve doğaüstü korkuyla fantastikleştirir.\n\nBu yüzden Game of Thrones’u tarihsel açıdan ilginç yapan şey, bir olayın birebir uyarlanması değil, Orta Çağ iktidarının temel gerilimlerini kullanmasıdır: Meşru kral kimdir, sadakat ne kadar sürer, evlilik ittifakı ne zaman tuzağa dönüşür, savaş bitince devlet nasıl ayakta kalır? Westeros fantastik olabilir; ama korkuları, geç Orta Çağ Avrupa’sının hanedan siyasetinden tanıdık gelir.\n\nAyrıca Güllerin Savaşı’nın sonunda gelen Tudor uzlaşması da dizinin iktidar döngüsüyle konuşur. Henry VII, York ve Lancaster iddialarını evlilik yoluyla birleştirerek savaşı sadece savaş meydanında değil, semboller üzerinden de kapatmaya çalıştı. Game of Thrones ise benzer soruyu daha karanlık biçimde sorar: Kan döküldükten sonra yeni düzen nasıl meşru görünür? Bu açıdan tarihsel ilham, yalnız savaşların başlangıcında değil, savaşlardan sonra kurulan hafıza ve propaganda düzeninde de görülür.",
+        "accuracyNote": "Game of Thrones, Güllerin Savaşı’ndan açık biçimde esinlenen bir kurgu dünyası kurar; ancak karakterleri ve olayları birebir tarihsel karşılıklar gibi okumak yanıltıcıdır. Daha doğru yaklaşım, hanedan krizi, meşruiyet, taraf değiştirme ve misafirlik ihlali gibi tarihsel motiflerin kurguda yeniden kullanıldığını görmektir.",
+        "whyInteresting": "Westeros’un en fantastik görünen ihanetleri bile, Orta Çağ ve erken modern Britanya tarihindeki misafirlik, yemin ve hanedan meşruiyeti krizleriyle şaşırtıcı biçimde konuşur.",
+        "misconception": "Game of Thrones’un yalnızca Güllerin Savaşı’nın fantastik kopyası olduğu sanılır; gerçekte dizi, İngiliz ve İskoç tarihinden birçok motifi karıştırarak daha geniş bir iktidar anlatısı kurar.",
+        "mediaChanged": "Game of Thrones tarihsel esinleri tek bir aile savaşına değil, hanedan krizi, sadakat, evlilik siyaseti ve ihanet motiflerine yayar; gerçek tarih ise bu motiflerin çoğu zaman tek bir dramatik sahneden daha karmaşık ve uzun süreçler içinde geliştiğini gösterir.",
+        "whyItMatters": "Bu bağlantı, fantastik kurgu ile tarih arasındaki ilişkinin kopyalama değil, tarihsel güç ilişkilerini yeniden düzenleme işi olduğunu gösterir.",
+        "quickRealityCheck": "Westeros gerçekten Güllerin Savaşı’nın birebir kopyası mı, yoksa geç Orta Çağ hanedan siyasetinden beslenen daha geniş bir kurgu karışımı mı?",
+        "reviewerNote": "Wars of the Roses, Red Wedding inspirations and Hadrian's Wall framing checked against historical reference and heritage sources.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Wars of the Roses (Britannica)",
+            "url": "https://www.britannica.com/event/Wars-of-the-Roses",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Glencoe Massacre and the Red Wedding (Smithsonian Magazine)",
+            "url": "https://www.smithsonianmag.com/smart-news/archaeologists-are-excavating-site-scottish-massacre-inspired-game-thrones-red-wedding-180972186/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "History of Hadrian's Wall (English Heritage)",
+            "url": "https://www.english-heritage.org.uk/visit/places/hadrians-wall/history-and-stories/history/",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "shogun-tokugawa-rise-real",
+      "locale": "tr",
+      "decision": "flagship_rewrite_expand",
+      "reason": "Original text was heavily stylized and overlong, with sweeping character judgments and a truncated ending. Rewritten as a grounded flagship about Ieyasu/Toranaga, the Council of Five Elders, Sekigahara, William Adams and early Tokugawa order.",
+      "fields": {
+        "whatWeSee": "Shōgun, Toranaga’yı sabırlı, tehdit altında ama uzun oyunu gören bir lord olarak gösterir. Batılı denizci Anjin, Portekizli Cizvitler, Osaka’daki güç dengesi ve rakip naipler, Japonya’nın iç savaş sonrası düzen arayışını tek bir siyasi gerilim hattında toplar.",
+        "realHistory": "Shōgun’daki Toranaga karakteri, açık biçimde Tokugawa Ieyasu’dan esinlenir. Ieyasu’nun büyüklüğü yalnız savaş kazanmasında değil, savaşın ne zaman kazanılacağını bekleyebilmesindedir. Oda Nobunaga ve Toyotomi Hideyoshi Japonya’yı büyük ölçüde birleştirdikten sonra, Hideyoshi’nin 1598’de ölümü geride çocuk yaşta bir varis ve kırılgan bir naipler dengesi bıraktı. Ieyasu bu boşlukta aceleyle saldırmak yerine evlilikler, ittifaklar ve sabırlı konumlanma üzerinden güç topladı.\n\n### Sekigahara’ya giden uzun oyun\n\n1600’deki Sekigahara Muharebesi, bu uzun hazırlığın sonucuydu. Savaş yalnız iki ordunun çarpışması değildi; aylar öncesinden kurulan gizli anlaşmalar, taraf değiştirme ihtimalleri ve meşruiyet dili sonucu belirledi. Ieyasu’nun zaferi, Sengoku döneminin parçalı savaş dünyasından Tokugawa Şogunluğu’nun merkezi düzenine geçişin kapısını açtı. 1603’te şogun unvanını alması, askeri zaferi kalıcı bir kuruma dönüştürdü.\n\nDizideki Beşli Konsey gerilimi bu tarihsel zemini dramatize eder. Hideyoshi sonrası düzen, barışı korumak için kurulmuştu; ama aynı zamanda en güçlü lordların birbirini denetlediği tehlikeli bir dengeydi. Ieyasu’nun yaptığı şey bu dengeyi açıkça yıkmak değil, önce kendi lehine çalışır hale getirmekti. Bu yüzden onun stratejisi yalnız kılıçla değil, bekleme ve rakibin hamlesini meşruiyet krizine çevirme becerisiyle ilgilidir.\n\n### Anjin ve dış dünyanın bilgisi\n\nWilliam Adams, dizideki Anjin figürünün tarihsel çekirdeğidir. 1600’de Japonya’ya ulaşan bu İngiliz denizci, Ieyasu için yalnız ilginç bir yabancı değil; Avrupa denizciliği, ticareti, gemi yapımı ve Katolik-Protestan rekabeti hakkında bilgi kaynağıydı. Adams’ın danışmanlık rolü ve Japonya’da kalıcı statü kazanması, dönemin Japonya’sının tamamen kapalı olmadığını; aksine dış bilgiyi seçerek kullanan bir siyasi akıl geliştirdiğini gösterir.\n\nTokugawa düzeni daha sonra Edo merkezli uzun bir barış yarattı. Bu barış sadece kılıçla değil, daimyō kontrolü, rehinelik mantığı, yol ağı, ticaret denetimi ve saray protokolüyle sürdürüldü. Shōgun’un güçlü yanı da buradadır: Savaşı yalnız meydan çarpışması olarak değil, bekleme, susma, kimin nerede durduğunu ölçme ve rakibin hatasını avantaja çevirme sanatı olarak gösterir.\n\nTarihsel Toranaga yani Ieyasu, ne tamamen soğukkanlı bir dahi ne de kaderin seçtiği tek adamdır. Onu kalıcı yapan şey, kişisel sabrını kurum kurma becerisiyle birleştirmesidir. Sekigahara’yı kazanmak bir anlık zaferdi; Tokugawa düzenini kurmak ise Japonya’nın siyasal ritmini iki buçuk yüzyıl değiştiren daha büyük hamleydi.\n\nEdo’nun yükselişi de bu kurumsallaşmanın parçasıydı. Ieyasu, Kyoto’daki imparatorluk geleneğinden mesafe alarak kendi yönetim merkezini güçlendirdi. Daha sonraki Tokugawa düzeninde daimyōların hareketi, aileleri, harcamaları ve siyasi temasları denetim altına alındı. Böylece savaşçı sınıfın enerjisi sürekli isyana değil, törensel rekabete ve idari görevlere yönlendirildi. Shōgun’un Toranaga’yı ilginç kılan tarafı da budur: Karakterin asıl silahı yalnız ordu değil, rakiplerinin seçeneklerini daraltan sabırlı düzen kurma becerisidir.\n\nBu nedenle Ieyasu’nun yükselişi, “son büyük savaşçı kazandı” cümlesinden daha fazlasıdır. O, savaşın dilini bürokrasiye çevirdi: rehine siyaseti, şehir planı, unvanlar, evlilikler, dış ticaret seçimi ve daimyō denetimi aynı sistemin parçalarına dönüştü. Toranaga’nın sessizliği de bu yüzden anlamlıdır; bazen en büyük hamle, rakibin seni yanlış okumasına izin vermektir.",
+        "accuracyNote": "Shōgun karakter adlarını değiştirir ve olayları dramatik bir takvime sıkıştırır; fakat Toranaga-Ieyasu paralelliği, William Adams/Anjin hattı ve Sekigahara’ya giden güç mücadelesi tarihsel bir zemine dayanır.",
+        "whyInteresting": "Ieyasu’nun başarısı, düşmanlarını hızlıca yok etmesinden çok, onların hata yapmasını beklemesi ve zaferi kalıcı kurumlara çevirmesinden gelir.",
+        "misconception": "Tokugawa Ieyasu’nun yalnızca büyük bir savaşçı olduğu sanılır; gerçekte onun kalıcı etkisi savaş sonrası düzen kurma, daimyōları kontrol etme ve meşruiyeti yönetme becerisindedir.",
+        "mediaChanged": "Shōgun, Toranaga’nın yükselişini yoğun bir saray gerilimi gibi anlatır; tarihsel süreç ise Hideyoshi sonrası naipler dengesi, Sekigahara, William Adams’ın gelişi ve Tokugawa kurumlarının adım adım kurulmasıyla daha uzun ilerledi.",
+        "whyItMatters": "Ieyasu’nun hikâyesi, askeri zaferin ancak idari akıl ve sabırla birleştiğinde uzun ömürlü bir siyasi düzene dönüşebileceğini gösterir.",
+        "quickRealityCheck": "Toranaga sadece iyi bir savaşçı mıydı, yoksa savaşın sonrasını da hesaplayan Tokugawa Ieyasu tipi bir kurum kurucu mu?",
+        "reviewerNote": "Tokugawa Ieyasu, William Adams and Sekigahara details cross-checked with biographical and diplomatic sources.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Tokugawa Ieyasu (Britannica)",
+            "url": "https://www.britannica.com/biography/Tokugawa-Ieyasu",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Japan400 seminar: William Adams and Tokugawa Ieyasu (Embassy of Japan in the UK)",
+            "url": "https://www.uk.emb-japan.go.jp/itpr_en/231212amb.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "William Adams / Miura Anjin biomolecular investigation (Scientific Reports)",
+            "url": "https://www.nature.com/articles/s41598-020-78723-2",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "napoleon-egypt-propaganda",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original text overstated the campaign as only propaganda success and repeated generated prompt fragments. Rewritten to balance military failure, scientific expedition, Rosetta Stone and Napoleon's political return.",
+      "fields": {
+        "whatWeSee": "Napoleon filmi Mısır seferini çoğu zaman Napolyon’un kişisel tutkuları, Josephine’le ilişkisi ve imaj takıntısı üzerinden kısa sahnelerle verir.",
+        "realHistory": "1798 Mısır seferi, Napolyon’un hem askeri hırsını hem propaganda yeteneğini gösteren çelişkili bir olaydı. Amaç, İngiltere’nin Hindistan bağlantısını tehdit etmek ve Fransa’ya Doğu Akdeniz’de prestij kazandırmaktı. Başlangıçta bazı askeri başarılar gelse de, Amiral Nelson’ın Nil Savaşı’nda Fransız donanmasını yok etmesi seferi stratejik olarak çıkmaza soktu.\n\nNapolyon bu sıkışmayı Fransa’ya farklı bir dille anlattı. Yanındaki bilim insanları, mühendisler ve sanatçılar Mısır’ı ölçtü, çizdi ve belgeledi; Rosetta Taşı’nın bulunması da bu bilimsel mirasın en ünlü parçası oldu. Bu nedenle sefer askeri açıdan başarısız, bilgi ve imaj üretimi açısından çok etkiliydi. Mısır, Fransa’da yalnız savaş haberi değil, egzotik keşif ve modern bilim vitrini olarak sunuldu.\n\n1799’da Napolyon ordusunu Mısır’da bırakarak Fransa’ya döndü. Bu dönüş, yalnız aşk ya da kişisel özlemle açıklanamaz; Paris’teki siyasi fırsatlar ve seferin çıkmazı belirleyiciydi. Mısır’da sıkışan ordu, Fransa’da parlatılan efsaneye dönüştü. Napoleon filminin kişisel drama olarak gösterdiği şeyin arkasında, yenilgiyi siyasi sermayeye çeviren çok güçlü bir imaj yönetimi vardı.",
+        "accuracyNote": "Film kişisel dramayı öne çıkarır; tarihsel olarak Mısır seferi, askeri başarısızlık, bilimsel keşif ve Napolyon’un kendi imajını yönetme becerisinin birleşimidir.",
+        "whyInteresting": "Rosetta Taşı’nın Fransız askerleri tarafından bulunması, başarısız bir askeri seferin modern Mısırbilim için kalıcı bir dönüm noktasına dönüşmesini sağladı.",
+        "misconception": "Napolyon’un Mısır’dan yalnız Josephine yüzünden döndüğü sanılır; gerçekte seferin stratejik çıkmazı ve Fransa’daki siyasi fırsat daha belirleyiciydi.",
+        "mediaChanged": "Napoleon kişisel arzuları ve dramatik görüntüyü öne çıkarır; tarihsel tablo ise Mısır seferinin askeri yenilgi, bilimsel üretim ve propaganda yönetimiyle birlikte okunması gerektiğini gösterir.",
+        "whyItMatters": "Mısır seferi, bir askeri başarısızlığın doğru iletişim ve bilimsel prestijle nasıl siyasi sermayeye çevrilebildiğini gösterir.",
+        "quickRealityCheck": "Mısır seferi Napolyon için gerçek bir zafer miydi, yoksa başarısızlığı güçlü bir imaj kampanyasına dönüştürülmüş bir çıkmaz mıydı?",
+        "reviewerNote": "Egyptian campaign chronology, Napoleon's departure and Rosetta Stone discovery checked against museum and Napoleon history sources.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Napoleonic Wars: The Egyptian campaign (Britannica)",
+            "url": "https://www.britannica.com/event/Napoleonic-Wars/The-Egyptian-campaign",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Explore the Rosetta Stone (British Museum)",
+            "url": "https://www.britishmuseum.org/collection/egypt/explore-rosetta-stone",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The Rosetta Stone: A Journey from Alexandria to London (Fondation Napoléon)",
+            "url": "https://www.napoleon.org/en/history-of-the-two-empires/articles/the-rosetta-stone-a-journey-from-alexandria-to-london/",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "300-persian-immortals-real",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original text was serviceable but repetitive and partially locked into film-counterfilm phrasing. Rewritten with source caution around Herodotus and Achaemenid elite infantry.",
+      "fields": {
+        "whatWeSee": "300 Spartalı, Pers Ölümsüzlerini maskeli, neredeyse insan dışı bir korku ordusu gibi gösterir. Film, Spartalıların sade kahramanlığına karşı Persleri egzotik ve canavarlaştırılmış bir güç olarak kurar.",
+        "realHistory": "Pers Ölümsüzleri, filmdeki gulyabani figürlerden çok farklıydı. Herodot’un anlattığına göre bu birlik, Ahameniş ordusunun seçkin 10.000 kişilik piyade gücüydü. “Ölümsüz” adı, askerlerin gerçekten yenilmez olmasından değil, kayıp verenlerin hızla yenileriyle değiştirilmesi ve birliğin sayısının sabit tutulması fikrinden gelir.\n\nBu askerler imparatorluk muhafızı ve vurucu piyade gücü olarak çalışıyordu. Silahları arasında mızrak, yay, hançer ve hafif kalkanlar vardı; ağır bronz kalkanlı Yunan hoplitlerinden farklı bir savaş mantığını temsil ediyorlardı. Pers ordusu tek tip bir “sürü” değil; farklı halklardan, silah türlerinden ve taktiklerden oluşan imparatorluk ölçekli bir askerî sistemdi.\n\nThermopylai gibi dar bir geçitte Pers ordusunun sayısal üstünlüğü sınırlanınca, bu elit birlik de Spartalı falanks karşısında beklenen etkiyi gösteremedi. Film Persleri kasıtlı olarak yabancılaştırır; tarihsel Ölümsüzler ise geniş bir imparatorluğun disiplinli, düzenli ve prestijli askerî çekirdeğiydi. Onları anlamak, 300’ün görsel propagandasını Pers askeri organizasyonundan ayırmayı gerektirir.\n\nBu fark, 300’ün politik dilini anlamak için önemlidir. Film Spartalıları sade, özgür ve “insani” gösterirken Persleri aşırı süslü, kalabalık ve bozulmuş bir imparatorluk gibi sunar. Oysa Ahameniş İmparatorluğu, farklı halkları yöneten, yol ve haberleşme ağları kuran, profesyonel askeri yapılar geliştiren büyük bir devlet sistemiydi.",
+        "accuracyNote": "Ölümsüzler hakkındaki temel anlatı büyük ölçüde Herodot’a dayanır; bu yüzden ayrıntılar mutlak kesinlik gibi değil, antik kaynakların süzgecinden gelen bilgi olarak kullanılmalıdır.",
+        "whyInteresting": "“Ölümsüz” fikri, mistik bir yenilmezlikten çok personel ve prestij sürekliliğiyle ilgilidir: Birlik eksilse bile imparatorluk gücü eksilmemiş gibi görünürdü.",
+        "misconception": "Pers Ölümsüzlerinin maskeli canavarlar olduğu sanılır; gerçekte Ahameniş ordusunun seçkin ve düzenli piyade birliklerinden biriydiler.",
+        "mediaChanged": "300 Spartalı Persleri bilinçli olarak yabancı ve korkutucu gösterir; tarihsel kayıtlar ise Ölümsüzleri disiplinli, prestijli ve imparatorluk ölçeğinde örgütlenmiş bir askerî birlik olarak anlatır.",
+        "whyItMatters": "Bu kart, savaş filmlerinin düşmanı nasıl görsel olarak insan dışılaştırdığını ve tarihsel orduların gerçek karmaşıklığını nasıl sadeleştirdiğini gösterir.",
+        "quickRealityCheck": "300’deki Ölümsüzler gerçekten maskeli canavarlar mıydı, yoksa Herodot’un anlattığı 10.000 kişilik seçkin Pers piyadesi mi?",
+        "reviewerNote": "Immortals checked against Encyclopaedia Iranica and general Persian military reference.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Immortals (Encyclopaedia Iranica)",
+            "url": "https://www.iranicaonline.org/articles/immortals/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Persian Immortals (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/Persian_Immortals/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Immortal: Persian military unit (Britannica)",
+            "url": "https://www.britannica.com/topic/Immortal-Persian-military-unit",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "oppenheimer-los-alamos-culture",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original had repeated generated fragments and overdramatic 'open-air prison' language. Rewritten around secrecy, censored mail, compartmentalization and family life without unsupported exaggeration.",
+      "fields": {
+        "whatWeSee": "Oppenheimer, Los Alamos’u çölde kurulmuş gizli bir bilim kasabası gibi gösterir: Aynı yerde aileler yaşar, çocuklar büyür, bilim insanları tartışır; ama herkesin hayatı devlet sırrının gölgesindedir.",
+        "realHistory": "Los Alamos, Manhattan Projesi’nin en tuhaf yanlarından biriydi: Bir yandan bilimsel üretim merkezi, diğer yandan güvenlik kurallarıyla çevrili kapalı bir topluluk. New Mexico’daki izole konumu özellikle seçilmişti. Buraya gelenlerin adresleri, yazışmaları ve günlük konuşmaları bile proje güvenliği açısından kontrol ediliyordu.\n\nKasabadaki aile hayatı bu gizlilikle şekillendi. Birçok eş ve çocuk, yapılan işin gerçek niteliğini bilmiyordu. Giden ve gelen mektuplar sansürden geçiyor, telefon ve telgraf kullanımı sınırlanıyor, çalışanlar çoğu zaman yalnız kendi görev alanlarını biliyordu. Bu “bölümlere ayırma” mantığı, projenin sızdırılmasını önledi ama insanların yaptıkları işin bütün sonucuyla duygusal bağ kurmasını da geciktirdi.\n\nFilm doğal olarak Oppenheimer ve bilimsel tartışmalara odaklanır. Gerçek Los Alamos’ta ise gerilim yalnız formüllerde değil, mutfak masasında, sansürlenmiş mektuplarda ve çocukların sorularında da vardı. Atom çağının ilk kasabası, aynı zamanda modern güvenlik kültürünün gündelik hayata nasıl sızdığını gösteren bir deney alanıydı. Bu yüzden Los Alamos, yalnız bomba yapılan yer değil, devlet sırrının bir yaşam biçimine dönüştüğü yerdi.",
+        "accuracyNote": "Los Alamos’u yalnız “açık hava hapishanesi” gibi görmek abartılıdır; ancak posta sansürü, kimlik gizliliği, sınırlı iletişim ve bölümlere ayrılmış bilgi düzeni gerçekten projenin gündelik hayatını belirledi.",
+        "whyInteresting": "Los Alamos’ta en büyük sır bazen bilimsel formül değil, ailelerin aynı evde yaşarken neyin üretildiğini tam olarak bilmemesiydi.",
+        "misconception": "Manhattan Projesi’nin yalnız laboratuvar ve hesaplamalardan ibaret olduğu sanılır; gerçekte proje, aile hayatını bile güvenlik rejimine bağlayan kapalı bir topluluk düzeni kurdu.",
+        "mediaChanged": "Oppenheimer bilimsel ve politik gerilime odaklanır; tarihsel Los Alamos ise mektup sansürü, sosyal izolasyon ve bölümlere ayrılmış bilgi düzeniyle daha gündelik bir baskı alanıydı.",
+        "whyItMatters": "Los Alamos, modern devlet sırrının sadece belge kasalarında değil, aile hayatında, iletişimde ve insanların birbirine ne söyleyebileceğinde de kurulduğunu gösterir.",
+        "quickRealityCheck": "Los Alamos yalnız parlak bilim insanlarının toplandığı bir kasaba mıydı, yoksa gündelik hayatı gizlilik kurallarıyla şekillenen kapalı bir proje topluluğu muydu?",
+        "reviewerNote": "Los Alamos secrecy, mail censorship and communication controls checked against Atomic Heritage, OSTI and Los Alamos Historical Society sources.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Security and Secrecy (Atomic Heritage Foundation)",
+            "url": "https://ahf.nuclearmuseum.org/ahf/history/security-and-secrecy/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Mail Censorship (Atomic Heritage Foundation)",
+            "url": "https://ahf.nuclearmuseum.org/ahf/history/mail-censorship/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Scientists and Security at Los Alamos (OSTI Manhattan Project History)",
+            "url": "https://www.osti.gov/opennet/manhattan-project-history/Places/LosAlamos/la-security.html",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "gladiator-arena-economics",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original included unsupported cost comparisons and repetitions. Rewritten to focus on annona, games, lanista economics and spectacle politics without exact budget claims.",
+      "fields": {
+        "whatWeSee": "Gladiator filminde arena, Commodus’un halk desteği kazanmak için kullandığı büyük sahneye dönüşür. Kalabalık, imparator, dövüşçüler ve şiddet aynı politik gösterinin parçasıdır.",
+        "realHistory": "Roma’da oyunlar yalnız vahşi eğlence değildi; halkla iktidar arasında kurulan görünür bir bağdı. “Ekmek ve oyunlar” ifadesi, bedava ya da sübvansiyonlu tahıl dağıtımıyla kamu eğlencelerinin birlikte düşünülmesini anlatır. İmparatorlar oyun düzenleyerek cömertliklerini, düzen sağlama güçlerini ve kalabalık üzerindeki hâkimiyetlerini sergilerdi.\n\nGladyatör dövüşleri de bütçesiz, rastgele şiddet değildi. Gladyatörler lanista denen eğiticiler ve işletmeciler tarafından yetiştirilen değerli insan sermayesiydi. Bu yüzden her dövüşün ölümle bitmesi ekonomik olarak mantıklı değildi; iyi dövüşen ve ün kazanan bir gladyatör, tekrar sahneye çıkarılabilecek bir yatırımdı. Arena hem riskli bir şiddet alanı hem de düzenli bir gösteri sektörüdür.\n\nCommodus’un arenaya çıkması tarihsel bir zemine sahiptir, ancak film bu çizgiyi dramatik kişisel tiranlık hikâyesine çevirir. Gerçek arena ekonomisi daha genişti: hayvan temini, eğitim, güvenlik, tören, bilet düzeni, halk beklentisi ve sponsor prestiji bir arada çalışıyordu. Kolezyum, Roma’nın hem eğlence endüstrisi hem de siyasi iletişim makinesiydi.\n\nBu çerçevede “ekmek ve oyunlar”ı yalnız halkı kandırma formülü olarak okumak da eksik kalır. Tahıl tedariği gerçekten şehir huzuru için kritik bir güvenlik meselesiydi; oyunlar da sadece uyuşturma değil, imparatorun görünür olma ve halkla temas kurma yöntemiydi.",
+        "accuracyNote": "Kolezyum oyunlarının pahalı olduğu doğru olsa da, kesin bütçe karşılaştırmaları dikkatli verilmelidir. Daha güvenli çerçeve, oyunların imparatorluk cömertliği, halk yönetimi ve ekonomik organizasyon gerektiren büyük gösteriler olduğudur.",
+        "whyInteresting": "Bir gladyatörün ölmesi her zaman istenen sonuç değildi; eğitimli ve tanınan bir dövüşçü, arenanın tekrar kullanılabilecek değerli yatırımına dönüşebilirdi.",
+        "misconception": "Gladyatör oyunlarının tamamen kontrolsüz ölüm gösterileri olduğu sanılır; gerçekte dövüşler ekonomik değer, seyirci tepkisi ve sponsor prestijiyle şekillenen bir gösteri düzeniydi.",
+        "mediaChanged": "Gladiator arenayı Commodus’un kişisel hırsıyla yoğunlaştırır; tarihsel arenada ise annona, kamu oyunları, gladyatör okulları ve kalabalık yönetimi iç içe geçmişti.",
+        "whyItMatters": "Arena ekonomisi, popüler eğlencenin devlet prestiji ve halk desteğiyle nasıl birleşebileceğini erken bir örnek olarak gösterir.",
+        "quickRealityCheck": "Kolezyum sadece kanlı bir dövüş alanı mıydı, yoksa imparatorluk bütçesi, halk desteği ve gösteri ekonomisinin kesiştiği bir sahne mi?",
+        "reviewerNote": "Bread and circuses, Roman public games and gladiator economy framed with museum/reference sources; unsafe exact cost claims removed.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Roman Games: Playing with Animals (The Met)",
+            "url": "https://www.metmuseum.org/essays/roman-games-playing-with-animals",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Bread and Circuses (Britannica)",
+            "url": "https://www.britannica.com/topic/bread-and-circuses",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Gladiator (Britannica)",
+            "url": "https://www.britannica.com/topic/gladiator",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "chernobyl-rbmk-flaw",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original repeated fragments and simplified the HBO courtroom explanation as literal. Rewritten with positive void coefficient, graphite displacers, test conditions, operator/procedure and secrecy/safety culture.",
+      "fields": {
+        "whatWeSee": "Chernobyl dizisi RBMK tasarım kusurunu mahkeme sahnesinde dramatik ve anlaşılır bir teknik açıklamaya dönüştürür: Reaktörü durdurması gereken sistem, belirli koşullarda felaketi büyütebilir.",
+        "realHistory": "Çernobil’deki RBMK-1000 reaktörünün en kritik sorunlarından biri pozitif boşluk katsayısıydı. Basitçe, soğutma suyunda buhar boşlukları arttığında reaktör gücü bazı koşullarda düşmek yerine artabiliyordu. Grafit moderatörlü ve su soğutmalı bu tasarım, özellikle düşük güçte ve kararsız çalışma koşullarında kontrolü zorlaştırdı.\n\nAZ-5 düğmesine basılması tek başına felaketin nedeni değildi, ama son anda belirleyici oldu. Kontrol çubuklarının grafit uçları reaktöre ilk girdiğinde bazı bölgelerde reaktiviteyi kısa süreli artırabiliyordu. Zaten güvensiz test koşulları, devre dışı bırakılmış korumalar, düşük güçte dengesiz çalışma ve yetersiz güvenlik kültürüyle birleşince, bu tasarım özelliği patlamaya giden zincirin parçası haline geldi.\n\nDizinin güçlü yanı, teknik kusuru siyasi sır kültürüyle bağlamasıdır. Gerçek tarih de bunu destekler: Sorun yalnız bir operatör hatası değil, tasarım, prosedür, eğitim, raporlama ve kurumların kötü haberle ilişkisiyle ilgiliydi. Çernobil bu yüzden bir reaktör kazasından fazla şey anlatır; mühendislik riskinin ideoloji ve bürokrasiyle saklandığında ne kadar büyüyebileceğini gösterir.\n\nBu yüzden RBMK kartının odağı “kırmızı-mavi kalem” sahnesinin doğruluğundan çok, karmaşık bir teknik riskin nasıl anlaşılır hale getirildiği olmalıdır. Dizi tek sahneyle hafızaya kazınan bir açıklama verir; raporlar ise daha yavaş, daha karmaşık ve daha rahatsız edici bir tablo çizer.",
+        "accuracyNote": "AZ-5 ve grafit uçlar önemliydi; ancak felaketi tek bir düğmeye veya tek bir gizli tasarım hatasına indirgemek doğru değildir. RBMK tasarımı, test prosedürü, operatör kararları ve Sovyet güvenlik kültürü birlikte değerlendirilmelidir.",
+        "whyInteresting": "Çernobil’de en korkutucu nokta, güvenlik sistemi fikrinin belirli koşullarda kısa süreli güç artışına katkı yapabilmesiydi.",
+        "misconception": "Çernobil’in yalnız operatör hatası olduğu sanılır; gerçekte tasarım özellikleri, prosedür ihlalleri ve kapalı güvenlik kültürü birlikte felaketi büyüttü.",
+        "mediaChanged": "Chernobyl teknik açıklamayı dramatik mahkeme sahnesine sıkıştırır; tarihsel raporlar ise RBMK tasarımının, test koşullarının ve kurumsal güvenlik kültürünün birlikte okunması gerektiğini gösterir.",
+        "whyItMatters": "RBMK kusuru, karmaşık sistemlerde mühendislik riskinin saklanmasının yalnız teknik değil, siyasi ve toplumsal bir tehlike olduğunu gösterir.",
+        "quickRealityCheck": "Çernobil sadece yanlış düğmeye basılması mıydı, yoksa tasarım, test ve güvenlik kültürünün aynı anda çökmesi mi?",
+        "reviewerNote": "RBMK positive void coefficient and control rod issue checked against IAEA INSAG-7 and World Nuclear Association material.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Chernobyl Accident: Updating of INSAG-1 (IAEA INSAG-7 PDF)",
+            "url": "https://www-pub.iaea.org/MTCD/publications/PDF/Pub913e_web.pdf",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "RBMK Reactors (World Nuclear Association)",
+            "url": "https://world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/appendices/rbmk-reactors.aspx",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Chernobyl Accident 1986 (World Nuclear Association)",
+            "url": "https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "crown-tv-coronation-1953",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original included unsafe '277 million worldwide' and '%500 sales overnight' claims. Rewritten with official UK audience/radio figures and media transformation framing.",
+      "fields": {
+        "whatWeSee": "The Crown, 1953 taç giyme törenini yalnız dini ve devlet töreni olarak değil, kraliyet ailesinin televizyon çağına zorunlu girişi olarak işler. Kameraların Westminster Abbey’e alınması, saray içi gelenekle modern medya arasında gerilim yaratır.",
+        "realHistory": "2 Haziran 1953’te II. Elizabeth’in taç giyme töreni, Britanya monarşisinin medya tarihinde büyük bir kırılmaydı. Royal.uk verilerine göre Birleşik Krallık’ta yaklaşık 27 milyon kişi töreni televizyondan izledi, 11 milyon kişi de radyodan dinledi. Birçok insan kendi evinde televizyon olmadığı için komşulara, salonlara veya vitrinlerin önüne toplandı.\n\nBu yayın, monarşinin gizemini azaltma korkusuyla kamuya açılma ihtiyacı arasındaki gerilimi gösterdi. Taç giyme töreni daha önce geniş halk kitleleri için uzaktan hayal edilen bir ritüeldi; televizyonla birlikte kraliyet, oturma odasına giren ortak bir ulusal deneyime dönüştü. Bu, sadece teknik yayın başarısı değil, monarşinin modern kitle iletişimiyle yeniden paketlenmesiydi.\n\nDizi bu kararı aile içi ve kurumsal çatışma üzerinden dramatize eder. Tarihsel olarak asıl mesele daha genişti: Televizyon artık devlet törenlerini, ulusal kimliği ve kraliyet sembolünü aynı anda taşıyabilecek bir araç haline gelmişti. 1953 yayını, modern Britanya’da monarşinin görünürlüğünü kalıcı biçimde değiştirdi ve televizyonun artık yalnız eğlence değil, ulusal hafıza aracı olabileceğini gösterdi.\n\nBu dönüşüm, The Crown’un temel sorularından biriyle doğrudan bağlantılıdır: Kraliyet görünür oldukça güçlenir mi, yoksa gizemini kaybederek zayıflar mı? 1953 yayını bu ikilemi çözemedi; ama monarşinin artık kameralarla birlikte yaşayacağını kesinleştirdi.",
+        "accuracyNote": "“Dünya çapında 277 milyon kişi izledi” veya “televizyon satışları bir gecede %500 arttı” gibi iddialar güvenli kaynaklarla taşınmadığı için çıkarıldı. Resmi ve güvenli veri, UK’de 27 milyon TV izleyicisi ve 11 milyon radyo dinleyicisidir.",
+        "whyInteresting": "Birçok Britanyalı için 1953 taç giyme töreni, yalnız yeni kraliçeyi değil, televizyonun toplumsal gücünü ilk kez görme anıydı.",
+        "misconception": "Taç giyme töreninin sadece geleneksel bir saray ritüeli olduğu sanılır; gerçekte 1953 yayını, monarşiyi kitle televizyonu çağının parçasına dönüştürdü.",
+        "mediaChanged": "The Crown kararı kişisel ve ailevi gerilimle dramatize eder; tarihsel bağlamda mesele, kraliyet gizemi ile modern yayıncılık arasında kurumsal bir dönüşümdü.",
+        "whyItMatters": "1953 yayını, monarşinin hayatta kalmak için yalnız eski ritüellere değil, yeni medya biçimlerine de uyum sağlaması gerektiğini gösterir.",
+        "quickRealityCheck": "1953 taç giyme töreni sadece televizyonda gösterilen bir tören miydi, yoksa kraliyetin kitle medya çağına giriş anı mıydı?",
+        "reviewerNote": "Audience/radio figures normalized using official Royal.uk coronation facts; unsupported global/sales claims removed.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "50 facts about Queen Elizabeth II's Coronation (Royal.uk)",
+            "url": "https://www.royal.uk/50-facts-about-queen-elizabeth-iis-coronation",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Coronation of Queen Elizabeth II (BBC)",
+            "url": "https://www.bbc.co.uk/history/events/coronation_elizabeth_ii",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Television and the Coronation (National Science and Media Museum)",
+            "url": "https://www.scienceandmediamuseum.org.uk/objects-and-stories/television-and-coronation",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "vikings-silk-road-trade",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original had repeated prompt fragments and overstated 'Ragnar' framing. Rewritten around eastern river routes, dirhams, Varangians, Byzantium and Islamic silver while keeping series connection.",
+      "fields": {
+        "whatWeSee": "Vikings dizisi Vikingleri çoğunlukla batıya açılan savaşçılar ve yağmacılar olarak gösterir. Deniz aşırı baskınlar, yeni toprak arayışı ve şöhret arzusu öne çıkar.",
+        "realHistory": "Viking dünyasının zenginliği yalnız batıdaki manastır baskınlarından gelmedi. Özellikle İsveç ve Baltık çevresinden çıkan gruplar, Volga ve Dinyeper gibi nehir yollarını kullanarak Bizans’a, Hazar çevresine ve İslam dünyasına bağlanan ticaret ağlarına katıldı. Bu hatlar kürk, balmumu, köle, silah, kumaş ve gümüşün dolaştığı uzun mesafeli bir ekonomik sistemdi.\n\nİskandinavya’da bulunan çok sayıda İslami dirhem, kuzey Avrupa ile Abbasi ve Orta Asya ticaret bölgeleri arasında güçlü bir para ve mal akışı olduğunu gösterir. Vikingler bu ağda yalnız savaşçı değildi; tüccar, paralı asker, koruma ve aracı rollerini de üstlendiler. Bizans’taki Varangian Guard geleneği de bu doğu bağlantısının başka bir yüzüdür.\n\nPopüler diziler Vikingleri çoğu zaman baltalı yağmacılar olarak öne çıkarır. Tarihsel tablo daha geniştir: Viking hareketliliği, yağma ile ticareti, denizcilikle nehir rotalarını ve savaşçılıkla aracı ekonomiyi aynı anda içerir. Kuzeyin savaşçıları, aynı zamanda kuzeyi küresel gümüş ve lüks mal ağlarına bağlayan aktörlerdi.\n\nBu ağların varlığı Viking kimliğini daha karmaşık hale getirir. Aynı kişi bir yerde yağmacı, başka bir yerde tüccar, başka bir yerde de ücretli asker olabilir. Viking çağını ilginç yapan şey de bu geçişkenliktir: Şiddet ile ticaret birbirinden tamamen ayrı dünyalar değildi.",
+        "accuracyNote": "Vikinglerin doğu ticaret ağlarındaki rolü, onları barışçıl tüccarlar haline getirmez. Daha doğru çerçeve, aynı grupların koşula göre yağmacı, tüccar, paralı asker veya yerleşimci olarak hareket edebildiğidir.",
+        "whyInteresting": "İskandinavya’daki İslami dirhem buluntuları, Viking dünyasının yalnız Kuzey Denizi’ne değil, Bağdat ve Orta Asya’ya uzanan para ağlarına da bağlı olduğunu gösterir.",
+        "misconception": "Vikinglerin yalnız batıya yağma için gittiği sanılır; gerçekte doğu nehir yolları, onların zenginliği ve kültürel temasları için en az batı seferleri kadar önemliydi.",
+        "mediaChanged": "Vikings batı seferlerini ve savaşçı kimliği öne çıkarır; tarihsel kayıtlar Viking hareketliliğinin doğu ticareti, gümüş akışı ve Bizans bağlantılarıyla daha geniş olduğunu gösterir.",
+        "whyItMatters": "Vikingleri yalnız yağmacı olarak değil, Avrupa’nın kuzeyini İslam dünyası ve Bizans’la bağlayan hareketli aracı aktörler olarak okumayı sağlar.",
+        "quickRealityCheck": "Vikinglerin zenginliği yalnız batıdaki yağmalardan mı geliyordu, yoksa doğuya uzanan nehir ticareti ve gümüş ağları da bu dünyanın merkezinde miydi?",
+        "reviewerNote": "Eastern Viking trade routes, dirham evidence and Varangian framing checked against museum/academic trade material.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Trade in the Viking Age (National Museum of Denmark)",
+            "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/the-viking-warrior/trade-in-the-viking-age/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Vikings in the East eLibrary (Silk Road Virtual Museum)",
+            "url": "https://silkroadvirtualmuseum.com/vikings-in-the-east-elibrary/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "500,000 Dirhams in Scandinavia (Academia/numismatic study)",
+            "url": "https://www.academia.edu/108027031/500_000_Dirhams_in_Scandinavia_from_Mobile_Silver_to_Land_Rent",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

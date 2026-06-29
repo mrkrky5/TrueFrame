@@ -1,0 +1,291 @@
+{
+  "locale": "tr",
+  "chunkIndex": 59,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-094-declaration-rights",
+      "title": "Haklar Bildirisi",
+      "subtitle": "Haklar Bildirisi için gerçek zemin",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Unity",
+      "era": "Modern Tarih",
+      "region": "Fransa",
+      "themes": [
+        "Devrim",
+        "Siyaset",
+        "Toplum"
+      ],
+      "whatWeSee": "Assassin's Creed Unity, devrim atmosferini sokak gerilimi ve kulüp siyasetiyle verir; İnsan ve Yurttaş Hakları Bildirgesi çoğu zaman fon bilgisi olarak kalır.",
+      "realHistory": "1789 İnsan ve Yurttaş Hakları Bildirgesi, Fransız Devrimi'nin en etkili metinlerinden biridir. 26 Ağustos 1789'da Kurucu Meclis tarafından kabul edilen metin, egemenliğin kaynağını ulusa bağlar, hukukun önünde eşitlik ilkesini ortaya koyar ve keyfi tutuklamaya karşı güvenceler tanımlar. Mülkiyet, güvenlik, direnme hakkı ve ifade özgürlüğü gibi başlıklar, Eski Rejim ayrıcalık sistemine karşı yeni bir siyasi dil kurdu.\n\nAncak metnin evrensellik iddiası pratikte sınırlıydı. Kadınlar, köleleştirilmiş nüfus ve sömürge halkları bu hak rejimine tam dahil edilmedi. Olympe de Gouges'in 1791'de yazdığı Kadın ve Yurttaş Hakları Bildirgesi bu dışlamaya doğrudan itiraz eder. Devrim yıllarındaki savaş, ekonomik kriz ve Terör dönemi, bildirgedeki özgürlük vaadi ile devlet şiddeti arasındaki gerilimi görünür kıldı.\n\nUnity, Paris sokaklarında bu gerilimin duygusunu başarıyla taşır: ekmek kuyruğu, kalabalık öfke, söylenti politikası. Fakat hukuk metninin kurumsal etkisini anlamak için anayasa tartışmalarına, kulüp ağlarına ve mahkeme pratiklerine de bakmak gerekir. Bildirge modern hak söyleminin dönüm noktasıdır; aynı zamanda 'hak' kavramının kimleri içerdiği sorusunu sürekli açık bırakan bir belgedir.\n\nBildirgenin etkisi Fransa sınırını aştı; 19. yüzyılda anayasal hareketler bu metnin dilinden beslendi. Latin Amerika bağımsızlık süreçleri, Avrupa'daki liberal reform talepleri ve yurttaşlık tartışmaları 1789 metnini farklı bağlamlarda yeniden yorumladı. Yine de metnin sınırlı kapsayıcılığı eleştiri üretmeye devam etti. Hak söylemi genişledikçe, başlangıçta dışarıda bırakılan grupların mücadeleleri yeni anayasal düzenlerin yönünü belirledi. Bu nedenle bildiri hem bir başlangıç metni hem de sürekli revizyon çağrısıdır.",
+      "accuracyNote": "Oyun devrim atmosferini kuvvetle verir; bildirgenin hukuki ayrıntısı ve dışlanan gruplar meselesi oynanışta daha sınırlı kalır.",
+      "whyInteresting": "Haklar Bildirisi üzerinden bakınca sahnedeki atmosfer, Paris, Versailles ve devrim mahkemeleri çevresindeki gerçek kurum ve alışkanlıklarla bağ kurar.",
+      "misconception": "Haklar Bildirisi konusunun tek bir basit açıklamayla çözüldüğü sanılır. Kaynaklar, bu basit anlatının arkasında daha karmaşık bir düzen olduğunu gösterir.",
+      "nextTopics": [
+        "Bastille Günü",
+        "Ekmek Fiyatları",
+        "Etats Generaux"
+      ],
+      "sources": [
+        {
+          "title": "Avalon Project - Declaration of the Rights of Man (1789)",
+          "url": "https://avalon.law.yale.edu/18th_century/rightsof.asp",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Declaration of the Rights of Man",
+          "url": "https://www.britannica.com/topic/Declaration-of-the-Rights-of-Man-and-of-the-Citizen",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "French Revolution Digital Archive",
+          "url": "https://frda.stanford.edu/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-095-reign-terror",
+        "tf26-096-sans-culottes",
+        "tf26-097-women-march"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Assassin's Creed Unity ve Haklar Bildirisi — ekrandaki görüntü ile belgelenmiş gerçeklik.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "fransiz-devrimi",
+        "paris",
+        "devrim",
+        "haklar-bildirisi",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Haklar Bildirisi ekranda daha net bir odak kazanır; karakterlerin yolu, mekân seçimi ve çatışma ritmi bu konuyu kolay takip edilir kılar. Tarihte aynı başlık, Fransız Devrimi gibi daha uzun süreçlerin içinde ilerler.",
+      "whyItMatters": "Haklar Bildirisi üzerinden bakınca sahnedeki atmosfer, Paris, Versailles ve devrim mahkemeleri çevresindeki gerçek kurum ve alışkanlıklarla bağ kurar.",
+      "isFlagship": false,
+      "quickRealityCheck": "1789 Bildirgesi modern hak dilini kurdu, ama bu hakların kapsadığı topluluk başlangıçta dar tutuldu.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-095-reign-terror",
+      "title": "Terör Dönemi",
+      "subtitle": "Ekrandaki iz, tarihteki karşılık",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Unity",
+      "era": "Modern Tarih",
+      "region": "Fransa",
+      "themes": [
+        "Devrim",
+        "Siyaset",
+        "Toplum"
+      ],
+      "whatWeSee": "Unity'de Terör Dönemi, kalabalık Paris sokakları, idam meydanları ve sürekli ihanet hissiyle verilir. Oyuncu komplo zincirleri arasında koşarken siyaset hızla sertleşir. Atmosfer doğru bir gerginlik taşır. Yine de bu dönemi üreten savaş ekonomisi, ekmek krizi ve Komiteler arası yetki çatışması gibi kurumsal arka plan oyunda sınırlı görünür.",
+      "realHistory": "Terör Dönemi, 1793-1794 arasında devrimin iç ve dış tehdit algısıyla olağanüstü yetkiler üretmesinin sonucuydu. Cumhuriyet gençti, Avrupa monarşileriyle savaş halindeydi ve içeride karşı devrim korkusu yüksekti. Bu baskı altında Kamu Selameti Komitesi merkezi bir yürütme gücüne dönüştü. Devrim Mahkemeleri hızlandırıldı; Şüpheliler Yasası, hukuki sınırları genişleterek tutuklama eşiğini düşürdü.\n\nParis'teki politik dil sertleştikçe, fiyat kontrolü, zorunlu seferberlik ve iaşe politikaları gündelik hayatı doğrudan etkiledi. Sans-culottes baskısı, Jakoben çizginin radikalleşmesini hızlandırırken yerel güç dengeleri de sürekli oynadı. Giyotinin simge değeri büyüktü, ancak dönemin gerçek ağırlığı idari mekanizmanın olağanüstü hale gelmesindeydi. Binlerce kişi farklı suçlamalarla yargılandı ve idam edildi; süreç yalnız merkezde değil taşrada da şiddet üretti.\n\n9 Thermidor'da Robespierre'in düşüşü, sistemin içerden kırılabildiğini gösterdi. Terör Dönemi böylece devrimci meşruiyetin güvenlik krizinde nasıl cezai devlete dönüşebileceğinin tarihsel laboratuvarı haline geldi. Sorun sadece kötü liderler değil, sınırsız yetkinin hızla normalleşmesiydi. Üstelik Thermidor sonrasında bile şiddetin dili tamamen kaybolmadı; devrim, hukukun sınırlarını yeniden çizmenin ne kadar sancılı olduğunu herkese gösterdi. Bu miras, sonraki Fransız siyasal kültüründe \"olağanüstü hal\" fikrinin neden bu kadar güçlü kaldığını da açıklar. Benzer krizlerde devletin güvenlik adına hukuk alanını genişletmesi, bu dönemin bıraktığı en tartışmalı siyasal derslerden biri olarak bugün de güncelliğini korur.",
+      "accuracyNote": "Meydan şiddeti ve politik paranoya hissi güçlüdür; dönemin hukuki ve idari mekanizmaları dramatik anlatıda dar bir çerçeveye çekilmiştir.",
+      "whyInteresting": "Bir devrim kendi savunmasını örgütlerken, tam da karşı çıktığı baskı araçlarını yeniden üretebilir.",
+      "misconception": "Terör Dönemi'nin sadece birkaç liderin aşırılığı olduğu düşünülür; savaş, ekonomi ve hukuk birlikteliği şiddeti sistemik hale getirdi.",
+      "nextTopics": [
+        "Bastille Günü",
+        "Ekmek Fiyatları",
+        "Etats Generaux"
+      ],
+      "sources": [
+        {
+          "title": "Reign of Terror (Britannica)",
+          "url": "https://www.britannica.com/event/Reign-of-Terror",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "French Revolution (Britannica)",
+          "url": "https://www.britannica.com/event/French-Revolution",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Liberty or Death: The French Revolution (Oxford University Press)",
+          "url": "https://global.oup.com/academic/product/liberty-or-death-9780199238330",
+          "type": "book",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-096-sans-culottes",
+        "tf26-097-women-march",
+        "tf26-098-revolutionary-calendar"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Unity'nin devrim Paris'i, Terör Dönemi'nin sokak gerilimini etkili verirken kurumsal karar zincirini sadeleştirir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "fransiz-devrimi",
+        "paris",
+        "devrim",
+        "teror-donemi",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun dönemi suikast ve gizli örgü çatışması ekseninde kişiselleştirir. Tarihte şiddetin ağırlık merkezi, savaş koşullarında genişleyen olağanüstü hukuk ve idari mekanizmaydı.",
+      "whyItMatters": "Bir devrim kendi savunmasını örgütlerken, tam da karşı çıktığı baskı araçlarını yeniden üretebilir.",
+      "isFlagship": false,
+      "quickRealityCheck": "1793-1794'te dış savaş ve iaşe krizi, Devrim Mahkemeleri'nin yetkisinin büyümesini nasıl meşrulaştırdı?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-096-sans-culottes",
+      "title": "Sans-Culottes",
+      "subtitle": "Sans-culottes: pantolon değil, sokak siyaseti",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Unity",
+      "era": "Modern Tarih",
+      "region": "Fransa",
+      "themes": [
+        "Devrim",
+        "Siyaset",
+        "Toplum"
+      ],
+      "whatWeSee": "Assassin’s Creed Unity’de sans-culottes, Paris sokaklarındaki devrim enerjisinin yüzü olarak beliriyor: sloganlar, ekmek kuyrukları, ani öfke patlamaları. Uzun pantolon sembolü hızla anti-elit bir kimlik koduna dönüşüyor. Oyun bu kalabalığı hem özgürleştirici halk gücü hem de kontrolsüz şiddet riski olarak aynı anda hissettiriyor.",
+      "realHistory": "Sans-culottes, Fransız Devrimi’nin kent tabanlı en etkili toplumsal aktörlerinden biriydi ve yalnızca “öfke kalabalığı” diye etiketlenemez. Hareketin çekirdeğini Parisli zanaatkârlar, küçük esnaf, gündelik ücretli emekçiler ve mahalle seksiyonlarında etkin yurttaşlar oluşturuyordu. İsimleri, aristokrat diz altı culotte modası yerine uzun pantolon tercihinden doğdu; yani giyim dili sınıfsal ve siyasal bir beyana dönüştü.\n\n1792-1794 aralığında sans-culottes baskısı, fiyat denetimi talepleri ve temel gıda erişimi konusunda belirleyici oldu. Ekmek fiyatı, devrimci meşruiyetin günlük hayattaki testi hâline geldi. Jakobenlerle ilişkileri tek yönlü değildi: kimi anlarda ittifak kuruldu, kimi anlarda merkez yönetim taban baskısını frenledi. Bu dalgalanma, halk katılımı ile devlet şiddeti arasındaki sınırın ne kadar hareketli olduğunu gösterir.\n\nThermidor sonrasında sans-culottes etkisi sistemli biçimde kırıldı; mahalle örgütlenmeleri zayıflatıldı ve fiyat politikalarında geri adımlar geldi. Bu yüzden hareketin tarihi, yalnızca ideolojik coşkudan ibaret değildir; enflasyon, temsil krizi ve kent yoksulluğu dinamiklerinin birleşik dosyasıdır. Oyun sokağın enerjisini başarılı biçimde yakalar, fakat tarihsel ayrıntı şunu ekler: mobilizasyonun yakıtı çoğu zaman soyut sloganlardan çok yaşam maliyeti baskısıydı. Sans-culottes mirası, modern protesto siyasetinde ekonomik adalet talebinin neden hızla temsil krizine bağlandığını anlamak için hâlâ anahtar bir referanstır. Bu nedenle hareket, devrimci kitle siyasetinin hem kurucu hem de kırılgan yönlerini aynı anda sergileyen örneklerden biridir.",
+      "accuracyNote": "Kıyafet sembolü ve halk mobilizasyonu gerçektir; olay sıraları oyun akışına göre sadeleştirilmiştir.",
+      "whyInteresting": "Bu kart devrimi sloganlardan çıkarıp gıda fiyatı, emek ve temsil ilişkisi üzerinden okunur hâle getirir.",
+      "misconception": "Yaygın yanılgı, sans-culottes’un yalnızca ideolojik fanatiklerden oluştuğudur.",
+      "nextTopics": [
+        "Bastille Günü",
+        "Ekmek Fiyatları",
+        "Etats Generaux"
+      ],
+      "sources": [
+        {
+          "title": "Sansculotte (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/topic/sansculotte"
+        },
+        {
+          "title": "French Revolution (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/event/French-Revolution"
+        },
+        {
+          "title": "The Sans-Culottes and Popular Politics (EHNE)",
+          "url": "https://ehne.fr/en/encyclopedia/themes/the-french-revolution-and-europe/actors-and-practices/the-sans-culottes"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "ac-unity-revolution",
+        "tf26-100-napoleon-rise"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Unity aksiyon temposunu kalabalık enerjisiyle kuruyor; True Frame bu enerjiye ekonomi ve kurum gerilimi katmanı ekliyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "fransiz-devrimi",
+        "paris",
+        "devrim",
+        "sans-culottes",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun sokak hareketini hızlandırıyor; belgeler ekonomik sıkışma ve mahalle örgütlenmesini daha merkezî gösteriyor.",
+      "whyItMatters": "Bu kart devrimi sloganlardan çıkarıp gıda fiyatı, emek ve temsil ilişkisi üzerinden okunur hâle getirir.",
+      "isFlagship": true,
+      "quickRealityCheck": "Sans-culottes yalnızca devrim coşkusu muydu, yoksa ekmek fiyatı krizine verilen örgütlü bir yanıt mıydı?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-097-women-march",
+      "title": "Kadınların Yürüyüşü",
+      "subtitle": "Fırından saraya: 5 Ekim 1789",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Unity",
+      "era": "Modern Tarih",
+      "region": "Fransa",
+      "themes": [
+        "Devrim",
+        "Siyaset",
+        "Toplum"
+      ],
+      "whatWeSee": "Assassin's Creed Unity'de Parisli kadınların ekmek protestosu, silahlanması ve Versailles'a uzanan yürüyüşü görev zinciri olarak oynanır. Arno Dorian kurgusal kahraman olarak olayın içindedir.",
+      "realHistory": "5 Ekim 1789 sabahı Paris'teki Hôtel de Ville önünde toplanan kalabalığın çoğunluğunu kadınlar oluşturuyordu. Aylar süren ekmek kıtlığı, yüksek fiyatlar ve kırsaldan şehre geciken tahıl sevkiyatları halkı zaten gerilmişti. Kadınlar — çoğu pazar satıcısı veya mahalle sakinleri — önce silah deposuna yürüdü, sonra yağmur altında Versailles'a doğru yola çıktı.\n\nYaklaşık 20 kilometrelik yürüyüşte on binlerce kişi katıldı. Versailles'ta kalabalık sarayın önüne ulaştı; bazıları saray kapısına zorla girdi. Kral XVI. Louis ve ailesinin ertesi gün Paris'e dönmeye zorlanması, monarşinin saray izolasyonunun fiilen sona ermesiydi.\n\nBu bir “öfke patlaması”ndan ibaret değildi. Kadınlar zaten devrimin ilk aylarında sokak hareketlerinin motoruydu: Temmuz'da Bastille, Ağustos'ta Feodal rejimlerin kaldırılması. 5 Ekim, ekmek krizinin siyasi krize dönüştüğü andı: yönetim artık uzak sarayda değil, Paris sokaklarında hesap vermek zorundaydı.\n\nUnity bu yürüyüşü aksiyon görevine dönüştürür; tarihsel çekirdek sağlamdır. Arno'nun rolü kurgusaldır; fakat olayın özü — kadınların ekmek krizini monarşi krizine çevirmesi — belgelenmiştir.",
+      "accuracyNote": "5 Ekim 1789 yürüyüşü ve kraliyet ailesinin Paris'e getirilmesi doğrudur. Arno Dorian ve Assassin-Templar çatışması tamamen kurgusaldır; kalabalık sayıları kaynaklara göre değişir.",
+      "whyInteresting": "Yürüyüşe öncülük edenlerin çoğu silahsız pazar kadınlarıydı; yine de monarşinin saraydan ayrılmasını sağladılar.",
+      "misconception": "Fransız Devrimi yalnızca salonlarda ve erkek liderler arasında yaşandı sanılır; oysa 5 Ekim'de sokak siyasetinin bel kemiği kadınlardı.",
+      "nextTopics": [
+        "Bastille Günü",
+        "Ekmek Fiyatları",
+        "Etats Generaux"
+      ],
+      "sources": [
+        {
+          "title": "March on Versailles (Britannica)",
+          "url": "https://www.britannica.com/event/March-on-Versailles",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "French Revolution: Events of 1789 (Britannica)",
+          "url": "https://www.britannica.com/event/French-Revolution/Events-of-1789",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Women in the French Revolution (Library of Congress)",
+          "url": "https://guides.loc.gov/women-in-the-french-revolution",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Bread and the French Revolution (Mount Vernon)",
+          "url": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/bread-and-the-french-revolution",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-096-sans-culottes",
+        "ac-unity-revolution"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "AC Unity 5 Ekim yürüyüşünü oynanabilir görev olarak sunar; bu kart olayın siyasi kırılma noktası olduğunu tarihsel kayıtlarla tamamlar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "fransiz-devrimi",
+        "paris",
+        "devrim",
+        "kadinlarin-yuruyusu",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun yürüyüşü aksiyon görev zinciri yapar; gerçekte tetikleyici ekmek kıtlığı ve kadınların siyasi örgütlenmesiydi.",
+      "whyItMatters": "Yürüyüşe öncülük edenlerin çoğu silahsız pazar kadınlarıydı; yine de monarşinin saraydan ayrılmasını sağladılar.",
+      "isFlagship": false,
+      "quickRealityCheck": "Unity'deki yürüyüş görevi gerçek bir olaya dayanıyor — 5 Ekim 1789'da ne oldu?",
+      "lastReviewedAt": "2026-06-24",
+      "reviewerNote": "Kronoloji Britannica ve Library of Congress ile doğrulandı; ekmek bağlamı Mount Vernon kaynağıyla çaprazlandı."
+    }
+  ]
+}

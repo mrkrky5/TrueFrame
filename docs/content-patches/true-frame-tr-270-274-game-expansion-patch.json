@@ -1,0 +1,577 @@
+{
+  "patchId": "true-frame-tr-270-274-game-expansion-patch",
+  "locale": "tr",
+  "sourceChunks": [],
+  "contentRange": {
+    "startId": "tf26-270",
+    "endId": "tf26-274"
+  },
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-new-card-generation",
+  "summary": {
+    "cardCount": 5,
+    "newCards": 5,
+    "flagshipNewCards": 2,
+    "standardNewCards": 3,
+    "mediaFocus": [
+      "Hotel Rwanda",
+      "Downfall",
+      "Apollo 13",
+      "Bridge of Spies",
+      "Peaky Blinders"
+    ],
+    "sourceUpdates": "Fresh source-checked cards with verified replacement sources.",
+    "notes": "Continuation batch after tf26-266 through tf26-269; includes sensitive genocide memory and post-war trauma topics handled with conservative source grounding."
+  },
+  "entries": [
+    {
+      "id": "tf26-270-hotel-rwanda-genocide-memory",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "Hotel Rwanda hassas soykırım hafızası konusu olduğu için bireysel kahramanlıkla sınırlanmadı; propaganda, uluslararası sessizlik ve hafıza kurumlarıyla dengelendi.",
+      "fields": {
+        "title": "Ruanda Soykırımı ve Sessizlik",
+        "subtitle": "Bir otel hikâyesinin ardındaki propaganda ve hafıza",
+        "mediaType": "film",
+        "mediaTitle": "Hotel Rwanda",
+        "era": "Modern Tarih",
+        "region": "Ruanda",
+        "themes": [
+          "Soykırım",
+          "Medya",
+          "Hafıza",
+          "Propaganda"
+        ],
+        "whatWeSee": "Hotel Rwanda, 1994 Ruanda Soykırımı’nı Paul Rusesabagina ve Hôtel des Mille Collines çevresinden anlatır. Film, katliamın ortasında bir otelin sığınağa dönüşmesini, diplomatik telefonları, rüşveti, korkuyu ve dış dünyanın ilgisizliğini kişisel bir hayatta kalma hikâyesi gibi kurar. Seyirci büyük tarihsel felaketi bir otel lobisi, birkaç koridor ve çaresiz bekleyiş üzerinden hisseder.",
+        "realHistory": "### Film bir kapı açar\n\nHotel Rwanda, 1994 Ruanda Soykırımı’nı tek bir otel ve birkaç karakter üzerinden seyredilebilir hale getirir. Bu tercih dramatik olarak anlaşılırdır: yüz binlerce insanın öldürüldüğü, komşuların komşulara saldırdığı ve devlet yapılarının katliamı kolaylaştırdığı bir süreci iki saatlik filmde doğrudan anlatmak neredeyse imkânsızdır. Film bu nedenle Hôtel des Mille Collines çevresindeki koruma, pazarlık ve hayatta kalma hikâyesine odaklanır. Ama gerçek tarih, sadece bireysel cesaret ya da tek bir kurtarıcı figürle açıklanamayacak kadar geniştir.\n\n### Propaganda ve örgütlü şiddet\n\nSoykırım, 6 Nisan 1994’te Başkan Juvénal Habyarimana’nın uçağının düşürülmesinden sonra hızlandı; fakat şiddetin zemini daha önce hazırlanmıştı. Birleşmiş Milletler’in tarihsel özetinde de görüldüğü gibi RTLM gibi yayın organları Tutsileri düşmanlaştıran, insanlıktan çıkaran ve öldürmeye çağıran dilin yayılmasında önemli rol oynadı. ICTR’nin “Media Case” dosyası da radyo ve basının yalnız haber aktarmadığını; bazı aktörlerin doğrudan ve kamusal soykırım kışkırtması nedeniyle yargılandığını gösterir. Bu yüzden Ruanda örneğinde medya, nötr bir arka plan değil, şiddetin altyapılarından biridir.\n\n### Uluslararası sessizlik\n\nHotel Rwanda’nın en güçlü tarafı, dış dünyanın gecikmiş ve sınırlı tepkisini hissettirmesidir. UNAMIR’in yetkisi ve kapasitesi baştan sınırlıydı; 21 Nisan 1994’te barış gücünün ciddi biçimde küçültülmesi, sahadaki koruma imkânlarını daha da zayıflattı. Bu, “kimse hiçbir şey bilmiyordu” diye geçiştirilebilecek bir durum değildir. Uyarılar, raporlar ve sahadaki tanıklıklar vardı; sorun, siyasi irade ve müdahale kapasitesinin yetersiz kalmasıydı.\n\nFilmin Paul Rusesabagina merkezli anlatısı yıllar içinde tartışmalı hale gelmiştir; bazı kurtulanlar ve araştırmacılar filmin onu fazla parlatan bir kahramanlık çerçevesi kurduğunu savunur. True Frame açısından önemli olan da burada başlar: film hafıza için güçlü bir kapıdır, ama tek başına tarih değildir. Gerçek tarih, Kigali Genocide Memorial gibi kurumların koruduğu tanıklıklarda, ICTR dosyalarında ve soykırımın yerel-idari mekanizmalarını inceleyen çalışmalarda daha karmaşık görünür. Hotel Rwanda seyirciye kapıyı açar; içerideki gerçek ise propaganda, devlet şiddeti, uluslararası çekingenlik ve hayatta kalanların hafızası arasında durur.\n\n### Hafızanın sınırı\n\nBu tür filmlerde en zor mesele temsil ölçeğidir. Bir otel odasında saklanan insanların korkusu gerçek ve önemlidir; fakat soykırım aynı anda köylerde, yol kontrol noktalarında, kiliselerde, belediye yapılarında ve radyo yayınlarında yürüyordu. Tek bir mekân seyirciye tutunacak bir merkez verir, ama şiddetin yaygınlığını daraltabilir. Bu yüzden Ruanda tarihini yalnız Hotel Rwanda üzerinden öğrenmek eksik kalır. ICTR dosyaları failleri ve kışkırtıcıları hukuk diline çekerken, Kigali Genocide Memorial kurbanların adını ve hatırasını geri koyar. Birincisi hesap verme, ikincisi yas ve eğitim alanıdır. Film bu iki alanın yerini tutmaz; ancak doğru kaynaklarla birlikte izlenirse, “neden kimse durdurmadı?” sorusunu daha sert ve daha tarihsel biçimde sordurur. Bu ek kaynak okuması, filmin duygusal etkisini azaltmaz; aksine onu daha sorumlu bir hafıza çalışmasına dönüştürür.",
+        "accuracyNote": "Film gerçek soykırım bağlamına dayanır, ancak Rusesabagina merkezli anlatı ve bazı karakter dengeleri yıllar içinde tartışılmıştır. Kart, filmi tek tarihsel kaynak gibi değil, hafıza ve temsil kapısı olarak ele alır.",
+        "whyInteresting": "Film, büyük bir kitlesel suçu kişisel hikâyeye indirgerken gerçek tarih propaganda, devlet şiddeti ve uluslararası eylemsizlik gibi daha geniş mekanizmaları görünür kılar.",
+        "misconception": "Ruanda Soykırımı bazen ani bir kabile şiddeti gibi anlatılır; gerçekte propaganda, milis örgütlenmesi, siyasi elitler ve uluslararası pasiflik birlikte rol oynadı.",
+        "nextTopics": [
+          "Medya Propagandası",
+          "Uluslararası Hukuk",
+          "Soykırım Hafızası"
+        ],
+        "similarMedia": [
+          "Sometimes in April",
+          "Shake Hands with the Devil",
+          "The Killing Fields"
+        ],
+        "relatedCardIds": [
+          "tf26-252-1979revolution-iran",
+          "tf26-212-papersplease-border-regime",
+          "tf26-241-bf1-arab-revolt-lawrence"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "minor",
+        "mediaConnection": "Hotel Rwanda’nın otel merkezli anlatısı, 1994 Ruanda Soykırımı’nın gerçek propaganda, uluslararası tepki ve hafıza tartışmalarıyla doğrudan ilişkilidir.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "ruanda",
+          "soykirim",
+          "hotel-rwanda",
+          "medya",
+          "true-frame"
+        ],
+        "spoilerNote": "Filmin ana tarihsel arka planı ve otel çevresindeki kurtuluş anlatısına dair bilgi içerir.",
+        "mediaChanged": "Film, soykırımı bir otel ve bir kurtarıcı figür etrafında dramatize eder; gerçek tarih daha çok propaganda ağı, uluslararası kararlar ve çok sayıda tanıklık üzerinden anlaşılır.",
+        "whyItMatters": "Bu konu, kitlesel şiddetin yalnız nefretle değil, onu organize eden medya, devlet yapısı ve dış dünyanın gecikmiş tepkisiyle de büyüdüğünü hatırlatır.",
+        "quickRealityCheck": "Bir film yüz binlerce insanın yaşadığı felaketi tek bir kahraman hikâyesine sığdırdığında ne kaybolur?",
+        "isFlagship": true,
+        "sources": [
+          {
+            "title": "United Nations - 1994 Genocide Against the Tutsi in Rwanda",
+            "url": "https://www.un.org/en/preventgenocide/rwanda/historical-background.shtml",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "ICTR / IRMCT - Nahimana et al. Media Case",
+            "url": "https://unictr.irmct.org/en/cases/ictr-99-52",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Kigali Genocide Memorial",
+            "url": "https://kgm.rw/",
+            "type": "memorial",
+            "verified": true
+          },
+          {
+            "title": "USHMM - Pleading for Help",
+            "url": "https://www.ushmm.org/en/genocide-prevention/countries/rwanda/pleading-for-help",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "United Nations - 1994 Genocide Against the Tutsi in Rwanda",
+            "url": "https://www.un.org/en/preventgenocide/rwanda/historical-background.shtml",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "ICTR / IRMCT - Nahimana et al. Media Case",
+            "url": "https://unictr.irmct.org/en/cases/ictr-99-52",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Kigali Genocide Memorial",
+            "url": "https://kgm.rw/",
+            "type": "memorial",
+            "verified": true
+          },
+          {
+            "title": "USHMM - Pleading for Help",
+            "url": "https://www.ushmm.org/en/genocide-prevention/countries/rwanda/pleading-for-help",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-271-downfall-hitler-bunker-collapse",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Downfall kartı Hitler'i insani ayrıntılarla göstermenin temsil riskini kabul ederek Berlin Muharebesi ve bunker bağlamına oturtuldu.",
+      "fields": {
+        "title": "Çöküş ve Führerbunker",
+        "subtitle": "Nazi rejiminin son günleri nasıl gösterilir?",
+        "mediaType": "film",
+        "mediaTitle": "Downfall (Der Untergang)",
+        "era": "II. Dünya Savaşı",
+        "region": "Almanya",
+        "themes": [
+          "II. Dünya Savaşı",
+          "Nazi Almanyası",
+          "Hafıza",
+          "Temsil"
+        ],
+        "whatWeSee": "Downfall, Berlin düşerken Hitler’i ve çevresindeki Nazi elitini Führerbunker içinde izletir. Film, harita başındaki öfke patlamalarını, sadakat ritüellerini, kaçışsızlığı ve rejimin gerçeklikle bağını koparmasını dar, klostrofobik bir mekâna sıkıştırır. Büyük savaşın sonu, birkaç odanın içinde çöken bir iktidar dili gibi görünür.",
+        "realHistory": "Downfall, Hitler’i şeytani bir sembol olarak uzaktan göstermek yerine bunker içinde çöken bir siyasi düzenin merkezinde izletir. Bu yüzden film çıktığında temel tartışma yalnız “ne kadar doğru?” değil, “Hitler’i insani ayrıntılarla göstermek tehlikeli mi?” sorusuydu. Gerçek tarih açısından zemin nettir: Berlin Muharebesi 16 Nisan-2 Mayıs 1945 arasında yaşandı ve Sovyet ilerleyişi Nazi rejiminin askeri sonunu belirledi. Hitler 30 Nisan’da Führerbunker’da intihar etti; Almanya’nın koşulsuz teslimiyeti ise birkaç gün sonra geldi.\n\nFilm, bu kapanışı büyük savaş haritasından çok dar odalar, emir komuta kopukluğu ve inkâr psikolojisiyle anlatır. Bu seçim tarihsel olarak anlamlıdır, çünkü son günlerde rejim hâlâ hayali karşı saldırılar, sadakat gösterileri ve sivillerin bedel ödemesi üzerine kurulu bir dil kullanıyordu. Ancak film izlerken dikkatli olmak gerekir: Nazi liderlerinin korku, yorgunluk veya çaresizlik göstermesi onları ahlaki olarak küçültmez ya da affettirmez. Tam tersine, sıradan insan ayrıntılarıyla verilen fail portresi daha rahatsız edici bir gerçeği açar: yıkıcı ideolojiler, yalnız karikatür canavarlar tarafından değil, karar veren, emir yazan ve son ana kadar sorumluluktan kaçan insanlar tarafından yürütülür.",
+        "accuracyNote": "Film, Hitler’in son günlerini tanıklıklara ve tarihsel çalışmalara dayanarak dramatize eder. Temel tarihsel çerçeve doğrudur; ancak diyaloglar, duygusal anlar ve bazı sahne düzenleri sinemasal yorumdur.",
+        "whyInteresting": "Downfall, tarihsel failin karikatürleştirilmeden gösterilmesinin neden hem güçlü hem de riskli bir temsil tercihi olduğunu düşündürür.",
+        "misconception": "Hitler’i insani ayrıntılarla göstermek onu aklamak anlamına gelmez; doğru bağlam kurulmazsa bu risk doğar, ama bağlam güçlü olduğunda fail sorumluluğu daha çıplak görünür.",
+        "nextTopics": [
+          "Berlin Muharebesi",
+          "Savaş Suçları",
+          "Nazi Propagandası"
+        ],
+        "similarMedia": [
+          "The Zone of Interest",
+          "Conspiracy",
+          "Sophie Scholl: The Final Days"
+        ],
+        "relatedCardIds": [
+          "tf26-244-cod-stalingrad-sniper-myth",
+          "tf26-240-bf1-gallipoli",
+          "tf26-242-bfv-senegalese-tirailleurs"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "Downfall’ın bunker anlatısı, 1945 Berlin Muharebesi ve Nazi rejiminin belgelenmiş son günleriyle ilişkilidir.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "downfall",
+          "berlin",
+          "hitler",
+          "ikinci-dunya-savasi",
+          "true-frame"
+        ],
+        "spoilerNote": "Tarihsel son bilinen bir olay olduğu için özel kurgu spoilerı içermez.",
+        "mediaChanged": "Film, geniş cephe savaşını küçük bir bunker dramasına indirger; gerçek tarih bu dar mekânı Berlin’in yıkımı ve sivillerin bedeliyle birlikte okumayı gerektirir.",
+        "whyItMatters": "Faili şeytanlaştırmak bazen onu tarihin dışına atar; Downfall ise yıkıcı kararların insanlar, kurumlar ve ideolojiler içinde üretildiğini hatırlatır.",
+        "quickRealityCheck": "Bir diktatörü insan gibi göstermek onu anlamak mıdır, yoksa aklamak mı? Cevap bağlamın gücüne bağlıdır.",
+        "isFlagship": false,
+        "sources": [
+          {
+            "title": "Imperial War Museums - The Battle of Berlin",
+            "url": "https://www.iwm.org.uk/history/second-world-war/eastern-front/the-battle-of-berlin-germanys-downfall-on-the-eastern-front",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "MI5 - Hitler's Last Days",
+            "url": "https://www.mi5.gov.uk/history/world-war-ii/hitlers-last-days",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "German History in Documents and Images - Final Days of Fighting in Berlin",
+            "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/final-days-of-fighting-in-berlin-1945",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Imperial War Museums - The Battle of Berlin",
+            "url": "https://www.iwm.org.uk/history/second-world-war/eastern-front/the-battle-of-berlin-germanys-downfall-on-the-eastern-front",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "MI5 - Hitler's Last Days",
+            "url": "https://www.mi5.gov.uk/history/world-war-ii/hitlers-last-days",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "German History in Documents and Images - Final Days of Fighting in Berlin",
+            "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/final-days-of-fighting-in-berlin-1945",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-272-apollo13-engineering-failure",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Apollo 13 mevcut uzay kartlarıyla çakışmasın diye Ay yarışı değil kriz mühendisliği ve sistem dayanıklılığı üzerinden yazıldı.",
+      "fields": {
+        "title": "Apollo 13: Başarılı Başarısızlık",
+        "subtitle": "Ay’a inemeyen görevin mühendislik zaferi",
+        "mediaType": "film",
+        "mediaTitle": "Apollo 13",
+        "era": "Soğuk Savaş",
+        "region": "ABD / Uzay",
+        "themes": [
+          "Uzay",
+          "Mühendislik",
+          "Bilim",
+          "Kriz Yönetimi"
+        ],
+        "whatWeSee": "Apollo 13, Ay’a giden üç astronotun patlama sonrası hayatta kalma mücadelesini anlatır. Filmde görev kontrol merkezi, dar kapsül, azalan enerji, karbondioksit tehlikesi ve ailelerin bekleyişi birlikte akar. Uzay macerası bir keşif zaferinden çok, hata sonrası soğukkanlılık ve ekip çalışması hikâyesine dönüşür.",
+        "realHistory": "Apollo 13 filmi çoğu uzay anlatısının tersine başarıyı Ay’a inişle değil, eve dönüşle ölçer. Gerçekte görev 11 Nisan 1970’te üçüncü Ay inişi denemesi olarak başladı; fakat servis modülündeki oksijen tankının patlamasıyla iniş iptal edildi. NASA’nın “successful failure” ifadesi bu yüzden önemlidir: hedef başarısız oldu, ama kriz yönetimi üç astronotun hayatta kalmasını sağladı.\n\nFilmin dramatize ettiği en güçlü ayrıntılardan biri mühendislik kültürüdür. Sorun tek bir kahramanın parlak fikriyle çözülmedi; yer kontrolü, astronotlar, prosedürler, yedek sistemler ve eldeki parçalarla doğaçlama yapabilen ekipler birlikte çalıştı. Ay modülü Aquarius, normalde kısa süreli yüzey operasyonu için tasarlanmışken dönüş yolunda cankurtaran botuna dönüştü. Karbondioksit birikimi tehlikesi doğduğunda komuta modülündeki farklı tipte lityum hidroksit filtrelerini Ay modülü sistemine uydurmak gerekti. Smithsonian’daki Apollo 13 LiOH canister mock-up kaydı, bu “kare filtreyi yuvarlak deliğe uydurma” meselesinin yalnız film repliği değil, gerçek bir sistem uyarlaması olduğunu gösterir.\n\nBu yüzden Apollo 13, True Frame için “kahraman astronot”tan çok “hata sonrası organizasyon” hikâyesidir. Gerçek mucize, patlamanın olmaması değil; patladıktan sonra kimsenin tek başına mucize olmak zorunda kalmamasıdır.",
+        "accuracyNote": "Film temel olay örgüsünde gerçek Apollo 13 krizini izler; bazı diyaloglar ve gerilim ritimleri sinemasal etki için sıkıştırılmıştır. NASA kaynakları görevin başarısız Ay inişine rağmen güvenlik ve kriz yönetimi açısından kalıcı dersler bıraktığını vurgular.",
+        "whyInteresting": "Apollo 13, teknolojinin kusursuzluğu kadar arıza sonrası organizasyon kapasitesinin de hayat kurtardığını gösterir.",
+        "misconception": "Apollo 13 bazen sadece 'Houston, bir problemimiz var' repliğine indirgenir; gerçek hikâye çok daha kolektif bir sistem mühendisliği örneğidir.",
+        "nextTopics": [
+          "Ay Yarışı",
+          "NASA Görev Kontrol",
+          "Soğuk Savaş Bilimi"
+        ],
+        "similarMedia": [
+          "First Man",
+          "For All Mankind",
+          "The Right Stuff"
+        ],
+        "relatedCardIds": [
+          "tf26-225-fallout-atomic-optimism",
+          "tf26-230-mgs-nuclear-deterrence",
+          "tf26-263-imitation-game-bletchley"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "mediaConnection": "Apollo 13 filmi, 1970’teki gerçek NASA görevinin oksijen tankı patlaması ve güvenli dönüş krizine dayanır.",
+        "accuracyType": "real",
+        "isPremium": false,
+        "tags": [
+          "apollo-13",
+          "nasa",
+          "uzay",
+          "muhendislik",
+          "true-frame"
+        ],
+        "spoilerNote": "Tarihsel görevin sonucu bilinen bir olay olduğu için özel kurgu spoilerı içermez.",
+        "mediaChanged": "Film krizi dramatik olarak sıkıştırır; gerçek olay ise prosedür, eğitim, yer kontrolü ve donanım uyarlaması gibi daha teknik katmanlarla ilerledi.",
+        "whyItMatters": "Bu hikâye, büyük sistemlerde başarıyı bazen hedefe ulaşmanın değil, felaket büyümeden geri dönebilmenin belirlediğini gösterir.",
+        "quickRealityCheck": "Apollo 13 Ay’a inmedi; ama tam da bu yüzden mühendislik tarihinin en öğretici başarılarından biri oldu.",
+        "isFlagship": false,
+        "sources": [
+          {
+            "title": "NASA - Apollo 13: The Successful Failure",
+            "url": "https://www.nasa.gov/missions/apollo/apollo-13-the-successful-failure/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "NASA - Apollo 13 Mission Details",
+            "url": "https://www.nasa.gov/missions/apollo/apollo-13-mission-details/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Smithsonian National Air and Space Museum - Apollo 13 Emergency LiOH Canister Mock-up",
+            "url": "https://airandspace.si.edu/collection-objects/lithium-hydroxide-canister-mock-apollo-13-emergency/nasm_A19760747000",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "NASA - Apollo 13: The Successful Failure",
+            "url": "https://www.nasa.gov/missions/apollo/apollo-13-the-successful-failure/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "NASA - Apollo 13 Mission Details",
+            "url": "https://www.nasa.gov/missions/apollo/apollo-13-mission-details/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Smithsonian National Air and Space Museum - Apollo 13 Emergency LiOH Canister Mock-up",
+            "url": "https://airandspace.si.edu/collection-objects/lithium-hydroxide-canister-mock-apollo-13-emergency/nasm_A19760747000",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-273-bridge-of-spies-u2-exchange",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Bridge of Spies kartı Donovan merkezli hukuk dramasını U-2 krizi, istihbarat inkârı ve Glienicke Köprüsü takasıyla dengeledi.",
+      "fields": {
+        "title": "Casus Takası ve U-2 Krizi",
+        "subtitle": "Soğuk Savaş sadece füzelerle yürümüyordu",
+        "mediaType": "film",
+        "mediaTitle": "Bridge of Spies",
+        "era": "Soğuk Savaş",
+        "region": "ABD / Sovyetler Birliği / Berlin",
+        "themes": [
+          "Soğuk Savaş",
+          "Casusluk",
+          "Diplomasi",
+          "Hukuk"
+        ],
+        "whatWeSee": "Bridge of Spies, Sovyet casusu Rudolf Abel’i savunan James Donovan’ın daha sonra CIA pilotu Francis Gary Powers için yapılan esir takasında rol almasını anlatır. Film, mahkeme salonu, kamuoyu baskısı, Berlin Duvarı atmosferi ve diplomatik pazarlığı tek bir ahlaki hukuk hikâyesi içinde birleştirir.",
+        "realHistory": "Bridge of Spies, Soğuk Savaş’ı füze krizlerinden önce hukuk, pazarlık ve yüz kurtarma alanında gösterir. Hikâyenin merkezinde üç unsur vardır: Sovyet casusu Rudolf Abel’in ABD’de yargılanması, CIA pilotu Francis Gary Powers’ın 1 Mayıs 1960’ta Sovyet hava sahasında düşürülmesi ve 1962’de yapılan mahkûm takası. Film bu süreci James Donovan’ın ahlaki direnci üzerinden izletir; gerçek tarih ise daha geniş bir istihbarat ve diplomasi ağına bağlıdır.\n\nU-2 olayı özellikle önemlidir. ABD önce uçağın hava durumu görevi yaptığını savunmaya çalıştı, fakat Sovyetler hem pilotu hem de ekipmanı ele geçirince bu açıklama çöktü. Office of the Historian’ın özetlediği gibi olay, Paris Zirvesi’nin iptaline ve ABD-Sovyet geriliminin artmasına yol açtı. Powers, casusluk suçlamasıyla mahkûm edildi; CIA’in kendi anlatımı da onun 10 Şubat 1962’de Rudolf Abel karşılığında Glienicke Köprüsü’nde serbest bırakıldığını aktarır.\n\nFilmdeki köprü sahnesi bu yüzden yalnız dramatik bir final değildir. Soğuk Savaş’ta taraflar birbirini düşman olarak görürken bile esir takası, arka kanal ve hukuki temsil gibi mekanizmalar çalışıyordu. Bridge of Spies’in gerçek çerçevesi burada yatar: ideolojik savaş sadece tanklarla değil, avukatlarla, diplomatik mesajlarla ve inkâr edilebilir operasyonlarla da yürütülür.",
+        "accuracyNote": "Film gerçek Abel-Powers takasına dayanır, fakat Donovan’ın kişisel rolünü ve bazı gerilim anlarını dramatik biçimde yoğunlaştırır. U-2 hadisesi ve 1962 Glienicke Köprüsü takası tarihsel çekirdeği oluşturur.",
+        "whyInteresting": "Casus hikâyesi, Soğuk Savaş’ta hukuk ilkeleri, istihbarat inkârı ve diplomatik pazarlığın aynı anda nasıl çalıştığını gösterir.",
+        "misconception": "Soğuk Savaş çoğu zaman yalnız nükleer tehdit olarak düşünülür; gerçek mücadele mahkemeler, hava keşfi, propaganda ve arka kanal diplomasisiyle de ilerledi.",
+        "nextTopics": [
+          "U-2 Olayı",
+          "Berlin Duvarı",
+          "Casusluk Hukuku"
+        ],
+        "similarMedia": [
+          "Tinker Tailor Soldier Spy",
+          "The Courier",
+          "The Americans"
+        ],
+        "relatedCardIds": [
+          "tf26-245-codbo-mkultra",
+          "tf26-246-codbo-bay-of-pigs",
+          "tf26-230-mgs-nuclear-deterrence"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "minor",
+        "mediaConnection": "Bridge of Spies, Francis Gary Powers’ın U-2 uçağıyla vurulması ve Rudolf Abel ile yapılan gerçek mahkûm takasını dramatize eder.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "bridge-of-spies",
+          "soguk-savas",
+          "u2",
+          "casusluk",
+          "true-frame"
+        ],
+        "spoilerNote": "Filmin merkezindeki tarihsel takas sonucuna dair bilgi içerir.",
+        "mediaChanged": "Film Donovan’ın ahlaki çizgisini öne çıkarır; gerçek çerçevede istihbarat kurumları, diplomatik kanallar ve kamuoyu yönetimi daha belirleyici katmanlardır.",
+        "whyItMatters": "Bu olay, düşman bloklar arasında bile pazarlık kanallarının açık kalmasının krizleri yönetilebilir kıldığını gösterir.",
+        "quickRealityCheck": "Bir casus takası bazen iki kişinin değil, iki süper gücün prestijini kurtarmanın yoludur.",
+        "isFlagship": false,
+        "sources": [
+          {
+            "title": "Office of the Historian - U-2 Overflights and the Capture of Francis Gary Powers",
+            "url": "https://history.state.gov/milestones/1953-1960/u2-incident",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "CIA - May Day Over Moscow: The Francis Gary Powers Story",
+            "url": "https://www.cia.gov/stories/story/may-day-over-moscow-the-francis-gary-powers-story/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "CIA Crest / National Archives - The Central Intelligence Agency and Overhead Reconnaissance",
+            "url": "https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Office of the Historian - U-2 Overflights and the Capture of Francis Gary Powers",
+            "url": "https://history.state.gov/milestones/1953-1960/u2-incident",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "CIA - May Day Over Moscow: The Francis Gary Powers Story",
+            "url": "https://www.cia.gov/stories/story/may-day-over-moscow-the-francis-gary-powers-story/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "CIA Crest / National Archives - The Central Intelligence Agency and Overhead Reconnaissance",
+            "url": "https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-274-peaky-blinders-postwar-veterans",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "Peaky Blinders için flagship seçildi; çünkü dizi gerçek çete, savaş sonrası travma ve sanayi sınıf dünyasını tek estetikte birleştiriyor.",
+      "fields": {
+        "title": "Savaştan Dönenler ve Birmingham Çeteleri",
+        "subtitle": "Peaky Blinders’ın karizmasının altındaki sınıf gerilimi",
+        "mediaType": "series",
+        "mediaTitle": "Peaky Blinders",
+        "era": "I. Dünya Savaşı Sonrası",
+        "region": "Birleşik Krallık",
+        "themes": [
+          "Sınıf",
+          "Suç",
+          "Savaş Sonrası",
+          "Sanayi"
+        ],
+        "whatWeSee": "Peaky Blinders, Birmingham sokaklarında suç, aile, travma ve yükselme arzusunu stilize bir suç destanına dönüştürür. Dizi, cepheden dönen Thomas Shelby ve ailesini yasadışı bahis, işçi mahalleleri, polis baskısı ve siyasi dönüşüm arasında gösterir. Ekrandaki dünya sisli fabrikalar, keskin takım elbiseler ve patlamaya hazır erkeklik krizleriyle neredeyse mitolojik görünür.",
+        "realHistory": "### Shelby ailesi gerçek değil, dünya gerçek\n\nPeaky Blinders, seyirciye Birinci Dünya Savaşı’ndan dönmüş erkeklerin, yasadışı bahis ağlarının, sınıf öfkesinin ve sanayi şehrinin iç içe geçtiği çok stilize bir Birmingham verir. Thomas Shelby ve ailesi kurgu karakterlerdir; ama dizinin beslendiği dünya uydurma değildir. Gerçek Peaky Blinders adı, Birmingham’ın geç 19. yüzyıl ve erken 20. yüzyıl sokak çeteleriyle ilişkilidir. Carl Chinn’in çalışmalarında vurgulanan nokta önemlidir: dizideki gibi büyük, romantik ve neredeyse siyasi bir suç imparatorluğu yerine, yoksulluk, şiddet, küçük suçlar, bahis ve mahalle hâkimiyeti çevresinde şekillenen daha kirli bir gerçeklik vardır.\n\n### Savaştan dönmek\n\nDizinin zamanı ise özellikle etkileyicidir: 1919 sonrası. Britanya milyonlarca askeri terhis ederken yalnız üniformayı çıkarmadı; travma, işsizlik, sakatlık, yas ve sınıf gerilimi de eve döndü. National Archives, “shell shock” vakalarının Birinci Dünya Savaşı sonrasında ne kadar geniş bir meseleye dönüştüğünü gösterir. IWM’nin shell-shocked Britain projesi de savaşın yalnız cephede bitmediğini, aileler ve mahalleler içinde devam eden bir psikolojik yük bıraktığını anlatır. Peaky Blinders, Tommy Shelby’nin suskunluğu ve kontrol takıntısı üzerinden bunu melodramlaştırır; fakat savaş sonrası erkeklik krizi gerçek bir tarihsel zemine oturur.\n\n### Sanayi şehri ve suç\n\nBirmingham bu hikâyede sadece dekor değildir. Sanayi üretimi, kanal ağları, atölyeler, sınıf ayrımı ve işçi mahalleleri, suç ekonomisinin nasıl nefes aldığına dair ipuçları verir. Yasadışı bahis, koruma, şiddet ve siyasi bağlantı iddiası dizide büyütülür; ama bu büyütme, dönemin gerçek sosyal stresleriyle temas eder. 1919’daki iş rekabeti, terhis edilen askerler ve savaş sonrası toplumsal huzursuzluk, National Archives’ın 1919 race riots materyallerinde de görüldüğü gibi yalnız Birmingham’a özgü olmayan bir Britanya meselesiydi.\n\nBu nedenle Peaky Blinders’ı “gerçek çete dizisi” diye izlemek eksik olur. Dizi tarihsel kişileri, zaman çizgisini ve suç ölçeğini serbestçe kullanır. Asıl doğruluğu bire bir olaylarda değil, savaş sonrası toplumun geriliminde aranmalıdır: cepheden dönenler yeni bir düzen bulamaz, şehir eski yoksulluğu şık takım elbiseyle saklar, suç ise bazen yükselme yolu gibi görünür. Gerçek tarih, dizinin romantik karizmasını soğutur; ama onu daha ilginç hale getirir. Çünkü Shelby dünyasının parıltılı şiddeti, aslında yoksulluğun, travmanın ve sınıf sıkışmasının üzerine kuruludur.\n\nDizinin estetiği bu tarihi bazen çok parlak gösterir. Takım elbiseler, ağır yürüyüşler ve modern müzik, yoksul mahalle şiddetini çekici bir anti-kahraman mitine dönüştürür. Gerçek çete tarihine bakınca bu parıltı azalır: çoğu olay daha küçük ölçekli, daha gündelik ve kurbanlar açısından daha az romantiktir. Yine de dizi tamamen boş bir fantezi değildir. Savaş sonrası Britanya’da terhis, iş arayışı, sınıf öfkesi ve psikolojik kırılma aynı sokaklarda buluşuyordu. Bu da Peaky Blinders’ın neden tarih dersi olmasa bile güçlü bir tarih kapısı açtığını açıklar: doğru soru “Shelbyler gerçekten var mıydı?” değil, “bu kadar kırılmış bir toplumda suç neden bu kadar ikna edici bir yükselme dili gibi görünür?” olmalıdır.",
+        "accuracyNote": "Dizideki Shelby ailesi ve birçok ana olay kurgudur. Gerçek Peaky Blinders çeteleri daha erken döneme ve farklı ölçeğe aittir; ancak savaş sonrası Birmingham, sınıf gerilimi, terhis ve travma zemini tarihsel olarak anlamlıdır.",
+        "whyInteresting": "Dizinin en güçlü yanı bire bir çete tarihi değil, savaş sonrası erkeklik, işsizlik ve sanayi şehrinin suçla kurduğu ilişkiyi popüler kültüre taşımasıdır.",
+        "misconception": "Peaky Blinders genellikle gerçek Tommy Shelby hikâyesi gibi algılanır; gerçekte Shelby ailesi kurgu, çete tarihi ise dizideki kadar romantik ve büyük ölçekli değildir.",
+        "nextTopics": [
+          "Shell Shock",
+          "İşçi Sınıfı Tarihi",
+          "Yasadışı Bahis"
+        ],
+        "similarMedia": [
+          "Boardwalk Empire",
+          "Gangs of New York",
+          "Babylon Berlin"
+        ],
+        "relatedCardIds": [
+          "tf26-248-mafia2-postwar-gi-bill",
+          "tf26-222-victoria3-industrial-labor",
+          "tf26-260-forhonor-chivalry-myth"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "minor",
+        "mediaConnection": "Peaky Blinders, gerçek Birmingham çete tarihinden esinlenir ama asıl dramatik gücünü Birinci Dünya Savaşı sonrası sanayi şehri ve veteran travması atmosferinden alır.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "peaky-blinders",
+          "birmingham",
+          "birinci-dunya-savasi",
+          "suc",
+          "true-frame"
+        ],
+        "spoilerNote": "Dizinin genel karakter zemini ve savaş sonrası atmosferine dair bilgi içerir; belirli sezon finali spoilerı vermez.",
+        "mediaChanged": "Dizi gerçek çete tarihini zaman ve ölçek açısından büyütür; bunun yerine savaş sonrası toplumun psikolojik ve sınıfsal gerilimini daha stilize biçimde yakalar.",
+        "whyItMatters": "Bu konu, popüler suç anlatılarının çoğu zaman yoksulluk ve travmayı karizmaya dönüştürürken gerçek sosyal koşulları gölgede bırakabildiğini gösterir.",
+        "quickRealityCheck": "Peaky Blinders gerçek bir çete adıdır; ama Tommy Shelby’nin dünyası gerçek tarihten çok tarihsel streslerin stilize edilmiş bir kolajıdır.",
+        "isFlagship": true,
+        "sources": [
+          {
+            "title": "History West Midlands - Carl Chinn: The Real Peaky Blinders",
+            "url": "https://historywm.com/films/carl-chinn-the-real-peaky-blinders",
+            "type": "history",
+            "verified": true
+          },
+          {
+            "title": "The National Archives - Shell Shock Cases",
+            "url": "https://www.nationalarchives.gov.uk/education/resources/medicine-on-the-western-front-part-two/shell-shock-cases/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Imperial War Museums - Shell-Shocked Britain",
+            "url": "https://www.iwm.org.uk/partnerships/mapping-the-centenary/projects/shell-shocked-britain-understanding-the-lasting-trauma-of-the-first-world-war",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The National Archives - 1919 Race Riots",
+            "url": "https://www.nationalarchives.gov.uk/education/resources/1919-race-riots/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "History West Midlands - Carl Chinn: The Real Peaky Blinders",
+            "url": "https://historywm.com/films/carl-chinn-the-real-peaky-blinders",
+            "type": "history",
+            "verified": true
+          },
+          {
+            "title": "The National Archives - Shell Shock Cases",
+            "url": "https://www.nationalarchives.gov.uk/education/resources/medicine-on-the-western-front-part-two/shell-shock-cases/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Imperial War Museums - Shell-Shocked Britain",
+            "url": "https://www.iwm.org.uk/partnerships/mapping-the-centenary/projects/shell-shocked-britain-understanding-the-lasting-trauma-of-the-first-world-war",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The National Archives - 1919 Race Riots",
+            "url": "https://www.nationalarchives.gov.uk/education/resources/1919-race-riots/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

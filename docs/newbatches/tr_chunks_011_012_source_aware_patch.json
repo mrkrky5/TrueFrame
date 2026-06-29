@@ -1,0 +1,358 @@
+{
+  "batch": "tr-chunks-011-012-source-aware",
+  "sourceChunks": [
+    "tr-chunk-011.json",
+    "tr-chunk-012.json"
+  ],
+  "locale": "tr",
+  "notes": [
+    "Patch entries include only fields that should be replaced.",
+    "sourceUpdates are separated from text fields so Cursor can apply them explicitly.",
+    "Some acceptable cards receive source cleanup only where metadata or directness was weak."
+  ],
+  "entries": [
+    {
+      "id": "spartan-war-machines-myth",
+      "locale": "tr",
+      "decision": "rewrite_source_cleanup",
+      "fields": {
+        "realHistory": "Sparta’nın askeri ünü gerçekti, ama bu ün yalnızca bireysel cesaret veya “süper asker” yetiştirme arzusuyla açıklanamaz. Sparta toplumu, vatandaş erkeklerin savaş ve siyaset için serbest kalmasını sağlayan helot emeğine dayanıyordu. Helotlar toprağa bağlı, ağır baskı altında tutulan bir nüfustu; sayıca Spartalılardan fazla olmaları, Sparta’nın sürekli güvenlik kaygısını büyüttü. Bu yüzden agoge eğitimi yalnızca Perslere karşı kahraman yetiştiren bir okul değil, içerideki toplumsal düzeni koruyacak disiplinli bir vatandaş-savaşçı sınıfı üretme mekanizmasıydı.\n\nAgoge erkek çocukları küçük yaştan itibaren dayanıklılık, itaat, ortak yaşam ve askeri disiplin üzerinden şekillendirirdi. Fakat Sparta kültürü sadece savaş taliminden ibaret değildi. Müzik, şiir, dini törenler, ortak yemekler ve siyasi kurumlar da Spartalı kimliğinin parçasıydı. Kadınların mülkiyet ve kamusal görünürlük bakımından birçok Yunan kentinden daha farklı bir konuma sahip olması da bu toplumun tek boyutlu okunamayacağını gösterir.\n\n300 gibi yapımlar Sparta’yı özgürlük uğruna savaşan sade kahramanlar olarak gösterir. Gerçek tablo daha çelişkilidir: disiplin ve cesaret vardı, ama bunların arkasında sert sınıf ayrımı, helot baskısı ve dar vatandaş kitlesini koruma zorunluluğu bulunuyordu. Sparta’yı ilginç kılan şey de tam olarak bu gerilimdir: dışarıda kahramanlık, içeride kırılgan ve baskıcı bir düzen.",
+        "accuracyNote": "Film Sparta’nın disiplin ve savaş kültürünü abartılı ama tanınır biçimde kullanır; helot emeği, sınıf yapısı ve siyasi kurumlar ise doğal olarak geri planda kalır.",
+        "whyInteresting": "Sparta’nın savaş makinesi haline gelmesi yalnızca Pers tehdidiyle değil, sayıca üstün helot nüfusunu kontrol etme ihtiyacıyla da bağlantılıydı.",
+        "misconception": "Spartalıların sadece özgürlük için yaşayan eşit savaşçılar olduğu sanılır; gerçekte bu düzen, helot emeği ve katı vatandaşlık ayrımı üzerine kuruluydu.",
+        "mediaChanged": "300, Spartalıları neredeyse mitolojik süper askerler gibi gösterir; tarihsel Sparta ise askeri disiplin kadar helot baskısı, ortak yaşam ve dar vatandaşlık yapısıyla anlaşılır.",
+        "whyItMatters": "Sparta örneği, kahramanlık anlatılarının arkasında çoğu zaman görünmeyen emek, sınıf ve baskı düzenleri olduğunu hatırlatır.",
+        "quickRealityCheck": "Sparta gerçekten sadece özgür savaşçıların kenti miydi, yoksa askeri disiplini büyük ölçüde helot emeğini kontrol etme ihtiyacından mı doğmuştu?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Sparta (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/place/Sparta",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Spartans (BBC History)",
+            "url": "https://www.bbc.co.uk/history/ancient/greeks/spartans_01.shtml",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "witch-hunts-period",
+      "locale": "tr",
+      "decision": "rewrite_source_cleanup",
+      "fields": {
+        "realHistory": "Cadı avları popüler kültürde çoğu zaman “karanlık Orta Çağ” görüntüsüyle anlatılır, fakat Avrupa’daki büyük cadı yargılamalarının zirvesi esas olarak 15. yüzyıl sonundan 17. yüzyıla, yani Erken Modern döneme denk gelir. Bu dönem Reformasyon, Karşı Reform, yerel savaşlar, iklim baskısı, kıtlık ve toplumsal paniklerle doluydu. Suçlama dili diniydi, ama davaların işlemesi çoğu zaman yerel otorite, komşu gerilimi ve sivil mahkemelerin pratikleriyle belirlendi.\n\nMalleus Maleficarum gibi metinler şeytanla anlaşma ve kadın bedeni etrafında korku üreten bir çerçeve sundu; yine de cadı avları her yerde aynı yoğunlukta yaşanmadı. Bazı bölgelerde mahkemeler daha temkinli davranırken, özellikle Kutsal Roma İmparatorluğu’nun bazı yerel alanlarında yargılamalar çok daha yıkıcı oldu. Modern araştırmalar Avrupa’da idam edilenlerin sayısını genellikle on binlerle, çoğunlukla 40.000–60.000 aralığıyla tartışır; bu sayı korkunçtur ama popüler anlatılardaki milyonlarca kurban iddiası doğru değildir.\n\nBu nedenle cadı avlarını yalnız “Orta Çağ cehaleti” diye okumak yanıltıcıdır. Asıl hikâye, erken modern devletleşme, mezhep çatışması, yerel korkular ve hukuk mekanizmalarının birleştiği bir kriz tarihidir. Filmlerin karanlık köy atmosferi etkileyici olabilir, fakat dönemlendirme çoğu zaman yanlıştır.",
+        "accuracyNote": "Cadı avlarının zirvesi Orta Çağ’dan çok Erken Modern Avrupa’ya aittir; bölgesel yoğunluk, mahkeme türü ve mezhep çatışmaları sonucu ciddi biçimde etkiler.",
+        "whyInteresting": "Cadı avları tek merkezden yönetilen bir kampanya değildi; yerel mahkemeler, komşu ihbarları ve bölgesel panikler çoğu yerde belirleyici oldu.",
+        "misconception": "Cadı avlarının esasen Orta Çağ Engizisyonu tarafından yürütüldüğü sanılır; gerçekte büyük dalga Erken Modern dönemde ve çoğu kez yerel sivil mahkemelerde yaşandı.",
+        "mediaChanged": "Filmler cadı avlarını çoğu zaman sisli Orta Çağ köylerine yerleştirir; tarihsel ağırlık ise Reformasyon sonrası erken modern krizler, yerel mahkemeler ve toplumsal paniklerdedir.",
+        "whyItMatters": "Bu ayrım, geçmişi “karanlık çağ” klişesiyle değil, hukuk, iklim, mezhep ve yerel güç ilişkilerinin birleştiği somut krizlerle okumayı sağlar.",
+        "quickRealityCheck": "Cadı avları gerçekten Orta Çağ’ın karanlık ürünü müydü, yoksa Erken Modern Avrupa’nın hukuk ve toplum krizleriyle mi zirve yaptı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Witch Hunt (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/topic/witch-hunt",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Great Witch Hunt (History Today)",
+            "url": "https://www.historytoday.com/archive/great-witch-hunt",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Persecution of Witches (Historisches Lexikon Bayerns)",
+            "url": "https://www.historisches-lexikon-bayerns.de/Lexikon/EN:Persecution_of_witches",
+            "type": "reference",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "ancient-roman-day",
+      "locale": "tr",
+      "decision": "rewrite_source_cleanup",
+      "fields": {
+        "realHistory": "Roma’da sıradan bir gün, dizilerdeki sürekli suikast ve savaş temposundan çok daha düzenli ama yine de kalabalık bir kent hayatıydı. Sabahın erken saatleri özellikle patronus-client ilişkileri için önemliydi: daha alt statüdeki kişiler, destek ve koruma bekledikleri güçlü kişileri ziyaret eder; bu ilişki hem sosyal yardım hem de siyasi bağlılık üretirdi. Forum ise yalnızca büyük nutukların değil, dava, alışveriş, söylenti ve iş takibinin de merkeziydi.\n\nÖğleye doğru çalışma temposu yavaşlar, hamamlar ve sokak yemekleri gündelik hayatın parçası haline gelirdi. Büyük thermae yapıları yalnız temizlik alanı değildi; spor, sohbet, okuma ve sosyal görünürlük mekânıydı. Her Romalı şatafatlı ziyafetlerde uzanarak yemek yemiyordu. Birçok kent sakini basit tahıl, ekmek, baklagil, peynir, zeytin ve dışarıdan alınan sıcak yemeklerle günü geçirirdi. Thermopolium gibi hazır yemek tezgâhları bu yüzden Roma kent ekonomisinin önemli parçalarındandı.\n\nRome gibi yapımların değeri, Roma’yı sadece mermer saraylar ve senato entrikaları olarak değil, sokak, pazar, hamam ve patronaj ilişkileriyle de göstermeye çalışmasındadır. Günlük hayat, imparatorluk siyasetinden kopuk değildi: tahıl dağıtımı, halk oyunları, mahkeme davaları ve mahalle ilişkileri sıradan vatandaşın Roma devletiyle temas ettiği yerlerdi.",
+        "accuracyNote": "Roma günlük hayatı sınıf, cinsiyet ve kent-kır farkına göre değişirdi; hamam, forum, patronaj ve sokak yemeği büyük kentlerde özellikle görünürdü.",
+        "whyInteresting": "Roma hamamları yalnız yıkanma yeri değil, spor, dedikodu, iş bağlantısı ve sosyal statü gösterisinin bir arada yaşandığı kamusal alanlardı.",
+        "misconception": "Romalıların her gün büyük şölenlerde uzanarak yemek yediği sanılır; gerçekte bu daha çok zengin elitlerin imajıdır, çoğu insan çok daha basit beslenirdi.",
+        "mediaChanged": "Roma dizileri sık sık savaş ve entrikayı öne çıkarır; sıradan kent hayatında ise forum işleri, patronaj ilişkileri, hamamlar ve sokak yemeği en az siyaset kadar belirleyiciydi.",
+        "whyItMatters": "Roma günlük hayatı, büyük imparatorlukların yalnız savaşla değil, rutin, hizmet, altyapı ve sosyal ağlarla ayakta kaldığını gösterir.",
+        "quickRealityCheck": "Roma’da hayat gerçekten sürekli şölen ve entrika mıydı, yoksa forum, hamam, patronaj ve sokak yemeğiyle işleyen kalabalık bir kent rutini mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Daily Life in Ancient Rome (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/article/637/daily-life-in-ancient-rome/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Life in Ancient Rome (The Metropolitan Museum of Art)",
+            "url": "https://www.metmuseum.org/toah/hd/prome/hd_prome.htm",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "medieval-night-life",
+      "locale": "tr",
+      "decision": "rewrite_source_cleanup",
+      "fields": {
+        "realHistory": "Elektrik öncesi Avrupa’da gece bugünkü gibi aydınlatılmış, sürekli tüketilen bir zaman dilimi değildi. Mum, yağ lambası ve odun pahalı veya sınırlı kaynaklardı; bu yüzden birçok hane için gün batımı çalışma temposunu doğal olarak bitirirdi. Ancak bu, herkesin karanlıkla birlikte kesintisiz uyuduğu anlamına gelmez. Roger Ekirch’in arşiv çalışmaları, bazı erken modern ve geç Orta Çağ kaynaklarında “ilk uyku” ve “ikinci uyku” gibi ifadelerin geçtiğini gösterir. İnsanlar gecenin ortasında uyanıp dua edebilir, ev işi yapabilir, komşuyla konuşabilir veya tekrar uykuya dönebilirdi.\n\nYine de iki parçalı uykuyu evrensel bir kural gibi sunmak doğru değildir. Sosyal sınıf, mevsim, iş yükü, şehir-kır farkı ve güvenlik koşulları uyku düzenini etkilerdi. Gece aynı zamanda denetlenen bir zamandı: şehir kapıları kapanır, bekçiler devriye gezer, yangın riskine karşı ocak ve ateş kullanımı sınırlandırılırdı. Curfew kelimesinin couvre-feu, yani “ateşi ört” kökeni de bu yangın güvenliği ve gece düzeni fikriyle ilişkilidir.\n\nBu yüzden Orta Çağ gecesi ne tamamen ölü bir sessizlikti ne de meşalelerle dolu sürekli eğlence alanıydı. Daha doğru görüntü, pahalı ışık, yangın korkusu, gece bekçileri, dini ritim ve mevsimsel çalışmanın belirlediği daha parçalı bir karanlık hayatıdır.",
+        "accuracyNote": "İki parçalı uyku fikri tarihsel kaynaklarda görülür, ancak bunu bütün Orta Çağ toplumları için tek ve değişmez uyku düzeni gibi sunmamak gerekir.",
+        "whyInteresting": "Curfew sözcüğünün kökeni, gece ateşini örtme ve yangın riskini azaltma pratiğiyle ilişkilidir; gece düzeni aynı zamanda güvenlik meselesiydi.",
+        "misconception": "Geçmişte herkesin doğal olarak kesintisiz sekiz saat uyuduğu sanılır; oysa bazı kaynaklar geceyi iki uyku arası uyanıklıkla daha parçalı yaşadıklarını gösterir.",
+        "mediaChanged": "Dönem yapımları geceyi ya tamamen sessiz karanlık ya da meşaleli eğlence olarak gösterir; tarihsel gece daha çok pahalı ışık, bekçiler, yangın riski ve dini ritimlerle şekillenirdi.",
+        "whyItMatters": "Uyku düzeni bile teknolojinin, güvenliğin ve şehir yönetiminin gündelik hayatı nasıl değiştirdiğini gösteren tarihsel bir göstergedir.",
+        "quickRealityCheck": "İnsanlar geçmişte gerçekten bugünkü gibi kesintisiz sekiz saat mi uyurdu, yoksa bazı toplumlarda gece iki ayrı uyku ritmine mi bölünürdü?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Myth of the 8-Hour Sleep (BBC News)",
+            "url": "https://www.bbc.com/news/magazine-16964783",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Have we lost sleep? A reconsideration of segmented sleep (Sleep Advances / PMC)",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10404514/",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "ancient-city-smells",
+      "locale": "tr",
+      "decision": "rewrite_source_cleanup",
+      "fields": {
+        "realHistory": "Antik şehirleri yalnız pırıl pırıl mermer ya da yalnız çamur ve pislik olarak düşünmek yanıltıcıdır. Roma, İskenderiye veya Pompeii gibi kentlerde anıtsal yapılar, çeşmeler, hamamlar ve kanalizasyon sistemleri vardı; fakat bu altyapı her mahalleye eşit ulaşmazdı. Dar sokaklarda hayvan gübresi, pazar atıkları, açık drenaj kanalları, tabakhaneler, balık sosu üretimi, duman ve insan kalabalığı aynı duyusal haritada birleşirdi.\n\nKoku yalnız rahatsız edici değildi; aynı zamanda işaretleyiciydi. Fırın, mezbaha, hamam, tapınak, pazar ve zengin evlerin kokuları farklıydı. Tütsü, parfüm, aromatik yağlar ve çiçekler kokuyu bastırmak veya statü göstermek için kullanılırdı. Roma’da idrarın amonyak içeriği nedeniyle çamaşırhanelerde ve bazı üretim işlerinde değerli olması, antik kent ekonomisinin modern gözle tuhaf görünen yanlarından biridir. Vespasian dönemindeki idrar vergisi de bu pratikle ilişkilendirilir.\n\nBu yüzden antik kent atmosferi tek bir kokuya indirgenemez. Görkemli tapınak mermeriyle tabakhane kokusu, tütsüyle lağım, gül yağıyla hayvan pazarı aynı şehirde yan yana bulunabilirdi. Medya çoğu zaman görüntüyü verir; gerçek tarih ise o görüntünün sesini, kokusunu ve rahatsız edici yoğunluğunu da düşünmeyi gerektirir.",
+        "accuracyNote": "Antik kentlerde gelişmiş su ve kanalizasyon örnekleri vardı, ancak bunlar her sokakta modern hijyen anlamına gelmez; koku sınıf, mahalle ve iş koluna göre değişirdi.",
+        "whyInteresting": "Roma’da idrar, amonyak içeriği nedeniyle çamaşırhaneler ve bazı üretim işleri için değerliydi; Vespasian’ın idrar vergisi bu ekonominin ünlü örneklerinden biridir.",
+        "misconception": "Antik şehirlerin ya tamamen steril mermer kentler ya da tamamen pis çamur alanları olduğu sanılır; gerçekte ihtişam ve yoğun koku aynı şehirde yan yanaydı.",
+        "mediaChanged": "Tarihsel yapımlar kokuyu gösteremediği için antik şehri görsel ihtişama indirger; gerçek kent deneyimi pazar, hamam, tabakhane, tütsü, atık ve yemek kokularının karışımıydı.",
+        "whyItMatters": "Koku tarihi, antik şehirleri yalnız mimari olarak değil, bedensel ve gündelik bir deneyim olarak anlamamızı sağlar.",
+        "quickRealityCheck": "Antik şehirler gerçekten pırıl pırıl mermer kentler miydi, yoksa mermer, pazar atığı, tütsü ve lağım kokusunun aynı anda var olduğu yoğun yerler miydi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Sanitation in Ancient Rome (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/technology/sanitation/Ancient-Rome",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Urine Trouble: Taxes in Ancient Rome (National Geographic Education)",
+            "url": "https://blog.education.nationalgeographic.org/2016/04/15/urine-trouble-taxes-in-ancient-rome/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "rome2-legions",
+      "locale": "tr",
+      "decision": "source_cleanup_only",
+      "fields": {},
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Roman Legion (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/topic/legion-Roman-military-unit",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Roman Empire (British Museum)",
+            "url": "https://www.britishmuseum.org/collection/galleries/roman-empire",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      },
+      "reviewNotes": [
+        "Text is already acceptable; patch only normalizes source metadata and uses direct verified sources."
+      ]
+    },
+    {
+      "id": "tsushima-samurai-power",
+      "locale": "tr",
+      "decision": "rewrite_source_cleanup",
+      "fields": {
+        "realHistory": "Samurayları yalnız düello eden kılıç ustaları olarak görmek, sınıfın siyasi ve ekonomik rolünü eksik bırakır. Orta Çağ Japonya’sında savaşçı aileler toprak, vergi, koruma ve yerel düzen üzerinde güç kazandı. Zamanla bu savaşçı elit, yalnız cephede dövüşen kişilerden değil, arazi kaydı tutan, köylü yükümlülüklerini yöneten, mahkeme ve güvenlik işlerinde görev alan bir yönetici sınıftan oluştu.\n\nSengoku döneminde samuray kimliği savaşla çok daha doğrudan ilişkiliyken, Tokugawa barışıyla birlikte bu rol önemli ölçüde değişti. Daimyō’lar bölgelerini yönetirken samuraylar idari görevlerde, yazışmada, güvenlikte ve yerel düzenin uygulanmasında yer aldı. Kılıç bu dönemde yalnız pratik silah değil, statü ve sınıf kimliğinin sembolüydü. Ayrıca sankin-kōtai gibi sistemler doğrudan bütün samurayları değil, özellikle daimyō ailelerini ve bölgesel güç odaklarını Edo’ya bağlayarak şogunluğun siyasi kontrolünü güçlendirdi.\n\nGhost of Tsushima samuray onurunu Moğol taktikleri karşısında dramatik bir kimlik krizi olarak anlatır; Shōgun ise bu sınıfın protokol, sadakat ve siyaset tarafını daha belirgin gösterir. Tarihsel gerçek ikisinin arasındadır: samuray gücü yalnız kılıçtan değil, toprak, vergi, yazılı düzen, hiyerarşi ve şogunluk sistemindeki konumdan gelir.",
+        "accuracyNote": "Aksiyon yapımları samurayı savaş becerisiyle tanımlar; tarihsel samuray sınıfı aynı zamanda yönetim, vergi, güvenlik ve statü düzeninin parçasıydı.",
+        "whyInteresting": "Tokugawa barışı sırasında birçok samuray cephe savaşçısından çok bürokrat, muhafız, yazman veya yerel yönetim görevlisi gibi çalıştı.",
+        "misconception": "Samurayların her zaman sadece kılıçla savaşan düellocular olduğu sanılır; gerçekte okçuluk, mızrak, ateşli silah ve idari görevler de sınıfın tarihinin parçasıdır.",
+        "mediaChanged": "Ghost of Tsushima onur ve düello krizini öne çıkarır; Shōgun siyasi protokolü gösterir. Gerçek samuray gücü bu ikisinin yanında toprak, vergi ve yönetim ilişkilerine dayanıyordu.",
+        "whyItMatters": "Samurayları yönetici sınıf olarak görmek, Japon feodal düzenini yalnız savaş estetiğiyle değil, ekonomi ve devletleşme üzerinden okumayı sağlar.",
+        "quickRealityCheck": "Samuray gücü gerçekten sadece kılıçtan mı geliyordu, yoksa toprak, vergi, statü ve şogunluk hiyerarşisinden mi besleniyordu?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Who were the samurai? (British Museum)",
+            "url": "https://www.britishmuseum.org/blog/who-were-samurai",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The Age of the Samurai (Asia for Educators, Columbia University)",
+            "url": "https://afe.easia.columbia.edu/special/japan_1000ce_samurai.htm",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Shōguns and Art (The Metropolitan Museum of Art)",
+            "url": "https://www.metmuseum.org/essays/shoguns-and-art",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "mongol-efficiency-yam",
+      "locale": "tr",
+      "decision": "rewrite_source_cleanup",
+      "fields": {
+        "realHistory": "Moğol İmparatorluğu’nun başarısı yalnız atlı okçuların hızına veya yağma şiddetine dayanmaz. Bu kadar geniş bir coğrafyayı yönetebilmek için haberin, emrin ve istihbaratın da hızlı hareket etmesi gerekiyordu. Yam ya da örtöö adı verilen posta ve menzil ağı bu ihtiyaca cevap verdi. Belirli aralıklarla kurulan istasyonlarda resmi ulaklar at değiştirebilir, yiyecek ve barınak bulabilir, böylece tek bir atın dayanıklılığıyla sınırlı kalmadan haber taşıyabilirdi.\n\nBu sistem yalnız askeri emir için değil, diplomasi, vergi, ticaret ve güvenlik için de önemliydi. Paiza ya da gerege denen yetki tabletleri, ulakların ve görevlilerin imparatorluk adına hareket ettiğini gösterir; bu da yerel yetkililerin onlara destek vermesini sağlardı. Pax Mongolica diye anılan görece güvenli ticaret ortamı da yalnız “barış”tan değil, bu tür idari ve lojistik ağlardan beslendi.\n\nAge of Empires II veya Ghost of Tsushima gibi yapımlar Moğolları çoğu zaman savaş gücüyle hatırlatır. Gerçekte Moğol gücünün ürkütücü tarafı yalnız ordunun gelişi değil, imparatorluğun çok uzak noktalarının haber ve ikmal ağıyla birbirine bağlanabilmesiydi. Yam, bu yüzden bir posta sistemi olmanın ötesinde, bozkır imparatorluğunun sinir sistemi gibiydi.",
+        "accuracyNote": "Yam, Moğol yönetiminin haberleşme ve lojistik kapasitesini büyüttü; ancak sistemin etkinliği bölgeye, döneme ve yerel idari koşullara göre değişirdi.",
+        "whyInteresting": "Paiza veya gerege taşıyan görevliler, imparatorluk adına hareket ettiklerini gösteren bir tür yetki belgesiyle istasyonlardan destek alabiliyordu.",
+        "misconception": "Moğolların yalnız yakıp yıkan kontrolsüz ordular olduğu sanılır; gerçekte haberleşme, menzil istasyonları ve ticaret güvenliği imparatorluğun işleyişinde kritik rol oynadı.",
+        "mediaChanged": "Oyunlar Moğolları çoğu zaman hızlı saldıran savaş gücü olarak gösterir; tarihsel güçlerinin bir bölümü de emir, istihbarat ve ticareti taşıyan menzil ağından geliyordu.",
+        "whyItMatters": "Yam sistemi, imparatorlukların yalnız ordularla değil, bilgi akışını yöneten altyapılarla da ayakta kaldığını gösterir.",
+        "quickRealityCheck": "Moğollar gerçekten sadece hızlı savaşçılar mıydı, yoksa hızlarını haberleşme, posta ve menzil istasyonlarıyla yöneten bir imparatorluk sistemi mi kurmuşlardı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Pax Mongolica (National Geographic Education)",
+            "url": "https://education.nationalgeographic.org/resource/pax-mongolica/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Geregee or Golden Paiza of Chinggis Khan (United Nations Gifts)",
+            "url": "https://www.un.org/ungifts/geregee-or-golden-paiza-chinggis-khan",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Pax Mongolica (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/topic/Pax-Mongolica",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "ottoman-gunpowder-1453",
+      "locale": "tr",
+      "decision": "rewrite_source_cleanup",
+      "fields": {
+        "realHistory": "1453 İstanbul kuşatması, yalnız kahramanlık veya tek bir “dev top” hikâyesi değildir. II. Mehmed’in başarısı topçu teknolojisini, kuşatma mühendisliğini, donanmayı, lojistiği, diplomatik hazırlığı ve Bizans’ın uzun süredir zayıflayan konumunu aynı anda kullanabilmesinden geldi. Büyük bombardıman topları, Theodosios surlarını haftalar boyunca döverek savunmayı yıprattı; fakat toplar tek başına şehri düşürmedi. Surların onarımı, hendekler, moral, ikmal ve son saldırı planı kuşatmanın sonucunu birlikte belirledi.\n\nUrban’ın adıyla anılan büyük toplar kuşatmanın en ünlü teknolojik unsuru oldu. Bunlar psikolojik etki yaratıyor ve surlarda gedikler açabiliyordu; ancak kullanımları zordu. Döküm, taşıma, yerleştirme, soğutma ve yeniden doldurma uzun zaman alıyor; aşırı ısınma ve çatlama riski taşıyordu. Osmanlıların avantajı, bu ağır teknolojiyi kuşatma stratejisinin tamamına yerleştirebilmesiydi. Rumeli Hisarı’yla Boğaz kontrolü, donanma baskısı ve kara surlarına sürekli ateş bu bütünün parçalarıydı.\n\nAge of Empires II gibi oyunlar Osmanlı toplarını tek tıkla duvar yıkan süper silah gibi gösterir. Tarihsel gerçek daha ilginçtir: topçu, eski sur savunmasının mutlak güvenliğini sarstı ama zaferi ancak iyi planlanmış lojistik ve siyasi kararlılıkla birlikte mümkün kıldı.",
+        "accuracyNote": "Osmanlı topları 1453’te kritik rol oynadı, ancak İstanbul’un düşüşünü yalnız top teknolojisine bağlamak kuşatmanın lojistik, donanma ve siyasi boyutunu eksik bırakır.",
+        "whyInteresting": "Büyük bombardıman topları yalnız askeri değil psikolojik bir silahtı; sesleri, yavaş ritmi ve surlarda açtığı gedikler kuşatma atmosferini değiştirdi.",
+        "misconception": "İstanbul’un yalnız açık unutulan bir kapı yüzünden düştüğü sanılır; gerçekte haftalar süren topçu ateşi, kuşatma baskısı ve son saldırı birlikte belirleyici oldu.",
+        "mediaChanged": "Strateji oyunları Osmanlı topçusunu hızlı ve kesin sonuç veren birimler gibi gösterir; gerçek bombardıman teknolojisi güçlü ama yavaş, zahmetli ve riskliydi.",
+        "whyItMatters": "1453, askeri teknolojinin ancak lojistik ve siyasi organizasyonla birleştiğinde tarihsel sonuç üretebildiğini gösteren güçlü bir örnektir.",
+        "quickRealityCheck": "İstanbul surları gerçekten tek bir ihmal yüzünden mi düştü, yoksa uzun kuşatma, ağır topçu ve Osmanlı lojistiğinin birleşimiyle mi çöktü?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Fall of Constantinople (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/event/Fall-of-Constantinople-1453",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Gun – Turkish Bombard – 1464 (Royal Armouries)",
+            "url": "https://royalarmouries.org/collection/object/object-6177",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Gunpowder Empires, Islam, and Bureaucracy (OER Project)",
+            "url": "https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/Origins/Unit6/Gunpowder-Empires",
+            "type": "reference",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "flat-earth-myth-medieval",
+      "locale": "tr",
+      "decision": "minor_edit_source_cleanup",
+      "fields": {
+        "whyInteresting": "Eratosthenes, milattan önce 3. yüzyılda Dünya’nın çevresini dikkat çekici derecede başarılı bir yöntemle hesaplamıştı; küresel dünya fikri Orta Çağ’da yeniden icat edilmedi.",
+        "misconception": "Kolomb’un Dünya’nın yuvarlak olduğunu kanıtlamak için yola çıktığı sanılır; oysa temel tartışma dünyanın şekli değil, batıya giderek Asya’ya ulaşma mesafesiydi.",
+        "mediaChanged": "Popüler kültür Orta Çağ insanını çoğu zaman düz dünya inancıyla karikatürize eder; tarihsel literatürde eğitimli çevrelerin küresel dünya fikrini bildiği görülür.",
+        "whyItMatters": "Bu mit, Orta Çağ’ı otomatik olarak cahil ve modernliği otomatik olarak aydınlık gösteren basit ilerleme anlatısını sorgulamamızı sağlar.",
+        "quickRealityCheck": "Kolomb gerçekten Dünya’nın yuvarlak olduğunu mu kanıtladı, yoksa zaten bilinen küresel dünya üzerinde mesafeyi mi yanlış hesapladı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Flat Earth (Encyclopaedia Britannica)",
+            "url": "https://www.britannica.com/topic/flat-Earth",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Idea of the Dark Ages Is a Myth (TIME)",
+            "url": "https://time.com/5911003/middle-ages-myths/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Great Myths 1: The Medieval Flat Earth (History for Atheists)",
+            "url": "https://historyforatheists.com/2016/06/the-great-myths-1-the-medieval-flat-earth/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

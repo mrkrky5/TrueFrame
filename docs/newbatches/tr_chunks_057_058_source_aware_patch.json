@@ -1,0 +1,343 @@
+{
+  "batch": "tr-chunks-057-058-source-aware",
+  "sourceChunks": [
+    "tr-chunk-057.json",
+    "tr-chunk-058.json"
+  ],
+  "notes": [
+    "External source-aware editorial review for Turkish chunks 057 and 058.",
+    "Only changed fields are included. Apply by id + locale.",
+    "sourceUpdates are separated from text field updates."
+  ],
+  "entries": [
+    {
+      "id": "tf26-085-port-royal",
+      "locale": "tr",
+      "decision": "minor_rewrite_source_cleanup",
+      "reason": "Metin güçlüydü; Port Royal'i yalnız korsan mekânı değil, İngiliz sömürge limanı, privateer ekonomisi, şeker/plantasyon bağlantısı ve 1692 depremiyle birlikte daha net bağladım.",
+      "fields": {
+        "subtitle": "Port Royal: korsan limanı mı, imparatorluk deposu mu?",
+        "realHistory": "17. yüzyılın ikinci yarısında Port Royal, İngiliz Jamaika'sının en zengin ve en tartışmalı limanlarından biriydi. Yükselişi yalnız korsan söylencelerinden değil; şeker plantasyonları, Atlantik ticareti, kredi ağları, privateer seferleri ve sömürge savaşlarından beslenen daha geniş bir ekonomik düzenden geldi. Lisanslı saldırganlar İspanyol ticaretine vurdukları darbeyle İngiliz çıkarına hizmet edebiliyor, barış dönemlerinde ise aynı çevreler bir anda suçluya dönüşebiliyordu.\n\nBu esneklik, erken modern Karayipler'de hukukun çoğu zaman siyasi çıkarla birlikte çalıştığını gösterir. Liman depoları rom, şeker, kereste, silah ve insan emeği ticaretinin düğüm noktasıydı. Köleleştirilmiş Afrikalılar rıhtım, taşıma, inşaat ve plantasyon üretimi içinde kritik rol oynadı. Bu nedenle Port Royal'i sadece “korsan kasabası” diye okumak, karadaki plantasyon düzenini ve devlet destekli deniz şiddetini görünmez kılar.\n\n1692 depremi ve tsunami kentin büyük bölümünü yok etti, fakat bölgesel deniz şiddeti ve kaçak ticaret bir gecede bitmedi; ağlar Kingston, Nassau ve diğer limanlara kayarak devam etti. Pirates of the Caribbean'ın liman atmosferi doğru bir macera kapısı açar. Tarihsel karşılık ise daha serttir: Port Royal, savaş, ticaret, köle emeği, privateer hukuku ve sömürge sermayesinin aynı rıhtımda buluştuğu gri bir imparatorluk laboratuvarıydı.",
+        "whyInteresting": "Aynı limanın hem resmi savaş aracı hem yarı-yasa dışı ticaret merkezi olması dönemin ikili ahlakını net gösterir.",
+        "misconception": "Port Royal'in yalnızca içki, eğlence ve korsanlıkla yaşayan bağımsız bir şehir olduğu sanılır.",
+        "whyItMatters": "Port Royal, korsan mitinin arkasındaki sömürge ekonomisini ve lisanslı deniz şiddetini görünür kılar.",
+        "quickRealityCheck": "Port Royal'i zenginleştiren asıl şey maceracı korsanlar mıydı, yoksa şeker, privateer lisansları ve köleleştirilmiş emekle çalışan liman ekonomisi mi?",
+        "mediaChanged": "Film limanı korsan çatışmasına odaklar; tarihsel tabloda plantasyon ekonomisi, sömürge hukuku ve resmi/privateer şiddeti en az deniz baskınları kadar belirleyicidir.",
+        "reviewerNote": "Port Royal'in 1692 depremi ve sonraki Britanya deniz/mercantile limanı rolü Royal Museums Greenwich kaynağıyla doğrulandı.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "View of Port Royal, Jamaica — Royal Museums Greenwich",
+            "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-13320",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Port Royal — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/place/Port-Royal-Jamaica",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Pirates, Privateers and Buccaneers — Royal Museums Greenwich",
+            "url": "https://www.rmg.co.uk/stories/topics/pirates-privateers-buccaneers",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-086-women-pirates",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Tekrarlı/kırık cümleler temizlendi; kadın korsan figürü romantize edilmeden, Anne Bonny/Mary Read davası ve daha geniş ama sınırlı kanıtlı kadın korsan örnekleriyle yeniden kuruldu.",
+      "fields": {
+        "subtitle": "Kadın korsan: istisna mı, görünmeyen emek mi?",
+        "realHistory": "Erken modern korsanlıkta kadınların varlığı belgelenmiştir, ancak sayıları erkeklerden çok daha azdı ve kaynaklar çoğu zaman erkek anlatıcıların bakışından gelir. Anne Bonny ve Mary Read, 1720'de Calico Jack Rackham'ın tayfasıyla birlikte yakalandıklarında bu yüzden dikkat çekti. Jamaika'daki dava kayıtlarında ikisinin de korsan faaliyetlere katıldığı, erkek kıyafetleriyle görüldüğü ve suçlu bulunarak idama mahkûm edildiği aktarılır. Ancak ikisi de hamile olduklarını bildirince infazları ertelendi; Mary Read hapiste öldü, Anne Bonny'nin sonu ise belirsiz kaldı.\n\nBu örnekler, kadınların korsanlık dünyasında hiç yer almadığını söylemeyi imkânsız kılar; fakat aynı zamanda “korsan gemilerinde kadınlar çok yaygındı” sonucuna da götürmez. Deniz hayatı bazı cinsiyet rollerini karaya göre esnetebiliyor, ama bu esneklik şiddet, hukuki risk ve sürekli kimlik pazarlığıyla geliyordu. Kadın korsanların çoğu, özgürlük ideali kadar yoksulluk, kaçış, zorunluluk ve liman toplumlarının sert koşulları içinde anlaşılmalıdır.\n\nPirates of the Caribbean güçlü kadın figürleriyle bu mirası macera ve özgürleşme metaforuna dönüştürür. Tarihsel kayıtlar ise daha az parlaktır: kadın korsanların görünürlüğü sınırlıdır, hayatta kalma yolları kırılgandır ve onları ünlü yapan şey çoğu zaman başarılarından çok mahkeme ve infaz tehdididir.",
+        "whyInteresting": "Kadın korsan hikâyeleri, denizdeki özgürlük mitinin hem gerçek boşluklarını hem de acımasız sınırlarını gösterir.",
+        "misconception": "Korsan gemilerinde kadınların ya hiç olmadığı ya da çok yaygın olduğu sanılır; belgelenen örnekler sınırlı ama gerçektir.",
+        "whyItMatters": "Bu konu, korsanlık anlatısında romantik macera ile sınıf, cinsiyet ve sömürge hukuku arasındaki gerilimi görünür kılar.",
+        "quickRealityCheck": "Anne Bonny ve Mary Read'in idamı neden hemen uygulanmadı?",
+        "mediaChanged": "Film kadın korsanı özgürleşme ve karizma figürü yapar; mahkeme kayıtları ise bu görünürlüğün idam, hamilelik beyanı ve sömürge hukuku bağlamında oluştuğunu gösterir.",
+        "reviewerNote": "Anne Bonny/Mary Read davası için Library of Congress yazısı ve çağdaş dava kayıtlarına referans veren kaynaklar esas alındı.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Life and Trial of Anne Bonny — Library of Congress",
+            "url": "https://blogs.loc.gov/law/2024/07/the-life-and-trial-of-anne-bonny/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Anne Bonny — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/biography/Anne-Bonny",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Mary Read — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/biography/Mary-Read",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-087-naval-punishment",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Tekrar eden bloklar ve PotC odaklı yüzeysel açıklama temizlendi; donanma disiplini, Articles of War, flogging, mahkeme süreci ve korsan articles arasındaki fark netleştirildi.",
+      "fields": {
+        "subtitle": "Darağacı, kırbaç ve denizde hukuk",
+        "realHistory": "Erken modern deniz hayatında disiplin yalnız kaptanın öfkesiyle işlemezdi; devlet donanmalarında yazılı hukuk, korsan gemilerinde ise gemi içi articles düzeni vardı. Britanya Kraliyet Donanması'nın Articles of War metinleri isyan, firar, emre itaatsizlik ve savaş sırasında görevden kaçma gibi suçları ağır biçimde cezalandırıyordu. Kırbaçlama güverte üzerinde herkesin göreceği şekilde uygulanabiliyor, ağır vakalar mahkeme ve idamla sonuçlanabiliyordu. Bu şiddet, geminin kapalı ve tehlikeli emek düzenini kontrol altında tutma aracıdır.\n\nKorsan gemileri ise tamamen kuralsız değildi. Birçok tayfa, ganimet paylaşımı, nöbet, kumar, kavga, yaralanma tazminatı ve kaptanın yetkilerini belirleyen articles kabul ediyordu. Kaptan savaş anında geniş yetkiye sahipti, fakat günlük düzende quartermaster ve mürettebat meclisi onun gücünü sınırlayabiliyordu. Bu, korsanlığı insancıl yapmaz; sadece devlet donanmasından farklı bir disiplin mantığına sahip olduğunu gösterir.\n\nPirates of the Caribbean anlık darağacı, tehdit ve teatral ceza sahnelerini öne çıkarır. Tarihsel karşılık daha bürokratiktir: cezalar çoğu zaman kayıt, tanık, mahkeme ve yazılı maddeyle meşrulaştırılırdı. Deniz cezaları bu yüzden yalnız şiddet tarihi değil, okyanusun ortasında otoritenin nasıl kurulduğunun da tarihidir.",
+        "whyInteresting": "Aynı denizde korsan ve donanma farklı adalet dili kullansa da ikisi de disiplini yazılı kurallarla sürdürmeye çalıştı.",
+        "misconception": "Korsanların tamamen özgür ve cezasız, donanmanın ise yalnız keyfi şiddetten ibaret olduğu sanılır.",
+        "whyItMatters": "Deniz cezaları, özgürlük mitiyle kapalı gemi emeğinin sert gerçekleri arasındaki farkı açık eder.",
+        "quickRealityCheck": "Pirates of the Caribbean'deki anlık darağacı sahneleri, Articles of War ve deniz mahkemeleriyle nasıl karşılaştırılır?",
+        "mediaChanged": "Film cezayı hızlı korku atmosferi olarak kullanır; tarihsel kayıtlarda disiplin çoğu zaman yazılı maddeler, tanıklar, mahkeme ve gemi içi sözleşmeyle yürür.",
+        "reviewerNote": "Keelhauling, Britanya donanması için merkezî ve sürekli pratik gibi sunulmadı; flogging, Articles of War ve pirate articles daha güvenli zemine alındı.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Royal Navy Records — UK National Archives",
+            "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Articles for the Government of the United States Navy — Naval History and Heritage Command",
+            "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/a/articles-for-war.html",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Pirate Codes — Royal Museums Greenwich",
+            "url": "https://www.rmg.co.uk/stories/topics/pirate-codes",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-088-maps-navigation",
+      "locale": "tr",
+      "decision": "flagship_rewrite_expand",
+      "reason": "Flagship kart kısa kalıyordu. Seyir romantizmi; dead reckoning, enlem/boylam problemi, Harrison kronometreleri, pilot bilgisi, chart üretimi ve korsan/privateer pratikleriyle başlıklı biçimde genişletildi.",
+      "fields": {
+        "subtitle": "Harita, yıldız ve defter: korsanlığın görünmeyen bilimi",
+        "realHistory": "### Büyülü pusuladan seyir defterine\nPirates of the Caribbean, deniz seyrini büyülü pusulalar, gizli haritalar ve kaptan sezgisiyle romantikleştirir. Bu dil macera için çok etkilidir, fakat 17. ve 18. yüzyıl denizciliğinde rota bulmak çoğu zaman tekrarlı ölçüm ve kayıt disiplinine dayanıyordu. Gemideki subaylar rüzgârı, akıntıyı, hız tahminini, yönü ve geçen zamanı günlük olarak işliyor; rota sapmalarını seyir defterinde izliyordu. “İyi kaptan” yalnız cesur manevra yapan kişi değil, hatayı erken fark edip düzeltmeyi bilen kişiydi.\n\n### Enlem daha kolay, boylam daha zor\nEnlem güneş ve yıldız gözlemleriyle yaklaşık hesaplanabiliyordu; asıl büyük sorun boylamdı. Royal Museums Greenwich'in özetlediği gibi, dead reckoning uzun süre boylam için rutin yöntem olarak kaldı: geminin hızını, yönünü ve geçen zamanı biriktirerek konum tahmini yapılırdı. Bu yöntem ucuz ve pratikti, ama hatalar yolculuk uzadıkça büyüyebilirdi. Geminin tahmini konumu birkaç derece saptığında, bu sapma Karayipler gibi resifli ve fırtınalı sularda ölümcül olabilirdi. John Harrison'ın deniz kronometreleri ve 18. yüzyıldaki zaman ölçümü gelişmeleri, boylam sorununu çözmede büyük kırılma yarattı. Yani denizde güvenlik, biraz astronomi, biraz saatçilik ve çokça disiplinli kayıt işiydi.\n\n### Harita tek başına yetmezdi\nChart sahibi olmak da otomatik güvenlik sağlamazdı. Birçok harita eksik, eski veya kasıtlı olarak sınırlı bilgi içeriyordu. Liman girişleri, sığlıklar, resifler ve yerel akıntılar için pilot bilgisi kritik önem taşırdı. Denizcilik verisi ticaret şirketleri ve donanmalar için stratejik sermayeydi; iyi rota bilgisi kârı, kötü rota bilgisi gemi enkazını getirebilirdi. Haritaların güncellenmesi, tek bir kahraman kaptanın keşfiyle değil; çok sayıda seferin ölçüm, düzeltme ve rapor biriktirmesiyle gerçekleşiyordu. Bu yüzden harita, bitmiş bir nesneden çok sürekli güncellenen bir bilgi altyapısıydı.\n\n### Korsanlık da bilgi ekonomisiydi\nKorsanlar bu dünyanın dışındaki romantik figürler değildi. Birçok korsan eski denizci, privateer ya da ticaret gemisi çalışanıydı; dar geçitleri, mevsim rüzgârlarını ve kaçış rotalarını bilmek en az top sayısı kadar değerliydi. Karayipler’de başarı yalnız silah gücüyle açıklanamaz. Hangi limanda rüşvetle satış yapılabileceği, hangi rotada şeker veya gümüş taşıyan gemilerin geçtiği, hangi mevsimde kasırga riskinin arttığı ve hangi koyun saklanmaya uygun olduğu bilgisi korsan ekonomisinin temeliydi. Bu bilgi çoğu zaman ele geçirilen gemilerin defterlerinden, zorla konuşturulan pilotlardan veya liman aracılarından gelirdi.\n\nBu yüzden harita ve seyir tarihi, korsan mitini küçültmez; tam tersine derinleştirir. Bir kaptanın elindeki harita, yanında çalışan insanların belleğiyle ve gemide tutulan defterlerle birlikte değer kazanıyordu. Yanlış okunan bir kıyı çizgisi, eksik kaydedilen bir akıntı ya da geciken bir saat ölçümü bütün seferi riske atabilirdi. Film büyülü nesnelerle kader duygusu kurar. Tarih ise deniz imparatorluklarını ve korsan ağlarını mümkün kılan görünmez teknik emeği gösterir: ölçmek, yazmak, karşılaştırmak, saklamak ve rotayı yeniden hesaplamak.",
+        "accuracyNote": "Karayip korsanlığı ve rota rekabeti tarihsel zemine sahiptir; büyülü pusula gibi araçlar kurmaca unsurdur.",
+        "whyInteresting": "Korsan mitini harita tarihi, ölçüm bilimi ve deniz lojistiğiyle beklenmedik biçimde derinleştirir.",
+        "misconception": "Korsan başarısının yalnız cesaret, içgüdü ve silah gücüne dayandığı sanılır.",
+        "whyItMatters": "Seyrüseferi anlamak, deniz imparatorluklarının ve korsan ağlarının aslında bilgi üretimiyle çalıştığını gösterir.",
+        "quickRealityCheck": "Kaptan sezgisi tek başına yeterliyse neden seyir defterleri, dead reckoning ve kronometreler bu kadar kritikleşti?",
+        "mediaChanged": "Film seyri sembolik nesnelere ve kader duygusuna bağlar; tarihsel pratik ölçüm, kayıt, pilot bilgisi ve ekip koordinasyonuyla yürür.",
+        "reviewerNote": "Flagship uzunluğu artırıldı ve ### başlıklı yapı eklendi; dead reckoning ile boylam/kronometre ayrımı Royal Museums Greenwich kaynaklarıyla desteklendi.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Traditional Ways to Determine a Ship’s Position — Royal Museums Greenwich",
+            "url": "https://www.rmg.co.uk/stories/maritime-history/traditional-ways-determine-ships-position",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Longitude Found: Harrison's Timekeepers — Royal Museums Greenwich",
+            "url": "https://www.rmg.co.uk/stories/time/harrisons-clocks-longitude-problem",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "History of Nautical Charts — NOAA",
+            "url": "https://nauticalcharts.noaa.gov/learn/history.html",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-089-enslaved-labor",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Tekrarlı bloklar temizlendi; köleleştirilmiş emeğin Karayip plantasyon ekonomisindeki merkezi rolü, korsan özgürlük mitiyle daha dikkatli ve saygılı biçimde karşılaştırıldı.",
+      "fields": {
+        "subtitle": "Karayip özgürlük mitinin arkasındaki zorla emek",
+        "realHistory": "17. ve 18. yüzyıl Karayip ekonomisi, büyük ölçüde köleleştirilmiş Afrika emeğine dayanıyordu. Şeker, tütün, kahve ve diğer plantasyon ürünleri, Atlantik köle ticaretiyle zorla taşınan insanların emeğiyle üretildi. Limanlardaki variller, depolar ve ticaret gemileri yalnız macera dekoru değil; plantasyon, kredi, sigorta ve Avrupa tüketimi arasındaki zorlayıcı ekonomik zincirin parçalarıydı.\n\nKorsanlık bu düzenin tamamen dışında değildi. Bazı korsanlar köle gemilerini hedef aldı, bazı köleleştirilmiş insanlar gemilerde kaçış veya yeni bir konum aradı; fakat korsan ağları da çoğu zaman aynı Atlantik ticaret yollarından, aynı limanlardan ve aynı sömürge ekonomisinden beslendi. “Korsan özgürlüğü” genellikle bütün insanlar için değil, belirli denizci grupları için geçerliydi. Köleleştirilmiş insanların hareket alanı ise şiddet, hukuki statü ve satış tehdidiyle sınırlandırılmıştı.\n\nPirates of the Caribbean bu arka planı çoğunlukla geri plana iter ve Karayipler’i özgürlük, lanetli hazine ve bireysel macera alanı gibi kurar. Tarihsel karşılık daha ağırdır: Karayip refahının büyük bölümü zorla çalıştırma, bedensel ceza, ailelerin parçalanması ve yüksek ölüm oranları üzerine kuruluydu. Buna rağmen direniş de vardı; kaçışlar, maroon toplulukları, sabotaj, kültürel süreklilik ve isyanlar bu sistemin hiçbir zaman sessizce kabul edilmediğini gösterir.",
+        "whyInteresting": "Aynı deniz hem özgürlük efsanesi hem de zincir, zorla emek ve direniş tarihi taşıdı.",
+        "misconception": "Korsanlık anlatısının köle sistemiyle ilgisiz, tamamen bağımsız bir özgürlük hikâyesi olduğu sanılır.",
+        "whyItMatters": "Bu kart, Karayip macerasının arkasındaki plantasyon ekonomisini ve zorla çalıştırılan insanların görünmezleştirilen emeğini merkeze alır.",
+        "quickRealityCheck": "Korsan özgürlük miti hangi emek sistemini ve hangi insanları çoğu zaman görünmez bırakır?",
+        "mediaChanged": "Film köleleştirilmiş emeği arka plana iter; tarihsel tabloda plantasyon ekonomisi ve Atlantik köle ticareti bölgenin ana motorlarından biridir.",
+        "reviewerNote": "Dil, insanları statüye indirgememek için mümkün olduğunca 'köleleştirilmiş insanlar/emek' ekseninde düzenlendi.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The History of the Transatlantic Slave Trade — Royal Museums Greenwich",
+            "url": "https://www.rmg.co.uk/stories/maritime-history/history-transatlantic-slave-trade",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Slavery in the Caribbean — National Museums Liverpool",
+            "url": "https://www.liverpoolmuseums.org.uk/archaeologyofslavery/slavery-caribbean",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Atlantic Slave Trade — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/Atlantic-slave-trade",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-090-pirate-democracy",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Kısa alanlar jenerikti; korsan demokrasisi modern demokrasiye benzetilmeden, articles, captain/quartermaster dengesi, pay ve tazminat sistemiyle yeniden yazıldı.",
+      "fields": {
+        "subtitle": "Korsan meclisi: özgürlük mü, risk sözleşmesi mi?",
+        "realHistory": "17. ve 18. yüzyıl Atlantik korsanlığında gemi içi düzen, popüler kültürdeki kaotik görüntüden daha kurallıydı. Birçok korsan gemisinde articles denen yazılı ya da sözlü maddeler bulunur; ganimet paylaşımı, yaralanma tazminatı, nöbet disiplini, kumar, kavga ve ceza usulleri bu maddelerle belirlenirdi. Kaptan saldırı anında geniş yetkiye sahip olsa da günlük yönetimde quartermaster ve mürettebat meclisi denge unsuru olabiliyordu.\n\nBu düzenin demokrasiye benzeyen yönleri vardı: kaptan seçilebilir, başarısız ya da zalim bulunursa görevden alınabilirdi. Ancak bu modern eşit yurttaşlık demokrasisi değildi. Kadınlar, köleleştirilmiş insanlar ve zorla alınmış kişiler çoğu zaman bu sistemin dışında kaldı; şiddet, yağma ve baskı gemi ekonomisinin parçasıydı. Yine de deniz emekçileri açısından bakıldığında, bazı korsan gemileri kraliyet donanması ya da ticaret gemilerindeki sert hiyerarşiye kıyasla daha pazarlıklı bir model sunuyordu.\n\nPirates of the Caribbean bu gerçeğin görsel izlerini taşır: meclis, kod, kaptanlık çekişmesi. Fakat film bunu renkli anarşi gibi verir. Tarihsel belgeler ise korsan gemilerinin hukuksuz boşlukta değil, kendi normları ve kâr/risk dengesi içinde çalıştığını gösterir. Korsan “demokrasisi” romantik bir özgürlük ütopyası değil, tehlikeli bir suç ekonomisinde mürettebatı birlikte tutma yöntemiydi.",
+        "whyInteresting": "Denizin ortasında devlet dışı bir topluluğun pay, disiplin ve yaralanma tazminatı için mini bir sözleşme üretmesi şaşırtıcı derecede modern görünür.",
+        "misconception": "Korsan demokrasisinin tam eşitlikçi ve özgür bir yönetim modeli olduğu sanılır.",
+        "whyItMatters": "Bu konu, korsanlığı yalnız kaos değil; emek, risk, pay ve otorite pazarlığı olarak okumayı sağlar.",
+        "quickRealityCheck": "Korsan gemilerinde özgürlük gerçekten kuralsızlık mıydı, yoksa riskin paylaşılması için yazılmış maddeler miydi?",
+        "mediaChanged": "Film korsan meclisini renkli ve komik bir anarşi gibi kullanır; tarihsel düzende articles, kaptan yetkisini sınırlayan ve ganimeti düzenleyen ciddi bir sözleşme işlevi görür.",
+        "reviewerNote": "Modern demokrasiyle doğrudan eşitleme yapılmadı; exclusion, şiddet ve suç ekonomisi sınırları özellikle belirtildi.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Pirate Codes — Royal Museums Greenwich",
+            "url": "https://www.rmg.co.uk/stories/topics/pirate-codes",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "An-arrgh-chy: The Law and Economics of Pirate Organization — Journal of Political Economy",
+            "url": "https://www.peterleeson.com/an-arrgh-chy.pdf",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Piracy — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/piracy",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-091-bastille",
+      "locale": "tr",
+      "decision": "minor_rewrite_source_cleanup",
+      "reason": "Metin genel olarak dengeliydi; barut/mühimmat arayışı, yedi mahkum gerçeği ve belediye/Ulusal Muhafız çizgisi daha net hale getirildi.",
+      "fields": {
+        "subtitle": "Bastille: barut arayışı, sembol yıkımı",
+        "realHistory": "14 Temmuz 1789'da Bastille'e yürüyen Parisliler yalnızca sembolik bir hedef aramıyordu; acil ihtiyaç barut ve mühimmattı. Önce Hôtel des Invalides'ten silah toplayan kalabalık, bu silahları kullanabilmek için Bastille'deki baruta yöneldi. O günlerde mali çöküş, pahalı ekmek, kötü hasat ve kralın Paris çevresine asker yığması şehirde büyük korku yaratmıştı. Üçüncü Sınıf temsilcilerinin Ulusal Meclis'e dönüşmesiyle egemenlik tartışması da artık sokak siyasetiyle birleşmişti.\n\nKaledeki mahkum sayısı çok düşüktü; Bastille'in askeri değeri de popüler hafızadaki kadar büyük değildi. Yine de yapı, lettre de cachet ve keyfi tutuklama korkusunun simgesiydi. Müzakereler çöktüğünde çatışma çıktı; vali de Launay öldürüldü ve kale düştü. Olay, Paris belediye gücünün ve Ulusal Muhafızın yükselişini hızlandırdı; kırsalda Grande Peur olarak bilinen panik dalgasıyla da birleşti.\n\nBastille Günü bu yüzden hem madde hem sembol tarihidir. Barut arayışı olmadan olayın pratik nedeni eksik kalır; monarşi sembolü olmadan da siyasal etkisi anlaşılamaz. Unity bu anı güçlü bir sokak patlaması olarak gösterir. Tarihsel çerçeve ise aynı sahnenin arkasında mali iflas, temsil krizi, şehir milisi ve egemenlik tartışmasının birlikte çalıştığını hatırlatır.",
+        "whyInteresting": "Askeri önemi sınırlı bir yapının, rejim krizinde tüm sistemin simgesine dönüşmesi devrim tarihinin en çarpıcı örneklerindendir.",
+        "misconception": "Bastille'de yüzlerce siyasi mahkum bulunduğu ve kalabalığın öncelikle onları kurtarmaya gittiği düşünülür.",
+        "whyItMatters": "Bastille, devrimlerin çoğu zaman pratik ihtiyaç ile sembolik hedefin aynı anda patlamasıyla hızlandığını gösterir.",
+        "quickRealityCheck": "Bastille'e yürüyen kalabalığın acil hedefi neden doğrudan mahkumları kurtarmak değil, barut ve mühimmattı?",
+        "mediaChanged": "Oyun olayı sokak çatışmasına yoğunlaştırır; tarihte belediye siyaseti, barut sorunu, Ulusal Meclis krizi ve sembolik iktidar aynı anda çalışır.",
+        "reviewerNote": "Yedi mahkum ve barut vurgusu güçlendirildi; 'Bastille tek başına devrimi başlattı' gibi indirgemeden kaçınıldı.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Storming of the Bastille — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Storming-of-the-Bastille",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "French Revolution Resources — UK National Archives",
+            "url": "https://www.nationalarchives.gov.uk/education/resources/french-revolution/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "What Happened on the Original Bastille Day — Time",
+            "url": "https://time.com/4402553/bastille-day-history-july-14/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-093-estates-general",
+      "locale": "tr",
+      "decision": "minor_rewrite_source_cleanup",
+      "reason": "Metin güçlüydü; oy sistemi, Third Estate/National Assembly kopuşu ve cahiers de doléances boyutu biraz daha sade ve okunur hale getirildi.",
+      "fields": {
+        "subtitle": "Etats Generaux: oy usulünden egemenlik krizine",
+        "realHistory": "Etats Generaux, Fransa'da ruhban, soylular ve üçüncü sınıfı temsil eden eski meclis biçimiydi ve 1614'ten beri toplanmamıştı. 1789'da yeniden çağrılması, monarşinin ağır mali krizi çözememesinden kaynaklandı. Savaş borçları, vergi adaletsizliği ve tahsilat tıkanması kraliyeti yeni gelir aramaya zorladı. Ancak toplantının en kritik gerilimi teknik görünen oy usulündeydi: sınıf başına bir oy sistemi, nüfusun çoğunu temsil eden Üçüncü Sınıfı etkisiz bırakıyordu.\n\nÜçüncü Sınıf kişi başına oy ve ortak toplantı talep etti. Uzlaşma çıkmayınca kendisini Ulusal Meclis ilan etti; Tennis Court Oath ise temsil krizini doğrudan egemenlik krizine çevirdi. Artık mesele yalnız vergi toplamak değil, ulusun kim adına ve hangi usulle temsil edileceğiydi. Cahiers de doléances adı verilen şikayet defterleri de bu dönemde yerel taleplerin ulusal siyaset diline taşınmasını sağladı.\n\nUnity devrim atmosferini sokak basıncı ve saray gerilimiyle hissettirir. Tarihsel kırılma ise yalnız öfkeli kalabalıkta değil, eski rejimin kendi usulleriyle meşruiyet üretememesinde yatar. Bir oylama yöntemi tartışması, monarşinin siyasal temelini birkaç ay içinde çözmeye başladı. Bu yüzden Etats Generaux, tören gibi açılıp devrimci bir egemenlik tartışmasına dönüşen nadir kurumsal anlardan biridir.",
+        "whyInteresting": "Bir oylama yöntemi tartışması, yüzyıllık monarşik meşruiyeti birkaç ay içinde çözebildi.",
+        "misconception": "Etats Generaux'nun yalnız sembolik ve etkisiz bir danışma toplantısından ibaret olduğu düşünülür.",
+        "whyItMatters": "Temsil usulü tartışması, devrimlerin bazen en teknik görünen prosedürlerden doğduğunu gösterir.",
+        "quickRealityCheck": "1789'da devrimi hızlandıran temel unsur yalnız sokak şiddeti miydi, yoksa oy sisteminin meşruiyet krizi mi?",
+        "mediaChanged": "Oyun meclis krizini hızlı sokak gerilimiyle birleştirir; tarihsel süreçte mali iflas, temsil usulü ve egemenlik iddiası birlikte belirleyici oldu.",
+        "reviewerNote": "Tennis Court Oath ve Third Estate/National Assembly çizgisi korunarak daha kısa ve net hale getirildi.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Summoning of the Estates General, 1789 — Château de Versailles",
+            "url": "https://en.chateauversailles.fr/discover/history/key-dates/summoning-estates-general-1789",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Estates-General — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/Estates-General",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Tennis Court Oath — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Tennis-Court-Oath",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

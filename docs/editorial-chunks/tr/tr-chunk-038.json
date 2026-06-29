@@ -1,0 +1,274 @@
+{
+  "locale": "tr",
+  "chunkIndex": 38,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "last-emperor-forbidden-city-eunuchs-real",
+      "title": "Yasak Şehir: Hadımlar ve İktidar",
+      "subtitle": "2.000 yıllık bir sistemin sonu.",
+      "mediaType": "film",
+      "mediaTitle": "The Last Emperor",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Çin Tarihi",
+        "Siyaset",
+        "Kültür"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "the-last-emperor",
+        "hadimlar",
+        "yasak-sehir",
+        "cin"
+      ],
+      "quickRealityCheck": "Son İmparator filminde Puyi'nin çevresini saran binlerce hadım (eunuch), Çin imparatorluk sarayının 2.000 yıldır değişmeyen gerçek bürokratik sınıfıdır.",
+      "mediaChanged": "Film hadımları bazen entrikacı veya aciz figürler gibi sunar. Gerçekte hadımlar, imparatorun en yakın danışmanları olarak devleti yöneten, devasa servetlere ve siyasi güce sahip bir kast sistemiydi.",
+      "realHistory": "Hadımlık sistemi, imparatorun haremi ve ailesinin saflığını korumak için ortaya çıkmıştı. Ancak zamanla bu sınıf, saray dışındaki bürokrasi ile imparator arasındaki tek kanal haline geldi. Hadımlar vergi toplamadan askeri stratejiye kadar her alanda etkiliydi. Puyi'nin çocukluğunda Yasak Şehir'de hala 1.000'den fazla hadım yaşıyordu. 1923'te Puyi, hadımların saray hazinesini çaldığını ve yolsuzluk yaptıklarını fark edince, hepsini bir gecede saraydan kovdurmuştur. Bu olay, binlerce yıllık bir kurumun ve imparatorluk düzeninin fiilen bitişinin sembolüdür. Kovulan hadımların çoğu, dış dünyada yaşayamayacak kadar dünyadan kopuk oldukları için tapınaklara sığınmış veya fakirlik içinde ölmüştür.\n\nSoruşturma ve arşiv belgeleri, son İmparator filminde Puyi'nin çevresini saran binlerce hadım (eunuch), Çin imparatorluk sarayının 2.000 yıldır değişmeyen gerçek bürokratik sınıfıdır.\n\nBu örnek Hadım sistemi açısından önem taşır, tarihte 'sadakat' ve 'iktidar' arasındaki karmaşık ve çoğu zaman trajik ilişkinin en uç örneğidir.\n\nKayıtlara göre, son İmparator filminde Puyi'nin çevresini saran binlerce hadım (eunuch), Çin imparatorluk sarayının 2.000 yıldır değişmeyen gerçek bürokratik sınıfıdır.\n\nFilm hadımları bazen entrikacı veya aciz figürler gibi sunar; belgeler ise hadımlar, imparatorun en yakın danışmanları olarak devleti yöneten, devasa servetlere ve siyasi güce sahip bir kast sistemiydi.",
+      "whyItMatters": "Hadım sistemi, tarihte 'sadakat' ve 'iktidar' arasındaki karmaşık ve çoğu zaman trajik ilişkinin en uç örneğidir.",
+      "sources": [
+        {
+          "title": "Eunuchs in Imperial China (Britannica)",
+          "url": "https://www.britannica.com/topic/eunuch",
+          "type": "official"
+        },
+        {
+          "title": "The Last Eunuch of China (The Guardian)",
+          "url": "https://www.theguardian.com/world/2008/dec/17/china-eunuch-puyi-imperial-history",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "last-emperor-china-fall",
+        "last-emperor-court-ritual",
+        "last-emperor-manchukuo-propaganda"
+      ],
+      "spoilerNote": "The Last Emperor hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "The Last Emperor filmdе “Yasak Şehir: Hadımlar ve İktidar” konusunu çin tarihi ve siyaset ekseninde somut sahnelerle işler. 2.000 yıllık bir sistemin sonu.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "civ-great-library-alexandria-real",
+      "title": "İskenderiye Kütüphanesi: Bilginin Kaybı mı?",
+      "subtitle": "Tek bir yangın her şeyi bitirdi mi?",
+      "mediaType": "game",
+      "mediaTitle": "Civilization",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Antik Çağ",
+        "Bilim",
+        "Mısır"
+      ],
+      "isFlagship": false,
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "tags": [
+        "civilization",
+        "iskenderiye-kutuphanesi",
+        "antik-yunan",
+        "misir",
+        "antik-dnya"
+      ],
+      "quickRealityCheck": "Civilization oyununda 'Great Library' inşa edildiğinde size devasa bir teknoloji avantajı sağlar; ancak gerçekte bu kütüphanenin yok olması tek bir gecelik bir yangından ziyade, yüzyıllar süren bir ihmal ve bütçe kesintisi sürecidir.",
+      "mediaChanged": "Popüler kültürde kütüphane sanki Sezar'ın yangınıyla bir anda yok olmuş ve insanlık 1000 yıl geri gitmiş gibi sunulur. Gerçekte ise kütüphane birçok kez hasar görmüş ve asıl yıkımı ekonomik çöküş getirmiştir.",
+      "realHistory": "MÖ 3. yüzyılda kurulan İskenderiye Kütüphanesi, antik dünyanın en büyük bilgi merkeziydi. Ancak bilinenin aksine, kütüphane tek bir büyük felaketle yok olmadı. Jül Sezar'ın kuşatması (MÖ 48) sırasında bir kısmı yandı, ancak asıl çöküş MS 3. ve 4. yüzyıllarda Roma İmparatorluğu'nun ekonomik krize girmesiyle yaşandı. Devlet desteği kesilince bilginler şehri terk etti ve parşömenler bakımsızlıktan çürüdü. Yani bilginin kaybı, bir 'barbar saldırısından' çok, bir medeniyetin artık bilime yatırım yapmayı bırakmasıyla ilgilidir. Yine de burada yapılan çalışmalar (Eratosthenes'in Dünya'nın çevresini ölçmesi gibi) modern bilimin temelini atmıştır.\n\nSoruşturma ve arşiv belgeleri, civilization oyununda 'Great Library' inşa edildiğinde size devasa bir teknoloji avantajı sağlar; ancak gerçekte bu kütüphanenin yok olması tek bir gecelik bir yangından ziyade, yüzyıllar süren bir ihmal ve bütçe kesintisi sürecidir.\n\nBu örnek İskenderiye Kütüphanesi'nin hikayesi açısından önem taşır, bilginin korunmasının sadece binalarla değil, sürekli bir kurumsal iradeyle mümkün olduğunu gösterir.\n\nTek bir yangın her şeyi bitirdi mi? sorusu, arşivlerde yalnızca üst düzey anlatılardan değil günlük uygulamalardan da yanıtlanır.\n\nTarihî kayıtlar, civilization oyununda 'Great Library' inşa edildiğinde size devasa bir teknoloji avantajı sağlar; ancak gerçekte bu kütüphanenin yok olması tek bir gecelik bir yangından ziyade, yüzyıllar süren bir ihmal ve bütçe kesintisi sürecidir.",
+      "whyItMatters": "İskenderiye Kütüphanesi'nin hikayesi, bilginin korunmasının sadece binalarla değil, sürekli bir kurumsal iradeyle mümkün olduğunu gösterir.",
+      "sources": [
+        {
+          "title": "Library of Alexandria (Britannica)",
+          "url": "https://www.britannica.com/topic/Library-of-Alexandria",
+          "type": "official"
+        },
+        {
+          "title": "The Destruction of the Great Library (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/article/207/the-destruction-of-the-great-library-of-alexandria/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "civ-great-leaders-simplification",
+        "civ-alphabet-revolution-real"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Civilization oyunda “İskenderiye Kütüphanesi: Bilginin Kaybı mı?” konusunu antik çağ ve bilim ekseninde somut sahnelerle işler. Tek bir yangın her şeyi bitirdi mi?.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "total-war-medieval-diplomacy-real",
+      "title": "Orta Çağ Diplomasisi: Evlilik ve Kan",
+      "subtitle": "Kız alıp vererek barış sağlamak.",
+      "mediaType": "game",
+      "mediaTitle": "Total War",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Orta Çağ",
+        "Siyaset",
+        "Avrupa Tarihi"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "total-war",
+        "diplomasi",
+        "orta-cag",
+        "siyaset"
+      ],
+      "quickRealityCheck": "Total War oyunlarında diplomasi genellikle bir 'puan' sistemidir; ancak gerçek Orta Çağ'da diplomasi tamamen aile bağları, stratejik evlilikler ve 'çeyiz' olarak verilen topraklar üzerine kurulu devasa bir akrabalık ağıydı.",
+      "mediaChanged": "Oyunlarda bir krallıkla dost olmak için para vermeniz yeterlidir. Gerçekte ise en güçlü ittifaklar, iki hanedan arasında kurulan ve geri dönüşü olmayan evlilik bağlarıyla mühürlenirdi.",
+      "realHistory": "Orta Çağ Avrupa'sında dış politika 'kişiseldi'. Bir kralın başka bir kralla yaptığı anlaşma, aslında iki ailenin birleşmesi demekti. Prensesler, ülkeleri arasındaki barışın 'teminatı' (peace-weavers) olarak uzak diyarlara gönderilirdi. Bu evlilikler sadece barış değil, aynı zamanda gelecekteki taht haklarını da belirlerdi. Örneğin, İngiltere ve Fransa arasındaki Yüzyıl Savaşları'nın temelinde, İngiliz krallarının Fransız prenseslerle evlenmesi sonucu Fransa tahtında hak iddia etmesi yatar. Diplomasi, ordulardan çok soy ağaçlarıyla yürütülen bir savaştı. Elçiler ise sadece mesaj taşıyan postacılar değil, bu karmaşık aile hukukunu yöneten hukuk uzmanlarıydı.\n\nBu örnek Orta Çağ diplomasisi açısından önem taşır, modern 'ulus devlet' kavramından önce siyasetin ne kadar kişisel ve ailesel bir yapıya sahip olduğunu gösterir.\n\nOyunlarda bir krallıkla dost olmak için para vermeniz yeterlidir; belgeler ise ise en güçlü ittifaklar, iki hanedan arasında kurulan ve geri dönüşü olmayan evlilik bağlarıyla mühürlenirdi.\n\nTarihî kayıtlar, total War oyunlarında diplomasi genellikle bir 'puan' sistemidir; ancak gerçek Orta Çağ'da diplomasi tamamen aile bağları, stratejik evlilikler ve 'çeyiz' olarak verilen topraklar üzerine kurulu devasa bir akrabalık ağıydı.",
+      "whyItMatters": "Orta Çağ diplomasisi, modern 'ulus devlet' kavramından önce siyasetin ne kadar kişisel ve ailesel bir yapıya sahip olduğunu gösterir.",
+      "sources": [
+        {
+          "title": "Medieval Diplomacy (Britannica)",
+          "url": "https://www.britannica.com/topic/diplomacy/Medieval-diplomacy",
+          "type": "official"
+        },
+        {
+          "title": "Dynastic Marriage in the Middle Ages (Oxford Academic)",
+          "url": "https://academic.oup.com/book/5615",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "total-war-siege-starvation-real"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Total War oyunda “Orta Çağ Diplomasisi: Evlilik ve Kan” konusunu orta çağ ve siyaset ekseninde somut sahnelerle işler. Kız alıp vererek barış sağlamak.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "saving-private-ryan-snipers-reality",
+      "title": "Keskin Nişancı Gerçeği vs. Er Ryan",
+      "subtitle": "Jackson’ın kulesinden gerçek savaş alanına.",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "II. Dünya Savaşı",
+        "Savaş",
+        "Askeri Tarih"
+      ],
+      "isFlagship": false,
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "saving-private-ryan",
+        "keskin-nisanci",
+        "savas",
+        "i-dunya-savasi"
+      ],
+      "quickRealityCheck": "Er Ryan'ı Kurtarmak filmindeki keskin nişancı Jackson'ın dürbün içinden rakibini vurma sahnesi teorik olarak mümkün olsa da, gerçek II. Dünya Savaşı keskin nişancılığı bir 'şovdan' ziyade gizlenme, sabır ve psikolojik yıpratma üzerine kuruluydu.",
+      "mediaChanged": "Film nişancıyı bir 'süper kahraman' gibi gösterir. Gerçekte bir keskin nişancının asıl gücü, yerinin asla tespit edilememesi ve tek bir kurşunla tüm bir birliği durdurabilmesinden geliyordu.",
+      "realHistory": "II. Dünya Savaşı'nda keskin nişancılar (sniper), sadece birer iyi atıcı değil, 'görünmez' olma uzmanlarıydı. Filmdeki Jackson gibi bir çan kulesinde sabit beklemek aslında bir intihardır; çünkü yeriniz tespit edildiği an topçu ateşiyle yok edilirsiniz. Gerçek nişancılar çalıların arasında, yıkıntıların içinde günlerce hareketsiz beklerdi. En meşhur nişancı olan Simo Häyhä (Beyaz Ölüm), dürbün kullanmazdı (çünkü dürbün camı parlayıp yerini belli edebilirdi). Keskin nişancılık, düşman askerleri üzerinde devasa bir 'her an ölebilirim' korkusu yaratarak orduların hızını yavaşlatan en ucuz ve etkili psikolojik silah olmuştur.\n\nArşiv kayıtları, Er Ryan filmindeki dürbün içi vuruş sahnesinin teorik olarak mümkün olsa da gerçek II. Dünya Savaşı keskin nişancılığının gizlenme, sabır ve psikolojik yıpratma üzerine kurulduğunu gösterir.\n\nSinema anlatısı nişancıyı süper kahraman gibi sunabilir; belgeler ise asıl gücün yerin tespit edilememesi ve tek kurşunla birliği durdurabilme kapasitesinden geldiğini kaydeder.\n\nSimo Häyhä gibi nişancılar dürbün kullanmaktan kaçınarak cam yansımasını önledi; çoğu günlerce hareketsiz bekleyip tek atışla hedef aldı. Bu sabır, birliğin ilerlemesini yavaşlatan psikolojik baskının asıl kaynağıydı.\n\nNişancılar çan kulesi gibi sabit noktalarda beklemek yerine yıkıntılarda gizlendi.",
+      "whyItMatters": "Keskin nişancılık tarihi, teknolojinin değil, sabrın ve gizliliğin savaş meydanındaki belirleyiciliğini kanıtlar.",
+      "sources": [
+        {
+          "title": "Snipers in WWII (Imperial War Museums)",
+          "url": "https://www.iwm.org.uk/history/the-role-of-the-sniper-in-the-second-world-war",
+          "type": "museum"
+        },
+        {
+          "title": "Simo Häyhä: The White Death (National Defense University)",
+          "url": "https://www.doria.fi/handle/10024/181530",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "ryan-higgins-boats",
+        "saving-private-ryan-omaha",
+        "saving-private-ryan-higgins-boat"
+      ],
+      "spoilerNote": "Saving Private Ryan hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "Saving Private Ryan filmdе “Keskin Nişancı Gerçeği vs. Er Ryan” konusunu ii. dünya savaşı ve savaş ekseninde somut sahnelerle işler. Jackson’ın kulesinden gerçek savaş alanına.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-001-alexandria-library",
+      "title": "İskenderiye Kütüphanesi",
+      "subtitle": "Kütüphane yandı mı, yoksa yavaş yavaş mı dağıldı?",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Origins",
+      "era": "Antik Dünya",
+      "region": "Mısır",
+      "themes": [
+        "Antik Dünya",
+        "Din",
+        "Gündelik Yaşam"
+      ],
+      "whatWeSee": "Assassin's Creed Origins, İskenderiye'yi rulo rafları, sütunlu avlular ve siyasal gerilimle dolu bir bilgi başkenti gibi açıyor. Oyuncu kütüphane çevresinde dolaşırken ateş, kaos ve iktidar mücadelesi aynı kadraja giriyor. Böylece tek bir felaket anı, bütün bir birikimin sonuymuş hissi veriyor.",
+      "realHistory": "İskenderiye Kütüphanesi tek bir bina değildi; Mouseion çevresinde örgütlenen bir araştırma ve metin dolaşımı sistemiydi. Ptolemaios kralları, Akdeniz'den gelen gemilerdeki metinleri kopyalatıyor, özgün nüshaları arşive alıyor, kopyaları sahiplerine geri veriyordu. Bu agresif toplama siyaseti, kütüphaneyi hem prestij aracı hem de devlet projesi haline getirdi. Eratosthenes'in dünya çevresini hesaplaması ya da filologların Homeros metinlerini karşılaştırması, bu kurumsal ortamın ürünüdür.\n\nKütüphanenin etkisi yalnızca raf sayısıyla ölçülmezdi. Burada çalışan bilginler kraliyet maaşı alıyor, yemek ve konaklama desteği görüyor, farklı bölgelerden gelen metinleri ortak standartla düzenliyordu. Tıp, matematik, coğrafya ve dilbilim arasında kurulan bu temas, antik dünyada disiplinler arası üretimin erken örneklerinden birini doğurdu. İskenderiye'nin cazibesi, metin toplamanın yanında uzman insanı bir araya getirebilmesiydi. Bu ağ, genç öğrenciler için de kariyer kapısıydı.\n\nYıkım meselesi ise aşamalı bir süreçtir. MÖ 48'de Caesar kuşatması sırasında liman bölgesinde çıkan yangının depo alanlarını etkilemiş olması muhtemel, ancak bütün koleksiyonun bir gecede yok olduğuna dair sağlam kanıt yok. Sonraki yüzyıllarda bütçe kaymaları, iç savaşlar, dini çatışmalar ve yönetsel öncelik değişimleri bilgi ağını adım adım zayıflattı. Bazı metinler Serapeion'a, bazıları başka merkezlere taşındı; bir kısmı da kopyalanarak yaşamayı sürdürdü. Bu yüzden İskenderiye hikayesi, dramatik bir finalden çok, kurumların bakımı aksadığında bilginin nasıl sessizce dağılabildiğini gösterir.",
+      "accuracyNote": "Caesar dönemi çatışmaları tarihsel olarak doğru bağlamda; toplam kayıp düzeyi oyunda olduğundan daha belirsiz.",
+      "whyInteresting": "Bu başlık, antik dünyada bilginin raflarda değil insan, para ve kurum ağında yaşadığını hissettiriyor.",
+      "misconception": "İskenderiye Kütüphanesi'nin tek bir gecede tamamen yok olduğu düşünülür.",
+      "nextTopics": [
+        "Nil Taşkınları",
+        "Mumyalama Gerçeği",
+        "Yazıcıların Gücü"
+      ],
+      "sources": [
+        {
+          "title": "Library of Alexandria",
+          "url": "https://www.britannica.com/topic/Library-of-Alexandria",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Alexandria and the Hellenistic World",
+          "url": "https://www.metmuseum.org/toah/hd/alex/hd_alex.htm",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Museion and Ancient Scholarship",
+          "url": "https://www.worldhistory.org/Museum_of_Alexandria/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-004-scribes",
+        "tf26-005-cleopatra-politics",
+        "ac-origins-siwa"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Origins'in İskenderiye atmosferi güçlü; True Frame bu atmosferin arkasındaki arşiv ekonomisini görünür kılıyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "antik-misir",
+        "misir",
+        "assassins-creed",
+        "i-skenderiye-kutuphanesi",
+        "true-frame",
+        "antik-dnya"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun, kütüphane kaybını tek bir kriz anına sıkıştırıyor. Tarihte asıl tablo, farklı dönemlere yayılan kurumsal çözülme zinciri.",
+      "whyItMatters": "Bu başlık, antik dünyada bilginin raflarda değil insan, para ve kurum ağında yaşadığını hissettiriyor.",
+      "isFlagship": false,
+      "quickRealityCheck": "Bir kütüphaneyi gerçekten ne yok eder: ateş mi, yoksa onu ayakta tutan bütçenin ve kadronun çekilmesi mi?",
+      "lastReviewedAt": "2026-06-27"
+    }
+  ]
+}

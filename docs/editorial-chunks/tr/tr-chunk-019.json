@@ -1,0 +1,443 @@
+{
+  "locale": "tr",
+  "chunkIndex": 19,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "total-war-three-kingdoms-warlords",
+      "title": "Üç Krallık: Savaş Beyleri ve Meşruiyet",
+      "subtitle": "Total War: Three Kingdoms ve Çin tarihinin en kanlı döneminin gerçekleri.",
+      "mediaType": "game",
+      "mediaTitle": "Total War: Three Kingdoms",
+      "mediaConnection": "Bu kart, oyundaki savaş beyleri ve ittifaklar üzerinden MS 2. ve 3. yüzyıl Çin tarihini inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (UNESCO, Britannica, History of China)",
+      "whatWeSee": "Han Hanedanlığı çökmektedir. Cao Cao, Liu Bei ve Sun Jian gibi liderler, Çin’i birleştirmek için devasa ordular kurar ve diplomatik oyunlar oynarlar.",
+      "realHistory": "MS 2. yüzyılın sonunda Han Hanedanlığı çözülürken Çin tek bir merkezden yönetilen bir imparatorluktan, birbirine rakip savaş beylerinin alanına dönüştü. Total War: Three Kingdoms’ın iyi yakaladığı şey de sadece büyük ordular değil, bu liderlerin sürekli “meşru yönetici kim?” sorusuna cevap aramasıdır. Cao Cao imparatoru koruyan güçlü bir başbakan gibi davranırken, Liu Bei Han soyundan geldiğini öne çıkarır; Sun ailesi ise güneyde kendi siyasi ve askeri tabanını kurar.\n\nBu dönem yalnızca üç tarafın düzenli savaşı değildi. Han otoritesi çökerken onlarca yerel güç, saray klikleri, bölgesel valiler ve askeri komutanlar sahneye çıktı. Bir liderin gücü yalnızca asker sayısıyla değil; tahıl depolarını yönetebilmesi, bürokratları yanına çekebilmesi, evlilik ve ittifak kurabilmesiyle ölçülüyordu. Zhuge Liang gibi figürler popüler anlatılarda neredeyse efsanevi stratejistlere dönüşür; tarihsel zeminde ise başarıları daha çok lojistik, idare ve uzun vadeli planlama ile ilgilidir.\n\nOyunun dramatik savaşları bu karmaşayı anlaşılır hale getirir, ama gerçek Üç Krallık dünyası “üç renkli harita”dan daha dağınık ve griydi. Meşruiyet iddiası, sadakat dili ve aile bağları çoğu zaman kılıç kadar belirleyiciydi. Bu yüzden dönem bugün hâlâ yalnızca savaş tarihi değil, devletin çökerken nasıl yeni güç merkezleri ürettiği üzerine de okunur.",
+      "accuracyNote": "Total War: Three Kingdoms, bu 'kişisel karizma' ve 'siyasi ittifak' dengesini muazzam yansıtır. Ancak oyunun büyük kısmı, 14. yüzyılda yazılan 'Üç Krallık Romanı'ndaki efsanevi anlatılara dayanır. Tarihsel gerçeklikte Zhuge Liang bir sihirbaz değil, çok başarılı bir lojistik uzmanı ve idareciydi; Cao Cao ise sadece bir zalim değil, usta bir şair ve hukukçuydu.",
+      "whyInteresting": "Üç Krallık anlatılarında Zhuge Liang çoğu zaman neredeyse efsanevi bir dâhi gibi görünür; tarihsel ağırlığı ise büyüden çok lojistik, idare ve siyasi sabırla ilgilidir.",
+      "misconception": "Üç Krallık döneminin sadece üç taraf arasında geçtiği sanılır; oysa Han otoritesi çökerken onlarca yerel güç ve savaş beyi aynı anda sahnedeydi.",
+      "themes": [
+        "Çin",
+        "Savaş",
+        "Siyaset"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "The Three Kingdoms - Britannica",
+          "url": "https://www.britannica.com/topic/Three-Kingdoms-Chinese-history",
+          "type": "article"
+        },
+        {
+          "title": "History of the Han Dynasty - UNESCO",
+          "url": "https://en.unesco.org/silkroad/content/han-dynasty",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "aoe4-mongol-logistics",
+        "three-kingdoms-legend"
+      ],
+      "nextTopics": [
+        "Cao Cao",
+        "Zhuge Liang",
+        "Han Hanedanlığı"
+      ],
+      "difficulty": "deep",
+      "era": "Antik Çağ",
+      "region": "Çin",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "antik-a",
+        "in",
+        "savas",
+        "siyaset",
+        "total-war-three-kin"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Total War: Three Kingdoms karmaşık siyasi mücadeleyi net cephelere ve güçlü karakterlere indirger; tarihsel kayıtlar daha dağınık, ittifakları hızlı değişen bir güç alanı gösterir.",
+      "whyItMatters": "Bu dönem, bir devlet çökerken askeri gücün tek başına yetmediğini; meşruiyet, bürokrasi, tahıl ve ittifakların da iktidarı belirlediğini gösterir.",
+      "quickRealityCheck": "Üç Krallık gerçekten sadece üç büyük tarafın savaşı mıydı — yoksa çöken Han düzeninin içinde çok daha parçalı bir güç mücadelesi mi vardı?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "lanoire-postwar-trauma",
+      "title": "Savaş Sonrası Travma ve Polislik Kültürü",
+      "subtitle": "L.A. Noire ve 1940’ların Los Angeles’ındaki gizli yaralar.",
+      "mediaType": "game",
+      "mediaTitle": "L.A. Noire",
+      "mediaConnection": "Bu kart, L.A. Noire'daki Cole Phelps karakteri ve polis soruşturmaları üzerinden savaş sonrası travma ile 1940'lar Los Angeles'ının toplumsal gerilimini açıklar.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (National Archives, Smithsonian, Britannica)",
+      "whatWeSee": "Cole Phelps, savaştan dönmüş bir deniz piyadesidir. 1947 Los Angeles’ında dedektiflik yaparken, savaşta yaşadığı travmatik anılar sürekli peşini bırakmaz. Şehirdeki birçok suçlu ve kurban da eski askerdir.",
+      "realHistory": "L.A. Noire'ın 1947 Los Angeles'ı, savaş sonrası Amerikan iyimserliğinin parlak yüzüyle daha karanlık bir toplumsal gerilimi aynı anda taşır. II. Dünya Savaşı'ndan dönen milyonlarca asker için sivil hayata dönüş her zaman kolay değildi. Bugün travma sonrası stres bozukluğu dediğimiz belirtiler o dönemde daha sınırlı ve dağınık kavramlarla açıklanıyor, çoğu zaman sessizlik veya 'uyum sağlama' beklentisiyle geçiştiriliyordu.\n\nOyundaki Cole Phelps bu gerilimin kişisel yüzüdür: Cephede kurulan kahramanlık imajı ile savaşın bıraktığı suçluluk ve kopuş duygusu aynı bedende yaşar. Los Angeles ise bu hikâyeyi büyüten bir şehir olarak çalışır. Hollywood parıltısı, hızla genişleyen banliyöler, konut baskısı ve suç haberleri aynı dönemin parçalarıdır. Noir atmosferi bu yüzden yalnızca görsel bir stil değil, savaş sonrası güven kaybının anlatım biçimidir.\n\nL.A. Noire polisliği de bu çerçevede gösterir. Dedektiflik; ipucu, sorgu, basın baskısı ve kurum içi hiyerarşi arasında ilerler. Oyun bazı vakaları dramatik yoğunlukla kurar; yine de savaş sonrası dönemde travma, erkeklik beklentisi, suç korkusu ve şehir büyümesinin polislik kültürünü nasıl etkilediğini hissettirmesi bakımından güçlüdür. Los Angeles burada yalnızca dekor değil, savaşın eve döndüğü yerdir.",
+      "accuracyNote": "L.A. Noire, savaş sonrası travma, noir atmosferi ve şehir büyümesini dramatize eder. Vaka akışları oyun gereği sıkıştırılmıştır; tarihsel arka plan için gazilerin dönüşü, GI Bill, konut baskısı ve dönemin polislik pratikleri ayrı kaynaklarla desteklenmelidir.",
+      "whyInteresting": "Oyundaki Cole Phelps'in savaş anıları, savaş sonrası Amerika'nın görünür zafer anlatısının altında kalan suçluluk, sessizlik ve uyum baskısını temsil eder.",
+      "misconception": "1940'ların sonu yalnızca refah ve Hollywood ışıltısı dönemi sanılır; aynı yıllar travma, konut krizi, sınıf gerilimi ve şehirleşme baskısıyla da şekillendi.",
+      "themes": [
+        "Modern Tarih",
+        "Psikoloji",
+        "Suç"
+      ],
+      "readingTimeMinutes": 4,
+      "sources": [
+        {
+          "title": "Post-WWII America - Smithsonian",
+          "url": "https://www.smithsonianmag.com/history/post-war-america-180971927/",
+          "type": "article"
+        },
+        {
+          "title": "The GI Bill and Post-War Society - National Archives",
+          "url": "https://www.archives.gov/milestone-documents/gi-bill",
+          "type": "archive"
+        }
+      ],
+      "relatedCardIds": [
+        "mafia-immigration-crime",
+        "lanoire-policing"
+      ],
+      "nextTopics": [
+        "TSSB",
+        "Kara Film",
+        "Los Angeles"
+      ],
+      "difficulty": "medium",
+      "era": "Modern Çağ",
+      "region": "ABD",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "abd",
+        "la-noire",
+        "modern-a",
+        "modern-tarih",
+        "psikoloji",
+        "su"
+      ],
+      "mediaChanged": "Oyun, bu dönemi vaka dosyaları ve noir sorgu sahneleriyle yoğunlaştırır; gerçek tarih ise gazilerin dönüşü, banliyöleşme, polislik kültürü ve şehir büyümesinin daha geniş birleşiminden oluşur.",
+      "whyItMatters": "Savaş bittikten sonra travmanın bitmemesi, zafer anlatılarının geride bıraktığı kişisel ve kurumsal yaraları görünür kılar.",
+      "isFlagship": true,
+      "quickRealityCheck": "L.A. Noire'daki 1947 Los Angeles'ı yalnızca şık bir noir dekoru mu, yoksa savaş sonrası travmanın ve şehir geriliminin oyunlaştırılmış hali mi?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "rome-patronage-mobs",
+      "title": "Roma’da Himaye Sistemi ve Halkın Gücü",
+      "subtitle": "Rome (HBO) ve antik dünyanın gerçek siyasi motoru: Patron-Müvekkil ilişkisi.",
+      "mediaType": "series",
+      "mediaTitle": "Rome",
+      "mediaConnection": "Bu kart, dizideki Lucius Vorenus ve Titus Pullo’nun yerel liderlerle ilişkileri üzerinden Roma sosyal yapısını inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (Britannica, History of Rome, MET)",
+      "whatWeSee": "Dizide Sezar ve Pompey gibi dev isimlerin yanında, Roma’nın ara sokaklarında \"patronlar\" ve onların \"müvekkilleri\" arasındaki sıkı çıkar ilişkileri resmedilir. Lucius Vorenus, yerel bir mahalle lideri (Collegium) olarak bu sistemin bir parçası olur.",
+      "realHistory": "Antik Roma siyasetinin asıl motoru, Senato'daki ateşli nutuklardan ziyade, mahalle aralarında işleyen 'Clientela' (himaye) sistemiydi. Bu sistem, toplumun en üstündeki zengin 'Patron' ile ona sadakat borcu olan 'Müvekkil' (Cliens) arasındaki karşılıklı çıkar ilişkisine dayanırdı. Bir patron, müvekkiline iş bulur, mahkemede onu savunur veya kıtlık zamanı yemek sağlardı; karşılığında ise müvekkil, seçimlerde patronuna oy verir ve sokaklarda onun gücünü temsil ederdi. Roma 'mob'u (halk yığını), sanılanın aksine sadece kontrolsüz bir kalabalık değil, bu himaye ağları üzerinden organize edilen ve imparatorların bile çekindiği devasa bir siyasi güçtü. Sezar veya Pompey gibi dev isimlerin gücü, aslında bu yerel liderlerle (collegia) kurdukları derin ağlara dayanıyordu. Bu sistem, Roma toplumunu bir arada tutan en temel sosyal sözleşmeydi ve modern dünyadaki 'Baba' (Godfather) figürünün tarihsel kökenidir.",
+      "accuracyNote": "Rome (HBO) dizisi, bu karmaşık sosyal ağı muazzam bir doğrulukla yansıtır. Lucius Vorenus'un bir Collegium lideri olarak halkın sorunlarını çözmesi, Roma'nın 'yerel yönetim' mantığını kusursuz özetler. Ancak dizi, Lucius ve Titus'u tarihin her büyük olayının merkezine koyarak kurgusal bir 'tesadüf' unsuru yaratır. Gerçekte bu tür sıradan askerlerin Sezar veya Kleopatra ile bu kadar yakın bir temas kurması neredeyse imkansızdı.",
+      "whyInteresting": "Roma'da bir patronun müvekkiline ihanet etmesi, en büyük ahlaki suçlardan biriydi ve dini olarak 'sacer' (lanetli) ilan edilmeyle cezalandırılırdı. Bu, toplumsal dışlanmanın ve hukuki hakların kaybının en ağır biçimiydi.",
+      "misconception": "Roma siyasetinin sadece aristokratlar arasında geçtiği sanılır; oysa halkın desteği olmadan hiçbir lider Roma’da uzun süre tutunamazdı.",
+      "themes": [
+        "Roma",
+        "Siyaset",
+        "Toplum"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "Patronage in Ancient Rome - Britannica",
+          "url": "https://www.britannica.com/topic/patron-and-client",
+          "type": "article"
+        },
+        {
+          "title": "The Social Order of Rome - MET",
+          "url": "https://www.metmuseum.org/toah/hd/roma/hd_roma.htm",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "gladiator-political-theater",
+        "rome-series-spectacle"
+      ],
+      "nextTopics": [
+        "Clientela",
+        "Collegium",
+        "Ekmek ve Oyunlar"
+      ],
+      "difficulty": "deep",
+      "era": "Antik Çağ",
+      "region": "İtalya",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "ancient-rome",
+        "antik-a",
+        "italya",
+        "roma",
+        "siyaset",
+        "toplum",
+        "antik-dnya"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Rome sahne diliyle konuyu yoğunlaştırır; kayıtlar ise aynı konuyu daha parçalı bir çerçevede anlatır.",
+      "whyItMatters": "Bu başlık, bu, toplumsal dışlanmanın ve hukuki hakların kaybının en ağır biçimiydi fikrini medya anlatısından ayrı okumayı sağlar.",
+      "quickRealityCheck": "Roma siyasetinin sadece aristokratlar arasında geçtiği denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "Rome hikâyesine dair ipuçları içerebilir; sonu anlatmaz."
+    },
+    {
+      "id": "gladiator-political-theater",
+      "title": "Gladyatör Oyunları: Bir Siyasi Tiyatro",
+      "subtitle": "Gladiator ve arenaların sadece bir \"eğlence\" mekanı olmadığının hikayesi.",
+      "mediaType": "film",
+      "mediaTitle": "Gladiator",
+      "mediaConnection": "Bu kart, Gladiator'daki Maximus ve Commodus çizgisi üzerinden gladyatör oyunlarının Roma siyasetindeki işlevini açıklar.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (Colosseum Archive, Britannica, BBC History)",
+      "whatWeSee": "İmparator Commodus, halkın sevgisini kazanmak için devasa gladyatör oyunları düzenler. Maximus, arenaları bir direniş alanına çevirir. Kalabalığın \"parmak işareti\" bir savaşçının kaderini belirler.",
+      "realHistory": "Roma arenası yalnızca ölüm ve eğlence sahnesi değildi; imparator ile halkın aynı anda birbirini gördüğü siyasi bir platformdu. Gladyatör oyunları, yani munera, imparatorun cömertliğini, düzen kurma iddiasını ve kalabalık üzerindeki otoritesini sergilerdi. Halk burada sadece seyirci değildi; bağırarak, tezahüratla veya taleplerini duyurarak siyasi havayı etkileyebilen görünür bir topluluktu.\n\nGladyatörlerin çoğu köle, savaş esiri veya suçlu kökenliydi; ancak başarılı dövüşçüler şöhret ve hayran kitlesi kazanabiliyordu. Arenadaki kararlar da basit bir 'öldür ya da yaşat' oyunundan ibaret değildi. Dövüşün kalitesi, kalabalığın tepkisi, sponsorun politik hesabı ve törenin dini-simgesel çerçevesi sonucu etkileyebilirdi. Bu yüzden arena, Roma'nın disiplin, cesaret ve itaat fikirlerini halka tekrar gösterdiği bir sahneydi.\n\nGladiator bu düzeni Maximus'un kişisel hikâyesi üzerinden dramatize eder. Filmde arena bir direniş alanına dönüşür; tarihsel olarak ise arena daha çok iktidarın halkla pazarlık yaptığı kontrollü bir gösteri alanıydı. Commodus'un arenaya ilgisi gerçek bir tarihsel zemine sahip olsa da film, onu modern izleyicinin anlayacağı bir tiranlık ve halk sevgisi hikâyesine sıkıştırır.",
+      "accuracyNote": "Gladiator filmi, gladyatörleri modern birer özgürlük savaşçısı gibi sunar; oysa çoğu gladyatör için bu bir iş ve hayatta kalma mücadelesiydi. Meşhur 'baş parmak aşağı' işareti muhtemelen kılıcın kılıfına sokulmasını (hayat bağışlanmasını) temsil ediyordu, tersi değil. Ayrıca İmparator Commodus, filmdeki gibi arenada ölmemiş, banyosunda boğularak suikasta kurban gitmiştir.",
+      "whyInteresting": "Gladyatörler yalnızca dövüşçü değil, kalabalığın tanıdığı ve kimi zaman hayranlık duyduğu kamusal figürlerdi; arena bu yüzden spor, tören ve siyasetin birleştiği bir alandı.",
+      "misconception": "Gladyatör oyunlarının sadece öldürmeye dayalı olduğu sanılır; gerçekte arena, dini semboller, kalabalık tepkisi ve imparatorluk propagandasıyla örülü karmaşık bir gösteri düzeniydi.",
+      "themes": [
+        "Roma",
+        "Eğlence",
+        "Siyaset"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "Gladiators and the Colosseum - Britannica",
+          "url": "https://www.britannica.com/topic/gladiator",
+          "type": "article"
+        },
+        {
+          "title": "The Politics of Spectacle in Rome - BBC History",
+          "url": "https://www.bbc.co.uk/history/ancient/romans/spectacle_01.shtml",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "rome-patronage-mobs",
+        "gladiator-colosseum",
+        "gladiator-commodus-real"
+      ],
+      "nextTopics": [
+        "Kolezyum",
+        "Spartaküs",
+        "Ludi"
+      ],
+      "difficulty": "medium",
+      "era": "Antik Çağ",
+      "region": "İtalya",
+      "accuracyType": "fictionalized",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "antik-a",
+        "eglence",
+        "gladiator",
+        "italya",
+        "roma",
+        "siyaset",
+        "antik-dnya"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Gladiator arenayı Maximus'un yükselişi ve Commodus'un halk desteği arayışı üzerinden dramatize eder; tarihsel arenalar ise daha geniş bir siyasi temsil, bağış ve kalabalık yönetimi mekanizmasıydı.",
+      "whyItMatters": "Arena oyunları, Roma'da popüler eğlencenin iktidar diliyle nasıl birleştiğini ve kalabalığın siyasette nasıl görünür hale geldiğini gösterir.",
+      "quickRealityCheck": "Gladiator'daki arena sadece vahşi eğlence mi, yoksa imparatorun halkla kurduğu siyasi sahne mi?",
+      "spoilerNote": "Gladiator hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "shogun-hostage-politics",
+      "title": "Rehineler ve Sadakat: Feodal Japonya’da Güç Dengesi",
+      "subtitle": "Shōgun (2024) ve aile üyelerinin birer siyasi teminat olarak kullanılması.",
+      "mediaType": "series",
+      "mediaTitle": "Shōgun",
+      "mediaConnection": "Bu kart, Shōgun'daki Toranaga çevresindeki aile ve kale trafiği üzerinden feodal Japonya'da rehine siyasetinin nasıl işlediğini açıklar.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (History of Japan, Britannica, UNESCO)",
+      "whatWeSee": "Dizide liderlerin aile üyeleri (eşler, çocuklar) Osaka Kalesi’nde veya rakiplerinin yanında birer \"misafir\" olarak kalırlar. Bu aslında onların birer siyasi rehine olduğunun ve babalarının/eşlerinin ihanet etmesini önleyen bir sigorta olduğunun açık bir göstergesidir.",
+      "realHistory": "Feodal Japonya'da aile üyelerinin siyasi teminat olarak tutulması, yalnızca kişisel bir zalimlik değil, kırılgan ittifakları kontrol etmenin yollarından biriydi. Sengoku döneminin sonlarında ve Tokugawa düzenine geçişte, daimyō aileleri arasındaki güven çoğu zaman sözle değil, kalelerde tutulan eşler, çocuklar ve akrabalar üzerinden sağlanıyordu. Bu kişiler resmen 'misafir' gibi ağırlanabilirdi; fakat konumlarının siyasi anlamını herkes bilirdi.\n\nBu sistem Japon diplomasisinin dikkatli, dolaylı ve yüz kaybından kaçınan dilini de besledi. Bir lordun hareketi yalnızca kendi hayatını değil, başka bir merkezde tutulan ailesinin güvenliğini de etkileyebilirdi. Tokugawa Ieyasu'nun gençliğinde rehine olarak farklı güçlerin yanında bulunması, bu dünyanın nasıl çalıştığını erken yaşta öğrenmesine neden oldu. Rehinelik, bazen sadakati güçlendirdi; bazen de kimlik, bağlılık ve aile duygusunu karmaşık hale getirdi.\n\nShōgun, bu gerilimi saray konuşmaları ve görünürde kibar ziyaretler üzerinden hissettirir. Dizideki 'misafirlik' dili önemlidir: Tehdit çoğu zaman açıkça söylenmez, ama herkes tarafından anlaşılır. Tarihsel gerçek de bu belirsizliktedir; rehine siyaseti hem şiddet ihtimali taşır hem de açık savaşı erteleyen soğuk bir denge mekanizması gibi çalışır.",
+      "accuracyNote": "Shōgun (2024) dizisi, bu rehine trafiğinin getirdiği psikolojik gerilimi ve 'yüzünü kaybetme' (saving face) korkusunu muazzam bir doğrulukla yansıtır. Lord Toranaga'nın (Tokugawa) sabrı, aslında hayatı boyunca rehinelik sistemi içinde hayatta kalma mücadelesinden gelmektedir. Dizi, o dönemin ritüellerini ve dillerini Batılı bir bakış açısıyla değil, Japon tarihsel gerçekliğiyle harmanlamayı başarır.",
+      "whyInteresting": "Tokugawa Ieyasu gibi bazı büyük liderler gençliklerinde rehine olarak yaşamış, böylece sabır, bekleme ve diplomatik hesap yapma becerisini erken öğrenmiştir.",
+      "misconception": "Rehine sisteminin yalnızca kontrolsüz bir vahşet olduğu sanılır; gerçekte bu uygulama, şiddet tehdidiyle barışı ve itaati aynı anda kurmaya çalışan sert bir siyasi teminat sistemiydi.",
+      "themes": [
+        "Japonya",
+        "Siyaset",
+        "Samuray"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "Hostage System in Tokugawa Japan - Britannica",
+          "url": "https://www.britannica.com/topic/sankin-kotai",
+          "type": "article"
+        },
+        {
+          "title": "Feudal Society in Japan - UNESCO",
+          "url": "https://en.unesco.org/silkroad/content/feudal-japan",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "shogun2-shinobi",
+        "shogun-edo",
+        "shogun-trade-sakoku"
+      ],
+      "nextTopics": [
+        "Sankin Kotai",
+        "Tokugawa Ieyasu",
+        "Edo Dönemi"
+      ],
+      "difficulty": "deep",
+      "era": "Yeni Çağ",
+      "region": "Japonya",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "japonya",
+        "samuray",
+        "shogun",
+        "siyaset",
+        "yeni-a"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Shōgun bu sistemi kişisel aile dramı ve saray gerilimiyle görünür kılar; tarihsel bağlamda rehine siyaseti, daimyō sadakati ve merkezi otorite kurma sürecinin daha geniş parçasıydı.",
+      "whyItMatters": "Rehine siyaseti, feodal düzende sadakatin çoğu zaman sevgi ya da onurdan değil, aile güvenliği ve zorunlu pazarlıktan beslendiğini gösterir.",
+      "quickRealityCheck": "Shōgun'daki 'misafir' aile üyeleri gerçekten misafir mi, yoksa kibar bir dille saklanan siyasi rehineler mi?",
+      "spoilerNote": "Shōgun hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "last-kingdom-alfred-england",
+      "title": "Büyük Alfred ve Birleşik İngiltere Hayali",
+      "subtitle": "The Last Kingdom ve dağınık krallıklardan tek bir ulusa giden yol.",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "mediaConnection": "Bu kart, dizideki Wessex Kralı Alfred’in Sakson krallıklarını birleştirme çabası üzerinden İngiltere’nin kuruluş tarihini inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (British Library, Britannica, Asser’s Life of King Alfred)",
+      "whatWeSee": "Kral Alfred, dindar, zayıf bünyeli ama muazzam bir stratejist olarak resmedilir. Viking istilasına karşı sadece kılıçla değil, kalemle, yasalarla ve tahkimatlarla savaşır. Hayali \"Englaland\"ı kurmaktır.",
+      "realHistory": "Büyük Alfred'in önemi, yalnızca Vikinglere karşı bir savaşı kazanmasından gelmez. 9. yüzyılın sonunda Wessex, Viking baskısı altında ayakta kalan başlıca Sakson krallığıydı. 878'de Edington'da Guthrum'u yenmesi, Alfred'e nefes aldırdı; fakat asıl kalıcı hamle, bu zaferden sonra kurduğu savunma ve yönetim düzeniydi.\n\nAlfred'in burh adı verilen tahkimatlı yerleşim ağı, Viking akınlarının hız avantajını kırmayı amaçlıyordu. Bu merkezler hem askeri sığınak hem de idari düğüm noktası gibi çalıştı. Aynı dönemde hukuk, eğitim ve yazılı kültür alanında da reformlar yaptı; Latince metinlerin İngilizceye çevrilmesini desteklemesi, krallığın yalnızca kılıçla değil ortak dil ve bilgiyle de güçlenebileceğini gösterir.\n\nThe Last Kingdom, Alfred'i dindar, hastalıklı ve zorlayıcı bir stratejist olarak dramatize eder. Tarihsel kayıtlarda da Alfred'in hedefi bugünkü anlamıyla modern bir ulus-devlet kurmak değildi; ama Wessex merkezli Sakson direnişini daha geniş bir 'English' kimliğine bağlayan zemin onun döneminde güçlendi. Bu yüzden Alfred, tek başına İngiltere'yi kuran kişi değil; birleşik İngiltere fikrinin askeri ve kültürel altyapısını hazırlayan hükümdar olarak okunmalıdır.",
+      "accuracyNote": "Dizi, Alfred’in dindarlığını ve fiziksel zayıflığını tarihsel kayıtlara (özellikle Asser’in kroniklerine) sadık kalarak yansıtır. Ancak Alfred’in \"İngiltere\" hayali bugünkü kadar net bir ulusal bilinçten ziyade, Hristiyan Saksonların pagan Vikinglere karşı korunması temelli dini-siyasi bir birlik arayışıydı.",
+      "whyInteresting": "Alfred, savaşçı kral imajının yanında Latince metinlerin İngilizceye çevrilmesini destekleyen nadir Orta Çağ hükümdarlarından biriydi.",
+      "misconception": "İngiltere'nin her zaman tek bir krallık olduğu sanılır; Alfred döneminde Sakson krallıkları Viking baskısı altında parçalı ve kırılgan bir siyasi yapıdaydı.",
+      "themes": [
+        "Orta Çağ",
+        "İngiltere",
+        "Siyaset"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "King Alfred the Great - British Library",
+          "url": "https://www.bl.uk/people/alfred-the-great",
+          "type": "archive"
+        },
+        {
+          "title": "Life of King Alfred - Asser",
+          "url": "https://www.britannica.com/biography/Alfred-king-of-Wessex",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "ac-valhalla-settlement",
+        "last-kingdom-danelaw",
+        "last-kingdom-alfred-dream"
+      ],
+      "nextTopics": [
+        "Büyük Alfred",
+        "Wessex",
+        "Anglo-Saksonlar"
+      ],
+      "difficulty": "deep",
+      "era": "Orta Çağ",
+      "region": "İngiltere",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "ingiltere",
+        "orta-cag",
+        "siyaset",
+        "the-last-kingdom"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "The Last Kingdom Alfred'in vizyonunu karakter çatışmaları ve saray gerilimiyle yoğunlaştırır; tarihsel süreç ise Edington, burh ağı, eğitim reformları ve torunları dönemindeki birleşme adımlarıyla daha uzun bir çizgide ilerler.",
+      "whyItMatters": "Alfred'in hikâyesi, siyasi birlik fikrinin yalnızca savaşla değil savunma altyapısı, hukuk, eğitim ve ortak dil üzerinden de kurulduğunu gösterir.",
+      "quickRealityCheck": "The Last Kingdom'daki Alfred gerçekten birleşik İngiltere'yi mi kurdu, yoksa bu fikrin temelini atan Wessex kralı mıydı?",
+      "spoilerNote": "The Last Kingdom hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "chernobyl-bureaucracy-truth",
+      "title": "Bürokrasi ve Felaket: Çernobil’in Gerçek Yüzü",
+      "subtitle": "Chernobyl (HBO) ve bir devletin kendi halkına yalan söylemesinin maliyeti.",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "mediaConnection": "Bu kart, dizideki Valery Legasov ve Boris Shcherbina’nın mücadelesi üzerinden 1986 nükleer felaketini ve SSCB sistemini inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (IAEA, National Archives, Britannica)",
+      "whatWeSee": "Dizide bir nükleer patlama sonrası devletin ilk tepkisi olayı gizlemek ve \"her şey kontrol altında\" imajı yaratmaktır. Bilim insanları, gerçeği söylemek için hantal ve korku dolu bir bürokrasiyle savaşmak zorunda kalırlar.",
+      "realHistory": "1986 Çernobil felaketi, sadece bir mühendislik hatası değil, Sovyetler Birliği'nin hiyerarşik korku ve 'imaj her şeydir' politikasının kaçınılmaz bir sonucudur. Reaktördeki tasarım kusuru (RBMK reaktörlerinin pozitif boşluk katsayısı), daha önce bilinen ancak 'Sovyet teknolojisi kusursuzdur' anlayışı nedeniyle gizlenen bir gerçekti. Patlama anından itibaren devletin ilk tepkisi, felaketi çözmekten ziyade olayı saklamak ve sorumluluğu başkasına atmak olmuştur. Pripyat şehri, radyasyonun öldürücü seviyeye ulaşmasına rağmen 36 saat boyunca tahliye edilmemiş, halk günlük hayatına devam etmiştir. Bu felaket, Gorbaçov'un bizzat itiraf ettiği üzere, halkın sisteme olan güvenini tamamen sarsarak SSCB'nin çöküşünü hızlandıran asıl olaydır. Bilimin siyasi otoriteye kurban edildiği bu olay, modern teknoloji tarihindeki en büyük ahlaki derstir.\n\nÇernobil bölgesinde bugün insan müdahalesi olmadığı için doğa inanılmaz bir hızla geri dönmüş ve bölge, radyasyona rağmen vahşi hayvanların ve bitkilerin istila ettiği devasa bir laboratuvar haline gelmiştir.\n\nYaygın bir izlenim, Çernobil’in sadece bir \"kaza\" olduğu olduğudur; kayıtlar ise bu, kapalı toplumların ve hiyerarşik korkunun büyük felaketler karşısındaki çaresizliğinin bir kanıtıdır.\n\nBu konu, dizideki Valery Legasov ve Boris Shcherbina’nın mücadelesi üzerinden 1986 nükleer felaketini ve SSCB sistemini inceler.",
+      "accuracyNote": "Chernobyl (HBO) dizisi, atmosferi ve teknik detayları muazzam bir sadakatle yansıtır. Ancak dizideki Valery Legasov karakteri, gerçekte olduğundan çok daha fazla 'kahraman' olarak resmedilmiştir; gerçek Legasov bir sistem adamıydı ve gerçeği açıklaması çok daha sancılı bir süreçti. Ayrıca Emily Watson'ın canlandırdığı Ulana Khomyuk, felaketi araştıran düzinelerce bilim insanını temsil eden kurgusal bir birleştirme karakteridir.",
+      "whyInteresting": "Çernobil bölgesinde bugün insan müdahalesi olmadığı için doğa inanılmaz bir hızla geri dönmüş ve bölge, radyasyona rağmen vahşi hayvanların ve bitkilerin istila ettiği devasa bir laboratuvar haline gelmiştir.",
+      "misconception": "Çernobil’in sadece bir \"kaza\" olduğu sanılır; oysa bu, kapalı toplumların ve hiyerarşik korkunun büyük felaketler karşısındaki çaresizliğinin bir kanıtıdır.",
+      "themes": [
+        "Modern Tarih",
+        "Bilim",
+        "Siyaset"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "The Chernobyl Accident - IAEA",
+          "url": "https://www.iaea.org/newscenter/focus/chernobyl",
+          "type": "archive"
+        },
+        {
+          "title": "Chernobyl: The History of a Tragedy - Serhii Plokhy",
+          "url": "https://www.britannica.com/event/Chernobyl-disaster",
+          "type": "book"
+        }
+      ],
+      "relatedCardIds": [
+        "oppenheimer-science-state",
+        "chernobyl-disaster",
+        "chernobyl-secrecy"
+      ],
+      "nextTopics": [
+        "Nükleer Enerji",
+        "SSCB",
+        "Pripyat"
+      ],
+      "difficulty": "deep",
+      "era": "Modern Çağ",
+      "region": "Doğu Avrupa",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "bilim",
+        "chernobyl",
+        "dou-avrupa",
+        "modern-a",
+        "modern-tarih",
+        "siyaset"
+      ],
+      "spoilerNote": "",
+      "isFlagship": false,
+      "mediaChanged": "Chernobyl sahne diliyle konuyu yoğunlaştırır; kayıtlar ise aynı konuyu daha parçalı bir çerçevede anlatır.",
+      "whyItMatters": "Bu başlık, çernobil bölgesinde bugün insan müdahalesi olmadığı için doğa inanılmaz bir hızla geri dönmüş ve bölge, radyasyona rağmen vahşi hayvanların ve bitkilerin istila ettiği devasa bir laboratuvar haline gelmiştir fikrini medya anlatısından ayrı okumayı sağlar.",
+      "quickRealityCheck": "Çernobil’in sadece bir \"kaza\" olduğu denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

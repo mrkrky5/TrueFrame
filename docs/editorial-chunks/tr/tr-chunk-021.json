@@ -1,0 +1,380 @@
+{
+  "locale": "tr",
+  "chunkIndex": 21,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "harem-pleasure-myth",
+      "title": "Osmanlı Haremi: Bir Saray Okulu ve Siyasi Merkez",
+      "subtitle": "Harem’in sadece bir zevk mekanı olduğu efsanesinin ötesi.",
+      "mediaType": "general",
+      "mediaTitle": "Tarihi Yanılgı",
+      "mediaConnection": "Bu kart, popüler dizilerdeki harem imgesini Osmanlı sarayının eğitim, hiyerarşi ve hanedan siyasetiyle karşılaştırır.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (Topkapı Archives, Britannica, Leslie Peirce)",
+      "whatWeSee": "Harem, padişahın gönlünü eğlendirdiği, kadınların sadece entrika çevirdiği ve her şeyin lüks içinde geçtiği kapalı bir kutu olarak resmedilir.",
+      "realHistory": "Osmanlı haremi popüler kültürde çoğu zaman padişahın özel zevk alanı gibi anlatılır. Oysa Topkapı'daki harem, hanedanın devamını, saray eğitimini ve kadınlar üzerinden kurulan siyasi bağlantıları düzenleyen hiyerarşik bir kurumdu. Burada statü rastgele değil; kıdem, eğitim, saray adabı ve padişah ailesiyle kurulan bağ üzerinden şekillenirdi.\n\nHaremdeki kadınlar yalnız kapalı bir özel hayatın figürleri değildi. Okuma yazma, dinî bilgi, müzik, el işi, edebiyat ve saray protokolü gibi alanlarda eğitim alabilirlerdi. Yüksek statüye çıkan kadınlar, özellikle valide sultan ve haseki konumları üzerinden saray içi dengelerde etkili olabiliyordu. Bu güç her zaman doğrudan emir verme biçiminde görünmezdi; evlilikler, vakıflar, himaye ilişkileri ve saray içi ağlar üzerinden işlerdi.\n\nHarem aynı zamanda Osmanlı hanedanının güvenlik mantığıyla da bağlantılıydı. Padişah ailesinin yaşamı, dışarıdan erişimi sınırlı ve sıkı kurallı bir alanda düzenleniyordu. Bu kapalı yapı, Avrupa hayal gücünde egzotik ve cinselleştirilmiş hikayelere dönüştü. Oysa kayıtlar, haremi yalnız cinsellik üzerinden okumanın hem kadınların eğitimini hem de saray siyasetindeki rollerini görünmez kıldığını gösterir.\n\nMuhteşem Yüzyıl gibi diziler entrika ve romantik gerilimi öne çıkarabilir; tarihsel çerçeve ise haremi bir saray okulu, hanedan kurumu ve siyasi temas alanı olarak ele alır. Buradaki güç, çoğu zaman görünmeyen ama imparatorluk merkezinde etkili olan ilişkiler ağıyla ilgilidir.",
+      "accuracyNote": "Popüler diziler haremdeki entrika ve romantik gerilimi büyütür. Tarihsel olarak harem, Topkapı'nın korunaklı ve hiyerarşik bölümlerinden biriydi; eğitim, rütbe ve hanedan siyaseti bu yapının merkezindeydi.",
+      "whyInteresting": "Valide sultan ve haseki konumları, saray içi hiyerarşide yalnız ailevi değil, siyasi etki de yaratabilen güçlü rollere dönüşebiliyordu.",
+      "misconception": "Haremin yalnız cinsellik ve lüks üzerine kurulu olduğu sanılır; gerçekte eğitim, hiyerarşi, hanedan güvenliği ve siyasi ağlar bu kurumun temel parçalarıydı.",
+      "themes": [
+        "Osmanlı",
+        "Toplum",
+        "Siyaset"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "The Imperial Harem - Leslie Peirce",
+          "url": "https://www.britannica.com/topic/harem",
+          "type": "book"
+        },
+        {
+          "title": "Topkapı Palace Archive - Harem Section",
+          "url": "https://www.millisaraylar.gov.tr/saraylar/topkapi-sarayi",
+          "type": "archive"
+        }
+      ],
+      "relatedCardIds": [
+        "ac-revelations-istanbul",
+        "medieval-magic-vs-reason",
+        "vikings-not-only-raiders"
+      ],
+      "nextTopics": [
+        "Hürrem Sultan",
+        "Valide Sultan",
+        "Saray Eğitimi"
+      ],
+      "difficulty": "deep",
+      "era": "Yeni Çağ",
+      "region": "Türkiye",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "osmanl",
+        "siyaset",
+        "tarihi-yanlg",
+        "toplum",
+        "trkiye",
+        "yeni-a"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Popüler yapımlar haremi çoğunlukla romantik entrika ve egzotik kapalı alan olarak gösterir; tarihsel kayıtlar daha disiplinli, eğitimli ve siyasi yönü güçlü bir saray kurumuna işaret eder.",
+      "whyItMatters": "Haremi yalnız fantezi olarak görmek, Osmanlı sarayında kadınların eğitim, vakıf ve hanedan siyaseti içindeki gerçek etkisini görünmez kılar.",
+      "quickRealityCheck": "Harem sadece padişahın özel alanı mıydı, yoksa hanedanın eğitim ve siyasi ağlarının kurulduğu bir saray kurumu muydu?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "wild-west-gunfights-myth",
+      "title": "Vahşi Batı: Düellolar mı, Yoksa Silah Kontrolü mü?",
+      "subtitle": "Popüler kültürün \"silahşor\" mitinin gerçek adaletle karşılaşması.",
+      "mediaType": "general",
+      "mediaTitle": "Tarihi Yanılgı",
+      "mediaConnection": "Bu kart, Western filmlerindeki (Red Dead gibi) bitmek bilmeyen sokak düellolarını tarihi verilerle inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (National Archives, Smithsonian, Britannica)",
+      "whatWeSee": "Kasabaların her köşesinde düellolar yaşanır, herkesin belinde bir silah vardır ve kanunsuzluk her yere hakimdir.",
+      "realHistory": "Vahşi Batı'da (Wild West), popüler filmlerin aksine, silah taşımak ve sokak ortasında düello yapmak sanıldığından çok daha zordu. Yerleşimin olduğu kasabaların çoğunda (Dodge City veya Tombstone gibi), kasaba sınırları içinde silah taşımak kesinlikle yasaktı. Bir kasabaya girdiğinizde, şerif sizden silahınızı teslim etmenizi isterdi; bu kurala uymayanlar hapse atılır veya kasabadan kovulurdu. Meşhur 'O.K. Corral' çatışması bile aslında bir düello değil, kasaba içinde silah taşıma yasağını uygulamaya çalışan kanun adamlarıyla buna direnen kovboylar arasında çıkmıştır. Vahşi Batı kasabaları, ticareti korumak ve yatırım çekmek için şiddet oranlarını düşük tutmaya çalışan, dönemin büyük şehirlerinden (Chicago, New York) daha güvenli yerlerdi. Şiddet vardı; ancak bu genellikle sarhoş kavgaları veya arkadan pusu kurma şeklindeydi, filmlerdeki gibi 'şerefli düellolar' son derece nadirdi.\n\nVahşi Batı'nın en ünlü silahşoru sayılan Billy the Kid veya Wyatt Earp gibi isimlerin aslında kariyerleri boyunca çok az kişiyi öldürdüğü bilinmektedir.\n\nYaygın bir izlenim, Vahşi Batı’da herkesin belinde tabancayla gezdiği olduğudur; kayıtlar ise kasaba hayatında sivil halkın silah taşıması yasaktı ve silahlar genellikle at heybelerinde veya evlerde saklanırdı.",
+      "accuracyNote": "Western türü, Amerikan kimliğini 'silahlı birey' üzerinden inşa etmek için bu şiddeti dramatize etmiştir. Red Dead Redemption gibi oyunlar bu atmosferi iyi yansıtsa da, gerçekte bir kovboy vaktinin %90'ını silah çekerek değil, sığırları bir yerden bir yere sürerek geçirirdi. Silah, bir 'katil aracı'ndan ziyade, vahşi hayvanlara karşı kullanılan bir 'çiftlik aleti'ydi.",
+      "whyInteresting": "Vahşi Batı'nın en ünlü silahşoru sayılan Billy the Kid veya Wyatt Earp gibi isimlerin aslında kariyerleri boyunca çok az kişiyi öldürdüğü bilinmektedir. Efsaneler, gazetecilerin ve ucuz roman yazarlarının kurgusuyla büyütülmüştür.",
+      "misconception": "Vahşi Batı’da herkesin belinde tabancayla gezdiği sanılır; oysa kasaba hayatında sivil halkın silah taşıması yasaktı ve silahlar genellikle at heybelerinde veya evlerde saklanırdı.",
+      "themes": [
+        "Vahşi Batı",
+        "Hukuk",
+        "ABD"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "Gun Control in the Old West - Smithsonian",
+          "url": "https://www.smithsonianmag.com/history/gun-control-old-west-180968013/",
+          "type": "article"
+        },
+        {
+          "title": "Violence in the Frontier - Britannica",
+          "url": "https://www.britannica.com/place/the-West-region-United-States",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "rdr-railroads-frontier",
+        "medieval-magic-vs-reason",
+        "vikings-not-only-raiders"
+      ],
+      "nextTopics": [
+        "Wyatt Earp",
+        "O.K. Corral",
+        "Şerifler"
+      ],
+      "difficulty": "medium",
+      "era": "Yakın Çağ",
+      "region": "Kuzey Amerika",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "abd",
+        "hukuk",
+        "kuzey-amerika",
+        "tarihi-yanlg",
+        "vahi-bat",
+        "yakn-a"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Tarihi Yanılgı bu konuyu sahne diliyle yoğunlaştırır; western türü, Amerikan kimliğini 'silahlı birey' üzerinden inşa etmek için bu şiddeti dramatize etmiştir.",
+      "whyItMatters": "Efsaneler, gazetecilerin ve ucuz roman yazarlarının kurgusuyla büyütülmüştür.",
+      "quickRealityCheck": "Vahşi Batı’da herkesin belinde tabancayla gezdiği denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "ancient-travel-myth",
+      "title": "Antik Dünyada Hareketlilik: Kimse Evinden Çıkmıyor muydu?",
+      "subtitle": "Kadim zamanlarda seyahat, ticaret ve küresel bağlantıların gerçekliği.",
+      "mediaType": "general",
+      "mediaTitle": "Tarihi Yanılgı",
+      "mediaConnection": "Bu kart, antik çağ insanlarının sadece köylerinde yaşadığı ve hiç seyahat etmediği yanılgısını inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (UNESCO, British Museum, Britannica)",
+      "whatWeSee": "Filmlerde antik çağ insanları, doğup büyüdükleri yerin 10 kilometre dışını bile görmemiş, dünyadan bihaber cahil kitleler olarak resmedilir.",
+      "realHistory": "Antik dünya, sanılanın aksine inanılmaz derecede hareketliydi. Roma İmparatorluğu döneminde bir tüccar, Britanya’dan Mısır’a kadar güvenli yollarda seyahat edebiliyor; bir filozof, Atina’dan İskenderiye’ye eğitim için gidebiliyordu. İpek Yolu sadece mal değil, binlerce kilometrelik rotalar boyunca fikir, din ve insan taşıyan devasa bir ağdı. Hac ziyaretleri, askeri seferler ve ticari kervanlar sayesinde insanlar dünyayı tanıyordu. Örneğin, MS 2. yüzyılda yaşamış bir Romalı askerin mezar taşına, hayatı boyunca imparatorluğun dört bir yanındaki 10 farklı şehirde görev yaptığını yazdırması, dönemin hareketliliğinin en somut kanıtıdır.\n\nBu rehberler, gezginlere hangi tapınakları görmeleri ve nerede konaklamaları gerektiğini anlatıyordu.\n\nYaygın bir izlenim, İnsanların eskiden hiç gezmediği olduğudur; kayıtlar ise antik çağda bir tüccarın binlerce kilometre yol katetmesi, modern bir insanın uçakla kıta değiştirmesi kadar doğal ve yaygın bir durumdu.\n\nBu konu, antik çağ insanlarının sadece köylerinde yaşadığı ve hiç seyahat etmediği yanılgısını inceler.\n\nYaygın izlenim, İnsanların eskiden hiç gezmediği olduğudur; kayıtlar ise antik çağda bir tüccarın binlerce kilometre yol katetmesi, modern bir insanın uçakla kıta değiştirmesi kadar doğal ve yaygın bir durumdu.",
+      "accuracyNote": "Seyahat elbette zordu ve yavaştı; ancak \"imkansız\" değildi. Roma yolları ve Akdeniz’deki deniz ticareti rotaları, antik dünyanın bir \"küresel köy\" gibi işlemesini sağlıyordu. Antik Yunanlılar, Karadeniz’den Cebelitarık’a kadar koloniler kurarak sürekli bir insan akışı sağlamışlardır.",
+      "whyInteresting": "Antik dünyada seyahat o kadar yaygındı ki, ilk \"gezi rehberleri\" (Pausanias’ın Yunanistan Rehberi gibi) MS 2. yüzyılda yazılmıştır. Bu rehberler, gezginlere hangi tapınakları görmeleri ve nerede konaklamaları gerektiğini anlatıyordu.",
+      "misconception": "İnsanların eskiden hiç gezmediği sanılır; oysa antik çağda bir tüccarın binlerce kilometre yol katetmesi, modern bir insanın uçakla kıta değiştirmesi kadar doğal ve yaygın bir durumdu.",
+      "themes": [
+        "Antik Çağ",
+        "Seyahat",
+        "Ticaret"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "Travel in the Ancient World - Britannica",
+          "url": "https://www.britannica.com/topic/travel-and-tourism/History-of-travel",
+          "type": "article"
+        },
+        {
+          "title": "The Silk Road: A Network of Connectivity - UNESCO",
+          "url": "https://en.unesco.org/silkroad/content/about-silk-roads",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "aoe4-mongol-logistics",
+        "medieval-magic-vs-reason",
+        "vikings-not-only-raiders"
+      ],
+      "nextTopics": [
+        "İpek Yolu",
+        "Roma Yolları",
+        "Pausanias"
+      ],
+      "difficulty": "medium",
+      "era": "Antik Çağ",
+      "region": "Küresel",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "antik-a",
+        "kresel",
+        "seyahat",
+        "tarihi-yanlg",
+        "ticaret"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Tarihi Yanılgı bu konuyu sahne diliyle yoğunlaştırır; seyahat elbette zordu ve yavaştı; ancak \"imkansız\" değildi.",
+      "whyItMatters": "Antik dünyada ticaret ve elçilik ağları, bugün sandığımızdan çok daha hızlı hareket ediyordu.",
+      "quickRealityCheck": "İnsanların eskiden hiç gezmediği denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "medieval-city-diet",
+      "title": "Orta Çağ Şehirlerinde Sofra: Sadece Ekmek mi?",
+      "subtitle": "Orta Çağ insanının beslenme alışkanlıkları ve mutfak kültürü.",
+      "mediaType": "general",
+      "mediaTitle": "Günlük Hayat",
+      "mediaConnection": "Bu kart, Orta Çağ mutfağının sadece gri ve tatsız yiyeceklerden oluştuğu yanılgısını inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (British Museum, Britannica, Food in History)",
+      "whatWeSee": "Filmlerde Orta Çağ yemeği olarak sadece bir parça kuru ekmek, sulu bir çorba ve bazen de büyük bir tavuk budu (genellikle lordların masasında) gösterilir.",
+      "realHistory": "Orta Çağ şehirlerinde beslenme, 1344 tarihli 'Assize of Bread' (Ekmek Nizamnamesi) gibi yasalarla sıkı denetlenen bir hiyerarşi üzerine kuruluydu. Bu yasa, ekmeğin ağırlığını ve kalitesini doğrudan tahıl fiyatlarına bağlayarak fırıncıların kar marjını kontrol ediyordu. Zengin sofralarında 'paynemain' (beyaz, ince elenmiş buğday ekmeği) bulunurken; yoksullar lifli ve sert 'maslin' (çavdar ve buğday karışımı) ekmeğine mahkumdu. Baharatlar, özellikle karabiber ve zencefil, o dönemde birer lüks tüketim maddesi olmanın ötesinde, bazen kira ödemelerinde veya borç takaslarında 'nakit para' yerine kullanılıyordu. Ortalama bir şehirli ailesinin temel gıdası olan 'pottage' (tencere yemeği), içine ne bulunursa (pırasa, yulaf, bakla) atılan ve günlerce kaynatılan yoğun bir çorbaydı. Et tüketimi, kilise takvimindeki 'balık günleri' (Cuma ve Cumartesi) nedeniyle haftalık olarak sınırlanıyor; bu da şehirlerdeki balık pazarlarının ve tuzlama teknolojisinin gelişmesini zorunlu kılıyordu. 1267 tarihli Londra Balıkçılar Nizamnamesi (Fishmongers Ordinance), taze balığın şehre giriş saatlerini ve fiyatlarını öyle sıkı düzenlemiştir ki, bayat balık satan esnafın mallarına el konulup halka ibret olsun diye yakılırdı. İçecek konusunda ise 'Small Ale' (hafif bira) günlük su ihtiyacının yerini alıyordu; çünkü su kaynakları genellikle deri işleme atölyeleri (tanneries) nedeniyle kirlenmişti. Sofralarda 'Trencher' adı verilen ve tabağa benzer şekilde oyulmuş sert bayat ekmekler kullanılır; yemeğin suyu bu ekmeğe geçer, yemek sonunda ise bu ekmekler ya yoksullara verilir ya da köpeklere atılırdı. Baharat piyasası o kadar değişkendi ki, 14. yüzyılda bir pound karabiber, bir koyunun fiyatına eşitti ve bu yüzden baharatlar kilitli 'spice box' (baharat kutuları) içinde saklanırdı. Şehirlerdeki 'Cookshops' (pişirme dükkanları), bugün bildiğimiz fast-food mekanlarının atasıydı; evinde fırını olmayan yoksul işçiler buradan sıcak 'pasty' (hamur işi) veya 'meat pie' alarak beslenirlerdi. Orta Çağ diyetinin temelini oluşturan 'Mizaç Teorisi' (Humoral Theory), meyvelerin çiğ yenmesini tehlikeli buluyor ve mutlaka pişirilerek 'soğuk' etkisinin kırılmasını emrediyordu. Şehirlerdeki ekmek kalitesi, 1266 tarihli 'Assize of Bread' ile öyle sıkı denetleniyordu ki, eksik tartı kullanan fırıncılar sokaklarda boyunlarına asılan ekmeklerle teşhir edilirdi. İçecek olarak tüketilen 'Ale' (hafif bira), bugünkü biralardan farklı olarak şerbetsiz (hopsız) üretiliyor ve günlük kalori ihtiyacının yarısını karşılıyordu. Zengin sofralarında 'Trenchers' adı verilen ve tabağa benzer şekilde oyulmuş sert bayat ekmekler kullanılır; yemeğin sosu bu ekmeğe geçer, yemek sonunda ise bu ekmekler ya yoksullara verilir ya da köpeklere atılırdı. Arkeolojik kazılar, Orta Çağ insanının beslenmesinde yaban havucu, skirret (şeker kökü) ve baklanın temel vitamin kaynakları olduğunu kanıtlamaktadır. 13. yüzyıl Paris'inde esnaf loncaları, üyelerinin evlerine giren etin tazeliğini 'Koku Denetçileri' (Meat Inspectors) aracılığıyla her sabah kontrol ederdi. Hıristiyan takvimindeki 150 günü aşan 'oruç ve perhiz' günleri, şehirlerin gıda lojistiğini kökten etkilemiş; bu dönemlerde sadece balık ve sebze tüketilmesine izin verilmesi, devasa tuzlu balık ambarlarının kurulmasına yol açmıştır. Baharat ticareti, sadece bir lezzet arayışı değil, aynı zamanda soyluların 'maddi gücünü' misafirlerine kanıtladığı bir prestij gösterisiydi. Ekmek nizamnameleri, fırıncıların kullandığı odunun türünden, hamurun yoğrulma süresine kadar her detayı belirleyerek şehirdeki yangın riskini ve gıda güvenliğini dengelemeye çalışırdı. 14. yüzyıl Londra'sında 'Cookshops' (pişirme dükkanları), bugün bildiğimiz fast-food mekanlarının en ilkel atasıydı; evinde fırını olmayan yoksul işçiler buradan sıcak 'pasty' (hamur işi) alarak beslenirdi. İçecek olarak tüketilen 'Ale', süzülmemiş ve yoğun kıvamlı olduğu için o dönemde sadece bir içecek değil, 'sıvı ekmek' olarak kabul edilen temel bir gıdaydı. Baharat kutuları (spice boxes), hırsızlığa karşı genellikle lordun yatak odasında kilitli tutulur; yemek vakti gelince bizzat kâhya tarafından mutfağa indirilirdi. Arkeobotanik veriler, Orta Çağ şehirlerinde fındık, ceviz ve kestane gibi yemişlerin, özellikle kış aylarında hayati bir yağ ve enerji kaynağı olduğunu göstermektedir.",
+      "accuracyNote": "Oyunlar ve filmler mutfağı her zaman kirli ve iştah kaçırıcı resmeder. Oysa Orta Çağ’da yemek hazırlamak büyük bir zanaattı. \"Tarihin ilk yemek kitapları\" (Le Viandier gibi) bu dönemde yazılmış ve karmaşık sos tarifleri içermiştir.",
+      "whyInteresting": "Orta Çağ’da çatal yaygın değildi; insanlar yemeği kaşıkla veya elleriyle yerlerdi. Ancak el yıkama, sofrada en önemli nezaket kuralıydı ve her büyük yemekten önce eller gül suyuyla yıkanırdı.",
+      "misconception": "Orta Çağ yemeğinin tatsız olduğu sanılır; oysa baharat kullanımı ve tatlı-tuzlu dengesi (meyveli et yemekleri gibi) o dönem mutfağının en karakteristik özelliğiydi.",
+      "themes": [
+        "Orta Çağ",
+        "Günlük Hayat",
+        "Mutfak"
+      ],
+      "readingTimeMinutes": 4,
+      "sources": [
+        {
+          "title": "Food in Medieval Europe - Britannica",
+          "url": "https://www.britannica.com/topic/food-preparation",
+          "type": "article"
+        },
+        {
+          "title": "Medieval Diet and Health - British Museum",
+          "url": "https://www.britishmuseum.org/blog/what-did-vikings-eat",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "roman-fast-food",
+        "ancient-roman-day",
+        "medieval-night-life"
+      ],
+      "nextTopics": [
+        "Baharat Yolu",
+        "Orta Çağ Mutfağı",
+        "Fast Food Tarihi"
+      ],
+      "difficulty": "medium",
+      "era": "Orta Çağ",
+      "region": "Avrupa",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "avrupa",
+        "gnlk-hayat",
+        "mutfak",
+        "orta-cag"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Günlük Hayat sahne diliyle konuyu yoğunlaştırır; kayıtlar ise aynı konuyu daha parçalı bir çerçevede anlatır.",
+      "whyItMatters": "Bu başlık, ancak el yıkama, sofrada en önemli nezaket kuralıydı ve her büyük yemekten önce eller gül suyuyla yıkanırdı fikrini medya anlatısından ayrı okumayı sağlar.",
+      "quickRealityCheck": "Orta Çağ yemeğinin tatsız olduğu denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": ""
+    },
+    {
+      "id": "pre-news-news",
+      "title": "Haberin Yolculuğu: Gazetelerden Önce Haber Nasıl Yayılırdı?",
+      "subtitle": "Fısıltılar, tüccarlar ve resmi tellallar: Bilginin antik hızı.",
+      "mediaType": "general",
+      "mediaTitle": "Günlük Hayat",
+      "mediaConnection": "Bu kart, kitle iletişim araçlarının olmadığı dönemlerde haberlerin nasıl ulaştığını inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (Britannica, UNESCO, British Library)",
+      "whatWeSee": "Filmlerde uzak bir savaşın haberi bir kasabaya ya çok geç ulaşır ya da bir atlı son sürat gelip bağırarak haberi verir.",
+      "realHistory": "Gazetelerin icadından önce haber akışı, Venedik merkezli 'Avvisi' adı verilen el yazması bültenlerle sağlanıyordu. Bu bültenler, tüccarlar ve diplomatlar için savaş haberlerini, gemi rotalarını ve piyasa fiyatlarını içeren son derece stratejik ve pahalı belgelerdi. Sıradan halk için haber kaynağı ise, belediyeler tarafından atanan ve meydanlarda davul çalarak fermanları okuyan 'Tellallar'dı (town criers). Tellalların okuduğu her haber 'resmi gerçek' kabul edilir, buna karşı çıkmak devlete karşı gelmek sayılırdı. 17. yüzyıl Londra ve İstanbul'unda kahvehanelerin açılmasıyla birlikte, haber akışı 'gayri resmi' bir boyuta taşınmış; buralar dedikoduların, siyasi eleştirilerin ve yeni fikirlerin tartışıldığı ilk 'bilgi borsaları' olmuştur. Haberin hızı, en hızlı atın veya geminin hızıyla sınırlıydı; bu da büyük olayların (bir kralın ölümü gibi) uzak eyaletlere ulaşmasının haftalar sürmesi anlamına geliyordu.\n\nOsmanlı’da \"Havadis\" kelimesi, aslında \"yeni olan şeyler\" anlamına gelirdi.\n\nyüzyılda açılmasıyla birlikte, haberin yayılma hızı ve tartışılma biçimi devrim niteliğinde değişmiş, buralar siyasi dedikodunun merkezi olmuştur.\n\nYaygın bir izlenim, Haberin eskiden \"hiç ulaşmadığı\" olduğudur; kayıtlar ise insanlar çevrelerindeki dünyayla son derece ilgiliydiler ve önemli haberler, bir şekilde (bazen aylar sürse de) her yere ulaşırdı.",
+      "accuracyNote": "Haberin hızı, yol güvenliğine ve mevsime bağlıydı. Örneğin, Roma döneminde kışın deniz yolculuğu durduğu için haberler aylar sürebilirdi. Ancak 15. yüzyıla gelindiğinde, ticaret ağları o kadar gelişmişti ki, büyük bir olayın haberi tüm Avrupa’ya birkaç hafta içinde yayılabiliyordu.",
+      "whyInteresting": "Osmanlı’da \"Havadis\" kelimesi, aslında \"yeni olan şeyler\" anlamına gelirdi. Kahvehanelerin 16. yüzyılda açılmasıyla birlikte, haberin yayılma hızı ve tartışılma biçimi devrim niteliğinde değişmiş, buralar siyasi dedikodunun merkezi olmuştur.",
+      "misconception": "Haberin eskiden \"hiç ulaşmadığı\" sanılır; oysa insanlar çevrelerindeki dünyayla son derece ilgiliydiler ve önemli haberler, bir şekilde (bazen aylar sürse de) her yere ulaşırdı.",
+      "themes": [
+        "İletişim",
+        "Günlük Hayat",
+        "Ticaret"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "Communication in History - Britannica",
+          "url": "https://www.britannica.com/topic/communication/History-of-communication",
+          "type": "article"
+        },
+        {
+          "title": "The Coffeehouse as a News Hub - UNESCO",
+          "url": "https://en.unesco.org/silkroad/content/coffeehouses-silk-road",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "aoe4-mongol-logistics",
+        "ancient-roman-day",
+        "medieval-night-life"
+      ],
+      "nextTopics": [
+        "Tellallar",
+        "Kervansaraylar",
+        "Matbaa"
+      ],
+      "difficulty": "medium",
+      "era": "Yeni Çağ",
+      "region": "Küresel",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "gnlk-hayat",
+        "iletiim",
+        "kresel",
+        "ticaret",
+        "yeni-a"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Günlük Hayat bu konuyu sahne diliyle yoğunlaştırır; haberin hızı, yol güvenliğine ve mevsime bağlıydı.",
+      "whyItMatters": "Haber, matbaadan önce de kahvehane ve mektup ağlarıyla şehirler arasında dolaşıyordu.",
+      "quickRealityCheck": "Haberin eskiden \"hiç ulaşmadığı\" denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "pre-clock-time",
+      "title": "Zamanın Ruhu: Saatlerden Önce Zaman Nasıl Yaşanırdı?",
+      "subtitle": "Doğa, ezan, çan ve görev odaklı bir dünya algısı.",
+      "mediaType": "general",
+      "mediaTitle": "Günlük Hayat",
+      "mediaConnection": "Bu kart, mekanik saatlerin icadından önce insanların zamanı nasıl ölçtüğünü ve algıladığını inceler.",
+      "verificationStatus": "verified",
+      "sourceQuality": "High (Royal Observatory Greenwich, Britannica, Science Museum)",
+      "whatWeSee": "Filmlerde karakterler \"saat 3’te buluşalım\" gibi kesin ifadeler kullanır veya her evde bir saat varmış gibi davranılır.",
+      "realHistory": "Mekanik saatlerin yaygınlaşmasından önce zaman, kilise kulelerinden duyulan 'Kanun Saatleri' (Matins, Vespers gibi) üzerinden bölünürdü. Bu sesli uyarılar, tarlalarda çalışan köylüler için sadece ibadet vakti değil, aynı zamanda mola ve çalışma değişim vaktiydi. İnsanların biyolojik ritmi bugünkünden çok farklıydı; 'Birinci Uyku' ve 'İkinci Uyku' (segmented sleep) adı verilen iki aşamalı bir uyku düzeni vardı. Güneş battıktan hemen sonra yatılır, gece yarısı uyanılıp 1-2 saat iş yapılır veya dua edilir, sonra sabaha kadar tekrar uyunurdu. Süreler genellikle 'bir babanın dua süresi' veya 'bir yumurta haşlama süresi' gibi pratik eylemlerle ölçülürdü. 17. yüzyılda sarkaçlı saatlerin (pendulum clock) icadı, zamanın hatasını günlük bir dakikaya düşürerek modern verimlilik ve navigasyon (boylam hesaplama) devrimini başlatmıştır.\n\nOrta Çağ'da insanlar 'iki aşamalı uyku' (segmented sleep) uyurlardı.\n\nYaygın bir izlenim, İnsanların eskiden hep \"geç kaldığı\" olduğudur; kayıtlar ise eskiden \"geç kalmak\" diye bir kavram yoktu, sadece \"vaktinde orada olmamak\" vardı çünkü ortak bir saat dilimi mevcut değildi.\n\nBu konu, mekanik saatlerin icadından önce insanların zamanı nasıl ölçtüğünü ve algıladığını inceler.",
+      "accuracyNote": "Filmlerde karakterlerin 'saat 4'te orada olacağım' demesi tarihsel olarak yanlıştır; çünkü sıradan bir insanın evinde veya cebinde saati göreceği hiçbir araç yoktu. Köy hayatında zamanı kilise çanları veya ezan sesleri belirlerdi; bu sesler sadece dini bir çağrı değil, aynı zamanda toplumun ortak 'zaman ayarı'ydı.",
+      "whyInteresting": "Orta Çağ'da insanlar 'iki aşamalı uyku' (segmented sleep) uyurlardı. Güneş battıktan sonra uyurlar, gece yarısı uyanıp 1-2 saat sohbet eder veya iş yaparlar, sonra güneş doğana kadar ikinci bir uykuya yatarlardı. Kesintisiz 8 saat uyku, modern dünyanın bir icadıdır.",
+      "misconception": "İnsanların eskiden hep \"geç kaldığı\" sanılır; oysa eskiden \"geç kalmak\" diye bir kavram yoktu, sadece \"vaktinde orada olmamak\" vardı çünkü ortak bir saat dilimi mevcut değildi.",
+      "themes": [
+        "Zaman",
+        "Günlük Hayat",
+        "Bilim"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "A History of Timekeeping - Royal Observatory",
+          "url": "https://www.rmg.co.uk/stories/topics/brief-history-timekeeping",
+          "type": "archive"
+        },
+        {
+          "title": "The Invention of the Mechanical Clock - Britannica",
+          "url": "https://www.britannica.com/technology/clock",
+          "type": "article"
+        }
+      ],
+      "relatedCardIds": [
+        "industrial-rev-daily-life",
+        "ancient-roman-day",
+        "medieval-night-life"
+      ],
+      "nextTopics": [
+        "Güneş Saatleri",
+        "Sanayi Devrimi",
+        "Biyolojik Saat"
+      ],
+      "difficulty": "deep",
+      "era": "Orta Çağ",
+      "region": "Küresel",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "bilim",
+        "gnlk-hayat",
+        "kresel",
+        "orta-cag",
+        "zaman"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Filmdeki anlatımlerde karakterlerin 'saat 4'te orada olacağım' demesi tarihsel olarak yanlıştır; çünkü sıradan bir insanın evinde veya cebinde saati göreceği hiçbir araç yoktu. Köy hayatında zamanı kilise çanları veya ezan sesleri belirlerdi; bu sesler sadece dini bir çağrı değil, aynı zamanda toplumun ortak 'zaman ayarı'ydı.",
+      "whyItMatters": "Güneş battıktan sonra uyurlar, gece yarısı uyanıp 1-2 saat sohbet eder veya iş yaparlar, sonra güneş doğana kadar ikinci bir uykuya yatarlardı.",
+      "quickRealityCheck": "İnsanların eskiden hep \"geç kaldığı\" denildiğinde, kayıtlar gerçekten aynı sonuca mı varıyor?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "locale": "tr",
+  "chunkIndex": 51,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-059-shrine-culture",
+      "title": "Tapınak Kültürü",
+      "subtitle": "Bir sahnenin sakladığı sistem",
+      "mediaType": "game",
+      "mediaTitle": "Ghost of Tsushima",
+      "era": "Orta Çağ",
+      "region": "Japonya",
+      "themes": [
+        "Samuray",
+        "İstila",
+        "Onur"
+      ],
+      "whatWeSee": "Ghost of Tsushima'da kutsal alanlar, savaşın ortasında sakinleşme ve yön bulma noktaları gibi sunulur; oyuncu ritüel, doğa ve kişisel kararlılık arasında bağ kurar. Bu atmosfer güçlüdür. Ancak 13. yüzyıl bağlamında bu mekanlar sadece manevi durak değildi; toprak geliri, yerel siyaset ve savaş meşruiyetiyle bağlı kurumsal merkezlerdi.",
+      "realHistory": "Kamakura döneminde Japonya'daki kutsal alan ve tapınak düzeni, dini işlev kadar ekonomik ve siyasi bir rol taşıyordu. Şinto ve Budist kurumların birçok bölgede iç içe çalışması, hem ritüel hem mülkiyet yönetimini aynı çatıya yaklaştırıyordu. Tsushima ve Kyushu hattı, Kore Boğazı'na yakınlığı nedeniyle hem askeri hem de dini seferberlik için kritik bir coğrafyaydı.\n\n1274 ve 1281 Moğol seferleri sırasında Hachiman gibi savaşla ilişkilendirilen kutsal figürlere yönelen dua ve adaklar arttı. Hakozaki Hachiman-gu gibi merkezler yalnız ibadet alanı değil, siyasi dayanışma ve meşruiyet üretim alanıydı. Saray, savaşçı elitler ve yerel topluluklar bu kurumlara bağış yaparak hem dini destek hem kamusal görünürlük sağladı. Tapınaklar aynı zamanda yazı üretimi, emanet kaydı, arazi yönetimi ve topluluk düzeni için idari işlevler yürütüyordu.\n\nBu yüzden tapınak kültürü, sadece ruhani bir dekor değildir. Orta Çağ Japonya'sında savaş, vergi, yerel bağlılık ve kültürel kimliğin kesiştiği bir kurumlar ağıdır. Oyun bunu estetik bir yoğunlukla hissettirir; tarihsel okuma ise estetiğin arkasındaki maddi ve siyasi işleyişi tamamlar. Ayrıca savaş dönemlerinde bu kurumlar, felaket ve ölüm karşısında topluluk hafızasını düzenleyen ritüel merkezler olarak işlev gördü. Yas, adak ve anma pratikleri toplumsal dayanışmayı güçlendirirken siyasi elitlere de meşruiyet dili sundu. Bu çift yönlü rol, tapınak kültürünü yalnız inanç alanı olmaktan çıkarıp kamusal düzenin parçası haline getirdi.",
+      "accuracyNote": "Oyun görsel atmosferde güçlü ve saygılıdır. Ancak kurumsal ekonomi ve idari işlevler, oynanış akışı için doğal olarak sadeleştirilmiştir.",
+      "whyInteresting": "Sessiz bir kutsal alanın, savaş meşruiyeti ve yerel siyaset için aktif merkez olması tarihsel açıdan şaşırtıcıdır.",
+      "misconception": "Orta Çağ Japon tapınaklarının yalnızca ibadet mekanı olduğu sanılır. Oysa birçoğu kayıt, mülkiyet ve topluluk düzeni açısından etkili kurumdu.",
+      "nextTopics": [
+        "Moğol İstilası",
+        "Kamikaze Rüzgarı",
+        "Samuray Kodu"
+      ],
+      "sources": [
+        {
+          "title": "Mongol invasions of Japan (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/event/Mongol-invasions-of-Japan",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Shinto shrine (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/topic/Shinto-shrine",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Fukuoka City Museum Collections",
+          "url": "https://museum.city.fukuoka.jp/en/",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-060-clan-loyalty",
+        "ghost-samurai-reality",
+        "tf26-058-peasants-war"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Ghost of Tsushima'daki tapınak rotaları, Kamakura dönemindeki kutsal kurumların kamusal rolüyle birlikte daha doğru anlaşılır.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "samuray",
+        "japonya",
+        "tsushima",
+        "tapinak-kulturu",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun kutsal mekanları daha çok bireysel iç yolculuk alanına dönüştürür. Gerçekte bu kurumlar savaş dönemi meşruiyeti ve yerel ekonomiyle birlikte çalışıyordu.",
+      "whyItMatters": "Sessiz bir kutsal alanın, savaş meşruiyeti ve yerel siyaset için aktif merkez olması tarihsel açıdan şaşırtıcıdır.",
+      "isFlagship": false,
+      "quickRealityCheck": "Moğol seferleri sırasında Hachiman kültüne yapılan adaklar neden siyasi bir mesaj da taşıyordu?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-060-clan-loyalty",
+      "title": "Klan Sadakati",
+      "subtitle": "Klan sadakati: onur mu, hayatta kalma mı?",
+      "mediaType": "game",
+      "mediaTitle": "Ghost of Tsushima",
+      "era": "Orta Çağ",
+      "region": "Japonya",
+      "themes": [
+        "Samuray",
+        "İstila",
+        "Onur"
+      ],
+      "whatWeSee": "Ghost of Tsushima'da Jin Sakai, samuray onuru ile adanın kurtuluşu arasında seçim yapar. Klan sadakati, aile ve lord bağları oyunun ahlaki eksenidir. Oyuncu klan liderine diz çöken savaşçıları, aile bağlarını güçlendiren törenleri ve sadakat bozulduğunda hızla değişen ittifak çizgilerini aynı hikayede izliyor.",
+      "realHistory": "1274 ve 1281 Moğol istilalarında Tsushima adası ön cepheydi. Samuray klanları (bushi) feodal sadakat (bushido teamülü) ile savaştı; ama gerçekte taktik esneklik de gerekti. Jin'in 'hayalet' yöntemleri kurgusaldır; tarihsel olarak ada ağır kayıp verdi. Klan yapısı toprak, soy ve lord hizmetine dayanıyordu. Japonya sonunda kamikaze fırtınası ve su savunmasıyla Moğol'u geri püskürttü. Ghost oyunu onur dramını kişiselleştirir; arşivler (Azuma Kagami vb.) klan seferberliğini belgeler. 13. yüzyıl Japonya'sında klan sadakati, kişisel bağlılık yemini ile toprak gelirinin karşılıklı güvencesi üzerine kuruluydu. Savaşçı elitler efendilerine asker sağlayarak statü kazanırken, merkezden uzak bölgelerde yerel çıkarlar sadakat çizgisini sık sık zorladı. Moğol istilası tehdidi, bazı klanları ortak savunmada birleştirse de ganimet ve ödül paylaşımı sonrasında gerilimler derinleşti. Aile evlilikleri, rehin uygulamaları ve tapınak bağışları bu bağları pekiştiren siyasi araçlar olarak kullanıldı. Sadakat, romantik bir onur söyleminden ziyade değişen güç dengelerine uyum sağlayan pragmatik bir sözleşmeydi. Klan Sadakati 1274 ve 1281 Moğol istilalarında Tsushima adası ön cepheydi. Kamakura düzeninde klan sadakati yalnız savaş meydanında değil mahkeme kararları ve arazi ihtilaflarında da sınanırdı. Lorddan alınan yazılı berat gelir hakkını güvenceye bağlarken askeri hizmet yükümlülüğü doğururdu. Ödül paylaşımı adaletsizleştiğinde eski ittifaklar çözülüp yeni bağlılık blokları ortaya çıkabiliyordu.",
+      "accuracyNote": "İstila tarihleri akademik kaynaklarla uyumludur; Jin kurgusaldır.",
+      "whyInteresting": "Aynı sadakat hem güç hem katılık kaynağıydı.",
+      "misconception": "Samuray yalnızca onurlu düello savaştı; ada savunması farklı taktikler gerektirdi.",
+      "nextTopics": [
+        "Moğol İstilası",
+        "Kamikaze Rüzgarı",
+        "Samuray Kodu"
+      ],
+      "sources": [
+        {
+          "title": "Mongol invasions of Japan (Britannica)",
+          "url": "https://www.britannica.com/event/Mongol-invasions-of-Japan",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Tsushima history (Japan National Tourism)",
+          "url": "https://www.japan.travel/en/destinations/kyushu/nagasaki/tsushima/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Samurai (Britannica)",
+          "url": "https://www.britannica.com/topic/samurai",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "ghost-onna-musha",
+        "tf26-052-kamikaze"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Ghost of Tsushima'nın Jin-lord sadakat çizgisi ile 1274 Moğol istilası ve Tsushima savunması.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "samuray",
+        "japonya",
+        "tsushima",
+        "klan-sadakati",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun sadakati ahlaki seçim yapar; gerçekte hayatta kalma ve merkez desteği belirleyiciydi.",
+      "whyItMatters": "Aynı sadakat hem güç hem katılık kaynağıydı.",
+      "isFlagship": true,
+      "quickRealityCheck": "Tsushima neden Moğol istilasının ilk hedeflerinden biriydi?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-061-daimyo-politics",
+      "title": "Daimyo Siyaseti",
+      "subtitle": "Daimyo Siyaseti: görünenden fazlası",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Erken Modern",
+      "region": "Japonya",
+      "themes": [
+        "Siyaset",
+        "Ticaret",
+        "Din"
+      ],
+      "whatWeSee": "Shogun'da daimyo siyaseti, açık meydan savaşından çok kapalı müzakereler, evlilik ittifakları, liman pazarlıkları ve rehin ilişkileri üzerinden ilerler. Karakterler çoğu zaman doğrudan çatışmadan kaçınıp güç dengesini masa başında değiştirir. Dizi, feodal Japonya'da sadakatin kişisel duygudan çok stratejik zorunlulukla kurulduğunu vurgular; bir kararın etkisi haneden limana kadar yayılır.",
+      "realHistory": "16. yüzyıl sonu ile 17. yüzyıl başı Japonya'sında daimyo siyaseti, parçalı askeri güçlerin merkezi düzen arayışıyla yeniden şekillendi. Sengoku dönemi boyunca bölgesel beyler kendi kaleleri, vergi düzenleri ve askeri ağlarıyla yarı bağımsız hareket etti. Oda Nobunaga ve Toyotomi Hideyoshi'nin birleştirme hamleleri, bu özerk yapıları tamamen ortadan kaldırmasa da yeni bir hiyerarşi zemini oluşturdu.\n\nTokugawa Ieyasu'nun yükselişiyle birlikte siyasetin merkezi, sadece savaş meydanı değil, kontrol edilen sadakat mekanizmaları oldu. Rehin uygulamaları, evlilik bağları, toprak yeniden dağıtımı ve ticaret limanlarının denetimi daimyo gücünü sınırlamak için kullanıldı. Dış ticaret ve misyoner faaliyetleri de bu denklemin parçasıydı; bazı beyler yabancı silah ve ticaret avantajı ararken, merkez bu bağlantıları siyasi risk olarak izledi.\n\nShogun bu yapıyı kişisel entrika üzerinden anlatır. Tarihsel düzeyde ise daimyo siyaseti, hanedan çıkarı, gelir tabanı, asker toplama kapasitesi ve merkezi denetimin birbirine bağlı olduğu bir yönetim mühendisliğidir. Bu nedenle kararlar yalnızca \"kime güvenildiği\" ile değil, hangi ağın vergi, liman ve askeri hareketi kontrol ettiğine göre belirlenirdi.\n\nKale kentlerinin büyümesi, yol ağlarının denetlenmesi ve resmi statü hiyerarşisi de bu politikanın kurumsal ayağını güçlendirdi. Böylece daimyo rekabeti bütünüyle bitmese de, çatışma daha sık biçimde merkezi kurallarla çerçevelenen bir pazarlık düzenine taşındı. Bu çerçeve, Edo döneminin görece istikrarına altyapı hazırladı.",
+      "accuracyNote": "İttifak ve rehinlik temaları tarihsel zemine uygundur; dramatik kurgu farklı dönem uygulamalarını tek zaman çizgisinde yoğunlaştırır.",
+      "whyInteresting": "Savaşçı elitin dünyasında bile en kalıcı güç, çoğu zaman görünmez bürokratik ve ekonomik araçlarla kurulur.",
+      "misconception": "Daimyo siyasetinin tamamen onur koduyla yürüdüğü düşünülür; oysa mali kaynaklar, ticaret erişimi ve idari kontrol en az onur kadar belirleyicidir.",
+      "nextTopics": [
+        "Yabancı Denizciler",
+        "Cizvit Misyonları",
+        "Rehine Düzeni"
+      ],
+      "sources": [
+        {
+          "title": "Daimyo - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/daimyo"
+        },
+        {
+          "title": "Tokugawa period - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/event/Tokugawa-period"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-062-foreign-pilots",
+        "tf26-063-jesuit-missions",
+        "tf26-064-hostage-system"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Kart, Shogun'daki müzakere ve rehin anlatısını Sengoku sonrası merkezi denetim politikalarıyla birlikte okur.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japonya",
+        "tokugawa",
+        "daimyo-siyaseti",
+        "true-frame",
+        "samuray"
+      ],
+      "spoilerNote": "Shogun hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi politikayı bireyler arası psikolojik gerilimle taşır; tarihsel modelde belirleyici olan unsur kurumsal denetim araçları ve gelir-temelli güç dağılımıdır.",
+      "whyItMatters": "Savaşçı elitin dünyasında bile en kalıcı güç, çoğu zaman görünmez bürokratik ve ekonomik araçlarla kurulur.",
+      "isFlagship": false,
+      "quickRealityCheck": "Feodal Japonya'da güç sadece kılıçla mı kazanıldı, yoksa liman, vergi ve rehin sistemi gibi idari araçlarla mı kalıcılaştı?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-062-foreign-pilots",
+      "title": "Yabancı Denizciler",
+      "subtitle": "Yabancı denizci: harita, silah, din",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Erken Modern",
+      "region": "Japonya",
+      "themes": [
+        "Siyaset",
+        "Ticaret",
+        "Din"
+      ],
+      "whatWeSee": "Shogun'da İngiliz pilot Blackthorne, Portekiz tüccarları ve limanda çeviri kavgalarıyla Japonya'ya düşer. Yabancı denizci harita, top ve Hristiyanlık getirir; dizi kültür çarpışmasını hızlandırır. Kamera limana yanaşan yabancı gemiyi, Japon görevlilerle yapılan gergin pazarlığı ve harita masasında rota tartışan denizcileri detaylı biçimde gösteriyor.",
+      "realHistory": "16.-17. yüzyılda Nanban (güney barbar) ticareti Portekiz, İspanya ve Hollanda gemilerini Japonya'ya getirdi. Tüccarlar gümüş, ateşli silah (matchlock) ve Hristiyan misyonerler taşıdı. İngiliz ve Hollanda Doğu Hindistan şirketleri harita ve top bilgisiyle rekabet etti. William Adams (Japonya'da Anjin Miura) gerçek İngiliz denizcidir; Blackthorne ondan esinlenir. Yabancılar liman daimyo'ları arasında siyasi koz oldu; merkez shogun gücü zamanla kısıtladı. 1630'larda Hristiyanlık yasaklandı; yabancılar Nagasaki ile sınırlandı. Shogun dizisi bu süreci kişisel maceraya indirger; tarihsel kayıtlar ticaret, silah ve dinin birlikte geldiğini gösterir. 16. ve 17. yüzyıl Japon limanlarında beliren yabancı denizciler, yalnız ticari mal değil harita bilgisi, top teknolojisi ve dini etkiler taşıdı. Portekizli ve ardından Hollandalı pilotlar, muson rotaları ve okyanus seyrüseferinde yerel yöneticiler için stratejik kaynak haline geldi. Tokugawa yönetimi bu teması tamamen kesmek yerine lisanslı limanlar ve aracı tüccarlar üzerinden denetlemeyi seçti. Böylece dış bilgi kontrollü biçimde içeri alınırken siyasi istikrar korunmaya çalışıldı. Yabancı gemiciler, Japonya'nın erken modern dönemde seçici açıklık politikasının görünür yüzlerinden biriydi. Yabancı Denizciler 16.-17. Japon liman idareleri yabancı pilotları tercümanlar ve lisanslı aracılar üzerinden denetleyerek bilgi akışını kayıt altına aldı. Rüzgâr rejimleri, derinlik ölçüleri ve top menzili gibi teknik veriler yerel denizcilik el kitaplarına işlendi. Böylece dış temas, kontrollü bir öğrenme altyapısına dönüştü.",
+      "accuracyNote": "Nanban ticareti ve Adams Britannica/NHK kaynaklarıyla uyumludur; Blackthorne kurgusaldır.",
+      "whyInteresting": "Aynı liman hem ticaret hem din savaşının sahnesiydi.",
+      "misconception": "Yabancılar Japonya'yı tek başına değiştirdi; daimyo ve shogun seçim yaptı.",
+      "nextTopics": [
+        "Daimyo Siyaseti",
+        "Cizvit Misyonları",
+        "Rehine Düzeni"
+      ],
+      "sources": [
+        {
+          "title": "Nanban trade (Britannica)",
+          "url": "https://www.britannica.com/topic/Nanban-trade",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "William Adams (Britannica)",
+          "url": "https://www.britannica.com/biography/William-Adams",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Firearms in Japan (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Matchlock/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-068-port-trade",
+        "tf26-064-hostage-system"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Shogun'un Blackthorne liman sahneleri ile Nanban ticareti ve William Adams kayıtları.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japonya",
+        "tokugawa",
+        "yabanci-denizciler",
+        "true-frame",
+        "samuray"
+      ],
+      "spoilerNote": "Shogun hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi dil öğrenimini hızlandırır; gerçekte yabancılar yıllarca liman siyasetinde piyondu.",
+      "whyItMatters": "Aynı liman hem ticaret hem din savaşının sahnesiydi.",
+      "isFlagship": false,
+      "quickRealityCheck": "Nanban ticareti hangi teknolojiyi Japon ordusuna taşıdı?",
+      "lastReviewedAt": "2026-06-25"
+    }
+  ]
+}

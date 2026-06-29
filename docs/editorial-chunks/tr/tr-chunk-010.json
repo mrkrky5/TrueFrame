@@ -1,0 +1,305 @@
+{
+  "locale": "tr",
+  "chunkIndex": 10,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "kingdom-of-heaven-crusades",
+      "title": "Haçlı Seferleri: Kudüs’ün Düşüşü",
+      "subtitle": "Din, siyaset ve Selahaddin’in adaleti.",
+      "mediaType": "film",
+      "mediaTitle": "Kingdom of Heaven",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Haçlı Seferleri",
+        "Orta Doğu",
+        "Şövalyelik"
+      ],
+      "whatWeSee": "Filmde Kudüs’ün savunulması, Selahaddin Eyyubi ile Balian arasındaki müzakereler ve Haçlı ordularının iç çekişmeleri işlenir.",
+      "realHistory": "Hittin Savaşı (1187), Haçlı ordularının susuzluk ve taktiksel hatalar nedeniyle Selahaddin karşısında tamamen yok edildiği andır. Kudüs'ün düşüşü, Avrupa'da şok etkisi yaratmış ve 3. Haçlı Seferi'ni tetiklemiştir. Selahaddin Eyyubi'nin şehri aldığında Hristiyan halka gösterdiği merhamet, 1099'daki Haçlı katliamıyla zıtlık oluşturur ve İslam savaş ahlakının en önemli örneği kabul edilir. Bu dönemde kurulan Tapınak Şövalyeleri ve Hospitalier gibi askeri tarikatlar, Haçlı devletlerinin savunmasında ve finansal sistemin gelişiminde kritik rol oynamışlardır.\n\nTapınak Şövalyeleri kale inşaatı ve finansla Haçlı devletlerini ayakta tuttu. Hittin yenilgisi Üçüncü Haçlı Seferi'ni tetikledi.\n\n1099 Kudüs fethinde Hristiyan orduları şehirde büyük katliam yapmış; 1187'de Selahaddin ise Hristiyan ve Musevi halka güvenli geçiş izni vermiştir. Tapınak Şövalyeleri ve Hospitalier tarikatları kale inşaatı, lojistik ve bankacılık işlevleriyle Haçlı devletlerinin omurgasını oluşturdu. Hittin yenilgisi Kudüs'ün düşüşü ve Üçüncü Haçlı Seferi'nin tetiklenmesiyle sonuçlandı.\n\nHaçlı devletleri ticaret limanları ve vergi gelirleriyle ayakta kaldı. Director's Cut versiyonu tarihsel detay ve karakter motivasyonları açısından öne çıkar.\n\nHaçlı devletleri ticaret gelirleri ve liman kontrolüyle ayakta kaldı; askeri tarikatlar bu ekonominin koruyucusuydu.\n\nHaçlı Seferleri’nin sadece dini bir savaş olduğu sanılır; oysa kayıtlara göre toprak kazanma, ticaret yollarını kontrol etme ve Avrupa’daki feodal baskıdan kaçma gibi nedenler de çok güçlüdür.",
+      "accuracyNote": "Filmin yönetmen kurgusu (Director’s Cut), tarihsel detaylar ve karakter motivasyonları açısından sinema tarihinin en başarılı örneklerinden biridir.",
+      "whyInteresting": "Selahaddin Eyyubi, sadece İslam dünyasında değil, Hristiyan dünyasında da şövalyelik ve adalet sembolü olarak saygı görmüştür.",
+      "misconception": "Haçlı Seferleri’nin sadece dini bir savaş olduğu sanılır; oysa toprak kazanma, ticaret yollarını kontrol etme ve Avrupa’daki feodal baskıdan kaçma gibi nedenler de çok güçlüdür.",
+      "nextTopics": [
+        "Selahaddin Eyyubi",
+        "Hittin Muharebesi",
+        "Tapınak Şövalyeleri"
+      ],
+      "sources": [
+        {
+          "title": "Saladin (Britannica)",
+          "url": "https://www.britannica.com/biography/Saladin",
+          "type": "official"
+        },
+        {
+          "title": "The Crusades (The Metropolitan Museum of Art)",
+          "url": "https://www.metmuseum.org/toah/hd/crus/hd_crus.htm",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [
+        "crusader-states-daily"
+      ],
+      "reviewerNote": "Selahaddin’in adaleti ve haçlı motivasyonları Britannica ve MET verileriyle doğrulandı.",
+      "mediaConnection": "Bu kart, Kingdom of Heaven (2005) yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "hacli-seferleri",
+        "kingdom-of-heaven-2",
+        "orta-dogu",
+        "sovalyelik"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Filmde Balian bir demirci olarak başlar; gerçekte o bir asilzade ve deneyimli bir komutandı. Ayrıca Selahaddin ile olan ilişkisi drama için daha kişisel hale getirilmiştir.",
+      "whyItMatters": "Selahaddin Eyyubi, sadece İslam dünyasında değil, Hristiyan dünyasında da şövalyelik ve adalet sembolü olarak saygı görmüştür.",
+      "quickRealityCheck": "Yüksek Doğruluk. 1187 yılında Kudüs'ün Selahaddin Eyyubi tarafından geri alınması ve Hittin Savaşı, tarihsel kayıtlara çok uygundur.",
+      "spoilerNote": "Kingdom of Heaven hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "rome-series-spectacle",
+      "title": "Ekmek ve Sirk: Roma’da Halkı Eğlemek",
+      "subtitle": "Aç bir halkı sakin tutmanın formülü.",
+      "mediaType": "series",
+      "mediaTitle": "Rome",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Siyaset",
+        "Eğlence",
+        "Roma Tarihi"
+      ],
+      "whatWeSee": "Dizide, Roma sokaklarındaki sefalet ve imparatorların halkın desteğini almak için düzenlediği devasa gladyatör dövüşleri ve yemek dağıtımları görülür.",
+      "realHistory": "Romalı yöneticiler, halkın karnını 'Annona' (bedava buğday) ile doyururken, zihinlerini de devasa arenalarda meşgul tutuyorlardı. Chariot yarışları (at arabası yarışları), Circus Maximus'ta 200.000 kişiyi bir araya getiren ve bugünkü fanatizmle yarışan bir tutkuydu. Mavi, Yeşil, Kırmızı ve Beyaz takımlar sadece birer spor ekibi değil, siyasi birer grup gibiydi. Bu devasa organizasyonlar, Roma toplumunun her kesimini bir araya getirerek 'Romalı olma' hissini pekiştiriyordu. Spectacula, aslında bir devletin kendi vatandaşlarını pasifize etme ve kontrol etme sanatının zirvesidir.\n\nMavi, yeşil, kırmızı ve beyaz takımlar siyasi gruplar gibiydi. Bütçenin önemli payı tahıl ve oyunlara gidiyordu.\n\nCircus Maximus'ta mavi, yeşil, kırmızı ve beyaz takımlar milyonlarca taraftar topluyordu; yarışlar siyasi ittifakların sahneye taşındığı alanlardı. Annona sistemi bedava buğday dağıtarak başkentin açlık isyanlarını önlemeyi hedefliyordu. Gladyatör dövüşleri dini ritüellerle başlamış, zamanla siyasi propaganda aracına dönüşmüştür. İmparatorluk bütçesinin önemli payı tahıl ve oyunlara ayrılıyordu.\n\nRome dizisi arka sokak pisliğini ve rüşvet mekanizmasını yansıtır. Chariot yarışları Circus Maximus'ta yüz binlerce seyirciyi bir araya getirirdi.\n\nİmparatorlar oyunlarla halkın siyasi hafızasını yönlendirir; bedava tahıl dağıtımıyla birlikte sunulurdu.\n\nGladyatör dövüşlerinin sadece vahşet için yapıldığı olduğu sanılır; oysa kayıtlara göre bu dövüşler dini ritüellerle başlamış ve zamanla bir siyasi propaganda aracına dönüşmüştür.",
+      "accuracyNote": "Rome dizisi, Roma’nın sadece beyaz mermerlerden ibaret olmadığını, arka sokaklardaki pisliği ve bu siyasi rüşvet mekanizmasını çok iyi yansıtır.",
+      "whyInteresting": "Roma İmparatorluğu’nda bazı dönemlerde bütçenin %15-20’si sadece bedava tahıl dağıtımı ve halk oyunları için harcanıyordu.",
+      "misconception": "Gladyatör dövüşlerinin sadece vahşet için yapıldığı sanılır; oysa bu dövüşler dini ritüellerle başlamış ve zamanla bir siyasi propaganda aracına dönüşmüştür.",
+      "nextTopics": [
+        "Gladyatörler",
+        "Kolezyum",
+        "Roma Siyaseti"
+      ],
+      "sources": [
+        {
+          "title": "Bread and Circuses (Britannica)",
+          "url": "https://www.britannica.com/topic/bread-and-circuses",
+          "type": "official"
+        },
+        {
+          "title": "Life in Ancient Rome (The Metropolitan Museum of Art)",
+          "url": "https://www.metmuseum.org/toah/hd/prome/hd_prome.htm",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [
+        "rome-patronage-mobs"
+      ],
+      "reviewerNote": "Siyasi kavramlar Britannica ile doğrulandı.",
+      "mediaConnection": "Bu kart, Rome (HBO) yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "ancient-rome",
+        "eglence",
+        "roma-tarihi",
+        "siyaset"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Genellikle sadece kanlı dövüşler gösterilir. Gerçekte bu gösteriler arasında tiyatrolar, mim gösterileri, dini ritüeller ve bedava ziyafetler de vardı; yani çok daha kapsamlı bir 'eğlence festivali' niteliğindeydi.",
+      "whyItMatters": "Roma İmparatorluğu’nda bazı dönemlerde bütçenin %15-20’si sadece bedava tahıl dağıtımı ve halk oyunları için harcanıyordu.",
+      "quickRealityCheck": "Gerçek. Roma'da halkı eğlendirmek (Spectacula), siyasi meşruiyet kazanmanın ve toplumsal barışı korumanın birincil yoluydu.",
+      "spoilerNote": "Rome hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "the-crown-monarchy",
+      "title": "Modern Monarşi ve Siyasi Sembolizm",
+      "subtitle": "Tahtın ardındaki anayasal gerçekler.",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "difficulty": "medium",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Siyaset",
+        "İngiltere",
+        "Modern Tarih"
+      ],
+      "whatWeSee": "Dizide, Kraliçe II. Elizabeth’in tahta geçişi ve siyasi olaylar karşısındaki tarafsız kalma mücadelesi işlenir.",
+      "realHistory": "yüzyılın ortalarında İngiliz monarşisi, imparatorluğun çöküşü ve modern dünyanın yükselişi arasında hayatta kalma mücadelesi veren antik bir kurumdur. Elizabeth'in 1952'de tahta çıkması, sadece bir hükümdar değişimi değil, monarşinin 'kamusal bir sembol' olarak yeniden icat edildiği bir dönemin başlangıcıdır. Monarşi, siyasi gücünü kaybetmiş olsa da, toplumsal bir tutkal ve ulusal kimliğin sarsılmaz bir parçası olarak varlığını sürdürmüştür. Bu süreçte televizyonun ve medyanın gücü, monarşinin gizemini hem korumuş hem de onu halkın gözünde daha ulaşılabilir kılmıştır. 1953 yılındaki taç giyme töreni, dünya tarihinde bir dönüm noktasıdır. Başbakan Winston Churchill'in itirazlarına rağmen törenin televizyondan canlı yayınlanması, monarşinin halkla olan ilişkisini sonsuza dek değiştirmiştir. Milyonlarca insan ilk kez bir hükümdarın kutsal yağla kutsanmasına ve tacın takılmasına şahitlik etmiştir. Bu olay, televizyon satışlarını patlatmış ve 'medya monarşisi' kavramını yaratmıştır. Taç, artık sadece saray duvarları ardında değil, her evin oturma odasındaydı. Bu şeffaflık hamlesi, monarşiyi modern dünyaya entegre eden en büyük stratejik adımdır. Elizabeth dönemi, İngiliz İmparatorluğu'nun (British Empire) dağılıp yerine İngiliz Milletler Topluluğu'nun (Commonwealth) geçtiği sancılı bir süreçtir. Hindistan'ın bağımsızlığı ve ardından Afrika ile Karayipler'deki sömürge karşıtı hareketler, İngiltere'nin küresel rolünü yeniden tanımlamasını zorunlu kılmıştır. Kraliçe, bu yeni yapının başı olarak, eski sömürgelerle dostane bir bağ kurmayı başarmış ve monarşiyi bir 'diplomatik güç' unsuru olarak kullanmıştır. Commonwealth, monarşinin 'emperyal' geçmişini 'küresel bir aile' vizyonuyla temizleme çabasıydı. Bu, tarihin en başarılı siyasi dönüşüm operasyonlarından biridir. Modern monarşinin en temel kuralı 'siyasi tarafsızlık'tır. Hükümdar, parlamentonun kararlarını onaylar ancak siyasi tartışmalara katılmaz. Bu durum, Kraliçe'yi siyasi fırtınaların üzerinde tutarak kurumun kalıcılığını sağlar. Ancak bu tarafsızlık, hükümdarın hiçbir etkisi olmadığı anlamına gelmez; Başbakan ile yapılan haftalık görüşmelerde kraliçenin 'uyarma, teşvik etme ve danışılma' hakkı vardır. Bu gizli görüşmeler, İngiliz anayasal sisteminin en gizemli ve etkili çarklarından biridir. The Crown dizisindeki siyasi gerilimler, bu sessiz ama etkili gücün tarihsel bir canlandırmasıdır. 1990'lar, monarşinin modern çağdaki en büyük sınavıdır. Prens Charles ve Prenses Diana'nın boşanması, saray yangınları ve Kraliçe'nin 1992 yılını 'Annus Horribilis' (Korkunç Yıl) olarak tanımlaması, kurumun popülaritesini dibe çekmiştir. Medyanın artık monarşinin gizemine saygı duymaması ve özel hayatları deşifre etmesi, 'saray protokolü' ile 'modern gerçeklik' arasında büyük bir uçurum yaratmıştır. Diana'nın ölümü sonrası yaşanan sessizlik, monarşinin halkın duygularından ne kadar kopuk olabileceğine dair sert bir uyarı olmuştur. Bu kriz, monarşiyi daha insani ve daha empatik bir yapıya bürünmeye zorlamıştır. Buckingham Sarayı'ndaki yaşam, yüzyıllardır değişmeyen katı bir protokole dayanır. Kimin kiminle konuşacağı, odalara giriş sırası ve hatta giyilecek kıyafetler bile ince ince hesaplanmıştır. Bu 'görünmez kurallar', monarşinin ciddiyetini ve tarihsel.",
+      "accuracyNote": "Dizi, tarihi olayların kronolojisini ve saray protokollerini büyük oranda doğru yansıtır; ancak diyaloglar ve aile fertlerinin psikolojik durumları tamamen kurgusaldır. Saray buraları 'hayal ürünü drama' olarak nitelendirmiştir.",
+      "whyInteresting": "Kraliçe II. Elizabeth, İngiltere'deki tüm pasaportların ve sürücü belgelerinin teknik sahibi olduğu için, kendisinin pasaportu veya ehliyeti yoktu. Ayrıca 'Vatanın Anası' rolüyle, siyasi çatışmaların üzerinde bir hakem gibi görülürdü.",
+      "misconception": "İngiliz monarşisinin tamamen gereksiz olduğu sanılır; oysa ülke için birleştirici bir sembol ve diplomatik bir güç alanı oluşturur.",
+      "nextTopics": [
+        "İngiliz Anayasası",
+        "II. Elizabeth",
+        "Commonwealth"
+      ],
+      "sources": [
+        {
+          "title": "The Monarchy (Official UK Royal Website)",
+          "url": "https://www.royal.uk/role-monarchy",
+          "type": "official"
+        },
+        {
+          "title": "Constitutional Monarchy (Britannica)",
+          "url": "https://www.britannica.com/topic/constitutional-monarchy",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "crown-monarchy-symbol",
+        "crown-tv-coronation-1953",
+        "crown-commonwealth-empire"
+      ],
+      "reviewerNote": "Resmi kraliyet kayıtları ve Britannica verileri kullanıldı.",
+      "mediaConnection": "Bu kart, The Crown yapımındaki tarihsel anlatıdan yola çıkar.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "ingiltere",
+        "modern-tarih",
+        "siyaset",
+        "the-crown"
+      ],
+      "spoilerNote": "The Crown hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizide aile üyeleri arasındaki çatışmalar reyting için daha 'agresif' ve sürekli hale getirilmiştir. Gerçekte monarşi, krizleri kapalı kapılar ardında ve çok daha sessiz bir şekilde yönetme eğilimindedir. Ayrıca bazı Başbakan görüşmeleri kurgusaldır.",
+      "whyItMatters": "Elizabeth, İngiltere'deki tüm pasaportların ve sürücü belgelerinin teknik sahibi olduğu için, kendisinin pasaportu veya ehliyeti yoktu.",
+      "isFlagship": true,
+      "quickRealityCheck": "Modern Britanya monarşisi karar vermez gibi görünse de temsil gücü üzerinden siyasal iklimi etkiler.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "pirate-maps-myth",
+      "title": "Korsan Haritaları ve Gömülü Hazineler",
+      "subtitle": "X işareti gerçekten hazineyi mi gösteriyordu?",
+      "mediaType": "general",
+      "mediaTitle": "Popüler Kültür Yanılgıları",
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Korsanlar",
+        "Denizcilik",
+        "Mitoloji"
+      ],
+      "whatWeSee": "Defne Adası gibi kitaplarda ve Karayip Korsanları gibi filmlerde, korsanların hazinelerini gömüp gizemli haritalar bıraktığı görülür.",
+      "realHistory": "Korsanların çoğu, donanmadan kaçmış veya işsiz kalmış denizcilerdi. Onların asıl hazinesi altın değil; gemi ekipmanları, yiyecek, içki ve ilaç gibi temel ihtiyaçlardı. Gemilerinde katı bir demokratik sistem (Korsan Kodu) uygularlardı; kaptan sadece savaş anında tam yetkiliydi ve ganimet eşit paylaştırılırdı. Kaptan Kidd gibi sadece birkaç örneğin hazine gömdüğü bilinmektedir; o da parayı saklamak için değil, mahkemede pazarlık kozu olarak kullanmak için yapmıştır. Korsanlık, aslında deniz ticaretinin düzensiz ve devlet otoritesinin zayıf olduğu bölgelerde doğan bir ekonomik hayatta kalma biçimiydi.\n\nYaygın bir izlenim, Korsanların sürekli hazine gömdüğü olduğudur; kayıtlar ise bir korsan gemisi bir demokrasi gibi yönetilirdi ve ganimet anında paylaştırılırdı.\n\nKarayip Korsanları gibi filmler defineli harita mitini popülerleştirmiş olsa da, gerçek korsanlar ganimetlerini haritalara işaretlemek yerine hızla tüketmeyi tercih ederlerdi.\n\nYaygın izlenim, Korsanların sürekli hazine gömdüğü olduğudur; kayıtlar ise bir korsan gemisi bir demokrasi gibi yönetilirdi ve ganimet anında paylaştırılırdı.\n\nSoruşturma ve arşiv belgeleri, korsanların hazine haritaları çizdiği ve hazinelerini gömdüğü fikri büyük oranda Robert Louis Stevenson'ın 'Define Adası' kitabından doğan bir edebiyat mitidir.",
+      "accuracyNote": "Hazine haritası ve X işareti fikri, büyük oranda Robert Louis Stevenson’ın Defne Adası romanıyla popülerleşmiş bir kurgudur.",
+      "whyInteresting": "Gerçek korsanların en büyük ganimetleri altın değil; ipek, baharat, kereste ve tıbbi malzemelerdi.",
+      "misconception": "Korsanların sürekli hazine gömdüğü sanılır; oysa bir korsan gemisi bir demokrasi gibi yönetilirdi ve ganimet anında paylaştırılırdı.",
+      "nextTopics": [
+        "Altın Çağ Korsanları",
+        "Korsan Yasaları",
+        "William Kidd"
+      ],
+      "sources": [
+        {
+          "title": "Golden Age of Piracy (Royal Museums Greenwich)",
+          "url": "https://www.rmg.co.uk/stories/topics/golden-age-piracy",
+          "type": "museum"
+        },
+        {
+          "title": "The Myth of Buried Treasure (National Geographic)",
+          "url": "https://www.nationalgeographic.com/history/article/pirate-treasure-maps-myth-reality",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "medieval-lifespan-myth",
+        "nero-fiddling-myth",
+        "witch-hunts-period"
+      ],
+      "reviewerNote": "Greenwich Denizcilik Müzesi verileriyle doğrulandı.",
+      "mediaConnection": "Karayip Korsanları gibi filmler defineli harita mitini popülerleştirmiş olsa da, gerçek korsanlar ganimetlerini haritalara işaretlemek yerine hızla tüketmeyi tercih ederlerdi.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "denizcilik",
+        "korsanlar",
+        "mitoloji",
+        "popler-kltr-yanl",
+        "savas"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Korsanların sürekli hazine peşinde haritalarla dolaştığı gösterilir. Gerçekte korsanlar kazandıkları parayı hızla liman şehirlerinde harcarlar, geleceğe yatırım yapmazlardı.",
+      "whyItMatters": "Gerçek korsanların en büyük ganimetleri altın değil; ipek, baharat, kereste ve tıbbi malzemelerdi.",
+      "quickRealityCheck": "Yanılgı. Korsanların hazine haritaları çizdiği ve hazinelerini gömdüğü fikri büyük oranda Robert Louis Stevenson'ın 'Define Adası' kitabından doğan bir edebiyat mitidir.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "nero-fiddling-myth",
+      "title": "Nero ve Roma Yangını",
+      "subtitle": "İmparator gerçekten Roma yanarken lir mi çaldı?",
+      "mediaType": "general",
+      "mediaTitle": "Popüler Kültür Yanılgıları",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Roma Tarihi",
+        "Propaganda",
+        "Yangın"
+      ],
+      "whatWeSee": "Filmlerde Nero, Roma yanarken balkonunda lir çalıp şarkı söyleyen çılgın bir lider olarak resmedilir.",
+      "realHistory": "Yangından sonra Nero, evsiz kalanlar için saray bahçelerini açmış ve gıda yardımı organize etmiştir. Hatta şehrin daha geniş caddelerle ve yangına dayanıklı malzemelerle yeniden inşası için yeni yasalar çıkarmıştır. Ancak yangın sonrası inşa ettiği devasa sarayı (Domus Aurea), halkın tepkisini çekmiş ve yangını 'saray için yer açmak amacıyla' kendisinin çıkardığı dedikodusuna yol açmıştır. Nero da suçu üzerinden atmak için o dönemde henüz yeni ve sevilmeyen bir azınlık olan Hristiyanları suçlamış ve tarihteki ilk büyük Hristiyan zulmünü başlatmıştır.\n\nNero’nun keman çaldığı söylenir ancak keman yangından yaklaşık 1500 yıl sonra icat edilmiştir.\n\nQuo Vadis gibi klasik filmlerde resmedilen 'yanan Roma'yı izleyerek lir çalan Neron imajı, tarihsel gerçeklerden ziyade politik bir karalamanın ürünüdür.\n\nSoruşturma ve arşiv belgeleri, 64 yılındaki büyük Roma yangını sırasında Nero'nun 'lir çalıp şarkı söylediği' iddiası, düşmanları tarafından uydurulmuş bir siyasi karalamadır.\n\nBu örnek Yangın sonrası Nero açısından önem taşır, Roma’yı daha geniş caddeler ve yanmaz malzemelerle yeniden inşa ederek modern şehir planlamasına katkıda bulunmuştur.\n\nİlgili başlıklar arasında Büyük Roma Yangını ve Nero’nun Altın Evi gibi konular, aynı dönemin kurumları ve günlük pratikleri hakkında ek ipuçları verir.",
+      "accuracyNote": "Nero’nun şarkı söylediği iddiası, ondan nefret eden sonraki dönem tarihçileri (Suetonius ve Cassius Dio) tarafından uydurulmuş bir karalamadır.",
+      "whyInteresting": "Yangın sonrası Nero, Roma’yı daha geniş caddeler ve yanmaz malzemelerle yeniden inşa ederek modern şehir planlamasına katkıda bulunmuştur.",
+      "misconception": "Nero’nun keman çaldığı söylenir ancak keman yangından yaklaşık 1500 yıl sonra icat edilmiştir.",
+      "nextTopics": [
+        "Büyük Roma Yangını",
+        "Nero’nun Altın Evi",
+        "Roma Tarih Yazımı"
+      ],
+      "sources": [
+        {
+          "title": "The Great Fire of Rome (Britannica)",
+          "url": "https://www.britannica.com/event/Great-Fire-of-Rome",
+          "type": "official"
+        },
+        {
+          "title": "Nero: Myth and Reality (British Museum)",
+          "url": "https://www.britishmuseum.org/blog/nero-myth-and-reality",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [
+        "medieval-lifespan-myth",
+        "pirate-maps-myth",
+        "witch-hunts-period"
+      ],
+      "reviewerNote": "British Museum sergi verileri ve Britannica ile doğrulandı.",
+      "mediaConnection": "Quo Vadis gibi klasik filmlerde resmedilen 'yanan Roma'yı izleyerek lir çalan Neron imajı, tarihsel gerçeklerden ziyade politik bir karalamanın ürünüdür.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "popler-kltr-yanl",
+        "propaganda",
+        "roma-tarihi",
+        "yangn"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Nero genellikle yangını izlerken zevkten dört köşe olan bir deli gibi resmedilir. Gerçekte yangın sırasında 50 km uzaktaki Antium'daydı ve haberi alır almaz Roma'ya dönüp yardım çalışmalarını bizzat yönetmiştir.",
+      "whyItMatters": "Yangın sonrası Nero, Roma’yı daha geniş caddeler ve yanmaz malzemelerle yeniden inşa ederek modern şehir planlamasına katkıda bulunmuştur.",
+      "quickRealityCheck": "Yanılgı. M.S. 64 yılındaki büyük Roma yangını sırasında Nero'nun 'lir çalıp şarkı söylediği' iddiası, düşmanları tarafından uydurulmuş bir siyasi karalamadır.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

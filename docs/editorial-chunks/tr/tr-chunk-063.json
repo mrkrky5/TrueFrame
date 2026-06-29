@@ -1,0 +1,290 @@
+{
+  "locale": "tr",
+  "chunkIndex": 63,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-110-burr-hamilton",
+      "title": "Burr ve Hamilton",
+      "subtitle": "Burr ve Hamilton neden önemli?",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Devrim",
+        "Siyaset",
+        "Kimlik"
+      ],
+      "whatWeSee": "Hamilton müzikalinin sonunda Aaron Burr, Alexander Hamilton'ı Weehawken'da düelloya çağırır ve vurur. 'The World Was Wide Enough' şarkısı trajik çarpışmayı kişisel kıskançlık ve siyasi rekabetin doruğu olarak sunar. Görüntüde iki siyasetçi kalabalık salonda soğuk bakışlarla karşılaşıyor, ardından sabah sisinde düello alanına yürüyen adımlar gerilimi yükseltiyor. Bu görsel düzen, izleyicinin sahnedeki güç ilişkisini ve tarihsel atmosferi tek.",
+      "realHistory": "11 Temmuz 1804'te Burr ve Hamilton New Jersey'de düello yaptı. Hamilton havai fişek olarak ateş ettiğini iddia edenlere rağmen Burr'ın kurşunu öldürücüydü. Arka planda yıllar süren Federalist-Cumhuriyetçi çatışma, 1800 başkanlık seçiminde Burr'ın Jefferson'a karşı çıkması ve New York siyasi ağları vardı. Düello New York'ta yasadışıydı; Weehawken geleneksel bir 'dışarıda' mekândı. Hamilton öldü; Burr siyasi olarak bitti, sonra batı seferleri ve gizemli komplo iddialarıyla anıldı. Müzikal düelloyu duygusal doruk yapar; tarihsel kayıtlar mektuplar, tanıklıklar ve Burr'ın sonraki yargılanmasını saklar. Düello, erken ABD siyasetinde onur kültürünün şiddete dönüşmesinin sembolüdür. Aaron Burr ile Alexander Hamilton arasındaki rekabet, genç ABD'de kişisel onurun siyasal hizipleşmeyle nasıl iç içe geçtiğini gösteren simge bir örnektir. İkili, New York hukuk çevrelerinden federal iktidar tartışmalarına uzanan birçok alanda karşı karşıya geldi. 1800 seçim krizinde Hamilton'ın Jefferson lehine tavrı, Burr'ün onu bilinçli biçimde etkisizleştirdiğine inanmasına yol açtı. 1804 düellosunda Hamilton'ın ölümü, düello kültürünün meşruiyetini ciddi biçimde sarstı. Olay sonrası Burr siyasi itibarını hızla kaybederken federal cumhuriyet, kişisel şiddetten kurumsal rekabete geçiş baskısını daha güçlü hissetti. Burr ve Hamilton 11 Temmuz 1804'te Burr ve Hamilton New Jersey'de düello yaptı. Düello öncesi mektuplarda taraflar hakaretin geri alınması konusunda hukuki dil yerine onur kodlarına başvurdu. Weehawken sahası, New York yasalarından kaçınmak için sık seçilen bir sınır noktasıydı. Hamilton'ın ölümü, Federalist ağın çözülmesini hızlandırıp Burr'ü ulusal siyasetten neredeyse tamamen dışladı.",
+      "accuracyNote": "Tarih ve mekân doğrudur; Hamilton'ın ateş niyeti tarihçiler arasında tartışmalıdır.",
+      "whyInteresting": "Aynı olay hem kişisel trajedi hem erken cumhuriyetin kırılganlığı olarak okunur.",
+      "misconception": "Düello anlık öfkeyle oldu; yıllar süren parti ve seçim çatışmasının sonucuydu.",
+      "nextTopics": [
+        "Bağımsızlık Bildirisi",
+        "Hamilton'ın Finans Sistemi",
+        "Federalistler"
+      ],
+      "sources": [
+        {
+          "title": "Burr-Hamilton duel (Britannica)",
+          "url": "https://www.britannica.com/event/Burr-Hamilton-duel",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Aaron Burr (Britannica)",
+          "url": "https://www.britannica.com/biography/Aaron-Burr",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Alexander Hamilton (Britannica)",
+          "url": "https://www.britannica.com/biography/Alexander-Hamilton",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-108-constitution",
+        "tf26-109-native-nations"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton'ın Weehawken düello sahnesi ile 1804 Burr-Hamilton düellosu ve erken ABD siyasi rekabeti.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "abd-devrimi",
+        "kurucular",
+        "hamilton",
+        "burr-ve-hamilton",
+        "true-frame"
+      ],
+      "spoilerNote": "Hamilton hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Müzikal düelloyu tek anlık trajedi yapar; gerçekte on yıllık siyasi hesaplaşma vardı.",
+      "whyItMatters": "Aynı olay hem kişisel trajedi hem erken cumhuriyetin kırılganlığı olarak okunur.",
+      "isFlagship": false,
+      "quickRealityCheck": "Hamilton neden düelloya çıkmayı reddedemedi?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-111-outlaw-myth",
+      "title": "Kanunsuz Efsanesi",
+      "subtitle": "Kovboy efsanesi, kayıt tutan devletle nasıl çatıştı?",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Sınır",
+        "Şiddet",
+        "Modernleşme"
+      ],
+      "whatWeSee": "Red Dead Redemption evreninde kanunsuz çete, sadakat, onur ve kaybolan özgürlük duygusuyla anlatılır. Aranan afişleri, tren baskınları ve kaçış sahneleri bu romantik tonu besler. Devlet ajanları belirginleştikçe hikaye, eski sınır ruhuyla kayıt tutan modern düzen arasında sıkışmış bir kuşağın vedası gibi görünür.",
+      "realHistory": "Amerikan \"outlaw\" miti, gerçek suç pratiklerinden çok 19. yüzyıl sonu popüler basın ve eğlence piyasasında inşa edildi. Dime novel metinleri, gazeteler ve daha sonra erken dönem sinema, banka soyguncularını bireysel asi kahramanlara çevirdi. Oysa tarihsel kayıtlarda çete yaşamı çoğunlukla kısa ömürlü, ekonomik baskılarla ilişkili ve yüksek ölüm riskliydi.\n\nDemiryolu, telgraf, fotoğraflı kayıt sistemleri ve eyaletler arası kolluk işbirliği arttıkça saklanma mesafesi daraldı. Pinkerton gibi özel dedektif ağlarıyla resmi kurumların bilgi paylaşımı, suç takibini hızlandırdı. Böylece açık araziye dayanarak kaçma imkanı giderek azaldı; kanunsuzluk bireysel özgürlükten çok lojistik olarak sürdürülemez hale geldi.\n\nMite dahil edilmeyen kısım daha serttir: şirket korumacılığı, işçi çatışmaları, ırkçı şiddet ve yerleşimci yayılma aynı dönemde büyüdü. Popüler kültür yalnız silahşor figürüne odaklandığında bu kurumsal şiddet arka plana düşer. Bu nedenle \"outlaw\" anlatısı geçmişin bütünü değil, seçilmiş bir hafıza biçimidir.\n\nGerçekte sınırın kapanışı, bir düello çağının sonu olmaktan çok bürokrasi, altyapı ve piyasa birleşiminin sonucuydu. Kanunsuz efsanesini çözmek, modern devletin nasıl gündelik kayıt ve ulaşım ağlarıyla kurulduğunu anlamak için anahtardır. Böyle bakıldığında çete hikayeleri, bireysel asi mitinden çok merkezileşen sermaye ve güvenlik aygıtlarının yerel toplumları nasıl yeniden düzenlediğinin yan ürünü olarak okunur. Efsanenin kalıcılığı ise bu dönüşümün kaybedenlerini görünmez kılan seçici bir popüler hafıza üretiminden kaynaklanır.",
+      "accuracyNote": "Devlet baskısının artışı doğru, fakat popüler mitin dışında kalan sınıfsal ve ırksal şiddet oyunda daha sınırlı görünür.",
+      "whyInteresting": "Bir kültürel efsanenin, aslında demiryolu çizelgeleri ve kimlik kayıtlarıyla çözüldüğünü görmek beklenmedik derecede öğreticidir.",
+      "misconception": "Vahşi Batı'da kanunsuzların uzun süre bağımsız ve dokunulmaz yaşadığı sanılır.",
+      "nextTopics": [
+        "Demiryolu Sınırı",
+        "Sığır Sürüşleri",
+        "Dedektif Ajansları"
+      ],
+      "sources": [
+        {
+          "title": "Pinkerton National Detective Agency",
+          "url": "https://www.britannica.com/topic/Pinkerton-National-Detective-Agency",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Outlaws and Lawmen of the Old West",
+          "url": "https://www.history.com/topics/wild-west/outlaws-lawmen-american-west",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Telegraph and Railroad Expansion",
+          "url": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/rise-of-industrial-america-1876-1900/overview/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "rdr2-frontier",
+        "tf26-114-pinkertons",
+        "tf26-112-railroad-frontier"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "RDR'nin duygusal tonu güçlüdür; True Frame aynı dönemin idari ve ekonomik arka planını netleştirir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "vahsi-bati",
+        "red-dead",
+        "abd",
+        "kanunsuz-efsanesi",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun trajediyi bireysel kahramanlık ekseninde güçlendirir; tarihsel dönüşüm daha çok altyapı ve kayıt sistemlerinin yayılmasıyla gerçekleşti.",
+      "whyItMatters": "Bir kültürel efsanenin, aslında demiryolu çizelgeleri ve kimlik kayıtlarıyla çözüldüğünü görmek beklenmedik derecede öğreticidir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Kanunsuzluk gerçekten cesaret meselesi miydi, yoksa telgraf ve demiryolu ağları karşısında teknik olarak sürdürülemez mi olmuştu?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-112-railroad-frontier",
+      "title": "Demiryolu Sınırı",
+      "subtitle": "Tren hattı gelince sınır neden kapandı?",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Sınır",
+        "Şiddet",
+        "Modernleşme"
+      ],
+      "whatWeSee": "RDR'de tren rayları yalnız bir ulaşım aracı değil, haritanın kaderini değiştiren bir güç gibi hissedilir. Küçük kasabalar istasyon etrafında büyürken federal otorite daha görünür olur. Telgraf direkleri, tarifeler ve şirket görevlileri arttıkça karakterlerin manevra alanı daralır; sınır, romantik bir boşluk olmaktan çıkar.",
+      "realHistory": "1860'lardan 1900'lere uzanan demiryolu genişlemesi, ABD'de sınır bölgelerini ekonomik ve siyasi olarak yeniden düzenledi. Pacific Railway Act gibi yasalarla verilen arazi hibeleri, özel sermaye ile federal devlet arasında güçlü bir altyapı ortaklığı kurdu. Sonuç sadece taşımacılık hızının artması değildi; posta, asker sevki, mahkeme erişimi ve vergi takibi daha merkezi hale geldi.\n\nHatlar yeni pazarlar açtı: canlı hayvan, tahıl ve maden ulusal ölçekli dolaşıma bağlandı. 1883'te standart saat dilimlerinin uygulanması, gündelik zamanın bile demiryolu koordinasyonuna göre yeniden tanımlandığını gösterir. Telgraf ağının raylarla birlikte ilerlemesi, güvenlik ve yönetim kararlarını hızlandırdı.\n\nAncak bu modernleşme büyük bir toplumsal bedel taşıdı. Demiryolu inşası Yerli topraklarını böldü, bizon sürülerinin çöküşünü hızlandırdı ve zorunlu yerinden edilmeleri derinleştirdi. Ayrıca hangi kasabanın yükseleceği çoğu zaman güzergah kararına bağlıydı; şirket lobi gücü yerel siyaseti doğrudan etkiledi.\n\n1890'da \"sınır kapandı\" ifadesi coğrafi bir tespitten çok idari bir ilan niteliğindeydi. Açık arazi miti yerini şirketleşmiş altyapı, kayıtlı mülkiyet ve düzenli devlet denetimine bıraktı. Demiryolu bu nedenle sadece teknoloji değil, modern iktidarın taşradaki taşıyıcısıdır. Bu taşıyıcılık, tarife saatlerinden arazi tapularına kadar gündelik yaşamın temel ritmini merkezi kurallara bağlayarak sınır toplumlarının özerk hareket alanını kalıcı biçimde daralttı. Böylece sınır, coğrafi bir çizgiden çok hukuki ve mali bir yönetim rejimine dönüştü.",
+      "accuracyNote": "Sınırın daraldığı algısı doğru, ancak Yerli toplumlar üzerindeki yapısal etki oyun anlatısında sınırlı kalır.",
+      "whyInteresting": "Aynı ray hattının bir kasabaya büyüme, komşu topluluğa ise kalıcı kayıp getirmesi dönemin çelişkisini çıplak biçimde gösterir.",
+      "misconception": "Demiryolu genişlemesinin herkes için eşit biçimde ilerleme getirdiği düşünülür.",
+      "nextTopics": [
+        "Kanunsuz Efsanesi",
+        "Sığır Sürüşleri",
+        "Dedektif Ajansları"
+      ],
+      "sources": [
+        {
+          "title": "Pacific Railway Act",
+          "url": "https://www.archives.gov/milestone-documents/pacific-railway-act",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Transcontinental Railroad",
+          "url": "https://www.britannica.com/topic/transcontinental-railroad-United-States-history",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Railroad Time and Standard Time",
+          "url": "https://www.si.edu/spotlight/national-railroad-time",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "rdr-railroads-frontier",
+        "rdr-pinkerton-agency",
+        "tf26-116-boomtowns"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "RDR atmosferi dönüşümü hissettirir; True Frame bunun hukuki ve ekonomik mekanizmasını açar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "vahsi-bati",
+        "red-dead",
+        "abd",
+        "demiryolu-siniri",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun bu dönüşümü karakter dramı üzerinden verir; tarihsel düzlemde ana kırılma devlet-şirket altyapı ortaklığının yayılmasıydı.",
+      "whyItMatters": "Aynı ray hattının bir kasabaya büyüme, komşu topluluğa ise kalıcı kayıp getirmesi dönemin çelişkisini çıplak biçimde gösterir.",
+      "isFlagship": true,
+      "quickRealityCheck": "Raylar yalnız ticareti mi büyüttü, yoksa sınır toplumlarını merkezi kayıt ve mülkiyet düzenine zorla mı bağladı?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-113-cattle-drives",
+      "title": "Sığır Sürüşleri",
+      "subtitle": "Sığır sürüsü ekonomisi, raylar gelince neden bitti?",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Sınır",
+        "Şiddet",
+        "Modernleşme"
+      ],
+      "whatWeSee": "Oyunda sürü gütme, açık arazi romantizminin kalbi gibi görünür: uzun yürüyüş, kamp geceleri ve kasabaya varış anı bir kovboy ritüeline dönüşür. Ancak tel örgüler, yeni hatlar ve büyüyen şehirler belirdikçe bu yaşam biçiminin geçici olduğu anlaşılır. Sürüş, bir çağın yükselişinden çok kapanışını anlatır.",
+      "realHistory": "İç Savaş sonrası dönemde Texas'tan Kansas demiryolu merkezlerine uzanan sığır sürüşleri, ABD et ekonomisinin önemli bir ayağıydı. Chisholm Trail gibi rotalarda binlerce hayvan aylar süren yürüyüşlerle kuzeye taşındı; burada demiryoluna yüklenip doğu pazarlarına gönderildi. Bu sistem düşük altyapı maliyetiyle hızlı büyüdü, fakat yüksek risk taşıyordu: kuraklık, hastalık, hırsızlık, fiyat oynaklığı ve sınır anlaşmazlıkları sürekli tehdit oluşturdu.\n\n1870'lerin sonundan itibaren denge değişti. Tel örgü kullanımı açık meraları daralttı, yerleşik çiftlik düzeni genişledi, hatlar güneye indikçe sürüleri çok uzak taşımaya gerek kalmadı. Soğutmalı vagon teknolojisi, canlı hayvan yerine kesilmiş etin taşınmasını kolaylaştırarak üretim ve dağıtım modelini dönüştürdü.\n\n1886-87 kış felaketi ve aşırı otlatma da açık alan ranch düzenine ağır darbe vurdu. Kovboy emeği tamamen kaybolmadı, fakat niteliği değişti: uzun mesafe sürüş yerine daha yerel, daha sermaye yoğun ve daha kayıtlı bir hayvancılık yapısı ortaya çıktı. Vaquero geleneğinin teknik katkıları bu süreçte belirleyici olsa da popüler anlatıda çoğu kez geri plana itildi.\n\nBu yüzden sığır sürüşleri, sınırsız özgürlük masalı değil; altyapı, iklim ve pazar koşulları değiştikçe hızla dönüşen bir geçiş ekonomisinin hikayesidir. Et paketleme sanayisinin kentlerde yoğunlaşmasıyla fiyat belirleme gücü büyük şirketlere kaydı ve eski sınır kasabalarının ekonomik merkezi rolü birkaç on yıl içinde belirgin biçimde zayıfladı.",
+      "accuracyNote": "Sürü ekonomisinin geçiş niteliği doğru, ancak emek ve teknoloji dönüşümünün kapsamı oyun temposunda daraltılır.",
+      "whyInteresting": "Birkaç teknik yeniliğin, popüler kültürün simgelediği bütün bir yaşam tarzını kısa sürede yeniden şekillendirmesi çok etkileyicidir.",
+      "misconception": "Uzun mesafe sığır sürüşlerinin onlarca yıl aynı ölçekte devam ettiği sanılır.",
+      "nextTopics": [
+        "Kanunsuz Efsanesi",
+        "Demiryolu Sınırı",
+        "Dedektif Ajansları"
+      ],
+      "sources": [
+        {
+          "title": "Cattle Drive",
+          "url": "https://www.britannica.com/topic/cattle-drive",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Cattle Trails",
+          "url": "https://www.tshaonline.org/handbook/entries/cattle-trails",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Who Invented Barbed Wire?",
+          "url": "https://www.loc.gov/everyday-mysteries/item/who-invented-barbed-wire/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-112-railroad-frontier",
+        "rdr-railroads-frontier"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "RDR'nin açık arazi hissi güçlüdür; True Frame bu hissin arkasındaki piyasa dönüşümünü görünür yapar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "vahsi-bati",
+        "red-dead",
+        "abd",
+        "sigir-surusleri",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun sürüşü romantik bir yaşam biçimi olarak öne çıkarır; tarihsel gerçeklikte model kısa ömürlü bir ekonomik ara evreydi.",
+      "whyItMatters": "Birkaç teknik yeniliğin, popüler kültürün simgelediği bütün bir yaşam tarzını kısa sürede yeniden şekillendirmesi çok etkileyicidir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Kovboy çağını bitiren şey neydi: cesaret eksikliği mi, yoksa tel örgü, demiryolu ve soğutmalı taşımacılık mı?",
+      "lastReviewedAt": "2026-06-27"
+    }
+  ]
+}

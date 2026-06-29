@@ -1,0 +1,301 @@
+{
+  "batch": "tr-chunks-037-038-source-aware",
+  "sourceChunks": [
+    "tr-chunk-037.json",
+    "tr-chunk-038.json"
+  ],
+  "notes": [
+    "External source-aware editorial review for Turkish chunks 037 and 038.",
+    "Only changed fields are included. Apply by id + locale.",
+    "sourceUpdates are separated from text field updates.",
+    "tf26-001-alexandria-library was approved as-is and is intentionally not included as a patch entry."
+  ],
+  "entries": [
+    {
+      "id": "napoleon-painting-image-propaganda-real",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Tekrarlı şablon kalıntıları temizlendi; David tablosu ile gerçek Alp geçişi arasındaki propaganda farkı daha güvenli kuruldu.",
+      "fields": {
+        "subtitle": "Jacques-Louis David, katır sırtındaki geçişi nasıl kahramanlık ikonuna çevirdi?",
+        "whatWeSee": "Napoleon gibi yapımlar, Napolyon’u çoğu zaman David’in tablolarındaki gibi görkemli, sert bakışlı ve sahneye hâkim bir figür olarak kurar. Görsel hafıza, gerçek olaydan çok propaganda resminin izini taşır.",
+        "realHistory": "Napolyon’un Alp geçişi gerçekten yaşandı; fakat bugün zihnimizde kalan görüntü, olayın kendisinden çok Jacques-Louis David’in yarattığı siyasi imajdır. 1800’deki Büyük Saint Bernard geçişi askeri olarak cesur bir hamleydi, ama David’in tablosundaki şahlanan at, uçuşan pelerin ve kayaya kazınmış Hannibal/Charlemagne göndermeleri gerçekçi bir sahne değil, bilinçli bir kahramanlık tasarımıydı.\n\nKaynaklar, Napolyon’un geçişte dağ yolu için daha uygun bir katır/eşek kullandığını ve sade bir kıyafetle ilerlediğini aktarır. David’in resmi ise onu doğaya hükmeden, antik fatihlerle aynı çizgiye yerleştirilen sakin ve kaçınılmaz lider gibi gösterir. Bu yüzden tablo yalnız portre değil, dönemin en etkili propaganda araçlarından biridir.\n\nNapolyon imajın siyasi güç olduğunu erken kavradı. Film ve diziler bu mirası devralır: ekranda gördüğümüz Napolyon, çoğu zaman savaş meydanındaki komutandan çok, kendi efsanesini yöneten figürdür. Gerçek tarih ile propaganda arasındaki fark, burada at ile katır arasındaki fark kadar nettir.",
+        "accuracyNote": "David’in tablosu gerçek bir askeri geçişten beslenir; fakat sahne, Napolyon’u gerçekçi biçimde göstermekten çok kahramanlaştırmak için tasarlanmıştır.",
+        "whyInteresting": "Napolyon’un en tanınan görüntülerinden biri, gerçek geçişin fotoğrafı gibi değil, liderlik mitini yaymak için hazırlanmış bir devlet imajı gibi okunmalıdır.",
+        "misconception": "Napolyon’un Alpleri tablodaki gibi şahlanan beyaz at üzerinde geçtiği sanılır; gerçekte daha güvenli bir dağ bineğiyle, çok daha sıradan koşullarda ilerlemiştir.",
+        "mediaChanged": "Film ve tablolar Napolyon’u görsel olarak yüceltir; tarihsel kayıtlar ise aynı olayın çamur, kar, lojistik ve bilinçli imaj yönetimiyle ilişkili olduğunu gösterir.",
+        "whyItMatters": "Bu örnek, modern siyasi liderlerin fotoğraf, afiş ve sinema üzerinden kurduğu imaj siyasetinin erken ve çok etkili bir modelini gösterir.",
+        "quickRealityCheck": "Napolyon’u gerçekten at üstünde görkemli bir kahraman olarak mı hatırlıyoruz, yoksa David’in propaganda dili bunu bize böyle mi öğretti?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Bonaparte crossing the Great St Bernard Pass (Fondation Napoléon)",
+            "url": "https://www.napoleon.org/en/history-of-the-two-empires/paintings/bonaparte-crossing-the-great-st-bernard-pass/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Bonaparte on Grand-Saint-Bernard pass (Fondation Napoléon)",
+            "url": "https://www.napoleon.org/en/history-of-the-two-empires/paintings/4-bonaparte-on-grand-saint-bernard-pass/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "300-spartan-women-rights-real",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Spartalı kadınlar için 'antik dünyanın en özgürleri' ve '%40 toprak' gibi kesin/tekil ifadeler yumuşatıldı; daha dengeli sosyal statü anlatısı kuruldu.",
+      "fields": {
+        "title": "Spartalı Kadınlar: Özgürlük mü, Askeri Düzen mi?",
+        "subtitle": "Mülkiyet, eğitim ve Sparta’nın farklı kadın modeli.",
+        "whatWeSee": "300, Kraliçe Gorgo’yu erkeklerin savaş dünyasında söz sahibi olabilen güçlü bir figür gibi gösterir. Bu izlenim tamamen uydurma değildir; ama Sparta’daki kadın statüsü, modern özgürlük fikriyle birebir aynı şey değildir.",
+        "realHistory": "Spartalı kadınlar, antik Yunan dünyasının birçok başka kentindeki kadınlara göre daha görünür ve ekonomik olarak daha güçlü bir konuma sahipti. Kız çocuklarının fiziksel eğitim alması, ev ve mülk yönetiminde kadınların rolü ve miras yoluyla servet aktarımı, Sparta’yı özellikle Atina modeliyle karşılaştırıldığında farklı kılar. Bunun nedeni romantik bir eşitlik anlayışı değil, Sparta’nın askeri toplum düzeniydi.\n\nErkekler uzun süre askeri eğitimde ve seferde olduğu için ev ekonomisi, toprak yönetimi ve aile sürekliliği kadınların omzuna daha fazla yükleniyordu. Bu durum bazı Spartalı kadınlara mülk, söz hakkı ve kamusal görünürlük kazandırdı. Kyniska’nın atlı yarışlarda Olimpiyat zaferi kazanması da bu farklılığın sembolik örneklerinden biridir.\n\nYine de bunu “antik feminizm” gibi okumak hatalı olur. Sparta’da kadınların gücü, helot emeğine dayanan sert bir askeri sistemin içinde var oldu. 300’ün Gorgo üzerinden yakaladığı şey, Sparta kadınlarının pasif saray figürleri olmadığıdır; ama gerçek tarih, bu gücün özgürlükten çok devletin savaşçı düzenini sürdürme işleviyle bağlantılı olduğunu gösterir.",
+        "accuracyNote": "Spartalı kadınlar birçok Yunan kentindeki kadınlara göre daha fazla mülkiyet ve kamusal görünürlük elde edebilirdi; ancak bu durum modern anlamda siyasal eşitlik anlamına gelmez.",
+        "whyInteresting": "Sparta’da kadınların görece güçlü konumu, savaşçı erkek idealinin arkasında ev, miras ve mülk düzenini taşıyan başka bir güç yapısı olduğunu gösterir.",
+        "misconception": "Spartalı kadınların tamamen modern anlamda özgür olduğu sanılır; gerçekte hakları daha genişti ama bu haklar askeri devlet düzeninin ihtiyaçlarıyla sınırlıydı.",
+        "mediaChanged": "300, Gorgo’yu dramatik bir siyasi figür yapar; tarihsel tablo ise Spartalı kadınların mülk, eğitim ve hane yönetimi üzerinden daha karmaşık bir güce sahip olduğunu gösterir.",
+        "whyItMatters": "Sparta örneği, toplumsal cinsiyet rollerinin yalnız kültürle değil, askeri ekonomi ve devlet düzeniyle de şekillendiğini gösterir.",
+        "quickRealityCheck": "Spartalı kadınların gücü gerçek bir özgürlük alanı mıydı, yoksa Sparta’nın savaşçı düzenini ayakta tutan başka bir görev biçimi miydi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Spartan Women (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/article/123/spartan-women/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Sparta: History (Britannica)",
+            "url": "https://www.britannica.com/place/Sparta/History",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "gladiator-spartacus-legacy-real",
+      "locale": "tr",
+      "decision": "source_cleanup",
+      "reason": "Gövde metni genel olarak iyi; yalnız kaynak metadatası ve güvenli vurgu güçlendirildi.",
+      "fields": {
+        "sourceQuality": "strong",
+        "verificationStatus": "verified"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Spartacus (Britannica)",
+            "url": "https://www.britannica.com/biography/Spartacus-Roman-gladiator",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Spartacus Revolt (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/article/871/the-spartacus-revolt/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "1917-gas-masks-evolution-real",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "İdrar/6 saniye gibi fazla dramatik ve kısmen doğrulanması zor ifadeler yumuşatıldı; gaz savaşı, erken koruma ve respiratör evrimi daha güvenli anlatıldı.",
+      "fields": {
+        "title": "Gaz Maskeleri: Kimyasal Savaşa Karşı Yarış",
+        "subtitle": "Islak bezden filtreli respiratöre uzanan hayatta kalma teknolojisi.",
+        "whatWeSee": "1917 gibi yapımlarda gaz maskesi, askerin çantasında taşıdığı ürkütücü bir savaş aksesuarı gibi görünür. Gerçekte ise maske, modern savaşın kimyasal saldırıya verdiği panik ve mühendislik cevabıdır.",
+        "realHistory": "I. Dünya Savaşı’nda zehirli gaz kullanımı, cephe askerleri için yeni ve korkutucu bir tehditti. Klor, fosgen ve daha sonra hardal gazı gibi maddeler yalnız öldürmekle kalmadı; askerin nefes alma, görme ve bekleme psikolojisini de hedef aldı. İlk koruma yöntemleri çok basitti: ıslatılmış bezler, kimyasallarla emdirilmiş başlıklar ve geçici çözümler cephede hızla denendi.\n\nSavaş ilerledikçe koruma teknolojisi de gelişti. Hypo Helmet gibi erken başlıklardan, filtre kutulu respiratörlere geçiş, orduların kimyasal saldırıyı artık tek seferlik korku değil sürekli bir savaş koşulu olarak kabul ettiğini gösterir. Bu maskeler hayat kurtardı; ama görüşü daraltıyor, nefes almayı zorlaştırıyor ve askerleri kendi yüzlerinin içinde kapalı kalmış gibi hissettiriyordu.\n\nBu yüzden gaz maskesi yalnız teknik bir ekipman değildir. 1917’nin siper atmosferinde maske, modern savaşın insan bedenine ne kadar yaklaştığını gösteren semboldür: düşman artık yalnız mermiyle değil, havanın kendisiyle saldırır.",
+        "accuracyNote": "Film gaz tehdidini atmosfer olarak iyi taşır; tarihsel olarak gaz maskeleri savaş boyunca hızla değişen, ilk başta yetersiz ama giderek daha etkili hale gelen koruma araçlarıydı.",
+        "whyInteresting": "Gaz maskesi, bir askerin savaş alanında nefes alma hakkının bile mühendislik problemine dönüştüğü anı gösterir.",
+        "misconception": "Gaz maskelerinin baştan itibaren güvenilir ve standart ekipman olduğu sanılır; gerçekte ilk çözümler aceleyle geliştirilmiş, savaş ilerledikçe filtreli respiratörlere dönüşmüştür.",
+        "mediaChanged": "Film maskeyi gerilim unsuru olarak kullanır; tarihsel kayıtlar ise bu ekipmanın kimyasal savaş karşısında orduların sürekli uyum sağlama çabasının ürünü olduğunu gösterir.",
+        "whyItMatters": "Gaz maskesi teknolojisi, modern kimyasal koruma, iş güvenliği ve askeri ekipman anlayışının erken örneklerinden biridir.",
+        "quickRealityCheck": "Siperlerde gaz maskesi gerçekten sadece korkutucu bir aksesuar mıydı, yoksa nefes almayı mümkün kılan son savunma hattı mıydı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Poison Gas in the First World War (Imperial War Museums)",
+            "url": "https://www.iwm.org.uk/history/first-world-war/western-front/poison-gas",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "First Usage of Poison Gas (National WWI Museum and Memorial)",
+            "url": "https://www.theworldwar.org/learn/about-wwi/spotlight-first-usage-poison-gas",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "last-emperor-forbidden-city-eunuchs-real",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Hadım sistemini '2.000 yıldır değişmeyen/devleti yöneten kast' gibi fazla genelleyici anlatımdan çıkarıp saray aracılığı, hane yönetimi ve Puyi dönemi çözülüşüne odakladı.",
+      "fields": {
+        "title": "Yasak Şehir: Hadımlar ve Saray İktidarı",
+        "subtitle": "İmparatora yakın olmanın gücü ve bedeli.",
+        "whatWeSee": "The Last Emperor’da Puyi’nin çevresindeki hadımlar, eski saray düzeninin hem hizmetkârları hem de gölgede kalan aktörleri gibi görünür. Film bu dünyayı bazen entrika, bazen de çöküş hissiyle verir.",
+        "realHistory": "Çin imparatorluk sarayındaki hadımlar, yalnız harem görevlileri değildi; imparatorun özel hayatı, saray eşyaları, kapılar, haber akışı ve gündelik erişim düzeni üzerinde etkili olan aracılardı. Bu yakınlık bazen büyük güç doğurdu, bazen de onları saray içi suçlamaların ve tasfiyelerin hedefi haline getirdi. Hadımların etkisi hanedandan hanedana değişti; bu yüzden onları tek bir “devleti yöneten sınıf” gibi anlatmak fazla düz olur.\n\nPuyi döneminde sistem artık çözülme halindeydi. Qing hanedanı 1912’de sona ermişti; fakat Puyi, Yasak Şehir’de sembolik imparator gibi yaşamayı sürdürdü. Sarayda hâlâ çok sayıda eski görevli ve hadım vardı. 1923’te saray koleksiyonları, yangın ve hırsızlık iddiaları etrafında büyüyen kriz, Puyi’nin hadımların büyük kısmını kovmasına yol açtı.\n\nBu olay yalnız kişisel bir öfke patlaması değildi. Eski imparatorluk hane düzeninin, artık cumhuriyetin ortasında ayakta kalamayacağının işaretiydi. The Last Emperor’ın gösterdiği saray dünyası bu yüzden sadece nostaljik değil; işlevini kaybetmiş bir iktidar makinesinin son hareketleridir.",
+        "accuracyNote": "Film hadımları eski saray düzeninin parçası olarak doğru bir bağlama yerleştirir; ancak hadım etkisi dönemlere göre değişir ve hepsini tek tip güçlü ya da tek tip aciz göstermek yanıltıcıdır.",
+        "whyInteresting": "Puyi’nin hadımları kovması, saray içi bir disiplin hamlesi olmaktan çok, imparatorluk hane düzeninin fiilen çözülüşünü gösteren sembolik bir kırılmadır.",
+        "misconception": "Hadımların yalnız harem görevlisi olduğu sanılır; gerçekte saray erişimi, haber akışı ve özel hane yönetimi üzerinden zaman zaman ciddi güç kazanabilirlerdi.",
+        "mediaChanged": "Film hadımları çöküş atmosferinin parçası yapar; tarihsel kayıtlar ise bu kişilerin eski saray düzeninde erişim ve aracılık gücü taşıdığını gösterir.",
+        "whyItMatters": "Hadım sistemi, kişisel sadakat, beden politikası ve saray iktidarının birbirine nasıl bağlanabildiğini gösteren sert bir tarihsel örnektir.",
+        "quickRealityCheck": "Yasak Şehir’de hadımlar sadece hizmetkâr mıydı, yoksa imparatora erişimi kontrol eden saray aracılarından biri mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Eunuchs are Expelled (History Today)",
+            "url": "https://www.historytoday.com/archive/eunuchs-are-expelled",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Forbidden City and the Odyssey of Its Treasures (National Palace Museum)",
+            "url": "https://theme.npm.edu.tw/exh105/PhotoRetrospective/en/page-7.html",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "civ-great-library-alexandria-real",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Aynı konudaki daha temiz tf26 kartından ayrı olarak, Civilization mekaniği ve 'tek yangın' miti odağıyla kısa ve güvenli bir metne çekildi.",
+      "fields": {
+        "title": "İskenderiye Kütüphanesi: Tek Yangın Miti",
+        "subtitle": "Civilization’daki mucize ile yavaş çözülen kurum arasındaki fark.",
+        "whatWeSee": "Civilization’da Great Library, oyuncuya açık ve ölçülebilir bir teknoloji avantajı verir. Kütüphane sanki tek başına bilimi hızlandıran dev bir yapıymış gibi çalışır.",
+        "realHistory": "İskenderiye Kütüphanesi gerçekten antik dünyanın en önemli bilgi merkezlerinden biriydi; fakat onu yalnız dev bir raf deposu gibi düşünmek eksik kalır. Asıl güç, Mouseion çevresindeki bilginler, kraliyet himayesi, metin kopyalama ağı ve Akdeniz’den toplanan yazmaların düzenlenmesindeydi. Bilgi burada yalnız saklanmıyor, karşılaştırılıyor ve yeniden üretiliyordu.\n\nPopüler anlatı genellikle kütüphanenin tek bir yangında tamamen yok olduğunu söyler. Caesar’ın MÖ 48’deki İskenderiye çatışmaları sırasında çıkan yangın, koleksiyonun bir bölümüne zarar vermiş olabilir; fakat bütün kurumun bir gecede bittiği kesin değildir. Sonraki yüzyıllarda siyasi krizler, finansman kaybı, kurumsal önceliklerin değişmesi ve başka merkezlerin yükselişi kütüphanenin etkisini adım adım zayıflattı.\n\nCivilization’ın mucize mantığı, kurumları tek hamlelik bonuslara çevirir. Tarih ise daha kırılgandır: bir bilgi merkezi, duvarları durduğu halde bile maaş, uzman, kopya ağı ve siyasi himaye kaybolduğunda çözülebilir.",
+        "accuracyNote": "Kütüphanenin hasar görmesiyle ilgili antik anlatılar vardır; ancak modern tartışma, yok oluşu tek bir dramatik yangından çok parçalı ve belirsiz bir süreç olarak ele alır.",
+        "whyInteresting": "İskenderiye hikayesi, bilginin yalnız kitaplarda değil, onları kopyalayan, maaşlandıran ve kullanan kurumlarda yaşadığını gösterir.",
+        "misconception": "İskenderiye Kütüphanesi’nin tek gecede yanıp insanlığı yüzyıllarca geri götürdüğü sanılır; tarihsel tablo daha parçalı ve belirsizdir.",
+        "mediaChanged": "Civilization kütüphaneyi doğrudan teknoloji bonusu veren bir mucizeye çevirir; gerçek tarih ise bilgi üretiminin uzun vadeli kurumsal bakım gerektirdiğini gösterir.",
+        "whyItMatters": "Bu kart, bilgi kaybının çoğu zaman tek bir felaketten değil, kurumların yavaş yavaş bakımsız kalmasından doğduğunu hatırlatır.",
+        "quickRealityCheck": "İskenderiye Kütüphanesi’ni gerçekten bir yangın mı yok etti, yoksa onu yaşatan kurumsal ağ mı zamanla çözüldü?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Library of Alexandria (Britannica)",
+            "url": "https://www.britannica.com/topic/Library-of-Alexandria",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "What Happened to the Great Library at Alexandria? (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/article/207/what-happened-to-the-great-library-at-alexandria/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "total-war-medieval-diplomacy-real",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Diplomasiyi yalnız evlilik/çeyiz klişesine indiren ve tekrar eden metin temizlendi; hanedan, rehin, yemin, miras ve elçi ağı birlikte işlendi.",
+      "fields": {
+        "title": "Orta Çağ Diplomasisi: Aile, Yemin ve Miras",
+        "subtitle": "Total War’ın puan sistemi arkasındaki akrabalık siyaseti.",
+        "whatWeSee": "Total War’da diplomasi çoğu zaman teklif, para, evlilik ve ittifak puanlarıyla ölçülen bir menü gibi görünür. Oyuncu birkaç hamlede savaşı durdurabilir ya da yeni bir cephe açabilir.",
+        "realHistory": "Orta Çağ Avrupa’sında diplomasi modern dışişleri bürokrasisinden çok hanedan ilişkileri, kişisel sadakat, yemin ve miras hukukuyla çalışırdı. Bir evlilik yalnız iki kişinin değil, iki ailenin, iki toprak iddiasının ve bazen gelecekteki bir savaşın başlangıcı olabilirdi. Çeyiz, rehin, vasallık yemini ve miras hakkı, diplomatik metinlerden en az ordular kadar belirleyiciydi.\n\nBu yüzden evlilik ittifakı barış garantisi değildi. Tam tersine, bir prensesin ya da prensin soyu yıllar sonra başka bir taht üzerinde hak iddiasına dönüşebilirdi. Yüzyıl Savaşları gibi uzun çatışmalar, yalnız askeri rekabetten değil, hanedan iddialarının karmaşık biçimde üst üste binmesinden beslendi.\n\nTotal War diplomasi menüsünü sadeleştirir; ama doğru bir noktaya temas eder: Orta Çağ’da siyaset çoğu zaman soy ağacı üzerinden oynanırdı. Haritadaki sınırlar kadar, kimin kiminle evli olduğu ve hangi çocuğun hangi mirasa hak iddia edeceği de savaşın kaderini belirlerdi.",
+        "accuracyNote": "Stratejik evlilikler Orta Çağ ve erken modern diplomasinin önemli araçlarındandı; ancak bunlar her zaman barış getirmez, bazen yeni miras savaşları doğururdu.",
+        "whyInteresting": "Bir evlilik anlaşması, bazen bir barış antlaşmasından daha uzun ömürlü siyasi sonuçlar doğurabiliyordu.",
+        "misconception": "Orta Çağ diplomasisinin sadece para ve askeri tehditten ibaret olduğu sanılır; gerçekte aile bağı, miras hakkı ve kişisel yeminler temel siyasi araçlardı.",
+        "mediaChanged": "Total War evlilikleri diplomasi bonusu gibi gösterir; tarihsel gerçeklikte bu bağlar gelecekteki taht iddialarını ve savaşları da üretebilirdi.",
+        "whyItMatters": "Bu konu, modern ulus devletlerden önce siyasetin ne kadar kişisel, hanedansal ve aile hukuku üzerinden yürüdüğünü anlamayı sağlar.",
+        "quickRealityCheck": "Orta Çağ’da bir evlilik gerçekten barışı mı garanti ederdi, yoksa gelecekteki bir taht savaşının zeminini de hazırlayabilir miydi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Diplomacy: Medieval and Renaissance diplomacy (Britannica)",
+            "url": "https://www.britannica.com/topic/diplomacy/Medieval-and-Renaissance-diplomacy",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The Dynastic Marriage (European History Online)",
+            "url": "https://d-nb.info/1031910271/34",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "saving-private-ryan-snipers-reality",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Dürbün içinden vurma sahnesi gibi aksiyon odaklı anlatım, gizlenme/sabır/psikolojik baskı merkezli daha güvenli sniper gerçekliğine çekildi.",
+      "fields": {
+        "title": "Keskin Nişancı Gerçeği: Şov Değil Sabır",
+        "subtitle": "Jackson’ın dramatik atışından savaş alanı psikolojisine.",
+        "whatWeSee": "Saving Private Ryan’da Jackson, sakinliği ve olağanüstü nişancılığıyla neredeyse efsanevi bir figür gibi görünür. Film, keskin nişancılığı tek atışlık dramatik anlara sıkıştırır.",
+        "realHistory": "II. Dünya Savaşı’nda keskin nişancı olmak yalnız iyi ateş etmek demek değildi. Asıl beceri görünmeden kalmak, yer değiştirmek, hedef seçmek ve düşmanın hareket ritmini bozmaktı. Bir nişancı tespit edildiği anda topçu, havan ya da makineli tüfek ateşiyle kolayca yok edilebilirdi; bu yüzden çan kulesi gibi dramatik ama belirgin noktalar çoğu durumda büyük risk taşırdı.\n\nKeskin nişancılar bazen günlerce aynı bölgede bekler, kamuflaj ve sabırla bir bölüğü durdurabilecek psikolojik baskı yaratırdı. Tek bir atış, düşmana “her yer tehlikeli” hissi vererek ilerlemeyi yavaşlatabilirdi. Bu yüzden sniper etkisi yalnız öldürülen kişi sayısıyla değil, düşmanın güven duygusunu yok etmesiyle ölçülür.\n\nFilmdeki Jackson bu gerçeğin sinemasal, yoğunlaştırılmış halidir. Gerçek savaş alanında keskin nişancılık kahramanlık gösterisinden çok sessizlik, bekleme, kaçış hattı ve görünmez kalma işidir.",
+        "accuracyNote": "Film keskin nişancıyı dramatik bir karaktere dönüştürür; tarihsel olarak sniper rolünün temelinde sabır, kamuflaj ve psikolojik baskı vardır.",
+        "whyInteresting": "Keskin nişancının gücü, çoğu zaman attığı kurşundan önce yarattığı görünmeyen tehdit hissinden gelir.",
+        "misconception": "Keskin nişancılığın yalnız mükemmel atış becerisi olduğu sanılır; gerçekte yer seçimi, gizlenme, bekleme ve kaçabilme en az nişan kadar önemlidir.",
+        "mediaChanged": "Film Jackson’ı unutulmaz bir savaş karakteri yapar; gerçek savaş alanı ise keskin nişancılığı daha sessiz, daha yavaş ve daha psikolojik bir rol olarak gösterir.",
+        "whyItMatters": "Keskin nişancılık tarihi, modern savaşta küçük bir unsurun büyük birliklerin temposunu nasıl bozabileceğini gösterir.",
+        "quickRealityCheck": "Keskin nişancının asıl gücü zor atışlar yapmak mıydı, yoksa düşmana görünmeden bütün alanı tehlikeli hissettirmek mi?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Snipers in the Second World War (Imperial War Museums Collection)",
+            "url": "https://www.iwm.org.uk/collections/item/object/205410967",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Finnish Sniper Simo Häyhä (Warfare History Network)",
+            "url": "https://warfarehistorynetwork.com/article/finnish-sniper-simo-hayha/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "medium",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ],
+  "approvedAsIs": [
+    {
+      "id": "tf26-001-alexandria-library",
+      "locale": "tr",
+      "reason": "Metin mevcut grup içinde kaynak, denge ve alan kullanımı açısından temiz; aynı konudaki civ-great-library-alexandria-real kartına göre daha olgun bir anlatı taşıyor."
+    }
+  ]
+}

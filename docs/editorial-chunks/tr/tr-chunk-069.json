@@ -1,0 +1,284 @@
+{
+  "locale": "tr",
+  "chunkIndex": 69,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-138-medics",
+      "title": "Cephe Sıhhiyecileri",
+      "subtitle": "Omaha’da hayat kurtarmak: triyaj, tahliye ve saniyeler",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "era": "Modern Tarih",
+      "region": "Normandiya",
+      "themes": [
+        "Savaş",
+        "Çıkarma",
+        "Hafıza"
+      ],
+      "whatWeSee": "Saving Private Ryan'da sağlıkçılar mermi yağmuru altında ilk müdahale yapar; Omaha kıyısındaki triyaj zinciri kısa anlarla sezdirilir.",
+      "realHistory": "D-Day günü kıyıya çıkan birliklerle aynı anda sağlık personeli de ateş altında hareket etti. Omaha’da ilk saatlerde en kritik sorun, yaralıyı kum hattından güvenli noktaya taşıyabilmekti. Savaş alanı tıbbı bu yüzden üç aşamalı işledi: ilk müdahale, sahra triyajı ve geriye tahliye. Hemşireler çoğunlukla kıyı gerisindeki istasyonlarda çalışsa da deniz tahliye gemilerindeki ekipler çok yoğun bir yük taşıdı.\n\nTriyaj yalnızca tıbbi bir işlem değil, zaman ve kaynak yönetimiydi. Kanama kontrolü, şok tedavisi ve enfeksiyon riskini azaltma önceliği belirleyiciydi. Plazma, morfin, bandaj ve giderek daha erişilebilir hale gelen antibiyotikler yaralıların yaşama şansını artırdı; fakat ilk dalgada ekipman eksikliği, personel kaybı ve yoğun ateş nedeniyle birçok müdahale ideal koşullarda yapılamadı.\n\nSaving Private Ryan sahneleri, bu kaosun duygusunu doğru verir: sağlık görevlisinin işi arka plandaki destek değil, savaşın merkezindeki karar anıdır. Normandiya sonrası kurulan sahra hastaneleri ve tahliye zinciri, cephedeki başarının yalnız silahla değil, tıbbi organizasyonla da ilgili olduğunu gösterir.",
+      "accuracyNote": "Filmdeki kaos hissi güçlü biçimde gerçekçidir; gerçek operasyonlarda tahliye zincirinin kurumsal detayları daha geniş bir ağla yürütülmüştür.",
+      "whyInteresting": "Omaha’da sağlıkçının ilk kararı çoğu zaman pansuman değil, kimin hemen tahliye edileceğini ve kimin beklemek zorunda kalacağını belirlemekti.",
+      "misconception": "Cephe sıhhiyecilerinin sadece yarayı sardığı sanılır; gerçekte triyaj, tahliye ve kaynak önceliği savaşın kaderini etkileyen kararlar üretiyordu.",
+      "nextTopics": [
+        "Omaha Plajı",
+        "Fortitude Aldatması",
+        "Hava İndirmeleri"
+      ],
+      "sources": [
+        {
+          "title": "National WWII Museum - Medical care on D-Day",
+          "url": "https://www.nationalww2museum.org/war/articles/medicine-d-day",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "U.S. Army Medical Department History",
+          "url": "https://history.amedd.army.mil/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Imperial War Museums - Normandy medical services",
+          "url": "https://www.iwm.org.uk/history/d-day-medical-services",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-139-german-defenses",
+        "tf26-140-memory",
+        "tf26-136-canadian-beaches"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Saving Private Ryan ve Cephe Sıhhiyecileri — ekrandaki görüntü ile belgelenmiş gerçeklik.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ikinci-dunya-savasi",
+        "normandiya",
+        "d-day",
+        "cephe-sihhiyecileri",
+        "true-frame"
+      ],
+      "spoilerNote": "Saving Private Ryan hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Saving Private Ryan kaosu ve ilk müdahale anını güçlü gösterir; tarihsel kayıtlar bunun arkasında plazma, tahliye gemileri, sahra hastaneleri ve koordinasyon ağı olduğunu ekler.",
+      "whyItMatters": "Cephe tıbbı, modern savaşta hayatta kalmanın yalnız cesarete değil, saniyeler içinde kurulan tıbbi organizasyona da bağlı olduğunu gösterir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Omaha’da sağlıkçılık sadece pansuman mıydı, yoksa ateş altında hayat önceliği belirleme işi miydi?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-139-german-defenses",
+      "title": "Atlantik Duvarı",
+      "subtitle": "Bir sahnenin sakladığı sistem",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "era": "Modern Tarih",
+      "region": "Normandiya",
+      "themes": [
+        "Savaş",
+        "Çıkarma",
+        "Hafıza"
+      ],
+      "whatWeSee": "Saving Private Ryan'ın açılışında Alman savunması, kıyıya yerleştirilmiş makineli tüfek yuvaları ve mayınlarla neredeyse geçilmez bir ölüm hattı gibi görünür. Film bu dehşeti beden seviyesinde hissettirir. Ancak Atlantik Duvarı'nın gerçek hikayesi, tek parça bir çelik perde değil; farklı bölgelerde eşitsiz güçte kurulmuş, komuta ve lojistik sorunları yaşayan bir savunma ağıdır.",
+      "realHistory": "Atlantik Duvarı, Nazi Almanyası'nın Norveç'ten Fransa kıyılarına uzanan büyük tahkimat programıydı. Organisation Todt yüzlerce beton mevzi, topçu noktası, mayınlı engel ve siper hattı inşa etti; fakat bu hat her yerde aynı güçte değildi. 1944'e doğru Rommel kıyı engellerini artırdı: gelgitte çıkarma araçlarını bozmak için kazıklar, mayınlar ve farklı anti-tank düzenekleri kuruldu. Ama malzeme, eğitim ve birlik kalitesi bölgesel olarak dengesizdi.\n\nAsıl kırılganlık komuta zincirindeydi. Panzer birliklerinin nerede tutulacağı konusunda görüş ayrılığı vardı; bazı kuvvetler merkezde bekletildi, bazıları kıyıya yakındı. Hitler onayı gerektiren karar mekanizması hızlı karşı taarruzu geciktirdi. Müttefiklerin aldatma planı, özellikle Pas-de-Calais beklentisini canlı tutarak kuvvet dağılımını etkiledi. Hava üstünlüğü ve deniz topçusu da Alman hareket alanını daralttı.\n\nOmaha sektörü çok kanlı geçti, ancak diğer çıkarma kıyılarında savunma yoğunluğu farklıydı. Bu yüzden Atlantik Duvarı, teknik olarak etkileyici ama operasyonel olarak parçalı bir sistemdi. Film sahil şiddetini iyi gösterir; tarihsel bağlam ise bunun ardındaki planlama ve karar sorunlarını tamamlar. Ayrıca savunma inşasında zorunlu işgücü ve savaş ekonomisinin baskısı büyük rol oynadı; bu da kalite ve süreklilik üzerinde doğrudan etkiliydi. Bazı mevziler kağıt üzerinde güçlü görünse de lojistik destek ve eğitim eksikliği nedeniyle beklenen performansı vermedi. Dolayısıyla tahkimatın varlığı ile savaş etkisi arasında otomatik bir eşitlik yoktu.",
+      "accuracyNote": "Film çıkarmadaki şiddeti güçlü ve inandırıcı yansıtır. Ancak kıyı boyunca değişen savunma yoğunluğu tek bir anlatıda daralır.",
+      "whyInteresting": "Beton mevziler kadar yanlış beklenti ve yavaş kararın da savaş sonucunu belirlemesi, askeri tarihin en öğretici yönlerinden biridir.",
+      "misconception": "Atlantik Duvarı'nın kesintisiz ve yenilmez bir hat olduğu düşünülür. Oysa proje büyük olsa da operasyonel açıdan kırılgan noktalara sahipti.",
+      "nextTopics": [
+        "Omaha Plajı",
+        "Fortitude Aldatması",
+        "Hava İndirmeleri"
+      ],
+      "sources": [
+        {
+          "title": "Atlantic Wall (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/topic/Atlantic-Wall",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Normandy Invasion (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/event/Normandy-Invasion",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "D-Day Overview (Imperial War Museums)",
+          "url": "https://www.iwm.org.uk/history/what-you-need-to-know-about-d-day",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-140-memory",
+        "tf26-137-french-civilians",
+        "tf26-138-medics"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Saving Private Ryan'ın Omaha sahneleri, Atlantik Duvarı'nın eşitsiz yapısı ve Alman komuta gecikmeleriyle birlikte okununca derinleşir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ikinci-dunya-savasi",
+        "normandiya",
+        "d-day",
+        "atlantik-duvari",
+        "true-frame"
+      ],
+      "spoilerNote": "Saving Private Ryan hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Film savunmayı tek yoğun bariyer gibi odaklar. Gerçekte hattın gücü bölgeden bölgeye değişiyor, sonucu da komuta hızı ve hava üstünlüğü belirliyordu.",
+      "whyItMatters": "Beton mevziler kadar yanlış beklenti ve yavaş kararın da savaş sonucunu belirlemesi, askeri tarihin en öğretici yönlerinden biridir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Atlantik Duvarı bu kadar genişken Müttefikler neden yine de Normandiya'da tutunabildi?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-140-memory",
+      "title": "D-Day Hafızası",
+      "subtitle": "D-Day hafızası: anıt, film, milli anlatı",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "era": "Modern Tarih",
+      "region": "Normandiya",
+      "themes": [
+        "Savaş",
+        "Çıkarma",
+        "Hafıza"
+      ],
+      "whatWeSee": "Saving Private Ryan’ın açılışındaki Omaha sahnesi, D-Day hafızasının küresel görsel referansına dönüştü. Titrek kamera, dağınık komuta ve yoğun ses tasarımı savaşı neredeyse fiziksel bir şok gibi hissettiriyor. Film, sonraki kuşakların Normandiya’yı hayal ederken başvurduğu ana imge setini büyük ölçüde belirliyor.",
+      "realHistory": "6 Haziran 1944 çıkarması, tek bir sahilin hikâyesinden çok daha geniş bir birleşik harekâttı. ABD, Birleşik Krallık, Kanada ve diğer Müttefik unsurların deniz, hava ve kara koordinasyonuyla yürütülen operasyon; Utah, Omaha, Gold, Juno ve Sword gibi farklı cephelerde eşzamanlı baskı kurdu. Omaha’daki ağır kayıplar tarihsel olarak doğrudur, fakat genel başarı çok cepheli lojistik ve komuta senkronizasyonuna dayanıyordu.\n\nSavaş sonrası anma kültürü bu olayı ülkeler arasında farklı çerçeveledi. ABD anlatısında bireysel fedakârlık ve Omaha dramatizmi baskınlaştı; Britanya ve Kanada hafızasında planlama sürekliliği, çıkarma sonrası ilerleme ve ortak komuta daha görünür kaldı. Fransa açısından ise kurtuluş anlatısı, sivil kayıplar ve yerel yıkım deneyimiyle birlikte yaşandı.\n\nSaving Private Ryan 1998’de bu hafıza alanına çok etkili bir estetik standart getirdi. Film, “tanıklık hissi” yaratan bir savaş dili kurdu ve bu dil oyunlardan müzeciliğe kadar pek çok alanı etkiledi. Ancak bu güç, D-Day algısını bazen tek bir ulusal lens ve tek bir sahil etrafında daraltabildi. Dengeli tarih okuması için film hafızasını arşiv belgeleri, farklı müttefik kaynakları ve çok cepheli operasyon verileriyle birlikte değerlendirmek gerekir. Aksi hâlde sinemasal yoğunluk, operasyonun kolektif ve çok katmanlı yapısını gölgede bırakır. Bu nedenle hafıza çalışmaları, görsel etkinin yanında farklı ulusal anlatıları birlikte okutmayı zorunlu bir yöntem olarak benimser.",
+      "accuracyNote": "İlk dalga kaosu inandırıcıdır; karakter rotaları ve olay bağlantıları dramatik kurguya göre düzenlenmiştir.",
+      "whyInteresting": "Bu kart, sinemanın yalnızca geçmişi anlatmadığını, geçmişin nasıl hatırlanacağını da biçimlendirdiğini gösterir.",
+      "misconception": "Yaygın yanılgı, Normandiya’nın yalnızca Omaha’daki Amerikan deneyiminden ibaret olduğudur.",
+      "nextTopics": [
+        "Omaha Plajı",
+        "Fortitude Aldatması",
+        "Hava İndirmeleri"
+      ],
+      "sources": [
+        {
+          "title": "Normandy Invasion (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/event/Normandy-Invasion"
+        },
+        {
+          "title": "What You Need to Know About D-Day (Imperial War Museums)",
+          "url": "https://www.iwm.org.uk/history/what-you-need-to-know-about-d-day"
+        },
+        {
+          "title": "D-Day Records (U.S. National Archives)",
+          "url": "https://www.archives.gov/education/lessons/d-day"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-132-operation-fortitude",
+        "tf26-136-canadian-beaches"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "major",
+      "mediaConnection": "Saving Private Ryan duyusal şiddeti öne çıkarıyor; True Frame bu etkiyi müttefik ölçek ve hafıza politikasıyla tamamlıyor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ikinci-dunya-savasi",
+        "normandiya",
+        "d-day",
+        "d-day-hafizasi",
+        "true-frame"
+      ],
+      "spoilerNote": "Saving Private Ryan hikâyesinin sonunu veya büyük sürprizlerini anlatabilir.",
+      "mediaChanged": "Film Omaha merkezli güçlü bir hafıza dili kuruyor; tarihsel ölçek D-Day’i çok uluslu ve çok cepheli bir operasyon olarak gösteriyor.",
+      "whyItMatters": "Bu kart, sinemanın yalnızca geçmişi anlatmadığını, geçmişin nasıl hatırlanacağını da biçimlendirdiğini gösterir.",
+      "isFlagship": true,
+      "quickRealityCheck": "D-Day denince akla tek sahil geliyorsa bu tarihsel ağırlıktan mı, yoksa sinemasal seçicilikten mi kaynaklanıyor?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-142-trinity-test",
+      "title": "Trinity Deneyi",
+      "subtitle": "Trinity: çölde ilk atom patlaması",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Bilim",
+        "Savaş",
+        "Etik"
+      ],
+      "whatWeSee": "Oppenheimer'da Trinity testi New Mexico çölünde geceyi gündüze çevirir. Bilim insanları uzaktan izler; Oppenheimer'ın 'Bhagavad Gita' alıntısı filmde ikonikleşir. Kamera çöl gecesinde geri sayımı, siperde bekleyen bilim insanlarını ve patlama sonrası yükselen mantar bulutunu insan yüzlerindeki sessiz şokla birlikte veriyor.",
+      "realHistory": "16 Temmuz 1945'te Alamogordo yakınlarında ilk nükleer patlama gerçekleşti. Kod adı Trinity; plütonyum implosion bombası test edildi. 21 kiloton güç; cam rengi çöl kumu eritti. Manhattan Projesi gizlilik içinde yürüdü; yerel halk uyarılmadı. Test başarılı olunca Hiroşima ve Nagasaki bombaları yoluna girdi. Oppenheimer sonrasında nükleer kontrol savunucusu oldu; güvenlik soruşturmalarına takıldı. Trinity, atom çağının doğum belgesidir: bilim, savaş ve etik aynı anda kırıldı. 16 Temmuz 1945'te New Mexico çölünde yapılan Trinity deneyi, nükleer çağın teknik eşiğini geçtiği kadar etik gerilimini de başlattı. Manhattan Projesi ekipleri, implozyon tasarımının çalışıp çalışmayacağı konusunda son ana dek büyük belirsizlik yaşadı. Patlama sonrası ölçüm cihazları, şok dalgası ve ışınım verilerini toplayarak askeri karar vericilere yeni bir güç denkleminden söz etti. Bu başarı, Japonya'ya karşı kullanılacak bombaların yolunu hızlandırdı. Bilim insanları arasında ise caydırıcılık, sivil kayıp ve uluslararası denetim konuları etrafında derin bir vicdani bölünme ortaya çıktı. Trinity Deneyi 16 Temmuz 1945'te Alamogordo yakınlarında ilk nükleer patlama gerçekleşti. Trinity sahasında ölçüm kuleleri, yüksek hızlı kameralar ve basınç sensörleri patlamanın fiziksel imzasını ayrıntılı kaydetti. Başarı bilgisi kodlu mesajlarla Washington'a ulaştı. Aynı saatlerde bazı bilim insanları, teknik üstünlüğün siyasi kullanımını sınırlamak için uluslararası nükleer denetim önerileri hazırlamaya başladı.",
+      "accuracyNote": "Tarih ve lokasyon DOE/NNSA kayıtlarıyla uyumludur.",
+      "whyInteresting": "Aynı patlama hem zafer hem vicdan krizinin başlangıcıdır.",
+      "misconception": "Atom bombası aniden icat edildi; yıllar süren proje ve test zinciri vardı.",
+      "nextTopics": [
+        "Los Alamos",
+        "Oak Ridge",
+        "Hanford"
+      ],
+      "sources": [
+        {
+          "title": "Trinity test (US DOE)",
+          "url": "https://www.energy.gov/lm/trinity-test",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Manhattan Project (Britannica)",
+          "url": "https://www.britannica.com/event/Manhattan-Project",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Oppenheimer (Britannica)",
+          "url": "https://www.britannica.com/biography/J-Robert-Oppenheimer",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "oppenheimer-trinity",
+        "tf26-148-hiroshima-context"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "major",
+      "mediaConnection": "Oppenheimer'ın Trinity sahnesi ile 1945 Alamogordo nükleer testi ve Manhattan Projesi.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "oppenheimer",
+        "manhattan-projesi",
+        "bilim",
+        "trinity-deneyi",
+        "true-frame"
+      ],
+      "spoilerNote": "Oppenheimer hikâyesinin sonunu veya büyük sürprizlerini anlatabilir.",
+      "mediaChanged": "Film testi görsel doruk yapar; gerçekte yıllar süren Los Alamos emeği ve gizlilik vardı.",
+      "whyItMatters": "Aynı patlama hem zafer hem vicdan krizinin başlangıcıdır.",
+      "isFlagship": false,
+      "quickRealityCheck": "Trinity neden Hiroşima öncesi zorunlu bir adımdı?",
+      "lastReviewedAt": "2026-06-25"
+    }
+  ]
+}

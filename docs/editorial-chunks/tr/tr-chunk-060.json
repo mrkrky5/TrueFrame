@@ -1,0 +1,288 @@
+{
+  "locale": "tr",
+  "chunkIndex": 60,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-098-revolutionary-calendar",
+      "title": "Devrim Takvimi",
+      "subtitle": "Devrim Takvimi sadece dekor değil",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Unity",
+      "era": "Modern Tarih",
+      "region": "Fransa",
+      "themes": [
+        "Devrim",
+        "Siyaset",
+        "Toplum"
+      ],
+      "whatWeSee": "Assassin's Creed Unity'de Paris sokaklarında tarih artık Gregoryen değil: Eylül ayı Vendémiaire, günler on güne bölünmüş, hafta on gün. Oyuncu bu isimleri görev panolarında ve NPC diyaloglarında görür; takvim devrimin sadece siyaset değil, zamanı yeniden yazma projesi olduğunu hissettirir. Oyuncu taş duvarlı bir odada ay adları değişmiş takvim yapraklarını, cumhuriyet simgeli afişleri ve tarih tartışan devrim görevlilerini aynı kadrajda görüyor.",
+      "realHistory": "Fransız Devrimi sırasında Jakobenler, Hristiyan kilise takvimini ve kraliyet geleneğini reddederek 1793'te yeni bir zaman düzeni kurdu. Devrim takvimi 22 Eylül 1792'yi Yıl I başlangıcı saydı; günler on günlük 'dekád'lar içinde adlandırıldı, ay isimleri mevsim ve tarım imgeleri taşıdı (Vendémiaire üzüm hasadı, Thermidor sıcaklık). Amaç hem kilise otoritesini kırmak hem de vatandaşlığı ritüelleştirmekti: her onuncu gün 'sans-culotte' bayramı gibi laik törenler planlandı. Takvim kısa ömürlüydü. Robespierre düştükten sonra Thermidor tepkisi geldi; 1802'de Napolyon Gregoryen takvimi geri getirdi. Yine de takvim, devrimin sembolik şiddetini gösterir: zaman bile devlet eliyle yeniden kodlanabilirdi. Paris'te baskılar, okul kitapları ve mahkeme tutanakları yeni ay adlarını kullandı; köylüler ise çoğu zaman eski takvimi sürdürdü. Bu uçurum, devrimci reformun ülke içinde ne kadar ince yayıldığını gösterir. Unity bu atmosferi mekânsal olarak verir; tarihçiler ise takvimin 18 ay süren deneyimini ve Thermidor sonrası geri dönüşünü inceler. 1793'te Ulusal Konvansiyon, Hristiyan takviminin monarşi ve kilise düzenini temsil ettiğini savunarak Devrim Takvimi'ni yürürlüğe koydu. Aylar mevsim ve tarım döngüsüne göre Vendemiaire, Brumaire gibi yeni adlar aldı; hafta yerine on günlük dekad sistemi getirildi. Amaç, zamanı bile yurttaş aklıyla yeniden kurmaktı. Paris'te memurlar, mahkeme kâtipleri ve pazar esnafı bu sisteme uyum sağlamakta zorlandı; ücret, ibadet ve tatil ritmi karıştı. Napolyon, idari verimlilik gerekçesiyle 1806'da Gregoryen takvime dönerek devrimci deneyi kapattı. Devrim Takvimi",
+      "accuracyNote": "Takvim reformu ve kaldırılma tarihleri Britannica ile uyumludur; oyun kronolojiyi sıkıştırır.",
+      "whyInteresting": "Bir devletin takvimi değiştirmesi, otorite iddiasının en somut biçimlerinden biridir.",
+      "misconception": "Devrim takvimi yüzyıllarca kullanıldı; oysa fiilen kısa bir Jakoben deneyimiydi.",
+      "nextTopics": [
+        "Bastille Günü",
+        "Ekmek Fiyatları",
+        "Etats Generaux"
+      ],
+      "sources": [
+        {
+          "title": "French revolutionary calendar (Britannica)",
+          "url": "https://www.britannica.com/topic/French-revolutionary-calendar",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "French Revolution (Britannica)",
+          "url": "https://www.britannica.com/event/French-Revolution",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Thermidorian Reaction (Britannica)",
+          "url": "https://www.britannica.com/event/Thermidorian-Reaction",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-099-vendee",
+        "tf26-100-napoleon-rise",
+        "tf26-096-sans-culottes"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Unity Paris görevlerindeki Vendémiaire/Thermidor isimleri ile 1793-1805 Fransız devrim takvimi reformu.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "fransiz-devrimi",
+        "paris",
+        "devrim",
+        "devrim-takvimi",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun takvimi dekoratif bir arka plan yapar; gerçekte her ay adı tarım ve mevsim sözcüklerinden türetilmiş siyasi bir manifestoydu.",
+      "whyItMatters": "Bir devletin takvimi değiştirmesi, otorite iddiasının en somut biçimlerinden biridir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Unity'de gördüğün ay adları gerçekte kaç yıl resmi kaldı?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-099-vendee",
+      "title": "Vendée Direnişi",
+      "subtitle": "Bir sahnenin sakladığı sistem",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Unity",
+      "era": "Modern Tarih",
+      "region": "Fransa",
+      "themes": [
+        "Devrim",
+        "Siyaset",
+        "Toplum"
+      ],
+      "whatWeSee": "Assassin's Creed Unity doğrudan Vendée cephesini merkezine almasa da, devrim dönemindeki şiddetin Paris dışına nasıl taştığını ima eder. Oyunda siyasal kutuplaşma şehir komploları üzerinden ilerler; izleyici böylece karşı-devrimci direnişin yalnızca aristokrat entrikası değil, daha geniş bir toplumsal kırılma olabileceğini sezebilir.",
+      "realHistory": "Vendée İsyanı (1793-1796), Fransız Devrimi'nin en kanlı iç savaşlarından biriydi. Batı Fransa'daki kırsal Katolik nüfus, zorunlu askerlik, din karşıtı politikalar ve yerel özerklik kaybı nedeniyle Cumhuriyet yönetimine karşı silahlı direnişe geçti. Hareket aristokrat liderlik unsurları taşısa da tabanda köylüler, yerel zanaatkarlar ve rahip ağları önemli rol oynadı.\n\nParis'teki devrimci kararlar kırsalda yalnızca ideolojik değil, gündelik hayatı doğrudan etkileyen düzenlemeler yarattı. Kilise mülklerinin kamulaştırılması ve ruhban sınıfının devlete bağlılık yemini, inanç eksenli meşruiyet krizini derinleştirdi. Buna zorunlu askerlik eklendiğinde, yerel topluluklar bunu merkezi devletin yaşam dünyalarına zorla girişi olarak okudu.\n\nÇatışmalar kısa sürede toplu infazlar, köy yakmaları ve kitlesel sivil ölümleri içeren karşılıklı sertlik döngüsüne dönüştü. Cumhuriyet ordusunun \"infernal columns\" operasyonları ve isyancıların misillemeleri, dönemin hafızasında uzun süren travma bıraktı. Bu nedenle Vendée, devrim tarihindeki \"özgürlük\" anlatısını tek başına kutlamayı zorlaştıran kritik bir dosyadır.\n\nUnity'nin şehir merkezli hikayesi bu kırsal ölçeği sınırlı verir; ancak dönemin parçalanmasını anlamak için Vendée, devrimin aynı anda hem kurucu hem yıkıcı olabileceğini gösteren temel örnektir. 19. ve 20. yüzyılda bölge hafızasının ulusal siyasette yeniden yorumlanması da, bu isyanın yalnızca geçmişte kalmış bir olay değil, Fransa'da kimlik tartışmalarını besleyen yaşayan bir simge olduğunu kanıtlar. Bu yüzden Vendée, devrim anlatılarında etik sorumluluk testidir.",
+      "accuracyNote": "Dönemin kutuplaşma ruhu doğru yakalanır; Vendée'nin ölçeği ve kırsal dinamikleri oyunda ikincil kalır.",
+      "whyInteresting": "Aynı devrimci devletin bir bölgede özgürleştirici, başka bir bölgede yıkıcı olarak algılanabileceğini güçlü biçimde gösterir.",
+      "misconception": "Vendée'nin yalnızca aristokratların organize ettiği dar bir karşı-devrim hareketi olduğu düşünülür.",
+      "nextTopics": [
+        "Bastille Günü",
+        "Ekmek Fiyatları",
+        "Etats Generaux"
+      ],
+      "sources": [
+        {
+          "title": "Encyclopaedia Britannica - War of the Vendée",
+          "url": "https://www.britannica.com/event/War-of-the-Vendee",
+          "type": "article"
+        },
+        {
+          "title": "French Revolution Digital Archive - Dechristianization and Civil War",
+          "url": "https://frda.stanford.edu/",
+          "type": "academic"
+        },
+        {
+          "title": "Oxford Reference - Vendée uprising",
+          "url": "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803115738195",
+          "type": "reference"
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-100-napoleon-rise",
+        "tf26-097-women-march",
+        "tf26-098-revolutionary-calendar"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Unity'nin devrim kaosu atmosferi, Paris dışındaki Vendée iç savaşıyla birlikte okunduğunda dönemin şiddet coğrafyası netleşir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "fransiz-devrimi",
+        "paris",
+        "devrim",
+        "vend-e-direnisi",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun odağı Paris komplolarına daraltıyor; tarihsel tabloda Vendée, devrim ile kırsal toplum arasındaki büyük bir meşruiyet savaşıdır.",
+      "whyItMatters": "Aynı devrimci devletin bir bölgede özgürleştirici, başka bir bölgede yıkıcı olarak algılanabileceğini güçlü biçimde gösterir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Vendée direnişi neden sadece \"monarşi yanlısı isyan\" etiketiyle açıklanamaz?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-100-napoleon-rise",
+      "title": "Napolyon'un Yükselişi",
+      "subtitle": "Napolyon: devrimden imparatorluğa",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Unity",
+      "era": "Modern Tarih",
+      "region": "Fransa",
+      "themes": [
+        "Devrim",
+        "Siyaset",
+        "Toplum"
+      ],
+      "whatWeSee": "Assassin's Creed Unity Paris'inde Napolyon genç subay olarak belirir; devrim kaosundan imparatorluğa giden yol oyunun arka planında işlenir. Sahnede genç topçu komutanı zafer raporu sunuyor, kalabalık onu alkışlıyor ve siyasi kriz içinde darbe planları sessiz odalarda şekilleniyor. Devrim sokaklarında subay üniforması yükselişin habercisidir.",
+      "realHistory": "Napolyon Bonaparte, devrim ordusunda yükseldi: Toulon (1793), İtalya seferi (1796-97), Mısır (1798-99). 18 Brumaire (1799) ile iktidarı ele geçirdi; 1804'te kendini imparator ilan etti. Devrim eşitlik ve vatandaşlık vaat etmişti; Napolyon düzen ve savaş ile yanıt verdi. Kod Napoléon hukuku standardize etti. Unity Napolyon'u genç figür olarak gösterir; tarihsel kayıtlar onun devrimi sonlandıran ama mirasını devralan lider olduğunu gösterir. Napolyon'un yükselişi, Fransız Devrimi'nin açtığı askeri ve kurumsal boşlukta yetenek, propaganda ve fırsatın birleşmesiyle gerçekleşti. Topçu subayı olarak Toulon ve İtalya seferlerinde kazandığı başarı, onu cumhuriyet ordusunun yıldız komutanına dönüştürdü. Mısır seferi askeri açıdan tartışmalı olsa da Fransa'da kamu imajını zedelemedi; siyasi kriz ortamı 1799 darbesini mümkün kıldı. Birinci Konsül olarak idari merkezileşmeyi ve hukuk reformunu hızlandırdı, ardından imparatorluk tacını giydi. Devrimci ideallerin dili korunurken iktidar giderek kişisel otorite etrafında toplandı. Napolyon'un Yükselişi Napolyon Bonaparte, devrim ordusunda yükseldi: Toulon (1793), İtalya seferi (1796-97), Mısır (1798-99). İtalya seferindeki hızlı zaferler, Napolyon'a ordu içinde kişisel sadakat ve siyasi kredi sağladı; ganimet paylaşımı bu bağı pekiştirdi. 18 Brumaire sonrasında anayasal söylem korunsa da yürütme yetkisi dar bir çevrede toplandı. İdari modernleşme ilerlerken muhalif çoğulculuk düzenli biçimde daraltıldı.",
+      "accuracyNote": "Tarihler Britannica ile uyumludur; oyun kronolojisi sıkıştırılmıştır.",
+      "whyInteresting": "Aynı lider hem devrim subayı hem imparator oldu.",
+      "misconception": "Napolyon devrimin saf devamıydı; otoriter düzen inşa etti.",
+      "nextTopics": [
+        "Bastille Günü",
+        "Ekmek Fiyatları",
+        "Etats Generaux"
+      ],
+      "sources": [
+        {
+          "title": "Napoleon I (Britannica)",
+          "url": "https://www.britannica.com/biography/Napoleon-I",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Coup of 18 Brumaire (Britannica)",
+          "url": "https://www.britannica.com/event/Coup-of-18-Brumaire",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "French Revolution (Britannica)",
+          "url": "https://www.britannica.com/event/French-Revolution",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "ac-unity-revolution",
+        "tf26-096-sans-culottes"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "AC Unity Napolyon cameo'ları ile 1799 Brumaire coup ve Napolyon yükselişi.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "fransiz-devrimi",
+        "paris",
+        "devrim",
+        "napolyon-un-yukselisi",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Oyun Napolyon'u cameo yapar; gerçekte devrim ile imparatorluk arasında köprü kurdu.",
+      "whyItMatters": "Aynı lider hem devrim subayı hem imparator oldu.",
+      "isFlagship": true,
+      "quickRealityCheck": "18 Brumaire'de Napolyon neyi 'kurtardı' iddiasıyla iktidar aldı?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-101-declaration",
+      "title": "Bağımsızlık Bildirisi",
+      "subtitle": "Bağımsızlık Bildirisi: görünenden fazlası",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern Tarih",
+      "region": "ABD",
+      "themes": [
+        "Devrim",
+        "Siyaset",
+        "Kimlik"
+      ],
+      "whatWeSee": "Hamilton, Bağımsızlık Bildirisi'ni hızlı tempolu bir siyasal kırılma anı olarak sunar. Sahnedeki tartışmalar birkaç güçlü konuşmada düğümlenir ve metin neredeyse tek bir tarihsel nefeste doğmuş gibi görünür. İzleyici, bildiriyi hem özgürlük manifestosu hem de kurucu kuşağın kişisel cesaret sınavı olarak algılar.",
+      "realHistory": "Bağımsızlık Bildirisi, 4 Temmuz 1776'da imzalanan tek parça bir ilham metni değil, aylar süren müzakere ve düzeltmelerin sonucuydu. Jefferson'ın ana taslağı Adams, Franklin ve diğer komite üyeleriyle işlendi, ardından Kıta Kongresi metni siyasi olarak kabul edilebilir hale getirmek için önemli değişiklikler yaptı. Belgenin amacı sadece felsefi bir özgürlük beyanı değildi; Britanya'dan kopuşu uluslararası hukuk dilinde gerekçelendirmek ve özellikle Fransa gibi potansiyel müttefiklere siyasi ciddiyet sinyali vermekti.\n\nMetindeki \"bütün insanlar eşit yaratılmıştır\" cümlesi devrimci bir çerçeve sundu, fakat uygulama alanı son derece sınırlı kaldı. Kadınlar, köleleştirilmiş Afrikalılar, Yerli uluslar ve mülksüz kesimler yeni siyasal topluluğun dışında bırakıldı. Jefferson'ın köle ticaretini eleştiren bölümü, birlik bozulmasın diye nihai metinden çıkarıldı; bu tercih dönemin uzlaşma sınırını açıkça gösterir.\n\nYani bildiri hem geniş bir normatif iddia hem de dar bir siyasi koalisyon belgesiydi. Sonraki yüzyıllarda kölelik karşıtları, kadın hakları savunucuları ve sivil haklar hareketi aynı metni sisteme karşı kanıt olarak kullandı. Belgenin gücü tam da bu gerilimde yatar: yazıldığı anın sınırlarını taşırken, gelecekte o sınırları zorlayacak bir dil de üretmiştir. Bu yüzden metin, bir ulusun başlangıç belgesi kadar, o ulusun kendi eşitlik iddiasıyla tekrar tekrar yüzleştiği canlı bir siyasi referans olarak da okunur. Metnin hukuki dili ile toplumsal gerçeklik arasındaki mesafe, Amerikan siyasi tartışmalarının bugün bile temel çatışma hattıdır.",
+      "accuracyNote": "Belgenin dönüm noktası rolü doğru, ancak taslak-revizyon sürecinin karmaşıklığı sahnede doğal olarak sıkıştırılmıştır.",
+      "whyInteresting": "Aynı metnin hem dışlayıcı bir düzenin parçası olup hem de sonraki hak mücadelelerine dil sağlaması tarihsel olarak çok çarpıcıdır.",
+      "misconception": "Bağımsızlık Bildirisi'nin tek bir kişinin anlık ilhamıyla yazıldığı düşünülür.",
+      "nextTopics": [
+        "Hamilton'ın Finans Sistemi",
+        "Federalistler",
+        "Kölelik Çelişkisi"
+      ],
+      "sources": [
+        {
+          "title": "Declaration of Independence: A Transcription",
+          "url": "https://www.archives.gov/founding-docs/declaration-transcript",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Declaration and Revolution",
+          "url": "https://history.state.gov/milestones/1776-1783/declaration",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Thomas Jefferson's Draft Declaration",
+          "url": "https://www.loc.gov/exhibits/declara/ruffdrft.html",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-102-hamilton-finance",
+        "tf26-103-federalists",
+        "tf26-104-enslavement-contradiction"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton metnin duygusal etkisini yükseltir; True Frame diplomasi ve iç siyaset bağlamını tamamlar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "abd-devrimi",
+        "kurucular",
+        "hamilton",
+        "bagimsizlik-bildirisi",
+        "true-frame"
+      ],
+      "spoilerNote": "Hamilton hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Müzikal karar sürecini sahne ritmine uyarlayıp hızlandırır; tarihsel süreç daha uzun ve çok katmanlı bir pazarlıkla ilerledi.",
+      "whyItMatters": "Aynı metnin hem dışlayıcı bir düzenin parçası olup hem de sonraki hak mücadelelerine dil sağlaması tarihsel olarak çok çarpıcıdır.",
+      "isFlagship": false,
+      "quickRealityCheck": "Bildirideki eşitlik cümlesi 1776'da gerçekten herkesi kapsıyor muydu, yoksa sonraki kuşaklar mı kapsamı genişletti?",
+      "lastReviewedAt": "2026-06-27"
+    }
+  ]
+}

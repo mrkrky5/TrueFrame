@@ -1,0 +1,362 @@
+{
+  "batch": "tr-chunks-035-036-source-aware",
+  "sourceChunks": [
+    "tr-chunk-035.json",
+    "tr-chunk-036.json"
+  ],
+  "notes": [
+    "External source-aware editorial review for Turkish chunks 035 and 036.",
+    "Only changed fields are included. Apply by id + locale.",
+    "sourceUpdates are separated from text field updates."
+  ],
+  "entries": [
+    {
+      "id": "got-battle-of-bastards-hastings-real",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Direct 'Battle of the Bastards was inspired by Hastings' framing was too certain. Reframed Hastings as a useful historical parallel for shield-wall pressure, battlefield compression, and political consequence.",
+      "fields": {
+        "title": "Piçler Savaşı ve 1066 Hastings",
+        "subtitle": "Kalkan duvarı, sıkışma ve tahtı değiştiren bir savaş.",
+        "whatWeSee": "Game of Thrones’ta Piçler Savaşı, izleyiciyi kalkanların, okların, atların ve ceset yığınlarının arasında nefessiz bırakan kaotik bir savaş sahnesi olarak kurulur. Jon Snow’un kalabalığın içinde ezilme hissi, kahramanlık anlatısından çok savaş alanındaki fiziksel sıkışmayı öne çıkarır.",
+        "realHistory": "Piçler Savaşı’nı tek bir tarihsel savaşa birebir bağlamak doğru olmaz; sahne, farklı Orta Çağ ve antik savaş imgelerinden beslenen sinemasal bir karışımdır. Yine de 1066 Hastings Savaşı, bu sahneyi okumak için güçlü bir tarihsel paralel sunar. Hastings’te Harold Godwinson’ın Anglo-Sakson ordusu yüksek bir hatta kalkan duvarı kurdu; William’ın Norman kuvvetleri ise okçular, piyade ve süvariyle bu hattı kırmaya çalıştı.\n\nKalkan duvarı, tek tek kahramanlardan çok disipline dayanan bir savunma biçimiydi. Bir asker hattı terk ettiğinde yalnız kendi yerini değil, yanındakinin güvenliğini de açığa çıkarıyordu. Hastings’in kırılma noktası da bu disiplinin aşınmasıyla ilgilidir: Normanların baskısı, sahte geri çekilme anlatıları ve uzun süren çarpışma sonunda Anglo-Sakson hattı çözülmeye başladı. Harold’ın ölümüyle savaş yalnız bir meydan yenilgisi değil, İngiltere’nin siyasal düzenini değiştiren bir dönüm noktasına dönüştü.\n\nGame of Thrones bu tür tarihsel ayrıntıları belgesel gibi aktarmaz; savaşın duygusunu büyütür. Dizideki ceset yığınları, daralan alan ve kalabalığın içinde boğulma hissi, Hastings gibi savaşlarda bireysel cesaretin çoğu zaman düzen, zemin ve panik karşısında ne kadar kırılgan kaldığını hatırlatır. Asıl gerçeklik, savaşın temiz bir düello değil, nefesin, yerin ve sıranın bile hayatta kalmayı belirlediği bir kitle çarpışması olmasıdır.",
+        "accuracyNote": "Battle of the Bastards için tek ve kesin tarihsel kaynak olarak Hastings gösterilmemeli. Hastings, özellikle kalkan duvarı, disiplinin bozulması ve taht sonucunu değiştiren savaş etkisi açısından uygun bir karşılaştırma sunar.",
+        "whyInteresting": "Kalkan duvarı, bireysel kahramanlıktan çok yanındaki askere güvenmeye dayanan bir sistemdi; bir kişinin paniklemesi bütün hattı tehlikeye atabilirdi.",
+        "misconception": "Orta Çağ savaşlarının genellikle bire bir düellolardan oluştuğu sanılır; gerçekte düzen, arazi, komuta ve kalabalık baskısı sonucu belirlerdi.",
+        "mediaChanged": "Game of Thrones savaş deneyimini fiziksel sıkışma ve panik üzerinden yoğunlaştırır; Hastings gibi tarihsel örnekler ise bu hissin arkasında disiplin, arazi avantajı ve komuta zinciri gibi daha somut askeri nedenler olduğunu gösterir.",
+        "whyItMatters": "Hastings, bir savaşın yalnız cephedeki sonucu değil, dil, toprak düzeni ve yönetici sınıf gibi uzun vadeli yapıları da değiştirebileceğini gösterir.",
+        "quickRealityCheck": "Piçler Savaşı gerçekten doğrudan Hastings’in kopyası mı, yoksa Hastings üzerinden okunabilecek daha geniş bir Orta Çağ savaş sıkışması mı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "What Happened at the Battle of Hastings (English Heritage)",
+            "url": "https://www.english-heritage.org.uk/visit/places/1066-battle-of-hastings-abbey-and-battlefield/history-and-stories/what-happened-battle-hastings/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "1066 and the Norman Conquest (English Heritage)",
+            "url": "https://www.english-heritage.org.uk/learn/histories/1066-and-the-norman-conquest/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Battle of Hastings (Britannica)",
+            "url": "https://www.britannica.com/event/Battle-of-Hastings",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "vikings-funeral-fadlan-real",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original text treated Ibn Fadlan as a universal Viking funeral source. Reframed as a 10th-century Rus/Volga account and kept the ritual details without generalizing to all Norse practice.",
+      "fields": {
+        "title": "Viking Cenazeleri ve İbn Fadlan",
+        "subtitle": "Bir Arap elçinin gözünden Rus cenaze ritüeli.",
+        "whatWeSee": "Vikings gibi yapımlarda kuzeyli savaşçıların cenazesi çoğu zaman yanan gemiler, kurbanlar, ağıtlar ve görkemli geçiş törenleriyle gösterilir. Sahne hem romantik hem de ürkütücü bir ölüm estetiği yaratır.",
+        "realHistory": "İbn Fadlan’ın 10. yüzyılda Volga bölgesinde gördüğü cenaze töreni, Viking dünyası hakkında elimizdeki en çarpıcı dış gözlem kaynaklarından biridir. Burada dikkat edilmesi gereken nokta, onun bütün İskandinav toplumlarını değil, Volga çevresindeki Rus tüccar/savaşçı topluluklarını anlattığıdır. Bu yüzden metin çok değerlidir ama tek başına “tüm Viking cenazeleri böyleydi” demek için kullanılmamalıdır.\n\nAnlatıda ölen yüksek statülü bir adam günlerce bekletilir; eşyaları, hayvanlar, içki, ritüel sözler ve sonunda gemiyle yakma sahnesi törenin parçalarıdır. İbn Fadlan’ın en rahatsız edici biçimde kaydettiği bölüm, ölen adama eşlik etmesi için bir kadın kölenin öldürülmesidir. Bu ayrıntı, modern ekranda çoğu zaman estetikleştirilen cenaze sahnelerinin arkasında şiddet, statü ve toplumsal baskı olduğunu hatırlatır.\n\nVikings dizisi bu malzemeyi dramatik ve görsel olarak büyütür. Tarihsel açıdan daha doğru okuma şudur: Kuzeyli/Rus ölüm ritüelleri tek tip değildi; gömü, yakma, gemi kullanımı, mezar eşyası ve kurban gibi pratikler bölgeye, döneme ve statüye göre değişiyordu. İbn Fadlan’ın metni, bu çeşitliliğin bir örneğini çok ayrıntılı şekilde kaydeder ve Orta Çağ’da farklı kültürlerin birbirini nasıl gözlemlediğini de gösterir.",
+        "accuracyNote": "İbn Fadlan’ın anlatısı bütün Viking cenazelerinin standart modeli değil, Volga çevresindeki Rus topluluklarına dair çok önemli bir dış gözlem kaynağıdır.",
+        "whyInteresting": "İbn Fadlan’ın metni, cenaze ritüelini yalnız dini bir tören olarak değil; statü, şiddet, kölelik ve topluluk baskısı içeren sosyal bir olay olarak gösterir.",
+        "misconception": "Viking cenazelerinin her zaman yakılan gemilerden ibaret olduğu sanılır; gerçekte cenaze pratikleri bölgeye, döneme ve kişinin statüsüne göre değişiyordu.",
+        "mediaChanged": "Vikings cenaze ritüellerini görsel ve duygusal olarak yoğunlaştırır; İbn Fadlan’ın notları ise bu törenlerin hem büyüleyici hem de çok sert toplumsal anlamlar taşıdığını gösterir.",
+        "whyItMatters": "Bu anlatı, Orta Çağ’da kültürler arası temasın yalnız savaş ve ticaretten değil, birbirini dikkatle gözlemleyen metinlerden de oluştuğunu gösterir.",
+        "quickRealityCheck": "İbn Fadlan’ın anlattığı cenaze bütün Viking dünyasının ortak ritüeli miydi, yoksa Volga’daki Rus topluluklarına ait güçlü ama sınırlı bir tanıklık mı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Ibn Fadlan (Britannica)",
+            "url": "https://www.britannica.com/biography/Ibn-Fadlan",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Among the Norse Tribes: The Remarkable Account of Ibn Fadlan (AramcoWorld Archive)",
+            "url": "https://archive.aramcoworld.com/issue/199906/among.the.norse.tribes-the.remarkable.account.of.ibn.fadlan.htm",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Viking Burial Customs (National Museum of Denmark)",
+            "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/religion-magic-death-and-rituals/",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "the-crown-aberfan-tragedy-real",
+      "locale": "tr",
+      "decision": "flagship_rewrite",
+      "reason": "Original flagship was emotionally strong but too certain on the Queen's private regret and too melodramatic. Rebuilt around verified disaster facts, tribunal findings, The Crown's dramatization, and institutional accountability.",
+      "fields": {
+        "title": "Aberfan Felaketi ve Kraliçe’nin Geciken Ziyareti",
+        "subtitle": "Bir kasabanın yasını, kurumların ihmaliyle birlikte okumak.",
+        "whatWeSee": "The Crown, Aberfan felaketini Kraliçe II. Elizabeth’in duygularını göstermekte zorlanan monarşik mesafesiyle birlikte anlatır. Bölüm, bir kasabanın acısını yalnız maden faciası olarak değil, devletin ve sembolik liderliğin halkla ilişkisi üzerinden kurar.",
+        "realHistory": "### 21 Ekim 1966: Okulun Üzerine Gelen Yığın\nAberfan felaketi, 21 Ekim 1966 sabahı Güney Galler’deki kömür atık yığınının kayarak Pantglas Junior School ve çevredeki evlerin üzerine çökmesiyle yaşandı. Sonuç 144 ölüydü; bunların 116’sı çocuktu. Felaketi “doğal afet” diye okumak yanıltıcıdır. Atık yığını, su kaynakları ve yağışla birleşince tehlikeli hale gelmişti; sonraki tribunal, sorumluluğu National Coal Board’a yükledi.\n\n### The Crown’un Gördüğü Şey\nDizinin merkezinde felaketin fiziksel yıkımı kadar, Kraliçe’nin bölgeye geç gitmesi de vardır. Elizabeth II, Aberfan’ı felaketten sekiz gün sonra ziyaret etti. Bunun sebebi kimi anlatılarda kurtarma çalışmalarını aksatmama kaygısı, kimi anlatılarda ise monarşik mesafe ve kurum refleksi olarak açıklanır. Daha sonra bu gecikmenin onun için büyük bir pişmanlık olarak anıldığına dair güvenilir aktarımlar vardır; ancak bunu tek cümlelik psikolojik kesinlik gibi değil, monarşinin kriz anındaki sembolik rolüyle birlikte okumak daha doğrudur.\n\n### Asıl Merkez: Kurumsal İhmal\nAberfan’ın tarihsel ağırlığı, yalnız kraliyet tepkisinde değildir. Felaket, endüstriyel atıkların, yerel uyarıların ve kamu kurumlarının sorumluluğunun nasıl ölümcül biçimde birleşebileceğini gösterdi. Tribunal’ın sert dili, olayın “talihsizlik” değil, önlenebilir bir kurumsal başarısızlık olduğunu açıkça ortaya koydu. Bu yüzden Aberfan, Britanya’da sanayi güvenliği, kamu sorumluluğu ve devlet kurumlarının hesap verebilirliği tartışmalarında kalıcı bir sembol oldu.\n\n### Medyanın Değiştirdiği Yer\nThe Crown, Aberfan’ı monarşinin duygusal sınavı olarak dramatize eder. Bu güçlü bir bakış açısıdır; fakat tek bakış açısı değildir. Gerçek Aberfan hikâyesi, kasabanın yasını, işçi topluluklarının kırılganlığını, madencilik ekonomisinin mirasını ve devlet kurumlarının ihmale nasıl cevap verdiğini birlikte anlatır. Bölümün etkisi de buradan gelir: Felaket, liderlerin gözyaşından daha büyük bir soruya çıkar—bir kurum kendi halkını koruyamadığında, kim hesap verir?",
+        "accuracyNote": "The Crown, Elizabeth II’nin duygusal tepkisini dramatize eder. Tarihsel omurga daha sağlamdır: 144 ölüm, 116 çocuk, National Coal Board’ın sorumluluğu ve Kraliçe’nin bölgeyi sekiz gün sonra ziyaret etmesi.",
+        "whyInteresting": "Aberfan, monarşi tarihindeki bir duygu anı olmaktan çok, endüstriyel güvenlik ve kamu sorumluluğu açısından hâlâ hatırlanan kurumsal bir kırılmadır.",
+        "misconception": "Aberfan’ın yalnız ani yağmurun yol açtığı talihsiz bir heyelan olduğu sanılır; tribunal, felaketi National Coal Board’ın ihmaliyle ilişkilendirdi.",
+        "mediaChanged": "The Crown kraliyet tepkisini öne çıkarır; tarihsel kayıtlar ise kasabanın kaybı, maden atık yönetimi ve kurumsal hesap verebilirlik konularını merkeze alır.",
+        "whyItMatters": "Aberfan, kriz anlarında sembolik liderliğin önemli olduğunu ama asıl adaletin kurumların ihmalini görünür kılmakla başladığını gösterir.",
+        "quickRealityCheck": "Aberfan yalnız Kraliçe’nin geç ziyaretiyle mi hatırlanmalı, yoksa önlenebilir kurumsal ihmalin yol açtığı bir sanayi felaketi olarak mı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Aberfan Disaster 1966 (National Library of Wales)",
+            "url": "https://www.library.wales/discover-learn/digital-exhibitions/archives/aberfan-disaster-1966",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "The Aberfan Tribunal (Glamorgan Archives)",
+            "url": "https://glamarchives.gov.uk/blood/aberfan/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Aberfan Disaster Landslide Case Study (British Geological Survey)",
+            "url": "https://www.bgs.ac.uk/case-studies/aberfan-1966-landslide-case-study/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The True Story of the Aberfan Disaster (Smithsonian Magazine)",
+            "url": "https://www.smithsonianmag.com/history/true-story-aberfan-disaster-featured-crown-180973565/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "the-crown-suez-crisis-empire-end",
+      "locale": "tr",
+      "decision": "flagship_rewrite",
+      "reason": "Original flagship was good but heavy on rhetoric. Reframed with Nasser's nationalization, Sèvres collusion, US financial pressure, Eden's fall, and imperial transition without overstating 'the exact moment' language.",
+      "fields": {
+        "title": "Süveyş Krizi: İmparatorluğun Sınırı",
+        "subtitle": "1956’da kanal, petrol ve güç dengesi nasıl kırıldı?",
+        "whatWeSee": "The Crown, Süveyş Krizi’ni Anthony Eden’ın sağlığı, gururu ve siyasi takıntıları üzerinden anlatır. Kriz, dizide İngiltere’nin eski imparatorluk refleksleriyle yeni dünya düzeni arasına sıkıştığı bir an gibi görünür.",
+        "realHistory": "### Nasser ve Kanalın Millileştirilmesi\n1956’da Mısır lideri Cemal Abdünnasır, Süveyş Kanalı’nı millileştirdiğini açıkladı. Kanal, Akdeniz ile Kızıldeniz’i bağlayan ticaret ve petrol hattıydı; İngiltere ve Fransa için yalnız ekonomik değil, imparatorluk prestiji açısından da kritik bir semboldü. Londra’da bu karar, Mısır’ın egemenlik hamlesinden çok Britanya’nın eski küresel düzenine meydan okuma olarak algılandı.\n\n### Sèvres ve Gizli Plan\nKrizin en tartışmalı yönü, İngiltere, Fransa ve İsrail arasında yapılan gizli Sèvres görüşmeleriydi. Plana göre İsrail Mısır’a saldıracak, İngiltere ve Fransa ise kanalı “koruma” bahanesiyle müdahale edecekti. Bu plan askeri açıdan belirli başarılar getirse de diplomatik açıdan yıkıcıydı; çünkü ABD’nin açık onayı olmadan yürütülmüş, Birleşmiş Milletler baskısını ve Sovyet tehdidini aynı anda tetiklemişti.\n\n### Asıl Baskı: Para ve İttifak\nSüveyş, modern dünyada finansal gücün askeri güçten daha belirleyici olabileceğini gösterdi. ABD, İngiltere’ye ekonomik baskı uyguladı; sterling üzerindeki baskı, rezerv kaygısı ve IMF desteği meselesi Londra’yı ateşkese zorlayan temel etkenler arasına girdi. İngiltere askeri varlığını sürdürebilecek gibi görünse bile, ekonomik ve diplomatik zemini kaybettiğinde geri çekilmek zorundaydı.\n\n### The Crown’un Değiştirdiği Yer\nDizi, krizi Eden’ın kişisel çöküşüyle ilişkilendirir ve bu dramatik olarak anlaşılırdır. Ancak Süveyş yalnız bir başbakanın hatası değildi; Britanya’nın II. Dünya Savaşı sonrası kapasitesiyle eski imparatorluk alışkanlıkları arasındaki uyumsuzluğun açığa çıkmasıydı. Krizden sonra İngiltere hâlâ önemli bir güç olarak kaldı, fakat tek başına imparatorluk tarzı müdahale yapabileceği inancı ağır darbe aldı.\n\n### Sonuç\nSüveyş, “imparatorluk bitti” diye tek bir geceye sıkıştırılamaz; ama 1956, bu bitişin herkes tarafından görüldüğü anlardan biridir. Nasser Arap dünyasında prestij kazandı, ABD–Sovyet ikili düzeni daha belirgin hale geldi, İngiltere ise dış politikasını Amerikan desteği olmadan yürütmenin sınırlarını sert biçimde gördü.",
+        "accuracyNote": "The Crown krizi kişisel ve saray odaklı dramatize eder. Tarihsel çerçevede kanalın millileştirilmesi, Sèvres gizli planı, ABD ekonomik baskısı ve İngiltere’nin savaş sonrası kapasite sınırları birlikte okunmalıdır.",
+        "whyInteresting": "Süveyş, askeri operasyon sahada ilerlese bile finansal baskı ve diplomatik izolasyonun bir devleti geri çekilmeye zorlayabileceğini gösterdi.",
+        "misconception": "Süveyş’in yalnız Nasser’e verilen askeri cevap olduğu sanılır; gerçekte kriz petrol, kanal kontrolü, imparatorluk prestiji, ABD baskısı ve Soğuk Savaş dengesiyle ilgilidir.",
+        "mediaChanged": "The Crown krizi Eden’ın kişisel çöküşü üzerinden yoğunlaştırır; tarihsel kayıtlar ise bunun gizli diplomasi, finansal baskı ve savaş sonrası güç kaybıyla ilgili daha geniş bir kriz olduğunu gösterir.",
+        "whyItMatters": "Süveyş, 20. yüzyıl ortasında Avrupa imparatorluklarının artık ABD ve Sovyetler hesaba katılmadan küresel kriz yönetemeyeceğini gösteren en açık örneklerden biridir.",
+        "quickRealityCheck": "Süveyş Krizi yalnız Eden’ın kişisel hatası mıydı, yoksa İngiltere’nin savaş sonrası güç sınırlarını açığa çıkaran daha büyük bir kırılma mı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Suez Crisis Teaching Resource (The National Archives UK)",
+            "url": "https://www.nationalarchives.gov.uk/education/resources/suez-crisis/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Foreign Relations of the United States: Sèvres Understanding (Office of the Historian)",
+            "url": "https://history.state.gov/historicaldocuments/frus1955-57v16/d373",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Suez Crisis (National Army Museum)",
+            "url": "https://www.nam.ac.uk/explore/suez-crisis",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Suez Crisis (Britannica)",
+            "url": "https://www.britannica.com/event/Suez-Crisis",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "civ-alphabet-revolution-real",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Removed deterministic 'priestly monopoly ended' language and kept the technology-tree comparison while explaining alphabetic writing more carefully.",
+      "fields": {
+        "title": "Alfabe: Tarihin En Büyük Bilgi Teknolojilerinden Biri",
+        "subtitle": "Yazıyı öğrenilebilir, taşınabilir ve çoğaltılabilir kılan adım.",
+        "whatWeSee": "Civilization’da alfabe veya yazı, teknoloji ağacında açılan bir basamak gibi görünür. Oyuncu için bu çoğu zaman bilim puanı, diplomasi ya da yeni kurumlar anlamına gelir.",
+        "realHistory": "Alfabe, tarihteki en etkili soyut teknolojilerden biridir; ama etkisi bir anda bütün toplumu okuryazar yapmasından değil, yazının öğrenilmesini ve aktarılmasını görece kolaylaştırmasından gelir. Fenike yazı sistemi, daha karmaşık yazı geleneklerine göre çok daha sınırlı sayıda işarete dayanıyordu. Bu, özellikle tüccarlar ve idari kayıt tutan çevreler için pratik bir avantaj yarattı.\n\nYunanların Fenike sistemini uyarlayıp sesli harfleri yazıya dahil etmesi, Akdeniz yazı kültürü açısından büyük bir dönüşümdü. Bu gelişme, şiirden hukuka, ticari kayıtlardan felsefeye kadar farklı metin türlerinin daha esnek biçimde aktarılmasına yardımcı oldu. Yine de alfabe “bilgiyi tamamen demokratikleştirdi” demek fazla hızlı olur; okuryazarlık hâlâ sınıf, eğitim, kent yaşamı ve kurumlarla sınırlıydı.\n\nCivilization bu süreci tek bir araştırma hamlesine indirger. Tarihsel gerçeklikte ise alfabe, kuşaklar boyunca ticaret, kolonizasyon, eğitim ve devlet yazışmalarıyla yayılan uzun bir dönüşümdür. Oyundaki küçük ikonun arkasında, bilginin kimler tarafından üretildiği ve kimler tarafından okunabildiği sorusunu değiştiren çok büyük bir altyapı vardır.",
+        "accuracyNote": "Fenike alfabesi ve Yunan uyarlaması yazı tarihinin kritik adımlarıdır; ancak alfabe tek başına ani ve tam bir okuryazarlık devrimi yaratmadı.",
+        "whyInteresting": "Alfabenin gücü, karmaşık fikirleri küçük bir işaret setiyle yazılabilir hale getirerek ticaret, hukuk ve eğitim maliyetini azaltmasındadır.",
+        "misconception": "Alfabenin bir anda bilgiyi herkes için erişilebilir yaptığı sanılır; gerçekte etkisi uzun vadeli ve kurumlara bağlıydı.",
+        "mediaChanged": "Civilization alfabeyi tek hamlede açılan bir teknoloji gibi gösterir; tarihsel süreç ise Fenike, Yunan ve Akdeniz ticaret/kültür ağları içinde daha yavaş yayıldı.",
+        "whyItMatters": "Alfabe, bilginin saklanma ve aktarılma maliyetini düşürdüğü için devlet, ticaret ve edebiyat tarihinin temel teknolojilerinden biri oldu.",
+        "quickRealityCheck": "Alfabe gerçekten tek başına bilgi tekelini yıktı mı, yoksa yazıyı öğrenmeyi kolaylaştıran ama etkisi kurumlarla büyüyen bir araç mıydı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Phoenician Alphabet & Language (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/article/17/the-phoenician-alphabet--language/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Greek Alphabet (World History Encyclopedia)",
+            "url": "https://www.worldhistory.org/Greek_Alphabet/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Greece 1050–520 BC (British Museum)",
+            "url": "https://www.britishmuseum.org/collection/galleries/greece-1050-520-bc",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "total-war-siege-starvation-real",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Removed unsupported '90% of sieges' claim and reframed siege warfare around blockade, logistics, hunger, disease, negotiation, and assault as one option rather than the default.",
+      "fields": {
+        "title": "Kuşatma Gerçeği: Açlık, Hastalık ve Lojistik",
+        "subtitle": "Sur önündeki bekleyiş çoğu zaman hücumdan daha belirleyiciydi.",
+        "whatWeSee": "Total War’da kuşatmalar çoğu zaman mancınıklar, koçbaşları, yanan kapılar ve surlara tırmanan askerlerle doruğa çıkar. Oyuncu için kuşatma, görkemli bir saldırı anıdır.",
+        "realHistory": "Tarihsel kuşatmaların çoğu, yalnız son hücum anıyla anlaşılmaz. Bir kaleyi ya da şehri almak, çoğu zaman içeriye hiçbir şey sokmamak, su ve erzak akışını kesmek, moral bozmak ve beklemek anlamına gelirdi. Savunan taraf için açlık, susuzluk ve hastalık surlardan daha tehlikeli hale gelebilirdi. Saldıran ordu için de sorun büyüktü: Binlerce askeri aylarca aynı yerde beslemek, çevre köyleri tüketmek, salgınları önlemek ve yardım ordusuna yakalanmamak gerekiyordu.\n\nBu yüzden kuşatma savaşı sadece “sur yıkma teknolojisi” değil, lojistik ve psikoloji savaşıydı. Teslim anlaşmaları, fidye, ihanet, tünel kazma, su kaynaklarını bozma, aç bırakma ve bazen de doğrudan saldırı aynı repertuvarın parçalarıydı. Büyük hücumlar vardı; ama bunlar pahalı ve riskliydi. Komutan için en iyi sonuç çoğu zaman kalenin savaşmadan teslim olmasıydı.\n\nTotal War bu süreci oyun temposu için hızlandırır. Gerçekte kuşatma, aylar süren bekleyişin, kötü kokunun, hastalığın, yiyecek hesabının ve moral çöküşünün hikâyesidir. Kılıçtan önce ekmek biter; surdan önce sabır çöker.",
+        "accuracyNote": "Kuşatmaların tamamını veya çoğunu kesin yüzdelerle açıklamak doğru değil. Güvenli çerçeve: abluka, açlık, hastalık, pazarlık ve lojistik, kuşatma savaşının merkezindeydi.",
+        "whyInteresting": "Kuşatan ordu da en az kuşatılan şehir kadar kırılgandı; erzak, hastalık ve yardım ordusu riski bekleyişi tehlikeli hale getirirdi.",
+        "misconception": "Kuşatmaların genellikle kahramanca sur hücumlarıyla bittiği sanılır; gerçekte teslim, açlık, hastalık ve pazarlık çoğu zaman daha belirleyiciydi.",
+        "mediaChanged": "Total War kuşatmayı dramatik saldırı sahnelerine indirger; tarihsel kayıtlar ise kuşatmanın temelinde lojistik, abluka ve moral baskısı olduğunu gösterir.",
+        "whyItMatters": "Kuşatma savaşı, askeri tarihte erzak ve zamanın çoğu zaman cesaret ve silah kadar belirleyici olduğunu gösterir.",
+        "quickRealityCheck": "Bir kale genellikle koçbaşıyla mı düşerdi, yoksa açlık, hastalık, pazarlık ve lojistik baskısıyla mı?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Medieval Siege Warfare (English Heritage)",
+            "url": "https://www.english-heritage.org.uk/learn/story-of-england/medieval/siege-warfare/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Siege Warfare (Britannica)",
+            "url": "https://www.britannica.com/topic/siege-warfare",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "mafia-rico-law-impact-real",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Title and body overstated RICO as 'ending' the Mafia. Reframed as a major legal tool that weakened hierarchical organized crime by targeting enterprises and patterns.",
+      "fields": {
+        "title": "RICO Yasası: Mafyayı Zayıflatan Hukuk Formülü",
+        "subtitle": "Komisyonu hedef alan örgüt mantığı.",
+        "whatWeSee": "Mafia oyunlarında suç ailesi çoğu zaman liderleri öldürülünce çöken bir yapı gibi görünür. Oyuncu hiyerarşinin tepesine ulaşır ve örgütün sonunu fiziksel güçle getirir.",
+        "realHistory": "Gerçek hayatta Amerikan mafyasına karşı en etkili darbelerden biri silahlı çatışma değil, hukuk tekniğiyle geldi. 1970’te kabul edilen RICO, savcıların yalnız tek tek suçları değil, bu suçları sürdüren “enterprise” yapısını hedef almasına imkân verdi. Böylece bir liderin bizzat silah kullanması gerekmiyordu; eğer örgütün haraç, cinayet, rüşvet veya kumar düzeninin parçası olduğu gösterilebiliyorsa, daha geniş bir suç modeli kurulabiliyordu.\n\nBu yaklaşım, mafyanın en güçlü savunmasını zorladı: emirlerin dolaylı verilmesi ve üst yönetimin görünürde temiz kalması. RICO sayesinde savcılar, farklı suçları aynı örgütsel kalıpta birleştirip aileleri sistem olarak yargılayabildi. 1980’lerdeki Mafia Commission davası, New York’taki Beş Aile liderlerine karşı bu mantığın en sembolik uygulamalarından biri oldu.\n\nYine de “RICO mafyayı bitirdi” demek fazla kesin olur. Mafya zayıfladı, lider kadrolar ağır cezalar aldı, omertà daha sık kırıldı; fakat organize suç tamamen ortadan kalkmadı. RICO’nun asıl önemi, devlete suç örgütünü yalnız sokak şiddeti değil, kurumsal ve ekonomik yapı olarak görme imkânı vermesidir.",
+        "accuracyNote": "RICO mafyayı tamamen bitirmedi; ancak organize suçu enterprise/pattern mantığıyla hedef alarak özellikle hiyerarşik mafya davalarında büyük bir kırılma yarattı.",
+        "whyInteresting": "RICO’nun gücü, tetikçiyi değil yalnızca, tetikçinin arkasındaki emir, para ve örgüt düzenini de mahkemeye taşıyabilmesindedir.",
+        "misconception": "Mafyayı bitirmenin liderleri öldürmek veya tutuklamakla mümkün olduğu sanılır; gerçek mücadelede örgütsel yapı ve gelir düzeni hedef alınmak zorundaydı.",
+        "mediaChanged": "Mafia oyunları örgütü dramatik aile savaşlarıyla gösterir; RICO davaları ise suçun şirket benzeri yapısını ve hukuk yoluyla nasıl çözülebileceğini görünür kılar.",
+        "whyItMatters": "RICO, organize suçla mücadelede hukukun yalnız bireysel suçları değil, suç üreten sistemleri hedefleyebileceğini gösterdi.",
+        "quickRealityCheck": "Mafya tek tek liderler yakalanınca mı çöker, yoksa liderleri koruyan örgütsel yapı mahkemeye taşındığında mı gerçekten zayıflar?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "RICO Charges (U.S. Department of Justice)",
+            "url": "https://www.justice.gov/archives/jm/criminal-resource-manual-109-rico-charges",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "The Bosses of the Mafia Commission Were Indicted 40 Years Ago (The Mob Museum)",
+            "url": "https://themobmuseum.org/blog/the-bosses-of-the-mafia-commission-were-indicted-40-years-ago/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "History of La Cosa Nostra (FBI)",
+            "url": "https://www.fbi.gov/investigate/transnational-organized-crime/history-of-la-cosa-nostra",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "oppenheimer-gray-board-1954-real",
+      "locale": "tr",
+      "decision": "rewrite",
+      "reason": "Original text repeated itself and flattened the hearing into pure McCarthyism. Reframed with security clearance process, H-bomb dispute, Strauss/AEC context, and the broader Cold War climate.",
+      "fields": {
+        "title": "1954 Güvenlik Soruşturması: Oppenheimer’ın Düşüşü",
+        "subtitle": "Bilim, sadakat ve Soğuk Savaş şüphesi.",
+        "whatWeSee": "Oppenheimer filmi, küçük ve havasız bir odada geçen sorgulamaları neredeyse mahkeme gerilimi gibi kurar. Konu yalnız geçmiş ilişkiler değil, Oppenheimer’ın devlet için hâlâ güvenilir olup olmadığıdır.",
+        "realHistory": "1954 güvenlik soruşturması, Robert Oppenheimer’ın atom bombasındaki rolünden sonra Amerikan devlet yapısıyla ilişkisinin kopma noktasıydı. Oppenheimer, savaş sonrası dönemde nükleer silahların kontrolü, hidrojen bombası ve bilim insanlarının etik sorumluluğu üzerine daha temkinli bir çizgi aldı. Bu tutum, Soğuk Savaş’ın sertleştiği ve McCarthy döneminin şüphe ikliminin güçlendiği yıllarda onu kırılgan hale getirdi.\n\nSoruşturmada geçmişteki sol çevre bağlantıları, Komünist Parti üyeleriyle ilişkileri, güvenlik kurumlarına verdiği çelişkili açıklamalar ve hidrojen bombası konusundaki muhalefeti bir araya getirildi. Sonuçta Atomic Energy Commission, onun güvenlik yetkisini yenilemedi. Bu karar Oppenheimer’ı bilimsel olarak susturmadı ama devletin nükleer politika merkezinden dışarı itti.\n\nFilmin Strauss çekişmesini öne çıkarması dramatik açıdan anlaşılır; fakat tarihsel tablo daha geniştir. Oppenheimer davası, Soğuk Savaş Amerika’sında bilim insanlarının yalnız teknik uzman değil, siyasi güvenilirliği sürekli ölçülen aktörler haline geldiğini gösterir. Bir zamanların savaş kahramanı, birkaç yıl içinde riskli bir figür olarak kodlanabildi.",
+        "accuracyNote": "1954 süreci bir ceza mahkemesi değil, güvenlik yetkisi soruşturmasıydı. Sonuç Oppenheimer’ın hapse girmesi değil, güvenlik clearance’ının iptal edilmesi ve devlet nükleer politikasındaki etkisinin azalması oldu.",
+        "whyInteresting": "Oppenheimer’ın düşüşü, modern bilim insanının yalnız laboratuvarda değil, devlet güvenliği ve ideoloji alanında da yargılandığını gösteren erken ve güçlü bir örnektir.",
+        "misconception": "Oppenheimer’ın yalnız bir kişisel intikamla devrildiği sanılır; gerçekte dava, kişisel çekişmelerin yanında Soğuk Savaş güvenlik kültürünün de ürünüdür.",
+        "mediaChanged": "Film Strauss–Oppenheimer gerilimini dramatik eksen yapar; tarihsel kayıtlar ise AEC güvenlik süreci, hidrojen bombası tartışması ve McCarthy döneminin şüphe iklimini birlikte gösterir.",
+        "whyItMatters": "Bu dava, bilimsel otoritenin devlet güvenliğiyle çatıştığında nasıl sınırlanabileceğini ve teknolojik gücün politik sadakat testleriyle nasıl iç içe geçtiğini gösterir.",
+        "quickRealityCheck": "Oppenheimer bir mahkemede suçlu mu bulundu, yoksa Soğuk Savaş güvenlik sistemi içinde devlet sırlarına erişim hakkını mı kaybetti?"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "J. Robert Oppenheimer Security Hearing (Britannica)",
+            "url": "https://www.britannica.com/event/J-Robert-Oppenheimer-security-hearing",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Transcript of 1954 Oppenheimer Hearing Declassified in Full (Federation of American Scientists)",
+            "url": "https://fas.org/publication/oppenheimer-declass/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "In the Matter of J. Robert Oppenheimer (Avalon Project, Yale Law School)",
+            "url": "https://avalon.law.yale.edu/20th_century/opp06.asp",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "In the Matter of J. Robert Oppenheimer (Los Alamos National Laboratory)",
+            "url": "https://www.lanl.gov/media/publications/national-security-science/0723-in-the-matter-of-j-robert-oppenheimer",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

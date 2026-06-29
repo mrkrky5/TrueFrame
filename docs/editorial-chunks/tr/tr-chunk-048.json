@@ -1,0 +1,291 @@
+{
+  "locale": "tr",
+  "chunkIndex": 48,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "tf26-043-wessex",
+      "title": "Wessex'in Yükselişi",
+      "subtitle": "Küçük ayrıntı, büyük tarih",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "era": "Orta Çağ",
+      "region": "İngiltere",
+      "themes": [
+        "Krallık",
+        "Kimlik",
+        "Savaş"
+      ],
+      "whatWeSee": "The Last Kingdom'da Wessex, sürekli saldırı altında kalan ama direnen bir merkez gibi anlatılır. Kaleler, meclis sahneleri ve sınır savaşları yükselişi birkaç lider kararına bağlar. Dizi etkili bir ritim kurar, ancak gerçek yükseliş tek bir zafer değil; savunma altyapısı, vergi planı ve yazılı idareyle onlarca yıla yayılan bir dönüşümdür.",
+      "realHistory": "Wessex'in yükselişi 9. yüzyılda askeri başarı kadar kurumsal reformla gerçekleşti. 865 sonrası Büyük Pagan Ordusu'nun baskısı Northumbria, Mercia ve East Anglia'yı sarsarken Wessex hayatta kalmak için yeni bir model geliştirdi. Alfred'in 878 Edington zaferi önemliydi, ama asıl kırılma burh denilen tahkimli yerleşim ağının kurulmasıydı. Burghal Hidage listesi bu ağın rastgele değil, vergi ve işgücü hesabıyla planlandığını gösterir.\n\nAynı dönemde ordu nöbet sistemi bölündü, yerel savunma süreklileşti, hukuk metinleri derlendi ve yönetim dili güçlendi. Alfred'in ardından Edward the Elder ve Mercia'da Aethelflaed, Danelaw hattındaki şehirleri adım adım geri aldı. 10. yüzyılda Athelstan dönemiyle daha geniş bir İngiliz krallık fikri ortaya çıktı. Bu süreç, yalnızca savaş kroniği değil, devletleşme hikayesidir.\n\nDolayısıyla Wessex'in yükselişi kahramanlık anlarından çok altyapı, kayıt ve koordinasyon başarısıdır. Surlar, yol ağları, vergi ve yerel ittifaklar birlikte çalışınca askeri güç kalıcı hale geldi. Dizi bu tabloyu kişisel dram üzerinden anlatır; tarih ise yavaş ama sağlam kurum inşasını öne çıkarır. Ayrıca manastır ağları ve yazıcı kültürü, yönetim emirlerinin bölgeye aktarılmasında kritik rol oynadı. Yazılı hukuk ve kayıt düzeni, yalnız elitler arası ilişkiyi değil, vergi ve askerlik yükümlülüklerinin standardizasyonunu da kolaylaştırdı. Wessex başarısı bu yüzden sadece askeri komuta değil, bilgi ve kayıt altyapısının güçlenmesiyle açıklanabilir.",
+      "accuracyNote": "Dizi dönem ruhunu iyi taşır ama zaman çizelgesini sıkıştırır. Kurumsal değişimin temposu ekranda olduğundan daha uzundur.",
+      "whyInteresting": "Görkemli savaşlardan çok vergi ve sur planlamasının tarih akışını değiştirmesi beklenmedik derecede öğreticidir.",
+      "misconception": "Wessex'in tek bir savaşla İngiltere'yi birleştirdiği sanılır. Oysa sonuç, ardışık reform ve seferlerin toplamıdır.",
+      "nextTopics": [
+        "Alfred'in Reformları",
+        "Burh Savunmaları",
+        "Dan Yerleşimleri"
+      ],
+      "sources": [
+        {
+          "title": "Alfred, king of Wessex (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/biography/Alfred-king-of-Wessex",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Burghal Hidage (British Library)",
+          "url": "https://www.bl.uk/collection-items/the-burghal-hidage",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Anglo-Saxon Kingdoms (The British Museum)",
+          "url": "https://www.britishmuseum.org/exhibitions/anglo-saxon-kingdoms-art-word-war",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-044-danish-settlement",
+        "tf26-045-law-codes",
+        "tf26-046-monasteries"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Last Kingdom'daki Wessex anlatısı, Burghal Hidage verileriyle birlikte düşünüldüğünde tarihsel çerçevesini bulur.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "anglo-sakson",
+        "ingiltere",
+        "orta-cag",
+        "wessex-in-yukselisi",
+        "true-frame"
+      ],
+      "spoilerNote": "The Last Kingdom hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi değişimi kişisel kararlarla hızlandırır. Gerçekte yükseliş, kuşaklara yayılan savunma ve idare reformlarıyla oluştu.",
+      "whyItMatters": "Görkemli savaşlardan çok vergi ve sur planlamasının tarih akışını değiştirmesi beklenmedik derecede öğreticidir.",
+      "isFlagship": false,
+      "quickRealityCheck": "Burh sistemi kurulmadan Wessex uzun süreli bir savunma hattı kurabilir miydi?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-044-danish-settlement",
+      "title": "Dan Yerleşimleri",
+      "subtitle": "Danelaw: işgal değil, yeni yerleşim düzeni",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "era": "Orta Çağ",
+      "region": "İngiltere",
+      "themes": [
+        "Krallık",
+        "Kimlik",
+        "Savaş"
+      ],
+      "whatWeSee": "The Last Kingdom, İngiltere'deki Danimarka yayılımını bitmeyen askeri baskı, yemin siyaseti ve rakip dünyalar arasındaki kimlik çatışması olarak resmeder. Savaşlar, kale ele geçirmeleri ve değişen sadakatler ekrana hakimdir; bu yüzden Danelaw çoğu zaman önce bir cephe hattı, sonra bir toplum gibi hissedilir. Dizi belirsizliği etkileyici biçimde dramatize eder, ancak sivil entegrasyon ve uzun vadeli kurumsal kaynaşma çoğunlukla arka planda kalır.",
+      "realHistory": "9. ve 10. yüzyıl İngiltere'sinde Danimarkalı ve daha geniş İskandinav etkisi, yalnızca kesintisiz savaş kararlarıyla değil; akın, yerleşim, müzakere ve kademeli kurumsal etkileşimle gelişti. Danelaw'la ilişkilendirilen bölgeler, yer adlarında, hukuki söz varlığında, maddi kültürde ve toprak tutma örüntülerinde kalıcı izler taşır; bu da süreğen bir varlığa ve toplumsal iç içe geçişe işaret eder. Wessex'li Alfred ve halefleri burh savunma ağları dahil büyük askeri ve savunma reformları yürüttü; ancak çatışma, antlaşmalar, haraç düzenleri ve pragmatik uzlaşmayla birlikte var oldu. Zamanla hukuki uygulamalar ve yerel yönetim, hem Anglo-Sakson hem İskandinav girdilerini yansıttı; topluluklar arasındaki sınırlar ticaret, din değiştirme, evlilik ve ortak pazarlar yoluyla bulanıklaşabildi. Arkeolojik ve belgesel kanıtlar, birçok yerleşimin geçici savaş kampı değil, bölgesel ekonomilere entegre işleyen topluluklar olduğunu gösterir. Bu, şiddet ve zorlamayı ortadan kaldırmaz; ancak saf bir istilacı-yerli ikiliğini karmaşıklaştırır. The Last Kingdom kimlik gerilimini canlı biçimde yakalar, fakat dramatik tempo silahlı çatışma bölümlerine, daha yavaş hukuki ve toplumsal dönüşümden fazla ağırlık verir. Tarihsel olarak Danelaw, yalnızca askeri bir sorun değil; İngiliz hukuku, dili ve siyasi gelişimini ilk yerleşim döneminin çok ötesine taşıyan uzun bir melezleşme süreci olarak önem taşır.",
+      "accuracyNote": "Güç mücadeleleri gerçektir; gündelik birlikte yaşam ve hukuki ödünçleme derecesi olduğundan az gösterilir.",
+      "whyInteresting": "Kültürel kaynaşmanın uzun süreli çatışma ortamlarından nasıl çıkabildiğini gösterir.",
+      "misconception": "Viking dönemi İngiltere'si, kalıcı birlikte yaşam ve uyum kanıtlarına rağmen çoğu kez bitmeyen savaşlara indirgenir.",
+      "nextTopics": [
+        "Alfred'in Reformları",
+        "Burh Savunmaları",
+        "Wessex'in Yükselişi"
+      ],
+      "sources": [
+        {
+          "title": "Danelaw (Britannica)",
+          "url": "https://www.britannica.com/place/Danelaw",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Viking settlements in England (English Heritage)",
+          "url": "https://www.english-heritage.org.uk/learn/histories/vikings/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Anglo-Saxon England (Britannica)",
+          "url": "https://www.britannica.com/place/England/Anglo-Saxon-England",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-042-burhs",
+        "tf26-047-shield-wall"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Last Kingdom duygusal gerilimi çok iyi verir; ancak kayıtlar, şiddetin altında daha yavaş bir yapısal entegrasyonu gösterir.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "anglo-sakson",
+        "ingiltere",
+        "orta-cag",
+        "dan-yerlesimleri",
+        "true-frame"
+      ],
+      "spoilerNote": "The Last Kingdom hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi savaşı öne çıkarır; oysa tarihsel seyir hukuki uyum, ticaret ve toplumsal kaynaşmaya da dayanıyordu.",
+      "whyItMatters": "Kültürel kaynaşmanın uzun süreli çatışma ortamlarından nasıl çıkabildiğini gösterir.",
+      "isFlagship": true,
+      "quickRealityCheck": "Danelaw yalnızca işgal hatları değil, uzun vadeli yerleşim ve kurumsal etkileşim bölgesiydi.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-045-law-codes",
+      "title": "Kanun Metinleri",
+      "subtitle": "Ekrandaki iz, tarihteki karşılık",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "era": "Orta Çağ",
+      "region": "İngiltere",
+      "themes": [
+        "Krallık",
+        "Kimlik",
+        "Savaş"
+      ],
+      "whatWeSee": "The Last Kingdom'da hukuk çoğu zaman kralın iradesiyle özdeş görünüyor. Meclis, yemin ve ceza kararları doğrudan güç mücadelesinin uzantısı gibi işleniyor. Yazılı metinler arka planda kalırken kişisel sadakat ve ihanet sahneleri öne çıkıyor. İzleyici için kanun, kalıcı bir kurumdan çok savaş döneminde değişen siyasi denge gibi hissediliyor.",
+      "realHistory": "Anglo-Sakson İngiltere'de hukuk metinleri yalnızca anlık kral buyruğu değildi; farklı bölgelerin uygulamalarını derleyip merkezileşmeyi destekleyen yazılı çerçevelerdi. Kent, Wessex ve Mercia geleneklerinin izleri, özellikle Alfred döneminden itibaren kodifikasyon girişimlerinde görülebilir. Bu metinlerde cinayet bedeli, yemin usulü, hırsızlık cezaları, tazminat ve kamusal düzen maddeleri ayrıntılı biçimde yer alır. Amaç modern eşitlik üretmekten çok farklı statü grupları arasındaki çatışmayı yönetilebilir hale getirmekti. Danelaw bölgelerindeki uygulamalarla Anglo-Sakson çekirdek alanlar arasında farklılıklar bulunması, hukukun tek tip olmadığını gösterir. Buna rağmen yazılı normlar vergi tahsilatı, asker çağrısı ve yerel barışın sürdürülmesi için ortak idari dil sağladı. Manastır yazı üretimi sayesinde hukuk metinleri çoğaltılarak dolaşıma girdi; dini kurumlarla krallık yönetimi arasında pratik bir bağ kuruldu. 10. ve 11. yüzyıllarda siyasal konsolidasyon arttıkça bu kodlar yönetsel kapasitenin parçasına dönüştü. Bu tablo, erken İngiltere'de devlet inşasının savaş kazanmak kadar kayıt tutma, yükümlülük tanımlama ve anlaşmazlıkları standart süreçlerle çözmeye dayanmasına işaret eder. Dizi çatışma atmosferini iyi verir; tarihsel derinlik ise kılıçla alınan otoritenin metinle kalıcı hale getirildiği noktada başlar. Shire ve hundred mahkemeleri bu metinleri yerelde uygulayarak merkezi düzen ile yerel uzlaşma arasında bir köprü kurdu. Böylece hukuk, yalnız saray emri değil taşrada tekrarlanan bir idari pratik haline geldi.",
+      "accuracyNote": "Siyasi gerilim gerçeğe uygundur; ancak yazılı hukuk ve idari süreklilik boyutu dramatik hız nedeniyle daha arka planda kalır.",
+      "whyInteresting": "Savaş meydanında kazanılan güç, kayıt altına alınmadığında birkaç nesilde dağılabiliyordu.",
+      "misconception": "Orta Çağ İngiltere'sinde hukukun tamamen sözlü ve keyfi kararlardan oluştuğu sanılır.",
+      "nextTopics": [
+        "Alfred'in Reformları",
+        "Burh Savunmaları",
+        "Wessex'in Yükselişi"
+      ],
+      "sources": [
+        {
+          "title": "Britannica - Anglo-Saxon law",
+          "url": "https://www.britannica.com/topic/Anglo-Saxon-law",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Alfred the Great",
+          "url": "https://www.britannica.com/biography/Alfred-the-Great",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Fordham Sourcebook - Laws of Alfred",
+          "url": "https://sourcebooks.fordham.edu/source/890alfred-lawscode.asp",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-046-monasteries",
+        "tf26-047-shield-wall",
+        "tf26-048-names-identity"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Last Kingdom'daki taht mücadelesi, Anglo-Sakson hukuk kodlarının merkezileştirici rolüyle birlikte düşünülünce tamamlanır.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "anglo-sakson",
+        "ingiltere",
+        "orta-cag",
+        "kanun-metinleri",
+        "true-frame"
+      ],
+      "spoilerNote": "The Last Kingdom hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi hukuku kişisel sadakat çatışmasına yaklaştırıyor. Tarihte yazılı hukuk kodları, vergi ve idari kontrolle birlikte uzun vadeli yönetim aracıydı.",
+      "whyItMatters": "Savaş meydanında kazanılan güç, kayıt altına alınmadığında birkaç nesilde dağılabiliyordu.",
+      "isFlagship": false,
+      "quickRealityCheck": "Alfred dönemi hukuk derlemeleri sadece ceza listesi miydi, yoksa farklı bölgeleri ortak yönetime bağlama aracı mıydı?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-046-monasteries",
+      "title": "Manastır Dünyası",
+      "subtitle": "Manastır Dünyası hakkında yanlış bilinen",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "era": "Orta Çağ",
+      "region": "İngiltere",
+      "themes": [
+        "Krallık",
+        "Kimlik",
+        "Savaş"
+      ],
+      "whatWeSee": "The Last Kingdom'da manastırlar yazı odaları, rahipler ve saklanan hazineler olarak geçer. Uhtred Hristiyan ve pagan dünya arasında gidip gelirken manastır hem bilgi hem siyasi rehin mekânıdır. İzleyici mum ışığında yazma kopyalayan keşişleri, avluda çalışan kardeşleri ve kapıya yanaşan silahlı grubun yarattığı tedirginliği aynı manastır düzeninde görüyor.",
+      "realHistory": "Anglo-Sakson İngiltere'de (9.-10. yy) manastırlar yalnızca dini merkez değildi: yazı, eğitim, arazi yönetimi ve kraliyet bağışları burada yoğunlaştı. Lindisfarne, Jarrow ve Winchester gibi kurumlar Latin kronikler üretti; Bede'nin eserleri buradan gelir. Viking baskınları manastırları hedef aldı çünkü altın, kutsal eşya ve ganimet vardı. Alfred ve sonrası reform hareketleri manastır disiplinini yeniden kurdu. Manastır toprakları köylü hizmeti ve vergi üretirdi. The Last Kingdom manastırı dramatik mekân yapar; arkeoloji ve yazı kalıntıları günlük ritüel ve ekonomik rolü doğrular. Hristiyanlaşma, Wessex'in Danelaw karşısında birleştirici ideoloji de taşıdı. Erken ortaçağ Britanyası'nda manastırlar yalnız ibadet alanı değil yazı kültürü, toprak yönetimi ve diplomasi merkezleriydi. Benedikten kuralları günlük yaşamı saatlere bölerken, scriptoria odalarında İncil metinleri, hukuk belgeleri ve kraliyet bağış kayıtları çoğaltıldı. Viking akınları, kıyı manastırlarını kırılgan hale getirse de bu kurumlar iç bölgelere taşınarak varlığını sürdürdü. Yerel beyler için manastırlarla ittifak, hem manevi prestij hem vergi düzeni açısından fayda sağlıyordu. Böylece keşiş toplulukları, savaşçı siyaset dünyasıyla gerilimli ama karşılıklı bağımlı bir ilişki kurdu. Manastır Dünyası Anglo-Sakson İngiltere'de (9.-10. 10. yüzyılda Benedikten reformlarıyla İngiliz manastırlarında ortak kural ve mülk disiplini güçlendirildi. Winchester çevresindeki scriptoria, kraliyet fermanlarını çoğaltarak hukuk birliğini destekledi. Aziz kültleri hac trafiği yaratıp yerel pazarı canlandırırken, manastırlar hem ruhani otorite hem vergi muafiyeti tartışmasının merkezine yerleşti.",
+      "accuracyNote": "Manastır ekonomisi ve baskınlar belgelenmiştir; dizi karakterleri kurgusaldır.",
+      "whyInteresting": "Kutsal mekân, aynı zamanda erken devletin veri merkeziydi.",
+      "misconception": "Manastırlar yalnızca dua yeriydi; arazi, yazı ve siyaset merkeziydi.",
+      "nextTopics": [
+        "Alfred'in Reformları",
+        "Burh Savunmaları",
+        "Wessex'in Yükselişi"
+      ],
+      "sources": [
+        {
+          "title": "Anglo-Saxon monasticism (Britannica)",
+          "url": "https://www.britannica.com/topic/Christianity/The-Anglo-Saxons",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Lindisfarne raid (Britannica)",
+          "url": "https://www.britannica.com/event/Viking-raids-on-Lindisfarne",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Bede (Britannica)",
+          "url": "https://www.britannica.com/biography/Bede",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-047-shield-wall",
+        "tf26-048-names-identity",
+        "tf26-049-norman-conquest"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Last Kingdom manastır sahneleri ile Anglo-Sakson manastır yazıhaneleri ve Viking baskınları.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "anglo-sakson",
+        "ingiltere",
+        "orta-cag",
+        "manastir-dunyasi",
+        "true-frame"
+      ],
+      "spoilerNote": "The Last Kingdom hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "mediaChanged": "Dizi manastırı aksiyon arka planı kullanır; gerçekte yazı ve arazi yönetimi bölgenin hafızasıydı.",
+      "whyItMatters": "Kutsal mekân, aynı zamanda erken devletin veri merkeziydi.",
+      "isFlagship": false,
+      "quickRealityCheck": "Vikingler neden manastırları sık hedef aldı?",
+      "lastReviewedAt": "2026-06-25"
+    }
+  ]
+}

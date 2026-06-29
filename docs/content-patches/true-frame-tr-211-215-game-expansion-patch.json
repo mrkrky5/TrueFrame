@@ -1,0 +1,551 @@
+{
+  "patchId": "tr-game-expansion-211-215-source-aware-patch",
+  "locale": "tr",
+  "sourceChunks": [
+    "game-expansion-003"
+  ],
+  "contentRange": [
+    211,
+    215
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-new-content-generation",
+  "summary": {
+    "cardCount": 5,
+    "newCards": [
+      "tf26-211-twom-humanitarian-ethics",
+      "tf26-212-papersplease-border-regime",
+      "tf26-213-papersplease-surveillance",
+      "tf26-214-frostpunk-year-without-summer",
+      "tf26-215-frostpunk-emergency-governance"
+    ],
+    "flagshipNewCards": [
+      "tf26-212-papersplease-border-regime",
+      "tf26-214-frostpunk-year-without-summer"
+    ],
+    "standardNewCards": [
+      "tf26-211-twom-humanitarian-ethics",
+      "tf26-213-papersplease-surveillance",
+      "tf26-215-frostpunk-emergency-governance"
+    ],
+    "mediaFocus": [
+      "This War of Mine",
+      "Papers, Please",
+      "Frostpunk"
+    ],
+    "sourceUpdates": [
+      "tf26-211-twom-humanitarian-ethics",
+      "tf26-212-papersplease-border-regime",
+      "tf26-213-papersplease-surveillance",
+      "tf26-214-frostpunk-year-without-summer",
+      "tf26-215-frostpunk-emergency-governance"
+    ],
+    "notes": [
+      "Üçüncü oyun genişleme batch'i This War of Mine, Papers Please ve Frostpunk odağında üretildi.",
+      "Papers Please sınır bürokrasisi ve Frostpunk Yazsız Yıl kartları 400+ kelime ve ### başlıklı flagship yapıda yazıldı.",
+      "Hassas konularda bireysel ahlak yargısı yerine hukuk, kurum ve sistem baskısı merkeze alındı.",
+      "Kaynaklar ICRC, UN Digital Library, Bundesarchiv/Stasi Records Archive, UCAR/NOAA/Smithsonian ve NPS gibi resmi/akademik kurumlar üzerinden güçlendirildi."
+    ]
+  },
+  "entries": [
+    {
+      "id": "tf26-211-twom-humanitarian-ethics",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "This War of Mine için sivil hayatta kalma kararları, soyut ahlak ikileminden çıkarılıp uluslararası insani hukuk ve kuşatma koşullarındaki koruma meselesine bağlandı.",
+      "fields": {
+        "title": "Hayatta Kalma Ahlakı",
+        "subtitle": "Kuşatma altında seçim ne kadar özgürdür?",
+        "mediaType": "game",
+        "mediaTitle": "This War of Mine",
+        "era": "Modern Tarih",
+        "region": "Balkanlar",
+        "themes": [
+          "Savaş",
+          "Etik",
+          "Hukuk",
+          "Toplum"
+        ],
+        "whatWeSee": "This War of Mine, savaşı askerî cepheden değil, yıkılmış apartmanlarda yaşayan sivillerin kararlarından gösterir. Oyuncu yiyecek arar, ilaç saklar, yaşlı bir komşuya yardım edip etmeyeceğine karar verir ya da başka bir evden malzeme almanın bedelini düşünür. Oyun bu kararları basit iyi-kötü seçenekleri gibi sunmaz; açlık, soğuk, korku ve belirsizlik her ahlaki tercihin içine sızar.",
+        "realHistory": "Kuşatma ve şehir savaşı koşullarında sivillerin kararları çoğu zaman özgür bir etik sınavdan çok zorunluluk alanıdır. Uluslararası insani hukuk, sivillerin çatışmaya doğrudan katılmadıkları sürece korunması gerektiğini kabul eder; Cenevre Sözleşmeleri ve ek protokoller, savaşın bile sınırsız olmadığını anlatır. Ancak sahada bu ilke, açlık, kesilmiş elektrik, su kuyruğu, keskin nişancı tehdidi ve ilaç yokluğu ile sınanır.\n\nThis War of Mine'in gücü burada ortaya çıkar: oyuncuya savaşın romantik zaferini değil, sivilliğin kırılganlığını yaşatır. Bir binaya girip yiyecek almak, hukuk dilinde yağma veya mülkiyet ihlali gibi görünebilir; fakat kuşatma altında aynı hareket hayatta kalmanın tek yolu haline gelebilir. Bu, ihlallerin meşrulaştığı anlamına gelmez. Daha doğru okuma, savaşın sivilleri normal hukuk ve normal ahlak düzeninden koparıp aşırı baskı altında karar vermeye zorladığıdır.\n\nİnsani hukuk sivilleri korumaya çalışır; oyun ise bu korumanın başarısız olduğu yerde kalan hayatı gösterir. Yardım koridorları, tahliye, tıbbi bakım ve sivillere yönelik saldırı yasağı kağıt üzerinde nettir. Fakat kuşatma uzadıkça insanlar yalnız mermilerden değil, stokların tükenmesinden, güvensizlikten ve komşuluk bağlarının çözülmesinden de zarar görür. Bu yüzden oyundaki 'zor seçimler', sadece bireysel vicdan hikâyesi değil, koruma mekanizmaları çöktüğünde savaşın toplumu nasıl öğüttüğünü anlatan güçlü bir çerçevedir.",
+        "accuracyNote": "Oyun belirli bir kuşatmayı bire bir simüle etmez; fakat sivillerin korunması, kıtlık, yağma korkusu ve hayatta kalma kararları uluslararası insani hukuk ve modern kuşatma deneyimleriyle uyumlu bir çerçeve kurar.",
+        "whyInteresting": "Oyunun en sert yanı, oyuncuyu kahraman yapmaması; sivillerin çoğu zaman kötü seçenekler arasında yaşamak zorunda kaldığını hissettirmesidir.",
+        "misconception": "Savaş oyunlarında ahlak genellikle askerî emir veya kahramanlık üzerinden okunur; sivil savaş deneyiminde asıl soru çoğu zaman 'doğru olan ne?' değil, 'hangi zarar daha az?' olur.",
+        "nextTopics": [
+          "Kuşatma Altında Sivil Hayat",
+          "Sınır Bürokrasisi",
+          "Gözetim Devleti"
+        ],
+        "sources": [
+          {
+            "title": "ICRC - Protected persons: Civilians",
+            "url": "https://www.icrc.org/en/law-and-policy/protected-persons-civilians",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "ICRC - The Geneva Conventions and their Commentaries",
+            "url": "https://www.icrc.org/en/law-and-policy/geneva-conventions-and-their-commentaries",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "ICRC - Protected persons",
+            "url": "https://www.icrc.org/en/law-and-policy/protected-persons",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-210-twom-sarajevo-siege",
+          "tf26-212-papersplease-border-regime",
+          "tf26-213-papersplease-surveillance"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "spoilerLevel": "none",
+        "mediaConnection": "This War of Mine'in yiyecek, ilaç ve komşuluk kararları, uluslararası insani hukukun sivilleri koruma iddiasıyla birlikte okununca savaşın sivil yüzü daha görünür olur.",
+        "accuracyType": "inspired-by-reality",
+        "isPremium": false,
+        "tags": [
+          "this-war-of-mine",
+          "savas",
+          "insani-hukuk",
+          "sivil-hayat",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun ahlaki seçimleri kişisel vicdan ekranına taşır; gerçek dünyada aynı seçimler yardım erişimi, hukuk koruması, kuşatma ekonomisi ve sivil güvenliğiyle iç içedir.",
+        "whyItMatters": "Savaşın bedelini anlamak için yalnız cephe hattına değil, cephe hattının arkasında hayatta kalmaya çalışan sivillere de bakmak gerekir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Bir kuşatmada yiyecek arayan sivili değerlendirirken yalnız bireysel ahlak mı, yoksa çöken koruma sistemi de hesaba katılmalı mı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "ICRC - Protected persons: Civilians",
+            "url": "https://www.icrc.org/en/law-and-policy/protected-persons-civilians",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "ICRC - The Geneva Conventions and their Commentaries",
+            "url": "https://www.icrc.org/en/law-and-policy/geneva-conventions-and-their-commentaries",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "ICRC - Protected persons",
+            "url": "https://www.icrc.org/en/law-and-policy/protected-persons",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-212-papersplease-border-regime",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "Papers, Please için sınır kontrolü, modern pasaport/visa rejiminin doğuşu ve devletin hareket üzerindeki belge gücü üzerinden 400+ kelimelik flagship kart olarak yazıldı.",
+      "fields": {
+        "title": "Sınır Bürokrasisi",
+        "subtitle": "Kağıt üzerindeki devlet gücü",
+        "mediaType": "game",
+        "mediaTitle": "Papers, Please",
+        "era": "Modern Tarih",
+        "region": "Doğu Avrupa",
+        "themes": [
+          "Devlet",
+          "Sınır",
+          "Göç",
+          "Bürokrasi"
+        ],
+        "whatWeSee": "Papers, Please, sınır kapısını küçük bir masa, mühür, fotoğraf ve birkaç belgeye indirger. Oyuncu, pasaporttaki tarihleri, vize damgalarını, giriş izinlerini ve yüzleri kontrol ederken aslında bir ülkenin kimleri içeri alacağına karar verir. Oyun kasıtlı olarak gri ve boğucu görünür: hata yalnız puan kaybı değil, bir insanın hayatını değiştirebilecek bürokratik karardır.",
+        "realHistory": "### Pasaportun modernleşmesi\n\nBugün pasaport ve vize çok doğal görünür; oysa modern sınır belgesi rejimi özellikle Birinci Dünya Savaşı sonrası güçlendi. Savaş, devletlerin nüfusu, asker kaçaklarını, mültecileri ve düşman sayılan kişileri takip etme isteğini artırdı. 19. yüzyılın bazı Avrupa bölgelerinde görece serbest hareket mümkünken, 20. yüzyılın kitlesel savaş ve devrim ortamı kimlik belgesini daha merkezi hale getirdi. 1920'de Milletler Cemiyeti himayesinde düzenlenen pasaport konferansı, pasaport biçimi ve gümrük formaliteleri konusunda uluslararası standartlaştırma arayışının parçasıydı. Bu süreç hareket özgürlüğünü tamamen kaldırmadı; fakat hareketi giderek daha fazla belgeye, damgaya, fotoğrafa ve devlet onayına bağladı.\n\nPapers, Please'in kurgusal Arstotzka sınırı bu tarihin bire bir kopyası değildir, ama temel mantığı doğru yakalar: modern devlet, sınırı yalnız tel örgüyle değil evrakla da kurar. Pasaport, vize, çalışma izni, sağlık belgesi ve kimlik numarası; hepsi kimin meşru, kimin şüpheli, kimin görünmez sayılacağını belirleyen araçlara dönüşebilir. Belgeler bir yandan yolculuğu düzenler, diğer yandan yolcuyu sürekli kanıt vermek zorunda bırakır.\n\n### Evrakla üretilen şüphe\n\nOyunda her gün yeni kural eklenir. Dün geçerli olan belge bugün yetmeyebilir; bir mühür eksikse insan geri çevrilir. Bu mekanik, bürokrasinin sıradanlığını iyi gösterir. Şiddet her zaman bağırarak işlemez. Bazen bir memur, bir kontrol listesi ve 'kurallar böyle' cümlesiyle işler. Gerçek sınır rejimlerinde de risk yalnız sahte belge değildir; devletin hangi kimlikleri riskli gördüğü, hangi göç biçimlerini kabul ettiği ve hangi grupları fazladan denetime soktuğu belirleyicidir.\n\n20. yüzyılda savaş, devrim, mülteci krizleri ve Soğuk Savaş sınırları bu belge rejimini daha da sertleştirdi. Kontrol noktaları, insan hareketini güvenlik sorunu olarak okurken ekonomik ihtiyaç, aile birleşimi, sığınma ve kaçış gibi insani gerçekler aynı gişeye sıkıştı. Bir kişinin hikâyesi çoğu zaman memurun önünde birkaç satıra iner: doğum yeri, mühür, geçerlilik tarihi, fotoğraf benzerliği, izin türü. Bu sadeleştirme yönetim için pratik olabilir; fakat insan hayatını dosya hatasına dönüştürme riski taşır.\n\n### Oyunun yakaladığı gerçek\n\nPapers, Please'in başarısı, oyuncuya büyük bir diktatör portresi çizdirmemesinde yatar. Oyuncu küçük memurdur; sistemi icat etmez ama uygular. Maaşını almak, ailesini doyurmak ve hatasız çalışmak zorundadır. Bu yüzden oyun, modern bürokrasinin en rahatsız edici tarafını görünür kılar: ahlaki sonuç üreten kararlar çoğu zaman sıradan formlar, tarihler ve imzalar arasına saklanır. Gerçek tarih de bunu gösterir. Pasaport ve vize rejimleri güvenlik, düzen ve tanımlama sağladı; aynı zamanda hareket hakkını devletin sürekli onayına bağladı. Sınır, haritadaki çizgi kadar dosya masasındaki karar haline geldi.\n\nBu nedenle sınır bürokrasisi yalnız uluslararası seyahat tekniği değil, modern devletin insanı tanımlama, ayıklama ve sorumluluğu memur kararına dağıtma biçimidir. Oyuncunun ekranda yaptığı küçük kontrol, gerçek dünyada uzun bir devletleşme sürecinin sadeleştirilmiş gölgesidir.",
+        "accuracyNote": "Papers, Please kurgusal bir devlette geçer; ancak pasaport, vize ve kontrol noktası mantığı 20. yüzyılda standartlaşan gerçek sınır bürokrasisine dayanır.",
+        "whyInteresting": "Oyunun en güçlü yanı, devlet şiddetini büyük nutuklarla değil, eksik damga ve yanlış tarih gibi küçük bürokratik ayrıntılarla hissettirmesidir.",
+        "misconception": "Pasaport sadece seyahat kolaylığı sağlayan tarafsız bir belge sanılır; tarihsel olarak aynı zamanda devletin hareketi izleme ve sınırlama aracıdır.",
+        "nextTopics": [
+          "Gözetim Devleti",
+          "Hayatta Kalma Ahlakı",
+          "Olağanüstü Hâl Yönetimi"
+        ],
+        "sources": [
+          {
+            "title": "UN Digital Library - 1920 Passport Conference recommendations",
+            "url": "https://digitallibrary.un.org/record/1485616/files/E_CONF_PASS_PC_2-EN.pdf",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Oxford Academic - International Conferences and the Emergence of the Modern Passport System",
+            "url": "https://academic.oup.com/book/41096/chapter/350379824",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Passport",
+            "url": "https://www.britannica.com/topic/passport",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-213-papersplease-surveillance",
+          "tf26-211-twom-humanitarian-ethics"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "spoilerLevel": "none",
+        "mediaConnection": "Papers, Please'in damga ve evrak mekanikleri, 20. yüzyılda pasaport ve vize rejimlerinin standartlaşmasıyla birlikte okunabilir.",
+        "accuracyType": "inspired-by-reality",
+        "isPremium": false,
+        "tags": [
+          "papers-please",
+          "sinir",
+          "burokrasi",
+          "pasaport",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun kurgusal ülke ve sadeleştirilmiş kurallar kullanır; tarihsel gerçeklikte aynı mantık savaş, mülteci hareketleri, uluslararası standartlaşma ve ulusal güvenlik politikalarıyla büyüdü.",
+        "whyItMatters": "Sınır politikalarını anlamak için yalnız duvarlara değil, hangi evrakın insanı geçerli veya geçersiz kıldığına da bakmak gerekir.",
+        "isFlagship": true,
+        "quickRealityCheck": "Bir sınırı asıl görünür kılan şey tel örgü mü, yoksa kimin geçerli insan sayılacağını belirleyen belge rejimi mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "UN Digital Library - 1920 Passport Conference recommendations",
+            "url": "https://digitallibrary.un.org/record/1485616/files/E_CONF_PASS_PC_2-EN.pdf",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Oxford Academic - International Conferences and the Emergence of the Modern Passport System",
+            "url": "https://academic.oup.com/book/41096/chapter/350379824",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Passport",
+            "url": "https://www.britannica.com/topic/passport",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-213-papersplease-surveillance",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Papers, Please'in otoriter atmosferi, Stasi ve muhbir ağı örneği üzerinden bürokratik gözetim ve sıradanlaşmış ihbar kültürüyle ilişkilendirildi.",
+      "fields": {
+        "title": "Gözetim Devleti",
+        "subtitle": "Muhbir ağı nasıl gündelikleşir?",
+        "mediaType": "game",
+        "mediaTitle": "Papers, Please",
+        "era": "Soğuk Savaş",
+        "region": "Doğu Avrupa",
+        "themes": [
+          "Devlet",
+          "Casusluk",
+          "Toplum",
+          "Etik"
+        ],
+        "whatWeSee": "Papers, Please'de sınır memuru yalnız belge kontrol etmez; aynı zamanda rejimin gözü ve kulağına dönüşür. Kurallar sık değişir, şüpheli kişiler raporlanır, aile geçimiyle devlete sadakat aynı baskı altında birleşir. Oyun, otoriter sistemi büyük bir gizli polis binası olarak değil, küçük kararların biriktiği gündelik bir denetim düzeni olarak hissettirir.",
+        "realHistory": "Soğuk Savaş Doğu Avrupa'sında gözetim yalnız polis takibiyle işlemedi; dosyalar, iş yerleri, komşular, telefonlar, posta ve muhbir ağları birlikte çalıştı. Doğu Almanya'daki Stasi bunun en iyi belgelenmiş örneklerinden biridir. Bundesarchiv Stasi Records Archive, Stasi'nin resmi çalışanlarının yanında 'gayriresmî çalışanlar'ı, yani IM ağını nüfusu izleme ve muhalefet ihtimalini ölçme aracı olarak kullandığını açıklar.\n\nBu sistemin etkisi yalnız tutuklama sayısıyla ölçülmez. Daha derin etki, insanların kimle konuştuğunu, ne yazdığını ve kime güvenebileceğini sürekli düşünmeye başlamasıdır. Gözetim açıkça görünmese bile davranışları değiştirir. Papers, Please'deki bürokratik baskı bu ruh halini yakalar: memur bazen kurala inanmaz ama kurala uyar; bazen vicdanı ile ailesinin güvenliği arasında kalır.\n\nGerçek Stasi düzeninde dosya üretmek, bilgi toplamak ve insan ilişkilerini çözülecek güvenlik problemi gibi görmek rejimin parçasıydı. Oyun Arstotzka'yı kurgu olarak bırakır, ama otoriter bürokrasinin mantığını doğru sezdirir: baskı sadece yukarıdan gelen emir değil, emirleri sıradan insanların günlük işine dönüştüren sistemdir.\n\nBu nedenle gözetim, yalnız devleti güçlendiren teknik bir kapasite değil, insanların kendi davranışlarını önceden sansürlemesine yol açan sosyal bir atmosferdir. Oyunun baskısı da tam bu görünmez oto-kontrol duygusundan gelir.",
+        "accuracyNote": "Oyun belirli bir Stasi simülasyonu değildir; ancak muhbir ağı, evrak takibi ve sadakat baskısı gibi öğeler Soğuk Savaş otoriter devletlerinin belgelenmiş gözetim pratikleriyle uyumludur.",
+        "whyInteresting": "Gözetim devletinin en ürkütücü tarafı bazen gizli teknoloji değil, güven ilişkilerini belge ve ihbar düzenine çevirmesidir.",
+        "misconception": "Otoriter gözetim yalnız gizli kameralarla işler sanılır; gerçekte dosya, memur, komşu, iş arkadaşı ve küçük raporlar sistemi birlikte taşır.",
+        "nextTopics": [
+          "Sınır Bürokrasisi",
+          "Karşılıklı Yok Oluş",
+          "Özel Askeri Şirketler"
+        ],
+        "sources": [
+          {
+            "title": "Bundesarchiv - The Unofficial Collaborators of the MfS",
+            "url": "https://www.bundesarchiv.de/en/stasi-records-archive/education/what-was-the-state-security/the-unofficial-collaborators-of-the-mfs/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Bundesarchiv - What was the State Security?",
+            "url": "https://www.bundesarchiv.de/en/stasi-records-archive/education/what-was-the-state-security/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Stasi Museum Berlin - The Stasi Museum",
+            "url": "https://www.stasimuseum.de/en/enindex.htm",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-212-papersplease-border-regime",
+          "tf26-211-twom-humanitarian-ethics"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "spoilerLevel": "none",
+        "mediaConnection": "Papers, Please'in kurgusal sınır rejimi, Stasi gibi belgelenmiş gözetim kurumlarının muhbir ağı ve dosya mantığıyla birlikte okunduğunda daha gerçekçi görünür.",
+        "accuracyType": "inspired-by-reality",
+        "isPremium": false,
+        "tags": [
+          "papers-please",
+          "stasi",
+          "gozetim",
+          "soguk-savas",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun gözetimi küçük memur kararlarına indirger; tarihsel örnekler aynı baskının istihbarat arşivleri, muhbir kategorileri ve gündelik güven ilişkileri üzerinden kurulduğunu gösterir.",
+        "whyItMatters": "Gözetim yalnız bilgi toplamaz; toplumun kime güvenebileceğini ve nasıl konuşabileceğini de yeniden şekillendirir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Bir rejim insanları izlediğinde asıl güç kamerada mı, yoksa herkesin birbirinden şüphelenmeye başlamasında mı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Bundesarchiv - The Unofficial Collaborators of the MfS",
+            "url": "https://www.bundesarchiv.de/en/stasi-records-archive/education/what-was-the-state-security/the-unofficial-collaborators-of-the-mfs/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Bundesarchiv - What was the State Security?",
+            "url": "https://www.bundesarchiv.de/en/stasi-records-archive/education/what-was-the-state-security/",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Stasi Museum Berlin - The Stasi Museum",
+            "url": "https://www.stasimuseum.de/en/enindex.htm",
+            "type": "museum",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-214-frostpunk-year-without-summer",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "Frostpunk'ın donmuş dünya önermesi, Tambora 1815 ve 1816 Yazsız Yıl iklim şoku üzerinden 400+ kelimelik flagship kart olarak kuruldu.",
+      "fields": {
+        "title": "Yazsız Yıl",
+        "subtitle": "Tambora patlayınca dünya soğudu",
+        "mediaType": "game",
+        "mediaTitle": "Frostpunk",
+        "era": "Modern Tarih",
+        "region": "Küresel",
+        "themes": [
+          "Afet",
+          "Çevre",
+          "Toplum",
+          "Bilim"
+        ],
+        "whatWeSee": "Frostpunk, dünyayı kalıcı soğukla boğulan bir hayatta kalma düzenine çevirir. Oyuncu jeneratörün çevresinde yeni bir toplum kurar; kömür, yiyecek, barınma ve yasa kararları aynı kriz masasında birleşir. Bu dünya kurgu ve steampunk estetiği taşır, fakat oyunun sorduğu soru gerçektir: Ani bir iklim şoku, gıda sistemlerini ve devlet kararlarını ne kadar hızlı kırabilir?",
+        "realHistory": "### Patlamanın başlangıcı\n\nFrostpunk'taki küresel donma doğrudan tarihsel bir olay değildir. Yine de 1815 Tambora patlaması, kurguya güçlü bir gerçek karşılık sunar. Bugünkü Endonezya'da yer alan Tambora Yanardağı Nisan 1815'te çok büyük bir patlama yaşadı. Patlamanın yerel yıkımı zaten korkunçtu; köyler yok oldu, çevre adalarda kül ve açlık etkisi hissedildi. Fakat felaketin etkisi yalnız Sumbawa ve çevresiyle sınırlı kalmadı. Atmosfere taşınan volkanik parçacıklar ve sülfat aerosolleri güneş ışığını etkileyerek 1816'da Avrupa ve Kuzey Amerika'da olağan dışı soğuk, karanlık ve yağışlı koşullar yarattı. Bu yüzden 1816, 'Yazsız Yıl' olarak anıldı.\n\nUCAR'ın özetlediği gibi New England'da yaz aylarında kar ve don olayları görüldü; Avrupa'da soğuk yağmurlar ve karanlık hava ekinleri vurdu. NOAA kayıtları da 1816 yazındaki anormal soğukların New England'da ürün kaybına yol açtığını belirtir. Bu, tek bir doğal afetin uzak kıtalardaki gündelik hayatı nasıl etkileyebileceğinin güçlü bir örneğidir. Bugün iklim sistemi bilgisiyle açıklayabildiğimiz bu etki, dönemin insanları için çoğu zaman anlaşılmaz bir gökyüzü ve bozulmuş mevsim deneyimiydi.\n\n### Gıda, göç ve korku\n\nİklim şoku, yalnız termometredeki düşüş demek değildir. Hasat bozulunca ekmek fiyatları yükselir, kıtlık korkusu büyür, borçlar ödenemez hale gelir ve insanlar yer değiştirmeye başlar. Frostpunk'ın şehir yönetimi mekanikleri bu yüzden tarihsel olarak tanıdık gelir: ısı, yiyecek ve düzen aynı sistemin parçalarıdır. 1816'da da sorun yalnız soğuk değildi; soğuk, tarım takvimini bozduğu için toplumsal krize dönüştü.\n\nBu olay, iklim tarihinin en öğretici dosyalarından biridir. İnsanlar patlamanın küresel atmosfer etkisini o gün bugünkü gibi açıklayamıyordu; bu nedenle olağan dışı hava çoğu yerde dini, kehanetsel veya yerel felaket diliyle anlaşıldı. Ürün kaybı, hayvan yemi eksikliği, hastalık korkusu ve göç baskısı birbirini büyüttü. Bazı yerlerde aileler batıya veya daha güvenli gördükleri bölgelere yöneldi; bazı bölgelerde ise insanlar yüksek fiyatlar ve kıtlık söylentileriyle baş başa kaldı. Modern bilim Tambora'yı atmosfer, iklim ve toplum arasındaki bağlantıyı okumak için önemli bir örnek olarak görür.\n\n### Frostpunk'ın gerçek sorusu\n\nFrostpunk gerçek Tambora'yı anlatmaz; ama iklim şokunun siyasal sonuçlarını oyunlaştırır. Jeneratör etrafındaki kararlar, 1816'nın dünyasına şu soruyu geri taşır: Gıda ve ısı azalınca toplum hangi hakları korur, hangilerini erteler? Bir kaynak azaldığında teknik çözüm kadar dağıtım adaleti de önem kazanır. Kim daha fazla kömür alır, kim daha uzun çalışır, kim korunur, kim feda edilebilir görülür? Oyunun sertliği buradan gelir.\n\nTarihsel Yazsız Yıl, küresel sistemlerin kırılganlığını gösterdi. Oyun ise bu kırılganlığı tek şehirde yoğunlaştırarak oyuncunun önüne koyar. Bu yüzden Frostpunk'ın donmuş dünyası tamamen hayal değildir; gerçek tarihte kısa süreli bile olsa iklimin tarımı, fiyatları, göçü ve yönetim kararlarını sarsabildiğini hatırlatır.\n\nTambora örneği ayrıca felaketlerin merkezden uzağa doğru tek çizgide yayılmadığını gösterir. Yerel patlama, atmosfer üzerinden küresel bir gıda ve güvenlik sorununa dönüşebilir; bu da Frostpunk'ın kurduğu kırılgan şehir fikrini tarihsel olarak daha inandırıcı kılar.",
+        "accuracyNote": "Frostpunk doğrudan Tambora veya 1816'yı anlatmaz; fakat ani iklim şoku, ürün kaybı, kıtlık ve yönetim baskısı açısından Yazsız Yıl güçlü bir tarihsel karşılaştırma sağlar.",
+        "whyInteresting": "Bir yanardağ patlamasının uzak kıtalarda ekmek, göç ve toplumsal huzursuzluk meselesine dönüşmesi, iklim tarihini oyun mantığına çok yaklaştırır.",
+        "misconception": "İklim felaketi yalnız hava durumu sanılır; gerçek etkisi çoğu zaman gıda, fiyat, göç ve siyasal karar zincirinde görünür.",
+        "nextTopics": [
+          "Olağanüstü Hâl Yönetimi",
+          "Sınır Bürokrasisi",
+          "Sivil Hayatta Kalma"
+        ],
+        "sources": [
+          {
+            "title": "UCAR Center for Science Education - Mount Tambora and the Year Without a Summer",
+            "url": "https://scied.ucar.edu/learning-zone/how-climate-works/mount-tambora-and-year-without-summer",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Smithsonian Magazine - Blast from the Past",
+            "url": "https://www.smithsonianmag.com/history/blast-from-the-past-65102374/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "NOAA Repository - Early American sunspot drawings from the Year Without a Summer",
+            "url": "https://repository.library.noaa.gov/view/noaa/45591",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-215-frostpunk-emergency-governance"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "spoilerLevel": "none",
+        "mediaConnection": "Frostpunk'ın donmuş şehir krizi, Tambora sonrası 1816 Yazsız Yılı'nın iklim, tarım ve toplum üzerindeki etkileriyle birlikte okunabilir.",
+        "accuracyType": "inspired-by-reality",
+        "isPremium": false,
+        "tags": [
+          "frostpunk",
+          "tambora",
+          "yazsiz-yil",
+          "iklim",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun küresel soğumayı kalıcı ve fantastik bir hayatta kalma düzenine çevirir; tarihsel Tambora örneği ise kısa süreli iklim şokunun bile gıda ve yönetim krizine dönüşebildiğini gösterir.",
+        "whyItMatters": "İklim krizleri yalnız çevre başlığı değildir; toplumların gıda, göç, adalet ve otorite düzenini doğrudan etkiler.",
+        "isFlagship": true,
+        "quickRealityCheck": "Bir iklim şoku başladığında en büyük risk soğuk havanın kendisi mi, yoksa gıda ve yönetim sistemlerinin kırılması mı?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "UCAR Center for Science Education - Mount Tambora and the Year Without a Summer",
+            "url": "https://scied.ucar.edu/learning-zone/how-climate-works/mount-tambora-and-year-without-summer",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Smithsonian Magazine - Blast from the Past",
+            "url": "https://www.smithsonianmag.com/history/blast-from-the-past-65102374/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "NOAA Repository - Early American sunspot drawings from the Year Without a Summer",
+            "url": "https://repository.library.noaa.gov/view/noaa/45591",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-215-frostpunk-emergency-governance",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Frostpunk'ın yasa kitabı ve hayatta kalma yönetimi, Pullman gibi şirket kasabaları ve kriz dönemi paternalist kontrol örnekleriyle ilişkilendirildi.",
+      "fields": {
+        "title": "Olağanüstü Hâl Yönetimi",
+        "subtitle": "Hayatta kalmak için kim karar verir?",
+        "mediaType": "game",
+        "mediaTitle": "Frostpunk",
+        "era": "Modern Tarih",
+        "region": "Kuzey Amerika",
+        "themes": [
+          "Devlet",
+          "Sınıf",
+          "Ekonomi",
+          "Sanayi"
+        ],
+        "whatWeSee": "Frostpunk'ta oyuncu yalnız kaynak toplamaz; yasa çıkarır, çalışma saatlerini uzatır, çocukların çalışıp çalışmayacağına karar verir ve toplumun umudunu yönetir. Hayatta kalma baskısı arttıkça yönetim dili de sertleşir. Oyun, kriz anında 'geçici önlem' denen şeylerin nasıl kalıcı toplumsal düzene dönüşebileceğini gösterir.",
+        "realHistory": "Frostpunk'ın dünyası kurgu olsa da sanayi çağındaki şirket kasabaları ve kriz yönetimiyle güçlü bağ kurar. Pullman, Chicago'nun güneyinde 1880'lerde kurulan planlı bir şirket kasabasıydı. National Park Service, Pullman Palace Car Company'nin fabrika ve işçi konutlarını aynı tasarım içinde kurduğunu aktarır. Dışarıdan bakınca düzenli, temiz ve modern bir işçi yerleşimi görünüyordu; içeriden bakınca konut, kira, çalışma ve toplumsal denetim aynı şirket gücünde birleşiyordu.\n\nBu tür paternalist düzenlerde işveren yalnız maaş veren taraf değildir; ev, kira, dükkân, davranış normu ve yerel hayat üzerinde de etki kurar. Kriz geldiğinde bu bağımlılık daha görünür olur. Pullman örneğinde 1890'lardaki ekonomik gerilim, ücret kesintileri ve kira baskısı büyük emek çatışmalarına zemin hazırladı.\n\nFrostpunk'ın yasa kararları bu yüzden yalnız oyun mekaniği değildir. Çocuk emeği, uzun vardiya, rasyon ve disiplin gibi seçenekler tarih boyunca sanayileşme, şirket kasabaları ve olağanüstü hâl yönetiminde tartışılan gerçek soruları hatırlatır. Hayatta kalma iddiası otoriteyi meşrulaştırabilir; fakat her meşrulaştırma, kimin bedel ödediği sorusunu da açar. Oyunun sertliği burada gerçekçi hale gelir: kriz yönetimi yalnız kaynak hesabı değil, güç dağılımı meselesidir.",
+        "accuracyNote": "Frostpunk doğrudan Pullman veya belirli bir şirket kasabasını anlatmaz; ancak şirket kasabası, paternalist kontrol ve kriz döneminde hakların askıya alınması gibi tarihsel temalarla uyumlu bir çerçeve kurar.",
+        "whyInteresting": "Kriz anında düzen sağlayan kurum, aynı anda insanların hayatının neredeyse her ayrıntısına hükmeden bir güç haline gelebilir.",
+        "misconception": "Olağanüstü hâl kararları tamamen teknik kaynak yönetimi sanılır; çoğu zaman sınıf, emek ve otorite ilişkilerini yeniden kurar.",
+        "nextTopics": [
+          "Yazsız Yıl",
+          "Sanayileşme ve Emek",
+          "Şirket Egemenliği"
+        ],
+        "sources": [
+          {
+            "title": "National Park Service - A Brief Overview of the Pullman Story",
+            "url": "https://www.nps.gov/pull/learn/historyculture/a-brief-overview-of-the-pullman-story.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Library of Congress - Pullman Porters: Topics in Chronicling America",
+            "url": "https://guides.loc.gov/chronicling-america-pullman-porters",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Company town",
+            "url": "https://www.britannica.com/topic/company-town",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "similarMedia": [],
+        "relatedCardIds": [
+          "tf26-214-frostpunk-year-without-summer"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "verificationStatus": "verified",
+        "sourceQuality": "strong",
+        "spoilerLevel": "none",
+        "mediaConnection": "Frostpunk'ın yasa kitabı ve çalışma kararları, şirket kasabaları ve sanayi çağının paternalist emek düzenleriyle birlikte okunabilir.",
+        "accuracyType": "inspired-by-reality",
+        "isPremium": false,
+        "tags": [
+          "frostpunk",
+          "sirket-kasabasi",
+          "olaganustu-hal",
+          "emek",
+          "true-frame"
+        ],
+        "spoilerNote": "",
+        "mediaChanged": "Oyun krizi tek şehirde yoğunlaştırır; tarihsel şirket kasabaları ise barınma, çalışma ve gündelik hayatın aynı kurumsal güce bağlanabildiğini gösterir.",
+        "whyItMatters": "Hayatta kalma adına alınan kararların kime yetki verdiğini ve kimin haklarını daralttığını sormadan kriz yönetimi anlaşılamaz.",
+        "isFlagship": false,
+        "quickRealityCheck": "Frostpunk'ta sert yasalar kaynak yönetimi mi, yoksa krizle meşrulaşan bir sosyal kontrol biçimi mi?",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "National Park Service - A Brief Overview of the Pullman Story",
+            "url": "https://www.nps.gov/pull/learn/historyculture/a-brief-overview-of-the-pullman-story.htm",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Library of Congress - Pullman Porters: Topics in Chronicling America",
+            "url": "https://guides.loc.gov/chronicling-america-pullman-porters",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Britannica - Company town",
+            "url": "https://www.britannica.com/topic/company-town",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

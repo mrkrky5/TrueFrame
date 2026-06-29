@@ -1,0 +1,252 @@
+{
+  "locale": "tr",
+  "chunkIndex": 27,
+  "totalChunks": 82,
+  "sourceFile": "data/cards.tr.json",
+  "cards": [
+    {
+      "id": "ac-crusader-urban-life",
+      "title": "Haçlı Kentlerinde Yaşam: Akka ve Kudüs",
+      "subtitle": "Kutsal Topraklarda günlük hayatın karmaşası.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Orta Çağ",
+        "Din",
+        "Gündelik Yaşam"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "assassins-creed",
+        "haclilar",
+        "kudus",
+        "orta-cag"
+      ],
+      "quickRealityCheck": "Assassin's Creed'deki Haçlı şehirleri sadece savaş alanları değil, Müslüman, Hristiyan ve Yahudi tüccarların yan yana ticaret yaptığı, Akdeniz'in en kozmopolit merkezleriydi.",
+      "mediaChanged": "Oyun şehirleri daha çok 'soğuk ve gergin' birer kale gibi gösterse de, Haçlı devletlerindeki günlük yaşam, Avrupa ve Doğu kültürlerinin birbirine karıştığı yoğun bir etkileşim alanıydı.",
+      "realHistory": "yüzyılda Akka (Acre) limanı, dünyanın en kalabalık ticaret limanlarından biriydi. Venedikli ve Cenevizli tüccarların kendi mahalleleri vardı. Şehirlerde kanalizasyon sistemleri ve hamamlar (Doğu etkisiyle) oldukça yaygındı. Haçlı Lordları, yerel halktan vergi almak ve düzeni sağlamak için Müslüman memurlarla çalışmak zorundaydı. Kudüs ise tamamen dini bir merkezdi; hacılar dünyanın dört bir yanından gelir, sokaklarda her dilden insan görülürdü. Haçlılar, bölgenin iklimine uyum sağlamak için zırhlarının üzerine beyaz tunikler giyer ve yerel beslenme alışkanlıklarını benimserlerdi.\n\nHaçlılar iklim uyumu için zırh üzerine beyaz tunik giyer, yerel beslenme alışkanlıklarını benimserdi. Akka'da Venedik ve Ceneviz mahalleleri ayrı ticaret kolonileri olarak işlerdi.\n\n12. yüzyıl Akka limanı dünyanın en kalabalık ticaret limanlarından biriydi. Şehirlerde kanalizasyon ve hamamlar Doğu etkisiyle yaygındı. Haçlı lordları yerel halktan vergi almak için Müslüman memurlarla çalışmak zorundaydı. Kudüs hacılarla doluydu; Haçlılar iklim uyumu için zırh üzerine beyaz tunik giyer, yerel beslenme alışkanlıklarını benimserdi.\n\nVenedik ve Ceneviz tüccarları Akka'da kendi liman depolarını işletirdi. Kudüs'te hac mevsiminde konaklama ve ticaret hareketliliği zirve yapardı.\n\nTicaret kolonileri kendi depo ve mahalle düzenleriyle liman şehirlerinde faaliyet gösterirdi.\n\nKudüs hac mevsiminde konaklama ve ticaret hareketliliği zirve yapardı; şehir çok dilli bir metropol karakterindeydi.",
+      "whyItMatters": "Haçlı şehirleri, tarihte çatışmanın ortasında bile ticaretin ve kültürel alışverişin durmadığını gösteren birer 'mikro-kozmos'dur.",
+      "sources": [
+        {
+          "title": "Crusader States (Britannica)",
+          "url": "https://www.britannica.com/topic/Crusader-states",
+          "type": "official"
+        },
+        {
+          "title": "Daily Life in Outremer (Heidelberg University)",
+          "url": "https://www.uni-heidelberg.de/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "ac-assassin-order-real",
+        "ac-templar-fall"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Assassin's Creed oyunda “Haçlı Kentlerinde Yaşam: Akka ve Kudüs” konusunu orta çağ ve din ekseninde somut sahnelerle işler. Kutsal Topraklarda günlük hayatın karmaşası.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "rdr-railroad-conquest",
+      "title": "Demiryolları ve Vahşi Batı'nın Sonu",
+      "subtitle": "Çeliğin vahşi doğayı evcilleştirmesi.",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Vahşi Batı",
+        "Teknoloji",
+        "Modernleşme"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "red-dead-redemption",
+        "demiryolu",
+        "vahsi-bati",
+        "abd"
+      ],
+      "quickRealityCheck": "Red Dead Redemption'da gördüğümüz demiryolu inşası, sadece bir ulaşım projesi değil; silah zoruyla yerli topraklarına el konulan ve Batı'nın 'özgür' ruhunun devlet kontrolü altına girmesini sağlayan bir fetih aracıydı.",
+      "mediaChanged": "Oyun demiryolunu 'yolun sonu' olarak melankolik bir dille anlatır, ancak bu sürecin arkasındaki devasa yolsuzluk ve yerli kabilelerin sistematik yok edilişi oyunun yansıttığından daha şiddetlidir.",
+      "realHistory": "1869'da Transcontinental Railroad'un tamamlanması, aylarca süren yolculukları bir haftaya indirdi. Demiryolları beraberinde telgraf hatlarını da getirdi; bu da 'hukuktan kaçmanın' imkansız hale gelmesi demekti. Demiryolu şirketleri, devletten bedelsiz toprak alarak ABD tarihinin en güçlü kurumları haline geldiler. Buffalo (Bizon) sürülerinin demiryollarını engellememesi için sistematik olarak katledilmesi, yerli halkların (Sioux, Cheyenne vb.) temel gıda kaynağını yok etti ve onları rezervasyonlara mahkum etti. Demiryolu, Vahşi Batı'yı romantize edilen o 'kanunsuzluktan' çıkarıp, birer vergi ve ticaret kolonisine dönüştürdü.\n\nBu örnek Demiryolları açısından önem taşır, teknolojinin sadece mesafeleri değil, yaşam tarzlarını ve medeniyetleri nasıl kalıcı olarak değiştirebileceğinin simgesidir.\n\nÇeliğin vahşi doğayı evcilleştirmesi sorusu, arşivlerde yalnızca üst düzey anlatılardan değil günlük uygulamalardan da yanıtlanır.\n\nOyun demiryolunu 'yolun sonu' olarak melankolik bir dille anlatır, ancak bu sürecin arkasındaki devasa yolsuzluk ve yerli kabilelerin sistematik yok edilişi oyunun yansıttığından daha şiddetlidir.\n\nTarihî kayıtlar, red Dead Redemption'da gördüğümüz demiryolu inşası, sadece bir ulaşım projesi değil; silah zoruyla yerli topraklarına el konulan ve Batı'nın 'özgür' ruhunun devlet kontrolü altına girmesini sağlayan bir fetih aracıydı.",
+      "whyItMatters": "Demiryolları, teknolojinin sadece mesafeleri değil, yaşam tarzlarını ve medeniyetleri nasıl kalıcı olarak değiştirebileceğinin simgesidir.",
+      "sources": [
+        {
+          "title": "The Transcontinental Railroad (National Archives)",
+          "url": "https://www.archives.gov/milestone-documents/pacific-railway-act",
+          "type": "official"
+        },
+        {
+          "title": "Westward Expansion (Smithsonian Institution)",
+          "url": "https://www.si.edu/",
+          "type": "museum"
+        }
+      ],
+      "relatedCardIds": [
+        "rdr2-frontier",
+        "rdr-railroads-frontier",
+        "rdr-pinkerton-agency"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Red Dead Redemption oyunda “Demiryolları ve Vahşi Batı'nın Sonu” konusunu vahşi batı ve teknoloji ekseninde somut sahnelerle işler. Çeliğin vahşi doğayı evcilleştirmesi.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "shogun-sankin-kotai",
+      "title": "Sankin-kotai: Rehineler ve Refah",
+      "subtitle": "Tokugawa'nın daimyo'ları kontrol etme sanatı.",
+      "mediaType": "series",
+      "mediaTitle": "Shōgun",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Japonya",
+        "Siyaset",
+        "Edo Dönemi"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "shogun",
+        "japonya",
+        "siyaset",
+        "edo-donemi",
+        "samuray"
+      ],
+      "quickRealityCheck": "Shōgun dizisinde Lord Toranaga'nın Osaka'da rehin kalması bir başlangıçtır; gerçek Tokugawa Şogunluğu bunu 'Sankin-kotai' adıyla sistematik bir devlet politikası haline getirerek tüm lordları iflas ettirmiş ve isyanı imkansız kılmıştır.",
+      "mediaChanged": "Dizi rehineliği bir savaş öncesi 'tuzak' gibi gösterse de, gerçekte bu sistem Edo döneminin istikrarını sağlayan en büyük bürokratik mekanizmaydı.",
+      "realHistory": "Tokugawa Ieyasu tarafından resmileştirilen bu sistemde, her daimyo (derebeyi) yılın yarısını Edo'da (modern Tokyo) şogunun gözü önünde geçirmek zorundaydı. Edo'dan ayrıldıklarında ise ailelerini (karılarını ve çocuklarını) Edo'da rehin bırakırlardı. Bu seyahatler o kadar masraflıydı ki (yüzlerce koruma, lüks konaklama), daimyo'lar askeri güç biriktirmek için gereken parayı sürekli yollarda harcamak zorunda kalırlardı. Ancak bu zorunlu trafik, Japonya'da yolların gelişmesine, konaklama sektörünün doğmasına ve Edo'nun dünyanın en büyük şehirlerinden birine dönüşmesine neden oldu.\n\n1635'te resmileşen sistem daimyo geçiş masraflarını artırarak isyan kapasitesini sınırladı. Tokaido yolu ve han sektörü büyüdü.\n\n1635'te resmileşen sistemde daimyo'lar her iki yılda bir Edo'ya gelir, ayrılırken ailelerini rehin bırakırdı. Geçişler yüzlerce hizmetkâr, at ve konaklama masrafı gerektiriyordu; bu yük askeri hazinenin büyük kısmını tüketiyordu. Buna karşılık Tokaido yolu gelişti, han işletmeleri çoğaldı ve Edo nüfusu bir milyonu aşarak dünyanın en büyük kentlerinden biri haline geldi.\n\nDaimyo geçişleri han işletmelerini ve yol güvenliğini geliştirdi. Edo'da rehin bırakılan aileler şogunluk otoritesinin canlı teminatıydı.\n\nEdo merkezinde bırakılan aileler şogunluk otoritesinin sürekli teminatı olarak işlev görürdü.\n\nTokaido yolu bu zorunlu trafikle gelişti; konaklama sektörü ve yerel ekonomi büyüdü.\n\nDaimyo geçiş masrafları askeri hazinenin büyük kısmını tüketerek isyan kapasitesini sınırladı.",
+      "whyItMatters": "Sankin-kotai, bir diktatörlüğün fiziksel şiddet yerine ekonomik ve bürokratik yüklerle nasıl 250 yıl süren bir barış sağlayabileceğinin örneğidir.",
+      "sources": [
+        {
+          "title": "Sankin-kotai (Britannica)",
+          "url": "https://www.britannica.com/topic/sankin-kotai",
+          "type": "official"
+        },
+        {
+          "title": "Edo Period Governance (University of Tokyo Press)",
+          "url": "https://www.u-tokyo.ac.jp/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "shogun-edo",
+        "shogun-trade-sakoku",
+        "shogun-hostage-politics"
+      ],
+      "spoilerNote": "Shōgun hikâyesine dair ipuçları içerebilir; sonu anlatmaz.",
+      "whatWeSee": "Shōgun dizide “Sankin-kotai: Rehineler ve Refah” konusunu japonya ve siyaset ekseninde somut sahnelerle işler. Tokugawa'nın daimyo'ları kontrol etme sanatı.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "mafia-five-families",
+      "title": "Beş Aile: New York’un Gizli Sahipleri",
+      "subtitle": "Modern mafya hiyerarşisinin doğuşu.",
+      "mediaType": "game",
+      "mediaTitle": "Mafia",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Suç",
+        "New York",
+        "Modern Tarih"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "mafia",
+        "su-ve-mafya",
+        "new-york",
+        "abd"
+      ],
+      "quickRealityCheck": "Mafia oyunundaki aile içi çekişmeler, gerçek hayatta 1931'de Lucky Luciano'nun 'Castellammarese Savaşı'nı bitirerek New York'u beş büyük aile (Gambino, Lucchese, Genovese, Bonanno, Colombo) arasında paylaştırmasına dayanır.",
+      "mediaChanged": "Oyunlar mafyayı genellikle 'Don' merkezli tek bir yapı gibi sunar ancak gerçekte bu, 'Komisyon' (The Commission) adı verilen bir kurul tarafından yönetilen, şirket benzeri bir federasyondu.",
+      "realHistory": "Lucky Luciano, 'Eski Dünya' mafya liderlerini (Mustache Petes) tasfiye ederek mafyayı 'modernleştirdi'. Her ailenin bir bölgesi ve uzmanlık alanı vardı. Aileler arası çatışmaları önlemek için kurulan 'Komisyon', bir nevi mafya yönetim kurulu gibi çalışıyordu. Bu yapı o kadar gizli ve disiplinliydi ki, 1957'deki ünlü Apalachin Toplantısı polisin baskınına uğrayana kadar Amerikan kamuoyu mafyanın bu kadar örgütlü olduğuna inanmıyordu. Beş Aile sistemi, şantajdan sendika kontrolüne kadar New York ekonomisinin her damarına sızdı ve ancak 1980'lerdeki RICO yasalarıyla ciddi darbeler aldı.\n\nArşiv kayıtlarına göre Mafia yapımındaki aile içi çekişmeler, gerçek hayatta 1931'de Lucky Luciano'nun 'Castellammarese Savaşı'nı bitirerek New York'u beş büyük aile (Gambino, Lucchese, Genovese, Bonanno, Colombo) arasında paylaştırmasına dayanır.\n\nPopüler oyunlarda mafyayı genellikle 'Don' merkezli tek bir yapı gibi sunar ancak gerçekte bu, 'Komisyon' (The Commission) adı verilen bir kurul tarafından yönetilen, şirket benzeri bir federasyondu.\n\nTarihî kayıtlar, mafia oyunundaki aile içi çekişmeler, gerçek hayatta 1931'de Lucky Luciano'nun 'Castellammarese Savaşı'nı bitirerek New York'u beş büyük aile (Gambino, Lucchese, Genovese, Bonanno, Colombo) arasında paylaştırmasına dayanır.",
+      "whyItMatters": "Organize suçun bir 'kurul' tarafından yönetilmesi, suçun sadece bir asayiş sorunu değil, aynı zamanda bir kurumsallaşma biçimi olduğunu gösterir.",
+      "sources": [
+        {
+          "title": "The Commission (Britannica)",
+          "url": "https://www.britannica.com/topic/The-Commission-crime-syndicate",
+          "type": "official"
+        },
+        {
+          "title": "La Cosa Nostra (FBI Library)",
+          "url": "https://www.fbi.gov/investigate/organized-crime",
+          "type": "official"
+        }
+      ],
+      "relatedCardIds": [
+        "mafia-prohibition",
+        "mafia-immigration-crime",
+        "mafia-prohibition-economics"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Mafia oyunda “Beş Aile: New York’un Gizli Sahipleri” konusunu suç ve new york ekseninde somut sahnelerle işler. Modern mafya hiyerarşisinin doğuşu.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "ac-templar-fall",
+      "title": "Tapınak Şövalyeleri: Yükselişten İnfaza",
+      "subtitle": "Kutsal Savaşçılardan Avrupa'nın bankacılarına.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed",
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Orta Çağ",
+        "Din",
+        "Ekonomi"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "assassins-creed",
+        "tapinak-sovalyeleri",
+        "orta-cag",
+        "fransa"
+      ],
+      "quickRealityCheck": "Assassin's Creed'deki gizli 'dünya düzeni' kurucuları Templarlar, aslında Haçlı Seferleri sırasında hacıları korumak için kurulan ancak zamanla Avrupa'nın ilk modern bankacılık sistemini kuran çok zengin bir askeri tarikattır.",
+      "mediaChanged": "Oyunlar Templarları 'evrensel bir ideoloji' gibi sunsa da, gerçek şövalyeler Papa'ya bağlı katı dini kuralları olan ve Kutsal Topraklar kaybedilince varlık nedenlerini de kaybeden bir gruptu.",
+      "realHistory": "1119'da kurulan tarikat, muazzam bağışlar ve vergi muafiyetleri sayesinde hızla zenginleşti. Avrupa ve Orta Doğu arasında güvenli para transferi (ilk çek/senet benzeri yapılar) sistemini geliştirdiler. Ancak Akka'nın (Acre) 1291'de düşüşüyle askeri prestijleri sarsıldı. Onlara çok borcu olan Fransa Kralı IV. Philippe, bu borçlardan kurtulmak için tarikata 'sapkınlık' suçlaması attı. 13 Ekim 1307 Cuma günü (Cuma ayın 13'ü efsanesinin kökenlerinden biri) tüm şövalyeler tutuklandı ve tarikat lağvedildi. Son Büyük Üstat Jacques de Molay, 1314'te yakılarak idam edildi.\n\nTarihî kayıtlar, Tapınak Şövalyelerinin Haçlı Seferleri sırasında hacıları korumak için kurulduğunu, zamanla ise Avrupa'nın ilk modern bankacılık ağlarından birini işlettiğini gösterir.\n\nPopüler oyunlarda Templarları evrensel bir ideoloji gibi sunsa da, gerçek şövalyeler Papa'ya bağlı katı dini kuralları olan ve Kutsal Topraklar kaybedilince varlık nedenlerini de kaybeden bir gruptu.\n\nPhilippe'in bir gecede tarikatı tasfiye etmesi, devlet gücünün dini ve ekonomik bir otoriteyi nasıl hızla yok edebileceğinin radikal bir örneğidir.\n\nTarikatın para transfer ağı, Haçlı rotaları boyunca hacılara güvenli kredi sağlarken Fransa tahtına da büyük borç yükü bıraktı. 1307 tutuklamaları, kralın mali yükü silmek için dini suçlamayı nasıl kullandığının somut örneğidir.",
+      "whyItMatters": "Tapınak Şövalyeleri'nin sonu, devlet gücünün (Kral) dini ve ekonomik bir otoriteyi nasıl bir gecede yok edebileceğinin tarihteki en radikal örneğidir.",
+      "sources": [
+        {
+          "title": "Templars (Britannica)",
+          "url": "https://www.britannica.com/topic/Templars",
+          "type": "official"
+        },
+        {
+          "title": "The Fall of the Templars (Yale University Press)",
+          "url": "https://yalebooks.yale.edu/",
+          "type": "academic"
+        }
+      ],
+      "relatedCardIds": [
+        "ac-assassin-order-real",
+        "ac-crusader-urban-life"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Assassin's Creed oyunda “Tapınak Şövalyeleri: Yükselişten İnfaza” konusunu orta çağ ve din ekseninde somut sahnelerle işler. Kutsal Savaşçılardan Avrupa'nın bankacılarına.",
+      "lastReviewedAt": "2026-06-24"
+    }
+  ]
+}

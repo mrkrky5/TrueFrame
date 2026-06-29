@@ -1,0 +1,438 @@
+{
+  "patchId": "tr-chunks-021-022-source-aware-patch",
+  "locale": "tr",
+  "sourceChunks": [
+    21,
+    22
+  ],
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-editorial-qa",
+  "summary": {
+    "cardCount": 10,
+    "approvedAsIs": [],
+    "minorEdit": [
+      "harem-pleasure-myth"
+    ],
+    "rewrite": [
+      "wild-west-gunfights-myth",
+      "ancient-travel-myth",
+      "medieval-city-diet",
+      "pre-news-news",
+      "pre-clock-time",
+      "black-death-labor-shift",
+      "printing-press-authority",
+      "ottoman-bazaar-shopping",
+      "industrial-rev-daily-life"
+    ],
+    "sourceUpdates": [
+      "harem-pleasure-myth",
+      "wild-west-gunfights-myth",
+      "ancient-travel-myth",
+      "medieval-city-diet",
+      "pre-news-news",
+      "pre-clock-time",
+      "black-death-labor-shift",
+      "printing-press-authority",
+      "ottoman-bazaar-shopping",
+      "industrial-rev-daily-life"
+    ],
+    "notes": [
+      "Chunk 021 contains 6 cards; chunk 022 contains 4 cards.",
+      "No card was approved fully as-is because all cards had at least source metadata, template residue, or overconfident wording issues.",
+      "The largest compression/rewrite work was applied to medieval-city-diet, black-death-labor-shift, printing-press-authority, and industrial-rev-daily-life due to repetition and overlong generated prose.",
+      "Claims around segmented sleep, Black Death as a direct cause of modernity, Old West gun violence, and Ottoman bazaar fairness were softened for source safety."
+    ]
+  },
+  "entries": [
+    {
+      "id": "harem-pleasure-myth",
+      "reviewStatus": "minor-edit-source-cleanup",
+      "notes": "Gövde metni büyük ölçüde temiz; kaynak başlığı/URL eşleşmesi ve kısa alanlarda daha netlik gerekti.",
+      "fields": {
+        "reviewerNote": "Harem’in yalnız egzotik/cinsel bir alan değil; hanedan, eğitim, hiyerarşi ve siyasi ağlarla ilişkili saray kurumu olduğu kaynaklarla desteklendi.",
+        "mediaChanged": "Popüler yapımlar haremi romantik entrika ve egzotik kapalı alan olarak gösterir; tarihsel çerçeve ise daha disiplinli, hiyerarşik ve siyasi yönü olan bir saray kurumuna işaret eder.",
+        "whyItMatters": "Haremi yalnız fantezi olarak görmek, Osmanlı sarayında kadınların eğitim, vakıf ve hanedan siyaseti içindeki etkisini görünmez kılar.",
+        "quickRealityCheck": "Harem yalnızca padişahın özel alanı mıydı, yoksa hanedanın eğitim ve siyasi ağlarının kurulduğu bir saray kurumu muydu?",
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Harem — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/harem",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Topkapı Sarayı — Milli Saraylar",
+            "url": "https://www.millisaraylar.gov.tr/saraylar/topkapi-sarayi",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "The Imperial Harem — Leslie Peirce",
+            "url": "https://books.google.com/books/about/The_Imperial_Harem.html?id=L6-VRgVzRcUC",
+            "type": "book",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "wild-west-gunfights-myth",
+      "reviewStatus": "rewrite",
+      "notes": "Metnin ana fikri doğruydu ama 'her kasaba daha güvenliydi' ve silah kullanımı konusunda fazla genelleyici ifadeler vardı.",
+      "fields": {
+        "realHistory": "Western filmleri Vahşi Batı’yı genellikle herkesin belinde tabanca taşıdığı, sokakta aniden düelloya giriştiği bir dünya gibi gösterir. Gerçekte frontier kasabalarının çoğu, ticaret ve yerleşim için güvenli görünmek zorundaydı. Dodge City, Tombstone, Deadwood ve Abilene gibi yerlerde silah taşımayı sınırlayan yerel kurallar vardı; ziyaretçilerden kasabaya girerken silahlarını teslim etmeleri istenebiliyordu.\n\nBu, Batı’da şiddet olmadığı anlamına gelmez. Sınır bölgelerinde alkol, kumar, sığır ticareti, arazi kavgası ve hukuk boşlukları ciddi gerilim yaratıyordu. Ama filmlerdeki “iki adam sokağın ortasında eşit şartlarda karşılaşır” düellosu, gerçek şiddet biçimlerinden daha romantik bir kurgudur. O.K. Corral çatışması bile çoğu zaman anlatıldığı gibi onurlu bir düello değil, Tombstone’daki silah taşıma yasağı ve yerel güç mücadelesiyle bağlantılı kısa ve kaotik bir çatışmaydı.\n\nRed Dead gibi yapımlar bu miti bilinçli kullanır: Eski dünyanın bireysel silahşor imajı, kasabaya giren kanun, demiryolu ve şirket düzeniyle çarpışır. Tarihsel gerçeklikte Vahşi Batı’nın sonu, sadece daha iyi şeriflerin gelişiyle değil; ticaretin, yerel yönetimin ve yatırım güvenliğinin şiddeti kontrol altına alma ihtiyacıyla geldi.",
+        "accuracyNote": "Western türü sokak düellosunu Amerikan bireycilik mitinin parçası haline getirdi. Tarihsel kayıtlarda silah sahipliği yaygındı, fakat birçok frontier kasabasında kasaba içinde silah taşıma ve kullanma yerel yönetmeliklerle sınırlandırılıyordu.",
+        "whyInteresting": "O.K. Corral gibi en ünlü çatışmalar bile çoğu zaman 'şerefli düello' değil; yerel hukuk, silah yasağı, itibar ve ekonomik çıkar çatışmalarının birleşimiydi.",
+        "misconception": "Vahşi Batı’da herkesin kasaba içinde silahla gezdiği sanılır; oysa birçok yerleşimde silahlar şehir sınırında teslim ettiriliyor veya ev dışında taşınması yasaklanıyordu.",
+        "mediaChanged": "Western filmleri sokak düellosunu dramatik bir adalet biçimi gibi gösterir; tarihsel frontier kasabaları ise ticaret ve yerleşim için silah kullanımını sınırlamaya çalışan yerel hukuk düzenleri kurdu.",
+        "whyItMatters": "Vahşi Batı’yı yalnız silahlı özgürlük mitiyle okumak, sınır kasabalarının aslında güvenlik, yatırım ve düzen ihtiyacıyla şekillendiğini gizler.",
+        "quickRealityCheck": "Vahşi Batı gerçekten herkesin belinde tabancayla dolaştığı bir yer miydi, yoksa kasaba hayatı çoğu zaman silah kontrolüyle mi düzenleniyordu?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Gun Control Is as Old as the Old West — Smithsonian Magazine",
+            "url": "https://www.smithsonianmag.com/history/gun-control-old-west-180968013/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The West — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/place/the-West-region-United-States",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "ancient-travel-myth",
+      "reviewStatus": "rewrite",
+      "notes": "Metin hareketliliği doğru vurguluyor ama antik seyahati modern uçak yolculuğu kadar yaygın gösterecek kadar abartıyordu.",
+      "fields": {
+        "realHistory": "Antik dünyada insanların büyük kısmı doğduğu bölgeye bağlı yaşardı; yolculuk pahalı, yavaş ve riskliydi. Yine de bu, kimsenin yerinden kıpırdamadığı anlamına gelmez. Roma yolları, Akdeniz deniz ticareti, haclar, askerî sevkiyatlar, elçilikler ve ticaret ağları sayesinde insanlar, mallar ve haberler binlerce kilometre hareket edebiliyordu.\n\nRoma İmparatorluğu’nda bir asker Britanya’dan Suriye’ye, bir tüccar İskenderiye’den Roma’ya, bir öğrenci Atina’dan başka bir kültür merkezine gidebilirdi. İpek Yolu ise tek bir güzergâh değil, Orta Asya’dan Akdeniz’e uzanan çok kollu bir bağlantı ağıydı. Bu ağlar yalnız ipek veya baharat değil; din, teknoloji, dil ve hastalık da taşıdı.\n\nPopüler kültür antik insanı çoğu zaman köyünden çıkmayan ve dünyadan habersiz biri gibi gösterir. Daha doğru tablo şudur: Herkes gezgin değildi ama antik toplumlar sandığımızdan çok daha bağlantılıydı. Seyahat gündelik konfor değil, iş, savaş, hac, ticaret veya zorunluluk meselesiydi. Bu yüzden antik hareketlilik modern turizm gibi değil, imparatorluk ve ticaret altyapısının yarattığı pratik bir dolaşım olarak okunmalı.",
+        "accuracyNote": "Antik seyahat yavaş ve tehlikeliydi; fakat Roma yolları, deniz ticareti, hac ve elçilik ağları sayesinde bölgesel ve kıtalararası hareketlilik tamamen olağan dışı değildi.",
+        "whyInteresting": "Pausanias’ın Yunanistan anlatısı gibi metinler, antik dünyada gezilecek yerleri, tapınakları ve yerel hikâyeleri merak eden bir okuyucu kitlesi olduğunu gösterir.",
+        "misconception": "Antik insanların hiç seyahat etmediği sanılır; gerçekte seyahat sınırlıydı ama ticaret, askerlik, hac ve elçilik yüzünden insanlar ve haberler uzun mesafeler kat edebiliyordu.",
+        "mediaChanged": "Filmler antik insanı çoğu zaman kendi köyüne sıkışmış gibi gösterir; tarihsel ağlar ise özellikle ticaret, askerlik ve din üzerinden çok daha hareketli bir dünya sunar.",
+        "whyItMatters": "Antik dünyadaki hareketliliği görmek, kültürlerin birbirinden kopuk değil; yollar, limanlar ve kervan ağlarıyla sürekli temas halinde olduğunu anlamamızı sağlar.",
+        "quickRealityCheck": "Antik çağ insanı gerçekten dünyadan habersiz miydi, yoksa seyahat zor olsa da ticaret ve imparatorluk ağları insanları birbirine bağlıyor muydu?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "History of Travel and Tourism — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/travel-and-tourism/History-of-travel",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "About the Silk Roads — UNESCO",
+            "url": "https://www.unesco.org/en/silk-roads/about-silk-roads",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "Roman Roads — World History Encyclopedia",
+            "url": "https://www.worldhistory.org/Roman_Roads/",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "medieval-city-diet",
+      "reviewStatus": "rewrite",
+      "notes": "Mevcut gövde aşırı uzun, tekrar dolu ve çok sayıda desteklenmesi zor ayrıntı içeriyordu. Standart karta uygun şekilde sıkılaştırıldı.",
+      "fields": {
+        "realHistory": "Orta Çağ şehirlerinde sofra yalnız kuru ekmek ve gri çorbadan ibaret değildi; ama herkesin sürekli ziyafet çektiği bir dünya da değildi. Beslenme sınıfa, mevsime, bölgeye, dini takvime ve pazara erişime göre değişirdi. Ekmek temel gıdaydı: varlıklı kesim daha beyaz buğday ekmeğine ulaşırken yoksullar çoğu zaman çavdar, arpa veya karışık tahıllı daha koyu ekmekler tüketirdi.\n\nŞehirli halk için pottage, yani tahıl, baklagil, sebze ve elde ne varsa onunla yapılan tencere yemeği, gündelik beslenmenin omurgasıydı. Et tamamen yok değildi, fakat düzenli et tüketimi gelir düzeyine bağlıydı. Kilise takvimindeki oruç ve perhiz günleri balık talebini artırır; tuzlama ve kurutma gibi saklama tekniklerini önemli hale getirirdi. Ale ve bira türleri de hem kalori hem de güvenli içecek ihtiyacı açısından yaygındı.\n\nBaharatlar yalnız 'bozuk eti saklamak' için kullanılmıyordu; pahalı oldukları için aynı zamanda statü göstergesiydi. Zengin sofralarında tatlı-tuzlu karışımlar, soslar ve törensel sunumlar görülebilirdi. Buna karşılık sıradan bir işçinin yemeği daha tekrarlı ve pratikti. Orta Çağ mutfağını ilginç yapan şey, fakirlik klişesi değil; ekmek nizamları, pazar denetimi, dini takvim ve sınıf farklarının aynı sofrada görünür hale gelmesidir.",
+        "accuracyNote": "Orta Çağ mutfağı tek tip değildi. Ekmek, pottage, ale, balık günleri ve sınıf farkları önemliydi; ayrıntılar ülke, şehir, dönem ve gelir düzeyine göre değişiyordu.",
+        "whyInteresting": "Ekmek yalnız yiyecek değil, şehir yönetiminin denetlediği temel bir üründü; ekmeğin ağırlığı ve fiyatı bazı yerlerde tahıl fiyatına göre düzenlenirdi.",
+        "misconception": "Orta Çağ yemeğinin tamamen tatsız ve tekdüze olduğu sanılır; gerçekte mutfak sınıfa göre değişen ekmek, baklagil, sebze, balık, ale, baharat ve sos kültürüne sahipti.",
+        "mediaChanged": "Filmler Orta Çağ sofrasını ya kuru ekmek ve çamurlu çorba ya da lord ziyafeti olarak gösterir; tarihsel gerçeklik ise gündelik pazar, dini takvim ve sınıf farklarıyla daha katmanlıdır.",
+        "whyItMatters": "Orta Çağ yemek kültürü, toplumun sınıf düzenini, dini ritmini ve şehir ekonomisini gündelik bir tabakta görünür kılar.",
+        "quickRealityCheck": "Orta Çağ insanı gerçekten sadece kuru ekmek mi yiyordu, yoksa sofra sınıf, mevsim ve dini takvime göre değişen daha karmaşık bir düzen miydi?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "How to cook a medieval feast — British Museum",
+            "url": "https://www.britishmuseum.org/blog/how-cook-medieval-feast-11-recipes-middle-ages",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "A simple food with many meanings: bread in late medieval England — Midland History",
+            "url": "https://doi.org/10.1080/03044181.2023.2250947",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Assize of Bread and Ale — Encyclopaedia reference",
+            "url": "https://www.britannica.com/topic/assize",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "pre-news-news",
+      "reviewStatus": "rewrite",
+      "notes": "Mevcut metin iyi bir konu seçmiş ama kopuk/truncated cümleler ve fazla genel 'resmi gerçek' iddiası vardı.",
+      "fields": {
+        "realHistory": "Gazetelerden önce haber yok değildi; yalnızca daha yavaş, daha parçalı ve daha sosyal biçimde dolaşıyordu. Bir savaşın, kral ölümünün, salgının veya fiyat değişiminin haberi; elçiler, tüccarlar, denizciler, kervanlar, din adamları ve resmi görevliler aracılığıyla yayılırdı. Haberin hızı en hızlı at, gemi, yol güvenliği ve mevsimle sınırlıydı.\n\nErken modern Avrupa’da el yazması haber bültenleri, özellikle avvisi, tüccarlar ve diplomatlar için değerliydi. Bunlar savaş haberleri, saray söylentileri, gemi hareketleri ve piyasa bilgileri taşıyan pahalı metinlerdi. Sıradan halk içinse meydanlarda okunan fermanlar, tellallar, vaazlar, pazar dedikoduları ve han/kahvehane sohbetleri daha görünür kanallardı.\n\nKahvehaneler ve hanlar, haberin yalnız duyulduğu değil tartışıldığı yerlerdi. Bu yüzden matbaa öncesi haber dünyası 'hiçbir şey bilinmiyordu' diye anlatılamaz. Daha doğru çerçeve, doğrulamanın zor olduğu ama haber merakının güçlü olduğu bir ağdır: resmi duyuru, ticari bilgi ve söylenti çoğu zaman aynı yolda ilerlerdi.",
+        "accuracyNote": "Matbaa öncesi haber akışı yavaş ve eşitsizdi; fakat tüccar ağları, elçiler, town criers/tellallar, el yazması bültenler ve kahvehaneler haberin dolaşmasını sağlıyordu.",
+        "whyInteresting": "Avvisi gibi el yazması haber bültenleri, modern gazeteden önce özellikle diplomatlar ve tüccarlar için erken bir bilgi piyasası oluşturdu.",
+        "misconception": "Gazetelerden önce insanların dünyadan habersiz olduğu sanılır; gerçekte haber yavaş ilerlerdi ama ticaret, saray ve pazar ağları önemli bilgileri sürekli dolaştırırdı.",
+        "mediaChanged": "Filmler çoğu zaman haberi tek bir atlı ulakla getirir; tarihsel gerçeklikte haber, resmi duyuru, ticari mektup, dedikodu ve kamusal okuma ağlarının karışımıyla yayılırdı.",
+        "whyItMatters": "Haberin matbaadan önceki dolaşımını anlamak, bilgi gücünün sadece teknolojiyle değil; ticaret, güven ve sosyal mekânlarla da kurulduğunu gösterir.",
+        "quickRealityCheck": "Gazetelerden önce haber hiç mi yayılmıyordu, yoksa daha yavaş ve daha sosyal ağlar üzerinden mi dolaşıyordu?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "History of Communication — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/communication/History-of-communication",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Was there an Enlightenment Culture of News? — Brill",
+            "url": "https://brill.com/display/book/edcoll/9789004362871/B9789004362871_023.xml",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "History of British Newspapers — News Media Association",
+            "url": "https://newsmediauk.org/history-of-british-newspapers/",
+            "type": "reference",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "pre-clock-time",
+      "reviewStatus": "rewrite",
+      "notes": "Segmented sleep ve 'geç kalmak yoktu' iddiaları fazla kesin. Saat öncesi zamanı daha temkinli ve kültürler arası geçerli yazdım.",
+      "fields": {
+        "realHistory": "Mekanik saatler yaygınlaşmadan önce zaman daha çok doğa, ibadet, iş ritmi ve kamusal işaretlerle yaşanırdı. Güneşin konumu, kilise çanı, ezan, pazar açılışı, vardiya veya yolculuk mesafesi günlük hayatı düzenleyen pratik göstergelerdi. 'Saat 3’te buluşalım' gibi kesin ifadeler, sıradan insanlar için uzun süre bugünkü anlamıyla doğal değildi.\n\nBu, insanların zamanı umursamadığı anlamına gelmez. Tarlada hasat vakti, şehirde kapıların kapanışı, manastırda dua saatleri, limanda gelgit ve pazarda açılış zamanı son derece önemliydi. Fark şuydu: zaman çoğu yerde soyut dakikalardan çok görev, ışık ve topluluk işaretleriyle ölçülüyordu. Mekanik saatlerin, daha sonra sarkaçlı saatlerin ve kamusal saat sinyallerinin yayılmasıyla zaman daha standart, ölçülebilir ve disiplin edici hale geldi.\n\nİki parçalı uyku fikri de bu bağlamda dikkat çekicidir, fakat bunu herkesin her dönemde böyle uyuduğu kesin bir kural gibi okumamak gerekir. Elektrik öncesi toplumlarda gece uyanıklığına dair güçlü kayıtlar vardır; yine de uyku düzeni sınıfa, mevsime, işe ve mekâna göre değişirdi. Modern saat zamanı, özellikle şehirleşme, denizcilik, demiryolu ve sanayiyle birlikte gündelik hayatı yeniden şekillendirdi.",
+        "accuracyNote": "Mekanik saatlerden önce zaman yok değildi; yalnızca daha yerel, kamusal işaretlere ve görevlere bağlıydı. Segmented sleep konusunda kayıtlar önemlidir, ancak bunu evrensel ve değişmez bir uyku düzeni gibi sunmamak gerekir.",
+        "whyInteresting": "Kamusal saatler, zaman topları ve daha sonra elektrikli saat ağları, zamanın yalnız kişisel değil toplumsal olarak senkronize edilmesini sağladı.",
+        "misconception": "Eskiden insanlar zamanı umursamazdı sanılır; gerçekte zaman önemliydi ama dakikalardan çok ışık, çan/ezan, iş ritmi ve topluluk işaretleriyle düzenlenirdi.",
+        "mediaChanged": "Tarihsel yapımlarda herkes modern saat dilimiyle konuşur; oysa birçok dönemde gündelik zaman, ortak saatten çok yerel işaretler ve görev ritimleriyle yaşanıyordu.",
+        "whyItMatters": "Saatin yaygınlaşması yalnız teknik bir ilerleme değil; iş, ulaşım, ibadet, ticaret ve beden ritmini yeniden düzenleyen kültürel bir dönüşümdü.",
+        "quickRealityCheck": "Saatlerden önce insanlar zamansız mı yaşıyordu, yoksa zamanı bugünkünden farklı işaretler ve görevler üzerinden mi ölçüyordu?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "A unique history of timekeeping — Royal Museums Greenwich",
+            "url": "https://www.rmg.co.uk/collections/our-collections-unique-history-timekeeping",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "Clock — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/technology/clock",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Have we lost sleep? A reconsideration of segmented sleep — Sleep Health",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10404514/",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "black-death-labor-shift",
+      "reviewStatus": "rewrite",
+      "notes": "Mevcut metin aşırı uzun, tekrar dolu ve vebayı doğrudan Rönesans/modern kapitalizm sebebi gibi fazla deterministik anlatıyordu.",
+      "fields": {
+        "realHistory": "Kara Ölüm, 1347–1351 arasında Avrupa nüfusunun büyük bölümünü yok ederek yalnız sağlık değil, emek ve mülkiyet düzenini de sarstı. Köylerde tarlalar boş kaldı, şehirlerde zanaat ve hizmet işçiliği azaldı. Bu durum hayatta kalan emekçiler için pazarlık gücü yarattı: daha yüksek ücret, daha iyi koşul veya başka bir yere gitme imkânı eskisinden daha gerçekçi hale geldi.\n\nİngiltere’de yönetici sınıf bu değişimi sınırlamak için 1349 Ordinance of Labourers ve 1351 Statute of Labourers gibi düzenlemelerle ücretleri veba öncesi seviyelere çekmeye ve iş gücünün hareketini kontrol etmeye çalıştı. Bu yasaların varlığı bile, emek kıtlığının toplumsal düzeni ne kadar zorladığını gösterir. Yine de Avrupa’nın her yerinde sonuç aynı değildi; bazı bölgelerde köylüler güç kazanırken, bazı yerlerde lordlar daha sert baskı kurdu.\n\nVeba tek başına feodalizmi 'yıkmadı'; fakat eski düzenin çatlaklarını büyüttü. İş gücü kıtlığı, ücret tartışmaları, boşalan topraklar, miras değişimleri ve vergiler üzerindeki baskı, 1381 İngiliz Köylü İsyanı gibi patlamaları anlamak için kritik bir arka plandır. A Plague Tale gibi yapımlar vebayı haklı olarak korku ve ölümle anlatır; tarihsel sonuç ise aynı zamanda emek ilişkilerinin yeniden pazarlığa açılmasıdır.",
+        "accuracyNote": "Kara Ölüm’ün etkisi bölgeden bölgeye değişti. Emek kıtlığı pazarlık gücünü artırdı, fakat bunu doğrudan ve tek başına modern dünyanın başlangıcı gibi göstermek fazla indirgemeci olur.",
+        "whyInteresting": "1351 Statute of Labourers, emek kıtlığı karşısında ücretleri kontrol etmeye çalışan bir yasa olarak, salgının yalnız tıbbi değil ekonomik bir kriz olduğunu gösterir.",
+        "misconception": "Vebanın yalnız ölüm ve karanlık getirdiği sanılır; gerçekte nüfus kaybı, emek piyasası ve feodal yükümlülükler üzerinde de büyük bir yeniden pazarlık yarattı.",
+        "mediaChanged": "Veba temalı yapımlar salgını çoğunlukla korku ve cesetlerle gösterir; tarihsel tablo ise aynı felaketin iş gücü, ücret ve toplumsal hareketlilik üzerindeki etkilerini de içerir.",
+        "whyItMatters": "Kara Ölüm, felaketlerin sadece yıkım değil, mevcut toplumsal düzenin zayıf noktalarını görünür kılan tarihsel kırılmalar yaratabileceğini gösterir.",
+        "quickRealityCheck": "Kara Ölüm sadece ölüm dalgası mıydı, yoksa Avrupa’daki emek ve feodal düzeni de yeniden pazarlığa açan bir kriz miydi?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Black Death — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Black-Death",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Statute of Labourers 1351 — Avalon Project, Yale Law School",
+            "url": "https://avalon.law.yale.edu/medieval/statlab.asp",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Plague — The National Archives",
+            "url": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/early-modern/plague/",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "printing-press-authority",
+      "reviewStatus": "rewrite",
+      "notes": "Mevcut metin çok uzun ve tekrarlı; matbaanın etkisini doğru ama daha az deterministik ve daha okunur şekilde toparladım.",
+      "fields": {
+        "realHistory": "Matbaa, yalnız kitapların daha hızlı çoğalması değil, bilginin otoriteyle ilişkisini değiştiren bir teknolojiydi. Gutenberg’in 15. yüzyıl ortasında geliştirdiği hareketli metal harfli baskı, Avrupa’da metinlerin daha hızlı, daha çok sayıda ve daha tutarlı kopyalanmasını sağladı. Bu yeni hız, dinî tartışmadan bilimsel diyagrama kadar birçok alanı etkiledi.\n\nReformasyon bunun en görünür örneklerinden biridir. Luther’in 1517’deki 95 Tez’i yalnız bir akademik tartışma olarak kalmadı; baskı sayesinde broşürlere, çevirilere ve polemik metinlerine dönüştü. Ancak matbaa, otomatik olarak özgürlük getiren sihirli bir araç değildi. Devletler, kilise otoriteleri ve üniversiteler sansür, lisans ve yasaklı kitap listeleriyle bu yeni dolaşımı kontrol etmeye çalıştı.\n\nMatbaanın asıl etkisi, kopyalama hızından çok çoğaltmanın güvenilirliğinde ve erişim ölçeğinde görüldü. Hukuk metinleri, tıp kitapları, haritalar, dil bilgisi kitapları ve bilimsel çizimler daha geniş çevrelere ulaşabildi. Böylece bilgi tek bir manastır ya da saray çevresinde kalmak yerine şehirler, üniversiteler ve pazarlar arasında dolaşan bir tartışma alanına dönüştü. Pentiment gibi yapımların iyi yakaladığı gerilim de budur: matbaa sadece bir makine değil, otoritenin metin üzerindeki kontrolünü zorlayan yeni bir kamusal alan yaratır.",
+        "accuracyNote": "Blok baskı ve kâğıt teknolojisi Avrupa’dan önce Asya’da gelişmişti; Gutenberg’in önemi, hareketli metal harfi Avrupa’daki alfabe, ticaret ve şehir ağıyla birleşen ölçeklenebilir bir baskı sistemine dönüştürmesindedir.",
+        "whyInteresting": "İlk basılı kitapların bir kısmı el yazmasına benzemek üzere tasarlandı; yeni teknoloji, başlangıçta eski kitabın güvenilir görünümünü taklit ederek kabul gördü.",
+        "misconception": "Matbaanın sadece dinî kitapları çoğalttığı sanılır; gerçekte bilim, hukuk, siyaset, harita ve dil standardizasyonu üzerinde de geniş etkisi oldu.",
+        "mediaChanged": "Tarihsel yapımlar matbaayı çoğu zaman hızlı kitap basma aracı gibi gösterir; asıl dönüşüm, metnin kim tarafından çoğaltılacağı ve kimin kontrol edeceği sorusunda yaşandı.",
+        "whyItMatters": "Matbaa, bilginin yalnız saklanmasını değil, çoğaltılmasını, tartışılmasını ve otoriteye karşı kullanılmasını kolaylaştıran bir iletişim devrimiydi.",
+        "quickRealityCheck": "Matbaa sadece kitap üretimini mi hızlandırdı, yoksa dini, siyasi ve bilimsel otoritenin bilgi üzerindeki tekelini de mi sarstı?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Gutenberg Bible — Cambridge Divinity 50 Treasures",
+            "url": "https://www.50treasures.divinity.cam.ac.uk/treasure/gutenberg-bible/",
+            "type": "academic",
+            "verified": true
+          },
+          {
+            "title": "Printing Press — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/printing-press",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "The 95 Theses — The London Library",
+            "url": "https://www.londonlibrary.co.uk/theses",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "ottoman-bazaar-shopping",
+      "reviewStatus": "rewrite",
+      "notes": "Metin kısa ama bazı cezalar ve ahilik/lonca iddiaları fazla kesin verilmişti. Narh, muhtesib ve çarşı düzeni daha güvenli kuruldu.",
+      "fields": {
+        "realHistory": "Osmanlı çarşısı popüler anlatılarda çoğu zaman kalabalık, baharatlı ve kaotik bir dekor gibi görünür. Gerçekte ise özellikle büyük şehirlerde çarşı, esnaf loncaları, fiyat denetimi, kalite kontrolü, vakıf yapıları ve devlet gözetimiyle işleyen düzenli bir ekonomik alandı. İstanbul’da narh uygulaması, temel ürünlerde fiyatları belirli sınırlar içinde tutmaya çalışan bir denetim mekanizmasıydı.\n\nBu düzenin merkezinde kadı, muhtesib ve loncalar yer alırdı. Muhtesib çarşıyı denetler; eksik tartı, hileli mal, kalite düşüklüğü veya belirlenen fiyatın üstünde satış gibi konularla ilgilenirdi. Loncalar yalnız meslek grubu değil, çıraklık, ustalık, itibar ve dayanışma ağıydı. Bir esnafın güvenilirliği, yalnız sattığı malın kalitesiyle değil, lonca içindeki itibarıyla da ölçülürdü.\n\nPazarlık bu yüzden tamamen başıboş bir fiyat kavgası değildi. Müşteri ile esnaf arasında sosyal ilişki kuran, ama aynı zamanda devletin ve loncanın çizdiği sınırlar içinde kalan bir ritüeldi. Assassin’s Creed Revelations gibi yapımlar çarşının görsel canlılığını iyi verir; tarihsel katman ise bu canlılığın arkasındaki denetim, ahlak, kredi ve güven ilişkilerinde saklıdır.",
+        "accuracyNote": "Osmanlı çarşılarında narh, muhtesib ve lonca düzeni önemliydi; ancak uygulamalar dönem, ürün ve şehir ölçeğine göre değişti. Bu yüzden çarşıyı ne tamamen kaotik ne de kusursuz adil bir sistem olarak göstermek doğru olur.",
+        "whyInteresting": "Narh defterleri, yalnız fiyat listesi değil; devletin şehir iaşesi, tüketici korunması ve esnaf kârı arasında denge kurma çabasının izlerini taşır.",
+        "misconception": "Osmanlı çarşısının tamamen kaotik pazarlık alanı olduğu sanılır; gerçekte fiyat, kalite ve meslek itibarı çoğu zaman kadı, muhtesib ve lonca düzeniyle denetlenirdi.",
+        "mediaChanged": "Filmler çarşıyı çoğu zaman renkli bir arka plan olarak kullanır; tarihsel çarşı ise fiyat, güven, lonca ve devlet denetiminin iç içe geçtiği sosyal bir müzakere alanıdır.",
+        "whyItMatters": "Çarşıyı anlamak, Osmanlı şehir hayatında ekonominin yalnız alışveriş değil; güven, itibar, denetim ve toplumsal düzen meselesi olduğunu gösterir.",
+        "quickRealityCheck": "Osmanlı çarşısı gerçekten başıboş bir kalabalık mıydı, yoksa fiyat ve kaliteyi denetleyen kurumlarla çalışan bir şehir sistemi miydi?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "Trade in Ottoman Istanbul — History of Istanbul",
+            "url": "https://istanbultarihi.ist/560-trade-in-ottoman-istanbul",
+            "type": "reference",
+            "verified": true
+          },
+          {
+            "title": "Guild — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/guild-trade-association",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Ottoman Market Regulation and Inspection in the Early Modern Period — Adalya",
+            "url": "https://dergipark.org.tr/en/download/article-file/2132807",
+            "type": "academic",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "industrial-rev-daily-life",
+      "reviewStatus": "rewrite",
+      "notes": "Mevcut metin çok uzun, tekrar dolu ve çok sayıda trivia iddiası içeriyordu. Sanayi Devrimi'nin günlük hayat ritmine etkisi korunarak sıkılaştırıldı.",
+      "fields": {
+        "realHistory": "Sanayi Devrimi yalnız fabrikaların çoğalması değil, gündelik hayat ritminin değişmesiydi. Ev ve iş çoğu zanaatkâr için eskiden daha iç içeyken, fabrika sistemi üretimi belirli bir mekâna, vardiyaya ve makine hızına bağladı. İnsanlar artık güneşi, mevsimi veya ev içi işi değil; fabrika sirenini, vardiya saatini ve üretim temposunu takip etmek zorunda kaldı.\n\nBu dönüşüm özellikle kadınlar ve çocuklar için sert sonuçlar doğurdu. 1833 Factory Act, çocuk işçiliğini sınırlamaya ve fabrika denetçileri getirmeye çalıştı; fakat bu düzenlemeler bile çocukların uzun saatler çalıştığı bir dünyada ortaya çıktı. 1842 Mines Act gibi sonraki yasalar, madenlerde kadın ve çocuk emeğine yönelik kamuoyu baskısının büyüdüğünü gösterdi. Yasa reformları bir gecede insani çalışma koşulları yaratmadı; ama devletin işyeri koşullarına müdahale etmeye başladığı yeni bir dönemi işaret etti.\n\nSanayi şehirleri aynı zamanda altyapı krizlerinin de merkezine dönüştü. Kalabalık konutlar, duman, kirli su ve yetersiz kanalizasyon halk sağlığını tehdit etti. Demiryolları ve standart zaman fikri, malların ve insanların hareketini hızlandırırken dakikliğin de toplumsal disipline dönüşmesini sağladı. Assassin’s Creed Syndicate gibi yapımlar dumanlı sokakları iyi yakalar; tarihsel dönüşüm ise yalnız bacalarda değil, bedenin, ailenin, çocukluğun ve zamanın yeniden düzenlenmesinde saklıdır.",
+        "accuracyNote": "Sanayi Devrimi’ni yalnız teknik başarı ya da yalnız sefalet olarak okumak eksik kalır. Üretim, şehirleşme, çocuk işçiliği, yasa reformları, ulaşım ve zaman disiplini aynı dönüşümün parçalarıydı.",
+        "whyInteresting": "1833 Factory Act, çocuk işçilere yaş sınırı, çalışma saati sınırı, gece çalışma yasağı, eğitim zorunluluğu ve fabrika müfettişleri getirmeye çalışan erken reformlardan biriydi.",
+        "misconception": "Sanayi Devrimi’nin yalnız makinelerin icadı olduğu sanılır; gerçekte aile hayatını, çocukluğu, şehir sağlığını ve zaman algısını da dönüştürdü.",
+        "mediaChanged": "Filmler Sanayi Devrimi’ni dumanlı bacalar ve kirli sokaklarla gösterir; tarihsel tablo aynı zamanda vardiya, yasa reformu, çocuk emeği ve standart zamanın gündelik yaşama girmesidir.",
+        "whyItMatters": "Sanayi Devrimi, modern çalışma hayatının saat, vardiya, denetim, şehir altyapısı ve işçi hakkı gibi temel meselelerini doğurdu.",
+        "quickRealityCheck": "Sanayi Devrimi sadece makinelerin başarısı mıydı, yoksa insanların zamanı, bedeni ve aile hayatı üzerinde kurulan yeni bir düzen miydi?",
+        "readingTimeMinutes": 2,
+        "lastReviewedAt": "2026-06-27"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "1833 Factory Act — The National Archives",
+            "url": "https://www.nationalarchives.gov.uk/education/resources/1833-factory-act/",
+            "type": "archive",
+            "verified": true
+          },
+          {
+            "title": "Child Labour in the British Industrial Revolution — World History Encyclopedia",
+            "url": "https://www.worldhistory.org/article/2216/child-labour-in-the-british-industrial-revolution/",
+            "type": "article",
+            "verified": true
+          },
+          {
+            "title": "Industrial Revolution — Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Industrial-Revolution",
+            "type": "article",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}

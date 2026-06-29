@@ -1,0 +1,449 @@
+{
+  "patchId": "true-frame-tr-275-279-game-expansion-patch",
+  "locale": "tr",
+  "sourceChunks": [],
+  "contentRange": {
+    "startId": "tf26-275",
+    "endId": "tf26-279"
+  },
+  "sourceFile": "data/cards.tr.json",
+  "reviewMode": "source-aware-new-card-generation",
+  "summary": {
+    "cardCount": 5,
+    "newCards": 5,
+    "flagshipNewCards": 1,
+    "standardNewCards": 4,
+    "mediaFocus": [
+      "Narcos",
+      "The Americans",
+      "Rome (HBO)",
+      "Marco Polo",
+      "Vikings: Valhalla"
+    ],
+    "sourceUpdates": "Fresh source-checked cards with verified replacement sources.",
+    "notes": "Continuation batch after tf26-270 through tf26-274; moves through series-heavy proposal topics 76-80, with Rome promoted to flagship because the institutional collapse angle benefits from long-form treatment."
+  },
+  "entries": [
+    {
+      "id": "tf26-275-narcos-cocaine-trade-drug-war",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Narcos kartı Escobar biyografisine sıkışmadı; kokain ekonomisi, ABD talebi, kartel şiddeti ve uyuşturucu savaşı dengeli verildi.",
+      "fields": {
+        "title": "Kokain Ticareti ve Uyuşturucu Savaşı",
+        "subtitle": "Escobar efsanesinin ötesindeki ekonomi",
+        "mediaType": "series",
+        "mediaTitle": "Narcos",
+        "era": "Modern Tarih",
+        "region": "Kolombiya / ABD",
+        "themes": [
+          "Suç",
+          "Siyaset",
+          "Ekonomi",
+          "Modern Tarih"
+        ],
+        "whatWeSee": "Narcos, Pablo Escobar’ın yükselişini, Medellín Karteli’nin şiddetini ve ABD destekli uyuşturucu savaşını hızlı, karizmatik ve çoğu zaman gangster biyografisi gibi anlatır. Para, kaçakçılık rotaları, politik bağlantılar, polis operasyonları ve infazlar aynı dramatik ritmin parçası olur. Dizi, seyirciyi Escobar’ın kişiliğiyle başlatır ama arka planda bütün bir transnasyonel pazar çalışır.",
+        "realHistory": "Gerçekte mesele yalnızca ‘büyük bir suç dehası’ değildi. Kokain ticareti; And bölgesindeki üretim, Kolombiya’daki işleme ve kaçakçılık ağları, ABD’deki talep, kara para aklama ve zayıf devlet kurumlarıyla birlikte büyüdü. Medellín Karteli’nin gücü, sadece Escobar’ın korkutucu imajından değil; rüşvet, tehdit, suikast, dağıtım kanalları ve uluslararası para akışından geliyordu. DEA Museum, Escobar’ı Medellín Karteli’nin liderlerinden biri olarak tanımlar ve dönemin Kolombiyalı kartellerinin yüzlerce ton kokain üretip ihraç ettiğini vurgular. DEA tarih belgeleri de 1980’lerin sonunda Medellín ve Cali merkezli örgütlerin rüşvet, yıldırma ve cinayetle büyük siyasi-etkisel güç kurduğunu anlatır. Bu yüzden Narcos’un en iyi okuması, Escobar’ı hem fail hem de daha büyük bir sistemin yüzü olarak görmektir. Dizi bu yapıyı dramatize ederken bazen hikâyeyi kişisel kovalamacaya indirger. True Frame açısından ilginç olan nokta şudur: Escobar düşse bile talep, kâr ve kaçakçılık altyapısı ortadan kalkmadığında sistem başka aktörlerle yaşamaya devam eder. Bu ayrım önemli, çünkü gangster biyografisi seyirciye net bir düşman verir; tarih ise daha rahatsız edici biçimde tüketici talebini, devlet stratejisini ve ekonomik teşviki aynı tabloya koyar.",
+        "accuracyNote": "Dizi gerçek olaylardan ve kişilerden beslenir ama zaman çizelgesi, karakter birleşimleri ve operasyon detayları dramatik akış için sıkıştırılır.",
+        "whyInteresting": "Çünkü suç tarihini tek bir karizmatik kötü adamdan çıkarıp küresel pazar, devlet kapasitesi ve siyasi şiddet meselesine taşır.",
+        "misconception": "Escobar ölünce kokain ekonomisinin de bittiğini sanmak yanıltıcıdır; kartel yapıları değişti ama pazar mantığı devam etti.",
+        "nextTopics": [
+          "CIA ve Soğuk Savaş",
+          "Kara para aklama",
+          "Kolombiya iç çatışması"
+        ],
+        "similarMedia": [
+          "Traffic",
+          "Sicario",
+          "ZeroZeroZero"
+        ],
+        "relatedCardIds": [
+          "tf26-250-gta-moral-panic",
+          "tf26-246-codbo-bay-of-pigs",
+          "tf26-245-codbo-mkultra"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "minor",
+        "spoilerNote": "Dizinin genel tarihsel yönünü açıklar; sezon sonu sürprizi gibi spesifik detaylara yaslanmaz.",
+        "mediaConnection": "Narcos’un gangster anlatısını, gerçek kokain ekonomisi ve uyuşturucu savaşı politikalarıyla karşılaştırır.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "narcos",
+          "pablo escobar",
+          "medellin karteli",
+          "kokain",
+          "uyuşturucu savaşı"
+        ],
+        "mediaChanged": false,
+        "whyItMatters": "Suç anlatılarının karizması, çoğu zaman şiddeti mümkün kılan ekonomik ve siyasi yapıları görünmez kılar.",
+        "isFlagship": false,
+        "quickRealityCheck": "Narcos’un kişisel efsane dili güçlüdür; gerçek hikâye ise talep, para, devlet kapasitesi ve örgütlü şiddet ağıdır.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "DEA Museum - Pablo Escobar Life Mask",
+            "url": "https://museum.dea.gov/museum-collection/collection-spotlight/artifact/pablo-escobar-life-mask",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "DEA History 1985-1990",
+            "url": "https://www.dea.gov/sites/default/files/2018-07/1985-1990%20p%2058-67custom2.pdf",
+            "type": "official_pdf",
+            "verified": true
+          },
+          {
+            "title": "National Security Archive - Colombia declassified documents",
+            "url": "https://nsarchive.gwu.edu/regions/south-america",
+            "type": "archive",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-276-the-americans-cold-war-illegals",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "The Americans, doğrudan 2010 vakası gibi sunulmadı; KGB/SVR 'illegal' yönteminin belgelenmiş mantığı üzerinden yazıldı.",
+      "fields": {
+        "title": "Derin Casuslar",
+        "subtitle": "Soğuk Savaş’ta KGB ‘illegalleri’ nasıl çalışırdı?",
+        "mediaType": "series",
+        "mediaTitle": "The Americans",
+        "era": "Soğuk Savaş",
+        "region": "ABD / Sovyetler Birliği",
+        "themes": [
+          "Soğuk Savaş",
+          "Casusluk",
+          "Sovyetler",
+          "Kimlik"
+        ],
+        "whatWeSee": "The Americans, Washington yakınlarında sıradan bir aile gibi yaşayan iki Sovyet ajanını anlatır. Ev, çocuklar, komşular ve iş hayatı normal görünür; ama bu normal hayatın altında sahte kimlikler, gizli buluşmalar, şifreli mesajlar ve ideolojik bağlılık vardır. Dizi casusluğu sadece silah ve kovalamaca değil, uzun süreli rol yapma ve kimlik bölünmesi olarak gösterir.",
+        "realHistory": "KGB ve daha sonra SVR geleneğinde ‘illegal’ denen ajanlar, diplomat örtüsü altında çalışmayan, bu yüzden diplomatik dokunulmazlığı olmayan derin kapak operatörleriydi. Amaç çoğu zaman tek bir dramatik suikast değil; temas kurmak, hedef çevreleri gözlemek, bilgi toplamak ve gelecekte kullanılabilecek erişim kanalları yaratmaktı. FBI’ın Operation Ghost Stories dosyası, 2010’da ABD’de yakalanan Rus ‘illegals’ ağını bu yöntemin modern ve belgelenmiş bir örneği olarak gösterir. Justice Department da 2010’da uzun süreli deep-cover görevler yürüttüğü iddia edilen kişilerin tutuklandığını ve bazılarının Rusya Federasyonu adına yasa dışı ajanlık suçlamalarını kabul ettiğini açıklar. The Americans bunu 1980’lere ve dramatik aile çatışmasına taşır. Dizinin kurmaca tarafı aksiyonu artırır; ama yöntemin özü doğrudur: sahte kimlik yıllarca korunur, sıradan sosyal ilişkiler istihbarat değerine göre okunur. Gerçek yöntemin en rahatsız edici tarafı ise aksiyon değil, gündelik hayatın kendisidir: komşuluk, evlilik, çocuk yetiştirme ve kariyer, istihbarat işinin parçası haline gelir. Bu yüzden dizi, bazen melodramı büyütse de casusluğun en zor kısmını yakalar: tehlike yalnızca yakalanmak değil, yıllarca oynanan kimliğin gerçek kişiliği aşındırmasıdır.",
+        "accuracyNote": "Dizi kurmaca karakterler kullanır; ancak derin kapak ajanlığı, gizli iletişim ve uzun süreli kimlik inşası gerçek istihbarat tarihine dayanır.",
+        "whyInteresting": "Çünkü casusluğu James Bond hızından çıkarıp sabır, sahte benlik ve gündelik performans meselesine çevirir.",
+        "misconception": "Derin casusların her gün büyük operasyon yaptığı düşüncesi abartılıdır; çoğu iş erişim, izleme, ilişki ve bekleme üzerine kuruludur.",
+        "nextTopics": [
+          "Operation Ghost Stories",
+          "Soğuk Savaş istihbaratı",
+          "Şifreli iletişim"
+        ],
+        "similarMedia": [
+          "Tinker Tailor Soldier Spy",
+          "Bridge of Spies",
+          "Deutschland 83"
+        ],
+        "relatedCardIds": [
+          "tf26-273-bridge-of-spies-u2-exchange",
+          "tf26-245-codbo-mkultra",
+          "tf26-230-mgs-nuclear-deterrence"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "spoilerNote": "Dizinin temel öncülünü açıklar; önemli olay örgüsü kırılmalarını anlatmaz.",
+        "mediaConnection": "The Americans’ın aile draması ile belgelenmiş derin kapak casusluğu pratiği arasındaki bağı kurar.",
+        "accuracyType": "inspired-by-reality",
+        "isPremium": false,
+        "tags": [
+          "the americans",
+          "kgb",
+          "svr",
+          "operation ghost stories",
+          "casusluk"
+        ],
+        "mediaChanged": false,
+        "whyItMatters": "Casusluk hikâyeleri, kimlik ve sadakat gibi kişisel görünen şeylerin devletler arası rekabette nasıl araçsallaştığını gösterir.",
+        "isFlagship": false,
+        "quickRealityCheck": "The Americans kurmaca bir aile anlatır; ama derin kapak ajanlığı ve sahte sivil hayat belgelenmiş bir istihbarat yöntemidir.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "FBI - Operation Ghost Stories: Inside the Russian Spy Case",
+            "url": "https://www.fbi.gov/news/stories/operation-ghost-stories-inside-the-russian-spy-case",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "FBI History - Laptop from Operation Ghost Stories",
+            "url": "https://www.fbi.gov/history/artifacts/laptop-from-operation-ghost-stories",
+            "type": "official",
+            "verified": true
+          },
+          {
+            "title": "U.S. Department of Justice - Ten Alleged Secret Agents Arrested in the United States",
+            "url": "https://www.justice.gov/archives/opa/pr/ten-alleged-secret-agents-arrested-united-states",
+            "type": "official",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-277-rome-late-republic-patronage",
+      "operation": "add",
+      "reviewStatus": "flagship_new_card",
+      "notes": "Rome kartı flagship yapıldı; dizi entrikasının arkasındaki patronaj, asker-siyaset ilişkisi ve cumhuriyet kurumlarının krizi uzun formatta açıldı.",
+      "fields": {
+        "title": "Patronaj ve Cumhuriyetin Çöküşü",
+        "subtitle": "Roma siyaseti neden sadece senato konuşması değildi?",
+        "mediaType": "series",
+        "mediaTitle": "Rome (HBO)",
+        "era": "Antik Çağ",
+        "region": "Roma Cumhuriyeti",
+        "themes": [
+          "Roma",
+          "Siyaset",
+          "Demokrasi",
+          "İmparatorluk"
+        ],
+        "whatWeSee": "Rome, Geç Roma Cumhuriyeti’ni Caesar, Pompeius, Antonius, Cicero ve sıradan askerler üzerinden gösterir. Dizi, senato tartışmalarını sokak şiddetiyle, aile bağlarını politik sadakatle ve askeri zaferleri kişisel güç oyunuyla birleştirir. Ekranda cumhuriyet, görkemli bir kurumdan çok, herkesin birbirine borçlu olduğu tehlikeli bir ağ gibi görünür.",
+        "realHistory": "### Cumhuriyet kişisel ağlarla çalışıyordu\n\nRoma Cumhuriyeti modern anlamda eşit vatandaşlı bir demokrasi değildi. Seçimler, senato, magistralıklar ve halk meclisleri vardı; ama siyasi güç aynı zamanda aile adı, servet, askerî ün, borç ilişkileri ve patronaj üzerinden yürüyordu. Patron-client ilişkisi Roma toplumunda yalnızca özel bir iyilik ağı değil, siyasi mobilizasyonun da parçasıydı. Daha güçlü bir kişi himaye, iş, hukuki destek veya erişim sağlayabilir; karşılığında sadakat, oy, prestij ve hizmet bekleyebilirdi. Freedman-eski efendi ilişkilerinden seçim kampanyalarına, yerel elitlerden generallerin askerlerine kadar bu bağlar farklı ölçeklerde tekrar ederdi. Bu yüzden Rome dizisindeki ‘kim kimin adamı?’ sorusu sadece drama değildir. Cumhuriyetin gündelik işleyişinde kişisel bağlılıklar gerçekten merkeziydi.\n\n### Kriz tek bir kötü adamdan ibaret değildi\n\nGeç Cumhuriyet’in çöküşü çoğu zaman Caesar’ın hırsına indirgenir, ama sorun daha genişti. İmparatorluk genişledikçe savaş ganimeti, eyalet yönetimi, köle emeği, toprak dağılımı ve askerî komuta çok daha büyük çıkarlar yarattı. Ordular, soyut cumhuriyet fikrinden çok kendilerine maaş, ganimet ve emeklilik toprağı sağlayan generallere bağlanabiliyordu. Sulla, Pompeius ve Caesar gibi figürler bu yapısal kırılmanın farklı örnekleriydi. Populares ve optimates de bugünkü anlamda disiplinli partiler gibi düşünülmemelidir; daha çok farklı meşruiyet dilleri, aristokrat stratejileri ve kurum kullanma biçimleri olarak okunmalıdır. Caesar’ın Rubicon’u geçmesi elbette sembolik bir dönemeçti; fakat bu adım, uzun süredir biriken senato-halk meclisi gerilimi, kişisel ordular, borç krizleri ve elit rekabeti olmadan anlaşılmaz.\n\n### Dizinin yakaladığı şey\n\nRome bazen tarihi hızlandırır, karakterleri dramatik biçimde iç içe geçirir ve karmaşık kurumları kişisel çekişmeye indirger. Buna rağmen doğru bir sezgisi vardır: Roma siyasetinde kamusal olanla özel olan arasında temiz bir duvar yoktu. Evlilikler ittifak, cenazeler propaganda, askerî zaferler seçim sermayesi, borçlar politik baskı aracına dönüşebilirdi. Caesar’ın diktatörlüğü de bu yüzden yalnızca bir unvan değişimi değil, cumhuriyet kurumlarının zaten yıpranmış dengesinin kopmasıydı. British Museum’daki Caesar sikkelerinde görülen ‘dictator perpetuo’ dili, kişisel otoritenin kamusal sembole dönüşmesini iyi gösterir. Dizi, tarih dersi gibi kusursuz değildir; ama cumhuriyetin çöküşünü mermer binaların içinde sakin konuşmalarla değil, çıkar, sadakat ve korku ağlarıyla göstermesi bakımından güçlüdür. Asıl ders şudur: kurumlar, onları taşıyan sosyal güven ve denge ağları bozulduğunda, dışarıdan hâlâ aynı görünse bile içeriden çökmeye başlayabilir.\n\n### Neden hâlâ tanıdık geliyor?\n\nBu hikâye yalnızca antik Roma’ya ait değildir. Bir siyasi sistem, kurallarını yazılı olarak korurken fiilen kişisel sadakatlere, para akışına ve güvenlik aktörlerine bağımlı hale gelebilir. Roma’da seçimler yapılmaya devam ederken şiddetin normalleşmesi, mahkemelerin politik araç gibi kullanılması ve komutanların kamu otoritesiyle özel sadakat arasındaki sınırı bulanıklaştırması bu yüzden kritik hale geldi. Rome’un sıradan askerleri sahneye taşıması da değerlidir: kurumların krizi sadece senatörlerin konuşmalarında değil, maaş bekleyen, ganimet uman ve kime sadık kalacağını seçmek zorunda kalan insanların hayatında hissedilir.",
+        "accuracyNote": "Dizi birçok olayı sıkıştırır ve kişisel dramatik bağları güçlendirir; ancak Geç Cumhuriyet’te patronaj, askerî sadakat ve elit rekabeti gerçek tarihsel kırılmanın merkezindedir.",
+        "whyInteresting": "Çünkü Roma’nın çöküşünü ‘cumhuriyet iyi, Caesar kötü’ basitliğinden çıkarıp kurumların sosyal ve ekonomik baskı altında nasıl çözündüğünü gösterir.",
+        "misconception": "Roma Cumhuriyeti’nin modern parlamenter demokrasi gibi çalıştığını sanmak yanıltıcıdır; statü, servet ve kişisel bağlılıklar sistemin ayrılmaz parçasıydı.",
+        "nextTopics": [
+          "Julius Caesar",
+          "Roma İç Savaşları",
+          "Patron-client ilişkisi"
+        ],
+        "similarMedia": [
+          "Gladiator",
+          "I, Claudius",
+          "Spartacus"
+        ],
+        "relatedCardIds": [
+          "tf26-255-totalwar-condottieri",
+          "tf26-220-ck3-dynastic-marriage",
+          "tf26-251-obradinn-east-india-company"
+        ],
+        "difficulty": "deep",
+        "readingTimeMinutes": 3,
+        "spoilerLevel": "minor",
+        "spoilerNote": "Dizinin dönemsel gidişatını ve tarihsel sonucu açıklar; sahne sahne final anlatmaz.",
+        "mediaConnection": "Rome’un entrika ve sokak siyaseti anlatısını, Geç Cumhuriyet’in patronaj ve kurum kriziyle eşleştirir.",
+        "accuracyType": "partly-real",
+        "isPremium": true,
+        "tags": [
+          "rome",
+          "roma cumhuriyeti",
+          "julius caesar",
+          "patronaj",
+          "cumhuriyet"
+        ],
+        "mediaChanged": false,
+        "whyItMatters": "Cumhuriyetler yalnızca yasa metinleriyle değil, o yasaları taşıyan sosyal ağlarla ayakta kalır; Roma bu gerilimin klasik örneğidir.",
+        "isFlagship": true,
+        "quickRealityCheck": "Rome kişisel dramayı büyütür; ama patronaj, askerî sadakat ve elit rekabeti Roma Cumhuriyeti’nin çöküşünü anlamak için gerçekten kritiktir.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "World History Encyclopedia - Ancient Roman Society",
+            "url": "https://www.worldhistory.org/article/1463/ancient-roman-society/",
+            "type": "reference",
+            "verified": true
+          },
+          {
+            "title": "World History Encyclopedia - Caesar as Dictator",
+            "url": "https://www.worldhistory.org/article/112/caesar-as-dictator-his-impact-on-the-city-of-rome/",
+            "type": "reference",
+            "verified": true
+          },
+          {
+            "title": "British Museum - Julius Caesar coin",
+            "url": "https://www.britishmuseum.org/collection/object/C_1843-0116-170",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "University of Chicago - The Roman Client",
+            "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA%2A/Cliens.html",
+            "type": "academic_reference",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-278-marco-polo-yuan-silk-road",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Marco Polo kartı, seyahatnameyi doğrudan kamera kaydı gibi almadan Yuan yönetimi, saray kültürü ve kaynak güvenilirliği tartışmasıyla sınırlandı.",
+      "fields": {
+        "title": "Kubilay Han’ın Sarayı",
+        "subtitle": "Yuan yönetimi, İpek Yolu ve Marco Polo’nun tartışmalı tanıklığı",
+        "mediaType": "series",
+        "mediaTitle": "Marco Polo",
+        "era": "Orta Çağ",
+        "region": "Çin / Moğol İmparatorluğu",
+        "themes": [
+          "Moğollar",
+          "Çin",
+          "İpek Yolu",
+          "Siyaset"
+        ],
+        "whatWeSee": "Marco Polo, Venedikli bir gezgini Kubilay Han’ın saray entrikaları, savaşları ve kültürel karşılaşmaları içine yerleştirir. Dizi, İpek Yolu’nu egzotik bir macera hattı, Yuan sarayını da güç, sadakat ve ihanetin sahnesi gibi kullanır. Seyirci çoğu şeyi Marco’nun şaşkın bakışıyla görür.",
+        "realHistory": "Gerçekte Marco Polo’nun anlatısı hem çok etkili hem de dikkatle okunması gereken bir kaynaktır. Kubilay Han, 1271’de Yuan hanedanını ilan etti ve Çin’in Moğol yönetimi altında birleşmesiyle saray dünyası yalnızca askerî güçten ibaret olmayan karmaşık bir imparatorluk düzenine dönüştü. Smithsonian, Yuan’ı Çin tarihindeki ilk yabancı kökenli bütün Çin hanedanı olarak tanımlar; Met Museum da Kubilay dönemini sanat, din, başkentler ve saray kültürü açısından kozmopolit bir dönem olarak ele alır. Marco Polo’nun Travels metni Avrupa’da Yuan Çin’i hakkında çok etkili bir pencere açtı; fakat bu pencere tarafsız kamera değildir. Anlatı, tüccar bakışı, sözlü aktarımlar, çeviri ve Avrupa okurunun merakıyla şekillenmiştir. Bu yüzden dizi doğru soruyu açar: Marco Polo bize sadece Kubilay’ın sarayını değil, Avrupa’nın Asya’yı hayal etme biçimini de gösterir. Yuan dünyası, ticaret yolları, saray ritüelleri, çok dilli bürokrasi ve Moğol-Çin yönetim senteziyle dizideki egzotik dekorun çok ötesinde bir tarihsel laboratuvardır.",
+        "accuracyNote": "Dizi tarihi kişileri ve ortamı kullanır, ancak saray entrikalarını ve Marco’nun rolünü dramatik etki için büyütür.",
+        "whyInteresting": "Çünkü tek bir gezginin anlatısının, koca bir kıta hakkındaki Avrupa hayal gücünü nasıl etkileyebildiğini gösterir.",
+        "misconception": "Marco Polo’nun metnini doğrudan eksiksiz gözlem raporu gibi okumak hatalıdır; değerli ama süzgeçli bir kaynaktır.",
+        "nextTopics": [
+          "Yuan Hanedanı",
+          "İpek Yolu",
+          "Seyahatnameler"
+        ],
+        "similarMedia": [
+          "Mongol",
+          "The Last Emperor",
+          "Kingdom of Heaven"
+        ],
+        "relatedCardIds": [
+          "tf26-253-civ-tech-tree-myth",
+          "tf26-229-deathstranding-logistics",
+          "tf26-251-obradinn-east-india-company"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "spoilerNote": "Dizinin dönem ve öncül bilgisini açıklar; karakter kaderlerini anlatmaz.",
+        "mediaConnection": "Marco Polo’nun saray macerasını Yuan yönetimi ve seyahatname güvenilirliğiyle karşılaştırır.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "marco polo",
+          "kubilay han",
+          "yuan",
+          "ipek yolu",
+          "moğollar"
+        ],
+        "mediaChanged": false,
+        "whyItMatters": "Gezi anlatıları sadece uzak dünyaları anlatmaz; onları okuyan toplumların hayal gücünü de biçimlendirir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Marco Polo gerçek bir tarihsel kaynak penceresidir; ama dizinin saray entrikası dili kadar, metnin bakış açısı da sorgulanmalıdır.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "The Met - Khubilai Khan",
+            "url": "https://www.metmuseum.org/perspectives/khubilai-khan",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "National Museum of Asian Art - Yuan dynasty",
+            "url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-dynasty/yuan-dynasty/",
+            "type": "museum",
+            "verified": true
+          },
+          {
+            "title": "World History Encyclopedia - Marco Polo",
+            "url": "https://www.worldhistory.org/Marco_Polo/",
+            "type": "reference",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    },
+    {
+      "id": "tf26-279-vikings-valhalla-stamford-1066",
+      "operation": "add",
+      "reviewStatus": "standard_new_card",
+      "notes": "Vikings: Valhalla kartı 1066'yı tek final savaşı gibi değil; Stamford Bridge-Hastings bağlantısı ve 'Viking Çağı'nın sonu' ifadesinin kısaltma olduğu uyarısıyla yazıldı.",
+      "fields": {
+        "title": "1066 ve Stamford Köprüsü",
+        "subtitle": "Viking Çağı gerçekten bir günde mi bitti?",
+        "mediaType": "series",
+        "mediaTitle": "Vikings: Valhalla",
+        "era": "Orta Çağ",
+        "region": "İngiltere / Norveç",
+        "themes": [
+          "Vikingler",
+          "Savaş",
+          "İngiltere",
+          "Orta Çağ"
+        ],
+        "whatWeSee": "Vikings: Valhalla, geç Viking dünyasını savaş, inanç, hanedan iddiası ve deniz aşırı seferlerle dramatize eder. 1066’ya yaklaşan hikâyelerde Harald Hardrada gibi figürler, eski Viking enerjisinin son büyük temsilcileri gibi görünür. Ekrandaki duygu, bir çağın son hamlesidir.",
+        "realHistory": "Stamford Bridge Muharebesi, 25 Eylül 1066’da İngiltere Kralı Harold Godwinson ile Norveç Kralı Harald Hardrada’nın orduları arasında yaşandı. Hardrada, Harold’ın kardeşi Tostig ile birlikte İngiltere taht mücadelesine girmişti. Harold Godwinson, güneyde Normandiya tehdidi varken ordusunu hızla kuzeye yürüttü ve Norveç kuvvetlerini York yakınlarında yakaladı. English Heritage, savaşın sonunda Norveç hattının kırıldığını ve Hardrada’nın öldüğünü anlatır. Bu zaferden sadece haftalar sonra Harold güneye dönmek zorunda kaldı ve 14 Ekim’de Hastings’te William of Normandy’ye yenildi. Bu yüzden Stamford Bridge genellikle ‘Viking Çağı’nın sonu’ diye anılır; ama bu bir anda kapanan kapıdan çok sembolik bir kısaltmadır. Kuzeyli denizci, tüccar ve savaşçı ağları hemen yok olmadı. İskandinav dünyası ticaret, yerleşim, Hristiyanlaşma ve krallıklaşma üzerinden dönüşmeye devam etti. Yine de 1066, İngiltere’nin siyasi yönünü değiştiren iki darbeli bir yıl oldu: önce Norveç iddiası kırıldı, sonra Norman fethi başladı. Bu da Valhalla gibi diziler için güçlü bir dramatik zemin yaratır: karakterler yalnızca bir savaş kazanmaya çalışmaz, değişen bir dünyanın içinde eski prestij biçimlerinin son sınavını verir.",
+        "accuracyNote": "Dizi karakterleri ve olayları dramatize eder; Stamford Bridge tarihsel olarak güçlü bir dönemeçtir ama ‘Viking Çağı’nın sonu’ ifadesi sembolik bir kısaltmadır.",
+        "whyInteresting": "Çünkü aynı yıl içinde hem Viking tarzı bir taht iddiası hem de Norman fethi İngiltere tarihini yeniden şekillendirdi.",
+        "misconception": "Stamford Bridge’den sonra bütün Viking kültürünün bir anda bittiğini sanmak yanlıştır; değişen şey siyasi güç dengesi ve İngiltere üzerindeki iddia biçimiydi.",
+        "nextTopics": [
+          "Hastings Muharebesi",
+          "Harald Hardrada",
+          "Norman Fethi"
+        ],
+        "similarMedia": [
+          "The Last Kingdom",
+          "Vikings",
+          "The Northman"
+        ],
+        "relatedCardIds": [
+          "tf26-217-hellblade-picts-norse",
+          "tf26-260-forhonor-chivalry-myth",
+          "tf26-254-aoe-siege-engineering"
+        ],
+        "difficulty": "medium",
+        "readingTimeMinutes": 2,
+        "spoilerLevel": "none",
+        "spoilerNote": "Tarihsel sonucu açıklar; dizinin spesifik sezon finalini anlatmaz.",
+        "mediaConnection": "Vikings: Valhalla’nın geç Viking dünyası hissini, 1066 Stamford Bridge ve Hastings zinciriyle karşılaştırır.",
+        "accuracyType": "partly-real",
+        "isPremium": false,
+        "tags": [
+          "vikings valhalla",
+          "stamford bridge",
+          "1066",
+          "harald hardrada",
+          "hastings"
+        ],
+        "mediaChanged": false,
+        "whyItMatters": "Tarihte ‘bir çağın sonu’ dediğimiz anlar çoğu zaman tek olay değil, eski güç biçimlerinin yeni siyasi düzenlere yenildiği geçişlerdir.",
+        "isFlagship": false,
+        "quickRealityCheck": "Stamford Bridge Viking iddiası için büyük bir kırılmaydı; ama Viking dünyasının tamamı o gün ortadan kalkmadı.",
+        "lastReviewedAt": "2026-06-28"
+      },
+      "sourceUpdates": {
+        "replaceSources": [
+          {
+            "title": "English Heritage - Stamford Bridge: The Other Battle of 1066",
+            "url": "https://www.english-heritage.org.uk/visit/inspire-me/blog/blog-posts/battle-1066/",
+            "type": "heritage",
+            "verified": true
+          },
+          {
+            "title": "Historic England - Battlefield Report: Stamford Bridge 1066",
+            "url": "https://historicengland.org.uk/content/docs/listing/battlefields/stamford-bridge/",
+            "type": "official_pdf",
+            "verified": true
+          },
+          {
+            "title": "English Heritage - 1066 and the Norman Conquest",
+            "url": "https://www.english-heritage.org.uk/visit/places/1066-battle-of-hastings-abbey-and-battlefield/history-and-stories/1066-and-the-norman-conquest/",
+            "type": "heritage",
+            "verified": true
+          }
+        ],
+        "setSourceQuality": "strong",
+        "setVerificationStatus": "verified"
+      }
+    }
+  ]
+}
