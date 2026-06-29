@@ -31,8 +31,8 @@ export async function preloadCatalog(locale: Locale): Promise<HistoryCard[]> {
 
   if (!loaders[locale]) {
     loaders[locale] = (locale === "en"
-      ? import("../data/cards.en.json")
-      : import("../data/cards.tr.json")
+      ? import("../data/cards.runtime.en.json")
+      : import("../data/cards.runtime.tr.json")
     ).then((mod) => {
       const cards = ((mod as { default?: HistoryCard[] }).default ?? mod) as HistoryCard[];
       fullCache[locale] = cards;
