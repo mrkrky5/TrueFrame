@@ -1,0 +1,1472 @@
+{
+  "meta": {
+    "purpose": "English-native adaptation batch",
+    "sourceChunk": "source-chunk-015.json",
+    "batchNumber": 15,
+    "cardCount": 20,
+    "sourceCardRange": "TR order cards 281-300",
+    "alreadyAuthoredCountBeforeBatch": 280,
+    "authoredCountAfterBatch": 300,
+    "remainingCountAfterBatch": 151,
+    "ids": [
+      "tf26-103-federalists",
+      "tf26-104-enslavement-contradiction",
+      "tf26-105-dueling-culture",
+      "tf26-106-loyalists",
+      "tf26-107-french-alliance",
+      "tf26-108-constitution",
+      "tf26-109-native-nations",
+      "tf26-110-burr-hamilton",
+      "tf26-111-outlaw-myth",
+      "tf26-112-railroad-frontier",
+      "tf26-113-cattle-drives",
+      "tf26-114-pinkertons",
+      "tf26-115-reservation-system",
+      "tf26-116-boomtowns",
+      "tf26-117-frontier-law",
+      "tf26-118-bounty-hunters",
+      "tf26-119-women-frontier",
+      "tf26-122-artillery",
+      "tf26-123-no-mans-land",
+      "tf26-124-messengers"
+    ],
+    "notes": "Adapted from Turkish canonical cards. Sources, IDs, relatedCardIds, enums, flags and metadata preserved from TR unless localized text adaptation was required. readingTimeMinutes recomputed from English realHistory."
+  },
+  "cards": [
+    {
+      "id": "tf26-103-federalists",
+      "title": "The Federalists",
+      "subtitle": "The early case for a stronger central state.",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Identity"
+      ],
+      "whatWeSee": "Hamilton turns the Federalists into sharp verbal combat: ambition, finance, constitutional argument and personality all move at stage speed. Hamilton's case for a stronger central government feels clear and forceful, while the messier ground of state interests, tax resistance and rural suspicion has less room to breathe.",
+      "realHistory": "The Federalists grew out of a basic fear after the Revolution: the loose Confederation might not be strong enough to hold the new country together. Hamilton, John Adams and allied politicians argued that the republic needed public credit, regular taxation, a national bank, a shared commercial policy and a more energetic executive. This was not simply elite preference. War debts, weak currency, interstate rivalry and diplomatic pressure made state-building feel urgent.\n\nThe Federalist Papers were part of the ratification campaign for the new Constitution. Hamilton, Madison and Jay argued that a larger republic could manage faction, that federal authority could reduce disorder, and that the national government had to protect common interests. Anti-Federalists feared the opposite: that the new center would become monarchical, weaken state self-government and threaten individual liberty. The demand for a Bill of Rights came directly from that suspicion.\n\nBy the 1790s, debates over debt assumption, the Bank of the United States, taxation and foreign policy turned this divide into party politics. Federalist electoral power faded, but their institutional legacy lasted in public credit, federal courts, fiscal capacity and constitutional interpretation. Hamilton makes the fight personal and theatrical; the historical weight is that the institutions of the new republic were built through these arguments.",
+      "accuracyNote": "The main figures are placed on the right historical ground, but the musical naturally compresses social base, state-level anxieties and the written ratification campaign.",
+      "whyInteresting": "Ideas that now sound routine, such as federal taxation and public credit, were once arguments about whether the republic could survive at all.",
+      "misconception": "Federalists are often reduced to elite self-interest; much of their program was also an attempt to solve debt, weak currency and the limits of the Confederation.",
+      "nextTopics": [
+        "Declaration of Independence",
+        "Hamilton's Financial System",
+        "Federalists"
+      ],
+      "sources": [
+        {
+          "title": "Library of Congress - The Federalist Papers",
+          "url": "https://guides.loc.gov/federalist-papers/full-text",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Congress.gov - The Federalist Papers",
+          "url": "https://www.congress.gov/resources/display/content/The+Federalist+Papers",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Federalist Party",
+          "url": "https://www.britannica.com/topic/Federalist-Party",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-104-enslavement-contradiction",
+        "tf26-105-dueling-culture",
+        "tf26-106-loyalists"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton turns the Federalist and Anti-Federalist divide into popular stage conflict.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "american-revolution",
+        "founders",
+        "hamilton",
+        "federalists",
+        "true-frame"
+      ],
+      "spoilerNote": "May include mild context from Hamilton, but does not reveal the ending.",
+      "mediaChanged": "The musical concentrates the conflict into a few vivid personalities; historically, the Federalist project was an attempt to turn economic crisis into institutional government.",
+      "whyItMatters": "The Federalist and Anti-Federalist clash created the lasting American language of center versus states.",
+      "isFlagship": false,
+      "quickRealityCheck": "Why did the Federalists want not just a better Constitution, but a stronger federal fiscal system?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-104-enslavement-contradiction",
+      "title": "The Slavery Contradiction",
+      "subtitle": "Freedom language beside forced labor.",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Identity"
+      ],
+      "whatWeSee": "Hamilton gives the Revolution a bright language of freedom, talent and political invention, while slavery mostly remains at the edge of the stage. Founding ideals are heard loudly; the plantation economy and the people excluded from those ideals are seen only in brief flashes.",
+      "realHistory": "### Freedom language and forced labor\n\nHamilton presents the American Revolution through energy, writing, ambition and the promise of freedom. The deepest contradiction of the founding era sits just outside that main spotlight. The new republic claimed liberty and representation against Britain while protecting an economic order that enslaved millions of people. This was not only a matter of personal hypocrisy among founders. Slavery was embedded in representation, commerce, credit, agriculture and constitutional compromise.\n\n### Compromise inside the Constitution\n\nThe 1787 Constitution avoided the word slavery while still recognizing and protecting the system in practice. The Three-Fifths Compromise counted a portion of the enslaved population for representation, increasing the political power of slaveholding states even though enslaved people had no vote. The fugitive slave clause tied escape across state lines to property claims, and the delay on banning the Atlantic slave trade until 1808 protected the union at an immense moral cost. Slavery therefore shaped not only plantations, but also Congress, presidential elections and federal law.\n\n### Markets behind the ideals\n\nSouthern plantation economies depended on enslaved labor in tobacco, rice and later cotton. Northern gradual emancipation did not mean northern innocence. Merchants, insurers, shippers and lenders in northern ports were also connected to Atlantic commerce and plantation products. The founding economy was not divided neatly between a free North and an enslaving South; capital, credit and goods crossed those moral lines. When revolutionary ideals met property and trade, the meaning of freedom narrowed quickly.\n\n### What the musical leaves at the edge\n\nHamilton does not erase slavery, but its main dramatic energy is immigrant ambition, political writing and rivalry. That works on stage, yet it leaves out much of the material base of the early state. Treasury policy, customs revenue, trade and public credit were all connected to an Atlantic world shaped by coerced labor. The founding republic was built not only with ideas, pamphlets and speeches, but with debt instruments, land speculation, exports and the legal treatment of human beings as property.\n\n### The postponed reckoning\n\nJefferson's deleted draft passage condemning the slave trade shows how far the revolutionary language could go before unity politics cut it back. Some founders criticized slavery; others defended it; many compromised around it. Later abolitionists, free Black communities, women's rights advocates and civil rights movements would use the founding language of equality against the exclusions that the founders accepted. The contradiction did not end with independence. It was deferred into law, politics and eventually civil war. True Frame's point is not that the ideals were meaningless, but that they cannot be understood honestly without the people and labor systems those ideals left outside.",
+      "accuracyNote": "The musical carries founding idealism powerfully, but slavery's place inside representation, commerce and constitutional compromise is much less visible.",
+      "whyInteresting": "A state founded in the language of liberty also preserved forced labor through constitutional compromise, one of modern political history's sharpest paradoxes.",
+      "misconception": "The American Revolution is often imagined as quickly resolving slavery; in reality the new federal order postponed and protected it.",
+      "nextTopics": [
+        "Declaration of Independence",
+        "Hamilton's Financial System",
+        "Federalists"
+      ],
+      "sources": [
+        {
+          "title": "National Archives - The Constitution of the United States: A Transcription",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "National Archives - Garrison's Constitution",
+          "url": "https://www.archives.gov/publications/prologue/2000/winter/garrisons-constitution-1",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Three-Fifths Compromise",
+          "url": "https://www.britannica.com/topic/Three-Fifths-Compromise",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "American Battlefield Trust - Jefferson Condemns the Slave Trade in the Declaration of Independence",
+          "url": "https://www.battlefields.org/learn/primary-sources/jefferson-condemns-slave-trade-declaration-independence",
+          "type": "primary-source",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-108-constitution",
+        "tf26-102-hamilton-finance"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton builds the emotional founding story; True Frame makes the slavery infrastructure of the same era visible.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "american-revolution",
+        "founders",
+        "hamilton",
+        "slavery-contradiction",
+        "true-frame"
+      ],
+      "spoilerNote": "May include mild context from Hamilton, but does not reveal the ending.",
+      "mediaChanged": "The musical foregrounds founding idealism and personal rise; historically, freedom rhetoric and the slave economy grew inside the same political order.",
+      "whyItMatters": "This contradiction made founding documents both inspiring symbols and contested tools for later rights movements.",
+      "isFlagship": true,
+      "quickRealityCheck": "Why did a republic founded on equality claims protect slavery through representation and property rules instead of abolishing it?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-105-dueling-culture",
+      "title": "Dueling Culture",
+      "subtitle": "Honor, law and gunpowder arithmetic.",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Identity"
+      ],
+      "whatWeSee": "In Hamilton, the duel becomes the final threshold of political conflict. Verbal rivalry rises in rhythm, then collapses into a quiet, fatal ritual. The show makes honor feel personal and almost unavoidable, placing reputation above courtroom procedure.",
+      "realHistory": "In the early American republic, dueling was an unofficial but powerful way for elite men to manage reputation crises. A public insult could damage political credibility, so conflict often moved from newspapers and drawing rooms toward a formal challenge. Rules such as the Code Duello standardized letters, seconds, distance, weapons and the sequence of fire, turning violence into ritual rather than a random brawl.\n\nThe Burr-Hamilton duel is the most famous case, but it was not an isolated oddity. Officers, politicians and editors lived in a culture where public trust, masculinity and courage were closely linked. The law was contradictory. Dueling was illegal in many places, and a death could raise murder questions, but class networks, witnesses and political influence often softened enforcement.\n\nOver the nineteenth century, party institutions, professional law, public criticism and religious campaigns eroded the practice's legitimacy. Some states required officials to swear they had not participated in duels. Hamilton turns dueling into a tragic stage climax; historically it reveals a transitional political culture in which a constitutional republic had not yet fully replaced elite honor codes with legal institutions.",
+      "accuracyNote": "The Burr-Hamilton event rests on real history, but the musical compresses procedure and the tension between dueling culture and law.",
+      "whyInteresting": "A republic promising law and liberty could still see elite politicians settle reputation disputes through distance, witnesses and pistols.",
+      "misconception": "Dueling is often imagined as spontaneous anger; in practice it could be highly ritualized and socially coded.",
+      "nextTopics": [
+        "Declaration of Independence",
+        "Hamilton's Financial System",
+        "Federalists"
+      ],
+      "sources": [
+        {
+          "title": "Library of Congress - The Burr-Hamilton Duel",
+          "url": "https://www.loc.gov/collections/aaron-burr-papers/articles-and-essays/the-burr-hamilton-duel/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "PBS - The History of Dueling in America",
+          "url": "https://www.pbs.org/wgbh/americanexperience/features/duel-history-dueling-america/",
+          "type": "educational",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Duel",
+          "url": "https://www.britannica.com/topic/duel",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-106-loyalists",
+        "tf26-107-french-alliance",
+        "tf26-108-constitution"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton's stage language makes the honor regime of early American politics visible.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "american-revolution",
+        "founders",
+        "hamilton",
+        "dueling-culture",
+        "true-frame"
+      ],
+      "spoilerNote": "May include mild context from Hamilton, but does not reveal the ending.",
+      "mediaChanged": "The musical turns the duel into personal fate; historically, dueling had written rules, intermediaries and class assumptions.",
+      "whyItMatters": "Dueling culture shows that early republican law and elite honor codes were not fully separated.",
+      "isFlagship": false,
+      "quickRealityCheck": "Why did an illegal or semi-illegal duel remain a reputation tool among political elites?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-106-loyalists",
+      "title": "The Loyalists",
+      "subtitle": "The losing neighbors of the Revolution.",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Identity"
+      ],
+      "whatWeSee": "Hamilton centers revolutionary heroes; Loyalist voices are mostly reduced to comic opposition or background. King George's songs make the imperial side memorable but simplified. The stage naturally pushes the audience toward independence, while the social cost of choosing the Crown remains mostly offstage.",
+      "realHistory": "The American colonies were never politically unanimous. Loyalists, often called Tories, chose to remain attached to the British Crown for many different reasons. Some believed royal authority was legitimate; some feared commercial disruption; some were tied to the Anglican Church; others made choices based on neighborhood security, family interests, slavery or local rivalries.\n\nAs the war developed, loyalty became more than an opinion. Communities and families split. Some Loyalists lost property, newspapers, offices and business networks. Those who openly supported the Crown or assisted British forces often found it impossible to return to ordinary life after independence. Tens of thousands left for Canada, Britain, the Caribbean or other parts of the empire.\n\nThis exile history complicates the memory of the Revolution. In the United States it became a freedom story; for many Loyalist families it was also a story of defeat, confiscation and migration. Hamilton makes King George a comic counterfigure. Historically, Loyalists were neighbors, merchants, officials, clergy, enslavers, laborers and families making choices under pressure. The labels patriot and traitor were largely fixed by the side that won.",
+      "accuracyNote": "The musical's King George tone is a deliberate stage choice; Loyalist society was far more regional, classed and varied.",
+      "whyInteresting": "The same war can be remembered as liberty in one country and as loyalty, exile and loss in another.",
+      "misconception": "It is easy to assume all colonists supported independence; a significant Loyalist population existed and many left after the war.",
+      "nextTopics": [
+        "Declaration of Independence",
+        "Hamilton's Financial System",
+        "Federalists"
+      ],
+      "sources": [
+        {
+          "title": "Britannica - Loyalist (American Revolution)",
+          "url": "https://www.britannica.com/topic/Loyalist-American-Revolution",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Canadian Encyclopedia - Loyalists in Canada",
+          "url": "https://thecanadianencyclopedia.ca/en/article/loyalists",
+          "type": "reference",
+          "verified": true
+        },
+        {
+          "title": "Library and Archives Canada - United Empire Loyalist records",
+          "url": "https://thediscoverblog.com/tag/united-empire-loyalist/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-107-french-alliance",
+        "tf26-108-constitution",
+        "tf26-109-native-nations"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton's King George songs can be read beside Loyalist migration and confiscation records.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "american-revolution",
+        "founders",
+        "hamilton",
+        "loyalists",
+        "true-frame"
+      ],
+      "spoilerNote": "May include mild context from Hamilton, but does not reveal the ending.",
+      "mediaChanged": "The musical caricatures the Loyalist side; records show people making choices through family, property, religion and security networks.",
+      "whyItMatters": "Revolutions should be read not only through winners' ideals, but also through why the losers resisted and where they went afterward.",
+      "isFlagship": false,
+      "quickRealityCheck": "After independence, why could many Loyalist families no longer remain in their old communities?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-107-french-alliance",
+      "title": "The French Alliance",
+      "subtitle": "The diplomacy that made Yorktown possible.",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Identity"
+      ],
+      "whatWeSee": "Hamilton gives Lafayette and French support a charged, celebratory role on the road to Yorktown. The musical makes the international dimension feel exciting and immediate, with French help presented as one of the turning points in the revolutionary story.",
+      "realHistory": "The 1778 Franco-American alliance transformed a colonial rebellion into a global war. The American victory at Saratoga convinced France that the colonies might be a viable partner. The Treaty of Alliance and related commercial agreements followed. France was not acting only out of idealistic love for liberty; after defeat in the Seven Years' War, weakening Britain and rebalancing Atlantic power mattered deeply.\n\nLafayette is a powerful symbol, and the musical uses him well. Still, the decisive French contribution was larger than one charismatic volunteer. French credit, arms, trained troops, Rochambeau's army and especially naval power all mattered. In 1781, de Grasse's fleet helped block British support in the Chesapeake, making the Yorktown siege possible. Cornwallis's surrender was the result of allied land and sea coordination.\n\nThe alliance also carried a cost. France took on a heavy financial burden, which deepened pressures that later fed its own crisis. For the Americans, a republican cause depending on a monarchy created obvious tension. Hamilton stages the alliance as energy and friendship; historically it was also credit, fleet movement, logistics and geopolitical calculation.",
+      "accuracyNote": "Lafayette is an effective symbol in the musical, but French naval power, credit and logistics were at least as important as individual heroism.",
+      "whyInteresting": "The same alliance strengthened American independence and added to the fiscal strain that helped destabilize France.",
+      "misconception": "The colonies are often imagined as winning mostly alone; French land and sea support was decisive at Yorktown.",
+      "nextTopics": [
+        "Declaration of Independence",
+        "Hamilton's Financial System",
+        "Federalists"
+      ],
+      "sources": [
+        {
+          "title": "National Archives - Treaty of Alliance with France (1778)",
+          "url": "https://www.archives.gov/milestone-documents/treaty-of-alliance-with-france",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Office of the Historian - French Alliance",
+          "url": "https://history.state.gov/milestones/1776-1783/french-alliance",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Siege of Yorktown",
+          "url": "https://www.britannica.com/event/Siege-of-Yorktown",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-102-hamilton-finance",
+        "tf26-108-constitution"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton's Lafayette numbers sit beside the 1778 alliance and the 1781 Yorktown campaign.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "american-revolution",
+        "founders",
+        "hamilton",
+        "french-alliance",
+        "true-frame"
+      ],
+      "spoilerNote": "May include mild context from Hamilton, but does not reveal the ending.",
+      "mediaChanged": "The musical frames the alliance through friendship and momentum; historically, French strategy toward Britain and naval power were decisive.",
+      "whyItMatters": "The American Revolution was shaped not only by domestic politics, but by Atlantic power rivalry.",
+      "isFlagship": false,
+      "quickRealityCheck": "Could Yorktown have ended the same way if the French fleet had not blocked British support?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-108-constitution",
+      "title": "The Constitution Debate",
+      "subtitle": "Union, federal power and the price of compromise.",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Identity"
+      ],
+      "whatWeSee": "Hamilton treats constitutional politics through rapid argument, ambition and factional conflict. The stage gives us brilliant personalities and fast-moving debates, while the deeper procedural questions of representation, rights, taxation and slavery are necessarily compressed.",
+      "realHistory": "### From Confederation to federal power\n\nHamilton presents constitutional debate as verbal combat among vivid founders. The underlying problem was less theatrical but more fundamental: after independence, the Articles of Confederation left the national government weak. It could not reliably tax, pay debts, regulate commerce or act with the energy many leaders thought survival required. The war had been won, but public credit was fragile, interstate tensions were real, and foreign pressure had not vanished.\n\n### Bargaining in Philadelphia\n\nThe 1787 Philadelphia Convention was not a clean celebration of unity. Large and small states fought over representation, producing a bicameral Congress as compromise. The executive, federal courts, taxation, interstate commerce and the presidency were all negotiated through fear as much as confidence. Slavery was the gravest bargain. The Three-Fifths Compromise, the fugitive slave clause and the delayed ban on the slave trade placed forced labor inside the new constitutional order while avoiding the word slavery itself.\n\n### Ratification and rights\n\nEven after the Constitution was drafted, its legitimacy was not automatic. Federalists campaigned for ratification through essays, speeches and organizing. Anti-Federalists warned that the new center might become tyrannical and that states and individuals needed stronger safeguards. The Bill of Rights, added in 1791, was a response to that pressure. It did not arrive as a decorative afterthought; it was part of the political work required to make the new system acceptable.\n\n### A stable document and an unstable inheritance\n\nThe Constitution therefore did two things at once. It created a stronger federal state, and it postponed some of the republic's most explosive conflicts. Federal energy and local autonomy, rights and coercion, representation and slavery, executive strength and fear of monarchy all lived in the same document. Hamilton's musical compresses this into fierce personal exchanges. Historically, the Constitution was a governing technology designed to manage crisis, not a flawless text produced by consensus.\n\nThat distinction matters because many later American conflicts returned to the same fault lines. Federal power, state resistance, civil liberties, race, property and representation were not later intrusions into the system; they were present at its creation. The Constitution gave the republic durability, but it also passed unresolved costs to future generations. Its endurance comes partly from its flexibility and partly from the fact that Americans kept arguing over what the founding compromises meant.\n\n### Why the debate kept returning\n\nThe compromise did not settle whether the United States was primarily a union of states or a national people acting through a federal government. That ambiguity gave the Constitution strength, because different groups could accept it for different reasons, but it also made later conflict almost inevitable. Hamilton's broad reading of federal power and the Anti-Federalists' fear of consolidation were not side issues. They became the grammar of American politics: debt, banking, war powers, civil liberties and state resistance would all return to the same founding argument.",
+      "accuracyNote": "The musical condenses the process into a few scenes and figures; the real debate involved state representation, federal power, slavery and rights guarantees.",
+      "whyInteresting": "The same document strengthened national union while deferring conflicts over slavery and federal authority.",
+      "misconception": "The Constitution is often imagined as quick and nearly unanimous; in reality it required hard bargains and a difficult ratification fight.",
+      "nextTopics": [
+        "Declaration of Independence",
+        "Hamilton's Financial System",
+        "Federalists"
+      ],
+      "sources": [
+        {
+          "title": "U.S. Senate - Constitution of the United States",
+          "url": "https://www.senate.gov/civics/constitution_item/constitution.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "National Archives - Bill of Rights",
+          "url": "https://www.archives.gov/milestone-documents/bill-of-rights",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Library of Congress - The Federalist Papers",
+          "url": "https://guides.loc.gov/federalist-papers/full-text",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Constitutional Convention",
+          "url": "https://www.britannica.com/event/Constitutional-Convention",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-104-enslavement-contradiction",
+        "tf26-102-hamilton-finance"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton's Congress and writing scenes sit beside the 1787 Convention, ratification debates and The Federalist Papers.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "american-revolution",
+        "founders",
+        "hamilton",
+        "constitution-debate",
+        "true-frame"
+      ],
+      "spoilerNote": "May include mild context from Hamilton, but does not reveal the ending.",
+      "mediaChanged": "The musical compresses constitutional debate into verbal rivalry; historically, the text was a bargain among war debt, representation, state anxiety, slavery and rights.",
+      "whyItMatters": "The debate made permanent the question of how strong modern government should be and how rights should restrain it.",
+      "isFlagship": true,
+      "quickRealityCheck": "Why was the Bill of Rights added after ratification pressure rather than written into the Constitution from the start?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-109-native-nations",
+      "title": "Native Nations",
+      "subtitle": "The sovereignties left outside the founding stage.",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Identity"
+      ],
+      "whatWeSee": "Hamilton centers the founding elite's struggles with Britain and with each other. Native nations rarely enter the frame, which can make the Revolution feel like a two-sided imperial argument. On the frontier, however, war, diplomacy and land were also shaped by Native confederacies and nations making their own decisions.",
+      "realHistory": "In the late eighteenth century, Haudenosaunee, Shawnee, Cherokee, Creek and many other Native nations acted as independent political powers. During the American Revolution they did not move as a single bloc. Some allied with Britain, some negotiated with the rebelling colonies, and others tried to remain neutral. Choices were shaped by trade routes, border security, settler expansion and survival, not by simple ideological sympathy.\n\nThe 1783 Treaty of Paris transferred vast territory from Britain to the United States without including the Native nations who lived there. On paper, empire had ceded land. On the ground, many Native communities did not see themselves as property Britain could hand over. The new federal state then used treaties, military campaigns, settlement pressure and land policy to expand authority in the Ohio Valley and the Southeast.\n\nThe Northwest Indian War and the Treaty of Greenville show that the border was built through force as well as diplomacy. Hamilton keeps the founding elite at center stage, but Native nations were also making alliances, resisting, negotiating and preserving sovereignty. Many communities continue to use treaties from this era in modern legal and political claims. The founding period is therefore not only cabinet and Constitution history; it is also a continuing history of land and sovereignty.",
+      "accuracyNote": "The musical's founding-elite focus is understandable, but Native diplomatic and military agency remains largely offstage.",
+      "whyInteresting": "At the same time a new republic was being created, many Native nations were defending their own sovereignty and political futures.",
+      "misconception": "Native communities are often imagined as passive or uniform during the Revolution; their positions were varied and strategic.",
+      "nextTopics": [
+        "Declaration of Independence",
+        "Hamilton's Financial System",
+        "Federalists"
+      ],
+      "sources": [
+        {
+          "title": "National Park Service - Native Americans and the American Revolution",
+          "url": "https://www.nps.gov/subjects/americanrevolution/native-americans-and-the-american-revolution.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Office of the Historian - Treaty of Paris, 1783",
+          "url": "https://history.state.gov/milestones/1776-1783/treaty-of-paris",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "National Park Service - The Six Nations Confederacy During the American Revolution",
+          "url": "https://www.nps.gov/articles/000/the-six-nations-confederacy-during-the-american-revolution.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Northwest Indian War",
+          "url": "https://www.britannica.com/event/Northwest-Indian-War",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-110-burr-hamilton",
+        "tf26-107-french-alliance",
+        "tf26-108-constitution"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton gives the era's rhetoric; True Frame adds the Native diplomatic and military front that the stage largely leaves out.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "american-revolution",
+        "founders",
+        "hamilton",
+        "native-nations",
+        "true-frame"
+      ],
+      "spoilerNote": "May include mild context from Hamilton, but does not reveal the ending.",
+      "mediaChanged": "The musical centers founding politics; historically, frontier policy was also a long struggle with Native nations over land and sovereignty.",
+      "whyItMatters": "The post-1783 land order is part of the historical ground for modern treaty rights and sovereignty disputes.",
+      "isFlagship": false,
+      "quickRealityCheck": "When land was ceded in the 1783 Treaty of Paris, why were the Native nations living on that land not at the table?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-110-burr-hamilton",
+      "title": "Burr and Hamilton",
+      "subtitle": "Honor and party politics at Weehawken.",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Identity"
+      ],
+      "whatWeSee": "Hamilton closes the Burr-Hamilton rivalry at Weehawken, where political competition, wounded reputation and personal resentment become one fatal scene. The show frames the duel as a tragic climax, with letters, cold looks and honor language leading toward a morning confrontation.",
+      "realHistory": "The Burr-Hamilton duel took place on the morning of July 11, 1804, at Weehawken, New Jersey. It was not the sudden result of a single insult. Years of party rivalry, New York politics and the crisis around the 1800 presidential election shaped the hostility. Burr demanded an explanation after reports that Hamilton had made a deeply disparaging remark. Their correspondence failed to produce a retreat, and the conflict moved into the dueling code.\n\nDuelists often claimed they were defending honor rather than seeking murder. Hamilton's intention to throw away his shot remains debated, so it is safer to say the event is interpreted through testimony, letters and later memory. Burr's shot mortally wounded Hamilton, who died the next day. Burr survived but suffered severe political damage.\n\nThe duel reveals the fragility of early American politics. The republic had constitutional institutions, but among elite men the language of honor still operated outside courts and elections. Hamilton stages the confrontation as personal tragedy. Historically, it also shows party formation, newspaper attacks, class codes and weak political norms colliding in the young republic.",
+      "accuracyNote": "The date, place and outcome are historical; Hamilton's exact intention with his shot remains debated.",
+      "whyInteresting": "Even a constitutional republic's founding generation could carry political conflict outside the law and into a ritualized field of violence.",
+      "misconception": "The Burr-Hamilton duel is often treated as sudden personal anger; it grew from a longer conflict of party, election and reputation.",
+      "nextTopics": [
+        "Declaration of Independence",
+        "Hamilton's Financial System",
+        "Federalists"
+      ],
+      "sources": [
+        {
+          "title": "Library of Congress - Today in History: July 11, Burr-Hamilton Duel",
+          "url": "https://www.loc.gov/item/today-in-history/july-11",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Library of Congress - The Burr and Hamilton duel, 11 July 1804",
+          "url": "https://www.loc.gov/pictures/item/2002698061/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Library of Congress - Hamilton's final letters to Eliza",
+          "url": "https://blogs.loc.gov/law/2016/09/my-beloved-eliza-the-final-letters-from-alexander-hamilton-to-his-wife/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-108-constitution",
+        "tf26-109-native-nations"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton's Weehawken scene sits beside the 1804 duel and early American party rivalry.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "american-revolution",
+        "founders",
+        "hamilton",
+        "burr-and-hamilton",
+        "true-frame"
+      ],
+      "spoilerNote": "May include mild context from Hamilton, but does not reveal the ending.",
+      "mediaChanged": "The musical concentrates the duel into one tragic finale; historically, it came from a longer intersection of party rivalry and honor culture.",
+      "whyItMatters": "The duel shows that early American institutions had not fully displaced personal violence and elite honor codes.",
+      "isFlagship": false,
+      "quickRealityCheck": "Were Hamilton and Burr only personal enemies, or did their duel also reveal a crisis in early party politics?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-111-outlaw-myth",
+      "title": "The Outlaw Myth",
+      "subtitle": "When cowboy legend met the record-keeping state.",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Frontier",
+        "Violence",
+        "Modernization"
+      ],
+      "whatWeSee": "Red Dead Redemption frames the outlaw gang through loyalty, honor and the feeling of a vanishing freedom. Wanted posters, train robberies and escapes feed that myth. As state agents grow more visible, the story becomes a farewell to an old frontier world being trapped by modern records.",
+      "realHistory": "The American outlaw myth grew as much from newspapers, dime novels and later film as from actual crime. Bank robbers and gunmen became individual rebels in popular memory, while historical records show lives that were often short, violent, economically pressured and highly vulnerable.\n\nRailroads, telegraphs, photography, fingerprints and cooperation across jurisdictions narrowed the space in which outlaws could hide. Private detective networks such as Pinkerton and growing state and federal law enforcement made pursuit faster and more coordinated. Open distance mattered less when information could move by wire and people could be identified by record.\n\nThe myth also leaves out harder structures: corporate security, labor conflict, racial violence and settler colonial expansion. Red Dead captures the emotional loss of the outlaw world, but historically the collapse of outlaw freedom was also a logistical fact. Modern capital, police networks, company power and record systems made drifting criminal life less sustainable. The outlaw was not simply defeated by braver lawmen, but by infrastructure.",
+      "accuracyNote": "The growing pressure of the state is real, but the game naturally gives less space to class, race and institutional violence outside the outlaw myth.",
+      "whyInteresting": "The outlaw legend was undone not only by gunfights, but by dry tools such as timetables, telegrams and identification records.",
+      "misconception": "Outlaws are often imagined as living independently and untouchably for long periods in the West.",
+      "nextTopics": [
+        "Outlaw Myth",
+        "Railroad Frontier",
+        "Cattle Drives"
+      ],
+      "sources": [
+        {
+          "title": "Britannica - Pinkerton National Detective Agency",
+          "url": "https://www.britannica.com/topic/Pinkerton-National-Detective-Agency",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Library of Congress - Rise of Industrial America overview",
+          "url": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/rise-of-industrial-america-1876-1900/overview/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "History - Outlaws and Lawmen of the Old West",
+          "url": "https://www.history.com/topics/wild-west/outlaws-lawmen-american-west",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "rdr2-frontier",
+        "tf26-114-pinkertons",
+        "tf26-112-railroad-frontier"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Red Dead's emotional tone is powerful; True Frame clarifies the administrative and economic background.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "wild-west",
+        "red-dead",
+        "united-states",
+        "outlaw-myth",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game tells the tragedy through loyalty and lost freedom. Historically, the transformation came through infrastructure, private security, record systems and state cooperation.",
+      "whyItMatters": "Breaking the Western myth shows how the modern state was built through everyday records and transport networks.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did outlaw life collapse because courage disappeared, or because railroads and telegraphs made hiding technically harder?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-112-railroad-frontier",
+      "title": "The Railroad Frontier",
+      "subtitle": "Why the frontier changed when the tracks arrived.",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Frontier",
+        "Violence",
+        "Modernization"
+      ],
+      "whatWeSee": "In Red Dead Redemption, tracks are not just scenery. Stations grow, telegraph poles cross the landscape, company men appear, and the world feels less open. The railroad turns the frontier from a romantic blank space into a place measured by schedules, land claims and authority.",
+      "realHistory": "### Tracks were not just transport\n\nIn Red Dead Redemption, the train feels like the new age entering the map. Historically, the railroad did much more than move passengers and freight. It changed how land, time, property and authority were measured. The Pacific Railway Act of 1862 tied federal land and credit support to private railroad construction. That made the railroad a large-scale partnership among government, capital, military need and land speculation.\n\n### Market, soldiers and courts on the same line\n\nRailroads carried cattle, grain, timber, ore and manufactured goods into national markets. The same lines moved mail, troops, judges, officials and law enforcement. Telegraph networks often expanded beside the tracks, making decision-making faster. A place that had once been distant could now be priced, taxed, policed and reached in a much shorter time. The railroad was therefore not only an economic tool; it was an administrative technology.\n\nStandard railway time in 1883 shows how deep the change went. Towns that had followed local solar time increasingly adjusted to schedules and connections. Time itself became coordinated by company and state needs. A town's clock could become less about the sun and more about a timetable.\n\n### The cost was uneven\n\nRailroad expansion did not benefit everyone equally. It split Native lands, intensified settler expansion and helped accelerate the collapse of bison herds. Land grants, route decisions and lobbying enriched some towns while bypassing others. Chinese, Irish, Mexican and other workers built large parts of the system under dangerous conditions, yet the popular Western often remembers the tracks mainly as heroic engineering.\n\n### The frontier as a record system\n\nThe idea that the frontier was closing was not only about empty land disappearing. Open space was increasingly transformed into titled property, scheduled movement, taxable production and enforceable jurisdiction. Red Dead expresses that through characters feeling trapped. Historically, the railroad narrowed escape routes because it carried company law, public authority, credit, policing and national markets together.\n\nWhen the tracks arrived, the old frontier did not simply become more convenient. It became more legible to business and government. That is why the train is such a strong symbol in Western stories: it brings progress, but it also brings measurement, debt, enforcement and loss.\n\n### Why this matters in a Western story\n\nFor an outlaw or small rancher, the railroad did not simply mean faster travel. It meant that news could outrun a rider, goods could be priced against distant markets, and a local dispute could become a corporate or federal matter. That is why railroads feel so threatening in Red Dead's world. They shrink the emotional distance between the frontier and the center. The old promise of disappearing over the horizon becomes weaker when the horizon has a station, a telegraph office and a timetable.",
+      "accuracyNote": "The shrinking frontier feeling is accurate, though the game's drama leaves less room for the railroad's structural effects on Native societies and local autonomy.",
+      "whyInteresting": "A single rail line could carry trade, troop movement, time standardization, property records and state authority at once.",
+      "misconception": "Railroad expansion is often imagined as equal progress for everyone; gains and losses depended on route, class and Indigenous dispossession.",
+      "nextTopics": [
+        "Outlaw Myth",
+        "Railroad Frontier",
+        "Cattle Drives"
+      ],
+      "sources": [
+        {
+          "title": "National Archives - Pacific Railway Act (1862)",
+          "url": "https://www.archives.gov/milestone-documents/pacific-railway-act",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Smithsonian - Time Zones / Standard Railway Time",
+          "url": "https://americanhistory.si.edu/ontime/synchronizing/zones.html",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Transcontinental Railroad",
+          "url": "https://www.britannica.com/topic/transcontinental-railroad-United-States-history",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "rdr-railroads-frontier",
+        "rdr-pinkerton-agency",
+        "tf26-116-boomtowns"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Red Dead captures the atmosphere; True Frame explains the legal and economic mechanism behind it.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "wild-west",
+        "red-dead",
+        "united-states",
+        "railroad-frontier",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game expresses this through character drama and lost freedom. Historically, the main break came when state-company infrastructure tied frontier regions to markets, records and time discipline.",
+      "whyItMatters": "The railroad shows why the Wild West became a registered, corporate and centralized world rather than an open romantic space.",
+      "isFlagship": true,
+      "quickRealityCheck": "Did the tracks only expand trade, or did they also tie frontier communities to shared time, titles and federal oversight?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-113-cattle-drives",
+      "title": "Cattle Drives",
+      "subtitle": "Why the trail economy faded when the rails moved closer.",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Frontier",
+        "Violence",
+        "Modernization"
+      ],
+      "whatWeSee": "In Red Dead Redemption, cattle work feels like the heart of open-range romance: long rides, camp nights and arrival in town. Yet fences, rail lines and growing cities make clear that this way of life is temporary. The drive is less the rise of an era than one of its last bright moments.",
+      "realHistory": "After the Civil War, cattle drives from Texas to Kansas railheads became a short but influential stage in the American beef economy. Trails such as the Chisholm moved thousands of animals north over months, where they could be loaded onto trains and sent to eastern markets. The system grew quickly because it used open range and limited infrastructure, but it was always vulnerable to drought, disease, theft, price shifts and boundary conflict.\n\nBy the late 1870s and 1880s, the balance changed. Barbed wire narrowed open range, settlement expanded, and rail lines moved farther south, reducing the need for very long drives. Refrigerated rail cars made it easier to ship dressed meat, changing production and distribution. The harsh winter of 1886-87 and overgrazing also damaged the open-range ranching model.\n\nCowboy labor did not vanish, but it shifted toward more local, capital-intensive and recorded ranching. Vaquero techniques remained crucial, although popular Western memory often pushes them aside. Red Dead captures the open-range feeling; historically cattle drives were a transitional economic system that narrowed once infrastructure and meat markets changed.",
+      "accuracyNote": "The transitional nature of cattle drives is real, but the game compresses labor, technology and market change.",
+      "whyInteresting": "Barbed wire, railroads and refrigerated transport could transform an entire cowboy way of life faster than any gunfight.",
+      "misconception": "Long-distance cattle drives are often imagined as continuing at the same scale for decades.",
+      "nextTopics": [
+        "Outlaw Myth",
+        "Railroad Frontier",
+        "Cattle Drives"
+      ],
+      "sources": [
+        {
+          "title": "Texas State Historical Association - Cattle Trailing",
+          "url": "https://www.tshaonline.org/handbook/entries/cattle-trailing",
+          "type": "reference",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Cattle Drive",
+          "url": "https://www.britannica.com/topic/cattle-drive",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Library of Congress - Who Invented Barbed Wire?",
+          "url": "https://www.loc.gov/everyday-mysteries/item/who-invented-barbed-wire/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-112-railroad-frontier",
+        "rdr-railroads-frontier"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Red Dead's open-range feeling is strong; True Frame makes the market transition behind that feeling visible.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "wild-west",
+        "red-dead",
+        "united-states",
+        "cattle-drives",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game foregrounds the drive as romantic labor. Historically, it was a short-lived economic bridge shaped by rail access, meat markets and property boundaries.",
+      "whyItMatters": "The end of the cowboy trail shows how infrastructure and market technology reshape everyday life more than individual bravery does.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did the cowboy era fade because courage ran out, or because barbed wire, railroads and refrigerated transport changed the business?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-114-pinkertons",
+      "title": "Detective Agencies",
+      "subtitle": "Pinkertons: not sheriffs, but corporate force.",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Frontier",
+        "Violence",
+        "Modernization"
+      ],
+      "whatWeSee": "In Red Dead Redemption, Pinkerton agents appear as a hard, almost unavoidable modern security force pursuing the gang. The game connects them to raids, corporate interests and relentless pursuit. That is not empty fiction: by the late nineteenth century, private detective agencies had become real tools for railroads, banks and industrial employers.",
+      "realHistory": "The Pinkerton National Detective Agency, founded by Allan Pinkerton in the 1850s, became known for investigating railroad robberies, fraud, labor conflicts and private security matters. Its rise came at a time when federal law enforcement capacity was limited and corporate capital was growing quickly. Pinkertons therefore occupied a gray zone between public order and private interest.\n\nThe 1892 Homestead Strike is one of the clearest examples. Carnegie Steel manager Henry Clay Frick brought in Pinkerton men against striking workers, and the confrontation led to deaths and injuries. The event showed how private security could be used almost like a paramilitary arm of corporate management in labor conflict. It made the Pinkerton name permanently controversial in American labor history.\n\nRed Dead Redemption dramatizes this through pursuit of an outlaw gang. The broader history includes railroads, banks, big capital and strikebreaking. The issue was not only catching criminals; it was the question of who gets to buy coercive power, under what authority, and in whose interest. Pinkertons remain memorable because they claimed to act for law while often being seen as the armed extension of company power.",
+      "accuracyNote": "The Pinkertons' private security and strikebreaking roles are historical; Red Dead's characters and plot are fictionalized.",
+      "whyInteresting": "A private company could sometimes intervene before, and more violently than, public police.",
+      "misconception": "The Pinkertons are often reduced to Wild West chases; one of their most contested legacies is their role in industrial labor conflict.",
+      "nextTopics": [
+        "Outlaw Myth",
+        "Railroad Frontier",
+        "Cattle Drives"
+      ],
+      "sources": [
+        {
+          "title": "Library of Congress - 1892 Homestead Strike",
+          "url": "https://guides.loc.gov/this-month-in-business-history/july/1892-homestead-strike",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Smithsonian Magazine - Pinkerton National Detective Agency",
+          "url": "https://www.smithsonianmag.com/history/pinkerton-national-detective-agency-180958432/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Homestead Strike",
+          "url": "https://www.britannica.com/event/Homestead-Strike",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "rdr-pinkerton-agency",
+        "tf26-111-outlaw-myth"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Red Dead Redemption 2's Pinkerton pressure can be read beside the agency's archives and strike history.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "wild-west",
+        "red-dead",
+        "united-states",
+        "detective-agencies",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "RDR frames Pinkertons through gang pursuit. Records also show railroad security, strikebreaking, company protection and labor conflict.",
+      "whyItMatters": "The Pinkertons show how modern security could be split between the state and private capital, often at great cost to workers.",
+      "isFlagship": false,
+      "quickRealityCheck": "How does the agency's role look different when RDR2's chase scenes are read beside Homestead 1892?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-115-reservation-system",
+      "title": "The Reservation System",
+      "subtitle": "Why reservation lines look so sharp on the map.",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Frontier",
+        "Violence",
+        "Modernization"
+      ],
+      "whatWeSee": "Red Dead Redemption 2 presents reservation life through shrinking land, military intimidation and manipulative treaty politics. The Wapiti storyline emphasizes mourning, coercion and strategic deception. The map shows administrative lines, but the story makes those lines feel like products of power.",
+      "realHistory": "The United States reservation system developed through treaties, military campaigns, executive orders and congressional laws that concentrated Native nations under federal control. Official language often spoke of protection or civilization. In practice, the system repeatedly produced land loss, political subordination and economic dependency.\n\nThe Dawes Act of 1887 intensified the process by dividing communal land into individual allotments. Land labeled surplus was opened to non-Native settlement and corporate use, causing devastating land loss for many nations. Federal agents controlled rations, movement, policing and education, bringing government power into daily life. Boarding school programs targeted language, kinship practices and cultural continuity.\n\nRailroad expansion, extractive industry and agricultural speculation worked alongside this policy regime, making dispossession part of national market growth. Native communities responded through petitions, diplomacy, adaptation and resistance, but negotiation often took place under severe coercive imbalance.\n\nRed Dead Redemption 2 compresses this long process into character-focused tragedy. Historically, dispossession worked not only through open violence, but through paperwork, courts, budgets, policing, schooling and land incentives.",
+      "accuracyNote": "The core dynamics of coercion are credible, but treaties, allotment, schools and federal administration are compressed for story pace.",
+      "whyInteresting": "Dispossession was not only battlefield defeat; it was also produced by documents, incentives and administrative control.",
+      "misconception": "Reservation boundaries are often imagined as neutral protective zones, rather than products of coercive state power and land transfer.",
+      "nextTopics": [
+        "Outlaw Myth",
+        "Railroad Frontier",
+        "Cattle Drives"
+      ],
+      "sources": [
+        {
+          "title": "National Archives - Dawes Act (1887)",
+          "url": "https://www.archives.gov/milestone-documents/dawes-act",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "DocsTeach - Dawes Act of 1887",
+          "url": "https://docsteach.org/document/dawes-act/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "National Park Service - Trail of Tears National Historic Trail",
+          "url": "https://www.nps.gov/trte/index.htm",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-112-railroad-frontier",
+        "rdr2-frontier"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "RDR2 creates empathy through story; history reveals the policy machinery behind that suffering.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "wild-west",
+        "red-dead",
+        "united-states",
+        "reservation-system",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game dramatizes a concentrated crisis. Historically, dispossession unfolded over decades through law, administration, markets and education policy.",
+      "whyItMatters": "The reservation system shows that dispossession can be built through paperwork and incentives as well as war.",
+      "isFlagship": false,
+      "quickRealityCheck": "Were reservations neutral protection zones, or often tools of control and land transfer?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-116-boomtowns",
+      "title": "Boomtowns",
+      "subtitle": "Towns born from rumor and abandoned when capital moved on.",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Frontier",
+        "Violence",
+        "Modernization"
+      ],
+      "whatWeSee": "Red Dead Redemption's towns evoke the boomtown world: one main street, a saloon, a sheriff, an inn, a station and a constant flow of strangers. The game uses Western atmosphere well, but the real story sits in mining rumor, railroad routes, credit and speculation.",
+      "realHistory": "### Places that grew overnight\n\nBoomtowns in the American West often grew around gold, silver, railroads, land speculation or cattle trade. Like Valentine or other Red Dead towns, they could appear to become complete communities almost instantly: a main street, saloons, boarding houses, supply stores, newspapers and law offices. Yet this growth was often less stable urban development than a rush of risk capital and expectation. Before order arrived, rumor and credit usually did.\n\n### The economy of ore, rumor and debt\n\nBodie, Deadwood and Tombstone were not built by gunfighters alone. A report of a rich ore vein could attract miners, merchants, gamblers, journalists, lawyers and sex workers in a matter of months. Hotels, lumber yards, transport firms, banks and saloons grew around the hope that extraction would last. Prices could rise sharply, and debt often grew before anyone knew whether the mine could sustain the town. If production declined or the railroad went elsewhere, the population could leave almost as quickly as it arrived.\n\n### Law arrived after money\n\nPopular Westerns call these places lawless, and there is truth in that. Fast growth often outpaced courts, sheriffs, water systems and municipal government. But the problem was not just moral chaos. Mining claims, debt, injury, property lines, gambling, labor and land speculation all needed legal handling. Private security, local sheriffs, company interests and courts could all compete on the same street. Violence was tied not only to personality, but to uncertain ownership and sudden cash flow.\n\n### How a ghost town begins\n\nBoomtowns usually did not die in one dramatic shootout. They emptied when the income stream dried up: ore quality fell, fuel or water became expensive, credit tightened, fires destroyed buildings, or transportation shifted away. Bodie's preserved condition is a powerful example of this cycle. It shows how a place that once seemed permanent can become a frozen record of exhausted extraction.\n\nRed Dead captures the mood of these towns. The historical lesson is that many boomtowns were products of extraction and speculation. Their survival depended less on legendary characters than on ore, transport, credit and whether outside capital still believed in them.\n\n### The people left behind\n\nWhen a boomtown faded, the loss was not only picturesque empty buildings. Workers were stranded, merchants were left with unpaid credit, families had to decide whether to move again, and local governments could be left without the tax base needed to maintain roads, schools or water systems. The ghost town image makes decline look clean and romantic. The lived experience was usually debt, displacement and another search for work. That is what Red Dead's lonely streets suggest when the Western dream begins to look temporary.",
+      "accuracyNote": "The boomtown dynamic is historical; Red Dead towns are fictional composites of mining, railroad and cattle economies.",
+      "whyInteresting": "A town's fate could depend less on heroes than on an ore vein, a railroad route or a credit rumor.",
+      "misconception": "Western towns are often imagined as naturally becoming permanent communities; many boomtowns were temporary surges.",
+      "nextTopics": [
+        "Outlaw Myth",
+        "Railroad Frontier",
+        "Cattle Drives"
+      ],
+      "sources": [
+        {
+          "title": "California State Parks - Bodie State Historic Park",
+          "url": "https://www.parks.ca.gov/bodie",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "City of Deadwood - Introduction to Deadwood's History",
+          "url": "https://www.cityofdeadwood.com/historic-preservation/page/introduction-deadwoods-history",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Library of Congress - California Gold Rush Collection",
+          "url": "https://www.loc.gov/collections/california-gold-rush/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-112-railroad-frontier",
+        "rdr-railroad-conquest"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "RDR2 town scenes can be read beside mining and railroad boomtown records.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "wild-west",
+        "red-dead",
+        "united-states",
+        "boomtowns",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game turns concentrated or abandoned towns into dramatic spaces. Historically, decline often followed resource exhaustion, bankruptcy, route changes, fire or withdrawal of capital.",
+      "whyItMatters": "Boomtowns show that the American West was shaped by extraction, speculation and fragile infrastructure, not only by gunfighters.",
+      "isFlagship": true,
+      "quickRealityCheck": "Did a Western town collapse because of lawlessness, or because mining, credit and railroad flows dried up?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-117-frontier-law",
+      "title": "Frontier Law",
+      "subtitle": "Who held the law on the frontier?",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Frontier",
+        "Violence",
+        "Modernization"
+      ],
+      "whatWeSee": "Red Dead Redemption presents frontier law as competing authorities rather than one clear state voice: sheriffs, federal agents, bounty hunters and company security all collide. The game keeps the lawless West cliche, but it also hints at a more complex world of overlapping jurisdictions.",
+      "realHistory": "Late nineteenth-century frontier law was fragmented, but not absent. County sheriffs, state courts, federal marshals, local militias and private security networks could operate in the same region with different powers. As transport and communication expanded, crimes could cross state lines more easily, increasing federal involvement. The problem was often not no law, but overlapping authority and uneven enforcement capacity.\n\nRailroad companies made the picture more complicated. Private detectives and security forces sometimes supported investigations and sometimes helped suppress labor movements. Agencies such as Pinkerton show how porous the boundary between public power and private interest could become. The pop-cultural image of duels and chases draws on real events, but the long transformation was driven by record systems, taxation, transport infrastructure and bureaucratic centralization.\n\nBy the late 1890s, the idea of the open frontier weakened as law became more procedural and institutional. That did not mean justice became equal. Ethnic, racial and class inequalities remained powerful. Red Dead captures the gray field of competing power. History adds this: frontier law was not a wild empty space, but a negotiation among local autonomy, capital pressure and expanding federal capacity.",
+      "accuracyNote": "The local-federal tension is historical, but the game compresses characters and institutions into a single dramatic flow.",
+      "whyInteresting": "This reframes the Western from gunfight myth into a concrete question of law, capacity and state-building.",
+      "misconception": "Frontier regions are often imagined as entirely stateless and ruleless; the issue was often overlapping authority and weak application.",
+      "nextTopics": [
+        "Outlaw Myth",
+        "Railroad Frontier",
+        "Cattle Drives"
+      ],
+      "sources": [
+        {
+          "title": "U.S. Marshals Service - Historical Reading Room",
+          "url": "https://www.usmarshals.gov/who-we-are/history/historical-reading-room",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "DOJ - United States Marshals Service mission and functions",
+          "url": "https://www.justice.gov/doj/organization-mission-and-functions-manual-united-states-marshals-service",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Pinkerton National Detective Agency",
+          "url": "https://www.britannica.com/topic/Pinkerton-National-Detective-Agency",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-118-bounty-hunters",
+        "rdr2-frontier"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "RDR enlarges moral gray zones; True Frame explains how those zones came from institutional overlap.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "wild-west",
+        "red-dead",
+        "united-states",
+        "frontier-law",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game presents law through personal confrontation and bounty hunting. Historically, jurisdictional conflict and bureaucratic centralization changed the field more slowly.",
+      "whyItMatters": "The Western myth becomes clearer when law is understood as transport, courts and enforcement capacity, not just written rules.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was the frontier crisis really the absence of law, or a set of competing half-authorities?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-118-bounty-hunters",
+      "title": "Bounty Hunters",
+      "subtitle": "Justice, market incentive or both?",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Frontier",
+        "Violence",
+        "Modernization"
+      ],
+      "whatWeSee": "Red Dead Redemption turns wanted posters and bounty hunters into playable frontier law. The player finds, captures or kills a target, and the process feels like a chase. The real system was more complicated: advertisements, courts, local officers and cash incentives all met in the same gray zone.",
+      "realHistory": "Bounty hunting in the nineteenth-century American West often depended on reward notices and local or federal arrest powers. Wanted posters named the charge, described the target, offered a sum and sometimes explained delivery conditions. That did not mean every armed person had unlimited authority. Sheriffs, deputy marshals, posse members and private trackers operated under variable and contested legal boundaries.\n\nThe reward system outsourced part of the cost of pursuit in places where state capacity was thin. It could work when fugitives crossed county or state lines, or when local law enforcement lacked manpower. But it also invited abuse: mistaken identity, excessive force, illegal killing, bribery and lynching all haunted the system. The phrase dead or alive grew large in popular culture, but evidence, jurisdiction and delivery rules still mattered.\n\nRed Dead simplifies the structure into a clean loop: target, trail, fight, payment. Historically, bounty hunters were not wholly outside formal justice; they operated where law tried to supplement itself with money, local knowledge and violence. That makes bounty hunting less a symbol of pure lawlessness than an unstable bridge between state authority and market incentive.",
+      "accuracyNote": "Wanted posters and reward systems are historical, but the game shortens legal procedure, jurisdiction differences and abuse risks.",
+      "whyInteresting": "Bounty hunting extended official justice, but when justice and cash reward mix, the boundary becomes unstable.",
+      "misconception": "Bounty hunters are often imagined as fully independent armed people with unlimited authority.",
+      "nextTopics": [
+        "Outlaw Myth",
+        "Railroad Frontier",
+        "Cattle Drives"
+      ],
+      "sources": [
+        {
+          "title": "Historical Reading Room — U.S. Marshals Service",
+          "url": "https://www.usmarshals.gov/who-we-are/history/historical-reading-room",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Rewards, Bounty Hunting, and Criminal Justice in the West — Journal of the West/JSTOR",
+          "url": "https://www.jstor.org/stable/968233",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Law and Order in the American West — Library of Congress",
+          "url": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/rise-of-industrial-america-1876-1900/law-and-order-in-the-american-west/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-119-women-frontier",
+        "rdr2-frontier",
+        "tf26-116-boomtowns"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Red Dead Redemption bounty posters can be read beside the reward system of the American West.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "wild-west",
+        "red-dead",
+        "united-states",
+        "bounty-hunters",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game foregrounds chase and combat; historical pursuit worked through notices, court authority, local law enforcement and reward money.",
+      "whyItMatters": "This system shows how justice in thinly governed regions could be negotiated through money, local power and violence.",
+      "isFlagship": false,
+      "quickRealityCheck": "A wanted poster named a target, but where did the captor's authority begin and end?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Repeated paragraphs removed; the card now avoids treating bounty hunting as either pure lawlessness or fully regulated policing."
+    },
+    {
+      "id": "tf26-119-women-frontier",
+      "title": "Women on the Frontier",
+      "subtitle": "Beyond the saloon stereotype.",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Frontier",
+        "Violence",
+        "Modernization"
+      ],
+      "whatWeSee": "In Red Dead Redemption's frontier world, women move through coercion, social control and fragile safety while male outlaw conflict drives the main story. Characters such as Abigail and Sadie complicate the passive bystander cliche, yet the camera still returns to armed men and gang politics.",
+      "realHistory": "Women's experiences in the nineteenth-century North American West cannot be reduced to one pattern. Class, ethnicity, region, marital status and legal standing mattered. Popular culture often turns women into saloon figures, victims or moral anchors for male protagonists. Records show a wider world: teaching, boarding houses, laundry work, farming, small trade, healing, bookkeeping and local organizing.\n\nSome women gained property control through homestead claims, inheritance or widowhood. Court records show women suing over debts, inheritance, guardianship, divorce, wages and commercial disputes. Frontier society therefore depended not only on armed male mobility, but on domestic labor, care work, credit management and small business activity.\n\nThese opportunities did not mean equality. Wage gaps, gendered violence, weak legal protection, racist law and dependence on male-controlled institutions remained common. Native, Black, Mexican American and immigrant women faced heavier discrimination. Early suffrage in some western territories mattered, but it did not automatically erase economic vulnerability or social control.\n\nRed Dead captures danger and insecurity well. The historical frame adds that the West was sustained by women's labor, legal negotiation and community-building as much as by gunmen, sheriffs or outlaws.",
+      "accuracyNote": "The game's atmosphere of risk is convincing, but women's roles in business, property, lawsuits and community organization are much wider in the historical record.",
+      "whyInteresting": "It shifts the frontier from gun spectacle to the everyday labor and legal struggle that actually sustained settlement.",
+      "misconception": "Frontier women are often imagined as passive companions or saloon stereotypes; records show much wider economic and legal roles.",
+      "nextTopics": [
+        "Outlaw Myth",
+        "Railroad Frontier",
+        "Cattle Drives"
+      ],
+      "sources": [
+        {
+          "title": "Women of the West — Smithsonian Magazine",
+          "url": "https://www.smithsonianmag.com/history/women-of-the-west-180958058/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Oregon National Historic Trail — National Park Service",
+          "url": "https://www.nps.gov/oreg/index.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Married Women's Property Laws and Female Commercial Activity — Journal of Economic History",
+          "url": "https://ideas.repec.org/a/cup/jechis/v56y1996i02p356-388_01.html",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "rdr2-frontier",
+        "tf26-117-frontier-law",
+        "tf26-118-bounty-hunters"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "RDR humanizes constraint; archives show a wider range of women's economic and civic authority.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "wild-west",
+        "red-dead",
+        "united-states",
+        "women-frontier",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game gives women space but still centers outlaw masculinity; settlement depended heavily on women's care, business, property and community labor.",
+      "whyItMatters": "Asking who built the West means seeing not only armed men, but also the people who kept records, ran businesses, sued, cared and organized.",
+      "isFlagship": false,
+      "quickRealityCheck": "Who really kept a frontier town running: only sheriffs and outlaws, or also women doing business, care and record work?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Source set strengthened around frontier women and women's property/commercial activity."
+    },
+    {
+      "id": "tf26-122-artillery",
+      "title": "Artillery Fire",
+      "subtitle": "The rhythm of trench warfare.",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "era": "Modern History",
+      "region": "Europe",
+      "themes": [
+        "War",
+        "Technology",
+        "Front"
+      ],
+      "whatWeSee": "In 1917, Schofield moves under the constant sound of artillery. The film uses shellfire as visual and sonic pressure: exploding horizons, men moving under a curtain of fire, and orders arriving too late to save a line.",
+      "realHistory": "In the First World War, artillery was one of the most decisive killing forces on the Western Front. To break trenches, barbed wire and machine-gun positions, armies used long preparatory bombardments before infantry attacks. Yet these bombardments did not always work. Shells could fail to cut wire, deep dugouts or concrete positions could survive, and a long barrage often warned defenders that an assault was coming.\n\nAfter 1916, artillery tactics became more complex. The creeping barrage moved a wall of shells forward at a planned pace just ahead of infantry. If timing slipped by even a few minutes, soldiers could fall behind their own barrage or meet surviving machine guns in the open. Counter-battery fire, sound ranging and aerial reconnaissance tried to locate and silence enemy guns. Artillery therefore became a problem of measurement, maps, weather, industry and logistics, not just brute destruction.\n\nThe rear area behind artillery was also immense: millions of shells, railways, animal transport, depots and factory output were needed to keep the guns firing. The sound was not only tactical; it was psychological attrition. 1917 concentrates that pressure into a single mission. Historically, artillery shaped the front for months through continuous industrial violence.",
+      "accuracyNote": "The film strongly conveys the bodily and sonic pressure of artillery; in reality artillery was part of a much larger system of production, reconnaissance, weather calculation and logistics.",
+      "whyInteresting": "A modern weapon system could become deadly to its own side if timing slipped by only a few minutes.",
+      "misconception": "Preparatory bombardment is often assumed to clear trenches automatically; wire, dugouts and machine guns often survived.",
+      "nextTopics": [
+        "Trench Life",
+        "Artillery Fire",
+        "No Man's Land"
+      ],
+      "sources": [
+        {
+          "title": "Weapons of the Western Front — National Army Museum",
+          "url": "https://www.nam.ac.uk/explore/weapons-western-front",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Battle of the Somme — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/event/Battle-of-the-Somme",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Artillery II: The Creeping Barrage — Habsburger.net",
+          "url": "https://ww1.habsburger.net/en/chapters/artillery-ii-creeping-barrage-barrage-and-curtain-fire",
+          "type": "educational",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "1917-trenches",
+        "tf26-124-messengers"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "1917's soundscape sits beside First World War bombardment tactics and Somme artillery.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "first-world-war",
+        "trench",
+        "1917",
+        "artillery-fire",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May include mild context from 1917, but does not reveal the ending.",
+      "mediaChanged": "The film presents artillery as constant threat; historically, artillery joined industry, measurement and logistics into the central technology of the front.",
+      "whyItMatters": "Artillery shows that modern killing power depends on production, calculation and coordination as much as courage.",
+      "isFlagship": false,
+      "quickRealityCheck": "If a bombardment lasted for days, why could attacking infantry still be caught by machine guns?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Repeated/templated paragraphs removed and the artillery mechanics were made more source-aware."
+    },
+    {
+      "id": "tf26-123-no-mans-land",
+      "title": "No Man's Land",
+      "subtitle": "A few hundred meters of death.",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "era": "Modern History",
+      "region": "Europe",
+      "themes": [
+        "War",
+        "Technology",
+        "Front"
+      ],
+      "whatWeSee": "1917 makes no man's land feel almost alive: mud, wire, craters and bodies turn a short distance into a mental and physical ordeal. The continuous-motion style lets viewers feel why even a few hundred meters between trenches could become a lethal gamble.",
+      "realHistory": "On the Western Front, no man's land was the shifting zone between opposing trench lines. Its width could range from a few meters to hundreds. Artillery constantly reshaped it. Barbed wire, shell holes, mud, unexploded ordnance and bodies made it both a physical and psychological threshold.\n\nIt was not truly empty. Night patrols, wire-cutting, raids, reconnaissance and attempts to recover wounded men all took place there. Moving in daylight could be close to suicidal in many sectors because machine-gun sightlines and artillery observation made even short distances dangerous. Objectives that looked clear on a map could disappear on the ground in mud, mist and broken communication.\n\n1917 turns the space into one continuous passage. That is a powerful cinematic device, but it rests on a real insight: no man's land was where modern technology often stopped movement rather than enabling it. Courage alone was not enough. Timing, communication, terrain knowledge and luck mattered. The zone was not mere background; it was the bare geography of industrial war.",
+      "accuracyNote": "The film captures spatial danger and communication fragility, though the mission's duration and intensity are compressed for dramatic effect.",
+      "whyInteresting": "Modern technology is often assumed to increase mobility; no man's land shows the opposite.",
+      "misconception": "No man's land is often imagined as empty and uncontrolled; in reality it was watched, shelled and crossed for dangerous tasks.",
+      "nextTopics": [
+        "Trench Life",
+        "Artillery Fire",
+        "No Man's Land"
+      ],
+      "sources": [
+        {
+          "title": "What Was Trench Warfare? — Imperial War Museums",
+          "url": "https://www.iwm.org.uk/history/what-was-trench-warfare",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Life in the Trenches — National Army Museum",
+          "url": "https://www.nam.ac.uk/explore/life-trenches",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Trench Warfare — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/trench-warfare",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-124-messengers",
+        "1917-siper-savasi-flagship",
+        "tf26-126-shell-shock"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "1917's continuous movement can be read beside patrol reports and the fragile terrain of the Western Front.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "first-world-war",
+        "trench",
+        "1917",
+        "no-mans-land",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May include mild context from 1917, but does not reveal the ending.",
+      "mediaChanged": "The film makes the zone the stage for one crucial mission; historically, the same risk was repeated for years through patrols, evacuations and attacks.",
+      "whyItMatters": "No man's land makes visible that war is not only strategy, but terrain, communication and psychological endurance.",
+      "isFlagship": false,
+      "quickRealityCheck": "Why could a few hundred meters require days of planning and still cost thousands of lives?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Generic subtitle replaced and source set normalized."
+    },
+    {
+      "id": "tf26-124-messengers",
+      "title": "Frontline Messengers",
+      "subtitle": "When the phone line failed, a person had to run.",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "era": "Modern History",
+      "region": "Europe",
+      "themes": [
+        "War",
+        "Technology",
+        "Front"
+      ],
+      "whatWeSee": "In 1917, Schofield and Blake must carry an order across deadly ground to stop an attack. The film compresses the message into one urgent journey, making communication feel like a matter of life and death.",
+      "realHistory": "### Broken communication chains\n\nCommunication in First World War trenches was a fragile mix of technology and human endurance. Telephone and telegraph lines connected rear headquarters to command posts, but shellfire, mud, flooding and movement cut those lines constantly. An order chain that looked clear on a map could fall apart within minutes on the ground. Communication was therefore not a support detail; it was a condition for any attack plan to survive contact with the front.\n\nRunners, bicycle and motorcycle couriers, signal flares, flags, lamps and carrier pigeons all belonged to the same communication ecosystem. An order might be sent in several copies by different routes, with commanders hoping at least one messenger reached the destination. This redundancy sounds modern, yet the final guarantee could still be a soldier running through mud.\n\n### Minutes could decide lives\n\nA delayed message was not an abstract administrative problem. If the timing between artillery barrage and infantry movement broke down, troops might lag behind their own shells, move into surviving machine guns or risk friendly fire. A wrong or late order could change the fate of a battalion. The messenger was not just a delivery man; he was the living link between artillery, infantry and command.\n\n1917's specific mission is fictional, but the mechanism is real. When the line was cut, war fell back onto bodies, memory and route-finding. A runner had to know which trench had collapsed, where snipers might be watching, which crossing was flooded and how to keep moving when maps no longer matched the ground.\n\n### Old methods inside modern war\n\nCarrier pigeons and dogs can seem out of place in industrial war, yet under bombardment the simplest tool could be the most reliable. A pigeon carrying a short message might be more practical than repairing a broken wire or trusting weak wireless equipment. This is the paradox the film touches: the more powerful industrial fire became, the more essential small, vulnerable communication channels remained.\n\nFrontline messengers were not heroic decoration. They were part of the invisible infrastructure of command. Reports about ammunition, casualties, enemy movement and medical need all traveled through the same fragile channels. A commander acting on stale information could lose the meaning of a plan within minutes. That is why 1917's tension works historically: the drama is not only two brave soldiers, but the weakness of an entire army's information flow.\n\n### The danger of old information\n\nThe hardest part of front communication was not only moving a message, but making sure it was still true when it arrived. Trenches changed hands, units moved, artillery schedules shifted and wounded men filled communication routes. A runner could survive the journey and still deliver an order that no longer matched the ground. That delay is exactly what makes the 1917 premise believable: in trench warfare, information aged quickly, and old information could kill as efficiently as a shell.",
+      "accuracyNote": "The film's particular mission is fictional, but cut telephone lines, human runners and carrier pigeons have real First World War counterparts.",
+      "whyInteresting": "Inside the most modern artillery systems, a battle could still depend on old communication methods and one runner staying alive.",
+      "misconception": "It is easy to assume First World War orders moved through reliable phone or radio networks; front communication was often broken and improvised.",
+      "nextTopics": [
+        "Trench Life",
+        "Artillery Fire",
+        "No Man's Land"
+      ],
+      "sources": [
+        {
+          "title": "The British Army Entrusted Its Secrets to Birdbrains — National Army Museum",
+          "url": "https://www.nam.ac.uk/explore/british-army-entrusted-its-secrets-birdbrains",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Carrier Pigeons of the First World War — Imperial War Museums",
+          "url": "https://www.iwm.org.uk/history/first-world-war/western-front/carrier-pigeons-of-the-first-world-war",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Top Tips for Managing Your Carrier Pigeons — National WWI Museum and Memorial",
+          "url": "https://www.theworldwar.org/learn/educator-resource/top-tips-managing-your-carrier-pigeons",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "1917-trenches",
+        "1917-trench-comms-real"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "1917's message run sits beside First World War messenger, pigeon and field communication systems.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "first-world-war",
+        "trench",
+        "1917",
+        "frontline-messengers",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May include mild context from 1917, but does not reveal the ending.",
+      "mediaChanged": "The film makes one message the dramatic engine; in reality similar risks repeated across thousands of orders, duplicate messages and backup signals.",
+      "whyItMatters": "Front communication shows that modern war is also coordination, redundancy and fragile information flow.",
+      "isFlagship": true,
+      "quickRealityCheck": "When a phone line was cut, did the front rely on new technology, or on runners, pigeons and signals?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Expanded to flagship length with ### headings and removed repeated blocks."
+    }
+  ]
+}

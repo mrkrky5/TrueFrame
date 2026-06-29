@@ -1,0 +1,1458 @@
+{
+  "meta": {
+    "purpose": "English-native adaptation batch",
+    "sourceChunk": "source-chunk-012.json",
+    "batchNumber": 12,
+    "cardCount": 20,
+    "sourceCardRange": "TR order cards 221-240",
+    "alreadyAuthoredCountBeforeBatch": 220,
+    "authoredCountAfterBatch": 240,
+    "remainingCountAfterBatch": 211,
+    "ids": [
+      "tf26-034-norse-religion",
+      "tf26-035-danelaw",
+      "tf26-036-vinland",
+      "tf26-037-shieldmaidens",
+      "tf26-039-christianization",
+      "tf26-040-stamford-bridge",
+      "tf26-042-burhs",
+      "tf26-043-wessex",
+      "tf26-044-danish-settlement",
+      "tf26-045-law-codes",
+      "tf26-046-monasteries",
+      "tf26-047-shield-wall",
+      "tf26-048-names-identity",
+      "tf26-049-norman-conquest",
+      "tf26-050-bayeux-tapestry",
+      "tf26-052-kamikaze",
+      "tf26-055-archery",
+      "tf26-056-island-defense",
+      "tf26-058-peasants-war",
+      "tf26-059-shrine-culture"
+    ],
+    "notes": "Adapted from Turkish canonical cards. Source URLs and relation IDs preserved; localized text fields adapted into natural English."
+  },
+  "cards": [
+    {
+      "id": "tf26-034-norse-religion",
+      "title": "Norse Belief",
+      "subtitle": "Gods, trade, and the legitimacy of kings",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Middle Ages",
+      "region": "Scandinavia",
+      "themes": [
+        "Seafaring",
+        "War",
+        "Migration"
+      ],
+      "whatWeSee": "In Vikings, temple sacrifices, prayers to Odin and Thor, and clashes over conversion define the show's image of Norse religion. Faith is tied to personal destiny and revenge, while the wider links between belief, rulership, travel, and trade usually remain in the background.",
+      "realHistory": "In Viking Age Scandinavia, religion was not a separate activity sealed inside temples. It shaped household rituals, farming cycles, assemblies, warfare, oath-taking, and trade. Odin could be associated with knowledge, war, and elite status; Thor with protection and strength; Freyja with fertility, status, and magic. But these gods did not belong to a single centralized church. Practice varied by region, family, local cult site, and political context. Some elite halls and cult centers hosted major sacrificial rituals, while everyday belief often lived through household practice, seasonal feasts, amulets, burial customs, and memory of ancestors.\n\nThe written sources need careful handling. Many of the texts that preserve Norse myth were written down after conversion, often by Christian authors looking back on an older world. Eddic traditions and writers such as Adam of Bremen are valuable, but they carry the assumptions and agendas of their own periods. Archaeology therefore matters: graves, amulets, cult buildings, place names, and material traces help correct the literary image.\n\nIn the tenth and eleventh centuries, conversion to Christianity was not only a matter of private faith. For kings and local elites, the new religion also connected Scandinavia to written church institutions, diplomacy, law, and the prestige of Christian Europe. Figures such as Harald Bluetooth show how conversion could support royal legitimacy. Even then, older symbols and habits did not vanish overnight. Vikings dramatizes the conflict as personal spiritual crisis; historically, belief changed through trade, kingship, family strategy, and local negotiation.",
+      "accuracyNote": "The broad picture of polytheistic practice and conversion is well supported. The series compresses rituals and religious conflict into personal drama.",
+      "whyInteresting": "Odin, Thor, Christian baptism, and royal diplomacy could overlap within the same generations rather than replacing one another in a clean break.",
+      "misconception": "Vikings are often imagined as a fixed pagan bloc. In reality, belief was regional, flexible, and closely tied to politics.",
+      "nextTopics": [
+        "Longships",
+        "Raiding and Trade",
+        "Runic Writing"
+      ],
+      "sources": [
+        {
+          "title": "Religion, magic, death and rituals",
+          "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/religion-magic-death-and-rituals/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Christianity comes to Denmark",
+          "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/religion-magic-death-and-rituals/christianity-comes-to-denmark/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Christianity and foreign politics",
+          "url": "https://www.vikingeskibsmuseet.dk/en/professions/education/the-viking-age-society/christianity-and-foreign-politics",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-035-danelaw",
+        "tf26-036-vinland",
+        "tf26-037-shieldmaidens"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Connects the religious scenes in Vikings with Norse cult practice and the political process of conversion.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "viking",
+        "scandinavia",
+        "seafaring",
+        "norse-belief",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain light context for Vikings, but does not reveal the ending.",
+      "mediaChanged": "The series links religious conflict to character destiny and revenge. Historically, conversion also moved through trade, foreign policy, and royal legitimacy.",
+      "whyItMatters": "Norse religion helps explain how war, trade, memory, and state formation could share the same cultural language.",
+      "isFlagship": false,
+      "quickRealityCheck": "How closely do the temple and sacrifice scenes in Vikings line up with written sources and archaeological evidence?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-035-danelaw",
+      "title": "The Danelaw Order",
+      "subtitle": "From a line of conquest to a local legal world",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Middle Ages",
+      "region": "Scandinavia",
+      "themes": [
+        "Seafaring",
+        "War",
+        "Migration"
+      ],
+      "whatWeSee": "In Vikings, the Danelaw often feels like a power settlement created after war. Battles dominate, while bargaining, farming, markets, and law pass quickly. That can make the region look like a military line first and a society second.",
+      "realHistory": "The Danelaw describes the parts of eastern and northern England where Scandinavian influence became especially strong from the late ninth into the tenth century. The military pressure of the Great Army was the starting point, but the result was not just occupation. In centers such as York, trade, craft production, silver circulation, and settlement expanded. Place-name endings such as -by, -thorpe, and -toft still preserve traces of Scandinavian settlement in the landscape.\n\nThe Five Boroughs and other centers were not only military posts; they also became administrative and commercial nodes. Terms such as wapentake entered local government language. When the kings of Wessex pushed back into these regions, they did not simply erase every Scandinavian practice. Anglo-Saxon and Scandinavian law, naming, commerce, and household life blended in different ways. Marriage, market exchange, and local courts often lasted longer than the original battles.\n\nThat is why the Danelaw does not fit a simple frontier story. It is part of the history of English law, language, urban development, and identity. The violence shown in drama has a real basis, but the durable change came from institutions and daily life: how land was held, where people traded, which names they used, and how local disputes were settled.",
+      "accuracyNote": "The violence of the period is real, but the Danelaw's long-term impact is clearest in local law, markets, settlement, and language.",
+      "whyInteresting": "A small ending in a place name can still preserve a Viking Age history of settlement and legal negotiation.",
+      "misconception": "The Danelaw is often treated as a temporary occupation line. In reality, it left long-term marks on law, place names, trade, and local government.",
+      "nextTopics": [
+        "Longships",
+        "Raiding and Trade",
+        "Runic Writing"
+      ],
+      "sources": [
+        {
+          "title": "Danelaw",
+          "url": "https://www.britannica.com/place/Danelaw",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Danelaw, 9th-11th century",
+          "url": "https://www.rochestercathedral.org/research/textus/danelaw",
+          "type": "reference",
+          "verified": true
+        },
+        {
+          "title": "Jorvik Viking Centre",
+          "url": "https://www.jorvikvikingcentre.co.uk/",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-036-vinland",
+        "tf26-037-shieldmaidens",
+        "vikings-funeral-fadlan-real"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Places the Danish-Saxon tensions in Vikings beside the legal and settlement legacy of the Danelaw.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "viking",
+        "scandinavia",
+        "seafaring",
+        "danelaw",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain light context for Vikings, but does not reveal the ending.",
+      "mediaChanged": "The series treats the Danelaw mainly as a question of military control. Historically, law, market life, and local administration were just as important.",
+      "whyItMatters": "The Danelaw shows how conquest could produce not only destruction, but also blending, adaptation, and a new local order.",
+      "isFlagship": false,
+      "quickRealityCheck": "Which English place-name endings still make Danelaw settlement visible today?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-036-vinland",
+      "title": "The Vinland Voyage",
+      "subtitle": "Saga memory, archaeology, and a short-lived contact zone",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Middle Ages",
+      "region": "Scandinavia",
+      "themes": [
+        "Seafaring",
+        "War",
+        "Migration"
+      ],
+      "whatWeSee": "In Vikings, Vinland appears as a distant edge of the known world: a place for bold sailors, personal destiny, and uncertain encounters beyond familiar maps. The show can make Atlantic crossing feel like the first step toward a lasting new world.",
+      "realHistory": "### From saga to evidence\n\nVinland was known for a long time through saga traditions: Norse sailors from Greenland sailed west to lands associated with timber, resources, and unfamiliar peoples. These texts are extremely important, but they were written down generations after the events they describe. They carry family rivalries, literary patterns, and heroic memory as well as historical information. Vinland becomes historically strongest when saga memory can be compared with archaeological evidence.\n\nThe strongest point of contact is L'Anse aux Meadows in Newfoundland. The timber-and-sod buildings, traces of iron working, and Norse construction techniques found there show a real Norse presence in North America around the early eleventh century. UNESCO and Parks Canada identify the site as the earliest clearly confirmed European presence in North America. That matters because it proves an Atlantic crossing roughly five centuries before Columbus, without turning the voyage into a modern colonization story.\n\n### Why it did not become a colony\n\nVinland should not be imagined as a large, permanent Viking colony. The current evidence points to a small, temporary, or seasonal base rather than a broad settlement system. Distance from Greenland, limited population, supply problems, harsh conditions, and the risk of conflict with local communities all made long-term expansion difficult. Timber and exploration opportunities may have encouraged the journeys, but Norse Greenland did not have the demographic or logistical depth to turn them into a major colony.\n\n### Contact, not conquest\n\nThe most interesting part of Vinland is not whether the voyage happened. It did. The harder question is why such a remarkable achievement remained fragile. Vikings dramatizes Vinland as a personal leap into the unknown. Historically, it is better read as a contact zone: real travel, real experimentation, limited resources, and withdrawal when the costs became too high.\n\n### Why the story still matters\n\nVinland forces us to take medieval seafaring seriously. Norse sailors were not just coastal raiders. They understood island chains, seasons, ship repair, ocean risk, and resource needs well enough to cross the North Atlantic. L'Anse aux Meadows is rare because it lets saga memory touch the material world. It shows both the reach and the limits of Norse expansion. It also shows why discovery is not the same thing as domination. A small group could cross the ocean, repair ships, gather resources, and leave a material trace without having the manpower, political backing, or supply line needed to hold the land permanently. That distinction is easy to lose in screen stories, where arrival often looks like destiny. In the Vinland case, arrival was real, but permanence was the hard part.",
+      "accuracyNote": "Norse arrival in North America is archaeologically supported. Popular retellings often exaggerate the scale and permanence of that presence.",
+      "whyInteresting": "It is one of the rare cases where saga memory and strong archaeological evidence can be read against each other.",
+      "misconception": "Vinland is often imagined as a lasting Viking colony. The evidence points to a real but more limited and short-lived Norse presence.",
+      "nextTopics": [
+        "Longships",
+        "Raiding and Trade",
+        "Runic Writing"
+      ],
+      "sources": [
+        {
+          "title": "L'Anse aux Meadows National Historic Site",
+          "url": "https://parks.canada.ca/lhn-nhs/nl/meadows",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "L’Anse aux Meadows National Historic Site - UNESCO",
+          "url": "https://whc.unesco.org/en/list/4/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Vinland",
+          "url": "https://www.britannica.com/place/Vinland",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-032-raids-trade",
+        "vikings-silk-road-trade"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Vikings captures the ambition of exploration; archaeology restores the scale and fragility of what followed.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "viking",
+        "scandinavia",
+        "seafaring",
+        "vinland",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain light context for Vikings, but does not reveal the ending.",
+      "mediaChanged": "The series dramatizes Vinland as a great leap and a boundary of destiny. Archaeology shows that the Norse traces in North America were real but modest in scale.",
+      "whyItMatters": "Vinland keeps discovery history from having a single modern starting point and shows both the capacity and limits of medieval sea networks.",
+      "isFlagship": true,
+      "quickRealityCheck": "Norse sailors reached North America, so why did they not build a large and permanent colony there?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-037-shieldmaidens",
+      "title": "Shieldmaidens",
+      "subtitle": "Were warrior women saga memory, archaeology, or both?",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Middle Ages",
+      "region": "Scandinavia",
+      "themes": [
+        "Seafaring",
+        "War",
+        "Migration"
+      ],
+      "whatWeSee": "In Vikings, Lagertha and other women take the field with shields and weapons. The show normalizes the shieldmaiden as a recurring warrior figure, which can make female combat seem far more common than the evidence can safely prove.",
+      "realHistory": "The question of Viking Age warrior women cannot be answered with a single slogan. In Norse sagas and legendary material, the skjaldmaer, or shieldmaiden, appears as a powerful figure. But many of those texts were written centuries after the events they describe, so they cannot be treated as battlefield reports. They do, however, show that northern societies could imagine female courage, family honor, and war memory through striking female figures.\n\nThe archaeological side is narrower but important. The Birka Bj 581 grave in Sweden, long interpreted as a high-status male warrior burial because of weapons, horses, and gaming pieces, was later identified through genomic analysis as biologically female. That result changed the debate. It reminds us that weapon burials should not automatically be interpreted through modern expectations. At the same time, one grave or a few contested examples do not prove that women routinely fought in large Viking armies.\n\nA careful reading keeps several possibilities open. Women in Viking society could hold property, manage households, participate in trade, and sometimes exercise local authority. The warrior woman also had a strong place in cultural memory. Actual battlefield participation remains a more limited and debated question. Vikings turns saga memory into vivid screen presence; history asks us to read text, burial context, biology, and material culture together.",
+      "accuracyNote": "Mythic tradition and archaeology need to be kept distinct. The DNA evidence is important, but it does not make every saga image literal history.",
+      "whyInteresting": "The same grave can become both a cultural icon and a methodological debate about how historians read evidence.",
+      "misconception": "Viking women are sometimes imagined as fighting in large regular armies. The evidence is more limited and highly context-dependent.",
+      "nextTopics": [
+        "Longships",
+        "Raiding and Trade",
+        "Runic Writing"
+      ],
+      "sources": [
+        {
+          "title": "A female Viking warrior confirmed by genomics",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajpa.23308",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Viking Age — National Museum of Denmark",
+          "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Viking Women — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/Viking/Everyday-life",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "vikings-raid",
+        "tf26-032-raids-trade"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Connects Lagertha's arc in Vikings with shieldmaiden legends and the Birka grave debate.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "viking",
+        "scandinavia",
+        "seafaring",
+        "shieldmaidens",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain light context for Vikings, but does not reveal the ending.",
+      "mediaChanged": "The series makes shieldmaidens look like a regular warrior class. Historical evidence sits between strong literary memory, limited archaeological examples, and careful interpretation.",
+      "whyItMatters": "The shieldmaiden debate teaches the difference between popular representation and archaeological evidence.",
+      "isFlagship": false,
+      "quickRealityCheck": "Does a sword and gaming set in a grave prove a warrior identity by itself, or does the whole burial context matter?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-039-christianization",
+      "title": "Christianization",
+      "subtitle": "Baptism, kingship, and the slow conversion of the north",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Middle Ages",
+      "region": "Scandinavia",
+      "themes": [
+        "Seafaring",
+        "War",
+        "Migration"
+      ],
+      "whatWeSee": "In Vikings, conversion often appears as a personal crisis: monastery raids, baptism, marriage alliances, and court politics collide inside family stories. That makes religious change feel fast, emotional, and dramatic.",
+      "realHistory": "The Christianization of Scandinavia was not a clean change completed overnight by a single royal order. From the ninth to the twelfth centuries, missionary work, trade, marriage alliances, royal centralization, and local resistance all interacted. In some regions Christian burial customs spread while older practices remained visible; elsewhere kings pushed conversion more directly as part of a political program.\n\nThe Jelling Stone in Denmark is one of the strongest symbols of this process. Harald Bluetooth's inscription presents him as the ruler who made the Danes Christian, using religion not only as belief but also as royal legitimacy. The new faith offered access to written church institutions, bishops, diplomacy, law, and the prestige of Christian Europe. Conversion could therefore support state-building.\n\nNorway and Sweden followed more uneven paths. Kings such as Olaf Tryggvason and Olaf Haraldsson made Christianity part of political unification, while local leaders and communities preserved older practices for some time. Conversion changed burial, calendars, marriage law, naming, diplomacy, and ideas of kingship.\n\nVikings tells this through intimate conflict and character drama. That is effective, but the historical process was slower, more regional, and more negotiable. The old gods did not simply disappear, and Christianity did not arrive as a purely spiritual choice. For northern rulers, it was also a technique of statecraft and entry into an international system.",
+      "accuracyNote": "The central tension has a historical basis, but the chronology, character combinations, and speed of conversion are compressed for drama.",
+      "whyInteresting": "The same baptism could be read as sincere belief and as an instrument of royal policy.",
+      "misconception": "Scandinavian societies are often imagined as becoming Christian all at once after one king's decision.",
+      "nextTopics": [
+        "Longships",
+        "Raiding and Trade",
+        "Runic Writing"
+      ],
+      "sources": [
+        {
+          "title": "The Jelling Stone — National Museum of Denmark",
+          "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/the-monuments-at-jelling/the-jelling-stone/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Jelling and the New Faith — National Museum of Denmark",
+          "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/the-monuments-at-jelling/jelling-and-the-new-faith/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Scandinavia: Christianity — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/place/Scandinavia/Christianity",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-040-stamford-bridge",
+        "tf26-037-shieldmaidens",
+        "vikings-funeral-fadlan-real"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Connects the raid-and-baptism scenes in Vikings with the Jelling inscriptions and royal centralization.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "viking",
+        "scandinavia",
+        "seafaring",
+        "christianization",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain light context for Vikings, but does not reveal the ending.",
+      "mediaChanged": "The series speeds conversion into personal faith crisis and character drama. Historically, it was regional, generational, and tied to royal politics.",
+      "whyItMatters": "Christianization shows how a change of religion could also be a change in law, diplomacy, and state formation.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did a king's conversion mean every village immediately abandoned older rituals?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-040-stamford-bridge",
+      "title": "Stamford Bridge",
+      "subtitle": "A northern victory in 1066, followed by disaster in the south",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Middle Ages",
+      "region": "Scandinavia",
+      "themes": [
+        "Seafaring",
+        "War",
+        "Migration"
+      ],
+      "whatWeSee": "In Vikings, Stamford Bridge is framed as a battle of fate: Harald Hardrada's claim, the English counterstroke, and the sudden collapse of a northern invasion. The show treats it as one of the great turning points of 1066.",
+      "realHistory": "### Three claims in one year\n\nThe year 1066 was not only the year of Hastings. When Edward the Confessor died, Harold Godwinson took the English throne, but William of Normandy and the Norwegian king Harald Hardrada also had claims. Hardrada arrived from the north with Harold's exiled brother Tostig. England was therefore forced to face two major invasion threats in rapid succession.\n\n### From Fulford to Stamford Bridge\n\nHardrada and Tostig first defeated English forces at Fulford. Harold Godwinson then marched north and caught the Norwegian army at Stamford Bridge on 25 September 1066. The result was devastating for the invaders: both Hardrada and Tostig were killed, and the northern invasion collapsed. The battle is often described as the last great act of the Viking Age, though Scandinavian influence in Britain did not vanish after that day.\n\n### The cost of victory\n\nStamford Bridge was a major military success for Harold, but it did not bring strategic safety. Within days, news arrived that William had landed on the south coast. Traditional accounts emphasize Harold's rapid movement from north to south and the strain this placed on his forces. Some modern discussion has complicated the details of that movement, but the safe point remains clear: Harold had to redeploy across two fronts in an extremely compressed window.\n\n### The road to Hastings\n\nOn 14 October 1066, Harold was killed at Hastings and the Norman victory transformed England's political structure. Stamford Bridge therefore has a double meaning. It was a brilliant northern victory, but also the operational threshold before a southern crisis. The battle shows that in medieval warfare, victory could be undone by timing, distance, communication, and the next threat arriving too soon.\n\n### Why drama simplifies it\n\nDramatic retellings often turn Stamford Bridge into a single heroic end point. Historically, it was part of a sequence: succession dispute, invasion, forced march, victory, redeployment, and defeat. The real story is not only who fought best, but how quickly a kingdom could absorb one battle before being forced into the next. That is why Stamford Bridge is more than a famous ending to Viking expansion. It is a case study in operational exhaustion: one king had to answer different enemies, in different directions, under a succession crisis that left little room for recovery. The battle was won tactically, but the strategic calendar remained brutal. A medieval army could win the field and still lose the campaign if the next threat arrived before men, horses, supplies, and command structures could reset.",
+      "accuracyNote": "Hardrada's defeat and the battle's importance are historically secure. Operational details are often simplified in drama.",
+      "whyInteresting": "A victory in the north became, within weeks, the prelude to a new crisis in the south.",
+      "misconception": "Stamford Bridge is sometimes treated as if it secured England. In reality, the Norman landing quickly changed the entire situation.",
+      "nextTopics": [
+        "Longships",
+        "Raiding and Trade",
+        "Runic Writing"
+      ],
+      "sources": [
+        {
+          "title": "English Heritage Battlefield Report: Stamford Bridge 1066",
+          "url": "https://historicengland.org.uk/content/docs/listing/battlefields/stamford-bridge/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "8 Things You May Not Know About 1066 — English Heritage",
+          "url": "https://www.english-heritage.org.uk/learn/histories/1066-and-the-norman-conquest/8-facts-about-1066/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Battle of Hastings — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/event/Battle-of-Hastings",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "vikings-raid",
+        "tf26-032-raids-trade"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Reads the Stamford Bridge storyline in Vikings against the double-front military calendar of 1066.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "viking",
+        "scandinavia",
+        "seafaring",
+        "stamford-bridge",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain light context for Vikings, but does not reveal the ending.",
+      "mediaChanged": "Dramas often frame Stamford Bridge as a single battle of fate. Historically, succession claims, campaign timing, redeployment, and Hastings made the picture more complex.",
+      "whyItMatters": "1066 shows that military success alone was not enough; timing and logistics could decide the fate of a dynasty.",
+      "isFlagship": true,
+      "quickRealityCheck": "If Harold won in the north, why did he lose the throne at Hastings only weeks later?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-042-burhs",
+      "title": "Burh Defenses",
+      "subtitle": "How Alfred's fortified towns became a defensive network",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "era": "Middle Ages",
+      "region": "England",
+      "themes": [
+        "Kingdom",
+        "Identity",
+        "War"
+      ],
+      "whatWeSee": "In The Last Kingdom, walls, earthworks, evacuated villages, and siege scenes make fortified places feel like individual dramatic strongholds. Burhs often appear as single places where one crisis is decided.",
+      "realHistory": "In the second half of the ninth century, Viking attacks placed the Anglo-Saxon kingdoms under severe pressure. After Alfred's victory at Edington in 878, Wessex did not rely only on one battlefield success. Its defense was reorganized through a network of fortified settlements known as burhs.\n\nA burh was not simply a castle. It could function as a defensive point, a mustering place, a market, and an administrative center. The Burghal Hidage lists more than thirty fortified places and calculates the hides assigned to maintain them. The system was planned so that fortified points could support each other across the landscape rather than stand as isolated walls.\n\nWinchester, Wallingford, Oxford, and other later towns formed part of this wider defensive world. Some burhs reused Roman walls; others were newly laid out. Alfred's son Edward and his daughter Aethelflaed expanded the system as Wessex and Mercia pushed back against the Danelaw.\n\nThe Last Kingdom turns burh defense into personal war drama. Historically, the deeper importance lies in a kingdom thinking at map scale: labor, taxation, fortification, roads, and local response were tied together.",
+      "accuracyNote": "Alfred's burh system is historically grounded. Uhtred and many dramatic events are fictional, and the series compresses a network into specific siege moments.",
+      "whyInteresting": "A burh was not just a wall. It combined military defense, taxation, market life, and local administration.",
+      "misconception": "A burh is often mistaken for a simple fortress. It also worked as an administrative and economic center.",
+      "nextTopics": [
+        "Alfred's Reforms",
+        "The Rise of Wessex",
+        "Danish Settlements"
+      ],
+      "sources": [
+        {
+          "title": "Alfred the Great — English Heritage",
+          "url": "https://www.english-heritage.org.uk/learn/histories/alfred-the-great/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Burh — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/burh",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Burghal Hidage and the West Saxon burhs — Anglo-Saxon England",
+          "url": "https://www.cambridge.org/core/journals/anglo-saxon-england/article/burghal-hidage-and-the-west-saxon-burhs-a-reappraisal/A858C17C69609BE6AB1C570B00B1B7A0",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-044-danish-settlement",
+        "tf26-047-shield-wall"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Last Kingdom presents burh defense as personal conflict; this card explains Alfred's planned defensive network.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "anglo-saxon",
+        "england",
+        "middle-ages",
+        "burh-defenses",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain light context for The Last Kingdom, but does not reveal the ending.",
+      "mediaChanged": "The series often dramatizes a burh as a single siege or heroic moment. Historically, the system depended on linked fortified settlements and hide-based maintenance duties.",
+      "whyItMatters": "The burh network shows that Wessex answered Viking pressure with planned defensive infrastructure, not just battlefield courage.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did Alfred's defense depend on one strong fortress, or on a network of mutually supporting burhs?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Burh system checked against English Heritage, Britannica, and scholarship on the Burghal Hidage."
+    },
+    {
+      "id": "tf26-043-wessex",
+      "title": "The Rise of Wessex",
+      "subtitle": "How Wessex moved from defense network to the idea of an English kingdom",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "era": "Middle Ages",
+      "region": "England",
+      "themes": [
+        "Kingdom",
+        "Identity",
+        "War"
+      ],
+      "whatWeSee": "In The Last Kingdom, Wessex appears as a threatened but resilient center. Councils, border wars, fortress scenes, and royal decisions give the rise of Wessex a sharp dramatic rhythm.",
+      "realHistory": "The rise of Wessex in the ninth century was as much about institutional reform as military success. After 865, the Great Army destabilized Northumbria, Mercia, and East Anglia. Wessex survived by developing a new defensive model. Alfred's victory at Edington mattered, but the longer break came from the fortified burh network and the labor and tax calculations behind it.\n\nThe army was reorganized through rotation, local defense became more continuous, law codes were compiled, and written administration gained strength. After Alfred, Edward the Elder and Aethelflaed in Mercia pushed gradually into the Danelaw. Under Athelstan in the tenth century, a broader idea of an English kingdom came into clearer form.\n\nThis was not a simple story of one battle creating one nation. Forts, roads, taxation, written law, royal patronage, and local alliances had to work together before military power could last. Monastic writing networks also helped carry orders, memories, and legitimacy across the kingdom.\n\nThe Last Kingdom tells this through personal loyalty and battlefield drama. The historical rise of Wessex is slower but more revealing: it shows early state-building as a matter of records, logistics, defense planning, and repeated campaigns across generations.",
+      "accuracyNote": "The series captures the mood of the period but compresses the timeline. Institutional change moved more slowly than screen drama suggests.",
+      "whyInteresting": "Tax calculations, written records, and fort planning can change history as much as spectacular battles.",
+      "misconception": "Wessex is often imagined as unifying England through one decisive battle. In reality, it was the result of successive reforms and campaigns.",
+      "nextTopics": [
+        "Alfred's Reforms",
+        "Burh Defenses",
+        "Danish Settlements"
+      ],
+      "sources": [
+        {
+          "title": "Alfred the Great — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/Alfred-the-Great",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Defence of Wessex: The Burghal Hidage and Anglo-Saxon Fortifications",
+          "url": "https://books.google.com/books/about/The_Defence_of_Wessex.html?id=u5W9AAAAIAAJ",
+          "type": "book",
+          "verified": true
+        },
+        {
+          "title": "Anglo-Saxon Kingdoms: Art, Word, War — British Museum",
+          "url": "https://www.britishmuseum.org/exhibitions/anglo-saxon-kingdoms-art-word-war",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-044-danish-settlement",
+        "tf26-045-law-codes",
+        "tf26-046-monasteries"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Wessex storyline in The Last Kingdom makes more sense beside the evidence of the Burghal Hidage and Anglo-Saxon administration.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "anglo-saxon",
+        "england",
+        "middle-ages",
+        "rise-of-wessex",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain light context for The Last Kingdom, but does not reveal the ending.",
+      "mediaChanged": "The series often ties Wessex's rise to decisions by a few leaders. Historically, military success, burhs, records, law, and generational campaigning worked together.",
+      "whyItMatters": "Wessex shows that early state formation depended on infrastructure and record-keeping as much as heroic leadership.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was Edington enough by itself, or did Wessex become durable because of its defense and record systems?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-044-danish-settlement",
+      "title": "Danish Settlements",
+      "subtitle": "The Danelaw as settlement, law, and cultural contact",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "era": "Middle Ages",
+      "region": "England",
+      "themes": [
+        "Kingdom",
+        "Identity",
+        "War"
+      ],
+      "whatWeSee": "The Last Kingdom presents Danish expansion in England through warfare, oath politics, and contested identities. Battles, shifting loyalties, and fortress seizures dominate, so the Danelaw can feel like a military frontier before it feels like a lived society.",
+      "realHistory": "### From invasion to settlement\n\nThe Last Kingdom naturally frames Danish expansion through war, oaths, and the taking of strongholds. That tension has a real historical basis. In the ninth century, the Great Army seriously disrupted Anglo-Saxon kingdoms. Yet the Danelaw was not only a line of military occupation. In eastern and northern England, Scandinavian groups settled, farmed, traded, married, and altered local legal and social patterns.\n\n### Language and place names\n\nThe durability of the Danelaw is still visible in place names. Endings such as -by, -thorpe, and -toft point to Scandinavian settlement rather than short-term raiding camps. York, or Jorvik, grew as a trading and craft center. These settlements put Danish and Anglo-Saxon communities into regular contact, where boundaries were shaped by markets, marriage, and local agreements as much as by armies.\n\n### Law and local government\n\nIn Danelaw regions, terms such as wapentake and distinct legal practices appeared. When the kings of Wessex reconquered or absorbed these areas, they did not erase every local habit. Some Scandinavian and Anglo-Saxon practices blended into a mixed order. The Danelaw was therefore not simply where Vikings held land; it became a contact zone that left marks on English law and local administration.\n\n### The slow process drama compresses\n\nThe series gives the identity conflict real force, but daily accommodation and institutional blending receive less screen time. Historically, the crucial point is that a process begun through violence continued through settlement and adaptation. People lived, traded, named places, settled disputes, and raised families inside a mixed political landscape.\n\n### Why it matters\n\nDanish settlement complicates the clean story of Saxon versus Dane. It shows that conquest did not always produce total replacement. Sometimes it created a new order through negotiation, mixed practice, and local compromise. That slower history is less dramatic than a battle, but more durable. It also reminds us that settlement history is often written in quiet evidence: a court term, a market town, a farm name, a burial custom, a family alliance. These traces do not have the force of a shield wall on screen, yet they show how people actually lived after the fighting. Danish settlement was therefore not a frozen aftermath of conquest. It was an ongoing process in which identity, law, and land were renegotiated generation after generation. The result is a form of history that is easy to miss if we only count battles. A conquered district could become a shared legal world, and a raiding army could leave behind farmers, traders, and families whose choices outlasted the original commanders.",
+      "accuracyNote": "Power struggles were real, but daily coexistence and legal borrowing are less visible on screen than they were in the long historical process.",
+      "whyInteresting": "A small suffix in a modern place name can preserve evidence of Viking Age settlement and cultural mixing.",
+      "misconception": "The Danelaw is often imagined as a temporary occupation zone. Its impact on law, language, and local government lasted much longer.",
+      "nextTopics": [
+        "Alfred's Reforms",
+        "Burh Defenses",
+        "The Rise of Wessex"
+      ],
+      "sources": [
+        {
+          "title": "Danelaw — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/place/Danelaw",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Viking Place Names — JORVIK Viking Centre",
+          "url": "https://www.jorvikvikingcentre.co.uk/the-vikings/viking-place-names/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Vikings in Britain — The British Museum",
+          "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/vikings",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-042-burhs",
+        "tf26-047-shield-wall"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Last Kingdom captures the emotional conflict; the records show a slower structural integration beneath the violence.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "anglo-saxon",
+        "england",
+        "middle-ages",
+        "danish-settlements",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain light context for The Last Kingdom, but does not reveal the ending.",
+      "mediaChanged": "The series often presents the Danelaw as military control and divided loyalties. Historically, law, market life, settlement, and place names left the deeper marks.",
+      "whyItMatters": "Danish settlements show how conquest and coexistence could produce a mixed local order in the same landscape.",
+      "isFlagship": true,
+      "quickRealityCheck": "Was the Danelaw only land held by Danish warriors, or did law and settlement patterns also change?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-045-law-codes",
+      "title": "Law Codes",
+      "subtitle": "Alfred's laws were not just penalty lists. They were a language of rule.",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "era": "Middle Ages",
+      "region": "England",
+      "themes": [
+        "Kingdom",
+        "Identity",
+        "War"
+      ],
+      "whatWeSee": "In The Last Kingdom, law often appears through oaths, punishments, councils, and royal will. Written texts sit behind the drama while loyalty and betrayal take the foreground.",
+      "realHistory": "In Anglo-Saxon England, law codes were not only momentary royal commands. They compiled regional practices, clarified penalties, and helped kings speak across different communities. From Kentish traditions through Wessex and Mercia, written law gave shape to compensation, oath-taking, theft, homicide, status, and public order.\n\nThe aim was not modern equality. Early medieval law assumed different ranks and different values for different people. But by setting procedures and payments in writing, kings could make conflict more manageable and bring local practice into a broader political language. In regions influenced by the Danelaw, legal variation remained, which shows that law was not completely uniform.\n\nMonastic writing culture helped preserve and copy these texts. That linked religious institutions to royal administration in practical ways. Shire and hundred courts then turned law into local practice, bridging central authority and community negotiation.\n\nThe Last Kingdom is right to show law as a matter of power, but the deeper point is that power had to be written down, repeated, and administered. Authority won by the sword became more durable when it could define obligations, penalties, and procedure.",
+      "accuracyNote": "The political tension is fair, but the written legal and administrative continuity is less visible because of the pace of drama.",
+      "whyInteresting": "Authority won in war became more durable when it was translated into written procedure.",
+      "misconception": "Law in early medieval England is often imagined as purely oral and arbitrary. Written codes and local courts mattered.",
+      "nextTopics": [
+        "Alfred's Reforms",
+        "Burh Defenses",
+        "The Rise of Wessex"
+      ],
+      "sources": [
+        {
+          "title": "The Laws of Alfred: The Domboc and the Making of Anglo-Saxon Law — Cambridge University Press",
+          "url": "https://assets.cambridge.org/97811087/44379/frontmatter/9781108744379_frontmatter.pdf",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Laws of Alfred — Fordham Medieval Sourcebook",
+          "url": "https://sourcebooks.fordham.edu/source/890alfred-lawscode.asp",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Anglo-Saxon law — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/Anglo-Saxon-law",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-046-monasteries",
+        "tf26-047-shield-wall",
+        "tf26-048-names-identity"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The throne struggles in The Last Kingdom become clearer when read alongside the centralizing role of Anglo-Saxon law codes.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "anglo-saxon",
+        "england",
+        "middle-ages",
+        "law-codes",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain light context for The Last Kingdom, but does not reveal the ending.",
+      "mediaChanged": "The series makes law feel like oath and loyalty drama. Historically, written codes helped define tax, status, compensation, and local peace.",
+      "whyItMatters": "Anglo-Saxon law codes show that a kingdom was governed through records and procedures, not only through force.",
+      "isFlagship": false,
+      "quickRealityCheck": "Were Alfred's law codes merely crime-and-punishment lists, or tools for tying different regions into a common order?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-046-monasteries",
+      "title": "The Monastic World",
+      "subtitle": "Monasteries as prayer houses, archives, and land centers",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "era": "Middle Ages",
+      "region": "England",
+      "themes": [
+        "Kingdom",
+        "Identity",
+        "War"
+      ],
+      "whatWeSee": "In The Last Kingdom, monasteries appear as writing rooms, stores of treasure, and tense spaces between Christian and pagan worlds. They can be places of learning, bargaining, hostage-taking, or sudden violence.",
+      "realHistory": "The Last Kingdom often shows monasteries as candlelit scriptoria, hidden treasure houses, and vulnerable targets. That atmosphere is not invented. Viking raids did strike coastal monasteries, and Lindisfarne became the most famous shock point because such places held portable wealth, books, sacred objects, and people who could be taken captive.\n\nBut an Anglo-Saxon monastery was not only a treasure store waiting to be looted. Monasteries were among the key institutions for writing, education, land management, and royal memory. In scriptoria, monks copied religious texts, but also charters, legal materials, annals, and records of gifts. Writers such as Bede show how monastic learning shaped historical memory.\n\nTheir economic role was just as important. Monastic lands depended on tenant labor, rents, produce, and local obligations. A king's gift to a monastery was not merely private piety. It could create an alliance, secure prayer for a dynasty, and tie land to written record. A monastery was therefore both a sacred space and a node of administration.\n\nRaids damaged this world but did not erase it. Some communities moved inland, some were rebuilt, and later reforms strengthened discipline and property management. The series uses monasteries as dramatic settings; historically, they were closer to data centers of the early kingdom: places where memory, law, land, and legitimacy were stored.",
+      "accuracyNote": "Monastic wealth and Viking raids are well documented. The specific dramatic characters are fictionalized.",
+      "whyInteresting": "A sacred space could also be an archive, an estate office, and a political memory machine.",
+      "misconception": "Monasteries are often imagined as only quiet places of prayer. They were also part of landholding, record-keeping, and royal politics.",
+      "nextTopics": [
+        "Alfred's Reforms",
+        "Burh Defenses",
+        "The Rise of Wessex"
+      ],
+      "sources": [
+        {
+          "title": "The Viking Raid on Lindisfarne — English Heritage",
+          "url": "https://www.english-heritage.org.uk/visit/places/lindisfarne-priory/History/viking-raid/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Bede — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/Bede",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Christianity: The Anglo-Saxons — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/Christianity/The-Anglo-Saxons",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-047-shield-wall",
+        "tf26-048-names-identity",
+        "tf26-049-norman-conquest"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Connects monastic scenes in The Last Kingdom with Anglo-Saxon scriptoria and Viking raids.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "anglo-saxon",
+        "england",
+        "middle-ages",
+        "monastic-world",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain light context for The Last Kingdom, but does not reveal the ending.",
+      "mediaChanged": "The series often shows monasteries through raids, hidden treasure, and personal faith conflict. Historically, they also shaped writing, land management, education, and royal memory.",
+      "whyItMatters": "The monastic world shows that knowledge production and political power were not separate in the Middle Ages.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did Vikings target monasteries only because of religious hostility, or also because those places held portable wealth and record power?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-047-shield-wall",
+      "title": "The Shield Wall",
+      "subtitle": "Not just courage, but the art of holding the line",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "era": "Middle Ages",
+      "region": "England",
+      "themes": [
+        "Kingdom",
+        "Identity",
+        "War"
+      ],
+      "whatWeSee": "In The Last Kingdom, Anglo-Saxon and Danish fighters often close ranks behind shield walls. The locked shields, compressed front, and panic when the line breaks become one of the show's defining battle images.",
+      "realHistory": "The shield wall was one of the best-known infantry formations of early medieval northern Europe. Warriors placed shields close together, held the front tight, and tried to absorb spears, axes, and pressure through a shared barrier. The formation's strength did not come from isolated heroics. It came from the line not opening. A few men stepping back in panic could expose the whole front and begin a collapse that was hard to reverse.\n\nAnglo-Saxon and Scandinavian war cultures were not completely separate worlds in this respect. Equipment, experience, and rank varied, but the battlefield problem was similar: hold the line, keep contact with the standard or commander, and avoid giving space when exhaustion started. The Last Kingdom captures this well. A shield wall is a physical barrier, but also a psychological test.\n\nThe formation was not invincible. At Hastings, accounts describe the English holding a defensive position while Norman archers, infantry, cavalry, and feigned withdrawals wore them down. Terrain, discipline, command, and fatigue mattered. Without them, the wall could become a trap.\n\nDrama often resolves the shield wall with one bold charge. Historically, the lesson is more collective: early medieval battle depended on trust, spacing, equipment, and patience. The brave individual who stepped out of line might look heroic, but could also weaken everyone behind him.",
+      "accuracyNote": "The shield wall tactic fits chronicle traditions, but the series compresses battles for dramatic clarity.",
+      "whyInteresting": "The shield wall shows that courage worked only when it was tied to trust in the person beside you.",
+      "misconception": "Vikings and Anglo-Saxon fighters are often imagined as purely individual warriors. Formation discipline mattered.",
+      "nextTopics": [
+        "Alfred's Reforms",
+        "Burh Defenses",
+        "The Rise of Wessex"
+      ],
+      "sources": [
+        {
+          "title": "Battle of Hastings (Britannica)",
+          "url": "https://www.britannica.com/event/Battle-of-Hastings",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Battle of Hastings: feigned retreat (English Heritage)",
+          "url": "https://www.english-heritage.org.uk/members-area/members-magazine/october-2018-get-ready-for-the-battle-of-hastings/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Weapons and warfare of the Vikings (Britannica)",
+          "url": "https://www.britannica.com/topic/Viking/Weapons-and-warfare",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-042-burhs",
+        "tf26-048-names-identity"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Last Kingdom's battle scenes become richer when the shield wall is read as collective discipline rather than individual heroism.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "anglo-saxon",
+        "england",
+        "middle-ages",
+        "shield-wall",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain light context for The Last Kingdom, but does not reveal the ending.",
+      "mediaChanged": "The series turns shield walls into dramatic breaking points. Historically, they depended on training, trust, fatigue, equipment, and terrain.",
+      "whyItMatters": "The shield wall makes early medieval warfare less about lone champions and more about collective endurance.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was a shield wall won by the bravest man stepping forward, or by the line staying closed?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-048-names-identity",
+      "title": "Names and Identity",
+      "subtitle": "On the frontier, names recorded belonging more clearly than flags did",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "era": "Middle Ages",
+      "region": "England",
+      "themes": [
+        "Kingdom",
+        "Identity",
+        "War"
+      ],
+      "whatWeSee": "The Last Kingdom turns names into identity signals: Saxon, Dane, Christian, pagan, oath-bound, or outcast. Uhtred himself lives between names, loyalties, and inherited claims, which makes naming feel like a battlefield of identity.",
+      "realHistory": "### Names as social evidence\n\nIn the borderlands of Anglo-Saxon and Scandinavian England, names were more than labels. They could carry language, kinship, status, religion, and local affiliation. Personal names, place names, and bynames help historians trace how communities mixed after conflict. A person with a Scandinavian name could live under an English king; an English household might adopt Norse naming habits; a place name could preserve settlement history long after political control changed.\n\n### The Danelaw in language\n\nThe Danelaw is especially visible in place names. Endings such as -by, -thorpe, and -toft show the depth of Scandinavian settlement in parts of England. These names do not prove that every inhabitant was Scandinavian, but they do show that language and local administration changed. A village name can therefore become evidence for a long process of settlement, farming, landholding, and legal contact.\n\n### Christian names and political belonging\n\nConversion added another layer. Christian names, saints' names, baptismal identity, and church records gradually reshaped how people were recorded. That did not erase older identities immediately. For generations, Norse, Old English, and Christian naming systems could overlap. The result was not a clean switch from one culture to another, but a mixed frontier society where naming choices could signal alliance, inheritance, and aspiration.\n\n### Why this matters in The Last Kingdom\n\nThe Last Kingdom dramatizes identity through personal loyalty: who raised you, whom you serve, which god you invoke, and which name others choose to use for you. Historically, that intuition is strong. In a world without modern passports, names, land claims, witness lists, charters, and local memory recorded who belonged where.\n\n### The danger of oversimplifying\n\nA name is not a perfect ethnic label. It can be inherited, borrowed, translated, or adopted for advantage. That is why historians read names beside archaeology, law, settlement patterns, and written records. The strongest conclusion is not that names reveal pure identities, but that they reveal contact. In a frontier society, identity was not fixed once and for all. It was negotiated through family, faith, land, and language. This is why the subject is so useful for screen stories. A changed name can feel intimate, but it can also point to larger forces: baptism, inheritance, royal service, marriage, migration, or the need to survive under a new lord. In that sense, names are small documents. They do not tell the whole truth alone, but they preserve the places where political history entered the household.",
+      "accuracyNote": "The series captures the emotional force of names, but real naming evidence must be read carefully and not treated as a simple ethnic label.",
+      "whyInteresting": "A single village suffix can sometimes reveal more about long settlement than a dramatic battle scene.",
+      "misconception": "Names are often treated as clear proof of ethnicity. In reality, they can show contact, borrowing, aspiration, and mixed identity.",
+      "nextTopics": [
+        "Alfred's Reforms",
+        "Burh Defenses",
+        "The Rise of Wessex"
+      ],
+      "sources": [
+        {
+          "title": "Prosopography of Anglo-Saxon England (PASE)",
+          "url": "https://pase.ac.uk/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Danelaw (Britannica)",
+          "url": "https://www.britannica.com/place/Danelaw",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Viking place names (JORVIK Viking Centre)",
+          "url": "https://www.jorvikvikingcentre.co.uk/the-vikings/viking-place-names/",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-044-danish-settlement"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "The Last Kingdom's identity conflicts become richer when names, place names, and charters are read as historical evidence.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "anglo-saxon",
+        "england",
+        "middle-ages",
+        "names-identity",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain light context for The Last Kingdom, but does not reveal the ending.",
+      "mediaChanged": "The series makes names feel like personal destiny. Historically, names also worked as evidence of settlement, law, religion, and cultural mixing.",
+      "whyItMatters": "Names show how identity in early medieval England was produced through language, land, faith, and political belonging.",
+      "isFlagship": true,
+      "quickRealityCheck": "Does a Scandinavian name always prove a fixed ethnic identity, or can it also show cultural contact and adaptation?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-049-norman-conquest",
+      "title": "The Norman Conquest",
+      "subtitle": "1066 was not just one battle, but a recorded revolution in rule",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "era": "Middle Ages",
+      "region": "England",
+      "themes": [
+        "Kingdom",
+        "Identity",
+        "War"
+      ],
+      "whatWeSee": "The Last Kingdom ends before the Norman Conquest, but its world leads toward 1066: contested kingship, oath politics, shifting elites, and the vulnerability of a kingdom forced to fight on multiple fronts.",
+      "realHistory": "The Norman Conquest is often reduced to the Battle of Hastings, but the deeper transformation came after the battle. William of Normandy's victory in 1066 removed the English king and opened the way for a new ruling elite. Castles rose across the landscape, Norman lords received lands, and older aristocratic networks were broken or subordinated.\n\nControl was not secured in one day. Rebellions, northern resistance, confiscations, and military campaigns followed. The new regime had to make conquest legible: who held land, what it was worth, who owed service, and how royal power could extract resources. The Domesday survey of 1086 became one of the clearest signs of this new administrative order.\n\nThe conquest also changed language and culture. French-speaking elites, Latin record culture, Norman military architecture, and English local traditions met uneasily. This was not the complete disappearance of Anglo-Saxon England, but it did radically reshape landholding, aristocracy, administration, and the relationship between crown and countryside.\n\nThe Last Kingdom's earlier conflicts help explain why 1066 mattered. A kingdom built through war, law, and identity was suddenly placed under a new ruling class that recorded, fortified, and redistributed power.",
+      "accuracyNote": "The conquest began with Hastings but unfolded through military occupation, land redistribution, castle building, and administrative survey.",
+      "whyInteresting": "The Domesday Book turned conquest into a measurable and taxable map of power.",
+      "misconception": "The Norman Conquest is often treated as a single battle. Its real impact came through land, records, castles, and a new elite.",
+      "nextTopics": [
+        "Alfred's Reforms",
+        "Burh Defenses",
+        "The Rise of Wessex"
+      ],
+      "sources": [
+        {
+          "title": "Norman Conquest (Britannica)",
+          "url": "https://www.britannica.com/event/Norman-Conquest",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Domesday Book (The National Archives)",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/domesday-book/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Battle of Hastings (English Heritage)",
+          "url": "https://www.english-heritage.org.uk/visit/places/1066-battle-of-hastings-abbey-and-battlefield/history-and-stories/what-happened-battle-hastings/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-050-bayeux-tapestry",
+        "tf26-047-shield-wall",
+        "tf26-048-names-identity"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Last Kingdom's world of oaths and kingdom-building sets up the political fragility that 1066 would transform.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "anglo-saxon",
+        "england",
+        "middle-ages",
+        "norman-conquest",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain light context for The Last Kingdom, but does not reveal the ending.",
+      "mediaChanged": "The series focuses on the Anglo-Saxon and Danish world before 1066. Historically, the Norman Conquest reshaped that world through records, castles, and land redistribution.",
+      "whyItMatters": "The Norman Conquest shows how military victory becomes permanent when it is followed by administration, architecture, and property control.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did 1066 end with Hastings, or did conquest become real through land surveys and castle building?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-050-bayeux-tapestry",
+      "title": "The Bayeux Tapestry",
+      "subtitle": "An embroidered conquest story and Norman legitimacy",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "era": "Middle Ages",
+      "region": "England",
+      "themes": [
+        "Kingdom",
+        "Identity",
+        "War"
+      ],
+      "whatWeSee": "The Bayeux Tapestry does not belong directly to The Last Kingdom's main timeline, but it visualizes the world that followed: oath, betrayal, invasion, battle, and the need to justify conquest.",
+      "realHistory": "The Bayeux Tapestry is not a neutral documentary of 1066. It is an embroidered narrative that presents the Norman claim to England in visual form. Its scenes show Harold's oath, William's preparations, the crossing of the Channel, and the Battle of Hastings. The details are invaluable, but the point of view is politically charged.\n\nThe work uses images to argue. Harold's oath matters because Norman legitimacy depended on presenting him as a man who broke a binding promise. William's invasion can then be framed not merely as ambition, but as justice. That does not make the tapestry worthless as evidence; it makes it a source that must be read as both information and persuasion.\n\nThe tapestry also preserves details of ships, armor, horses, feasting, messengers, and battlefield movement. Historians use it carefully, comparing it with written sources and archaeology. Its value lies in the mixture: it is art, propaganda, memory, and material evidence at the same time.\n\nFor True Frame, the Bayeux Tapestry is a reminder that medieval media could already do what film and games do now: turn political violence into a story with heroes, villains, symbols, and a claim to legitimacy.",
+      "accuracyNote": "The tapestry is a major source for 1066, but it reflects a Norman-friendly narrative and must be read critically.",
+      "whyInteresting": "It is one of the clearest medieval examples of visual storytelling being used to justify political power.",
+      "misconception": "The Bayeux Tapestry is often treated as a simple visual record. It is also an argument about who deserved the throne.",
+      "nextTopics": [
+        "Alfred's Reforms",
+        "Burh Defenses",
+        "The Rise of Wessex"
+      ],
+      "sources": [
+        {
+          "title": "The Bayeux Tapestry: official museum overview",
+          "url": "https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/discover-the-bayeux-tapestry/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "What is the Bayeux Tapestry about? (Bayeux Museum)",
+          "url": "https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/discover-the-bayeux-tapestry/what-is-the-bayeux-tapestry-about/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "1066 (The National Archives)",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/1066/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-048-names-identity",
+        "tf26-049-norman-conquest"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The political memory of conquest in the tapestry echoes the oath and legitimacy themes that drive The Last Kingdom.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "anglo-saxon",
+        "england",
+        "middle-ages",
+        "bayeux-tapestry",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain light context for The Last Kingdom, but does not reveal the ending.",
+      "mediaChanged": "Screen stories often show conquest as action. The tapestry shows how conquest was also narrated, justified, and made memorable.",
+      "whyItMatters": "The Bayeux Tapestry shows that media has long shaped how people remember power, betrayal, and victory.",
+      "isFlagship": false,
+      "quickRealityCheck": "Is the Bayeux Tapestry a record of 1066, or a Norman argument about why conquest was justified?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-052-kamikaze",
+      "title": "The Kamikaze Wind",
+      "subtitle": "Divine wind, storm timing, and the memory of invasion",
+      "mediaType": "game",
+      "mediaTitle": "Ghost of Tsushima",
+      "era": "Middle Ages",
+      "region": "Japan",
+      "themes": [
+        "Samurai",
+        "Invasion",
+        "War"
+      ],
+      "whatWeSee": "Ghost of Tsushima makes weather, landscape, and island resistance feel inseparable. The memory of the divine wind hovers over the Mongol invasions, even when the game focuses on the human struggle on Tsushima itself.",
+      "realHistory": "### The invasions behind the legend\n\nThe term kamikaze, or divine wind, comes from the storms remembered as helping to destroy the Mongol-led invasion fleets of 1274 and especially 1281. Kublai Khan's Yuan Empire sent major expeditions toward Japan, drawing on ships and forces from China and Korea. Tsushima and Iki were hit first, and Kyushu became the main defensive front.\n\n### Storms were real, but not the whole story\n\nThe storms mattered. In 1281, a major typhoon damaged the invasion fleet and became central to Japanese memory. But it is too simple to say that Japan was saved only by a miracle. Japanese coastal defenses, stone walls near Hakata, raids against ships, logistical strain, the difficulty of keeping large fleets supplied offshore, and the timing of weather all contributed. The Mongol Empire was a terrifying land power, but overseas invasion placed it inside a different problem: ships, coastlines, supplies, and storms.\n\n### Memory and politics\n\nThe idea of a divine wind gave the event a powerful religious and political meaning. Shrines, prayers, and later national memory could frame the invasions as moments when Japan's land was protected by heavenly force. That memory did not remain unchanged. It was reinterpreted in later periods, especially when ideas of national protection and sacrifice became politically useful.\n\n### Ghost of Tsushima's focus\n\nGhost of Tsushima rightly centers the human cost of the first invasion on the island. But the larger historical outcome was not decided by one hero or by weather alone. It emerged from island defense, fleet vulnerability, logistics, and storm timing. Kamikaze is therefore both a meteorological event and a memory system.\n\n### Why it matters\n\nThe story shows how natural events can be turned into national myth. A storm can destroy ships, but memory can transform that storm into proof of divine protection. True Frame's question is not whether the wind happened. It is how weather became history, and history became identity. The later power of the word kamikaze also shows how historical memory can change under new pressures. A medieval story of protection could become, in later centuries, part of a much broader language of national destiny and sacrifice. That later history should not be projected backward unchanged, but it helps explain why the storms remained so potent. They were remembered not only because ships sank, but because the sinking could be made to mean that the land itself was protected by forces beyond ordinary strategy.",
+      "accuracyNote": "The storms are historically central, but the invasions should not be reduced to miracle alone. Defense, logistics, fleet conditions, and timing all mattered.",
+      "whyInteresting": "The same storm can be a weather event, a military turning point, and a religious-political memory.",
+      "misconception": "The Mongol invasions are often explained as if divine storms alone saved Japan. The reality combined weather, coastal defense, logistics, and fleet vulnerability.",
+      "nextTopics": [
+        "Mongol Invasion",
+        "Kamikaze Wind",
+        "Samurai Code"
+      ],
+      "sources": [
+        {
+          "title": "Mongol invasions of Japan (Britannica)",
+          "url": "https://www.britannica.com/event/Mongol-invasions-of-Japan",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Feature Exhibition: Tracing the Mongolian Invasion (Kyushu National Museum)",
+          "url": "https://www.kyuhaku.jp/en/exhibition/exhibition_pre192.html",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Scrolls of the Mongol Invasions of Japan (Princeton)",
+          "url": "https://digital.princeton.edu/mongol-invasions/",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "ghost-tsushima-invasion",
+        "tf26-056-island-defense"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "major",
+      "mediaConnection": "Ghost of Tsushima focuses on island resistance; this card places that story beside the later memory of the divine wind.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ghost-of-tsushima",
+        "japan",
+        "samurai",
+        "kamikaze",
+        "mongol-invasion",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain light context for Ghost of Tsushima, but does not reveal the ending.",
+      "mediaChanged": "The game emphasizes the human struggle on Tsushima. Historically, the wider invasions also turned on naval logistics, Kyushu defenses, and typhoon timing.",
+      "whyItMatters": "Kamikaze shows how environmental events can become political and religious memory.",
+      "isFlagship": true,
+      "quickRealityCheck": "Was Japan saved only by divine wind, or by a mix of storms, defense, logistics, and Mongol naval limits?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-055-archery",
+      "title": "Mounted Archery",
+      "subtitle": "Mounted archery was battlefield discipline as much as ritual skill",
+      "mediaType": "game",
+      "mediaTitle": "Ghost of Tsushima",
+      "era": "Middle Ages",
+      "region": "Japan",
+      "themes": [
+        "Samurai",
+        "Invasion",
+        "War"
+      ],
+      "whatWeSee": "Ghost of Tsushima focuses on swordplay, stealth, and personal duels. That is powerful game design, but it can push older samurai skills such as mounted archery into the background.",
+      "realHistory": "In the Kamakura period, the samurai warrior was not defined by the katana alone. Mounted archery was a central elite skill, combining horsemanship, timing, balance, and bow control. The bow was not simply a hunting tool or ceremonial object. It belonged to a martial culture in which reputation, service, and reward were tied to performance in war.\n\nPractices later remembered through yabusame preserve a ritualized form of this skill, but battlefield archery was harsher and less elegant. Riders had to move, read terrain, coordinate with allies, and shoot under pressure. Against Mongol-led forces, Japanese warriors encountered different patterns of massed movement, missile fire, drums, explosives, and discipline. That did not make their older skills useless, but it forced adaptation.\n\nThe game gives the sword a cinematic center. Historically, the bow and horse were fundamental to earlier samurai identity. Sword culture became more symbolically dominant over time, especially in later memory. To understand 1274, mounted archery has to be restored to the picture.",
+      "accuracyNote": "The game naturally centers swordplay and stealth. For the thirteenth century, mounted archery and tachi-era warrior culture need stronger emphasis.",
+      "whyInteresting": "A samurai's prestige once depended as much on control of horse and bow as on sword skill.",
+      "misconception": "The samurai is often imagined first as a katana swordsman. Earlier warrior identity was deeply tied to the bow and horse.",
+      "nextTopics": [
+        "Mongol Invasion",
+        "Kamikaze Wind",
+        "Samurai Code"
+      ],
+      "sources": [
+        {
+          "title": "Samurai (Britannica)",
+          "url": "https://www.britannica.com/topic/samurai",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Mongol invasions of Japan (Britannica)",
+          "url": "https://www.britannica.com/event/Mongol-invasions-of-Japan",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Yabusame (Britannica)",
+          "url": "https://www.britannica.com/sports/yabusame",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-056-island-defense",
+        "ghost-samurai-reality",
+        "tf26-058-peasants-war"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Ghost of Tsushima's combat fantasy is balanced here with the older martial importance of mounted archery.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ghost-of-tsushima",
+        "japan",
+        "samurai",
+        "mounted-archery",
+        "mongol-invasion",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain light context for Ghost of Tsushima, but does not reveal the ending.",
+      "mediaChanged": "The game centers the sword and stealth for strong play. Historically, mounted archery remained crucial to Kamakura warrior culture.",
+      "whyItMatters": "Mounted archery shows that samurai identity changed over time and should not be reduced to one weapon or one later code.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was the thirteenth-century samurai mainly a katana duelist, or an elite horse-and-bow warrior?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-056-island-defense",
+      "title": "Island Defense",
+      "subtitle": "Tsushima's defense was an island, village, and fortress chain",
+      "mediaType": "game",
+      "mediaTitle": "Ghost of Tsushima",
+      "era": "Middle Ages",
+      "region": "Japan",
+      "themes": [
+        "Samurai",
+        "Invasion",
+        "War"
+      ],
+      "whatWeSee": "Ghost of Tsushima turns the island into a living battlefield: villages burn, roads become dangerous, forts change hands, and local people carry the invasion's cost. The game makes defense feel personal and local rather than only imperial.",
+      "realHistory": "### Tsushima as the first threshold\n\nTsushima mattered because it sat between Korea and the Japanese main islands. In 1274, the Mongol-led Yuan expedition struck the island early, before the main fighting around Kyushu. Local defenders faced a force shaped by overseas logistics, Korean and Chinese shipbuilding, and Mongol imperial command. The island was not a decorative opening scene; it was the first threshold of the invasion.\n\n### Defense beyond the samurai elite\n\nThe defense of an island was not only a matter of elite warriors. Villages, storage sites, boats, roads, shrines, and local guides all formed part of the war environment. When invasion hit, farmers, fishermen, religious communities, and local officials were pulled into the crisis. Food, shelter, information, and transport became military resources. Ghost of Tsushima captures this well by making the island's civilian world central to the player's movement.\n\n### Forts, terrain, and communication\n\nIsland defense depended on knowing terrain. Harbors, passes, watch points, and fortified sites mattered because an invader arriving by sea had to secure landing areas and movement routes. Defenders could not treat every village as equally defensible, so choices had to be made. Local communication, messenger movement, and the ability to gather surviving forces became as important as any single duel.\n\n### The limits of heroic focus\n\nThe game understandably turns this into Jin's personal resistance story. Historically, the island was part of a wider chain: Tsushima, Iki, and then Kyushu's defenses. The main Japanese defensive build-up after the first invasion included stone walls and coastal preparation near Hakata. Tsushima's suffering was real, but the outcome of the invasions depended on a broader island-and-coast system.\n\n### Why it matters\n\nIsland defense shows that geography is not a backdrop. Distance, sea lanes, food supply, local knowledge, and landing points shape what armies can do. Tsushima's story is powerful because it turns a strategic map into lived human cost. It also reminds us that invasion routes are never abstract to the people living along them. A harbor is a landing point to a commander, but a working coast to fishermen. A pass is a tactical route to soldiers, but a path between villages to locals. The best historical reading of island defense keeps both scales visible: the map of empire and the map of daily life. That balance is also what the game uses so well: the player moves through strategic space as if it were personal memory, not a flat campaign diagram.",
+      "accuracyNote": "The game gives Tsushima strong emotional focus. Historically, the island was one part of a wider invasion route and coastal defense system.",
+      "whyInteresting": "An island can be both a home and a military buffer zone, which makes invasion a civilian crisis as much as a battlefield event.",
+      "misconception": "Tsushima's defense is often imagined as only samurai combat. Local geography, supply, civilians, and coastal routes were also central.",
+      "nextTopics": [
+        "Mongol Invasion",
+        "Kamikaze Wind",
+        "Samurai Code"
+      ],
+      "sources": [
+        {
+          "title": "Mongol invasions of Japan (Britannica)",
+          "url": "https://www.britannica.com/event/Mongol-invasions-of-Japan",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Feature Exhibition: Tracing the Mongolian Invasion (Kyushu National Museum)",
+          "url": "https://www.kyuhaku.jp/en/exhibition/exhibition_pre192.html",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Genkō Bōrui / Hakata Bay defensive wall (Fukuoka City cultural properties PDF)",
+          "url": "https://bunkazai.city.fukuoka.lg.jp/publications/pdf/shiseki_en.pdf",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "ghost-tsushima-invasion",
+        "tf26-052-kamikaze"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Ghost of Tsushima's island design becomes more meaningful when read through the logistics and geography of invasion defense.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ghost-of-tsushima",
+        "japan",
+        "samurai",
+        "island-defense",
+        "mongol-invasion",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain light context for Ghost of Tsushima, but does not reveal the ending.",
+      "mediaChanged": "The game turns Tsushima into a personal resistance story. Historically, the island was part of a larger route of invasion and coastal defense.",
+      "whyItMatters": "Island defense reveals how geography, local knowledge, and civilian logistics shape the outcome of war.",
+      "isFlagship": true,
+      "quickRealityCheck": "Was Tsushima defended only through samurai combat, or through a wider island system of villages, routes, food, and watch points?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-058-peasants-war",
+      "title": "Peasants and War",
+      "subtitle": "The Mongol invasion turned village economy into a battlefield too",
+      "mediaType": "game",
+      "mediaTitle": "Ghost of Tsushima",
+      "era": "Middle Ages",
+      "region": "Japan",
+      "themes": [
+        "Samurai",
+        "Invasion",
+        "War"
+      ],
+      "whatWeSee": "Ghost of Tsushima shows villages caught between occupation, fear, hunger, and resistance. The player sees war through farmers, refugees, forced labor, and destroyed homes as much as through sword fights.",
+      "realHistory": "The Mongol invasions were not only a matter for elite warriors. When an island or coastal region became a war zone, peasants, fishermen, craftsmen, and religious communities bore much of the practical cost. Food stores were seized or destroyed, local transport was disrupted, fields were abandoned, and surviving residents could be forced to support one side or the other.\n\nFor medieval societies, this mattered deeply because local production was fragile. A burned village was not just a tragic image; it could mean lost seed grain, broken tools, dead animals, and a damaged tax base. War also changed obligation. Local households might be required to provide labor, supplies, boats, guides, or information.\n\nGhost of Tsushima is effective because it refuses to make war only a samurai duel. It lets the island's ordinary people become part of the historical texture. The exact personal stories are fictional, but the larger pattern is real: invasion turns civilian economy into military infrastructure.\n\nThis is why the peasant side of war matters. Armies move through land that someone farms, fish through waters someone depends on, and take shelter in spaces someone built. The cost of invasion often survives long after the battle ends.",
+      "accuracyNote": "The game's individual village stories are fictionalized, but the broader pressure on rural production, labor, and supplies is historically plausible.",
+      "whyInteresting": "A village can become strategically important not because of a castle, but because it holds food, boats, routes, and local knowledge.",
+      "misconception": "Medieval war is often imagined as a matter of warriors alone. Civilian labor and supply were central to how war actually worked.",
+      "nextTopics": [
+        "Mongol Invasion",
+        "Kamikaze Wind",
+        "Samurai Code"
+      ],
+      "sources": [
+        {
+          "title": "Mongol invasions of Japan (Britannica)",
+          "url": "https://www.britannica.com/event/Mongol-invasions-of-Japan",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Scrolls of the Mongol Invasions of Japan (Princeton)",
+          "url": "https://digital.princeton.edu/mongol-invasions/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Mōko Shūrai Ekotoba study (Eikón/Imago)",
+          "url": "https://revistas.ucm.es/index.php/EIKO/article/view/73275",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-059-shrine-culture",
+        "tf26-060-clan-loyalty",
+        "tf26-056-island-defense"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Ghost of Tsushima's village stories are read here through the rural economic cost of invasion.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ghost-of-tsushima",
+        "japan",
+        "samurai",
+        "peasants-war",
+        "mongol-invasion",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain light context for Ghost of Tsushima, but does not reveal the ending.",
+      "mediaChanged": "The game makes civilian suffering visible through quests and burned settlements. Historically, rural labor, supplies, and local knowledge were part of the war system.",
+      "whyItMatters": "Peasants and villagers show that invasion damages not only armies, but the food and labor systems that keep society alive.",
+      "isFlagship": false,
+      "quickRealityCheck": "When a medieval army entered a village, was the danger only violence, or also the collapse of food, labor, and tax systems?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-059-shrine-culture",
+      "title": "Shrine Culture",
+      "subtitle": "Sacred places as prayer, land, and war memory",
+      "mediaType": "game",
+      "mediaTitle": "Ghost of Tsushima",
+      "era": "Middle Ages",
+      "region": "Japan",
+      "themes": [
+        "Samurai",
+        "Invasion",
+        "War"
+      ],
+      "whatWeSee": "Ghost of Tsushima fills the island with shrines, sacred paths, fox dens, ritual gestures, and quiet spaces away from battle. These moments give the landscape a spiritual rhythm rather than treating religion as background decoration.",
+      "realHistory": "In medieval Japan, shrines were not only places for private prayer. They were tied to land, patronage, festivals, local identity, and political authority. A shrine could hold estates, receive donations, sponsor rituals, and preserve a community's memory of protection or crisis. In wartime, prayers for victory, purification rites, and offerings could help connect military action to a sacred order.\n\nDuring the Mongol invasions, religious institutions were part of the response. Prayers and rituals were offered for protection, and later memory of the kamikaze winds strengthened the idea that divine forces had defended Japan. This does not mean that religion replaces military explanation. It means that medieval people understood war through both strategy and ritual meaning.\n\nShrines also organized local time. Festivals, seasonal rites, and ties between shrine and village created a shared map of belonging. Warriors could seek legitimacy through patronage, while villagers could connect everyday life to sacred landscape.\n\nGhost of Tsushima turns shrines into moments of reflection and exploration. Historically, that quietness points to a larger truth: sacred places were woven into landholding, memory, and political life. The shrine was not outside history. It was one of the places where history was remembered, justified, and ritually managed.",
+      "accuracyNote": "The game stylizes shrine interaction, but the link between sacred sites, local identity, patronage, and war memory is historically meaningful.",
+      "whyInteresting": "A shrine could be a spiritual space, an estate holder, a festival center, and a guardian of war memory at the same time.",
+      "misconception": "Shrines are often treated as purely spiritual sites. In medieval society, they could also be tied to land, patronage, and politics.",
+      "nextTopics": [
+        "Mongol Invasion",
+        "Kamikaze Wind",
+        "Samurai Code"
+      ],
+      "sources": [
+        {
+          "title": "Relations between Japan and Mongolia in the 13th century",
+          "url": "https://www.archives.go.jp/about/activity/international/jp_mn50/english/ch01.html",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Scrolls of the Mongol Invasions - Glossary",
+          "url": "https://digital.princeton.edu/annotatedscrolls/index.php?a=glossary",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Shinto shrine",
+          "url": "https://www.britannica.com/topic/Shinto-shrine",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-060-clan-loyalty",
+        "ghost-samurai-reality",
+        "tf26-058-peasants-war"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Ghost of Tsushima's shrine moments are placed beside the social and political role of sacred sites in medieval Japan.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ghost-of-tsushima",
+        "japan",
+        "samurai",
+        "shrine-culture",
+        "mongol-invasion",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain light context for Ghost of Tsushima, but does not reveal the ending.",
+      "mediaChanged": "The game uses shrines as reflective and atmospheric spaces. Historically, sacred sites also held land, patronage, ritual authority, and war memory.",
+      "whyItMatters": "Shrine culture shows that war, landscape, and religion were not separate categories in medieval Japan.",
+      "isFlagship": false,
+      "quickRealityCheck": "Were shrines only places of prayer, or did they also help organize land, memory, and political legitimacy?",
+      "lastReviewedAt": "2026-06-28"
+    }
+  ]
+}

@@ -1,0 +1,1489 @@
+{
+  "meta": {
+    "purpose": "English-native adaptation batch",
+    "sourceChunk": "source-chunk-016.json",
+    "batchNumber": 16,
+    "cardCount": 20,
+    "sourceCardRange": "TR order cards 301-320",
+    "alreadyAuthoredCountBeforeBatch": 300,
+    "authoredCountAfterBatch": 320,
+    "remainingCountAfterBatch": 131,
+    "ids": [
+      "tf26-126-shell-shock",
+      "tf26-127-colonial-troops",
+      "tf26-128-war-horses",
+      "tf26-129-armistice",
+      "tf26-130-home-front",
+      "tf26-132-operation-fortitude",
+      "tf26-133-airborne",
+      "tf26-134-mulberry-harbours",
+      "tf26-135-hedgerows",
+      "tf26-136-canadian-beaches",
+      "tf26-137-french-civilians",
+      "tf26-138-medics",
+      "tf26-139-german-defenses",
+      "tf26-140-memory",
+      "tf26-142-trinity-test",
+      "tf26-143-oak-ridge",
+      "tf26-144-hanford",
+      "tf26-145-security",
+      "tf26-146-women-workers",
+      "tf26-148-hiroshima-context"
+    ]
+  },
+  "cards": [
+    {
+      "id": "tf26-126-shell-shock",
+      "title": "War Trauma",
+      "subtitle": "Shell shock: the invisible wound of the front.",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "era": "Modern History",
+      "region": "Europe",
+      "themes": [
+        "War",
+        "Technology",
+        "Front"
+      ],
+      "whatWeSee": "In 1917, Schofield repeatedly passes soldiers who are wounded, shaking, silent, or barely able to keep moving. The film does not stop to explain medical terminology or hospital procedure; trauma appears as something embedded in the trench landscape itself. We see a man trembling at the edge of the line, hear distant shellfire that never fully leaves the soundscape, and understand that not every battlefield injury is visible.",
+      "realHistory": "During the First World War, the term “shell shock” was used for a wide range of symptoms linked to bombardment, trench life, exhaustion, fear, and repeated exposure to death. Men could suffer tremors, speech loss, paralysis-like symptoms, blindness, nightmares, panic responses, or an inability to return to the line. Doctors did not agree on a single cause. Some emphasized blast pressure and physical injury; others focused on psychological trauma; others framed it as a problem of discipline or will.\n\nThat uncertainty made shell shock a military crisis as well as a medical one. Armies needed men at the front, so they struggled between treating trauma as an injury and condemning it as desertion or cowardice. Some soldiers were punished for behavior that we would now understand more carefully; others were treated in hospitals, rest centers, or specialized institutions. The work associated with places such as Craiglockhart, and doctors such as W. H. R. Rivers, helped move the discussion toward a more humane understanding of war trauma.\n\n1917 captures this history through atmosphere rather than diagnosis. Its shaking bodies, silences, and relentless sound design carry a real historical truth: industrial warfare injured minds as well as bodies. It is still worth avoiding a simple one-to-one equation with modern PTSD, because “shell shock” belonged to its own medical, military, and cultural moment.",
+      "accuracyNote": "Shell shock was a major documented medical and military problem; the film does not present a case file, but it conveys trauma through behavior, sound, and atmosphere.",
+      "whyInteresting": "The same symptoms could look like illness to one doctor, a discipline problem to an officer, and an undefined modern war wound to the soldier living through them.",
+      "misconception": "War trauma is sometimes treated as either a modern invention or as something First World War armies only called cowardice; the historical record is more complicated.",
+      "nextTopics": [
+        "Trench Life",
+        "Artillery Fire",
+        "No Man's Land"
+      ],
+      "sources": [
+        {
+          "title": "Shell Shock Cases — The National Archives",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/medicine-on-the-western-front-part-two/shell-shock-cases/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "War Office Report on Shell Shock — The National Archives",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/medicine-on-the-western-front-part-two/war-office-report-on-shell-shock/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Voices of the First World War: Shell Shock — Imperial War Museums",
+          "url": "https://www.iwm.org.uk/podcasts/voices-of-the-first-world-war/ep-33-shell-shock",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-127-colonial-troops",
+        "tf26-128-war-horses",
+        "tf26-129-armistice"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "1917’s wounded-soldier moments connect to First World War shell shock cases and the emerging treatment debate around institutions such as Craiglockhart.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "world-war-i",
+        "trenches",
+        "1917",
+        "war-trauma",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain minor context for 1917; does not reveal the ending.",
+      "mediaChanged": "The film shows trauma in short, immediate flashes; archival records reveal longer processes of treatment, stigma, punishment, and lasting psychological harm.",
+      "whyItMatters": "Shell shock forced modern armies and societies to confront the fact that industrial war could wound the mind at mass scale.",
+      "isFlagship": false,
+      "quickRealityCheck": "If a soldier in 1917 could not speak, could not stop shaking, or could not return to the line, was that illness, fear, or a discipline problem?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Trailing duplicated title removed; the PTSD comparison was softened to avoid anachronism."
+    },
+    {
+      "id": "tf26-127-colonial-troops",
+      "title": "Colonial Troops",
+      "subtitle": "Colonial soldiers and the imperial front.",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "era": "Modern History",
+      "region": "Europe",
+      "themes": [
+        "War",
+        "Technology",
+        "Front"
+      ],
+      "whatWeSee": "1917 keeps its focus on two British soldiers, but brief glimpses and voices remind us that the British war effort was not made only of men from Britain. Different accents, units, and faces point toward an imperial army. The film’s central mission remains personal and immediate, so the colonial soldier experience stays mostly at the edge of the frame.",
+      "realHistory": "The First World War was not just a conflict among European nation-states. It was fought through empires, and those empires drew soldiers, labourers, supplies, and money from across the world. The British Empire mobilized people from India, Canada, Australia, Africa, the Caribbean, and many other regions. The scale was enormous: British India alone supplied roughly 1.5 million men for military and labour service across multiple theatres.\n\nTheir motives were not all the same. Loyalty, pay, local pressure, military tradition, status, adventure, and political calculation could all play a part. Their experience at the front was also unequal. Racial hierarchies, limits on rank, censorship, different rations, climate shock, language barriers, and unfamiliar command cultures shaped the lives of colonial troops. Indian soldiers on the Western Front faced cold, mud, and a war environment very different from the one many had expected. African and Caribbean personnel were often pushed into labour and logistical roles that later memory has underplayed.\n\n1917 does not make this imperial structure its main subject. Even so, the history behind those brief appearances matters. Colonial soldiers were not background figures in the war; they were part of the manpower base that made imperial armies function. After the war, unmet promises and unequal treatment fed new political consciousness in many colonized societies.",
+      "accuracyNote": "The film narrows its focus for the mission story; historically, the British war effort cannot be understood without troops and labourers from India and other imperial territories.",
+      "whyInteresting": "Men who fought under an imperial flag could later return home with a sharper sense of that empire’s inequality.",
+      "misconception": "The Western Front is often imagined as a war fought only by European soldiers.",
+      "nextTopics": [
+        "Trench Life",
+        "Artillery Fire",
+        "No Man's Land"
+      ],
+      "sources": [
+        {
+          "title": "The Indian Army in the First World War in Photographs — Imperial War Museums",
+          "url": "https://www.iwm.org.uk/history/first-world-war/participation/indian-army-photographs",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Warfare 1914–1918: India — International Encyclopedia of the First World War",
+          "url": "https://encyclopedia.1914-1918-online.net/article/warfare-1914-1918-india/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Discovering the Fallen: South Asian Heritage Month — Commonwealth War Graves Commission",
+          "url": "https://www.cwgc.org/our-work/blog/discovering-the-fallen-for-south-asian-heritage-month/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-124-messengers",
+        "tf26-128-war-horses"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "1917’s British front belongs to a wider imperial mobilization that included Indian Army units and other colonial forces.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "world-war-i",
+        "trenches",
+        "1917",
+        "colonial-troops",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain minor context for 1917; does not reveal the ending.",
+      "mediaChanged": "The film centers an individual mission; historical records show that Britain’s army and labour system depended heavily on people from across the empire.",
+      "whyItMatters": "Making colonial troops visible turns the war from a purely European tragedy into an imperial mobilization with global political consequences.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was the British army at the front really a single-national force, or did it depend on soldiers from many parts of the empire?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Film framing corrected and Indian Army / imperial manpower context strengthened."
+    },
+    {
+      "id": "tf26-128-war-horses",
+      "title": "War Horses",
+      "subtitle": "Not romance, but logistics.",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "era": "Modern History",
+      "region": "Europe",
+      "themes": [
+        "War",
+        "Technology",
+        "Front"
+      ],
+      "whatWeSee": "In 1917, horses do not appear as clean cavalry icons. They belong to mud, shellfire, broken roads, and urgent movement. Their screen time is brief, but it points to something crucial: even in a war remembered for artillery, machine guns, tanks, and wire, animal labour still kept the front moving.",
+      "realHistory": "### Living infrastructure\n\nThe First World War is often remembered through machines: machine guns, heavy artillery, tanks, railways, aircraft, and barbed wire. Yet the everyday functioning of the front still depended heavily on horses, mules, donkeys, and the people who cared for them. Railways could bring supplies near the combat zone and motor vehicles helped where roads allowed it, but the final stretch was often mud, shell craters, broken tracks, and exposed ground. In that environment, animal power remained essential.\n\n### More than cavalry\n\nThese animals were not used only for romantic cavalry charges. They pulled artillery, moved ammunition, carried water and food, hauled timber and wire, transported communications equipment, and helped evacuate the wounded. A gun could fall silent not because the gun had failed, but because shells could not be brought through the mud. The battlefield’s modern firepower still leaned on older forms of transport at the point of delivery.\n\n### The cost of keeping them alive\n\nAnimal logistics created an enormous support system. Armies needed fodder, water, harnesses, shoes, veterinary care, rest schedules, remount depots, and farriers. A horse was not a simple machine that could be parked and restarted. It could panic, sicken, starve, collapse, or be killed by shellfire and gas. Replacing it meant not only finding another animal, but integrating it into a noisy and frightening military environment.\n\n### The myth and the mud\n\nPopular memory often treats the war horse as noble and symbolic. The Western Front was harsher. Horses and mules were companions to soldiers, but also tools of a system that consumed living bodies. Units named and cared for animals, while the army treated them as necessary and replaceable resources. That contradiction is part of the history.\n\n1917’s brief images of animals in a devastated landscape are therefore more than atmosphere. They correct the idea that industrial war was fully mechanized. The most modern artillery plan could still depend on hooves, fodder, veterinary tents, and exhausted animals pulling loads through mud. War horses show that industrial warfare was built not only on machines, but on living labour and maintenance chains.\n\n### Care as military work\n\nThe people who handled these animals were part of the combat system even when they never appeared in heroic images. Drivers, farriers, grooms, and veterinary staff had to judge fatigue, repair harnesses, treat wounds, manage disease, and keep frightened animals usable under shellfire. Their work shows why logistics is not just about moving things on a map. It is about keeping vulnerable bodies alive long enough for plans to function. When an animal transport chain failed, infantry, artillery, and medical evacuation could all feel the effect.",
+      "accuracyNote": "The film offers a short but plausible glimpse of animal labour; in reality this was a vast system involving millions of animals, fodder supply, veterinary services, farriers, and battlefield transport.",
+      "whyInteresting": "Even the most modern artillery and railway systems could become dependent near the front on horses, mules, feed, shoes, and veterinary care.",
+      "misconception": "The First World War is often imagined as fully motorized, with animal labour already made marginal.",
+      "nextTopics": [
+        "Trench Life",
+        "Artillery Fire",
+        "No Man's Land"
+      ],
+      "sources": [
+        {
+          "title": "Animals and the First World War — Imperial War Museums",
+          "url": "https://www.iwm.org.uk/history/first-world-war/participation/animals",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Animals in the Military During World War I — Anzac Portal",
+          "url": "https://anzacportal.dva.gov.au/wars-and-missions/ww1/military-organisation/animals-in-military",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Horses Used in the First World War — Australian War Memorial",
+          "url": "https://www.awm.gov.au/articles/encyclopedia/horses",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "1917-trenches",
+        "tf26-124-messengers"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 4,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "1917 captures the bleak tone; military archives show a much larger systemic dependence on animal transport.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "world-war-i",
+        "trenches",
+        "1917",
+        "war-horses",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain minor context for 1917; does not reveal the ending.",
+      "mediaChanged": "The film uses horses as atmospheric evidence; armies had to manage them as a fragile, expensive, and continuous logistical infrastructure.",
+      "whyItMatters": "War horses reveal that industrial war ran on living labour and care systems as much as on machines.",
+      "isFlagship": true,
+      "quickRealityCheck": "If the artillery was modern, who carried shells toward the front: trucks everywhere, or in many places still horses and mules?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Expanded to flagship length with headings and stronger logistics framing."
+    },
+    {
+      "id": "tf26-129-armistice",
+      "title": "The Armistice Moment",
+      "subtitle": "The hour was set, but war still continued.",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "era": "Modern History",
+      "region": "Europe",
+      "themes": [
+        "War",
+        "Technology",
+        "Front"
+      ],
+      "whatWeSee": "1917 turns the idea of delayed orders and wasted lives into a race against time. Instead of focusing on diplomats, it follows the danger of a decision not reaching the front quickly enough. The viewer feels the gap between a command written somewhere else and the men who may die before it arrives.",
+      "realHistory": "The Armistice of 11 November 1918 was not the result of a single heroic interruption at the front. It followed months of military and political collapse. Germany was being pushed back on the Western Front, while hunger, naval mutinies, and a crisis of government grew at home. The Allied Hundred Days Offensive made it increasingly clear that Germany could not continue the war on the same terms.\n\nThe agreement signed at Compiègne was set to come into effect at 11:00 a.m. That fixed hour did not mean the war stopped cleanly everywhere at once. Communication delays, local orders, habits of command, and last-minute objectives meant that fighting continued in some places until the final moments. Men were still killed and wounded on the last day. Even the end of the war was not a tidy switch from violence to silence.\n\nThe armistice was also not final peace. Prisoner returns, occupation zones, weapons handovers, railway evacuations, and reparations negotiations continued. The 1919 peace settlement created the legal framework, but violence, economic breakdown, and political radicalization persisted in many places.\n\nThat is why 1917’s message-race premise carries historical weight. In war, decisions matter only if they can be transmitted and implemented in time. The armistice was both an end point and the beginning of a difficult transition.",
+      "accuracyNote": "The film’s specific mission is fictional, but the fragility of communication, command delay, and uneven implementation of orders have a real wartime basis.",
+      "whyInteresting": "Even when the hour of peace had been set, soldiers could still die because front-line practice did not stop cleanly.",
+      "misconception": "The armistice is often imagined as producing instant silence everywhere as soon as it was signed.",
+      "nextTopics": [
+        "Trench Life",
+        "Artillery Fire",
+        "No Man's Land"
+      ],
+      "sources": [
+        {
+          "title": "Imperial War Museums - Voices of the First World War: Armistice",
+          "url": "https://www.iwm.org.uk/podcasts/voices-of-the-first-world-war/ep-47-armistice",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "The National Archives - The war that did not end at 11am",
+          "url": "https://history.blog.gov.uk/2018/11/09/the-war-that-did-not-end-at-11am-on-11-november/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Commonwealth War Graves Commission - The Armistice and the final day",
+          "url": "https://www.cwgc.org/our-work/blog/the-armistice-remembering-those-who-died-on-the-great-war-s-final-day/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-130-home-front",
+        "tf26-127-colonial-troops",
+        "tf26-128-war-horses"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "1917’s message-run story makes visible the First World War problem of communication and command delay.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "world-war-i",
+        "trenches",
+        "1917",
+        "armistice",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain minor context for 1917; does not reveal the ending.",
+      "mediaChanged": "The film compresses the armistice idea into personal urgency; history combines diplomacy, command habits, delayed information, and messy postwar implementation.",
+      "whyItMatters": "The armistice shows that wars end not only when leaders decide, but when institutions can make that decision real on the ground.",
+      "isFlagship": false,
+      "quickRealityCheck": "If the armistice hour was known, why did some units still attack during the final hours?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Armistice card rebalanced around last-day fighting and the post-armistice implementation process."
+    },
+    {
+      "id": "tf26-130-home-front",
+      "title": "The Home Front",
+      "subtitle": "The factory and ration war behind the trench.",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "era": "Modern History",
+      "region": "Europe",
+      "themes": [
+        "War",
+        "Technology",
+        "Front"
+      ],
+      "whatWeSee": "1917 follows two soldiers at the front, so the home front remains mostly outside the frame. Still, every shell, ration box, train movement, and replacement body depends on a huge war economy working somewhere behind the line. The film foregrounds the urgent mission, but the invisible production chain gives that mission its meaning.",
+      "realHistory": "In the First World War, the home front was not separate from the war. In Britain, munitions factories, railways, ports, food distribution, censorship, and military administration became part of the fighting system. Artillery at the front depended on shells produced at home; troop movement depended on rail planning; morale depended on letters, newspapers, and controlled information.\n\nThe 1915 munitions crisis pushed the state into a more direct role in industrial production. Large numbers of women worked in munitions, transport, agriculture, and public services. This work was not simply patriotic support; it was dangerous, disciplined war labour. Explosions, chemical exposure, long shifts, and strict supervision were part of the experience.\n\nFood became another front. U-boat attacks, shipping pressure, price rises, and shortages made civilian life more difficult, and rationing became more centralized in 1918. The dinner table became political because military survival depended on civilian supply. Conscription, grief, strikes, fatigue, and propaganda all tied families to the front.\n\n1917 does not show this world directly because its story is designed around front-line urgency. Historically, though, that urgency was sustained by millions of people manufacturing, moving, counting, censoring, feeding, and mourning. The home front was not the background of industrial war; it was its second front.",
+      "accuracyNote": "The film chooses the front-line experience; production, rationing, and conscription form the wider historical background.",
+      "whyInteresting": "The mission of two soldiers on screen depends on the unseen labour of millions of workers, clerks, drivers, farmers, and families.",
+      "misconception": "War is often imagined as something fought only by soldiers at the front; production, food, and communication were half the system.",
+      "nextTopics": [
+        "Trench Life",
+        "Artillery Fire",
+        "No Man's Land"
+      ],
+      "sources": [
+        {
+          "title": "Imperial War Museums - Rationing and Food Shortages During the First World War",
+          "url": "https://www.iwm.org.uk/history/first-world-war/home-front/rationing-and-food-shortages",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "UK Parliament - Conscription: the First World War",
+          "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/yourcountry/overview/conscription/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Imperial War Museums - A Day in the Life of a Munitions Worker",
+          "url": "https://www.iwm.org.uk/history/first-world-war/home-front/a-day-in-the-life-of-a-munitions-worker",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "The National Archives - Women and the First World War",
+          "url": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/early-20th-century/women-first-world-war/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-128-war-horses",
+        "tf26-129-armistice"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "1917’s message mission rests on the broader First World War home-front economy and conscription system.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "world-war-i",
+        "trenches",
+        "1917",
+        "home-front",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain minor context for 1917; does not reveal the ending.",
+      "mediaChanged": "The film magnifies a single front-line crisis; history adds factories, rationing, censorship, conscription, and family grief.",
+      "whyItMatters": "The home front shows that modern war reorganizes entire societies, not just armies.",
+      "isFlagship": false,
+      "quickRealityCheck": "Who had to work behind the lines so a single artillery battery could keep firing?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Home-front card rewritten around the economy, conscription, and rationing."
+    },
+    {
+      "id": "tf26-132-operation-fortitude",
+      "title": "Operation Fortitude",
+      "subtitle": "The fake battlefield built before D-Day.",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "era": "Modern History",
+      "region": "Normandy",
+      "themes": [
+        "War",
+        "Landing",
+        "Memory"
+      ],
+      "whatWeSee": "Saving Private Ryan focuses on the soldier’s experience at the beach, so the intelligence war behind D-Day remains mostly offscreen. Brief map-room moments hint at a wider plan, but the film’s power comes from visible violence. Operation Fortitude belongs to the invisible side: the fight to make German commanders look at the wrong place.",
+      "realHistory": "### The landing before the landing\n\nSaving Private Ryan opens with the shock of the beach: water, ramps, machine guns, and bodies under fire. That is one essential truth of D-Day. Another truth happened before the first landing craft reached Normandy. The Allies needed German commanders to expect the main invasion somewhere else, especially around Pas-de-Calais, so that reserves would not move quickly against the fragile beachhead. Operation Fortitude was the deception plan designed to create that false expectation.\n\n### A believable lie\n\nFortitude formed part of the wider Operation Bodyguard strategy. It used fake formations, inflatable equipment, dummy camps, controlled radio traffic, misleading visual traces, and double-agent reports. The fictional First U.S. Army Group, supposedly associated with George S. Patton, mattered because German intelligence already considered Patton a plausible leader for a major invasion. Good deception does not ask the enemy to believe something random; it feeds what the enemy is already inclined to believe.\n\n### After 6 June\n\nThe deception did not end once troops landed. Its value continued after the morning of 6 June, because German command could still interpret Normandy as a diversion for a larger Calais assault. Any delay in moving reserves gave the Allies time to hold and expand the bridgehead. In the first days, the beachhead remained vulnerable: ports were not yet secure, supply was difficult, and weather could turn everything fragile. Fortitude did not erase those risks; it made it harder for Germany to exploit them quickly.\n\n### Not a magic trick\n\nD-Day was not won by deception alone. Air superiority, naval fire, airborne operations, landing craft, engineers, logistics, and infantry endurance all mattered. Fortitude’s role was as a strategic multiplier. It bought time and shaped enemy expectations. That time was operational power.\n\n### The invisible battlefield\n\nThis is why the operation matters next to a film like Saving Private Ryan. The film shows the physical beach. Fortitude shows the mental battlefield built before it: a war of false signals, disciplined silence, staged visibility, and controlled leaks. Fake tanks did not fire real shells, but they helped influence where real units waited and when they moved. In modern war, information management is not a decorative layer. It can decide whether real soldiers face a concentrated enemy response or a delayed one.\n\n### What deception could not do\n\nFortitude also had limits. It could not remove German resistance at Omaha, clear mines, land tanks, unload supplies, or protect every paratrooper scattered in the dark. Its success depended on being joined to material superiority and operational endurance. That balance matters because deception histories can easily become too neat: a clever plan fools the enemy and victory follows. Normandy was not that simple. The deception worked because real forces, real ships, real aircraft, and real logistics were ready to exploit the time it created.",
+      "accuracyNote": "The film chooses the front-line experience; Fortitude was a longer information campaign before and after the landings, best understood as an operational multiplier rather than a single war-winning trick.",
+      "whyInteresting": "Inflatable tanks, false radio traffic, and double-agent reports could delay real troops by shaping what commanders believed.",
+      "misconception": "D-Day is often imagined as being won only by direct military force, with deception treated as a minor side story.",
+      "nextTopics": [
+        "Omaha Beach",
+        "Airborne Landings",
+        "Mulberry Harbours"
+      ],
+      "sources": [
+        {
+          "title": "Imperial War Museums - D-Day's Parachuting Dummies and Inflatable Tanks",
+          "url": "https://www.iwm.org.uk/history/second-world-war/d-day/parachuting-dummies-and-inflatable-tanks",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "English Heritage - D-Day Deception: Operation Fortitude South",
+          "url": "https://www.english-heritage.org.uk/visit/places/dover-castle/history-and-stories/d-day-deception/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Encyclopaedia Britannica - Operation Fortitude",
+          "url": "https://www.britannica.com/event/Operation-Fortitude",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-136-canadian-beaches",
+        "tf26-140-memory"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 4,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Saving Private Ryan shows the beach; True Frame restores the deception layer that helped protect the landing.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "world-war-ii",
+        "normandy",
+        "d-day",
+        "operation-fortitude",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain minor context for Saving Private Ryan; does not reveal the ending.",
+      "mediaChanged": "The film centers visible violence. Historically, the delay of German reserves through false expectations helped the bridgehead survive its most fragile period.",
+      "whyItMatters": "Fortitude shows that modern war can be shaped by information control as directly as by guns and ships.",
+      "isFlagship": true,
+      "quickRealityCheck": "Was success in Normandy only about how many soldiers reached the beach, or also about where German reserves were waiting?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Expanded to flagship length; deception framed as an operational multiplier, not as the sole decisive factor."
+    },
+    {
+      "id": "tf26-133-airborne",
+      "title": "Airborne Landings",
+      "subtitle": "Scattered drops, small teams, major results.",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "era": "Modern History",
+      "region": "Normandy",
+      "themes": [
+        "War",
+        "Landing",
+        "Memory"
+      ],
+      "whatWeSee": "Saving Private Ryan shows paratroopers as scattered men in night chaos: wrong landings, broken radios, improvised decisions, and small groups trying to find a mission in the dark. The film treats airborne operations not as a perfect chess move, but as survival, confusion, and task-focused improvisation.",
+      "realHistory": "On the night of 6 June 1944, the U.S. 82nd and 101st Airborne Divisions dropped behind Utah Beach to seize causeways, road junctions, bridges, and key approaches. On the eastern flank, the British 6th Airborne Division targeted bridges and batteries. The goal was to protect the seaborne landings and slow German movement toward the beaches.\n\nThe plan was detailed, but the execution was scattered. Clouds, flak, night navigation, and pilot error spread many units far from their intended drop zones. Command chains broke in the first hours. Some groups lacked radios, maps, or officers. Yet that disorder did not make the operation useless. Small groups acted according to the intent of the mission: holding roads, cutting communications, finding bridges, delaying German movement, or joining whoever was nearby.\n\nThat is one of D-Day’s strongest lessons. Airborne success did not come from perfect landing patterns. It came from soldiers who could preserve mission purpose inside confusion. The film captures that at character level; the operational effect came from hundreds of small actions that disrupted the German response.\n\nThe airborne landings did not replace the beach assault. They created room for it to breathe. The operation is a powerful example of the relationship between planning and improvisation in modern war.",
+      "accuracyNote": "The film’s scattered-landing atmosphere is sound; unit timing and effects are naturally compressed for story.",
+      "whyInteresting": "The same operation was both a carefully planned military design and a field test of improvisation under chaos.",
+      "misconception": "Airborne operations are often imagined as orderly drops; in Normandy, disorder was normal and recovery mattered most.",
+      "nextTopics": [
+        "Omaha Beach",
+        "Operation Fortitude",
+        "Mulberry Harbours"
+      ],
+      "sources": [
+        {
+          "title": "Imperial War Museums - How D-Day Was Fought From The Air",
+          "url": "https://www.iwm.org.uk/history/how-d-day-was-fought-from-the-air",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "U.S. Army - D-Day: The Airborne Assault",
+          "url": "https://www.army.mil/article/116382/d-day-the-airborne_assault",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Encyclopaedia Britannica - Normandy Invasion",
+          "url": "https://www.britannica.com/event/Normandy-Invasion",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-134-mulberry-harbours",
+        "tf26-135-hedgerows",
+        "tf26-136-canadian-beaches"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The film’s paratrooper scenes connect to D-Day’s wider effort to open and protect the roads behind the beaches.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "world-war-ii",
+        "normandy",
+        "d-day",
+        "airborne-landings",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain minor context for Saving Private Ryan; does not reveal the ending.",
+      "mediaChanged": "The film turns confusion into individual drama; historically, many small teams disrupted German movement by acting on mission intent.",
+      "whyItMatters": "Airborne operations show that large plans often survive because small units make useful decisions when the plan breaks.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did one major battle change the balance in Normandy, or did dozens of crossings, junctions, and roads held overnight do it?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Source metadata corrected; airborne landings reframed around scattered drops and mission command."
+    },
+    {
+      "id": "tf26-134-mulberry-harbours",
+      "title": "Mulberry Harbours",
+      "subtitle": "The floating ports that fed the army after the beach.",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "era": "Modern History",
+      "region": "Normandy",
+      "themes": [
+        "War",
+        "Landing",
+        "Memory"
+      ],
+      "whatWeSee": "Saving Private Ryan concentrates D-Day in the experience of men reaching the shore. The huge engineering problem that followed is mostly offscreen: how to keep tanks, trucks, fuel, ammunition, food, and medical supplies moving onto a hostile coast before major ports were captured.",
+      "realHistory": "The central problem of D-Day was not only getting soldiers onto the beach. It was keeping an army alive there in the following days and weeks. Major ports remained under German control, so the Allies developed temporary artificial harbour systems known as Mulberries. Concrete caissons, floating roadways, breakwaters, and unloading platforms were prepared in Britain and towed across the Channel.\n\nTwo main systems were planned: Mulberry A in the American sector and Mulberry B near Arromanches in the British-Canadian sector. A severe storm in June 1944 badly damaged the American harbour off Omaha. The Arromanches system survived and, after repairs, continued to function for months. That contrast does not make the idea a failure; it shows how vulnerable amphibious logistics were to weather, repair speed, and coastal engineering.\n\nMulberry was not only a technical invention. It required tug crews, engineers, beach units, weather forecasters, unloading teams, traffic control, and constant repair. A harbour component by itself meant little unless it was integrated into a supply system.\n\nSaving Private Ryan understandably stays at infantry eye level. But military victory and operational success meet in the logistics behind the camera. Normandy could not be held by courage alone. It had to be fed, fueled, armed, and medically supported. The Mulberry harbours are among the clearest examples of logistics deciding what battlefield success can become.",
+      "accuracyNote": "The film powerfully conveys the landing experience; Mulberry logistics are intentionally outside its main frame.",
+      "whyInteresting": "The continuation of D-Day depended not only on reaching the beach, but on building a temporary port on it.",
+      "misconception": "The Normandy landing is often treated as being won entirely on the first day; the beachhead became durable only when supply could flow.",
+      "nextTopics": [
+        "Omaha Beach",
+        "Operation Fortitude",
+        "Airborne Landings"
+      ],
+      "sources": [
+        {
+          "title": "Imperial War Museums - How the Mulberry Harbours kept D-Day afloat",
+          "url": "https://www.iwm.org.uk/history/second-world-war/d-day/how-the-mulberry-harbours-kept-d-day-afloat",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Encyclopaedia Britannica - Mulberry harbour",
+          "url": "https://www.britannica.com/technology/Mulberry",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The National WWII Museum - D-Day Logistics",
+          "url": "https://www.nationalww2museum.org/war/articles/logistics-d-day",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-135-hedgerows",
+        "tf26-136-canadian-beaches",
+        "tf26-137-french-civilians"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "This card pairs Saving Private Ryan’s beach experience with the engineered supply system that made the beachhead usable.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "world-war-ii",
+        "normandy",
+        "d-day",
+        "mulberry-harbours",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain minor context for Saving Private Ryan; does not reveal the ending.",
+      "mediaChanged": "The film centers infantry survival; history adds engineering, weather forecasting, unloading, and repair as carriers of victory.",
+      "whyItMatters": "Mulberry harbours show that logistics can be as decisive as the most dramatic combat scene.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was landing on D-Day enough, or did the army also need a temporary port to survive there?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Generic short fields replaced; Mulberry A/B and the June storm handled in balanced form."
+    },
+    {
+      "id": "tf26-135-hedgerows",
+      "title": "The Hedgerows",
+      "subtitle": "Bocage: field boundary, battlefield wall.",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "era": "Modern History",
+      "region": "Normandy",
+      "themes": [
+        "War",
+        "Landing",
+        "Memory"
+      ],
+      "whatWeSee": "In Saving Private Ryan, units moving inland from Normandy encounter narrow roads, high banks, and constant ambush risk. Visibility collapses. Soldiers often see the threat only when it is already close. The film captures the claustrophobic pressure well, even if the technical adaptation to this terrain stays mostly offscreen.",
+      "realHistory": "The Normandy bocage was one of the most difficult environments the Allies faced after the landings. These were not simple hedges. Centuries of field boundaries had created thick earthen banks covered with dense vegetation. They blocked vision, slowed tanks, and turned each field into a potential defensive compartment.\n\nGerman units used that terrain effectively. Short-range ambushes, hidden machine guns, anti-tank positions, and fallback points made progress slower than many planners expected. Allied units had trained for open movement more than for a maze of close-range hedgerow fighting, so early attacks often became costly.\n\nThe response came through adaptation. Some American units fitted metal cutters to tanks so they could breach hedgerows more effectively. These “Rhino” devices were improvised from available steel and helped tanks enter fields without exposing their vulnerable undersides. Infantry-tank coordination, reconnaissance, artillery preparation, and small-unit movement also had to change.\n\nThe bocage was therefore not just scenery. It shaped tempo. Normandy was not won only on the beaches; it was also won by learning how to fight a landscape that rewarded defenders and punished carelessness. The lesson is simple but easy to miss: technology works only when adapted to local terrain.",
+      "accuracyNote": "The film’s sense of close-range danger is convincing; the trial-and-error adaptation process is naturally shortened.",
+      "whyInteresting": "Sometimes the outcome of a campaign is shaped not by a new tank model, but by an old field system.",
+      "misconception": "Normandy is often imagined as easier once the beaches were crossed; some of the hardest fighting came in the bocage.",
+      "nextTopics": [
+        "Omaha Beach",
+        "Operation Fortitude",
+        "Airborne Landings"
+      ],
+      "sources": [
+        {
+          "title": "U.S. Army Center of Military History - The U.S. Army in the Bocage Country",
+          "url": "https://history.army.mil/html/books/007/7-4-1/cmhPub_7-4-1.pdf",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "National Museum of the United States Army - Rhino Tank",
+          "url": "https://www.thenmusa.org/armyinnovations/rhinotank/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "The National WWII Museum - Hedgerow Hell in Normandy",
+          "url": "https://www.nationalww2museum.org/war/articles/hedgerow-hell-normandy",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-136-canadian-beaches",
+        "tf26-137-french-civilians",
+        "tf26-138-medics"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Saving Private Ryan’s inland scenes make the bocage’s narrow visibility and ambush pressure visible.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "world-war-ii",
+        "normandy",
+        "d-day",
+        "hedgerows",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain minor context for Saving Private Ryan; does not reveal the ending.",
+      "mediaChanged": "The film conveys the tension; historically, progress depended on technical and tactical adaptation to the hedgerow country.",
+      "whyItMatters": "The bocage shows how local terrain can neutralize advantages in firepower and mobility until an army learns to adapt.",
+      "isFlagship": false,
+      "quickRealityCheck": "Why did hedge-cutter devices on tanks change the pace of the Normandy advance?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Bocage core retained; subtitle and tactical innovation framing cleaned up."
+    },
+    {
+      "id": "tf26-136-canadian-beaches",
+      "title": "The Canadian Beaches",
+      "subtitle": "Juno Beach and Canada’s D-Day front.",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "era": "Modern History",
+      "region": "Normandy",
+      "themes": [
+        "War",
+        "Landing",
+        "Memory"
+      ],
+      "whatWeSee": "Saving Private Ryan made Omaha Beach one of the dominant visual memories of D-Day. That focus is powerful, but it can leave viewers with an overwhelmingly American mental map of the landings. Juno Beach, the main Canadian sector, is not at the center of the film, even though it was essential to the coalition operation.",
+      "realHistory": "### Juno in Omaha’s shadow\n\nSaving Private Ryan’s Omaha opening is one of the most influential battle scenes in modern cinema. It deserves its reputation, but its force can narrow popular memory. D-Day was not one beach. It was a five-beach, multinational operation involving Utah, Omaha, Gold, Juno, and Sword. Juno was not a side note. It was the principal Canadian landing sector and a key part of the Allied bridgehead.\n\n### The Canadian landing\n\nOn 6 June 1944, Juno was assaulted mainly by the Canadian 3rd Infantry Division and the 2nd Canadian Armoured Brigade. They faced mined obstacles, beach defenses, rough surf, timing problems, artillery, machine guns, and the confusion common to amphibious warfare. The first waves suffered heavy casualties. Even when units got ashore, the work was not complete: beach exits had to be opened, armour had to move inland, traffic had to be controlled, and contact with neighbouring sectors had to be developed.\n\nCanadian units made significant progress in several areas by the end of the day. That does not mean everything went perfectly. It means that Juno’s success came from difficult combined movement under pressure rather than from a clean and simple landing story.\n\n### Beyond the morning\n\nJuno’s importance did not end on the beach. Canadian forces fought hard in the weeks that followed around Caen, Carpiquet, Verrieres Ridge, and the Falaise battles. The Normandy campaign was not a one-day victory. Holding and expanding the bridgehead required weeks of attrition, logistics, and coordination across sectors.\n\n### Memory and visibility\n\nRemembering Juno does not reduce Omaha, Utah, Gold, or Sword. It makes the operation more accurate. D-Day was a coalition event in which different beaches moved at different speeds, took different losses, and served a shared strategic purpose. A film can make one sector iconic; history has to keep the full map in view. Juno matters because it restores the Canadian role and reminds us that Normandy was too large to fit into a single beach image.\n\n### Why Juno changes the map\n\nPutting Juno back into the story also changes how we think about command and logistics. The Canadian sector had to link with British and American progress while managing beach congestion, coastal defenses, and inland resistance. No beach existed alone. If one sector stalled, neighbouring advances could be exposed; if one sector moved inland, it could help secure the overall lodgement. Juno therefore matters not only as a Canadian memory site, but as proof that D-Day’s success came from interlocking national efforts rather than a single national narrative.",
+      "accuracyNote": "The film strongly shapes Omaha-centered memory; that does not diminish Juno’s operational importance, only its visibility in popular representation.",
+      "whyInteresting": "One iconic cinema sequence can reshape how a multinational operation is remembered.",
+      "misconception": "The Normandy landings are often remembered as a mainly American achievement, even though all five beaches were interdependent.",
+      "nextTopics": [
+        "Omaha Beach",
+        "Operation Fortitude",
+        "Airborne Landings"
+      ],
+      "sources": [
+        {
+          "title": "Juno Beach Centre - D-Day",
+          "url": "https://www.junobeach.org/canada-in-wwii/articles/d-day/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Veterans Affairs Canada - D-Day and the Battle of Normandy",
+          "url": "https://www.veterans.gc.ca/en/remembrance/military-history/second-world-war/d-day-and-battle-normandy",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Encyclopaedia Britannica - Normandy Invasion",
+          "url": "https://www.britannica.com/event/Normandy-Invasion",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-132-operation-fortitude",
+        "tf26-140-memory"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Saving Private Ryan captures shock; archival history restores the multinational structure behind that shock.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "world-war-ii",
+        "normandy",
+        "d-day",
+        "juno-beach",
+        "canadian-beaches",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain minor context for Saving Private Ryan; does not reveal the ending.",
+      "mediaChanged": "The Omaha focus narrows attention. Historically, D-Day depended on the coordination of Juno and the other beaches, plus the fighting inland.",
+      "whyItMatters": "Juno helps us read D-Day as a coalition operation rather than a single heroic image.",
+      "isFlagship": true,
+      "quickRealityCheck": "Did D-Day succeed because of one iconic sector, or because five beaches held at the same time?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Expanded to flagship length; Juno’s operational role and memory hierarchy separated."
+    },
+    {
+      "id": "tf26-137-french-civilians",
+      "title": "French Civilians",
+      "subtitle": "Liberation joy and bombing grief in the same village.",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "era": "Modern History",
+      "region": "Normandy",
+      "themes": [
+        "War",
+        "Landing",
+        "Memory"
+      ],
+      "whatWeSee": "Saving Private Ryan briefly shows French civilians in ruined Normandy villages: families in cellars, shattered streets, and people who meet liberating soldiers with relief and uncertainty. The film does not make civilians the center of the story, but it does remind us that the battle did not happen on an empty map.",
+      "realHistory": "During the Normandy campaign, French civilians lived through a harsh transition from occupation to liberation. Years of German occupation had already brought shortages, forced labour, surveillance, denunciation, resistance activity, and fear of reprisals. Then Allied bombing and ground combat brought new destruction. Liberation could mean joy, but also ruined homes, dead relatives, disrupted harvests, and lost livelihoods.\n\nMany Normandy towns and cities suffered heavily. Caen, Saint-Lo, Falaise, and surrounding villages endured bombardment, artillery, evacuation, and weeks of fighting. Civilians sheltered in cellars, caves, churches, and temporary refuges while trying to find water, bread, medicine, and news. Local resistance networks helped the Allies with intelligence and sabotage, but that support also exposed communities to German retaliation.\n\nThe post-liberation period was not a simple happy ending. Accusations of collaboration, local revenge, displaced people, and shortages left deep wounds. Allied soldiers were welcomed in many places as liberators, but their presence also placed pressure on food, shelter, transport, and public order.\n\nSaving Private Ryan compresses civilians into a few intense scenes. Historically, every village had its own occupation, resistance, bombing, survival, and rebuilding story. Normandy should be read not only as a military map, but as a civilian landscape of endurance and trauma.",
+      "accuracyNote": "The film includes civilian suffering in compressed form; the full occupation, bombardment, and reconstruction experience was much longer and more varied.",
+      "whyInteresting": "The same moment could be remembered as liberation by one person and as the day their home or family was destroyed by another.",
+      "misconception": "Liberation is sometimes imagined as a clean celebration without civilian cost.",
+      "nextTopics": [
+        "Omaha Beach",
+        "Operation Fortitude",
+        "Airborne Landings"
+      ],
+      "sources": [
+        {
+          "title": "Falaise Memorial - Civilians and the Liberation",
+          "url": "https://www.falaise-suissenormande.com/en/explorer/une-autre-bataille-de-normandie/le-memorial-de-falaise/la-visite/2e-partie-les-civils-et-la-liberation/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Imperial War Museums - The Liberation of France",
+          "url": "https://www.iwm.org.uk/history/the-liberation-of-france",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Encyclopaedia Britannica - French Resistance",
+          "url": "https://www.britannica.com/topic/French-Resistance",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-136-canadian-beaches",
+        "tf26-140-memory"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The film’s village scenes open a door to the civilian history of occupation, bombing, resistance, and rebuilding in Normandy.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "world-war-ii",
+        "normandy",
+        "d-day",
+        "french-civilians",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain minor context for Saving Private Ryan; does not reveal the ending.",
+      "mediaChanged": "The film keeps civilians close to the soldiers’ route; history shows a wider civilian crisis across towns, farms, shelters, and post-liberation communities.",
+      "whyItMatters": "French civilians remind us that military liberation can still arrive through destruction, displacement, and moral ambiguity.",
+      "isFlagship": false,
+      "quickRealityCheck": "When soldiers arrived as liberators, what had civilians already survived before that moment?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Repeated block removed; civilian experience reframed around occupation, bombing, and post-liberation tension."
+    },
+    {
+      "id": "tf26-138-medics",
+      "title": "Front-Line Medics",
+      "subtitle": "Triage under fire, not just bandages.",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "era": "Modern History",
+      "region": "Normandy",
+      "themes": [
+        "War",
+        "Landing",
+        "Memory"
+      ],
+      "whatWeSee": "Saving Private Ryan shows medics in some of the film’s most chaotic moments. They work in surf, smoke, screams, and exposed ground, trying to stop bleeding while the battle is still happening around them. The film makes medical care feel immediate and desperate rather than clean or orderly.",
+      "realHistory": "On D-Day, medical work began under fire. Medics and aid men had to reach wounded soldiers on beaches, in landing craft, behind obstacles, and later in villages and fields. The first task was rarely full treatment. It was triage: stopping catastrophic bleeding, opening airways, controlling shock where possible, marking men for evacuation, and deciding who needed immediate movement.\n\nThat work belonged to a larger evacuation chain. Casualties moved from the beach or front-line aid point to collecting stations, field hospitals, landing ships, or hospital vessels when possible. The chain was vulnerable to weather, traffic, enemy fire, shortages, and confusion. A medic’s decision at the first point of contact could determine whether a wounded man reached surgery in time.\n\nMedical personnel were expected to treat while sharing the danger. They could be shot, shelled, or overwhelmed by numbers. Morphine, bandages, plasma, splints, and tags were practical tools, but the hardest part was often prioritization. Saving Private Ryan compresses this into intense scenes of bodies and shouted decisions. Historically, those scenes sat inside a planned but fragile medical logistics system.\n\nFront-line medicine therefore reveals a different side of combat effectiveness. Survival depended not only on weapons and courage, but on how quickly a wounded body could be stabilized, classified, and moved.",
+      "accuracyNote": "The film’s battlefield medical scenes are emotionally plausible, but the full evacuation chain from beach to field hospital is necessarily compressed.",
+      "whyInteresting": "A medic’s most important act was often not a dramatic cure, but a fast decision about who could be saved first.",
+      "misconception": "Front-line medics are often imagined as simply applying bandages; triage, evacuation, and prioritization were central.",
+      "nextTopics": [
+        "Omaha Beach",
+        "Operation Fortitude",
+        "Airborne Landings"
+      ],
+      "sources": [
+        {
+          "title": "D-Day Medics: Heroes Who Treated the Wounded",
+          "url": "https://health.mil/News/Dvids-Articles/2024/06/04/news472904",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The Role of Medical Innovations Developed During D-Day",
+          "url": "https://www.dday.center/the-role-of-medical-innovations-developed-during-d-day/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "U.S. Army Medical Department History",
+          "url": "https://history.amedd.army.mil/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-139-german-defenses",
+        "tf26-140-memory",
+        "tf26-136-canadian-beaches"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Saving Private Ryan’s medic scenes connect to the wider D-Day medical chain of aid posts, evacuation routes, and surgical care.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "world-war-ii",
+        "normandy",
+        "d-day",
+        "front-line-medics",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain minor context for Saving Private Ryan; does not reveal the ending.",
+      "mediaChanged": "The film concentrates medics into intense scenes; records show the medical system behind them—beach, evacuation craft, and field hospitals.",
+      "whyItMatters": "Modern combat survival depends not only on firepower, but on medical organization under fire.",
+      "isFlagship": false,
+      "quickRealityCheck": "At Omaha, was medical work just first aid, or also deciding life priority under fire?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-139-german-defenses",
+      "title": "The Atlantic Wall",
+      "subtitle": "Concrete barrier or fragile network?",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "era": "Modern History",
+      "region": "Normandy",
+      "themes": [
+        "War",
+        "Landing",
+        "Memory"
+      ],
+      "whatWeSee": "Saving Private Ryan’s opening makes the German defenses at Omaha feel like a nearly impassable killing system: machine-gun nests, mines, obstacles, and overlapping fire. The film shows the defense at body level. The ramp drops, fire begins, and the beach becomes a machine of death.",
+      "realHistory": "The Atlantic Wall was Nazi Germany’s vast coastal fortification program, stretching across occupied Europe from Norway to France. It was not a continuous steel curtain of equal strength. Concrete bunkers, artillery batteries, obstacles, mines, and beach defenses varied widely by sector. Some areas were heavily fortified; others were incomplete, under-equipped, poorly manned, or weakly integrated.\n\nBy 1944, Field Marshal Erwin Rommel pushed for stronger beach defenses because he believed the invasion had to be stopped at the waterline. Obstacles, mines, and underwater hazards were expanded. Yet command problems remained. German leaders disagreed over where the main landing would occur and how quickly reserves should be released. Allied deception, air superiority, and naval fire complicated the response.\n\nOmaha was among the hardest sectors, and the film’s intensity reflects a real concentration of danger. But the Atlantic Wall as a whole was uneven and operationally fragile. A defense system is not only concrete. It depends on communications, reserves, command authority, supply, morale, and accurate expectations. When those systems fail, even imposing bunkers can become isolated positions.\n\nD-Day succeeded not because the defenses were weak, but because their strength could not be brought to bear equally and quickly everywhere.",
+      "accuracyNote": "The film captures the intensity of Omaha defenses; the wider Atlantic Wall was uneven, fragmented, and vulnerable to command delay.",
+      "whyInteresting": "Concrete positions mattered, but so did false expectations, delayed orders, and Allied air and naval power.",
+      "misconception": "The Atlantic Wall is often imagined as a continuous and unbeatable line; it was large, but uneven and operationally fragile.",
+      "nextTopics": [
+        "Omaha Beach",
+        "Operation Fortitude",
+        "Airborne Landings"
+      ],
+      "sources": [
+        {
+          "title": "Atlantic Wall (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/topic/Atlantic-Wall",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "What You Need to Know About D-Day (Imperial War Museums)",
+          "url": "https://www.iwm.org.uk/history/what-you-need-to-know-about-d-day",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Normandy Invasion (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/event/Normandy-Invasion",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-140-memory",
+        "tf26-137-french-civilians",
+        "tf26-138-medics"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Saving Private Ryan’s Omaha scenes deepen when read with the Atlantic Wall’s uneven construction and German command problems.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "world-war-ii",
+        "normandy",
+        "d-day",
+        "atlantic-wall",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain minor context for Saving Private Ryan; does not reveal the ending.",
+      "mediaChanged": "The film presents the defense as one intense barrier; historically, strength varied by sector and depended on response speed.",
+      "whyItMatters": "Understanding D-Day requires asking not only how brave the attackers were, but where and why the defense failed.",
+      "isFlagship": false,
+      "quickRealityCheck": "If the Atlantic Wall was so extensive, why could the Allies hold in Normandy?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-140-memory",
+      "title": "D-Day Memory",
+      "subtitle": "Does the Omaha image cover a five-beach operation?",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "era": "Modern History",
+      "region": "Normandy",
+      "themes": [
+        "War",
+        "Landing",
+        "Memory"
+      ],
+      "whatWeSee": "Saving Private Ryan’s Omaha opening became one of the global visual references for D-Day. Its handheld camera, muffled sound, and collapsing command structure made the landing feel like a bodily shock. For many viewers, the film is not only a depiction of Normandy; it became the image through which Normandy is remembered.",
+      "realHistory": "### A five-beach operation\n\nThe landings of 6 June 1944 were not the story of one shore. Utah, Omaha, Gold, Juno, and Sword were attacked the same morning by sea, air, and airborne forces. U.S. forces landed at Utah and Omaha; British and Canadian forces landed at Gold, Juno, and Sword. That simultaneity mattered. If the German defense could focus on one sector, the bridgehead might fail. D-Day’s success depended on the beaches supporting one another as much as on heroism at any single beach.\n\n### Omaha as visual shorthand\n\nSaving Private Ryan chose Omaha because of its violence, uncertainty, and dramatic power. The choice is historically defensible. Omaha was a terrible and costly sector. But cinema can turn a justified focus into a memory hierarchy. When one image becomes dominant, other parts of the operation become less visible: Canadian fighting at Juno, British operations at Gold and Sword, the airborne landings, naval support, engineers, logistics, and French civilians.\n\n### Memory is selective\n\nPublic memory needs symbols, and symbols simplify. A powerful film scene can teach emotional truth while narrowing historical scale. Saving Private Ryan communicates terror, vulnerability, and sacrifice with extraordinary force. It does not, and cannot, carry the whole operational and multinational map by itself.\n\n### Completing the picture\n\nCorrecting the memory does not mean diminishing Omaha. It means adding the rest of the campaign back in. D-Day was a coalition operation sustained by engineering, deception, logistics, air power, naval fire, and the work of multiple national forces. It was also fought across civilian landscapes already scarred by occupation and bombing.\n\nThat is the value of separating film memory from historical scale. A film can make one beach unforgettable. History has to ask what becomes harder to see because that image is so strong.\n\n### The danger of one image\n\nThe danger is not that the Omaha image is false. The danger is that it becomes sufficient. Once a scene carries the emotional weight of an entire event, viewers may unconsciously let it stand in for every beach, every army, and every civilian experience. That is how memory becomes smaller without feeling inaccurate. A fuller D-Day memory keeps the film’s emotional truth while refusing to let one camera angle become the whole operation.\n\n### What better memory does\n\nBetter memory does not flatten the story into statistics. It adds people and systems back into the frame: Canadian infantry at Juno, British units at Gold and Sword, airborne troops behind the beaches, naval crews offshore, engineers under fire, French civilians under bombardment, and logistics teams trying to turn a beach into a supply line. The result is not less dramatic. It is more honest.",
+      "accuracyNote": "The film powerfully conveys Omaha’s shock; character routes are fictional and the memory scale is selective.",
+      "whyInteresting": "Cinema does not only show the past; it can decide which images later generations use to imagine the past.",
+      "misconception": "Normandy is often reduced to the American Omaha experience; D-Day was a five-beach, multinational, multi-layered operation.",
+      "nextTopics": [
+        "Omaha Beach",
+        "Operation Fortitude",
+        "Airborne Landings"
+      ],
+      "sources": [
+        {
+          "title": "What You Need to Know About the D-Day Beaches (Imperial War Museums)",
+          "url": "https://www.iwm.org.uk/history/second-world-war/d-day/what-you-need-to-know-about-the-d-day-beaches",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Normandy Invasion (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/event/Normandy-Invasion",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Normandy American Cemetery (ABMC)",
+          "url": "https://www.abmc.gov/normandy",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "A Symposium on Saving Private Ryan (National WWII Museum)",
+          "url": "https://www.nationalww2museum.org/events-programs/events/124090-commemorating-20th-anniversary-symposium-saving-private-ryan",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-132-operation-fortitude",
+        "tf26-136-canadian-beaches"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "major",
+      "mediaConnection": "Saving Private Ryan foregrounds sensory violence; True Frame completes it with coalition scale and memory politics.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "world-war-ii",
+        "normandy",
+        "d-day",
+        "d-day-memory",
+        "true-frame"
+      ],
+      "spoilerNote": "May reveal broad themes from Saving Private Ryan.",
+      "mediaChanged": "The film creates a powerful Omaha-centered memory; historical scale shows Utah, Omaha, Gold, Juno, and Sword as a coordinated coalition operation.",
+      "whyItMatters": "Remembering D-Day accurately does not reduce sacrifice; it makes more Allied, civilian, and logistical contributions visible.",
+      "isFlagship": true,
+      "quickRealityCheck": "When D-Day calls up one beach image, is that because of historical weight alone or because cinema selected the image for us?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-142-trinity-test",
+      "title": "The Trinity Test",
+      "subtitle": "A technical success and an ethical threshold.",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Science",
+        "War",
+        "Ethics"
+      ],
+      "whatWeSee": "Oppenheimer stages the Trinity test as a visual climax in the New Mexico desert. The countdown, the scientists waiting in shelters, the flash, and the delayed sound turn the scene into more than a military test. It feels like a fracture in the characters’ moral world.",
+      "realHistory": "On 16 July 1945, the Trinity test in the Jornada del Muerto desert of New Mexico produced the world’s first nuclear explosion. The device tested a plutonium implosion design, the same basic design used for the Fat Man bomb dropped on Nagasaki. Trinity was therefore not simply the first atomic blast. It was a risky engineering idea transformed into a usable weapon system.\n\nThe test site included high-speed cameras, blast gauges, radiation monitoring, observation bunkers, and teams assigned to measure yield and effects. Scientists wanted data, not only spectacle. They needed to know whether the implosion method would work and what scale of destruction it might produce.\n\nThe film emphasizes the emotional and philosophical shock, which is understandable. But Trinity also had local consequences and uncertainties. Fallout moved across surrounding areas, and nearby communities were not warned in any meaningful way. Radiation risk was not simply a later moral debate; it was part of the test environment.\n\nTrinity opened the atomic age as both technical achievement and ethical crisis. It showed that the physics worked, but it also tied scientific success to state secrecy, military use, civilian risk, and long-term responsibility.",
+      "accuracyNote": "The date, location, and implosion context are accurate; the film compresses local health and fallout issues in favor of personal conscience.",
+      "whyInteresting": "The same explosion can be read as a scientific triumph, a military milestone, and the beginning of a lasting ethical problem.",
+      "misconception": "Trinity is often treated as a purely technical proof-of-concept; it also involved military decision-making, measurement science, secrecy, and civilian risk.",
+      "nextTopics": [
+        "Los Alamos",
+        "Oak Ridge",
+        "Hanford"
+      ],
+      "sources": [
+        {
+          "title": "The Trinity test (Los Alamos National Laboratory)",
+          "url": "https://www.lanl.gov/media/publications/national-security-science/0720-the-trinity-test",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Trinity Test (U.S. Department of Energy)",
+          "url": "https://www.energy.gov/lm/trinity-test",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Manhattan Project (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/event/Manhattan-Project",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "oppenheimer-trinity",
+        "tf26-148-hiroshima-context"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "major",
+      "mediaConnection": "Oppenheimer’s Trinity scene connects to the 1945 test and the Manhattan Project’s weaponization process.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "oppenheimer",
+        "manhattan-project",
+        "science",
+        "trinity-test",
+        "true-frame"
+      ],
+      "spoilerNote": "May reveal major context from Oppenheimer.",
+      "mediaChanged": "The film makes the test a visual and emotional climax; historical records add measurement infrastructure, secrecy, and fallout consequences.",
+      "whyItMatters": "Trinity helps us read the atomic age as a chain of responsibility, not only as a scientific breakthrough.",
+      "isFlagship": false,
+      "quickRealityCheck": "Why was Trinity technically necessary before Hiroshima, and why was it ethically disturbing at the same time?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-143-oak-ridge",
+      "title": "Oak Ridge",
+      "subtitle": "The secret city built for uranium.",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Science",
+        "War",
+        "Ethics"
+      ],
+      "whatWeSee": "In Oppenheimer, Oak Ridge is less visible than Los Alamos. It feels like a distant production arm of the project while the film foregrounds theory, personality, and political decision. Yet behind that drama was a closed industrial city built to turn physics into material.",
+      "realHistory": "Oak Ridge was the uranium engine of the Manhattan Project. Built in Tennessee from 1942, the new city centered on massive facilities designed to separate U-235 from U-238. Y-12 used electromagnetic separation, K-25 used gaseous diffusion, and S-50 used thermal diffusion. These systems pursued the same goal through different methods: producing enriched uranium for a bomb.\n\nThis was not only scientific innovation. It required extraordinary electricity use, material control, security discipline, and shift labour. Tens of thousands of workers were brought into a city many had never heard of before. Most did not know the project’s final purpose. Security worked by compartmentalization: people knew their panel, pipe, machine, or shift, but not the full weapon chain.\n\nOak Ridge also shows the social face of the atomic age. Housing, job status, gender roles, and racial segregation shaped the city. Women operators, technicians, clerks, and support staff were critical to production but long remained at the margins of the famous story.\n\nThe bomb was not produced by a few brilliant physicists alone. Oak Ridge reveals the industrial scale beneath the laboratory myth: uranium enrichment, factory routines, secrecy, electricity, and disciplined labour turned scientific possibility into a weapon.",
+      "accuracyNote": "The film gets the strategic frame of the Manhattan Project right, but Oak Ridge’s labour force, facilities, and city discipline remain mostly offscreen.",
+      "whyInteresting": "A city built almost from scratch for isotope separation and war production is one of the strangest social forms of modern science.",
+      "misconception": "The atomic bomb is often imagined as the result of theory alone; Oak Ridge shows how decisive industrial infrastructure was.",
+      "nextTopics": [
+        "Los Alamos",
+        "Trinity Test",
+        "Hanford"
+      ],
+      "sources": [
+        {
+          "title": "Uranium - Manhattan Project National Historical Park",
+          "url": "https://www.nps.gov/mapr/learn/uranium.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The Secret City: Oak Ridge, Tennessee (U.S. Department of Energy)",
+          "url": "https://www.energy.gov/management/office-management/operational-management/history/secret-city-oak-ridge-tennessee",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "History - Oak Ridge Office of Environmental Management (DOE)",
+          "url": "https://www.energy.gov/orem/history",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-144-hanford",
+        "tf26-145-security",
+        "tf26-146-women-workers"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Oppenheimer’s Los Alamos story depended on production centers such as Oak Ridge.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "oppenheimer",
+        "manhattan-project",
+        "science",
+        "oak-ridge",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain minor context for Oppenheimer; does not reveal the ending.",
+      "mediaChanged": "By centering Los Alamos, the film leaves Oak Ridge’s production scale in the background; historically, the uranium chain made the decision drama operational.",
+      "whyItMatters": "Oak Ridge makes visible the factory system, secrecy, and mass labour behind wartime science.",
+      "isFlagship": false,
+      "quickRealityCheck": "How did it help project management that thousands of Oak Ridge workers did not know the final purpose of their work?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-144-hanford",
+      "title": "Hanford",
+      "subtitle": "The plutonium factory and its long environmental debt.",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Science",
+        "War",
+        "Ethics"
+      ],
+      "whatWeSee": "In Oppenheimer, Hanford appears far less prominently than the intellectual world of Los Alamos. Pipes, reactors, and production urgency flash by in the background. That brief presence matters: the atomic bomb was not made by blackboards alone. It required a vast industrial chain.",
+      "realHistory": "### Industrializing plutonium\n\nHanford was the plutonium-production backbone of the Manhattan Project. The site in Washington State was chosen for its isolation, available land, and access to Columbia River water for cooling. The B Reactor became one of the world’s first full-scale nuclear production reactors, turning plutonium production into an industrial process. Los Alamos’s implosion design could not become a usable weapon without fissile material from this production chain.\n\n### Displacement and secrecy\n\nHanford was also a social and political event. Local settlements were cleared quickly, and Indigenous relationships to river, land, fishing, and hunting were restricted. Tens of thousands of workers arrived, but many did not know the project’s purpose. Secrecy was part of production speed: each person performed a task while the military meaning of the whole system remained tightly held.\n\n### Beyond 1945\n\nHanford did not end when the war ended. During the Cold War, production expanded, reactors and chemical separation systems grew, and radioactive and chemical waste accumulated. Tank waste, groundwater risk, and the pressure on the Columbia River ecosystem made Hanford one of the largest and most complex nuclear cleanup challenges in the United States.\n\n### The scale of responsibility\n\nOppenheimer makes individual conscience dramatically powerful. Hanford widens that question. Nuclear history includes displaced communities, workers, environmental risk, secrecy, and infrastructure whose consequences persist for generations. Scientific success cannot be separated from the industrial systems that make it real.\n\n### Memory and cleanup\n\nToday Hanford carries two meanings at once. The B Reactor can be visited as a historic site, while cleanup work continues in the same region. That overlap is the lesson. States can build extraordinary systems for urgent security goals, but the costs can remain long after the war is over. Hanford is not the end of the victory story; it is where the social balance sheet of nuclear technology begins.\n\n### The river as witness\n\nThe Columbia River was not just a convenient engineering resource. It was part of a living regional system that communities used for food, movement, culture, and identity. Using the river for reactor cooling tied nuclear production to a landscape that could not simply be sealed inside fences. That is one reason Hanford’s legacy is so persistent: the technology was secret, but its environmental setting was public and shared. Waste, water, and memory do not obey the same boundaries as classified documents. The site therefore links wartime urgency to peacetime accountability, a connection that short victory narratives often miss.",
+      "accuracyNote": "Hanford’s role in plutonium production is accurate; the film treats it briefly, while production and waste legacy were central to the project’s long history.",
+      "whyInteresting": "Hanford turns the nuclear success story toward displacement, industrial scale, and environmental responsibility.",
+      "misconception": "The atomic bomb story is often imagined as ending in laboratory theory; Hanford shows that production and waste management continue the story.",
+      "nextTopics": [
+        "Los Alamos",
+        "Trinity Test",
+        "Oak Ridge"
+      ],
+      "sources": [
+        {
+          "title": "Hanford B Reactor Panoramic Tour (National Park Service)",
+          "url": "https://www.nps.gov/articles/000/hanford-b-reactor-panoramic-tour.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Hanford and the Manhattan Project (National Park Service)",
+          "url": "https://www.nps.gov/mapr/learn/historyculture/hanford.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Hanford Site Overview (U.S. Department of Energy)",
+          "url": "https://www.hanford.gov/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Hanford Site (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/place/Hanford-Site",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "oppenheimer-trinity",
+        "tf26-148-hiroshima-context"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Oppenheimer enlarges individual ethical conflict; True Frame widens the file to industrial scale and environmental justice.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "oppenheimer",
+        "manhattan-project",
+        "science",
+        "hanford",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain minor context for Oppenheimer; does not reveal the ending.",
+      "mediaChanged": "The film uses Hanford as a short production image; records show plutonium production and waste legacy at the center of atomic-age history.",
+      "whyItMatters": "Nuclear history must account not only for explosions and decisions, but also for infrastructure and environmental debt carried across generations.",
+      "isFlagship": true,
+      "quickRealityCheck": "Does the nuclear story end at the laboratory equation, or continue through production and waste management?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-145-security",
+      "title": "The Security Regime",
+      "subtitle": "Science on a need-to-know basis.",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Science",
+        "War",
+        "Ethics"
+      ],
+      "whatWeSee": "Oppenheimer shows locked doors, clearance files, closed conversations, and security hearings. Even when characters discuss equations, they are surrounded by questions of who may know what, who may speak to whom, and how past associations will be interpreted.",
+      "realHistory": "The Manhattan Project created one of the strictest secrecy systems of the Second World War. Los Alamos, Oak Ridge, and Hanford were separated geographically, and information was deliberately compartmentalized. The “need-to-know” principle meant that workers were supposed to see only what their task required. Mail was monitored, travel was limited, backgrounds were investigated, and project sites operated under military discipline.\n\nIn the short term, this system was surprisingly effective. A massive project was largely kept from public view. But secrecy was not perfect. Espionage cases such as Klaus Fuchs showed that closed systems could still leak information. After the war, security culture expanded from protecting technical secrets into judging political loyalty.\n\nOppenheimer’s 1954 security hearing became a symbol of that shift. Scientific views, foreign policy disagreement, personal history, and old associations could all become part of a loyalty file.\n\nThe security regime therefore cuts both ways. It helped protect and accelerate the project, but it also narrowed open scientific exchange and policy debate. The Manhattan model shaped Cold War research institutions around a lasting question: how much science can remain open when the state treats knowledge as a weapon?",
+      "accuracyNote": "The film concentrates security pressure in Oppenheimer’s personal tragedy; historically, the same pressure was a project-wide management model.",
+      "whyInteresting": "A secrecy system can speed and protect a project while also becoming a political instrument that narrows scientific debate.",
+      "misconception": "The Manhattan Project is often told only as technical genius; security structures shaped everyday work just as strongly.",
+      "nextTopics": [
+        "Los Alamos",
+        "Trinity Test",
+        "Oak Ridge"
+      ],
+      "sources": [
+        {
+          "title": "Security and Secrecy (Atomic Heritage Foundation)",
+          "url": "https://ahf.nuclearmuseum.org/ahf/history/security-and-secrecy/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Manhattan Project (U.S. Department of Energy)",
+          "url": "https://www.energy.gov/management/manhattan-project",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Manhattan Project (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/event/Manhattan-Project",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-146-women-workers",
+        "oppenheimer-gray-board-1954-real",
+        "tf26-148-hiroshima-context"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Oppenheimer’s closed-door atmosphere fits the Manhattan Project’s institutional security architecture.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "oppenheimer",
+        "manhattan-project",
+        "science",
+        "security-regime",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain minor context for Oppenheimer; does not reveal the ending.",
+      "mediaChanged": "The film focuses security pressure through Oppenheimer’s file; historically it extended across Los Alamos, Oak Ridge, and Hanford.",
+      "whyItMatters": "Nuclear research history shows how open science and state secrecy became locked in a modern institutional tension.",
+      "isFlagship": false,
+      "quickRealityCheck": "When does a security system protect progress, and when does it shrink the space for debate?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-146-women-workers",
+      "title": "Hidden Women’s Work",
+      "subtitle": "From calutron panels to health physics.",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Science",
+        "War",
+        "Ethics"
+      ],
+      "whatWeSee": "Oppenheimer foregrounds laboratory meetings, Trinity preparations, and security hearings. The screen is dominated by male physicists, military managers, and decision rooms. The women who operated calutrons at Oak Ridge, worked in health physics at Los Alamos, handled records, calculations, and technical routines mostly remain at the edge of the story.",
+      "realHistory": "The Manhattan Project employed tens of thousands of people, and women performed a significant share of the work. At Oak Ridge’s Y-12 plant, the “Calutron Girls” were often young women trained to monitor electromagnetic separation equipment. They watched control panels, adjusted dials, and kept the uranium enrichment process stable through repetitive but critical work. Many learned only after the war what the process was for.\n\nTheir importance was not only numerical. Careful attention, procedural discipline, and steady operation helped keep complex separation systems functioning. At Los Alamos, women also worked in health physics, laboratory monitoring, calculation, administration, radiation safety, and technical support. These jobs do not fit easily into the “genius in the room” version of the story, but the project could not run without them.\n\nThe film chooses Oppenheimer’s intellectual and political drama, so this hidden labour is understandably limited. History shows a broader atomic system. The bomb depended on operators, technicians, nurses, clerks, monitors, and record keepers working under secrecy. Atomic theory became a weapon only because thousands of often unnamed people made the production chain work.",
+      "accuracyNote": "The film centers Los Alamos decision-making; Oak Ridge calutron operators and technical women’s labour are historically well documented but only lightly represented onscreen.",
+      "whyInteresting": "Calutron operators helped run a crucial production line through careful procedure rather than advanced physics credentials.",
+      "misconception": "The Manhattan Project is often imagined as the work of a few brilliant male scientists; production, health, calculation, and administration involved thousands of women.",
+      "nextTopics": [
+        "Los Alamos",
+        "Trinity Test",
+        "Oak Ridge"
+      ],
+      "sources": [
+        {
+          "title": "The Calutron Girls (U.S. National Park Service)",
+          "url": "https://www.nps.gov/articles/000/the-calutron-girls.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The Calutron Girls (National Archives)",
+          "url": "https://prologue.blogs.archives.gov/2023/07/19/the-calutron-girls/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Health Physics & Nuclear Medicine During the Manhattan Project",
+          "url": "https://ahf.nuclearmuseum.org/ahf/history/health-physics-nuclear-medicine-during-manhattan-project/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Manhattan Project (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/event/Manhattan-Project",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "oppenheimer-gray-board-1954-real",
+        "tf26-148-hiroshima-context",
+        "oppenheimer-science-state"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Oppenheimer shows the decision makers; this card adds the women’s work at Oak Ridge and Los Alamos that made the weapon possible.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "oppenheimer",
+        "manhattan-project",
+        "science",
+        "women-workers",
+        "hidden-labour",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain minor context for Oppenheimer; does not reveal the ending.",
+      "mediaChanged": "The film centers science and politics; calutron operators, health workers, and technical women’s labour remain mostly invisible.",
+      "whyItMatters": "Hidden women’s work reminds us that the atomic age was built through disciplined, repetitive, and often unnamed labour.",
+      "isFlagship": false,
+      "quickRealityCheck": "The meetings in Oppenheimer happened; but who watched the panels that processed the uranium?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Calutron Girls and Los Alamos health roles checked against NPS, National Archives, and Atomic Heritage sources."
+    },
+    {
+      "id": "tf26-148-hiroshima-context",
+      "title": "The Hiroshima Context",
+      "subtitle": "Target selection and the ethical threshold.",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Science",
+        "War",
+        "Ethics"
+      ],
+      "whatWeSee": "Oppenheimer does not directly show Hiroshima. That absence is part of the film’s design. After Trinity, it follows Oppenheimer’s distance from the final military-political decision, the fractured victory speech, and the moral echo of consequences rather than the faces of victims. The choice is powerful, but history requires a wider frame.",
+      "realHistory": "### The decision chain\n\nOn 6 August 1945, the uranium bomb “Little Boy” was dropped on Hiroshima. On 9 August, the plutonium bomb “Fat Man” was used on Nagasaki. Oppenheimer does not show either city because its story is built around Los Alamos, Trinity, and postwar conscience. In the actual decision chain, Oppenheimer was important but not sovereign. President Harry S. Truman, the War Department, Manhattan Project leadership, and military advisers shaped the use of the weapon within a broader effort to force Japan’s surrender.\n\nThat context included estimates about a possible invasion of Japan, the timing of Soviet entry into the Pacific War, unconditional surrender policy, and postwar diplomatic positioning. Oppenheimer helped make the bomb possible, but the authority to use it lay in political and military hands.\n\n### Target selection\n\nThe target process was not random. Target Committee discussions considered cities with military and industrial relevance, large urban areas, and limited previous bombing damage so the bomb’s effects could be assessed. Hiroshima was a military headquarters and communications center, but it was also a city full of civilians. The technical language of target selection did not reduce the human reality. In fact, the desire to measure effect makes the ethical weight sharper.\n\n### Human consequences\n\nHiroshima’s own estimate places deaths by the end of 1945 at roughly 140,000, though exact numbers remain uncertain. Immediate blast and fire killed many; burns, trauma, and radiation sickness killed more over weeks and months. Calling Hiroshima a military target is therefore not enough. The weapon destroyed a civilian urban space at mass scale.\n\n### A continuing argument\n\nThe decision remains deeply debated. Some historians emphasize that the bombs helped end the war quickly and may have reduced the risk of an invasion. Others question whether blockade, Soviet entry, modified surrender terms, or a demonstration could have been pursued differently. What is clear is that Hiroshima was not only an endpoint of the Second World War. It was the ethical threshold of the nuclear age.\n\nOppenheimer’s decision not to show the city creates a moral absence. That absence can make viewers feel responsibility from the American side, but it cannot substitute for the Japanese civilian experience. The history is complete only when scientific production, state decision, military calculation, and civilian destruction are held in the same frame.\n\n### Why the absence matters\n\nThe film’s refusal to show Hiroshima can be read in two ways. It avoids turning Japanese suffering into spectacle, but it also keeps the viewer inside the American moral frame. That tension is exactly why historical context is necessary. The absence should not let the city disappear. It should push the viewer to seek the civilian record outside the film: testimonies, casualty estimates, medical accounts, family histories, and the long afterlife of radiation exposure. Without that added frame, conscience risks becoming centered on the maker rather than the people harmed.",
+      "accuracyNote": "The film does not show Hiroshima or Nagasaki directly; it centers Oppenheimer’s burden. Historically, target selection, the Truman administration, military calculation, and civilian casualties must be considered together.",
+      "whyInteresting": "A scientific achievement can also be a war-ending strategy, a state decision, and a civilian catastrophe.",
+      "misconception": "The Hiroshima decision is sometimes imagined as having been made by Oppenheimer and the scientists; the use decision belonged to the political and military chain of command.",
+      "nextTopics": [
+        "Los Alamos",
+        "Trinity Test",
+        "Oak Ridge"
+      ],
+      "sources": [
+        {
+          "title": "Hiroshima City - How many people died because of the atomic bombing?",
+          "url": "https://www.city.hiroshima.lg.jp/english/peace/1029875/1010074.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "National Archives Museum - The Atomic Bombing of Hiroshima and Nagasaki",
+          "url": "https://visit.archives.gov/whats-on/explore-exhibits/atomic-bombing-hiroshima-and-nagasaki",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Nuclear Museum / Atomic Heritage Foundation - Target Committee Recommendations",
+          "url": "https://ahf.nuclearmuseum.org/ahf/key-documents/target-committee-recommendations/",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-150-cold-war-start",
+        "tf26-144-hanford"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 4,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Oppenheimer’s refusal to show Hiroshima gains weight when read alongside Target Committee documents and Hiroshima casualty estimates.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "oppenheimer",
+        "manhattan-project",
+        "science",
+        "hiroshima-context",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain broad historical context for Oppenheimer.",
+      "mediaChanged": "The film creates a moral void by not showing the bombing; historical sources join the technical language of target selection to civilian destruction.",
+      "whyItMatters": "Hiroshima keeps open the ethical question of where scientific production ends and state violence begins.",
+      "isFlagship": true,
+      "quickRealityCheck": "Was Hiroshima selected only for military importance, or also because the bomb’s effects could be measured there?",
+      "lastReviewedAt": "2026-06-28"
+    }
+  ]
+}

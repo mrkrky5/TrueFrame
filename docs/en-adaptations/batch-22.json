@@ -1,0 +1,1503 @@
+{
+  "meta": {
+    "purpose": "English-native adaptation batch",
+    "sourceChunk": "source-chunk-022.json",
+    "batchNumber": 22,
+    "cardCount": 20,
+    "sourceCardRange": "TR order cards 421-440",
+    "alreadyAuthoredCountBeforeBatch": 420,
+    "authoredCountAfterBatch": 440,
+    "remainingCountAfterBatch": 11,
+    "ids": [
+      "tf26-254-aoe-siege-engineering",
+      "tf26-255-totalwar-condottieri",
+      "tf26-256-kcd-plague-quarantine",
+      "tf26-257-bannerlord-feudal-army",
+      "tf26-258-vampyr-1918-flu",
+      "tf26-259-manorlords-town-formation",
+      "tf26-260-forhonor-chivalry-myth",
+      "tf26-261-anno1800-industrial-city",
+      "tf26-262-stronghold-castle-economy",
+      "tf26-263-imitation-game-bletchley",
+      "tf26-264-allquiet-wwi-memory",
+      "tf26-265-master-commander-royal-navy",
+      "tf26-266-last-duel-trial-by-combat",
+      "tf26-267-tetris-cold-war-software",
+      "tf26-268-argo-iran-hostage",
+      "tf26-269-12years-slavery-testimony",
+      "tf26-270-hotel-rwanda-genocide-memory",
+      "tf26-271-downfall-hitler-bunker-collapse",
+      "tf26-272-apollo13-engineering-failure",
+      "tf26-273-bridge-of-spies-u2-exchange"
+    ],
+    "notes": "Adapted from Turkish canonical cards. Source URLs and relation IDs preserved; localized text fields adapted into natural English."
+  },
+  "cards": [
+    {
+      "id": "tf26-254-aoe-siege-engineering",
+      "title": "Siege Engineering",
+      "subtitle": "A catapult alone did not bring down a castle.",
+      "mediaType": "game",
+      "mediaTitle": "Age of Empires II",
+      "era": "Middle Ages",
+      "region": "Europe / Mediterranean",
+      "themes": [
+        "Middle Ages",
+        "War",
+        "Engineering",
+        "Castles"
+      ],
+      "whatWeSee": "In Age of Empires II, siege weapons are wonderfully clear: build a mangonel, ram, trebuchet, or bombard cannon, send it toward a wall, and the stone defense falls. That mechanic makes warfare readable and gives the player a clean tension between fortification and technology. Real medieval sieges were rarely that tidy. Machines mattered, but castles were more often defeated by time, supply pressure, morale, disease, mining, negotiation, and engineering patience.",
+      "realHistory": "Medieval commanders often found a castle harder to defeat than an army in the open. A siege could involve bombardment, but it could also involve digging trenches, mining under walls, blocking roads, cutting food supplies, building towers, probing gates, and negotiating surrender. Trebuchets and rams were serious tools, yet they were not magical wall-delete buttons. They needed skilled crews, timber, rope, animals, protection, and enough time to keep working under fire.\n\nThe sieges of Dover Castle in 1216-1217 show why the story is more complex than stone machines hitting stone walls. Attackers used mining, gate assaults, and siege engines, but the castle did not fall simply because someone brought the right equipment. The outcome depended on defenders, supplies, terrain, politics, and the attacking army's ability to remain in place without falling apart.\n\nAge of Empires II simplifies this beautifully because a strategy game needs speed and clarity. The real question is still useful: did the machine break the wall, or did the whole system behind the machine do it? Medieval siege warfare was engineering, logistics, exhaustion, and bargaining as much as spectacle.",
+      "accuracyNote": "The game turns siege engines into fast, readable combat tools. Real sieges were longer operations involving mining, starvation, supply, morale, negotiation, and technical labor.",
+      "whyInteresting": "The most dramatic part of a castle war was not always the giant machine. It was the ability to keep an army fed, organized, and patient long enough for the machine to matter.",
+      "misconception": "Trebuchets and catapults are often imagined as weapons that could simply erase a castle. Most sieges were far more dependent on engineering, time, and supply.",
+      "nextTopics": [
+        "Dynastic Marriage",
+        "Feudal Armies",
+        "Mercenary Armies"
+      ],
+      "relatedCardIds": [
+        "tf26-220-ck3-dynastic-marriage",
+        "tf26-255-totalwar-condottieri",
+        "tf26-231-mgs-private-military-companies"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "spoilerLevel": "none",
+      "mediaConnection": "Age of Empires II's siege units can be read against real medieval siegecraft, where machines worked only inside a wider system of engineers, supplies, time, and pressure.",
+      "accuracyType": "partly-real",
+      "tags": [
+        "age-of-empires",
+        "siege-warfare",
+        "middle-ages",
+        "engineering",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game reduces siege warfare to production and attack loops. Historically, walls were pressured by hunger, mining, trenches, morale, and logistics as much as by machines.",
+      "whyItMatters": "Siege history shows that military technology works only when organization and resource management can support it.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was a castle defeated by the trebuchet itself, or by the army system that could keep that trebuchet operating for weeks?",
+      "sources": [
+        {
+          "title": "English Heritage - Medieval siege warfare",
+          "url": "https://www.english-heritage.org.uk/learn/story-of-england/medieval/siege-warfare/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "English Heritage - The Sieges of Dover Castle 1216–17",
+          "url": "https://www.english-heritage.org.uk/visit/places/dover-castle/history-and-stories/the-sieges-of-dover/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Royal Armouries - History of the Tower Armouries",
+          "url": "https://royalarmouries.org/about-us/royal-armouries-history/history-of-the-tower-armouries",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-255-totalwar-condottieri",
+      "title": "Mercenary Armies",
+      "subtitle": "Condottieri and the economics of war.",
+      "mediaType": "game",
+      "mediaTitle": "Total War: Medieval II",
+      "era": "Middle Ages / Renaissance",
+      "region": "Italy",
+      "themes": [
+        "War",
+        "Economics",
+        "Renaissance",
+        "Politics"
+      ],
+      "whatWeSee": "In Total War: Medieval II, mercenaries are a practical fix. If you have money, you can raise troops quickly, cover a weak front, and send trained soldiers into battle without waiting for a feudal levy. The mechanic captures an important truth: medieval and Renaissance warfare was not only about loyalty or noble obligation. It also ran on cash, contracts, and military labor markets.",
+      "realHistory": "In fourteenth- and fifteenth-century Italy, city-states, princely families, the papacy, and regional powers competed constantly. That fragmented political world created a market for professional soldiers known as condottieri. The word comes from the condotta, the contract that defined the terms of service. A condottiere was not just a fighter; he was a military entrepreneur who recruited men, negotiated pay, managed risk, and sometimes changed employers.\n\nThis system suited many Italian states because maintaining a large permanent citizen army was expensive and politically difficult. Contracting military force could look more flexible. But paid warfare had its own logic. A commander might care not only about victory, but also about preserving his company, protecting future bargaining power, and keeping pay flowing. Campaigns could therefore involve negotiation, delay, switching sides, or controlled violence as much as heroic battle.\n\nTotal War's 'pay money, get troops' mechanic is obviously simplified, but the basic insight is strong. War was also a service industry. Condottieri remind us that behind Renaissance art, banking, and civic splendor stood a market for organized violence.",
+      "accuracyNote": "The game treats mercenaries as fast strategic units. The Italian condottieri system was a more complex world of contracts, pay, city-state rivalry, and military entrepreneurship.",
+      "whyInteresting": "In Renaissance Italy, war could be a business of contracts, cash flow, reputation, and bargaining power.",
+      "misconception": "Mercenaries are often imagined as random, undisciplined fighters. Many condottieri operated more like military companies with contracts, clients, and political leverage.",
+      "nextTopics": [
+        "Siege Engineering",
+        "Dynastic Marriage",
+        "Private Military Companies"
+      ],
+      "relatedCardIds": [
+        "tf26-254-aoe-siege-engineering",
+        "tf26-220-ck3-dynastic-marriage",
+        "tf26-231-mgs-private-military-companies"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "mediaConnection": "Total War: Medieval II's mercenary mechanic fits the history of Italian condottieri, where contract warfare helped city-states buy military capacity.",
+      "accuracyType": "partly-real",
+      "tags": [
+        "total-war",
+        "condottieri",
+        "mercenaries",
+        "renaissance",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game makes mercenaries a quick strategic option. Historically, that option depended on money, diplomacy, employer trust, and the wider market for war.",
+      "whyItMatters": "Condottieri are a distant but useful precedent for thinking about hired violence and private military power.",
+      "isFlagship": false,
+      "quickRealityCheck": "Were mercenaries a problem because they were disloyal, or because they made the price of war openly negotiable?",
+      "sources": [
+        {
+          "title": "Michael Mallett - Mercenaries and Their Masters: Warfare in Renaissance Italy",
+          "url": "https://books.google.com/books/about/Mercenaries_and_Their_Masters.html?id=vf1yCgAAQBAJ",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Encyclopaedia Britannica 1911 - Condottiere",
+          "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Condottiere",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "TED-Ed - The rise and fall of Italy's warriors-for-hire",
+          "url": "https://ed.ted.com/lessons/the-merciless-mercenaries-of-the-italian-renaissance-stephanie-honchell-smith",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-256-kcd-plague-quarantine",
+      "title": "Medieval Disease Measures",
+      "subtitle": "How do you manage illness before germ theory?",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "era": "Middle Ages",
+      "region": "Bohemia / Europe",
+      "themes": [
+        "Middle Ages",
+        "Disease",
+        "Health",
+        "Religion"
+      ],
+      "whatWeSee": "Kingdom Come: Deliverance makes medieval Bohemia feel grounded through villages, churches, healers, rumors, and everyday fear. Disease in that world is not a laboratory problem. It is a threat that unsettles households, markets, faith, and local authority. The realism comes from that uncertainty: people try to respond, but their explanations are built from smell, contact, prayer, isolation, and inherited medical ideas rather than microbes.",
+      "realHistory": "Medieval communities were not passive in the face of disease, but they did not understand infection as modern medicine does. Illness might be explained through bad air, corrupted surroundings, divine punishment, sin, astrology, or suspicious outsiders. The miasma idea made smells, waste, and air quality feel medically important, so fumigation, sweet herbs, fires, vinegar, and cleaning could seem like rational protective steps.\n\nSome measures were more practical than their explanations. Ports held ships outside the city. Homes could be marked or isolated. Travelers might be watched. Markets, movement, and contact could be restricted. The word quarantine itself comes from the practice of holding suspected ships or people for a period associated with forty days. These systems were imperfect and often shaped by trade pressure, fear, and inequality, but the basic intuition was powerful: slowing movement could slow disease.\n\nThat is why illness in a realistic medieval game is never just a medical detail. It tests who has authority, which information people trust, who is blamed, and what a community is willing to restrict in order to survive.",
+      "accuracyNote": "The game is not a medical history lesson, but its mix of local authority, religious explanation, limited medicine, and everyday fear has a strong historical basis.",
+      "whyInteresting": "Even before germ theory, societies developed isolation and movement control as ways to manage disease.",
+      "misconception": "Medieval people are often imagined as having no practical response to epidemics. In reality, some responses limited contact and movement even when the theory behind them was wrong.",
+      "nextTopics": [
+        "The Idea of Quarantine",
+        "Medieval Cleanliness",
+        "Plague Doctors"
+      ],
+      "relatedCardIds": [
+        "tf26-192-quarantine",
+        "tf26-196-medieval-hygiene",
+        "tf26-197-doctors"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "mediaConnection": "Kingdom Come: Deliverance's grounded medieval world can be read alongside miasma theory, early quarantine practice, and local disease management.",
+      "accuracyType": "partly-real",
+      "tags": [
+        "kingdom-come-deliverance",
+        "middle-ages",
+        "health",
+        "epidemics",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game frames illness through character experience. Historical sources show a wider system of miasma ideas, isolation, port control, and local authority.",
+      "whyItMatters": "Epidemic history shows how societies make hard decisions about risk, rumor, and order even when science is incomplete.",
+      "isFlagship": false,
+      "quickRealityCheck": "If germ theory did not exist, why could quarantine still be a useful idea?",
+      "sources": [
+        {
+          "title": "CDC Stacks - History of Quarantine",
+          "url": "https://stacks.cdc.gov/view/cdc/84791",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Emerging Infectious Diseases - Lessons from the History of Quarantine",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3559034/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Wellcome Collection - Anxiety in the air",
+          "url": "https://wellcomecollection.org/stories/anxiety-in-the-air",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-257-bannerlord-feudal-army",
+      "title": "Feeding a Feudal Army",
+      "subtitle": "Calling the vassals was only the beginning.",
+      "mediaType": "game",
+      "mediaTitle": "Mount & Blade II: Bannerlord",
+      "era": "Middle Ages",
+      "region": "Europe / Fictional Calradia",
+      "themes": [
+        "Feudalism",
+        "Economics",
+        "Military History",
+        "Middle Ages"
+      ],
+      "whatWeSee": "Mount & Blade II: Bannerlord turns army-building into a daily economy. You recruit from villages, call vassals, besiege castles, pay wages, manage food, and watch morale shift. Calradia is fictional, but the game captures a real medieval truth: an army is not just a count of warriors. It stands on land, taxes, allegiance, roads, animals, food, and money.",
+      "realHistory": "Feudal warfare is often reduced to a simple image: a lord calls, knights arrive, the army marches. Real vassalage was more legal and economic than that. A vassal might owe military service in return for land or protection, but the service could be limited by time, region, custom, or payment. In some places, obligations could be replaced with money payments such as scutage, showing that war was also a financial problem.\n\nOnce an army assembled, the hardest issue was often not battle but the road. Soldiers and animals needed food, fodder, arrows, wagons, tents, cooks, smiths, messengers, shoes, and pay. Long campaigns strained lordly income and local communities. A ruler might rely on vassals, taxes, plunder, hired troops, or forced supplies to keep a campaign alive.\n\nBannerlord's systems work because they make those invisible pressures playable. When the player raises troops, they also inherit wages, morale, food, garrisons, prisoners, and loyalty problems. The game is not a documentary, but it understands the core logic: medieval war was as much about keeping people fed and bound to you as it was about winning a charge.",
+      "accuracyNote": "Bannerlord is not a real historical simulation, but its links between vassalage, land, wages, food, morale, and army capacity reflect key problems of feudal campaigning.",
+      "whyInteresting": "To understand medieval war, you have to look at the pay ledger and food wagon as well as the armor.",
+      "misconception": "Feudal armies are often imagined as permanent forces of unlimited loyalty. In reality, service length, supply, and money sharply limited war capacity.",
+      "nextTopics": [
+        "Dynastic Marriage",
+        "Siege Engineering",
+        "Mercenary Armies"
+      ],
+      "relatedCardIds": [
+        "tf26-220-ck3-dynastic-marriage",
+        "tf26-254-aoe-siege-engineering",
+        "tf26-255-totalwar-condottieri"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "spoilerLevel": "none",
+      "mediaConnection": "Bannerlord's recruitment and supply systems can be read against real feudal service, fief income, wages, and campaign logistics.",
+      "accuracyType": "inspired-by-reality",
+      "tags": [
+        "mount-and-blade",
+        "bannerlord",
+        "feudalism",
+        "middle-ages",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game turns feudal war into a playable economy. Historically, that system was shaped by obligations, taxes, local resources, and logistics.",
+      "whyItMatters": "It pushes military history away from pure heroism and toward state capacity, supply, and social obligation.",
+      "isFlagship": false,
+      "quickRealityCheck": "What made a medieval army strong: how many knights it could summon, or how long it could feed them?",
+      "sources": [
+        {
+          "title": "World History Encyclopedia - Feudalism",
+          "url": "https://www.worldhistory.org/Feudalism/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Feudalism",
+          "url": "https://www.britannica.com/topic/feudalism",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "ResearchGate - Military Logistics during the Reign of Edward I of England, 1272–1307",
+          "url": "https://www.researchgate.net/publication/240728408_Military_Logistics_during_the_Reign_of_Edward_I_of_England_1272-1307",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-258-vampyr-1918-flu",
+      "title": "The 1918 Influenza Pandemic",
+      "subtitle": "London's invisible enemy.",
+      "mediaType": "game",
+      "mediaTitle": "Vampyr",
+      "era": "Modern History",
+      "region": "Britain / World",
+      "themes": [
+        "Disease",
+        "Modern History",
+        "Health",
+        "London"
+      ],
+      "whatWeSee": "Vampyr builds its 1918 London from fog, hospitals, morgues, night streets, and moral exhaustion. The vampire plot is fictional, but the city sits in the shadow of a real disaster. As the First World War neared its end, people were not only facing battlefield losses. They were also living through a pandemic that entered homes, hospitals, factories, and crowded streets.",
+      "realHistory": "The 1918-1919 influenza pandemic was one of modern history's most destructive health crises. The CDC estimates that about one third of the world's population was infected and that at least 50 million people died. The pandemic overlapped with the final months of the First World War, when troop movement, crowded camps, censorship, weak health capacity, and public exhaustion made the crisis harder to manage.\n\nThe label 'Spanish flu' is misleading. The disease was not named that because it clearly began in Spain. Spain was neutral, so its press reported the outbreak more openly while many belligerent countries censored bad news. That visibility made Spain seem like the center of a crisis that was actually global.\n\nVampyr's dark London is therefore more than gothic decoration. The real fear was not supernatural. It was a poorly understood disease that could kill young adults, overwhelm hospitals, and disappear into wartime news control. The game uses horror to make visible a historical moment when modern medicine still depended on public trust, information, and basic health capacity.",
+      "accuracyNote": "Vampyr's vampire story is fictional, but its 1918 London background fits a real world of war fatigue, hospital pressure, and pandemic fear.",
+      "whyInteresting": "Even the name 'Spanish flu' tells us as much about wartime censorship and news visibility as it does about disease.",
+      "misconception": "The 1918 flu is sometimes imagined as an ordinary flu that mainly affected the elderly. One of its striking features was its heavy impact on young adults as well.",
+      "nextTopics": [
+        "Medieval Disease Measures",
+        "Public Health",
+        "The Siege of Sarajevo"
+      ],
+      "relatedCardIds": [
+        "tf26-256-kcd-plague-quarantine",
+        "tf26-180-public-health",
+        "tf26-210-twom-sarajevo-siege"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "mediaConnection": "Vampyr's 1918 London atmosphere can be read through the real influenza pandemic, wartime censorship, hospital strain, and urban public health.",
+      "accuracyType": "partly-real",
+      "tags": [
+        "vampyr",
+        "1918-flu",
+        "london",
+        "health",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game uses the pandemic as a gothic horror background. Historical sources point to wartime censorship, global mortality, and strained health systems.",
+      "whyItMatters": "The 1918 pandemic shows that health crises are shaped not only by viruses, but also by war, public information, and institutional capacity.",
+      "isFlagship": false,
+      "quickRealityCheck": "Why was it called the Spanish flu: because it began in Spain, or because Spain reported it more openly?",
+      "sources": [
+        {
+          "title": "CDC Archive - History of 1918 Flu Pandemic",
+          "url": "https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-commemoration/1918-pandemic-history.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "National Archives - The Influenza Epidemic of 1918",
+          "url": "https://www.archives.gov/exhibits/influenza-epidemic/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Wellcome Collection - Report on the pandemic of influenza, 1918-19",
+          "url": "https://wellcomecollection.org/works/puxqa3uh",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-259-manorlords-town-formation",
+      "title": "The Medieval Town",
+      "subtitle": "House, field, and market belonged to the same plan.",
+      "mediaType": "game",
+      "mediaTitle": "Manor Lords",
+      "era": "Middle Ages",
+      "region": "Europe",
+      "themes": [
+        "Middle Ages",
+        "Urban Planning",
+        "Economics",
+        "Everyday Life"
+      ],
+      "whatWeSee": "Manor Lords makes town-building feel like more than placing houses on a grid. Plots, backyards, fields, roads, markets, workshops, and seasons all connect. A house's garden, a field's location, or the market's central position can seem like a small design choice. In a medieval settlement, those choices shaped who produced what, where goods were sold, and how people belonged to a community.",
+      "realHistory": "A medieval town was not always a random cluster of houses. Many settlements grew around market rights, lordship, a church, roads, and agricultural land. Urban status could depend on legal privileges as much as population. A settlement became economically meaningful when trade, taxation, craft production, and local authority were anchored in space.\n\nBurgage plots show how town life linked home and work. These were often narrow street-front properties that stretched backward into yards, gardens, workshops, or storage areas. They gave residents access to the street while preserving productive space behind the house. Beyond the town, open fields, common rights, pasture, and manorial records shaped the everyday rural economy.\n\nManor Lords works because it treats the medieval economy as a landscape rather than a spreadsheet. The woodcutter, farmer, miller, blacksmith, trader, and lord all depend on a spatial order. A road to the market or a field boundary is not only aesthetic. It is a decision about livelihood, authority, and social organization.",
+      "accuracyNote": "Manor Lords does not recreate one specific town, but its links between burgage plots, fields, markets, roads, and local production are historically grounded.",
+      "whyInteresting": "Building a town in the Middle Ages meant placing rights, taxes, production, and community relationships into physical space.",
+      "misconception": "Medieval villages and towns are often imagined as entirely unplanned. Many were shaped by market rights, plot forms, field systems, and lordly control.",
+      "nextTopics": [
+        "Rural Impact",
+        "Castle Economy",
+        "Industrial City"
+      ],
+      "relatedCardIds": [
+        "tf26-199-rural-impact",
+        "tf26-261-anno1800-industrial-city",
+        "tf26-262-stronghold-castle-economy"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "mediaConnection": "Manor Lords' settlement and production systems can be read alongside burgage plots, field systems, and manorial records.",
+      "accuracyType": "partly-real",
+      "tags": [
+        "manor-lords",
+        "middle-ages",
+        "urban-planning",
+        "economics",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game turns settlement layout into a playable resource chain. Historical records show how markets, plots, fields, and rights structured daily life.",
+      "whyItMatters": "Everyday settlement history shows that political and economic order can be read through houses, fields, markets, and roads.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was a medieval town defined only by the number of houses, or by market rights and land organization?",
+      "sources": [
+        {
+          "title": "Historic England - Medieval Settlements",
+          "url": "https://historicengland.org.uk/images-books/publications/iha-medieval-settlements/heag210-medieval-settlements/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Historic England - Field Systems",
+          "url": "https://historicengland.org.uk/images-books/publications/iha-field-systems/heag204-field-systems/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "UK National Archives - Manorial Records",
+          "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/manorial-records/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-260-forhonor-chivalry-myth",
+      "title": "The Chivalry Myth",
+      "subtitle": "Honorable duel or classed violence?",
+      "mediaType": "game",
+      "mediaTitle": "For Honor",
+      "era": "Middle Ages",
+      "region": "Europe / Fictional World",
+      "themes": [
+        "Middle Ages",
+        "Chivalry",
+        "Misconceptions",
+        "War"
+      ],
+      "whatWeSee": "For Honor turns knights, samurai, and vikings into stylized warrior identities built around ritual, armor, and codes of honor. Combat often feels like a duel between ideals. The image is powerful, but European chivalry was never a simple promise that war would be noble for everyone. Honor existed, but it was shaped by class, ransom, status, and practical violence.",
+      "realHistory": "Chivalry was a mix of real military culture and literary ideal. From the eleventh and twelfth centuries onward, aristocratic warfare developed languages of courage, loyalty, generosity, piety, and noble conduct. Manuscripts, tournaments, heraldry, and court culture made these ideals visible. Knights were not simply armored brutes; they were trained within a social world that cared deeply about reputation.\n\nThe battlefield was harsher than the ideal. Chivalric courtesy worked most strongly among people of similar high status. A noble prisoner could be worth more alive than dead because ransom was a major part of late medieval warfare. A peasant, townsperson, or ordinary foot soldier could not expect the same protection. Raiding, burning fields, besieging towns, forcing payments, and threatening civilians all belonged to the same world that praised noble honor.\n\nFor Honor uses the memory of chivalry more than the history of it. That is not a flaw; it is the game's style. The True Frame question is what the ideal hides. Chivalry was both a real value system and a way for aristocratic violence to describe itself as disciplined, meaningful, and legitimate.",
+      "accuracyNote": "For Honor does not simulate real medieval societies. It uses warrior archetypes. Chivalry was a real cultural ideal, but it was limited by class, ransom practices, and the realities of war.",
+      "whyInteresting": "Chivalry was both a code of conduct and a language that could make elite violence look noble.",
+      "misconception": "Knights are often imagined as applying honor rules equally to everyone. In practice, those rules usually mattered most among high-status opponents.",
+      "nextTopics": [
+        "Mercenary Armies",
+        "Siege Engineering",
+        "Feeding a Feudal Army"
+      ],
+      "relatedCardIds": [
+        "tf26-255-totalwar-condottieri",
+        "tf26-254-aoe-siege-engineering",
+        "tf26-257-bannerlord-feudal-army"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "spoilerLevel": "none",
+      "mediaConnection": "For Honor's knightly aesthetic can be compared with real medieval chivalry, aristocratic war culture, and the ransom economy.",
+      "accuracyType": "inspired-by-reality",
+      "tags": [
+        "for-honor",
+        "chivalry",
+        "middle-ages",
+        "misconceptions",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game sharpens warrior honor into archetype. Historically, honor language worked within systems of status, ransom, and unequal violence.",
+      "whyItMatters": "Reading chivalry without romance shows who was protected by honor and who was left outside it.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was chivalry a moral code for everyone, or mostly a language of aristocratic warfare?",
+      "sources": [
+        {
+          "title": "Getty Museum - Chivalry in the Middle Ages",
+          "url": "https://www.getty.edu/art/exhibitions/chivalry/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "The Metropolitan Museum of Art - The Art of Chivalry",
+          "url": "https://www.metmuseum.org/met-publications/the-art-of-chivalry-european-arms-and-armor-from-the-metropolitan-museum-of-art",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Cambridge University Press - Ransom Culture in the Late Middle Ages",
+          "url": "https://assets.cambridge.org/97811070/10949/excerpt/9781107010949_excerpt.pdf",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-261-anno1800-industrial-city",
+      "title": "Industrial City and Public Health",
+      "subtitle": "Smoke, crowding, and sewage built the modern city.",
+      "mediaType": "game",
+      "mediaTitle": "Anno 1800",
+      "era": "Modern History",
+      "region": "Britain / Europe",
+      "themes": [
+        "Industrial Revolution",
+        "Urban Planning",
+        "Health",
+        "Society"
+      ],
+      "whatWeSee": "In Anno 1800, a city grows through factories, workers, smoke, production chains, and the constant tradeoff between prosperity and pollution. The game turns that growth into a tidy planning puzzle. Real nineteenth-century industrial cities were far messier. Population, housing, water, sewage, hospitals, and political reform often lagged behind the speed of industrial growth.",
+      "realHistory": "The Industrial Revolution was not only the history of factories and steam engines. It was also the crisis out of which modern public health infrastructure emerged. In London, Manchester, and other fast-growing cities, working-class districts became crowded, waste management lagged, and polluted water helped disease spread. Cholera exposed the danger of cities where drinking water and sewage were not kept apart. John Snow's 1854 mapping of deaths around the Broad Street pump became a symbolic moment in the move away from explaining cholera mainly through bad air.\n\nIn 1858, heat and sewage in the Thames created the Great Stink. This was more than a smell problem. It showed that London's growth had outpaced its infrastructure. Joseph Bazalgette's sewer system became one of the lasting public health achievements of Victorian London.\n\nAnno 1800's clean production boxes hide a real lesson: an industrial city needs water, waste systems, housing, and public authority as much as factories. If workers appear only as population numbers, the human cost of industrial growth disappears. Smoke, sewage, and epidemics explain why modern urban planning became necessary.",
+      "accuracyNote": "The game simplifies the industrial city into manageable systems. Historically, cholera, water supply, sewage reform, class inequality, and municipal capacity made the process much more contested.",
+      "whyInteresting": "Industrial modernity is often told through machines, but the modern city could not function without sewers and clean water.",
+      "misconception": "The Industrial Revolution is often treated as a story of factory production alone. Public health and urban infrastructure were part of the same transformation.",
+      "nextTopics": [
+        "Castle Economy",
+        "Industrial Labor",
+        "The Tech Tree Myth"
+      ],
+      "sources": [
+        {
+          "title": "Wellcome Collection - John Snow cholera map/report",
+          "url": "https://wellcomecollection.org/works/uxgfjt62",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Science Museum Group - Joseph William Bazalgette",
+          "url": "https://collection.sciencemuseumgroup.org.uk/people/cp110961/joseph-william-bazalgette",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "London Museum - The Great Stink of 1858",
+          "url": "https://www.londonmuseum.org.uk/collections/london-stories/great-stink-of-1858/",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-222-victoria3-industrial-labor",
+        "tf26-253-civ-tech-tree-myth"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Anno 1800's production and city-growth loop is a useful starting point for understanding public health pressure in nineteenth-century industrial cities.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "industrial-revolution",
+        "urban-planning",
+        "public-health",
+        "anno-1800",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game makes pollution and population manageable values. Historically, epidemics, water sources, sewage, and municipal politics were central to industrial urban life.",
+      "whyItMatters": "Urban growth is not only an economic efficiency problem. It is also a public health and infrastructure problem.",
+      "isFlagship": false,
+      "quickRealityCheck": "Is a strong industrial city defined only by factories, or by invisible systems like clean water and sewers?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-262-stronghold-castle-economy",
+      "title": "Castle Economy",
+      "subtitle": "A castle was not only a war machine.",
+      "mediaType": "game",
+      "mediaTitle": "Stronghold",
+      "era": "Middle Ages",
+      "region": "Europe",
+      "themes": [
+        "Middle Ages",
+        "Economics",
+        "Architecture",
+        "Feudalism"
+      ],
+      "whatWeSee": "In Stronghold, a castle is not just walls and towers. The player manages wood, stone, grain, taxes, morale, labor, and defense at the same time. That makes the game unusually good at one medieval insight: a castle can stand only if the economy around it continues to work.",
+      "realHistory": "A medieval castle was not just a stone box built to keep enemies out. It could be a lord's residence, a symbol of authority, a legal center, a storage site, a military base, and an administrative machine. A visitor would not encounter only battlements. They would see kitchens, barns, stables, workshops, a chapel, servants, soldiers, stores, courts, and a flow of goods from surrounding villages.\n\nThat is why Stronghold's food, production, and morale systems feel historically meaningful. A garrison consumed supplies in peace as well as war. Grain had to be collected, wood cut, animals fed, taxes gathered, tools repaired, and peasants kept alive enough to work. In a siege, the question of how much food remained inside the walls could be as important as the thickness of the walls.\n\nReal castle economies were more complicated than a game interface. They depended on rights, rents, labor obligations, inheritance, markets, and local justice. Still, the core idea is right: a castle was both defensive architecture and a center for managing people and resources.",
+      "accuracyNote": "Stronghold captures the link between economy and defense, but real castles operated through feudal obligations, local courts, rents, and peasant labor rather than a simple control panel.",
+      "whyInteresting": "A castle's strongest weapon was sometimes not the wall, but control over grain, labor, tax, and authority.",
+      "misconception": "Castles are often imagined as purely military structures. Many were also residences, courts, storage centers, and local government hubs.",
+      "nextTopics": [
+        "Feeding a Feudal Army",
+        "Siege Engineering",
+        "Manor Lords"
+      ],
+      "sources": [
+        {
+          "title": "Historic England - Stone Castles",
+          "url": "https://historicengland.org.uk/images-books/publications/iha-stone-castles/heag235-stone-castles/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "English Heritage - Medieval Castles",
+          "url": "https://www.english-heritage.org.uk/learn/histories/medieval-castles/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The National Archives - Medieval Castles",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/medieval-castles/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-254-aoe-siege-engineering",
+        "tf26-257-bannerlord-feudal-army",
+        "tf26-259-manorlords-town-formation"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Stronghold's production-and-defense loop fits the historical reality that castles were economic and administrative centers as well as military sites.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "middle-ages",
+        "castles",
+        "feudalism",
+        "stronghold",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game makes castle economy readable. Historically, that economy worked through inheritance, rents, courts, rights, and peasant obligations.",
+      "whyItMatters": "Seeing castles only as military objects misses the economic and administrative face of medieval power.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was a castle just a wall against enemies, or a center that organized villages, resources, and authority?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-263-imitation-game-bletchley",
+      "title": "Bletchley Park and Enigma",
+      "subtitle": "Not one genius, but a secret collective operation.",
+      "mediaType": "film",
+      "mediaTitle": "The Imitation Game",
+      "era": "Second World War",
+      "region": "United Kingdom / Europe",
+      "themes": [
+        "Second World War",
+        "Science",
+        "Technology",
+        "Identity"
+      ],
+      "whatWeSee": "The Imitation Game tells the breaking of Enigma through Alan Turing's intelligence, isolation, and personal difference. It gives the audience a strong dramatic center: a mathematician who does not fit the room builds the machine that helps change the war. That focus is powerful, but real Bletchley Park was much larger than one brilliant mind in a locked room. It was an intelligence, engineering, linguistic, clerical, and operational system.",
+      "realHistory": "### Enigma was not broken by one person\n\nBletchley Park was one of Britain's most secret codebreaking centers during the Second World War. Reading German Enigma traffic did not mean solving one puzzle once. Settings changed, services used different procedures, intercepted radio traffic had to be collected, messages had to be sorted, and results had to be turned into usable intelligence without revealing that the system had been penetrated. Turing was central, especially through his work connected to the Bombe and the search for Enigma settings. But the Bombe was not simply an idea. It depended on design, manufacturing, maintenance, operators, analysts, linguists, traffic experts, and a disciplined institution built for secrecy.\n\nThe film narrows this chain for drama. A viewer can leave with the impression that Enigma was mainly Turing's solitary miracle. The real story also includes earlier Polish work by Marian Rejewski, Jerzy Rozycki, and Henryk Zygalski, whose prewar attack on Enigma gave the later British effort crucial foundations. Bletchley was therefore not just a national genius story. It was a transfer of knowledge across borders under the pressure of war.\n\n### Invisible labor\n\nBletchley Park employed far more than mathematicians. It needed people to intercept, transcribe, type, file, translate, operate machines, cross-check patterns, and distribute intelligence. Many women worked in these systems, including Wrens who operated machinery and handled routine but essential tasks. Ultra intelligence mattered because the organization could process large volumes of fragments and convert them into military knowledge.\n\nA decrypted message still had to be used carefully. If Allied commanders acted too obviously, Germany might realize its communications were compromised. Intelligence therefore required restraint, timing, and cover stories. The machine did not replace human labor; it reorganized it into a faster and more secret workflow.\n\n### Turing's tragedy\n\nThe film is also important because it shows the injustice Turing faced after the war. In 1952 he was prosecuted for homosexuality. His wartime contribution did not protect him from a discriminatory legal system. Later apologies and pardons mattered, but they came after the harm had been done.\n\nThis is why the Enigma story should not be reduced to a neat technology triumph. It is about mathematics, intelligence, gendered and hidden labor, international collaboration, secrecy, and a state that used Turing's brilliance in war while punishing his identity in peace. The Imitation Game opens a powerful door. The fuller history makes that door lead into a much larger room.",
+      "accuracyNote": "The film makes Turing's role and later injustice visible, but it narrows the collective structure of Bletchley Park, the Polish foundations, and the labor of many operators and analysts.",
+      "whyInteresting": "The Enigma story is at once mathematics, intelligence history, labor history, and a story of state discrimination against one of its own contributors.",
+      "misconception": "Enigma is often imagined as something Alan Turing broke alone. In reality, the effort drew on Polish groundwork, machines, analysts, operators, and a large secret organization.",
+      "nextTopics": [
+        "War Posters",
+        "Cold War Espionage",
+        "Surveillance State"
+      ],
+      "sources": [
+        {
+          "title": "Bletchley Park - Enigma",
+          "url": "https://www.bletchleypark.org.uk/our-story/enigma/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Imperial War Museums - How Alan Turing Cracked The Enigma Code",
+          "url": "https://www.iwm.org.uk/history/second-world-war/intelligence/how-alan-turing-cracked-the-enigma-code",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "JSTOR Daily - Cracking Enigma: The Polish Connection",
+          "url": "https://daily.jstor.org/polish-codebreakers/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "UK Government - Turing's Law pardons",
+          "url": "https://www.gov.uk/government/news/thousands-officially-pardoned-under-turings-law",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-213-papersplease-surveillance",
+        "tf26-245-codbo-mkultra",
+        "tf26-276-the-americans-cold-war-illegals"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Imitation Game offers a Turing-centered dramatic entry point; Bletchley Park records place the same story inside a collective, institutional codebreaking system.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "second-world-war",
+        "enigma",
+        "alan-turing",
+        "bletchley-park",
+        "true-frame"
+      ],
+      "spoilerNote": "Includes the broad historical outcome of The Imitation Game.",
+      "mediaChanged": "The film heightens the single-character drama. Historically, Enigma codebreaking depended on Polish groundwork, Bletchley teams, machines, procedures, and secrecy.",
+      "whyItMatters": "Technology history becomes more honest when it includes invisible labor, international knowledge, and the institutions that both used and harmed people.",
+      "isFlagship": true,
+      "quickRealityCheck": "Was Enigma broken by Turing's mind alone, or by a network reaching from Polish cryptologists to machine operators?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-264-allquiet-wwi-memory",
+      "title": "Quiet on the Western Front",
+      "subtitle": "War memory through the eyes of a German soldier.",
+      "mediaType": "film",
+      "mediaTitle": "All Quiet on the Western Front (2022)",
+      "era": "First World War",
+      "region": "Germany / Western Front",
+      "themes": [
+        "First World War",
+        "Front Line",
+        "Memory",
+        "Society"
+      ],
+      "whatWeSee": "All Quiet on the Western Front presents war not as a heroic journey, but as the industrial consumption of young bodies. The 2022 adaptation especially emphasizes mud, artillery, command blindness, and the sense that death could remain meaningless until the final moments of the armistice. The viewer is left less with victory than with exhaustion and ruin.",
+      "realHistory": "Erich Maria Remarque's novel became one of the most influential antiwar works about the First World War. The story is fictional, but it draws power from front-line experience, postwar trauma, and the way a young generation was sent to war through patriotic promises and then broken by industrial violence. Its perspective matters because it shows the Western Front not only as a strategic line, but as a place where bodies, minds, and language collapsed.\n\nThe armistice of 11 November 1918 sits at the center of that memory. The agreement took effect at 11 a.m., but fighting continued until that hour. For soldiers, peace did not arrive when diplomats signed, but when artillery and gunfire actually stopped. The film's final-hour emphasis is dramatically heightened, but the feeling is historically meaningful: even a known end did not remove the risk of dying just before it.\n\nThe lasting power of All Quiet comes from removing the heroic shine from the war. Enemy soldiers appear as hungry, frightened, exhausted young men. Remarque's legacy is not mainly to explain the causes of the war, but to show what the war did to those who were sent into it.",
+      "accuracyNote": "The film and novel powerfully convey the emotional truth of the war, though specific events and characters are dramatized. The 11 November 1918 armistice at 11 a.m. is the historical anchor.",
+      "whyInteresting": "The same war looks different in victory monuments and in the memory of young soldiers who returned damaged, or did not return at all.",
+      "misconception": "German soldiers in First World War stories are often treated only as the enemy. Remarque's tradition shows how the war consumed them too.",
+      "nextTopics": [
+        "Gallipoli",
+        "Arab Revolt",
+        "War Posters"
+      ],
+      "sources": [
+        {
+          "title": "Imperial War Museums - The Armistice and the end of the First World War",
+          "url": "https://www.iwm.org.uk/history/first-world-war/armistice",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "National WWI Museum and Memorial - Great War, Great Read",
+          "url": "https://www.theworldwar.org/news/great-war-great-read",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "The Guardian Archive - All Quiet on the Western Front becomes instant bestseller",
+          "url": "https://www.theguardian.com/world/from-the-archive-blog/2019/mar/06/all-quiet-on-the-western-front-published-remarque-1929",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-240-bf1-gallipoli",
+        "tf26-241-bf1-arab-revolt-lawrence",
+        "tf26-281-general-war-propaganda-posters"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "All Quiet on the Western Front reads the First World War through German front-line destruction and armistice memory.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "first-world-war",
+        "western-front",
+        "remarque",
+        "war-memory",
+        "true-frame"
+      ],
+      "spoilerNote": "Includes broad historical context about the war and armistice.",
+      "mediaChanged": "The film ties the end of the war to a personal fate. Historically, the armistice left a final gap between political agreement and physical safety.",
+      "whyItMatters": "It shifts war memory away from winner-loser language and toward the destruction of the generation sent to fight.",
+      "isFlagship": false,
+      "quickRealityCheck": "When the armistice was signed, was the war already over for soldiers, or did death remain possible until 11 a.m.?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-265-master-commander-royal-navy",
+      "title": "Life in the Age of Sail Navy",
+      "subtitle": "Royal Navy adventure, or a floating institution?",
+      "mediaType": "film",
+      "mediaTitle": "Master and Commander: The Far Side of the World",
+      "era": "Napoleonic Wars",
+      "region": "Britain / Atlantic / Oceans",
+      "themes": [
+        "Seafaring",
+        "War",
+        "Empire",
+        "Class"
+      ],
+      "whatWeSee": "Master and Commander shows a Napoleonic-era warship as both an adventure setting and a closed society. Captain, officers, surgeon, sailors, marines, boys, and gun crews live within the same wooden hull. The film romanticizes naval life, but it also gives a strong sense that the ship is not only a vessel. It is a floating institution.",
+      "realHistory": "The Royal Navy of the late eighteenth and early nineteenth centuries was central to Britain's global war power. A warship was not just a wooden machine carrying guns. It was a hierarchy of rank, skill, discipline, food, disease control, punishment, training, and routine. The ship had to fight, but it also had to sail, repair itself, feed its crew, care for the sick, maintain order, and survive storms thousands of miles from home.\n\nLife at sea was demanding. Sailors worked watches, handled heavy rigging, cleaned decks, drilled with guns, endured cramped quarters, and depended on preserved food and water that could quickly become unpleasant or dangerous. Disease and injury were constant threats. Naval medicine mattered, which is why the film's surgeon is not merely a side character. He represents the ship's attempt to keep bodies functioning inside a hard military system.\n\nThe film captures the closed-world feeling well. Its battles are exciting, but the historical interest lies just as much in the daily institution behind them: command, craft, class, discipline, and survival under sail.",
+      "accuracyNote": "The film is fiction based on Patrick O'Brian's novels, but its shipboard world fits many realities of Royal Navy discipline, hierarchy, medicine, and seamanship in the age of sail.",
+      "whyInteresting": "A naval battle depended on weeks or months of invisible routine: food, watches, repairs, discipline, navigation, and medical care.",
+      "misconception": "Age of sail warfare is often remembered as romantic sea adventure. It was also cramped labor, hierarchy, disease, and institutional discipline.",
+      "nextTopics": [
+        "Privateering",
+        "War Economy",
+        "Colonial Trade"
+      ],
+      "sources": [
+        {
+          "title": "Royal Museums Greenwich - Nelson, Navy, Nation gallery",
+          "url": "https://www.rmg.co.uk/national-maritime-museum/attractions/nelson-navy-nation-gallery",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Royal Museums Greenwich - Press gangs and impressment",
+          "url": "https://www.rmg.co.uk/collections/research-guides/research-guide-m2-press-gangs-impressment",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Google Books - Nelson's Navy: The Ships, Men and Organisation, 1793–1815",
+          "url": "https://books.google.com/books/about/Nelson_s_Navy.html?id=TBJvQgAACAAJ",
+          "type": "book",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-202-ac4-privateering",
+        "tf26-201-ac4-republic-of-pirates"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Master and Commander uses fiction to evoke the Royal Navy as a working military society, not just a platform for cannon fire.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "royal-navy",
+        "age-of-sail",
+        "napoleonic-wars",
+        "master-and-commander",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The film makes ship life dramatic and intimate. Historical context shows the warship as a disciplined institution of empire, labor, medicine, and class.",
+      "whyItMatters": "Naval power was not only about battles. It depended on the ability to organize people, supplies, skill, and discipline across oceans.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was a Royal Navy ship mainly a battle machine, or a floating society built to keep that battle machine alive?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-266-last-duel-trial-by-combat",
+      "title": "The Last Duel and Medieval Justice",
+      "subtitle": "Law between testimony, bodies, and God's judgment.",
+      "mediaType": "film",
+      "mediaTitle": "The Last Duel",
+      "era": "Middle Ages",
+      "region": "France",
+      "themes": [
+        "Law",
+        "Gender",
+        "Violence",
+        "Middle Ages"
+      ],
+      "whatWeSee": "The Last Duel presents a medieval legal case through conflicting memories, reputation, status, and the body of Marguerite de Carrouges. The final duel is not treated as simple spectacle. It becomes a legal and spiritual test in which male honor, female testimony, inheritance, and public violence are bound together. The film asks a difficult question: what happens when a legal system cannot separate truth from rank, gender, and ritual combat?",
+      "realHistory": "### A real case, not a simple morality play\n\nThe Last Duel is based on the famous 1386 case involving Jean de Carrouges, Jacques Le Gris, and Marguerite de Carrouges. Marguerite accused Le Gris of rape. Her husband pursued the charge, and the case ultimately led to a judicial duel before the French court. The film uses this structure to examine memory and power, but the history should not be flattened into modern courtroom language. Medieval justice worked through status, reputation, oath, witnesses, ecclesiastical ideas, and procedures that could look very different from modern law.\n\nThe duel mattered because it was not simply a private fight. Trial by combat could be understood as a legal ordeal in which God would reveal truth through victory. By the late fourteenth century, however, such duels were already controversial and exceptional in high-status cases. That is why this event became so memorable. It sat at the edge between older ritual justice and increasingly bureaucratic legal practice.\n\n### Marguerite's risk\n\nThe film is strongest when it shows the risk attached to Marguerite's testimony. In a patriarchal legal culture, her accusation did not stand in a neutral space. Her body, marriage, reputation, fertility, and obedience were all interpreted through male authority. If her husband's champion failed, the legal and moral consequences for her could be catastrophic. The story is therefore not only about whether two men fought. It is about how a woman's claim became mediated through male honor and public violence.\n\nThat does not mean the film gives us a transparent window into every motive. Medieval records are partial, legalistic, and shaped by elite institutions. We know the broad case, but we do not possess every interior thought or emotional truth. The film fills those gaps through dramatic structure and multiple perspectives.\n\n### Duel as performance\n\nThe public duel turned law into spectacle. Armor, horses, witnesses, royal presence, and ritual procedure made the outcome visible to society. Modern viewers may see this as irrational, but medieval people did not treat ritual and law as separate categories. Procedure, faith, reputation, and violence could all participate in legal truth.\n\nThe Last Duel therefore works best as a film about systems rather than only individuals. It shows how testimony could be trapped inside hierarchy, how law could depend on the bodies of men fighting, and how a woman's truth could be made legible only through a husband's risk. The duel is dramatic, but the deeper history is the legal culture that made such drama possible.\n\n### Why it still matters\n\nThe case remains compelling because it exposes the danger of confusing public performance with justice. A system can be formal, solemn, and rule-bound while still placing impossible burdens on those with less power. The Last Duel does not give medieval law a simple villain label. It shows a world where belief, honor, violence, and gender made truth hard to hear without ritual force.",
+      "accuracyNote": "The film is grounded in a real 1386 case, but it dramatizes motives, memories, and emotional scenes. Trial by combat was a legal-ritual procedure, not merely a private duel.",
+      "whyInteresting": "The duel was not only a fight. It was a public legal performance in which gender, honor, faith, and aristocratic status shaped the search for truth.",
+      "misconception": "Trial by combat is often imagined as random barbarism. In its own legal culture, it was a formal ordeal tied to divine judgment, reputation, and procedure.",
+      "nextTopics": [
+        "Chivalry Myth",
+        "Dynastic Marriage",
+        "Medieval Disease Measures"
+      ],
+      "sources": [
+        {
+          "title": "Smithsonian Magazine - The True History Behind The Last Duel",
+          "url": "https://www.smithsonianmag.com/history/the-true-history-behind-the-last-duel-180978860/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Princeton Middle Ages for Educators - Jean de Carrouges versus Jacques Le Gris",
+          "url": "https://middleagesforeducators.princeton.edu/anatomy-duel-jean-de-carrouges-versus-jacques-le-gris-video-lecture",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "University of Toronto - Trial by Battle in France and England",
+          "url": "https://utoronto.scholaris.ca/server/api/core/bitstreams/ed1c812a-fab1-4d6b-b96e-daed8d7d2ee6/content",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-260-forhonor-chivalry-myth",
+        "tf26-196-medieval-hygiene",
+        "tf26-218-pentiment-peasants-war"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Last Duel uses a real late medieval French case to show how law, testimony, gender, status, and ritual combat could become inseparable.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "the-last-duel",
+        "trial-by-combat",
+        "medieval-law",
+        "gender",
+        "true-frame"
+      ],
+      "spoilerNote": "Includes the historical legal premise and the duel context of The Last Duel.",
+      "mediaChanged": "The film uses modern perspective and multi-view storytelling. Historical records are narrower and legalistic, leaving many motives and emotions uncertain.",
+      "whyItMatters": "It shows that justice systems can be formal and still deeply unequal when truth must pass through status, gender, and public violence.",
+      "quickRealityCheck": "Was the last duel only a fight between two men, or a legal system forcing a woman's testimony through male honor?",
+      "lastReviewedAt": "2026-06-28",
+      "isFlagship": true
+    },
+    {
+      "id": "tf26-267-tetris-cold-war-software",
+      "title": "Tetris and Soviet Software",
+      "subtitle": "How a puzzle game became a licensing war.",
+      "mediaType": "film",
+      "mediaTitle": "Tetris",
+      "era": "Cold War",
+      "region": "Soviet Union / Global",
+      "themes": [
+        "Games",
+        "Cold War",
+        "Software",
+        "Economics"
+      ],
+      "whatWeSee": "Tetris turns the story of falling blocks into a Cold War licensing thriller. The film places Soviet agencies, Nintendo, Robert Maxwell, Henk Rogers, and Moscow negotiations on the same chessboard. Some scenes move with the rhythm of a spy movie, but the central question is real: how did a simple puzzle game become trapped between state ownership and the global software market?",
+      "realHistory": "Tetris was created by Alexey Pajitnov in the 1980s while he was working in the Soviet computing world. MoMA describes it as a geometric and spatial puzzle, and corporate histories place its creation in 1984 in Moscow. But in the Soviet system, a game developed by a state employee inside a state institution did not fit neatly into Western ideas of individual software entrepreneurship.\n\nThat is why the global spread of Tetris was not just a story of a good game finding players. Soviet licensing channels, especially ELORG, had to decide which rights applied to which platforms. PC, arcade, console, and handheld rights became tangled among Mirrorsoft, Spectrum HoloByte, Nintendo, and Henk Rogers. The film heightens this with threats and chase-like tension, but the historical core is serious: software had become a legal and political commodity before the post-Soviet market fully existed.\n\nTetris matters because the game itself looks politically neutral. Four-block shapes fall; players arrange them. Yet the licensing battle reveals state property, platform strategy, copyright, and late Cold War business pressure. A puzzle game became a map of how software ownership was being invented in real time.",
+      "accuracyNote": "The film captures the basic licensing struggle, but raises the spy-thriller tone for drama. The real tension lay in defining software rights between the Soviet state system and global game platforms.",
+      "whyInteresting": "Tetris shows how even a politically neutral game can become political when ownership, platforms, and international licensing are involved.",
+      "misconception": "Tetris is often imagined as a success made only by Nintendo's marketing. The rights battle was central to its global spread.",
+      "nextTopics": [
+        "Cold War Espionage",
+        "Surveillance State",
+        "Atomic Optimism"
+      ],
+      "sources": [
+        {
+          "title": "MoMA - Alexey Pajitnov, Tetris, 1984",
+          "url": "https://www.moma.org/collection/works/152403",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Tetris - Corporate Bios",
+          "url": "https://tetris.com/corporate-bios",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The Guardian - Henk Rogers on buying Tetris",
+          "url": "https://www.theguardian.com/games/2025/may/12/henk-rogers-interview-tetris-kgb",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-253-civ-tech-tree-myth",
+        "tf26-225-fallout-atomic-optimism",
+        "tf26-227-cyberpunk-surveillance-capitalism"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Tetris film connects a famous puzzle game to Soviet licensing channels, Nintendo strategy, and late Cold War software markets.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "tetris",
+        "cold-war",
+        "software",
+        "licensing",
+        "true-frame"
+      ],
+      "spoilerNote": "Includes the broad business background of the Tetris film.",
+      "mediaChanged": "The film pushes licensing talks toward spy-thriller pacing. Historically, the main knot was how Soviet institutions and Western companies understood platform rights differently.",
+      "whyItMatters": "Modern games are shaped not only by creativity, but by platforms, licensing, ownership, and international law.",
+      "quickRealityCheck": "Did Tetris conquer the world only because it was a great game, or because Soviet software rights had to be untangled first?",
+      "lastReviewedAt": "2026-06-28",
+      "isFlagship": false
+    },
+    {
+      "id": "tf26-268-argo-iran-hostage",
+      "title": "Argo and the Hostage Crisis",
+      "subtitle": "Fake movie, real diplomacy, dramatized escape.",
+      "mediaType": "film",
+      "mediaTitle": "Argo",
+      "era": "Modern History",
+      "region": "Iran / United States / Canada",
+      "themes": [
+        "Diplomacy",
+        "Intelligence",
+        "Cold War",
+        "Media"
+      ],
+      "whatWeSee": "Argo turns the escape of six American diplomats from revolutionary Tehran into a high-tension operation disguised as a science-fiction film project. The airport sequence, identity checks, and last-second danger feel like a perfect Hollywood climax. The real event was less action-heavy, but more diplomatically complex. The CIA plan mattered, but so did Canadian shelter, passports, and the unstable atmosphere after the Iranian Revolution.",
+      "realHistory": "On 4 November 1979, Iranian students seized the U.S. embassy in Tehran, beginning a hostage crisis that lasted 444 days. Six American diplomats escaped the compound and hid for nearly three months in the homes of Canadian diplomats. On 28 January 1980, CIA officer Tony Mendez helped them leave Iran under the cover of a fake Canadian film crew tied to the invented Argo project.\n\nThe film keeps that core, but changes the balance of emphasis. Canada's role was not background assistance. Ambassador Ken Taylor, John Sheardown, Canadian passports, and the willingness to take diplomatic risk were essential to the escape. Argo places the CIA at the center because that creates a stronger thriller structure. It also intensifies the airport departure, turning a dangerous but more controlled exit into a last-second chase.\n\nThat does not make the film useless. It makes it a strong True Frame case. Argo shows how a real covert operation becomes cinema: compression, danger, personal heroism, and clean payoff. The historical version is a quieter story of intelligence work, documentation, diplomacy, trust, and timing.",
+      "accuracyNote": "Argo is based on the real Canadian Caper, but it centers the CIA and heightens some escape scenes. Canada's shelter, passports, and diplomatic risk were historically crucial.",
+      "whyInteresting": "A fake movie project became the most believable cover for a real diplomatic escape.",
+      "misconception": "The operation is often remembered as a CIA-only triumph. Canadian protection, documentation, and diplomatic risk were essential.",
+      "nextTopics": [
+        "Cold War Spy Exchange",
+        "Iranian Revolution",
+        "Surveillance State"
+      ],
+      "sources": [
+        {
+          "title": "U.S. Diplomacy Center - Argo and the Canadian Six",
+          "url": "https://diplomacy.state.gov/argo-and-the-canadian-six/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "CIA - Argo: The Ingenious Exfiltration of the Canadian Six",
+          "url": "https://www.cia.gov/stories/story/argo-the-ingenious-exfiltration-of-the-canadian-six/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "White House Historical Association - Jimmy Carter, Iran, and the Canadian Caper",
+          "url": "https://www.whitehousehistory.org/jimmy-carter-iran-and-the-canadian-caper",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-252-1979revolution-iran",
+        "tf26-245-codbo-mkultra",
+        "tf26-230-mgs-nuclear-deterrence"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Argo's thriller premise is rooted in the real Canadian Six operation, the Iran hostage crisis, and a fake film cover created for exfiltration.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "argo",
+        "iran-hostage-crisis",
+        "cia",
+        "canadian-caper",
+        "true-frame"
+      ],
+      "spoilerNote": "Includes the real historical outcome behind Argo.",
+      "mediaChanged": "The film turns the escape into a high-tension airport finale. Historical accounts place more weight on Canadian protection, false documents, and diplomatic coordination.",
+      "whyItMatters": "Intelligence operations often depend not just on brave agents, but on documents, allies, institutions, and diplomatic cover.",
+      "quickRealityCheck": "Did Argo succeed because of last-second courage, or because of months of quiet diplomatic preparation?",
+      "lastReviewedAt": "2026-06-28",
+      "isFlagship": false
+    },
+    {
+      "id": "tf26-269-12years-slavery-testimony",
+      "title": "12 Years a Slave and Testimony",
+      "subtitle": "How one life exposes an entire slavery system.",
+      "mediaType": "film",
+      "mediaTitle": "12 Years a Slave",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Slavery",
+        "Testimony",
+        "Law",
+        "Violence"
+      ],
+      "whatWeSee": "12 Years a Slave tells the story of Solomon Northup, a free Black man kidnapped and sold into slavery in Louisiana. The film does not treat violence as historical background. It shows how a system attacks body, name, family, time, and legal identity. The viewer follows one person's experience, but the real history shows that Northup's case was not an isolated nightmare. It was part of a larger world of slavery, kidnapping, paperwork, and racial law.",
+      "realHistory": "### From freedom to slavery\n\nSolomon Northup lived in New York as a free Black man. In 1841 he was lured to Washington, D.C. with the promise of work, kidnapped, and sold into slavery. His 1853 narrative describes how he was taken from Washington and eventually rescued from a plantation near the Red River in Louisiana. The text survives as a major first-person source, and archival material gives the story additional documentary weight.\n\nThe horrifying part is not only that a crime happened. Northup's free status could be nearly erased through a false name, forged sale, racialized violence, and legal systems that made Black testimony vulnerable. A National Archives manifest records a man identified as 'Plat Hamilton' among people shipped to New Orleans, linking the film's identity theft to a documented practice rather than a dramatic invention.\n\n### Plantation order\n\nThe film shows slavery as more than physical brutality. It is a regime of time, labor, surveillance, punishment, forced naming, separated families, and controlled movement. A plantation was an economic system built on the legal reduction of people into property. Violence was not a failure of that system; it was one of the tools that made the system work.\n\nNorthup's status as a free man also exposes how slavery threatened Black life beyond the plantation South. Kidnapping rings, slave markets, interstate travel, and uneven legal protection meant that freedom could be fragile in practice. His case is therefore both personal and structural.\n\n### Why testimony matters\n\nNorthup's narrative matters because it turns an institution into a chain of names, places, documents, and choices. Testimony can show what law books and economic statistics cannot: how a person experiences the theft of time, family, and identity. At the same time, testimony needed publication, allies, and legal recognition to become public evidence. That makes the book a historical document and a reminder of how hard it was for enslaved and free Black people to be believed.\n\n### Film and archive\n\nThe film compresses scenes and intensifies relationships, but its central truth is well supported: slavery was maintained by law, markets, paperwork, fear, and the ability to rename a human being. The archive does not make the suffering less emotional. It makes the system more visible. Solomon Northup's story is devastating because it is both one man's life and a window into the machinery that made such a life possible.\n\nNorthup's case also shows why documentation mattered after rescue. Without names, witnesses, shipping records, and printed testimony, the violence could have remained private or deniable. The paper trail did not save him quickly, but it helped expose the system later.",
+      "accuracyNote": "The film is based on Northup's 1853 narrative. Some character moments are dramatized, but the kidnapping, enslavement, and rescue are supported by primary sources and archival records.",
+      "whyInteresting": "One person's testimony makes slavery visible not as an abstraction, but through names, bodies, documents, law, and economic practice.",
+      "misconception": "12 Years a Slave is sometimes treated as only an individual tragedy. It also reveals a wider system in which free Black people could be targeted, renamed, and sold.",
+      "nextTopics": [
+        "Slavery Testimony",
+        "Colonial Adventure",
+        "Genocide Memory"
+      ],
+      "sources": [
+        {
+          "title": "UNC Documenting the American South - Twelve Years a Slave",
+          "url": "https://docsouth.unc.edu/fpn/northup/northup.html",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Smithsonian NMAAHC - Twelve Years A Slave object record",
+          "url": "https://nmaahc.si.edu/object/nmaahc_2014.262",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "U.S. National Archives - Slave Manifest of Solomon Northup",
+          "url": "https://www.archives.gov/fort-worth/highlights/solomon-northup",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-204-ac3-haudenosaunee",
+        "tf26-242-bfv-senegalese-tirailleurs",
+        "tf26-218-pentiment-peasants-war"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "12 Years a Slave connects Northup's personal narrative to the documentary record of kidnapping, sale, slavery, and legal identity.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "12-years-a-slave",
+        "solomon-northup",
+        "slavery",
+        "testimony",
+        "true-frame"
+      ],
+      "spoilerNote": "Includes the historical premise and outcome of 12 Years a Slave.",
+      "mediaChanged": "The film gives Northup's experience dramatic immediacy. Archival records add the legal, commercial, and documentary layers of slavery.",
+      "whyItMatters": "It shows slavery as a system that produced documents, changed names, controlled bodies, and used law to defend violence.",
+      "quickRealityCheck": "Was Solomon Northup's story only a kidnapping, or did it expose the legal and economic machinery of slavery?",
+      "lastReviewedAt": "2026-06-28",
+      "isFlagship": true
+    },
+    {
+      "id": "tf26-270-hotel-rwanda-genocide-memory",
+      "title": "Rwandan Genocide and Silence",
+      "subtitle": "Propaganda and memory behind a hotel story.",
+      "mediaType": "film",
+      "mediaTitle": "Hotel Rwanda",
+      "era": "Modern History",
+      "region": "Rwanda",
+      "themes": [
+        "Genocide",
+        "Memory",
+        "Media",
+        "International Politics"
+      ],
+      "whatWeSee": "Hotel Rwanda tells the 1994 genocide against the Tutsi through Paul Rusesabagina and the Hotel des Mille Collines. It turns a mass atrocity into a story of shelter, phone calls, bribes, fear, and waiting while the outside world hesitates. The viewer feels a historical catastrophe through a lobby, corridors, rooms, and a few desperate lines of communication.",
+      "realHistory": "### A film as an entry point\n\nHotel Rwanda makes the 1994 genocide watchable by narrowing the frame to one hotel and a small group of characters. That is understandable as cinema. A process that killed hundreds of thousands of people and involved state structures, militias, propaganda, neighbors, roadblocks, and international failure cannot be fully contained in two hours. The film uses the Hotel des Mille Collines as a dramatic entry point into survival, bargaining, and abandonment.\n\nThe danger is that the entry point can become the whole story. Rwanda's genocide was not simply a spontaneous eruption of ancient hatred, and it was not solved by one heroic figure. Violence accelerated after the 6 April 1994 shooting down of President Juvenal Habyarimana's plane, but the groundwork had been laid through propaganda, political organization, militia structures, and dehumanizing language.\n\n### Propaganda and organized killing\n\nMedia mattered. RTLM radio and extremist publications helped spread language that identified Tutsi people as enemies and encouraged violence. The ICTR's Media Case later showed that media figures could be held responsible for direct and public incitement to genocide. In this history, radio is not background noise. It is part of the machinery that turns fear, obedience, and hatred into action.\n\nThe killings were also enabled by roadblocks, lists, local officials, militia groups, and the collapse or capture of institutions. The word 'chaos' can hide too much. Much of the violence was organized, encouraged, and made logistically possible.\n\n### International failure\n\nHotel Rwanda strongly conveys the feeling that the outside world did not act with urgency. That sense is historically grounded. United Nations peacekeepers operated under severe constraints, international leaders avoided decisive intervention, and pleas for help were repeatedly delayed, narrowed, or ignored. The failure was not only emotional indifference. It was also legal caution, political calculation, recent memory of other interventions, and unwillingness to name events clearly while action might still have mattered.\n\n### Memory and controversy\n\nThe film's Rusesabagina-centered story has itself become contested over time. That does not erase the importance of the people who survived in and around the hotel, but it does mean the film should not be treated as the definitive history of the genocide. Memorial institutions, survivor testimony, UN records, ICTR judgments, and Rwandan memory work all tell a wider and more painful story.\n\nTrue Frame should therefore read Hotel Rwanda as a door, not the room. It brings attention to a catastrophe that many audiences might otherwise avoid. But the fuller history requires propaganda, state participation, international failure, survivor memory, and the politics of representation. A hotel story can make viewers care. It cannot carry the entire burden of remembering a genocide.",
+      "accuracyNote": "The film is rooted in the real genocide, but its Rusesabagina-centered account and character balance have been debated. This card treats the film as an entry point into memory and representation, not as the sole historical source.",
+      "whyInteresting": "A film can make mass violence emotionally graspable, but it can also narrow a systemic atrocity into a single rescue story.",
+      "misconception": "The Rwandan genocide is sometimes misrepresented as sudden tribal violence. In reality, propaganda, political elites, militias, state structures, and international inaction all mattered.",
+      "nextTopics": [
+        "War Propaganda",
+        "Humanitarian Ethics",
+        "Genocide Memory"
+      ],
+      "similarMedia": [
+        "Sometimes in April",
+        "Shake Hands with the Devil",
+        "The Killing Fields"
+      ],
+      "relatedCardIds": [
+        "tf26-252-1979revolution-iran",
+        "tf26-212-papersplease-border-regime",
+        "tf26-241-bf1-arab-revolt-lawrence"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hotel Rwanda's hotel-centered survival story has to be read alongside propaganda, state violence, international failure, and survivor memory.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "hotel-rwanda",
+        "rwandan-genocide",
+        "propaganda",
+        "memory",
+        "true-frame"
+      ],
+      "spoilerNote": "Includes the historical context and broad outcome behind Hotel Rwanda.",
+      "mediaChanged": "The film dramatizes genocide around one hotel and one rescuer figure. The wider history includes propaganda networks, institutional violence, and many survivor testimonies.",
+      "whyItMatters": "Mass violence grows through organization, media, state power, and delayed response; remembering it through one film is powerful but incomplete.",
+      "quickRealityCheck": "When a film compresses a genocide into one hero story, what becomes easier to feel, and what becomes easier to miss?",
+      "isFlagship": true,
+      "sources": [
+        {
+          "title": "United Nations - 1994 Genocide Against the Tutsi in Rwanda",
+          "url": "https://www.un.org/en/preventgenocide/rwanda/historical-background.shtml",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "ICTR / IRMCT - Nahimana et al. Media Case",
+          "url": "https://unictr.irmct.org/en/cases/ictr-99-52",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Kigali Genocide Memorial",
+          "url": "https://kgm.rw/",
+          "type": "memorial",
+          "verified": true
+        },
+        {
+          "title": "USHMM - Pleading for Help",
+          "url": "https://www.ushmm.org/en/genocide-prevention/countries/rwanda/pleading-for-help",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-271-downfall-hitler-bunker-collapse",
+      "title": "Downfall and the Fuehrerbunker",
+      "subtitle": "How should the final days of the Nazi regime be shown?",
+      "mediaType": "film",
+      "mediaTitle": "Downfall (Der Untergang)",
+      "era": "Second World War",
+      "region": "Germany",
+      "themes": [
+        "Second World War",
+        "Dictatorship",
+        "Memory",
+        "War"
+      ],
+      "whatWeSee": "Downfall follows Hitler and the Nazi elite inside the Fuehrerbunker as Berlin collapses. Map-room rages, loyalty rituals, denial, and claustrophobia turn the end of a vast war into the collapse of a political language inside a few rooms. The film's force comes from showing a regime losing touch with reality while still issuing orders that cost lives.",
+      "realHistory": "Downfall presents Hitler not as a distant symbol of evil, but as the center of a collapsing political world. That choice made the film controversial: is it dangerous to show Hitler with human details? Historically, the broad frame is clear. The Battle of Berlin ran from April to early May 1945, Soviet forces took the city, Hitler died by suicide in the bunker on 30 April, and Germany surrendered shortly afterward.\n\nThe film's bunker focus is meaningful. In the final days, the regime still spoke of imaginary counterattacks, loyalty, sacrifice, and punishment while Berlin's civilians and soldiers paid the price. Narrow rooms and broken maps become a way to show ideological reality collapse.\n\nThe key is context. Showing Nazi leaders as tired, afraid, or deluded does not excuse them. It can make responsibility more uncomfortable, because it prevents us from placing destructive decisions outside human institutions. Downfall works when it shows the bunker not as tragic intimacy, but as the last administrative space of a regime still causing death even as it failed.",
+      "accuracyNote": "The film dramatizes Hitler's final days using testimony and historical research. The broad historical frame is accurate, though dialogue and emotional scenes are cinematic reconstruction.",
+      "whyInteresting": "Downfall asks why representing a perpetrator with human detail can be both powerful and risky.",
+      "misconception": "Showing Hitler as human does not automatically excuse him. Without context it can be risky; with context it can make responsibility more visible.",
+      "nextTopics": [
+        "War Memory",
+        "War Propaganda",
+        "Cold War Spy Exchange"
+      ],
+      "similarMedia": [
+        "The Zone of Interest",
+        "Conspiracy",
+        "Sophie Scholl: The Final Days"
+      ],
+      "relatedCardIds": [
+        "tf26-244-cod-stalingrad-sniper-myth",
+        "tf26-240-bf1-gallipoli",
+        "tf26-242-bfv-senegalese-tirailleurs"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "mediaConnection": "Downfall uses the Fuehrerbunker to concentrate the collapse of Nazi command, denial, and responsibility in the final days of Berlin.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "downfall",
+        "hitler",
+        "berlin",
+        "second-world-war",
+        "true-frame"
+      ],
+      "spoilerNote": "Includes the historical outcome of Downfall.",
+      "mediaChanged": "The film reduces a wide battlefield collapse to a bunker drama. Historically, that narrow space must be read alongside Berlin's destruction and civilian cost.",
+      "whyItMatters": "Turning perpetrators into monsters can push them outside history. Downfall reminds us that destructive decisions are made by people, institutions, and ideologies.",
+      "quickRealityCheck": "Does showing a dictator as human help explain responsibility, or risk softening it? The answer depends on context.",
+      "isFlagship": false,
+      "sources": [
+        {
+          "title": "Imperial War Museums - The Battle of Berlin",
+          "url": "https://www.iwm.org.uk/history/second-world-war/eastern-front/the-battle-of-berlin-germanys-downfall-on-the-eastern-front",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "MI5 - Hitler's Last Days",
+          "url": "https://www.mi5.gov.uk/history/world-war-ii/hitlers-last-days",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "German History in Documents and Images - Final Days of Fighting in Berlin",
+          "url": "https://germanhistorydocs.org/en/nazi-germany-1933-1945/final-days-of-fighting-in-berlin-1945",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-272-apollo13-engineering-failure",
+      "title": "Apollo 13: Successful Failure",
+      "subtitle": "The mission that missed the Moon but proved the system.",
+      "mediaType": "film",
+      "mediaTitle": "Apollo 13",
+      "era": "Modern History",
+      "region": "United States / Space",
+      "themes": [
+        "Space",
+        "Engineering",
+        "Risk",
+        "Science"
+      ],
+      "whatWeSee": "Apollo 13 follows three astronauts as a lunar mission becomes a survival problem. Mission control, the cramped spacecraft, falling power, carbon dioxide danger, cold, uncertainty, and family waiting rooms all converge. The space adventure becomes less a story of exploration than a story of calm failure management and collective engineering.",
+      "realHistory": "Apollo 13 began on 11 April 1970 as the third planned lunar landing mission. An oxygen tank explosion in the service module forced NASA to cancel the landing and focus entirely on bringing the crew home. NASA's phrase 'successful failure' captures the paradox: the mission objective failed, but the crisis response saved the astronauts.\n\nThe film's strongest historical point is engineering culture. Survival did not come from one brilliant idea alone. It came from astronauts, mission control, training, procedures, backup systems, and teams that could improvise with the materials available. The lunar module Aquarius, designed for a short stay near the Moon, became a lifeboat. When carbon dioxide became a danger, engineers had to adapt square command-module lithium hydroxide canisters to the lunar module's round fittings. Smithsonian records of the Apollo 13 canister mock-up show that this was not just a memorable movie problem; it was a real systems adaptation.\n\nApollo 13 is therefore not only a heroic astronaut story. It is a story about organizations that prepare for failure. The real achievement was not reaching the Moon. It was preventing a technical accident from becoming a fatal one.",
+      "accuracyNote": "The film follows the core Apollo 13 crisis closely, though dialogue and pacing are compressed. NASA sources emphasize the mission as a major lesson in crisis management and engineering resilience.",
+      "whyInteresting": "Apollo 13 shows that technology's success depends not only on perfect design, but on how teams respond when design fails.",
+      "misconception": "Apollo 13 is often reduced to one famous line. The real story is a collective systems-engineering response under extreme constraint.",
+      "nextTopics": [
+        "Nuclear Deterrence",
+        "Bletchley Park",
+        "War Economy"
+      ],
+      "similarMedia": [
+        "First Man",
+        "For All Mankind",
+        "The Right Stuff"
+      ],
+      "relatedCardIds": [
+        "tf26-225-fallout-atomic-optimism",
+        "tf26-230-mgs-nuclear-deterrence",
+        "tf26-263-imitation-game-bletchley"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "spoilerLevel": "none",
+      "mediaConnection": "Apollo 13 uses a real mission failure to show NASA's mission control culture, spacecraft redundancy, and improvised problem solving.",
+      "accuracyType": "real",
+      "isPremium": false,
+      "tags": [
+        "apollo-13",
+        "nasa",
+        "engineering",
+        "space",
+        "true-frame"
+      ],
+      "spoilerNote": "Includes the historical outcome of Apollo 13.",
+      "mediaChanged": "The film compresses the crisis for drama. The real event unfolded through procedures, training, ground control, and improvised hardware adaptation.",
+      "whyItMatters": "In large systems, success can mean not reaching the original goal, but returning safely after failure.",
+      "quickRealityCheck": "Apollo 13 did not land on the Moon. Is that exactly why it became one of engineering history's most useful success stories?",
+      "isFlagship": false,
+      "sources": [
+        {
+          "title": "NASA - Apollo 13: The Successful Failure",
+          "url": "https://www.nasa.gov/missions/apollo/apollo-13-the-successful-failure/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "NASA - Apollo 13 Mission Details",
+          "url": "https://www.nasa.gov/missions/apollo/apollo-13-mission-details/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Smithsonian National Air and Space Museum - Apollo 13 Emergency LiOH Canister Mock-up",
+          "url": "https://airandspace.si.edu/collection-objects/lithium-hydroxide-canister-mock-apollo-13-emergency/nasm_A19760747000",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-273-bridge-of-spies-u2-exchange",
+      "title": "Spy Exchange and the U-2 Crisis",
+      "subtitle": "The Cold War was not fought only with missiles.",
+      "mediaType": "film",
+      "mediaTitle": "Bridge of Spies",
+      "era": "Cold War",
+      "region": "United States / Soviet Union / Berlin",
+      "themes": [
+        "Cold War",
+        "Espionage",
+        "Law",
+        "Diplomacy"
+      ],
+      "whatWeSee": "Bridge of Spies follows James Donovan as he defends Soviet agent Rudolf Abel and later becomes involved in the exchange for CIA pilot Francis Gary Powers. The film connects courtroom duty, public pressure, Berlin Wall atmosphere, and diplomatic bargaining into one moral story about law under Cold War pressure.",
+      "realHistory": "Bridge of Spies shows the Cold War before and beyond missile crises: in courts, denials, secret channels, and face-saving deals. The story rests on three linked events: the U.S. trial of Soviet intelligence officer Rudolf Abel, the downing of CIA pilot Francis Gary Powers over the Soviet Union on 1 May 1960, and the 1962 prisoner exchange at Glienicke Bridge.\n\nThe U-2 incident was especially damaging. The United States first tried to describe the aircraft as a weather plane, but the Soviet Union had recovered the pilot and equipment. That collapse of the cover story helped derail the Paris Summit and increased U.S.-Soviet tension. Powers was convicted of espionage, and in February 1962 he was exchanged for Abel.\n\nThe bridge scene is therefore not only a dramatic ending. It shows a Cold War mechanism: even enemies needed ways to bargain. Legal defense, intelligence embarrassment, public messaging, and back-channel negotiation all mattered. The film foregrounds Donovan's moral courage, while the wider history also includes intelligence institutions, diplomatic calculation, and prestige management.",
+      "accuracyNote": "The film is based on the real Abel-Powers exchange, but intensifies Donovan's personal role and some moments of tension. The U-2 incident and the 1962 Glienicke Bridge exchange are the historical core.",
+      "whyInteresting": "A spy story can show law, intelligence denial, and diplomatic bargaining working at the same time.",
+      "misconception": "The Cold War is often imagined mainly as nuclear threat. It was also fought through courts, aerial reconnaissance, propaganda, and back channels.",
+      "nextTopics": [
+        "Bletchley Park and Enigma",
+        "Tetris and Soviet Software",
+        "Surveillance State"
+      ],
+      "similarMedia": [
+        "Tinker Tailor Soldier Spy",
+        "The Courier",
+        "The Americans"
+      ],
+      "relatedCardIds": [
+        "tf26-245-codbo-mkultra",
+        "tf26-246-codbo-bay-of-pigs",
+        "tf26-230-mgs-nuclear-deterrence"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "minor",
+      "mediaConnection": "Bridge of Spies ties the Abel trial, U-2 crisis, and Glienicke Bridge exchange into a legal and diplomatic Cold War drama.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "bridge-of-spies",
+        "u2-crisis",
+        "cold-war",
+        "spy-exchange",
+        "true-frame"
+      ],
+      "spoilerNote": "Includes the historical outcome behind Bridge of Spies.",
+      "mediaChanged": "The film centers Donovan's moral line. Historically, intelligence agencies, diplomatic channels, and public messaging formed a wider framework.",
+      "whyItMatters": "The event shows why keeping negotiation channels open can make even hostile systems manage crises without direct escalation.",
+      "quickRealityCheck": "Was a spy exchange only about two prisoners, or also about protecting the prestige of two superpowers?",
+      "isFlagship": false,
+      "sources": [
+        {
+          "title": "Office of the Historian - U-2 Overflights and the Capture of Francis Gary Powers",
+          "url": "https://history.state.gov/milestones/1953-1960/u2-incident",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "CIA - May Day Over Moscow: The Francis Gary Powers Story",
+          "url": "https://www.cia.gov/stories/story/may-day-over-moscow-the-francis-gary-powers-story/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "CIA Crest / National Archives - The Central Intelligence Agency and Overhead Reconnaissance",
+          "url": "https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    }
+  ]
+}

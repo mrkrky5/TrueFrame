@@ -1,0 +1,1488 @@
+{
+  "meta": {
+    "purpose": "English-native adaptation batch",
+    "sourceChunk": "source-chunk-013.json",
+    "batchNumber": 13,
+    "cardCount": 20,
+    "sourceCardRange": "TR order cards 241-260",
+    "alreadyAuthoredCountBeforeBatch": 240,
+    "authoredCountAfterBatch": 260,
+    "remainingCountAfterBatch": 191,
+    "ids": [
+      "tf26-060-clan-loyalty",
+      "tf26-061-daimyo-politics",
+      "tf26-062-foreign-pilots",
+      "tf26-063-jesuit-missions",
+      "tf26-064-hostage-system",
+      "tf26-065-tea-ceremony",
+      "tf26-066-castle-towns",
+      "tf26-067-seppuku",
+      "tf26-068-port-trade",
+      "tf26-069-sekigahara",
+      "tf26-070-edo-peace",
+      "tf26-071-village-life",
+      "tf26-072-guilds",
+      "tf26-073-noble-duty",
+      "tf26-074-church-calendar",
+      "tf26-075-armor-cost",
+      "tf26-076-markets",
+      "tf26-079-sieges",
+      "tf26-080-literacy",
+      "tf26-081-privateers"
+    ]
+  },
+  "cards": [
+    {
+      "id": "tf26-060-clan-loyalty",
+      "title": "Clan Loyalty",
+      "subtitle": "Clan loyalty as honor, land, and reward politics",
+      "mediaType": "game",
+      "mediaTitle": "Ghost of Tsushima",
+      "era": "Middle Ages",
+      "region": "Japan",
+      "themes": [
+        "Samurai",
+        "Invasion",
+        "Honor"
+      ],
+      "whatWeSee": "Ghost of Tsushima frames Jin Sakai between samurai honor, family duty, and the survival of the island. Clan loyalty becomes the moral center of the game: who deserves obedience, what a lord can demand, and when survival may override inherited rules.",
+      "realHistory": "### Loyalty was not only emotion\n\nGhost of Tsushima turns clan loyalty into Jin Sakai’s personal conflict between family, lord, and island. That makes strong drama, but in the Kamakura-period warrior world loyalty was not just an inner code of honor. Warrior families served lords in exchange for income from land, protection, status, and legal recognition. A clan’s strength depended not only on the courage of its fighters, but also on which estates it controlled, which marriages it arranged, and which central authority it recognized.\n\n### The Mongol invasions strained the system\n\nThe Mongol invasions of 1274 and 1281 put this network under severe pressure. Tsushima and Iki absorbed the first blows, while warrior networks in Kyushu were mobilized for defense. Even when the invasions failed, the usual reward system ran into trouble. The war had been defensive; there was no large new conquered territory to distribute. Many warriors had provided weapons, men, supplies, and service at their own expense, yet could not be rewarded at the level they expected. That frustration is often linked to the long-term weakening of Kamakura authority over the warrior class.\n\n### Honor and interest worked together\n\nThis does not mean loyalty was fake. In medieval politics, loyalty often mixed belief, family reputation, practical security, and material expectation. Serving a lord could protect a household’s future, inheritance rights, and local influence. Hostage relationships, marriage alliances, temple donations, and written grants made these bonds visible. Clans showed loyalty to the center while still protecting regional interests.\n\n### What the game simplifies\n\nGhost of Tsushima makes this complex system legible through one sharp question: tradition or results? A historical reading asks a colder question: under what conditions did a warrior serve, what did that service cost, and how was it rewarded? Jin is fictional, but the pressure behind his story touches a real medieval problem. Clan loyalty was both identity and resource management; the accounts did not close when the battle ended.\n\n### Where loyalty could crack\n\nThe weakness of the Kamakura order appears in that gap. The center could demand service, but after a defensive war it could not satisfy every warrior’s expectation of reward. The Mongol invasions were therefore not only a military threat. They tested the contract between warrior service and state compensation. The game’s honor drama becomes more historically grounded when it is read beside land, expense, and reward.\n\n### Local memory and wartime cost\n\nOn frontier islands such as Tsushima, loyalty was also concrete labor: who carried warnings, who supplied food, who stood watch on the shore, and who moved families inland. These burdens were distributed through clan hierarchy. Where the first violence landed, loyalty became an organization for survival before it became a noble ideal.\n\n### Do not project later Bushido backward\n\nThe language of “samurai honor” also needs caution. Thirteenth-century warriors had values of reputation, service, and courage, but not the fully systematized and romantic Bushido language associated with later periods. Ghost of Tsushima deliberately uses a more familiar honor story. The historical correction is not to reject that story entirely, but to place it inside the realities of land, reward, military service, and local government.",
+      "accuracyNote": "The invasion chronology is well supported; Jin Sakai is fictional, and the game turns a wider service-and-reward system into a personal moral crisis.",
+      "whyInteresting": "The same loyalty oath could carry family honor, military duty, land income, and a very practical expectation of reward.",
+      "misconception": "Samurai loyalty is often imagined as unconditional honor. In practice, service, reward, estate rights, and household survival were central parts of the bond.",
+      "nextTopics": [
+        "Mongol Invasion",
+        "Kamikaze Winds",
+        "Samurai Code"
+      ],
+      "sources": [
+        {
+          "title": "Mongol invasions of Japan",
+          "url": "https://www.britannica.com/event/Mongol-invasions-of-Japan",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Samurai",
+          "url": "https://www.britannica.com/topic/samurai",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The decline of the Kamakura bakufu",
+          "url": "https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/EF1BFC92E54B2CA6DD53CCC63BB3D2E8/9781139055079c3_p128-174_CBO.pdf/decline_of_the_kamakura_bakufu.pdf",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "ghost-onna-musha",
+        "tf26-052-kamikaze"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Connects Jin's loyalty conflict in Ghost of Tsushima with the 1274 Mongol invasion and the cost of defending Tsushima.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "samurai",
+        "japan",
+        "tsushima",
+        "clan-loyalty",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game sharpens loyalty into a moral choice. Historically, loyalty was also shaped by estate income, written rights, military service, and postwar reward.",
+      "whyItMatters": "Clan loyalty moves samurai history beyond romantic honor codes and into a real political system of land, service, and state authority.",
+      "isFlagship": true,
+      "quickRealityCheck": "Jin's loyalty crisis is fictional, but warrior bonds in thirteenth-century Japan really involved land rights, family networks, service obligations, and reward expectations.",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-061-daimyo-politics",
+      "title": "Daimyo Politics",
+      "subtitle": "Castles, ports, hostages, and the balance of power",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Early Modern",
+      "region": "Japan",
+      "themes": [
+        "Politics",
+        "Trade",
+        "Religion"
+      ],
+      "whatWeSee": "Shogun presents daimyo politics through closed negotiations, marriage alliances, port bargaining, and hostage relationships more than open battlefield glory. Loyalty feels strategic rather than purely emotional, and one decision can affect a whole household, port, or province.",
+      "realHistory": "In the late sixteenth and early seventeenth centuries, daimyo politics cannot be explained only by who won battles. During the Sengoku period, regional lords operated through castles, tax bases, warrior networks, ports, and marriage alliances. The unification projects of Oda Nobunaga and Toyotomi Hideyoshi did not erase these powers; they tied them into wider hierarchies.\n\nWith Tokugawa Ieyasu’s rise, the problem became not only defeating rivals but keeping them permanently controllable. Land redistribution, hostage relationships, marriage oversight, castle permissions, port access, and foreign trade all became political tools. A powerful lord did not simply own brave samurai. He had to manage rice income, road links, harbor revenue, court access, and the ability to mobilize retainers.\n\nShogun dramatizes this network as personal intrigue, and that is effective because individuals did matter. But the historical reality behind the charisma was institutional. Daimyo politics was a form of management engineering in which revenue, soldiers, marriages, hostages, and outside contacts were calculated together. A quiet look or marriage proposal in the series often points to a larger political mathematics of castles, ports, and tax flows.",
+      "accuracyNote": "The emphasis on alliance and hostage politics fits the historical setting, although the drama compresses practices from different moments into one story world.",
+      "whyInteresting": "In a warrior elite, lasting power often came less from the sword than from revenue, ports, hostages, and administrative reach.",
+      "misconception": "Daimyo politics is often reduced to honor and battlefield skill, but finances and systems of control were just as decisive.",
+      "nextTopics": [
+        "Foreign Pilots",
+        "Jesuit Missions",
+        "Hostage System"
+      ],
+      "sources": [
+        {
+          "title": "Daimyo",
+          "url": "https://www.britannica.com/topic/daimyo",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Tokugawa period",
+          "url": "https://www.britannica.com/event/Tokugawa-period",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Japan, 1600–1800",
+          "url": "https://www.metmuseum.org/toah/hd/edoj/hd_edoj.htm",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-062-foreign-pilots",
+        "tf26-063-jesuit-missions",
+        "tf26-064-hostage-system"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Reads the negotiations and hostage tensions in Shogun beside post-Sengoku policies of central control.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japan",
+        "tokugawa",
+        "daimyo-politics",
+        "true-frame",
+        "samurai"
+      ],
+      "spoilerNote": "May contain light context for Shogun, but does not reveal the ending.",
+      "mediaChanged": "The series carries politics through face-to-face tension and character intelligence. Historically, daimyo power was measured through domain income, military mobilization, castle towns, foreign trade, and Tokugawa controls.",
+      "whyItMatters": "Understanding daimyo politics turns the intrigue in Shogun into a story about early modern state-building, not only personal ambition.",
+      "isFlagship": false,
+      "quickRealityCheck": "Daimyo bargaining in Shogun is not just intrigue; power depended on castles, tax bases, marriages, port trade, and tools of central control.",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-062-foreign-pilots",
+      "title": "Foreign Pilots",
+      "subtitle": "Maps, guns, translation, and political leverage",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Early Modern",
+      "region": "Japan",
+      "themes": [
+        "Politics",
+        "Trade",
+        "Religion"
+      ],
+      "whatWeSee": "In Shogun, the English pilot Blackthorne arrives in Japan through a world of Portuguese merchants, translation disputes, and port politics. The foreign sailor brings maps, artillery knowledge, and Christian geopolitics, turning cultural shock into a strategic problem.",
+      "realHistory": "Blackthorne is not a documentary figure, but he is clearly inspired by William Adams. Adams reached Japan in 1600 aboard the Dutch ship De Liefde and later gained a remarkable position near Tokugawa Ieyasu. What made him valuable was not only his foreignness. He carried knowledge of European navigation, ship technology, and the rivalry between Catholic Iberian networks and their Protestant competitors.\n\nJapanese ports in the sixteenth and seventeenth centuries were shaped by Nanban trade. Firearms, silver, silk, maps, missionaries, and maritime knowledge moved through these channels. Portuguese and Spanish actors were important early on, while Dutch and English interests entered the competition later. Japanese rulers did not simply “receive” foreigners passively. They selected, limited, used, and eventually controlled them more tightly.\n\nThe foreign pilot therefore did more than create cultural surprise. Through ports, interpreters, trade permissions, and military technology, he became part of state security. A map could matter as much as a castle plan, but the same knowledge also carried the intentions of outside powers. Shogun turns that process into personal adventure. Its basic insight is sound: in early modern Japan, outside knowledge could be power if controlled and a threat if it escaped control.",
+      "accuracyNote": "Nanban trade and William Adams provide the historical ground; Blackthorne remains a fictionalized character.",
+      "whyInteresting": "A sailor's knowledge of routes and maps could carry as much political value as a warrior's sword.",
+      "misconception": "Foreigners are often imagined as changing Japan on their own. In reality, Japanese rulers used and restricted outside knowledge selectively.",
+      "nextTopics": [
+        "Daimyo Politics",
+        "Jesuit Missions",
+        "Hostage System"
+      ],
+      "sources": [
+        {
+          "title": "William Adams",
+          "url": "https://www.britannica.com/biography/William-Adams",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Nanban trade",
+          "url": "https://www.britannica.com/topic/Nanban-trade",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "William Adams and Tokugawa Ieyasu",
+          "url": "https://www.uk.emb-japan.go.jp/itpr_en/231212amb.html",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-068-port-trade",
+        "tf26-064-hostage-system"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Connects Blackthorne's port scenes in Shogun with Nanban trade and the documented career of William Adams.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japan",
+        "tokugawa",
+        "foreign-pilots",
+        "true-frame",
+        "samurai"
+      ],
+      "spoilerNote": "May contain light context for Shogun, but does not reveal the ending.",
+      "mediaChanged": "The series makes the foreign pilot the face of culture clash. Historically, such figures also carried strategic knowledge about maps, guns, shipbuilding, trade licenses, and European rivalries.",
+      "whyItMatters": "Foreign pilots show that Shogun's culture clash is also about information, technology, and control of trade.",
+      "isFlagship": false,
+      "quickRealityCheck": "Blackthorne is fictional, but William Adams's arrival in 1600 and his value to Tokugawa Ieyasu are real historical foundations.",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-063-jesuit-missions",
+      "title": "Jesuit Missions",
+      "subtitle": "Faith, translation, and port trade",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Early Modern",
+      "region": "Japan",
+      "themes": [
+        "Politics",
+        "Trade",
+        "Religion"
+      ],
+      "whatWeSee": "Shogun presents Jesuits not simply as priests, but as political actors with influence over port trade, translation, and access to power. Their religious language and commercial interests often appear in the same scenes.",
+      "realHistory": "The Jesuit presence in Japan began with Francis Xavier’s arrival in Kagoshima in 1549. The mission’s purpose was conversion, but it soon became entangled with Nanban trade, especially Portuguese connections. Some daimyo in Kyushu engaged with the Jesuits not only through faith, but also because ports, firearms, overseas goods, and trade revenues could strengthen local power.\n\nJesuit influence did not come from armies. It came from language skills, letters, European contacts, merchant mediation, and access to local elites. A priest could also become a translator, a carrier of information, or a bridge to trade networks. That made Jesuits useful and risky at the same time.\n\nThe key political fear was whether religious affiliation might become loyalty to an outside power. From Hideyoshi into the Tokugawa period, that question became a security issue. Pressure on Christian communities hardened, and some believers later went underground. Shogun captures the central tension well: Jesuit activity in Japan was not only a spiritual story, but a meeting point of trade, diplomacy, translation, and sovereignty in early modern Asia.",
+      "accuracyNote": "The political and commercial dimensions of the missions are historically grounded, though the series compresses timing and character roles.",
+      "whyInteresting": "The same priestly network could be seen as spiritual authority, trade broker, translator, and security risk.",
+      "misconception": "Jesuits in Japan are often imagined as influential only through preaching. Translation, trade, and overseas connections were also decisive.",
+      "nextTopics": [
+        "Daimyo Politics",
+        "Foreign Pilots",
+        "Hostage System"
+      ],
+      "sources": [
+        {
+          "title": "The Mission (1549–): The Arrival of Christianity in Japan",
+          "url": "https://www.mlit.go.jp/tagengo-db/common/001560117.pdf",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Christianity in Japan",
+          "url": "https://www.britannica.com/place/Japan/Christianity",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "St. Francis Xavier",
+          "url": "https://www.britannica.com/biography/Saint-Francis-Xavier",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-064-hostage-system",
+        "tf26-065-tea-ceremony",
+        "tf26-066-castle-towns"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Links the translation, port bargaining, and court-access scenes in Shogun with the Jesuit role during the Nanban trade period.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japan",
+        "tokugawa",
+        "jesuit-missions",
+        "true-frame",
+        "samurai"
+      ],
+      "spoilerNote": "May contain light context for Shogun, but does not reveal the ending.",
+      "mediaChanged": "The series presents Jesuits as effective actors in court intrigue. Historically, their influence varied by region and period, but ports, translation, and European ties gave them political weight.",
+      "whyItMatters": "Jesuit missions reveal that religious conflict in Shogun is also about ports, trade, and state sovereignty.",
+      "isFlagship": false,
+      "quickRealityCheck": "Jesuit missions in Japan were not just preaching; in the sixteenth century, religion, Portuguese trade, translation, and daimyo interests moved through the same network.",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-064-hostage-system",
+      "title": "Hostage System",
+      "subtitle": "Sankin-kotai as family, roads, and financial control",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Early Modern",
+      "region": "Japan",
+      "themes": [
+        "Politics",
+        "Trade",
+        "Religion"
+      ],
+      "whatWeSee": "In Shogun, daimyo families are held in Edo as living guarantees of loyalty. The system turns spouses, heirs, and household members into political pressure points, making family life part of state security.",
+      "realHistory": "### More than hostage-taking\n\nIn Shogun, keeping family members at the center appears as one of the harshest forms of loyalty politics. That is a useful dramatic entrance, but the system was not simply hostage-taking. Under Tokugawa rule, sankin-kotai, or alternate attendance, tied daimyo to Edo physically, financially, and symbolically. Lords spent set periods in Edo and returned to their domains while close family members remained in the capital. Rebellion therefore risked not only military defeat, but also the safety and future of the household.\n\n### The politics of expense\n\nOne of the most effective parts of the system was cost. Daimyo had to maintain two residences, prepare processions, pay for travel, lodging, escorts, and display. That spending was not merely ceremonial prestige. It made it harder for provincial lords to accumulate surplus resources and build independent war capacity. Edo’s growth was also tied to this movement: domain mansions, servants, merchants, artisans, and road stations all benefited from the system.\n\n### The state on the road\n\nSankin-kotai did not operate only inside the palace. Roads, post stations, documents, guards, and protocols made movement visible and manageable. A daimyo procession showed hierarchy every time it moved: who walked where, which crest appeared, how much was spent, and who had the right to pass. The road became a stage on which central authority was repeated.\n\n### What the series simplifies\n\nThe series makes the emotional pressure easy to grasp. Historically, the hostage system was one of the key technologies of Tokugawa peace. The aim was not always to destroy rivals, but to make their movement, family, budget, and prestige permanently observable. It was a form of governance that reduced open violence while narrowing freedom.\n\n### The price of peace\n\nTokugawa peace is often remembered as stability, but that stability was not equal comfort for everyone. Provincial powers were systematically worn down through expense, visibility, and obligation. Shogun shows the human cost of family hostage politics. The historical frame shows how that cost became institutionalized through travel, city life, consumption, and debt.\n\n### Edo as a growth engine\n\nSankin-kotai also helped make Edo enormous. Daimyo mansions, retinues, craftsmen, merchants, and route towns generated constant work. The capital became not only a political center, but also a place where provincial wealth was spent and redistributed. The shogunate tied lords to the center economically as well as militarily.\n\n### Family as political security\n\nThe most striking part of the system is how the household stopped being private. Wives, heirs, and close relatives in Edo became part of state security. This did not make loyalty automatic, but it raised the cost of revolt. Shogun's family scenes therefore have a real historical core: in early modern Japan, family was emotional life and political collateral at the same time.",
+      "accuracyNote": "The broad outline of sankin-kotai matches the historical record; the drama foregrounds the emotional hostage aspect more than the full fiscal and infrastructural system.",
+      "whyInteresting": "The same family bond could serve as a marker of honor and as a tool for restraining provincial aristocrats.",
+      "misconception": "Daimyo families in Edo are sometimes imagined as court guests. In reality, their presence was part of a political guarantee and financial pressure system.",
+      "nextTopics": [
+        "Daimyo Politics",
+        "Foreign Pilots",
+        "Jesuit Missions"
+      ],
+      "sources": [
+        {
+          "title": "Sankin-kotai",
+          "url": "https://www.britannica.com/topic/sankin-kotai",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Tokugawa period",
+          "url": "https://www.britannica.com/event/Tokugawa-period",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Sankin Kotai and the Hostage System",
+          "url": "https://www.nakasendoway.com/sankin-kotai-and-the-hostage-system/",
+          "type": "reference",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-068-port-trade",
+        "tf26-062-foreign-pilots"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Connects the Edo hostage scenes in Shogun with Tokugawa sankin-kotai and daimyo control.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japan",
+        "tokugawa",
+        "hostage-system",
+        "true-frame",
+        "samurai"
+      ],
+      "spoilerNote": "May contain light context for Shogun, but does not reveal the ending.",
+      "mediaChanged": "The series presents hostages as emotional pressure. Historically, sankin-kotai also created road traffic, lodging costs, display expenses, debt, and constant political visibility.",
+      "whyItMatters": "Sankin-kotai shows that Tokugawa peace was built through expense, family security, and visibility, not just good will.",
+      "isFlagship": true,
+      "quickRealityCheck": "The hostage system in Shogun is not only family drama; Edo residence, costly processions, and central supervision made daimyo families part of political control.",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-065-tea-ceremony",
+      "title": "Tea Ceremony",
+      "subtitle": "Quiet aesthetics and high politics",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Early Modern",
+      "region": "Japan",
+      "themes": [
+        "Politics",
+        "Trade",
+        "Religion"
+      ],
+      "whatWeSee": "In Shogun, the tea ceremony appears as protocol, calm, and power at the same time. A carefully chosen room, object, seat, or gesture can carry diplomatic meaning without anyone speaking directly.",
+      "realHistory": "The Japanese tea ceremony, especially under the influence of Sen no Rikyu in the sixteenth century, became much more than an aesthetic ritual. In the world of the warrior elite, chanoyu produced a language of prestige, trust, and restraint. Rikyu worked in the orbit of figures such as Oda Nobunaga and Toyotomi Hideyoshi, which shows how deeply tea could be tied to politics.\n\nIts power lay in silence and control. In a small tea room, swords could be left outside, utensils were selected with care, seating order mattered, and a single object could speak about taste, rank, or favor. The wabi ideal valued simplicity, but even simplicity could become elite cultural capital. A prized tea vessel could sometimes carry political value far beyond its material cost.\n\nShogun uses tea to build tension, and that instinct is historically sound. The ceremony may look peaceful, but it was not outside power. In early modern Japan, the tea room could function as a diplomatic space where hierarchy, trust, and alliance were communicated with very few words. The silence is not emptiness; it is a disciplined political language.",
+      "accuracyNote": "The role of Rikyu and chanoyu is historically grounded; the series compresses the training, object culture, and protocol into short symbolic scenes.",
+      "whyInteresting": "The same bowl could express calm, rank, taste, and political trust among warrior elites.",
+      "misconception": "The tea ceremony is often treated as purely aesthetic or spiritual. In daimyo and court circles, it also carried political meaning.",
+      "nextTopics": [
+        "Daimyo Politics",
+        "Foreign Pilots",
+        "Jesuit Missions"
+      ],
+      "sources": [
+        {
+          "title": "Tea ceremony",
+          "url": "https://www.britannica.com/topic/tea-ceremony",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Sen no Rikyu",
+          "url": "https://www.sakai-rishonomori.com/en/sennorikyu/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Tea and Counsel: The Political Role of Sen Rikyū",
+          "url": "https://www.jstor.org/stable/2384071",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-066-castle-towns",
+        "tf26-067-seppuku",
+        "tf26-068-port-trade"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Connects Shogun's tea scenes with chanoyu, Sen no Rikyu, and diplomacy among Japan's warrior elite.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japan",
+        "tokugawa",
+        "tea-ceremony",
+        "true-frame",
+        "samurai"
+      ],
+      "spoilerNote": "May contain light context for Shogun, but does not reveal the ending.",
+      "mediaChanged": "The series compresses the tea ceremony into short, intense symbolic scenes. Historically, it depended on long training, object choice, seating order, and the host-guest relationship.",
+      "whyItMatters": "The tea ceremony explains why quiet scenes in Shogun can still be political, and how culture could become a tool of power.",
+      "isFlagship": false,
+      "quickRealityCheck": "The tea scenes in Shogun are not just elegant ritual; chanoyu could carry prestige, trust, and diplomatic messages among sixteenth-century warrior elites.",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-066-castle-towns",
+      "title": "Castle Towns",
+      "subtitle": "Castle towns as defense, class order, and tax planning",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Early Modern",
+      "region": "Japan",
+      "themes": [
+        "Politics",
+        "Trade",
+        "Religion"
+      ],
+      "whatWeSee": "In Shogun, the streets, gates, and compounds around castles give city life a tense order. The setting suggests jokamachi as more than scenery: power is built into roads, gates, residence zones, and the movement of people.",
+      "realHistory": "Japanese castle towns, or jokamachi, were military power translated into urban order. In the Sengoku and Tokugawa worlds, the castle was not only the lord’s defensive residence. The neighborhoods around it displayed hierarchy. Samurai households often stood closer to the castle, while artisans, merchants, and service groups were arranged in other districts.\n\nThis layout had practical functions. Gates, moats, bridges, and street patterns did not only defend the lord. They also controlled movement of people and goods. Markets, storage, tax collection, fire risk, night watches, and official access were part of city management. Even during peace, castle towns remained administrative centers with a military memory.\n\nShogun uses this world as a stage for intrigue and protocol. Historically, it reveals something more concrete: power was not only spoken in council rooms; it was built into where streets led, who lived near the center, and who could pass through which gate. A castle town was early modern order made visible through stone, water, streets, and class geography.",
+      "accuracyNote": "The drama foregrounds character movement and tension; the tax, class, and population-control functions of jokamachi are clearer in historical studies.",
+      "whyInteresting": "Even a street plan could show who stood close to power and who was being watched.",
+      "misconception": "Castle towns are often imagined as purely defensive or aesthetic. They were also tools of class order, taxation, and administration.",
+      "nextTopics": [
+        "Daimyo Politics",
+        "Foreign Pilots",
+        "Jesuit Missions"
+      ],
+      "sources": [
+        {
+          "title": "Tokugawa Japan: An Introductory Essay",
+          "url": "https://www.colorado.edu/ptea-curriculum/sites/default/files/attached-files/tokugawa-essay.pdf",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Tokugawa period",
+          "url": "https://www.britannica.com/event/Tokugawa-period",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Jokamachi or Japan's Castle Town",
+          "url": "https://wanotabi.com/travel-inspiration/jokamachi-castle-town/",
+          "type": "reference",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-067-seppuku",
+        "tf26-068-port-trade",
+        "tf26-069-sekigahara"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Reads the castle-town settings in Shogun as part of early modern Japanese spatial control.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japan",
+        "tokugawa",
+        "castle-towns",
+        "true-frame",
+        "samurai"
+      ],
+      "spoilerNote": "May contain light context for Shogun, but does not reveal the ending.",
+      "mediaChanged": "The series uses castle areas as tense settings for characters. Historically, these towns combined military centers, offices, markets, class zoning, and tax flows.",
+      "whyItMatters": "Castle towns turn the settings of Shogun from period decoration into evidence of how power worked in everyday space.",
+      "isFlagship": false,
+      "quickRealityCheck": "The castle towns in Shogun are not just beautiful period settings; jokamachi organized samurai, artisans, merchants, gates, markets, and tax flows into spatial hierarchy.",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-067-seppuku",
+      "title": "The Reality of Seppuku",
+      "subtitle": "Honor ritual, political tool, or both?",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Early Modern",
+      "region": "Japan",
+      "themes": [
+        "Politics",
+        "Trade",
+        "Religion"
+      ],
+      "whatWeSee": "In Shogun, seppuku appears through white garments, a short blade, witnesses, and the kaishakunin. The scene emphasizes courage and family legacy, but the historical practice also belonged to law, status, and political discipline.",
+      "realHistory": "Seppuku did not simply mean “dying for personal honor.” In medieval and early modern Japan, ritual suicide could appear after defeat, shame, loyalty to a lord, or political punishment. Under Tokugawa rule especially, it became a controlled ritual that preserved samurai status while allowing the authorities to apply punishment in a class-coded form.\n\nThe details mattered. Witnesses, final words, formal setting, and the kaishakunin who ended the suffering all marked the act as a recognized public event rather than an uncontrolled death. In some cases the person acted from personal resolve; in others, “honorable death” was effectively an ordered execution. The fact that the same offense could receive different punishments depending on status shows how closely seppuku was tied to class.\n\nPopular stories often romanticize seppuku as pure courage. A more balanced reading sees it as the meeting point of honor language and state discipline. Shogun captures the emotional weight, but history makes the legal, family, and political pressure behind that weight more visible.",
+      "accuracyNote": "The ritual form and later restrictions are broadly supported; the series gives the practice a concentrated personal and emotional force.",
+      "whyInteresting": "One ritual could function as personal reputation, family pressure, class privilege, and state discipline at the same time.",
+      "misconception": "Seppuku is often imagined as always fully voluntary. In many cases, order, politics, and family pressure mattered.",
+      "nextTopics": [
+        "Daimyo Politics",
+        "Foreign Pilots",
+        "Jesuit Missions"
+      ],
+      "sources": [
+        {
+          "title": "Seppuku",
+          "url": "https://www.britannica.com/topic/seppuku",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Samurai",
+          "url": "https://www.britannica.com/topic/samurai",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Forty-seven rōnin",
+          "url": "https://www.britannica.com/topic/forty-seven-ronin",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-060-clan-loyalty",
+        "tf26-064-hostage-system"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Connects Shogun's seppuku scenes with Edo-period ritual suicide and status-based punishment.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japan",
+        "tokugawa",
+        "seppuku",
+        "true-frame",
+        "samurai"
+      ],
+      "spoilerNote": "May contain light context for Shogun, but does not reveal the ending.",
+      "mediaChanged": "The series frames seppuku as a powerful personal honor scene. Historically, it was also a political punishment and obedience mechanism applied through status.",
+      "whyItMatters": "Seeing seppuku only as romantic death hides the class, punishment, and control structures behind the ritual.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was seppuku purely personal choice, or could it also be a state sentence carried out in the language of honor?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-068-port-trade",
+      "title": "Port Trade",
+      "subtitle": "Nagasaki as the open gate of a controlled country",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Early Modern",
+      "region": "Japan",
+      "themes": [
+        "Politics",
+        "Trade",
+        "Religion"
+      ],
+      "whatWeSee": "In Shogun, ports are tense spaces where foreign ships, interpreters, merchants, missionaries, and daimyo interests collide. A foreign ship does not merely begin an adventure; it disturbs the balance between trade, religion, and security.",
+      "realHistory": "### Controlled openness\n\nShogun comes closest to the historical picture when its ports feel not like a fully closed world, but like dangerous filters. In the sixteenth century, Nanban trade brought Portuguese and Spanish merchants into Japanese ports. Firearms, silk, silver, maps, maritime knowledge, and missionaries moved through the same channels. For some daimyo, this contact was a major opportunity: foreign goods meant military strength, commercial revenue, and political prestige. The same contact also raised fears that foreign kingdoms and missionary networks could penetrate local politics.\n\n### Profit and security\n\nAs Tokugawa authority grew stronger, the main question became not “trade or no trade,” but “who controls trade, and within what limits?” Christian missionary activity, Iberian imperial connections, and local daimyo interests were increasingly treated as security risks. Yet outside trade did not vanish. In the seventeenth century, Nagasaki became the main controlled gate for Chinese and Dutch commerce. Places such as Dejima physically restricted foreign presence while allowing selected trade and information to continue.\n\n### Ports, interpreters, records\n\nInterpreters, customs officials, licensed brokers, warehouses, and documents formed the real machinery of the port. Imported goods carried more than economic value. Medical, astronomical, cartographic, and technical knowledge could also pass through these channels. The later tradition of Dutch learning shows why the simple “closed country” cliche is incomplete. The state was not ignoring the world; it was trying to filter outside knowledge without letting trade turn into a political threat.\n\n### What the series simplifies\n\nShogun turns the port into the foreign character’s entrance: a ship arrives, and everyone’s balance changes. Historically, the port was an institution that shows how early modern Japan chose what to let in. Sakoku should not be read as absolute isolation. It is better understood as restricted and centralized foreign contact, tied to security calculations. Port trade was therefore sovereignty management as much as profit.\n\n### The meaning of Dejima\n\nDejima mattered because trade could continue while foreign presence was kept away from free everyday contact with wider Japanese society. The small, supervised space worked as both barrier and gate. Dutch and Chinese merchants could bring goods under rules, while Japanese officials tracked movement through records, translation, and surveillance. The state tried to limit missionary and alliance risks without cutting itself off from technical knowledge.\n\n### Reading Shogun through the port\n\nThis distinction matters for Shogun. The port may look chaotic, but historically even chaos was being forced into rules. A foreign ship carried goods, fears, and possible alliances. Who translated, who recorded, and which document reached authority could become real power.",
+      "accuracyNote": "The general frame of sakoku, Nagasaki, and Dejima is historically supported; the series dramatizes the transition through character conflict.",
+      "whyInteresting": "Even during Japan's so-called closed period, selected trade and knowledge still moved through Nagasaki.",
+      "misconception": "Sakoku is often imagined as total isolation. In reality, foreign contact was restricted, centralized, and closely recorded.",
+      "nextTopics": [
+        "Daimyo Politics",
+        "Foreign Pilots",
+        "Jesuit Missions"
+      ],
+      "sources": [
+        {
+          "title": "Dejima History",
+          "url": "https://nagasakidejima.jp/english/history/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Art of the Edo Period (1615–1868)",
+          "url": "https://www.metmuseum.org/essays/art-of-the-edo-period-1615-1868",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Sakoku",
+          "url": "https://www.britannica.com/topic/sakoku",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Nanban trade",
+          "url": "https://www.britannica.com/topic/Nanban-trade",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-064-hostage-system",
+        "tf26-062-foreign-pilots"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Connects Shogun's port scenes with Nanban trade and Tokugawa port controls.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japan",
+        "tokugawa",
+        "port-trade",
+        "true-frame",
+        "samurai"
+      ],
+      "spoilerNote": "May contain light context for Shogun, but does not reveal the ending.",
+      "mediaChanged": "The series often makes the port a point of entry for foreign characters and political tension. Historically, ports managed taxation, translation, religious bans, trade licenses, and information control at once.",
+      "whyItMatters": "Port trade shows how early modern states could manage contact with the world by filtering it, not simply opening or closing the gates.",
+      "isFlagship": true,
+      "quickRealityCheck": "Did Japan cut itself off entirely, or did it continue foreign trade through controlled gates such as Nagasaki?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-069-sekigahara",
+      "title": "After Sekigahara",
+      "subtitle": "Winning the war was only the beginning of building the state",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Early Modern",
+      "region": "Japan",
+      "themes": [
+        "Politics",
+        "Trade",
+        "Religion"
+      ],
+      "whatWeSee": "Shogun presents the world after Sekigahara through loyalty tests, hostage politics, port bargaining, and careful private calculations. The war may seem over, but everyone is still trying to survive the new order.",
+      "realHistory": "The Battle of Sekigahara in 1600 gave Tokugawa Ieyasu decisive superiority over his rivals, but Japan’s new order was not completed on the battlefield. The real transformation began afterward, through land redistribution, classification of daimyo by loyalty, and tighter control of strategic regions.\n\nThe shogunal title in 1603 gave this process formal shape. Tokugawa authority endured not only through military force, but through rules over castle repair and construction, marriage permissions, port access, foreign trade, and daimyo movement. Former warrior rivalry did not disappear. It was pushed into a more closely governed system of negotiation and surveillance.\n\nShogun’s language of intrigue captures the political psychology of the age. The historical weight lies in something more institutional: turning victory into administration. After Sekigahara, power won by the sword had to become durable through records, tax arrangements, castles, and movement control. The peace was tested less on the battlefield than in the system built after the battle.",
+      "accuracyNote": "The atmosphere of power struggle is well placed; the long-term administrative consequences are naturally compressed in the drama.",
+      "whyInteresting": "A battle became a durable order only when land, castles, and movement rules were reorganized after victory.",
+      "misconception": "Sekigahara is often treated as if Japan became fully and smoothly unified overnight.",
+      "nextTopics": [
+        "Daimyo Politics",
+        "Foreign Pilots",
+        "Jesuit Missions"
+      ],
+      "sources": [
+        {
+          "title": "Battle of Sekigahara",
+          "url": "https://www.britannica.com/event/Battle-of-Sekigahara",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Tokugawa period",
+          "url": "https://www.britannica.com/event/Tokugawa-period",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Tokugawa Ieyasu",
+          "url": "https://www.britannica.com/biography/Tokugawa-Ieyasu",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Japan, 1600–1800 A.D.",
+          "url": "https://www.metmuseum.org/toah/ht/09/eaj.html",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-070-edo-peace",
+        "tf26-067-seppuku",
+        "tf26-068-port-trade"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Reads the court tensions in Shogun beside the centralizing tools of the Tokugawa bakufu.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japan",
+        "tokugawa",
+        "sekigahara",
+        "true-frame",
+        "samurai"
+      ],
+      "spoilerNote": "May contain light context for Shogun, but does not reveal the ending.",
+      "mediaChanged": "The series compresses the transition into personal strategy and court tension. Historically, the lasting result came from daimyo control and bakufu administration after victory.",
+      "whyItMatters": "Sekigahara is not only a military victory; it is one of the starting points for early modern Japanese state-building.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was Tokugawa power secured by one battlefield victory, or by the system of control built afterward?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-070-edo-peace",
+      "title": "The Edo Peace",
+      "subtitle": "Peace, control, and urban growth",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "era": "Early Modern",
+      "region": "Japan",
+      "themes": [
+        "Politics",
+        "Trade",
+        "Religion"
+      ],
+      "whatWeSee": "In Shogun, Tokugawa order feels like a tense peace held together by hostages, port restrictions, daimyo processions, and closely watched loyalty. War leaves the stage, but power struggle continues in quieter institutional forms.",
+      "realHistory": "The Edo period, lasting from 1603 to 1868, brought a long span in which major internal wars largely stopped. That peace did not happen by itself. Daimyo movement, castle rights, marriages, trade contacts, and military capacity were closely supervised by the center. Sankin-kotai brought lords regularly to Edo, creating both a display of loyalty and a heavy financial burden.\n\nThe stability encouraged major urban and economic growth. Edo, Osaka, and Kyoto became centers of craft production, commerce, publishing, theater, and visual culture. At the same time, the order rested on a rigid status system that tried to keep samurai, peasants, artisans, and merchants in their assigned social places. Peace meant controlled stability more than freedom.\n\nOver time, the system produced new tensions. Samurai stipends could remain fixed while the money economy expanded and merchant credit became more powerful. The Edo Peace was therefore not simply calm. It was a complex order in which institutions suppressed warfare but could not fully control economic change. Shogun shows the early psychology of that transition; history shows how controlled peace could produce both prosperity and pressure.",
+      "accuracyNote": "The Tokugawa institutions are well grounded, though the series necessarily compresses chronology.",
+      "whyInteresting": "Long peace also meant growing cities, credit networks, publishing, theater, and consumer culture.",
+      "misconception": "The Edo period is often imagined as static and totally closed. In reality, trade, urban culture, and literacy expanded significantly.",
+      "nextTopics": [
+        "Daimyo Politics",
+        "Foreign Pilots",
+        "Jesuit Missions"
+      ],
+      "sources": [
+        {
+          "title": "Japan, 1600–1800 A.D.",
+          "url": "https://www.metmuseum.org/toah/ht/09/eaj.html",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Art of the Edo Period (1615–1868)",
+          "url": "https://www.metmuseum.org/essays/art-of-the-edo-period-1615-1868",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Sankin-kōtai",
+          "url": "https://www.britannica.com/topic/sankin-kotai",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Tokugawa period",
+          "url": "https://www.britannica.com/event/Tokugawa-period",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-068-port-trade",
+        "tf26-069-sekigahara"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Connects Shogun's feudal order with Tokugawa peace, sankin-kotai, and port control policies.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japan",
+        "tokugawa",
+        "edo-peace",
+        "true-frame",
+        "samurai"
+      ],
+      "spoilerNote": "May contain light context for Shogun, but does not reveal the ending.",
+      "mediaChanged": "The series makes peace visible through intrigue and hostage politics. Historically, the same order also involved urbanization, class hierarchy, trade, and fiscal imbalance.",
+      "whyItMatters": "The Edo Peace shows how strong state control can produce stability and new economic tensions at the same time.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did Tokugawa peace last only because weapons were quiet, or because daimyo movement and economic flows were controlled?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-071-village-life",
+      "title": "Village Life",
+      "subtitle": "Production, labor obligations, and uncertainty",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "era": "Middle Ages",
+      "region": "Bohemia",
+      "themes": [
+        "Middle Ages",
+        "Class",
+        "Daily Life"
+      ],
+      "whatWeSee": "In Kingdom Come: Deliverance, village life feels alive through mills, inns, smiths, fields, market errands, and disputes between ordinary people. The game gives the material texture of rural life, while the heavier burden of dues, forced labor, and local law often stays behind the scenery.",
+      "realHistory": "Early fifteenth-century rural Bohemia was less a romantic village postcard than a complex system of obligations. Peasant households did not only work land; they also carried rent, tax, and service duties tied to that land. Road repair, transport, harvest help, or compulsory work for a lord could add burdens on top of everyday production.\n\nSuccess was not determined by weather alone. Access to a mill, seed quality, animal power, market roads, and local security all mattered. In a bad harvest year, debt could grow quickly. Passing armies, forced supply collection, or the loss of animals could damage a household for years. The church calendar also shaped work, fasting, feast days, and communal rhythm.\n\nKingdom Come is strong at making this world tangible: mill, inn, forge, and field belong to the same economic network. What it softens is how narrow the room for maneuver could be. A medieval village was not defined only by poverty, but by the need to carry fixed obligations on uncertain income. For many households, the daily strategy was not to become rich but to survive the bad year.",
+      "accuracyNote": "The game is convincing in material detail, but the pressure of obligations, dues, and limited maneuvering room is softened by gameplay needs.",
+      "whyInteresting": "A mill, market road, or lost animal could matter as much as a sword in the survival of a rural household.",
+      "misconception": "Medieval village life is often imagined as simple self-sufficiency. In reality, rent, dues, market access, and lordly obligations shaped daily choices.",
+      "nextTopics": [
+        "Guild Order",
+        "Noble Duty",
+        "Church Calendar"
+      ],
+      "sources": [
+        {
+          "title": "Bohemia",
+          "url": "https://www.britannica.com/place/Bohemia",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Serfdom",
+          "url": "https://www.britannica.com/topic/serfdom",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "10 things you need to know about medieval Bohemia before you play Kingdom Come: Deliverance 2",
+          "url": "https://www.historyextra.com/period/medieval/bohemia-facts-kingdom-come-deliverance-2/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-072-guilds",
+        "tf26-073-noble-duty",
+        "tf26-074-church-calendar"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Links Kingdom Come's rural locations with the obligations and uncertainties behind late medieval village life.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "kingdom-come-deliverance",
+        "bohemia",
+        "middle-ages",
+        "village-life",
+        "class",
+        "daily-life"
+      ],
+      "spoilerNote": "May contain light context for Kingdom Come: Deliverance, but does not reveal the ending.",
+      "mediaChanged": "The game makes village life tangible through practical spaces and quests. Historically, rural life was also defined by fixed obligations, uncertain harvests, debt, and local legal pressure.",
+      "whyItMatters": "Village life shows that medieval survival depended on obligations, access, weather, tools, animals, and local authority all at once.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was medieval village life just hard work in the fields, or a balance of uncertain income and fixed obligations?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-072-guilds",
+      "title": "Guild Order",
+      "subtitle": "Workshops, rules, trust, and exclusion",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "era": "Middle Ages",
+      "region": "Bohemia",
+      "themes": [
+        "Middle Ages",
+        "Class",
+        "Daily Life"
+      ],
+      "whatWeSee": "In Kingdom Come: Deliverance, craftsmen appear through workshops, reputation, repairs, payments, and local trust. The player deals with individual masters, but behind each respected trade stood rules, rights, and urban authority.",
+      "realHistory": "### From workshop to city government\n\nGuilds in medieval towns were not simply clubs for people doing the same job. They regulated apprenticeship, entry into journeyman status, masterwork tests, materials, measures, price behavior, and product quality. A smith, baker, or tailor did not become trusted in the market through skill alone. Status recognized by guild structures mattered. A guild could therefore function as a training institution and a public signal that a product had been inspected.\n\n### Bohemia and urban bargaining\n\nIn late medieval Bohemia, especially in cities such as Prague, craft organization was closely tied to municipal government and royal revenue. Guilds could bargain with city councils for production privileges. In exchange, they might take on public duties, taxes, quality control, or responsibilities for order. Seeing guilds only as monopolies misses their role as intermediary institutions that helped urban government function. Bad bread, weak metal, or false measures could damage the credibility of the city itself.\n\n### Training, trust, and exclusion\n\nGuild order produced trust, but also exclusion. Becoming a master required capital, connections, time, and sometimes civic status. Women, migrants, and producers outside the guild often had less room to move. At the same time, standardized training, product control, and mutual support created stability in the urban market. Journeyman travel helped circulate skill, while the master’s workshop became a place of production and social discipline.\n\n### What the game shows and hides\n\nKingdom Come makes craft hierarchy and local reputation feel important. The player learns who is trusted, who cheats, and who carries the authority of a “proper master.” But the game naturally highlights individual progress. Historically, advancement in a trade depended on rules, municipal courts, tax regimes, and collective bargaining as much as talent.\n\n### Guilds in crisis\n\nIn war, plague, bad harvest, or political crisis, guild order mattered even more. City authorities did not want bread, metalwork, leather, cloth, or arms production to collapse. Access to raw materials, obligations of masters, and price behavior could all become matters of negotiation. In a politically tense region such as Bohemia, the craftsman was not merely a producer; he was part of urban stability.\n\n### A Kingdom Come correction\n\nThe game often turns craft into a one-to-one relationship with a master: take a job, pay a price, gain or lose reputation. Behind that master stood a wider institution, charter, and court network. Guild order deepens the game's craft atmosphere because every hammer blow in a workshop was also connected to who had the right to produce.",
+      "accuracyNote": "The urban craft atmosphere is strong; the structural dependence on municipal councils, charters, and collective rules is necessarily less visible.",
+      "whyInteresting": "What mattered was not only what a workshop made, but which charter, court, and city authority stood behind it.",
+      "misconception": "Guilds are often treated only as anti-innovation monopolies. They also trained workers, enforced quality, and helped cities govern markets.",
+      "nextTopics": [
+        "Village Life",
+        "Noble Duty",
+        "Church Calendar"
+      ],
+      "sources": [
+        {
+          "title": "Guild",
+          "url": "https://www.britannica.com/topic/guild",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Guilds in Medieval Europe",
+          "url": "https://www.worldhistory.org/Guilds_in_Medieval_Europe/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Feudal bargain in Prague: The rise, spread, and fall of craft guilds",
+          "url": "https://journals.sagepub.com/doi/10.1177/10434631221092758",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Bohemia",
+          "url": "https://www.britannica.com/place/Bohemia",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-076-markets",
+        "tf26-080-literacy"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Connects Kingdom Come's craft and repair systems with the institutional world of late medieval guilds.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "kingdom-come-deliverance",
+        "bohemia",
+        "middle-ages",
+        "guilds",
+        "class",
+        "daily-life"
+      ],
+      "spoilerNote": "May contain light context for Kingdom Come: Deliverance, but does not reveal the ending.",
+      "mediaChanged": "The game presents craft through individual skill and quest progress. Historically, craft work was governed by guild statutes, municipal law, taxes, and collective bargaining.",
+      "whyItMatters": "Guilds show that medieval urban economies ran on institutional trust, quality control, and negotiation, not only personal skill.",
+      "isFlagship": true,
+      "quickRealityCheck": "Did a craftsperson succeed only by doing good work, or did guild rules and city law also determine the path?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-073-noble-duty",
+      "title": "Noble Duty",
+      "subtitle": "Privilege also meant obligation",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "era": "Middle Ages",
+      "region": "Bohemia",
+      "themes": [
+        "Middle Ages",
+        "Class",
+        "Daily Life"
+      ],
+      "whatWeSee": "In Kingdom Come: Deliverance, nobles appear through castle courts, tax demands, armed protection, and local judgment. The game shows that rank is not only luxury, but a duty to govern people and make decisions in crisis.",
+      "realHistory": "In fifteenth-century Bohemia, nobility was not only inherited prestige. It also meant managing land income, providing military service, and exercising local justice. A lord could demand payments and services from peasants, but he was also expected to provide road security, protection from raids, court order, and at least minimal stability in crisis.\n\nThis was not an equal contract in the modern sense; the balance of power clearly favored the noble. Yet it was not pure arbitrariness either. Oaths, charters, inheritance rights, royal approval, and local custom shaped the legitimacy of noble authority. Bad management, excessive taxation, or failure to protect dependents could create unrest and weaken loyalty.\n\nKingdom Come dramatizes this world through Henry's personal rise. Historically, noble duty was less about one person's honor than a class system where land, military service, debt, and local courts worked together. To be noble was not only to command; it was to prove that order still functioned. That proof became most visible in war, shortage, and political crisis.",
+      "accuracyNote": "The Bohemian feudal setting is historically plausible; Henry remains a fictional character and the game compresses social obligations for playability.",
+      "whyInteresting": "The same title gave privilege while placing its holder at the center of tax, defense, and justice obligations.",
+      "misconception": "Nobility is often imagined as comfort and power alone. Its legitimacy also depended on protection and maintenance of order.",
+      "nextTopics": [
+        "Village Life",
+        "Guild Order",
+        "Church Calendar"
+      ],
+      "sources": [
+        {
+          "title": "Bohemia",
+          "url": "https://www.britannica.com/place/Bohemia",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Medieval Nobility",
+          "url": "https://www.worldhistory.org/Medieval_Nobility/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Feudal Law",
+          "url": "https://max-eup2012.mpipriv.de/index.php/Feudal_Law",
+          "type": "reference",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-074-church-calendar",
+        "tf26-075-armor-cost",
+        "tf26-076-markets"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Reads the noble courts and obligations in Kingdom Come beside late medieval landholding and local justice.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "kingdom-come-deliverance",
+        "bohemia",
+        "middle-ages",
+        "noble-duty",
+        "class",
+        "daily-life"
+      ],
+      "spoilerNote": "May contain light context for Kingdom Come: Deliverance, but does not reveal the ending.",
+      "mediaChanged": "The game presents nobility through personal fate and adventure. Historically, noble status was measured through land income, military service, local courts, and crisis management.",
+      "whyItMatters": "Noble duty makes medieval politics clearer by showing rank as local government, not only luxury or warrior identity.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did a lord's authority come only from title, or from the ability to provide protection, justice, and military service?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-074-church-calendar",
+      "title": "Church Calendar",
+      "subtitle": "The church shaped time itself",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "era": "Middle Ages",
+      "region": "Bohemia",
+      "themes": [
+        "Middle Ages",
+        "Class",
+        "Daily Life"
+      ],
+      "whatWeSee": "In Kingdom Come: Deliverance, bells, services, Sundays, fasting, and saints' days sit in the background of village life. The game lets the rhythm of time be felt through daily activity rather than long explanations.",
+      "realHistory": "In medieval Europe, the church calendar was not merely a list of worship days. It worked as a shared time system for agriculture, markets, labor, eating, law, and social visibility. Christmas, Easter, Lent, saints' days, and local feasts could affect work rhythms, meat consumption, fair dates, and habits of payment.\n\nIn regions such as Bohemia, local saint cults and regional practices sat on top of the wider Christian calendar. For a peasant, attending services was not only private belief; it also signaled membership in the community. Fasting days changed the kitchen economy, while feast days could increase market and fair movement. Religious ritual and local economy ran on the same schedule.\n\nIn fifteenth-century Bohemia, the legacy of the Hussite movement and tensions with Catholic institutions could also make the calendar political. Kingdom Come gives this rhythm without diving deeply into theology. Historically, the church calendar was a social protocol that shaped how people measured time, joined community life, and recognized authority.",
+      "accuracyNote": "The game conveys the spatial and daily rhythm well; theology and regional variation are simplified by the pace of play.",
+      "whyInteresting": "A feast day could mean prayer, market movement, debt timing, fasting rules, and community oversight all at once.",
+      "misconception": "The church calendar is often seen as only a worship schedule. It also affected work, food, markets, and social visibility.",
+      "nextTopics": [
+        "Village Life",
+        "Guild Order",
+        "Noble Duty"
+      ],
+      "sources": [
+        {
+          "title": "Liturgical year",
+          "url": "https://www.britannica.com/topic/liturgical-year",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Medieval Church Calendar: A Guide To The Holy Days",
+          "url": "https://www.historyextra.com/period/medieval/medieval-church-calendar-holy-days-advent-lent-feast/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Calendars and Time Keeping",
+          "url": "https://library.missouri.edu/specialcollections/exhibits/show/fragmenta-manuscripta/secular-texts/calendars-and-time-keeping",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-075-armor-cost",
+        "tf26-076-markets",
+        "kcd2-medieval-law"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Connects Kingdom Come's bells, services, and village rhythm with the practical power of the medieval church calendar.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "kingdom-come-deliverance",
+        "bohemia",
+        "middle-ages",
+        "church-calendar",
+        "class",
+        "daily-life"
+      ],
+      "spoilerNote": "May contain light context for Kingdom Come: Deliverance, but does not reveal the ending.",
+      "mediaChanged": "The game makes the calendar felt through bells, services, and village rhythm. Historically, it also regulated work, markets, fasting, fairs, and community belonging.",
+      "whyItMatters": "The church calendar shows that medieval religion was also daily time management and local authority.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did the church calendar only mark prayer days, or did it also shape when villagers worked, fasted, and went to market?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-075-armor-cost",
+      "title": "The Cost of Armor",
+      "subtitle": "Good armor required income as well as strength",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "era": "Middle Ages",
+      "region": "Bohemia",
+      "themes": [
+        "Middle Ages",
+        "Class",
+        "Daily Life"
+      ],
+      "whatWeSee": "In Kingdom Come: Deliverance, good armor is not just a level reward. It is an economic threshold. The player must deal with mismatched pieces, repairs, rust, and maintenance, making combat power depend on income and patronage as much as skill.",
+      "realHistory": "In the late Middle Ages, quality armor was not just a shell of iron or steel. It was an expensive system requiring skilled labor, fitting, material quality, and maintenance. A fighter's protection did not usually consist of one shining suit. Gambeson, mail, plate pieces, helmet, gloves, knee protection, foot protection, and sometimes horse equipment had to work together. As quality rose, price could rise dramatically.\n\nThe cost did not end at purchase. Armor had to be kept from rusting, straps replaced, rivets repaired, and linings renewed. A damaged piece on campaign could make a warrior dependent on local craftsmen, spare parts, or a patron's ability to pay. A fully equipped fighter therefore often implies a household, wages, patronage, booty sharing, or credit behind him.\n\nKingdom Come captures this feeling well: better equipment improves survival, but acquiring and maintaining it is its own struggle. Historically, armor was both defensive technology and a class marker. The metal on a body showed not only how protected someone was, but what networks of income and support stood behind him.",
+      "accuracyNote": "The emphasis on cost and upkeep is historically sound; regional price variation and financing networks are necessarily simplified.",
+      "whyInteresting": "A military technology could make social class visible on the body.",
+      "misconception": "It is often imagined that every medieval fighter wore full plate armor as ordinary equipment.",
+      "nextTopics": [
+        "Village Life",
+        "Guild Order",
+        "Noble Duty"
+      ],
+      "sources": [
+        {
+          "title": "The Met - Arms and Armor: Common Misconceptions",
+          "url": "https://www.metmuseum.org/essays/arms-and-armor-common-misconceptions-and-frequently-asked-questions",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "The Met - Arms and Armor Department",
+          "url": "https://www.metmuseum.org/departments/arms-and-armor",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Armour",
+          "url": "https://www.britannica.com/technology/armour-protective-clothing",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-076-markets",
+        "kcd2-medieval-law"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Connects Kingdom Come's equipment economy with the real cost, upkeep, and status of late medieval armor.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "kingdom-come-deliverance",
+        "bohemia",
+        "middle-ages",
+        "armor-cost",
+        "class",
+        "daily-life"
+      ],
+      "spoilerNote": "May contain light context for Kingdom Come: Deliverance, but does not reveal the ending.",
+      "mediaChanged": "The game turns armor expense into a gameplay loop. Historically, upkeep, credit, patronage, and horse equipment made it an even broader financing problem.",
+      "whyItMatters": "Armor shows how medieval military technology was tied to class boundaries and income networks.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was buying armor the expensive part, or keeping it usable across campaigns?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-076-markets",
+      "title": "Markets",
+      "subtitle": "Market squares as trade, tax, and news flow",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "era": "Middle Ages",
+      "region": "Bohemia",
+      "themes": [
+        "Middle Ages",
+        "Class",
+        "Daily Life"
+      ],
+      "whatWeSee": "In Kingdom Come: Deliverance, markets are not just shops. Henry buys gear, bargains, hears news, and senses who controls local order. Stalls, scales, inns, and officials show that the economy is also a matter of authority.",
+      "realHistory": "### Who owned the market square?\n\nIn the late Middle Ages, a market was not simply a place where buyers and sellers happened to meet. The right to hold a regular market or annual fair often depended on privilege granted by a king, lord, or town authority. That right gathered trade into a specific time and place while also producing tolls, rents, taxes, and jurisdiction. A market square was therefore legal space as much as economic space.\n\n### Price, measure, and trust\n\nThe bargaining feel in Kingdom Come is a good starting point, but historical prices were not set only by two people haggling. Harvest conditions, war movement, road security, shortage, guild limits, and inspection of measures all mattered. False weights, low-quality goods, illegal stalls, and tax avoidance drew in town officials and local courts. Market order had to produce trust: buyers needed to know what they were getting, and sellers needed to know who had the right to trade.\n\n### The bridge between village and town\n\nThe market linked rural producers with urban consumers. A peasant might bring grain, eggs, animals, or wood and return with salt, iron tools, cloth, shoes, or small equipment. The exchange was rarely equal. Tolls, stall rents, guild restrictions, and debt limited small producers. Still, market day was also the movement of news: war rumors, tax changes, marriages, hiring opportunities, and local disputes passed through the square.\n\n### More than a shop interface\n\nKingdom Come turns the market into a usable gameplay system, which works well. Historically, the market was also a regulated institution. It shaped who could sell, what counted as honest measure, how disputes were resolved, and how authority became visible in ordinary trade. A market square made the relationship between village, town, lord, and ruler tangible.\n\n### Crisis in the market\n\nBad harvest, military movement, or disease could change the meaning of a market quickly. Food prices might rise, officials might enforce controls more strictly, and rumors could move faster than goods. In that sense, the market was an early warning system for local society. If the square felt tense, it often meant politics, supply, and trust were all under pressure.\n\n### Why regulation mattered\n\nMarket rules did not remove bargaining, but they set the frame within which bargaining could happen. A merchant who used a false measure was not only cheating one buyer; he was undermining the trust that made the market worth attending. For town authorities, that trust had fiscal value. A reliable market attracted sellers, buyers, tolls, and news. A disorderly one weakened the town's reputation and could push trade elsewhere.",
+      "accuracyNote": "The game gives a good market atmosphere, but market privilege, measure control, and local courts are necessarily simplified.",
+      "whyInteresting": "A market square moved goods, news, taxes, and local authority at the same time.",
+      "misconception": "Medieval market prices are often imagined as completely free bargaining. Privilege, measure control, and guild limits mattered.",
+      "nextTopics": [
+        "Village Life",
+        "Guild Order",
+        "Noble Duty"
+      ],
+      "sources": [
+        {
+          "title": "The National Archives - Markets and fairs",
+          "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/markets-fairs/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Centre for Metropolitan History - Markets and fairs in thirteenth-century England",
+          "url": "https://archives.history.ac.uk/ihrcms/cmh/projects/research/markets-and-fairs.html",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Guild",
+          "url": "https://www.britannica.com/topic/guild",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-072-guilds",
+        "tf26-080-literacy"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Connects Kingdom Come's market interactions with the legal and fiscal structure of medieval markets and fairs.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "kingdom-come-deliverance",
+        "bohemia",
+        "middle-ages",
+        "markets",
+        "class",
+        "daily-life"
+      ],
+      "spoilerNote": "May contain light context for Kingdom Come: Deliverance, but does not reveal the ending.",
+      "mediaChanged": "The game makes markets an accessible shopping loop. Historically, a market was a legal-economic institution that decided who could trade and under what conditions.",
+      "whyItMatters": "Markets show how state, town, and village were connected in ordinary medieval life.",
+      "isFlagship": true,
+      "quickRealityCheck": "Was a market created only by buyer and seller demand, or by market rights and local authority?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-079-sieges",
+      "title": "The Reality of Sieges",
+      "subtitle": "Castle warfare was often a war of waiting",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "era": "Middle Ages",
+      "region": "Bohemia",
+      "themes": [
+        "Middle Ages",
+        "Class",
+        "Daily Life"
+      ],
+      "whatWeSee": "In Kingdom Come: Deliverance, sieges, raids, and castle fights appear as short, high-tension moments. The player approaches walls, forces gates, avoids arrows, and makes tactical decisions quickly. Real sieges were usually slower and more exhausting.",
+      "realHistory": "In the late Middle Ages, siege warfare was often a contest of resources rather than sudden heroism. A castle was not always taken by a direct assault. Cutting supply lines, controlling water, taking mills, and wearing down the defender's morale could be more effective than climbing the wall. Direct attack was costly, so patience was often cheaper than courage.\n\nA siege required wide labor. Carpenters, smiths, diggers, carriers, and specialists with engineering knowledge all mattered. Engines, approach works, filled ditches, ladders, mining, and wall repairs demanded constant effort. Defenders were not passive either. Night raids, counter-mines, fire, quick repairs, and sorties could increase the attacker's time cost.\n\nThe game captures the intensity of combat, but the real siege was often decided during the days of waiting. Harvest timing, food supply, sickness, morale, and the burden placed on nearby villages could shape the result. Siege warfare was therefore not only the soldier's battle at the wall; it was also the supplier's and engineer's war in the background.",
+      "accuracyNote": "The weapons and castle atmosphere are convincing; the longer contest of supplies, disease, and engineering is shortened for pacing.",
+      "whyInteresting": "The loudest moment was the assault, but the decisive choices were often made during the waiting.",
+      "misconception": "Sieges are often imagined as being decided by the first unit over the wall. Hunger, engineering, morale, and time frequently mattered more.",
+      "nextTopics": [
+        "Village Life",
+        "Guild Order",
+        "Noble Duty"
+      ],
+      "sources": [
+        {
+          "title": "Britannica - Siege warfare",
+          "url": "https://www.britannica.com/topic/siege-warfare",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Bohemia",
+          "url": "https://www.britannica.com/place/Bohemia",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Boydell & Brewer - The Art of Warfare in Western Europe During the Middle Ages",
+          "url": "https://boydellandbrewer.com/9780851155708/the-art-of-warfare-in-western-europe-during-the-middle-ages/",
+          "type": "book",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-080-literacy",
+        "kcd2-medieval-law"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Links Kingdom Come's siege set pieces with the logistics and engineering of late medieval siege warfare.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "kingdom-come-deliverance",
+        "bohemia",
+        "middle-ages",
+        "sieges",
+        "class",
+        "daily-life"
+      ],
+      "spoilerNote": "May contain light context for Kingdom Come: Deliverance, but does not reveal the ending.",
+      "mediaChanged": "The game concentrates siege into action. Historically, the decisive factors were often supply, engineering, and time pressure.",
+      "whyItMatters": "Sieges show that medieval war was won by organization as much as courage.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was the key to taking a castle climbing the wall, or cutting its food and water connections?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-080-literacy",
+      "title": "Literacy",
+      "subtitle": "Reading, writing, and sealing were not the same skill",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "era": "Middle Ages",
+      "region": "Bohemia",
+      "themes": [
+        "Middle Ages",
+        "Class",
+        "Daily Life"
+      ],
+      "whatWeSee": "Kingdom Come: Deliverance treats literacy as rare and classed. Henry cannot read at first; priests, scribes, nobles, and some merchants stand closer to the written world. Learning to read feels less like a perk than a status threshold.",
+      "realHistory": "### Who controlled writing?\n\nIn a late medieval society such as Bohemia around 1403, literacy was not one single skill. Reading Latin, writing in a local language, keeping accounts, recognizing seals, and having a document read aloud were different levels of participation in written culture. Clergy, notaries, town scribes, and some educated merchants dealt directly with documents. Many peasants entered that world indirectly through witnesses, seals, marks, and oral formulas.\n\n### The power of documents\n\nLiteracy mattered because it affected legal and economic life, not only books. Tax records, debt notes, inheritance agreements, property disputes, and court entries made obligations durable. A peasant might not be able to read a contract, but the contract could still shape his life. The scribe or notary converted spoken agreement into written authority. That made the literate intermediary a person who could influence outcomes, not just record them.\n\n### Towns, trade, and numerical literacy\n\nIn towns, literacy often took practical forms. Merchants needed to track prices, debts, inventories, and partnerships. Some craftspeople dealt with guild records and orders. This does not mean everyone could read literary texts. But numbers, seals, short records, and marks became valuable in the urban economy. Writing expanded from monastery and court into market life.\n\n### What the game gets right\n\nKingdom Come's decision to make reading a separate skill is historically perceptive. Henry's difficulty is not just comic ignorance. It marks the distance between oral life and a document-based order. Learning to read opens access to books, but also to legal meaning, social confidence, and institutional power.\n\n### Seals, witnesses, and dependence\n\nEven people who could not read were not outside written culture. They could use witnesses, seals, trusted readers, or public reading of documents. But dependence on intermediaries created risk. A mistranslated clause, a false seal, or a hostile scribe could change the meaning of debt, inheritance, or obligation. Literacy therefore mattered because it determined who could verify reality for themselves.\n\n### The practical threshold\n\nThe medieval world was not split simply between “ignorant” and “educated.” It had layers of partial literacy. A merchant might calculate well but struggle with Latin; a priest might read formal texts but not manage trade accounts; a peasant might recognize a seal without reading the document. The game simplifies this into a skill, but the underlying idea is strong: writing was a gate into power.\n\n### Reading as social confidence\n\nThis is why literacy could change posture as much as knowledge. A person who could read, check a seal, or ask the right question before witnesses was less dependent on others to explain authority. In a world where documents increasingly fixed debt, land, and obligation, even partial literacy could become a form of protection.",
+      "accuracyNote": "The game is right to treat literacy as a classed and institutional threshold. Exact literacy rates varied by region, class, gender, and language, so single numbers should be avoided.",
+      "whyInteresting": "Being able to read a few lines could change the meaning of a debt, inheritance, or court decision.",
+      "misconception": "It is wrong to imagine the Middle Ages as either total illiteracy or simple widespread reading; skill levels varied by class, profession, language, and place.",
+      "nextTopics": [
+        "Village Life",
+        "Guild Order",
+        "Noble Duty"
+      ],
+      "sources": [
+        {
+          "title": "World History Encyclopedia - Medieval Education",
+          "url": "https://www.worldhistory.org/Medieval_Education/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Bohemia",
+          "url": "https://www.britannica.com/place/Bohemia",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Late medieval Czech, Latin and German charter corpus study",
+          "url": "https://arxiv.org/abs/2305.16718",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-072-guilds",
+        "tf26-076-markets"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Connects Kingdom Come's reading skill with scribes, seals, documents, and legal authority in late medieval Bohemia.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "kingdom-come-deliverance",
+        "bohemia",
+        "middle-ages",
+        "literacy",
+        "class",
+        "daily-life"
+      ],
+      "spoilerNote": "May contain light context for Kingdom Come: Deliverance, but does not reveal the ending.",
+      "mediaChanged": "The game presents literacy as a skill tree. Historically, writing worked through scribes, seals, witnesses, and documents as a system of authority.",
+      "whyItMatters": "Literacy shows who controlled legal and economic power, not just who had access to information.",
+      "isFlagship": true,
+      "quickRealityCheck": "In 1403 Bohemia, how could seals and witnesses affect a peasant's life even if he could not read the document?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-081-privateers",
+      "title": "The Reality of Privateers",
+      "subtitle": "The thin line between piracy and state service",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Early Modern",
+      "region": "Caribbean",
+      "themes": [
+        "Seafaring",
+        "Crime",
+        "Trade"
+      ],
+      "whatWeSee": "Pirates of the Caribbean deliberately blurs the line between privateer and pirate. The same captain can look like a lawful actor in one scene and a free raider in another. The films put charisma ahead of paperwork.",
+      "realHistory": "A privateer was a privately armed captain authorized by a state, usually through a letter of marque, to attack enemy merchant shipping. In the sixteenth to eighteenth centuries, this was a low-cost form of naval warfare for European powers. Instead of expanding the navy endlessly, the state used private capital. Captains and investors took shares of the prize while enemy commerce was damaged.\n\nThat legitimacy was fragile. A license applied only to specific wars, enemies, and time periods. When war ended, when the document expired, or when the wrong target was attacked, the same behavior could become piracy. Prize courts mattered because captured ships had to be judged legally. The line was drawn not only at sea, but also in port records and court decisions.\n\nThe films' ambiguity touches a real historical gray zone. Privateering was not romantic freedom. It was the outsourcing of maritime violence through contract, license, and prize sharing. The 1856 Paris Declaration's abolition of privateering shows how modern states tried to close that gray area in favor of state navies.",
+      "accuracyNote": "The blurred boundary is historically real, but the films simplify the legal process and lean on adventure rhythm.",
+      "whyInteresting": "The same ship, guns, and crew could shift from lawful warfare to crime when one document lost force.",
+      "misconception": "A privateer is often treated as just a more stylish name for a pirate.",
+      "nextTopics": [
+        "Blackbeard Myth",
+        "Pirate Codes",
+        "Buried Treasure"
+      ],
+      "sources": [
+        {
+          "title": "Britannica - Privateer",
+          "url": "https://www.britannica.com/topic/privateer",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Letter of marque and reprisal",
+          "url": "https://www.britannica.com/topic/letter-of-marque-and-reprisal",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "ICRC - Paris Declaration Respecting Maritime Law, 1856",
+          "url": "https://ihl-databases.icrc.org/en/ihl-treaties/paris-decl-1856/declaration",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-082-blackbeard",
+        "tf26-083-pirate-code",
+        "tf26-084-treasure-myth"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Connects the privateer/pirate ambiguity in Pirates of the Caribbean with letters of marque and prize courts.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "pirates-of-the-caribbean",
+        "privateers",
+        "piracy",
+        "caribbean",
+        "seafaring",
+        "trade"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The films merge privateer status and pirate identity into one adventure archetype. Historically, status depended on a concrete authorization document, target country, and war conditions.",
+      "whyItMatters": "The same ship could be a lawful weapon one day and a criminal pirate vessel the next, showing how strategic maritime law could be.",
+      "isFlagship": false,
+      "quickRealityCheck": "When a letter of marque expired, why could the same captain's same attack suddenly become a crime?",
+      "lastReviewedAt": "2026-06-28"
+    }
+  ]
+}

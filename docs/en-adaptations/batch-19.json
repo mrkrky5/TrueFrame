@@ -1,0 +1,1491 @@
+{
+  "meta": {
+    "purpose": "English-native adaptation batch",
+    "sourceChunk": "source-chunk-019.json",
+    "batchNumber": 19,
+    "cardCount": 20,
+    "sourceCardRange": "TR order cards 361-380",
+    "alreadyAuthoredCountBeforeBatch": 360,
+    "authoredCountAfterBatch": 380,
+    "remainingCountAfterBatch": 71,
+    "ids": [
+      "tf26-194-antisemitism",
+      "tf26-195-labor-shortage",
+      "tf26-196-medieval-hygiene",
+      "tf26-197-doctors",
+      "tf26-198-death-art",
+      "tf26-199-rural-impact",
+      "tf26-200-memory",
+      "tf26-201-ac4-republic-of-pirates",
+      "tf26-202-ac4-privateering",
+      "tf26-203-ac4-blackbeard-image",
+      "tf26-204-ac3-haudenosaunee",
+      "tf26-205-ac3-boston-massacre",
+      "tf26-206-acshadows-yasuke",
+      "tf26-207-acshadows-tanegashima",
+      "tf26-208-acshadows-nobunaga",
+      "tf26-209-acmirage-samarra-ghilman",
+      "tf26-210-twom-sarajevo-siege",
+      "tf26-211-twom-humanitarian-ethics",
+      "tf26-212-papersplease-border-regime",
+      "tf26-213-papersplease-surveillance"
+    ],
+    "notes": "Adapted from Turkish canonical cards. Source URLs, IDs, relatedCardIds, enums, flags and metadata preserved from TR unless localized text adaptation was required. readingTimeMinutes recomputed from English realHistory."
+  },
+  "cards": [
+    {
+      "id": "tf26-194-antisemitism",
+      "title": "Plague and Hatred",
+      "subtitle": "When epidemic fear searches for a scapegoat",
+      "mediaType": "general",
+      "mediaTitle": "Black Death-themed media",
+      "era": "Middle Ages",
+      "region": "Europe",
+      "themes": [
+        "Disease",
+        "Society",
+        "Misconceptions"
+      ],
+      "whatWeSee": "Black Death-themed films and games often focus on dark streets, sealed doors, corpse carts and the bodily horror of disease. That atmosphere is historically justified, but many stories leave out a harsher layer: the way epidemic panic could turn against neighboring communities. Accusations against Jewish communities are among the heaviest and least shown realities of plague history.",
+      "realHistory": "Between 1347 and 1351, the Black Death did not only create a medical and demographic disaster in Europe; it also intensified antisemitic prejudices that already existed. People did not have germ theory to explain the disease. They searched for meaning through bad air, divine punishment, astrology and conspiracy rumors. In that atmosphere, Jewish communities were accused of poisoning wells or deliberately spreading disease among Christians.\n\nThose claims had no evidentiary basis. Jewish communities were dying of plague too, a point Pope Clement VI stressed in 1348. Yet papal statements did not stop local violence. In 1348-1350, pogroms took place in Strasbourg, Basel, Freiburg and other towns. Some communities were expelled, some people were burned, and many survivors were pushed toward migration, including toward eastern Europe.\n\nIt would be wrong to imagine the same pattern everywhere. Some rulers and city authorities tried to protect Jewish residents, and the scale of violence varied sharply from place to place. Still, the larger pattern is clear: epidemic fear joined with older religious hostility, economic resentment and rumor to create a scapegoat mechanism.\n\nThat is why Black Death stories are not only disease stories. The panic shown on screen may be accurate, but the historical truth also asks where that panic was directed and which communities were struck by both illness and hatred.",
+      "accuracyNote": "Antisemitic accusations and the pogroms of 1348-1350 are well documented. Their form and scale varied by city, so a single uniform Europe-wide pattern should be avoided.",
+      "whyInteresting": "Even Pope Clement VI's attempts to defend Jewish communities were not enough to stop local mob violence.",
+      "misconception": "The Black Death is often treated as only a medical disaster; in reality, epidemic fear also produced waves of antisemitic violence.",
+      "nextTopics": [
+        "Plague Spread",
+        "The Idea of Quarantine",
+        "Flagellants"
+      ],
+      "sources": [
+        {
+          "title": "Antisemitism in History: From the Early Church to 1400 (USHMM)",
+          "url": "https://encyclopedia.ushmm.org/content/en/article/antisemitism-in-history-from-the-early-church-to-1400",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Pope Clement VI on the Jews (1348) - Fordham Sourcebook",
+          "url": "https://sourcebooks.fordham.edu/source/1348-blackdeath-jews.asp",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "The Black Death (Holocaust Explained / Wiener Holocaust Library)",
+          "url": "https://www.theholocaustexplained.org/anti-semitism/medieval-antisemitism/the-black-death/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Black Death: effects and significance (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/event/Black-Death/Effects-and-significance",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-195-labor-shortage",
+        "tf26-196-medieval-hygiene",
+        "tf26-197-doctors"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "The panic shown in Black Death-themed media is incomplete unless it is read beside the records of antisemitic accusations and pogroms.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "black-death",
+        "middle-ages",
+        "misconceptions",
+        "plague-and-hatred",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Media often foreground the visual horror of disease; historical records show how the same fear turned into accusations and pogroms against Jewish communities.",
+      "whyItMatters": "Crises become even more dangerous when lack of knowledge meets pre-existing images of an enemy.",
+      "isFlagship": false,
+      "quickRealityCheck": "If Jewish communities were also dying from plague, why did the well-poisoning accusation spread so quickly?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Pogrom examples were cross-checked with USHMM and Britannica; Pope Clement VI's statement was kept through the Fordham primary-source excerpt."
+    },
+    {
+      "id": "tf26-195-labor-shortage",
+      "title": "Labor Shortage",
+      "subtitle": "The labor bargain after the plague",
+      "mediaType": "general",
+      "mediaTitle": "Black Death-themed media",
+      "era": "Middle Ages",
+      "region": "Europe",
+      "themes": [
+        "Disease",
+        "Society",
+        "Misconceptions"
+      ],
+      "whatWeSee": "Black Death stories sometimes show empty fields, lords unable to find workers and villages whose old order has collapsed. Those images can look like background scenery, but behind them stood a major renegotiation of European labor. Surviving peasants and workers did not simply return to the same conditions; landlords and governments tried to hold the old wage and obligation system together.",
+      "realHistory": "The Black Death did not only reduce population in 14th-century Europe; it changed the price of labor and the bargaining power of survivors. With many workers dead, farms, craft shops and service households needed people who were now harder to find. Survivors could seek higher wages, better rents or the chance to move to another lord's land. The pattern is especially visible in England, where records survive in large numbers.\n\nThe English Crown responded with the Ordinance of Labourers in 1349 and the Statute of Labourers in 1351. These measures tried to hold wages near pre-plague levels and restrict worker mobility. The point was simple: prevent laborers from using scarcity to demand better terms. Yet enforcement was uneven. Court records show workers still searching for improved conditions and employers quietly breaking rules when they needed labor.\n\nIt is also too simple to say that the plague instantly ended feudalism. The decline of serfdom varied by region and unfolded over a long period. In parts of western Europe, wage labor and leasing grew stronger; in parts of eastern Europe, different forms of labor control could harden. In England, the pressure contributed to the long background of conflict that helped produce the Peasants' Revolt of 1381.\n\nLabor shortage was therefore one of the plague's inverted consequences. Death was catastrophic, but the labor of survivors became more valuable. That value did not automatically become freedom; it was fought over through law, courts and local negotiation.",
+      "accuracyNote": "The Statute of Labourers and post-plague wage pressure are well documented, but outcomes varied by region and should not be turned into a single Europe-wide story of instant feudal collapse.",
+      "whyInteresting": "A demographic catastrophe gave some surviving workers new leverage while also provoking state attempts to freeze wages.",
+      "misconception": "The post-plague labor order is often imagined as collapsing overnight; in reality, wages, migration, law and courts produced a long struggle.",
+      "nextTopics": [
+        "Plague Spread",
+        "The Idea of Quarantine",
+        "Flagellants"
+      ],
+      "sources": [
+        {
+          "title": "Plague (The National Archives UK)",
+          "url": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/early-modern/plague/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Parliament and the Black Death (UK Parliament)",
+          "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliament-and-the-black-death/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The Statute of Laborers, 1351 (Yale Avalon Project)",
+          "url": "https://avalon.law.yale.edu/medieval/statlab.asp",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Economic and social effects of the Black Death (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/event/Black-Death/Economic-and-social-effects",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-199-rural-impact",
+        "tf26-200-memory",
+        "tf26-198-death-art"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Images of empty fields and lordly crisis become more meaningful when read beside the Statute of Labourers and manorial records.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "black-death",
+        "middle-ages",
+        "misconceptions",
+        "labor-shortage",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Media often use rural emptiness as a dramatic image; archives show wage cases, labor mobility and legal pressure behind that emptiness.",
+      "whyItMatters": "The Black Death is one of the strongest examples of how labor law and bargaining power can be reshaped by crisis.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did workers become more powerful after the plague, or did governments and landlords try to contain that power by law?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-196-medieval-hygiene",
+      "title": "Medieval Cleanliness",
+      "subtitle": "What the filthy Middle Ages cliche hides",
+      "mediaType": "general",
+      "mediaTitle": "Black Death-themed media",
+      "era": "Middle Ages",
+      "region": "Europe",
+      "themes": [
+        "Disease",
+        "Society",
+        "Misconceptions"
+      ],
+      "whatWeSee": "Black Death media often reduces the Middle Ages to one smell: muddy streets, sewage, unwashed bodies and dark interiors. The aesthetic helps sell the horror of plague, but it oversimplifies the history. The problem was not that people had no idea of cleanliness at all; it was the combination of no germ theory, dense settlements, weak infrastructure and uneven enforcement of urban rules.",
+      "realHistory": "### Cleanliness existed, but not modern hygiene\n\nIt is wrong to describe medieval Europe as a world where nobody washed. Many towns had bathhouses, laundering practices, handwashing habits and ways to manage smell. Monasteries, courts and wealthy urban households had very different access to water and care than the rural poor. Medical writings could recommend bathing, scent and bodily management. Cleanliness culture existed; it was simply not built on modern microbiology.\n\nThat distinction matters. People could care about the body, smell and surroundings while still misunderstanding the biology of plague. Some practices looked sensible but were done for the wrong reasons; some dangers were invisible because bacteria, fleas and rodent cycles were not understood.\n\n### The infrastructure limit\n\nIn large towns, the main problem was often infrastructure rather than a total lack of washing. Narrow streets, animal waste, market refuse, weak drainage, polluted wells and crowded lodging all increased health risks. Cities such as London and Paris issued rules about waste, slaughterhouses and street cleaning. The existence of those rules already weakens the claim that no one cared. At the same time, limited enforcement meant the risks remained real.\n\nFor the Black Death, this becomes even more complex. The plague agent was Yersinia pestis, but medieval people could not know that. Dirty environments could support some rodent and flea dynamics, yet explaining the pandemic only as 'filth' ignores biology, trade routes and human movement.\n\n### Miasma and smell logic\n\nOne of the dominant explanations was miasma: the idea that disease came from bad air and bad smells. Incense, fragrant herbs, vinegar, rosewater and rituals of air-cleansing could therefore be treated as protective. From a modern perspective those methods were limited, but they made sense within the knowledge system of the time. People associated smell with sickness, so correcting smell became a health intervention.\n\n### The screen exaggeration\n\nFilms love dark, muddy, foul-smelling towns because the image instantly communicates plague. But it does not represent every place or every class. Bathing practices, laundry, civic ordinances and medical cleanliness advice all belonged to the same period. A better True Frame reading is: medieval people had cleanliness practices, but they did not have modern hygiene. Breaking the cliche does not make the plague smaller; it helps us understand it for the right reasons. It also prevents a lazy moral lesson in which the past is mocked as stupid and the present is treated as automatically rational. Medieval sanitation had real limits, but those limits came from infrastructure, theory, poverty and enforcement, not from a total absence of concern.",
+      "accuracyNote": "Medieval bathhouses, laundry practices and civic sanitation rules existed, but they varied by region and class. Lack of germ theory and weak infrastructure limited their ability to stop epidemic disease.",
+      "whyInteresting": "Medieval people were not completely unaware of cleanliness; the real break was that cleanliness practices were not supported by modern germ theory.",
+      "misconception": "It is often claimed that nobody washed in the Middle Ages. In reality, many places had bathing and cleaning practices, even if they could not explain plague biology.",
+      "nextTopics": [
+        "Plague Spread",
+        "The Idea of Quarantine",
+        "Flagellants"
+      ],
+      "sources": [
+        {
+          "title": "Scrub-a-Dub in a Medieval Tub (JSTOR Daily)",
+          "url": "https://daily.jstor.org/scrub-a-dub-in-a-medieval-tub/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Sanitation, Baths, and Street-Cleaning in the Middle Ages and Renaissance (JSTOR)",
+          "url": "https://www.jstor.org/stable/2848055",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Miasma theory (Science Museum)",
+          "url": "https://www.sciencemuseum.org.uk/objects-and-stories/medicine/miasma-theory",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-192-quarantine",
+        "tf26-197-doctors"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "The filthy-street aesthetic becomes more balanced when read beside medieval bathhouse, urban sanitation and miasma sources.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "black-death",
+        "middle-ages",
+        "misconceptions",
+        "medieval-cleanliness",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Media often create a single 'dirty Middle Ages' atmosphere; historical sources show cleanliness practices, civic rules, miasma theory and infrastructure limits together.",
+      "whyItMatters": "Explaining epidemics only through 'filth' distorts both medieval practice and the biological and economic routes of disease spread.",
+      "isFlagship": true,
+      "quickRealityCheck": "Plague films may show dirty streets, but does that mean medieval Europe had no cleanliness culture at all?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-197-doctors",
+      "title": "Plague Doctors",
+      "subtitle": "The beaked mask belongs more to later plagues than to the Black Death",
+      "mediaType": "general",
+      "mediaTitle": "Black Death-themed media",
+      "era": "Middle Ages",
+      "region": "Europe",
+      "themes": [
+        "Disease",
+        "Society",
+        "Misconceptions"
+      ],
+      "whatWeSee": "When viewers think of the Black Death, one of the most familiar images is the beaked plague doctor: long nose, dark cloak, gloves, cane and foggy streets. The image is so powerful that many assume it naturally belongs to the pandemic of 1347-1351. In fact, the icon is mostly an early modern image of medicine and miasma, formed centuries after the Black Death.",
+      "realHistory": "Doctors, clergy, surgeons and local health officials existed during the 14th-century Black Death, but the beaked plague-doctor costume we know today did not belong to that outbreak. The long-nosed mask is usually associated with 17th-century accounts linked to Charles de Lorme. The waxed coat, gloves, goggles and beak filled with aromatic herbs rested on miasma theory: the belief that disease spread through bad air.\n\nThe mistake is a shift between symbol and period. During the plague of 1347-1351, European towns relied on a mix of isolation, household closures, burial management, prayer, bloodletting and limited medical interventions. Germ theory did not exist. Yersinia pestis and the flea/rodent cycle were unknown. But the beaked mask is not a reliable image of ordinary 14th-century medical practice.\n\nEven for the 17th-century costume, the scale of use should be treated carefully. Some accounts and engravings made the figure famous, but it is not certain that the outfit was widely used in every plague region. The figure we see today is therefore a product of historical practice and later visual memory.\n\nIn films, the beaked doctor is not meaningless; it is an anachronistic symbol. It represents plague fear extremely well, but it does not represent the Black Death itself in a direct way.",
+      "accuracyNote": "Placing the beaked plague-doctor costume in 1347-1351 is anachronistic. Its stronger context is 17th-century miasma culture, and evidence for widespread use remains limited.",
+      "whyInteresting": "One of the most famous plague icons became recognizable centuries after the pandemic it is usually attached to.",
+      "misconception": "The beaked plague-doctor mask is often treated as standard protective clothing from the medieval Black Death period.",
+      "nextTopics": [
+        "Plague Spread",
+        "The Idea of Quarantine",
+        "Flagellants"
+      ],
+      "sources": [
+        {
+          "title": "The celebrity physician and the plague (Wellcome Collection)",
+          "url": "https://wellcomecollection.org/stories/the-celebrity-physician-and-the-plague",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Plague Doctor Costumes (Public Domain Review)",
+          "url": "https://publicdomainreview.org/collection/plague-doctor-costumes/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "The extraordinary career of the Plague Doctor (University of Munster)",
+          "url": "https://www.uni-muenster.de/Religion-und-Politik/en/aktuelles/schwerpunkte/epidemien/03_Thema_Masken.shtml",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Miasma theory (Science Museum)",
+          "url": "https://www.sciencemuseum.org.uk/objects-and-stories/medicine/miasma-theory",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-192-quarantine",
+        "tf26-196-medieval-hygiene"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Black Death films and games use the beaked doctor as an icon; the stronger historical context points to early modern plague medicine and miasma thinking.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "black-death",
+        "middle-ages",
+        "misconceptions",
+        "plague-doctors",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Media choose a powerful image but often mix centuries; historical sources separate 14th-century plague medicine from the early modern plague-doctor costume.",
+      "whyItMatters": "Separating atmosphere from chronology helps show when a visual symbol is historically useful and when it is period-confused.",
+      "isFlagship": false,
+      "quickRealityCheck": "Is the beaked mask really a Black Death object, or a later plague image that got projected backward?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "The beaked-mask chronology was separated from the 1347-1351 Black Death and tied to early modern miasma culture."
+    },
+    {
+      "id": "tf26-198-death-art",
+      "title": "The Art of Death",
+      "subtitle": "How skeleton imagery speaks after catastrophe",
+      "mediaType": "general",
+      "mediaTitle": "Black Death-themed media",
+      "era": "Middle Ages",
+      "region": "Europe",
+      "themes": [
+        "Disease",
+        "Society",
+        "Misconceptions"
+      ],
+      "whatWeSee": "In Black Death stories, skeletons, skulls, cemetery walls and dancing figures of death often appear as atmosphere. These images are more than dark set dressing. They draw on a visual language formed in a Europe where death had become a mass and constant experience. Film often turns that language into one horror image; art history separates traditions such as memento mori, danse macabre and ars moriendi.",
+      "realHistory": "The Black Death accelerated the spread of death imagery in Europe, but not every image of death came directly from one outbreak. Memento mori, the reminder to remember death, asked viewers to face the temporary nature of life. In the danse macabre tradition, a skeleton or figure of Death calls everyone to dance: priest, king, merchant and peasant. The message is blunt: status, wealth and power do not survive death.\n\nArs moriendi, the 'art of dying,' mattered in a different way. These texts taught how a person should behave at the deathbed, with attention to repentance, wills, last rites and spiritual preparation. They did not only create fear; they helped make death a ritual and social passage that could be managed.\n\nAfter the plague, these images gained force because people experienced death not as a distant possibility but as something encountered at home, in streets and in churches. Cemetery murals, Central European dances of death and manuscript traditions show that the catastrophe left a visual and spiritual memory, not only a demographic one.\n\nSo the skeletons in films are not invented out of nothing. What is incomplete is reading them only as 'dark medieval' decoration. They were part of a society's attempt to interpret death, equalize status before it and prepare for it.",
+      "accuracyNote": "Danse macabre, memento mori and ars moriendi traditions gained strength in late medieval Europe, but not every death image should be directly tied to the Black Death.",
+      "whyInteresting": "The skeleton image does not only frighten; it can also equalize social ranks and teach a ritual language for dying.",
+      "misconception": "Medieval death art is often treated as superstition or dark decoration; it also carried moral, ritual and social functions.",
+      "nextTopics": [
+        "Plague Spread",
+        "The Idea of Quarantine",
+        "Flagellants"
+      ],
+      "sources": [
+        {
+          "title": "Danse macabre (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/art/danse-macabre",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Ars moriendi print (British Museum)",
+          "url": "https://www.britishmuseum.org/collection/object/P_1904-0206-127",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Memento Mori (The Met Collection)",
+          "url": "https://www.metmuseum.org/art/collection/search/436838",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-200-memory",
+        "tf26-199-rural-impact",
+        "tf26-196-medieval-hygiene"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Skull and dance-of-death motifs in media connect to danse macabre murals and ars moriendi manuscripts.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "black-death",
+        "middle-ages",
+        "misconceptions",
+        "death-art",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Media select death imagery for horror atmosphere; the historical context also shows ritual, instructional and memory functions.",
+      "whyItMatters": "How a society pictures catastrophe tells us how it understands death and how it passes that understanding to later generations.",
+      "isFlagship": false,
+      "quickRealityCheck": "Are the skeletons in plague media only horror decoration, or part of a late medieval language for coping with death?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-199-rural-impact",
+      "title": "Rural Impact",
+      "subtitle": "Can empty villages be explained by one epidemic?",
+      "mediaType": "general",
+      "mediaTitle": "Black Death-themed media",
+      "era": "Middle Ages",
+      "region": "Europe",
+      "themes": [
+        "Disease",
+        "Society",
+        "Misconceptions"
+      ],
+      "whatWeSee": "In Black Death stories, abandoned villages, empty fields and isolated farmers are among the quietest images of rural disaster. They are less dramatic than urban corpse carts, but village records, rent accounts and the archaeology of deserted settlements are just as important for understanding the long-term effects of plague.",
+      "realHistory": "The Black Death deeply affected rural Europe, but it is not safe to link every deserted medieval village directly and only to plague. Population loss, labor scarcity and broken inheritance lines shook rural life. Some fields went uncultivated, some landlords shifted toward wage labor or leasing, and some regions found sheep farming more profitable. In some places, these trends helped villages shrink or disappear.\n\nWharram Percy in England, one of the best studied deserted medieval villages, teaches caution. The settlement survived long after the plague years. English Heritage notes that by the early 16th century it was largely abandoned, and that the process involved gradual abandonment and forced evictions as well as earlier demographic pressures. Plague may have been an important shock, but it was not the only explanation.\n\nManorial records show the transformation in more concrete terms: rent income fell, labor cases increased, inheritance patterns changed and some family lines ended. Some rural communities recovered by drawing people from neighboring villages; others declined as economic centers shifted. Outcomes were not identical in western and eastern Europe. In some western regions, older forms of dependency weakened, while elsewhere stronger labor control appeared.\n\nThe main lesson is that plague did not only empty villages; it reopened negotiations over land, labor, inheritance and production. The ghost-village image is powerful, but behind it stands a long rural transformation rather than a single moment of death.",
+      "accuracyNote": "The Black Death disrupted rural population and labor systems, but deserted villages often resulted from plague, land-use change, migration, leasing and later enclosure processes together.",
+      "whyInteresting": "A village may disappear not in one epidemic moment, but through long economic and legal transformations.",
+      "misconception": "It is often assumed that all abandoned medieval villages were emptied directly by the Black Death; causes varied by region and period.",
+      "nextTopics": [
+        "Plague Spread",
+        "The Idea of Quarantine",
+        "Flagellants"
+      ],
+      "sources": [
+        {
+          "title": "History of Wharram Percy Deserted Medieval Village (English Heritage)",
+          "url": "https://www.english-heritage.org.uk/visit/places/wharram-percy-deserted-medieval-village/history/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Wharram Percy deserted medieval village (Historic England)",
+          "url": "https://historicengland.org.uk/listing/the-list/list-entry/1011377",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Manorial records (The National Archives UK)",
+          "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/manorial-records/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Economic and social effects of the Black Death (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/event/Black-Death/Economic-and-social-effects",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-200-memory",
+        "tf26-197-doctors",
+        "tf26-198-death-art"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Images of deserted villages become more accurate when read beside manorial records and archaeological cases such as Wharram Percy.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "black-death",
+        "middle-ages",
+        "misconceptions",
+        "rural-impact",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Media often make the empty village a single catastrophe image; historical sources show population shock, labor scarcity, land use and long-term economic choices together.",
+      "whyItMatters": "Rural change reveals how the Black Death altered land and labor relations over the long term.",
+      "isFlagship": false,
+      "quickRealityCheck": "If a medieval village was abandoned, is it safe to blame the Black Death immediately?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-200-memory",
+      "title": "Black Death Memory",
+      "subtitle": "How catastrophe became memory",
+      "mediaType": "general",
+      "mediaTitle": "Black Death-themed media",
+      "era": "Middle Ages",
+      "region": "Europe",
+      "themes": [
+        "Disease",
+        "Society",
+        "Misconceptions"
+      ],
+      "whatWeSee": "Black Death media often compresses empty villages, mass graves, bells and grim dialogue into one atmosphere of catastrophe. That compression works: it makes death feel everywhere. But Black Death memory was not made only from images of sudden death. Tax records, inheritance disputes, sermons, literature, art and later historical narratives all helped build the memory of the disaster.",
+      "realHistory": "### From death to records\n\nThe Black Death of 1347-1351 caused enormous population loss across Europe and the Mediterranean world. Mortality varied sharply by region; some places were devastated, while others were hit less severely. A single exact percentage for all of Europe is therefore misleading. Still, the shared shock was clear: families broke apart, labor declined, church offices were emptied, and inheritance and rent relationships had to be rearranged.\n\nThose traces appear not only in chronicles but in the language of administration. Manorial rolls might record which tenant had died, which holding changed hands and which labor obligation failed. Ecclesiastical records show clerical deaths and replacement appointments. These documents reveal that the cinematic moment of catastrophe had a long legal, economic and social afterlife.\n\n### Literature and visual memory\n\nBoccaccio's Decameron made plague into more than a death statistic. It presented the breakdown of ordinary life, family obligations and urban order through narrative. That literary memory matters because it shows how the epidemic affected language and storytelling, not only bodies. Danse macabre, memento mori and ars moriendi traditions worked in the same field of memory. Death became more visible, more instructional and more collective as an image.\n\nBut these images should not be dismissed as simple 'dark medieval' gloom. Death art also taught preparation, repentance, equality before death and ritual order. The skeleton calling king and peasant into the same dance expressed a world where hierarchy was suddenly exposed as temporary.\n\n### Economic memory\n\nAfter the Black Death, Europe did not only mourn; it renegotiated. Labor scarcity raised wages and mobility in some regions, while authorities tried to contain that shift. Empty fields, changing rents, disruptions in craft production and rural migration formed the economic face of memory. To understand the plague only as death is to miss what survivors did next.\n\n### Modern myth\n\nModern popular memory often uses the Black Death as proof of a uniformly dark Middle Ages. The horror was real, but that use erases complexity. People did not only panic. They kept records, mourned, bargained, blamed, made art, tried new rules and searched for explanations.\n\nFor True Frame, the point is that the memory of the Black Death begins after the moment of death. Film chooses empty streets and mass graves; history shows how the same catastrophe continued to live in documents, law, art, literature and labor relations. That longer memory is less cinematic, but it explains why the plague remained a reference point for work, faith, fear and social change long after the bodies were buried.",
+      "accuracyNote": "The demographic and cultural impact of the Black Death is strongly supported, but mortality rates, recovery speed and regional results varied and must be handled carefully.",
+      "whyInteresting": "The same disaster could survive as literature in one place, a rent roll in another and a skeleton fresco somewhere else.",
+      "misconception": "Europe is often imagined as falling into one uniform darkness after the Black Death; in reality, regions recovered and adapted differently.",
+      "nextTopics": [
+        "Plague Spread",
+        "The Idea of Quarantine",
+        "Flagellants"
+      ],
+      "sources": [
+        {
+          "title": "Black Death (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/event/Black-Death",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Boccaccio, Decameron (British Library)",
+          "url": "https://www.bl.uk/collection-items/boccaccio-decameron",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Mortality Risk and Survival in the Aftermath of the Medieval Black Death (PNAS / PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4013036/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Black Death mortality not as widespread as long thought (Max Planck Society)",
+          "url": "https://www.mpg.de/18236353/black-death-mortality-not-as-widespread-as-long-thought",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-198-death-art",
+        "tf26-199-rural-impact",
+        "tf26-195-labor-shortage"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Empty villages, mass graves and death imagery should be read beside Boccaccio, manorial records, death art and modern historiography.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "black-death",
+        "middle-ages",
+        "misconceptions",
+        "black-death-memory",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Media focus on one catastrophic moment; historical memory formed in records, inheritance, art, labor bargaining and the later myth of the dark Middle Ages.",
+      "whyItMatters": "Collective trauma becomes history not only when it happens, but when later generations record and retell it.",
+      "isFlagship": true,
+      "quickRealityCheck": "Is Black Death memory only mass-grave imagery, or do tax rolls, literature and death art also belong to it?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-201-ac4-republic-of-pirates",
+      "title": "Republic of Pirates",
+      "subtitle": "Was Nassau really a freedom utopia?",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed IV: Black Flag",
+      "era": "Early Modern Period",
+      "region": "Caribbean",
+      "themes": [
+        "Pirates",
+        "Seafaring",
+        "Trade",
+        "Politics"
+      ],
+      "whatWeSee": "Assassin's Creed IV: Black Flag presents Nassau as a bright, dangerous space where pirates try to build their own order outside empires. Edward Kenway and the people around him appear as sailors choosing their own fate against Royal Navy discipline and trading-company greed. The atmosphere works, but the real Nassau was less a romantic pirate republic than a short-lived meeting point of war economy, low-paid maritime labor, colonial trade and weak state control.",
+      "realHistory": "### Why Nassau became a pirate base\n\nAssassin's Creed IV: Black Flag turns Nassau into a semi-romantic brotherhood of pirates searching for freedom. In the game, the island feels almost like a harbor utopia outside imperial navies and trading companies. Historically, Nassau's rise as a pirate haven cannot be explained only by a spirit of adventure. In the early 18th century, the Bahamas were close to Atlantic trade routes but weakly governed. Shallow waters and scattered islands were difficult for large naval vessels but useful for smaller, faster pirate ships.\n\nMany pirates were former privateers, naval hands or merchant sailors. During war, attacking enemy shipping under state license could be legal. When war ended, the same skills could slide into illegal piracy. Privateering and piracy were separated less by pure morality than by legal context, prize courts and the value of captured cargo. Nassau gathered maritime labor that the imperial war economy had trained but no longer reliably employed.\n\n### Brotherhood or fragile order?\n\nThe game's feeling of pirate brotherhood is not invented from nothing. Some crews had rules for sharing plunder, electing captains and compensating injuries. Compared with Royal Navy discipline and low merchant wages, that could be attractive. But it should not be confused with modern democracy or a stable egalitarian republic. Nassau's order was loose, violent and dependent on continued plunder. Pirate commerce was also entangled with colonial trade and the Atlantic slave trade; Blackbeard's Queen Anne's Revenge had previously been the slave ship La Concorde.\n\nThe 'republic' label therefore works best as a limited metaphor. Pirates did not build a formal state. They created de facto autonomy in a poorly controlled harbor. They raided merchant shipping and energized parts of the local economy, but they also threatened imperial commerce. For London, Nassau became not a colorful exception but a strategic problem.\n\n### Why it ended quickly\n\nIn 1718, Woodes Rogers arrived as royal governor of the Bahamas. His task was to break pirate control in Nassau. He used not only force but also pardon: pirates who surrendered could be forgiven, while those who refused were pursued. Some accepted the amnesty, some fled and some were captured or killed.\n\nBlack Flag's romantic power is that piracy feels like a personal claim to freedom. The harder historical reading is that Nassau was possible because imperial war, colonial commerce, low-paid maritime labor and weak state authority overlapped. Once the state returned, the pirate republic could not last. Nassau's real story is therefore not simply freedom; it is about who gets to define law and violence at sea.",
+      "accuracyNote": "Black Flag uses Nassau's pirate haven and historical figures effectively, but the 'pirate republic' should be read as a short-lived de facto harbor order rather than a formal, stable state.",
+      "whyInteresting": "Nassau turns piracy from simple adventure into a story about imperial trade and a postwar maritime labor crisis.",
+      "misconception": "Nassau is often imagined as a fully egalitarian, independent and stable pirate state; in reality it was loose, violent and short-lived.",
+      "nextTopics": [
+        "Privateering",
+        "Blackbeard's Image",
+        "Haudenosaunee Confederacy"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-202-ac4-privateering",
+        "tf26-203-ac4-blackbeard-image"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "spoilerLevel": "none",
+      "mediaConnection": "Black Flag's Nassau becomes clearer when read beside Golden Age piracy sources and Woodes Rogers's 1718 intervention.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "assassins-creed",
+        "black-flag",
+        "pirates",
+        "nassau",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game romanticizes pirate order as freedom and brotherhood; historical sources show a fragile world shaped by privateer labor, colonial trade and royal intervention.",
+      "whyItMatters": "The card shows how an apparently lawless world can be tied directly to state war and trade systems.",
+      "isFlagship": true,
+      "quickRealityCheck": "Was Nassau really a pirate republic, or a short-lived harbor order created by weak state control?",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "Royal Museums Greenwich - History of pirates: the Golden Age of Piracy",
+          "url": "https://www.rmg.co.uk/stories/maritime-history/pirates-history-golden-age-piracy",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Queen Anne's Revenge Project - Woodes Rogers was the first Royal Governor of the Bahamas",
+          "url": "https://www.qaronline.org/blog/2018-07-25/did-you-know-woodes-rogers-first-royal-governor",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Queen Anne's Revenge Project - Blackbeard's Queen Anne's Revenge",
+          "url": "https://www.qaronline.org/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-202-ac4-privateering",
+      "title": "Privateering",
+      "subtitle": "Piracy, or state service?",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed IV: Black Flag",
+      "era": "Early Modern Period",
+      "region": "Atlantic",
+      "themes": [
+        "Seafaring",
+        "Law",
+        "War",
+        "Economy"
+      ],
+      "whatWeSee": "In Assassin's Creed IV: Black Flag, pirates often look like independent sailors resisting the order of empires. The game blurs the line between law and crime through changing flags, captured cargo and harbor bargaining.",
+      "realHistory": "Black Flag often presents pirates as free sea raiders against imperial ships, but early modern maritime law drew a complicated line between a pirate and a privateer. A privateer was a private ship owner or captain authorized by a state during wartime to attack enemy merchant vessels. That license, often called a letter of marque, allowed captured goods to move through prize courts and become legal spoils.\n\nThe system was a cheap form of naval warfare. Instead of building a massive navy for every target, governments could give private vessels a legal right to damage enemy trade. The same skills became dangerous when peace returned. Sailors who knew trade routes, weapons and prize-taking could find themselves without work, while the habits of wartime raiding remained profitable.\n\nThat is why the border between privateering and piracy could shift. Under one flag and one war, an attack might be patriotic service. After the legal context changed, the same behavior could be prosecuted as piracy. Black Flag's moral ambiguity becomes more interesting in that light. The game presents piracy as personal freedom; history shows that maritime violence was often first encouraged by states and later criminalized by them. The question was not simply good pirate versus bad empire. At sea, legitimacy depended on whose flag you sailed under and which war made the violence lawful.",
+      "accuracyNote": "The game dramatizes the privateer-pirate blur. Historically, the distinction rested on wartime state authorization and legal instruments such as letters of marque.",
+      "whyInteresting": "The same raid could be honored as service in one context and punished as piracy in another.",
+      "misconception": "Privateers are often imagined as completely separate from pirates; in practice, the line depended heavily on wartime legality.",
+      "nextTopics": [
+        "Republic of Pirates",
+        "Blackbeard's Image",
+        "Boston Massacre"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-201-ac4-republic-of-pirates",
+        "tf26-203-ac4-blackbeard-image"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "mediaConnection": "Black Flag's naval combat and plunder systems can be read as a game version of privateering and prize law.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "assassins-creed",
+        "black-flag",
+        "privateer",
+        "seafaring",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game frames piracy through personal freedom; the historical frame shows states using private maritime violence when it served them.",
+      "whyItMatters": "Privateering shows that modern states did not only ban violence; they also outsourced it and later withdrew permission.",
+      "isFlagship": false,
+      "quickRealityCheck": "When does raiding a ship count as piracy, and when does it count as state-approved war?",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "Royal Museums Greenwich - Research guide K1: Pirates and privateers",
+          "url": "https://www.rmg.co.uk/collections/research-guides/research-guide-k1-pirates-privateers",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Royal Museums Greenwich - Golden Age of Piracy",
+          "url": "https://www.rmg.co.uk/stories/maritime-history/pirates-history-golden-age-piracy",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Privateer",
+          "url": "https://www.britannica.com/topic/privateer",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-203-ac4-blackbeard-image",
+      "title": "Blackbeard's Image",
+      "subtitle": "How Edward Teach used fear",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed IV: Black Flag",
+      "era": "Early Modern Period",
+      "region": "Atlantic",
+      "themes": [
+        "Pirates",
+        "Media",
+        "Biography",
+        "Seafaring"
+      ],
+      "whatWeSee": "Assassin's Creed IV: Black Flag presents Blackbeard not only as a hard pirate, but as someone who stages his own legend. Beard, smoke, noise and rumor become a psychological weapon almost as important as cannon fire.",
+      "realHistory": "The Blackbeard of Black Flag is a master of fear theater: voice, appearance and ship combine to push an enemy toward surrender before the fight begins. That portrayal is not empty. Edward Teach, also written as Thatch, is known from limited records, but contemporary and later accounts describe a deliberate terror image. Royal Museums Greenwich discusses the story that he placed slow-burning fuses in his beard or hat during attacks as part of this frightening performance.\n\nThe point is that the legend was not only built after his death. In his own time, reputation was a practical weapon. A ship that surrendered quickly meant less fighting, less damage and more recoverable plunder. Looking terrifying could work alongside real guns and cutlasses. Still, because the documentary record is limited, every colorful detail should not be treated as a fully certain biography.\n\nThe archaeology of Queen Anne's Revenge gives the image a more material background. North Carolina's official project identifies the ship as Blackbeard's flagship and notes its earlier life as La Concorde, a slave ship. That fact pulls the romantic pirate legend back into the world of colonialism, the slave trade and maritime war economy. Blackbeard's strength lay not only in violence, but in turning fear into a brand.",
+      "accuracyNote": "Blackbeard was a real historical pirate, but records for his life are limited. Fuse-and-beard stories are important but should not be overtreated as exact biography.",
+      "whyInteresting": "Blackbeard shows that legend and history can be produced at the same time; the pirate used his own fear brand while he was alive.",
+      "misconception": "Blackbeard's power is often reduced to physical violence, but reputation and staged fear were practical tools at sea.",
+      "nextTopics": [
+        "Republic of Pirates",
+        "Privateering",
+        "Haudenosaunee Confederacy"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-201-ac4-republic-of-pirates",
+        "tf26-202-ac4-privateering"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "mediaConnection": "Black Flag's Blackbeard becomes firmer when read beside Queen Anne's Revenge archaeology and accounts of his terror image.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "assassins-creed",
+        "black-flag",
+        "blackbeard",
+        "fear-image",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game turns Blackbeard into a large pirate personality; historical sources show that the image itself functioned as a tactic.",
+      "whyItMatters": "Legend does not only distort reality; sometimes historical actors actively use legend as power.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was Blackbeard simply terrifying, or was looking terrifying one of his most useful tactics?",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "Queen Anne's Revenge Project - Blackbeard's Queen Anne's Revenge",
+          "url": "https://www.qaronline.org/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Royal Museums Greenwich - Who was Blackbeard?",
+          "url": "https://www.rmg.co.uk/stories/maritime-history/who-was-blackbeard",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "National Park Service - Blackbeard / Edward Teach",
+          "url": "https://www.nps.gov/caha/learn/historyculture/blackbeard-edward-teach.htm",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-204-ac3-haudenosaunee",
+      "title": "Haudenosaunee Confederacy",
+      "subtitle": "Whose freedom was the American Revolution?",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed III",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Politics",
+        "Identity",
+        "War",
+        "Diplomacy"
+      ],
+      "whatWeSee": "Assassin's Creed III does not leave the American Revolution as only a colonial freedom struggle against Britain. Connor's story reminds players that, for Native communities, the war was also about land, alliance and survival. The game makes that history personal; the wider frame is the Haudenosaunee Confederacy's political pressure, wartime division and postwar loss.",
+      "realHistory": "### A center left outside the revolution story\n\nAssassin's Creed III refuses to tell the American Revolution only as a struggle between colonies and Britain. Through Connor, it shows how different the war could look to Native peoples. That choice matters because popular revolution stories often revolve around the Declaration of Independence, Boston, Philadelphia and the Founders. For the Haudenosaunee Confederacy, the same war was a crisis of sovereignty, land, alliance and survival.\n\nThe Haudenosaunee, or Six Nations, included the Mohawk, Oneida, Onondaga, Cayuga, Seneca and later the Tuscarora. They formed one of the most influential political confederacies in northeastern North America. Smithsonian material on the Haudenosaunee experience treats the revolutionary period as a longer arc from 1770 to 1794. That matters: the conflict was not only a few battles. Diplomatic pressure, burned villages, displacement, land loss and postwar reorganization all belonged to the same story.\n\n### Why choosing a side was so difficult\n\nWhen colonists demanded independence, the key question for Haudenosaunee nations was: whose freedom was being claimed? The conflict between Britain and the colonies could look like a civil war among European settler societies. Yet neutrality became harder to maintain. Both British and American forces sought allies, while settler expansion threatened land security even outside the war itself.\n\nThere was no single Haudenosaunee position. Some nations supported Britain, some supported the Americans and some tried to remain neutral as long as possible. That division weakened the confederacy and wounded kinship and village ties. A war remembered as a freedom struggle for one people could also be a story of land loss and internal fracture for another.\n\n### What the game gets right\n\nOne of the heaviest examples was the Sullivan-Clinton campaign of 1779, when American forces targeted Haudenosaunee settlements associated with the British side, destroying villages and crops and displacing communities. The violence was not only about military alliances; it struck food, shelter and the future of communities.\n\nAssassin's Creed III compresses this complexity into one character's life, which is dramatically understandable. Historically, Connor's personal anger stands in for hundreds of villages, treaties, border lines and diplomatic decisions. The game is valuable because it places Native sovereignty beside the Founders' narrative. But players should not read it only as one hero's revenge story. It is also the often-hidden political cost of the American Revolution.\n\nThe real history shows that the revolution did not simply create a new state. For some peoples, it accelerated the loss of land, security and political unity. The Haudenosaunee experience is powerful for True Frame because it shows that the language of freedom did not free everyone in the same way.",
+      "accuracyNote": "The game represents Haudenosaunee and American Revolution history through a dramatic character. The historical reality is wider: different Six Nations positions, alliance pressure and postwar land loss.",
+      "whyInteresting": "The American Revolution can be both an independence story and a deep rupture in Native sovereignty.",
+      "misconception": "It is often assumed that the American Revolution brought the same kind of freedom to everyone; for Native nations it often meant land and security loss.",
+      "nextTopics": [
+        "Boston Massacre",
+        "Republic of Pirates",
+        "Privateering"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-205-ac3-boston-massacre"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "spoilerLevel": "minor",
+      "mediaConnection": "AC III's Connor-centered narrative should be read beside the diplomatic pressures faced by the Haudenosaunee during and after the American Revolution.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "assassins-creed",
+        "american-revolution",
+        "haudenosaunee",
+        "native-nations",
+        "true-frame"
+      ],
+      "spoilerNote": "May include context from Assassin's Creed III; does not reveal the ending.",
+      "mediaChanged": "The game turns revolutionary history into a personal hero/betrayal arc; historical sources widen it into a crisis of Native sovereignty and land security.",
+      "whyItMatters": "The card asks whose voice frames popular freedom stories, and whose cost those stories hide.",
+      "isFlagship": true,
+      "quickRealityCheck": "Was the American Revolution freedom for Haudenosaunee nations, or a new pressure to choose sides?",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "Smithsonian NMAI - American Revolution: Haudenosaunee Perseverance",
+          "url": "https://americanindian.si.edu/nk360/resources/American-Revolution-Haudenosaunee-Perseverance",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "National Park Service - The Six Nations Confederacy During the American Revolution",
+          "url": "https://www.nps.gov/articles/000/the-six-nations-confederacy-during-the-american-revolution.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Haudenosaunee Confederacy - Who We Are",
+          "url": "https://www.haudenosauneeconfederacy.com/who-we-are/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-205-ac3-boston-massacre",
+      "title": "Boston Massacre",
+      "subtitle": "How Revere's engraving changed the memory",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed III",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Propaganda",
+        "Media",
+        "Law",
+        "Revolution"
+      ],
+      "whatWeSee": "Assassin's Creed III builds pre-revolutionary Boston as a place of rumor, crowd anger and political agitation. Streets are not only mission spaces; they are stages for public opinion. The Boston Massacre and the propaganda around it are among the clearest historical examples of that atmosphere.",
+      "realHistory": "Assassin's Creed III brings the tension of Boston streets and revolutionary propaganda into playable space. One of the most powerful examples was the Boston Massacre of March 5, 1770. British soldiers and a crowd clashed; soldiers fired and five colonists died. Yet the event's memory was shaped not only by what happened, but by how it was pictured.\n\nPaul Revere's famous engraving matters for that reason. Library of Congress records note that Revere's print copied a design by Henry Pelham and spread by the end of March 1770. The Massachusetts Historical Society describes the engraving as historically inaccurate and inflammatory. It shows British soldiers in an ordered line firing into a defenseless crowd. The real event was more chaotic; the crowd was more aggressive, and the soldiers' behavior was legally disputed.\n\nThat does not mean propaganda is simply a synonym for falsehood. Revere's image took real deaths and real anger and turned them into a revolutionary symbol. John Adams's later defense of some of the British soldiers complicates the picture further. The patriot cause needed both public anger and a claim to legal legitimacy.\n\nAC III captures the street pressure well. The historical lesson is sharper: the American Revolution was fought not only on battlefields, but through images, pamphlets, trials and memory.",
+      "accuracyNote": "The Boston Massacre was real; Revere's engraving should be read as a deliberately dramatized political image rather than a neutral visual record.",
+      "whyInteresting": "The case shows how visual media can shape revolutionary memory before full-scale war begins.",
+      "misconception": "Revere's engraving is often treated as a faithful visual report; it was a powerful propaganda image.",
+      "nextTopics": [
+        "Haudenosaunee Confederacy",
+        "Privateering",
+        "Republic of Pirates"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-204-ac3-haudenosaunee"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "mediaConnection": "AC III's pre-revolutionary Boston atmosphere connects directly to Revere's engraving and the propaganda battles of the period.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "assassins-creed",
+        "american-revolution",
+        "boston-massacre",
+        "propaganda",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game makes street tension playable; historical sources show how that tension became public memory through prints, pamphlets and courtrooms.",
+      "whyItMatters": "Revolutions are shaped not only by armies, but by how events are shown and remembered.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was Boston Massacre memory shaped more by the event itself, or by how Revere drew it?",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "Library of Congress - The Bloody Massacre perpetrated in King Street Boston",
+          "url": "https://www.loc.gov/pictures/item/2008661777/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Massachusetts Historical Society - The Bloody Massacre perpetrated in King Street",
+          "url": "https://www.masshist.org/database/2",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Boston Massacre",
+          "url": "https://www.britannica.com/event/Boston-Massacre",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-206-acshadows-yasuke",
+      "title": "Yasuke",
+      "subtitle": "The African warrior in Nobunaga's service",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Shadows",
+      "era": "Early Modern Japan",
+      "region": "Japan",
+      "themes": [
+        "Japan",
+        "Identity",
+        "Sengoku",
+        "Biography"
+      ],
+      "whatWeSee": "Assassin's Creed Shadows turns Yasuke into a striking historical image: an African warrior around Oda Nobunaga, visible among armor, court politics and Sengoku battlefields. The game naturally expands that figure into action and character drama. The real history is narrower, but in some ways more interesting: Yasuke is genuinely recorded, yet much of his life survives only through a few contemporary observations and later interpretation.",
+      "realHistory": "### What the records say\n\nYasuke was an African man seen in Japan in the early 1580s around Oda Nobunaga. The sources broadly agree that he came to Japan in the service of the Jesuit visitor Alessandro Valignano and attracted Nobunaga's attention. Accounts summarized by major public-history sources describe Nobunaga ordering him washed to see whether his skin color was paint, then bringing him into his service. That detail is uncomfortable today, and it should be. Yasuke's story is not only an 'exotic warrior' tale; it belongs to the Nanban world of Portuguese traders, Jesuit missions, weapons trade and foreign attendants in 16th-century Japan.\n\nThat world was more connected than many popular samurai stories suggest. Japan had not yet entered the long Edo-period regime of restricted contact. European ships, missionary networks, Chinese and Indian Ocean connections, silver trade and firearms were not outside Sengoku politics; they were part of its environment. Yasuke's visibility is a human-scale trace of that contact.\n\n### The status debate\n\nWhether Yasuke was a 'samurai' is the modern debate that dominates the story. Some accounts call him the first Black samurai; some historians warn that the records do not prove that title in a fixed modern sense. A safer formulation is that Yasuke was a historical figure in Nobunaga's close service, associated with a warrior or retainer role. Being given a name, receiving privileges such as money or lodging, accompanying Nobunaga and being linked with weapons all set him apart from an ordinary servant. But the limited records should not be inflated into a fully documented long military career.\n\nThe issue is that 'samurai' itself changed across time. Reading the more rigid Edo-period class order backward into the 1580s makes Sengoku society look too tidy. Service, loyalty, weapon-bearing, household membership and reward could be more flexible in a warlord world. Yasuke should therefore be treated neither as pure legend nor as a figure whose every blank space can be filled with certainty.\n\n### Honno-ji and silence\n\nYasuke's most dramatic recorded moment surrounds the Honno-ji Incident in 1582. Nobunaga died during Akechi Mitsuhide's revolt. Yasuke is reported to have been with Nobunaga's son Nobutada afterward, then captured and handed back to the Jesuits. After that, the record goes dark. Historians do not know where he died, whether he remained in Japan or whether he returned to another role. That silence creates a large opening for media.\n\nIt is also a test of historical honesty. The more compelling a character is, the easier it becomes to present undocumented parts as fact. Yasuke is now surrounded by novels, anime, games and online arguments that build extensive psychology, motivation and battle career on top of a small set of firm records.\n\n### What modern representation does\n\nAssassin's Creed Shadows understandably fills that space. The game turns Yasuke into a dramatic playable protagonist, enlarging the historical core into an emotional action story. For True Frame, the distinction is crucial: Yasuke's presence is not invented, but what we know about him is not as broad as modern stories often imply. The most honest reading sees him as both a real point of historical contact and a figure amplified by present-day representation debates. His importance is not only the question 'was he a samurai?' It is that he reveals a Japanese past too often imagined as closed and monochrome, when it was also shaped by trade, missions, war and cultural encounter.",
+      "accuracyNote": "Yasuke's presence around Nobunaga is historically supported, but the details of his life rest on limited records. The game expands that space dramatically.",
+      "whyInteresting": "Yasuke is powerful not because every detail is known, but because he reveals how connected 16th-century Japan really was.",
+      "misconception": "Yasuke's whole life is often treated as fully documented. In reality, several important records exist, but large parts remain interpretation.",
+      "nextTopics": [
+        "Tanegashima",
+        "Oda Nobunaga",
+        "The Samurai Image"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-207-acshadows-tanegashima",
+        "tf26-208-acshadows-nobunaga"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "spoilerLevel": "none",
+      "mediaConnection": "Assassin's Creed Shadows turns a brief and fragmentary historical figure into a playable protagonist; the historical reading separates that representation from the limited evidence.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "assassins-creed",
+        "japan",
+        "sengoku",
+        "yasuke",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game expands Yasuke's incomplete biography into action drama; historical sources show a figure whose existence is solid but whose details are limited.",
+      "whyItMatters": "The Yasuke debate shows how popular media enlarges real but thinly documented lives, and why the line between evidence and representation matters.",
+      "isFlagship": true,
+      "quickRealityCheck": "Is Yasuke's existence the issue, or is the debate really about his status and the details modern stories add?",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "Smithsonian Magazine - Who Was Yasuke, Japan's First Black Samurai?",
+          "url": "https://www.smithsonianmag.com/history/who-was-yasuke-japans-first-black-samurai-180981416/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "National Geographic - The real history of Yasuke, Japan’s first Black samurai",
+          "url": "https://www.nationalgeographic.com/history/article/the-real-history-of-yasuke-japans-first-black-samurai",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "British Museum - Samurai large print guide",
+          "url": "https://www.britishmuseum.org/exhibitions/samurai/samurai-large-print-guide",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-207-acshadows-tanegashima",
+      "title": "Tanegashima",
+      "subtitle": "The arrival of firearms in Japan",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Shadows",
+      "era": "Early Modern Japan",
+      "region": "Japan",
+      "themes": [
+        "Japan",
+        "Technology",
+        "War",
+        "Trade"
+      ],
+      "whatWeSee": "Sengoku stories such as Assassin's Creed Shadows often foreground the katana, castle sieges and shadowy assassination. But understanding the real battlefield of the period requires more than swords. In 16th-century Japan, firearms, especially matchlock guns, changed the rhythm of war and the organization of armies.",
+      "realHistory": "Around 1543, Portuguese traders brought matchlock firearms to Tanegashima island. The weapons were quickly copied and adapted into local production, and in Japan they were often called Tanegashima after the island. The key point is that the warrior elite did not reject guns as dishonorable; many powers adopted them rapidly.\n\nSengoku war was not won only through individual sword skill. Infantry formation, fortifications, supply and firepower mattered. The Battle of Nagashino in 1575 is often remembered as the classic example of Oda Nobunaga and Tokugawa Ieyasu using firearms in a defensive system against Takeda cavalry. That story can be simplified too much; guns did not unite Japan by themselves. But when combined with castle defense, trained ashigaru and coordinated fire, they seriously changed the balance of power.\n\nGames naturally make the sword more visible because the image is iconic. The historical frame is more mechanical: gun production, gunpowder supply, trained infantry and command discipline. Sengoku Japan was not a simple story of old sword culture losing to modern fire. It is more accurate to say that Japanese warlords quickly folded new technology into their political struggles.",
+      "accuracyNote": "The spread of Tanegashima firearms after 1543 is strongly accepted. Nagashino was important, but firearms should not be treated as the sole cause of unification.",
+      "whyInteresting": "At the most romantic edge of samurai imagery, real battlefields were often shaped by gunpowder, production and infantry training.",
+      "misconception": "Samurai are often imagined as rejecting firearms for reasons of honor; in Sengoku Japan many powers adopted them quickly.",
+      "nextTopics": [
+        "Yasuke",
+        "Oda Nobunaga",
+        "The Samurai Image"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-206-acshadows-yasuke",
+        "tf26-208-acshadows-nobunaga"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "mediaConnection": "Assassin's Creed Shadows gains a less romantic and more historical frame when its samurai atmosphere is read beside the firearm transformation of Sengoku war.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "assassins-creed",
+        "japan",
+        "sengoku",
+        "tanegashima",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game highlights sword and stealth aesthetics; on historical battlefields, matchlocks, fortifications and mass infantry tactics also mattered.",
+      "whyItMatters": "The topic shows how fast technology transfer can become military organization.",
+      "isFlagship": false,
+      "quickRealityCheck": "Should Sengoku warfare be read only through sword culture, or through gunpowder and production capacity too?",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "Japan National Tourism Organization - Tanegashima Island",
+          "url": "https://www.japan.travel/en/spot/595/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Battle of Nagashino",
+          "url": "https://www.britannica.com/event/Battle-of-Nagashino",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "World History Encyclopedia - Oda Nobunaga",
+          "url": "https://www.worldhistory.org/Oda_Nobunaga/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-208-acshadows-nobunaga",
+      "title": "Oda Nobunaga",
+      "subtitle": "Unifier, destroyer, or both?",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Shadows",
+      "era": "Early Modern Japan",
+      "region": "Japan",
+      "themes": [
+        "Japan",
+        "Politics",
+        "Religion",
+        "Sengoku"
+      ],
+      "whatWeSee": "Assassin's Creed Shadows presents Oda Nobunaga as one of the hard power centers of Sengoku Japan. Popular culture often frames him in two extremes: visionary unifier or ruthless temple-burning tyrant. The real history sits between those images, in a more complex process of state-building.",
+      "realHistory": "Oda Nobunaga is remembered as the first of the three great figures who opened the path toward Japan's unification, but he did not complete that process alone. Toyotomi Hideyoshi and Tokugawa Ieyasu continued what his victories made possible. Nobunaga's significance lies not only in battles won, but in how he changed the balance among war, trade and religious power centers.\n\nIn the Sengoku period, many Buddhist institutions were not only devotional centers. Some controlled land income, armed forces and political alliances. Nobunaga's conflicts with Enryakuji and Ikko-ikki forces therefore should not be read simply as hatred of religion. A more accurate frame is conflict between independent military-religious power bases and a project of centralizing authority. The fighting was harsh and often brutal, but the target was political and military autonomy as much as belief itself.\n\nNobunaga is also linked with effective use of firearms, castle architecture, infantry organization and freer commercial policies. That does not make him the single hero of modernization, but it does make him a turning point in moving from Sengoku disorder toward a more centralized order. Games turn him into a dramatic character. History shows a war leader who was both innovative and destructive, forcing institutions into a new alignment through violence, trade and technology.",
+      "accuracyNote": "Nobunaga's role in the path toward unification was major, but he did not complete unification alone, and his conflicts with Buddhist institutions should not be reduced to simple anti-religious hatred.",
+      "whyInteresting": "Nobunaga shows that state-building can move through reform, commerce and technology, but also through terror and suppression.",
+      "misconception": "He is often treated either as a pure modernizer or only as a religiously hostile tyrant; the real story is a more complex transformation of power.",
+      "nextTopics": [
+        "Yasuke",
+        "Tanegashima",
+        "The Samurai Image"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-206-acshadows-yasuke",
+        "tf26-207-acshadows-tanegashima"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "minor",
+      "mediaConnection": "Assassin's Creed Shadows foregrounds Nobunaga as an action and intrigue figure, while the historical background opens his links to war technology, religious institutions and centralization.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "assassins-creed",
+        "japan",
+        "sengoku",
+        "oda-nobunaga",
+        "true-frame"
+      ],
+      "spoilerNote": "May include context from Assassin's Creed Shadows; does not reveal the ending.",
+      "mediaChanged": "The game emphasizes character tension; historical Nobunaga is also a story of trade, firearms, castles and religious power centers being forced into a new order.",
+      "whyItMatters": "Understanding Nobunaga clarifies how Japan moved from the age of warring lords toward a more centralized order, and how violent that transition could be.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was Nobunaga's war against Buddhist institutions about belief itself, or about political and military power centers?",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "Britannica - Oda Nobunaga",
+          "url": "https://www.britannica.com/biography/Oda-Nobunaga",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "World History Encyclopedia - Oda Nobunaga",
+          "url": "https://www.worldhistory.org/Oda_Nobunaga/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "UBC Open Collections - Oda Nobunaga and the Buddhist institutions",
+          "url": "https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/831/items/1.0094163",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-209-acmirage-samarra-ghilman",
+      "title": "The Samarra Crisis",
+      "subtitle": "Military power behind the caliphate's bright facade",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Mirage",
+      "era": "Middle Ages",
+      "region": "Iraq",
+      "themes": [
+        "Abbasid",
+        "Politics",
+        "Military History",
+        "Islamic History"
+      ],
+      "whatWeSee": "Assassin's Creed Mirage mostly presents the Abbasid world through Baghdad's science, trade and city life. That creates the right atmosphere, but 9th-century Abbasid politics was not only intellectual brilliance. Around Baghdad and Samarra, caliphal authority, military elites and court factions formed a fragile system.",
+      "realHistory": "Samarra was founded in 836 under the Abbasid caliph al-Mu'tasim as a new capital. UNESCO describes the city as an outstanding example of Abbasid architecture and urban planning between 836 and 892. But Samarra was not only palaces and great mosques. It was also the space of a new military order. The caliph gathered court and garrison structures in a separate city partly to keep Turkish and other military groups away from tensions with Baghdad's population.\n\nIn the short term, this protected the court. In the long term, it increased the political weight of military elites. Between 861 and 870, the period often called the Anarchy at Samarra saw rapid changes of caliphs, palace coups and military factions shaping decisions. In theory, the caliph was the highest political figure of the Islamic world. In practice, pay, garrison loyalty and commander rivalry set hard limits on power.\n\nMirage's Baghdad carries the urban and cultural strength of the Abbasid world. The Samarra crisis shows another face of the same world: behind science and trade stood the fragile balance of professional soldiers and palace bureaucracy. 'Golden Age' can be true, but it is incomplete. The gold had cracks.",
+      "accuracyNote": "Samarra's role as an Abbasid capital is well supported. The Anarchy at Samarra is a more specialized topic; this card simplifies it as a military-political crisis for general readers.",
+      "whyInteresting": "The same Abbasid world should be remembered both for institutions like the House of Wisdom and for military factions that could decide the fate of caliphs.",
+      "misconception": "The Abbasid Golden Age is often imagined as only science and culture; court, army and fiscal power were the harder side of the same story.",
+      "nextTopics": [
+        "Baghdad",
+        "House of Wisdom",
+        "Islamic Golden Age"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "ac-mirage-baghdad",
+        "house-wisdom-baghdad"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "mediaConnection": "Assassin's Creed Mirage foregrounds Baghdad's lively urban fabric; the Samarra crisis reminds us how fragile the military and court politics behind that world could be.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "assassins-creed",
+        "abbasid",
+        "samarra",
+        "islamic-history",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game builds an Abbasid world of city, trade and knowledge; the historical background also includes military elites and Samarra-centered crises challenging the caliphate.",
+      "whyItMatters": "Bright civilization stories should be read beside the institutions that sustained, strained and sometimes broke them.",
+      "isFlagship": false,
+      "quickRealityCheck": "Is Baghdad's scholarly world enough to understand the Abbasids, or is Samarra's military politics part of the same picture?",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "UNESCO World Heritage Centre - Samarra Archaeological City",
+          "url": "https://whc.unesco.org/en/list/276/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Encyclopaedia Iranica - Abbasid Caliphate",
+          "url": "https://www.iranicaonline.org/articles/abbasid-caliphate/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "French Ministry of Culture - Samarra: Abbasid capital",
+          "url": "https://archeologie.culture.gouv.fr/en/samarra-abbasid-capital",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-210-twom-sarajevo-siege",
+      "title": "The Siege of Sarajevo",
+      "subtitle": "This War of Mine and the civilian experience of war",
+      "mediaType": "game",
+      "mediaTitle": "This War of Mine",
+      "era": "Modern History",
+      "region": "Bosnia and Herzegovina",
+      "themes": [
+        "War",
+        "Society",
+        "Disaster",
+        "Humanitarian Aid"
+      ],
+      "whatWeSee": "This War of Mine reverses the usual perspective of war games. The player is not an elite soldier, commander or heroic sniper, but a group of civilians in a besieged city searching for food, medicine, fuel and safety. Going out at night is not loot fantasy; it is survival risk. Waiting during the day is not rest; it is exhaustion under cold, hunger and fear. That structure connects directly to civilian experience in modern urban sieges such as Sarajevo.",
+      "realHistory": "### Civilians at the center of war\n\nSarajevo endured one of the harshest urban sieges of the Bosnian War from 1992 to the end of 1995, with the closing process stretching into 1996. The city became one of modern Europe's strongest symbols of civilian war experience. United Nations and tribunal records document cases involving shelling and sniper attacks against civilians, including cases tied to Stanislav Galic, Dragomir Milosevic, Radovan Karadzic and Ratko Mladic. Sarajevo was therefore not only a front line. It was a daily-life crisis in which the population itself became a target.\n\nThe geography of the city became part of the violence. Streets watched from surrounding hills turned ordinary crossings into lethal risks. Markets, water lines and tram routes became places where non-combatants lived under constant danger. The visible line was the front; the invisible line was the daily decision of whether to leave home.\n\n### Everyday survival\n\nThis is where This War of Mine is powerful. The game's own framing centers civilians trying to survive a besieged city amid food shortages, medicine scarcity, sniper danger and hostile looters. It is not a direct Sarajevo simulation, and the city is fictionalized. But its basic reality matches Sarajevo testimony: some of the hardest wartime decisions happen at home, not at the front. Finding water, gathering fuel, deciding who eats first, judging whether night travel is worth the risk, and watching moral boundaries shift under hunger are all part of the experience.\n\nThe game's looting, bartering and hiding mechanics should not be read as simple survival systems. Under siege, markets deform, the value of goods changes, medicine can become more precious than food, and trust can collapse. Even asking a neighbor for help becomes a risk calculation. The game abstracts this psychology; Sarajevo shows that it happened at city scale.\n\n### Legal memory\n\nThe siege of Sarajevo is also central to modern humanitarian law memory. Tribunal records preserve the shelling of civilians, the Markale marketplace attacks and the sniper threat as legal and historical evidence. They frame urban war not only as strategy, but as repeated violation of civilian protection. This War of Mine makes a similar ethical shift. The question is not 'how do we defeat the enemy?' but 'how do civilians survive without being destroyed?'\n\nThat shift reverses the reward language of most war games. Killing more enemies is not success. Sometimes making it through a night without killing anyone is success. A small design choice becomes a major shift in war memory.\n\n### What the game translates\n\nThe game does not tell the entire history of Sarajevo. Ethnic cleansing, international diplomacy, the Dayton process and legal records remain outside most of the playable frame. But the game reveals a scale that war memory often misses: apartment stairwells, cold rooms, stock lists, missing medicine and moral fatigue. For True Frame, the connection is strong. This War of Mine breaks the heroic language of war games, and Sarajevo shows why that break is historically necessary. The real face of war can be not advancing units, but civilians unsure whether they will endure another night.",
+      "accuracyNote": "This War of Mine is not a documentary, but its civilian siege experience is consistent with documented conditions in Sarajevo and other modern urban sieges.",
+      "whyInteresting": "Where most war games magnify the front, This War of Mine centers the moral and physical cost inside the home.",
+      "misconception": "War is often imagined as mainly an experience between soldiers; in modern sieges, civilian life can become the center of the war.",
+      "nextTopics": [
+        "Humanitarian Law",
+        "Civilian War Experience",
+        "Besieged Cities"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-211-twom-humanitarian-ethics"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "spoilerLevel": "none",
+      "mediaConnection": "This War of Mine's focus on civilians under siege connects strongly with the legal and humanitarian memory of Sarajevo.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "this-war-of-mine",
+        "sarajevo",
+        "siege",
+        "civilian-war-experience",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game makes civilian survival, not military victory, playable; Sarajevo records show why that perspective is not only dramatic but realistic.",
+      "whyItMatters": "Read together, Sarajevo and This War of Mine turn war from a strategy map into food, medicine, water and ethical decisions.",
+      "isFlagship": true,
+      "quickRealityCheck": "Could the most realistic part of a war game be not its gunplay, but its civilian survival choices?",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "11 bit studios - This War of Mine",
+          "url": "https://11bitstudios.com/games/this-war-of-mine/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "IRMCT / United Nations - The Siege of Sarajevo",
+          "url": "https://www.irmct.org/en/mip/features/sarajevo",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "UNHCR - Looking back at the siege of Sarajevo",
+          "url": "https://www.unhcr.org/news/briefing-notes/looking-back-siege-sarajevo-20-years-after",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "ICTY - Prosecutor v. Stanislav Galić Judgement",
+          "url": "https://www.icty.org/x/cases/galic/tjug/en/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-211-twom-humanitarian-ethics",
+      "title": "Survival Ethics",
+      "subtitle": "How free is a choice under siege?",
+      "mediaType": "game",
+      "mediaTitle": "This War of Mine",
+      "era": "Modern History",
+      "region": "Balkans",
+      "themes": [
+        "War",
+        "Ethics",
+        "Law",
+        "Society"
+      ],
+      "whatWeSee": "This War of Mine shows war through civilians living in ruined apartments rather than through a military front. The player searches for food, hides medicine, decides whether to help an elderly neighbor or weighs the cost of taking supplies from another home. The game does not present these as simple good-or-bad choices; hunger, cold, fear and uncertainty enter every moral decision.",
+      "realHistory": "In siege and urban war, civilian choices are often less a free ethical test than a field of necessity. International humanitarian law holds that civilians must be protected as long as they are not directly participating in hostilities. The Geneva Conventions and additional protocols insist that war is not unlimited. But on the ground, that principle is tested by hunger, cut electricity, water queues, sniper fire and lack of medicine.\n\nThis War of Mine is powerful because it refuses the romance of victory. Entering a building to take food may look like theft or looting in ordinary legal language. Under siege, the same act may be the only way to survive. That does not make every violation acceptable. A more precise reading is that war pushes civilians out of normal legal and moral conditions and forces them to decide under extreme pressure.\n\nHumanitarian law tries to protect civilians. The game shows what remains when that protection fails. Aid corridors, evacuation, medical care and bans on attacks against civilians can be clear on paper. But as a siege lengthens, people are harmed not only by shells but by empty stocks, mistrust and the collapse of neighborhood relations. The game's 'hard choices' are therefore not only individual conscience puzzles. They show how war grinds society when protective systems fail.",
+      "accuracyNote": "The game does not simulate one specific siege, but its framing of civilian protection, scarcity, fear of looting and survival choices aligns with humanitarian law and modern siege experience.",
+      "whyInteresting": "The game's hardest move is refusing to make the player a hero; civilians often live between bad options.",
+      "misconception": "War-game ethics are often read through orders or heroism; for civilians the question may be less 'what is right?' than 'which harm is smaller?'",
+      "nextTopics": [
+        "Civilian Life Under Siege",
+        "Border Bureaucracy",
+        "Surveillance State"
+      ],
+      "sources": [
+        {
+          "title": "ICRC - Protected persons: Civilians",
+          "url": "https://www.icrc.org/en/law-and-policy/protected-persons-civilians",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "ICRC - The Geneva Conventions and their Commentaries",
+          "url": "https://www.icrc.org/en/law-and-policy/geneva-conventions-and-their-commentaries",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "ICRC - Protected persons",
+          "url": "https://www.icrc.org/en/law-and-policy/protected-persons",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-210-twom-sarajevo-siege",
+        "tf26-212-papersplease-border-regime",
+        "tf26-213-papersplease-surveillance"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "This War of Mine's food, medicine and neighbor decisions become clearer when read beside humanitarian law's claim to protect civilians.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "this-war-of-mine",
+        "war",
+        "humanitarian-law",
+        "civilian-life",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game puts moral choices on a personal conscience screen; in reality those choices are tied to aid access, legal protection, siege economies and civilian safety.",
+      "whyItMatters": "To understand the cost of war, we must look not only at the front line but at civilians trying to survive behind it.",
+      "isFlagship": false,
+      "quickRealityCheck": "When judging a civilian searching for food under siege, should we consider only personal morality or the collapse of protection systems too?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-212-papersplease-border-regime",
+      "title": "Border Bureaucracy",
+      "subtitle": "State power on paper",
+      "mediaType": "game",
+      "mediaTitle": "Papers, Please",
+      "era": "Modern History",
+      "region": "Eastern Europe",
+      "themes": [
+        "State",
+        "Border",
+        "Migration",
+        "Bureaucracy"
+      ],
+      "whatWeSee": "Papers, Please reduces the border to a small desk, a stamp, a photograph and a stack of documents. As players check passport dates, visa stamps, entry permits and faces, they are deciding who a country lets in. The game is deliberately gray and suffocating: a mistake is not only a score penalty, but a bureaucratic decision that can change a person's life.",
+      "realHistory": "### The modernization of the passport\n\nPassports and visas feel natural today, but the modern border-document regime grew especially strong after the First World War. War increased state interest in tracking populations, deserters, refugees and people marked as enemies. In parts of 19th-century Europe, relatively open movement had been possible; the mass war and revolutionary atmosphere of the 20th century made identity papers more central. The 1920 passport conference under the League of Nations was part of an attempt to standardize passport formats and customs formalities. Movement was not abolished, but it became more dependent on documents, stamps, photographs and state approval.\n\nThe fictional Arstotzkan border in Papers, Please is not a direct copy of that history, but it captures the basic logic: the modern state builds borders with paper as much as with fences. Passport, visa, work permit, health certificate and identity number can all decide who counts as legitimate, suspicious or invisible. Documents regulate travel, but they also force the traveler to keep proving themselves.\n\n### Suspicion made from paperwork\n\nEvery day in the game adds a new rule. A document valid yesterday may be insufficient today; one missing stamp can send a person away. The mechanic captures the ordinariness of bureaucracy. Violence does not always shout. Sometimes it works through a clerk, a checklist and the phrase 'those are the rules.' In real border regimes, the risk is not only forged papers. It is also how states define risky identities, acceptable migration and groups that require extra scrutiny.\n\nWars, revolutions, refugee movements and Cold War borders hardened this document regime. Control points read human movement through security, even when the reality involved work, family, asylum or escape. A person's life can shrink to a few lines in front of an official: birthplace, stamp, expiration date, facial similarity, permit category. That simplification is administratively useful, but it risks turning a life into a file error.\n\n### What the game gets right\n\nPapers, Please succeeds because it does not need to draw one grand dictator. The player is a small official. They did not invent the system, but they apply it. They must earn a wage, feed a family and avoid mistakes. The game makes visible one of modern bureaucracy's most uncomfortable features: decisions with moral consequences are often hidden among ordinary forms, dates and signatures.\n\nPassport and visa regimes have provided order, security and identification. They have also tied the right to move to continuous state permission. The border became not only a line on a map, but a decision at a desk. Border bureaucracy is therefore not just an international travel technique; it is a way for modern states to identify, filter and distribute responsibility through minor officials. The small check on the game screen is the simplified shadow of a long process of state-making.",
+      "accuracyNote": "Papers, Please is fictional, but its passport, visa and checkpoint logic rests on real 20th-century border bureaucracies.",
+      "whyInteresting": "The game makes state power felt not through speeches, but through a missing stamp or wrong date.",
+      "misconception": "A passport is often seen as a neutral travel convenience; historically it is also a tool for monitoring and limiting movement.",
+      "nextTopics": [
+        "Surveillance State",
+        "Survival Ethics",
+        "Emergency Governance"
+      ],
+      "sources": [
+        {
+          "title": "UN Digital Library - 1920 Passport Conference recommendations",
+          "url": "https://digitallibrary.un.org/record/1485616/files/E_CONF_PASS_PC_2-EN.pdf",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Oxford Academic - International Conferences and the Emergence of the Modern Passport System",
+          "url": "https://academic.oup.com/book/41096/chapter/350379824",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Passport",
+          "url": "https://www.britannica.com/topic/passport",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-213-papersplease-surveillance",
+        "tf26-211-twom-humanitarian-ethics"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "The stamp-and-document mechanics of Papers, Please can be read beside the standardization of passport and visa regimes in the 20th century.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "papers-please",
+        "border",
+        "bureaucracy",
+        "passport",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game uses a fictional country and simplified rules; real history connects the same logic to war, refugee movement, international standardization and national security.",
+      "whyItMatters": "Border politics is not only about walls; it is also about which papers make a person valid or invalid.",
+      "isFlagship": true,
+      "quickRealityCheck": "Is a border made most visible by barbed wire, or by the document regime that decides who counts as admissible?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-213-papersplease-surveillance",
+      "title": "Surveillance State",
+      "subtitle": "How informer networks become ordinary",
+      "mediaType": "game",
+      "mediaTitle": "Papers, Please",
+      "era": "Cold War",
+      "region": "Eastern Europe",
+      "themes": [
+        "State",
+        "Espionage",
+        "Society",
+        "Ethics"
+      ],
+      "whatWeSee": "In Papers, Please, the border inspector does more than check papers; the inspector becomes an eye and ear of the regime. Rules change constantly, suspicious people are reported, and family survival is tied to loyalty. The game makes authoritarianism feel not like one huge secret-police building, but like a daily order built from small decisions.",
+      "realHistory": "In Cold War Eastern Europe, surveillance did not work only through visible police pursuit. Files, workplaces, neighbors, phones, mail and informer networks operated together. East Germany's Stasi is one of the best documented examples. The Stasi Records Archive explains that, alongside official employees, the Stasi used unofficial collaborators, or IM networks, to monitor society and identify possible dissent.\n\nThe effect of such a system cannot be measured only by arrests. Its deeper impact was that people had to think constantly about whom they spoke to, what they wrote and whom they could trust. Surveillance changed behavior even when it was not visible. Papers, Please captures that mood through bureaucratic pressure: the inspector may not believe the rule but follows it; the inspector may be trapped between conscience and family safety.\n\nIn the real Stasi system, producing files, collecting information and treating human relationships as security problems were core practices. The game leaves Arstotzka fictional, but it understands the logic of authoritarian bureaucracy: repression is not only an order from above, but a system that turns ordinary people into daily operators of control.\n\nSurveillance is therefore not just a technical capacity that strengthens the state. It is a social atmosphere that teaches people to censor themselves in advance. The pressure of the game comes from that invisible self-control.",
+      "accuracyNote": "The game is not a Stasi simulation, but informer networks, paperwork and loyalty pressure match documented practices of Cold War authoritarian states.",
+      "whyInteresting": "The frightening part of surveillance is sometimes not secret technology, but the conversion of trust into reports and files.",
+      "misconception": "Authoritarian surveillance is often imagined as only cameras; in reality files, clerks, neighbors, coworkers and small reports can carry the system.",
+      "nextTopics": [
+        "Border Bureaucracy",
+        "Mutual Assured Destruction",
+        "Private Military Companies"
+      ],
+      "sources": [
+        {
+          "title": "Bundesarchiv - The Unofficial Collaborators of the MfS",
+          "url": "https://www.bundesarchiv.de/en/stasi-records-archive/education/what-was-the-state-security/the-unofficial-collaborators-of-the-mfs/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Bundesarchiv - What was the State Security?",
+          "url": "https://www.bundesarchiv.de/en/stasi-records-archive/education/what-was-the-state-security/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Stasi Museum Berlin - The Stasi Museum",
+          "url": "https://www.stasimuseum.de/en/enindex.htm",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-212-papersplease-border-regime",
+        "tf26-211-twom-humanitarian-ethics"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Papers, Please's fictional border regime becomes more realistic when read beside documented surveillance institutions such as the Stasi.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "papers-please",
+        "stasi",
+        "surveillance",
+        "cold-war",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game condenses surveillance into small official decisions; historical examples show the same pressure through archives, informer categories and everyday trust relations.",
+      "whyItMatters": "Surveillance does not only gather information; it reshapes who people can trust and how they speak.",
+      "isFlagship": false,
+      "quickRealityCheck": "When a regime watches people, is the main power in the camera, or in making everyone suspect each other?",
+      "lastReviewedAt": "2026-06-28"
+    }
+  ]
+}

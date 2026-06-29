@@ -1,0 +1,1487 @@
+{
+  "meta": {
+    "purpose": "English-native adaptation batch",
+    "sourceChunk": "source-chunk-021.json",
+    "batchNumber": 21,
+    "cardCount": 20,
+    "sourceCardRange": "TR order cards 401-420",
+    "alreadyAuthoredCountBeforeBatch": 400,
+    "authoredCountAfterBatch": 420,
+    "remainingCountAfterBatch": 31,
+    "ids": [
+      "tf26-234-tombraider-archaeology-looting",
+      "tf26-235-uncharted-colonial-adventure",
+      "tf26-236-plaguetale-black-death",
+      "tf26-237-plaguetale-rats-fleas",
+      "tf26-238-stalker-exclusion-zone",
+      "tf26-239-stalker-dark-tourism",
+      "tf26-240-bf1-gallipoli",
+      "tf26-241-bf1-arab-revolt-lawrence",
+      "tf26-242-bfv-senegalese-tirailleurs",
+      "tf26-243-bfv-heavy-water-sabotage",
+      "tf26-244-cod-stalingrad-sniper-myth",
+      "tf26-245-codbo-mkultra",
+      "tf26-246-codbo-bay-of-pigs",
+      "tf26-247-cod-vietnam-tunnels",
+      "tf26-248-mafia2-postwar-gi-bill",
+      "tf26-249-lanoire-black-dahlia",
+      "tf26-250-gta-moral-panic",
+      "tf26-251-obradinn-east-india-company",
+      "tf26-252-1979revolution-iran",
+      "tf26-253-civ-tech-tree-myth"
+    ],
+    "notes": "Adapted from Turkish canonical cards. Source URLs and relation IDs preserved; localized text fields adapted into natural English."
+  },
+  "cards": [
+    {
+      "id": "tf26-234-tombraider-archaeology-looting",
+      "title": "Archaeology or Looting?",
+      "subtitle": "Tomb Raider and the real ethics of artifacts",
+      "mediaType": "game",
+      "mediaTitle": "Tomb Raider",
+      "era": "Modern History",
+      "region": "Global",
+      "themes": [
+        "Archaeology",
+        "Cultural Heritage",
+        "Ethics",
+        "Museums"
+      ],
+      "whatWeSee": "In Tomb Raider, ancient tombs, lost cities and dangerous relics become the raw material of adventure. Lara Croft solves puzzles, survives traps and reaches objects that seem to hold the secret of the past. The game frames this as discovery. In the real world, the same scene raises a harder question: is archaeology about taking the valuable thing, or about protecting the context that lets the past speak?",
+      "realHistory": "### The question behind the adventure\n\nTomb Raider builds a powerful adventure language around ancient tombs, lost temples and hidden artifacts. For the player, discovery, danger and problem solving move in the same rhythm. Lara Croft often looks like the brave archaeologist who uncovers what history forgot. Real archaeology asks a different and slower question: is the point to find an object, or to understand why that object was there, how it was used and what its surroundings can tell us?\n\nArchaeology is not simply the recovery of beautiful or valuable things. A pot, figurine, bone or inscription gains meaning from its layer, nearby finds, soil conditions, building remains and patterns of use. Looting or uncontrolled digging destroys that context. What remains may look impressive in a case, but much of its historical information has been lost forever. That is why modern archaeology is closer to documentation, preservation and interpretation than to treasure hunting.\n\n### Museums, markets and return\n\nThe tomb adventure fantasy also touches a real debate about cultural property. The UNESCO 1970 Convention created an international framework against the illicit import, export and transfer of ownership of cultural property. ICOM Red Lists help identify categories of objects at risk of trafficking. These tools point to something games usually leave off screen: artifact movement is not only a story of discovery, but also of law, ownership, money and power.\n\nMuseums are part of that debate. Institutions such as the British Museum face public arguments over objects whose ownership, acquisition history or colonial context is contested. Not every object has the same story. Some were purchased, some donated, some removed through war, empire or unequal bargaining power. That means two simple statements are both misleading: \"if it is in a museum, it was saved\" and \"every museum object is stolen.\" The key issue is provenance: where an object came from, who moved it and under what conditions.\n\n### Who gets to tell the past?\n\nWhen an object is removed from the community or landscape that gave it meaning, it does not only change location. Its story can also change. A ritual object may become an exotic treasure. A burial object may become evidence for someone else's civilization chart. A local past may be renamed by an outside collector, curator or market. For that reason, modern heritage debates are not only about returning things. They are also about the right to name, explain and interpret them.\n\nThis does not make Tomb Raider worthless. The series made many people curious about archaeology. But its speed, danger and extraction rhythm can hide the actual ethics of the field. For a real archaeologist, the most exciting find may not be a golden statue but a plain fragment in the right context. Looting consumes the past. Archaeology tries to listen to it. Opening a tomb can be a move toward history, but deciding what stays, what moves and whose story is centered is just as important as solving the puzzle.",
+      "accuracyNote": "Tomb Raider uses fictional sites and heightened adventure. The real issues of artifact trafficking, context loss, provenance research and restitution are central debates in archaeology and museums.",
+      "whyInteresting": "One of gaming's most satisfying discovery fantasies can, in real life, look like the irreversible loss of cultural context.",
+      "misconception": "Archaeology is often imagined as treasure hunting. In modern archaeology, context, recording and preservation are often more important than the object itself.",
+      "nextTopics": [
+        "The Adventurer Myth",
+        "Logistics Builds Civilization",
+        "Black Death Memory"
+      ],
+      "relatedCardIds": [
+        "tf26-235-uncharted-colonial-adventure",
+        "tf26-229-deathstranding-logistics",
+        "tf26-200-memory"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "spoilerLevel": "none",
+      "mediaConnection": "Tomb Raider's tomb exploration and artifact-recovery fantasy can be read against modern debates over archaeological context, illicit trade and museum restitution.",
+      "accuracyType": "inspired-by-reality",
+      "tags": [
+        "tomb-raider",
+        "archaeology",
+        "cultural-heritage",
+        "restitution",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game turns archaeology into fast discovery and valuable-object recovery. Real archaeology is slower, documented and tied to local communities, ownership and context.",
+      "whyItMatters": "Cultural heritage is not only about old objects. It is also about who has the right to tell the past today.",
+      "isFlagship": true,
+      "quickRealityCheck": "Does moving an artifact into a museum save it, or can it also remove the context that made it meaningful?",
+      "sources": [
+        {
+          "title": "UNESCO - 1970 Convention on Illicit Import, Export and Transfer of Ownership of Cultural Property",
+          "url": "https://www.unesco.org/en/legal-affairs/convention-means-prohibiting-and-preventing-illicit-import-export-and-transfer-ownership-cultural",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "ICOM - Red Lists of Cultural Objects at Risk",
+          "url": "https://icom.museum/en/red-lists/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "British Museum - Contested Objects from the Collection",
+          "url": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-235-uncharted-colonial-adventure",
+      "title": "The Adventurer Myth",
+      "subtitle": "Lost cities and the colonial gaze",
+      "mediaType": "game",
+      "mediaTitle": "Uncharted",
+      "era": "Early Modern",
+      "region": "Americas",
+      "themes": [
+        "Exploration",
+        "Colonialism",
+        "Archaeology",
+        "Myth"
+      ],
+      "whatWeSee": "Uncharted turns lost cities, hidden treasure and forgotten civilizations into fast, readable adventure. The player follows clues, beats rivals to the site and uncovers the great secret that history supposedly buried. It is a fun structure, but it becomes more interesting when we ask how the idea of a 'lost treasure' was produced in the first place.",
+      "realHistory": "During the European age of exploration, the Americas were often imagined as a space of gold, wealth and places waiting to be found. El Dorado is one of the strongest examples. Its roots are linked to stories around the Muisca people in present-day Colombia, including ritual uses of gold dust and Lake Guatavita. Over time, European imagination transformed that more limited ritual world into the myth of a whole golden city.\n\nThat transformation was not innocent. Treasure hunting turned local beliefs, landscapes and objects into a European adventure stage. Objects such as the Muisca Raft preserve traces of a ritual context, but they also show how easily that context could be reduced to gold, extraction and possession.\n\nUncharted does not retell this history directly. It uses the modern pop-cultural afterlife of the lost-city adventure. The key True Frame point is that many places called 'lost' were not lost to everyone. They may have remained present in local memory, ritual, landscape or oral knowledge. The adventurer myth turns discovery into heroism, but it often forgets whose knowledge was ignored so that someone else could 'find' it.",
+      "accuracyNote": "Uncharted builds fictional treasures and lost places. This card does not treat those sites as real; it explains how myths like El Dorado grew from colonial imagination and European treasure desire.",
+      "whyInteresting": "The lost-city adventure often makes a place seem real only once an outsider discovers it.",
+      "misconception": "El Dorado is often imagined as a real golden city. Its roots are better understood as ritual traditions enlarged by European expectations and gold hunger.",
+      "nextTopics": [
+        "Archaeology or Looting?",
+        "Republic of Pirates",
+        "Mercantilism and Colonial Trade"
+      ],
+      "relatedCardIds": [
+        "tf26-234-tombraider-archaeology-looting",
+        "tf26-201-ac4-republic-of-pirates",
+        "tf26-221-eu4-mercantilism-colonialism"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "mediaConnection": "Uncharted's lost-city and treasure fantasy can be read alongside the El Dorado myth and the colonial imagination of discovery.",
+      "accuracyType": "inspired-by-reality",
+      "tags": [
+        "uncharted",
+        "el-dorado",
+        "colonialism",
+        "adventurer-myth",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game frames the search as personal adventure and action. The historical background points to European desire for gold and the erasure of local knowledge.",
+      "whyItMatters": "Adventure stories can create discovery excitement while repeating the colonial habit of making local worlds invisible.",
+      "isFlagship": false,
+      "quickRealityCheck": "If a place was missing from European maps, was it actually lost?",
+      "sources": [
+        {
+          "title": "National Geographic - The Real History Behind El Dorado",
+          "url": "https://www.nationalgeographic.com/history/article/el-dorado",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Smarthistory - Muisca Raft",
+          "url": "https://smarthistory.org/muisca-raft/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "UNESCO - 1970 Convention on Illicit Import, Export and Transfer of Ownership of Cultural Property",
+          "url": "https://www.unesco.org/en/legal-affairs/convention-means-prohibiting-and-preventing-illicit-import-export-and-transfer-ownership-cultural",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-236-plaguetale-black-death",
+      "title": "The Real Cause of the Black Death",
+      "subtitle": "A Plague Tale and the biology beneath the fear",
+      "mediaType": "game",
+      "mediaTitle": "A Plague Tale: Innocence",
+      "era": "Middle Ages",
+      "region": "Europe",
+      "themes": [
+        "Disease",
+        "Society",
+        "Science",
+        "Misconceptions"
+      ],
+      "whatWeSee": "A Plague Tale: Innocence shows the Black Death through children caught in a dark, desperate and almost supernatural catastrophe. Rat swarms carry both bodily horror and social collapse. The game is not a documentary reconstruction of plague, but it strongly captures what it meant to live in a world where people were dying without knowing why.",
+      "realHistory": "### The biological ground\n\nA Plague Tale: Innocence presents the Black Death through dark streets, fleeing children, religious panic and rat swarms that feel almost supernatural. The image is powerful, but the real Black Death was not caused by \"medieval dirt\" producing disease by itself, nor by rats acting as a single visible army. The strongest scientific explanation identifies the bacterium Yersinia pestis as the agent behind the great outbreak of 1347-1351. Ancient DNA recovered from plague burials, including victims from London, supports that connection.\n\nThe bacterium usually circulates in a cycle involving rodents and fleas. An infected flea can bite a human and transmit bubonic plague. But even that is not the whole story. The medieval pandemic spread through trade routes, ports, caravan links, war movement, crowded towns and the movement of goods and people. The plague was therefore not only a rat story. It was also a story of transport, commerce, ecology and human contact.\n\n### What people could see\n\nPeople in the fourteenth century did not know about bacteria. They explained disease through bad air, divine punishment, astrology, sin or rumor. Those explanations could shape behavior. They produced prayer, quarantine-like measures, flight, blame and sometimes violence against minority groups. A Plague Tale is strongest when it captures that atmosphere of uncertainty. Its characters move through a catastrophe whose true cause is hidden from them. The threat is biological, but also social and political.\n\nThe game's rat swarms are horror language rather than literal epidemiology. In reality, risk often operated through less visible networks: fleas, dying rodents, infected animal tissue, human travel and, in some circumstances, pneumonic transmission between people.\n\n### Fear without knowledge\n\nCity governments and physicians did not understand plague as a microbial problem. Closing ports, isolating the sick, marking houses or avoiding foul air could sometimes reduce risk, but the reasons were usually wrong or incomplete. That gap between action and understanding made rumor powerful. Every explanation was partial; every authority could fail; every neighbor could become a suspect.\n\nThat is why the children in A Plague Tale feel historically believable even when the events are stylized. They live in a world where adults cannot give stable answers. The horror is not only that people die. It is that nobody can reliably explain how to stop it.\n\n### Why the memory is distorted\n\nThe Black Death is often remembered through two simplifications: dirty medieval towns or rats as the single villain. A better reading holds biology and society together. Yersinia pestis mattered. Fleas and rodents mattered. So did ports, trade, war, fear, faith and misinformation. A Plague Tale does not teach epidemiology directly, but it turns that larger reality into a dramatic symbol. The rat darkness on screen is not the whole truth; it is the visual form of a deeper biological and social crisis.",
+      "accuracyNote": "The game captures plague atmosphere and social fear, but its nearly supernatural rat behavior is dramatic horror language. The Y. pestis connection is supported by ancient DNA and modern epidemiology.",
+      "whyInteresting": "Reading the Black Death as bacteria, trade, fear and misinformation rather than just rats makes the game's darkness more historically meaningful.",
+      "misconception": "The Black Death is often blamed only on dirty cities or rats. In reality, Y. pestis, flea-rodent cycles, human movement and sometimes pneumonic spread all mattered.",
+      "nextTopics": [
+        "Were Rats to Blame?",
+        "The Idea of Quarantine",
+        "Plague and Hatred"
+      ],
+      "relatedCardIds": [
+        "tf26-237-plaguetale-rats-fleas",
+        "tf26-191-plague-spread",
+        "tf26-194-antisemitism"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "spoilerLevel": "minor",
+      "mediaConnection": "A Plague Tale's rats, fear and escape scenes can be read beside the Black Death's Y. pestis, trade-route and social-panic context.",
+      "accuracyType": "inspired-by-reality",
+      "tags": [
+        "black-death",
+        "a-plague-tale",
+        "middle-ages",
+        "disease",
+        "true-frame"
+      ],
+      "spoilerNote": "Contains minor hints about A Plague Tale: Innocence's atmosphere and central threat, but not the ending.",
+      "mediaChanged": "The game turns plague into visual horror and a children's survival story. The historical picture is more complex: bacteria, fleas, ports, trade and false explanations all mattered.",
+      "whyItMatters": "Understanding pandemics means resisting the urge to reduce catastrophe to one animal, one image or one scapegoat.",
+      "isFlagship": true,
+      "quickRealityCheck": "Is the rat darkness in A Plague Tale the real plague itself, or a horror symbol for a more complex biological and social process?",
+      "sources": [
+        {
+          "title": "CDC - How Plague Spreads",
+          "url": "https://www.cdc.gov/plague/causes/index.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Nature - A draft genome of Yersinia pestis from victims of the Black Death",
+          "url": "https://www.nature.com/articles/nature10549",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Black Death",
+          "url": "https://www.britannica.com/event/Black-Death",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-237-plaguetale-rats-fleas",
+      "title": "Were Rats to Blame?",
+      "subtitle": "The visible animal and the hidden cycle",
+      "mediaType": "game",
+      "mediaTitle": "A Plague Tale: Innocence",
+      "era": "Middle Ages",
+      "region": "Europe",
+      "themes": [
+        "Disease",
+        "Science",
+        "Misconceptions"
+      ],
+      "whatWeSee": "A Plague Tale turns rats into more than background animals. They become a moving darkness and a visible symbol of disease and collapse. The choice is dramatically powerful, but the actual biology of plague was not so single-actor or so visible.",
+      "realHistory": "Rats are the easiest plague villain. They can be seen, feared and placed naturally in dark medieval streets. A Plague Tale enlarges that visual memory until the rats almost become one living disaster. Medical and historical reality is more indirect. Yersinia pestis usually circulates through a cycle involving rodents and fleas. Humans often become sick when an infected flea bites them or when they handle infected animal tissue.\n\nSo the phrase 'rats spread plague' is partly useful but too simple. In many cases, the critical link is the flea. Rodent die-offs can push fleas to seek new hosts, including humans. Even then, the medieval pandemic cannot be reduced to one animal species. Local ecology, port movement, domestic animals, human migration and some pneumonic forms of plague all complicate the picture.\n\nThe game's rat swarms turn that complexity into one readable horror image. That works as drama. Historically, though, the visible animal should lead us to the less visible chain behind it: bacterium, flea, host, trade and contact. The Black Death teaches that epidemics grow through networks, not through one convenient culprit.",
+      "accuracyNote": "Rats are part of plague ecology, but transmission to humans often depends on infected fleas, animal tissue exposure and, in some forms, respiratory spread.",
+      "whyInteresting": "The most familiar plague image is not the whole explanation; it is the visible part of a hidden ecological chain.",
+      "misconception": "The Black Death is often described as if rats alone directly spread it. In many cases, infected fleas and the conditions that moved them were the critical link.",
+      "nextTopics": [
+        "The Real Cause of the Black Death",
+        "Medieval Cleanliness",
+        "Plague Doctors"
+      ],
+      "relatedCardIds": [
+        "tf26-236-plaguetale-black-death",
+        "tf26-191-plague-spread",
+        "tf26-196-medieval-hygiene"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "minor",
+      "mediaConnection": "A Plague Tale's rat swarms are a horror translation of the real flea-rodent cycle behind plague transmission.",
+      "accuracyType": "inspired-by-reality",
+      "tags": [
+        "black-death",
+        "a-plague-tale",
+        "rats",
+        "disease",
+        "true-frame"
+      ],
+      "spoilerNote": "Contains minor hints about A Plague Tale: Innocence's central threat atmosphere.",
+      "mediaChanged": "The game creates a single visible threat. Science points to an invisible bacterium and flea cycle as the more important mechanism.",
+      "whyItMatters": "Blaming epidemics on one animal hides both scientific complexity and the social tendency to seek simple scapegoats.",
+      "isFlagship": false,
+      "quickRealityCheck": "In A Plague Tale we see rats; in real plague transmission, what was often the critical link?",
+      "sources": [
+        {
+          "title": "CDC - How Plague Spreads",
+          "url": "https://www.cdc.gov/plague/causes/index.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "CDC - About Plague",
+          "url": "https://www.cdc.gov/plague/about/index.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "PMC/NIH - Plague",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7149940/",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-238-stalker-exclusion-zone",
+      "title": "The Exclusion Zone",
+      "subtitle": "Chernobyl's evacuated geography",
+      "mediaType": "game",
+      "mediaTitle": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+      "era": "Modern History",
+      "region": "Ukraine",
+      "themes": [
+        "Nuclear Energy",
+        "Disaster",
+        "Society",
+        "Memory"
+      ],
+      "whatWeSee": "S.T.A.L.K.E.R. turns the Chernobyl area into a Zone of mutants, anomalies and illegal explorers. For the player, it is both a survival space and a dark museum of abandoned Soviet modernity.",
+      "realHistory": "S.T.A.L.K.E.R. rebuilds the Chernobyl Exclusion Zone as a survival landscape of anomalies, mutants, armed groups and forbidden research. The real Zone began as something much less playful: a radiological and administrative space created after people were forced out of their homes.\n\nAfter the reactor explosion on 26 April 1986, Pripyat was evacuated on 27 April. A roughly 30-kilometer exclusion area later formed around the plant. UNSCEAR states that about 115,000 people were evacuated from the most affected areas in 1986, and about 220,000 more were relocated from Belarus, the Russian Federation and Ukraine in later years. The IAEA describes the 30-kilometer area as essentially an exclusion zone with long-term restrictions.\n\nThe game grows out of the cultural ghostliness created by that evacuation. Apartment blocks, schools and the amusement park are not just scenery. They are visual memory of technological failure, Soviet secrecy and displacement. In reality, the danger is not mutation mythology but hot spots, contaminated material, long-term monitoring and the psychosocial burden of losing one's home. S.T.A.L.K.E.R. turns that history into science fiction, but its force comes from making a real evacuated landscape feel walkable.",
+      "accuracyNote": "The game's mutants and anomalies are fiction. Pripyat's evacuation, the 30-kilometer Zone and large-scale relocation are historical realities.",
+      "whyInteresting": "S.T.A.L.K.E.R.'s power comes from placing science-fiction horror on top of a real evacuated city and radiological legacy.",
+      "misconception": "The Chernobyl Exclusion Zone is often treated as an abandoned adventure playground. It is also a space of forced relocation, monitoring and loss.",
+      "nextTopics": [
+        "Disaster Tourism",
+        "Soviet Secrecy",
+        "Radiation Myth"
+      ],
+      "relatedCardIds": [
+        "tf26-239-stalker-dark-tourism",
+        "tf26-158-exclusion-zone",
+        "tf26-156-soviet-secrecy"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "mediaConnection": "S.T.A.L.K.E.R.'s Zone design draws on the memory of Pripyat's evacuation and the 30-kilometer Chernobyl Exclusion Zone.",
+      "accuracyType": "inspired-by-reality",
+      "tags": [
+        "chernobyl",
+        "stalker",
+        "exclusion-zone",
+        "nuclear",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game turns a real radiological area into mutant and anomaly mythology. Historical records point to evacuation, relocation and environmental monitoring.",
+      "whyItMatters": "When disaster sites become game aesthetics, we should ask how memory is being consumed and rebuilt.",
+      "isFlagship": false,
+      "quickRealityCheck": "Is the Zone in S.T.A.L.K.E.R. pure science fiction, or is it built on the memory of a real evacuation?",
+      "sources": [
+        {
+          "title": "IAEA - Chornobyl Accident Frequently Asked Questions",
+          "url": "https://www.iaea.org/topics/chornobyl/faqs",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "UNSCEAR - The Chornobyl Accident",
+          "url": "https://www.unscear.org/unscear/en/chernobyl.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "World Nuclear Association - Chernobyl Accident 1986",
+          "url": "https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident",
+          "type": "technical",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-239-stalker-dark-tourism",
+      "title": "Disaster Tourism",
+      "subtitle": "Is it ethical to visit Chernobyl?",
+      "mediaType": "game",
+      "mediaTitle": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+      "era": "Modern History",
+      "region": "Ukraine",
+      "themes": [
+        "Disaster",
+        "Memory",
+        "Media",
+        "Ethics"
+      ],
+      "whatWeSee": "S.T.A.L.K.E.R. makes the Chernobyl Zone feel dangerous, strange and almost irresistible to enter. Abandoned buildings, misty roads and military checkpoints create atmosphere in the game. In real life, similar images open the debate around disaster tourism.",
+      "realHistory": "Visiting Chernobyl after playing S.T.A.L.K.E.R. can feel like stepping into a game space. The attraction is understandable: Pripyat is one of the most recognizable abandoned city images in the modern world. But it is not just a post-apocalyptic photo background. It carries the memory of residents, workers, firefighters, liquidators and families displaced by the disaster.\n\nAcademic writing often discusses Chernobyl through the language of dark tourism or toxic tourism. A visit can have educational value: it can explain nuclear risk, secrecy, evacuation and long-term environmental management. It can also reduce disaster to selfies, adrenaline and game-like atmosphere. S.T.A.L.K.E.R. sharpens both possibilities. It made the Zone globally recognizable, but it also fed a pop-cultural desire to enter the real place.\n\nThe ethical difference lies in context and behavior. A guided, regulated and informed visit can take radiation safety, local memory and disaster history seriously. Illegal entry, taking objects, treating abandoned homes as props or consuming pain only as atmosphere is something else. The True Frame question is simple: are we looking at a disaster site as a game map, or are we also seeing the history of displacement and risk management that made it empty?",
+      "accuracyNote": "The Chernobyl area is a controlled radiological memory site. The tourism debate concerns not only safety, but also how disaster is represented and consumed.",
+      "whyInteresting": "A video game can increase curiosity about a real disaster site; that curiosity can become education or shallow consumption.",
+      "misconception": "Chernobyl tourism is often treated as a courage or extreme-tourism issue. It is also about memory, ethics, safety and local context.",
+      "nextTopics": [
+        "The Exclusion Zone",
+        "Soviet Secrecy",
+        "Radiation Myth"
+      ],
+      "relatedCardIds": [
+        "tf26-238-stalker-exclusion-zone",
+        "tf26-158-exclusion-zone",
+        "tf26-155-radiation-myth"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "mediaConnection": "S.T.A.L.K.E.R.'s Zone aesthetic can be read alongside dark tourism and disaster-memory debates around Chernobyl.",
+      "accuracyType": "inspired-by-reality",
+      "tags": [
+        "chernobyl",
+        "stalker",
+        "disaster-tourism",
+        "ethics",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game makes the Zone a space of exploration and survival. Real tourism raises the question of how respectfully we experience a disaster site.",
+      "whyItMatters": "Popular culture can make disaster sites visible, but visibility is not the same as responsible remembrance.",
+      "isFlagship": false,
+      "quickRealityCheck": "Is visiting Chernobyl like visiting a game map, or encountering a real disaster memory?",
+      "sources": [
+        {
+          "title": "IAEA - Chornobyl Accident Frequently Asked Questions",
+          "url": "https://www.iaea.org/topics/chornobyl/faqs",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Current Issues in Tourism - Dark and toxic tourism in the Chernobyl exclusion zone",
+          "url": "https://ideas.repec.org/a/taf/rcitxx/v17y2014i10p929-939.html",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Polish Sociological Review - Stalkerism in the Chernobyl Exclusion Zone",
+          "url": "https://polish-sociological-review.eu/The-Transgressive-Approach-to-the-Dark-Tourism-Experience-Stalkerism-in-the-Chernobyl,153533,0,2.html",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-240-bf1-gallipoli",
+      "title": "Gallipoli Campaign",
+      "subtitle": "Strategy and memory behind a battlefield map",
+      "mediaType": "game",
+      "mediaTitle": "Battlefield 1",
+      "era": "First World War",
+      "region": "Ottoman Empire",
+      "themes": [
+        "First World War",
+        "War",
+        "Memory",
+        "Strategy"
+      ],
+      "whatWeSee": "Battlefield 1 presents First World War fronts as cinematic battle spaces. A Gallipoli setting can appear through landings, machine-gun fire and military chaos. That feeling is powerful, but the real campaign was not a few heroic moments. It became a long strategic failure and a deeply contested field of memory.",
+      "realHistory": "### The front on screen\n\nBattlefield 1 turns the First World War into a fast, cinematic and multi-front experience. In a Gallipoli context, games often show narrow beaches, landing chaos, machine guns and the soldier's immediate point of view. That can communicate the violence of battle, but the actual Gallipoli campaign was far more than a landing scene or a single national myth.\n\nThe strategic aim was to force the Dardanelles, pressure Istanbul, weaken the Ottoman Empire and open a sea route to Russia. The Allies first tried to break through by naval power. On 18 March 1915, mines, shore batteries and heavy losses halted that attempt. Landings followed on 25 April 1915. British, French, Australian, New Zealand, Indian and other forces came ashore at different points, facing Ottoman defense, difficult ground, weak planning and a front that quickly hardened into trench warfare.\n\n### Why the campaign failed\n\nGallipoli cannot be explained only as brave soldiers betrayed by bad generals. Terrain, logistics, disease, water shortage, supply lines, intelligence failures, mines, Ottoman resistance and timing all mattered. Imperial War Museums emphasizes that Ottoman opposition stopped the Allied advance and that trench warfare rapidly took hold. Australian War Memorial accounts also stress that the campaign ended in evacuation and left heavy losses.\n\nThe game rhythm naturally highlights immediate combat. Real soldiers endured not only bullets but heat, thirst, dysentery, flies, the smell of bodies and long periods of waiting. The lived experience was months of attrition rather than a few minutes of assault.\n\n### The daily war\n\nThe narrow coastal strip, steep ridges and limited supply possibilities made the front punishing for all sides. Medical evacuation, water supply and movement under observation became constant problems. These conditions are easy to lose in a shooter, because they are slower than combat. Historically, they shaped the campaign as much as attacks did.\n\n### The memory war\n\nGallipoli's afterlife is larger than its military result. The Allied campaign failed, but in Australia and New Zealand, Gallipoli became central to Anzac memory and national identity. In Turkey, the defense of the Dardanelles became a core memory of late Ottoman resistance and of Mustafa Kemal's rise. The Australian War Memorial's Turkish perspective material highlights how Gallipoli carries deep meaning in both Australian and Turkish memory.\n\nThat is why a Battlefield map is only the beginning. Behind the beach scene are imperial strategy, Ottoman defense, Anzac remembrance, Turkish national memory and grief on both sides. A war game can show the intensity of combat. True Frame asks why the combat happened there, why the campaign failed and how later nations turned it into memory.",
+      "accuracyNote": "Battlefield 1 intensifies front-line atmosphere. The real Gallipoli campaign should be read through naval failure, landings, Ottoman defense, logistics and national memory.",
+      "whyInteresting": "Gallipoli was a failed Allied operation militarily, yet it became a founding memory for both Turkey and Australia/New Zealand.",
+      "misconception": "Gallipoli is often reduced to the Anzac landing. The campaign was multinational, multi-front and shaped by Ottoman defense as much as Allied sacrifice.",
+      "nextTopics": [
+        "Arab Revolt",
+        "Total War Economy",
+        "Colonial Troops"
+      ],
+      "relatedCardIds": [
+        "tf26-223-hoi4-war-economy",
+        "tf26-211-twom-humanitarian-ethics"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "spoilerLevel": "none",
+      "mediaConnection": "Battlefield 1's Gallipoli front can be read beside the 1915 campaign's strategic goals, Ottoman defense and Turkish/Anzac memory.",
+      "accuracyType": "partly-real",
+      "tags": [
+        "battlefield-1",
+        "gallipoli",
+        "dardanelles",
+        "first-world-war",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game presents the front through combat intensity and heroism. The historical reality is wider: months of attrition, strategic failure and layered memory.",
+      "whyItMatters": "War games can show what combat feels like, but they also need the question of why wars are fought and how they are later sanctified.",
+      "isFlagship": true,
+      "quickRealityCheck": "Are we seeing Gallipoli as a landing map, or as a campaign where strategy, failure and national memory intersect?",
+      "sources": [
+        {
+          "title": "Imperial War Museums - What went wrong at Gallipoli?",
+          "url": "https://www.iwm.org.uk/history/first-world-war/gallipoli/what-went-wrong-at-gallipoli",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Australian War Memorial - Gallipoli",
+          "url": "https://www.awm.gov.au/articles/encyclopedia/gallipoli",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Australian War Memorial - Gallipoli: a Turkish view",
+          "url": "https://www.awm.gov.au/visit/exhibitions/gallipoli",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-241-bf1-arab-revolt-lawrence",
+      "title": "The Arab Revolt and the Lawrence Legend",
+      "subtitle": "When desert action hides diplomacy",
+      "mediaType": "game",
+      "mediaTitle": "Battlefield 1",
+      "era": "Modern History",
+      "region": "Middle East",
+      "themes": [
+        "First World War",
+        "Ottoman Empire",
+        "Politics",
+        "Propaganda"
+      ],
+      "whatWeSee": "Battlefield 1's desert front evokes raids against Ottoman lines, armored trains, sabotage and a legendary atmosphere around T. E. Lawrence. The game makes this world feel fast, personal and cinematic. The real history was not simply the adventure of one British officer; it involved Hashemite leadership, Ottoman wartime strain, British promises and postwar plans for the region.",
+      "realHistory": "### The ground of the revolt\n\nBattlefield 1 remembers the Arab Revolt through mobile sabotage scenes and the shadow of Lawrence. The visual language is effective, but the revolt that began in 1916 was not the story of a foreign agent acting alone. Sharif Hussein of Mecca and his sons pursued their own political goals against the Ottoman Empire. Britain wanted to weaken the Ottomans, pressure the Hejaz Railway and gain leverage over the postwar Middle East.\n\nT. E. Lawrence became an important liaison officer and later a powerful propaganda figure. He worked with local forces, helped shape the revolt's international image and enlarged his own legend through writing. But the idea that Lawrence personally created or directed the revolt overshadows Arab political agency. In the field, Hashemite leadership, tribal politics, Ottoman garrisons, railway targets and British logistics all mattered.\n\n### Promises and secret plans\n\nThe most difficult part of the Arab Revolt lies in the postwar settlement. Britain sent messages that encouraged Arab expectations of independence while also negotiating with France over the future of Ottoman Arab territories. The Sykes-Picot Agreement and the Balfour Declaration opened overlapping and contradictory political futures. After the war, many Arab nationalists saw a deep gap between wartime promises and the mandate system that followed.\n\nGames usually leave that diplomatic complexity behind the action. Blowing up an armored train or raiding an outpost is immediately legible. The lasting result, however, was also decided on maps and in negotiations: mandates, borders, dynastic projects and colonial oversight shaped the region for decades.\n\n### The power of the legend\n\nLawrence remains powerful in popular culture because he really did take risks, but also because his story gives Western audiences a familiar heroic frame. True Frame begins precisely there. Media often turns a local political movement into the adventure of the outsider who witnessed it. Battlefield 1 does not invent that legend; it inherits it. Historical reading restores Arab leadership, Ottoman strategy and postwar disappointment to the center.\n\n### What the game compresses\n\nBattlefield 1 gives the player clear objectives and clear enemy lines. Historically, the question of who was fighting for what was much less stable. Ottoman soldiers fought to hold an empire together. Arab forces sought not only battlefield success but postwar political status. Britain wanted military advantage and future influence. Every sabotage scene carries a second question: did success in the desert mean the same thing as the promises made at the diplomatic table?",
+      "accuracyNote": "Battlefield 1 compresses the desert front into cinematic sabotage and personal heroism. The Arab Revolt was real, but the Lawrence-centered legend is incomplete without Hashemite politics and postwar diplomacy.",
+      "whyInteresting": "A desert raid in a game can be part of a diplomatic chain reaching from the late Ottoman Empire to modern Middle Eastern borders.",
+      "misconception": "The Arab Revolt is often imagined as almost entirely Lawrence's achievement. Local Arab leadership, tribal politics and British interests were decisive.",
+      "nextTopics": [
+        "Gallipoli",
+        "Total War Economy",
+        "Border Regimes"
+      ],
+      "relatedCardIds": [
+        "tf26-240-bf1-gallipoli",
+        "tf26-223-hoi4-war-economy",
+        "tf26-212-papersplease-border-regime"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "spoilerLevel": "none",
+      "mediaConnection": "Battlefield 1's desert front and Lawrence image become clearer when read against the real military and diplomatic history of the Arab Revolt.",
+      "accuracyType": "partly-real",
+      "tags": [
+        "battlefield",
+        "first-world-war",
+        "ottoman-empire",
+        "arab-revolt",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game makes the revolt visible through raids and the Lawrence legend. The historical picture is more complex: Hashemite politics, Ottoman fronts, British promises and postwar partition plans.",
+      "whyItMatters": "This topic shows how the diplomatic decisions behind action scenes can shape regional memory long after the fighting ends.",
+      "isFlagship": true,
+      "quickRealityCheck": "Was the Arab Revolt Lawrence's personal adventure, or part of a larger wartime and postwar bargain?",
+      "sources": [
+        {
+          "title": "Imperial War Museums - Who Was Lawrence of Arabia?",
+          "url": "https://www.iwm.org.uk/history/first-world-war/middle-east/t-e-lawrence",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Imperial War Museums - Why did Britain promise Palestine to Arabs and Zionists?",
+          "url": "https://www.iwm.org.uk/history/first-world-war/middle-east/balfour-declaration",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "U.S. Office of the Historian - Paris Peace Conference records on Sykes-Picot",
+          "url": "https://history.state.gov/historicaldocuments/frus1919Parisv05/d1",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-242-bfv-senegalese-tirailleurs",
+      "title": "Forgotten Soldiers: Tirailleurs",
+      "subtitle": "Battlefield V and the memory of colonial troops",
+      "mediaType": "game",
+      "mediaTitle": "Battlefield V",
+      "era": "Modern History",
+      "region": "France / Africa",
+      "themes": [
+        "Second World War",
+        "Empire",
+        "Identity",
+        "Memory"
+      ],
+      "whatWeSee": "Battlefield V tries to show the Second World War through more than the familiar American and British fronts. That choice opens a strong door for colonial soldiers in the French army. Figures who may appear on screen as simply 'Allied soldiers' also carry stories of African manpower, unequal citizenship and postwar forgetting.",
+      "realHistory": "### The empire inside the uniform\n\nThe name Tirailleurs Senegalais did not refer only to soldiers from present-day Senegal. It became a broad French military category for African troops recruited or conscripted from different parts of French West Africa. These units served from the nineteenth century onward and fought in the First World War, the Second World War, Africa and the liberation of France. French museum collections preserve traces of that service, but the public story often remains limited.\n\nBattlefield V's interest in less familiar war stories is valuable here. Popular Second World War memory often centers the United States, Britain and European resistance. Yet French and Free French forces included large numbers of soldiers from North Africa and sub-Saharan Africa. They were not background helpers. They carried risk, fought, died, were wounded and returned to a world that often denied them equal pay, status or remembrance.\n\n### Erasure after service\n\nThe story of colonial soldiers does not end with battlefield courage. The deeper rupture appears in recognition after the war. African soldiers who fought for France faced long disputes over pay, pensions, demobilization and official memory. The 1944 Thiaroye massacre is one of the most painful cases: West African former prisoners of war and soldiers seeking payment and rights were killed by French forces. The fact that France's president described the event as a massacre in 2024 shows that the issue is not closed history.\n\nWhen soldiers fight together but do not return to peace with the same status, the victory narrative becomes incomplete. Colonial troops expanded imperial military capacity while also exposing the empire's unequal citizenship structure.\n\n### Why this needs to be told\n\nThis card makes Battlefield V's memory expansion more concrete. The point is not simply that the game includes a different kind of unit. It asks whose faces define war memory, whose names appear on monuments and whose rights were delayed. Popular games can bring forgotten soldiers to the screen, but historical responsibility means seeing them not only as dramatic sacrifice figures, but also as people caught inside colonial power.\n\n### Why Battlefield is a useful door\n\nBattlefield V is not valuable because it tells this perfectly. It is valuable because it can push players beyond the standard map of the war. Colonial soldiers are often absent or reduced to supporting roles. Yet remembrance itself is political. Schoolbooks, museums and ceremonies decide who stands at the center. The tirailleurs are therefore not only a military history topic. They are a memory topic: when an empire calls people into its war, what status does it give them after victory?",
+      "accuracyNote": "Battlefield V treats colonial troops through dramatic missions and characters. Historically, Tirailleurs Senegalais was a broad colonial military category whose service, losses and unequal postwar recognition must be read together.",
+      "whyInteresting": "The familiar Allied victory story changes when the labor and rights struggles of colonial soldiers are made visible.",
+      "misconception": "Colonial troops are often imagined as minor auxiliary forces. In reality, they were important parts of French military capacity.",
+      "nextTopics": [
+        "Total War Economy",
+        "Gallipoli",
+        "Private Military Companies"
+      ],
+      "relatedCardIds": [
+        "tf26-223-hoi4-war-economy",
+        "tf26-240-bf1-gallipoli",
+        "tf26-231-mgs-private-military-companies"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "spoilerLevel": "none",
+      "mediaConnection": "Battlefield V's lesser-told war stories connect to the real service and postwar memory struggles of French colonial troops.",
+      "accuracyType": "partly-real",
+      "tags": [
+        "battlefield",
+        "second-world-war",
+        "colonial-troops",
+        "tirailleurs",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game makes colonial soldiers visible through dramatic combat. Historical sources place that experience within empire, unequal citizenship and delayed recognition.",
+      "whyItMatters": "War memory becomes more honest when it includes the colonial societies that carried part of the human cost of victory.",
+      "isFlagship": true,
+      "quickRealityCheck": "Did African soldiers who fought for France in World War II return to the same rights and memory as other French soldiers?",
+      "sources": [
+        {
+          "title": "Musée de l’Armée - Tirailleurs sénégalais: quelques objets du Musée",
+          "url": "https://www.musee-armee.fr/magazine/tirailleurs-senegalais-quelques-objets-du-musee.html",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Musée de l’Armée - La Seconde Guerre mondiale collections",
+          "url": "https://www.musee-armee.fr/collections/explorer-les-collections/portofolios/la-seconde-guerre-mondiale.html",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "AP News - Macron calls 1944 killings of West African troops a massacre",
+          "url": "https://apnews.com/article/39ee93386e45eb2de1c9695acc068c52",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-243-bfv-heavy-water-sabotage",
+      "title": "Heavy Water Sabotage",
+      "subtitle": "The quiet nuclear front in Norway",
+      "mediaType": "game",
+      "mediaTitle": "Battlefield V",
+      "era": "Modern History",
+      "region": "Norway",
+      "themes": [
+        "Second World War",
+        "Science",
+        "Espionage",
+        "Technology"
+      ],
+      "whatWeSee": "Battlefield V's Nordlys storyline evokes occupied Norway through skiers, secret facilities and sabotage against the German war machine. The game enlarges the event into personal courage and cinematic stealth. The real history centers on the Vemork heavy water plant, fear of nuclear research and the Norwegian resistance.",
+      "realHistory": "During the Second World War, the Vemork plant in Norway drew Allied attention because it produced heavy water. Heavy water could be used as a neutron moderator in nuclear reactor research, so production under German occupation was treated as a strategic risk. In 1943, Norwegian commandos carried out Operation Gunnerside against the heavy water cells at Vemork. The Norwegian Industrial Workers Museum identifies the Heavy Water Cellar as the site where that sabotage took place.\n\nThe game compresses the event into a personal mission. Historically, the operation required long preparation, severe weather, local knowledge, resistance networks, British SOE planning and a technical understanding of the plant. Atomic Heritage Foundation accounts place the raid within a broader Allied effort to disrupt German nuclear research.\n\nThe operation is sometimes exaggerated as the single act that stopped Hitler from building an atomic bomb. A more careful reading is that the German nuclear program already faced many technical, industrial and organizational problems, and Vemork made that path harder. Battlefield V's strength is that it brings the Norwegian front into popular memory. The real interest is that one dark facility connected science, occupation, resistance and strategic fear.",
+      "accuracyNote": "Nordlys is inspired by the heavy water sabotage, but its characters and plot are dramatized. Vemork and Operation Gunnerside are well documented, yet the operation should not be presented as the sole reason Germany failed to build a bomb.",
+      "whyInteresting": "A sabotage raid was not only a military strike; it was part of wartime fear over nuclear science.",
+      "misconception": "Vemork is often treated as the single event that stopped a Nazi atomic bomb. It was a critical blow inside a wider set of technical and industrial problems.",
+      "nextTopics": [
+        "Total War Economy",
+        "Nuclear Deterrence",
+        "Atomic Optimism"
+      ],
+      "relatedCardIds": [
+        "tf26-223-hoi4-war-economy",
+        "tf26-230-mgs-nuclear-deterrence",
+        "tf26-225-fallout-atomic-optimism"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "mediaConnection": "Battlefield V's Nordlys chapter is linked to the Vemork heavy water sabotage and wartime fears about nuclear research.",
+      "accuracyType": "partly-real",
+      "tags": [
+        "battlefield",
+        "heavy-water",
+        "norway",
+        "nuclear-history",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game turns sabotage into personal stealth drama. Historical sources show a broader system of resistance, science, occupation and Allied strategic planning.",
+      "whyItMatters": "The story shows how scientific materials can become military targets when research, industry and war overlap.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did the Vemork raid alone stop a German atomic bomb, or did it add a crucial obstacle to a program already under strain?",
+      "sources": [
+        {
+          "title": "Norwegian Industrial Workers Museum - The Heavy Water Cellar, Vemork",
+          "url": "https://www.nia.no/en/vemork/experiences/the-heavy-water-cellar/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Atomic Heritage Foundation - Operation Gunnerside",
+          "url": "https://ahf.nuclearmuseum.org/ahf/history/operation-gunnerside/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Hydro - 1943: The Heroes of Telemark",
+          "url": "https://www.hydro.com/us/global/about-hydro/company-history/1929---1945/1943-the-heroes-of-telemark/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-244-cod-stalingrad-sniper-myth",
+      "title": "Stalingrad and the Sniper Myth",
+      "subtitle": "Urban war was not one duel",
+      "mediaType": "game",
+      "mediaTitle": "Call of Duty",
+      "era": "Modern History",
+      "region": "Soviet Union",
+      "themes": [
+        "Second World War",
+        "War",
+        "Propaganda",
+        "Memory"
+      ],
+      "whatWeSee": "Call of Duty and other war games often present Stalingrad through ruined buildings, desperate Soviet defense and the tense fantasy of the sniper duel. This is gripping and legible for a player. But Stalingrad was not defined by one marksman story; it was an enormous urban, industrial and logistical battle.",
+      "realHistory": "Stalingrad became one of the defining battles of the Second World War because it combined urban combat, political symbolism, attrition and encirclement. German forces pushed into the city in 1942, while Soviet defenders turned factories, apartment blocks, sewers and river crossings into contested ground. The battle was not only about who shot better from a window. It was about supply across the Volga, artillery, weather, command decisions and the ability to absorb terrible losses.\n\nSnipers did matter. Soviet propaganda elevated figures such as Vasily Zaitsev because they gave a human face to resistance and made the ruins feel conquerable by individual skill. The famous sniper-duel framing is powerful, but historians treat many of its details cautiously. It works as memory and myth even where the documentation is uncertain.\n\nGames like Call of Duty use the sniper perspective because it gives the player focus inside chaos. True Frame adds the larger frame: Stalingrad was won through mass mobilization, industrial endurance, Soviet counteroffensives and the encirclement of the German Sixth Army. The sniper myth is one window into the battle, not the battle itself.",
+      "accuracyNote": "Snipers and propaganda were real parts of Stalingrad memory, but the battle cannot be reduced to a single duel. Encirclement, logistics and attrition were decisive.",
+      "whyInteresting": "A sniper story can make a vast battle emotionally readable while also hiding the scale of the system that decided it.",
+      "misconception": "Stalingrad is often remembered as a duel of heroic marksmen. It was a huge urban-industrial battle shaped by logistics and encirclement.",
+      "nextTopics": [
+        "Total War Economy",
+        "Moral Injury",
+        "Gallipoli"
+      ],
+      "relatedCardIds": [
+        "tf26-223-hoi4-war-economy",
+        "tf26-232-specops-moral-injury",
+        "tf26-240-bf1-gallipoli"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "mediaConnection": "Call of Duty's Stalingrad imagery can be read against the real battle's urban combat, propaganda and logistical scale.",
+      "accuracyType": "partly-real",
+      "tags": [
+        "call-of-duty",
+        "stalingrad",
+        "sniper-myth",
+        "second-world-war",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game gives the player a sharp individual viewpoint. History shows that Stalingrad was decided by mass warfare, supply, attrition and strategic encirclement.",
+      "whyItMatters": "War memory often needs individual heroes, but those heroes can make systemic violence harder to see.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was Stalingrad a legendary sniper duel, or a vast battle of logistics, factories and encirclement?",
+      "sources": [
+        {
+          "title": "Imperial War Museums - What You Need To Know About The Battle Of Stalingrad",
+          "url": "https://www.iwm.org.uk/history/second-world-war/eastern-front/what-you-need-to-know-about-the-battle-of-stalingrad",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "National WWII Museum - Unsung Witnesses of the Battle of Stalingrad",
+          "url": "https://www.nationalww2museum.org/war/articles/unsung-witnesses-battle-stalingrad",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Modern War Institute at West Point - Urban Warfare Project Case Study: Stalingrad",
+          "url": "https://mwi.westpoint.edu/urban-warfare-project-case-study-1-battle-of-stalingrad/",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-245-codbo-mkultra",
+      "title": "MKUltra and Mind Control",
+      "subtitle": "When a Black Ops conspiracy touches real ethics",
+      "mediaType": "game",
+      "mediaTitle": "Call of Duty: Black Ops",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Cold War",
+        "Intelligence",
+        "Ethics",
+        "Science"
+      ],
+      "whatWeSee": "Call of Duty: Black Ops uses brainwashing, hidden programs and unreliable memory to create a Cold War conspiracy thriller. It feels exaggerated, but it brushes against a real historical wound: states did fund unethical experiments in the name of national security.",
+      "realHistory": "MKUltra was a CIA program that explored interrogation, behavior control and drugs, especially LSD, during the Cold War. The Church Committee and later investigations showed that many activities lacked informed consent and crossed serious ethical lines. Some records were destroyed in 1973, so the full scope remains difficult to reconstruct.\n\nThis does not mean Black Ops is a documentary. The game's dramatic mind-control plot is fiction. But the historical background is real enough to make the fiction uncomfortable. During Cold War fear, intelligence agencies treated psychology, drugs and human vulnerability as potential weapons. Universities, hospitals, prisons and front organizations appeared in parts of the wider research network.\n\nThe most important True Frame point is not whether the game plot happened. It did not. The point is that official secrecy and security panic created conditions where human subjects could be used without meaningful consent. That is the real ethical crisis beneath the conspiracy style.",
+      "accuracyNote": "Black Ops fictionalizes mind control into thriller form. MKUltra was a real CIA program, but its details are partly incomplete because records were destroyed.",
+      "whyInteresting": "The fictional conspiracy feels wild, yet the documented ethical failure behind it is already disturbing.",
+      "misconception": "MKUltra is often treated as pure conspiracy folklore. It was a documented program, even if many popular claims go far beyond the evidence.",
+      "nextTopics": [
+        "Nuclear Deterrence",
+        "Vault Experiments",
+        "Surveillance State"
+      ],
+      "relatedCardIds": [
+        "tf26-230-mgs-nuclear-deterrence",
+        "tf26-226-fallout-vault-experiments",
+        "tf26-213-papersplease-surveillance"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "minor",
+      "mediaConnection": "Call of Duty: Black Ops uses Cold War brainwashing fiction against the real history of MKUltra and unethical human experimentation.",
+      "accuracyType": "partly-real",
+      "tags": [
+        "call-of-duty",
+        "black-ops",
+        "mkultra",
+        "cold-war",
+        "true-frame"
+      ],
+      "spoilerNote": "Contains minor hints about Call of Duty: Black Ops' conspiracy structure, but not the ending.",
+      "mediaChanged": "The game turns secret research into a cinematic mind-control plot. Historical records show a real but messier ethics scandal around consent, drugs and secrecy.",
+      "whyItMatters": "Security states can turn science into abuse when secrecy outruns consent and accountability.",
+      "isFlagship": false,
+      "quickRealityCheck": "Is MKUltra just conspiracy fiction, or a real program later surrounded by exaggerated myths?",
+      "sources": [
+        {
+          "title": "U.S. Senate Select Committee - Project MKULTRA, CIA program of research in behavioral modification",
+          "url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-95mkultra.pdf",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "CIA Reading Room - Project MKULTRA document",
+          "url": "https://www.cia.gov/readingroom/document/00163357",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "National Security Archive - The top secret testimony of CIA’s MKULTRA chief",
+          "url": "https://nsarchive.gwu.edu/briefing-book/dnsa-intelligence/2025-10-30/top-secret-testimony-cias-mkultra-chief-50-years-later",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-246-codbo-bay-of-pigs",
+      "title": "The Bay of Pigs Operation",
+      "subtitle": "A covert action on screen, a state crisis in history",
+      "mediaType": "game",
+      "mediaTitle": "Call of Duty: Black Ops",
+      "era": "Modern History",
+      "region": "Cuba",
+      "themes": [
+        "Cold War",
+        "Intelligence",
+        "Intervention",
+        "Politics"
+      ],
+      "whatWeSee": "Call of Duty: Black Ops turns covert Cold War operations into fast action and personal danger. The Bay of Pigs setting fits that style: secret plans, regime-change ambition and a failed landing that immediately feels like a thriller. The real event was also dramatic, but its importance lies in political miscalculation and diplomatic fallout.",
+      "realHistory": "In April 1961, Cuban exiles trained and supported by the United States landed at the Bay of Pigs in an attempt to overthrow Fidel Castro's government. The operation failed quickly. Air support, secrecy, assumptions about local uprising and the invasion plan all broke down. For the Kennedy administration, it became an early and public foreign-policy disaster.\n\nThe Bay of Pigs was not simply a failed commando mission. It hardened Cuba's alignment with the Soviet Union, damaged U.S. credibility and helped set the atmosphere that led toward the Cuban Missile Crisis. It also showed the risk of covert action: leaders can believe they are avoiding open war while still creating major international consequences.\n\nBlack Ops uses the mood of secret intervention. True Frame restores the political scale. The central issue is not whether the player completes a mission, but how a secret plan based on faulty assumptions can reshape diplomacy.",
+      "accuracyNote": "Black Ops dramatizes Cold War covert action. The Bay of Pigs invasion was real, but the game's action framing compresses a wider diplomatic failure.",
+      "whyInteresting": "A small landing operation became a major signal in Cold War politics because the world could read its failure.",
+      "misconception": "The Bay of Pigs is often imagined as a simple military failure. It was also a political intelligence failure with long diplomatic consequences.",
+      "nextTopics": [
+        "MKUltra and Mind Control",
+        "Nuclear Deterrence",
+        "Cu Chi Tunnels"
+      ],
+      "relatedCardIds": [
+        "tf26-245-codbo-mkultra",
+        "tf26-230-mgs-nuclear-deterrence",
+        "tf26-247-cod-vietnam-tunnels"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "minor",
+      "mediaConnection": "Call of Duty: Black Ops' covert-operation style connects to the Bay of Pigs invasion as a real Cold War intervention failure.",
+      "accuracyType": "partly-real",
+      "tags": [
+        "call-of-duty",
+        "black-ops",
+        "bay-of-pigs",
+        "cold-war",
+        "true-frame"
+      ],
+      "spoilerNote": "Contains minor hints about the Cold War operation framing in Call of Duty: Black Ops.",
+      "mediaChanged": "The game makes covert action personal and kinetic. History shows a state-level failure involving planning, diplomacy and unintended escalation.",
+      "whyItMatters": "Covert action can look contained on paper while producing very public geopolitical consequences.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was the Bay of Pigs just a failed landing, or a wider diplomatic crisis?",
+      "sources": [
+        {
+          "title": "John F. Kennedy Presidential Library - The Bay of Pigs",
+          "url": "https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/the-bay-of-pigs",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "U.S. Office of the Historian - The Bay of Pigs Invasion and its Aftermath",
+          "url": "https://history.state.gov/milestones/1961-1968/bay-of-pigs",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "CIA Reading Room - Bay of Pigs Release",
+          "url": "https://www.cia.gov/readingroom/collection/bay-pigs-release",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-247-cod-vietnam-tunnels",
+      "title": "Cu Chi Tunnels",
+      "subtitle": "Underground war and the hidden front",
+      "mediaType": "game",
+      "mediaTitle": "Call of Duty: Black Ops",
+      "era": "Modern History",
+      "region": "Vietnam",
+      "themes": [
+        "War",
+        "Guerrilla Warfare",
+        "Engineering",
+        "Memory"
+      ],
+      "whatWeSee": "Call of Duty: Black Ops uses Vietnam tunnel spaces as tight, frightening combat environments. The player experiences darkness, ambush, traps and uncertainty. That fear has a real basis, but the tunnels were not just horror corridors.",
+      "realHistory": "The Cu Chi tunnel network grew over years of war and became a complex underground infrastructure. It helped Viet Cong forces move, hide, store supplies, shelter from bombardment, treat the wounded, cook, plan ambushes and maintain local command links. The tunnels were not simply holes for hiding. They were a survival system under conditions of overwhelming firepower.\n\nFor U.S. and allied forces, these tunnels created a major tactical problem. During operations such as Operation Crimp, American and Australian units encountered hidden defenses in the Cu Chi area. Soldiers later known as 'tunnel rats' entered narrow passages searching for traps, weapons, documents and fighters. These missions were physically dangerous and psychologically intense.\n\nGames often turn the tunnel into a fear set piece. Historically, the more important point is that underground architecture gave a weaker force time, protection and movement. Cu Chi shows that war is fought not only across open ground, but also through engineering, patience and local knowledge beneath it.",
+      "accuracyNote": "The ambush and trap dimension is real, but the tunnels were more than fear spaces. Cu Chi also functioned as shelter, logistics, medical support and command infrastructure.",
+      "whyInteresting": "Underground architecture could unexpectedly counter superior firepower.",
+      "misconception": "Cu Chi tunnels are often imagined as only hiding places. They were multi-purpose war infrastructure.",
+      "nextTopics": [
+        "Bay of Pigs",
+        "Arab Revolt",
+        "Sarajevo Siege"
+      ],
+      "relatedCardIds": [
+        "tf26-246-codbo-bay-of-pigs",
+        "tf26-241-bf1-arab-revolt-lawrence",
+        "tf26-210-twom-sarajevo-siege"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "minor",
+      "mediaConnection": "Call of Duty: Black Ops' Vietnam tunnel atmosphere can be compared with the real underground defense and supply network at Cu Chi.",
+      "accuracyType": "partly-real",
+      "tags": [
+        "call-of-duty",
+        "vietnam",
+        "cu-chi",
+        "tunnels",
+        "true-frame"
+      ],
+      "spoilerNote": "Contains minor hints about Call of Duty: Black Ops' Vietnam atmosphere.",
+      "mediaChanged": "The game presents tunnels as fast, frightening combat spaces. Historical sources show logistics, medical care, concealment and endurance infrastructure.",
+      "whyItMatters": "Cu Chi reminds us that technological superiority is not always decisive against geography, local engineering and endurance.",
+      "isFlagship": false,
+      "quickRealityCheck": "Were the Cu Chi tunnels only hiding places, or a full underground war system?",
+      "sources": [
+        {
+          "title": "Australian Department of Veterans’ Affairs - Clearing Vietcong tunnels during the Vietnam War",
+          "url": "https://anzacportal.dva.gov.au/wars-and-missions/vietnam-war/experiences/vietcong-tunnels",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Vietnam National Authority of Tourism - Cu Chi Tunnels seek world heritage recognition",
+          "url": "https://vietnamtourism.gov.vn/en/post/15881",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "History.com - Cu Chi Tunnels",
+          "url": "https://www.history.com/articles/cu-chi-tunnels",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-248-mafia2-postwar-gi-bill",
+      "title": "Postwar America and the GI Bill",
+      "subtitle": "The policy behind Mafia II's prosperity window",
+      "mediaType": "game",
+      "mediaTitle": "Mafia II",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Postwar",
+        "Class",
+        "Crime",
+        "Housing"
+      ],
+      "whatWeSee": "Mafia II shows post-World War II America through cars, apartments, suits, small jobs and the promise of prosperity mixed with crime. Characters like Vito return from war, but civilian life does not open the same doors for everyone. The gangster path invites a historical question about who could access the postwar middle-class dream and who could not.",
+      "realHistory": "The 1944 Servicemen's Readjustment Act, better known as the GI Bill, offered veterans major support for education, unemployment aid and home loans. The National Archives describes how it helped millions of veterans attend college and buy homes. Much of the postwar prosperity story rested on this state support: universities expanded, mortgage access widened, suburbs grew and consumer culture accelerated.\n\nBut the benefits were not automatic or equal. Local banks, colleges, real estate markets and segregated housing practices shaped access. Black veterans and many minorities often faced barriers that white veterans did not. The National WWII Museum also emphasizes both the scale of the program and the inequalities in how it was administered.\n\nMafia II does not tell a GI Bill story directly. It captures the atmosphere of men returning from war into debt, ethnic neighborhoods, masculinity, work and criminal opportunity. The real lesson is that prosperity was built not only by individual effort, but by access to credit, education and safe housing.",
+      "accuracyNote": "Mafia II's city and crime story are fictional. The GI Bill, postwar housing credit, education expansion and unequal access are real foundations of the era.",
+      "whyInteresting": "The American dream is often told as individual success, but the postwar boom depended heavily on public policy.",
+      "misconception": "Postwar prosperity is often imagined as equally available to all veterans. In practice, race, class, housing markets and local administration shaped access.",
+      "nextTopics": [
+        "Black Dahlia and Tabloid Myths",
+        "Moral Panic and Violent Games",
+        "Industrialization and Labor"
+      ],
+      "relatedCardIds": [
+        "tf26-249-lanoire-black-dahlia",
+        "tf26-250-gta-moral-panic",
+        "tf26-222-victoria3-industrial-labor"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "minor",
+      "mediaConnection": "Mafia II's postwar crime and prosperity atmosphere can be read beside the GI Bill and the uneven rise of the American middle class.",
+      "accuracyType": "inspired-by-reality",
+      "tags": [
+        "mafia-2",
+        "gi-bill",
+        "postwar-america",
+        "housing",
+        "true-frame"
+      ],
+      "spoilerNote": "Contains minor hints about Mafia II's postwar atmosphere.",
+      "mediaChanged": "The game foregrounds personal criminal ascent. The historical frame shows how postwar prosperity was built through credit, education, housing and discriminatory practice.",
+      "whyItMatters": "To understand prosperity narratives, we need to look at the public policies that made them possible.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was the postwar American dream only hard work, or also access to state-backed education and housing?",
+      "sources": [
+        {
+          "title": "National Archives - Servicemen’s Readjustment Act (1944)",
+          "url": "https://www.archives.gov/milestone-documents/servicemens-readjustment-act",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "The National WWII Museum - The GI Bill and Planning for the Postwar",
+          "url": "https://www.nationalww2museum.org/war/articles/gi-bill-and-planning-postwar",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "National Park Service - The American Home Front After World War II",
+          "url": "https://www.nps.gov/articles/000/american-home-front-after-world-war-ii.htm",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-249-lanoire-black-dahlia",
+      "title": "Black Dahlia and Tabloid Myths",
+      "subtitle": "Crime, press and victim image in L.A. Noire",
+      "mediaType": "game",
+      "mediaTitle": "L.A. Noire",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Crime",
+        "Media",
+        "Memory",
+        "Policing"
+      ],
+      "whatWeSee": "L.A. Noire builds 1940s Los Angeles through dark streets, detective rooms, movie-star dreams and dirty headlines. Its murder cases clearly approach the cultural memory around the Black Dahlia: unsolved crime, media obsession and Hollywood darkness. The real Elizabeth Short case was not just noir atmosphere; it was a person's life turned into a press myth.",
+      "realHistory": "Elizabeth Short's body was found in Los Angeles on 15 January 1947. The FBI states that the murder of the 22-year-old was never solved and that the press gave her the name 'Black Dahlia.' FBI files show that her identity was confirmed through fingerprints and that the investigation drew many tips, false confessions and misleading claims.\n\nThe case endured not only because of its brutality. Postwar Los Angeles newspapers, Hollywood dreams, the image of the young female victim and noir style fused into a myth. The name 'Black Dahlia' overtook Elizabeth Short's own name. Later novels, films and theories kept reproducing that image.\n\nL.A. Noire captures the atmosphere well: homicide rooms, corruption, police pressure and sensational crime coverage. True Frame's caution is that the real victim should not be reduced to a mysterious noir symbol. The case may remain unsolved, but the media myth surrounding it is itself a historical fact.",
+      "accuracyNote": "L.A. Noire does not directly retell the Black Dahlia case, but it draws strongly on 1940s Los Angeles crime press and unsolved-murder memory.",
+      "whyInteresting": "A murder remembered by a media nickname rather than the victim's name shows how crime history becomes myth.",
+      "misconception": "The Black Dahlia is often treated only as a noir legend. Behind that legend was Elizabeth Short, whose life was overshadowed by tabloid naming.",
+      "nextTopics": [
+        "Postwar America and the GI Bill",
+        "Moral Panic and Violent Games",
+        "Corruption"
+      ],
+      "relatedCardIds": [
+        "tf26-248-mafia2-postwar-gi-bill",
+        "tf26-250-gta-moral-panic",
+        "tf26-179-corruption"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "minor",
+      "mediaConnection": "L.A. Noire's 1940s Los Angeles crime atmosphere can be read beside the Elizabeth Short / Black Dahlia case and its press afterlife.",
+      "accuracyType": "inspired-by-reality",
+      "tags": [
+        "la-noire",
+        "black-dahlia",
+        "true-crime",
+        "media",
+        "true-frame"
+      ],
+      "spoilerNote": "Contains minor hints about L.A. Noire's crime atmosphere.",
+      "mediaChanged": "The game foregrounds noir mood and detective tension. History asks how a real victim was partly erased beneath a media nickname.",
+      "whyItMatters": "In true-crime stories, 'who did it?' is not the only question. We also need to ask how the victim was remembered, and by whom.",
+      "isFlagship": false,
+      "quickRealityCheck": "When we say Black Dahlia, are we remembering a person or a media-made symbol?",
+      "sources": [
+        {
+          "title": "FBI - Black Dahlia",
+          "url": "https://www.fbi.gov/history/cases-and-criminals/black-dahlia",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "FBI Vault - Black Dahlia (Elizabeth Short)",
+          "url": "https://vault.fbi.gov/Black%20Dahlia%20%28E%20Short%29%20",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Los Angeles Times - The Black Dahlia mystery: myth and reality",
+          "url": "https://www.latimes.com/california/story/2024-10-23/black-dahlia-myth-reality-larry-harnisch",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-250-gta-moral-panic",
+      "title": "Moral Panic and Violent Games",
+      "subtitle": "GTA: game, satire or scapegoat?",
+      "mediaType": "game",
+      "mediaTitle": "Grand Theft Auto",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Media",
+        "Law",
+        "Violence",
+        "Society"
+      ],
+      "whatWeSee": "Grand Theft Auto turns urban crime, satire, chaos and player freedom into an exaggerated media mirror. On screen there are car thefts, police chases and violent missions. Off screen, GTA often becomes a symbol in the question: do games corrupt young people? The interesting True Frame topic is not only the game, but the repeating moral panic around it.",
+      "realHistory": "Debates about violent video games have been part of media and politics since the 1990s. Panic around Mortal Kombat and Doom helped create a public vocabulary later attached to GTA: criminal freedom, adult humor and open-world violence made it an easy target.\n\nResearch and law are more complex. In 2020, the American Psychological Association stated that there was insufficient scientific evidence to support a causal link between violent video games and violent behavior. That does not mean games have no effects at all; it means the simple line from 'played game' to 'committed real violence' is not proven. The U.S. Supreme Court's Brown v. Entertainment Merchants Association decision also recognized video games as protected expression.\n\nGTA remains central because it intentionally provokes moral boundaries. Moral panic, however, often looks for one cultural culprit to explain complex problems. Violence, media, family, education, gun access, poverty and mental health are harder to discuss than one famous game.",
+      "accuracyNote": "GTA contains violent and provocative material, but the claim that violent games directly cause real-world crime is scientifically and legally contested.",
+      "whyInteresting": "Video games became the digital-age successor to older panics about comics, rock music and film.",
+      "misconception": "Games like GTA are often treated as direct causes of real violence. Current official assessments do not support that simple causality.",
+      "nextTopics": [
+        "Black Dahlia and Tabloid Myths",
+        "Surveillance Capitalism",
+        "Postwar America and the GI Bill"
+      ],
+      "relatedCardIds": [
+        "tf26-249-lanoire-black-dahlia",
+        "tf26-227-cyberpunk-surveillance-capitalism",
+        "tf26-248-mafia2-postwar-gi-bill"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "mediaConnection": "Grand Theft Auto's violent crime satire can be read beside debates over moral panic, law and media effects.",
+      "accuracyType": "inspired-by-reality",
+      "tags": [
+        "grand-theft-auto",
+        "moral-panic",
+        "violent-games",
+        "media-effects",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game uses urban crime in satirical and exaggerated form. The real debate concerns whether that representation can fairly be blamed for social violence.",
+      "whyItMatters": "During moral panics, societies often load complex problems onto one media product. GTA is the modern game-culture version of that reflex.",
+      "isFlagship": false,
+      "quickRealityCheck": "Are violent games a proven cause of real violence, or a convenient target for broader fears?",
+      "sources": [
+        {
+          "title": "American Psychological Association - APA reaffirms position on violent video games and violent behavior",
+          "url": "https://www.apa.org/news/press/releases/2020/03/violent-video-games-behavior",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Cornell Law - Brown v. Entertainment Merchants Association",
+          "url": "https://www.law.cornell.edu/supct/html/08-1448.ZS.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Federal Trade Commission - Marketing Violent Entertainment to Children report release",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2000/09/ftc-releases-report-marketing-violent-entertainment-children",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-251-obradinn-east-india-company",
+      "title": "East India Ships",
+      "subtitle": "A ship was not scenery; it was an imperial balance sheet",
+      "mediaType": "game",
+      "mediaTitle": "Return of the Obra Dinn",
+      "era": "Early Modern",
+      "region": "Global",
+      "themes": [
+        "Trade",
+        "Empire",
+        "Law",
+        "Labor"
+      ],
+      "whatWeSee": "Return of the Obra Dinn turns a lost merchant ship into a murder-mystery puzzle. The player reads bodies, jobs, accents, uniforms and cargo traces to understand what happened aboard. The supernatural plot is fiction, but the strongest realism lies in the ship itself: multinational labor, hierarchy, insurance, company property and the cold accounting of long-distance trade.",
+      "realHistory": "### The ship as a company extension\n\nThe fictional ship in Return of the Obra Dinn first appears as a crime scene. In the real maritime world of the eighteenth and early nineteenth centuries, such ships were also commercial investments, legal responsibilities and imperial infrastructure. Companies such as the East India Company were not ordinary merchants carrying exotic goods. Royal Museums Greenwich research guides show how company archives can be read through ships, captains, voyages and commercial records. This was a world where tea, cotton, silk, spices and porcelain connected Asian production and European consumption through long sea routes.\n\nAt the center of that network was shipboard labor. Captains, officers, gunners, carpenters, cooks, stewards and sailors were not background figures; they were the survival mechanism of the voyage. Storms, disease, mutiny, piracy, war and poor supply turned every journey into financial risk. Obra Dinn's insistence that the player identify each person is historically meaningful for that reason. A ship was a small society carrying the larger machinery of empire.\n\n### Insurance and risk\n\nThe game's investigator works almost like an insurance agent: who died, what happened to the cargo, and where should responsibility fall? Lloyd's history traces the institution back to a coffee-house world of shipping and trade news, where maritime risk became something that could be priced and shared. Marine insurance turned the uncertainty of distant trade into records, policies and claims. A missing ship was tragedy, but also paperwork.\n\nThat perspective strengthens Obra Dinn's cold ledger aesthetic. The player solves deaths, but the wider commercial question is: whose risk is this? Lloyd's own historical reflections on marine insurance and slavery show that financial tools did not stand outside empire. They helped support overseas trade systems, including violent and exploitative ones.\n\n### The cargo was not neutral\n\nEast India ships carried goods, but also legal power, monopoly privilege and political consequence. The East India Company could trade, govern, make agreements and help shape territories far beyond Britain. A ship might look like a self-contained voyage, but it connected shareholders, ports, customs rules, labor systems and colonial coercion.\n\n### Why Obra Dinn feels real\n\nReturn of the Obra Dinn does not teach East India Company history directly. Its mystery is invented. Yet the game understands that a ship is a hierarchy and a record system. Every body has a name, job and place in the chain. True Frame adds the larger background: maritime mystery sits on top of insurance, empire, labor and corporate trade. The sea adventure is also a balance sheet.",
+      "accuracyNote": "The game builds a supernatural ship mystery. The historical counterpart is the world of East India Company shipping, multinational labor, marine insurance and imperial commerce.",
+      "whyInteresting": "When a ship disappeared, the crisis touched not only the crew but also investors, cargo, insurance, company reputation and imperial trade.",
+      "misconception": "East India Company ships are often romanticized as exotic trade vessels. They were also moving nodes of finance, law, labor and colonial power.",
+      "nextTopics": [
+        "Mercantilism and Colonial Trade",
+        "Corporate Sovereignty",
+        "Republic of Pirates"
+      ],
+      "relatedCardIds": [
+        "tf26-221-eu4-mercantilism-colonialism",
+        "tf26-228-cyberpunk-corporate-sovereignty",
+        "tf26-201-ac4-republic-of-pirates"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "spoilerLevel": "minor",
+      "mediaConnection": "Return of the Obra Dinn's insurance investigation and shipboard society can be read alongside East India Company trade and Lloyd's marine insurance culture.",
+      "accuracyType": "inspired-by-reality",
+      "tags": [
+        "obra-dinn",
+        "east-india-company",
+        "marine-insurance",
+        "empire",
+        "true-frame"
+      ],
+      "spoilerNote": "Contains minor hints about Return of the Obra Dinn's investigation structure.",
+      "mediaChanged": "The game lets players solve a fictional ship disaster through individual fates. The historical frame expands that ship world into trade companies, insurance and imperial economy.",
+      "whyItMatters": "Maritime trade should be seen not only as adventure, but as the technical infrastructure of modern capitalism and empire.",
+      "isFlagship": true,
+      "quickRealityCheck": "Was an East India ship just a merchant vessel, or a moving knot of labor, law, insurance and empire?",
+      "sources": [
+        {
+          "title": "Royal Museums Greenwich - Research guide F5: The East India Company",
+          "url": "https://www.rmg.co.uk/collections/research-guides/research-guide-f5-east-india-company",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Lloyd's - History",
+          "url": "https://www.lloyds.com/about-lloyds/history",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Lloyd's - Marine insurance and slavery",
+          "url": "https://www.lloyds.com/about-lloyds/history/the-trans-atlantic-slave-trade/lloyds-marine-insurance-and-slavery",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "National Army Museum - Armies of the East India Company",
+          "url": "https://www.nam.ac.uk/explore/armies-east-india-company",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-252-1979revolution-iran",
+      "title": "The Iranian Revolution",
+      "subtitle": "From Black Friday to the Islamic Republic",
+      "mediaType": "game",
+      "mediaTitle": "1979 Revolution: Black Friday",
+      "era": "Modern History",
+      "region": "Iran",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Media",
+        "Memory"
+      ],
+      "whatWeSee": "1979 Revolution: Black Friday places the player amid street protests, security forces, family pressure and political uncertainty. The camera often focuses on what one person sees, who they help and what testimony they record. That is the right doorway: the Iranian Revolution was not only the fall of a monarch, but a multi-layered rupture in which many groups opposed the Shah with different hopes and later lost control over the revolution's direction.",
+      "realHistory": "### A regime in crisis\n\nThe 1979 Iranian Revolution did not explode in a single day. Mohammad Reza Shah Pahlavi's regime rested on rapid modernization, pro-Western foreign policy, oil revenue, a strong security apparatus and political repression. For some Iranians, the period brought education, urbanization and consumption. For others, it meant inequality, cultural alienation, authoritarian rule and lack of representation. The opposition was not one color. Islamists, leftists, liberals, students, bazaar merchants, religious networks and nationalist groups opposed the Shah for different reasons.\n\nProtests grew through 1978. On 8 September 1978, security forces opened fire on demonstrators in Tehran's Jaleh Square, an event remembered as Black Friday. The game's choice of that title is historically meaningful: street violence made the crisis of legitimacy more visible. But one event alone did not make the revolution. Strikes, mourning ceremonies, mosque networks, cassette tapes, posters, messages from Ayatollah Khomeini in exile and the weakening morale of the security forces all worked together.\n\n### Images, testimony and propaganda\n\nIn the game, photography and witnessing matter. In the real revolution, visual culture mattered too. Posters, wall images, newspapers, photographs and recordings helped create revolutionary memory and political legitimacy. Khomeini's return from exile on 1 February 1979 became a vast media and mass-politics moment.\n\nThe revolution was also watched through Cold War and oil politics. U.S. diplomatic and intelligence records show uncertainty and misreading around the speed and direction of the crisis. The Shah left Iran on 16 January 1979; by 11 February, the monarchy had effectively collapsed. Yet the end of the monarchy was not the end of the revolution's struggle.\n\n### The coalition narrows\n\nMany groups helped bring down the Shah, but they did not share one future. After 1979, power was consolidated by revolutionary institutions and by the Islamic Republic. Leftist, liberal, nationalist and other currents that had been part of the anti-Shah movement were marginalized, repressed or pushed out. The referendum, new constitution, revolutionary courts and the broader restructuring of state power turned a mass uprising into a new regime.\n\n### Why the game matters\n\n1979 Revolution: Black Friday does not explain the whole revolution. It makes the player feel the pressure of uncertainty: every street event is partial, every witness sees only a piece, and every political slogan can later be claimed by someone else. That is historically valuable. Revolutions can unite people around what they reject, while leaving the future unresolved.\n\n### True Frame angle\n\nThe Iranian Revolution is often simplified into one of two stories: a tyrant overthrown by the people, or an Islamist takeover directed from the start. Both are incomplete. The real event involved broad dissatisfaction, state violence, religious and secular opposition, media culture, foreign attention and a post-revolutionary struggle over authority. The game's street-level view helps recover that uncertainty, but history reminds us that what happens after a regime falls may be just as important as the fall itself.",
+      "accuracyNote": "The game follows personal testimony and street pressure. The historical revolution must also include the Shah's regime crisis, multi-actor protest coalition, visual propaganda, Khomeini's return and post-revolutionary consolidation.",
+      "whyInteresting": "A revolution can create a shared street slogan, but the decisive question becomes who turns that slogan into institutions.",
+      "misconception": "The 1979 Iranian Revolution is often imagined as a single-line Islamist movement led only by Khomeini. Many groups opposed the Shah, but they did not all shape the final order.",
+      "nextTopics": [
+        "Bay of Pigs",
+        "MKUltra and Mind Control",
+        "Surveillance State"
+      ],
+      "relatedCardIds": [
+        "tf26-246-codbo-bay-of-pigs",
+        "tf26-245-codbo-mkultra",
+        "tf26-213-papersplease-surveillance"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "spoilerLevel": "minor",
+      "mediaConnection": "1979 Revolution: Black Friday's street witnessing and photography mechanics connect directly to the revolution's protest, visual propaganda and power-vacuum history.",
+      "accuracyType": "partly-real",
+      "tags": [
+        "iranian-revolution",
+        "1979-revolution",
+        "black-friday",
+        "iran",
+        "true-frame"
+      ],
+      "spoilerNote": "Contains minor hints about 1979 Revolution: Black Friday's atmosphere and protest framing.",
+      "mediaChanged": "The game makes revolution personal through street scenes and choices. The historical frame adds coalition politics, foreign policy, propaganda and post-revolutionary consolidation.",
+      "whyItMatters": "The Iranian Revolution shows both the power of popular movements and the weight of the question: who shapes the new order after the old one falls?",
+      "isFlagship": true,
+      "quickRealityCheck": "Was the Iranian Revolution one unified movement, or a broad anti-Shah coalition whose future was later contested?",
+      "sources": [
+        {
+          "title": "University of Chicago Library - Visualizing a Revolution",
+          "url": "https://www.lib.uchicago.edu/collex/exhibits/graphics-revolution-and-war-iranian-poster-arts/visualizing-revolution/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "National Security Archive - Iran's 1979 Revolution Revisited",
+          "url": "https://nsarchive.gwu.edu/briefing-book/iran/2019-02-11/irans-1979-revolution-revisited-failures-few-successes-us-intelligence-diplomatic-reporting",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "History Today - Return of the Ayatollah: Iran's Islamic Revolution",
+          "url": "https://www.historytoday.com/archive/feature/return-ayatollah-irans-islamic-revolution",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "U.S. Office of the Historian - The Iranian Hostage Crisis",
+          "url": "https://history.state.gov/milestones/1977-1980/iranian-hostage-crisis",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-253-civ-tech-tree-myth",
+      "title": "The Tech Tree Myth",
+      "subtitle": "Is history really a straight ladder of progress?",
+      "mediaType": "game",
+      "mediaTitle": "Civilization",
+      "era": "Global History",
+      "region": "Global",
+      "themes": [
+        "Technology",
+        "History",
+        "Progress",
+        "Strategy"
+      ],
+      "whatWeSee": "Civilization gives players a clean and satisfying technology tree: pottery leads to writing, metalworking to industry, flight to space. As a strategy mechanic it works beautifully, because it gives planning, choice and reward. But real history is not a universal staircase that every society climbs in the same order.",
+      "realHistory": "The technology tree makes complex history playable. The problem is not the mechanic itself, but treating that diagram as the natural shape of history. The idea of inevitable, global and linear progress belongs to a teleological way of thinking: history appears to move toward one final destination.\n\nReal technologies develop through need, environment, trade, war, institutions, labor and accident. Some inventions appear early in one place and do not spread. Some societies know a technology but choose not to use it in the same way. Printing, gunpowder, the compass, irrigation systems and railways did not have identical effects everywhere. Technology is not a motor that simply pulls society forward; it is negotiated by society.\n\nCivilization turns this mess into branches: research this, unlock that. For a game, that is fair and readable design. For history, it is incomplete. Even scientific revolutions do not move in straight lines. Paradigms, institutions, techniques and funding shape what counts as knowledge. The technology tree is therefore not history itself. It is a language for making history playable. True Frame asks the question behind it: progress according to whose measure?",
+      "accuracyNote": "Civilization simplifies technological change for playability. Real history does not follow one linear, inevitable or universal sequence of technologies.",
+      "whyInteresting": "The progress line that feels natural to the player is one of modern history's strongest assumptions.",
+      "misconception": "It is often assumed that all societies pass through the same technological stages in the same order. Technology histories vary with local needs, institutions and power.",
+      "nextTopics": [
+        "Industrialization and Labor",
+        "Mercantilism and Colonial Trade",
+        "Total War Economy"
+      ],
+      "relatedCardIds": [
+        "tf26-222-victoria3-industrial-labor",
+        "tf26-221-eu4-mercantilism-colonialism",
+        "tf26-223-hoi4-war-economy"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "mediaConnection": "Civilization's technology tree turns historical development into a playable map of progress; the real debate is whether technology advances independently and linearly.",
+      "accuracyType": "partly-real",
+      "tags": [
+        "civilization",
+        "tech-tree",
+        "progress",
+        "history",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game presents technology as clear branches and rewards. Historical reading shows a much more uneven, regional and political process.",
+      "whyItMatters": "Seeing technology history as a straight success ladder can hide colonialism, labor, environment and institutions.",
+      "isFlagship": false,
+      "quickRealityCheck": "Does every society climb the same technology ladder, or is the ladder itself a game design myth?",
+      "sources": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy - Progress",
+          "url": "https://plato.stanford.edu/entries/progress/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Stanford Encyclopedia of Philosophy - Philosophy of Technology",
+          "url": "https://plato.stanford.edu/entries/technology/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Stanford Encyclopedia of Philosophy - Scientific Revolutions",
+          "url": "https://plato.stanford.edu/entries/scientific-revolutions/",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    }
+  ]
+}

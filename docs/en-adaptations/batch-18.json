@@ -1,0 +1,1517 @@
+{
+  "meta": {
+    "purpose": "English-native adaptation batch",
+    "sourceChunk": "source-chunk-018.json",
+    "batchNumber": 18,
+    "cardCount": 20,
+    "sourceCardRange": "TR order cards 341-360",
+    "alreadyAuthoredCountBeforeBatch": 340,
+    "authoredCountAfterBatch": 360,
+    "remainingCountAfterBatch": 91,
+    "ids": [
+      "tf26-172-bootlegging",
+      "tf26-173-temperance",
+      "tf26-174-federal-enforcement",
+      "tf26-175-organized-crime",
+      "tf26-176-women-reformers",
+      "tf26-177-repeal",
+      "tf26-178-jazz-age",
+      "tf26-179-corruption",
+      "tf26-180-public-health",
+      "tf26-181-constitutional-role",
+      "tf26-183-commonwealth",
+      "tf26-184-royal-media",
+      "tf26-186-prime-ministers",
+      "tf26-187-public-grief",
+      "tf26-188-royal-finance",
+      "tf26-189-empire-memory",
+      "tf26-190-privacy",
+      "tf26-191-plague-spread",
+      "tf26-192-quarantine",
+      "tf26-193-flagellants"
+    ],
+    "notes": "Adapted from Turkish canonical cards. Source URLs, IDs, relatedCardIds, enums, flags and metadata preserved from TR unless localized text adaptation was required. readingTimeMinutes recomputed from English realHistory."
+  },
+  "cards": [
+    {
+      "id": "tf26-172-bootlegging",
+      "title": "Bootlegging",
+      "subtitle": "Prohibition changed the routes, not the demand",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Crime",
+        "Economy",
+        "Politics"
+      ],
+      "whatWeSee": "Boardwalk Empire presents bootlegging through dock warehouses, back-room deals, party money and armed competition. In Atlantic City, a case of liquor is not just something to drink; it becomes political leverage and a tool of city management. The series foregrounds personal power games, while the real history shows a much wider crisis of economics, logistics and law enforcement.",
+      "realHistory": "### The market created by the ban\n\nWhen national Prohibition took effect in 1920, it did not make alcohol demand disappear. It moved that demand out of the legal economy and into illegal supply chains. The Eighteenth Amendment and the Volstead Act prohibited manufacture, sale and transport, but big-city bar culture, immigrant drinking customs and middle-class leisure habits did not vanish overnight. That continuing demand became the starting capital of bootlegging networks. Prohibition began with a public-order and moral reform promise, yet the gap between law and behavior quickly made illegal production and distribution more profitable.\n\n### Logistics and money\n\nBootlegging was not simply a few men with guns. Liquor crossed from Canada, moved through Caribbean rum routes, waited on ships offshore, travelled by truck and rail, passed through warehouses, false documents, accountants and bribery channels, and finally reached speakeasies and private parties. Organized crime groups fought to control parts of that chain, but the system could not function without local politicians, police, dockworkers, club owners and ordinary customers. Boardwalk Empire is historically useful here because Atlantic City makes the overlap visible: illegal alcohol blurred the boundary between street crime and municipal politics.\n\nViolence mattered, but profit was the stronger engine. Once the legal market was shut, risk premiums made liquor expensive and lucrative. That income gave criminal groups the ability to buy weapons, lawyers, accountants, protection and political access. The product itself became a kind of portable cash flow, moving faster than the official agencies trying to contain it.\n\n### The limits of enforcement\n\nThe federal government tried to enforce Prohibition, but its capacity was limited from the start. The Treasury Department and the Bureau of Internal Revenue carried much of the early burden, while the Bureau of Investigation played a more selective supporting role. Raids could disrupt stills, warehouses and smuggling routes, yet new suppliers appeared as long as consumers kept buying and local officials could be bribed or pressured.\n\n### The reverse result\n\nRepeal in 1933 cannot be explained only by the fact that people still wanted to drink. Court congestion, corruption, the growth of organized crime, the Great Depression's need for tax revenue and weakening respect for the law all mattered. Bootlegging is therefore still a useful policy lesson: when the state ignores persistent demand and relies mainly on prohibition, the market does not disappear. It changes routes, actors and violence costs. Boardwalk Empire turns this into a stylish crime world; the deeper history shows an economy-politics laboratory.",
+      "accuracyNote": "The show’s Atlantic City power networks rest on real historical ground, but the bootlegging economy was a national system of ports, road transport, bribery, federal enforcement and consumer demand.",
+      "whyInteresting": "Prohibition shows how a law can fail to end a behavior and instead make it more profitable, more organized and more corrosive.",
+      "misconception": "Bootlegging is often imagined as pure gangster violence. In reality, finance, logistics, local protection and public demand kept it alive.",
+      "nextTopics": [
+        "Speakeasies",
+        "Temperance Movement",
+        "Federal Enforcement"
+      ],
+      "sources": [
+        {
+          "title": "National Archives - The Volstead Act",
+          "url": "https://www.archives.gov/education/lessons/volstead-act",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Smithsonian National Museum of American History - Bootlegging",
+          "url": "https://americanhistory.si.edu/explore/exhibitions/american-enterprise/online/corporate-era/bootlegging",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "FBI - The Bureau and the Great Experiment",
+          "url": "https://www.fbi.gov/news/stories/the-bureau-and-the-great-experiment-012420",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Federal Judicial Center - Prohibition in the Federal Courts: A Timeline",
+          "url": "https://www.fjc.gov/history/exhibits/prohibition-in-federal-courts-timeline",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-171-speakeasies",
+        "tf26-174-federal-enforcement",
+        "tf26-177-repeal"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Boardwalk Empire's docks, speakeasies and back rooms connect directly to Prohibition's multi-actor illegal supply chain.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organized-crime",
+        "united-states",
+        "bootlegging",
+        "true-frame"
+      ],
+      "spoilerNote": "May include minor hints about Boardwalk Empire, but does not reveal the ending.",
+      "mediaChanged": "The series magnifies personal power struggles; historically, bootlegging was a systemic economy operating in the gap between federal capacity and social demand.",
+      "whyItMatters": "Prohibition policy has to be judged not only by intent, but by where demand moves, who gains power and what enforcement costs appear.",
+      "isFlagship": true,
+      "quickRealityCheck": "During Prohibition, did the state organize faster, or did the bootlegging networks serving demand adapt faster?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-173-temperance",
+      "title": "Temperance Movement",
+      "subtitle": "Moral reform, lobbying power and unintended results",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Crime",
+        "Economy",
+        "Politics"
+      ],
+      "whatWeSee": "Boardwalk Empire shows the moral language behind Prohibition through pulpits, charity events and political bargaining. Reformers talk about protecting family and society while bootlegging, bribery and vote trading grow in the same city. The show is strong at exposing hypocrisy, but the historical picture also reminds us that temperance was not only repression; it grew from real fears about social harm.",
+      "realHistory": "The temperance movement grew through nineteenth-century church networks, women’s organizations, workplace discipline debates and anxieties about domestic violence and poverty. Groups such as the Women’s Christian Temperance Union treated alcohol not merely as a private habit, but as a threat to home safety and social order. The Anti-Saloon League then joined that moral language to modern pressure politics and lobbying, making the cause powerful at state and federal level.\n\nThe attempt to solve a social problem through national prohibition produced results very different from its promise. In immigrant neighborhoods, working-class leisure culture and big-city nightlife, the ban did not command broad consent. As enforcement capacity remained weak, the law often changed the boundary between legitimate and illegitimate behavior rather than transforming behavior itself. Speakeasies, bootlegging networks and bribery grew in that space.\n\nThe temperance legacy therefore needs a two-sided reading. The concerns about family security, health and social damage were real; the constitutional ban chosen as the remedy underestimated local culture, demand and enforcement limits. Boardwalk Empire dramatizes this through character conflict. The broader lesson is that public morality campaigns need social consent and practical institutions, not only righteous language.",
+      "accuracyNote": "The WCTU, Anti-Saloon League and Eighteenth Amendment connection is historically strong; the show sharpens reformer-politician relations for drama.",
+      "whyInteresting": "Temperance shows how a social reform with real moral energy can create unexpected underground economies when turned into a rigid ban.",
+      "misconception": "The movement is often dismissed as pure hypocritical moralism, but it also drew on concerns about domestic violence, poverty and social harm.",
+      "nextTopics": [
+        "Speakeasies",
+        "Bootlegging",
+        "Federal Enforcement"
+      ],
+      "sources": [
+        {
+          "title": "Library of Congress - Alcoholic Beverage Industry: Temperance Groups",
+          "url": "https://guides.loc.gov/alcoholic-beverage-industry/for-temperance",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Constitution Annotated - Post-Civil War Temperance Organizations",
+          "url": "https://constitution.congress.gov/browse/essay/amdt18-2-3/ALDE_00013842/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "VCU Libraries Social Welfare History Project - Woman’s Christian Temperance Union",
+          "url": "https://socialwelfare.library.vcu.edu/religious/womens-christian-temperance-union/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Temperance Movement",
+          "url": "https://www.britannica.com/topic/temperance-movement",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-171-speakeasies",
+        "tf26-172-bootlegging",
+        "tf26-176-women-reformers"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The reformer-politician tension in Boardwalk Empire connects to a real movement that combined moral language with modern lobbying power.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organized-crime",
+        "united-states",
+        "temperance-movement",
+        "true-frame"
+      ],
+      "spoilerNote": "May include minor hints about Boardwalk Empire, but does not reveal the ending.",
+      "mediaChanged": "The series condenses the conflict into characters; historically, sincere social fears, religious networks, women’s groups and hard political engineering all mattered.",
+      "whyItMatters": "Public policy succeeds only when its moral goal is matched by realistic tools for changing behavior.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was temperance only repression, or a reform movement trying to answer real social harm with the wrong tool?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-174-federal-enforcement",
+      "title": "Federal Enforcement",
+      "subtitle": "Strong on paper, weak on the street",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Crime",
+        "Economy",
+        "Politics"
+      ],
+      "whatWeSee": "Boardwalk Empire turns federal agents, raids and liquor warehouses into the official face of Prohibition. The state’s claim to enforce the law constantly collides with local politics, police protection and bootlegger ingenuity. That clash is historically grounded, but enforcement was not a single heroic agent’s story; it was scattered among tax bureaucracy, courts, local police and federal offices.",
+      "realHistory": "Prohibition was difficult to enforce from the beginning. The Volstead Act supplied the legal framework, but supervising the daily habits of millions of people across the United States was far harder than writing the law. In the early years the main burden rested with the Treasury Department, especially the Bureau of Internal Revenue and the Prohibition Unit. The Bureau of Investigation, the predecessor of the FBI, helped in some investigations, but it did not single-handedly run Prohibition.\n\nWeak enforcement had several causes. Agents were too few, poorly paid and sometimes poorly trained. Local police could be reluctant, politically exposed or directly tied to bribery networks. Federal raids might close a warehouse or speakeasy, but persistent demand quickly created new routes and partners. Federal courts were flooded with cases ranging from small violations to organized-crime investigations.\n\nIn 1930 the Prohibition Unit was transferred to the Justice Department, a sign that the problem had become more than tax administration. Still, that change could not fix the core weakness: when large parts of the public do not see a law as legitimate, coercion alone cannot produce lasting compliance. Boardwalk Empire captures the spectacle of raids; the deeper history shows that enforceability, consent and institutional capacity decide whether a law can actually work.",
+      "accuracyNote": "The show’s raid-and-protection dynamic is grounded in the period, but Prohibition enforcement depended more on Treasury, the Prohibition Unit, courts and local police than on the FBI alone.",
+      "whyInteresting": "A strong federal ban on paper was repeatedly weakened by bribery, high demand and limited enforcement capacity on the ground.",
+      "misconception": "Prohibition is often imagined as an FBI-led campaign. In the early years, Treasury and internal-revenue enforcement carried much of the load.",
+      "nextTopics": [
+        "Speakeasies",
+        "Bootlegging",
+        "Temperance Movement"
+      ],
+      "sources": [
+        {
+          "title": "National Archives - The Volstead Act",
+          "url": "https://www.archives.gov/education/lessons/volstead-act",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "FBI - The Bureau and the Great Experiment",
+          "url": "https://www.fbi.gov/news/stories/the-bureau-and-the-great-experiment-012420",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "ATF - Prohibition Unit, Bureau of Internal Revenue, U.S. Department of Treasury 1920–1926",
+          "url": "https://www.atf.gov/our-history/historical-articles/prohibition-unit-bureau-internal-revenue-u-s-department-treasury-1920-1926",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Federal Judicial Center - Prohibition in the Federal Courts: A Timeline",
+          "url": "https://www.fjc.gov/history/exhibits/prohibition-in-federal-courts-timeline",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-171-speakeasies",
+        "tf26-172-bootlegging",
+        "tf26-177-repeal"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Boardwalk Empire's federal raid scenes sit on the historical ground of Volstead enforcement and federal-local policing tensions.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organized-crime",
+        "united-states",
+        "federal-enforcement",
+        "true-frame"
+      ],
+      "spoilerNote": "May include minor hints about Boardwalk Empire, but does not reveal the ending.",
+      "mediaChanged": "The show turns enforcement into agent-versus-bootlegger drama; historically, court overload, tax enforcement, local bribery and shifting agency authority mattered just as much.",
+      "whyItMatters": "A law's real strength is measured less by its wording than by enforceability, public consent and institutional capacity.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did the FBI really run Prohibition, or did Treasury and internal-revenue agencies carry the early burden?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-175-organized-crime",
+      "title": "Organized Crime",
+      "subtitle": "How the banned market enlarged criminal networks",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Crime",
+        "Economy",
+        "Politics"
+      ],
+      "whatWeSee": "Boardwalk Empire presents organized crime not only through gunfights, but through bargaining tables, dock access, police relationships and political donations. Bootleg liquor becomes a cash flow that links hotels, gambling, city hall, elections and law enforcement. The show compresses characters for drama, yet its central insight is strong: under Prohibition, crime gained management capacity beyond the street.",
+      "realHistory": "When Prohibition took effect in 1920, the goal was to suppress alcohol production and sale. Demand, however, did not vanish. Once the legal market moved underground, illegal production, transport, storage and distribution became a major profit field. This opportunity helped previously fragmented criminal groups grow into regional supply networks.\n\nLiquor arriving from Canada, the Caribbean and coastal routes reached consumers through dockworkers, truckers, warehouse operators, bookkeepers, false permits and bribed officials. Violence was real, but weapons alone do not explain the durability of the networks. Continuity of supply, price margins, local protection and money-laundering channels mattered more over time. Atlantic City’s Enoch “Nucky” Johnson provides the historical background for Boardwalk Empire’s Nucky Thompson, although the character is not a direct biography.\n\nProhibition did not invent organized crime. Gambling, prostitution, extortion and urban patronage networks already existed. But the alcohol ban gave those networks an unusually regular and high-volume income. Some groups learned company-like habits of accounting, logistics and protection. After repeal, that capacity did not disappear; it shifted toward gambling, loansharking, labor rackets and other illegal markets.",
+      "accuracyNote": "The show captures the economic logic of criminal networks, while character relations, inter-city contacts and chronology are compressed for dramatic coherence.",
+      "whyInteresting": "Prohibition did more than enlarge illegal markets; it helped criminal organizations develop logistics, bookkeeping and political protection systems.",
+      "misconception": "Organized crime is often explained as the result of a few violent leaders. Market demand, weak enforcement and local patronage were just as important.",
+      "nextTopics": [
+        "Speakeasies",
+        "Bootlegging",
+        "Temperance Movement"
+      ],
+      "sources": [
+        {
+          "title": "National Archives - The Volstead Act",
+          "url": "https://www.archives.gov/education/lessons/volstead-act",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "FBI History - The American Gangster Era",
+          "url": "https://www.fbi.gov/history/famous-cases/the-american-gangster-era",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Encyclopaedia Britannica - Enoch L. Johnson",
+          "url": "https://www.britannica.com/biography/Enoch-L-Johnson",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-172-bootlegging",
+        "tf26-176-women-reformers",
+        "tf26-177-repeal"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Boardwalk Empire's Atlantic City bargaining connects to the way illegal alcohol joined ports, local politics and police protection.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organized-crime",
+        "united-states",
+        "organized-crime",
+        "true-frame"
+      ],
+      "spoilerNote": "May include minor hints about Boardwalk Empire, but does not reveal the ending.",
+      "mediaChanged": "The series heightens personal leadership and betrayal; the historical engine was a banned product with persistent demand and a logistics-patronage economy around it.",
+      "whyItMatters": "The subject shows how a law can fail to change behavior and instead help create more durable illegal institutions.",
+      "isFlagship": false,
+      "quickRealityCheck": "Why did Prohibition make some criminal networks more permanent and corporate instead of simply shrinking the alcohol market?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-176-women-reformers",
+      "title": "Women Reformers",
+      "subtitle": "Suffrage, domestic violence and prohibition politics",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Crime",
+        "Economy",
+        "Politics"
+      ],
+      "whatWeSee": "In Boardwalk Empire, women reformers are not just decorative figures on the edge of gangster politics. Through Margaret Thompson and reform circles, suffrage, public health campaigns, charity networks and Prohibition advocacy appear as part of the same political language. The show ties this to personal drama; historically, women’s organizations, churches and local campaigns were a major reform force.",
+      "realHistory": "### From home to politics\n\nIn the late nineteenth and early twentieth centuries, women reformers in the United States framed alcohol not only as a moral failing, but as a threat to family safety and public welfare. Organizations such as the WCTU linked drinking to domestic violence, poverty, child welfare, lost wages and social disorder. Some of that language looks paternalistic and exclusionary today, but for many women it was a powerful way to enter public politics when formal voting rights were still limited. The claim to protect the home legitimized action in streets, churches, schools and municipal meetings.\n\nThe movement's strength came from organization, not only speeches. Petitions, local chapters, newspaper campaigns, school events, charity work and church networks created a mass infrastructure before women had equal access to the ballot.\n\n### WCTU, Anti-Saloon League and lobbying\n\nThe Woman's Christian Temperance Union built broad membership and local visibility. The Anti-Saloon League created a narrower but highly disciplined lobbying machine, pressuring candidates and turning prohibition into a federal constitutional issue. These strands approached the same goal with different tools: one emphasized moral reform and social service; the other specialized in electoral pressure. The Eighteenth Amendment and the Volstead Act were the outcome of that long campaign.\n\nBoardwalk Empire's back-room politics make more sense when this reform side is visible. Prohibition was not simply an opportunity seized by gangsters. It first had to become politically legitimate through a movement that pointed to genuine harms, even when its chosen remedy produced new ones.\n\n### Suffrage and exclusion\n\nThe ratification of the Nineteenth Amendment in 1920, granting women the federal vote, overlapped with Prohibition for a reason. The two movements shared organizers, campaign language and a belief that women’s public voice could improve society. But that story is not a clean triumph. Black women and other minority voters still faced voter suppression, violence and local barriers. Some temperance rhetoric also carried anti-immigrant, anti-working-class and racist assumptions.\n\n### The reform paradox\n\nProhibition displayed women reformers' political power and the limits of ban-based policy at the same time. Alcohol consumption did not simply vanish; illegal markets, corruption and unsafe products grew. Some reformers defended the ban, while others moved toward regulation or broader welfare approaches. The history is therefore neither a simple progressive victory nor a simple moral panic. It is a story of public entry, social protection, exclusion and unintended harm.\n\nThat legacy still matters. A policy can arise from a real social injury and still produce damage if the tool is poorly chosen. Women reformers helped shape modern mass politics, but the movement they carried also reveals the risks of turning moral urgency into rigid legal engineering.",
+      "accuracyNote": "The links among WCTU, the Anti-Saloon League, the Eighteenth Amendment and the Nineteenth Amendment are historically grounded. The show dramatizes women reform through a few Atlantic City characters.",
+      "whyInteresting": "The same reform wave expanded women's public political visibility and helped produce a ban that created new underground economies and inequality debates.",
+      "misconception": "Prohibition is often treated only as a gangster or male-politician story. Women’s reform networks were central to the law gaining legitimacy.",
+      "nextTopics": [
+        "Speakeasies",
+        "Bootlegging",
+        "Temperance Movement"
+      ],
+      "sources": [
+        {
+          "title": "National Archives - 19th Amendment to the U.S. Constitution",
+          "url": "https://www.archives.gov/milestone-documents/19th-amendment",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "National Park Service - Suffrage in 60 Seconds: Temperance",
+          "url": "https://www.nps.gov/articles/000/suffrage60seconds_temperance.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Library of Congress - Temperance Movement & Prohibition",
+          "url": "https://guides.loc.gov/alcoholic-beverage-industry/temperance-prohibition",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "U.S. House History - WCTU Petition for Woman Suffrage",
+          "url": "https://history.house.gov/HouseRecord/Detail/15032436230",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-173-temperance",
+        "tf26-177-repeal",
+        "tf26-180-public-health"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Boardwalk Empire's Margaret and reform-circle scenes connect to the historical overlap among WCTU activism, suffrage and Prohibition campaigning.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organized-crime",
+        "united-states",
+        "women-reformers",
+        "true-frame"
+      ],
+      "spoilerNote": "May include minor hints about Boardwalk Empire, but does not reveal the ending.",
+      "mediaChanged": "The show reduces women reform to a handful of dramatic scenes; historically, the movement ran through decades of petitions, lobbying, local chapters and suffrage politics.",
+      "whyItMatters": "To understand Prohibition, we need to see not only crime economics but also the social-harm concerns that gave the ban political force.",
+      "isFlagship": true,
+      "quickRealityCheck": "Did women reformers support Prohibition only for moral control, or also for family safety and political representation?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-177-repeal",
+      "title": "Repeal",
+      "subtitle": "The Twenty-First Amendment and the controlled end of the ban",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Crime",
+        "Economy",
+        "Politics"
+      ],
+      "whatWeSee": "In Boardwalk Empire's later arc, repeal is felt through bars becoming visible again and bootlegging money looking for new uses. The show personalizes that transition through Nucky Thompson's Atlantic City negotiations. Historically, repeal was not one night of celebration; it ended the federal ban, returned much regulation to the states and pushed criminal economies toward new fields.",
+      "realHistory": "National Prohibition began in 1920 through the Eighteenth Amendment and the Volstead Act. By the early 1930s its costs were harder to ignore. Illegal markets had grown, federal and local enforcement were strained, courts were overloaded and the Great Depression made alcohol tax revenue attractive again. Public debate shifted from moral victory to practical governability.\n\nThe Twenty-First Amendment was ratified on December 5, 1933 and repealed the Eighteenth Amendment. It remains the only amendment to the U.S. Constitution that fully repealed an earlier amendment. But the result was not unlimited alcohol freedom everywhere. Regulation moved largely back to the states, where licensing, drinking age, sales hours, local dry/wet rules and taxation developed in different ways.\n\nRepeal badly damaged the bootlegging economy because its core product returned to legal channels. Yet, as Boardwalk Empire suggests, criminal networks did not vanish overnight. Some moved toward legal entertainment, hotels and distribution; others shifted to gambling, loansharking, labor racketeering and other illicit markets. Repeal was therefore not just the return of drinking. It was a move away from a failed absolute ban and back toward regulation, taxation and local control.",
+      "accuracyNote": "The Twenty-First Amendment repealed the Eighteenth Amendment on December 5, 1933. The show’s character arcs are fictionalized and compress the economic transition.",
+      "whyInteresting": "Repeal did not erase organized crime overnight; it removed the main incentive behind the bootleg liquor market and forced networks to adapt.",
+      "misconception": "Repeal is often imagined as an instant end to gangsters and smuggling. In reality, legal markets returned while criminal networks sought other income streams.",
+      "nextTopics": [
+        "Speakeasies",
+        "Bootlegging",
+        "Temperance Movement"
+      ],
+      "sources": [
+        {
+          "title": "National Constitution Center - 21st Amendment: Repeal of Prohibition",
+          "url": "https://constitutioncenter.org/the-constitution/amendments/amendment-xxi",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Congress.gov Constitution Annotated - Overview of Twenty-First Amendment",
+          "url": "https://constitution.congress.gov/browse/essay/amdt21-S1-1/ALDE_00000047/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "National Archives - The Volstead Act",
+          "url": "https://www.archives.gov/education/lessons/volstead-act",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-172-bootlegging",
+        "tf26-175-organized-crime",
+        "tf26-180-public-health"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Boardwalk Empire's late-period bargaining connects to the end of the federal alcohol ban and the reorientation of cities like Atlantic City.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organized-crime",
+        "united-states",
+        "repeal",
+        "true-frame"
+      ],
+      "spoilerNote": "May include minor hints about Boardwalk Empire, but does not reveal the ending.",
+      "mediaChanged": "The series dramatizes repeal through characters; historically, the main shift was from a federal ban to state licensing, taxation and regulation.",
+      "whyItMatters": "Repeal shows how a failed absolute ban can be transformed into a regulatory and tax framework instead of simply being defended forever.",
+      "isFlagship": false,
+      "quickRealityCheck": "When the Twenty-First Amendment ended Prohibition, did alcohol become completely unregulated, or did authority shift back to the states?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-178-jazz-age",
+      "title": "Jazz Age",
+      "subtitle": "Speakeasies, radio and the conflicted rise of Black music",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Crime",
+        "Economy",
+        "Politics"
+      ],
+      "whatWeSee": "Boardwalk Empire places 1920s jazz clubs inside the same image as bootleg liquor, stylish nightlife and political bargaining. Music is not just background decoration; it shapes how characters approach money, status and danger. The show is glossy and stylized, but beneath that shine sit Prohibition economics, racial segregation and hard hierarchies in the entertainment business.",
+      "realHistory": "The Jazz Age was not merely a period of fun and fashion. Black American musicians carried traditions from New Orleans to Chicago, New York and other cities, mixing blues, ragtime, dance music and improvisation in new urban spaces. Figures such as Louis Armstrong and Duke Ellington helped jazz become nationally and internationally visible. Radio, records and nightclub circuits accelerated that spread.\n\nProhibition unexpectedly expanded some of jazz's stages. Speakeasies and illegal clubs sold more than alcohol; they sold music, dancing and the feeling of entering a modern world. Bootleg profits allowed some venues to hire leading musicians, so criminal patronage and cultural innovation often overlapped. That visibility did not automatically mean freedom. Black musicians frequently played for white audiences, faced discrimination in hotels and clubs, and often had limited control over royalties and business ownership.\n\nBoardwalk Empire suggests this contradiction through atmosphere. Historically, the Jazz Age was a culture economy in which liberation and exploitation worked side by side. The 1929 crash exposed the fragility of its consumer glamour. Jazz endured, but its rise cannot be understood apart from Prohibition's illegal nightlife economy and the racial and class boundaries of the United States.",
+      "accuracyNote": "The series captures the nightlife atmosphere of the 1920s, but its Atlantic City focus narrows the broader jazz network of New Orleans, Chicago, New York, radio and records.",
+      "whyInteresting": "Jazz's rise shows how an art form can be a language of freedom, a commercial product and part of an illegal night economy at the same time.",
+      "misconception": "The 1920s are often imagined only as entertainment and prosperity, while racial segregation, royalty inequality, gangster patronage and economic fragility shaped the music too.",
+      "nextTopics": [
+        "Speakeasies",
+        "Bootlegging",
+        "Temperance Movement"
+      ],
+      "sources": [
+        {
+          "title": "Smithsonian - The Jazz Age: American Style in the 1920s",
+          "url": "https://www.si.edu/exhibitions/jazz-age-american-style-1920s-event-exhib-6160",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "The Mob Museum - The Rise of Jazz and Jukeboxes",
+          "url": "https://prohibition.themobmuseum.org/the-history/how-prohibition-changed-american-culture/jazz-and-jukeboxes/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Encyclopaedia Britannica - Jazz Age",
+          "url": "https://www.britannica.com/event/Jazz-Age",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-171-speakeasies",
+        "tf26-175-organized-crime",
+        "tf26-179-corruption"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Boardwalk Empire's speakeasy scenes connect Prohibition's illegal club economy to the commercial and cultural rise of jazz.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organized-crime",
+        "united-states",
+        "jazz-age",
+        "true-frame"
+      ],
+      "spoilerNote": "May include minor hints about Boardwalk Empire, but does not reveal the ending.",
+      "mediaChanged": "The show turns the Jazz Age into a glamorous crime aesthetic; historically, Black musical labor, the record business, segregation and Depression-era fragility also mattered.",
+      "whyItMatters": "Jazz makes the Prohibition era's promise of escape and the country's racial and class tensions audible at the same time.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did Prohibition popularize jazz by itself, or did speakeasy economics, records and radio all help build the moment?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-179-corruption",
+      "title": "Corruption",
+      "subtitle": "Prohibition, patronage and the purchasable city",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Crime",
+        "Economy",
+        "Politics"
+      ],
+      "whatWeSee": "In Boardwalk Empire, corruption looks like back-room bargaining, police protection and personal power. Nucky Thompson's phone call can shape a license, a raid or an election. The series personalizes that power, but historically corruption grew from the profits created by Prohibition, local patronage systems and gaps in federal enforcement.",
+      "realHistory": "Corruption during Prohibition was not just a few officials taking bribes. The Volstead Act banned the alcohol market, but demand remained. Protection therefore became a service that could be sold. Avoiding a police raid, weakening a court case, ignoring a dock shipment, steering a municipal contract or mobilizing votes on election day could all become parts of the same system.\n\nAtlantic City is a useful example. Enoch “Nucky” Johnson built influence through tourism, entertainment, party organization and local offices. Boardwalk Empire's Nucky Thompson is not a documentary portrait, but the real Johnson helps explain how city patronage and bootleg liquor could join together. Similar mechanisms operated in different forms in Chicago, New York and other cities.\n\nMore federal enforcement did not automatically eliminate corruption. It sometimes made the bargaining field more complicated, because local police, federal agents, judges, party machines and newspapers all had different incentives. The period matters institutionally because a high-profit black market and a weakly accepted law can turn corruption from an exception into a way of governing.",
+      "accuracyNote": "The show captures the atmosphere of corruption, but character links and chronology are combined for dramatic force.",
+      "whyInteresting": "A law passed in the name of morality could raise the price of bribery and tie city government more tightly to illegal markets.",
+      "misconception": "Corruption is often treated as a purely personal moral failure. Prohibition shows how bad incentives can erode institutions.",
+      "nextTopics": [
+        "Speakeasies",
+        "Bootlegging",
+        "Temperance Movement"
+      ],
+      "sources": [
+        {
+          "title": "Encyclopaedia Britannica - Enoch L. Johnson",
+          "url": "https://www.britannica.com/biography/Enoch-L-Johnson",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "National Archives - The Volstead Act",
+          "url": "https://www.archives.gov/education/lessons/volstead-act",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Library of Congress - Prohibition Primary Sources",
+          "url": "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/progressive-era-to-new-era-1900-1929/prohibition/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-172-bootlegging",
+        "tf26-175-organized-crime",
+        "tf26-177-repeal"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Boardwalk Empire's Atlantic City world dramatizes how Enoch Johnson-style patronage could merge with Prohibition economics.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organized-crime",
+        "united-states",
+        "corruption",
+        "true-frame"
+      ],
+      "spoilerNote": "May include minor hints about Boardwalk Empire, but does not reveal the ending.",
+      "mediaChanged": "The show sharpens corruption through individual ambition; historically, law design, local party machines, police capacity and black-market profits combined.",
+      "whyItMatters": "A law with public-minded aims can hollow out institutions if it is not enforceable and creates large illegal profits.",
+      "isFlagship": false,
+      "quickRealityCheck": "Why could Prohibition-era corruption become not just bribery, but a patronage technique that helped run a city?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-180-public-health",
+      "title": "Public Health",
+      "subtitle": "Prohibition, poisoned markets and harm-reduction lessons",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Crime",
+        "Economy",
+        "Politics"
+      ],
+      "whatWeSee": "Boardwalk Empire usually frames Prohibition through smuggling, bribery and city politics, but a hard public-health question sits beneath that world. When the show hints at unsafe liquor, hospitals or the darker side of the underground market, the story becomes more than crime. The question is whether banning a product reduces risk or moves risk into a less visible and more dangerous market.",
+      "realHistory": "### Consumption fell, but did not disappear\n\nThe public-health impact of Prohibition cannot be summarized in one sentence. Some evidence suggests that alcohol consumption declined during the early years of the ban. That matters: Prohibition was not completely ineffective. Yet demand did not disappear. Prices, access to bootleg supply, local tolerance and drinking habits created a new equilibrium. When the regulated market closed, many consumers did not move to safer products; they moved to less predictable ones.\n\nThis makes Boardwalk Empire's underground economy more historically serious. The show assumes that demand remains. The public-health issue is that the consumer's behavior may continue while product standards and oversight vanish.\n\n### Unsafe products\n\nThe darkest health risk was the content of illegal alcohol. Fake whiskey, poorly distilled spirits, industrial alcohol and methanol contamination could cause blindness and death. Denatured industrial alcohol was deliberately made poisonous so it could not be consumed. Bootleggers tried to redistill it, but they could not reliably remove every dangerous additive. During Prohibition, the danger was not only drinking too much; it was not knowing what one was drinking.\n\nThis risk was also unequal. Wealthier consumers could often buy better and more reliable bootleg products. Poorer drinkers were more exposed to cheap, uncertain mixtures and weaker access to medical care.\n\n### State capacity and reverse effects\n\nA total ban can move health risks elsewhere when enforcement capacity is weak. Federal agents and local police could not inspect every still, club or distribution route. Bribery and political protection made oversight even weaker. When the law shut down licensed sales and product standards, it also made bad products harder to identify and remove from circulation.\n\nThe issue is not simply whether prohibition is good or bad. It is whether the state can provide product safety, treatment access, public information and realistic local regulation. Without those tools, harsh bans often create shadow markets where consumers cannot complain, products cannot be recalled and health warnings do not travel reliably.\n\n### The lesson after repeal\n\nThe Twenty-First Amendment ended national Prohibition in 1933, but it did not mean a return to pure freedom. Licensing, taxation, product standards, age rules and state or local sales regulations were rebuilt. The policy logic shifted from suppression to regulation. That experience still matters in modern debates about drugs, addiction and harm reduction: if a product with persistent demand is pushed entirely underground, some consumption may fall, but product safety and health outreach can collapse.\n\nBoardwalk Empire foregrounds criminals. The historical reading adds the hospital, the poisoned bottle and the regulatory lesson. Public health is not protected by a legal text alone; it depends on institutions that can reduce harm in the world people actually live in.",
+      "accuracyNote": "The fall in some consumption, poisonings from bootleg or denatured alcohol, and the post-1933 regulatory shift are supported by the sources. The show treats this mostly through crime drama.",
+      "whyInteresting": "Prohibition is a powerful case study in how a public-health goal can create new health risks when it produces an unregulated market.",
+      "misconception": "Prohibition is often seen as either totally useless or automatically healthy. Consumption, product safety, crime and regulatory capacity all have to be evaluated together.",
+      "nextTopics": [
+        "Speakeasies",
+        "Bootlegging",
+        "Temperance Movement"
+      ],
+      "sources": [
+        {
+          "title": "National Archives - The Volstead Act",
+          "url": "https://www.archives.gov/education/lessons/volstead-act",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "American Journal of Public Health - Did Prohibition Really Work? Alcohol Prohibition as a Public Health Innovation",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1470475/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "The Mob Museum - Alcohol as Medicine and Poison",
+          "url": "https://prohibition.themobmuseum.org/the-history/the-prohibition-underworld/alcohol-as-medicine-and-poison/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "National Constitution Center - 21st Amendment: Repeal of Prohibition",
+          "url": "https://constitutioncenter.org/the-constitution/amendments/amendment-xxi",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-172-bootlegging",
+        "tf26-177-repeal",
+        "tf26-179-corruption"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Boardwalk Empire's underground liquor economy lets Prohibition be read not only as crime history, but also as a product-safety and public-health crisis.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organized-crime",
+        "united-states",
+        "public-health",
+        "true-frame"
+      ],
+      "spoilerNote": "May include minor hints about Boardwalk Empire, but does not reveal the ending.",
+      "mediaChanged": "The show focuses on gangsters; the historical sources also foreground unsafe product, methanol poisoning, consumer behavior and regulatory-state debates after repeal.",
+      "whyItMatters": "The same question appears in current debates about addiction and bans: does policy remove risk, or make it more hidden and deadly?",
+      "isFlagship": true,
+      "quickRealityCheck": "Why did alcohol prohibition sometimes make the liquor people drank more dangerous while trying to reduce drinking?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-181-constitutional-role",
+      "title": "Constitutional Role",
+      "subtitle": "Formal signature, conventional limits",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "era": "Modern History",
+      "region": "United Kingdom",
+      "themes": [
+        "Monarchy",
+        "Media",
+        "Politics"
+      ],
+      "whatWeSee": "The Crown presents the monarch less as an executive ruler than as a figure surrounded by ritual and convention. Weekly audiences with the prime minister, state openings, appointment ceremonies and national broadcasts look symbolic, yet they matter for public legitimacy. The show enlarges the emotion around these moments; historically, the central issue is not what the monarch can do, but what convention says the monarch should not do.",
+      "realHistory": "In the United Kingdom’s constitutional monarchy, the monarch is head of state but governing authority belongs to elected ministers. The sovereign appoints the prime minister, opens Parliament, gives Royal Assent to legislation and represents state continuity. In modern practice, however, these powers are constrained by ministerial advice, parliamentary majority and constitutional convention.\n\nThe weekly audience with the prime minister is one of the most interesting parts of the role. Royal.uk describes the monarch as politically neutral while retaining the right to advise, encourage and warn. The meetings are private; no public transcript is issued. The Crown turns that secrecy into drama by imagining tone, conflict and emotion.\n\nThe monarchy’s influence therefore sits between absolute power and empty decoration. It can produce continuity, neutrality and a sense of national unity in crisis, but that value weakens if the sovereign enters party politics. In the media age every gesture, delay and speech is interpreted. The Crown may dramatize the pressure, but it asks the right constitutional question: unwritten rules can create durable institutions, yet they also create ambiguity and legitimacy debates.",
+      "accuracyNote": "The monarch’s appointment of the prime minister, State Opening, Royal Assent and weekly audiences are grounded in sources. The show invents much of the emotional detail in private meetings.",
+      "whyInteresting": "In constitutional monarchy, the most important power can be the ability to stay restrained and neutral.",
+      "misconception": "The monarchy is often imagined as either absolute power or pure decoration. In modern Britain, its influence works through convention, representation and continuity.",
+      "nextTopics": [
+        "Constitutional Role",
+        "Coronation",
+        "Commonwealth"
+      ],
+      "sources": [
+        {
+          "title": "Royal.uk - The role of the Monarchy",
+          "url": "https://www.royal.uk/the-role-of-the-monarchy",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Royal.uk - The Sovereign and the Prime Minister",
+          "url": "https://www.royal.uk/the-sovereign-and-the-prime-minister",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "UK Parliament - Parliament and Crown",
+          "url": "https://www.parliament.uk/about/how/role/relations-with-other-institutions/parliament-crown/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "UCL Constitution Unit - What is the role of the monarchy?",
+          "url": "https://www.ucl.ac.uk/social-historical-sciences/constitution-unit/constitution-unit-publications/constitution-unit-explainers/what-role-monarchy",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-183-commonwealth",
+        "tf26-184-royal-media",
+        "tf26-186-prime-ministers"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Crown's palace-prime minister dynamic should be read alongside Britain’s convention-based constitutional monarchy.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "monarchy",
+        "the-crown",
+        "united-kingdom",
+        "constitutional-role",
+        "true-frame"
+      ],
+      "spoilerNote": "May include minor hints about The Crown, but does not reveal the ending.",
+      "mediaChanged": "The series foregrounds relationship and emotion; the historical system depends on quiet procedures that limit formal powers through convention and ministerial advice.",
+      "whyItMatters": "Modern democracies rely not only on written rules, but also on accepted boundaries of institutional behavior.",
+      "isFlagship": false,
+      "quickRealityCheck": "In a constitutional monarchy, is the real power in the signature, or in the conventions that limit when and how it is used?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-183-commonwealth",
+      "title": "Commonwealth",
+      "subtitle": "Post-imperial network or equal partnership?",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "era": "Modern History",
+      "region": "United Kingdom",
+      "themes": [
+        "Monarchy",
+        "Media",
+        "Politics"
+      ],
+      "whatWeSee": "In The Crown, the Commonwealth often appears through state visits, summits, protocol speeches and the palace’s visibility on the foreign-policy stage. These scenes suggest a London trying to preserve symbolic weight after direct imperial rule. The show often ties the subject to the Queen’s personal diplomacy; historically, the Commonwealth is a tense network between equality claims and colonial memory.",
+      "realHistory": "The Commonwealth is a loose but politically significant multistate framework that grew out of the dissolution of the British Empire. The 1949 London Declaration allowed republics to remain members, helping the organization become more flexible than a simple imperial allegiance. Today it brings together countries across continents and constitutional systems, with member states formally treated as equal.\n\nThat equality claim cannot be separated from history. Many members joined or remained after independence from British rule. Shared language, legal traditions, education links, sport and development programs created practical ties. At the same time, debates over apartheid South Africa, Rhodesia, migration policy, reparations and colonial memory show that the Commonwealth is not merely a friendly club. Symbolic equality and historical asymmetry are constantly negotiated.\n\nThe monarch’s role is also easy to misunderstand. The sovereign is not head of state of every Commonwealth country; many members are republics. The Head of the Commonwealth role produces symbolic continuity and diplomatic visibility rather than legal command. The Crown emphasizes the palace perspective. A balanced reading also centers member states’ own agendas, decolonization and the limits of partnership.",
+      "accuracyNote": "The Commonwealth’s post-decolonization transformation, Head of the Commonwealth role and formal equality of member states are supported by sources. The show naturally privileges palace protocol.",
+      "whyInteresting": "The Commonwealth shows how post-imperial British influence could continue through networks, ritual and diplomacy rather than direct rule.",
+      "misconception": "The Commonwealth is sometimes imagined as a hidden continuation of British control. A better reading is an equality-claiming network still marked by colonial history.",
+      "nextTopics": [
+        "Constitutional Role",
+        "Coronation",
+        "Commonwealth"
+      ],
+      "sources": [
+        {
+          "title": "Commonwealth Secretariat - About us",
+          "url": "https://thecommonwealth.org/about-us",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Commonwealth Secretariat - Member countries",
+          "url": "https://thecommonwealth.org/our-member-countries",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "UK Parliament - Contemporary context: Commonwealth of Nations",
+          "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/contemporary-context/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Royal.uk - The Commonwealth",
+          "url": "https://www.royal.uk/the-commonwealth",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-181-constitutional-role",
+        "tf26-184-royal-media",
+        "tf26-186-prime-ministers"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Crown's state visits and summits connect to the Commonwealth’s post-decolonization role as symbolic leadership and political network.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "monarchy",
+        "the-crown",
+        "united-kingdom",
+        "commonwealth",
+        "true-frame"
+      ],
+      "spoilerNote": "May include minor hints about The Crown, but does not reveal the ending.",
+      "mediaChanged": "The show presents the Commonwealth through palace diplomacy; historically, member states' domestic politics, colonial memory and the limits of equality are more decisive.",
+      "whyItMatters": "Post-imperial power can survive not only through armies or markets, but through networks, ritual and symbolic legitimacy.",
+      "isFlagship": false,
+      "quickRealityCheck": "Is the Commonwealth Britain continuing empire, or a looser network claiming equality after empire?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-184-royal-media",
+      "title": "Royal Media",
+      "subtitle": "What changed when the throne entered television?",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "era": "Modern History",
+      "region": "United Kingdom",
+      "themes": [
+        "Monarchy",
+        "Media",
+        "Politics"
+      ],
+      "whatWeSee": "The Crown frames the palace-media relationship not only through interviews and scandals, but through the monarchy's strategy of visibility. Ceremonies are opened to cameras, family tensions move into tabloid language and crisis statements are weighed word by word. The show sometimes enlarges personal drama, but the underlying tension is real: modern monarchy needs to be visible while preserving mystique.",
+      "realHistory": "### The television threshold\n\nThe 1953 coronation of Elizabeth II was a major turning point for the British monarchy because it was televised. Royal.uk notes that it was the first coronation broadcast on television and that about 27 million people in the United Kingdom watched. This turned the monarchy from a ceremonial institution seen by a limited audience into a media event that entered living rooms. Visibility widened legitimacy, but it also encouraged the public to expect more intimacy.\n\nThe Crown often dramatizes this through how family members look on camera. Historically, the deeper change was that television renegotiated the distance on which royal authority had long depended. The Crown was no longer only a remote symbol; it became an image that had to be managed.\n\n### Controlled openness\n\nThe 1969 Royal Family documentary pushed that tension further. Because the documentary was produced that year, the Queen did not deliver the traditional Christmas Broadcast in the usual form. The film tried to make the royal family appear more human, showing family meals, informal talk and behind-the-scenes access. That openness was risky. If the institution looked too ordinary, it could lose aura; if it stayed too closed, it could look out of date.\n\nAs a result, royal media language became more calculated. Interviews, official photographs, television messages and documentary access became matters of protocol. The palace accepted that it could not avoid visibility, but it tried to control the pace, frame and meaning of that visibility.\n\n### Tabloids and crisis communication\n\nFrom the 1980s onward, tabloid competition and paparazzi culture made the balance much harder to hold. The Diana years showed that royal media was no longer limited to ceremonial broadcasts. Private life, marriage breakdown, interviews and press pursuit became questions of institutional legitimacy. After Diana's death in 1997, the Queen's televised address showed that even silence could carry political meaning in a modern monarchy.\n\nThe Crown turns these media crises into personal conflict. The historical pattern is more institutional. Throughout the twentieth century, the palace searched for a balance between distance and access. When it worked, televised ritual created legitimacy. When it failed, a photograph, interview or delayed statement could become a trust crisis. Royal media is therefore not just celebrity history. It is one of the main arenas where constitutional monarchy renegotiates its contract with the public.\n\n### The modern bargain\n\nThe bargain remains unstable. The monarchy depends on attention, but attention also exposes private tension, privilege and delay. A successful media strategy asks the public to feel close enough to care, but not so close that the institution becomes only another famous family. That paradox is exactly why The Crown finds so much drama in microphones, cameras and headlines.",
+      "accuracyNote": "The show turns media crises into character drama; the 1953 televised coronation, the 1969 Royal Family documentary and the 1997 Diana address are real turning points in managed royal visibility.",
+      "whyInteresting": "The monarchy needed cameras to modernize, but the same cameras turned private life and crisis into public property.",
+      "misconception": "The royal family is often imagined as separate from media. Since the television age, the palace has survived through deliberate but fragile visibility.",
+      "nextTopics": [
+        "Constitutional Role",
+        "Coronation",
+        "Commonwealth"
+      ],
+      "sources": [
+        {
+          "title": "Royal.uk - 50 facts about Queen Elizabeth II's Coronation",
+          "url": "https://www.royal.uk/50-facts-about-queen-elizabeth-iis-coronation",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Royal.uk - Christmas Broadcast 1969",
+          "url": "https://www.royal.uk/christmas-broadcast-1969",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Royal.uk - A speech by The Queen following the death of Diana, Princess of Wales",
+          "url": "https://www.royal.uk/speech-following-death-diana-princess-wales",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-181-constitutional-role",
+        "tf26-187-public-grief",
+        "tf26-190-privacy"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Crown's television and press scenes become clearer when read alongside the 1953 coronation broadcast, the 1969 documentary and Diana-era media crises.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "monarchy",
+        "the-crown",
+        "united-kingdom",
+        "royal-media",
+        "true-frame"
+      ],
+      "spoilerNote": "May include minor hints about The Crown, but does not reveal the ending.",
+      "mediaChanged": "The series dramatizes media pressure as family conflict; historically, the palace managed it through press offices, protocol and carefully staged visibility.",
+      "whyItMatters": "Modern monarchy is sustained not only by tradition, but by a constantly renegotiated media contract with the public.",
+      "isFlagship": true,
+      "quickRealityCheck": "Did television simply make the monarchy popular, or did it also make royal privacy and authority harder to protect?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-186-prime-ministers",
+      "title": "Prime Ministers",
+      "subtitle": "The private audience as constitutional routine",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "era": "Modern History",
+      "region": "United Kingdom",
+      "themes": [
+        "Monarchy",
+        "Media",
+        "Politics"
+      ],
+      "whatWeSee": "The Crown presents meetings with prime ministers, from Churchill to Thatcher, as one of the palace's most dramatic routines. Two people talk behind closed doors, and the viewer senses that the state may shift in those conversations. The show heightens them for character conflict. The real convention is narrower: the monarch does not run daily politics, but remains informed and may advise, encourage and warn.",
+      "realHistory": "In Britain’s constitutional monarchy, governing power is exercised by the elected prime minister and cabinet. The monarch represents continuity, appoints the prime minister, opens Parliament, gives Royal Assent and receives state papers. These formal duties do not mean the sovereign runs an independent political program.\n\nRoyal.uk describes weekly audiences between the sovereign and prime minister. The monarch remains politically neutral, but may advise and warn ministers in private. The meetings are completely confidential, which is why most of The Crown's dialogue is dramatic reconstruction rather than transcript. That secrecy protects the monarchy’s non-partisan authority: influence may exist, but it must not become visible party politics.\n\nElizabeth II’s long reign made the convention unusually visible because she worked with so many different prime ministers. Churchill, Eden, Wilson, Thatcher, Blair and others brought different crises, yet the institutional line stayed the same. The prime minister decides and bears political responsibility; the monarch may counsel, but does not govern. The Crown turns the relationship into personal tension. History shows how unwritten rules can produce stability.",
+      "accuracyNote": "The weekly audience and its confidentiality are real; the tone, dialogue and conflicts shown by the series are dramatic reconstructions.",
+      "whyInteresting": "One of the British system’s most influential routines is not a public decision, but a private and limited space for counsel.",
+      "misconception": "The monarch is often imagined as directing prime ministers. In practice, the role is bounded by neutrality, information and limited advice.",
+      "nextTopics": [
+        "Constitutional Role",
+        "Coronation",
+        "Commonwealth"
+      ],
+      "sources": [
+        {
+          "title": "Royal.uk - The Sovereign and the Prime Minister",
+          "url": "https://www.royal.uk/the-sovereign-and-the-prime-minister",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "UK Parliament - Parliament and Crown",
+          "url": "https://www.parliament.uk/about/how/role/relations-with-other-institutions/parliament-crown/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "UCL Constitution Unit - What is the role of the monarchy?",
+          "url": "https://www.ucl.ac.uk/social-historical-sciences/constitution-unit/constitution-unit-publications/constitution-unit-explainers/what-role-monarchy",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-181-constitutional-role",
+        "tf26-184-royal-media",
+        "tf26-187-public-grief"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Crown's prime-minister scenes dramatize a real confidential convention rather than public transcripts.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "monarchy",
+        "the-crown",
+        "united-kingdom",
+        "prime-ministers",
+        "true-frame"
+      ],
+      "spoilerNote": "May include minor hints about The Crown, but does not reveal the ending.",
+      "mediaChanged": "The show turns private audiences into character conflict; historically, decision power stays with government while counsel remains with the monarch.",
+      "whyItMatters": "Unwritten constitutional conventions can stabilize democracies as much as visible institutions do.",
+      "isFlagship": false,
+      "quickRealityCheck": "Are The Crown's prime minister audiences real transcripts, or imagined conversations built around a confidential convention?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-187-public-grief",
+      "title": "Public Grief",
+      "subtitle": "When mourning became a legitimacy test",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "era": "Modern History",
+      "region": "United Kingdom",
+      "themes": [
+        "Monarchy",
+        "Media",
+        "Politics"
+      ],
+      "whatWeSee": "In The Crown, Diana's death is presented not only as a family tragedy, but as a breaking point in the monarchy's relationship with public emotion. The palace's early silence, the sea of flowers and the constant television cameras intensify the same crisis. The show dramatizes guilt and institutional reflex; historically, 1997 was a severe test of whether modern monarchy could answer emotional expectation.",
+      "realHistory": "When Diana died in Paris on August 31, 1997, public mourning in Britain quickly moved beyond traditional protocol. Flowers, notes and crowds gathered around Kensington Palace and Buckingham Palace, while broadcast media organized days of coverage around grief. The expectation was not only for a proper funeral, but for the palace to appear emotionally present.\n\nThe palace’s early focus on private family mourning was read by many as distance or coldness. Royal.uk preserves the Queen's September 5, 1997 televised address after Diana's death. That speech was not only a condolence message; it was an attempt to reconnect the institution with the public. The timing of the Queen's return to London, the flag, the tone of ceremony and the protection of Diana's sons all became symbolic questions.\n\nThe Crown condenses the crisis into palace decision scenes. Historically, public grief was also a media event shaped by live television, tabloid pressure, Tony Blair's “people's princess” framing and spontaneous rituals by ordinary people. The crisis showed that modern monarchy is judged not only by neutrality and tradition, but by credible and timely empathy.",
+      "accuracyNote": "Diana's death, the September 5 televised address and the public wave of mourning are documented; the show reconstructs private conversations dramatically.",
+      "whyInteresting": "A private death became a constitutional-media crisis testing the emotional contract between monarchy and public.",
+      "misconception": "The royal family is often assumed to answer public feeling automatically and quickly. In 1997, the perception of delay was part of the crisis.",
+      "nextTopics": [
+        "Constitutional Role",
+        "Coronation",
+        "Commonwealth"
+      ],
+      "sources": [
+        {
+          "title": "Royal.uk - A speech by The Queen following the death of Diana, Princess of Wales",
+          "url": "https://www.royal.uk/speech-following-death-diana-princess-wales",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Encyclopaedia Britannica - Diana, princess of Wales",
+          "url": "https://www.britannica.com/biography/Diana-princess-of-Wales",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Guardian - The death of Princess Diana: a week that rocked Britain",
+          "url": "https://www.theguardian.com/uk-news/2017/aug/31/death-of-diana-the-week-that-rocked-britain",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-184-royal-media",
+        "tf26-190-privacy",
+        "tf26-181-constitutional-role"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Crown's Diana crisis scenes connect to the documented public mourning and the Queen's September 1997 televised address.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "monarchy",
+        "the-crown",
+        "united-kingdom",
+        "public-grief",
+        "true-frame"
+      ],
+      "spoilerNote": "May include minor hints about The Crown, but does not reveal the ending.",
+      "mediaChanged": "The series reduces the crisis to family guilt and decisions; historically, media cycles, flowers, political framing and protocol flexibility all mattered.",
+      "whyItMatters": "Public mourning shows that modern monarchy builds legitimacy not only through tradition, but through visible emotional response.",
+      "isFlagship": false,
+      "quickRealityCheck": "After Diana's death, was the issue only what the palace did, or how quickly and visibly it did it?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-188-royal-finance",
+      "title": "Royal Finance",
+      "subtitle": "How is the cost of monarchy explained?",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "era": "Modern History",
+      "region": "United Kingdom",
+      "themes": [
+        "Monarchy",
+        "Media",
+        "Politics"
+      ],
+      "whatWeSee": "The Crown often makes royal finance felt through palace costs, protocol burdens and public criticism. Ceremonies and estates look like tradition on screen; in news language the same images become budget, tax and accountability debates. The show does not explain the numbers, but it raises a central question: how does a modern constitutional monarchy justify its cost?",
+      "realHistory": "### From Civil List to Sovereign Grant\n\nBritish royal finance cannot be reduced to either “the royals pay for themselves” or “the public pays for everything.” From 1760 onward, Crown Estate revenues were surrendered to the government in return for funding the sovereign's official duties through arrangements such as the Civil List. After 2012, the main framework became the Sovereign Grant. It is used for official duties, staff, official travel and maintenance of occupied royal palaces.\n\nThe Crown Estate should not be treated as the monarch's private property. Its profits go to the government, while the Sovereign Grant is calculated through a formula linked to those profits and is subject to public reporting and parliamentary scrutiny. This distinction is central to the finance debate: the institution’s official costs appear in public accounts, while some private income and property arrangements sit under separate legal structures.\n\n### Public cost and private income\n\nRoyal finance also includes the Duchy of Lancaster and Duchy of Cornwall, which support official and family expenses in different ways. Crown jewels, the Crown Estate, private property and palace maintenance are often thrown into the same public argument, but they are not the same thing. The Crown's visual language can blur the categories because the viewer sees palace, wealth and state in one image.\n\nIn practice, the issue is both accounting and legitimacy. Renovations to Buckingham Palace, official travel and staffing regularly raise public debate. Supporters point to diplomacy, tourism and national-brand value. Critics emphasize cost, privilege and transparency. The argument reminds us that monarchy is not only ceremony; it is also a public budget question.\n\n### Why finance becomes political\n\nRoyal finance becomes especially visible during economic pressure. When living costs rise, palace restoration or official travel can feel symbolically larger than the sum itself. The debate is therefore not only “how much?” It is also about accountability, which revenues count as public, and how inherited privilege fits with democratic oversight.\n\nThe Crown usually treats finance as background atmosphere. Historically, it is one of the clearest legitimacy tests of modern monarchy. The Crown is a symbol and a budget line at the same time. Without separating Crown Estate income, Sovereign Grant spending and personal wealth, the public argument becomes confused.\n\n### The transparency problem\n\nAnnual reports and parliamentary briefings have made the official system more legible, but they have not ended debate. The monarchy asks the public to value service, continuity and representation; critics ask whether those values can be priced and audited. That tension is not a side issue. It is one of the ways a hereditary institution tries to survive inside a democratic and media-saturated society.",
+      "accuracyNote": "The shift from Civil List to Sovereign Grant, the Crown Estate revenue structure and official spending categories are sourced. The show uses finance mainly as dramatic background.",
+      "whyInteresting": "Royal finance shows how a traditional symbol has to coexist with modern public accounting.",
+      "misconception": "The royal family is often imagined as either entirely self-funded or entirely taxpayer-funded. The real structure distinguishes Crown Estate, Sovereign Grant, private income and official costs.",
+      "nextTopics": [
+        "Constitutional Role",
+        "Coronation",
+        "Commonwealth"
+      ],
+      "sources": [
+        {
+          "title": "Royal.uk - Sovereign Grant",
+          "url": "https://www.royal.uk/sovereign-grant",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "UK Government - Sovereign Grant recalculated as offshore wind profits rise",
+          "url": "https://www.gov.uk/government/news/sovereign-grant-recalculated-as-offshore-wind-profits-rise",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "UK Parliament Research Briefing - Royal finances",
+          "url": "https://commonslibrary.parliament.uk/research-briefings/sn05758/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The Crown Estate - Official website",
+          "url": "https://www.thecrownestate.co.uk/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-181-constitutional-role",
+        "tf26-184-royal-media",
+        "tf26-190-privacy"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Crown's scenes of protocol and palace expense sit behind a real system of Sovereign Grant reporting, Crown Estate revenues and parliamentary scrutiny.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "monarchy",
+        "the-crown",
+        "united-kingdom",
+        "royal-finance",
+        "true-frame"
+      ],
+      "spoilerNote": "May include minor hints about The Crown, but does not reveal the ending.",
+      "mediaChanged": "The show presents cost through grandeur and protocol; official sources separate finance into Sovereign Grant, Crown Estate revenue, official duties and private income categories.",
+      "whyItMatters": "If constitutional monarchy survives in a democracy, symbolic value and publicly explainable finance both become part of its legitimacy.",
+      "isFlagship": true,
+      "quickRealityCheck": "When people talk about palace costs, should the Crown Estate, Sovereign Grant and private royal wealth be treated as the same thing?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-189-empire-memory",
+      "title": "Empire Memory",
+      "subtitle": "What survives after imperial power fades?",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "era": "Modern History",
+      "region": "United Kingdom",
+      "themes": [
+        "Monarchy",
+        "Media",
+        "Politics"
+      ],
+      "whatWeSee": "In The Crown, empire memory often appears behind state visits, Commonwealth ceremonies, speeches and family crises. The palace tries to preserve continuity, while the changing world asks what those symbols hide. The show builds this as an emotional and political atmosphere, but it naturally narrows colonial violence and citizenship debates.",
+      "realHistory": "After the Second World War, empire memory in Britain was not mere nostalgia. It shaped foreign policy, migration, citizenship and national identity. Decolonization accelerated with the independence of India and Pakistan in 1947, while the Suez Crisis of 1956 exposed the limits of Britain’s global power. Yet the idea of a “world role” did not simply disappear. The Commonwealth offered a softer and less direct diplomatic frame for that claim.\n\nThe monarchy produced symbolic continuity during this transition. Royal tours, Commonwealth meetings, commemorations and broadcasts tried to hold a fragmenting imperial geography inside a shared story. But the story was not remembered equally. Kenya, Malaya, Cyprus and other cases showed the limits of the idea that British withdrawal was always peaceful. As archives opened, detention, forced movement and repression became more visible.\n\nThe Windrush generation and later citizenship disputes show that empire did not remain in the past. Who counts as British, whose papers are recognized and whose labor belongs in the national story are all questions tied to imperial memory. Museum collections, restitution debates and statue controversies continue the same argument through objects and public space. The Crown looks from the palace window; a fuller reading asks which wounds receive recognition and which symbols delay reckoning.",
+      "accuracyNote": "The show gives post-imperial atmosphere through symbols and family relations; decolonization violence, Windrush and museum/restitution debates require wider context.",
+      "whyInteresting": "A country's present identity debate is shaped by which imperial achievements and harms it chooses to remember publicly.",
+      "misconception": "Empire memory is often treated as only old ceremony, nostalgia and royal protocol.",
+      "nextTopics": [
+        "Constitutional Role",
+        "Coronation",
+        "Commonwealth"
+      ],
+      "sources": [
+        {
+          "title": "UK National Archives - End of Empire",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/end-of-empire/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "UK National Archives - Suez Crisis 1956",
+          "url": "https://www.nationalarchives.gov.uk/education/sessions/suez-crisis-1956/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "UK National Archives - The Empire Windrush",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/the-empire-windrush/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Encyclopaedia Britannica - Decolonization and the loss of empire",
+          "url": "https://www.britannica.com/place/United-Kingdom/Decolonization-and-the-loss-of-empire",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-183-commonwealth",
+        "tf26-184-royal-media",
+        "tf26-190-privacy"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Crown's royal tours and Commonwealth atmosphere connect to the continuing debate over British decolonization and imperial memory.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "monarchy",
+        "the-crown",
+        "united-kingdom",
+        "empire-memory",
+        "true-frame"
+      ],
+      "spoilerNote": "May include minor hints about The Crown, but does not reveal the ending.",
+      "mediaChanged": "The show centers palace and family relations; historically, decolonization violence, migrant citizenship rights and public recognition struggles are more decisive.",
+      "whyItMatters": "Reading empire memory carefully makes the historical roots of representation, citizenship, museums and equality debates visible.",
+      "isFlagship": false,
+      "quickRealityCheck": "After Suez, through which symbols and institutions did imperial language continue even as geopolitical power declined?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-190-privacy",
+      "title": "Privacy and Duty",
+      "subtitle": "Private life under constitutional expectations",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "era": "Modern History",
+      "region": "United Kingdom",
+      "themes": [
+        "Monarchy",
+        "Media",
+        "Politics"
+      ],
+      "whatWeSee": "The Crown treats royal privacy through family conflict, press pressure and the language of duty. A closed-door conversation can become a headline the next day; personal pain is tied to institutional legitimacy. The show makes this tension visible through drama. History repeatedly asks the same question: how private can a monarch and royal family remain?",
+      "realHistory": "Twentieth-century British monarchy increased its visibility through radio and television while repeatedly redrawing the boundary of privacy. The televised coronation, Christmas Broadcasts and official photographs helped build public connection. But as visibility grew, private life became news. Divorce, health, children, romantic relationships and crisis management were no longer purely personal; they affected public confidence in the institution.\n\nConstitutionally, the sovereign's political neutrality and confidential meetings with the prime minister remain basic conventions. Royal.uk describes those weekly audiences as entirely private. That privacy is not only personal; it protects the monarch’s ability to advise without entering public controversy.\n\nThe Diana years showed how fragile family privacy became in the tabloid age. Interviews, paparazzi pursuit and the public mourning of 1997 revealed that the old “never complain, never explain” posture could not answer every crisis. The Crown turns that fracture into family drama. Historically, the issue is broader. Modern monarchy cannot fully protect privacy, but if it opens everything, it loses symbolic distance. The line between privacy and duty is therefore not fixed. It shifts with media technology, public expectation and crisis.",
+      "accuracyNote": "The show dramatizes private conversations and family tension; the confidentiality of prime-minister meetings, media visibility and Diana-era privacy crisis are grounded in sources.",
+      "whyInteresting": "In constitutional monarchy, privacy is not only a family right; it is also a political resource tied to neutrality and legitimacy.",
+      "misconception": "The royal family is often imagined as fully closed off from media. Since television, the institution has survived through controlled visibility.",
+      "nextTopics": [
+        "Constitutional Role",
+        "Coronation",
+        "Commonwealth"
+      ],
+      "sources": [
+        {
+          "title": "Royal.uk - The Sovereign and the Prime Minister",
+          "url": "https://www.royal.uk/the-sovereign-and-the-prime-minister",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Royal.uk - Christmas Broadcast 1969",
+          "url": "https://www.royal.uk/christmas-broadcast-1969",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Royal.uk - A speech by The Queen following the death of Diana, Princess of Wales",
+          "url": "https://www.royal.uk/speech-following-death-diana-princess-wales",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-184-royal-media",
+        "tf26-187-public-grief",
+        "tf26-186-prime-ministers"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The Crown's Diana, Charles and palace-crisis scenes can be read alongside the confidentiality of prime-minister audiences and modern royal media strategy.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "monarchy",
+        "the-crown",
+        "united-kingdom",
+        "privacy-and-duty",
+        "true-frame"
+      ],
+      "spoilerNote": "May include minor hints about The Crown, but does not reveal the ending.",
+      "mediaChanged": "The show makes privacy visible through interior monologue and closed rooms; the real institution managed many crises through press offices and protocol language.",
+      "whyItMatters": "Modern monarchy must constantly adjust what belongs to public knowledge, constitutional confidentiality and family privacy.",
+      "isFlagship": false,
+      "quickRealityCheck": "Is royal privacy a personal privilege, or also a screen needed for neutrality and constitutional functioning?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-191-plague-spread",
+      "title": "Plague Spread",
+      "subtitle": "The plague map was also a trade map",
+      "mediaType": "general",
+      "mediaTitle": "Black Death-themed works",
+      "era": "Middle Ages",
+      "region": "Europe",
+      "themes": [
+        "Disease",
+        "Society",
+        "Misconceptions"
+      ],
+      "whatWeSee": "Black Death-themed films and games often show plague as cities darkening on a map, corpse carts and death moving from port to port. The visual language is powerful because the disease did feel incomprehensible and unstoppable to many fourteenth-century communities. But the spread cannot be explained only by dirty cities or rats.",
+      "realHistory": "The Black Death was caused by the bacterium Yersinia pestis. The CDC explains that people usually become infected through bites from fleas carried by infected rodents or through contact with infected animals. In the medieval pandemic, that biological cycle intersected with Mediterranean and Black Sea commerce, war, port traffic and movement between towns. The disease map was therefore also a map of trade and transport.\n\nFrom 1347 onward, Black Sea connections and Mediterranean ports were critical in the early European spread. Ships carried more than people: grain, cloth, animal products, cargo and rodent ecologies moved together. Overland routes then connected ports to inland markets. In some settings, pneumonic plague may also have contributed to person-to-person transmission, especially in close and fearful urban conditions.\n\nThe common “rats only” explanation is too simple. Fleas, rodents, human mobility, cargo handling, ports and local conditions all shaped the pattern. Contemporary people lacked germ theory, so they turned to miasma, divine punishment or scapegoating. Modern science identifies the pathogen, but history explains how the social world gave it continental reach.",
+      "accuracyNote": "The Yersinia pestis connection is strongly supported, but the relative weight of flea-rodent cycles, human movement and pneumonic transmission could vary by place.",
+      "whyInteresting": "The Black Death shows how biology and trade networks can combine to turn a disease into a continental disaster.",
+      "misconception": "The Black Death is often reduced to rats or dirty cities. In reality, fleas, rodents, people, ports and sometimes respiratory spread all mattered.",
+      "nextTopics": [
+        "Quarantine Idea",
+        "Flagellants",
+        "Plague and Hatred"
+      ],
+      "sources": [
+        {
+          "title": "CDC - About Plague",
+          "url": "https://www.cdc.gov/plague/about/index.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "CDC - How Plague Spreads",
+          "url": "https://www.cdc.gov/plague/causes/index.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Nature - A draft genome of Yersinia pestis from victims of the Black Death",
+          "url": "https://www.nature.com/articles/nature10549",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Encyclopaedia Britannica - Black Death",
+          "url": "https://www.britannica.com/event/Black-Death",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-192-quarantine",
+        "tf26-193-flagellants",
+        "tf26-194-antisemitism"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Black Death maps and port scenes should be read alongside plague transmission research and ancient DNA findings for Y. pestis.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "black-death",
+        "middle-ages",
+        "misconceptions",
+        "plague-spread",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Screen works emphasize sudden death and dark-street imagery; the historical pattern is more layered, involving trade, rodent ecology, movement and false explanations.",
+      "whyItMatters": "To understand pandemics, we need to study not only pathogens but also the economies, transport systems and information worlds that carry them.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did the Black Death spread only through rats, or did trade routes and human movement drive the disaster too?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-192-quarantine",
+      "title": "Quarantine Idea",
+      "subtitle": "How did the forty-day rule emerge in port cities?",
+      "mediaType": "general",
+      "mediaTitle": "Black Death-themed works",
+      "era": "Middle Ages",
+      "region": "Europe",
+      "themes": [
+        "Disease",
+        "Society",
+        "Misconceptions"
+      ],
+      "whatWeSee": "In Black Death-themed works, quarantine is often shown as city gates closing overnight or ships waiting offshore. The image is dramatic and partly right: fear of plague forced port cities to make hard decisions. Historically, however, quarantine was less a panic lock and more an administrative port technology that tried to slow risk without stopping trade completely.",
+      "realHistory": "### From trentina to quarantine\n\nThe word quarantine is connected to the Italian quaranta giorni, or forty days, but the practice did not appear fully formed in one city at one moment. A historical review in the CDC journal Emerging Infectious Diseases notes that an early isolation rule was introduced in Ragusa, now Dubrovnik, in 1377. Arrivals from plague-affected places were initially held for thirty days, a trentina. Over time, the forty-day quarantina became a more familiar Mediterranean standard.\n\nThat distinction matters. Medieval cities did not know bacteria, but they observed that disease travelled with people, ships and contact. The goal was not to kill a known microbe, but to keep suspect travellers and cargo apart long enough for illness or death to appear. Forty days also carried religious and symbolic associations while giving authorities a practical waiting period.\n\n### Venice and the lazaretto system\n\nVenice helped institutionalize quarantine. The same historical tradition points to the Venetian Republic's 1423 creation of a permanent plague hospital on Santa Maria di Nazareth, the lazaretto. The system was not just about ships waiting in the harbor. Passengers, crews, cargo and previous ports were recorded. Suspect people were held on islands; goods could be aired, exposed to sun or treated through the cleansing practices of the time.\n\nQuarantine was also economic policy. Closing a port completely could ruin a trading state. Quarantine therefore searched for a middle path between epidemic fear and commercial survival. Merchants complained about delay, powerful people asked for exceptions, and poor sailors or travellers often bore the harshest waiting conditions. It was not always fair, but it made epidemic management a matter of records, time and authority.\n\n### A modern lesson\n\nFilms usually turn quarantine into a wall, a gate or a panic scene. The deeper history is more bureaucratic: health boards, port registers, waiting islands, cargo rules and exception bargaining. Quarantine is therefore not only a medieval fear response; it is an ancestor of modern border health and travel regulation.\n\nPeople in the Black Death world did not understand Y. pestis, yet they sensed that movement carried danger and built a management system around that observation. The system was imperfect, unequal and often breached. Still, it became one of the major early experiments in balancing disease control with commerce.\n\n### Why it lasted\n\nQuarantine endured because it turned uncertainty into procedure. Authorities could not cure plague, but they could count days, name ports of origin, separate travellers and keep records. That made fear governable. It also created lasting ethical questions: who waits, who pays, who is exempt and who is blamed when disease crosses a border? Those questions make quarantine a living political idea, not just a medieval relic.",
+      "accuracyNote": "The 1377 Ragusa/Dubrovnik trentina, the later forty-day quarantina and the Venetian lazaretto system are sourced. Screen works often compress this gradual institutional history into a single city lockdown.",
+      "whyInteresting": "Quarantine shows that even with limited medical knowledge, cities could invent risk management through observation, time and recordkeeping.",
+      "misconception": "Quarantine is often imagined as a forty-day rule that began everywhere at once during the Black Death. In reality, it matured port by port from shorter isolation rules.",
+      "nextTopics": [
+        "Plague Spread",
+        "Flagellants",
+        "Plague and Hatred"
+      ],
+      "sources": [
+        {
+          "title": "CDC Emerging Infectious Diseases - Lessons from the History of Quarantine, from Plague to Influenza A",
+          "url": "https://wwwnc.cdc.gov/eid/article/19/2/12-0312_article",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "CDC Emerging Infectious Diseases - Osler and the Infected Letter",
+          "url": "https://wwwnc.cdc.gov/eid/article/11/5/04-0616_article",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Encyclopaedia Britannica - Quarantine",
+          "url": "https://www.britannica.com/science/quarantine",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-191-plague-spread",
+        "tf26-193-flagellants",
+        "tf26-194-antisemitism"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Port closure scenes become clearer when read alongside Ragusa's 1377 isolation rule and Venice's lazaretto system.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "black-death",
+        "middle-ages",
+        "misconceptions",
+        "quarantine-idea",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Screen works portray quarantine as an instant city lockdown; historically it worked through health boards, port records, waiting islands and commercial exceptions.",
+      "whyItMatters": "The history of quarantine shows that epidemic control is not only medicine; it is also about borders, trade, records and fairness.",
+      "isFlagship": true,
+      "quickRealityCheck": "Was quarantine a single forty-day rule from the beginning, or a gradual port policy from Ragusa to Venice?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-193-flagellants",
+      "title": "Flagellants",
+      "subtitle": "When plague fear became street repentance",
+      "mediaType": "general",
+      "mediaTitle": "Black Death-themed works",
+      "era": "Middle Ages",
+      "region": "Europe",
+      "themes": [
+        "Disease",
+        "Society",
+        "Misconceptions"
+      ],
+      "whatWeSee": "In Black Death-themed works, flagellants appear as crowds walking through streets, singing hymns and whipping their own backs. The image is powerful: when medicine seemed unable to help, bodily punishment could look like a collective search for explanation and control. The image has a historical core, but the movement was not the Church's orderly official policy; it was an independent religious wave that quickly drew suspicion.",
+      "realHistory": "During the plague wave of 1348-1350, self-whipping movements became visible in many parts of Europe. Groups travelled from town to town, prayed, sang and interpreted plague as punishment for human sin. For communities desperate for meaning, this offered a dramatic language of repentance. Some towns welcomed them, and some local clergy sympathized.\n\nAs the movement grew, however, it became a problem for Church authorities. Flagellant groups preached outside clerical control and could imply ideas about confession and salvation that challenged official teaching. Pope Clement VI condemned the movement in 1349 not merely because it was excessively pious, but because a roaming mass movement could create heresy, disorder and violence.\n\nThe risk became concrete in some places. Plague fear merged with accusations against Jewish communities and other minorities; flagellant crowds could become part of a wider atmosphere of scapegoating and pogroms. Not every group committed the same violence, but the movement's street power made the question of blame more dangerous.\n\nFlagellants should therefore not be treated only as a dark medieval visual. They reveal the fragile relationship among medical uncertainty, religious fear, church authority and crowd politics in moments of catastrophe.",
+      "accuracyNote": "Flagellant movements and the 1349 papal condemnation are well documented, though organization, violence and local reception varied by region.",
+      "whyInteresting": "A plague ritual could quickly become both popular piety and a threat to official authority.",
+      "misconception": "Flagellants are often imagined as the Church's official plague policy. In reality, the movement often operated outside clerical control and was condemned in 1349.",
+      "nextTopics": [
+        "Plague Spread",
+        "Quarantine Idea",
+        "Plague and Hatred"
+      ],
+      "sources": [
+        {
+          "title": "The Flagellants (Fitzwilliam Museum)",
+          "url": "https://fitzmuseum.cam.ac.uk/explore-our-collection/highlights/context/stories-and-histories/the-flagellants",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Flagellant (Encyclopaedia Britannica)",
+          "url": "https://www.britannica.com/topic/flagellant",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Don’t Whip Yourself for Faith, Said the Pope (Christian History Institute)",
+          "url": "https://christianhistoryinstitute.org/dailystory/permalink/dont-whip-yourself-for-faith-said-the-pope",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-194-antisemitism",
+        "tf26-191-plague-spread",
+        "tf26-192-quarantine"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Black Death street-penance scenes sit better in context when read alongside the 1349 flagellant wave and papal condemnation.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "black-death",
+        "middle-ages",
+        "misconceptions",
+        "flagellants",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Screen works use flagellants as visual shock; historical sources treat them through repentance, extra-institutional authority and epidemic violence.",
+      "whyItMatters": "In disaster, the search for meaning can turn into crowd politics and exclusionary violence when institutions lose control.",
+      "isFlagship": false,
+      "quickRealityCheck": "Were flagellant processions an approved Church solution, or an independent mass movement soon condemned?",
+      "lastReviewedAt": "2026-06-28"
+    }
+  ]
+}

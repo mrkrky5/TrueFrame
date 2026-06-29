@@ -1,0 +1,1376 @@
+{
+  "meta": {
+    "purpose": "English-native adaptation batch",
+    "sourceChunk": "source-chunk-008.json",
+    "batchNumber": 8,
+    "cardCount": 20,
+    "sourceCardRange": "TR order cards 141-160",
+    "alreadyAuthoredCountBeforeBatch": 140,
+    "authoredCountAfterBatch": 160,
+    "remainingCountAfterBatch": 291,
+    "ids": [
+      "ghost-samurai-reality",
+      "kcd-medieval-diet",
+      "oppenheimer-trinity-reality",
+      "chernobyl-biorobots-cost",
+      "gladiator-commodus-real",
+      "got-war-of-roses-real",
+      "shogun-tokugawa-rise-real",
+      "napoleon-egypt-propaganda",
+      "300-persian-immortals-real",
+      "oppenheimer-los-alamos-culture",
+      "gladiator-arena-economics",
+      "chernobyl-rbmk-flaw",
+      "crown-tv-coronation-1953",
+      "vikings-silk-road-trade",
+      "last-kingdom-alfred-dream",
+      "saving-private-ryan-omaha",
+      "napoleon-code-legacy-real",
+      "300-hoplite-phalanx-real",
+      "oppenheimer-rad-downwinders",
+      "gladiator-female-gladiatrix"
+    ],
+    "notes": "Adapted from Turkish canonical cards. Source URLs, IDs, relatedCardIds, enums, flags and non-localized metadata are preserved from TR; localized text fields are English-native adaptations."
+  },
+  "cards": [
+    {
+      "id": "ghost-samurai-reality",
+      "title": "Samurai Reality: Honor or Pragmatism?",
+      "subtitle": "Ghost of Tsushima and the real warrior world behind the myth.",
+      "mediaType": "game",
+      "mediaTitle": "Ghost of Tsushima",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Japan",
+        "War",
+        "Culture"
+      ],
+      "isFlagship": true,
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "tags": [
+        "ghost-of-tsushima",
+        "samurai",
+        "japan",
+        "historical-reality"
+      ],
+      "quickRealityCheck": "Is the samurai honor in Ghost of Tsushima a direct mirror of 1274 warfare, or a later romantic image used for dramatic force?",
+      "mediaChanged": "The game frames Jin Sakai's use of stealth as a betrayal of samurai identity; historical warriors could use ambush, scouting, and deception when military success required it.",
+      "realHistory": "### What did samurai mean in 1274?\n\nGhost of Tsushima turns samurai honor into a clear dramatic dilemma: open combat or stealth, rule or survival. The problem is that Kamakura-period warriors in 1274 should not be read through the fully polished Bushido image that became popular much later. A samurai of this period was first of all a member of a military elite serving a house, seeking reward, land, reputation, and battlefield success. Honor mattered, but it did not always mean a formal face-to-face duel or a refusal to use deception.\n\n### Horses, bows, and adaptation\n\nDuring the Mongol invasions, Japanese warrior culture still centered strongly on mounted archery, elite armor, and weapons such as the tachi. The katana fits the visual identity of the game, but it should not stand alone as the symbol of 13th-century warfare. Japanese defenders facing Yuan and Goryeo forces encountered coordinated movement, drums, massed arrows, explosive weapons, and different battlefield discipline. That shock exposed the limits of older fighting habits. It was not a simple fall from honor into dishonor; it was adaptation under pressure.\n\n### The later language of Bushido\n\nThe Bushido language most people associate with samurai was systematized much later, especially under the long peace of the Edo period, when warrior identity had to be explained as an ethical and social ideal. That does not mean earlier warriors lacked loyalty, reputation, or codes of conduct. It does mean that Ghost of Tsushima's central dilemma — if you use stealth, you cease to be samurai — is better understood as a modern dramatic frame than as a fixed historical law. Ambush, reconnaissance, deception, night attacks, and local knowledge could all be part of military practice when circumstances demanded them.\n\n### Tsushima's real place\n\nTsushima really was among the first places hit by the Mongol invasion, and local defenders paid a heavy price. But Japan was not saved by one lone hero. Defense preparations in Kyushu, warrior networks, coastal fortifications, naval logistics, and the storms of 1274 and 1281 all shaped the outcome. The game compresses this wider history into Jin Sakai's personal moral crisis. The historical frame is broader: samurai identity was never a single pure honor code. It was a practice shaped by technology, class interest, loyalty, reward, and the need to survive changing war.\n\nThe important distinction is not whether Jin's dilemma is emotionally believable. It is believable. The distinction is whether it reflects a fixed medieval rule. Historically, warrior behavior changed with enemies, terrain, household obligation, and reward. Ghost of Tsushima turns that shifting reality into one clear moral line, which makes excellent drama but simplifies the older warrior world.",
+      "whyItMatters": "Reading samurai history carefully shows that honor was not a timeless rulebook. It was shaped by period, class, technology, and political need.",
+      "sources": [
+        {
+          "title": "Samurai (Britannica)",
+          "url": "https://www.britannica.com/topic/samurai",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Art of the Samurai: Japanese Arms and Armor, 1156–1868 (The Metropolitan Museum of Art)",
+          "url": "https://www.metmuseum.org/exhibitions/listings/2009/art-of-the-samurai/photo-gallery",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Tracing the Mongolian Invasion (Kyushu National Museum)",
+          "url": "https://www.kyuhaku.jp/en/exhibition/exhibition_pre192.html",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ghost-tsushima-invasion",
+        "ghost-onna-musha",
+        "ghost-mongol-navy"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Ghost of Tsushima frames samurai identity as a moral crisis: face the enemy openly, or survive through stealth, deception, and fear. The conflict is powerful, but it reflects a later romantic image of the samurai more than a strict rulebook for 1274 warfare.",
+      "accuracyNote": "The game turns the 1274 invasion into a clear moral conflict for a modern audience. Historically, Kamakura samurai are better understood through mounted archery, household loyalty, reward systems, and battlefield adaptation than through a later, rigid Bushido image.",
+      "whyInteresting": "The game's strongest idea is not that it reproduces a real legal code of samurai conduct, but that it shows how the samurai image became a romantic moral story over time.",
+      "misconception": "Samurai are often imagined as following the same Bushido rules in every era; in reality, samurai identity meant different things in the Kamakura, Sengoku, and Edo periods.",
+      "reviewerNote": "Flagship adaptation preserves the TR caution around Bushido, tachi/katana, and the Mongol invasion context.",
+      "nextTopics": [
+        "Kamakura Samurai",
+        "Mongol Invasions of Japan",
+        "Bushido"
+      ],
+      "mediaConnection": "This card reads Ghost of Tsushima against the historical world of the 1274 Mongol invasion, Kamakura warrior culture, and the later romanticization of samurai honor."
+    },
+    {
+      "id": "kcd-medieval-diet",
+      "title": "What Did People Eat in Medieval Bohemia?",
+      "subtitle": "Feast tables, village pots, and the reality of 1403.",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Daily Life",
+        "Middle Ages",
+        "Culture"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "kingdom-come-deliverance",
+        "middle-ages",
+        "daily-life",
+        "bohemia"
+      ],
+      "quickRealityCheck": "Was the medieval table mostly meat feasts, or did bread, grain, pottage, and seasonal produce define everyday life?",
+      "mediaChanged": "Films often highlight great meat tables; Kingdom Come's pot-and-village feeling is closer to the everyday role of grain, pottage, and seasonal food.",
+      "realHistory": "One of Kingdom Come: Deliverance's strengths is that it makes medieval Bohemia feel lived in through pots, bread, beer, and village routines, not only through battles and noble feasts. Around 1403, ordinary diets depended on grain, bread, porridge, pottage-like stews, pulses, cabbage and other vegetables, onions, cheese, eggs, and small amounts of meat or fish when available. Meat existed, but daily roasted joints were not realistic for most households.\n\nClass shaped the table. Nobles and wealthy townspeople could reach better bread, wine, spices, game, and more varied dishes. For peasants, satiety, storage, season, and local production mattered more. Rye and barley could be important depending on region and harvest. Honey was used for sweetness; potatoes, tomatoes, maize, and many peppers were still absent from European cooking because they came from the Americas later.\n\nThat is why the game's communal pots and rough village food work so well. Medieval cuisine was not flavorless misery, but it was bounded by class, season, religious calendar, and access to land, animals, mills, ovens, and markets.",
+      "whyItMatters": "Food is one of the clearest ways to see class, climate, agriculture, and trade in a past society.",
+      "sources": [
+        {
+          "title": "How to cook a medieval feast (The British Museum)",
+          "url": "https://www.britishmuseum.org/blog/how-cook-medieval-feast-11-recipes-middle-ages",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Food in Medieval England: Diet and Nutrition (PMC review)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2175059/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Early medieval England food and diet (University of Cambridge)",
+          "url": "https://www.arch.cam.ac.uk/news/early-medieval-england-food-and-diet-explored-new-bioarchaeological-studies",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "kcd-bohemia",
+        "kcd2-medieval-law",
+        "kcd-medieval-crime"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Kingdom Come: Deliverance makes medieval food feel grounded: village pots, bread, beer, and market food matter more than endless noble banquets.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "KCD gives a strong historical food atmosphere, but no single meal should be treated as universal. Diet varied by season, status, local production, and the church calendar.",
+      "whyInteresting": "The medieval table also reveals what was not there: potatoes, tomatoes, maize, and peppers did not belong in 1403 Bohemia.",
+      "misconception": "Medieval people are often imagined as eating either dry bread alone or constant meat feasts; the real diet was more balanced around grain, stews, pulses, ale, and class difference.",
+      "nextTopics": [
+        "Medieval Food",
+        "Bohemian Village Life",
+        "The Church Calendar"
+      ],
+      "mediaConnection": "This card uses Kingdom Come: Deliverance's village food atmosphere to explain ordinary eating in late medieval Bohemia."
+    },
+    {
+      "id": "oppenheimer-trinity-reality",
+      "title": "Trinity: The Logistics of the First Fire",
+      "subtitle": "The Manhattan Project's final test was more than a countdown.",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Science",
+        "Modern History",
+        "War"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "major",
+      "tags": [
+        "oppenheimer",
+        "atomic-bomb",
+        "modern-history",
+        "united-states",
+        "science"
+      ],
+      "quickRealityCheck": "Was Trinity only Oppenheimer waiting for the blast, or the final test of a vast secret engineering and state operation?",
+      "mediaChanged": "The film makes the blast a personal and moral peak; the historical process also includes the Gadget's engineering, site logistics, and later radiation questions.",
+      "realHistory": "The Trinity test was not just the moment of explosion. It was the result of months of engineering, security planning, weather decisions, transport, assembly, and measurement. The device tested in the Jornada del Muerto desert of New Mexico on 16 July 1945 was the plutonium implosion design known as the Gadget. Because it used plutonium from Hanford, it required extremely precise explosive symmetry; Los Alamos was therefore not only a place of theoretical physics but a huge engineering challenge.\n\nThe film captures the waiting very well, but the fear that the atmosphere might ignite needs careful handling. The possibility was discussed within the project and calculated to be unrealistically low before the test. The wagers and dark jokes around Trinity were less an unresolved doomsday calculation than a way for scientists to cope with the pressure.\n\nAt 5:30 a.m., the blast made the atomic age visible. The tower vanished, the desert surface fused into trinitite, and nearby communities were not told the true nature of the test. That is why Trinity should be read as more than a scientific success. It also involved secrecy, local exposure, wartime pressure, radiation questions, and the moral weight of turning knowledge into a weapon.",
+      "whyItMatters": "Trinity shows what happens when scientific knowledge becomes inseparable from military decision-making, state secrecy, and human consequences.",
+      "sources": [
+        {
+          "title": "Trinity Site (National Park Service)",
+          "url": "https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The Gadget (National Park Service)",
+          "url": "https://www.nps.gov/articles/000/the-gadget.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Trinity Test - 1945 (Atomic Heritage Foundation)",
+          "url": "https://ahf.nuclearmuseum.org/ahf/history/trinity-test-1945/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "oppenheimer-trinity",
+        "oppenheimer-science-state",
+        "oppenheimer-los-alamos-culture"
+      ],
+      "spoilerNote": "May reveal major late-story elements of Oppenheimer.",
+      "whatWeSee": "Oppenheimer turns the Trinity test into a personal and moral climax: weather, silence, fear, and the first light of the atomic age.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "The film powerfully captures the tension of the test. The atmosphere-ignition fear should not be treated as an unresolved possibility on the morning of the test, but as a concern that had already been calculated as extremely unlikely.",
+      "whyInteresting": "The Gadget was not simply a theory made visible. It was a complex system of explosive lenses, timing circuits, cabling, a test tower, and measurement equipment.",
+      "misconception": "Trinity is often remembered as one bright explosion; in reality it was a secret operation tied to logistics, radiation, local communities, and wartime politics.",
+      "nextTopics": [
+        "The Gadget",
+        "Los Alamos",
+        "Downwinders"
+      ],
+      "mediaConnection": "This card reads Oppenheimer's Trinity sequence through the engineering, logistics, secrecy, and fallout questions behind the first atomic test."
+    },
+    {
+      "id": "chernobyl-biorobots-cost",
+      "title": "Chernobyl's Biorobots",
+      "subtitle": "When machines failed, human bodies became the last tool.",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Soviet Union",
+        "Modern History",
+        "Disaster"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "chernobyl",
+        "soviet-union",
+        "nuclear-disaster",
+        "modern-history",
+        "science"
+      ],
+      "quickRealityCheck": "When machines failed at Chernobyl, was the roof really cleared through brief human missions — and was that only one part of a much larger cleanup?",
+      "mediaChanged": "The series condenses the roof missions into an intense sequence; the historical event involved failed robots, brief human tasks, and a much broader liquidator mobilization.",
+      "realHistory": "After the Chernobyl disaster, highly radioactive graphite and debris on the roof of the reactor building had to be cleared to contain the crisis. Robots and remote-controlled machines were tried first, but intense radiation damaged electronics. The Soviet response then turned to human labor. Soldiers and liquidators sent onto the roof for brief tasks later became known as \"biorobots.\"\n\nThese were not long heroic poses. Workers wore improvised protection, sometimes reinforced with lead plates, went onto the roof for a very short time, shoveled or pushed a few pieces of debris, and hurried back. Durations vary by source and roof sector, but the principle was clear: limit the dose by limiting exposure time. The image is so disturbing because it shows the human body used as the final instrument when technology could not survive.\n\nStill, the entire Chernobyl response should not be reduced to the roof alone. Firefighters, soldiers, engineers, miners, medical staff, cleaning teams, and construction workers all became part of the wider liquidator effort. Hundreds of thousands participated in cleanup and containment work, with doses and long-term health effects varying widely. The HBO series captures the horror of the roof; the real story is an even larger mobilization of human labor under state emergency.",
+      "whyItMatters": "The biorobots remind us that even in high-technology disasters, the final line of defense can become human labor and human risk.",
+      "sources": [
+        {
+          "title": "International Chernobyl Disaster Remembrance Day Background (United Nations)",
+          "url": "https://www.un.org/en/observances/chernobyl-remembrance-day/background",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Chernobyl Accident 1986 (World Nuclear Association)",
+          "url": "https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "What it was really like on top of Reactor No. 4 (ABC News)",
+          "url": "https://www.abc.net.au/news/2019-06-22/chernobyl-what-it-was-really-like-on-top-of-reactor/11223876",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "chernobyl-disaster",
+        "chernobyl-secrecy",
+        "chernobyl-bureaucracy-truth"
+      ],
+      "spoilerNote": "May contain minor Chernobyl story context.",
+      "whatWeSee": "Chernobyl shows men sent onto the roof of Reactor No. 4 for terrifyingly short missions after remote-controlled machines fail.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "The series strongly dramatizes the short roof missions. Historically, the biorobots were only one part of the wider liquidator mobilization, and dose levels and health outcomes varied significantly.",
+      "whyInteresting": "\"Biorobot\" is a chilling term because it captures a moment when human bodies were treated as temporary tools after machines failed.",
+      "misconception": "The cleanup is often imagined as the work of a few heroic individuals; in reality it required a vast, multi-year mobilization of liquidators from many professions.",
+      "nextTopics": [
+        "Liquidators",
+        "Reactor No. 4",
+        "Radiation Exposure"
+      ],
+      "mediaConnection": "This card uses Chernobyl's roof sequence to explain the real liquidator work and the limits of technology in extreme radiation."
+    },
+    {
+      "id": "gladiator-commodus-real",
+      "title": "The Gladiator Emperor: Commodus's Real End",
+      "subtitle": "The difference between Gladiator's tyrant and the historical emperor.",
+      "mediaType": "film",
+      "mediaTitle": "Gladiator",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Rome",
+        "Biography",
+        "Politics"
+      ],
+      "isFlagship": false,
+      "accuracyType": "partly-real",
+      "spoilerLevel": "major",
+      "tags": [
+        "gladiator",
+        "rome",
+        "biography",
+        "history",
+        "ancient-world"
+      ],
+      "quickRealityCheck": "Did Commodus really die in the arena, or did the film turn a palace assassination into a gladiator finale?",
+      "mediaChanged": "Gladiator makes Commodus Maximus's personal enemy and final arena opponent; the historical Commodus ruled for years, identified himself with Hercules, and died in a palace conspiracy.",
+      "realHistory": "Gladiator presents Commodus as a son who murders his father, quickly ruins the empire, and dies in the arena at the hands of Maximus. The historical Commodus was more complicated, though still deeply controversial. He ruled jointly with Marcus Aurelius from 177 and alone after 180. He was therefore not an excluded son who suddenly seized power, but an officially prepared dynastic heir.\n\nWhat made Commodus so striking was his identification with Hercules and the gladiatorial world. His appearances in the arena shocked Roman elites because an emperor performing as a gladiator blurred the social hierarchy that placed gladiators near the bottom of respectability. These performances should not be imagined as fair life-or-death contests. The conditions and opponents were arranged around imperial display, not equal danger.\n\nHis death was also different from the film. Commodus was killed in 192 in a palace conspiracy, strangled by the wrestler Narcissus while bathing. His murder ended the Nerva-Antonine line and helped trigger the crisis that led into the Year of the Five Emperors. Commodus should not be treated as the single man who \"caused Rome's fall.\" He is better read as a dangerous intersection of dynastic rule, court conspiracy, spectacle politics, and imperial self-mythology.",
+      "whyItMatters": "Commodus shows that leadership crises cannot be reduced to personality alone; they also involve dynastic politics, spectacle, and court power.",
+      "sources": [
+        {
+          "title": "Commodus (Britannica)",
+          "url": "https://www.britannica.com/biography/Commodus",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Commodus (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/commodus/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Commodus (Ancient Rome Live)",
+          "url": "https://ancientromelive.org/commodus/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "gladiator-colosseum",
+        "gladiator-political-theater",
+        "gladiator-arena-economics"
+      ],
+      "spoilerNote": "May reveal major plot points from Gladiator.",
+      "whatWeSee": "Gladiator turns Commodus into the personal enemy of Maximus: a jealous son, a theatrical tyrant, and finally a man defeated in the arena.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "The film draws on Commodus's personality cult and gladiatorial obsession, but his murder of Marcus Aurelius, his arena death, and the compressed timeline are dramatic fiction.",
+      "whyInteresting": "Commodus's arena performances were not just odd hobbies; for Roman elites, they degraded the symbolic dignity of the imperial office.",
+      "misconception": "Commodus is often thought to have died in the arena like in Gladiator; historically, he was strangled in a palace plot in 192.",
+      "nextTopics": [
+        "Commodus",
+        "Roman Succession",
+        "Imperial Spectacle"
+      ],
+      "mediaConnection": "This card compares Gladiator's Commodus with the historical emperor's arena obsession, dynastic position, and assassination."
+    },
+    {
+      "id": "got-war-of-roses-real",
+      "title": "The Wars of the Roses: Westeros's Real Inspiration",
+      "subtitle": "The bloody English politics behind fantasy dynasties.",
+      "mediaType": "series",
+      "mediaTitle": "Game of Thrones",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Middle Ages",
+        "England",
+        "Politics"
+      ],
+      "isFlagship": true,
+      "accuracyType": "inspired-by-reality",
+      "spoilerLevel": "major",
+      "tags": [
+        "game-of-thrones",
+        "england",
+        "middle-ages",
+        "wars-of-the-roses"
+      ],
+      "quickRealityCheck": "Is Westeros a direct copy of the Wars of the Roses, or a wider fantasy remix of late medieval dynastic politics?",
+      "mediaChanged": "The series spreads its historical inspiration across dynastic crisis, loyalty, marriage politics, and betrayal; the real histories behind those motifs were longer and more complex than single set-piece scenes.",
+      "realHistory": "Game of Thrones is often linked to a single historical source: the Wars of the Roses. The connection is real, but flexible. The conflicts between the houses of York and Lancaster from 1455 to 1487 provide a strong model for Westeros's family politics: weak kings, rival claims, shifting nobles, marriage alliances, and the importance of court rumor as well as battlefield victory.\n\n### Dynastic crisis and legitimacy\n\nThe Wars of the Roses were not simply a quarrel between two neat factions. The exhaustion of the Hundred Years' War, private noble armies, the weakness of Henry VI's rule, and rival claims to the throne helped push England into repeated instability. York and Lancaster were branches of the same larger dynastic world, so the issue was not a clean divide between a good family and a bad one. It was the question that also drives Westeros: who can make a claim to power look legitimate, and who will accept it?\n\nThat is why simple equations such as Stark equals York and Lannister equals Lancaster should be used carefully. George R. R. Martin does not copy history character by character. He borrows its logic. Kingmakers such as Warwick, Edward IV's controversial marriage, the Princes in the Tower, and aristocratic shifts of loyalty all echo through the series, but no single character has to map perfectly onto one historical figure.\n\n### Betrayal, hospitality, and borders\n\nThe series also draws on other historical memories. The Red Wedding is often discussed alongside Scottish events such as the Black Dinner and the Massacre of Glencoe. In these examples, the shock is not only murder; it is the violation of hospitality, trust, and sworn protection. In medieval politics, betrayal inside a protected social ritual could be more traumatic than battlefield killing.\n\nThe Wall also recalls Hadrian's Wall, not as a direct copy but as a way of imagining a hard line between \"us\" and \"them.\" Rome's northern frontier becomes fantasy's ice boundary. Game of Thrones expands that idea into myth and supernatural fear.\n\n### After the bloodshed\n\nThe end of the Wars of the Roses also matters. Henry VII's Tudor settlement tried to close the conflict through marriage, symbol, and propaganda as well as military victory. Game of Thrones asks a darker version of the same question: after enough blood has been shed, how does a new order make itself look legitimate?\n\nThat is why the history behind Westeros is interesting. The series is not a fantasy photocopy of one English civil war. It is a remix of late medieval power: legitimacy, inheritance, marriage, betrayal, hospitality, and the difficulty of building peace after dynastic violence.",
+      "whyItMatters": "The link shows that historical inspiration in fantasy is not copying, but rearranging the logic of real power.",
+      "sources": [
+        {
+          "title": "Wars of the Roses (Britannica)",
+          "url": "https://www.britannica.com/event/Wars-of-the-Roses",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Glencoe Massacre and the Red Wedding (Smithsonian Magazine)",
+          "url": "https://www.smithsonianmag.com/smart-news/archaeologists-are-excavating-site-scottish-massacre-inspired-game-thrones-red-wedding-180972186/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "History of Hadrian's Wall (English Heritage)",
+          "url": "https://www.english-heritage.org.uk/visit/places/hadrians-wall/history-and-stories/history/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "got-roses",
+        "got-battle-of-bastards-hastings-real"
+      ],
+      "spoilerNote": "May reveal major Game of Thrones plot points.",
+      "lastReviewedAt": "2026-06-28",
+      "whatWeSee": "Game of Thrones presents Westeros as a world of dynastic rivalry, disputed legitimacy, child rulers, broken oaths, and brutal alliance politics, all wrapped in dragons and fantasy geography.",
+      "accuracyNote": "Game of Thrones clearly draws on the Wars of the Roses, but its characters and events should not be treated as one-to-one historical equivalents. The better reading is that the series reuses historical motifs: dynastic crisis, disputed legitimacy, shifting loyalties, and broken hospitality.",
+      "whyInteresting": "Even Westeros's most shocking betrayals speak to real medieval fears about oaths, guest rights, and dynastic legitimacy.",
+      "misconception": "Game of Thrones is often described as simply the Wars of the Roses with dragons; in reality, it mixes many English and Scottish historical motifs into a broader story of power.",
+      "reviewerNote": "Wars of the Roses, Red Wedding inspirations, and Hadrian's Wall framing checked against historical reference and heritage sources.",
+      "nextTopics": [
+        "Wars of the Roses",
+        "Hadrian's Wall",
+        "The Red Wedding"
+      ],
+      "mediaConnection": "This card reads Game of Thrones through the dynastic crises, betrayal politics, and border symbolism of late medieval Britain."
+    },
+    {
+      "id": "shogun-tokugawa-rise-real",
+      "title": "The Rise of Tokugawa: Toranaga's Real Genius",
+      "subtitle": "From Sekigahara to a long political peace.",
+      "mediaType": "series",
+      "mediaTitle": "Shōgun",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Japan",
+        "Samurai",
+        "Politics"
+      ],
+      "isFlagship": true,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "shogun",
+        "japan",
+        "tokugawa",
+        "samurai"
+      ],
+      "quickRealityCheck": "Was Toranaga merely a brilliant warrior, or an Ieyasu-like institution builder who planned for the world after battle?",
+      "mediaChanged": "Shōgun condenses Toranaga's rise into intense court drama; the historical process moved through Hideyoshi's succession crisis, regent politics, Sekigahara, William Adams's arrival, and gradual Tokugawa institution-building.",
+      "realHistory": "Toranaga in Shōgun is clearly inspired by Tokugawa Ieyasu. Ieyasu's greatness was not only that he could win battles, but that he knew when to wait. After Oda Nobunaga and Toyotomi Hideyoshi had largely unified Japan, Hideyoshi's death in 1598 left behind a child heir and a fragile council of regents. Ieyasu moved inside that uncertainty through marriages, alliances, patience, and positioning rather than simple open aggression.\n\n### The long road to Sekigahara\n\nThe Battle of Sekigahara in 1600 was the result of that long preparation. It was not merely two armies colliding in a field; secret negotiations, possible defections, and claims of legitimacy shaped the outcome long before the fighting began. Ieyasu's victory opened the path from Sengoku fragmentation to Tokugawa rule. When he received the title of shogun in 1603, he turned military victory into a durable political institution.\n\nThe council tension dramatized in Shōgun has a real historical logic. The post-Hideyoshi settlement was meant to preserve order, but it also placed the most powerful lords in a dangerous system of mutual surveillance. Ieyasu's skill was not to destroy that balance immediately, but to make it work in his favor. His strategy was as much about waiting and making opponents create a legitimacy crisis as it was about battlefield command.\n\n### Anjin and the value of foreign knowledge\n\nWilliam Adams is the historical core behind the Anjin figure. Arriving in Japan in 1600, the English pilot became useful to Ieyasu not simply as an exotic outsider, but as a source of information about European navigation, shipbuilding, trade, and Catholic-Protestant rivalry. His later status in Japan shows that the country was not simply closed to outside knowledge. It selected, filtered, and used that knowledge politically.\n\n### Turning war into order\n\nThe Tokugawa settlement later created a long Edo peace. It rested not only on force but on daimyo control, hostage logic, road networks, trade regulation, status hierarchy, and court ritual. Edo's rise was part of that institutionalization. By building his own administrative center away from Kyoto's imperial tradition, Ieyasu transformed victory into a new political rhythm.\n\nThis is what makes Toranaga compelling. His true weapon is not only an army, but the ability to narrow the choices available to rivals. Ieyasu did not simply win the last great battle. He translated the language of war into bureaucracy: hostages, cities, titles, marriages, trade choices, and daimyo oversight. Sometimes the greatest move is to let others misread your silence.",
+      "whyItMatters": "Ieyasu's story shows that military victory lasts only when it is turned into administrative order, legitimacy, and patient control.",
+      "sources": [
+        {
+          "title": "Tokugawa Ieyasu (Britannica)",
+          "url": "https://www.britannica.com/biography/Tokugawa-Ieyasu",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Japan400 seminar: William Adams and Tokugawa Ieyasu (Embassy of Japan in the UK)",
+          "url": "https://www.uk.emb-japan.go.jp/itpr_en/231212amb.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "William Adams / Miura Anjin biomolecular investigation (Scientific Reports)",
+          "url": "https://www.nature.com/articles/s41598-020-78723-2",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "shogun-edo",
+        "shogun-trade-sakoku",
+        "shogun-hostage-politics"
+      ],
+      "spoilerNote": "May contain minor Shōgun story context.",
+      "lastReviewedAt": "2026-06-28",
+      "whatWeSee": "Shōgun presents Toranaga as patient, threatened, and always reading the long game. Anjin, the Portuguese Jesuits, Osaka power politics, and rival regents all become part of one tense struggle for Japan's future.",
+      "accuracyNote": "Shōgun changes names and compresses events for drama, but the Toranaga-Ieyasu parallel, the William Adams/Anjin line, and the struggle leading toward Sekigahara all have real historical grounding.",
+      "whyInteresting": "Ieyasu's achievement lay less in destroying enemies quickly than in waiting for them to make mistakes and then turning victory into institutions.",
+      "misconception": "Tokugawa Ieyasu is often remembered only as a great warrior; his lasting influence came from building order after war and controlling daimyo power.",
+      "reviewerNote": "Tokugawa Ieyasu, William Adams, and Sekigahara details cross-checked with biographical and diplomatic sources.",
+      "nextTopics": [
+        "Sekigahara",
+        "William Adams",
+        "Edo Period"
+      ],
+      "mediaConnection": "This card reads Shōgun's Toranaga storyline through Tokugawa Ieyasu, William Adams, and the political road to Sekigahara."
+    },
+    {
+      "id": "napoleon-egypt-propaganda",
+      "title": "The Egyptian Campaign and Propaganda",
+      "subtitle": "An army stranded in the desert, a legend polished in Paris.",
+      "mediaType": "film",
+      "mediaTitle": "Napoleon",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Napoleon",
+        "Egypt",
+        "Propaganda"
+      ],
+      "isFlagship": false,
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "napoleon",
+        "egypt",
+        "propaganda",
+        "france",
+        "ancient-world"
+      ],
+      "quickRealityCheck": "Was Egypt a true triumph for Napoleon, or a failed campaign turned into an effective image campaign?",
+      "mediaChanged": "Napoleon highlights personal ambition and visual drama; historically, the Egyptian campaign must also be read through military failure, scientific production, and propaganda management.",
+      "realHistory": "The 1798 Egyptian campaign showed both Napoleon's military ambition and his propaganda skill. The goal was to threaten Britain's route to India and give France prestige in the eastern Mediterranean. Early battlefield successes were real, but Nelson's destruction of the French fleet at the Battle of the Nile turned the campaign into a strategic trap.\n\nNapoleon translated that trap into a different story for France. Scientists, engineers, and artists traveled with the army, measuring, drawing, cataloging, and describing Egypt. The discovery of the Rosetta Stone became the most famous part of that intellectual legacy. Militarily, the campaign was a failure; culturally and politically, it helped produce an image of Napoleon as conqueror, organizer, and modern man of science.\n\nHis return to France in 1799 should not be reduced to romance or private longing. The campaign had stalled, and Paris offered political opportunity. The army remained behind while Napoleon's legend moved home. The result is a classic case of image management: a failed strategic expedition became, in public memory, a story of discovery, destiny, and command.",
+      "whyItMatters": "The Egyptian campaign shows how a military failure can be transformed into political capital through communication and prestige.",
+      "sources": [
+        {
+          "title": "Napoleonic Wars: The Egyptian campaign (Britannica)",
+          "url": "https://www.britannica.com/event/Napoleonic-Wars/The-Egyptian-campaign",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Explore the Rosetta Stone (British Museum)",
+          "url": "https://www.britishmuseum.org/collection/egypt/explore-rosetta-stone",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "The Rosetta Stone: A Journey from Alexandria to London (Fondation Napoléon)",
+          "url": "https://www.napoleon.org/en/history-of-the-two-empires/articles/the-rosetta-stone-a-journey-from-alexandria-to-london/",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "napoleon-myth-reality",
+        "napoleon-code-legacy-real",
+        "napoleon-waterloo-masterclass"
+      ],
+      "spoilerNote": "May contain minor Napoleon story context.",
+      "whatWeSee": "Napoleon often presents Egypt through personal ambition, Josephine, striking desert imagery, and the construction of Napoleon's self-image.",
+      "lastReviewedAt": "2026-06-28",
+      "accuracyNote": "The film emphasizes personal drama. Historically, the Egyptian campaign was a mixture of military failure, scientific production, and Napoleon's ability to manage his public image.",
+      "whyInteresting": "The Rosetta Stone was found by French forces during a campaign that failed militarily, yet it became a turning point in modern Egyptology.",
+      "misconception": "Napoleon is sometimes imagined as leaving Egypt only because of Josephine; the campaign's strategic dead end and political opportunities in France mattered more.",
+      "reviewerNote": "Egyptian campaign chronology, Napoleon's departure, and Rosetta Stone discovery checked against museum and Napoleon history sources.",
+      "nextTopics": [
+        "Rosetta Stone",
+        "Battle of the Nile",
+        "Napoleonic Propaganda"
+      ],
+      "mediaConnection": "This card connects Napoleon's Egyptian campaign scenes to the real mix of military ambition, scientific documentation, and public image-making."
+    },
+    {
+      "id": "300-persian-immortals-real",
+      "title": "The Real Immortals, Not Masked Monsters",
+      "subtitle": "The elite guards of the Persian Empire.",
+      "mediaType": "film",
+      "mediaTitle": "300",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Persian Empire",
+        "War",
+        "Iran"
+      ],
+      "isFlagship": false,
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "300",
+        "persians",
+        "immortals",
+        "war"
+      ],
+      "quickRealityCheck": "Were the Immortals of 300 masked monsters, or an elite Persian infantry unit described by Herodotus?",
+      "mediaChanged": "300 deliberately makes Persians look alien and frightening; historical sources describe the Immortals as disciplined, prestigious troops within an imperial military system.",
+      "realHistory": "The Persian Immortals were very different from the monstrous figures in the film. According to Herodotus, they were an elite infantry force of 10,000 men in the Achaemenid army. The name did not mean they were literally invincible. It came from the idea that losses were quickly replaced, so the unit's number appeared to remain constant.\n\nThese troops served as a prestigious infantry and guard force. Their equipment included spears, bows, daggers, and light shields, representing a different battlefield logic from heavily armored Greek hoplites. The Persian army was not a faceless horde; it was an imperial military system made up of many peoples, weapons, and tactical roles.\n\nAt Thermopylae, the narrow terrain limited the advantages of Persian numbers. Even elite troops could struggle when forced into a constrained front against disciplined hoplite formations. The film deliberately makes Persia look alien and terrifying. The historical Immortals were disciplined soldiers within a large and sophisticated empire.\n\nThat difference matters because 300's visual politics are intentional. The Spartans are made to look plain, free, and human; the Persians are made excessive, decadent, and strange. The Achaemenid Empire, however, was a major state with roads, administration, communication systems, and professional military structures. Separating the film image from Persian organization is essential.",
+      "whyItMatters": "The card shows how war films can visually dehumanize an enemy and flatten the complexity of real armies.",
+      "sources": [
+        {
+          "title": "Immortals (Encyclopaedia Iranica)",
+          "url": "https://www.iranicaonline.org/articles/immortals/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Persian Immortals (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Persian_Immortals/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Immortal: Persian military unit (Britannica)",
+          "url": "https://www.britannica.com/topic/Immortal-Persian-military-unit",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "spartan-war-machines-myth",
+        "300-hoplite-phalanx-real",
+        "300-thermopylae-masterclass"
+      ],
+      "spoilerNote": "May contain minor 300 story context.",
+      "whatWeSee": "300 turns the Persian Immortals into masked, nearly inhuman figures, designed to contrast with the film's stark heroic image of the Spartans.",
+      "lastReviewedAt": "2026-06-28",
+      "accuracyNote": "The basic account of the Immortals comes largely through Herodotus, so details should be treated as ancient-source evidence rather than absolute certainty.",
+      "whyInteresting": "The idea of \"immortality\" was less mystical invincibility than continuity of personnel and prestige: the unit appeared never to shrink.",
+      "misconception": "The Persian Immortals are often imagined as masked monsters; historically, they were an elite and organized infantry force of the Achaemenid Empire.",
+      "reviewerNote": "Immortals checked against Encyclopaedia Iranica and general Persian military reference.",
+      "nextTopics": [
+        "Thermopylae",
+        "Achaemenid Persia",
+        "Hoplites"
+      ],
+      "mediaConnection": "This card compares 300's monster-like Immortals with the elite infantry described in ancient and modern historical sources."
+    },
+    {
+      "id": "oppenheimer-los-alamos-culture",
+      "title": "Los Alamos: Living with Secrets",
+      "subtitle": "Family life under the shadow of the atomic bomb.",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Modern History",
+        "Science",
+        "Psychology"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "oppenheimer",
+        "los-alamos",
+        "secrecy",
+        "united-states",
+        "science"
+      ],
+      "quickRealityCheck": "Was Los Alamos just a town of brilliant scientists, or a closed project community where secrecy structured daily life?",
+      "mediaChanged": "Oppenheimer focuses on scientific and political pressure; historical Los Alamos was also shaped by mail censorship, social isolation, and compartmentalized knowledge.",
+      "realHistory": "Los Alamos was one of the strangest parts of the Manhattan Project: a scientific production center and a closed community governed by security rules. Its isolated location in New Mexico was chosen deliberately. Addresses, letters, travel, and everyday conversation could all become security matters.\n\nFamily life was shaped by this secrecy. Many spouses and children did not know the true nature of the work being done. Incoming and outgoing mail could be censored, telephone and telegraph use was restricted, and employees often knew only their own compartment of the project. Compartmentalization helped prevent leaks, but it also delayed the moral and emotional recognition of what everyone was helping to build.\n\nThe film naturally centers Oppenheimer and the scientific debates. In the historical Los Alamos, tension also lived at kitchen tables, in censored letters, and in questions children could not have answered. The first town of the atomic age was also an experiment in everyday security culture. Los Alamos was not just where the bomb was built; it was where state secrecy became a way of life.",
+      "whyItMatters": "Los Alamos shows that modern state secrecy does not live only in locked files. It can shape family life, communication, and what people are allowed to say to each other.",
+      "sources": [
+        {
+          "title": "Security and Secrecy (Atomic Heritage Foundation)",
+          "url": "https://ahf.nuclearmuseum.org/ahf/history/security-and-secrecy/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Mail Censorship (Atomic Heritage Foundation)",
+          "url": "https://ahf.nuclearmuseum.org/ahf/history/mail-censorship/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Scientists and Security at Los Alamos (OSTI Manhattan Project History)",
+          "url": "https://www.osti.gov/opennet/manhattan-project-history/Places/LosAlamos/la-security.html",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "oppenheimer-trinity",
+        "oppenheimer-science-state",
+        "oppenheimer-trinity-reality"
+      ],
+      "spoilerNote": "May contain minor Oppenheimer story context.",
+      "whatWeSee": "Oppenheimer presents Los Alamos as a secret scientific town in the desert, where families live, children grow up, and every conversation sits under the shadow of state secrecy.",
+      "lastReviewedAt": "2026-06-28",
+      "accuracyNote": "Los Alamos should not be exaggerated as a simple open-air prison, but mail censorship, restricted communication, hidden identities, and compartmentalized information did shape daily life.",
+      "whyInteresting": "Sometimes the greatest secret at Los Alamos was not a formula, but the fact that families living in the same town did not fully know what was being made.",
+      "misconception": "The Manhattan Project is often imagined as only laboratories and calculations; it also created a closed community where family life was folded into security rules.",
+      "reviewerNote": "Los Alamos secrecy, mail censorship, and communication controls checked against Atomic Heritage and OSTI sources.",
+      "nextTopics": [
+        "Security and Secrecy",
+        "Mail Censorship",
+        "Manhattan Project Towns"
+      ],
+      "mediaConnection": "This card uses Oppenheimer's Los Alamos setting to explain the everyday culture of secrecy around the Manhattan Project."
+    },
+    {
+      "id": "gladiator-arena-economics",
+      "title": "The Colosseum Economy and Bread and Circuses",
+      "subtitle": "The cost of feeding and entertaining Rome.",
+      "mediaType": "film",
+      "mediaTitle": "Gladiator",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Rome",
+        "Economy",
+        "Politics"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "gladiator",
+        "rome",
+        "economy",
+        "colosseum",
+        "ancient-world"
+      ],
+      "quickRealityCheck": "Was the Colosseum only a place for bloody combat, or a stage where imperial budget, public support, and spectacle economy met?",
+      "mediaChanged": "Gladiator concentrates the arena around Commodus's personal ambition; historically, annona, public games, gladiator schools, and crowd politics were intertwined.",
+      "realHistory": "Roman games were not just savage entertainment. They were a visible bond between ruler and people. The phrase \"bread and circuses\" points to the relationship between grain supply and public spectacle: feeding the city and staging entertainment both helped rulers display generosity, order, and command over the crowd.\n\nGladiatorial combat was not budgetless random violence. Gladiators were trained by managers and trainers known as lanistae, and skilled fighters could become valuable human capital. For that reason, it did not always make economic sense for every bout to end in death. A popular and capable gladiator could return to the arena as an investment.\n\nCommodus's arena obsession has a historical basis, but the film turns it into a personal tyranny story. The real arena economy was larger: animal supply, training, security, ceremony, seating, public expectation, and elite prestige all mattered. The Colosseum was both an entertainment industry and a political communication machine.\n\nEven \"bread and circuses\" should not be read as a simple trick for fooling the people. Grain supply was a real urban security issue; games were also a way for the emperor to be seen, judged, and connected to the crowd.",
+      "whyItMatters": "The arena economy is an early example of mass entertainment tied to state prestige and popular support.",
+      "sources": [
+        {
+          "title": "Roman Games: Playing with Animals (The Met)",
+          "url": "https://www.metmuseum.org/essays/roman-games-playing-with-animals",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Bread and Circuses (Britannica)",
+          "url": "https://www.britannica.com/topic/bread-and-circuses",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Gladiator (Britannica)",
+          "url": "https://www.britannica.com/topic/gladiator",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "gladiator-colosseum",
+        "gladiator-political-theater",
+        "gladiator-commodus-real"
+      ],
+      "spoilerNote": "May contain minor Gladiator story context.",
+      "whatWeSee": "Gladiator turns the arena into Commodus's great stage: crowd, emperor, fighters, and violence all become part of one political performance.",
+      "lastReviewedAt": "2026-06-28",
+      "accuracyNote": "The games were expensive and politically important, but precise cost comparisons should be used carefully. The safest frame is that they required major organization and served imperial generosity, crowd management, and prestige.",
+      "whyInteresting": "A gladiator's death was not always the desired outcome. A trained and famous fighter could be an asset worth preserving for future performances.",
+      "misconception": "Gladiatorial games are often imagined as uncontrolled death shows; in reality, economics, crowd reaction, and sponsor prestige shaped the spectacle.",
+      "reviewerNote": "Bread and circuses, Roman public games, and gladiator economy framed with museum/reference sources; unsafe exact cost claims removed.",
+      "nextTopics": [
+        "Bread and Circuses",
+        "Gladiator Schools",
+        "Roman Public Games"
+      ],
+      "mediaConnection": "This card reads Gladiator's arena politics through the public economy of Roman games, grain supply, prestige, and crowd management."
+    },
+    {
+      "id": "chernobyl-rbmk-flaw",
+      "title": "The RBMK Design: A Hidden Engineering Failure",
+      "subtitle": "Positive void coefficient and the path to disaster.",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Technology",
+        "Modern History",
+        "Soviet Union"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "chernobyl",
+        "nuclear-energy",
+        "soviet-union",
+        "engineering",
+        "science"
+      ],
+      "quickRealityCheck": "Was Chernobyl just a wrong button press, or the collapse of design, procedure, and safety culture at once?",
+      "mediaChanged": "The series condenses the technical issue into a courtroom scene; historical reports require reading RBMK design, test conditions, and safety culture together.",
+      "realHistory": "One of the critical problems in the RBMK-1000 reactor at Chernobyl was its positive void coefficient. In simplified terms, when steam voids increased in the cooling water, reactor power could rise rather than fall under certain conditions. Because the RBMK used graphite moderation and water cooling, it could become especially unstable at low power and unsafe operating conditions.\n\nThe AZ-5 button was not the single cause of the disaster, but it mattered at the end. The graphite tips of the control rods could briefly increase reactivity in parts of the core as the rods began to enter. Combined with an unsafe test, disabled protections, unstable low-power operation, and a weak safety culture, that design feature became part of the chain leading to the explosion.\n\nThe series is strong because it connects the technical flaw to a culture of secrecy. The historical record supports that wider lesson: the disaster was not simply one operator pressing the wrong button. It involved design, procedure, training, reporting, and institutional discomfort with bad news. Chernobyl is therefore more than a reactor accident. It is a warning about what happens when engineering risk is hidden inside ideology and bureaucracy.",
+      "whyItMatters": "The RBMK flaw shows that hidden engineering risk can become political and social danger when institutions refuse to confront it openly.",
+      "sources": [
+        {
+          "title": "The Chernobyl Accident: Updating of INSAG-1 (IAEA INSAG-7 PDF)",
+          "url": "https://www-pub.iaea.org/MTCD/publications/PDF/Pub913e_web.pdf",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "RBMK Reactors (World Nuclear Association)",
+          "url": "https://world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/appendices/rbmk-reactors.aspx",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Chernobyl Accident 1986 (World Nuclear Association)",
+          "url": "https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "chernobyl-disaster",
+        "chernobyl-secrecy",
+        "chernobyl-bureaucracy-truth"
+      ],
+      "spoilerNote": "May contain minor Chernobyl story context.",
+      "whatWeSee": "Chernobyl explains the reactor flaw through tense courtroom-style exposition, turning a complex technical failure into a dramatic moral argument.",
+      "lastReviewedAt": "2026-06-28",
+      "accuracyNote": "The series compresses a complex technical explanation into memorable drama. Historical reports point to the interaction of RBMK design features, test conditions, operator actions, and Soviet safety culture.",
+      "whyInteresting": "The positive void coefficient is frightening because it turns a cooling problem into a possible power-increase problem under dangerous conditions.",
+      "misconception": "Chernobyl is often described as one wrong button press; the disaster involved design flaws, unsafe procedures, disabled protections, and institutional secrecy.",
+      "reviewerNote": "RBMK positive void coefficient and control rod issue checked against IAEA INSAG-7 and World Nuclear Association material.",
+      "nextTopics": [
+        "RBMK Reactors",
+        "INSAG-7",
+        "Nuclear Safety Culture"
+      ],
+      "mediaConnection": "This card reads Chernobyl's technical explanation against the RBMK design features and safety-culture failures identified in historical reports."
+    },
+    {
+      "id": "crown-tv-coronation-1953",
+      "title": "The 1953 Coronation and the Television Revolution",
+      "subtitle": "When monarchy entered the living room.",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Britain",
+        "Media",
+        "Monarchy"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "the-crown",
+        "coronation",
+        "television",
+        "britain",
+        "monarchy"
+      ],
+      "quickRealityCheck": "Was the 1953 coronation only an ancient royal ceremony, or the moment monarchy entered the television age?",
+      "mediaChanged": "The Crown personalizes the pressures around the ceremony; historically, the coronation was also a major turning point in television culture and royal visibility.",
+      "realHistory": "The coronation of Elizabeth II on 2 June 1953 was a royal ritual, but it also became a broadcasting milestone. The decision to televise much of the ceremony brought a traditionally elite and sacred event into millions of homes. Viewers did not simply read about the monarchy afterward; they watched it unfold in real time.\n\nThis mattered because monarchy depends on visibility as well as inheritance. Pageantry, oath, costume, procession, and music all turn political continuity into a sensory experience. Television intensified that process. It made the crown look both ancient and modern: rooted in medieval ritual, yet delivered through the newest mass medium.\n\nThe ceremony also helped accelerate television ownership and viewing culture in Britain. Families, neighbors, and public spaces gathered around screens, turning the coronation into a shared national media event. That did not remove social conflict or imperial change from the period. The British Empire was already transforming into a Commonwealth world. But the coronation showed how modern monarchy could survive partly by learning to perform tradition through media.",
+      "whyItMatters": "The event shows how old institutions survive by adapting their rituals to new media systems.",
+      "sources": [
+        {
+          "title": "50 facts about Queen Elizabeth II's Coronation (Royal.uk)",
+          "url": "https://www.royal.uk/50-facts-about-queen-elizabeth-iis-coronation",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The Coronation of Queen Elizabeth II (BBC)",
+          "url": "https://www.bbc.co.uk/history/events/coronation_elizabeth_ii",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Television and the Coronation (National Science and Media Museum)",
+          "url": "https://www.scienceandmediamuseum.org.uk/objects-and-stories/television-and-coronation",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "the-crown-monarchy",
+        "crown-monarchy-symbol",
+        "crown-commonwealth-empire"
+      ],
+      "spoilerNote": "May contain minor The Crown story context.",
+      "whatWeSee": "The Crown treats Elizabeth II's coronation as both a sacred royal ceremony and a media turning point, with television changing who could witness monarchy.",
+      "lastReviewedAt": "2026-06-28",
+      "accuracyNote": "The televised coronation did not invent modern monarchy, but it made royal ceremony visible at a new scale and helped television become part of British public life.",
+      "whyInteresting": "The ceremony looked ancient, but its public power depended on a very modern technology: the television set.",
+      "misconception": "Coronation is often seen as only timeless ritual; in 1953 it was also a mass-media event that reshaped how the monarchy reached the public.",
+      "reviewerNote": "Audience and broadcast framing normalized using official Royal.uk coronation facts and media museum sources.",
+      "nextTopics": [
+        "Television History",
+        "Elizabeth II",
+        "Commonwealth"
+      ],
+      "mediaConnection": "This card connects The Crown's coronation storyline to the real media transformation of 1953."
+    },
+    {
+      "id": "vikings-silk-road-trade",
+      "title": "Vikings and the Silk Road",
+      "subtitle": "From raiders to traders across the eastern routes.",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Vikings",
+        "Trade",
+        "Silk Road"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "vikings",
+        "silk-road",
+        "trade",
+        "varangians",
+        "medieval-history"
+      ],
+      "quickRealityCheck": "Were Vikings only raiders, or did they also move goods, silver, and people through Silk Road-linked networks?",
+      "mediaChanged": "The show emphasizes warfare and raiding; historical evidence also points to silver, river routes, Byzantium, and the Islamic world.",
+      "realHistory": "Vikings were not only raiders on western coasts. Norse traders, warriors, and settlers also moved east along river routes through the Baltic, Rus' lands, the Black Sea, and toward Byzantium and the Islamic world. These routes connected Scandinavia with silver, silk, spices, weapons, slaves, and luxury goods.\n\nThe archaeological evidence is especially visible in silver hoards. Islamic dirhams found in Scandinavia show that Viking-age exchange reached far beyond the North Sea. Norse groups could act as merchants, mercenaries, raiders, or intermediaries depending on place and opportunity. The Varangian presence in Byzantium is one of the better-known examples of this eastern connection.\n\nThis does not make Viking society peaceful or purely commercial. Violence and trade often existed on the same routes. A ship that traded in one port could raid elsewhere. The real point is that the Viking world was connected, adaptable, and commercially aware. Pop culture's raider image is powerful, but the eastern silver trail shows a much wider map.",
+      "whyItMatters": "Viking history makes more sense when ships are seen not only as weapons of raiding, but as tools of trade, migration, and connection.",
+      "sources": [
+        {
+          "title": "Trade in the Viking Age (National Museum of Denmark)",
+          "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/the-viking-warrior/trade-in-the-viking-age/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Vikings in the East eLibrary (Silk Road Virtual Museum)",
+          "url": "https://silkroadvirtualmuseum.com/vikings-in-the-east-elibrary/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "500,000 Dirhams in Scandinavia (Academia/numismatic study)",
+          "url": "https://www.academia.edu/108027031/500_000_Dirhams_in_Scandinavia_from_Mobile_Silver_to_Land_Rent",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "vikings-raid",
+        "viking-horned-helmet",
+        "vikings-funeral-fadlan-real"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Vikings often presents Norse people through raids, ships, and battlefield reputation, but eastern trade was also part of their world.",
+      "lastReviewedAt": "2026-06-28",
+      "accuracyNote": "Viking eastern trade should not be romanticized as peaceful globalization. It included commerce, violence, slavery, mercenary service, and political opportunity.",
+      "whyInteresting": "The large number of Islamic dirhams found in Scandinavia is one of the clearest signs that Viking networks reached deep into eastern trade worlds.",
+      "misconception": "Vikings are often imagined only as raiders; in reality, they were also traders, settlers, mercenaries, and intermediaries across long-distance networks.",
+      "reviewerNote": "Eastern Viking trade routes, dirham evidence and Varangian framing checked against museum/academic trade material.",
+      "nextTopics": [
+        "Varangians",
+        "Dirham Hoards",
+        "Byzantium"
+      ],
+      "mediaConnection": "This card uses Vikings to widen the image of Norse society beyond raids and into eastern trade networks."
+    },
+    {
+      "id": "last-kingdom-alfred-dream",
+      "title": "Alfred's Dream of a United England",
+      "subtitle": "From Wessex survival to an English political idea.",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "England",
+        "Middle Ages",
+        "Politics"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "the-last-kingdom",
+        "alfred-the-great",
+        "england",
+        "danelaw"
+      ],
+      "quickRealityCheck": "Did Alfred create England by himself, or did he lay the foundations for a later political unification?",
+      "mediaChanged": "The series turns Alfred's vision into character drama; history shows a longer process of defense, reform, and dynastic expansion.",
+      "realHistory": "Alfred the Great did not create a fully united England in his own lifetime, but he helped make the idea politically possible. His reign in Wessex came under intense Viking pressure, especially after the Great Heathen Army reshaped the political map. Alfred's survival at Edington and the agreement with Guthrum created a boundary between Wessex and the Danelaw, giving his kingdom room to reorganize.\n\nHis achievement was not only military. Alfred promoted fortified burhs, administrative reform, learning, translation, and a stronger royal image. These measures helped Wessex become the base from which later rulers could expand power over other Anglo-Saxon and former Viking-controlled territories.\n\nThe Last Kingdom dramatizes this as Alfred's dream of England. Historically, the dream was a process. Alfred laid foundations; his successors, especially Edward the Elder and Aethelstan, pushed the idea further. England was not born in one speech or one battle. It emerged from defense, negotiation, administration, and the memory of surviving Viking pressure.",
+      "whyItMatters": "Alfred's story shows how political identities often emerge from crisis management as much as from ideology.",
+      "sources": [
+        {
+          "title": "Alfred 'The Great' (r. 871–899) - Royal.uk",
+          "url": "https://www.royal.uk/alfred-great-r-871-899",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The Anglo-Saxon Chronicle - British Library",
+          "url": "https://www.bl.uk/collection-items/the-anglo-saxon-chronicle",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Aethelstan - World History Encyclopedia",
+          "url": "https://www.worldhistory.org/Aethelstan/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "last-kingdom-danelaw",
+        "last-kingdom-alfred-england"
+      ],
+      "spoilerNote": "May contain minor The Last Kingdom story context.",
+      "whatWeSee": "The Last Kingdom presents Alfred as a king trying to survive Viking pressure while imagining a political future larger than Wessex.",
+      "lastReviewedAt": "2026-06-27",
+      "accuracyNote": "The show rightly links Alfred with the idea of England, but political unification was a multi-generational process, not a single achievement of Alfred alone.",
+      "whyInteresting": "Alfred's burh system shows that state-building can begin as emergency defense and later become administrative structure.",
+      "misconception": "Alfred is often imagined as the man who single-handedly founded England; historically, he created foundations that later rulers built upon.",
+      "nextTopics": [
+        "Wessex",
+        "Aethelstan",
+        "Danelaw"
+      ],
+      "mediaConnection": "This card uses The Last Kingdom's Alfred storyline to explain how the idea of England developed from Wessex's survival."
+    },
+    {
+      "id": "saving-private-ryan-omaha",
+      "title": "Omaha Beach: Twenty Minutes and the Real Landing",
+      "subtitle": "Why Saving Private Ryan's opening still feels so historically forceful.",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "World War II",
+        "Normandy",
+        "War"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "saving-private-ryan",
+        "omaha-beach",
+        "d-day",
+        "world-war-ii"
+      ],
+      "quickRealityCheck": "Was Omaha Beach a clean Allied breakthrough, or a chaotic landing rescued by small-unit improvisation?",
+      "mediaChanged": "The film compresses time and viewpoint into one overwhelming sequence; the real landing lasted longer and varied across units and beach sectors.",
+      "realHistory": "The opening of Saving Private Ryan is famous because it does not make Omaha Beach feel orderly. That instinct is historically strong. On 6 June 1944, American troops landing at Omaha faced rough seas, obstacles, mines, artillery, machine-gun fire, confusion, and units landing in the wrong places. Plans that looked clear on maps broke down under fire.\n\nThe film compresses the experience into about twenty minutes, but the landing itself unfolded over hours and across multiple sectors. Not every soldier experienced the same exact sequence of events; some units were devastated, others found gaps and improvised routes inland. Engineers, medics, naval fire support, officers, and small groups of soldiers all mattered in turning chaos into movement.\n\nThe scene is not a documentary map of every position, but it captures the historical truth that victory at Omaha depended on improvisation under extreme pressure. D-Day was a massive planned operation; on the beach, survival often came down to small decisions made by men who had lost contact with the plan.",
+      "whyItMatters": "Omaha Beach reminds us that victory in major operations often depends on improvisation after plans fail.",
+      "sources": [
+        {
+          "title": "Saving Private Ryan: History vs. Hollywood - The National WWII Museum",
+          "url": "https://www.nationalww2museum.org/about-us/notes-museum/saving-private-ryan-history-vs-hollywood",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "D-Day: The Invasion of Normandy - Imperial War Museums",
+          "url": "https://www.iwm.org.uk/history/the-10-things-you-need-to-know-about-d-day",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Omaha Beach - National D-Day Memorial",
+          "url": "https://www.dday.org/learn/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ryan-higgins-boats",
+        "saving-private-ryan-higgins-boat",
+        "saving-private-ryan-snipers-reality"
+      ],
+      "spoilerNote": "May reveal major opening scenes of Saving Private Ryan.",
+      "whatWeSee": "Saving Private Ryan opens with a brutal landing on Omaha Beach, throwing the viewer into confusion, noise, fear, and the collapse of clean war imagery.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "The film's opening is compressed and dramatized, but it powerfully reflects the confusion, casualty risk, and improvisation that shaped Omaha Beach.",
+      "whyInteresting": "Omaha shows the gap between operational planning and battlefield reality: even the largest invasion plan could break apart at the waterline.",
+      "misconception": "D-Day is often imagined as a smooth Allied machine; Omaha Beach shows how close planning came to chaos in one of the most difficult sectors.",
+      "nextTopics": [
+        "D-Day",
+        "Higgins Boats",
+        "Normandy"
+      ],
+      "mediaConnection": "This card uses Saving Private Ryan's opening to explain what Omaha Beach represented in the broader Normandy landings."
+    },
+    {
+      "id": "napoleon-code-legacy-real",
+      "title": "The Napoleonic Code: The Code of the Modern State",
+      "subtitle": "The legal legacy behind Napoleon's image.",
+      "mediaType": "film",
+      "mediaTitle": "Napoleon",
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Law",
+        "France",
+        "Modern History"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "napoleon",
+        "napoleonic-code",
+        "law",
+        "france",
+        "modern-history"
+      ],
+      "quickRealityCheck": "Was Napoleon's lasting legacy only military, or did his civil code shape modern law more deeply?",
+      "mediaChanged": "The film emphasizes ambition and war; historically, the civil code is one of Napoleon's most durable and concrete legacies.",
+      "realHistory": "The Napoleonic Code of 1804 was not invented out of nothing. It built on the French Revolution's legal changes and tried to replace a patchwork of local customs with a clearer civil law framework. It emphasized legal equality for male citizens, property rights, secular civil authority, contracts, inheritance, and the authority of the state.\n\nIts influence was enormous because Napoleon's armies and administrations carried French legal models across much of Europe. Even where French rule later ended, parts of the legal framework or its style remained influential. The code helped make law appear as a unified, written, state-administered system rather than a maze of local privilege.\n\nBut the legacy is not simply liberal. The code strengthened patriarchal family authority and limited women's legal independence. It protected property and civil equality in some areas while preserving hierarchy in others. That tension is precisely why it matters. Napoleon's most lasting victory may not have been a battle, but a legal architecture.",
+      "whyItMatters": "The Napoleonic Code shows how modern power can survive not only through armies, but through legal forms people continue to use.",
+      "sources": [
+        {
+          "title": "The French Civil Code or Code Civil, 21 March 1804 - Fondation Napoléon",
+          "url": "https://www.napoleon.org/en/history-of-the-two-empires/articles/the-french-civil-code-or-code-civil-21-march-1804-an-overview/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Napoleonic Code - Britannica",
+          "url": "https://www.britannica.com/topic/Napoleonic-Code",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Code Napoleon - The Napoleon Series",
+          "url": "https://www.napoleon-series.org/government/code-napoleon/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "napoleon-myth-reality",
+        "napoleon-egypt-propaganda",
+        "napoleon-waterloo-masterclass"
+      ],
+      "spoilerNote": "May contain minor Napoleon story context.",
+      "whatWeSee": "Napoleon usually focuses on battles, ambition, and personal drama; the legal code is less cinematic but arguably one of his most durable legacies.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "The code carried revolutionary legal ideas forward but also restored or reinforced patriarchal authority. Its legacy should be read as both modernizing and hierarchical.",
+      "whyInteresting": "The Napoleonic Code outlasted many of Napoleon's military victories and shaped legal systems far beyond France.",
+      "misconception": "Napoleon's legacy is often reduced to battlefields; his civil code may have had a longer institutional life than many of his conquests.",
+      "nextTopics": [
+        "French Revolution",
+        "Civil Law",
+        "Legal Equality"
+      ],
+      "mediaConnection": "This card uses Napoleon to shift from battlefield myth to the legal infrastructure that shaped modern civil law."
+    },
+    {
+      "id": "300-hoplite-phalanx-real",
+      "title": "The Hoplite Phalanx: A Wall of Shields",
+      "subtitle": "The real strength behind the Spartan image.",
+      "mediaType": "film",
+      "mediaTitle": "300",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Ancient Greece",
+        "War",
+        "Sparta"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "300",
+        "hoplite",
+        "phalanx",
+        "sparta",
+        "ancient-greece"
+      ],
+      "quickRealityCheck": "Was Spartan power mainly individual toughness, or the discipline of a shield wall that had to hold together?",
+      "mediaChanged": "300 turns battle into stylized individual heroism; the real phalanx was a collective shield-and-spear system.",
+      "realHistory": "The real power of Greek hoplite warfare was not individual choreography but formation. The phalanx worked through rows of heavily armed infantry standing shoulder to shoulder, each man carrying a large shield that helped protect himself and his neighbor. Spears, discipline, pressure, and cohesion mattered more than cinematic one-on-one duels.\n\nSpartan warriors were especially famous because their society trained male citizens for military discipline from an early age. But even Spartan success depended on formation, terrain, morale, and allies. At Thermopylae, the narrow pass limited Persian numbers and made Greek heavy infantry more effective than it would have been in open ground.\n\nThis does not mean the phalanx was unbeatable. It could be vulnerable to broken terrain, flanking, missiles, and loss of cohesion. The shield wall was powerful precisely because it required collective trust. 300 celebrates individual bodies; the historical phalanx depended on the line not breaking.",
+      "whyItMatters": "The phalanx shows that ancient battlefield strength often came from disciplined cooperation, not lone heroics.",
+      "sources": [
+        {
+          "title": "Warfare in Ancient Greece - The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/essays/warfare-in-ancient-greece",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Hoplite - Britannica",
+          "url": "https://www.britannica.com/topic/hoplite",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Thermopylae - Britannica",
+          "url": "https://www.britannica.com/event/Battle-of-Thermopylae-Greek-history-480-BC",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "spartan-war-machines-myth",
+        "300-persian-immortals-real",
+        "300-thermopylae-masterclass"
+      ],
+      "spoilerNote": "May contain minor 300 story context.",
+      "whatWeSee": "300 turns Spartan combat into stylized individual heroism, with slow-motion duels and bodies breaking through waves of enemies.",
+      "lastReviewedAt": "2026-06-27",
+      "accuracyNote": "The film exaggerates individual combat for visual effect. Hoplite warfare was far more about formation, discipline, terrain, and collective movement.",
+      "whyInteresting": "The hoplite shield protected the man carrying it and the man beside him, making trust a literal battlefield requirement.",
+      "misconception": "Spartan success is often imagined as pure individual toughness; in reality, formation discipline and terrain were central.",
+      "nextTopics": [
+        "Thermopylae",
+        "Spartan Training",
+        "Greek Warfare"
+      ],
+      "mediaConnection": "This card uses 300 to explain the real military logic behind hoplite warfare and the Spartan image."
+    },
+    {
+      "id": "oppenheimer-rad-downwinders",
+      "title": "Downwinders: Trinity's Invisible Victims",
+      "subtitle": "The people living beyond the blast image.",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Modern History",
+        "Science",
+        "Health"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "major",
+      "tags": [
+        "oppenheimer",
+        "trinity",
+        "downwinders",
+        "radiation",
+        "new-mexico"
+      ],
+      "quickRealityCheck": "Was Trinity isolated from ordinary people, or did fallout make nearby communities part of the atomic story?",
+      "mediaChanged": "The film centers scientists and state decisions; the downwinder story shifts attention to people outside the test-site frame.",
+      "realHistory": "The Trinity test did not end at the flash. Radioactive fallout moved beyond the test site, and people living in parts of New Mexico were not warned in advance about the true nature of the explosion. These communities later became part of the wider \"downwinder\" history: people exposed to nuclear testing fallout without meaningful consent or protection.\n\nThe exposures after Trinity are difficult to summarize with one number. Fallout patterns depended on weather, distance, diet, water, and local conditions. Later studies have tried to estimate doses and cancer risks, especially for nearby residents. What is clear is that the secrecy around Trinity meant local people could not make informed choices about risk.\n\nThis is the part of the atomic story that cinematic focus often misses. The bomb's history is not only a race between scientists and states. It is also a history of communities who lived under the path of fallout, often without being told what had happened.",
+      "whyItMatters": "The downwinders show that nuclear history includes not only inventors and leaders, but communities exposed without meaningful consent.",
+      "sources": [
+        {
+          "title": "Trinity Test Downwinders - National Park Service",
+          "url": "https://www.nps.gov/articles/000/trinity-test-downwinders.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Study of Radiation Doses and Cancer Risks from the Trinity Test - National Cancer Institute",
+          "url": "https://dceg.cancer.gov/research/how-we-study/exposure-assessment/trinity",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Projected Cancer Risks to Residents of New Mexico from Trinity Fallout - PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7497483/",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "oppenheimer-trinity",
+        "oppenheimer-science-state",
+        "oppenheimer-trinity-reality"
+      ],
+      "spoilerNote": "May contain minor Oppenheimer story context.",
+      "whatWeSee": "Oppenheimer focuses on the scientists, the bomb, and the political consequences, while the people living downwind of Trinity remain mostly outside the frame.",
+      "accuracyNote": "Downwinder exposure and cancer risk must be discussed carefully because dose estimates vary. The historically firm point is that nearby communities were not properly informed or protected.",
+      "whyInteresting": "The first atomic test created not only a scientific milestone but also a public health question that lasted for generations.",
+      "misconception": "Trinity is often imagined as isolated in an empty desert; in reality, people lived in the wider region and could be affected by fallout.",
+      "nextTopics": [
+        "Trinity Fallout",
+        "Radiation Studies",
+        "Nuclear Testing"
+      ],
+      "mediaConnection": "This card expands Oppenheimer's Trinity story toward the communities living downwind of the test."
+    },
+    {
+      "id": "gladiator-female-gladiatrix",
+      "title": "Gladiatrices: The Hidden Women of the Arena",
+      "subtitle": "Rare, real, and often turned into spectacle.",
+      "mediaType": "film",
+      "mediaTitle": "Gladiator",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Rome",
+        "Gender",
+        "Arena"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "gladiator",
+        "female-gladiators",
+        "rome",
+        "arena",
+        "ancient-world"
+      ],
+      "quickRealityCheck": "Were female gladiators only a modern fantasy, or a rare but real part of Roman spectacle?",
+      "mediaChanged": "Most arena stories omit women fighters; historical evidence suggests rare female gladiators existed and were themselves part of the spectacle.",
+      "realHistory": "Female gladiators, often called gladiatrices in modern discussion, were real but rare. They were not the standard face of the arena, yet literary references and material evidence suggest that women did fight in some public spectacles. The British Museum relief of Amazon and Achillia is one of the most famous pieces of evidence, showing two named female fighters.\n\nTheir presence was controversial partly because the arena was already a low-status and violent space. For elite Roman women especially, public combat would have challenged expectations of gender, respectability, and social rank. That controversy may explain why female gladiators attracted attention even when they were uncommon.\n\nIt is important not to exaggerate them into a secret army of women fighters. The evidence is limited, and female gladiatorial combat seems to have been unusual. But unusual does not mean imaginary. The real story is that Rome's spectacle culture could use gender transgression itself as part of the entertainment.",
+      "whyItMatters": "Gladiatrices show how Roman entertainment could turn gender boundaries into public performance.",
+      "sources": [
+        {
+          "title": "Relief of Two Female Gladiators, Amazon and Achillia - British Museum",
+          "url": "https://www.britishmuseum.org/collection/object/G_1847-0420-1",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Female Gladiators - Encyclopaedia Romana, University of Chicago",
+          "url": "https://penelope.uchicago.edu/encyclopaedia_romana/gladiators/amazones.html",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Were There Female Gladiators in Ancient Rome? - Live Science",
+          "url": "https://www.livescience.com/archaeology/romans/were-there-female-gladiators-in-ancient-rome",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "gladiator-colosseum",
+        "gladiator-political-theater",
+        "gladiator-commodus-real"
+      ],
+      "spoilerNote": "May contain minor Gladiator story context.",
+      "whatWeSee": "Gladiator and most arena stories focus on male fighters, making the Roman amphitheater feel like an entirely male world.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "Female gladiators existed, but evidence is limited and they were not common. They should be treated as rare spectacle figures, not as a large hidden institution.",
+      "whyInteresting": "The Amazon and Achillia relief is powerful because it names two female fighters, turning an often-dismissed possibility into material evidence.",
+      "misconception": "The arena is often imagined as entirely male; in reality, female gladiators existed, though rarely and under unusual spectacle conditions.",
+      "nextTopics": [
+        "Roman Spectacle",
+        "Amazon and Achillia",
+        "Gender in Rome"
+      ],
+      "mediaConnection": "This card uses Gladiator's male-centered arena image to explain the limited but real evidence for female gladiators."
+    }
+  ]
+}

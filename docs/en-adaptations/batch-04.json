@@ -1,0 +1,1316 @@
+{
+  "meta": {
+    "purpose": "English-native adaptation batch",
+    "sourceChunk": "source-chunk-004.json",
+    "batchNumber": 4,
+    "cardCount": 20,
+    "sourceCardRange": "TR order cards 61-80",
+    "alreadyAuthoredCountBeforeBatch": 60,
+    "authoredCountAfterBatch": 80,
+    "remainingCountAfterBatch": 371,
+    "ids": [
+      "sengoku-japan-hostage",
+      "shogun-trade-sakoku",
+      "cold-war-proxy-wars",
+      "utopia-political-history",
+      "last-emperor-china-fall",
+      "marco-polo-court",
+      "crusader-states-daily",
+      "early-islamic-expansion",
+      "chernobyl-secrecy",
+      "mongols-culture-exchange",
+      "ottoman-beyond-war",
+      "mesopotamia-legacy",
+      "baghdad-daily-life-new",
+      "ottoman-diet-culture",
+      "silk-road-travel-new",
+      "medieval-japan-daily-life",
+      "mesopotamian-markets-new",
+      "constantinople-fall-turning-new",
+      "silk-road-network-turning",
+      "onna-musha-samurai-women"
+    ],
+    "notes": "Adapted from Turkish canonical cards. Sources, IDs, relatedCardIds, enums, flags and metadata preserved from TR unless localized text adaptation was required. readingTimeMinutes recomputed from English realHistory."
+  },
+  "cards": [
+    {
+      "id": "sengoku-japan-hostage",
+      "title": "Daimyo Politics and the Culture of Hostages",
+      "subtitle": "The harshest way to guarantee loyalty.",
+      "mediaType": "game",
+      "mediaTitle": "Total War: Shogun 2 / Shogun",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Japan",
+        "Politics",
+        "Sengoku"
+      ],
+      "whatWeSee": "In media, loyalty between clans is often framed as a matter of honor, oaths, and personal devotion.",
+      "realHistory": "Sengoku Japan was a world of daimyo families constantly making and breaking alliances. In that environment, loyalty was not secured by words alone. Marriage, adoption, foster ties, and hostage exchange were tools of political survival. When a lord's son or close relative lived in another clan's household, that person became both a guarantee and a future channel of alliance.\n\nTokugawa Ieyasu's childhood is one of the best-known examples. Born Matsudaira Takechiyo, he was caught between the Oda and Imagawa powers and spent part of his youth in hostage status. This was not a romantic \"training camp.\" It was a fragile political arrangement that taught him to wait, survive, and read the behavior of rival families.\n\nHostage status did not always mean a dungeon. Noble hostages could be housed according to their rank, educated, and exposed to courtly life. That did not make them safe. If an alliance collapsed, the same person could become a bargaining chip, a pressure point, or a victim.\n\nSeries like Shogun and games like Total War: Shogun 2 often make loyalty feel personal and honorable. In Sengoku politics, it was more often a negotiated risk, secured through family members, castles, marriages, hostages, and shifting interest.",
+      "accuracyNote": "Hostage-taking could function like education or diplomatic residence, but its basic purpose was to secure alliances and create leverage if loyalty failed.",
+      "whyInteresting": "Tokugawa Ieyasu's childhood as a hostage became a forced political education for a leader who would later help unify Japan.",
+      "misconception": "Sengoku hostages are often imagined as prisoners kept in cells. In reality, noble hostages were often raised in elite households, while their political risk never disappeared.",
+      "nextTopics": [
+        "Tokugawa Ieyasu",
+        "Sengoku Jidai",
+        "Edo Period"
+      ],
+      "sources": [
+        {
+          "title": "Sengoku Period (Britannica)",
+          "url": "https://www.britannica.com/event/Sengoku-period",
+          "type": "reference",
+          "verified": true
+        },
+        {
+          "title": "Tokugawa Ieyasu (EBSCO Research Starters)",
+          "url": "https://www.ebsco.com/research-starters/history/tokugawa-ieyasu",
+          "type": "reference",
+          "verified": true
+        },
+        {
+          "title": "A Child Hostage in Nagoya (Nagoya International Center)",
+          "url": "https://www.nic-nagoya.or.jp/en/news-events/course/2023/03311651.html",
+          "type": "reference",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Political context checked against Britannica and Japanese historical material.",
+      "mediaConnection": "Shogun's hostage-taking and political bargaining echo real Sengoku methods for keeping rival lords under control.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "japan",
+        "sengoku",
+        "politics",
+        "shogun",
+        "samurai"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Media often explains loyalty through honor and sworn word; in Sengoku politics, family members, marriages, and hostages were the real insurance behind alliances.",
+      "whyItMatters": "The hostage system shows how feudal trust often rested less on personal virtue than on concrete guarantees and shared risk.",
+      "quickRealityCheck": "Was Sengoku hostage-taking simply imprisonment, or a dangerous diplomatic tool that held alliances together?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "shogun-trade-sakoku",
+      "title": "Sakoku: Closed Country, Controlled Trade",
+      "subtitle": "Japan's supposed isolation was more complicated than it looks.",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Japan",
+        "Trade",
+        "Isolation"
+      ],
+      "whatWeSee": "The series shows foreign influence in Japan, especially Portuguese traders and Jesuits, and the political effort to contain that influence.",
+      "realHistory": "### Isolation, but not total separation\n\nSakoku is often translated as Japan's complete closure to the world. A better reading is more precise: the Tokugawa shogunate tried to manage foreign contact by choosing the channels, ports, people, and conditions under which it could happen. In the first half of the 17th century, Christian missionary activity, Portuguese and Spanish influence, the risk of daimyo gaining strength through foreign trade, and the shock of the Shimabara Rebellion all pushed the shogunate toward stricter controls.\n\nThe system greatly limited Japanese travel abroad and restricted foreigners from moving freely inside the country. Yet Japan did not vanish from global exchange. Contacts continued through several controlled routes: Dutch traders at Dejima in Nagasaki, Chinese merchants, Korean diplomacy through Tsushima, the Ryukyu Kingdom, and contacts in the north with Ainu worlds. Sakoku was therefore not a locked door so much as a gatehouse.\n\n### Dejima and filtered knowledge\n\nDejima became the symbol of this controlled order. Dutch merchants were confined to a narrow artificial island, their movement and trade supervised. But the channel mattered. Books, instruments, medical ideas, maps, and technical knowledge entered through this filter and helped create Rangaku, or \"Dutch learning.\" Medicine, astronomy, cartography, and military technology did not simply disappear from view; they circulated under surveillance.\n\nThis is why the idea of a frozen, totally ignorant Tokugawa Japan is misleading. The shogunate did restrict foreign religion and political influence, but it also kept useful knowledge moving in forms it could observe and contain. The point was not curiosity without limits. It was useful access without political surrender.\n\n### What Shogun gets right\n\nShogun is set before the fully developed Sakoku order, and it captures the tension around Portuguese trade, Jesuit power, and Japanese political sovereignty. The question is not just whether Japan was open or closed. The deeper issue is who controlled the opening.\n\nHistorically, Tokugawa policy did not reject the outside world in a simple way. It tried to prevent foreign contact from empowering rival lords, spreading Christianity, or undermining the regime. Foreign trade, religion, and weapons were not separate issues; all could affect the balance of power inside Japan.\n\nThe result was a selective system: the world could enter, but only through narrow doors watched by the state. That is more interesting than the myth of total isolation. It was globalization under guard, where information, goods, and diplomacy survived by passing through filters the shogunate could supervise.",
+      "accuracyNote": "Sakoku was not total disconnection. It was a state-controlled system that selected ports, people, religions, and trade channels very carefully.",
+      "whyInteresting": "Dejima looked small, but it became one of the key filters through which Western medicine, cartography, and scientific instruments reached Japan.",
+      "misconception": "Tokugawa Japan is often imagined as completely cut off and technologically frozen. In reality, limited but continuous channels of trade and knowledge remained.",
+      "nextTopics": [
+        "Dejima",
+        "Jesuits",
+        "Tokugawa Shogunate"
+      ],
+      "sources": [
+        {
+          "title": "Sakoku (Britannica)",
+          "url": "https://www.britannica.com/topic/sakoku",
+          "type": "reference",
+          "verified": true
+        },
+        {
+          "title": "Shared Cultural Heritage of the Netherlands and Japan (Cultural Heritage Agency of the Netherlands)",
+          "url": "https://www.cultureelerfgoed.nl/publicaties/publicaties/2016/01/01/shared-cultural-heritage-of-the-netherlands-and-japan",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Rangaku and Dejima (Wacana / Universitas Indonesia)",
+          "url": "https://scholarhub.ui.ac.id/wacana/vol10/iss2/4/",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "shogun-edo",
+        "shogun-hostage-politics",
+        "shogun-christian-daimyo"
+      ],
+      "reviewerNote": "Trade and diplomatic context checked against Britannica and Dutch-Japanese cultural heritage sources.",
+      "mediaConnection": "Shogun dramatizes the period before Sakoku hardened, when Portuguese trade and missionary activity had become politically dangerous.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "isolation",
+        "japan",
+        "shogun",
+        "trade",
+        "samurai"
+      ],
+      "isFlagship": true,
+      "mediaChanged": "Shogun dramatizes the influence of Portuguese traders and Jesuits; after Sakoku, that influence was replaced by narrower, more controlled, and more selective channels of contact.",
+      "whyItMatters": "Sakoku shows that isolation can mean not total disconnection, but forcing global contact into channels the state can control.",
+      "quickRealityCheck": "Was Sakoku Japan's total break with the world, or a selective regime for controlling foreign contact?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "cold-war-proxy-wars",
+      "title": "Proxy Wars: Why Didn't They Fight Directly?",
+      "subtitle": "Playing chess under the shadow of nuclear war.",
+      "mediaType": "game",
+      "mediaTitle": "Battlefield / Call of Duty: Black Ops / Metal Gear Solid",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Cold War",
+        "Politics",
+        "Modern History"
+      ],
+      "whatWeSee": "Games often present the Cold War through special forces missions, secret operations, and local battlefields.",
+      "realHistory": "The Cold War staying \"cold\" did not mean it was bloodless. The United States and the Soviet Union avoided a full direct war because, in the nuclear age, such a conflict risked mutual destruction. Mutually assured destruction discouraged direct superpower attack, but it did not end competition. It pushed much of that competition into other regions.\n\nKorea, Vietnam, Afghanistan, Angola, and conflicts in Central America were not only local wars. Local actors had their own politics, ideologies, and histories, but the superpowers entered these struggles through weapons, funding, training, intelligence, and diplomatic support. The result was a world in which Washington and Moscow avoided direct war while millions of people paid the price in regional conflicts.\n\nGames often frame the Cold War through sabotage, covert missions, and special operators. That atmosphere is not invented; intelligence agencies and covert networks were important. But a spy-story lens can hide the long-term effects on civilians, refugees, local politics, and damaged state institutions.\n\nSo reading proxy wars as \"two superpowers playing chess\" is only half true. The countries that look like pieces on the board had their own choices, divisions, and wounds. The harshest Cold War legacy lies there: nuclear war did not happen, but the rivalry burned hot in other people's countries.",
+      "accuracyNote": "Games emphasize covert operations; historical proxy wars combined local goals with superpower weapons, money, intelligence, and diplomatic support.",
+      "whyInteresting": "Nuclear weapons deterred a direct superpower war, but that same deterrent logic helped move conflict into places like Vietnam, Korea, and Afghanistan.",
+      "misconception": "The Cold War is often imagined as bloodless. In reality, even without direct US-Soviet war, proxy conflicts affected millions.",
+      "nextTopics": [
+        "MAD Doctrine",
+        "Cuban Missile Crisis",
+        "Iron Curtain"
+      ],
+      "sources": [
+        {
+          "title": "Cold Conflict (National WWII Museum)",
+          "url": "https://www.nationalww2museum.org/war/articles/cold-conflict",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Cold War Diplomacy (National Museum of American Diplomacy)",
+          "url": "https://diplomacy.state.gov/discover-diplomacy/period/cold-war-diplomacy/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The Third World and the Cold War (Britannica)",
+          "url": "https://www.britannica.com/event/Cold-War/The-Third-World-and-the-Cold-War",
+          "type": "reference",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Political doctrine checked against Britannica and US diplomacy sources.",
+      "mediaConnection": "This card connects the Cold War battlefields and covert atmosphere of Battlefield, Black Ops, and Metal Gear Solid to the real structure of proxy conflict.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "battlefield",
+        "call-of-duty",
+        "metal-gear-solid",
+        "cold-war",
+        "politics"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Battlefield, Black Ops, and Metal Gear Solid magnify the covert-operations side; historically, local politics, arms support, and civilian devastation mattered just as much.",
+      "whyItMatters": "Proxy wars show how great powers can avoid direct conflict while turning other societies into battlefields.",
+      "quickRealityCheck": "Was the Cold War really cold, or did nuclear deterrence push hot wars into other countries?",
+      "spoilerNote": ""
+    },
+    {
+      "id": "utopia-political-history",
+      "title": "Utopian Projects and Real Politics",
+      "subtitle": "From ideal society to totalitarian nightmare.",
+      "mediaType": "game",
+      "mediaTitle": "BioShock / Atomic Heart",
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Philosophy",
+        "Politics",
+        "Utopia"
+      ],
+      "whatWeSee": "Games often show societies built under the sea, in the sky, or inside closed systems: perfect at first glance, already collapsing underneath.",
+      "realHistory": "Games like BioShock and Atomic Heart explore closed systems built on the promise of a perfect society. In fiction, collapse often begins with a laboratory disaster, a mad leader, or a single technological breakthrough gone wrong. Historical parallels usually moved more slowly. Utopian projects tend to break when they simplify human behavior, local conditions, and power relationships.\n\nBioShock's Rapture is an extreme freedom experiment shaped by ideas associated with Ayn Rand's individualism and market radicalism. It imagines that if state control, moral limits, and public accountability disappear, genius will flourish. The game shows the opposite: unchecked power, addiction, scientific ambition, and class inequality can destroy the same world they claim to liberate. It is not direct history, but it is a sharp political allegory about 20th-century ideological experiments.\n\nFordlandia offers a useful real-world comparison. In the 1920s, Henry Ford tried to build a rubber-producing company town in the Brazilian Amazon, complete with American-style discipline and social order. The project collided with climate, agriculture, labor culture, and local reality. Its failure was not just a corrupted good intention; it was the failure of a designed system that refused to listen to where it had been placed.\n\nThat is why utopia remains such a powerful theme in popular culture. The brighter the promise, the more important the hidden question becomes: who writes the rules, who pays the cost, and can the system survive criticism? BioShock makes that machinery visible beneath the ideal city.",
+      "accuracyNote": "BioShock does not adapt a single historical event; it builds a political allegory that speaks to Randian individualism, closed company projects, and 20th-century ideological experiments.",
+      "whyInteresting": "Fordlandia was not just a rubber plantation; it was an attempt to reproduce American company culture in the Amazon, where it collided with local reality.",
+      "misconception": "Utopias are often treated as pure science fiction. In reality, the 20th century saw many attempts to build ideal societies through company towns and ideological projects.",
+      "nextTopics": [
+        "Ayn Rand",
+        "Collectivism",
+        "Fordlandia"
+      ],
+      "sources": [
+        {
+          "title": "Objectivism (Britannica)",
+          "url": "https://www.britannica.com/topic/objectivism-philosophy",
+          "type": "reference",
+          "verified": true
+        },
+        {
+          "title": "Fordlandia – The Henry Ford (Google Arts & Culture)",
+          "url": "https://artsandculture.google.com/story/fordlandia-the-henry-ford/FwURITZarGKCJg",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Fordlandia (Smithsonian Libraries)",
+          "url": "https://www.si.edu/object/siris_sil_929065",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Philosophical and historical context checked against Britannica and museum sources.",
+      "mediaConnection": "This card uses BioShock and Atomic Heart to read the history of utopian political design, social engineering, and closed ideological systems.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "bioshock",
+        "atomic-heart",
+        "philosophy",
+        "politics",
+        "utopia"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "BioShock shows utopia collapsing quickly and grotesquely; historical projects often failed more slowly through ecology, labor relations, leadership, and clashes with local culture.",
+      "whyItMatters": "Utopian stories remind us that even well-intentioned systems can become coercive when they exclude oversight, pluralism, and local reality.",
+      "quickRealityCheck": "Is utopia only an imaginary city, or a real-world desire for social engineering that has been tried again and again?",
+      "spoilerNote": ""
+    },
+    {
+      "id": "last-emperor-china-fall",
+      "title": "The Last Emperor and China's Transformation",
+      "subtitle": "A painful passage from empire to modern republic.",
+      "mediaType": "film",
+      "mediaTitle": "The Last Emperor",
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "China",
+        "Modernization",
+        "Biography"
+      ],
+      "whatWeSee": "The film follows Puyi as a child emperor, a prisoner of ritual inside the Forbidden City, and later an ordinary citizen.",
+      "realHistory": "Puyi's life is one of the clearest reminders that China's imperial order did not simply vanish in a day. He was placed on the Qing throne as a child in 1908. After the 1911 Revolution, imperial rule effectively ended, and he abdicated in 1912. Yet special arrangements allowed him to continue living inside the Forbidden City with imperial titles and court ritual for a time. The old regime had lost political power, but its symbolic shell remained.\n\nHis expulsion from the Forbidden City in 1924 opened another rupture. Puyi moved closer to Japanese influence and, in the 1930s, became the ruler of Manchukuo, the puppet state created by Japan in Manchuria. This made him not only a used and isolated figure, but also the symbolic face of a Japanese imperial project. The Last Emperor gives great weight to Puyi's personal captivity and confusion; the wider politics of Manchukuo are inevitably softened by that biographical focus.\n\nAfter the Second World War, Puyi was captured by the Soviets, later handed over to the People's Republic of China, and sent through a process of re-education as a war criminal. He was pardoned in 1959 and lived afterward as an ordinary citizen. That transformation is the film's strongest historical irony.\n\nPuyi's story is not merely one man's fall. From Qing court ritual to republican revolution, Japanese occupation, Communist re-education, and ordinary citizenship, his biography condenses many of 20th-century China's crises of legitimacy, identity, and political form.",
+      "accuracyNote": "The film powerfully captures court atmosphere and personal transformation, but it frames the Manchukuo period more as personal tragedy than as a political role inside a Japanese puppet state.",
+      "whyInteresting": "Puyi moved from child emperor to puppet ruler, from war criminal to ordinary citizen, carrying many of modern China's ruptures in one life.",
+      "misconception": "China's imperial system is often imagined as ending completely overnight; Puyi's years in the Forbidden City show that the old order dissolved more slowly.",
+      "nextTopics": [
+        "Qing Dynasty",
+        "1911 Revolution",
+        "Forbidden City"
+      ],
+      "sources": [
+        {
+          "title": "Puyi (Britannica)",
+          "url": "https://www.britannica.com/biography/Puyi",
+          "type": "reference",
+          "verified": true
+        },
+        {
+          "title": "The Last Manchu: The Autobiography of Henry Pu Yi (Google Books)",
+          "url": "https://books.google.com/books/about/The_Last_Manchu.html?id=Us1X-PIypqQC",
+          "type": "book",
+          "verified": true
+        },
+        {
+          "title": "Puyi: The Last Emperor of China (ABC Listen)",
+          "url": "https://www.abc.net.au/listen/programs/nightlife/this-week-in-history-puyi/103183140",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "last-emperor-court-ritual",
+        "last-emperor-manchukuo-propaganda",
+        "last-emperor-forbidden-city-eunuchs-real"
+      ],
+      "reviewerNote": "Biographical details checked against Britannica and related historical sources.",
+      "mediaConnection": "This card reads The Last Emperor against the fall of the Qing, the Manchukuo puppet state, and the politics of Communist re-education.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "biography",
+        "china",
+        "modernization",
+        "the-last-emperor"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "The Last Emperor foregrounds Puyi's personal drama; historically, the same life must also be read through the Qing collapse, Manchukuo, and Communist re-education.",
+      "whyItMatters": "Puyi's life shows that modernization transforms not only institutions but also identity, status, and the relationship people have with their own past.",
+      "quickRealityCheck": "Was Puyi only an unlucky child emperor, or a symbol of China's difficult passage from empire to modern state?",
+      "spoilerNote": "Contains broad context about The Last Emperor and Puyi's life, without revealing the film's ending in detail.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "marco-polo-court",
+      "title": "Marco Polo at Kublai Khan's Court",
+      "subtitle": "Not the first European in China, but one of the most influential storytellers.",
+      "mediaType": "series",
+      "mediaTitle": "Marco Polo (Netflix)",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Exploration",
+        "Mongols",
+        "Cultural Exchange"
+      ],
+      "whatWeSee": "The series turns a Venetian merchant in the Mongol court into a figure of war, intrigue, and cultural collision.",
+      "realHistory": "Marco Polo was a Venetian merchant who traveled into Asia in the 13th century with his father and uncle. What made him important was not that he was the first European to reach China. His father and uncle had gone before him. His importance lies in the detailed and influential account through which Yuan-era Mongol Asia entered the European imagination.\n\nThe paper money, coal use, postal routes, and urban scale Polo described under Kublai Khan seemed almost unbelievable to many European readers. His story also shows how the so-called Mongol Peace made long-distance movement more possible. Across a vast imperial network, merchants, envoys, and messengers could move with greater security than in many earlier periods.\n\nKublai Khan's court was not only a center of Mongol military power. It was also a multicultural imperial administration that drew on Chinese bureaucratic practice, Central Asian contacts, and steppe political traditions. The Netflix series dramatizes Marco Polo as a warrior, spy, and active court player. Historically, his role is better understood as observer, envoy, and translator of one imperial world for another audience.\n\nSome details in the travel narrative remain debated, but its influence is not. Polo's book shaped how Europe imagined Asia for centuries.",
+      "accuracyNote": "The series dramatizes characters and court intrigue, but the scale, wealth, and cultural diversity of the Mongol-Yuan court are grounded in historical accounts.",
+      "whyInteresting": "Details such as paper money and coal use sounded almost miraculous to many 13th-century European readers.",
+      "misconception": "Marco Polo is often called the first European to reach China; in fact, his father and uncle had already traveled there before him.",
+      "nextTopics": [
+        "Silk Road",
+        "Kublai Khan",
+        "Republic of Venice"
+      ],
+      "sources": [
+        {
+          "title": "Marco Polo (Britannica)",
+          "url": "https://www.britannica.com/biography/Marco-Polo",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Marco Polo (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Marco_Polo/",
+          "type": "reference",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Marco Polo's significance lies less in being first and more in making the Yuan world legible to European readers.",
+      "mediaConnection": "This card compares Marco Polo's palace-intrigue drama with Kublai Khan's real world of travel, trade, and imperial administration.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "exploration",
+        "cultural-exchange",
+        "marco-polo",
+        "mongols"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "The series amplifies Marco Polo as a fighter and court operator; historically, his importance was as an observer, envoy, and cultural transmitter.",
+      "whyItMatters": "Marco Polo's text shaped European imagination about Asia and fed later desires for long-distance exploration.",
+      "quickRealityCheck": "Was Marco Polo important because he was the first European in China, or because he turned what he saw into a lasting story for Europe?",
+      "spoilerNote": "Contains broad historical context for Marco Polo (Netflix), without revealing the ending.",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "crusader-states-daily",
+      "title": "Daily Life in the Crusader States",
+      "subtitle": "Living together in the shadow of war.",
+      "mediaType": "film",
+      "mediaTitle": "Kingdom of Heaven",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Crusades",
+        "Daily Life",
+        "Jerusalem"
+      ],
+      "whatWeSee": "Media often presents the Crusades as nothing but endless sieges, charges, and religious war.",
+      "realHistory": "The Crusader states were Latin political structures established in the Levant after the conquest of Jerusalem in 1099. Yet life there was not only a sequence of sieges and battles. In the Kingdom of Jerusalem, the Principality of Antioch, the County of Tripoli, and ports such as Acre, Frankish nobles, local Christian communities, Muslims, Jews, merchants, and pilgrims had to share the same economic spaces.\n\nEveryday compromise mattered as much as warfare. Frankish lords needed local officials, translators, and intermediary families in order to collect taxes, keep agriculture running, and operate port trade. In cities such as Acre, Venetian, Genoese, and Pisan communities maintained their own quarters and commercial privileges. Spices, textiles, glass, medical knowledge, and architectural techniques moved through these points of contact.\n\nKingdom of Heaven understandably focuses on war, morality, and the fate of Jerusalem. The historical picture is more complicated. Conflict was constant, but daily administration could not survive without trade, taxation, local law, and practical cooperation. What makes the Crusader East so interesting is precisely that coexistence had to be organized even under the shadow of religious war.",
+      "accuracyNote": "The film foregrounds war and diplomacy; the real Crusader states also depended on port trade, local taxation, legal arrangements, and cultural contact.",
+      "whyInteresting": "Ports like Acre were not only battle sites but dense commercial centers where Italian merchants organized eastern Mediterranean trade.",
+      "misconception": "It is easy to imagine everyone in the Crusader states living in permanent religious war. In reality, local cooperation, trade, and diplomacy were also part of daily order.",
+      "nextTopics": [
+        "Crusader States",
+        "Kingdom of Jerusalem",
+        "Cultural Exchange"
+      ],
+      "sources": [
+        {
+          "title": "The Crusader States to 1187 (Britannica)",
+          "url": "https://www.britannica.com/event/Crusades/The-Crusader-states-to-1187",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Kingdom of Jerusalem (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Kingdom_of_Jerusalem/",
+          "type": "reference",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "kingdom-of-heaven-crusades"
+      ],
+      "reviewerNote": "Social and political context checked against Britannica and historical reference sources.",
+      "mediaConnection": "This card uses Kingdom of Heaven as a starting point for the everyday world of markets, ports, taxes, and local intermediaries in the Crusader East.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "daily-life",
+        "crusades",
+        "kingdom-of-heaven",
+        "jerusalem"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Kingdom of Heaven intensifies Jerusalem's defense and moral conflict; the historical Crusader East also rested on markets, ports, taxation, and local intermediaries.",
+      "whyItMatters": "This topic shows that even where religious boundaries were hard, trade and administration could force people into shared urban systems.",
+      "quickRealityCheck": "Was the Crusader East only an endless battlefield, or a complex society held together by war, trade, and local cooperation?",
+      "spoilerNote": "Contains broad context for Kingdom of Heaven, without revealing the ending.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "early-islamic-expansion",
+      "title": "The Early Islamic Conquests and a Political Vacuum",
+      "subtitle": "Why did the expansion move so quickly?",
+      "mediaType": "series",
+      "mediaTitle": "The Message / Omar",
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Islamic History",
+        "Politics",
+        "Byzantium"
+      ],
+      "whatWeSee": "Media often explains the early conquests mainly through religious motivation and heroic leadership.",
+      "realHistory": "The early Islamic conquests of the 7th century cannot be explained by military zeal alone. When Arab armies advanced into Syria, Egypt, Iraq, and Iran, the Byzantine and Sasanian empires were already strained by decades of war, heavy taxation, and internal crisis. Battles such as Yarmuk and al-Qadisiyyah were military turning points, but conquest became durable only through administration after the battlefield.\n\nIn many regions, the new rulers did not simply erase local elites and bureaucratic habits. They adapted and transformed them. Non-Muslim communities were incorporated under different arrangements involving taxation, protection, and local religious practice. This was not equally peaceful or equal everywhere, but a simple model of forced conversion does not explain the picture. Taxation, security, sectarian tension, and local bargaining all mattered.\n\nFilms and series such as The Message or Omar often focus on faith, leadership, and the formation of a new community. Historically, the striking point is how that motivation met a weakened Byzantine-Sasanian world and flexible administrative practice. The result was a rapid political transformation across regions that had recently belonged to old imperial systems.",
+      "accuracyNote": "The speed of the conquests should be read through military success, Byzantine-Sasanian exhaustion, tax systems, local agreements, and new administrative practice together.",
+      "whyInteresting": "Yarmuk and al-Qadisiyyah were not only battlefield victories; they marked the weakness of two older imperial orders at the same historical moment.",
+      "misconception": "The early Islamic conquests are often imagined as spreading only by the sword. In reality, war, agreement, taxation, and local negotiation all shaped the process.",
+      "nextTopics": [
+        "Rashidun Caliphate",
+        "Fall of the Sasanians",
+        "Battle of Yarmuk"
+      ],
+      "sources": [
+        {
+          "title": "Expansion of the Islamic Community (Britannica)",
+          "url": "https://www.britannica.com/topic/Islamic-world/Expansion-of-the-Islamic-community",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The Art of the Umayyad Period (The Met)",
+          "url": "https://www.metmuseum.org/toah/hd/umay/hd_umay.htm",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Geopolitical context checked against Britannica and museum sources.",
+      "mediaConnection": "This card reads The Message and Omar against the political vacuum left by exhausted Byzantine and Sasanian power.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "byzantium",
+        "islamic-history",
+        "politics",
+        "the-message",
+        "omar"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Films and series often frame the conquests as faith and leadership stories; historically, imperial exhaustion, political vacuum, and administrative adaptation made the transformation more complex.",
+      "whyItMatters": "This period shows that major historical change often accelerates when ideology meets the weakness of older institutions and the creation of new administrative forms.",
+      "quickRealityCheck": "Did the early Islamic conquests spread only through religious enthusiasm, or did the Byzantine-Sasanian political vacuum help make them so fast?",
+      "spoilerNote": "Contains broad context for The Message / Omar, without revealing the ending.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "chernobyl-secrecy",
+      "title": "Chernobyl: Information and State Image",
+      "subtitle": "A disaster managed through delay, secrecy, and denial.",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Modern History",
+        "Soviet Union",
+        "Crisis Management"
+      ],
+      "whatWeSee": "The series shows officials trying to hide the truth after the disaster, while the system's inertia deepens the crisis.",
+      "realHistory": "In the Chernobyl disaster, technical failure and state information control cannot be separated. On 26 April 1986, a safety test in Reactor 4 combined with RBMK design risks and operator decisions to spiral out of control. In the first hours after the explosion, firefighters and plant workers were exposed to extremely high radiation levels. Pripyat was evacuated only about 36 hours later.\n\nThe first Soviet reflex was not open public disclosure. It was to preserve the appearance of control. When the radioactive plume crossed Soviet borders and elevated readings appeared in Sweden, the disaster became impossible to keep hidden internationally. That delay exposed more than a technical safety problem. It showed how a closed bureaucracy could put state image ahead of public health in a crisis.\n\nHBO's Chernobyl builds its story around the cost of lies. Historically, some characters and scenes are compressed or dramatized, but the larger lesson is real: technical warnings were suppressed, emergency information moved too slowly, and institutional fear made a dangerous technology more dangerous.",
+      "accuracyNote": "The series captures the atmosphere of political pressure and secrecy, though some characters combine the roles of several scientists and officials.",
+      "whyInteresting": "The world learned the scale of Chernobyl not only from Soviet statements, but because radioactive fallout was detected outside the USSR, including in Sweden.",
+      "misconception": "The accident is often blamed on a single operator error. In reality, design flaws, test conditions, training problems, and closed crisis management all mattered.",
+      "nextTopics": [
+        "Mikhail Gorbachev",
+        "Glasnost",
+        "History of Nuclear Energy"
+      ],
+      "sources": [
+        {
+          "title": "Chornobyl Accident (UNSCEAR)",
+          "url": "https://www.unscear.org/unscear/en/chernobyl.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Chornobyl: IAEA Safety and Legacy",
+          "url": "https://www.iaea.org/topics/chornobyl",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Monitoring the Fallout (IAEA Bulletin)",
+          "url": "https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull28-3/28302793032.pdf",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "chernobyl-disaster",
+        "chernobyl-bureaucracy-truth",
+        "chernobyl-biorobots-cost"
+      ],
+      "reviewerNote": "Official reporting and historical context checked against UNSCEAR and IAEA materials.",
+      "mediaConnection": "Chernobyl shows how a state's attempt to hide reality can turn a technical failure into a wider social disaster.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "chernobyl",
+        "crisis-management",
+        "modern-history",
+        "soviet-union",
+        "science"
+      ],
+      "spoilerNote": "Contains broad context for Chernobyl, without revealing the ending.",
+      "isFlagship": false,
+      "mediaChanged": "Chernobyl compresses events through a few characters and scenes; historically, the disaster was a broader crisis of reactor design and state secrecy.",
+      "whyItMatters": "Chernobyl shows that safety in high-risk technology depends not only on engineering, but also on open information and institutional accountability.",
+      "quickRealityCheck": "Was Chernobyl just a technical accident, or a crisis made worse by a closed state culture?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "mongols-culture-exchange",
+      "title": "Pax Mongolica and Cultural Exchange",
+      "subtitle": "Barbarism, globalization, or both?",
+      "mediaType": "general",
+      "mediaTitle": "Popular Culture Misconceptions",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Mongols",
+        "Cultural Exchange",
+        "Silk Road"
+      ],
+      "whatWeSee": "The Mongols are often shown only as a destructive force that burned cities and pushed civilization backward.",
+      "realHistory": "The Mongol Empire was not only a story of destruction and siege. Across its vast territory, it also created conditions in which people, goods, technical knowledge, and diplomatic messages could move faster. The period often called the Pax Mongolica brought relative security to parts of the Silk Road. That security was uneven, and it does not erase the devastation of Mongol conquest, but imperial roads opened new connections for merchants, envoys, and craftsmen.\n\nThe yam postal system allowed authorized messengers to change horses at relay stations and move across huge distances. Authority tablets such as the paiza allowed the bearer to draw on imperial resources. This network mattered not only for military command, but for taxation, diplomacy, and trade. It helped increase contact between China, the Islamic world, and Europe.\n\nPopular culture often reduces the Mongols to a one-dimensional \"barbarian invasion.\" The truth is harsher and more complex. Mongol conquests destroyed cities and killed on a vast scale, yet the empire that followed also accelerated commerce, diplomacy, and the circulation of technologies across Eurasia.",
+      "accuracyNote": "The Mongol period should be read as both destructive and connective. Neither pure barbarism nor pure globalization explains it fully.",
+      "whyInteresting": "The yam system was a relay network that increased the speed of imperial communication, showing that Mongol power was more than cavalry attack.",
+      "misconception": "The Mongols are often imagined as only destroyers of civilization; in reality, their empire also intensified trade, diplomacy, and technical exchange.",
+      "nextTopics": [
+        "Pax Mongolica",
+        "Silk Road Technologies",
+        "Hulegu Khan"
+      ],
+      "sources": [
+        {
+          "title": "Mongol Empire (UNESCO Silk Roads)",
+          "url": "https://en.unesco.org/silkroad/content/mongol-empire",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Pax Mongolica (Britannica)",
+          "url": "https://www.britannica.com/topic/Pax-Mongolica",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Geregee / Golden Paiza (United Nations)",
+          "url": "https://www.un.org/ungifts/geregee-or-golden-paiza-chinggis-khan",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "medieval-lifespan-myth",
+        "pirate-maps-myth",
+        "nero-fiddling-myth"
+      ],
+      "reviewerNote": "Checked against UNESCO Silk Roads material and major reference sources.",
+      "mediaConnection": "Media about Mongol invasion often shows only destruction; this card adds the trade, postal, and diplomatic networks that followed conquest.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "silk-road",
+        "cultural-exchange",
+        "mongols",
+        "misconceptions"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Popular media often shows the Mongols as a wave of raiding horsemen; history shows an imperial system that also used postal, trade, and diplomatic networks.",
+      "whyItMatters": "Pax Mongolica shows that empires can be destructive and connective at the same time, creating new routes of contact after war.",
+      "quickRealityCheck": "Were the Mongols only destroyers, or did they also build a Eurasian network for trade and information?",
+      "spoilerNote": ""
+    },
+    {
+      "id": "ottoman-beyond-war",
+      "title": "The Ottoman Empire Beyond War",
+      "subtitle": "Architecture, medicine, and the infrastructure of urban life.",
+      "mediaType": "general",
+      "mediaTitle": "Atmosphere",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Ottoman Empire",
+        "Architecture",
+        "Science"
+      ],
+      "whatWeSee": "The Ottoman Empire is often represented through conquest, palace drama, and military success.",
+      "realHistory": "Reading Ottoman history only through conquest misses many of the institutions that made the empire durable. Cities were organized around waqf-supported structures such as mosques, madrasas, soup kitchens, baths, fountains, caravanserais, and hospitals. These were not decorative monuments. They formed a social infrastructure for education, health, food distribution, cleanliness, and commerce.\n\nThe works of Mimar Sinan are the most visible face of this institutional world. Large complexes such as Suleymaniye or Selimiye were not only places of worship. They brought schools, kitchens, medical spaces, guest lodging, and services into a single urban network. Aqueducts, waterways, and fountains also formed part of the technical infrastructure that allowed the imperial capital to grow.\n\nOttoman science and craft should not be reduced to a simple rise-and-fall story. Astronomy, medicine, cartography, architecture, and guild organization continued with different intensities in different periods. A more balanced view looks beyond campaigns and sultans to the waqfs, water systems, workshops, and everyday services that held cities together.",
+      "accuracyNote": "Waqf institutions, urban complexes, and water infrastructure were as lasting a part of Ottoman life as military success, but calling them a modern welfare state would be anachronistic.",
+      "whyInteresting": "The kulliye model connected worship with schools, kitchens, baths, hospitals, and lodging inside a single architectural and social system.",
+      "misconception": "The Ottoman legacy is often reduced to conquest. Architecture, waqf services, water systems, and craft institutions were equally important to its durability.",
+      "nextTopics": [
+        "Mimar Sinan",
+        "Ottoman Waqf System",
+        "Dar al-Shifa Hospitals"
+      ],
+      "sources": [
+        {
+          "title": "Ottoman Art (Britannica)",
+          "url": "https://www.britannica.com/art/Ottoman-art",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Ottomans (Museum With No Frontiers / Discover Islamic Art)",
+          "url": "https://islamicart.museumwnf.org/gai/isl/page.php?theme=10",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Ottoman Palace Cuisine of the Classical Period (Muslim Heritage)",
+          "url": "https://muslimheritage.com/ottoman-palace-cuisine-of-the-classical-period/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ancient-city-smells"
+      ],
+      "reviewerNote": "Architectural and social context checked against Britannica and museum material.",
+      "mediaConnection": "Shows about the Ottoman world often emphasize campaign and court; this card looks at the quieter institutions of city life.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "atmosphere",
+        "science",
+        "architecture",
+        "ottoman-empire"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Films and series often frame the Ottoman world through war, palace, and campaign; urban life was shaped just as much by waqfs, complexes, guilds, and water architecture.",
+      "whyItMatters": "An empire's power lies not only in armies, but in the ability to sustain hospitals, fountains, schools, kitchens, and roads.",
+      "quickRealityCheck": "Is Ottoman history only war and conquest, or also an urban civilization built through architecture, waqfs, and public services?",
+      "spoilerNote": ""
+    },
+    {
+      "id": "mesopotamia-legacy",
+      "title": "Mesopotamia: The Legacy of the Cradle of Civilization",
+      "subtitle": "From writing to measurement, a past that still shapes daily life.",
+      "mediaType": "general",
+      "mediaTitle": "Civilization",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Mesopotamia",
+        "Civilization",
+        "Technology"
+      ],
+      "whatWeSee": "Documentaries and popular histories often label Mesopotamia as the 'first civilization,' while moving quickly past how writing, law, cities, and measurement entered everyday life.",
+      "realHistory": "Mesopotamia was not one state or one people. It was a layered civilizational zone where Sumerian, Akkadian, Babylonian, and Assyrian societies developed over thousands of years in the same river basin. Around the Tigris and Euphrates, irrigation did more than support agriculture. It increased the need for labor organization, accounting, taxation, and central administration. The rise of cuneiform was therefore not only a cultural achievement; it was also an administrative necessity.\n\nThe region's legacy reaches into ordinary life. The sexagesimal, or base-60, number system still leaves traces in minutes, seconds, and angles. Written law became stronger through texts that recorded debt, property, punishment, and family relations. Ziggurats were not just religious monuments; they were connected to storage, labor, ritual, and urban economy.\n\nCalling Mesopotamia the \"cradle of civilization\" is easy. The more interesting question is how that cradle worked. Canal, clay tablet, temple economy, and legal code were parts of the same system. When we look at modern cities, bureaucracy, accounting, law, and measurement, we can still see shadows of this old river world.",
+      "accuracyNote": "Mesopotamian legacy should not be reduced to a list of inventions; writing, law, measurement, irrigation, and city government emerged through long, layered processes.",
+      "whyInteresting": "The 60-minute hour and 360-degree circle preserve traces of the base-60 number system developed in Mesopotamian contexts.",
+      "misconception": "Mesopotamia is often treated as only a place-name. In fact, it refers to thousands of years of overlapping cities, states, and cultures.",
+      "nextTopics": [
+        "Sumerians",
+        "Code of Hammurabi",
+        "Ziggurats"
+      ],
+      "sources": [
+        {
+          "title": "Mesopotamia (Britannica)",
+          "url": "https://www.britannica.com/place/Mesopotamia",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Mesopotamia Gallery (The British Museum)",
+          "url": "https://www.britishmuseum.org/collection/galleries/mesopotamia",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Technological and cultural context checked against the British Museum and major reference sources.",
+      "mediaConnection": "This card expands the usual documentary shorthand about Mesopotamia by connecting writing, irrigation, law, and measurement to daily systems.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "civilization",
+        "mesopotamia",
+        "technology",
+        "science"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Popular accounts summarize Mesopotamia through a few famous inventions; history shows a more complex system of irrigation, writing, law, and temple economy.",
+      "whyItMatters": "Understanding Mesopotamia helps us see that modern administration, records, law, and city life grew from very old practical needs.",
+      "quickRealityCheck": "Is Mesopotamia just the 'first civilization,' or an early laboratory for the measurement, record-keeping, and administration we still use?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "baghdad-daily-life-new",
+      "title": "A Day in Golden Age Baghdad",
+      "subtitle": "Markets, canals, hospitals, and books.",
+      "mediaType": "general",
+      "mediaTitle": "Daily Life",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Baghdad",
+        "Daily Life",
+        "Abbasids"
+      ],
+      "whatWeSee": "Baghdad is often shown in media through palace intrigue, caliphs, and exotic court atmosphere.",
+      "realHistory": "Ninth-century Baghdad was not only the caliph's palace. On the banks of the Tigris, it was a vast cosmopolitan center where merchants, translators, physicians, scribes, and craftsmen crossed paths. The world associated with Harun al-Rashid and the Abbasid court had a concrete urban reality behind the storybook image: bridges, markets, canals, libraries, and a dense culture of writing.\n\nTranslation activity around the House of Wisdom helped move Greek, Syriac, Persian, and Indian knowledge into Arabic. This was not merely court curiosity. Paper production and the book trade made knowledge visible in city life through scribes, translators, and booksellers. Bimaristans, or hospitals, reflected a medical culture in which physicians, pharmacists, and observation formed part of the urban world.\n\nPopular media often turns Baghdad into a palace drama or desert fantasy. Historically, the city was one of the most developed urban centers of the Abbasid world, sustained by canals, markets, hospitals, and books. Its real fascination lies not only in golden domes, but in the way paper, water, trade, and knowledge entered everyday life.",
+      "accuracyNote": "Baghdad's early circular plan expressed Abbasid central power; by the 9th century, urban life depended on a wider network of court, market, book culture, and health institutions.",
+      "whyInteresting": "Paper production and the book trade helped knowledge circulate not only at court but through scribes, translators, and booksellers in the city.",
+      "misconception": "Baghdad is often imagined as only palace or desert scenery. It was a major metropolis with canals, markets, hospitals, and a strong book culture.",
+      "nextTopics": [
+        "Round City",
+        "Abbasid Court Life",
+        "One Thousand and One Nights"
+      ],
+      "sources": [
+        {
+          "title": "Baghdad (Britannica)",
+          "url": "https://www.britannica.com/place/Baghdad",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "House of Wisdom (UNESCO)",
+          "url": "https://en.unesco.org/silkroad/content/house-wisdom",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ancient-roman-day",
+        "medieval-night-life",
+        "ottoman-diet-culture"
+      ],
+      "reviewerNote": "Urban planning and social history checked against UNESCO and Britannica.",
+      "mediaConnection": "Media about Baghdad tends to foreground palaces and intrigue; this card completes the picture through markets, hospitals, books, and water infrastructure.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "abbasids",
+        "baghdad",
+        "daily-life"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Media often emphasizes palace life and exotic atmosphere; historical Baghdad was also a deeply urban story of trade, water management, hospitals, and writing.",
+      "whyItMatters": "Understanding Golden Age Baghdad means reading the medieval Islamic world through city planning, health, and knowledge production, not only court and war.",
+      "quickRealityCheck": "Was 9th-century Baghdad just an exotic palace setting, or a city of markets, hospitals, booksellers, and canals?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "ottoman-diet-culture",
+      "title": "Ottoman Food and Dining Culture",
+      "subtitle": "From palace kitchens to everyday tables.",
+      "mediaType": "general",
+      "mediaTitle": "Daily Life",
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Ottoman Empire",
+        "Food Culture",
+        "Daily Life"
+      ],
+      "whatWeSee": "Ottoman series often show tables packed with lavish meat dishes and endless palace feasts.",
+      "realHistory": "Ottoman cuisine was not only palace banquets. It reflected trade routes, climates, religious practice, and the diversity of the imperial world. The imperial kitchen, the Matbah-i Amire, was a large organization with specialized staff, supply records, and separate cooking units. But ordinary meals were usually shaped by soup, pilaf, bread, yogurt, vegetables, legumes, fruit, and measured use of meat.\n\nIt is also misleading to imagine the classical Ottoman table as identical to modern Turkish cuisine. Tomatoes, potatoes, maize, and many peppers came from the Americas and entered Ottoman cooking over time after the Columbian exchange. Earlier tables relied on different balances of grains, dairy, fruits, herbs, and spices.\n\nFood culture also belonged to public life. Soup kitchens, markets, street vendors, guilds, coffeehouses, and Ramadan rhythms all shaped how people ate. Palace cuisine mattered, but it was only one layer. The Ottoman table was a meeting point between empire, trade, religion, household economy, and everyday habit.",
+      "accuracyNote": "Ottoman cuisine changed over time; many ingredients common in modern Turkish cooking entered later through global exchange.",
+      "whyInteresting": "The imperial kitchen was a major institution, but ordinary Ottoman food culture depended just as much on bread, soup, pilaf, yogurt, markets, and seasonal produce.",
+      "misconception": "Ottoman food is often imagined as endless palace meat dishes. Everyday eating was more varied and often more modest.",
+      "nextTopics": [
+        "Palace Cuisine",
+        "Columbian Exchange",
+        "Coffeehouses"
+      ],
+      "sources": [
+        {
+          "title": "Ottoman Palace Cuisine of the Classical Period (Muslim Heritage)",
+          "url": "https://muslimheritage.com/ottoman-palace-cuisine-of-the-classical-period/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Culinary Culture of the Ottoman Palace and Istanbul (Özge Samancı)",
+          "url": "https://www.researchgate.net/publication/283491497_The_Culinary_Culture_of_the_Ottoman_Palace_Istanbul_during_the_last_period_of_the_Empire",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ancient-roman-day",
+        "medieval-night-life",
+        "baghdad-daily-life-new"
+      ],
+      "reviewerNote": "Culinary context checked against Ottoman food history sources.",
+      "mediaConnection": "Ottoman dramas often display royal banquets; this card looks at the broader food culture behind palace and street life.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "daily-life",
+        "food-culture",
+        "ottoman-empire"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Series often turn Ottoman food into palace spectacle; historical dining culture also included markets, soup kitchens, coffeehouses, and modest household meals.",
+      "whyItMatters": "Food history shows how trade, religion, class, and global exchange enter daily life at the table.",
+      "quickRealityCheck": "Was Ottoman cuisine only palace feasting, or a layered food culture shaped by markets, households, trade, and public kitchens?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "silk-road-travel-new",
+      "title": "Travel and Caravanserais on the Silk Road",
+      "subtitle": "The road was an infrastructure of rest, risk, and exchange.",
+      "mediaType": "general",
+      "mediaTitle": "Daily Life",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Silk Road",
+        "Travel",
+        "Trade"
+      ],
+      "whatWeSee": "The Silk Road is often pictured as a single romantic road crossed by endless camel caravans.",
+      "realHistory": "The Silk Road was not one road. It was a network of land and sea routes connecting East Asia, Central Asia, Iran, the Mediterranean, and beyond. Travel across that network was slow, expensive, and risky. Merchants had to deal with deserts, mountains, bandits, local tolls, political borders, and changing languages. No one casually crossed it from one end to the other as a simple adventure.\n\nCaravanserais made this world more workable. These roadside inns offered shelter, water, storage, stabling, information, and sometimes protection. They were not luxury hotels. They were infrastructure for long-distance exchange. A merchant could rest animals, learn about road conditions, find partners, hear news, and negotiate before moving on.\n\nGoods did not move alone. Religions, artistic styles, medical ideas, technologies, diplomatic messages, and rumors moved with people. The most important feature of the Silk Road was not silk itself, but connection. Its power came from many linked stops, not one continuous highway.",
+      "accuracyNote": "The Silk Road should be understood as a shifting network of routes, towns, ports, and caravanserais, not as a single fixed road from China to Europe.",
+      "whyInteresting": "Caravanserais were practical nodes of globalization: part inn, part warehouse, part information hub, part security point.",
+      "misconception": "The Silk Road is often imagined as one continuous road. In reality, it was a changing network of overland and maritime routes.",
+      "nextTopics": [
+        "Caravanserais",
+        "Silk Road",
+        "Medieval Travel"
+      ],
+      "sources": [
+        {
+          "title": "About the Silk Roads (UNESCO)",
+          "url": "https://www.unesco.org/en/silk-roads/about-silk-roads",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Caravanserai (National Geographic Education)",
+          "url": "https://education.nationalgeographic.org/resource/caravanserai/",
+          "type": "reference",
+          "verified": true
+        },
+        {
+          "title": "The Persian Caravanserai (UNESCO World Heritage Centre)",
+          "url": "https://whc.unesco.org/en/list/1668/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ancient-roman-day",
+        "medieval-night-life",
+        "baghdad-daily-life-new"
+      ],
+      "reviewerNote": "Route and exchange context checked against UNESCO Silk Roads material.",
+      "mediaConnection": "Period media often turns caravan travel into romance; this card highlights the infrastructure and risk behind long-distance exchange.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "caravanserai",
+        "silk-road",
+        "travel",
+        "trade"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Popular stories romanticize the Silk Road as a single journey; historically, it was a network of stops, risks, intermediaries, and local exchanges.",
+      "whyItMatters": "The Silk Road shows that globalization was built not only on goods, but on shelters, trust, languages, and repeated local exchanges.",
+      "quickRealityCheck": "Was the Silk Road one road, or a shifting network of routes, towns, ports, and caravanserais?",
+      "spoilerNote": ""
+    },
+    {
+      "id": "medieval-japan-daily-life",
+      "title": "An Ordinary Day in Feudal Japan",
+      "subtitle": "Beyond samurai duels and castle politics.",
+      "mediaType": "general",
+      "mediaTitle": "Daily Life",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Japan",
+        "Daily Life",
+        "Feudalism"
+      ],
+      "whatWeSee": "Media often reduces feudal Japan to samurai, sword duels, castles, and clan honor.",
+      "realHistory": "Feudal Japan was not lived only by samurai. Most people were farmers, fishers, artisans, monks, merchants, or servants moving through a world of seasons, taxes, village duties, markets, and religious practice. The rhythm of ordinary life was set less by battlefield glory than by rice planting, harvests, repair work, festivals, shrine visits, and obligations to local lords.\n\nVillages had their own internal structures. Households worked fields, shared irrigation responsibilities, paid taxes, and negotiated with estate managers or warrior authorities. Women worked in agriculture, textile production, household management, and sometimes defense, though their roles varied by period and status. Markets and road networks connected local communities to wider trade.\n\nSamurai culture mattered, but it was not the whole society. Media like Ghost of Tsushima and Shogun often focus on warrior crisis because it is dramatically powerful. The wider historical world also contained cooks, ferrymen, monks, innkeepers, farmers, scribes, and traders. Their labor made the warrior world possible.",
+      "accuracyNote": "Warrior households were important, but feudal Japanese society rested on farming, village organization, markets, religious institutions, and seasonal labor.",
+      "whyInteresting": "The samurai depended on the productive and administrative work of people rarely centered in media: farmers, artisans, monks, women, and local officials.",
+      "misconception": "Feudal Japan is often imagined as a society made almost entirely of samurai. In reality, warrior culture stood on a much broader social base.",
+      "nextTopics": [
+        "Samurai Villages",
+        "Peasant Life",
+        "Heian Period"
+      ],
+      "sources": [
+        {
+          "title": "Medieval Japan (Britannica)",
+          "url": "https://www.britannica.com/place/Japan/Medieval-Japan",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Samurai and Daimyo (The Met)",
+          "url": "https://www.metmuseum.org/toah/hd/shog/hd_shog.htm",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ancient-roman-day",
+        "medieval-night-life",
+        "baghdad-daily-life-new"
+      ],
+      "reviewerNote": "Daily life and social context checked against historical reference material.",
+      "mediaConnection": "This card complements samurai-focused media by looking at the ordinary labor and social structures behind the warrior world.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "daily-life",
+        "japan",
+        "feudalism",
+        "samurai"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Media often frames feudal Japan through warriors and castles; everyday life depended on farming, markets, religion, and village obligations.",
+      "whyItMatters": "It reminds us that the worlds behind famous warriors are sustained by ordinary people and routine labor.",
+      "quickRealityCheck": "Was feudal Japan mostly samurai drama, or a society of farmers, artisans, monks, merchants, and village obligations?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "mesopotamian-markets-new",
+      "title": "Mesopotamian Markets and Early Banking",
+      "subtitle": "Credit, contracts, and commerce before coin economies.",
+      "mediaType": "general",
+      "mediaTitle": "Economy",
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Mesopotamia",
+        "Economy",
+        "Trade"
+      ],
+      "whatWeSee": "Ancient economies are often shown as simple barter: grain for goats, goods for goods, with little paperwork.",
+      "realHistory": "Mesopotamian markets were much more complex than a simple barter world. Long before modern banks or coin-based economies, temples, palaces, merchants, and private households used records, loans, interest, deposits, and contracts. Clay tablets preserved transactions in writing, which gave trade a durable administrative memory.\n\nGrain, silver by weight, wool, dates, livestock, land, and labor could all appear in economic records. Merchants financed journeys, borrowed supplies, entered partnerships, and settled accounts across distance. Temples and large households could function as major economic institutions, storing goods, distributing rations, lending resources, and organizing labor.\n\nThis does not mean Mesopotamia had \"banks\" in the modern sense. The comparison is useful only if handled carefully. What we see instead is the early development of credit, written obligation, accounting, and trust backed by institutions. Commerce did not wait for modern finance to become sophisticated. It grew out of record-keeping, law, and the need to move value through time.",
+      "accuracyNote": "Mesopotamian finance should not be equated directly with modern banking; it involved early forms of credit, contracts, interest, and institutional accounting.",
+      "whyInteresting": "Clay tablets could record debt, loans, delivery, wages, and ownership, turning economic memory into something durable and enforceable.",
+      "misconception": "Ancient markets are often imagined as pure barter. Mesopotamian records show a much richer world of accounting, credit, and contractual exchange.",
+      "nextTopics": [
+        "Temple Finance",
+        "Silver Economy",
+        "Hammurabi"
+      ],
+      "sources": [
+        {
+          "title": "Mesopotamian Clay Tablets (Banca d'Italia)",
+          "url": "https://www.bancaditalia.it/servizi-cittadino/musei-e-visite/museo-moneta/tavolette-mesopotamiche/index.html?com.dotmarketing.htmlpage.language=1",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Emergence of Lending and Writing (Citéco)",
+          "url": "https://www.citeco.fr/10000-years-history-economics/the-origins/emergence-of-lending-and-writing-initially-used-for-accounting",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Mesopotamia (Britannica)",
+          "url": "https://www.britannica.com/place/Mesopotamia",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [],
+      "reviewerNote": "Economic context checked against Mesopotamian legal and market history sources.",
+      "mediaConnection": "This card broadens ancient-world media beyond kings and temples by showing the commercial systems that held cities together.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "economy",
+        "mesopotamia",
+        "markets",
+        "banking"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Popular depictions simplify ancient exchange into barter; Mesopotamian evidence shows contracts, credit, records, and institutional accounting.",
+      "whyItMatters": "Early finance shows that trust, debt, and written obligation are among the oldest tools of urban civilization.",
+      "quickRealityCheck": "Were ancient markets only barter, or did Mesopotamian cities already use credit, contracts, and written accounts?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "constantinople-fall-turning-new",
+      "title": "1453: The Fall of Constantinople and a Shifting World",
+      "subtitle": "Why one city's fall became a turning point.",
+      "mediaType": "general",
+      "mediaTitle": "Turning Points",
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Ottoman Empire",
+        "Byzantium",
+        "Turning Point"
+      ],
+      "whatWeSee": "The fall of Constantinople is often shown as a single dramatic siege in which cannons end the Middle Ages.",
+      "realHistory": "The fall of Constantinople in 1453 was one of the great political shocks of the late medieval world, but it was not a magical overnight switch from the Middle Ages to modernity. The Byzantine Empire had been shrinking for centuries. By the time Mehmed II besieged the city, Constantinople was still symbolically immense but territorially fragile.\n\nThe siege mattered because several forces came together. Ottoman artillery, especially large cannons, helped batter the walls, but victory also depended on logistics, naval pressure, manpower, diplomacy, and Byzantine isolation. The famous land walls were not simply obsolete; they were worn down under enormous pressure from a state able to sustain a major siege.\n\nThe aftermath reshaped the region. Constantinople became the Ottoman capital, later Istanbul, and the empire gained a new imperial center linking the Balkans, Anatolia, and eastern Mediterranean. For Europe, the fall intensified fears of Ottoman expansion and became part of later narratives about the Renaissance and exploration. Some Greek scholars and manuscripts did move west, but the Renaissance was already under way.\n\nSo 1453 is a turning point, but not because one cannon ended an age in a single moment. It matters because it concentrated older processes: Byzantine decline, Ottoman expansion, gunpowder warfare, Mediterranean trade, and imperial legitimacy.",
+      "accuracyNote": "1453 was a major turning point, but it should not be reduced to the idea that cannons alone ended the Middle Ages or single-handedly caused the Renaissance.",
+      "whyInteresting": "Mehmed II's victory mattered not only militarily but symbolically: he gained a city with deep Roman, Christian, and imperial prestige.",
+      "misconception": "The fall of Constantinople is often treated as a single event that instantly ended the medieval world. In reality, it condensed several long-term changes.",
+      "nextTopics": [
+        "Mehmed II",
+        "Ottoman Cannons",
+        "Renaissance"
+      ],
+      "sources": [
+        {
+          "title": "Fall of Constantinople — Britannica",
+          "url": "https://www.britannica.com/event/Fall-of-Constantinople-1453",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Mehmed II — Britannica",
+          "url": "https://www.britannica.com/biography/Mehmed-II-Ottoman-sultan",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Istanbul Historic Areas — UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/356/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "silk-road-network-turning"
+      ],
+      "reviewerNote": "Siege and political context checked against major historical references.",
+      "mediaConnection": "This card connects siege-focused media to the broader political, military, and symbolic consequences of 1453.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "byzantium",
+        "ottoman-empire",
+        "1453",
+        "turning-points"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Popular depictions focus on walls and cannons; historically, the fall also depended on diplomacy, logistics, naval pressure, and Byzantine weakness.",
+      "whyItMatters": "1453 matters because it shows how a single event can become a symbol for many long-term shifts already under way.",
+      "quickRealityCheck": "Did one cannon end the Middle Ages, or did Constantinople fall at the crossing point of older political and military changes?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "silk-road-network-turning",
+      "title": "The Silk Road Was Not One Road",
+      "subtitle": "A network, not a single line across the map.",
+      "mediaType": "general",
+      "mediaTitle": "Turning Points",
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Silk Road",
+        "Trade",
+        "Global History"
+      ],
+      "whatWeSee": "Maps and documentaries often draw the Silk Road as one clean line linking China to Europe.",
+      "realHistory": "The Silk Road was not a single highway. It was a shifting network of land routes, sea routes, oasis towns, mountain passes, caravan paths, ports, and local markets. Its routes changed with politics, climate, security, and demand. Merchants rarely traveled from one end to the other. Goods were more often passed from hand to hand, market to market, across many intermediaries.\n\nThis matters because the Silk Road moved more than silk. Buddhism, Islam, Christianity, artistic styles, metalwork, paper, medical knowledge, horses, spices, disease, and diplomatic news all traveled through overlapping networks. A caravanserai in Central Asia, a port in the Indian Ocean, a Chinese workshop, and a Mediterranean market could all be part of the same larger exchange system.\n\nCalling it a road makes the system feel simpler and more orderly than it was. The Silk Road's real power came from its network quality. It was resilient because it had alternatives, branches, and local connectors. It was fragile because war, plague, taxes, and political collapse could disrupt particular links.\n\nFor True Frame, the point is simple: history often moves through networks, not straight lines.",
+      "accuracyNote": "The Silk Road should be understood as a flexible network of overland and maritime routes, not a single fixed road.",
+      "whyInteresting": "A product might travel thousands of kilometers without a single merchant making the whole journey.",
+      "misconception": "The Silk Road is often imagined as one road from China to Europe. It was actually a changing web of routes and intermediaries.",
+      "nextTopics": [
+        "Caravan Cities",
+        "Maritime Trade",
+        "Mongol Networks"
+      ],
+      "sources": [
+        {
+          "title": "About the Silk Roads — UNESCO",
+          "url": "https://www.unesco.org/en/silk-roads/about-silk-roads",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Silk Road — Britannica",
+          "url": "https://www.britannica.com/topic/Silk-Road",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Caravanserai — National Geographic Education",
+          "url": "https://education.nationalgeographic.org/resource/caravanserai/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "constantinople-fall-turning-new"
+      ],
+      "reviewerNote": "Network and exchange context checked against UNESCO Silk Roads material.",
+      "mediaConnection": "This card corrects the simplified map image often used in documentaries, games, and historical explainers.",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "silk-road",
+        "trade",
+        "networks",
+        "turning-points"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Popular maps draw the Silk Road as one line; historically, it was a changing network of routes, ports, towns, and intermediaries.",
+      "whyItMatters": "The Silk Road helps us understand globalization as a network of local exchanges rather than one heroic journey across a continent.",
+      "quickRealityCheck": "Was the Silk Road a single road, or a web of routes, ports, markets, and middlemen?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "onna-musha-samurai-women",
+      "title": "Onna-musha: Women Warriors in the Samurai World",
+      "subtitle": "Beyond the myth of a male-only warrior class.",
+      "mediaType": "game",
+      "mediaTitle": "Ghost of Tsushima / Shogun",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Japan",
+        "Samurai",
+        "Women"
+      ],
+      "whatWeSee": "Samurai stories usually center men, while women appear as nobles, victims, or figures waiting inside the household.",
+      "realHistory": "The samurai world was deeply patriarchal, but it was not entirely male on the field of violence. Onna-musha, or women associated with warrior households, could receive weapons training and, in some circumstances, fight in defense of home, clan, or political cause. Their role varied by period, class, and local need, but they were not simply inventions of modern revision.\n\nFigures such as Tomoe Gozen occupy a space between history, literature, and legend. She appears in The Tale of the Heike as an exceptional warrior, and later memory turned her into an icon of female martial ability. Other examples, especially in later periods of siege and civil conflict, show women taking part in defense or using weapons such as the naginata.\n\nThis should not be romanticized into gender equality. Most military authority still belonged to men, and women's roles were constrained by family, class, and law. But the opposite myth is also wrong. Samurai culture included women who managed estates, defended households, and sometimes fought.\n\nGhost of Tsushima and Shogun open space for this complexity. The real history is not a simple army of women samurai, but a warrior society where gender limits were real and yet not absolute.",
+      "accuracyNote": "Onna-musha were not the norm and should not be treated as proof of equality, but women from warrior households could train, defend property, and sometimes fight.",
+      "whyInteresting": "Tomoe Gozen's fame shows how the boundary between historical memory and warrior legend shaped the image of women in samurai culture.",
+      "misconception": "The samurai world is often imagined as entirely male in matters of war. In reality, some women in warrior households trained and fought under specific conditions.",
+      "nextTopics": [
+        "Tomoe Gozen",
+        "Samurai",
+        "Women in War"
+      ],
+      "sources": [
+        {
+          "title": "Samurai — Britannica",
+          "url": "https://www.britannica.com/topic/samurai",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Did Japan have female samurai? — Live Science",
+          "url": "https://www.livescience.com/archaeology/did-japan-have-female-samurai",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Japanese Arms and Armor — The Met",
+          "url": "https://www.metmuseum.org/toah/hd/shog/hd_shog.htm",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "tsushima-samurai-power"
+      ],
+      "reviewerNote": "Social and military context checked against Japanese history reference material.",
+      "mediaConnection": "This card connects Ghost of Tsushima and Shogun to the less visible history of women in warrior households.",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "japan",
+        "samurai",
+        "women-warriors",
+        "ghost-of-tsushima"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Media often puts male samurai at the center; history also includes women who managed estates, defended homes, and sometimes entered combat.",
+      "whyItMatters": "Onna-musha complicate the idea that warrior culture was purely male, without pretending that feudal Japan was egalitarian.",
+      "quickRealityCheck": "Were samurai worlds entirely male, or did some women train, defend households, and fight under specific conditions?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    }
+  ]
+}

@@ -1,0 +1,1483 @@
+{
+  "meta": {
+    "purpose": "English-native adaptation batch",
+    "sourceChunk": "source-chunk-011.json",
+    "batchNumber": 11,
+    "cardCount": 20,
+    "sourceCardRange": "TR order cards 201-220",
+    "alreadyAuthoredCountBeforeBatch": 200,
+    "authoredCountAfterBatch": 220,
+    "remainingCountAfterBatch": 231,
+    "ids": [
+      "tf26-011-arena-politics",
+      "tf26-013-legion-discipline",
+      "tf26-014-citizenship",
+      "tf26-015-roads",
+      "tf26-018-provincial-life",
+      "tf26-019-colosseum-labor",
+      "tf26-020-fall-myth",
+      "tf26-021-athenian-democracy",
+      "tf26-022-sparta-childhood",
+      "tf26-023-peloponnesian-war",
+      "tf26-024-oracle-delphi",
+      "tf26-025-olympic-games",
+      "tf26-026-triremes",
+      "tf26-027-slavery",
+      "tf26-028-theatre",
+      "tf26-029-myth-history",
+      "tf26-030-persian-wars",
+      "tf26-031-longships",
+      "tf26-032-raids-trade",
+      "tf26-033-runes"
+    ],
+    "notes": "Adapted from Turkish canonical cards. Source URLs and relation IDs preserved; localized text fields adapted into natural English."
+  },
+  "cards": [
+    {
+      "id": "tf26-011-arena-politics",
+      "title": "Arena and Politics",
+      "subtitle": "In Rome, the arena was not just entertainment. It was a stage of power.",
+      "mediaType": "film",
+      "mediaTitle": "Gladiator",
+      "era": "Ancient World",
+      "region": "Rome",
+      "themes": [
+        "Empire",
+        "Politics",
+        "War"
+      ],
+      "whatWeSee": "In Gladiator, the arena becomes the center of Maximus's revenge: the roar of the crowd, the emperor's seat, and the life-or-death gesture all collapse into one image. The film turns the Colosseum into more than a place for blood sport. It becomes the public stage where Commodus tries to win Rome, and where the crowd can shape both a fighter's fate and an emperor's reputation.",
+      "realHistory": "In Rome, arena games were never just bloody entertainment. Public generosity, religious commemoration, victory celebration, and urban politics could all meet in the same spectacle. Gladiatorial shows, known as munera, were originally connected to elite funerary rituals; under the empire, they became one of the clearest ways for rulers and wealthy sponsors to speak directly to the people. The person who paid for the games displayed wealth, authority, and the ability to provide order.\n\nThe crowd in the Colosseum was not a silent mass. Spectators could applaud, jeer, demand mercy, or signal anger. The phrase panem et circenses is often flattened into a cliche about distracting the people, but it also points to a real political exchange: food security, public display, and popular pressure were tied together. In the arena, an emperor had to look generous, powerful, and fair.\n\nCommodus made that balance unusually personal. Ancient writers describe his desire to appear in the arena, stage hunts, and inflate his own image through performance. That could fascinate parts of the crowd, but for senators and other elites it risked degrading the dignity of the imperial office. Gladiator compresses this tension into Maximus's story. Historically, the arena was a public theater where imperial power was tested in front of thousands.",
+      "accuracyNote": "The film gives Commodus a final arena duel. Historically, he did appear in spectacles, but he was killed by strangulation at home in 192.",
+      "whyInteresting": "In the Colosseum, the crowd's voice could sometimes create more immediate political pressure than a speech in the Senate.",
+      "misconception": "Arena games are often treated as pure savage entertainment. In reality, they combined imperial generosity, ritual, urban prestige, and a direct negotiation with the crowd.",
+      "nextTopics": [
+        "Commodus's Reputation",
+        "Legion Discipline",
+        "Roman Citizenship"
+      ],
+      "sources": [
+        {
+          "title": "Gladiator (Britannica)",
+          "url": "https://www.britannica.com/sports/gladiator",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Bread and Circuses (Britannica)",
+          "url": "https://www.britannica.com/topic/bread-and-circuses",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Commodus (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/commodus/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "gladiator-commodus-real",
+        "tf26-013-legion-discipline",
+        "tf26-014-citizenship"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Compares Gladiator's arena scenes with the political function of Roman munera.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "rome",
+        "gladiator",
+        "empire",
+        "arena-politics",
+        "true-frame",
+        "ancient-world",
+        "empires"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The film reduces the arena to one gladiator's rise as a popular hero. Historically, games were a recurring public display, a budgetary burden, and a tool of imperial order.",
+      "whyItMatters": "It helps read Roman spectacle not only as violence, but as a system for producing public support, imperial generosity, and political legitimacy.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did Commodus entering the arena make him popular, or did it risk turning imperial authority into stage performance?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-013-legion-discipline",
+      "title": "Legion Discipline",
+      "subtitle": "What held the Roman army together was not just courage, but routine.",
+      "mediaType": "film",
+      "mediaTitle": "Gladiator",
+      "era": "Ancient World",
+      "region": "Rome",
+      "themes": [
+        "Empire",
+        "Politics",
+        "War"
+      ],
+      "whatWeSee": "In Gladiator, legion discipline appears most clearly in the Germania opening: ordered lines, a chain of command, and the fear of punishment. Maximus's army seems to move almost as one body. Camp life, watch cycles, and the fast execution of orders sit behind the battle scenes, making discipline feel both powerful and fragile.",
+      "realHistory": "Roman legion discipline was not simply a matter of harsh commands on the battlefield. It was a permanent institution built from training, camp routine, supply, pay, record keeping, and punishment. Legionaries drilled in marching pace, weapons handling, camp building, ditch digging, and guard duty. A unit's endurance often came less from moments of heroism than from doing the same necessary tasks in the same order every day.\n\nCamp life was central to that discipline. Soldiers did not only fight. They built roads, raised palisades, carried supplies, followed written orders, and kept to watch schedules. Centurions enforced order at the lower levels, while senior officers set larger goals. Disobedience could mean loss of pay, public humiliation, or, in extreme cases, death.\n\nGladiator dramatizes this structure through Maximus's personal leadership. Historically, the legion was more than one commander's charisma. It was the product of institutional repetition. The same discipline shaped frontier defense, garrison life, road building, and veteran colonies. The legion was therefore not only a war machine, but also one of the empire's administrative arms in the provinces.",
+      "accuracyNote": "The film captures command and drill well, but it compresses practices from different periods into a single dramatic military image.",
+      "whyInteresting": "The same discipline made both battlefield survival and day-to-day imperial administration possible.",
+      "misconception": "Rome is often imagined as winning through brute force alone. Logistics, engineering, training, and records were just as decisive.",
+      "nextTopics": [
+        "Arena and Politics",
+        "Commodus's Reputation",
+        "Roman Citizenship"
+      ],
+      "sources": [
+        {
+          "title": "Roman Army (Britannica)",
+          "url": "https://www.britannica.com/topic/Roman-army",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Roman Army (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Roman_Army/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-014-citizenship",
+        "tf26-015-roads",
+        "gladiator-arena-economics"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Connects Gladiator's battlefield scenes with the institutional discipline of the Roman army.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "rome",
+        "gladiator",
+        "empire",
+        "legion-discipline",
+        "true-frame",
+        "ancient-world",
+        "empires"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The film personalizes discipline in a few intense battle scenes. Historically, that discipline came from years of drill, camp routine, and administrative record keeping.",
+      "whyItMatters": "It explains Roman military success through logistics, camp order, and record systems rather than sword power alone.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was the real strength of a legion the charge itself, or the daily camp discipline that made that charge possible?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-014-citizenship",
+      "title": "Roman Citizenship",
+      "subtitle": "In Rome, identity, rights, and imperial belonging met in one legal status.",
+      "mediaType": "film",
+      "mediaTitle": "Gladiator",
+      "era": "Ancient World",
+      "region": "Rome",
+      "themes": [
+        "Empire",
+        "Politics",
+        "War"
+      ],
+      "whatWeSee": "Gladiator makes Roman belonging feel like a matter of honor, military service, and loyalty to the emperor. Maximus's identity becomes part of a personal revenge story. In the historical background, however, citizenship was a much more technical system of law, status, and obligation.",
+      "realHistory": "Roman citizenship was not just a feeling of identity. It was a concrete legal status. Being a citizen could affect marriage, property, contracts, access to courts, and, in some periods, political participation. In the Republic, that status belonged to a narrower community. As Rome expanded, Italy, colonies, local elites, soldiers, and freed people produced a much more complicated map of belonging.\n\nThe army was one major path through that map. Some auxiliary soldiers could receive citizenship after service, while veteran colonies helped spread Roman law and Latin civic habits into provincial settings. Citizenship therefore became more than a privilege of the city of Rome. It became a tool of imperial management. Still, not everyone shared the same rights. Enslaved people, freed people, women, and peregrini occupied different positions within a society built on unequal status.\n\nIn 212 CE, Caracalla's Constitutio Antoniniana extended Roman citizenship to most free inhabitants of the empire. It is sometimes presented as a gesture of equality, but it also had legal, fiscal, and administrative implications. In Gladiator, Roman identity is felt as loyalty and honor. Historically, civitas was a practical legal language that shaped courts, property, marriage, taxes, and military careers.",
+      "accuracyNote": "The film uses Roman belonging as emotional and military identity. Real citizenship was a layered legal system of rights, obligations, and status distinctions.",
+      "whyInteresting": "Roman citizenship was far more than a passport. It affected courts, property, marriage, military service, and taxation.",
+      "misconception": "Not every person living under Rome was an equal citizen. Slavery, provincial status, gender, and legal rank mattered deeply.",
+      "nextTopics": [
+        "Arena and Politics",
+        "Commodus's Reputation",
+        "Legion Discipline"
+      ],
+      "sources": [
+        {
+          "title": "Roman citizenship (Britannica)",
+          "url": "https://www.britannica.com/topic/Roman-citizenship",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Constitutio Antoniniana (Justus Liebig University Giessen)",
+          "url": "https://www.constitutio.de/en/constitutio-antoniniana-1",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Roman Citizenship (Livius)",
+          "url": "https://www.livius.org/articles/concept/citizenship-roman/",
+          "type": "reference",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-015-roads",
+        "gladiator-arena-economics",
+        "gladiator-commodus-real"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Links Gladiator's army and throne scenes with Roman civitas and the careers of soldiers in imperial records.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "rome",
+        "gladiator",
+        "empire",
+        "roman-citizenship",
+        "true-frame",
+        "ancient-world",
+        "empires"
+      ],
+      "spoilerNote": "May include story hints from Gladiator; does not reveal the ending.",
+      "mediaChanged": "The film ties citizenship to personal honor and loyalty to Rome. The historical system was more fragmented: law, military service, manumission, provincial status, and taxation all mattered.",
+      "whyItMatters": "It shows how empires bind people to the center not only by force, but by distributing rights, status, and obligations.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did Roman citizenship give everyone the same freedom, or did it create different layers of rights and duties?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-015-roads",
+      "title": "Roman Roads",
+      "subtitle": "The paved network was Rome's technology of speed and control.",
+      "mediaType": "film",
+      "mediaTitle": "Gladiator",
+      "era": "Ancient World",
+      "region": "Rome",
+      "themes": [
+        "Empire",
+        "Politics",
+        "War"
+      ],
+      "whatWeSee": "In Gladiator, Roman roads usually sit in the background: legions move, prisoners are transported, and the route back to the imperial center feels possible because the network exists. The film presents paved roads as a symbol of order. Military discipline and infrastructure power are visually fused.",
+      "realHistory": "The Roman road system was one of the core infrastructures that made imperial military response and administrative unity possible. Beginning with major arteries such as the Via Appia in the fourth century BCE, the network eventually reached tens of thousands of kilometers. Road building was not only an engineering success. It was a political project that connected conquered regions to taxation, law, and logistics.\n\nThe first priority was not modern mass travel. Roads served army movement, official communication, and public authority. The cursus publicus, the state post system, used stations and animal changes to speed the movement of messages and commands. Merchants and civilians also used the roads, but security and maintenance often followed military and administrative priorities.\n\nThe film's sense of rapid movement has a real basis. Rome could react across long distances more efficiently than many rivals. What screen images usually hide are the costs: road maintenance, bridge repairs, compulsory local labor, and uneven quality across different provinces. Strategic corridors received attention while other routes could decline.\n\nRoman roads were therefore not just a showcase of civilization. They were an architecture of control. The empire shrank distance through stone, records, garrisons, and taxation. Milestones, route lists, and official travel systems reveal a network that produced both speed and hierarchy.",
+      "accuracyNote": "The military and strategic value of the road network is well represented; the social cost and variety of use are necessarily simplified.",
+      "whyInteresting": "A stone road could carry law, taxes, military movement, and official messages at the same time.",
+      "misconception": "Roman roads are often imagined as tourist routes or free commercial highways first. Their core logic was military and administrative.",
+      "nextTopics": [
+        "Arena and Politics",
+        "Commodus's Reputation",
+        "Legion Discipline"
+      ],
+      "sources": [
+        {
+          "title": "Roman road system (Britannica)",
+          "url": "https://www.britannica.com/technology/Roman-road-system",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "ORBIS: The Stanford Geospatial Network Model of the Roman World",
+          "url": "https://orbis.stanford.edu/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Travel and Geography in the Roman Empire (Anne Kolb)",
+          "url": "https://sites.lsa.umich.edu/paul-in-athens/wp-content/uploads/sites/1400/2025/03/Kolb-2001-compressed.pdf",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "gladiator-arena-economics",
+        "gladiator-commodus-real",
+        "tf26-018-provincial-life"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Gladiator's journeys from frontier to Rome make sense when read beside the Roman post system and military road network.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "rome",
+        "gladiator",
+        "empire",
+        "roman-roads",
+        "true-frame",
+        "ancient-world",
+        "empires"
+      ],
+      "spoilerNote": "May include story hints from Gladiator; does not reveal the ending.",
+      "mediaChanged": "The film shows roads as symbols of order and civilization. Historically, the network was also tied to military priorities, compulsory maintenance, and official communication.",
+      "whyItMatters": "It frames Roman roads as state infrastructure connecting army, post, taxation, and provincial rule.",
+      "isFlagship": false,
+      "quickRealityCheck": "Whose needs shaped Roman roads most: merchants, travelers, or legions?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-018-provincial-life",
+      "title": "Life in the Provinces",
+      "subtitle": "The daily order of Rome outside the capital.",
+      "mediaType": "film",
+      "mediaTitle": "Gladiator",
+      "era": "Ancient World",
+      "region": "Rome",
+      "themes": [
+        "Empire",
+        "Politics",
+        "War"
+      ],
+      "whatWeSee": "Gladiator builds its drama around Rome's political center, so provincial life appears only briefly. The tax burdens, garrisons, local elites, and supply systems that shaped most imperial lives remain outside the main frame.",
+      "realHistory": "Life in the Roman provinces was shaped less by Senate speeches than by tax officials, local elites, governors, and garrisons. Imperial power was felt through provincial administration, city councils, legal routines, and fiscal obligations. From Egypt to Hispania, regions appeared to belong to one empire, but local practice varied widely.\n\nProvincial cities combined Roman law, local custom, and economic necessity. Grain, olive oil, metals, and enslaved labor fed the imperial market, while taxation and compulsory supply could produce resentment. A garrison might stimulate trade, but it also brought discipline and surveillance. Local aristocrats could rise through Roman citizenship and office, while rural producers faced price shifts, debt, and state demand.\n\nGladiator draws its power from palace and arena drama. To understand provincial life, inscriptions, tax records, archaeology, and urban remains are often more useful. Rome's durability depended not only on legions, but on the administrative and fiscal network that functioned across provincial societies.\n\nCultural change was not one-way. Roman rule did not erase every local god, language, or festival. In many places, hybrid public cultures formed. Latin legal language could coexist with local traditions. This flexibility helped the empire last: the center did not make everything identical, but it required enough alignment around taxation, security, and hierarchy. The provinces were therefore not passive copies of Rome. They were active spaces where imperial order was constantly remade.",
+      "accuracyNote": "The film builds central political tension effectively, but the economic and administrative variety of provincial life is naturally less visible.",
+      "whyInteresting": "Roman provinces did not simply copy the capital. Local elites, garrisons, and city councils reshaped imperial rule in regional terms.",
+      "misconception": "Rome is often imagined as imposing one identical culture everywhere. The evidence points to a more mixed and negotiated order.",
+      "nextTopics": [
+        "Arena and Politics",
+        "Commodus's Reputation",
+        "Legion Discipline"
+      ],
+      "sources": [
+        {
+          "title": "Roman provinces (Britannica)",
+          "url": "https://www.britannica.com/topic/ancient-Rome/Roman-provinces",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Art of the Roman Provinces, 1–500 CE (The Met)",
+          "url": "https://www.metmuseum.org/essays/art-of-the-roman-provinces-1-500-a-d",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "The Roman Empire in a Connected World (Smarthistory)",
+          "url": "https://smarthistory.org/reframing-art-history/roman-empire-in-a-connected-world/",
+          "type": "reference",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-019-colosseum-labor",
+        "tf26-020-fall-myth",
+        "gladiator-arena-economics"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Gladiator shows the drama of the center; this card opens the same empire as lived through taxes, garrisons, local elites, and cultural mixing.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "rome",
+        "gladiator",
+        "empire",
+        "provincial-life",
+        "true-frame",
+        "ancient-world",
+        "empires"
+      ],
+      "spoilerNote": "May include story hints from Gladiator; does not reveal the ending.",
+      "mediaChanged": "Gladiator focuses on palace and arena drama at the center. Provincial taxation, supply, garrison life, and local elite networks remain mostly offscreen.",
+      "whyItMatters": "It locates Roman power not only in the Colosseum or the legions, but in the provincial systems of taxation, supply, citizenship, and local mediation.",
+      "isFlagship": false,
+      "quickRealityCheck": "Were Roman provinces passive copies of the capital, or places where local elites and traditions reshaped imperial order?",
+      "lastReviewedAt": "2026-06-24"
+    },
+    {
+      "id": "tf26-019-colosseum-labor",
+      "title": "The Cost of the Colosseum",
+      "subtitle": "The system hidden beneath the spectacle.",
+      "mediaType": "film",
+      "mediaTitle": "Gladiator",
+      "era": "Ancient World",
+      "region": "Rome",
+      "themes": [
+        "Empire",
+        "Politics",
+        "War"
+      ],
+      "whatWeSee": "In Gladiator, arena preparation appears in quick flashes: sand is smoothed, gates open, and the crowd erupts. Because the camera follows the fight, the spectacle can feel as if it simply exists. Under that stage, however, stood a complex chain of workers, suppliers, handlers, builders, and technicians.",
+      "realHistory": "The Colosseum was not a one-time architectural achievement. It was a permanent labor and management project. Built under the Flavian dynasty, it helped Vespasian and Titus claim public legitimacy by turning part of Nero's private palace landscape into a public spectacle space. Quarrying travertine, transporting stone, producing iron clamps, raising scaffolding, and coordinating specialized teams required large-scale organization. Part of the financing is associated with spoils from the Jewish War; the labor force involved a mixture of enslaved workers, skilled craftspeople, and public crews.\n\nAfter construction, the costs did not end. On game days, animals had to be imported and handled, gladiators trained and prepared, stage machinery operated, the arena cleaned, security managed, and tens of thousands of spectators moved through the structure. The hypogeum, the underground system beneath the arena, required technical staff to move animals and stage surprises. Even the velarium awning depended on trained crews.\n\nThe cost of the Colosseum was therefore not just stone. Every spectacle reproduced Roman power through a chain of labor. Imperial or elite generosity became visible only because an unseen system of builders, handlers, cleaners, guards, animal suppliers, and stage workers made it function.",
+      "accuracyNote": "The film captures the atmosphere, but naturally simplifies the production and maintenance economy behind the games.",
+      "whyInteresting": "A few minutes of visible spectacle depended on a hidden chain running from stone workers to animal handlers and stage technicians.",
+      "misconception": "The Colosseum is often treated only as an architectural wonder. The harder question is how that wonder was kept running.",
+      "nextTopics": [
+        "Arena and Politics",
+        "Commodus's Reputation",
+        "Legion Discipline"
+      ],
+      "sources": [
+        {
+          "title": "Colosseum (Britannica)",
+          "url": "https://www.britannica.com/topic/Colosseum",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Colosseum (Parco archeologico del Colosseo)",
+          "url": "https://colosseo.it/en/area/the-colosseum/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Gladiatorial Games (The Met)",
+          "url": "https://www.metmuseum.org/toah/hd/glad/hd_glad.htm",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-020-fall-myth",
+        "gladiator-commodus-real",
+        "tf26-018-provincial-life"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Gladiator's arena scenes gain depth when read beside the labor and logistics system of the Colosseum.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "rome",
+        "gladiator",
+        "empire",
+        "colosseum-labor",
+        "true-frame",
+        "ancient-world",
+        "empires"
+      ],
+      "spoilerNote": "May include story hints from Gladiator; does not reveal the ending.",
+      "mediaChanged": "The film turns the arena into the stage of a personal story. Historically, that stage depended on continuous management of people, money, animals, and supplies.",
+      "whyItMatters": "It shows Roman entertainment as a matter of finance, propaganda, logistics, and labor management, not spectacle alone.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was the Colosseum just a grand arena, or a vast work and supply system rebuilt with every show?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-020-fall-myth",
+      "title": "The Myth of Rome's Fall",
+      "subtitle": "Did Rome collapse, or transform?",
+      "mediaType": "film",
+      "mediaTitle": "Gladiator",
+      "era": "Ancient World",
+      "region": "Rome",
+      "themes": [
+        "Empire",
+        "Politics",
+        "War"
+      ],
+      "whatWeSee": "Gladiator links Rome's decline to Commodus's personal corruption, court violence, and spectacle politics. The film makes institutional exhaustion and nostalgia for the Republic feel like one dramatic line. It can leave the impression that the empire unraveled quickly because of one bad ruler.",
+      "realHistory": "### Not one collapse, but a long transformation\n\nGladiator turns Roman crisis into a story of Commodus, court violence, and the moral rot of power. That works as drama, because an audience can follow the decline of a vast system through one face. Historically, however, Rome's so-called fall cannot be reduced to one bad emperor, one battle, or one date. The period after 180 CE did expose serious weaknesses, but the empire did not immediately disappear after Commodus.\n\n### Crisis and reform moved together\n\nThe third century brought rapid imperial turnover, civil wars, monetary strain, epidemics, and pressure on the frontiers. The army grew more expensive, provincial defense became harder to coordinate, and the tax system faced heavier demands. Yet Rome was not simply collapsing. Under Diocletian and Constantine, administration, taxation, military command, and the imperial court were reorganized. These reforms did not restore the old empire unchanged. They helped turn it into a different late antique structure.\n\n### The end of the West was not the end of Rome\n\nThe deposition of Romulus Augustulus in 476 is a powerful symbolic marker for the western empire, but it does not mean that Rome vanished overnight. The eastern empire, later called Byzantium, continued for centuries. Roman law, urban institutions, military titles, fiscal practices, and Christian imperial ideology remained influential across the Mediterranean. In the West, Germanic kingdoms often adapted Roman administration rather than erasing it completely.\n\n### Why the film tells it differently\n\nGladiator is built around personal justice and bad rule, so it turns long structural change into a palace tragedy. That is understandable in cinema. A two-century mix of military, fiscal, environmental, and administrative transformation is difficult to dramatize in one film. The useful True Frame move is to notice the compression. Rome's story is not only collapse. It is crisis, adaptation, division, and survival in altered forms.\n\n### The better question\n\nSo the best answer to \"Did Rome fall?\" is not a simple yes. Political authority in the western imperial center broke apart. But Roman practices, laws, offices, religious ideas, and memories kept moving into new institutions. The fall of Rome is less a single ending than a long redistribution of Roman power. That makes the story more interesting, not less dramatic: it moves attention from one doomed palace to the harder question of how institutions, soldiers, taxpayers, bishops, local elites, and successor kings kept using Roman habits after imperial command weakened. In that sense, Rome did not simply disappear from the map; it became a toolkit that later powers continued to claim, imitate, and reshape.",
+      "accuracyNote": "The film captures a feeling of political decay under Commodus, but it reduces Rome's long crisis and transformation to the moral failure of one ruler.",
+      "whyInteresting": "Rome shows that an empire can be in crisis and still create new institutions that survive in different forms.",
+      "misconception": "Rome is often imagined as falling because of one bad emperor. Finance, army structure, administration, disease, and frontier pressure all mattered.",
+      "nextTopics": [
+        "Arena and Politics",
+        "Commodus's Reputation",
+        "Legion Discipline"
+      ],
+      "sources": [
+        {
+          "title": "Fall of Rome (Britannica)",
+          "url": "https://www.britannica.com/event/fall-of-Rome",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Fall of the Roman Empire (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Fall_of_the_Roman_Empire/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Fall of Rome and the End of Civilization (Oxford Faculty of History)",
+          "url": "https://www.history.ox.ac.uk/publication/673324/manual",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Approaching Late Antiquity: The Transformation from Early to Late Empire (Oxford Academic)",
+          "url": "https://academic.oup.com/book/3070",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "gladiator-commodus-real"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "major",
+      "mediaConnection": "Commodus in Gladiator serves as an entry point into the longer institutional transformation of Rome.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "rome",
+        "gladiator",
+        "empire",
+        "fall-of-rome-myth",
+        "true-frame",
+        "ancient-world",
+        "empires"
+      ],
+      "spoilerNote": "May discuss major story events or the ending of Gladiator.",
+      "mediaChanged": "The film compresses a long transformation into a short palace tragedy. Historically, crisis, reform, division, and local continuity unfolded over centuries.",
+      "whyItMatters": "Most collapse stories search for one personal failure. This card makes slower forces visible: institutions, money, armies, regional continuity, and adaptation.",
+      "isFlagship": true,
+      "quickRealityCheck": "Did Rome really fall in one moment, or did the western political center break while Roman institutions lived on elsewhere?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-021-athenian-democracy",
+      "title": "Athenian Democracy",
+      "subtitle": "A brilliant idea of direct participation, built on narrow citizenship.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Ancient World",
+      "region": "Greece",
+      "themes": [
+        "Democracy",
+        "Mythology",
+        "War"
+      ],
+      "whatWeSee": "Assassin's Creed Odyssey presents Athenian democracy through crowded public speeches, factional rivalry, and a city under wartime pressure. The player feels the political energy, but the institutional machinery appears only in quick signs. Democracy is not shown as a perfect ideal, but as a fragile and contested field of power.",
+      "realHistory": "Classical Athenian democracy was very different from modern representative systems. It was based on direct participation. The Ekklesia, or citizen assembly, made major decisions; the Boule prepared business; large jury courts provided another form of civic oversight. Many offices were assigned by lot in order to limit aristocratic monopoly.\n\nThis system was not broadly inclusive. Women, enslaved people, and metics had no political rights. The word \"people\" therefore referred to a specific group of male citizens, not to all residents of Athens. That makes Athens both inspiring and uncomfortable: it built powerful practices of participation while excluding much of the population.\n\nAs the Peloponnesian War dragged on, the system faced heavy pressure. Military defeat, financial strain, plague, imperial revenue, and factional conflict pushed democracy to its limits. Oligarchic coups interrupted it, and it was later restored. Payment for civic service helped poorer citizens participate, but it also tied democracy to public finance. Odyssey captures the lively political atmosphere well; the deeper history lies in asking who counted as a citizen and how institutions survived crisis.",
+      "accuracyNote": "The game captures the competitive civic atmosphere, but the limits of participation and the procedural complexity of the institutions are compressed.",
+      "whyInteresting": "Athenian democracy's strength lies in direct participation; its limit lies in the narrow group it counted as the people.",
+      "misconception": "Athenian democracy is often assumed to be as inclusive as modern liberal democracy. It was not.",
+      "nextTopics": [
+        "Spartan Education",
+        "The Peloponnesian War",
+        "The Oracle of Delphi"
+      ],
+      "sources": [
+        {
+          "title": "Athenian democracy - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/democracy/The-Athenian-democracy",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Ancient Greece - The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/greek.pdf",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Peloponnesian War - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/event/Peloponnesian-War",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-022-sparta-childhood",
+        "tf26-023-peloponnesian-war",
+        "tf26-024-oracle-delphi"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Odyssey's political tensions gain depth when read beside the real limits of Athenian institutions and citizenship.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ancient-greece",
+        "greece",
+        "assassins-creed",
+        "athenian-democracy",
+        "true-frame",
+        "ancient-world"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game conveys democratic atmosphere through speeches and factional conflict. Historically, assemblies, lotteries, juries, and citizenship boundaries formed the system's backbone.",
+      "whyItMatters": "It shows that even at one of democracy's birthplaces, equality and exclusion could exist in the same political order.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did everyone in classical Athens take part in decision making, or was citizenship a narrow and privileged status?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-022-sparta-childhood",
+      "title": "Spartan Education",
+      "subtitle": "Agoge, helot labor, and the making of warrior-citizens.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Ancient World",
+      "region": "Greece",
+      "themes": [
+        "Democracy",
+        "Mythology",
+        "War"
+      ],
+      "whatWeSee": "In Assassin's Creed Odyssey, Spartan training is folded into discipline, identity, and warrior pride. Kassandra or Alexios carries a Spartan origin as a mark of toughness. The agoge appears through short stories and scenes of physical testing, commands, and civic ritual tied to military discipline.",
+      "realHistory": "The Spartan agoge was not designed only to make strong fighters. It trained boys into the collective discipline of the state. Many details come from later writers and must be read carefully, but the broad picture is clear: male Spartan children were moved away from a purely family-centered life and educated in age groups through endurance, obedience, combat skill, ritual, and public behavior.\n\nBehind this system stood a harsh social reality. Spartan male citizens could spend so much time in military training because agriculture depended on helot labor. The agoge was therefore not just a school of courage. It was part of a political mechanism that helped a small citizen elite control a much larger dependent population.\n\nGirls in Sparta also had a more visible culture of physical training than in many other Greek cities. Running, strength, and endurance were linked to marriage, childbirth, and the health of the citizen body. That was not modern equality, but it shows how deeply Sparta's military society shaped family and body politics.\n\nOdyssey turns agoge into an origin myth of personal strength. Historically, the colder truth is that Spartan hardness was produced through childhood, family control, labor hierarchy, and the policing of citizenship.",
+      "accuracyNote": "The agoge is historically grounded, but much of the detail comes from later sources. The game's heroes are fictionalized.",
+      "whyInteresting": "Sparta's warrior image depended not only on harsh training, but on the helot labor system that made that training possible.",
+      "misconception": "Spartans are often imagined as simply born warriors. Their military identity was produced by education, discipline, and exploitation.",
+      "nextTopics": [
+        "Athenian Democracy",
+        "The Peloponnesian War",
+        "The Oracle of Delphi"
+      ],
+      "sources": [
+        {
+          "title": "Sparta - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/place/Sparta",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Agoge - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/agoge",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Helot - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/helot",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "ac-odyssey-athens",
+        "tf26-027-slavery"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Connects Odyssey's Spartan agoge stories with the real training system and the helot order behind it.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ancient-greece",
+        "greece",
+        "assassins-creed",
+        "spartan-education",
+        "true-frame",
+        "ancient-world"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game treats the agoge as a source of individual heroic identity. Historically, it was state-controlled militarization tied to preserving the helot system.",
+      "whyItMatters": "Agoge shows how military discipline can reshape childhood, family life, and class order.",
+      "isFlagship": false,
+      "quickRealityCheck": "Were Spartan children trained only to fight better, or to sustain an entire social system?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-023-peloponnesian-war",
+      "title": "The Peloponnesian War",
+      "subtitle": "The long war of attrition between Athens and Sparta.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Ancient World",
+      "region": "Greece",
+      "themes": [
+        "Democracy",
+        "Mythology",
+        "War"
+      ],
+      "whatWeSee": "In Odyssey, the Peloponnesian War often looks like a map game in which regions flip between Athens and Sparta. The player raids forts, hunts commanders, and chooses sides in battlefield encounters. The action is fast; the pressure of taxation, supply, plague, and long sieges mostly remains in the background.",
+      "realHistory": "The Peloponnesian War (431-404 BCE) was not a simple wrestling match between two city-states. It was a long war of attrition that reshaped taxation, trade, alliances, and political trust across the Aegean. Athens relied on naval power and tribute from its allies, while Sparta tried to preserve dominance on land. The outcome was not decided by battlefield courage alone. Plague, grain routes, allied revolts, and the exhaustion of financial resources mattered just as much.\n\nAthens withdrew behind its walls and leaned on its fleet, but that choice crowded rural populations into the city and helped turn disease into a political and social disaster. The Sicilian Expedition then destroyed men, ships, and confidence on a scale Athens could not easily replace. Sparta, aided by Persian money, developed a navy and changed the balance of the war. The final defeat at Aegospotami cut Athens off from vital grain and forced surrender.\n\nThis war shows that victory depends on institutions and logistics, not only on soldiers. It also shows how military defeat can become regime crisis. The rule of the Thirty after Athens fell proved that war could reopen the question of democracy itself.",
+      "accuracyNote": "The broad Athens-Sparta frame is accurate, but the game's regional conflict loop compresses duration, diplomacy, and economic exhaustion.",
+      "whyInteresting": "The same war transformed democracy debates, naval supply, allied tribute, plague politics, and propaganda language.",
+      "misconception": "The Peloponnesian War is often imagined as a series of hoplite battles. Naval supply, money, disease, and alliance politics were decisive.",
+      "nextTopics": [
+        "Athenian Democracy",
+        "Spartan Education",
+        "The Oracle of Delphi"
+      ],
+      "sources": [
+        {
+          "title": "Peloponnesian War - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/event/Peloponnesian-War",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Peloponnesian War - World History Encyclopedia",
+          "url": "https://www.worldhistory.org/Peloponnesian_War/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Landmark Thucydides - Yale University Press",
+          "url": "https://yalebooks.yale.edu/book/9780684827902/the-landmark-thucydides/",
+          "type": "book",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-024-oracle-delphi",
+        "tf26-025-olympic-games",
+        "tf26-026-triremes"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Odyssey's Athens-Sparta regional wars reflect the military face of the Peloponnesian War in popular memory.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ancient-greece",
+        "greece",
+        "assassins-creed",
+        "peloponnesian-war",
+        "true-frame",
+        "ancient-world"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game turns the war into repeated regional clashes and player action. Historically, the result was shaped by years of finance, plague, diplomacy, Sicily, and naval supply lines.",
+      "whyItMatters": "It shows that military power alone is not enough; fiscal endurance, fleets, disease, and internal politics can decide a war.",
+      "isFlagship": false,
+      "quickRealityCheck": "Why did Athens, despite its powerful navy, break under plague, the Sicilian disaster, and the loss of grain routes?",
+      "lastReviewedAt": "2026-06-26"
+    },
+    {
+      "id": "tf26-024-oracle-delphi",
+      "title": "The Oracle of Delphi",
+      "subtitle": "How Pythia's ambiguous words became a political tool for Greek cities.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Ancient World",
+      "region": "Greece",
+      "themes": [
+        "Democracy",
+        "Mythology",
+        "War"
+      ],
+      "whatWeSee": "In Assassin's Creed Odyssey, the Pythia at Delphi sits at the center of divine prophecy and political intrigue. The player encounters one of the most famous sacred sites of the Greek world: envoys on temple steps, a priestess speaking in charged ambiguity, and a moment where religious words become political action.",
+      "realHistory": "### Not just prophecy, but diplomacy\n\nDelphi was not only a mystical shrine. It was a pan-Hellenic authority that city-states used to legitimize decisions. At the temple of Apollo, the Pythia was treated as the god's voice, but consultation was not just a single trance moment. Offerings, priestly interpretation, sacred calendars, the prestige of the sanctuary, and the final wording of the response all shaped the process.\n\n### Why ambiguity mattered\n\nDelphic answers were often open to more than one reading. To modern eyes, that can look evasive. In ancient politics, it was useful. Leaders could fit a response to their own circumstances, and if events went badly, failure could be blamed on interpretation rather than the god. In war, colonization, lawmaking, and crisis management, Delphic approval offered not only religious comfort, but public legitimacy.\n\n### The economy of a sacred place\n\nDelphi's influence did not come from words alone. Dedications, treasuries, processions, and visible monuments turned interstate rivalry into stone and bronze. Kings, tyrants, and poleis wanted to be seen there because Delphi belonged to the shared memory of the Greek world. The sanctuary was also a diplomatic showcase and a market of prestige.\n\n### What Odyssey gets right\n\nOdyssey correctly senses that prophecy was never separate from politics. The game compresses that world into personal quests and hidden manipulation. Historically, Delphi's power was more institutional. It came from repeated consultation, ritual authority, offerings, public memory, and the political flexibility of ambiguous answers.\n\n### The deeper point\n\nDelphi is fascinating because a center believed to reveal the future often functioned by helping leaders justify choices in the present. Its authority lay not in simple prediction, but in turning uncertainty into usable public meaning.\n\n### Who benefited from the answer\n\nThe value of an oracle also depended on who could afford to ask, who framed the question, and who later explained the response to the public. A city embassy did not arrive as a neutral listener. It brought anxieties, political factions, and a need for an answer that could be carried home. Priests and local interpreters did not govern Greece, but the authority of Delphi gave leaders a respected language for decisions that were already difficult. That is why a Delphic response could matter even when it did not contain practical detail. It transformed a risky human choice into something that looked anchored in divine order. For a community debating war, colonization, or law, that could be as powerful as a military advantage.",
+      "accuracyNote": "The Delphi setting and the role of Pythia are well grounded in archaeology and historical references.",
+      "whyInteresting": "Delphi's power lay not only in giving answers, but in turning ambiguous responses into political legitimacy.",
+      "misconception": "The oracle is often imagined as always giving clear predictions. Ambiguity was part of how it worked.",
+      "nextTopics": [
+        "Athenian Democracy",
+        "Spartan Education",
+        "The Peloponnesian War"
+      ],
+      "sources": [
+        {
+          "title": "Archaeological Site of Delphi - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/393/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Delphi - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/place/Delphi",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Delphi - World History Encyclopedia",
+          "url": "https://www.worldhistory.org/Delphi/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "ac-odyssey-athens",
+        "tf26-028-theatre"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Odyssey's Delphi quests connect to the historical Pythia and the institution of the Delphic oracle.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ancient-greece",
+        "greece",
+        "assassins-creed",
+        "oracle-of-delphi",
+        "true-frame",
+        "ancient-world"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game frames prophecy through personal quests and hidden manipulation. Historical Delphi worked through offerings, priestly interpretation, sacred calendars, and long-lived intercity prestige.",
+      "whyItMatters": "Delphi shows how deeply belief and state decision-making could overlap in the ancient world.",
+      "isFlagship": true,
+      "quickRealityCheck": "Why did Delphic prophecies often work less like direct orders and more like ambiguous answers politicians could interpret?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-025-olympic-games",
+      "title": "The Ancient Olympics",
+      "subtitle": "Races for Zeus, city prestige, religion, and sport in one festival.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Ancient World",
+      "region": "Greece",
+      "themes": [
+        "Democracy",
+        "Mythology",
+        "War"
+      ],
+      "whatWeSee": "In Assassin's Creed Odyssey, the Olympic quests turn athletic competition and rituals for the gods into playable events. The player sees athletes approaching the sanctuary, city pride in the crowd, and pre-race offerings that make religion and politics feel inseparable from sport.",
+      "realHistory": "The ancient Olympic Games were not simply a sports event in the modern sense. Held every four years at Olympia around the cult of Zeus, they were a pan-Hellenic religious festival. Running, wrestling, boxing, pankration, pentathlon, and equestrian events foregrounded athletic competition, but sacrifice and dedication kept the sacred setting visible.\n\nThe politics mattered too. The ekecheiria, or sacred truce, aimed to let athletes and visitors reach Olympia safely. It did not permanently stop all Greek wars, but it created a religious-political guarantee for the festival to function. Bringing different poleis into the same calendar also turned the games into a space for diplomacy, trade, and prestige.\n\nVictorious athletes did not receive only an olive wreath. On returning home, they could gain honor, privileges, and sometimes material rewards. The victory was personal, but it also reflected on the city. Participation was limited: the games belonged primarily to the male Greek citizen world, while women, enslaved people, and outsiders were excluded or restricted in different ways.\n\nOdyssey offers a strong entry point by making the Olympics playable. The historical reality was more layered: divine dedication, city propaganda, athletic glory, and social exclusion shared the same stadium.",
+      "accuracyNote": "The game's use of Olympia and athletic competition fits the historical setting, though the festival's rules and chronology are simplified.",
+      "whyInteresting": "The same contest could be an offering to Zeus and a prestige contest among city-states.",
+      "misconception": "The Olympics are often treated as only a sports festival. Religion and politics were central.",
+      "nextTopics": [
+        "Athenian Democracy",
+        "Spartan Education",
+        "The Peloponnesian War"
+      ],
+      "sources": [
+        {
+          "title": "Ancient Olympic Games - International Olympic Committee",
+          "url": "https://www.olympics.com/ioc/ancient-olympic-games",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Archaeological Site of Olympia - UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/517/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The Olympic Truce - International Olympic Committee",
+          "url": "https://www.olympics.com/ioc/olympic-truce",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-026-triremes",
+        "tf26-027-slavery",
+        "tf26-028-theatre"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Connects Odyssey's Olympic quests with the ancient Olympia festival and the sacred truce.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ancient-greece",
+        "greece",
+        "assassins-creed",
+        "ancient-olympics",
+        "true-frame",
+        "ancient-world"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game turns the Olympics into quests and competitions. Historically, the festival combined the cult of Zeus, sacred truce, civic prestige, and restricted participation.",
+      "whyItMatters": "The ancient Olympics show that sport was tied from the beginning to religion, politics, identity, and exclusion.",
+      "isFlagship": false,
+      "quickRealityCheck": "Were the Olympics just athletic contests, or a stage for gods, cities, prestige, and diplomacy?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-026-triremes",
+      "title": "Trireme Warfare",
+      "subtitle": "Three banks of oars, a bronze ram, and Athens's naval empire.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Ancient World",
+      "region": "Greece",
+      "themes": [
+        "Democracy",
+        "Mythology",
+        "War"
+      ],
+      "whatWeSee": "In Assassin's Creed Odyssey, triremes cut quickly across the Aegean. The player upgrades a ship, rams enemies, and experiences sea battles as fast action sequences. The game makes island travel and naval combat a playable version of Greek sea power.",
+      "realHistory": "The trireme was a fast, narrow warship that changed ancient Mediterranean warfare. Its name comes from its three levels of oars. Its main strength did not come from sails, but from trained rowers moving in rhythm. The bronze ram at the prow could smash an enemy hull or break its oar line. Naval combat was therefore about speed, angle, discipline, and timing, not only courage.\n\nAthens's fifth-century rise cannot be separated from its trireme fleet. Revenue from the Laurion silver mines helped finance naval investment, and the fleet brought a wider body of citizens into war through rowing service. This affected the social balance of Athenian democracy: military power now depended not only on hoplite wealth, but also on the labor of citizen rowers.\n\nIn narrow waters such as Salamis, triremes could be especially effective. Geography could limit the advantage of a larger fleet, while maneuverable ships and trained crews could exploit turns and confusion. Odyssey turns the ship into a personal upgradeable weapon. Historically, a trireme fleet required harbors, timber, training, pay, maintenance, and city finance.",
+      "accuracyNote": "The structure and combat role of triremes are historically grounded; the speed and action are dramatized for play.",
+      "whyInteresting": "One ship type expanded both Athenian military power and the political importance of citizen rowers.",
+      "misconception": "Ancient warships are often imagined as fighting mainly under sail. The trireme's real power was in oars, timing, and the ram.",
+      "nextTopics": [
+        "Athenian Democracy",
+        "Spartan Education",
+        "The Peloponnesian War"
+      ],
+      "sources": [
+        {
+          "title": "Trireme - World History Encyclopedia",
+          "url": "https://www.worldhistory.org/trireme/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Battle of Salamis - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/event/Battle-of-Salamis",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Athenian Navy - World History Encyclopedia",
+          "url": "https://www.worldhistory.org/Athenian_Navy/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-027-slavery",
+        "tf26-028-theatre",
+        "tf26-029-myth-history"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Connects Odyssey's naval combat mechanics with the Athenian trireme fleet and tactics at Salamis.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ancient-greece",
+        "greece",
+        "assassins-creed",
+        "trireme-warfare",
+        "true-frame",
+        "ancient-world"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game frames naval combat around a single upgradeable ship and action damage. Historically, trireme superiority depended on fleet discipline, harbor infrastructure, rower labor, and city finance.",
+      "whyItMatters": "The trireme shows that military technology works only when taxation, harbors, training, and citizenship are part of the system.",
+      "isFlagship": false,
+      "quickRealityCheck": "In trireme warfare, was the decisive factor the sail, or trained rowers creating maneuver advantage in tight waters?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-027-slavery",
+      "title": "Greek Slavery",
+      "subtitle": "The hidden labor base beneath Athenian freedom.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Ancient World",
+      "region": "Greece",
+      "themes": [
+        "Democracy",
+        "Mythology",
+        "War"
+      ],
+      "whatWeSee": "In Assassin's Creed Odyssey, enslaved people appear in cities, mines, workshops, and houses. The open world celebrates movement and freedom, while slavery remains mostly a background system. The contrast is sharp: citizens speak of liberty in public spaces while unfree labor sustains much of daily life.",
+      "realHistory": "Slavery in ancient Greece was not one uniform experience. Enslaved people worked in households, workshops, farms, and mines under very different conditions. Even in Athens, the city most famous for democratic institutions, enslaved labor was a core part of the economy and everyday life. The ideal of the free citizen must therefore be read beside the existence of a large unfree population.\n\nAthenian democracy opened political participation to male citizens while excluding women, metics, and enslaved people. Citizen men could spend time in assemblies, courts, and military service partly because others labored in households and production. That does not make democracy meaningless, but it fixes its scope: equality in Athens applied to a legally defined citizen body, not to everyone living there.\n\nThe Laurion silver mines show the contradiction harshly. Silver revenue helped fund Athens's naval power, but mining depended on dangerous enslaved labor. Domestic slavery could be less visible; mine labor was often brutal. Some enslaved people could save money or be manumitted, but such cases did not erase the structural inequality. Odyssey may show slavery as a side quest or background detail. Historically, it was part of the foundation of Greek freedom discourse.",
+      "accuracyNote": "The presence of slavery is historically secure; the game's liberation choices are dramatized and individualized.",
+      "whyInteresting": "Athenian civic freedom could not function at the same scale without the invisible support of enslaved labor.",
+      "misconception": "Ancient Greece is often imagined as a world of freedom for all. Slavery was one of its silent foundations.",
+      "nextTopics": [
+        "Athenian Democracy",
+        "Spartan Education",
+        "The Peloponnesian War"
+      ],
+      "sources": [
+        {
+          "title": "Confronting Slavery in the Classical World - Michael C. Carlos Museum",
+          "url": "https://carlos.emory.edu/exhibition/confronting-slavery-classical-world",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Slavery in Classical Antiquity - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/slavery/Slavery-in-classical-antiquity",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Laurion Mines - World History Encyclopedia",
+          "url": "https://www.worldhistory.org/Laurion/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-022-sparta-childhood",
+        "tf26-028-theatre"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Connects Odyssey's enslaved NPCs with the economy of Greek slavery and the Laurion mines.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ancient-greece",
+        "greece",
+        "assassins-creed",
+        "greek-slavery",
+        "true-frame",
+        "ancient-world"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game often treats slavery as side material or background. Historically, enslaved labor ran from homes to mines and underpinned the city economy.",
+      "whyItMatters": "It forces the history of democracy to include the question of who was excluded from its promise.",
+      "isFlagship": false,
+      "quickRealityCheck": "If Athenian democracy was rule by the people, what do the excluded enslaved people, women, and metics reveal about that word?",
+      "lastReviewedAt": "2026-06-25"
+    },
+    {
+      "id": "tf26-028-theatre",
+      "title": "Theatre and the Polis",
+      "subtitle": "On the Athenian stage, art, citizenship, and politics met in the same festival.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Ancient World",
+      "region": "Greece",
+      "themes": [
+        "Democracy",
+        "Mythology",
+        "War"
+      ],
+      "whatWeSee": "In Assassin's Creed Odyssey, Athenian theatre appears as a noisy civic stage where playwrights, politicians, performers, and ordinary spectators meet. Quests treat performance as public action and sometimes as a place where information, influence, and reputation can move as powerfully as weapons.",
+      "realHistory": "### Stage, festival, and citizenship\n\nAthenian theatre was not only leisure. Festivals such as the City Dionysia brought together the cult of Dionysus, state organization, wealthy citizens' financing obligations, and broad audience participation. Tragedy and comedy competitions were artistic events, but they were also public displays of civic identity. The myths performed on stage were familiar; their meaning changed as they opened questions about war, justice, leadership, grief, family, and law.\n\n### Its relationship to democracy\n\nTheatre did not replace the assembly. It did not vote laws or issue policy. Yet it belonged to democratic culture because it gathered citizens into a shared emotional and moral space. Tragedies let audiences think through the cost of decisions by way of myth. Comedy, especially in writers such as Aristophanes, could mock politicians, war policy, and public habits openly. That shows both the confidence and the strain of Athenian politics.\n\n### Money and exclusion\n\nThe stage looked collective, but participation was not equal. The male citizen body stood at the center of civic identity, while women, enslaved people, and metics had limited or indirect positions in the same public culture. Wealthy citizens could be required to fund choruses through liturgies, turning art into a matter of status and public service. Theatre was therefore also a stage for money and hierarchy.\n\n### What Odyssey compresses\n\nOdyssey dramatizes theatre through backstage intrigue and mission structure. That is useful for gameplay, but the historical power was slower and more institutional. Athenian theatre mattered because thousands of people repeatedly watched shared stories and used them to think about the city's moral problems.\n\n### Why it mattered\n\nTheatre made politics feel human. It could turn law into grief, war into family loss, and leadership into a question of responsibility. That is why the Athenian stage was not decoration around democracy. It was one of the places where a city learned to imagine itself.\n\n### Public memory in performance\n\nThe same stories returned again and again, but they were never simply repeated. Each performance happened in a city facing its own wars, scandals, losses, and anxieties. That meant a myth about a king, a warrior, or a grieving mother could become a way to talk about empire, democracy, leadership, and collective guilt without naming every current politician directly. Comedy could be sharper and more explicit, while tragedy often worked through emotional recognition. In both cases, theatre helped citizens practice judgment. It asked what a community owed the dead, what law could demand, and what power cost when decisions went wrong.",
+      "accuracyNote": "The setting and civic energy are strong, but the game shifts causal weight from institutions to individual actors and intrigue.",
+      "whyInteresting": "Athenian theatre shows art as civic education, political criticism, and public status production, not only performance.",
+      "misconception": "Ancient theatre is often treated as simple entertainment. In Athens it was part of the religious, civic, and political life of the polis.",
+      "nextTopics": [
+        "Athenian Democracy",
+        "Spartan Education",
+        "The Peloponnesian War"
+      ],
+      "sources": [
+        {
+          "title": "Greek Theatre - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/art/Western-theatre/The-Greek-theatre",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Dionysia - Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/Dionysia",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Ancient Greece - The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/greek.pdf",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Aristophanes - Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/aristophanes/",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-024-oracle-delphi",
+        "tf26-027-slavery"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Odyssey's theatre quests are best read beside the civic and ritual role of Athenian dramatic festivals.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ancient-greece",
+        "greece",
+        "assassins-creed",
+        "theatre-and-polis",
+        "true-frame",
+        "ancient-world"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game turns theatre into missions and backstage tension. Historically, its force came from repeated public festivals, liturgies, mythic debate, and civic participation.",
+      "whyItMatters": "Theatre reveals how a city could argue with itself through myth, laughter, grief, and public performance.",
+      "isFlagship": true,
+      "quickRealityCheck": "Was Athenian theatre merely entertainment, or one of the public places where citizenship and politics were rehearsed?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "tf26-029-myth-history",
+      "title": "Myth and History",
+      "subtitle": "Myth was not just a tale. It was political memory.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Ancient World",
+      "region": "Greece",
+      "themes": [
+        "Democracy",
+        "Mythology",
+        "War"
+      ],
+      "whatWeSee": "Assassin's Creed Odyssey fills Greece with gods, heroes, cult stories, and local legends. Myth often appears as a quest hook, a clue, or a symbolic layer around historical conflict. The game uses myth as atmosphere, but also shows how stories shape how people understand power and place.",
+      "realHistory": "In the Greek world, myth was not the opposite of history in the modern sense. It was a way for communities to explain origin, status, territory, kinship, and divine favor. Cities could tie themselves to heroes, battles, or founding legends in order to make political claims feel older and more sacred.\n\nMyths also moved between poetry, ritual, theatre, art, and local cult. A story about Heracles, Theseus, or Athena could be entertainment, religious memory, family prestige, and civic identity at once. Different cities might retell the same figure differently because the myth served local needs. That flexibility made myth politically useful.\n\nOdyssey makes myth playable, often through dramatic encounters and mysteries. Historically, myth worked more slowly. It appeared in festivals, public art, tomb claims, genealogies, and speeches. It helped communities turn the past into usable authority.\n\nThe key is not to ask whether ancient people were foolish for believing myths. A better question is what those myths allowed them to organize: land, memory, ritual, and belonging. Myth was not just fantasy. It was one of the languages through which Greek communities argued about who they were.",
+      "accuracyNote": "The game blends myth and history for adventure. Historically, myth was a flexible civic and religious memory system, not simply fantasy.",
+      "whyInteresting": "A heroic story could make a city's claim to land, ancestry, or prestige feel ancient and sacred.",
+      "misconception": "Myth is often treated as a false story replacing real history. In Greek society, myth could organize identity and political memory.",
+      "nextTopics": [
+        "Athenian Democracy",
+        "Spartan Education",
+        "The Peloponnesian War"
+      ],
+      "sources": [
+        {
+          "title": "Greek Gods and Religious Practices",
+          "url": "https://www.metmuseum.org/essays/greek-gods-and-religious-practices",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Ancient Greek Religion",
+          "url": "https://www.britannica.com/topic/ancient-Greek-religion",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Peloponnesian War",
+          "url": "https://www.britannica.com/event/Peloponnesian-War",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-030-persian-wars",
+        "tf26-027-slavery",
+        "tf26-028-theatre"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Odyssey's mythic questlines reflect the way Greek communities used heroic stories to give meaning to places and conflicts.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ancient-greece",
+        "greece",
+        "assassins-creed",
+        "myth-and-history",
+        "true-frame",
+        "ancient-world"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game turns myths into mysteries and encounters. Historically, myth worked through ritual, public art, genealogy, festivals, and civic storytelling.",
+      "whyItMatters": "It shows why myth mattered even when it was not a literal record: it gave communities a language for power, memory, and belonging.",
+      "isFlagship": false,
+      "quickRealityCheck": "When a Greek city told a hero story, was it only entertainment, or a way to claim identity and authority?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-030-persian-wars",
+      "title": "The Persian Wars",
+      "subtitle": "The freedom story, and the beginning of Athenian power.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Odyssey",
+      "era": "Ancient World",
+      "region": "Greece",
+      "themes": [
+        "Democracy",
+        "Mythology",
+        "War"
+      ],
+      "whatWeSee": "Assassin's Creed Odyssey carries the memory of the Persian Wars through statues, stories, and the pride of Greek cities. The wars appear as the heroic background to a later world: Greeks defended freedom against empire, and that memory still shapes politics and identity.",
+      "realHistory": "The Persian Wars were real conflicts in which Greek coalitions resisted the Achaemenid Empire, but the later memory of those wars became almost as powerful as the events themselves. Marathon, Thermopylae, Salamis, and Plataea were turned into stories about freedom, courage, and Greek unity. Yet the reality was more complicated. Greek cities did not always agree, and some submitted to Persian authority or changed sides.\n\nAthens benefited enormously from the war's aftermath. Themistocles' naval strategy and the victory at Salamis strengthened the argument for a large fleet. After the war, the Delian League was formed as an anti-Persian alliance, but over time Athens transformed it into a source of tribute and imperial power. A story of liberation helped justify a new Athenian dominance over other Greek communities.\n\nOdyssey inherits this memory as heroic atmosphere. Historically, the Persian Wars are also a lesson in how victory stories can create new power. Greece did not simply defeat empire and return to innocence. Athens used the prestige and resources of victory to build its own maritime empire.",
+      "accuracyNote": "The Persian War memory is real, but the simple freedom-versus-empire frame hides Greek divisions and Athens's later imperial turn.",
+      "whyInteresting": "The same victory that supported Greek freedom rhetoric helped Athens build a naval empire over other Greeks.",
+      "misconception": "The Persian Wars are often imagined as all Greeks united against Persia. Greek politics were more divided and strategic.",
+      "nextTopics": [
+        "Athenian Democracy",
+        "Spartan Education",
+        "The Peloponnesian War"
+      ],
+      "sources": [
+        {
+          "title": "Greco-Persian Wars",
+          "url": "https://www.britannica.com/event/Greco-Persian-Wars",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Battle of Salamis",
+          "url": "https://www.britannica.com/event/Battle-of-Salamis",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Herodotus",
+          "url": "https://plato.stanford.edu/entries/herodotus/",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-028-theatre",
+        "tf26-029-myth-history"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Odyssey's Greek identity and heroic memory draw on the afterlife of the Persian Wars.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "ancient-greece",
+        "greece",
+        "assassins-creed",
+        "persian-wars",
+        "true-frame",
+        "ancient-world"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game uses the wars as a heroic cultural backdrop. Historically, their aftermath helped produce both democratic confidence and Athenian imperial power.",
+      "whyItMatters": "The Persian Wars show how liberation narratives can become the foundation for a new kind of dominance.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did victory over Persia only protect Greek freedom, or did it also help Athens build an empire of its own?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-031-longships",
+      "title": "Longships",
+      "subtitle": "Shallow coasts, open sea, and rivers in one hull.",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Medieval World",
+      "region": "Scandinavia",
+      "themes": [
+        "Seafaring",
+        "War",
+        "Migration"
+      ],
+      "whatWeSee": "In Vikings, longships are the symbol of movement: raids, discoveries, exile, and return all happen through the same sleek hull. The series makes them look almost effortless, as if northern warriors could appear anywhere the sea touched.",
+      "realHistory": "The Viking longship was not just a dramatic raiding vessel. Its shallow draft, flexible clinker-built hull, and combination of sail and oars made it unusually adaptable. It could cross open water, approach beaches, enter river systems, and withdraw quickly. This flexibility helps explain why Viking activity reached monasteries, market towns, islands, river routes, and distant settlements.\n\nLongships required skill at every stage: timber selection, shipbuilding, sailmaking, rowing coordination, navigation, and seasonal planning. The ship was fast, but speed depended on crew discipline, weather, tides, and knowledge of coastlines. A raid could fail if timing, landing, or supply went wrong.\n\nThe same technology also served trade, migration, tribute taking, and diplomacy. Cargo ships differed from warships, but the wider maritime culture linked violence and exchange. Access to river routes made Viking influence felt far inland, not only on coasts. The longship was therefore less a single weapon than a circulation system for people, goods, threats, and stories.",
+      "accuracyNote": "The speed, shallow-water access, and raiding value of longships are well grounded; construction, maintenance, and seasonal planning are simplified onscreen.",
+      "whyInteresting": "One ship design accelerated northern warfare, trade, migration, and communication at the same time.",
+      "misconception": "Longships are often imagined as built only for raids. Similar maritime skills also supported trade, settlement, and diplomacy.",
+      "nextTopics": [
+        "Raiding and Trade",
+        "Runic Writing",
+        "Norse Religion"
+      ],
+      "sources": [
+        {
+          "title": "Longship",
+          "url": "https://www.britannica.com/technology/longship",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Viking Ship Museum - Ship Types",
+          "url": "https://www.vikingeskibsmuseet.dk/en/professions/education/knowledge-of-ships/ship-types",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Viking Ships",
+          "url": "https://www.worldhistory.org/Viking_Ships/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-032-raids-trade",
+        "tf26-033-runes",
+        "tf26-034-norse-religion"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Vikings brings the mobility of longships into popular memory through coastal raiding scenes.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "viking",
+        "scandinavia",
+        "seafaring",
+        "longships",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May include story hints from Vikings; does not reveal the ending.",
+      "mediaChanged": "The series usually makes the longship a symbol of raids. Historically, success depended on craft knowledge, crew organization, and seasonal logistics.",
+      "whyItMatters": "To understand Viking mobility, the ship has to be seen as a technology linking seas, rivers, coasts, and politics.",
+      "isFlagship": false,
+      "quickRealityCheck": "How did the ability to enter shallow waters change Viking strategy beyond the open sea?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-032-raids-trade",
+      "title": "Raiding and Trade",
+      "subtitle": "Viking ships carried markets as well as plunder.",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Medieval World",
+      "region": "Scandinavia",
+      "themes": [
+        "Seafaring",
+        "War",
+        "Migration"
+      ],
+      "whatWeSee": "Vikings presents Scandinavian seafarers as raiders in one episode and negotiators or traders in another. Longships, loot, tribute, and foreign ports flow through the same story. The series helps break the simple idea that Vikings were only destroyers, but it still focuses heavily on dramatic leaders and raids.",
+      "realHistory": "### Raiding and trade used the same routes\n\nTo explain the Viking Age only through monastery attacks is to miss half the network. Between the eighth and eleventh centuries, Scandinavian groups moved across Britain, Frankish lands, the Baltic, the Russian river systems, and the North Atlantic. The same maritime knowledge could support a coastal raid in one season, a market negotiation in another, a tribute demand, or a settlement movement. The question \"raiders or traders?\" is often the wrong one. People shifted roles depending on opportunity, local power, and risk.\n\n### Silver, enslaved people, and port economies\n\nEarly raids could bring quick wealth, but lasting power often came from plugging into trade routes. Furs, wax, glass beads, weapons, textiles, enslaved people, and especially silver connected the Viking world to a wider Eurasian economy. Islamic dirhams found in Scandinavia show that this was not just legend. Silver moving through Volga, Baltic, and Rus routes became a source of payment, prestige, and political leverage in the north.\n\nTrade was not automatically peaceful. The slave trade sat at the darkest intersection of violence and markets. People captured in raids could be sold locally or moved along long-distance routes. Viking economic history therefore cannot be cleaned up into a harmless story of exchange; violence and commerce often reinforced each other.\n\n### Settlement and politics\n\nOver several generations, some groups became more than seasonal raiders. In places such as Dublin, York, Normandy, and parts of eastern Europe, Scandinavian communities collected taxes, built markets, married locally, and became political actors. Vikings dramatizes raids because raids are visible. The deeper history is a system of route knowledge, wintering sites, local brokers, market calendars, tribute, and legal negotiation.\n\n### The useful frame\n\nViking ships carried more than warriors. They carried silver, people, information, threats, and relationships. That is why the Viking Age is best understood as a violent maritime network, not as a single type of barbarian attack.\n\n### Why the same person could switch roles\n\nA Scandinavian crew did not need to decide forever whether it was a commercial group or a violent one. A weakly defended monastery, a rich market, a nervous ruler willing to pay tribute, or a chance to winter and negotiate could change the plan. This flexibility was part of the power of the network. Ships created options. They let crews compare risk and reward across coasts, rivers, and towns. Over time, those choices could harden into settlement, taxation, and local rule. That is the deeper shift behind the drama: mobility first created opportunities, then some opportunities became institutions.",
+      "accuracyNote": "Vikings compresses raiding and leadership into drama; historically, trade, slavery, silver flow, and settlement networks were just as important.",
+      "whyInteresting": "The same people could be feared raiders in one setting and valuable trading partners in another.",
+      "misconception": "Vikings are often imagined only as destroyers. In many regions they also produced trade, settlement, and political reorganization.",
+      "nextTopics": [
+        "Longships",
+        "Runic Writing",
+        "Norse Religion"
+      ],
+      "sources": [
+        {
+          "title": "The Viking Age",
+          "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Silver's route to Denmark – trading with the Arab coins",
+          "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/the-silver-hoards-of-the-vikings/silvers-route-to-denmark-trading-with-the-arab-coins/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Vikings",
+          "url": "https://www.worldhistory.org/Vikings/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "vikings-raid",
+        "vikings-not-only-raiders",
+        "tf26-036-vinland"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Connects Vikings' raid scenes with the multi-centered trade networks of northern Europe.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "viking",
+        "scandinavia",
+        "seafaring",
+        "raiding-and-trade",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The series centers personal leadership and raid moments. Historically, broad trade networks, silver circulation, and local bargaining systems shaped the transformation.",
+      "whyItMatters": "Understanding Vikings means seeing how violence and commerce could operate along the same medieval routes.",
+      "isFlagship": true,
+      "quickRealityCheck": "Did Viking ships sail only for plunder, or did the same routes carry markets, tribute, taxation, and diplomacy?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-033-runes",
+      "title": "Runic Writing",
+      "subtitle": "More memorial, inheritance, and public notice than pure magic.",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "era": "Medieval World",
+      "region": "Scandinavia",
+      "themes": [
+        "Seafaring",
+        "War",
+        "Migration"
+      ],
+      "whatWeSee": "In Vikings, runes often appear as dark prophecy, curse, or sacred sign. A stone, bone fragment, or carving can suddenly change the mood of a scene. Writing becomes a hidden key to a warrior belief-world rather than an everyday public technology.",
+      "realHistory": "Runic writing in the Scandinavian world was not only a religious or magical symbol system. It was a public tool for memory, inheritance, and status. Between the eighth and eleventh centuries, the Younger Futhark was especially important. Rune stones from Denmark, Sweden, and Norway show that many inscriptions were memorials rather than spells. Formulae such as \"X raised this stone for Y\" declared kinship, inheritance, and local standing.\n\nSome inscriptions mention bridge building, journeys, raids, or trade. That means runes could serve mourning, public notice, and reputation at the same time. Literacy was limited, but placing a text in a visible public space depended on communal recognition. The inscription did not need every passerby to read perfectly; it needed the community to know what it claimed.\n\nAs northern connections expanded, runic culture left traces across England, Iceland, Greenland, and wider North Atlantic routes. Regional variations also let scholars track cultural and political influence. Vikings uses runes mainly for atmosphere and mystery. The historical record shows something more practical: runes fixed social memory into stone, wood, bone, and public space.\n\nThat does not mean runes had no ritual or magical uses. They did. But the runestone tradition shows that writing was also a legal and social technology. It could preserve names, announce property, honor the dead, and make status visible long after the people involved were gone.",
+      "accuracyNote": "Runes had ritual and magical uses, but many Viking Age runestones functioned as memorials, status markers, and public declarations.",
+      "whyInteresting": "The same signs could mourn the dead, claim inheritance, and carry a family name across centuries.",
+      "misconception": "Runes are often imagined as a secret priestly alphabet used only in magic. Many were public memorial and status texts.",
+      "nextTopics": [
+        "Longships",
+        "Raiding and Trade",
+        "Norse Religion"
+      ],
+      "sources": [
+        {
+          "title": "Runic Alphabet",
+          "url": "https://www.britannica.com/topic/runic-alphabet",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Rune stones",
+          "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/power-and-aristocracy/rune-stones/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Samnordisk runtextdatabas",
+          "url": "https://www.nordiska.uu.se/forskn/samnord.htm",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-034-norse-religion",
+        "tf26-035-danelaw",
+        "tf26-036-vinland"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Vikings' dark symbolic language becomes clearer when compared with the public memorial function of runestones.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "viking",
+        "scandinavia",
+        "seafaring",
+        "runic-writing",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May include story hints from Vikings; does not reveal the ending.",
+      "mediaChanged": "The series emphasizes runes as prophecy or threat. Historical runestones were often about memory, property, kinship, and public declaration.",
+      "whyItMatters": "Runestones show that writing in Viking society was not only mystery; it was also law, memory, and reputation.",
+      "isFlagship": false,
+      "quickRealityCheck": "On a runestone, is the most common content a magical spell, or a public memorial raised for a relative?",
+      "lastReviewedAt": "2026-06-28"
+    }
+  ]
+}

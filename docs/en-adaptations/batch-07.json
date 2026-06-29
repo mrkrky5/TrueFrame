@@ -1,0 +1,1336 @@
+{
+  "meta": {
+    "purpose": "English-native adaptation batch",
+    "sourceChunk": "source-chunk-007.json",
+    "batchNumber": 7,
+    "cardCount": 20,
+    "sourceCardRange": "TR order cards 121-140",
+    "alreadyAuthoredCountBeforeBatch": 120,
+    "authoredCountAfterBatch": 140,
+    "remainingCountAfterBatch": 311,
+    "ids": [
+      "ancient-childhood",
+      "night-fears-pre-lighting",
+      "crusaders-poverty-myth",
+      "ancient-gods-explanation",
+      "medieval-monastery-science",
+      "modern-propaganda-origins",
+      "roman-entertainment-ordinary",
+      "pre-modern-hospitals",
+      "gladiator-bread-circuses",
+      "medieval-knights-reality",
+      "ac-assassin-order-real",
+      "rdr-pinkerton-agency",
+      "shogun-christian-daimyo",
+      "ghost-mongol-navy",
+      "mafia-prohibition-economics",
+      "ac-crusader-urban-life",
+      "rdr-railroad-conquest",
+      "shogun-sankin-kotai",
+      "mafia-five-families",
+      "ac-templar-fall"
+    ],
+    "notes": "Adapted from Turkish canonical cards. Source URLs, IDs, relatedCardIds, enums, flags and non-localized metadata are preserved from TR; localized text fields are English-native adaptations."
+  },
+  "cards": [
+    {
+      "id": "ancient-childhood",
+      "title": "Childhood in the Ancient and Medieval Worlds",
+      "subtitle": "Were children really just small adults?",
+      "mediaType": "general",
+      "mediaTitle": "Daily Life",
+      "mediaConnection": "This card looks at childhood in ancient and medieval societies, beyond the modern idea that children were either miniature adults or helpless background figures.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "Films often push children to extremes: princes in palaces, starving street thieves, or silent background figures. The idea of childhood itself is rarely treated as a historical subject.",
+      "realHistory": "Childhood in ancient and medieval societies was not the long, school-centered stage many people know today, but that does not mean children were treated as if they were never children. In ancient Rome, children could be marked as fragile beings who needed family and religious protection. The bulla worn by some boys, for example, made the boundary between childhood and adult citizenship visible. Dolls, miniature carts, dice, and game pieces also remind us that children were not only future workers in smaller bodies.\n\nResponsibility still came early. Children helped with household labor, farming, shop work, or home production. In the Middle Ages, apprenticeship could mean education and labor at the same time. Wealthier children might receive literacy, music, or religious training, while poorer children entered work much sooner.\n\nHigh child mortality does not prove that parents did not love their children. Grave inscriptions, toys buried with children, and mourning practices show real attachment and grief. Childhood in the past was shorter, riskier, and more tied to labor, but play, care, affection, and learning were still part of it.",
+      "accuracyNote": "Premodern childhood was not identical to modern childhood, but toys, protective rituals, and burial evidence show that children were not simply viewed as small adults.",
+      "whyInteresting": "The Roman bulla was not just ornament; it marked childhood as a protected stage and symbolically guarded the child from harm.",
+      "misconception": "People often assume children in the past were not loved. Burial objects, inscriptions, and mourning practices show that child loss could be deeply felt.",
+      "themes": [
+        "Society",
+        "Daily Life",
+        "Family"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "Growing up in ancient Greece and Rome — British Museum",
+          "url": "https://www.britishmuseum.org/blog/growing-ancient-greece-and-rome",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Bulla pendant — British Museum Collection",
+          "url": "https://www.britishmuseum.org/collection/object/G_1894-1205-2",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Childhood — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/childhood",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "medieval-city-diet",
+        "ancient-roman-day",
+        "medieval-night-life"
+      ],
+      "nextTopics": [
+        "History of Education",
+        "Toys",
+        "Family Structures"
+      ],
+      "difficulty": "medium",
+      "era": "Ancient World",
+      "region": "Global",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "family",
+        "ancient-world",
+        "daily-life",
+        "global",
+        "society"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Films often show children as either royal heirs or abandoned street figures; historically, children grew up between play, household work, apprenticeship, and protective rituals.",
+      "whyItMatters": "The history of childhood shows how affection could coexist with early labor, short life expectancy, and strong survival pressures.",
+      "quickRealityCheck": "Were children in the past really unloved small adults, or did they have a shorter but still recognizable childhood shaped by play, work, and protection?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "night-fears-pre-lighting",
+      "title": "The Rule of Darkness Before Modern Lighting",
+      "subtitle": "Night was not just dim. It was dangerous.",
+      "mediaType": "general",
+      "mediaTitle": "Daily Life",
+      "mediaConnection": "This card explains how night felt before electric lighting, and why darkness was a physical, social, and psychological force.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "Night scenes in films are usually dark enough to feel atmospheric but bright enough for everyone to move around easily with a torch or candle.",
+      "realHistory": "Before electric lighting, night was not like the readable darkness of film. Indoors, fire, candles, or oil lamps gave limited and often expensive light. A few steps away from the flame, reading, sewing, or seeing detail became difficult. Outside, moving without moonlight, a lantern, a torch, or a guide could be risky. Night meant not only darkness but disorientation, fear of crime, fire danger, and weaker social control.\n\nCities tried to manage this uncertainty with night watchmen, curfews, locked gates, and limited street lighting. Watchmen calling the hour, early shop closings, and the legal difference between day and night made darkness a distinct social space. The spread of public lighting in early modern cities, followed later by gas and electric light, changed safety, work, entertainment, and the rhythm of urban life.\n\nPopular media often lets torches illuminate whole corridors and streets. Historically, night was narrower, slower, and more sensory. Sound, the phase of the moon, local knowledge, and trusted company mattered as much as sight. The modern idea that night is simply another usable part of the day is the product of lighting technology.",
+      "accuracyNote": "Film nights are often lit for the viewer. In pre-electric societies, light was limited and expensive; everyday movement depended on fire, candles, oil lamps, moonlight, and local rules.",
+      "whyInteresting": "Street lighting did more than brighten roads; it changed crime perception, night economies, and the very idea of public space after dark.",
+      "misconception": "Premodern night is often imagined as quiet and romantic, but it was also shaped by danger, poor visibility, fire risk, and social control.",
+      "themes": [
+        "Psychology",
+        "Daily Life",
+        "Culture"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "Electric lighting in the home — Science Museum",
+          "url": "https://www.sciencemuseum.org.uk/objects-and-stories/everyday-wonders/electric-lighting-home",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "A History of Timekeeping — Royal Museums Greenwich",
+          "url": "https://www.rmg.co.uk/stories/topics/brief-history-timekeeping",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Representations of Street Lamps in Revolutionary France — Technology and Culture",
+          "url": "https://hal.science/hal-04445566v1",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "pre-clock-time",
+        "ancient-roman-day",
+        "medieval-night-life"
+      ],
+      "nextTopics": [
+        "Dark Ages",
+        "The Enlightenment",
+        "History of Sleep"
+      ],
+      "difficulty": "deep",
+      "era": "Middle Ages",
+      "region": "Global",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "daily-life",
+        "culture",
+        "global",
+        "middle-ages",
+        "psychology"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Films make night visible enough for the audience; historically, darkness was much deeper, more limiting, and more dangerous.",
+      "whyItMatters": "Lighting technology changed not only comfort but safety, working hours, entertainment, and the rhythm of city life.",
+      "quickRealityCheck": "Was the pre-electric night peaceful and romantic, or a separate world shaped by danger, direction, and scarce light?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "crusaders-poverty-myth",
+      "title": "The Crusades: Faith or Economic Pressure?",
+      "subtitle": "Beyond the idea that crusaders marched for one reason only.",
+      "mediaType": "general",
+      "mediaTitle": "Historical Misconception",
+      "mediaConnection": "This card examines the social and economic pressures behind the Crusades without reducing religious motivation to a cover story.",
+      "verificationStatus": "verified",
+      "readingTimeMinutes": 1,
+      "themes": [
+        "Middle Ages",
+        "Economy",
+        "War"
+      ],
+      "sources": [
+        {
+          "title": "Crusades: motives for participation — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/event/Crusades/Motives-for-participation",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Crusades: Motivations, Administration, and Cultural Influence — Newberry Digital Collections",
+          "url": "https://dcc.newberry.org/?p=14390",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "The Historiography of Crusade Finance — JurPress",
+          "url": "https://jurpress.squarespace.com/s/J771SP18-Final-Placement.pdf",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "realHistory": "Explaining the Crusades through faith alone, or through greed alone, flattens the history. The call for the First Crusade carried strong religious meaning: remission of sins, the protection of holy places, pilgrimage, and penitence. For many participants, crusading was not an ordinary war but a binding vow with spiritual consequences.\n\nYet economics was never absent. Preparing for a crusade was expensive. Horses, armor, weapons, servants, travel costs, and a long absence all required resources. Some knights sold land, mortgaged property, or took on debt in order to go. That makes the simple idea that crusaders only went east to get rich weak; many took large financial risks. Still, plunder, land, status, inheritance, and debt also shaped real decisions.\n\nPopular media often turns crusaders into either pure believers or cynical looters. The historical picture is messier. Religious promise, feudal duty, family prestige, economic pressure, and political opportunity could all operate at once. The Crusades are therefore not only a history of faith, but also a history of war finance, aristocratic ambition, debt, and medieval social pressure.",
+      "whatWeSee": "Films often show crusaders through speeches, banners, holy vows, and armored knights marching toward Jerusalem.",
+      "whyInteresting": "For a knight, joining a crusade could cost several times a normal annual income, making crusading a major financing problem as well as a military campaign.",
+      "accuracyNote": "Economic motives do not cancel religious belief. Crusading often combined spiritual promise, feudal obligation, prestige, and serious financial risk.",
+      "nextTopics": [
+        "Feudalism",
+        "Jerusalem",
+        "The Knights Templar"
+      ],
+      "difficulty": "deep",
+      "relatedCardIds": [
+        "medieval-magic-vs-reason",
+        "vikings-not-only-raiders",
+        "pirates-democracy-myth"
+      ],
+      "sourceQuality": "strong",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "economy",
+        "middle-ages",
+        "war",
+        "historical-misconception"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Films often present crusaders as either pure believers or greedy raiders; historical records show that those motives could overlap.",
+      "whyItMatters": "The Crusades show how faith, debt, land, prestige, and war finance could become inseparable in the medieval world.",
+      "quickRealityCheck": "Did crusaders go only for money, or did religious vows, feudal duties, and economic risks all matter at once?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27",
+      "misconception": "Crusaders are often imagined as only fortune seekers. In reality, many joined through vows of penance while taking on heavy material risk."
+    },
+    {
+      "id": "ancient-gods-explanation",
+      "title": "Gods and Nature: The Logic of Ancient Belief",
+      "subtitle": "Ancient religion was more than ignorance before science.",
+      "mediaType": "general",
+      "mediaTitle": "Historical Misconception",
+      "mediaConnection": "This card looks beyond fantasy images of ancient gods and asks how mythology worked inside real communities.",
+      "verificationStatus": "verified",
+      "readingTimeMinutes": 1,
+      "themes": [
+        "Ancient World",
+        "Religion",
+        "Philosophy"
+      ],
+      "sources": [
+        {
+          "title": "Gods and goddesses of the Greek and Roman pantheon (British Museum)",
+          "url": "https://www.britishmuseum.org/blog/gods-and-goddesses-greek-and-roman-pantheon",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Theseus, Hero of Athens (The Met)",
+          "url": "https://www.metmuseum.org/essays/theseus-hero-of-athens",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Greek mythology (Britannica)",
+          "url": "https://www.britannica.com/topic/Greek-mythology",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "realHistory": "Reading ancient religion simply as ignorance before science misses the point. In Greek and Roman worlds, gods formed part of a symbolic system that helped people organize nature, family, war, agriculture, seafaring, city identity, and social order. Poseidon’s link to the sea and earthquakes, Athena’s link to craft and strategy, and Artemis’s link to wilderness and transition rituals were not just stories. They were ways of classifying the world.\n\nReligion was also public practice. Sacrifices, festivals, processions, and temple rituals were not merely private belief; they helped the polis, or city community, reproduce itself. The relationship with the gods was often imagined as reciprocal: humans performed rites, and the gods were asked for protection, fertility, victory, or safe passage. Temples could also function as treasuries, archives, prestige spaces, and political symbols.\n\nMythology is therefore better understood as explanation, ritual, memory, and civic language at once. Media turns gods into dramatic characters. History shows how closely they were tied to law, war, family, nature, and the identity of cities.",
+      "whatWeSee": "Popular media often turns ancient gods into superpowered characters who throw lightning, punish mortals, or stage divine spectacle.",
+      "whyInteresting": "Myths could help establish political legitimacy: a city hero or patron deity made a community’s past and claims visible.",
+      "accuracyNote": "Mythology was not simply bad science. It joined ritual, civic identity, social order, and explanations of nature within a shared symbolic world.",
+      "nextTopics": [
+        "Mythology",
+        "Philosophy",
+        "Ancient Greece"
+      ],
+      "difficulty": "medium",
+      "relatedCardIds": [
+        "medieval-magic-vs-reason",
+        "vikings-not-only-raiders",
+        "pirates-democracy-myth"
+      ],
+      "sourceQuality": "strong",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "ancient-world",
+        "religion",
+        "philosophy",
+        "historical-misconception"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Popular media reduces gods to powerful characters; historical evidence shows their role in ritual, civic identity, and social order.",
+      "whyItMatters": "Understanding ancient religion helps us see how past societies interpreted nature and community through ritual and shared memory, not fear alone.",
+      "quickRealityCheck": "Were ancient gods invented only to explain nature, or were they also a language of city life, ritual, and social order?",
+      "spoilerNote": "",
+      "misconception": "Ancient people are often thought to have believed in gods only because they lacked knowledge. In reality, gods were part of a larger system of ritual, nature, and civic order.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "medieval-monastery-science",
+      "title": "Monasteries as Guardians of Knowledge",
+      "subtitle": "What medieval scriptoria really preserved.",
+      "mediaType": "general",
+      "mediaTitle": "Great Transformation",
+      "mediaConnection": "This card explains how medieval knowledge was preserved through scriptoria, libraries, care institutions, and practical learning.",
+      "verificationStatus": "verified",
+      "readingTimeMinutes": 1,
+      "themes": [
+        "Middle Ages",
+        "Science"
+      ],
+      "sources": [
+        {
+          "title": "The Medieval Scriptorium (Getty)",
+          "url": "https://www.getty.edu/art/exhibitions/scriptorium/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Digitised manuscripts and archives (British Library)",
+          "url": "https://www.bl.uk/collection/digitised-manuscripts-archives",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Greek Monasteries and the Making of Manuscripts (Cambridge University Library)",
+          "url": "https://www.lib.cam.ac.uk/polonskygreek/monasteries",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "realHistory": "Medieval monasteries were not only places of prayer. They were institutions where writing, copying, archiving, education, care, and everyday production could meet. Before printing became widespread, making books was slow and expensive. Monastic libraries and scriptoria therefore played an important role in preserving religious texts as well as some ancient authors, medical recipes, calendar calculations, and local records.\n\nThat does not mean monasteries were the sole source of modern science. Medieval knowledge moved through many settings: monasteries, cathedral schools, urban universities, Islamic translation and medical centers, Byzantine manuscript culture, and secular scribal networks. The monastic contribution was especially important in continuity and preservation. Texts were copied, liturgical calendars were calculated, medicinal plants were grown, the poor and sick were cared for, and local records were kept.\n\nThe monastery should be rescued from both extremes. It was neither only a dark anti-intellectual space nor a modern laboratory. It was a limited but vital knowledge infrastructure. Some texts reached the present because communities copied, stored, taught, and repaired them across generations.",
+      "whatWeSee": "Monasteries are often shown as silent, isolated places where monks do little except pray behind thick walls.",
+      "whyInteresting": "Copying a book by hand could take weeks or months, so a single manuscript in a monastic library represented major labor and material value.",
+      "accuracyNote": "Monasteries were not the single direct ancestor of modern universities, but their work in copying, teaching, care, and preservation made them important parts of medieval knowledge culture.",
+      "nextTopics": [
+        "Universities",
+        "Libraries",
+        "Herbal Medicine"
+      ],
+      "difficulty": "deep",
+      "relatedCardIds": [
+        "black-death-labor-shift",
+        "printing-press-authority",
+        "industrial-rev-daily-life"
+      ],
+      "sourceQuality": "strong",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "science",
+        "great-transformation",
+        "middle-ages"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Popular stories often show monks as only praying figures; historically, monasteries could also support writing, care, education, and production.",
+      "whyItMatters": "Reading monasteries correctly shows that medieval knowledge came from a network of religious, urban, academic, and practical institutions.",
+      "quickRealityCheck": "Were monasteries only closed places of prayer, or did they also help preserve texts and sustain education?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27",
+      "misconception": "Monasteries are often imagined as closed to knowledge; in reality, some contributed to manuscript preservation, calendar calculation, herbal medicine, and education."
+    },
+    {
+      "id": "modern-propaganda-origins",
+      "title": "The Birth of Modern Propaganda",
+      "subtitle": "How mass persuasion became a tool of war.",
+      "mediaType": "general",
+      "mediaTitle": "Modern History",
+      "mediaConnection": "This card traces how modern propaganda rose from wartime communication into a wider practice of mass persuasion.",
+      "verificationStatus": "verified",
+      "readingTimeMinutes": 1,
+      "themes": [
+        "Modern History",
+        "Politics",
+        "Psychology"
+      ],
+      "sources": [
+        {
+          "title": "Propaganda as a Weapon (Imperial War Museums)",
+          "url": "https://www.iwm.org.uk/history/propaganda-as-a-weapon",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "War Propaganda Bureau (1914-1918 Online)",
+          "url": "https://encyclopedia.1914-1918-online.net/article/war-propaganda-bureau/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Propaganda: Media in War Politics (1914-1918 Online)",
+          "url": "https://encyclopedia.1914-1918-online.net/article/propaganda-media-in-war-politics/",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "realHistory": "The word propaganda has early modern Catholic roots, but modern mass propaganda gained its real power during the First World War. States had to fight not only at the front but also for consent at home. Posters, newspapers, photographs, film, speeches, and official information networks were used to recruit soldiers, sell war bonds, demonize the enemy, and sustain morale.\n\nIn Britain, Wellington House became a key propaganda organization; in the United States, the Committee on Public Information, or Creel Committee, offered another early model of coordinated public persuasion. This work was not always crude lying. Often it selected a real event, enlarged its emotional frame, silenced the other side, and taught audiences what to fear, hate, or take pride in.\n\nThese techniques did not end with the war. Advertising, public relations, and modern political campaigns drew from similar tools of emotional framing, repetition, and audience management. Propaganda history is therefore not just the history of fake news. It is the history of states and institutions learning to treat mass feeling as something measurable, steerable, and repeatable.",
+      "whatWeSee": "Media often shows propaganda as a few striking war posters, slogans, or obvious lies shouted at the public.",
+      "whyInteresting": "World War I was one of the first major laboratories in which posters, film, newspapers, and official messaging were coordinated as tools of mass persuasion.",
+      "accuracyNote": "Propaganda is not only lying. It can work through selection, framing, repetition, enemy-making, and emotional direction.",
+      "nextTopics": [
+        "World War I",
+        "Perception Management",
+        "Media"
+      ],
+      "difficulty": "deep",
+      "relatedCardIds": [
+        "cold-war-fear-system",
+        "decolonization-complexity"
+      ],
+      "sourceQuality": "strong",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "modern-history",
+        "psychology",
+        "politics"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Films often use propaganda posters as visual decoration; historically, they were part of recruitment, morale, and enemy-image systems.",
+      "whyItMatters": "Modern advertising and political communication are easier to understand once we see how mass persuasion was institutionalized during war.",
+      "quickRealityCheck": "Was propaganda only open lying, or a more complex system for selecting and emotionally arranging information?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27",
+      "misconception": "Propaganda is often thought to mean only false news. In practice, much propaganda works by selecting true pieces and arranging them to move emotion in a desired direction."
+    },
+    {
+      "id": "roman-entertainment-ordinary",
+      "title": "Roman Entertainment Beyond the Colosseum",
+      "subtitle": "How ordinary Romans spent their free time.",
+      "mediaType": "general",
+      "mediaTitle": "Daily Life",
+      "mediaConnection": "This card moves beyond arena spectacle to the everyday leisure culture of Roman cities.",
+      "verificationStatus": "verified",
+      "readingTimeMinutes": 1,
+      "themes": [
+        "Rome",
+        "Daily Life"
+      ],
+      "sources": [
+        {
+          "title": "Ancient Rome: Leisure and Recreation (Britannica)",
+          "url": "https://www.britannica.com/place/ancient-Rome/Leisure-and-recreation",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Fun facts (Roman Baths)",
+          "url": "https://www.romanbaths.co.uk/fun-facts",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Roman Games (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Roman_Games/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "realHistory": "The entertainment world of ordinary Romans was much wider than the Colosseum. Baths were not only places to wash; they were spaces for socializing, exercise, gossip, small business, and leisure. Large bath complexes could include hot and cold rooms, courtyards, exercise areas, and sometimes gardens or libraries. In that sense, the bath was one of the most visible habits of Roman urban life.\n\nChariot racing was at least as important as gladiatorial combat. Venues such as the Circus Maximus created huge fan communities around racing factions, colors, betting, and crowd reaction. Theater, mime, music, dice games, festivals, and street performances filled out the entertainment culture. Elite banquets and popular street amusements were not the same, but leisure existed at many levels of society.\n\nEquating Roman entertainment with the arena alone is too narrow. The arena was a stage of power; baths, races, and festivals were part of the daily rhythm of city life. To understand Rome, we should ask not only where people watched bloodshed, but where they bathed, cheered, gambled, heard news, and met one another.",
+      "whatWeSee": "Films often reduce Roman entertainment to gladiators, the emperor’s box, and a crowd demanding blood.",
+      "whyInteresting": "Roman baths could be public social spaces available to wide groups at low cost, making them central to urban life.",
+      "accuracyNote": "Gladiatorial games mattered, but baths, chariot racing, theater, mime, and festivals were also central to Roman leisure.",
+      "nextTopics": [
+        "Roman Baths",
+        "Theater",
+        "Festivals"
+      ],
+      "difficulty": "medium",
+      "relatedCardIds": [
+        "ancient-roman-day",
+        "medieval-night-life",
+        "baghdad-daily-life-new"
+      ],
+      "sourceQuality": "strong",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "archive",
+        "daily-life",
+        "rome",
+        "ancient-world"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Popular media remembers Rome through arenas; historical city life was also shaped by baths, circuses, theaters, and street entertainment.",
+      "whyItMatters": "Roman entertainment shows how leisure, news, crowd behavior, and political visibility could overlap in an imperial city.",
+      "quickRealityCheck": "Was entertainment for ordinary Romans only the Colosseum, or were baths and chariot races also central to daily life?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27",
+      "misconception": "Roman entertainment is often reduced to gladiator fights; historically, baths, races, theater, and festivals were just as important to city life."
+    },
+    {
+      "id": "pre-modern-hospitals",
+      "title": "Premodern Hospitals: Healing, Care, or Prayer?",
+      "subtitle": "How medical care existed before modern medicine.",
+      "mediaType": "general",
+      "mediaTitle": "Daily Life",
+      "mediaConnection": "This card examines how care institutions existed before the rise of the modern hospital.",
+      "verificationStatus": "verified",
+      "readingTimeMinutes": 1,
+      "themes": [
+        "Medicine",
+        "Daily Life"
+      ],
+      "sources": [
+        {
+          "title": "History of hospitals (Britannica)",
+          "url": "https://www.britannica.com/topic/hospital/History-of-hospitals",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Islamic Culture and the Medical Arts (National Library of Medicine)",
+          "url": "https://resource.nlm.nih.gov/9439902",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Jundi-Shapur, bimaristans, and the rise of academic medical centres (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1676324/",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "realHistory": "The modern hospital did not appear all at once. In the ancient world, healing centers such as Asclepieia combined religious ritual, rest, dream interpretation, and forms of practical care. In the Roman military, valetudinaria offered more organized spaces for treating soldiers. In medieval Europe, many hospitals focused less on intervention in the modern medical sense and more on care, shelter, charity, and spiritual support.\n\nBimaristans in the Islamic world were an important step in this longer development. In cities such as Baghdad, Damascus, and Cairo, hospitals could become places where physicians worked, medicines were prepared, medical teaching took place, and sometimes different patient groups were separated. It would be anachronistic to call them identical to modern hospitals, but they mattered for institutional care, training, record keeping, and charitable financing.\n\nSo neither extreme works. Premodern hospitals were not only places of prayer and helplessness, but modern hospitals did not already exist in full form. The real history is a long transformation in which ritual, care, observation, charity, and medical education gradually became linked.",
+      "whatWeSee": "Scenes of premodern illness are often shown as dirty rooms, helpless prayers, and painful treatments applied at random.",
+      "whyInteresting": "Bimaristans developed as institutions connected not only to patient care but also to medical teaching and pharmacy practice.",
+      "accuracyNote": "Ancient and medieval care institutions were not the same as modern hospitals, but Asclepieia, valetudinaria, European hospitals, and bimaristans all represent stages in organized care.",
+      "nextTopics": [
+        "Ibn Sina",
+        "History of Surgery",
+        "Pharmacy"
+      ],
+      "difficulty": "medium",
+      "relatedCardIds": [
+        "ancient-roman-day",
+        "medieval-night-life",
+        "baghdad-daily-life-new"
+      ],
+      "sourceQuality": "strong",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "archive",
+        "daily-life",
+        "medicine"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Popular media often makes old medicine look wholly dark and helpless; the historical record shows limited but real forms of organized care.",
+      "whyItMatters": "The hospital’s history shows that medicine developed through institutions of care, record keeping, education, and financing as much as through discoveries.",
+      "quickRealityCheck": "Were premodern hospitals only places of prayer and despair, or did some become institutions of care and medical learning?",
+      "spoilerNote": "",
+      "misconception": "Premodern hospitals are often imagined as only places of prayer; in some institutions, care, observation, drug preparation, and teaching worked together.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "gladiator-bread-circuses",
+      "title": "Bread and Circuses: Mass Politics in Rome",
+      "subtitle": "More than a trick for distracting the crowd.",
+      "mediaType": "general",
+      "mediaTitle": "Politics",
+      "mediaConnection": "This card explains the political meaning behind Rome’s food distributions and public spectacles.",
+      "verificationStatus": "verified",
+      "readingTimeMinutes": 1,
+      "themes": [
+        "Rome",
+        "Politics"
+      ],
+      "sources": [
+        {
+          "title": "Bread and Circuses (Britannica)",
+          "url": "https://www.britannica.com/topic/bread-and-circuses",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Roman Games (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Roman_Games/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Theater and Amphitheater in the Roman World (The Met)",
+          "url": "https://www.metmuseum.org/essays/theater-and-amphitheater-in-the-roman-world",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "realHistory": "The phrase panem et circenses does not mean that Rome invented a perfect system for drugging the people with food and entertainment. It comes from the satirist Juvenal’s sharp complaint that citizens had given up older political duties in exchange for subsistence and spectacle. The phrase therefore refers both to real institutions and to an elite moral criticism of Roman public life.\n\nGrain distribution in Rome was politically vital, especially in a huge city vulnerable to shortages. Games, races, and gladiatorial spectacles displayed the ruler’s generosity, capacity to maintain order, and relationship with the people. But the crowd was not entirely silent. Through shouting, applause, demands, and collective reaction, spectators could make political feeling visible.\n\nReading bread and circuses as simple manipulation is too easy. The real system mixed food security, public prestige, crowd management, and political communication. Roman rulers knew that they could not sustain city order without managing the needs of the urban population, and the people used these public occasions not only to consume but also to be seen and heard.",
+      "whatWeSee": "Roman crowds in media are often shown as passive masses, easily satisfied by spectacles arranged by the emperor.",
+      "whyInteresting": "Roman spectacles were political stages where rulers appeared before the people and could measure the mood of the crowd.",
+      "accuracyNote": "Juvenal’s phrase rests on real grain distribution and spectacle culture, but treating it as a one-way propaganda machine oversimplifies Roman public life.",
+      "nextTopics": [
+        "The Colosseum",
+        "Roman Economy",
+        "Demagoguery"
+      ],
+      "difficulty": "medium",
+      "relatedCardIds": [],
+      "sourceQuality": "strong",
+      "accuracyType": "fictionalized",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "archive",
+        "rome",
+        "politics",
+        "ancient-world"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Popular stories present Roman crowds as easy spectators; historically, the crowd had needs, signals, and forms of political visibility.",
+      "whyItMatters": "Rome’s system of distribution and spectacle shows how power can operate by managing needs and staging public presence, not only through force.",
+      "quickRealityCheck": "Was bread and circuses just deception, or a more complex relationship between subsistence, crowd visibility, and power?",
+      "spoilerNote": "",
+      "misconception": "Bread and circuses are often imagined as a simple trick that made the people passive; in reality, hunger, prestige, and crowd politics overlapped.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "medieval-knights-reality",
+      "title": "Knighthood: Honor or Military Bureaucracy?",
+      "subtitle": "The real world behind the shining armor.",
+      "mediaType": "general",
+      "mediaTitle": "Historical Misconception",
+      "mediaConnection": "This card compares the romantic image of knights with the military, economic, and social realities of medieval warfare.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "Knights in media are often flawless heroes in polished armor, bound by honor and dedicated to protecting the weak.",
+      "realHistory": "Knighthood was both a military role and a social status. A knight’s horse, armor, weapons, retainers, and training were expensive, which tied the class closely to land, service, and hierarchy. Knights were not only warriors. They might represent local authority, owe military service to a lord, and calculate the cost of campaign, ransom, and equipment.\n\nChivalry was real, but it did not always control behavior. Church and court culture tried to place the violence of the warrior elite inside ethical forms, and literature polished those ideals. On campaign, however, plunder, siege warfare, ransom, captivity, and land interests could matter as much as honor. A knight could be expected to perform virtue and still act harshly for economic or political gain.\n\nArmor also carries myths. Plate armor could be heavy, but it was distributed across the body and designed for movement. A knight who fell from a horse did not automatically become helpless. The real limits had more to do with heat, exhaustion, cost, and battlefield conditions. Knighthood is therefore better understood not as a clean romance but as a costly, status-bound military class trying to regulate violence.",
+      "accuracyNote": "Chivalric ideals existed, but historical knights also operated through land, ransom, service obligations, and political interest.",
+      "whyInteresting": "Armor was not only protection but a statement of status and technology; a well-made suit was meant to preserve movement while improving survival.",
+      "misconception": "Knights are often imagined as fighting only for honor. In reality, honor language mixed with land, ransom, plunder, and feudal duty.",
+      "themes": [
+        "Middle Ages",
+        "War",
+        "Society"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "Knight (Britannica)",
+          "url": "https://www.britannica.com/topic/knight",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Arms and Armor—Common Misconceptions (The Met)",
+          "url": "https://www.metmuseum.org/essays/arms-and-armor-common-misconceptions-and-frequently-asked-questions",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "The Art of Chivalry (The Met)",
+          "url": "https://www.metmuseum.org/met-publications/the-art-of-chivalry-european-arms-and-armor-from-the-metropolitan-museum-of-art",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "aoe2-castles-politics",
+        "medieval-magic-vs-reason",
+        "vikings-not-only-raiders"
+      ],
+      "nextTopics": [
+        "Feudalism",
+        "Bushido vs. Chivalry",
+        "Armor Technology"
+      ],
+      "difficulty": "medium",
+      "era": "Middle Ages",
+      "region": "Europe",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "europe",
+        "middle-ages",
+        "war",
+        "historical-misconception",
+        "society"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Popular culture turns the knight into a clean hero; historical evidence requires us to include equipment costs, class interests, and feudal service.",
+      "whyItMatters": "Knighthood shows that medieval warfare was not only courage, but also money, status, and local power.",
+      "quickRealityCheck": "Were knights simply honorable heroes, or a costly military elite embedded in land and service systems?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "ac-assassin-order-real",
+      "title": "The Real Assassins of Alamut",
+      "subtitle": "The Nizari Ismaili state behind the legend.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed",
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Assassins",
+        "Middle East",
+        "Politics"
+      ],
+      "isFlagship": false,
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "tags": [
+        "assassins-creed",
+        "assassins",
+        "alamut",
+        "middle-east"
+      ],
+      "quickRealityCheck": "Are the Assassins of Assassin's Creed the same as the historical Nizari Ismailis, or a fictional myth built from a real movement?",
+      "mediaChanged": "The game recasts the Assassins as universal defenders of freedom; the historical Nizaris were a political-religious community trying to survive among larger powers.",
+      "realHistory": "The historical Assassins belonged to a very different world from the universal Assassin-Templar conflict of the games. In the 11th century, Hasan-i Sabbah’s seizure of Alamut helped strengthen the Nizari Ismaili movement, which built a small but resilient political-religious network of mountain fortresses under pressure from Seljuk and other larger powers. Because they could not field large armies, they used targeted political assassination as a strategy of intimidation and deterrence.\n\nThese killings were not random violence. They were symbolic, strategic messages. When a vizier, commander, or local leader was killed, a small community could force much larger states to acknowledge its presence. The killing of Nizam al-Mulk became one of the most famous examples. Yet defining the Nizari world only by assassination is also incomplete. Alamut was connected to religious learning, textual culture, and defensive architecture.\n\nThe story of hashish-controlled fanatics comes largely from hostile sources and later legend. The game turns this legacy into a dramatic myth of brotherhood. The historical reality is a besieged Nizari Ismaili state using asymmetric violence to survive among empires.",
+      "whyItMatters": "This history shows how a small, pressured movement could use fortresses and targeted violence instead of open battle against larger states.",
+      "sources": [
+        {
+          "title": "The Assassins (Britannica)",
+          "url": "https://www.britannica.com/topic/Assassins",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Introduction to The Assassin Legends (Institute of Ismaili Studies)",
+          "url": "https://www.iis.ac.uk/scholarly-contributions/introduction-to-the-assassin-legends/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Was the medieval order of Assassins a real thing? (National Geographic)",
+          "url": "https://www.nationalgeographic.com/history/article/medieval-order-assassins-islam",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ac-crusader-urban-life",
+        "ac-templar-fall"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Assassin's Creed presents the Assassins as a white-robed secret brotherhood fighting for free will and peace.",
+      "lastReviewedAt": "2026-06-27",
+      "accuracyNote": "Assassin's Creed's secret-brotherhood structure is fictional, but Alamut, the Nizari Ismailis, and targeted political assassination have real historical foundations.",
+      "whyInteresting": "The Assassin legend became more fantastical through hostile propaganda, Crusader stories, and European imagination than through Nizari sources themselves.",
+      "misconception": "The Assassins are often imagined as drug-controlled fanatics; modern scholarship treats that story as heavily shaped by hostile sources and legend.",
+      "mediaConnection": "This card compares the Assassin myth of the games with the historical Nizari Ismailis of Alamut."
+    },
+    {
+      "id": "rdr-pinkerton-agency",
+      "title": "The Pinkertons: A Private Army for Companies?",
+      "subtitle": "Where law, capital, and private force blurred.",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Wild West",
+        "Law",
+        "Corporations"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "red-dead-redemption",
+        "pinkerton",
+        "wild-west",
+        "united-states"
+      ],
+      "quickRealityCheck": "Were the Pinkertons only lawmen, or a private force that also served corporate power?",
+      "mediaChanged": "Red Dead presents Pinkertons as ruthless hunters; the historical picture runs from detective work and railroad security to strikebreaking and corporate force.",
+      "realHistory": "The Pinkerton National Detective Agency was founded by Allan Pinkerton in 1850 and quickly became a powerful institution in private detection, railroad security, theft investigation, and company protection. Before the United States had a permanent federal police agency on the scale of the FBI, railroads and business owners often relied on Pinkertons to pursue train robbers, fraud, and fugitives.\n\nThe agency’s contested reputation comes from that double role. On one side, Pinkerton work entered early intelligence history through events such as the discovery of the Baltimore plot against Abraham Lincoln. On the other side, the agency was hired by companies as armed force against labor movements. The 1892 Homestead Strike, where Pinkertons clashed with workers, made visible the danger of private security standing in for public authority.\n\nRed Dead captures this tension well. Pinkertons were not simply fake villains, but neither were they neutral servants of law. In late 19th-century America they represented the blurred zone between state power, corporate interest, and private force. Acting in the name of order could also mean protecting capital.",
+      "whyItMatters": "Pinkerton history shows how law becomes murky when the state’s power of force overlaps with corporate security.",
+      "sources": [
+        {
+          "title": "Pinkerton National Detective Agency (Britannica)",
+          "url": "https://www.britannica.com/topic/Pinkerton-National-Detective-Agency",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Pinkerton's National Detective Agency Records (Library of Congress)",
+          "url": "https://hdl.loc.gov/loc.mss/eadmss.ms003007.3",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "1892 Homestead Strike (Library of Congress)",
+          "url": "https://guides.loc.gov/this-month-in-business-history/july/1892-homestead-strike",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Interpretations of the Anti-Pinkerton Act (GAO)",
+          "url": "https://www.gao.gov/products/b-139965-1",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "rdr2-frontier",
+        "rdr-railroads-frontier",
+        "rdr-railroad-conquest"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Red Dead Redemption portrays Pinkerton agents as hard, often ruthless private officers sent to hunt outlaws.",
+      "lastReviewedAt": "2026-06-27",
+      "accuracyNote": "The game uses Pinkertons as dramatic antagonists; the real agency was a controversial private power with both investigative achievements and strikebreaking roles.",
+      "whyInteresting": "After the Homestead Strike, the Pinkerton name came to symbolize not only detective work but the danger of armed private power.",
+      "misconception": "Pinkertons are often imagined as neutral detectives chasing outlaws; in reality, their work in labor conflict and corporate security was deeply controversial.",
+      "mediaConnection": "This card uses Red Dead Redemption to examine the real Pinkerton Agency and the rise of private security in the United States."
+    },
+    {
+      "id": "shogun-christian-daimyo",
+      "title": "Christian Samurai and Missionary Tension",
+      "subtitle": "Faith, trade, and power in Sengoku Japan.",
+      "mediaType": "series",
+      "mediaTitle": "Shōgun",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Japan",
+        "Religion",
+        "Politics"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "shogun",
+        "japan",
+        "christianity",
+        "samurai"
+      ],
+      "quickRealityCheck": "Did Christian daimyo convert only for faith, or did trade and power also shape the decision?",
+      "mediaChanged": "Shogun concentrates religion into court intrigue; the historical record also includes trade, firearms, port revenue, and central-state anxiety.",
+      "realHistory": "In 16th-century Japan, Christianity was never only a matter of belief. It was entangled with trade, military technology, and local power. Jesuit mission activity began after Francis Xavier arrived in Japan in 1549 and became especially influential in Kyushu. Some daimyo converted through sincere belief; others were drawn by Portuguese trade, firearms, and port revenue. In many cases, those motives cannot be separated cleanly.\n\nPortuguese contact brought more than religion. Silver, silk, firearms, and overseas connections could give local lords an advantage against rivals. For central Japanese authorities, the same connections could look dangerous. Missionaries who built ties with daimyo raised fears that religion might redirect political loyalty.\n\nOda Nobunaga’s period allowed a more tolerant environment, while Toyotomi Hideyoshi and the Tokugawa order increasingly treated Christianity as a foreign influence risk. The 26 Martyrs of 1597 and later prohibitions show how sharply this tension hardened. Shogun dramatizes the issue through conspiracy and court pressure. The history is a broader negotiation among faith, trade, weapons, and state security.",
+      "whyItMatters": "Japan’s Christian century shows how global trade could transform local belief, military advantage, and political loyalty.",
+      "sources": [
+        {
+          "title": "Kirishitan (Britannica)",
+          "url": "https://www.britannica.com/topic/Kirishitan",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Arrival and Flourishing of Christianity (Hidden Christian Sites in Nagasaki Region)",
+          "url": "https://oratio.jp/monogatari/monogatari-01?lang=en",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Father Xavier Introduces Christianity to Japan (EBSCO)",
+          "url": "https://www.ebsco.com/research-starters/history/father-xavier-introduces-christianity-japan",
+          "type": "reference",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "shogun-edo",
+        "shogun-trade-sakoku",
+        "shogun-hostage-politics"
+      ],
+      "spoilerNote": "Contains minor contextual hints about Shogun, but does not reveal the ending.",
+      "whatWeSee": "In Shogun-like stories, Christian lords, Portuguese merchants, and Jesuits often appear as hidden players in court intrigue.",
+      "lastReviewedAt": "2026-06-27",
+      "accuracyNote": "The series makes Christian lords and Jesuits feel like dramatic power centers; historically, conversion could involve belief, trade, guns, revenue, and strategy at the same time.",
+      "whyInteresting": "Some Japanese ports grew stronger through Portuguese trade, which made Christianity an economic and political issue as well as a spiritual one.",
+      "misconception": "Christian daimyo are often reduced to either conspirators or pure believers; the reality mixed faith, trade, and military advantage.",
+      "mediaConnection": "This card connects Shogun’s religious tension to the historical world of Jesuit missions, Portuguese trade, and Christian daimyo."
+    },
+    {
+      "id": "ghost-mongol-navy",
+      "title": "The Mongol Fleets and the Divine Winds",
+      "subtitle": "When a land empire struck the sea.",
+      "mediaType": "game",
+      "mediaTitle": "Ghost of Tsushima",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Japan",
+        "Mongols",
+        "Seafaring"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "ghost-of-tsushima",
+        "mongols",
+        "japan",
+        "kamikaze",
+        "samurai"
+      ],
+      "quickRealityCheck": "Was the Mongol invasion stopped only by samurai swords, or were naval logistics and typhoons just as central?",
+      "mediaChanged": "The game foregrounds the land battle on Tsushima; historically, the invasion also broke at sea, through supply problems and storms.",
+      "realHistory": "The Mongol attacks on Japan were not only land battles. Under Kublai Khan, the Yuan Empire sent large fleets in 1274 and 1281, drawing on ships and resources from Korea and China. Tsushima and Iki suffered the first blows, and the invaders then pressed toward the Hakata Bay area. On land, Yuan forces used coordinated movement, new weapons, and gunpowder explosives to place serious pressure on Japanese defenders.\n\nThe failure of the invasions depended on more than samurai resistance. Naval logistics, weather, and the difficulty of maintaining a large force offshore were central. In 1281, the larger fleet faced supply problems, long exposure at sea, and trouble securing a stable landing. Then a typhoon scattered much of the force. In Japanese memory, these storms became kamikaze, or divine winds. Historically, the explanation cannot be reduced to miracle alone. Defensive walls, small Japanese raids, the fleet’s composition, and time spent waiting at sea all mattered.\n\nUnderwater archaeology around Takashima continues to reveal the material traces of the invasion. Ghost of Tsushima gives a strong land-centered opening, but the wider story broke across the sea, supply lines, and storms.",
+      "whyItMatters": "The invasions reveal the limits a steppe empire faced in maritime war, and why the kamikaze memory became so powerful in Japan.",
+      "sources": [
+        {
+          "title": "Tracing the Mongolian Invasion (Kyushu National Museum)",
+          "url": "https://www.kyuhaku.jp/en/exhibition/exhibition_pre192.html",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Relations between Japan and Mongolia in the 13th century (National Archives of Japan)",
+          "url": "https://www.archives.go.jp/about/activity/international/jp_mn50/english/ch01.html",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Shooting Down the Kamikaze Myth (U.S. Naval Institute)",
+          "url": "https://www.usni.org/magazines/naval-history-magazine/2003/june/shooting-down-kamikaze-myth",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ghost-tsushima-invasion",
+        "ghost-onna-musha",
+        "ghost-samurai-reality"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Ghost of Tsushima focuses on the land invasion of Tsushima and the shock of Mongol military tactics.",
+      "lastReviewedAt": "2026-06-27",
+      "accuracyNote": "The Mongol invasions involved real land fighting, but their failure was tied to maritime logistics, coastal defense, fleet problems, and storms.",
+      "whyInteresting": "The “divine wind” memory is powerful because it turned a military and environmental disaster for the Yuan fleet into a defining symbol of protection for Japan.",
+      "misconception": "The invasion is often remembered as a simple miracle story; the historical picture also includes Japanese defense, fleet design, logistics, and exposure at sea.",
+      "mediaConnection": "This card expands Ghost of Tsushima’s land-war perspective into the naval logistics and weather behind the Mongol invasions of Japan."
+    },
+    {
+      "id": "mafia-prohibition-economics",
+      "title": "Prohibition and the Mafia’s Golden Opportunity",
+      "subtitle": "How a moral reform created a criminal market.",
+      "mediaType": "game",
+      "mediaTitle": "Mafia",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Crime",
+        "Economy",
+        "United States"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "crime",
+        "economy",
+        "united-states",
+        "mafia"
+      ],
+      "quickRealityCheck": "Did Prohibition stop alcohol, or did it hand a profitable market to organized crime?",
+      "mediaChanged": "Mafia stories often make Prohibition glamorous; historically, it was also a vast illegal supply chain built on corruption and violence.",
+      "realHistory": "Prohibition did not create organized crime from nothing, but it offered an extraordinary business opportunity. The Volstead Act turned the production, sale, and transport of alcoholic beverages into an illegal market. Demand did not disappear. It moved into hidden bars, smuggling routes, illegal distilleries, bribed officials, and violent competition for supply.\n\nGroups that already had experience in extortion, gambling, street protection, and immigrant neighborhood networks could scale up through alcohol. Bootlegging required logistics: ships, trucks, warehouses, accountants, guards, political contacts, and distribution chains. That made crime more businesslike. Violence was part of the market, but so were corruption and organization.\n\nThe Mafia image of the 1920s is easy to romanticize because it is full of music, suits, and nightlife. The historical reality was harsher. Prohibition shifted enormous profits into criminal hands, strengthened gang structures, and put pressure on law enforcement institutions that were often underfunded or corruptible. When Prohibition ended, organized crime did not vanish; the networks, habits, and capital it helped build could move into other rackets.",
+      "whyItMatters": "Prohibition shows how banning a high-demand product can unintentionally build the market infrastructure of organized crime.",
+      "sources": [
+        {
+          "title": "The Volstead Act (National Archives)",
+          "url": "https://www.archives.gov/education/lessons/volstead-act",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "The Bureau and the Great Experiment (FBI)",
+          "url": "https://www.fbi.gov/news/stories/the-bureau-and-the-great-experiment-012420",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The FBI and the American Gangster, 1924-1938 (FBI)",
+          "url": "https://www.fbi.gov/history/history-of-the-fbi/the-fbi-and-the-american-gangster",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Prohibition (Britannica)",
+          "url": "https://www.britannica.com/event/Prohibition-United-States-history-1920-1933",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "mafia-prohibition",
+        "mafia-immigration-crime",
+        "mafia-five-families"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Mafia stories often show Prohibition as glamorous speakeasies, bootleg whiskey, police bribes, and gangsters in sharp suits.",
+      "lastReviewedAt": "2026-06-27",
+      "accuracyNote": "Prohibition did not invent organized crime, but it expanded illegal alcohol markets and helped some criminal groups grow in scale, wealth, and sophistication.",
+      "whyInteresting": "Bootlegging was not just hiding bottles. It required shipping, storage, transport, protection, bribery, and accounting.",
+      "misconception": "People often think Prohibition failed only because people wanted to drink. It also failed because it created a profitable market for organized criminal logistics.",
+      "nextTopics": [
+        "Volstead Act",
+        "Speakeasies",
+        "Al Capone"
+      ],
+      "mediaConnection": "This card connects Mafia stories to the economic logic of Prohibition and the rise of illegal alcohol markets."
+    },
+    {
+      "id": "ac-crusader-urban-life",
+      "title": "Life in Crusader Cities: Acre and Jerusalem",
+      "subtitle": "Markets, walls, pilgrims, and mixed communities.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Middle Ages",
+        "Religion",
+        "Everyday Life"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "assassins-creed",
+        "crusader-states",
+        "acre",
+        "jerusalem"
+      ],
+      "quickRealityCheck": "Were Crusader cities only war camps, or did they also function as ports, markets, and mixed urban communities?",
+      "mediaChanged": "The games frame Crusader cities through secret conflict; history adds docks, markets, legal privileges, and everyday coexistence under pressure.",
+      "realHistory": "The Crusader states were not only battlefields. Cities such as Acre and Jerusalem were dense urban worlds where Latin settlers, local Christians, Muslims, Jews, pilgrims, merchants, sailors, and military orders had to share streets, markets, ports, and sacred space. Conflict was constant in the background, but daily life also required trade, taxation, translation, repair, and negotiation.\n\nAcre especially shows this complexity. As a major port, it hosted Genoese, Venetian, and Pisan quarters, each with commercial privileges and its own networks. Goods from the eastern Mediterranean moved through warehouses, docks, and market streets. Fortifications mattered, but so did water, food supply, credit, and legal arrangements among communities.\n\nAssassin's Creed uses the city as a stage for secret conflict, rooftop movement, and public unrest. The historical Crusader city was less like a single military camp and more like a tense urban system. Religious difference was real and often violent, but practical cooperation could not disappear. The city had to function: ships arrived, pilgrims needed shelter, craftsmen worked, and officials collected revenue.\n\nThat is the useful True Frame angle. Crusader cities were shaped by holy war, but they survived through everyday urban routines.",
+      "whyItMatters": "Crusader urban life shows that even societies built around war had to solve practical problems of trade, law, water, and coexistence.",
+      "sources": [
+        {
+          "title": "Crusader States (Britannica)",
+          "url": "https://www.britannica.com/topic/Crusader-states",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Old City of Acre World Heritage Nomination (UNESCO)",
+          "url": "https://whc.unesco.org/uploads/nominations/1042.pdf",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The Fortifications of the Genoese Quarter (JSTOR)",
+          "url": "https://www.jstor.org/stable/27224960",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ac-assassin-order-real",
+        "ac-templar-fall"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Assassin's Creed presents Crusader cities as crowded places of soldiers, merchants, secret orders, and public tension.",
+      "lastReviewedAt": "2026-06-27",
+      "accuracyNote": "The games intensify conspiracy and conflict. Historically, Crusader cities were fortified and militarized, but also depended on commerce, legal arrangements, and local intermediaries.",
+      "whyInteresting": "Acre’s Italian merchant quarters show how Mediterranean trade shaped Crusader urban life as much as military orders did.",
+      "misconception": "Crusader cities are often imagined as permanent battle camps; in reality, markets, ports, pilgrims, taxes, and mixed communities also defined them.",
+      "reviewerNote": "Acre’s commercial quarters and the urban economy of the Crusader states are supported by more direct sources.",
+      "mediaConnection": "This card compares Assassin’s Creed’s Crusader city atmosphere with the real urban life of Acre and Jerusalem."
+    },
+    {
+      "id": "rdr-railroad-conquest",
+      "title": "Railroads and the End of the Wild West",
+      "subtitle": "How tracks changed land, law, and time.",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Wild West",
+        "Technology",
+        "Modernization"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "wild-west",
+        "technology",
+        "modernization",
+        "red-dead-redemption"
+      ],
+      "quickRealityCheck": "Did the Wild West end because of sheriffs alone, or because rails, land policy, and markets remade the frontier?",
+      "mediaChanged": "Red Dead turns the railroad into a symbol of modernity; historically, rails also meant land grants, settlement pressure, market access, and state control.",
+      "realHistory": "The railroad did not simply connect the American West. It reorganized it. Federal land grants, private companies, survey lines, stations, and schedules transformed distance into infrastructure. Towns rose or declined depending on whether tracks reached them. Cattle routes, mining towns, migrant movement, military deployment, and market access all changed with the rails.\n\nFor Native nations, the railroad was often destructive. Tracks cut through lands, encouraged settlement, and helped connect military and commercial power. The buffalo herds, already under many pressures, were devastated as hunters, markets, and rail access expanded. The railroad therefore carried not only passengers and freight, but also conquest, land speculation, and state power.\n\nTime itself changed. Railroads needed reliable schedules across long distances, helping push standard time into everyday life. In Red Dead, the railroad feels like the opposite of escape: it makes the frontier legible, profitable, and enforceable. Historically, that is close to the point. The West did not end only because sheriffs got better. It ended because land, movement, law, and time were pulled into national systems.",
+      "whyItMatters": "The railroad shows how infrastructure can function as conquest: by making land reachable, measurable, profitable, and enforceable.",
+      "sources": [
+        {
+          "title": "Pacific Railway Act (National Archives)",
+          "url": "https://www.archives.gov/milestone-documents/pacific-railway-act",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The impact of the Transcontinental Railroad on Native Americans (Smithsonian)",
+          "url": "https://americanhistory.si.edu/explore/stories/TRR",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Where the Buffalo No Longer Roamed (Smithsonian Magazine)",
+          "url": "https://www.smithsonianmag.com/history/where-the-buffalo-no-longer-roamed-3067904/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Time Zones (National Museum of American History)",
+          "url": "https://americanhistory.si.edu/ontime/synchronizing/zones.html",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "rdr2-frontier",
+        "rdr-railroads-frontier",
+        "rdr-pinkerton-agency"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Red Dead Redemption uses railroads as a sign that the old frontier is being fenced, watched, and absorbed into a modern order.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "Railroads did not end the frontier alone; they worked with land policy, military power, settlement, markets, and the destruction of Native lifeways.",
+      "whyInteresting": "Standard time is one of the quieter effects of railroads: transportation networks changed how people understood the clock.",
+      "misconception": "The Wild West is often imagined as ending through lawmen alone. Railroads, markets, land policy, and military power mattered just as much.",
+      "mediaConnection": "This card uses Red Dead Redemption’s railroad imagery to explain how infrastructure transformed the American frontier."
+    },
+    {
+      "id": "shogun-sankin-kotai",
+      "title": "Sankin-kotai: Hostages, Roads, and Wealth",
+      "subtitle": "How alternate attendance helped discipline the daimyo.",
+      "mediaType": "series",
+      "mediaTitle": "Shōgun",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Japan",
+        "Politics",
+        "Edo Period"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "shogun",
+        "japan",
+        "edo-period",
+        "politics"
+      ],
+      "quickRealityCheck": "Was sankin-kotai only hostage-taking, or a system of residence, cost, ritual, and control?",
+      "mediaChanged": "Drama focuses on personal hostage politics; historically, Tokugawa control also worked through scheduled residence, family presence, travel cost, and ritual display.",
+      "realHistory": "Sankin-kotai, the alternate attendance system, was one of the Tokugawa shogunate’s most effective tools for managing the daimyo. Lords had to spend regular time in Edo and return to their domains according to regulated schedules. Their wives and heirs often remained in Edo, giving the shogunate a powerful hostage-like guarantee of loyalty without calling it simple imprisonment.\n\nThe system was political, but it also reshaped economy and culture. Daimyo processions required roads, lodging, supplies, attendants, and display. The cost was enormous, and that was part of the point: money spent on movement and ceremony was money not spent building independent armies. At the same time, the traffic between Edo and the domains encouraged roads, inns, service economies, and cultural circulation.\n\nSankin-kotai was therefore both control and performance. The shogunate made powerful regional lords visible, expensive, and dependent on the center. For the daimyo, the procession displayed rank; for the Tokugawa order, it made loyalty a regular ritual.",
+      "whyItMatters": "Sankin-kotai shows how a state can control regional elites not only by force, but by making loyalty expensive and public.",
+      "sources": [
+        {
+          "title": "Sankin-kōtai (Britannica)",
+          "url": "https://www.britannica.com/topic/sankin-kotai",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Daimyo Procession to Edo (The Metropolitan Museum of Art)",
+          "url": "https://www.metmuseum.org/art/collection/search/835028",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "To Edo and Back: Alternate Attendance and Japanese Culture in the Early Modern Period (JSTOR)",
+          "url": "https://www.jstor.org/stable/133123",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "shogun-edo",
+        "shogun-trade-sakoku",
+        "shogun-hostage-politics"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "In Shogun-like stories, daimyo politics often appears as personal loyalty, family bargaining, and tense movement between domains and the center.",
+      "lastReviewedAt": "2026-06-27",
+      "accuracyNote": "Sankin-kotai was not simple imprisonment. It was a regulated political system using residence, family presence, cost, and ritual movement to control daimyo power.",
+      "whyInteresting": "Daimyo processions were political theater on the road: expensive displays of status that also drained resources and affirmed Tokugawa authority.",
+      "misconception": "Alternate attendance is often seen only as hostage taking; it also shaped roads, inns, service economies, and cultural exchange.",
+      "mediaConnection": "This card connects Shogun’s hostage and loyalty politics to the Tokugawa system of alternate attendance."
+    },
+    {
+      "id": "mafia-five-families",
+      "title": "The Five Families: New York’s Hidden Power Map",
+      "subtitle": "How organized crime became structured like a system.",
+      "mediaType": "game",
+      "mediaTitle": "Mafia",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Crime",
+        "New York",
+        "Modern History"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "crime",
+        "new-york",
+        "modern-history",
+        "mafia"
+      ],
+      "quickRealityCheck": "Were the Five Families only blood loyalty, or a criminal structure built to manage territory, money, and violence?",
+      "mediaChanged": "Mafia media romanticizes loyalty and family dinners; historically, the Five Families were also a system for managing markets, violence, and law-enforcement risk.",
+      "realHistory": "The Five Families were not simply five groups of men with shared last names. They became a structure for dividing territory, rackets, authority, and conflict inside New York organized crime. After the violent gang struggles of the early 20th century, figures such as Lucky Luciano helped reshape the American Mafia into a more coordinated system. The Commission model created a way to negotiate disputes and reduce the kind of open warfare that attracted too much law-enforcement pressure.\n\nThis organization did not make the Mafia peaceful. It made crime more administrative. Gambling, loan-sharking, labor racketeering, extortion, narcotics, and control of certain unions or businesses could all be managed through hierarchy, reputation, and the threat of violence. Family identity mattered, but so did money flows, political protection, and the ability to keep conflict disciplined.\n\nThe 1957 Apalachin meeting was a turning point for public recognition. Law enforcement could no longer easily dismiss the existence of a nationwide organized-crime network. Mafia media often turns the Five Families into a myth of honor and loyalty. The historical reality is colder: they were a durable criminal governance structure built to manage profits, violence, and risk.",
+      "whyItMatters": "The Five Families show how organized crime can resemble governance: rules, hierarchy, arbitration, punishment, and revenue streams.",
+      "sources": [
+        {
+          "title": "Mafia Takedown: New York’s Five Families (FBI)",
+          "url": "https://www.fbi.gov/news/stories/mafia_012011/mafia-takedown",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "A 1957 Meeting Forced the FBI to Recognize the Mafia (Smithsonian Magazine)",
+          "url": "https://www.smithsonianmag.com/history/1957-meeting-forced-fbi-recognize-mafiaand-changed-justice-system-forever-180967204/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Lucky Luciano (The Mob Museum)",
+          "url": "https://themobmuseum.org/notable_names/lucky-luciano/",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "mafia-prohibition",
+        "mafia-immigration-crime",
+        "mafia-prohibition-economics"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Mafia films often show New York crime through family dinners, backroom meetings, loyalty rituals, and sudden violence.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "The Five Families were real organized-crime groups, but media often overstates honor and tradition while underplaying bureaucracy, rackets, and business logic.",
+      "whyInteresting": "Apalachin forced federal authorities to take the national structure of organized crime far more seriously.",
+      "misconception": "The Mafia is often imagined as purely family loyalty. In practice, territory, rackets, money, and violence management were just as important.",
+      "mediaConnection": "This card connects Mafia stories to the real structure of New York’s Five Families and the modernization of organized crime."
+    },
+    {
+      "id": "ac-templar-fall",
+      "title": "The Knights Templar: From Power to Execution",
+      "subtitle": "How a crusading order became a financial and political target.",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Middle Ages",
+        "Religion",
+        "Economy"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "assassins-creed",
+        "templars",
+        "middle-ages",
+        "crusades"
+      ],
+      "quickRealityCheck": "Did the Templars fall because of a secret world conspiracy, or because their wealth and privileges became politically dangerous?",
+      "mediaChanged": "The games turn the Templars into a timeless conspiracy; history shows a crusading order whose wealth and privileges made it vulnerable to royal power.",
+      "realHistory": "The historical Knights Templar began as a religious military order created to protect pilgrims and support the Crusader presence in the eastern Mediterranean. Over time, they became more than fighters. Donations, estates, privileges, and their presence across Europe gave the order wealth and influence. They developed financial services linked to travel, deposits, and transfers, which made them useful and powerful in ways that went beyond the battlefield.\n\nThat power also made them vulnerable. By the early 14th century, the Crusader presence in the East had collapsed, and the order’s original military purpose looked less clear. King Philip IV of France, heavily indebted and politically ambitious, moved against the Templars in 1307. Under arrest, pressure, and torture, many confessed to charges that modern historians treat with great caution. Pope Clement V dissolved the order in 1312, and Jacques de Molay was executed in 1314.\n\nThe Templars did not fall because they were secretly controlling the world. They fell because a wealthy, privileged religious order became politically exposed at a moment when kings were strengthening state power. Assassin’s Creed builds a compelling myth from their name; the real story is about crusading, finance, monarchy, and the danger of being useful until you become inconvenient.",
+      "whyItMatters": "The fall of the Templars shows how religious prestige, military purpose, finance, and monarchy could collide in medieval Europe.",
+      "sources": [
+        {
+          "title": "Templars (Britannica)",
+          "url": "https://www.britannica.com/topic/Templars",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Templars at the Tower (Historic Royal Palaces)",
+          "url": "https://www.hrp.org.uk/blog/templars-at-the-tower/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "The Knights Templars: The First City Bankers? (Inner Temple)",
+          "url": "https://publications.innertemple.org.uk/yearbook/articles/%25yearbook%25/the-knights-templars-the-first-city-bankers/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ac-assassin-order-real",
+        "ac-crusader-urban-life"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Assassin's Creed turns the Templars into a long-running secret order built around control, conspiracy, and hidden power.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "The Templars were real and wealthy, but the grand secret-world-control narrative is fiction. Their fall was tied to debt, royal power, papal pressure, and coerced confessions.",
+      "whyInteresting": "Their financial role made the Templars trusted by travelers and rulers, but the same wealth made them politically vulnerable.",
+      "misconception": "The Templars are often imagined as a hidden order that survived unchanged in secret. Historically, the order was officially dissolved after a political and legal assault.",
+      "mediaConnection": "This card separates Assassin’s Creed’s Templar myth from the real rise and fall of the medieval order."
+    }
+  ]
+}

@@ -1,0 +1,1449 @@
+{
+  "meta": {
+    "purpose": "English-native adaptation batch",
+    "sourceChunk": "source-chunk-020.json",
+    "batchNumber": 20,
+    "cardCount": 20,
+    "sourceCardRange": "TR order cards 381-400",
+    "alreadyAuthoredCountBeforeBatch": 380,
+    "authoredCountAfterBatch": 400,
+    "remainingCountAfterBatch": 51,
+    "ids": [
+      "tf26-214-frostpunk-year-without-summer",
+      "tf26-215-frostpunk-emergency-governance",
+      "tf26-216-hellblade-psychosis",
+      "tf26-217-hellblade-picts-norse",
+      "tf26-218-pentiment-peasants-war",
+      "tf26-219-pentiment-reformation",
+      "tf26-220-ck3-dynastic-marriage",
+      "tf26-221-eu4-mercantilism-colonialism",
+      "tf26-222-victoria3-industrial-labor",
+      "tf26-223-hoi4-war-economy",
+      "tf26-224-fallout-civil-defense",
+      "tf26-225-fallout-atomic-optimism",
+      "tf26-226-fallout-vault-experiments",
+      "tf26-227-cyberpunk-surveillance-capitalism",
+      "tf26-228-cyberpunk-corporate-sovereignty",
+      "tf26-229-deathstranding-logistics",
+      "tf26-230-mgs-nuclear-deterrence",
+      "tf26-231-mgs-private-military-companies",
+      "tf26-232-specops-moral-injury",
+      "tf26-233-specops-dubai-labor"
+    ],
+    "notes": "Adapted from Turkish canonical cards. Source URLs, IDs, relatedCardIds, enums, flags and non-localized metadata are preserved from TR; localized text fields are English-native adaptations."
+  },
+  "cards": [
+    {
+      "id": "tf26-214-frostpunk-year-without-summer",
+      "title": "The Year Without a Summer",
+      "subtitle": "When Tambora erupted, the world cooled",
+      "mediaType": "game",
+      "mediaTitle": "Frostpunk",
+      "era": "Modern History",
+      "region": "Global",
+      "themes": [
+        "Disaster",
+        "Environment",
+        "Society",
+        "Science"
+      ],
+      "whatWeSee": "Frostpunk turns the world into a survival order trapped in lasting cold. The player builds society around a generator, where coal, food, shelter and law all become part of the same crisis table. The setting is fictional and steampunk, but the question is historical: how quickly can a sudden climate shock break food systems and political judgment?",
+      "realHistory": "### The eruption\n\nFrostpunk's permanent freeze is not a direct reconstruction of one historical event, but the 1815 eruption of Mount Tambora offers a powerful real comparison. Tambora, in what is now Indonesia, erupted with extraordinary force in April 1815. The local destruction was catastrophic: settlements were devastated, ash covered nearby islands, and hunger followed the eruption. The disaster did not stay local. Volcanic particles and sulfate aerosols reached the atmosphere and reduced sunlight, helping produce abnormal cold, darkness and heavy rain in parts of Europe and North America in 1816. That year became known as the Year Without a Summer.\n\nScientific summaries from institutions such as UCAR and NOAA connect the eruption to crop failures, summer frosts and unusual weather far from the volcano. For people living through it, the experience was not an abstract climate graph. It meant failed harvests, damaged seed supplies, hungry animals, higher food prices and a sky that seemed to have lost its normal rhythm. Modern climate science can explain the chain from volcano to atmosphere to agriculture. Many people in 1816 could only experience it as a frightening break in the seasons.\n\n### Food, migration and fear\n\nA climate shock is never only weather. When crops fail, bread prices rise, debt becomes harder to carry, rumors spread and people begin to move. That is why Frostpunk's city-management mechanics feel historically familiar. Heat, food, labor and order are not separate systems in a crisis; they tighten around the same population. In 1816, the cold mattered because it damaged the farming calendar and turned climate anomaly into social pressure.\n\nThe Year Without a Summer also shows how uneven disasters can be. Some regions suffered deep crop losses, while others felt milder effects. Some families migrated, others relied on local relief, and others faced disease, hunger or debt. This unevenness matters because it prevents a simple apocalypse story. Tambora did not freeze the entire planet into Frostpunk, but it did reveal how far a local geological event could travel through atmosphere, agriculture and markets.\n\n### Frostpunk's real question\n\nFrostpunk uses fiction to compress that lesson into one city. Around the generator, the player must decide who works longer, who receives heat first, who gets food, and which rights can be suspended in the name of survival. That is where the game becomes historically sharp. A shortage is never only a technical problem; it is also a political problem. Scarcity forces questions of distribution, authority and sacrifice.\n\nThe historical Year Without a Summer reminds us that even temporary climate shocks can become food crises, migration pressures and legitimacy tests. The game's frozen world is extreme, but its underlying logic is real. When environment, supply and governance fail together, society does not only ask how to stay warm. It asks who counts, who decides, and how much hardship can be justified as emergency policy.",
+      "accuracyNote": "Frostpunk does not directly depict Tambora or 1816. The Year Without a Summer is a strong historical comparison for sudden climate shock, crop failure, hunger and emergency governance.",
+      "whyInteresting": "A volcanic eruption turning into bread prices, migration and political stress on distant continents makes climate history feel unexpectedly close to game systems.",
+      "misconception": "Climate disaster is often treated as just weather. Its real impact usually appears through food, prices, migration and political decisions.",
+      "nextTopics": [
+        "Emergency Rule",
+        "Border Bureaucracy",
+        "Civilian Survival"
+      ],
+      "sources": [
+        {
+          "title": "UCAR Center for Science Education - Mount Tambora and the Year Without a Summer",
+          "url": "https://scied.ucar.edu/learning-zone/how-climate-works/mount-tambora-and-year-without-summer",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Smithsonian Magazine - Blast from the Past",
+          "url": "https://www.smithsonianmag.com/history/blast-from-the-past-65102374/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "NOAA Repository - Early American sunspot drawings from the Year Without a Summer",
+          "url": "https://repository.library.noaa.gov/view/noaa/45591",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-215-frostpunk-emergency-governance"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Frostpunk's frozen city crisis can be read alongside the 1816 Year Without a Summer after Tambora, when climate disruption affected agriculture and society far from the eruption.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "frostpunk",
+        "tambora",
+        "year-without-a-summer",
+        "climate",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game turns global cooling into a permanent, fictional survival order; Tambora shows that even shorter climate shocks can trigger food and governance crises.",
+      "whyItMatters": "Climate crises are not only environmental stories. They directly shape food systems, migration, justice and authority.",
+      "isFlagship": true,
+      "quickRealityCheck": "When a climate shock begins, is the largest danger the cold itself, or the failure of food and governance systems?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-215-frostpunk-emergency-governance",
+      "title": "Emergency Rule",
+      "subtitle": "Who gets to decide in a survival crisis?",
+      "mediaType": "game",
+      "mediaTitle": "Frostpunk",
+      "era": "Modern History",
+      "region": "North America",
+      "themes": [
+        "State",
+        "Class",
+        "Economy",
+        "Industry"
+      ],
+      "whatWeSee": "In Frostpunk, the player does not simply collect resources. You pass laws, extend working hours, decide whether children should work, and manage hope as a political resource. As survival pressure grows, the language of government becomes harsher. The game shows how measures introduced as temporary necessity can become a lasting social order.",
+      "realHistory": "Frostpunk's world is fictional, but it connects strongly to the history of industrial company towns and crisis management. Pullman, built south of Chicago in the 1880s, was one of the most famous American examples. The Pullman Palace Car Company placed factory work, worker housing and everyday community life within the same planned environment. From the outside it looked orderly, clean and modern. From the inside, housing, rent, work discipline and social control were tied to the same corporate power.\n\nIn paternalist systems like this, the employer is not only the person who pays wages. The company can influence the home, the store, the street, local rules and the worker's sense of dependency. When economic pressure arrives, that dependency becomes more visible. At Pullman, wage cuts, rent pressure and the wider depression of the 1890s helped produce one of the major labor conflicts of the period.\n\nFrostpunk's law book is therefore more than a game mechanic. Child labor, extended shifts, ration rules and discipline have real historical echoes in industrialization, company towns and emergency governance. Survival can justify stronger authority, but every justification raises the same question: who pays the cost?\n\nThe game's harshness feels credible because crisis management is never only resource accounting. It is also the distribution of power. A policy that keeps the generator running may also decide whose body, time and rights become expendable.",
+      "accuracyNote": "Frostpunk does not directly depict Pullman or any single company town. It echoes historical themes of paternalist control, industrial dependency and rights narrowed under emergency pressure.",
+      "whyInteresting": "A system that provides order in a crisis can also become a power that controls nearly every detail of life.",
+      "misconception": "Emergency decisions are often treated as purely technical resource management. They frequently reshape class, labor and authority.",
+      "nextTopics": [
+        "The Year Without a Summer",
+        "Industrial Labor",
+        "Corporate Sovereignty"
+      ],
+      "sources": [
+        {
+          "title": "National Park Service - A Brief Overview of the Pullman Story",
+          "url": "https://www.nps.gov/pull/learn/historyculture/a-brief-overview-of-the-pullman-story.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Library of Congress - Pullman Porters: Topics in Chronicling America",
+          "url": "https://guides.loc.gov/chronicling-america-pullman-porters",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Company town",
+          "url": "https://www.britannica.com/topic/company-town",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-214-frostpunk-year-without-summer"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Frostpunk's laws and labor decisions can be read alongside company towns and paternalist industrial systems.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "frostpunk",
+        "company-town",
+        "emergency-rule",
+        "labor",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game concentrates crisis in one city; company-town history shows how housing, work and daily life could be tied to one institutional power.",
+      "whyItMatters": "Crisis management cannot be understood without asking who receives authority and whose rights are narrowed in the name of survival.",
+      "isFlagship": false,
+      "quickRealityCheck": "Are Frostpunk's harsh laws just resource management, or a form of social control legitimized by crisis?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-216-hellblade-psychosis",
+      "title": "Representing Psychosis",
+      "subtitle": "Are the voices in the game just a medical cliche?",
+      "mediaType": "game",
+      "mediaTitle": "Hellblade: Senua's Sacrifice",
+      "era": "Modern History",
+      "region": "United Kingdom",
+      "themes": [
+        "Psychology",
+        "Science",
+        "Health",
+        "Society"
+      ],
+      "whatWeSee": "Hellblade: Senua's Sacrifice builds Senua's journey not only through monsters and mythic darkness, but through voices, visual disturbances and unstable reality. The player often feels trapped less in a battlefield than inside Senua's experience of the world. The game tries to treat psychosis not as a simple horror effect, but as a fragmented, exhausting and sometimes meaning-making experience.",
+      "realHistory": "### A representation built with consultation\n\nWhat separates Hellblade from many dark fantasy games is that psychosis is not used only as atmosphere. Ninja Theory worked with psychiatrist and neuroscientist Paul Fletcher at the University of Cambridge, and the development process also included feedback from people with lived experience of psychosis. Cambridge's impact account links Fletcher's work on altered information processing to the game's design, while OKRE describes the project as one developed with mental health expertise and lived-experience input.\n\nThat matters because games and films have often reduced mental illness to a few harmful roles: the dangerous mad person, the unreliable narrator, or the source of fear. Hellblade is still stylized and dramatic; it is not a clinical simulation. But its basic difference is ethical. Psychosis is not treated as a monster type. It is part of how Senua interprets, fears, questions and survives her world.\n\n### Experience rather than label\n\nPsychosis is not a single symptom. It can involve voices, visions, delusional beliefs, intense meaning-making, altered reality testing and experiences that vary widely from person to person. Hellblade's strongest choice is that it does not reduce Senua to a diagnosis label. It tries to make the player move through uncertainty, pressure and contradictory internal voices.\n\nThis does not make the game universally accurate. No game can represent every form of psychosis, and Senua's experience is shaped by fantasy, trauma and myth. The point is not documentary precision; it is responsible translation. Hellblade asks what it means to design sound, space, puzzle logic and combat around a character's perception rather than around an outsider's stereotype of madness.\n\n### Breaking the stigma\n\nPublic stigma around psychosis remains strong. Popular culture often frames it through violence, loss of control or frightening otherness. Hellblade changes the player's position. Instead of watching a person with psychosis from the outside, the player must inhabit some of the perceptual pressure surrounding Senua. Headphones make this especially clear: the voices have location, nearness, contradiction and rhythm. The player does not simply read that Senua hears voices; they must play inside a designed approximation of that pressure.\n\nThat does not guarantee empathy, but it changes the form of attention. Psychosis becomes a human experience to be interpreted, not just a sign of danger. That is why Hellblade matters beyond game design. It sits at the intersection of medicine, representation and stigma. Its central lesson is simple but important: psychosis is not a horror decoration. It is something people live with, and serious media should treat it with care.",
+      "accuracyNote": "The game is not a patient record or clinical simulation. It is a dramatic representation inspired by psychosis and developed with expert and lived-experience consultation.",
+      "whyInteresting": "A commercial action game taking mental health representation seriously through research and consultation is a major example in game culture.",
+      "misconception": "Hellblade can be mistaken for using psychosis as a scary madness effect. Its development process was much more deliberate and consultative.",
+      "nextTopics": [
+        "Picts and Norse Worlds",
+        "War Trauma",
+        "Surveillance State"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-217-hellblade-picts-norse",
+        "tf26-232-specops-moral-injury"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "spoilerLevel": "minor",
+      "spoilerNote": "Contains mild hints about Hellblade's atmosphere and character experience; does not reveal the ending.",
+      "mediaConnection": "Hellblade uses Senua's voices and unstable perception as part of psychosis representation; the real-world context is the game's expert consultation and its relationship to mental health stigma.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "hellblade",
+        "psychosis",
+        "mental-health",
+        "games-and-science",
+        "true-frame"
+      ],
+      "mediaChanged": "The game turns psychosis into a sensory journey through fantasy and myth; the real frame is how that representation was shaped by clinical advice and lived experience.",
+      "whyItMatters": "Mental health representation affects how people imagine illness. Hellblade is therefore not just a game, but a case in representation ethics.",
+      "isFlagship": true,
+      "quickRealityCheck": "Does Hellblade use psychosis as a horror effect, or build a representation informed by real experiences and expert consultation?",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "University of Cambridge Impact Map - Hellblade: authentic representations of psychosis in gaming",
+          "url": "https://impactmap.cam.ac.uk/authentic-representations-of-psychosis-in-gaming/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "OKRE - Hellblade: Senua's Sacrifice",
+          "url": "https://okre.org/articles/hellblade-senuas-sacrifice/",
+          "type": "organization",
+          "verified": true
+        },
+        {
+          "title": "NIH/PMC - Framing Mental Health Within Digital Games",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6495293/",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-217-hellblade-picts-norse",
+      "title": "Picts and Norse Worlds",
+      "subtitle": "Mythology and archaeology are not the same thing",
+      "mediaType": "game",
+      "mediaTitle": "Hellblade: Senua's Sacrifice",
+      "era": "Middle Ages",
+      "region": "Northern Europe",
+      "themes": [
+        "Vikings",
+        "Mythology",
+        "Archaeology",
+        "Culture"
+      ],
+      "whatWeSee": "Hellblade presents Senua as a Pictish warrior and sends her into a dark world shaped by Norse mythology. Hel, runic signs, northern warriors and coastal landscapes blend together. The result is a powerful atmosphere, but historically the Picts, Norse communities and Norse mythology are not one single cultural package.",
+      "realHistory": "Early medieval northern Britain is best understood as a contact zone, not a clean cultural map. The Picts lived in northern and eastern parts of what is now Scotland. Much of what we know comes from external texts, carved stones, archaeological evidence and place names. Norse influence in Orkney and the northern islands became especially visible later, during the Viking Age. Historic Environment Scotland notes that at the Brough of Birsay, Pictish traces from the seventh and eighth centuries were followed by Norse settlement remains from the ninth to eleventh centuries. That kind of layering shows why the region should not be reduced to either Pict or Viking.\n\nHellblade does not try to teach Orkney archaeology directly. Its purpose is to turn Senua's grief and fear into a mythic journey through a Norse death-world. Still, the game works because it touches a real historical tension. Coastal societies in northern Europe were transformed by raiding, trade, settlement, storytelling and conversion. Pictish material culture and Norse settlement can exist in the same wider region while still belonging to distinct historical layers.\n\nThe mistake is to treat Senua's Helheim journey as a direct mirror of Pictish life. A better reading is that Hellblade draws from real early medieval contact zones and turns them into a psychological and mythological landscape. Archaeology gives us houses, stones, metalwork and settlement layers. The game uses those layers to build a language of loss, fear and identity.",
+      "accuracyNote": "Senua is fictional. The game blends Pictish and Norse elements for atmosphere, while archaeology shows a real but complex contact zone in northern Scotland and Orkney.",
+      "whyInteresting": "Hellblade is strongest when it becomes not a generic Viking fantasy, but a mixture of identity, contact and myth.",
+      "misconception": "The Picts, Norse communities and Norse mythology can be mistaken for one historical culture. They are connected layers, but they need to be separated.",
+      "nextTopics": [
+        "Representing Psychosis",
+        "Viking Settlement",
+        "Archaeology and Myth"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-216-hellblade-psychosis"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "minor",
+      "spoilerNote": "Contains mild hints about Hellblade's worldbuilding and mythology; does not reveal the ending.",
+      "mediaConnection": "Hellblade's blend of a Pictish protagonist and Norse death mythology can be read alongside early medieval cultural contact in northern Britain.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "hellblade",
+        "picts",
+        "vikings",
+        "orkney",
+        "true-frame"
+      ],
+      "mediaChanged": "The game turns historical layers into a psychological and mythological journey; archaeology shows how Pictish and Norse traces were layered across time and place.",
+      "whyItMatters": "It is easy to flatten historical identities into one fantasy style. With context, Hellblade's mixture becomes richer rather than simply inaccurate.",
+      "isFlagship": false,
+      "quickRealityCheck": "Is the Norse mythology in Hellblade direct Pictish history, or a story inspired by northern British contact zones?",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "Historic Environment Scotland - Brough of Birsay: History",
+          "url": "https://www.historicenvironment.scot/visit-a-place/places/brough-of-birsay/history/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Historic Environment Scotland - Brough of Birsay: History and stories",
+          "url": "https://www.historicenvironment.scot/visit/all/brough-of-birsay/history-and-stories/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "National Museums Scotland - Pictish sculptured stone",
+          "url": "https://www.nms.ac.uk/explore-our-collections/collection-search-results/sculptured-stone/167245",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-218-pentiment-peasants-war",
+      "title": "The German Peasants' War",
+      "subtitle": "When reform language became peasant anger",
+      "mediaType": "game",
+      "mediaTitle": "Pentiment",
+      "era": "Early Modern",
+      "region": "Germany",
+      "themes": [
+        "Class",
+        "Religion",
+        "Reformation",
+        "Rebellion"
+      ],
+      "whatWeSee": "Pentiment focuses on a village and monastery far from the grand center of history. Gossip, tax pressure, clerical authority, manual labor and class distance sit side by side. Andreas's world can look small, but behind it is one of early sixteenth-century Europe's great fractures: a moment when peasants began to speak in the language of both God and justice.",
+      "realHistory": "### A large crisis at village scale\n\nThe German Peasants' War erupted across large parts of the Holy Roman Empire in 1524-1525. Oxford's History Faculty describes it as the largest rising in western Europe before the French Revolution. It was not simply an outburst by angry farmers. Miners, townspeople, radical preachers and local communities entered the movement in different ways. Pentiment's small settlement therefore matters. Large rebellions often first appear in village courts, monastery debts, forest-right disputes and arguments over who must obey whom.\n\nPeasant grievances were both economic and religious. Labor services, feudal dues, restrictions on hunting and forest use, local lordship courts and church income shaped everyday life. At the same time, Reformation language placed new words in circulation: return to scripture, criticism of clerical authority and Christian freedom. Peasants did not always use these ideas in the way Luther wanted, but the ideas gave social demands a new moral vocabulary. The Twelve Articles of 1525 became the most famous statement of those grievances.\n\n### Reformation and class anger\n\nPentiment's power comes from treating the Reformation not just as printing and theology, but as a local struggle over power. A monastery's landholding, a peasant's obligation or a craft worker's reputation was not separate from religious debate. In the early modern world, religion was a language for social order. When peasants argued for justice, they could do so through scripture as well as through material hardship.\n\nThat combination quickly became dangerous. Princes and local lords saw the uprising as a threat to order. Luther, despite his earlier challenge to church authority, fiercely condemned the rebellion. The repression was brutal. Thousands were killed, and in many regions older hierarchies were restored or strengthened.\n\n### A defeated revolt with a long memory\n\nThe German Peasants' War failed politically, but it did not disappear from memory. Radical reformers, class historians and modern labor movements later remembered it in different ways. It should not be reduced to a failed riot. It reveals how language about rights, community, labor and authority was changing in early modern Europe.\n\nPentiment does not turn the war into a battlefield spectacle. It does something more interesting: it lets the player feel the social pressure before the explosion. The village's small debts, resentments and silences are the everyday face of a much larger crisis. That is the real historical connection. The question is not only what peasants did in 1525. It is when people stop treating injustice as fate and begin to frame it as a political claim.",
+      "accuracyNote": "Pentiment does not recreate one real village. It builds a historically plausible atmosphere from Reformation-era Bavaria, monastic economy, class tension and peasant demands.",
+      "whyInteresting": "The game's village drama works because it captures the everyday pressure behind one of Europe's largest pre-modern uprisings.",
+      "misconception": "The Reformation is often treated only as theology and print culture. In 1525, those ideas became entangled with tax, labor and class anger.",
+      "nextTopics": [
+        "Reformation and Indulgences",
+        "Dynastic Marriage",
+        "Print and Authority"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-219-pentiment-reformation",
+        "tf26-220-ck3-dynastic-marriage"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "spoilerLevel": "minor",
+      "spoilerNote": "Contains hints about Pentiment's historical atmosphere; does not reveal the ending.",
+      "mediaConnection": "Pentiment's village, monastery and class tensions connect to the social background of the 1524-1525 German Peasants' War.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "pentiment",
+        "german-peasants-war",
+        "reformation",
+        "class",
+        "true-frame"
+      ],
+      "mediaChanged": "The game does not stage the great uprising as a war sequence; it shows the local social pressure that made the period fragile.",
+      "whyItMatters": "Social crises often appear in everyday injustice before they appear as grand ideology. Pentiment makes that threshold historically readable.",
+      "isFlagship": true,
+      "quickRealityCheck": "Is Pentiment's village tension only fiction, or does it speak to the real social pressure behind the 1525 German Peasants' War?",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "University of Oxford Faculty of History - The German Peasants' War, 1524–1525",
+          "url": "https://www.history.ox.ac.uk/article/the-german-peasants-war-15241525",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "University of Oregon Reformations Reader - Documents on the Peasants War 1524-1526",
+          "url": "https://pages.uoregon.edu/dluebke/Reformations441/Bauernkrieg.html",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Reformation",
+          "url": "https://www.britannica.com/event/Reformation",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-219-pentiment-reformation",
+      "title": "Reformation and Indulgences",
+      "subtitle": "When printed ideas shook church authority",
+      "mediaType": "game",
+      "mediaTitle": "Pentiment",
+      "era": "Early Modern",
+      "region": "Germany",
+      "themes": [
+        "Religion",
+        "Reformation",
+        "Printing",
+        "Politics"
+      ],
+      "whatWeSee": "In Pentiment, manuscripts, books, monastery order and the circulation of new ideas create a quiet but constant tension. The world still belongs to old authority, but words are no longer as easy to control. Behind that atmosphere is the Reformation and the dispute over indulgences.",
+      "realHistory": "Martin Luther's Ninety-Five Theses of 1517 opened a major dispute over indulgences and church authority. The Library of Congress presents the text as one of the central documents of the early Reformation, while the National Library of Scotland connects it to concern over corruption and the sale of indulgences. It is too simple to say that indulgences merely \"sold forgiveness.\" The real theology involved penance, punishment, purgatory and ecclesiastical authority. Still, in practice, money, salvation and institutional power became tangled in ways that provoked enormous resistance.\n\nPentiment does not tell Luther's biography. Instead, it builds a world in which texts, readers and interpreters matter. Who can read? Who can copy? Who is allowed to explain scripture? Who benefits from a monastery's authority over books and land? These questions are not background decoration. They are the social texture of the Reformation.\n\nPrinting was not just a technology. It accelerated disputes by multiplying texts and moving local arguments into regional controversy. The Reformation also affected church property, education, local government, language and political loyalty. That is why Pentiment's manuscript and monastery setting is historically powerful. While telling a local mystery, it shows a world in which the monopoly over religious knowledge is beginning to crack.",
+      "accuracyNote": "Pentiment does not retell Reformation history directly. It creates a plausible early sixteenth-century atmosphere where indulgences, print, monastic culture and religious authority intersect.",
+      "whyInteresting": "A book or pamphlet can become more than an idea. It can change who has the right to interpret authority.",
+      "misconception": "The Reformation is often reduced to Luther alone challenging the church. Indulgences, print culture and local power relations all mattered.",
+      "nextTopics": [
+        "The German Peasants' War",
+        "Print and Authority",
+        "Monastic Economy"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-218-pentiment-peasants-war"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "spoilerNote": "",
+      "mediaConnection": "Pentiment's world of manuscripts, books and monasteries connects to the information crisis unleashed by Luther's critique of indulgences.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "pentiment",
+        "reformation",
+        "indulgences",
+        "printing",
+        "true-frame"
+      ],
+      "mediaChanged": "The game does not teach theology directly; it makes reform visible as a local struggle over literacy, knowledge and authority.",
+      "whyItMatters": "When information tools change, institutions do not simply debate new ideas; they lose control over legitimacy.",
+      "isFlagship": false,
+      "quickRealityCheck": "Why do books and monasteries matter so much in Pentiment? Because the Reformation was also a crisis of who controlled knowledge.",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "Library of Congress - Ninety-Five Theses",
+          "url": "https://www.loc.gov/item/2021667736/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "National Library of Scotland - How Martin Luther sparked the reformation",
+          "url": "https://www.nls.uk/collections/stories/scottish-history/how-martin-luther-sparked-the-reformation/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "UNESCO - Luther Memorials in Eisleben and Wittenberg",
+          "url": "https://whc.unesco.org/en/list/783/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-220-ck3-dynastic-marriage",
+      "title": "Dynastic Marriage",
+      "subtitle": "Sometimes politics is made by marriage, not war",
+      "mediaType": "game",
+      "mediaTitle": "Crusader Kings III",
+      "era": "Middle Ages",
+      "region": "Europe",
+      "themes": [
+        "Dynasty",
+        "Politics",
+        "Law",
+        "Kingship"
+      ],
+      "whatWeSee": "Crusader Kings III moves its map not only with armies, but with marriages, inheritance claims, children, titles and scandals. One marriage can produce an alliance, one heir can become a future civil war, and one family link can become a claim to an entire kingdom. The game's entertaining family simulation rests on a real logic of medieval and early modern politics: dynasty could be the infrastructure of the state.",
+      "realHistory": "### Family as political infrastructure\n\nModern politics often separates the state from the family. Dynastic politics did not work that way. Kingdoms, duchies and imperial claims could be built through bloodline, marriage, legitimate birth and inheritance. Marriage was therefore not merely private life; it was diplomacy. Crusader Kings III turns that fact into a system. A useful marriage can secure a frontier, a bad marriage can invite a succession crisis, and childlessness can destroy an entire strategy.\n\nThe Habsburgs are one of the most famous examples. Museum and academic accounts of Habsburg history emphasize that the dynasty rose through conquest, alliance and carefully chosen marriages. Studies of Maximilian I show that his marriages to Mary of Burgundy and Bianca Maria Sforza were not simple romantic stories, but projects tied to territory, money, prestige and future claims. That confirms CK3's basic instinct: marriage could change the map.\n\n### Legitimacy and inheritance\n\nThe central word in dynastic politics was right. Who had the right to which title? Could a daughter inherit? Did a marriage immediately unite lands, or did it create a claim for the next generation? Local laws, noble assemblies and church approval could answer these questions differently. That is why the game's succession chaos is not just comedy. In reality, a family tree could be as politically powerful as an army.\n\nWomen were not only passive princesses moved on a marriage board. Many were treated as instruments of dynastic strategy, and their bodies and fertility were often made to serve family interest. But queens, duchesses, regents and widows could also exercise political influence through patronage, correspondence, child-rearing, court networks and territorial management. Dynastic marriage both constrained and empowered, depending on place, rank and circumstance.\n\n### What the game exaggerates and gets right\n\nCrusader Kings III accelerates everything. Real negotiations might take months or years; the game resolves them quickly. Real inheritance law varied widely; the game turns it into readable rules. But the core idea is historically strong. Power was produced not only on battlefields, but in wedding negotiations, baptismal legitimacy, wills and kinship networks.\n\nThe fragility of the system mattered as much as its success. A dead heir, a disputed birth, a rival marriage or an unclear succession could lead to decades of war. Dynastic politics was not about family happiness. It was about continuity, recognition and acceptability.\n\nThat is why CK3's family drama is funny on the surface and serious underneath. It represents a world in which love, bodies, children and ancestry could become entries in a political ledger. The discomfort is part of the point.",
+      "accuracyNote": "Crusader Kings III speeds up and systematizes dynastic politics. The importance of marriage, inheritance, legitimacy and kinship networks in medieval and early modern Europe is historically strong.",
+      "whyInteresting": "The game's family tree can look comic, but in historical politics that kind of genealogy could be as powerful as a battle map.",
+      "misconception": "Medieval politics is often imagined as only war and conquest. Dynastic marriage could create land, alliance and legitimacy without a battle.",
+      "nextTopics": [
+        "The German Peasants' War",
+        "Mercantilism and Colonial Trade",
+        "Industrial Labor"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-218-pentiment-peasants-war",
+        "tf26-221-eu4-mercantilism-colonialism"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "spoilerLevel": "none",
+      "spoilerNote": "",
+      "mediaConnection": "Crusader Kings III's marriage, inheritance and dynasty mechanics connect directly to real European systems of claim, legitimacy and succession.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "crusader-kings",
+        "dynasty",
+        "middle-ages",
+        "inheritance-law",
+        "true-frame"
+      ],
+      "mediaChanged": "The game turns dynastic marriage into a fast strategy tool; historically it was slower, negotiated and constrained by local law.",
+      "whyItMatters": "Dynastic politics shows how differently pre-modern societies drew the line between private life and state power.",
+      "isFlagship": true,
+      "quickRealityCheck": "Could the marriages we arrange in CK3 with a few clicks really change the fate of kingdoms?",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "Minneapolis Institute of Art - The Habsburgs: Rarely Seen Masterpieces from Europe’s Greatest Dynasty",
+          "url": "https://new.artsmia.org/press/the-habsburgs-rarely-seen-masterpieces-from-europes-greatest-dynasty-3",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Cambridge University Press - Gendering Late Medieval Habsburg Dynastic Politics",
+          "url": "https://www.cambridge.org/core/journals/austrian-history-yearbook/article/gendering-late-medieval-habsburg-dynastic-politics-maximilian-i-and-his-social-networks/C64B8469A850B84F627981F0E5565705",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "JSTOR - Dynastic Marriage in Sixteenth-Century Habsburg Diplomacy",
+          "url": "https://www.jstor.org/stable/1851170",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-221-eu4-mercantilism-colonialism",
+      "title": "Mercantilism and Colonial Trade",
+      "subtitle": "The real cost behind trade power",
+      "mediaType": "game",
+      "mediaTitle": "Europa Universalis IV",
+      "era": "Early Modern",
+      "region": "Global",
+      "themes": [
+        "Trade",
+        "Economy",
+        "Empire",
+        "Colonialism"
+      ],
+      "whatWeSee": "Europa Universalis IV makes the early modern world readable through trade nodes, colonies, naval protection and state ideas. For the player, overseas trade often becomes a matter of numbers, routes and income. Taking a port or chartering a company looks like a technical move that strengthens an empire. In real history, the same move could mean monopoly, coercion, local production control and company power backed by the state.",
+      "realHistory": "Early modern mercantilism rested on the idea that wealth could be strengthened through state control of trade flows, not simply through open exchange. European powers tried to secure bullion, spices, textiles, tea and other valuable goods by protecting routes, excluding rivals and granting privileges to chartered companies. In that sense, EU4's \"trade power\" is not only an economic modifier. It represents ships, ports, customs, monopoly law and diplomacy.\n\nCompanies such as the Dutch VOC and the English East India Company were not ordinary private firms in the modern sense. Their charters could give them monopoly rights, the ability to build fortified bases, make agreements, use military force and pressure local politics. Sources on colonial collections and East India Company history show that trade monopolies were often built with coercion as well as negotiation.\n\nThe game has to simplify this complexity so that the player can manage an empire. The True Frame point is that a trade route on the map was not just commerce. It was a world economy built through local labor, naval protection, monopoly law and colonial violence. The numbers are clean; the history behind them is not.",
+      "accuracyNote": "The game abstracts trade, colonies and company privileges. Historically, chartered companies, monopoly rights and coercion were central to early modern imperial trade.",
+      "whyInteresting": "A few trade nodes in a strategy game point toward the early laboratories of global capitalism and colonial empire.",
+      "misconception": "Mercantilist trade is often imagined as profitable route selection. It also depended on state power, monopoly law and coercion overseas.",
+      "nextTopics": [
+        "Industrial Labor",
+        "Total War Economy",
+        "Corporate Sovereignty"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-222-victoria3-industrial-labor",
+        "tf26-223-hoi4-war-economy"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "spoilerNote": "",
+      "mediaConnection": "Europa Universalis IV's trade nodes and chartered-company abstractions can be read through the history of the VOC and East India Company.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "europa-universalis",
+        "paradox",
+        "trade",
+        "colonialism",
+        "true-frame"
+      ],
+      "mediaChanged": "The game reduces complex trade and colonial relations to manageable numbers; history reveals the monopoly, violence and company-state power behind those numbers.",
+      "whyItMatters": "Early modern trade should be understood not only as exploration and enrichment, but as law, company power and colonial pressure.",
+      "isFlagship": false,
+      "quickRealityCheck": "Is EU4's trade power just market success, or an abstraction of navy, monopoly and state-backed company power?",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "Rijksmuseum - Trade and collectors",
+          "url": "https://www.rijksmuseum.nl/en/research/our-research/overarching/provenance-research-colonial-collections/trade-and-collectors",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Qatar Digital Library - A Brief History of the English East India Company, 1600–1858",
+          "url": "https://www.qdl.qa/en/brief-history-english-east-india-company-1600%E2%80%931858",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Canon van Nederland - VOC and WIC",
+          "url": "https://www.canonvannederland.nl/en/vocenwic",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-222-victoria3-industrial-labor",
+      "title": "Industrialization and Labor",
+      "subtitle": "Factory life behind the pops",
+      "mediaType": "game",
+      "mediaTitle": "Victoria 3",
+      "era": "Modern History",
+      "region": "Europe",
+      "themes": [
+        "Industrial Revolution",
+        "Class",
+        "Economy",
+        "Society"
+      ],
+      "whatWeSee": "Victoria 3 models the nineteenth century through factories, population groups, wages, living standards and political interest groups. When the player opens a textile mill, production rises, the working class grows, urbanization speeds up and new political demands appear. That is a strong abstraction: history becomes not only a technology tree, but a question of where work happens, who performs it and under what conditions.",
+      "realHistory": "Industrialization increased production, but it also changed the discipline of work. The move from household production and small workshops to factory time meant measured hours, wage dependence, visible child and female labor, rapid urban growth and new class tensions. Victoria 3's \"pops\" system shows this numerically, but real experience was not only higher output or consumption. Long shifts, dangerous machines, unhealthy housing and changing family life were part of the same process.\n\nBritain's 1833 Factory Act was an early legal response. The National Archives and UK Parliament summarize how it limited the working age and hours of children and created factory inspectors to strengthen enforcement. These reforms did not solve industrial labor problems overnight, but they showed that industrial capitalism could no longer be treated as a purely private employer-worker matter.\n\nIn the game, labor can look like one input in a production chain. Historically, labor became the center of debates over political representation, unionization, childhood, education and state intervention. The reform buttons in Victoria 3 compress struggles that unfolded through petitions, reports, inspections, employer resistance and worker pressure.",
+      "accuracyNote": "Victoria 3 abstracts industrialization as an economic and political system. The everyday cost of factory labor, child work and reform politics is necessarily simplified.",
+      "whyInteresting": "The Industrial Revolution produced not only factories, but also the foundations of modern labor law and class politics.",
+      "misconception": "Industrialization is often assumed to have automatically improved life for everyone. In reality, growth, exploitation, reform and bargaining moved together.",
+      "nextTopics": [
+        "Mercantilism and Colonial Trade",
+        "Total War Economy",
+        "Emergency Rule"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-221-eu4-mercantilism-colonialism",
+        "tf26-223-hoi4-war-economy"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "spoilerNote": "",
+      "mediaConnection": "Victoria 3's population, factory and interest-group systems connect directly to nineteenth-century factory labor and early worker-protection laws.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "victoria-3",
+        "paradox",
+        "industrial-revolution",
+        "labor",
+        "true-frame"
+      ],
+      "mediaChanged": "The game shows workers at macro scale as population groups; records show child labor, hours, schooling and inspection at the human level.",
+      "whyItMatters": "Modern economic history is not only about rising output, but about whose time and bodies made that output possible.",
+      "isFlagship": false,
+      "quickRealityCheck": "Building a factory in Victoria 3 means growth. Why did the 1833 Factory Act reveal the human cost behind that growth?",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "The National Archives - 1833 Factory Act",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/1833-factory-act/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "UK Parliament - The 1833 Factory Act",
+          "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "International Labour Organization - Child Labour",
+          "url": "https://www.ilo.org/topics-and-sectors/child-labour",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-223-hoi4-war-economy",
+      "title": "Total War Economy",
+      "subtitle": "War factories can matter as much as the front",
+      "mediaType": "game",
+      "mediaTitle": "Hearts of Iron IV",
+      "era": "Modern History",
+      "region": "Global",
+      "themes": [
+        "World War II",
+        "Economy",
+        "Logistics",
+        "Society"
+      ],
+      "whatWeSee": "In Hearts of Iron IV, war is won not only by front lines, but by factory count, production efficiency, convoys and resource flows. The player changes tank lines, expands aircraft production, trades for resources and adjusts military factories to battlefield needs. The mechanic makes one of the major truths of World War II visible: modern war depends on how quickly an economy can be mobilized.",
+      "realHistory": "World War II was a total mobilization in which states redirected civilian economies toward war production. Factories shifted from consumer goods to weapons, vehicles, ammunition and spare parts. Raw materials were allocated to military priorities, and products such as food, fuel and clothing were rationed. The National Park Service describes how American producers had to redirect materials such as tin, steel, copper and aluminum into military production. British home-front records show women working in munitions, transport, agriculture and other essential roles.\n\nLend-Lease added an international layer to this war economy. The U.S. State Department's historical summary explains that the program was designed to support the fight against Nazi Germany before the United States formally entered the war. That aid was not only tanks and aircraft. It included food, fuel, trucks, raw materials and industrial capacity.\n\nHOI4 reduces this complexity into readable production lines. In reality, every factory decision affected civilian consumption, labor mobility, women's work, alliance logistics, shipping routes and ration books. When production lines broke, the battlefield was not the only place affected. Railways, ports, kitchens and worker neighborhoods all became part of war.",
+      "accuracyNote": "The game simplifies war economy into production lines and resource systems. Historically, rationing, labor transformation, raw material limits and allied aid all belonged to the same system.",
+      "whyInteresting": "Victory at the front was often prepared in the home factory, the ration queue and the convoy crossing the ocean.",
+      "misconception": "World War II is often imagined as won by battlefield maneuvers alone. Modern war linked the whole economy and society to the front.",
+      "nextTopics": [
+        "Industrial Labor",
+        "Civil Defense",
+        "Mutual Destruction"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-221-eu4-mercantilism-colonialism",
+        "tf26-222-victoria3-industrial-labor"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "spoilerNote": "",
+      "mediaConnection": "Hearts of Iron IV's factory and resource systems can be read alongside the civilian-economic transformation of World War II and allied logistics.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "hearts-of-iron",
+        "paradox",
+        "world-war-ii",
+        "war-economy",
+        "true-frame"
+      ],
+      "mediaChanged": "The game represents production with factory icons; historical records show how that production reshaped home life, women's labor, rationing and diplomacy.",
+      "whyItMatters": "Total war makes it difficult to separate military history from economic and social history.",
+      "isFlagship": false,
+      "quickRealityCheck": "Is HOI4's military factory count just game balance, or a shorthand for war swallowing the civilian economy?",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "National Park Service - Restrictions and Rationing on the World War II Home Front",
+          "url": "https://www.nps.gov/articles/000/restrictions-and-rationing-on-the-world-war-ii-home-front.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The National Archives - The Home Front",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/home-front/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "U.S. State Department Office of the Historian - Lend-Lease and Military Aid",
+          "url": "https://history.state.gov/milestones/1937-1945/lend-lease",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-224-fallout-civil-defense",
+      "title": "Civil Defense",
+      "subtitle": "The real Cold War ground beneath the Vault idea",
+      "mediaType": "game",
+      "mediaTitle": "Fallout",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Cold War",
+        "Propaganda",
+        "Society",
+        "Science"
+      ],
+      "whatWeSee": "In Fallout, shelters, Vault-Tec brochures, cheerful mascots and nuclear disaster marketing create a strangely upbeat apocalypse. The game builds this world as satire: even the end of civilization looks like a training film, product catalog and family-safety promise. At first it feels like pure retrofuturist exaggeration, but the Vault idea has roots in real Cold War civil defense culture.",
+      "realHistory": "### Managing fear\n\nAfter 1945, nuclear weapons were not only a military-planning problem. They became part of school, family, municipal and neighborhood life. The U.S. government had to warn the public while also preventing panic. National Archives material on civil defense films notes that President Truman created the Federal Civil Defense Administration in 1950 to educate the public and coordinate preparedness. The result was a large culture of pamphlets, school drills, warning systems, model shelters and films such as Duck and Cover.\n\nThese materials were not simply lies. In some limited scenarios, taking cover, knowing warning signals and storing supplies could reduce harm. But the public message also simplified the scale of nuclear destruction. It framed survival as a matter of preparedness, discipline and family responsibility, even when thermonuclear war could overwhelm any local plan. Fallout's dark comedy grows from that tension. The game turns official reassurance into consumer satire.\n\n### The shelter as promise\n\nFallout's Vaults exaggerate the real shelter boom. During the Cold War, some Americans built or planned fallout shelters at home, while public shelter programs marked basements and civic buildings as protected spaces. National Park Service civil defense accounts show how preparedness entered schools, communities and architecture. The shelter became both a practical object and a psychological promise: if you followed instructions, the future might still be manageable.\n\nThat promise was fragile. Shelters raised questions of access, class, space, race, disability and geography. Who had a basement? Who could afford supplies? Who would be admitted to a public shelter first? Civil defense could present itself as universal, but survival infrastructure was uneven.\n\n### Fallout's satire\n\nFallout pushes civil defense into grotesque corporate fiction. Vault-Tec does not only promise safety; it sells, brands and manipulates that promise. That is not a literal description of the U.S. civil defense state, but it captures a real contradiction. Cold War preparedness often turned existential fear into checklists, mascots, drills and consumer-friendly images.\n\nThe game is strongest when its satire is read through that history. The cheerful graphics are funny because they echo real optimistic public messaging around a terrifying threat. Civil defense tried to make nuclear war administratively imaginable. Fallout asks what happens when that reassurance becomes a product, and when survival is marketed more confidently than it can be delivered.\n\n### Why it still matters\n\nCivil defense culture shows how governments translate extreme danger into everyday behavior. That translation can save lives in some disasters, but it can also shrink political questions into household responsibility. Nuclear war was not only a family preparedness problem. It was a question of strategy, diplomacy, arms control and global survival.\n\nFallout's Vaults are fictional, but the emotional foundation is real. People were taught to imagine the unthinkable through school films, shelter signs and instructions. The game's retrofuturism is therefore not just aesthetic nostalgia. It is a critique of how nuclear fear was packaged into normal life.",
+      "accuracyNote": "Fallout's Vaults are fictional and satirical. Real civil defense involved shelters, drills, public films and preparedness messaging, but not Vault-Tec-style corporate experiments.",
+      "whyInteresting": "Fallout's joke works because the cheerful language around impossible disaster has real Cold War roots.",
+      "misconception": "Cold War civil defense is often mocked as pure nonsense. In reality it mixed limited practical advice with unrealistic reassurance and public fear management.",
+      "nextTopics": [
+        "Atomic Age Optimism",
+        "Vault Experiments",
+        "Mutual Destruction"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-225-fallout-atomic-optimism"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "spoilerLevel": "none",
+      "spoilerNote": "",
+      "mediaConnection": "Fallout's Vault-Tec world echoes U.S. civil defense films, shelter programs and Cold War preparedness culture.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "fallout",
+        "civil-defense",
+        "cold-war",
+        "propaganda",
+        "true-frame"
+      ],
+      "mediaChanged": "The game turns civil defense into corporate satire; real history shows how nuclear fear was translated into drills, pamphlets, shelter signs and family responsibility.",
+      "whyItMatters": "Civil defense reveals how states make extreme danger feel manageable, and how that reassurance can hide bigger political questions.",
+      "isFlagship": true,
+      "quickRealityCheck": "Were Fallout's Vaults pure absurdity, or a dark exaggeration of real Cold War shelter culture?",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "U.S. National Archives - Duck and Cover in the Family Fallout Shelter",
+          "url": "https://unwritten-record.blogs.archives.gov/2020/04/23/duck-and-cover-in-the-family-fallout-shelter-civil-defense-preparedness-in-the-cold-war-era/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Library of Congress - Duck and Cover",
+          "url": "https://www.loc.gov/item/2022604365/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "National Park Service - Cold War Civil Defense",
+          "url": "https://www.nps.gov/articles/series.htm?id=E2139F6E-F8A5-F0FF-6251141CDC2FDC83",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-225-fallout-atomic-optimism",
+      "title": "Atomic Age Optimism",
+      "subtitle": "When nuclear power was sold as a bright future",
+      "mediaType": "game",
+      "mediaTitle": "Fallout",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Cold War",
+        "Science",
+        "Culture",
+        "Technology"
+      ],
+      "whatWeSee": "Fallout's world is full of smiling atomic logos, household futurism, clean suburbs and advertisements that treat nuclear technology as both comfort and destiny. The contrast is the joke: everyone sells tomorrow while the audience already knows tomorrow becomes ruin. That exaggerated optimism has a real historical background in the early Cold War.",
+      "realHistory": "After Hiroshima and Nagasaki, nuclear technology carried both terror and promise. The United States tried to separate the peaceful atom from the bomb through public diplomacy and science promotion. Eisenhower's 1953 Atoms for Peace speech became a key moment in that framing. Nuclear energy was presented not only as military power, but as a possible source of electricity, medicine, agriculture and modern abundance.\n\nThis optimism entered popular culture. Atomic imagery appeared in toys, design, newsreels, exhibits and consumer futurism. Los Alamos and museum accounts of atomic pop culture show how the atom became part of a broader mid-century imagination of progress. At the same time, the consumer boom of the postwar United States encouraged a belief that technology could deliver comfort, automation and safety at home.\n\nFallout distorts this mood into satire. The game does not say every 1950s family believed nuclear war would be fine. Instead, it exaggerates a real cultural tension: the same atom promised clean energy and threatened annihilation. That contradiction is why the style feels so sharp. Atomic optimism was never just naive cheerfulness; it was a public language for living with a technology too powerful to fully trust.",
+      "accuracyNote": "Fallout exaggerates Atomic Age optimism. The peaceful-atom campaign, consumer futurism and nuclear pop culture were real, but public attitudes were also shaped by fear and protest.",
+      "whyInteresting": "The same atom could be advertised as medical progress, electric abundance and civilization-ending danger.",
+      "misconception": "The Atomic Age is often imagined as either pure fear or pure optimism. The real culture contained both at once.",
+      "nextTopics": [
+        "Civil Defense",
+        "Vault Experiments",
+        "Mutual Destruction"
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-224-fallout-civil-defense"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "spoilerNote": "",
+      "mediaConnection": "Fallout's cheerful nuclear branding can be read alongside Atoms for Peace, mid-century consumer futurism and atomic pop culture.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "fallout",
+        "atomic-age",
+        "cold-war",
+        "technology",
+        "true-frame"
+      ],
+      "mediaChanged": "The game turns atomic optimism into dark comedy; history shows a genuine postwar attempt to make nuclear technology mean progress as well as danger.",
+      "whyItMatters": "Technological optimism can help societies imagine the future, but it can also soften the public language around serious risk.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was Fallout's atomic cheer invented from nothing, or built from a real Cold War culture of peaceful-atom optimism?",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "IAEA - Atoms for Peace Speech",
+          "url": "https://www.iaea.org/about/history/atoms-for-peace-speech",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Eisenhower Presidential Library - Atoms for Peace",
+          "url": "https://www.eisenhowerlibrary.gov/research/online-documents/atoms-peace",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Los Alamos National Laboratory - Atomic Pop Culture",
+          "url": "https://www.lanl.gov/media/publications/the-vault/0822-atomic-pop-culture",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Smithsonian National Museum of American History - The Consumer Era",
+          "url": "https://americanhistory.si.edu/explore/exhibitions/american-enterprise/online/consumer-era",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-226-fallout-vault-experiments",
+      "title": "Vault Experiments",
+      "subtitle": "Safety promise or research nightmare?",
+      "mediaType": "game",
+      "mediaTitle": "Fallout",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Cold War",
+        "Ethics",
+        "Science",
+        "Health"
+      ],
+      "whatWeSee": "In Fallout, Vaults are advertised as shelters, but many become secret social and scientific experiments. The black humor is obvious: the institution promising survival is also manipulating the survivors. The premise is fictional, but it points toward real twentieth-century debates about consent, state secrecy and research ethics.",
+      "realHistory": "Fallout's Vault experiments are satire, not direct history. Still, the ethical anxiety behind them is real. In the twentieth century, several U.S. research scandals revealed how easily science, state power and vulnerable populations could become entangled. The U.S. Public Health Service Syphilis Study at Tuskegee, for example, involved Black men who were not given proper informed consent and were denied adequate treatment even after penicillin became available. The CDC's historical material treats the study as a major turning point in research ethics.\n\nRadiation research after World War II created another body of concern. The Department of Energy's Advisory Committee on Human Radiation Experiments later reviewed many Cold War-era studies through the lens of consent, ethics and government responsibility. These histories do not mean Fallout's Vault-Tec literally existed. They show why the idea of hidden experiments under the language of national security feels disturbingly plausible.\n\nThe Belmont Report emerged from this wider reckoning and emphasized respect for persons, beneficence and justice. Fallout turns those principles inside out. Its Vaults ask what happens when people become research material precisely because they trust an institution that claims to protect them.",
+      "accuracyNote": "Fallout's Vault experiments are fictional satire. Tuskegee, human radiation experiments and the Belmont Report provide real ethical reference points for the game's critique.",
+      "whyInteresting": "A shelter turning into an experiment opens a strong path into the real history of consent and power in modern science.",
+      "misconception": "Unethical human research is often treated as only a wartime extreme. Serious violations also occurred within peacetime institutions.",
+      "nextTopics": [
+        "Civil Defense",
+        "Atomic Age Optimism",
+        "Surveillance Capitalism"
+      ],
+      "sources": [
+        {
+          "title": "CDC - Effects on Research: The U.S. Public Health Service Untreated Syphilis Study at Tuskegee",
+          "url": "https://www.cdc.gov/tuskegee/about/effects-research.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "U.S. Department of Energy - Advisory Committee on Human Radiation Experiments Final Report",
+          "url": "https://ehss.energy.gov/ohre/roadmap/achre/report.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "HHS - The Belmont Report",
+          "url": "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-224-fallout-civil-defense",
+        "tf26-225-fallout-atomic-optimism",
+        "tf26-227-cyberpunk-surveillance-capitalism"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Fallout's Vault-Tec experiments become clearer when read alongside real crises in research ethics and informed consent.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "fallout",
+        "cold-war",
+        "ethics",
+        "science",
+        "true-frame"
+      ],
+      "spoilerNote": "Contains a general hint about the logic of Vault experiments in the Fallout universe; does not reveal specific game endings.",
+      "mediaChanged": "The game magnifies secret experiments through grotesque dark humor; the real context is consent, race, state secrecy and scientific responsibility.",
+      "whyItMatters": "Research ethics are not only an internal scientific issue. They concern trust, consent and the limits of state and corporate power.",
+      "isFlagship": false,
+      "quickRealityCheck": "Are Fallout's Vault experiments completely absurd, or a dark mirror of real research-ethics failures?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-227-cyberpunk-surveillance-capitalism",
+      "title": "Surveillance Capitalism",
+      "subtitle": "When behavior becomes a market",
+      "mediaType": "game",
+      "mediaTitle": "Cyberpunk 2077",
+      "era": "Modern History",
+      "region": "Global",
+      "themes": [
+        "Technology",
+        "Economy",
+        "Surveillance",
+        "Ethics"
+      ],
+      "whatWeSee": "In Cyberpunk 2077, Night City is a data nightmare of ads, implants, networks and corporate control. Human bodies, habits and desires become readable for the market. The world is exaggerated, but it asks a real question: is user behavior tracked only to improve services, or to predict and influence a market?",
+      "realHistory": "The idea of surveillance capitalism describes a digital economy in which personal data is not merely stored, but used to predict behavior and produce profit. Cyberpunk 2077 amplifies that logic through neon megacorps and body modification. In real life, the model is more ordinary. Searches, locations, clicks, tracking pixels, social media targeting tools and real-time advertising auctions convert digital traces into commercial value.\n\nThe U.S. FTC uses the term commercial surveillance for the collection, analysis and monetization of information about people, and it has warned that such practices can increase risks of breach, manipulation and deception. European data-protection authorities have also addressed social media targeting, consent, legitimate interest and the risks of profiling.\n\nNight City makes surveillance visible and aggressive. The real world often makes it friendly: personalization, convenience, recommendations and free services. That difference matters. The danger is not only that data is collected, but that prediction systems can shape what people see, desire and choose. Cyberpunk's dystopia is louder, but its logic begins in everyday platform economics.",
+      "accuracyNote": "Cyberpunk 2077 is fictional. Data collection, targeted advertising, behavioral tracking and commercial surveillance are real issues in digital markets and data-protection law.",
+      "whyInteresting": "The game's neon dystopia makes visible the power relation often hidden inside routine app permissions and ad technology.",
+      "misconception": "Data collection is often described as just a way to improve service quality. Behavioral prediction and ad targeting are central to many platform economies.",
+      "nextTopics": [
+        "Corporate Sovereignty",
+        "Vault Experiments",
+        "Private Military Companies"
+      ],
+      "sources": [
+        {
+          "title": "FTC - Commercial Surveillance and Data Security Rulemaking",
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2022/08/ftc-explores-rules-cracking-down-commercial-surveillance-lax-data-security-practices",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "European Data Protection Board - Guidelines 8/2020 on the targeting of social media users",
+          "url": "https://www.edpb.europa.eu/system/files/2021-04/edpb_guidelines_082020_on_the_targeting_of_social_media_users_en.pdf",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "European Data Protection Board - Right to privacy in a digital world",
+          "url": "https://www.edpb.europa.eu/home_en",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-228-cyberpunk-corporate-sovereignty",
+        "tf26-226-fallout-vault-experiments"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Cyberpunk 2077's megacorp advertising world can be read through real debates over commercial surveillance and targeted advertising.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "cyberpunk-2077",
+        "technology",
+        "surveillance",
+        "data-economy",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game makes surveillance visible and aggressive; in reality the same logic often works quietly through personalization, ads and platform economics.",
+      "whyItMatters": "Privacy in the digital age is not only about personal secrets. It is about economic power, behavioral influence and democratic oversight.",
+      "isFlagship": false,
+      "quickRealityCheck": "Is Night City's data market pure fiction, or a heightened version of today's commercial surveillance model?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-228-cyberpunk-corporate-sovereignty",
+      "title": "Corporate Sovereignty",
+      "subtitle": "When companies become more than companies",
+      "mediaType": "game",
+      "mediaTitle": "Cyberpunk 2077",
+      "era": "Modern History",
+      "region": "Global",
+      "themes": [
+        "Corporations",
+        "Politics",
+        "Economy",
+        "Empire"
+      ],
+      "whatWeSee": "In Cyberpunk 2077, megacorps are not just firms selling products. They maintain security forces, media systems, clinics, neighborhoods and political influence. The state exists, but it often appears at the same table as corporate power. That is one of the game's strongest dystopian themes: citizen, customer and employee become hard to separate.",
+      "realHistory": "One of the sharpest historical examples of corporate sovereignty is the East India Company. Founded in 1600 for trade, it gradually became a political and military power. The National Army Museum notes that the company came to control large areas of the Indian subcontinent through a powerful private army. That is not the same as Cyberpunk 2077's fictional megacorps, but it shows a similar logic: a company can begin by entering a market and end by shaping the rules of the market itself.\n\nThe East India Company held charters, trade privileges, fortified bases, diplomatic roles and military capacity. Royal Museums Greenwich and National Archives material show how company trade connected to imperial politics, legal authority and maritime power. Economic privilege could become political authority when backed by force.\n\nCyberpunk pushes that logic into a future city. Its megacorps are exaggerated, but the historical echo is real. Companies are not always merely economic actors. Under certain conditions, they can acquire security power, legal privilege and state-like influence. The question then becomes political: who can hold them accountable?",
+      "accuracyNote": "Cyberpunk 2077's megacorps are fictional exaggerations. Historical examples such as the East India Company show that corporations have, under certain conditions, exercised military and political power.",
+      "whyInteresting": "Night City's extreme corporate dystopia feels more plausible when read against chartered-company history.",
+      "misconception": "Corporations are often assumed to be only economic actors. Some historical companies operated across trade, law, military power and governance.",
+      "nextTopics": [
+        "Surveillance Capitalism",
+        "Mercantilism and Colonial Trade",
+        "Private Military Companies"
+      ],
+      "sources": [
+        {
+          "title": "National Army Museum - Armies of the East India Company",
+          "url": "https://www.nam.ac.uk/explore/armies-east-india-company",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Royal Museums Greenwich - Traders: the East India Company and Asia",
+          "url": "https://www.rmg.co.uk/national-maritime-museum/attractions/traders-east-india-company-asia",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "The National Archives - Material relating to charters of the East India Company",
+          "url": "https://discovery.nationalarchives.gov.uk/details/r/37812d09-adfd-4458-89a5-acb52d84cf24",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-227-cyberpunk-surveillance-capitalism",
+        "tf26-221-eu4-mercantilism-colonialism"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Cyberpunk 2077's megacorp world becomes stronger when read alongside historical cases of corporate power such as the East India Company.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "cyberpunk-2077",
+        "corporations",
+        "economy",
+        "politics",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game turns corporate power into neon dystopia; historical cases show companies acquiring governance and coercive capacity under specific conditions.",
+      "whyItMatters": "When corporate power shapes public decisions, economics becomes a question of democracy, law and accountability.",
+      "isFlagship": false,
+      "quickRealityCheck": "Is the megacorp just cyberpunk exaggeration, or a future-facing echo of companies like the East India Company?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-229-deathstranding-logistics",
+      "title": "Logistics Builds Civilization",
+      "subtitle": "Delivery as the hidden infrastructure of society",
+      "mediaType": "game",
+      "mediaTitle": "Death Stranding",
+      "era": "Modern History",
+      "region": "Global",
+      "themes": [
+        "Logistics",
+        "State",
+        "Communication",
+        "Infrastructure"
+      ],
+      "whatWeSee": "Death Stranding places delivery at the center of the world. Building roads, carrying packages, connecting isolated people and making bridges are not side tasks; they are the way civilization is rebuilt. The game presents this through science fiction and loneliness, but the core idea is historical. States and societies survive through roads, postal lines, carriers and reliable delivery rhythms.",
+      "realHistory": "Logistics often sits behind heroic narratives, but large societies cannot function without moving information, tax, orders, goods and personal messages. UNESCO's description of the Qhapaq Nan presents the Andean road system as a network for communication, trade and defense across mountains, deserts, valleys and coasts. It was not just a road. It was infrastructure for political unity.\n\nModern postal systems performed a similar function. Smithsonian National Postal Museum accounts treat postal history not merely as letter romance, but as transportation, identity and public service. The Railway Mail Service shows how trains did more than carry mail; workers sorted letters while moving, reorganizing time and distance on the move.\n\nDeath Stranding turns this historical truth into a lonely science-fiction ritual. The package on Sam's back is never just an object. It is trust, coordination and social connection. In real history, roads and posts created the same kind of connective tissue. A state that cannot deliver orders, food, records or messages is only partly a state.",
+      "accuracyNote": "Death Stranding is fictional. The role of road systems, postal networks and carrier infrastructures in state-building and social connection is historically well supported.",
+      "whyInteresting": "The game's most ordinary action, carrying packages, is a surprisingly strong way to understand how societies are actually connected.",
+      "misconception": "Logistics is often treated as mere support work. It is the infrastructure of communication, trade, taxation and crisis response.",
+      "nextTopics": [
+        "Corporate Sovereignty",
+        "War Economy",
+        "Border Bureaucracy"
+      ],
+      "sources": [
+        {
+          "title": "UNESCO World Heritage Centre - Qhapaq Ñan, Andean Road System",
+          "url": "https://whc.unesco.org/en/list/1459/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Smithsonian National Postal Museum - Railway Mail Service",
+          "url": "https://postalmuseum.si.edu/topics/railway-mail-service",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Smithsonian National Postal Museum - The Postal Service Begins",
+          "url": "https://postalmuseum.si.edu/the-postal-service-begins",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-223-hoi4-war-economy",
+        "tf26-212-papersplease-border-regime"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Death Stranding's delivery and connection mechanics can be grounded in road systems such as the Qhapaq Nan and modern postal networks.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "death-stranding",
+        "logistics",
+        "infrastructure",
+        "postal-history",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game turns delivery into a poetic science-fiction experience; history shows the same logic at work in roads, posts and courier systems.",
+      "whyItMatters": "In crises, social resilience often depends less on heroism than on whether supplies and information reach the right place.",
+      "isFlagship": false,
+      "quickRealityCheck": "Is delivery in Death Stranding just a game mechanic, or a way of seeing civilization's hidden infrastructure?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-230-mgs-nuclear-deterrence",
+      "title": "Mutual Destruction",
+      "subtitle": "When security depends on everyone being terrified",
+      "mediaType": "game",
+      "mediaTitle": "Metal Gear Solid",
+      "era": "Modern History",
+      "region": "Global",
+      "themes": [
+        "Cold War",
+        "Nuclear Weapons",
+        "Military History",
+        "Politics"
+      ],
+      "whatWeSee": "Metal Gear Solid does not use nuclear weapons only as background threat. It places them at the center of hidden bases, private armies, intelligence games and world order. The giant war machines look exaggerated, but the series' core fear is real: once a nuclear weapon exists, it becomes not just a weapon of war but a constant political pressure system.",
+      "realHistory": "### The logic of deterrence\n\nMetal Gear Solid treats nuclear weapons as more than big explosions. They are tied to espionage, military technology and the fear that a system built to prevent war might itself become unstable. That connects directly to the Cold War logic of deterrence. Nuclear deterrence rests on making a weapon effective without using it. If an adversary believes an attack will bring unacceptable retaliation, the attack becomes irrational. Mutual assured destruction is the most extreme version of this logic.\n\nThe Nuclear Threat Initiative summarizes how nuclear weapons changed strategy by making maximum destruction possible from the first moments of a conflict. Security was no longer only about winning a war; it was about preventing a war whose outcome could be civilization-ending. That made credibility, command systems, second-strike capability and political signaling central.\n\n### Stability and danger\n\nDeterrence can reduce incentives for direct attack, but it is not a perfectly rational machine. It depends on perception, communication and human judgment. The opponent must understand the signal, believe the threat and avoid misreading accidents as aggression. This is where Metal Gear's paranoia becomes historically meaningful. Nuclear systems are terrifying not only because they can be launched, but because errors, secrecy and escalation can push decision-makers toward catastrophe.\n\nAble Archer 83 is one of the most important examples. During a NATO command-post exercise, Soviet observers feared the exercise might be cover for a real attack. National Security Archive materials show how seriously later historians and intelligence analysts have treated the incident as a warning about misperception and crisis instability. It was not a missile duel from a game, but it carried the same core fear: what if the other side reads the scenario wrong?\n\n### The politics of impossible weapons\n\nMetal Gear turns nuclear deterrence into giant machines, secret programs and rogue actors. History is less cinematic but no less frightening. Real deterrence depended on submarines, bombers, missiles, early-warning systems, launch procedures, arms-control negotiations and political credibility. The system promised peace by threatening intolerable destruction.\n\nThat is the central contradiction. Nuclear weapons can deter because they are too terrible to use, but that same terror means failure would be unthinkable. The world is made safer only if every link in the chain works: technology, leadership, intelligence, communication and restraint. Metal Gear exaggerates the hardware, but it captures the emotional truth of the nuclear age. Security becomes a permanent gamble with catastrophic stakes.",
+      "accuracyNote": "Metal Gear Solid's nuclear platforms and characters are fictional. Mutual destruction, second-strike logic, false-alarm risk and Able Archer 83 provide real historical grounding for the series' nuclear paranoia.",
+      "whyInteresting": "MGS's exaggerated nuclear fear reminds us how psychologically fragile Cold War security could be.",
+      "misconception": "Nuclear deterrence is often imagined as a flawless rational system. Misreading, false alarms and human error were permanent risks.",
+      "nextTopics": [
+        "Private Military Companies",
+        "Civil Defense",
+        "Atomic Age Optimism"
+      ],
+      "sources": [
+        {
+          "title": "Nuclear Threat Initiative - Deterrence in the Age of Nuclear Proliferation",
+          "url": "https://www.nti.org/analysis/articles/deterrence-age-nuclear-proliferation/",
+          "type": "ngo",
+          "verified": true
+        },
+        {
+          "title": "National Security Archive - The Able Archer 83 Sourcebook",
+          "url": "https://nsarchive.gwu.edu/project/able-archer-83-sourcebook",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "National Security Archive - The Censored History of Able Archer 83",
+          "url": "https://nsarchive.gwu.edu/briefing-book/able-archer-83/2025-11-14/censored-history-able-archer-83",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-224-fallout-civil-defense",
+        "tf26-225-fallout-atomic-optimism"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Metal Gear Solid's nuclear anxiety can be read alongside Cold War deterrence theory and near-crisis cases such as Able Archer 83.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "metal-gear-solid",
+        "cold-war",
+        "nuclear-weapons",
+        "deterrence",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game personalizes nuclear threat through giant machines and secret operations; history worked through doctrine, command chains, false alarms and psychological deterrence.",
+      "whyItMatters": "The greatest security promise of the nuclear age also created one of humanity's largest system risks.",
+      "isFlagship": true,
+      "quickRealityCheck": "Did nuclear deterrence make the world safer, or did it make the cost of false alarm unimaginably high?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-231-mgs-private-military-companies",
+      "title": "Private Military Companies",
+      "subtitle": "When war is outsourced",
+      "mediaType": "game",
+      "mediaTitle": "Metal Gear Solid",
+      "era": "Modern History",
+      "region": "Global",
+      "themes": [
+        "War",
+        "Law",
+        "State",
+        "Military History"
+      ],
+      "whatWeSee": "In Metal Gear Solid, war often appears not as open conflict between national armies, but through private units, corporate security, mercenary networks and operations that states can deny. The game amplifies this with espionage and conspiracy, but the underlying question is real: when the use of force is delegated to private actors, where does responsibility go?",
+      "realHistory": "Private military and security companies became more visible in conflict zones after the Cold War. They can provide convoy protection, facility security, training, logistics, intelligence support or armed guarding. They are not all simply \"mercenaries,\" but the contracting out of some war functions creates serious legal and oversight problems.\n\nThe Montreux Document, developed by Switzerland and the ICRC, was created to restate the obligations of states when private military and security companies operate in armed conflict. It does not invent a new legal system. Instead, it clarifies existing responsibilities: the hiring state, the state where the company is registered and the state where it operates may all have duties under international humanitarian law and human rights law.\n\nMetal Gear Solid turns private armies into dramatic engines of conspiracy. The real problem is often quieter: contracts, accountability gaps, chains of command and access to justice for victims. If a contractor uses force, responsibility may involve the individual, the company, the hiring state and the host state. That complexity is exactly why the theme matters beyond fiction. Outsourcing war does not outsource moral or legal responsibility.",
+      "accuracyNote": "The private armies in Metal Gear Solid are fictional. Real private military and security companies are discussed in the Montreux Document and human rights accountability debates.",
+      "whyInteresting": "The game shows how war can be fought not only with weapons, but with contracts and deniable operations.",
+      "misconception": "Private military companies are often imagined as either entirely lawless or identical to state armies. Their status, tasks and responsibilities vary by context.",
+      "nextTopics": [
+        "Mutual Destruction",
+        "Moral Injury",
+        "Total War Economy"
+      ],
+      "relatedCardIds": [
+        "tf26-230-mgs-nuclear-deterrence",
+        "tf26-223-hoi4-war-economy",
+        "tf26-211-twom-humanitarian-ethics"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "mediaConnection": "Metal Gear Solid's private army theme connects to modern legal debates over private military and security companies in armed conflict.",
+      "accuracyType": "inspired-by-reality",
+      "tags": [
+        "metal-gear-solid",
+        "private-military-companies",
+        "war",
+        "law",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game enlarges PMCs into conspiracy and action; the real issue is quieter but persistent: who answers for contracted violence?",
+      "whyItMatters": "The outsourcing of war is one of the hardest areas for democratic oversight and human rights accountability.",
+      "isFlagship": false,
+      "quickRealityCheck": "When a security company uses force in a war zone, does responsibility begin with the employee, the company or the state that hired it?",
+      "sources": [
+        {
+          "title": "ICRC - The Montreux Document on Private Military and Security Companies",
+          "url": "https://www.icrc.org/en/publication/0996-montreux-document-private-military-and-security-companies",
+          "type": "ngo",
+          "verified": true
+        },
+        {
+          "title": "The Montreux Document - About the Montreux Document",
+          "url": "https://www.montreuxdocument.org/about/montreux-document.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "OHCHR - Access to justice, accountability and remedies for victims of mercenaries and PMSCs",
+          "url": "https://www.ohchr.org/en/documents/thematic-reports/ahrc5125-access-justice-accountability-and-remedies-victims-mercenaries",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-232-specops-moral-injury",
+      "title": "Moral Injury",
+      "subtitle": "When victory does not repair what you did",
+      "mediaType": "game",
+      "mediaTitle": "Spec Ops: The Line",
+      "era": "Modern History",
+      "region": "Global",
+      "themes": [
+        "War",
+        "Psychology",
+        "Ethics",
+        "Media"
+      ],
+      "whatWeSee": "Spec Ops: The Line begins like a conventional military mission, then dismantles the ideas of orders, heroism and necessary violence. Dubai becomes less a battlefield backdrop than a stage where the player confronts their own habits. The game makes war trauma feel not only like fear or loss, but like the burden of continuing to live after doing something you know may be wrong.",
+      "realHistory": "### Breaking the hero narrative\n\nSpec Ops: The Line first looks familiar: a devastated Dubai, a missing unit, a small team under orders and escalating violence. Its real effect is not to reward heroism, but to corrode it. As the game continues, the line between correct mission and irreversible harm disappears. That is why it connects so strongly to the concept of moral injury.\n\nThe U.S. VA National Center for PTSD describes moral injury as the distress that can follow when a person perpetrates, witnesses, fails to prevent or learns about acts that violate deeply held moral beliefs. It is related to trauma, but it is not identical to fear-based PTSD. The center of gravity is not only danger; it is guilt, shame, betrayal, responsibility and the collapse of one's sense of being a good person.\n\n### Not just fear\n\nClassic war trauma is often imagined through survival terror: explosions, injury, helplessness and threat. Moral injury adds another layer. A person may survive physically but be unable to reconcile what happened with their own values. That can involve killing, harming civilians, following an order, failing to stop an atrocity or feeling betrayed by leaders. Litz and colleagues' influential work on moral injury and repair emphasizes that recovery may require not only symptom treatment, but also moral processing, accountability, forgiveness, restitution and rebuilding trust.\n\nSpec Ops uses the language of the military shooter to pull the player into that problem. The player advances, obeys, aims and completes objectives, then the game turns those actions back on them. Its fictional scenario is exaggerated, but the psychological question is serious: what happens when the structure that told you \"this is the mission\" cannot protect you from the moral meaning of what you did?\n\n### Player responsibility\n\nThe game is not a clinical case study. It is a work of fiction using player agency and genre expectation. But that is why it matters. Many military games make violence feel clean by organizing it into targets, objectives and success screens. Spec Ops corrupts that clarity. It asks whether the player wanted a heroic war story badly enough to keep participating.\n\nThat does not mean a player is morally equivalent to a real soldier. The point is representational. The game uses interactivity to make moral injury legible as a conflict between action, command and self-image. Its Dubai is not realistic reportage; it is a moral trap built from the language of entertainment.\n\n### Why the concept matters\n\nMoral injury helps explain why war's damage cannot be reduced to fear conditioning or battlefield stress. Some wounds come from what people believe they have become. That is why the term is useful in veterans' care, ethics and media analysis. Spec Ops: The Line is powerful because it understands that winning a firefight does not answer the deeper question. What if the mission was the thing that broke you?",
+      "accuracyNote": "Spec Ops: The Line is fictional. Moral injury is a real concept used to describe distress after actions, inaction or betrayal that violates deeply held moral beliefs.",
+      "whyInteresting": "The game uses the usual power fantasy of military shooters and turns it into guilt, shame and responsibility.",
+      "misconception": "War trauma is often imagined as only fear and survival shock. Moral injury shows that one's relationship to one's own actions can also be traumatic.",
+      "nextTopics": [
+        "Private Military Companies",
+        "Civilian Survival Ethics",
+        "Dubai Migrant Labor"
+      ],
+      "relatedCardIds": [
+        "tf26-231-mgs-private-military-companies",
+        "tf26-211-twom-humanitarian-ethics",
+        "tf26-233-specops-dubai-labor"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "spoilerLevel": "minor",
+      "mediaConnection": "Spec Ops: The Line's deconstruction of war narrative can be read through moral injury literature and modern discussions of war trauma.",
+      "accuracyType": "inspired-by-reality",
+      "tags": [
+        "spec-ops-the-line",
+        "war-trauma",
+        "moral-injury",
+        "ethics",
+        "true-frame"
+      ],
+      "spoilerNote": "Contains hints about the game's tone and central theme; does not describe the final events in detail.",
+      "mediaChanged": "The game begins like heroic military progress, then shifts into moral responsibility and guilt. The real debate uses moral injury to discuss identity, shame and value conflict after war.",
+      "whyItMatters": "War stories focused only on courage and success can hide the moral burden left by violence.",
+      "isFlagship": true,
+      "quickRealityCheck": "Why can following an order in a war game sometimes produce guilt instead of victory?",
+      "sources": [
+        {
+          "title": "U.S. VA National Center for PTSD - Moral Injury",
+          "url": "https://www.ptsd.va.gov/professional/treat/cooccurring/moral_injury.asp",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Litz et al. - Moral Injury and Moral Repair in War Veterans",
+          "url": "https://www.ptsd.va.gov/professional/articles/article-pdf/id33165.pdf",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-233-specops-dubai-labor",
+      "title": "Who Built Dubai?",
+      "subtitle": "The labor hidden behind the skyline",
+      "mediaType": "game",
+      "mediaTitle": "Spec Ops: The Line",
+      "era": "Modern History",
+      "region": "United Arab Emirates",
+      "themes": [
+        "Urbanization",
+        "Labor",
+        "Economy",
+        "Society"
+      ],
+      "whatWeSee": "Spec Ops: The Line presents Dubai as a luxury disaster space swallowed by sand. Towers, hotels and malls become ruins of a future city in the desert. The game uses that image for war and collapse, but real Dubai raises another question: who built these shining cities?",
+      "realHistory": "Dubai, and Gulf urbanization more broadly, became one of the clearest symbols of a post-oil service, tourism, finance and construction economy. Skyscrapers and mega-projects produce an image of modernity, but the workforce behind many of these projects has largely come from South Asia and other migrant-sending regions. The city brand often shows the building while hiding the people who built it.\n\nHuman rights organizations have documented concerns in the United Arab Emirates and the wider Gulf around sponsorship systems, recruitment debt, wage theft, extreme heat exposure and limited ability to organize. Not every employer or project is the same, but the structural problem is that a worker's legal status can be tied closely to an employer, creating dependency and limiting bargaining power.\n\nSpec Ops does not tell a documentary story about migrant labor. Its Dubai is fictional and apocalyptic. The True Frame connection is thematic: the city can be read not only as spectacle, but as a product of labor regimes. Behind the luxury skyline are workers, dormitories, remittances, heat, debt and legal vulnerability. A city is never built by architecture and capital alone.",
+      "accuracyNote": "Spec Ops: The Line is a fictional disaster-Dubai story. This card uses the game's setting to discuss real migrant labor and working-condition debates in Dubai and the Gulf.",
+      "whyInteresting": "A city becoming a global showcase often depends on workers who remain outside the showcase.",
+      "misconception": "Mega-cities like Dubai are often explained only through architecture, capital and vision. Migrant labor is central to the story.",
+      "nextTopics": [
+        "Moral Injury",
+        "Industrial Labor",
+        "Corporate Sovereignty"
+      ],
+      "relatedCardIds": [
+        "tf26-232-specops-moral-injury",
+        "tf26-222-victoria3-industrial-labor",
+        "tf26-228-cyberpunk-corporate-sovereignty"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "mediaConnection": "Spec Ops: The Line's ruined Dubai can be placed beside real debates over migrant labor and construction conditions in Gulf urbanization.",
+      "accuracyType": "inspired-by-reality",
+      "tags": [
+        "spec-ops-the-line",
+        "dubai",
+        "migrant-labor",
+        "urbanization",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game uses Dubai for collapse and war psychology; the real social context also includes migrant labor and hidden construction work.",
+      "whyItMatters": "Modern city brands are built not only with design and investment, but with labor systems and inequality.",
+      "isFlagship": false,
+      "quickRealityCheck": "When we tell the story of a skyscraper, do we see the architect, the investor, or the workers who built it?",
+      "sources": [
+        {
+          "title": "Human Rights Watch - UAE: Migrant Worker Abuses Linked to Broader Climate Harms",
+          "url": "https://www.hrw.org/news/2023/11/21/uae-migrant-worker-abuses-linked-broader-climate-harms",
+          "type": "ngo",
+          "verified": true
+        },
+        {
+          "title": "Amnesty International - United Arab Emirates 2025/2026",
+          "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/united-arab-emirates/report-united-arab-emirates/",
+          "type": "ngo",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "isPremium": false,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    }
+  ]
+}

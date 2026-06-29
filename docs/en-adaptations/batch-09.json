@@ -1,0 +1,1237 @@
+{
+  "meta": {
+    "purpose": "English-native adaptation batch",
+    "sourceChunk": "source-chunk-009.json",
+    "batchNumber": 9,
+    "cardCount": 20,
+    "sourceCardRange": "TR order cards 161-180",
+    "alreadyAuthoredCountBeforeBatch": 160,
+    "authoredCountAfterBatch": 180,
+    "remainingCountAfterBatch": 271,
+    "ids": [
+      "chernobyl-pripyat-delay",
+      "crown-commonwealth-empire",
+      "napoleon-waterloo-masterclass",
+      "300-thermopylae-masterclass",
+      "1917-trench-comms-real",
+      "valiant-hearts-war-dogs-real",
+      "pentiment-printing-press-clash",
+      "the-terror-franklin-canning",
+      "last-emperor-manchukuo-propaganda",
+      "1917-no-mans-land-reality",
+      "1917-siper-savasi-flagship",
+      "the-terror-arctic-tragedy-flagship",
+      "band-of-brothers-hedgerows-real",
+      "saving-private-ryan-higgins-boat",
+      "got-battle-of-bastards-hastings-real",
+      "vikings-funeral-fadlan-real",
+      "the-crown-aberfan-tragedy-real",
+      "the-crown-suez-crisis-empire-end",
+      "civ-alphabet-revolution-real",
+      "total-war-siege-starvation-real"
+    ],
+    "notes": "Adapted from Turkish canonical cards. Source URLs, IDs, relatedCardIds, enums, flags and non-localized metadata are preserved from TR; localized text fields are English-native adaptations."
+  },
+  "cards": [
+    {
+      "id": "chernobyl-pripyat-delay",
+      "title": "Pripyat: The 36-Hour Silence",
+      "subtitle": "Delayed evacuation and an invisible danger.",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Soviet Union",
+        "Modern History",
+        "Disaster"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "chernobyl",
+        "soviet-union",
+        "nuclear-disaster",
+        "evacuation",
+        "science"
+      ],
+      "quickRealityCheck": "Was Pripyat evacuated immediately after the accident, or did the city remain under invisible risk for roughly 36 hours?",
+      "mediaChanged": "The series dramatizes the delay through panic, denial, and bureaucratic fear; historical records point to central approval, information control, and crisis communication failures.",
+      "realHistory": "When the Chernobyl accident occurred on 26 April 1986, Pripyat was only a few kilometres from the plant. Yet the city was not evacuated immediately. According to the IAEA, the roughly 49,000 residents of Pripyat were evacuated about 36 hours after the accident. When buses finally arrived, many residents were told the evacuation was temporary, so they left behind most of their belongings expecting to return.\n\nThat delay reveals one of the central failures of Soviet crisis management: the instinct to control information came before rapid public warning. Local and central authorities were slow to acknowledge the scale of the event and hesitant to communicate risk openly. Because radiation could not be seen, the image of ordinary city life continuing in those hours became especially tragic.\n\nThe HBO series uses some symbolic scenes that have become part of Chernobyl memory, including the so-called “Bridge of Death.” Those details should not be treated as fully documented fact in every version. The firmer historical point is simpler and more important: Pripyat’s evacuation was delayed, and the delay shows why transparency can be a life-saving part of nuclear safety.",
+      "whyItMatters": "Pripyat shows that in a disaster, technical expertise is not enough; clear communication and fast public decisions can save lives.",
+      "sources": [
+        {
+          "title": "Chernobyl Accident - Frequently Asked Questions - IAEA",
+          "url": "https://www.iaea.org/topics/chornobyl/faqs",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Chernobyl: Reactions of National Authorities - OECD NEA",
+          "url": "https://www.oecd-nea.org/jcms/pl_28303/chernobyl-chapter-iii-reactions-of-national-authorities",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The International Chernobyl Project - IAEA",
+          "url": "https://www-pub.iaea.org/MTCD/Publications/PDF/Pub884e_web.pdf",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "chernobyl-disaster",
+        "chernobyl-secrecy",
+        "chernobyl-bureaucracy-truth"
+      ],
+      "spoilerNote": "Contains minor context from Chernobyl; it does not reveal the full ending.",
+      "whatWeSee": "Chernobyl shows Pripyat as a young Soviet city that continues normal life after the explosion for a brief but chilling window. People walk outside, children play, and officials wait while the danger remains invisible.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "The roughly 36-hour evacuation delay is well supported. More specific details, such as bridge stories, exact dose claims, or individual outcomes, should be handled carefully because some have become legend-like.",
+      "whyInteresting": "Radiation is invisible, so Pripyat’s most disturbing image is the ordinary city continuing while the danger had already entered the streets.",
+      "misconception": "People often assume the population was evacuated immediately after Chernobyl; in reality, Pripyat was cleared only about 36 hours after the accident."
+    },
+    {
+      "id": "crown-commonwealth-empire",
+      "title": "From Empire to Commonwealth",
+      "subtitle": "Elizabeth II and the transformation of former colonies.",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Britain",
+        "Politics",
+        "Modern History"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "the-crown",
+        "britain",
+        "commonwealth",
+        "decolonization"
+      ],
+      "quickRealityCheck": "Was the Commonwealth simply the British Empire under a softer name, or a contested network of independent states built after empire?",
+      "mediaChanged": "The series foregrounds the Queen’s symbolic presence through personal scenes; the broader history is shaped by decolonization, local independence movements, and the legacy of empire.",
+      "realHistory": "After the Second World War, the British Empire began to unravel quickly. The Commonwealth became one way to reframe relationships with former colonies, shifting from direct imperial rule toward voluntary cooperation, diplomatic association, and shared symbols. The 1949 London Declaration was especially important because it allowed republics to remain within the Commonwealth, giving the modern organization its basic shape. When Elizabeth II came to the throne in 1952, this transformation was already underway.\n\nThe Queen’s role was not direct political government but symbolic continuity. State visits, ceremonies, speeches, and personal relationships helped Britain present a softer form of influence after its hard imperial power declined. But it would be misleading to describe this as a smooth or painless transition. Decolonization in many regions involved violence, economic dependence, border crises, and long-running debates about colonial responsibility.\n\nThe Crown captures the burden placed on monarchy as representation rather than executive power. Elizabeth II became the public face of Commonwealth unity, but that unity never erased the trauma of empire. A more honest reading sees the Commonwealth as a diplomatic network trying to manage the end of empire while still carrying its unresolved traces.",
+      "whyItMatters": "The Commonwealth shows how symbols, institutions, and diplomatic networks can outlive formal empire.",
+      "sources": [
+        {
+          "title": "Our History - Commonwealth Secretariat",
+          "url": "https://thecommonwealth.org/history",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Queen Elizabeth II and the Commonwealth - Royal.uk",
+          "url": "https://www.royal.uk/queen-elizabeth-ii-and-the-commonwealth",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Decolonization - Britannica",
+          "url": "https://www.britannica.com/topic/decolonization",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "the-crown-monarchy",
+        "crown-monarchy-symbol",
+        "crown-tv-coronation-1953"
+      ],
+      "spoilerNote": "Contains minor contextual material from The Crown; it does not reveal the full ending.",
+      "whatWeSee": "The Crown presents Elizabeth II’s Commonwealth tours through ceremonies, speeches, and palace diplomacy. The camera often focuses on the monarch trying to remain a symbolic link between the old empire and a changing world.",
+      "lastReviewedAt": "2026-06-27",
+      "accuracyNote": "Elizabeth II’s role in the Commonwealth was symbolic and unifying, not executive. Independence processes were shaped by governments, local movements, and global power politics, not by royal diplomacy alone.",
+      "whyInteresting": "The Commonwealth tried to maintain connection after empire not by military command, but through ceremony, language, education, law, and diplomacy.",
+      "misconception": "The Commonwealth is often imagined as just a renamed British Empire; modern Commonwealth membership is looser, voluntary in principle, and politically contested."
+    },
+    {
+      "id": "napoleon-waterloo-masterclass",
+      "title": "Waterloo: Napoleon’s Final Act",
+      "subtitle": "How one rainy day in 1815 reshaped Europe.",
+      "mediaType": "film",
+      "mediaTitle": "Napoleon",
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "War",
+        "France",
+        "European History"
+      ],
+      "isFlagship": true,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "napoleon",
+        "waterloo",
+        "war",
+        "france",
+        "britain"
+      ],
+      "quickRealityCheck": "Was Waterloo merely Napoleon’s final duel with Wellington, or a multinational battle won through timing, endurance, and coalition coordination?",
+      "mediaChanged": "The film compresses Waterloo into a dramatic finale and a Napoleon-versus-Wellington confrontation; the historical battle was multinational, hours-long, and decided by coalition coordination.",
+      "realHistory": "### The return that Europe could not accept\n\nWaterloo was not only Napoleon’s last defeat; it was the moment when Europe’s post-Napoleonic balance had to be defended by force. In 1815 Napoleon returned from Elba and regained power in France with startling speed. To the European powers, that return meant the possibility of a new round of wars. Britain, Prussia, Austria, Russia, and their allies moved to stop him before his position could stabilize.\n\n### The plan to divide the allies\n\nNapoleon’s core plan was to defeat Wellington’s Anglo-allied army and Blucher’s Prussian army before they could unite. On 16 June he beat the Prussians at Ligny, but he did not destroy them. On the same day, fighting at Quatre Bras kept Wellington occupied without removing his army from the campaign. These outcomes gave Napoleon an opportunity, but also left a major danger: the Prussians had retreated, not vanished.\n\n### Rain, mud, and the price of time\n\nHeavy rain on the night of 17 June turned the Waterloo field into mud. Napoleon delayed his attack, in part to allow the ground to dry enough for artillery and movement. The decision was understandable, but time worked against him. Wellington strengthened his defensive position, and the Prussians gained more hours to move toward the battlefield. Weather did not decide the battle alone, but it made every delay more costly.\n\n### Wellington holds, Blucher arrives\n\nWellington’s achievement was endurance. His army used ridges, strongpoints such as Hougoumont and La Haye Sainte, disciplined infantry squares, and stubborn defence to absorb French pressure. Napoleon’s cavalry, infantry, and artillery repeatedly tested the line, but they could not produce a decisive break. The battle changed when Blucher’s Prussians arrived in force. The French now had to face Wellington in front and a growing Prussian threat on the flank.\n\nThe failure of the Imperial Guard’s final attack became the symbolic collapse of Napoleon’s legend. After Waterloo, his political return was over, and Europe moved into the conservative but relatively durable order associated with the Congress of Vienna. Film often treats Waterloo as the fall of a single genius. History shows something broader: alliance, logistics, timing, weather, and institutional resilience overcoming personal charisma.\n\n### Beyond the battlefield\n\nWaterloo also mattered because it ended the political uncertainty of the Hundred Days. Napoleon’s earlier victories had often depended on speed, concentration, and the ability to defeat enemies before coalitions could fully combine. In 1815 that method almost worked, but the margin was gone. His opponents had learned from years of war, and their ability to stay connected mattered as much as battlefield brilliance.\n\nThe aftermath turned the battle into a European memory site. For Britain, Wellington became the symbol of steadiness. For Prussia, Blucher’s arrival confirmed the importance of alliance. For France, Waterloo became both defeat and legend. That is why the battle is still so often filmed as a final scene: it is easier to show the fall of one man than the slow construction of a new European order.",
+      "whyItMatters": "Waterloo shows how coalition systems, logistics, and endurance can defeat even the strongest myth of individual command.",
+      "sources": [
+        {
+          "title": "Battle of Waterloo - National Army Museum",
+          "url": "https://www.nam.ac.uk/explore/battle-waterloo",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Battle of Waterloo - Britannica",
+          "url": "https://www.britannica.com/event/Battle-of-Waterloo",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Napoleon's Wet Hat - Deutsches Historisches Museum",
+          "url": "https://www.dhm.de/journal/en/post/napoleons-wet-hat",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "napoleon-myth-reality",
+        "napoleon-egypt-propaganda",
+        "napoleon-code-legacy-real"
+      ],
+      "spoilerNote": "Contains minor contextual material from Napoleon; it does not reveal every plot detail.",
+      "lastReviewedAt": "2026-06-24",
+      "whatWeSee": "Napoleon often frames Waterloo as the last great duel between Napoleon and Wellington: rain, mud, artillery, cavalry charges, and the closing image of an empire.",
+      "accuracyNote": "The film simplifies Waterloo as a personal duel. Historically, the battle must be understood alongside Ligny, Quatre Bras, Grouchy’s failure to stop the Prussians, Wellington’s defensive line, and Blucher’s arrival.",
+      "whyInteresting": "Napoleon was not facing Wellington alone; the outcome depended on the Prussians recovering after Ligny and reaching the field in time.",
+      "misconception": "Waterloo is often explained as only Napoleon’s tactical mistake. In reality, weather, delays, coalition timing, Prussian arrival, and French command problems all mattered."
+    },
+    {
+      "id": "300-thermopylae-masterclass",
+      "title": "Thermopylae: The Real 300",
+      "subtitle": "A stand between history, memory, and propaganda.",
+      "mediaType": "film",
+      "mediaTitle": "300",
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Greek History",
+        "War",
+        "Propaganda"
+      ],
+      "isFlagship": true,
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "300",
+        "thermopylae",
+        "ancient-greece",
+        "war",
+        "ancient-world"
+      ],
+      "quickRealityCheck": "Was Thermopylae really only the story of 300 Spartans, or a wider Greek defence later turned into a powerful heroic memory?",
+      "mediaChanged": "The film deliberately enlarges the propaganda power of the story: Spartans become pure heroic bodies, while Persians become grotesque threat. History is more about allied Greek forces, geography, discipline, and memory.",
+      "realHistory": "### Not only 300, but a strategic pass\n\nThe stand at Thermopylae in 480 BCE was real, but reducing it to “300 Spartans alone” distorts the event. Leonidas began the defence with several thousand allied Greek troops. The Spartans were the most famous and symbolically powerful core of that force, but Thespians, Thebans, Phocians, and others also mattered. The chosen battlefield was not about pure heroic theatre. Thermopylae was a narrow pass, and narrow ground limited the Persian advantage in numbers.\n\n### Hoplite discipline, not superhero combat\n\n300 turns the Spartans into individual action heroes. In reality, the strength of Greek defence lay in hoplite discipline. A hoplite’s shield protected not only himself but the man next to him. The line worked because bodies, shields, and nerve held together. When the line broke, the danger was collective. The Persian army, meanwhile, was not a monster horde but a large, multi-ethnic imperial force with its own organization, cavalry, archers, infantry, and command structures. The pass made it harder for that wider system to use its full advantage.\n\n### The last stand and its memory\n\nAccording to the Herodotean tradition, the Persians eventually used a mountain path shown by Ephialtes to get around the Greek position. Why Leonidas stayed for the final defence has been interpreted in several ways: duty, prophecy, covering a withdrawal, buying time, and Spartan law all became part of the memory. The last stand also included the Thespians, a detail often erased in popular retellings.\n\nThermopylae did not stop the Persian invasion militarily; the Persians passed the position. Its power came from what it became afterward. The defence bought time and contributed to the morale that led into Salamis and Plataea. Later memory turned defeat into a political symbol: free Greeks against imperial power, discipline against numbers, sacrifice against submission. That memory is exactly what 300 exaggerates. The real True Frame is not that the legend is false, but that geography, allied troops, hoplite order, and propaganda all made the legend possible.\n\n### Why the myth endured\n\nThe later power of Thermopylae came from its usefulness as a story. It offered a compact image of courage: a small force holding a pass against overwhelming numbers. That image could be repeated in speeches, monuments, schoolbooks, and films because it stripped the event down to duty and sacrifice. But the more we reduce the battle, the more we lose what made the defence possible in the first place: planning, terrain, allied participation, and a shared Greek fear of Persian domination.\n\nThe film 300 works almost like propaganda about propaganda. Its images are not neutral reconstructions; they are stylized exaggerations of what heroic memory does. The historical Thermopylae does not need monsters or perfect heroes to matter. It matters because a real coalition used a real landscape to delay a real imperial army, and because later generations turned that delay into an idea about freedom and duty.",
+      "whyItMatters": "Thermopylae shows how a defeat can become a political symbol when geography, discipline, sacrifice, and memory align.",
+      "sources": [
+        {
+          "title": "Battle of Thermopylae - Britannica",
+          "url": "https://www.britannica.com/event/Battle-of-Thermopylae",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Herodotus on Thermopylae - Livius",
+          "url": "https://www.livius.org/sources/content/herodotus/herodotus-on-thermopylae/",
+          "type": "primary-source",
+          "verified": true
+        },
+        {
+          "title": "Thermopylae (480 BCE) - Livius",
+          "url": "https://www.livius.org/articles/battle/thermopylae-480-bce/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "spartan-war-machines-myth",
+        "300-persian-immortals-real",
+        "300-hoplite-phalanx-real"
+      ],
+      "spoilerNote": "Contains minor contextual material from 300; it does not reveal every dramatic beat.",
+      "lastReviewedAt": "2026-06-24",
+      "whatWeSee": "300 presents Thermopylae as a nearly fantastical stand by 300 bare-chested Spartans against a dehumanized Persian army.",
+      "accuracyNote": "The battle and Leonidas’s last stand have historical grounding, but the film dehumanizes Persians, reduces Greek allies, and transforms hoplite warfare into individual action.",
+      "whyInteresting": "Thermopylae’s power lies not only in what happened at the pass, but in how a military defeat became a lasting story of duty and resistance.",
+      "misconception": "Many assume only 300 Spartans fought at Thermopylae. In reality, a wider Greek coalition defended the pass, and other troops also remained in the final stand."
+    },
+    {
+      "id": "1917-trench-comms-real",
+      "title": "Trench Communications: Runners and Delays",
+      "subtitle": "When telephone lines broke, speed meant human bodies.",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "World War I",
+        "Technology",
+        "Communication"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "1917",
+        "trench-warfare",
+        "communication",
+        "world-war-i",
+        "war"
+      ],
+      "quickRealityCheck": "Was 1917’s messenger mission pure cinema, or a real reflection of broken wires and delayed orders on the Western Front?",
+      "mediaChanged": "1917 makes the communications crisis visible through one urgent runner mission; historically, telephones, signals, pigeons, dogs, and runners formed a fragile network constantly broken by shellfire.",
+      "realHistory": "Communication on the First World War front was a fragile mix of modern technology and older methods. Field telephones could connect command posts to forward positions, but the wires were easily cut by artillery. Repairing them often meant going out under fire. Wireless equipment existed, but it was limited, heavy, insecure, and not yet a universal battlefield solution. Signal lamps, flags, pigeons, dogs, runners, and telephone lines all operated side by side.\n\nThat makes the runner mission in 1917 more than a cinematic convenience. If an attack order or cancellation arrived too late, hundreds or thousands of men could be sent into a trap. Runners moved through mud, shellfire, gas danger, snipers, wire, and confusion. Even if they survived, the situation at the front might already have changed by the time the message arrived.\n\nThe film compresses this into one continuous journey. Real communications were more scattered and redundant: the same message might be sent by several routes, commanders often learned events too late, and orders could lag behind reality. On the Western Front, information was not a background detail. It was one of the main limits on command.",
+      "whyItMatters": "In modern war, information can be as decisive as weapons. When communication breaks, even a good plan can become a blind order.",
+      "sources": [
+        {
+          "title": "Communication on the Front Line - National Army Museum",
+          "url": "https://ww1.nam.ac.uk/915/news/communication-front-line/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Communication - Canadian War Museum",
+          "url": "https://www.warmuseum.ca/firstworldwar/history/battles-and-fighting/tactics-and-logistics-on-land/communication/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Dogs in WWI - National WWI Museum and Memorial",
+          "url": "https://www.theworldwar.org/learn/about-wwi/dogs-wwi",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "1917-trenches",
+        "1917-no-mans-land-reality",
+        "1917-siper-savasi-flagship"
+      ],
+      "spoilerNote": "Contains minor contextual material from 1917; it does not reveal the full ending.",
+      "whatWeSee": "1917 turns the problem of battlefield communication into a race against time. A message has to cross broken ground because the usual channels can no longer be trusted.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "The film captures the danger of runners well, but real message traffic was usually a fragmented process involving multiple channels rather than one heroic route.",
+      "whyInteresting": "One of the most modern battlefield tools, the field telephone, could be made useless by a few shells, forcing armies back onto human speed.",
+      "misconception": "It is easy to imagine First World War commanders controlling the front in real time; in practice, communication delays often left decisions behind the battle."
+    },
+    {
+      "id": "valiant-hearts-war-dogs-real",
+      "title": "Mercy Dogs: The Sanitatshunde",
+      "subtitle": "The quiet helpers of no man’s land.",
+      "mediaType": "game",
+      "mediaTitle": "Valiant Hearts",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "World War I",
+        "Animals",
+        "Medicine"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "valiant-hearts",
+        "world-war-i",
+        "dogs",
+        "medicine"
+      ],
+      "quickRealityCheck": "Is the dog in Valiant Hearts only a charming companion, or a softened version of real military and medical support dogs used in World War I?",
+      "mediaChanged": "The game makes dogs emotional and puzzle-friendly; historically, dogs worked as messengers, sentries, carriers, and casualty finders in the logistics of war.",
+      "realHistory": "Dogs in the First World War were not only mascots. Different armies used them for communication, guard duty, carrying supplies, and helping locate wounded soldiers. The dog in Valiant Hearts turns this real wartime role into a warmer, playable companion, but the historical work was much harsher.\n\nSo-called mercy dogs, or ambulance dogs, were trained to search no man’s land after fighting. Some carried small medical supplies; others were trained to signal the location of a wounded soldier to their handlers. These stories should not be turned into miracle legends without caution, but the practical need was real. Mud, gas, wire, machine guns, and shellfire could make it extremely dangerous for human stretcher parties to search exposed ground.\n\nDogs did not make war humane. They reveal how inhuman the conditions had become. When modern technology and human systems failed, the ability of an animal to smell, navigate, and find a living body could still matter.",
+      "whyItMatters": "This card reminds us that war history is not only weapons and generals, but also hidden logistics and animal labour.",
+      "sources": [
+        {
+          "title": "Dogs in WWI - National WWI Museum and Memorial",
+          "url": "https://www.theworldwar.org/learn/about-wwi/dogs-wwi",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "War Dogs: How WWI Led to the Military Working Dog Program - U.S. War Department",
+          "url": "https://www.war.gov/News/Feature-Stories/Story/article/3895789/war-dogs-how-wwi-led-to-the-military-working-dog-program/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "15 Animals That Went to War - Imperial War Museums",
+          "url": "https://www.iwm.org.uk/history/15-animals-that-went-to-war",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "valiant-hearts-wwi"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Valiant Hearts uses its dog companion as a loyal friend and helper, creating a small pocket of tenderness in the middle of war.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "The use of dogs on the front is historically real. Exact rescue numbers and individual heroic stories vary by source and should be treated carefully.",
+      "whyInteresting": "Even in industrial war, animal senses such as smell and orientation could remain valuable to modern armies.",
+      "misconception": "War animals are often imagined only as mascots; in World War I, dogs performed active messenger, search, sentry, and support roles."
+    },
+    {
+      "id": "pentiment-printing-press-clash",
+      "title": "Print vs. Manuscript: The Break of an Age",
+      "subtitle": "Knowledge, authority, and the end of a slower world.",
+      "mediaType": "game",
+      "mediaTitle": "Pentiment",
+      "difficulty": "deep",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Renaissance",
+        "Technology",
+        "Religion"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "pentiment",
+        "printing-press",
+        "middle-ages",
+        "renaissance"
+      ],
+      "quickRealityCheck": "Is Pentiment’s loss of the scriptorium only a sad artistic change, or a local view of knowledge moving from manuscript to print?",
+      "mediaChanged": "Pentiment makes the transition melancholy and local; historically, the shift from manuscript to print became a major media change tied to Reformation conflict and authority crises.",
+      "realHistory": "One of Pentiment’s strongest historical tensions is the changing value of manuscript culture in the age of print. In monastic scriptoria, producing a book was slow, expensive, and skilled work. Copying a text meant more than reproduction: it involved correction, decoration, interpretation, and institutional control.\n\nThe spread of movable type in Europe after the mid-15th century changed the speed and scale of textual circulation. It did not destroy manuscript culture overnight; for a long time printed and handwritten books existed together. But print made pamphlets, religious arguments, vernacular works, and political claims much easier to multiply. In the age of Luther, Reformation arguments travelled with a force that manuscript culture alone could not have produced.\n\nPentiment presents this shift at human scale: an artist, a monastery, and a town feel their place in knowledge production changing. The history is not “ignorant monks versus liberating print.” It is about the centres of textual authority moving outward, from guarded institutions into a wider, faster, and more contested public world.",
+      "whyItMatters": "Media technology does not only spread information; it can shift the balance of power between institutions.",
+      "sources": [
+        {
+          "title": "History of Printing - Britannica",
+          "url": "https://www.britannica.com/topic/printing-publishing/History-of-printing",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Printing Press & the Protestant Reformation - World History Encyclopedia",
+          "url": "https://www.worldhistory.org/article/2039/the-printing-press--the-protestant-reformation/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Role of Printing in Medieval and Reformation Europe - University of Arizona Libraries",
+          "url": "https://exhibits.lib.arizona.edu/exhibits/show/reformation/role-of-printing",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "pentiment-printing-press"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "Pentiment places the decline of manuscript culture inside a small community. The change feels personal: a craft, an institution, and a way of controlling texts are all under pressure.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "Print did not immediately erase manuscript culture, but it changed production, reproduction, distribution, and the reach of religious and political debate.",
+      "whyInteresting": "The printing revolution did not merely create more books; it changed who could produce texts, who could police them, and how quickly ideas could spread.",
+      "misconception": "The printing press is often treated as a neutral machine for faster books; in practice, print changed the struggle over religious and political authority."
+    },
+    {
+      "id": "the-terror-franklin-canning",
+      "title": "Franklin’s Expedition and the Canning Disaster",
+      "subtitle": "When modern logistics met the Arctic.",
+      "mediaType": "series",
+      "mediaTitle": "The Terror",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Victorian Era",
+        "Logistics",
+        "Polar Exploration"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "the-terror",
+        "franklin-expedition",
+        "polar-exploration",
+        "technology",
+        "science"
+      ],
+      "quickRealityCheck": "Was the Franklin expedition doomed only by bad cans, or by a wider collapse of logistics, environment, disease, and decision-making?",
+      "mediaChanged": "The series turns food and poisoning into psychological horror; historical evidence treats lead exposure as a possible factor, but not the only explanation.",
+      "realHistory": "The canned food problem in the Franklin expedition is one of The Terror’s most striking historical layers, but the disaster should not be reduced to “bad cans killed them.” HMS Erebus and HMS Terror sailed in 1845 with advanced equipment for the age: reinforced hulls, auxiliary steam engines, and provisions that appeared sufficient for years. Canned food was part of that confidence.\n\nLater research found high lead levels in some crew remains, leading to debates about cans, shipboard water systems, and other possible sources. Lead exposure may have contributed to the tragedy, but it cannot explain everything on its own. The ships became trapped in ice, scurvy, hunger, cold, disease, navigation problems, and the decision to drag heavy supplies south all mattered.\n\nThe Terror makes canned food feel almost cursed. A more careful historical reading is that modern-looking logistics failed against Arctic conditions. The expedition had technology, but limited local knowledge; supplies, but an environment that broke the plan. Franklin’s tragedy is less a single fatal mistake than a chain of errors and pressures that reinforced one another.",
+      "whyItMatters": "The expedition shows how technological confidence can become dangerous when it underestimates local knowledge and environmental limits.",
+      "sources": [
+        {
+          "title": "What Happened to Erebus and Terror's Crew? - Royal Museums Greenwich",
+          "url": "https://www.rmg.co.uk/stories/maritime-history/what-happened-to-erebus-terror-crew-true-story",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "History of the Franklin Expedition - Parks Canada",
+          "url": "https://parks.canada.ca/lhn-nhs/nu/epaveswrecks/culture/histoire-history",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Franklin Search - The Canadian Encyclopedia",
+          "url": "https://www.thecanadianencyclopedia.ca/en/article/franklin-search",
+          "type": "encyclopedia",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "the-terror-arctic",
+        "the-terror-arctic-tragedy-flagship"
+      ],
+      "spoilerNote": "Contains minor contextual material from The Terror; it does not reveal every plot detail.",
+      "whatWeSee": "The Terror makes the Franklin expedition’s supplies feel like part of the nightmare. Modern food technology, meant to keep the men alive, becomes tied to fear, sickness, and loss of control.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "Lead exposure is a serious historical debate, but current readings do not explain the Franklin disaster through one cause alone.",
+      "whyInteresting": "Franklin’s expedition shows that the most modern logistics of an age can still fail when they misread the environment.",
+      "misconception": "The crew is often said to have died simply because of bad cans; in reality, lead exposure, scurvy, hunger, cold, ice, and decisions all have to be considered."
+    },
+    {
+      "id": "last-emperor-manchukuo-propaganda",
+      "title": "Manchukuo: A Propaganda State",
+      "subtitle": "Puyi’s puppet empire and Japan’s imperial dream.",
+      "mediaType": "film",
+      "mediaTitle": "The Last Emperor",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Modern History",
+        "China",
+        "Propaganda"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "the-last-emperor",
+        "manchukuo",
+        "japan",
+        "china"
+      ],
+      "quickRealityCheck": "Did Puyi regain real imperial power in Manchukuo, or was he used as a symbolic face for Japanese occupation?",
+      "mediaChanged": "The film foregrounds personal tragedy; the historical record shows Manchukuo primarily as a state facade used to legitimize Japan’s occupation of Manchuria.",
+      "realHistory": "The Last Emperor frames Puyi’s move to Manchukuo as a story of escape, status, and manipulation. Historically, Manchukuo was a puppet-state project created to legitimize Japan’s occupation of Manchuria. Puyi’s Qing imperial background gave the project a useful appearance of historical continuity and local legitimacy.\n\nOn paper Puyi was a ruler. In practice, power lay with Japanese military and civilian advisers, especially the Kwantung Army. Manchukuo’s propaganda promised order, development, and multiethnic harmony. Behind that image stood occupation, resource extraction, military control, and the removal of real Chinese sovereignty.\n\nThe film is strong on Puyi’s isolation and weakness, but Manchukuo should not be read only as one tragic man’s palace. It was a stage for imperial propaganda. Puyi’s old title helped provide a historical costume for Japanese expansion. When Japan was defeated in 1945, Manchukuo collapsed quickly, revealing how shallow its independent political foundation had been.",
+      "whyItMatters": "The story shows that puppet states are built not only with armies, but also with symbols, ceremonies, and claims of historical legitimacy.",
+      "sources": [
+        {
+          "title": "Manchukuo: Imperial Japan's Puppet State - Nippon.com",
+          "url": "https://www.nippon.com/en/in-depth/d00815/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Puyi - Britannica",
+          "url": "https://www.britannica.com/biography/Puyi",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Establishment of Manchukuo - Pacific Atrocities Education",
+          "url": "https://www.pacificatrocities.org/blog/the-establishment-of-manchukuo-beginning-of-the-japanese-conquest-of-china",
+          "type": "education",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "last-emperor-china-fall",
+        "last-emperor-court-ritual",
+        "last-emperor-forbidden-city-eunuchs-real"
+      ],
+      "spoilerNote": "Contains minor contextual material from The Last Emperor; it does not reveal the full ending.",
+      "whatWeSee": "The Last Emperor presents Puyi’s Manchukuo years through status, loneliness, and tightening Japanese control.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "Puyi’s role in Manchukuo was real, but it should be understood as symbolic rule under Japanese control rather than independent sovereignty.",
+      "whyInteresting": "Manchukuo shows how an old dynastic symbol could be reused for modern propaganda and occupation politics.",
+      "misconception": "Puyi is often imagined as having truly ruled Manchukuo as an independent emperor; his authority was limited by Japanese control."
+    },
+    {
+      "id": "1917-no-mans-land-reality",
+      "title": "No Man’s Land: A Real Nightmare",
+      "subtitle": "The lethal space between two fronts.",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "World War I",
+        "Military History"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "1917",
+        "trench-warfare",
+        "no-mans-land",
+        "world-war-i",
+        "war"
+      ],
+      "quickRealityCheck": "Is the no man’s land in 1917 just a frightening set piece, or the real tactical dead zone created by modern firepower?",
+      "mediaChanged": "1917 presents no man’s land as an intense visual ordeal; historically, it was a physical obstacle, a patrol zone, and a mass grave of failed attacks.",
+      "realHistory": "No man’s land was the space between opposing trench lines in the First World War, but “empty” is the wrong word. It could be filled with shell craters, barbed wire, mud, corpses, unexploded ordnance, and sniper danger. Its width varied by sector: in some places it stretched hundreds of metres; elsewhere the lines were much closer.\n\nBy day, moving into no man’s land could be suicidal. By night, patrols cut or repaired wire, searched for wounded men, gathered information, and tried to approach enemy positions. When a flare lit the sky, men often had to freeze in place. 1917 captures the visual horror of the terrain well, but the real no man’s land was not just atmosphere. It was a tactical lock.\n\nWhen an attack began, soldiers had to leave their own trench and cross this exposed ground under machine-gun fire, artillery, and observation. Barbed wire could stop them before they even reached the enemy line. No man’s land shows not only the apparent absurdity of the war, but also the terrible vulnerability of the human body in the age of modern defensive fire.",
+      "whyItMatters": "This space explains why modern defensive fire made infantry assaults so costly.",
+      "sources": [
+        {
+          "title": "Trench Warfare - National WWI Museum and Memorial",
+          "url": "https://www.theworldwar.org/learn/about-wwi/trench-warfare",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Living in the Trenches - Imperial War Museums",
+          "url": "https://www.iwm.org.uk/learning/resources/living-in-the-trenches",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Life in the Trenches - Imperial War Museums",
+          "url": "https://www.iwm.org.uk/history/first-world-war/western-front/life-in-the-trenches",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "1917-trenches",
+        "1917-trench-comms-real",
+        "1917-siper-savasi-flagship"
+      ],
+      "spoilerNote": "Contains minor contextual material from 1917; it does not reveal the full ending.",
+      "whatWeSee": "1917 turns no man’s land into a broken, silent, muddy landscape that the characters must cross. The scene feels almost unreal, but its foundations are historical.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "The film captures the atmosphere well, but no man’s land varied by sector and changed constantly under shellfire, patrols, weather, and wire work.",
+      "whyInteresting": "No man’s land was not land that belonged to no one; it was ground both sides tried to control by making it deadly.",
+      "misconception": "No man’s land is often imagined as simply empty abandoned ground; in reality it was an active death zone of wire, craters, bodies, ammunition, and observation."
+    },
+    {
+      "id": "1917-siper-savasi-flagship",
+      "title": "Trench Warfare: The Static Hell of the Western Front",
+      "subtitle": "The rhythm of modern war and the destruction of a generation.",
+      "mediaType": "film",
+      "mediaTitle": "1917",
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "World War I",
+        "Military History",
+        "European History"
+      ],
+      "isFlagship": true,
+      "accuracyType": "real",
+      "spoilerLevel": "major",
+      "tags": [
+        "1917",
+        "trench-warfare",
+        "world-war-i",
+        "western-front",
+        "war"
+      ],
+      "quickRealityCheck": "Does 1917’s moving journey represent the whole Western Front, or a cinematic way to make a static war feel visible?",
+      "mediaChanged": "The film works through movement and urgency; historical trench warfare was more often defined by immobility, waiting, shellfire, poor living conditions, and broken communications.",
+      "realHistory": "### The trench as defence and habitat\n\n1917 follows characters who are constantly moving. The daily reality of the Western Front was often the opposite: being unable to move. Trenches were not simple ditches. They formed layered systems of front lines, support lines, reserve lines, communication trenches, dugouts, and supply routes. Soldiers stood watch, ate, slept badly, waited for orders, and lived with mud, rats, lice, cold, fear, and bad sanitation. Trench foot and disease were less cinematic than gunfire, but they were part of the cost of the war.\n\n### Modern firepower and stalemate\n\nThe front became static not because soldiers lacked courage, but because defence had become extraordinarily strong. Machine guns, artillery, barbed wire, observation, and prepared positions made open infantry movement extremely dangerous. Artillery did not only destroy bodies and positions; it shattered nerves through sound, vibration, and the expectation of death. The symptoms called shell shock showed that industrial war damaged minds as well as bodies.\n\n### Communication and no man’s land\n\nCommand was limited by information. Telephone lines were cut by shellfire, messages arrived late, and commanders often understood the front through reports already out of date. Runners, pigeons, signal methods, and field telephones all mattered because no single system was reliable. Between the lines lay no man’s land: wire, craters, mud, corpses, and unexploded shells. A few hundred metres could cost thousands of lives.\n\n### What 1917 compresses\n\n1917 turns this world into one urgent mission, which is powerful cinema. History was often slower and more repetitive: waiting, enduring, fearing, going over the top, returning to the same lines, or not returning at all. The film chooses movement; the historical lesson is how industrial firepower created paralysis. Trench warfare was not just a tactic. It changed how the 20th century imagined war: less glory, more machinery, mud, and administrative death.\n\n### Beyond the heroic mission\n\nThe film’s single mission is emotionally clear, but the Western Front was usually less legible. Soldiers rarely saw the whole battle they were part of. A man might know his trench, his section, the next shell hole, the next order, and very little else. This limited view is one reason memoirs of the war often feel fragmented: the experience was not a clean map, but noise, mud, rumour, routine, and sudden terror.\n\nTrench warfare also made time feel strange. Long periods of boredom could be broken by seconds of extreme violence. A unit might spend days repairing wire, draining water, carrying ammunition, or waiting for relief, then be ordered into an attack that erased weeks of routine in minutes. This is the historical weight behind 1917’s urgency. The film gives us motion; the real war often gave soldiers the dread of knowing that motion, when it came, might mean walking into industrial fire.",
+      "whyItMatters": "Trench warfare shows how modern technology could turn the idea of progress into mass paralysis and destruction.",
+      "sources": [
+        {
+          "title": "Trench Warfare - National WWI Museum and Memorial",
+          "url": "https://www.theworldwar.org/learn/about-wwi/trench-warfare",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Trench Warfare - Britannica",
+          "url": "https://www.britannica.com/topic/trench-warfare",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Weapons of the Western Front - National Army Museum",
+          "url": "https://www.nam.ac.uk/explore/weapons-western-front",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "1917-trenches",
+        "1917-trench-comms-real",
+        "1917-no-mans-land-reality"
+      ],
+      "spoilerNote": "Contains major contextual material from 1917.",
+      "lastReviewedAt": "2026-06-24",
+      "whatWeSee": "1917 presents the Western Front through two soldiers moving against time. Trenches, no man’s land, and ruined settlements become stations in a continuous journey.",
+      "accuracyNote": "1917 is strong in atmosphere and detail, but its dramatic structure compresses the long, static, repetitive, and logistical nature of trench war.",
+      "whyInteresting": "On the Western Front, gaining a few hundred metres could mean weeks of preparation and thousands of casualties.",
+      "misconception": "Trench warfare is sometimes dismissed as cowardly waiting; in reality, the waiting was produced by modern defensive firepower that made attack extraordinarily vulnerable."
+    },
+    {
+      "id": "the-terror-arctic-tragedy-flagship",
+      "title": "The Franklin Expedition: An Empire Lost in Ice",
+      "subtitle": "Confidence, cans, and the Northwest Passage.",
+      "mediaType": "series",
+      "mediaTitle": "The Terror",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Victorian Era",
+        "Logistics",
+        "Polar Exploration"
+      ],
+      "isFlagship": true,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "the-terror",
+        "franklin-expedition",
+        "polar-exploration",
+        "britain"
+      ],
+      "quickRealityCheck": "The monster in The Terror is fictional, but was the real Franklin disaster already terrifying enough through ice, hunger, technology, and blindness to local knowledge?",
+      "mediaChanged": "The Terror centres supernatural horror; the historical tragedy is already grounded in ice, disease, hunger, logistics, and the late recognition of Inuit knowledge.",
+      "realHistory": "### Victorian confidence meets the Arctic\n\nWhen HMS Erebus and HMS Terror sailed in 1845 under Sir John Franklin, the expedition looked like a showcase of British imperial confidence. The ships were reinforced, fitted with auxiliary steam engines, and stocked for what seemed like a long Arctic mission. The plan promised order, technology, and discipline. The Terror turns that confidence into dread; history shows why. A plan that looked rational in London became fragile in the ice, seasons, illness, and geography of the Arctic.\n\n### Trapped ships and the death march\n\nThe ships became locked in ice around King William Island in 1846. Franklin died in 1847. In 1848 the surviving crew abandoned the vessels and attempted to move south. That decision marks the expedition’s tragic final phase. Heavy loads, cold, hunger, scurvy, possible lead exposure, poor information, and exhausting terrain combined. None of the 129 men returned alive. The supernatural creature in the series is invention; the real conditions were brutal enough.\n\n### Cans, lead, and the single-cause trap\n\nThe Franklin disaster has often been explained through bad canned food and lead poisoning. Those issues matter, but they do not explain everything. Lead exposure, scurvy, starvation, hypothermia, being trapped in ice, command decisions, and environmental misunderstanding all need to be read together. Reducing the tragedy to one technical failure weakens the real lesson: advanced technology can become a liability when built on bad environmental assumptions.\n\n### Inuit knowledge and the recovery of history\n\nSome of the most valuable evidence about the expedition’s end came through Inuit testimony and oral knowledge. Nineteenth-century British search culture often discounted that knowledge. The discoveries of Erebus in 2014 and Terror in 2016 showed how local knowledge and modern archaeology could work together to reconstruct a lost history.\n\nThe Terror is therefore more than Arctic horror. The Franklin expedition is a history of imperial confidence, technical optimism, logistics, and the failure to listen to people who understood the landscape better.\n\n### The wrecks and the return of evidence\n\nThe modern discoveries of the wrecks changed how the expedition could be studied. Erebus was found in 2014 and Terror in 2016, giving historians and archaeologists material evidence to compare against written records and Inuit accounts. These discoveries did not solve every mystery, but they made the tragedy less abstract. The ships were no longer only symbols of disappearance; they were physical sites with objects, damage, and context.\n\nFor True Frame, this matters because The Terror uses horror to express what history already contains: isolation, institutional confidence, bad assumptions, and the limits of empire. The series invents a monster, but the real monster may be the belief that technology and command structure can replace listening, adaptation, and humility.",
+      "whyItMatters": "The expedition shows how technological confidence can fail without local knowledge and environmental humility.",
+      "sources": [
+        {
+          "title": "History of the Franklin Expedition - Parks Canada",
+          "url": "https://parks.canada.ca/lhn-nhs/nu/epaveswrecks/culture/histoire-history",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Wrecks of HMS Erebus and HMS Terror National Historic Site - Parks Canada",
+          "url": "https://parks.canada.ca/lhn-nhs/nu/epaveswrecks",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Franklin Search - The Canadian Encyclopedia",
+          "url": "https://www.thecanadianencyclopedia.ca/en/article/franklin-search",
+          "type": "encyclopedia",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "the-terror-arctic",
+        "the-terror-franklin-canning"
+      ],
+      "spoilerNote": "Contains minor contextual material from The Terror; it does not reveal every plot detail.",
+      "lastReviewedAt": "2026-06-24",
+      "whatWeSee": "The Terror turns the Franklin expedition into a survival story trapped between ice, hunger, discipline, and supernatural fear. The monster is fictional; the ships, canned food, ice, abandonment, and Inuit testimony belong to the real tragedy.",
+      "accuracyNote": "The show’s monster is fictional. The Franklin expedition, the trapped ships, abandonment, and the importance of Inuit testimony have historical grounding.",
+      "whyInteresting": "The discovery of Erebus and Terror was tied not only to modern technology but also to Inuit oral knowledge, raising questions about whose knowledge enters official history.",
+      "misconception": "The Franklin expedition is often explained by bad cans or one technical mistake; in reality, environment, illness, hunger, decisions, and information failures all mattered."
+    },
+    {
+      "id": "band-of-brothers-hedgerows-real",
+      "title": "Hedgerow Warfare: Normandy’s Endless Maze",
+      "subtitle": "Life and death in the bocage.",
+      "mediaType": "series",
+      "mediaTitle": "Band of Brothers",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "World War II",
+        "Tactics",
+        "France"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "band-of-brothers",
+        "normandy",
+        "bocage",
+        "war"
+      ],
+      "quickRealityCheck": "Are the hedgerows in Band of Brothers just atmosphere, or did Normandy’s bocage really slow the Allied advance?",
+      "mediaChanged": "Band of Brothers presents bocage fighting in intense action scenes; historically, each hedgerow could function like a small defensive system, making progress slow and costly.",
+      "realHistory": "After the Normandy landings, one of the Allies’ most difficult problems was the bocage. On the map, these fields looked ordinary. On the ground, centuries-old earth banks topped with dense hedges divided the countryside into a maze of small compartments. What seemed like rural landscape became a natural defensive system.\n\nGerman units used hedgerows, sunken roads, and narrow lanes very effectively. Each field could become a separate position. Machine guns, mortars, and anti-tank weapons could fire at short range from hidden angles. Tanks trying to climb over hedgerows could expose their vulnerable underside or lose momentum. Instead of rapid manoeuvre, the campaign often became a bloody field-by-field clearance.\n\nBand of Brothers compresses this into short, intense scenes. The historical process was weeks of adaptation. Allied forces eventually developed solutions such as hedgerow cutters or Rhino devices mounted on tanks. Bocage warfare shows that air power, armour, and numbers can still be slowed by local geography.",
+      "whyItMatters": "Hedgerow fighting shows that military technology only works as well as the terrain allows.",
+      "sources": [
+        {
+          "title": "Rhino Tank - National Museum of the United States Army",
+          "url": "https://www.thenmusa.org/armyinnovations/rhinotank/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "World War II Innovation - U.S. Army University Press",
+          "url": "https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/MilitaryReview_20160831_art024.pdf",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Breakout and Pursuit - U.S. Army Center of Military History",
+          "url": "https://history.army.mil/portals/143/Images/Publications/catalog/7-5.pdf",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "band-of-brothers-airborne",
+        "band-of-brothers-heroism"
+      ],
+      "spoilerNote": "Contains minor contextual material from Band of Brothers; it does not reveal the full ending.",
+      "whatWeSee": "Band of Brothers shows Normandy not only as open fields and heroic advance, but as tight lanes, hedgerows, and sudden close-range danger.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "The series captures the bocage atmosphere well, but the real tactical problem was not a few firefights; it was weeks of adaptation to terrain and engineering challenges.",
+      "whyInteresting": "Ordinary field boundaries in Normandy became natural defensive walls that slowed modern tanks and infantry.",
+      "misconception": "The Allied advance after D-Day is often imagined as rapid and open; bocage terrain made progress far harder and slower."
+    },
+    {
+      "id": "saving-private-ryan-higgins-boat",
+      "title": "Higgins Boat: The Vehicle That Put Normandy Ashore",
+      "subtitle": "The LCVP and the anatomy of an amphibious assault.",
+      "mediaType": "film",
+      "mediaTitle": "Saving Private Ryan",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "World War II",
+        "Engineering",
+        "Naval Warfare"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "major",
+      "tags": [
+        "saving-private-ryan",
+        "normandy",
+        "higgins-boat",
+        "technology",
+        "science"
+      ],
+      "quickRealityCheck": "Were Higgins boats just simple landing craft, or did they change the scale and speed of amphibious warfare?",
+      "mediaChanged": "Saving Private Ryan shows the LCVP at the moment of terror on the beach; historically, its value lay in solving a practical engineering problem at enormous scale.",
+      "realHistory": "The LCVP, commonly known as the Higgins Boat, is not just background machinery in Saving Private Ryan. It was a practical engineering answer to a hard problem: how to land large numbers of troops and equipment on shallow beaches without needing a developed port. Andrew Higgins’s design used a shallow-draft hull and a front ramp, allowing soldiers to disembark more quickly than from older boat arrangements.\n\nThat advantage came with danger. When the ramp dropped, soldiers could be exposed directly to machine-gun and artillery fire, especially on beaches such as Omaha. The very feature that made the craft efficient also produced one of the most terrifying images of amphibious warfare.\n\nThe importance of the Higgins Boat lies in scale. D-Day was not only bravery; it was logistics, production, timing, and standardized equipment. Thousands of small craft had to work as part of a massive system. The LCVP did not win Normandy alone, but without landing craft suited to shallow beaches, the Allied invasion would have been a far more difficult operation.",
+      "whyItMatters": "The craft shows that major battles are won not only by tactics and courage, but by solving logistical problems at scale.",
+      "sources": [
+        {
+          "title": "New Orleans in the Second World War - National WWII Museum",
+          "url": "https://www.nationalww2museum.org/war/articles/new-orleans-second-world-war",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Landing Craft Mechanized, the Other Higgins Boat at D-Day - National WWII Museum",
+          "url": "https://www.nationalww2museum.org/war/articles/louisiana-landing-craft-higgins-boat-d-day",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Lest We Forget: The Higgins Boat - U.S. Naval Institute",
+          "url": "https://www.usni.org/magazines/proceedings/2015/january/lest-we-forget-higgins-boat",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ryan-higgins-boats",
+        "saving-private-ryan-omaha",
+        "saving-private-ryan-snipers-reality"
+      ],
+      "spoilerNote": "Contains minor contextual material from Saving Private Ryan.",
+      "whatWeSee": "Saving Private Ryan’s opening makes the Higgins Boat almost inseparable from D-Day: cramped men, a lowering ramp, and the sudden exposure of the beach.",
+      "lastReviewedAt": "2026-06-27",
+      "accuracyNote": "The front ramp increased landing speed, but it also exposed troops at the moment of disembarkation, especially under heavy fire.",
+      "whyInteresting": "A design rooted in shallow-water and swamp craft became one of the symbols of the largest amphibious operation of the war.",
+      "misconception": "Higgins Boats are often seen as simple transport craft; they were engineering solutions that changed the scale of amphibious assault."
+    },
+    {
+      "id": "got-battle-of-bastards-hastings-real",
+      "title": "Battle of the Bastards and Hastings, 1066",
+      "subtitle": "Shield walls, compression, and a battle that changed a throne.",
+      "mediaType": "series",
+      "mediaTitle": "Game of Thrones",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Middle Ages",
+        "Tactics",
+        "England"
+      ],
+      "isFlagship": false,
+      "accuracyType": "inspired-by-reality",
+      "spoilerLevel": "minor",
+      "tags": [
+        "game-of-thrones",
+        "hastings",
+        "middle-ages",
+        "war"
+      ],
+      "quickRealityCheck": "Is the Battle of the Bastards a direct copy of Hastings, or a cinematic mix that uses real medieval battlefield pressures?",
+      "mediaChanged": "Game of Thrones turns battlefield pressure into an intense visual crush; historical parallels such as Hastings show how formation, terrain, discipline, and panic could decide a battle.",
+      "realHistory": "The Battle of the Bastards should not be tied to one historical battle as a direct adaptation. It is a cinematic blend of medieval and ancient battle images. Still, the Battle of Hastings in 1066 offers a useful historical parallel for several of its ideas: shield walls, formation pressure, discipline, and the political consequences of one battle.\n\nAt Hastings, Harold Godwinson’s Anglo-Saxon army held a strong defensive position on high ground, using a shield wall to resist William of Normandy’s forces. William’s army combined infantry, archers, and cavalry in repeated attempts to break that line. The strength of a shield wall was not individual heroism but collective discipline. If one part of the formation failed or chased too far, the entire structure could be endangered.\n\nThe Game of Thrones sequence exaggerates battlefield compression for visceral effect, but the underlying fear is real. Medieval combat could become a crowd problem: men trapped by their own side, pushed by enemies, unable to breathe, see, or retreat. Hastings also shows why battles mattered politically. A broken formation could mean not just defeat, but a new ruler and a transformed kingdom.",
+      "whyItMatters": "The comparison shows how fantasy battles can use real medieval battlefield mechanics without being literal history.",
+      "sources": [
+        {
+          "title": "What Happened at the Battle of Hastings (English Heritage)",
+          "url": "https://www.english-heritage.org.uk/visit/places/1066-battle-of-hastings-abbey-and-battlefield/history-and-stories/what-happened-battle-hastings/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "1066 and the Norman Conquest (English Heritage)",
+          "url": "https://www.english-heritage.org.uk/learn/histories/1066-and-the-norman-conquest/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Battle of Hastings (Britannica)",
+          "url": "https://www.britannica.com/event/Battle-of-Hastings",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "got-roses",
+        "got-war-of-roses-real"
+      ],
+      "spoilerNote": "Contains minor contextual material from Game of Thrones.",
+      "whatWeSee": "Game of Thrones stages the Battle of the Bastards as a suffocating mass of shields, arrows, horses, bodies, and panic. Jon Snow’s near-crushing makes the scene less heroic than physically terrifying.",
+      "lastReviewedAt": "2026-06-27",
+      "accuracyNote": "Hastings should not be presented as the one definitive source for the Battle of the Bastards. It works as a parallel for shield walls, discipline, and the political consequence of battlefield collapse.",
+      "whyInteresting": "A shield wall depended less on individual heroism than trust in the person beside you; one panic could threaten the entire line.",
+      "misconception": "Medieval battles are often imagined as chains of individual duels; formation, terrain, command, and crowd pressure were often more decisive."
+    },
+    {
+      "id": "vikings-funeral-fadlan-real",
+      "title": "Viking Funerals and Ibn Fadlan",
+      "subtitle": "A Rus funeral through the eyes of an Arab traveller.",
+      "mediaType": "series",
+      "mediaTitle": "Vikings",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Vikings",
+        "Culture",
+        "Religion"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "vikings",
+        "scandinavia",
+        "funeral",
+        "ibn-fadlan"
+      ],
+      "quickRealityCheck": "Were all Viking funerals burning ships, or is that image built from specific, varied, and sometimes outside accounts?",
+      "mediaChanged": "Series often turn Norse funerals into a grand visual ritual; Ibn Fadlan’s account is more disturbing, specific, and socially complicated than the usual burning-ship image.",
+      "realHistory": "Ibn Fadlan’s 10th-century account of a funeral among the Rus on the Volga is one of the most striking outside observations connected to the Viking world. The key caution is that he was not describing every Scandinavian society. He observed a particular Rus trading and warrior group in the Volga region. The text is therefore extremely valuable, but it cannot be used as a universal model for all Viking funerals.\n\nIn the account, a high-status man is kept before burial while goods, animals, alcohol, ritual performance, and human sacrifice become part of the ceremony. The description is uncomfortable because it shows death as a social event tied to rank, violence, slavery, gender, and community pressure. It is not just a poetic farewell.\n\nArchaeology also shows that Norse burial practices varied widely by region, status, period, and belief. Some people were cremated, some buried, some placed in boats or boat-shaped settings, and many received grave goods. The familiar image of a burning ship pushed into the water is only one later popular shorthand. The real picture is more varied and more historically specific.",
+      "whyItMatters": "The card separates a powerful popular image from the more varied and unsettling historical evidence for Norse and Rus funerary practice.",
+      "sources": [
+        {
+          "title": "Ibn Fadlan (Britannica)",
+          "url": "https://www.britannica.com/biography/Ibn-Fadlan",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Among the Norse Tribes: The Remarkable Account of Ibn Fadlan (AramcoWorld Archive)",
+          "url": "https://archive.aramcoworld.com/issue/199906/among.the.norse.tribes-the.remarkable.account.of.ibn.fadlan.htm",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Viking Burial Customs (National Museum of Denmark)",
+          "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/religion-magic-death-and-rituals/",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "vikings-raid",
+        "viking-horned-helmet",
+        "vikings-silk-road-trade"
+      ],
+      "spoilerNote": "Contains minor contextual material from Vikings; it does not reveal the full ending.",
+      "whatWeSee": "Vikings and similar productions often show Norse funerals through burning ships, sacrifice, laments, and spectacular rites. The result is both romantic and unsettling.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "Ibn Fadlan’s account is not a standard model for all Viking funerals; it is a very important outside observation of Rus communities in the Volga region.",
+      "whyInteresting": "His text shows the funeral not only as a religious ritual, but as a social event involving status, violence, slavery, and group pressure.",
+      "misconception": "Viking funerals are often imagined as always involving burning ships; practices varied by region, period, and status."
+    },
+    {
+      "id": "the-crown-aberfan-tragedy-real",
+      "title": "The Aberfan Disaster and the Queen’s Delayed Visit",
+      "subtitle": "A town’s grief, and the institutions that failed it.",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Britain",
+        "Modern History",
+        "Society"
+      ],
+      "isFlagship": true,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "the-crown",
+        "aberfan",
+        "britain",
+        "modern-history"
+      ],
+      "quickRealityCheck": "Was Aberfan a tragic natural landslide, or an industrial disaster shaped by institutional negligence?",
+      "mediaChanged": "The Crown frames Aberfan through the Queen’s emotional restraint and delayed visit; historically, the heart of the story is industrial responsibility, public grief, and state accountability.",
+      "realHistory": "### 21 October 1966: the tip above the school\n\nThe Aberfan disaster occurred on the morning of 21 October 1966, when a coal waste tip collapsed onto Pantglas Junior School and nearby houses in South Wales. The disaster killed 144 people, including 116 children. It should not be read as a natural accident. The tip had become dangerous through water, instability, and neglect. The later tribunal placed responsibility on the National Coal Board.\n\n### What The Crown notices\n\nThe Crown focuses on the emotional and symbolic aftermath: how a monarch trained in restraint responds to a community’s raw grief. Elizabeth II visited Aberfan eight days after the disaster, a delay that became one of the most discussed moments of her reign. The episode uses that delay to ask what monarchy is supposed to offer in a moment when it cannot undo anything.\n\n### Grief, responsibility, and memory\n\nThe deeper history is not only whether the Queen cried. Aberfan became a case study in industrial safety, institutional denial, and public accountability. Families were left with grief that could not be repaired by ceremony. The disaster also raised questions about how working communities were heard, ignored, or managed by national institutions.\n\nFor True Frame, Aberfan matters because it reveals the difference between symbolic response and material responsibility. The Crown makes the monarchy visible; history also requires us to keep the National Coal Board, local warnings, and the community’s long grief in view.\n\n### A disaster made by neglect\n\nThe tribunal’s findings matter because they shift the story away from fate. Aberfan was not simply a hill giving way. Local concerns about the tip had existed, and the danger of placing coal waste above a village and school became horrifyingly clear only after it was too late. The National Coal Board’s responsibility made the disaster a question of industrial governance, not only local mourning.\n\n### Monarchy and emotional distance\n\nThe Crown uses Elizabeth II’s delayed visit to ask whether a constitutional monarch must publicly perform grief. That is a real dramatic question, but it should not replace the community’s story. For the families, the central issue was not whether a royal visitor cried at the correct moment. It was that children had gone to school and never returned because institutions failed to treat danger with urgency.\n\n### Memory after the cameras leave\n\nAberfan remained painful long after the news cycle and royal visit ended. The disaster fund, public inquiries, and later debates over compensation and responsibility show how grief can become entangled with bureaucracy. That is why Aberfan is so powerful in history and on screen. It forces a country to ask what official sympathy means when official systems helped create the conditions for loss.",
+      "whyItMatters": "Aberfan shows why public mourning cannot substitute for institutional accountability.",
+      "sources": [
+        {
+          "title": "Aberfan Disaster 1966 (National Library of Wales)",
+          "url": "https://www.library.wales/discover-learn/digital-exhibitions/archives/aberfan-disaster-1966",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "The Aberfan Tribunal (Glamorgan Archives)",
+          "url": "https://glamarchives.gov.uk/blood/aberfan/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Aberfan Disaster Landslide Case Study (British Geological Survey)",
+          "url": "https://www.bgs.ac.uk/case-studies/aberfan-1966-landslide-case-study/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The True Story of the Aberfan Disaster (Smithsonian Magazine)",
+          "url": "https://www.smithsonianmag.com/history/true-story-aberfan-disaster-featured-crown-180973565/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "the-crown-monarchy",
+        "crown-monarchy-symbol",
+        "crown-tv-coronation-1953"
+      ],
+      "spoilerNote": "Contains minor contextual material from The Crown.",
+      "whatWeSee": "The Crown presents Aberfan through the grief of a Welsh mining community and the monarchy’s difficulty in responding to public mourning.",
+      "accuracyNote": "The Crown dramatizes Elizabeth II’s emotional response. The stronger historical frame includes 144 deaths, 116 children, the National Coal Board’s responsibility, and the Queen’s visit eight days later.",
+      "whyInteresting": "Aberfan is not only a monarchy episode; it remains a major case in industrial safety, public responsibility, and community grief.",
+      "misconception": "Aberfan is sometimes treated as an unavoidable landslide caused by rain; the tribunal linked the disaster to National Coal Board negligence."
+    },
+    {
+      "id": "the-crown-suez-crisis-empire-end",
+      "title": "The Suez Crisis: The Limit of Empire",
+      "subtitle": "How canal, oil, and power broke in 1956.",
+      "mediaType": "series",
+      "mediaTitle": "The Crown",
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Modern History",
+        "Politics",
+        "Britain"
+      ],
+      "isFlagship": true,
+      "accuracyType": "real",
+      "spoilerLevel": "minor",
+      "tags": [
+        "the-crown",
+        "suez-crisis",
+        "britain",
+        "modern-history"
+      ],
+      "quickRealityCheck": "Was Suez simply a military response to Nasser, or a crisis of oil, canal control, imperial prestige, U.S. pressure, and Cold War balance?",
+      "mediaChanged": "The Crown dramatizes the crisis through Anthony Eden’s health, pride, and political obsession; the history is a wider collision between old imperial reflexes and postwar power limits.",
+      "realHistory": "### Nasser and the canal\n\nIn 1956, Egyptian leader Gamal Abdel Nasser announced the nationalization of the Suez Canal. The canal linked the Mediterranean and the Red Sea and was vital for trade, oil, and imperial communication. For Britain and France, it was not just an economic asset but a symbol of great-power status. In London, Nasser’s move was read less as Egyptian sovereignty and more as a direct challenge to Britain’s old global position.\n\n### Sevres and the secret plan\n\nThe most controversial part of the crisis was the secret arrangement between Britain, France, and Israel. Israel would attack Egypt; Britain and France would then intervene under the language of separating the sides and protecting the canal. The plan depended on secrecy and on assumptions about how allies, markets, and international opinion would respond.\n\n### The new limits of power\n\nMilitarily, the operation achieved some immediate objectives. Politically, it failed. The United States opposed the intervention and applied financial pressure; the Soviet Union also condemned it. Britain discovered that postwar military action could not be separated from currency, oil, diplomatic legitimacy, and American support. Eden resigned soon afterward.\n\nSuez is therefore not only a story of one prime minister’s misjudgment. It marks the moment when Britain’s ability to act like an old empire was sharply exposed as limited. The Crown personalizes the crisis; history shows the collapse of a whole strategic assumption.\n\n### Eden’s personal crisis and Britain’s structural crisis\n\nThe Crown naturally gives Eden a human frame: illness, pressure, pride, and political anger. Those elements matter, but Suez was larger than one prime minister’s temperament. Britain after 1945 was still thinking in imperial terms while depending more heavily on American finance, global markets, and alliance politics. The crisis exposed that contradiction in public.\n\n### Nasser’s victory beyond the battlefield\n\nFor Nasser, surviving the intervention strengthened his standing across the Arab world. Even though the military balance was complex, the political result made him appear as a leader who had resisted old imperial powers. For Britain and France, the reverse happened. Their ability to act independently in the Middle East had been sharply limited.\n\n### Why Suez still matters\n\nSuez became a shorthand for the end of a certain kind of British power. The empire had already been changing, but the crisis made the change impossible to ignore. The canal was not just water and concrete; it was a symbol of who controlled routes, oil, prestige, and postwar legitimacy. That is why the event fits The Crown so well: it is a political crisis that also becomes a crisis of national self-image.",
+      "whyItMatters": "Suez reveals how postwar power depended not only on armies, but on finance, diplomacy, and alliance permission.",
+      "sources": [
+        {
+          "title": "Suez Crisis Teaching Resource (The National Archives UK)",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/suez-crisis/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Foreign Relations of the United States: Sèvres Understanding (Office of the Historian)",
+          "url": "https://history.state.gov/historicaldocuments/frus1955-57v16/d373",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Suez Crisis (National Army Museum)",
+          "url": "https://www.nam.ac.uk/explore/suez-crisis",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Suez Crisis (Britannica)",
+          "url": "https://www.britannica.com/event/Suez-Crisis",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "the-crown-monarchy",
+        "crown-monarchy-symbol",
+        "crown-tv-coronation-1953"
+      ],
+      "spoilerNote": "Contains minor contextual material from The Crown.",
+      "whatWeSee": "The Crown presents the Suez Crisis as a moment when Britain’s old imperial confidence collides with a new world order. Anthony Eden becomes the personal face of a much larger strategic failure.",
+      "accuracyNote": "The Crown personalizes and palace-focuses the crisis. Historically, canal nationalization, the secret Sevres plan, U.S. financial pressure, and Britain’s postwar limits must be read together.",
+      "whyInteresting": "Suez showed that a military operation could advance on the ground and still fail because of financial pressure and diplomatic isolation.",
+      "misconception": "Suez is often presented as only a military answer to Nasser; it was also about oil, canal control, imperial prestige, U.S. pressure, and the Cold War."
+    },
+    {
+      "id": "civ-alphabet-revolution-real",
+      "title": "The Alphabet: One of History’s Great Information Technologies",
+      "subtitle": "The step that made writing more teachable, portable, and repeatable.",
+      "mediaType": "game",
+      "mediaTitle": "Civilization",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Ancient World",
+        "Technology",
+        "Culture"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "civilization",
+        "alphabet",
+        "phoenicians",
+        "history"
+      ],
+      "quickRealityCheck": "Did the alphabet instantly make knowledge available to everyone, or did it slowly lower the cost of writing within institutions?",
+      "mediaChanged": "Civilization treats the alphabet as a technology-tree unlock; historically, its importance lies in making writing more portable and easier to teach across trade, law, and education.",
+      "realHistory": "The alphabet is one of history’s most important abstract technologies. Its power did not come from making everyone literate overnight, but from making writing comparatively easier to learn and transmit. The Phoenician writing system used a limited set of signs compared with more complex script traditions, creating a practical advantage for traders and record-keepers.\n\nThe Greek adaptation of the Phoenician system, especially the use of written vowel signs, was a major step in Mediterranean writing culture. Over time, alphabetic systems helped expand written law, contracts, literature, administration, and education. The effect was gradual and depended on institutions: schools, scribes, merchants, states, and later manuscript and print cultures.\n\nCivilization makes this into a clean progress step. History is messier. Writing systems do not automatically create open knowledge; they have to be taught, supported, and used by institutions. Still, the alphabet’s long-term importance is immense: it lowered the barrier to writing and helped make words more portable across trade routes, courts, and classrooms.",
+      "whyItMatters": "The alphabet shows that information technologies can transform society not by magic, but by lowering the cost of storing and transmitting meaning.",
+      "sources": [
+        {
+          "title": "The Phoenician Alphabet & Language (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/article/17/the-phoenician-alphabet--language/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Greek Alphabet (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/Greek_Alphabet/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Greece 1050–520 BC (British Museum)",
+          "url": "https://www.britishmuseum.org/collection/galleries/greece-1050-520-bc",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "civ-great-leaders-simplification",
+        "civ-great-library-alexandria-real"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "In Civilization, the alphabet or writing often appears as a milestone in the technology tree. For the player, it can mean science, diplomacy, administration, or new institutions.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "The Phoenician alphabet and Greek adaptation were critical, but the alphabet did not create immediate universal literacy by itself.",
+      "whyInteresting": "The alphabet’s strength is that it made complex speech writable through a small set of signs, lowering costs in trade, law, and education.",
+      "misconception": "The alphabet is often imagined as instantly democratizing knowledge; its effects were long-term and institution-dependent."
+    },
+    {
+      "id": "total-war-siege-starvation-real",
+      "title": "The Reality of Siege: Hunger, Disease, and Logistics",
+      "subtitle": "Waiting at the walls often mattered more than the assault.",
+      "mediaType": "game",
+      "mediaTitle": "Total War",
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "themes": [
+        "Middle Ages",
+        "War",
+        "Logistics"
+      ],
+      "isFlagship": false,
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "tags": [
+        "total-war",
+        "siege",
+        "middle-ages",
+        "war"
+      ],
+      "quickRealityCheck": "Were sieges usually won by heroic wall assaults, or by hunger, disease, negotiation, and logistics?",
+      "mediaChanged": "Total War turns sieges into dramatic assaults with rams, towers, engines, and burning gates; historical sieges were often slower contests of supply, morale, disease, and patience.",
+      "realHistory": "Most historical sieges cannot be understood through the final assault alone. Taking a castle or city often meant stopping supplies, cutting water, damaging morale, and waiting. For defenders, hunger, thirst, disease, and fear could become more dangerous than the wall itself. A strong fortification was only as good as its food, water, leadership, and hope of relief.\n\nThe attackers had serious problems too. Keeping thousands of soldiers in one place for weeks or months required food, fodder, sanitation, discipline, and money. The surrounding countryside could be exhausted. Disease could spread through the camp. A relief army might arrive and trap the besiegers between the walls and an outside force.\n\nSiege warfare was therefore not simply “storm the walls.” It was a contest of logistics, psychology, engineering, negotiation, and endurance. Sometimes cities fell by assault; often they surrendered, bargained, starved, or were betrayed. The dramatic breach is only the visible end of a much longer pressure system.",
+      "whyItMatters": "Sieges show that war is often decided by supply and endurance before it is decided by spectacular violence.",
+      "sources": [
+        {
+          "title": "Medieval Siege Warfare (English Heritage)",
+          "url": "https://www.english-heritage.org.uk/learn/story-of-england/medieval/siege-warfare/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Siege Warfare (Britannica)",
+          "url": "https://www.britannica.com/topic/siege-warfare",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "total-war-medieval-diplomacy-real"
+      ],
+      "spoilerNote": "",
+      "whatWeSee": "In Total War, sieges often build toward the spectacular moment of attack: walls breached, ladders raised, gates burned, and soldiers flooding through.",
+      "lastReviewedAt": "2026-06-24",
+      "accuracyNote": "It is unsafe to describe sieges with universal percentages. The better frame is that blockade, hunger, disease, negotiation, and logistics were central to siege warfare.",
+      "whyInteresting": "The besieging army could be as fragile as the city it surrounded; food, disease, and relief forces made waiting dangerous.",
+      "misconception": "Sieges are often imagined as heroic wall assaults; in reality, surrender, starvation, sickness, and negotiation could be more decisive."
+    }
+  ]
+}

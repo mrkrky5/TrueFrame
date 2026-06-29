@@ -1,0 +1,1425 @@
+{
+  "meta": {
+    "purpose": "English-native adaptation batch",
+    "sourceChunk": "source-chunk-005.json",
+    "batchNumber": 5,
+    "cardCount": 20,
+    "sourceCardRange": "TR order cards 81-100",
+    "alreadyAuthoredCountBeforeBatch": 80,
+    "authoredCountAfterBatch": 100,
+    "remainingCountAfterBatch": 351,
+    "ids": [
+      "ac-brotherhood-rome",
+      "ac-revelations-istanbul",
+      "ac-syndicate-london",
+      "ac-valhalla-settlement",
+      "total-war-attila-collapse",
+      "aoe4-mongol-logistics",
+      "aoe2-castles-politics",
+      "rdr-railroads-frontier",
+      "kcd-medieval-crime",
+      "total-war-three-kingdoms-warlords",
+      "lanoire-postwar-trauma",
+      "rome-patronage-mobs",
+      "gladiator-political-theater",
+      "shogun-hostage-politics",
+      "last-kingdom-alfred-england",
+      "chernobyl-bureaucracy-truth",
+      "band-of-brothers-heroism",
+      "oppenheimer-science-state",
+      "medieval-magic-vs-reason",
+      "vikings-not-only-raiders"
+    ]
+  },
+  "cards": [
+    {
+      "id": "ac-brotherhood-rome",
+      "title": "Renaissance Rome and Papal Power",
+      "subtitle": "The Borgia family's gray game of influence",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Brotherhood",
+      "mediaConnection": "This card uses the game's Rome of the early 1500s, Borgia rule, and Assassin-Templar conflict as a doorway into the history of papal politics.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "In Assassin's Creed Brotherhood, Ezio Auditore fights to free Rome from Rodrigo Borgia, Pope Alexander VI, and his son Cesare. The Borgias appear as corrupt dynasts who bend the city through violence, nepotism, and political control.",
+      "realHistory": "Assassin's Creed Brotherhood presents Rome under the Borgias as a city trapped by corruption. That frame is dramatic, but it is not built from nothing. In the late 15th and early 16th centuries, the papacy was not only a spiritual office. It ruled territory, negotiated with kings, managed alliances, and acted as one of the major political powers in Italy. Rodrigo Borgia's election as Alexander VI sat inside a world of family interest, patronage, office-holding, and Papal State ambitions.\n\nCesare Borgia belonged to that same hard political world. His move away from the cardinalate and toward a military and territorial career shows how blurred the line could become between church office and dynastic power. Machiavelli's interest in Cesare was not accidental: he saw in him a ruthless, effective example of power politics, not a moral hero.\n\nThe game turns the Borgias into almost pure villains and simplifies the period through the Assassin-Templar conflict. The real Rome was grayer. It mixed artistic patronage, urban renewal, diplomacy, nepotism, armed force, and religious legitimacy. That tension is what makes Renaissance Rome so useful for True Frame: beauty and corruption were not opposites there. Frescoes, mercenaries, sacred authority, and family ambition moved through the same streets.",
+      "accuracyNote": "Borgia nepotism and power politics have a real historical basis, but the secret-order conflict and clean hero-villain structure are fictional.",
+      "whyInteresting": "Cesare Borgia's shift from church career to military-political ambition shows how closely religion and state power could overlap in Renaissance Italy.",
+      "misconception": "Renaissance popes are often imagined only as religious leaders; some were also direct players in diplomacy, territorial politics, and war.",
+      "themes": [
+        "Renaissance",
+        "Politics",
+        "Religion"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "Cesare Borgia — Britannica",
+          "url": "https://www.britannica.com/biography/Cesare-Borgia",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Alexander VI — Britannica",
+          "url": "https://www.britannica.com/biography/Alexander-VI",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Papal States — Britannica",
+          "url": "https://www.britannica.com/place/Papal-States",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ac-revelations-istanbul"
+      ],
+      "nextTopics": [
+        "The Borgias",
+        "Machiavelli",
+        "The Papacy"
+      ],
+      "difficulty": "deep",
+      "era": "Renaissance",
+      "region": "Italy",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "assassins-creed-brotherhood",
+        "religion",
+        "italy",
+        "renaissance",
+        "politics"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "The game caricatures Borgia rule as open villainy; historically, corruption, artistic patronage, urban politics, and European diplomacy were parts of the same structure.",
+      "whyItMatters": "This period helps explain why modern political thought became so interested in power, alliance, legitimacy, and survival rather than ideal morality alone.",
+      "quickRealityCheck": "The Borgias were not just game villains; they symbolized the uneasy relationship between the Renaissance papacy and worldly power.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "ac-revelations-istanbul",
+      "title": "Ottoman Istanbul and Hidden Power Balances",
+      "subtitle": "Palace, port, and dynastic crisis in 1511",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Revelations",
+      "mediaConnection": "This card uses Revelations' 1511 Istanbul and its secret-politics atmosphere to examine Ottoman imperial information networks.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "Ezio Auditore arrives in Istanbul in 1511, where Ottoman Assassins help him fight Byzantine remnants and Templar plots. The city is framed as the cosmopolitan capital of a rising empire.",
+      "realHistory": "Assassin's Creed Revelations brings Ezio to Istanbul in 1511 and presents the city as the dynamic capital of Ottoman expansion. The atmosphere works because Istanbul really had become a major imperial center after the conquest. Muslims, Greeks, Armenians, Jews, Latins, traders, craftsmen, and officials all lived within the same urban system. Galata, the harbor, the markets, and the palace were not only places of commerce; they were places where news moved.\n\nThe background moment matters. Around 1511, Bayezid II's final years were marked by succession tension among his sons, especially Selim and Ahmed. That struggle was not confined to the palace. Provincial power, military support, and elite networks all shaped the crisis. Istanbul was therefore not a calm monument to Ottoman order, but a tense center where the future of the dynasty was being negotiated.\n\nThe Ottoman Assassins and the Templar conspiracy are fiction. Still, information gathering through envoys, sailors, merchants, interpreters, and palace officials had real political value. Figures such as Piri Reis remind us that maps and routes were strategic knowledge, not just curiosities. Revelations is strongest when it makes Istanbul feel like a knot of empire: trade, intelligence, religion, maritime knowledge, and dynastic pressure all passing through the same city.",
+      "accuracyNote": "The Assassin-Templar plot is fictional, but the dynastic tension around 1511, the port and trade networks, and Istanbul's role as a multicultural imperial center are historically grounded.",
+      "whyInteresting": "Piri Reis's cartographic work shows that maritime knowledge in the Ottoman world mattered for strategy, diplomacy, and power as much as for travel.",
+      "misconception": "Ottoman Istanbul is often reduced to palaces and mosques; in reality, harbors, embassies, guilds, and neighborhood networks also carried the city's political pulse.",
+      "themes": [
+        "Ottoman Empire",
+        "Istanbul",
+        "Intelligence"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "Istanbul — Britannica",
+          "url": "https://www.britannica.com/place/Istanbul",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Selim I — Britannica",
+          "url": "https://www.britannica.com/biography/Selim-I",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Piri Reis — Britannica",
+          "url": "https://www.britannica.com/biography/Piri-Reis",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ac-brotherhood-rome"
+      ],
+      "nextTopics": [
+        "Selim I",
+        "Espionage",
+        "Byzantium"
+      ],
+      "difficulty": "deep",
+      "era": "Early Modern Period",
+      "region": "Turkey",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "assassins-creed-revelations",
+        "istanbul",
+        "intelligence",
+        "ottoman-empire",
+        "turkey",
+        "early-modern-period"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Revelations centers a secret-order war; historically, power moved through dynastic rivalry, maritime knowledge, trade, and diplomatic information flows.",
+      "whyItMatters": "Istanbul in 1511 shows that an imperial capital was not just an impressive setting, but a living network where information and authority constantly circulated.",
+      "quickRealityCheck": "Ottoman Istanbul did have hidden power balances, but they ran less through modern spy agencies than through palace, port, envoy, and merchant networks.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "ac-syndicate-london",
+      "title": "Victorian London and Class Conflict",
+      "subtitle": "The smoky showcase of the Industrial Revolution",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Syndicate",
+      "mediaConnection": "This card uses the game's 1868 London, child workers, factories, and reform atmosphere to read the social history of the Industrial Revolution.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "Jacob and Evie Frye fight Templar industrialists who exploit London. The city is filled with factories, railways, smoke, child labor, and crowded working-class districts.",
+      "realHistory": "### Progress with a price\n\nAssassin's Creed Syndicate sets its 1868 London inside the contradictions of Victorian modernity. The city was one of the world's great centers of finance, trade, transport, and industrial power. It was also a place of overcrowded housing, child labor, dangerous work, polluted air, and deep inequality. That contrast is exactly what makes the game's atmosphere convincing: London was both the showcase of progress and the place where its costs were most visible.\n\nIndustrialization accelerated production, but for many workers it meant long hours, insecurity, and unhealthy neighborhoods. Children worked in factories, workshops, mines, and street trades. Laws such as the 1833 Factory Act began limiting some abuses, but they did not end child labor or poor working conditions overnight. The game's factory rescues turn that history into action; the real struggle was slower, legal, political, and union-based.\n\n### Rails, sewers, and the modern city\n\nRailways remade London as much as factories did. Stations, commuter lines, and freight routes sped up the movement of people and goods, while also displacing poorer districts. The city became too large and interconnected to be understood only on foot or by carriage. Work rhythms, distance, and daily life increasingly bent around timetables and infrastructure.\n\nPublic health forced another transformation. The Great Stink of 1858 exposed London's sewage crisis with brutal clarity, as waste in the Thames became a political emergency. Joseph Bazalgette's sewer system was a massive engineering response, but also a symbol of Victorian modernization: technology could solve crises, yet it also made the city more planned, regulated, and disciplined.\n\n### What the game simplifies\n\nSyndicate personalizes class conflict through gangs and villainous industrialists. That makes the setting playable, but it narrows the historical problem. Real Victorian London cannot be explained by a few bad men. Wages, housing, policing, migration, sanitation, railways, unions, and empire all shaped the same social order.\n\nThe game's strongest historical instinct is not that it gives London a single villain. It is that it makes the player feel a city being wired into the modern world while many of its residents pay the price. Even the language of improvement could hide conflict: reform came through inquiries, public scandal, legislation, and pressure from people who had little direct power over the city they kept running. Victorian London was not just elegant facades and imperial confidence. It was also smoke, sewage, child labor, labor organizing, and the birth of the modern urban problem.",
+      "accuracyNote": "Syndicate captures the architecture and tension of industrial London well, but its gang-war and hero-rescue structure compresses the long history of social reform and labor politics.",
+      "whyInteresting": "When the Thames became unbearable during the Great Stink, London's sewer system stopped being an engineering luxury and became a political necessity.",
+      "misconception": "Victorian London is often remembered as elegance and progress; it was also shaped by poverty, child labor, disease fears, and infrastructure crisis.",
+      "themes": [
+        "Industrial Revolution",
+        "London",
+        "Politics"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "The Great Stink of 1858 — London Museum",
+          "url": "https://www.londonmuseum.org.uk/collections/london-stories/great-stink-of-1858/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "The Great Stink — Historic England",
+          "url": "https://historicengland.org.uk/images-books/archive/collections/photographs/the-great-stink/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Industrial Revolution — Britannica",
+          "url": "https://www.britannica.com/event/Industrial-Revolution",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ac-valhalla-settlement"
+      ],
+      "nextTopics": [
+        "The Victorian Era",
+        "Trade Unions",
+        "Sewer Systems"
+      ],
+      "difficulty": "deep",
+      "era": "Modern Era",
+      "region": "England",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "assassins-creed-syndicate",
+        "england",
+        "london",
+        "industrial-revolution",
+        "politics",
+        "modern-era"
+      ],
+      "mediaChanged": "Syndicate makes class conflict visible through gangs and Templar industrialists; historically, the problem was broader, more institutional, and deeply tied to the industrial economy.",
+      "whyItMatters": "Victorian London shows both the achievements of modern urban infrastructure and the unequal human cost behind that achievement.",
+      "isFlagship": true,
+      "quickRealityCheck": "London was a showcase of progress, but that showcase stood on child labor, dirty air, and infrastructure crisis.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "ac-valhalla-settlement",
+      "title": "Viking Settlements and Cultural Blending",
+      "subtitle": "From raiding to settlement",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Valhalla",
+      "mediaConnection": "This card uses Valhalla's Ravensthorpe settlement to examine the Danelaw and 9th-century Scandinavian life in England.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "Eivor and the clan leave Norway and build a new settlement in England, expanding through war, alliances, trade, and local politics.",
+      "realHistory": "Ravensthorpe in Assassin's Creed Valhalla reminds us that Vikings in England were not only raiders. In the 9th century, the campaigns of the Great Viking Army gradually turned into landholding, farming, and local rule. In northern and eastern England, the region known as the Danelaw brought Scandinavian and Anglo-Saxon communities into the same political and everyday landscape.\n\nThese settlements were not simply military camps. Centers such as Jorvik, or York, became places of trade, craft production, and cultural contact. Place-name endings such as \"-by\" and \"-thorpe\" still preserve traces of Scandinavian settlement on the map. Language, law, family ties, and commerce all formed part of that encounter.\n\nThe game often turns settlement-building into a loop of alliance and warfare. The real process was slower and messier. Some places saw violence and seizure; others saw marriage, Christianization, trade, and shared daily life develop over generations. Valhalla is most historically useful when it shows Viking influence moving from sword to farm, market, and law.",
+      "accuracyNote": "The game's settlement mechanic is a useful historical starting point, but Viking-Saxon relations were shaped not only by war and alliance but by generations of settlement and cultural adaptation.",
+      "whyInteresting": "Many English place names still show how Viking settlement left a linguistic and geographical legacy long after the raids ended.",
+      "misconception": "Vikings in England are often imagined only as destructive invaders; in some regions they became farmers, traders, townspeople, and neighbors.",
+      "themes": [
+        "Vikings",
+        "Middle Ages",
+        "England"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "Danelaw — Britannica",
+          "url": "https://www.britannica.com/place/Danelaw",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Vikings in Britain — British Museum",
+          "url": "https://www.britishmuseum.org/collection/galleries/sutton-hoo-and-europe",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Jorvik Viking Centre — York Archaeology",
+          "url": "https://www.jorvikvikingcentre.co.uk/about-jvc/",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ac-syndicate-london",
+        "ac-valhalla-vikings"
+      ],
+      "nextTopics": [
+        "Danelaw",
+        "Alfred the Great",
+        "Jorvik"
+      ],
+      "difficulty": "deep",
+      "era": "Middle Ages",
+      "region": "England",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "assassins-creed-valhalla",
+        "england",
+        "middle-ages",
+        "vikings"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Valhalla turns settlement into a progression system; historically, settlement was slower, local, and often marked by cultural mixing.",
+      "whyItMatters": "The Viking legacy in England was shaped not only by battle, but by settlement, language, and legal contact.",
+      "quickRealityCheck": "Viking influence began with raids, but its lasting trace remained in villages, markets, and place names.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "total-war-attila-collapse",
+      "title": "The Fall of Rome as a Process",
+      "subtitle": "Collapse and transformation in the age of Attila",
+      "mediaType": "game",
+      "mediaTitle": "Total War: Attila",
+      "mediaConnection": "This card uses the game's collapse mechanics to examine the crises of the 5th-century western empire.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "Rome is battered by rebellion, economic pressure, climate stress, and Hun attacks. The player tries to delay a collapse that feels almost inevitable.",
+      "realHistory": "Total War: Attila places the Western Roman Empire inside a multi-front crisis rather than a single decisive battle. That instinct is historically useful. The end of the western empire is symbolized by the deposition of an emperor in 476, but the breakdown had begun much earlier through military, fiscal, and administrative strain.\n\nRoman frontiers came under intense pressure in the 4th and 5th centuries. The movement of the Huns pushed Goths and other groups toward imperial territory, and Rome tried to manage them as enemies, allied soldiers, settlers, or border communities. The foederati system answered short-term military needs, but as central authority weakened, those groups gained their own political weight.\n\nEconomy and taxation mattered as much as battles. Financing the army became harder, civil wars weakened central rule, and provincial control loosened. Attila's empire was a major threat and a source of tribute pressure, but Western Rome cannot be explained by Attila alone.\n\nThe game captures the feeling of trying to hold an empire together. Historically, the western collapse was also transformation. Roman law, Latin, church institutions, and administrative habits continued inside the new post-Roman kingdoms.",
+      "accuracyNote": "Western Rome did not fall because of one barbarian attack. Fiscal crisis, internal politics, military transformation, and migration pressure all need to be read together.",
+      "whyInteresting": "Attila's power came not only from battlefield success, but from the diplomatic and psychological pressure he could place on Rome through tribute.",
+      "misconception": "Rome is often imagined as falling in a single day; in reality, the political center failed while Roman culture, law, and church institutions survived much longer.",
+      "themes": [
+        "Rome",
+        "War",
+        "Politics"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "Fall of Rome — Britannica",
+          "url": "https://www.britannica.com/event/Fall-of-Rome",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Attila — Britannica",
+          "url": "https://www.britannica.com/biography/Attila",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The Roman Empire in the First Century: Decline — PBS",
+          "url": "https://www.pbs.org/empires/romans/empire/decline.html",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ac-origins-siwa"
+      ],
+      "nextTopics": [
+        "Attila",
+        "The Huns",
+        "Inflation"
+      ],
+      "difficulty": "deep",
+      "era": "Ancient World",
+      "region": "Europe",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "ancient-world",
+        "europe",
+        "rome",
+        "war",
+        "politics",
+        "total-war-attila"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Total War: Attila dramatizes collapse as visible crisis; historically, the process was slower, regional, and institutional.",
+      "whyItMatters": "Rome shows that empires usually unravel when governing capacity and resource balance erode, not because of one blow alone.",
+      "quickRealityCheck": "Western Rome symbolically ended in 476, but the Roman world lived on through institutions and culture.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "aoe4-mongol-logistics",
+      "title": "Mongol Logistics and the Yam Network",
+      "subtitle": "The system that made an empire speak quickly",
+      "mediaType": "game",
+      "mediaTitle": "Age of Empires IV",
+      "mediaConnection": "This card uses the Mongols' mobility in Age of Empires IV to explain the Yam relay system.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "The Mongols move across the map with exceptional speed, pack up buildings, and outmaneuver other civilizations through mobility and communication.",
+      "realHistory": "The mobility of the Mongols in Age of Empires IV is not only a balance mechanic. A major part of Mongol success really did rest on movement, communication, and organized logistics. The Yam, a relay and postal system, allowed messengers to change horses and cross vast distances far more efficiently. It carried not only military orders, but tax information, diplomatic messages, commercial news, and administrative commands.\n\nYam stations supplied fresh horses, food, shelter, and relay points. Authorized envoys could carry paiza or gerege tablets that gave them access to imperial resources along the route. This helped orders from the center reach distant commanders and governors, and it tied far-flung regions into the same imperial framework.\n\nReducing the Mongols to \"horsemen who burned cities\" misses the system behind their power. Their conquests were often devastating, but holding enormous territories required records, road security, information movement, and the ability to move specialists across space. The game's portable-building idea exaggerates the point, but it usefully visualizes a mobile state.",
+      "accuracyNote": "The Yam was a real administrative and logistical network, but popular claims about exact daily speeds or universal safety should be treated carefully because they varied by context.",
+      "whyInteresting": "A messenger carrying a paiza was not just delivering news; he carried recognized imperial authority on the road.",
+      "misconception": "The Mongols are often seen as fast only in battle, but communication, horse relays, and authorization documents were also institutional parts of that speed.",
+      "themes": [
+        "Mongols",
+        "Logistics",
+        "Silk Road"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "Mongol Empire — UNESCO Silk Roads",
+          "url": "https://en.unesco.org/silkroad/content/mongol-empire",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Geregee or Golden Paiza — United Nations",
+          "url": "https://www.un.org/ungifts/geregee-or-golden-paiza-chinggis-khan",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Pax Mongolica — Britannica",
+          "url": "https://www.britannica.com/topic/Pax-Mongolica",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "shogun2-shinobi"
+      ],
+      "nextTopics": [
+        "The Yam",
+        "Paiza",
+        "Genghis Khan"
+      ],
+      "difficulty": "deep",
+      "era": "Middle Ages",
+      "region": "Asia",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "age-of-empires-iv",
+        "asia",
+        "silk-road",
+        "logistics",
+        "mongols",
+        "middle-ages"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Age of Empires IV turns mobility into a game mechanic; historically, that speed depended on a disciplined relay system and organized resource allocation.",
+      "whyItMatters": "The Yam network shows that great empires survive not only by conquest, but by the reliable movement of news and orders.",
+      "quickRealityCheck": "Mongol power was not just horse archery; fast communication and logistics were weapons too.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "aoe2-castles-politics",
+      "title": "Castles Were Political Power, Not Just Defense",
+      "subtitle": "The feudal order behind the stone walls",
+      "mediaType": "game",
+      "mediaTitle": "Age of Empires II",
+      "mediaConnection": "This card uses castle-building in Age of Empires II to examine the political and economic role of medieval castles.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "In Age of Empires II, castles are powerful structures that produce elite units, protect territory, and block enemy advances.",
+      "realHistory": "In Age of Empires II, a castle is usually a strong defensive building. Medieval castles were militarily important too, but their role went far beyond arrows and sieges. A castle was a visible sign that a local lord had lasting authority in a region. Tax collection, grain storage, courts, troop mustering, and control over surrounding villages often took shape around the castle.\n\nThe strength of a castle depended as much on logistics as on stone. Water supply, storage rooms, stables, workshops, and communication routes mattered if a garrison had to endure a siege. Sieges also did not always end with walls being smashed. Starvation, cutting supply lines, negotiation, and surrender terms were often as decisive as assault.\n\nCastles remained active in peacetime. Servants, soldiers, craftsmen, officials, and lordly households lived around them. For nearby communities, the castle could mean protection and fear at the same time. Seeing it only as a war building misses the everyday machinery of feudal rule.",
+      "accuracyNote": "The game simplifies castles into military power; historically, castles were also administrative centers, prestige statements, and points of economic control.",
+      "whyInteresting": "Losing a castle could mean more than losing a military position; it could shake the tax, court, and loyalty structure of an entire district.",
+      "misconception": "Castles are often assumed to matter only in wartime; in reality, they also governed, stored, judged, and displayed local authority in peacetime.",
+      "themes": [
+        "Middle Ages",
+        "Architecture",
+        "Politics"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "Medieval Castles — English Heritage",
+          "url": "https://www.english-heritage.org.uk/learn/histories/medieval-castles/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Castle Architecture — Britannica",
+          "url": "https://www.britannica.com/technology/castle-architecture",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Castles — World History Encyclopedia",
+          "url": "https://www.worldhistory.org/castle/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ac-valhalla-settlement"
+      ],
+      "nextTopics": [
+        "Feudalism",
+        "Fortifications",
+        "Siege Warfare"
+      ],
+      "difficulty": "medium",
+      "era": "Middle Ages",
+      "region": "Europe",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "age-of-empires-ii",
+        "europe",
+        "architecture",
+        "middle-ages",
+        "politics"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Age of Empires II treats castles as production and defense buildings; historically, they were daily instruments of feudal power.",
+      "whyItMatters": "Castles show how military architecture, politics, and local economy were woven together in the Middle Ages.",
+      "quickRealityCheck": "A castle was not just a wall of stone; it represented a region's taxes, courts, and loyalties.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "rdr-railroads-frontier",
+      "title": "Railroads and the End of Local Freedom",
+      "subtitle": "How tracks tied the frontier down",
+      "mediaType": "game",
+      "mediaTitle": "Red Dead Redemption",
+      "mediaConnection": "This card uses railroad construction and outlaw decline in Red Dead Redemption to read the final phase of the American frontier.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "The game is set in 1911, when railroads, automobiles, and federal bureaucracy are gradually closing the space where older outlaws once survived.",
+      "realHistory": "Red Dead Redemption's late-frontier mood is tied directly to the expansion of railroads and federal order. Railways did not merely connect frontier towns. They tied them to national markets, timetables, credit, the telegraph, and centralized law. Places that once felt distant became easier to monitor, tax, police, and incorporate into national life.\n\nFor Indigenous peoples and small communities, this transformation was often destructive. Railroad companies expanded through large land grants, and the routes they built altered hunting grounds, migration paths, and local economies. Towns rose or faded according to the line. Cowboy labor, independent hunting, and small-scale frontier economies declined under industrial agriculture, corporate power, and federal reach.\n\nRailroads even changed how people understood time. In 1883 North American railroads adopted standard time to make schedules workable. That seemingly technical detail is a strong symbol of local life being bound to industrial rhythm. Red Dead's feeling that there is nowhere left to run comes from this shift: distance stops being freedom and becomes infrastructure.",
+      "accuracyNote": "Railroads did not end the frontier alone; telegraph lines, land policy, federal law, corporate expansion, and the forced displacement of Indigenous peoples all worked together.",
+      "whyInteresting": "The spread of standard time shows that railroads changed not only space, but the way people organized the day.",
+      "misconception": "The Wild West is often imagined as ending only because lawmen arrived; logistics, communications, and corporations also transformed the frontier.",
+      "themes": [
+        "Wild West",
+        "Railways",
+        "Modernization"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "Pacific Railway Act — National Archives",
+          "url": "https://www.archives.gov/milestone-documents/pacific-railway-act",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Time Zones — Smithsonian National Museum of American History",
+          "url": "https://americanhistory.si.edu/ontime/synchronizing/zones.html",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Transcontinental Railroad — Library of Congress",
+          "url": "https://www.loc.gov/collections/railroad-maps-1828-to-1900/articles-and-essays/history-of-railroads-and-maps/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "lanoire-postwar-trauma",
+        "rdr2-frontier",
+        "rdr-pinkerton-agency"
+      ],
+      "nextTopics": [
+        "Industrial Revolution",
+        "Federal Law",
+        "Standard Time"
+      ],
+      "difficulty": "deep",
+      "era": "Modern Era",
+      "region": "North America",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "railways",
+        "north-america",
+        "modernization",
+        "red-dead-redemption",
+        "wild-west",
+        "modern-era"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Red Dead turns the railroad into a dramatic symbol of modernity; historically, tracks, telegraph lines, bank credit, and federal law were all parts of the same transformation.",
+      "whyItMatters": "The railroad is a powerful symbol of how the myth of freedom can dissolve under infrastructure and corporate power.",
+      "quickRealityCheck": "The Wild West was not closed only by sheriffs; rails, telegraphs, and timetables closed escape routes too.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "kcd-medieval-crime",
+      "title": "Crime, Law, and Punishment in the Middle Ages",
+      "subtitle": "Kingdom Come and the real face of late medieval justice",
+      "mediaType": "game",
+      "mediaTitle": "Kingdom Come: Deliverance",
+      "mediaConnection": "This card uses theft, jail, and public punishment in Kingdom Come: Deliverance to examine medieval legal practice.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "When you commit a crime in the game, guards can arrest you, fine you, or throw you in jail. Serious crimes may lead to public punishment.",
+      "realHistory": "Kingdom Come: Deliverance gives the player an immediate feel for crime and punishment: steal, get caught, pay a fine, go to jail, or lose reputation. That mechanic catches an important part of medieval law. Justice was not only about punishing an offender; it was about visibly repairing a disturbed social order.\n\nLate medieval European law did not run through one single system. Royal, urban, feudal, and church courts could all claim different kinds of authority. By the 15th century, written records, witness statements, and local court procedures mattered a great deal. Earlier practices such as ordeal live strongly in popular memory, but they should not be used to explain every case in the world of KCD.\n\nPunishment was not always death. Fines, compensation, confiscation, public shame, exile, whipping, and loss of status were common tools. Execution existed for serious crimes, but for smaller offenses, humiliation and economic settlement could be more practical. The game's simplification lies here: real justice moved through status, testimony, negotiation, and local authority as much as through guards and cells.",
+      "accuracyNote": "KCD's crime and reputation systems capture the period's feel, but real courts worked through local jurisdiction, testimony, records, fines, and status differences.",
+      "whyInteresting": "Public shaming could be powerful because it targeted reputation, not only the body, in a small community.",
+      "misconception": "It is often assumed that every medieval crime led to death. In reality, many cases ended in fines, compensation, public shame, or settlement.",
+      "themes": [
+        "Middle Ages",
+        "Law",
+        "Society"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "Law & Order in Medieval England — Harvard Law School",
+          "url": "https://hls.harvard.edu/today/law-order-in-medieval-england/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Medieval Law — Britannica",
+          "url": "https://www.britannica.com/topic/legal-system/Medieval-law",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Crime and Punishment: Medieval World — Reading Museum",
+          "url": "https://www.readingmuseum.org.uk/sites/default/files/downloads/Fact%20Sheet%20-%20Medieval%204_compressed.pdf",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ac-syndicate-london",
+        "kcd-bohemia",
+        "kcd2-medieval-law"
+      ],
+      "nextTopics": [
+        "Inquisition",
+        "Torture",
+        "Social Order"
+      ],
+      "difficulty": "medium",
+      "era": "Middle Ages",
+      "region": "Europe",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "europe",
+        "law",
+        "kingdom-come",
+        "middle-ages",
+        "society"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "The game makes justice quick and playable; historically, law moved more slowly through local courts and social status.",
+      "whyItMatters": "Late medieval law shows that the period was not lawless, but organized through unequal yet recognizable rules.",
+      "quickRealityCheck": "KCD simplifies crime, but reputation, fines, and local authority really mattered in late medieval justice.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "total-war-three-kingdoms-warlords",
+      "title": "Three Kingdoms: Warlords and Legitimacy",
+      "subtitle": "Total War and the realities behind one of China's bloodiest eras",
+      "mediaType": "game",
+      "mediaTitle": "Total War: Three Kingdoms",
+      "mediaConnection": "This card uses the game's warlords and alliances to examine China in the 2nd and 3rd centuries CE.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "The Han dynasty is collapsing. Leaders such as Cao Cao, Liu Bei, and Sun Jian build armies, negotiate alliances, and claim the right to reunify China.",
+      "realHistory": "As the Han dynasty broke down at the end of the 2nd century CE, China shifted from imperial unity into a field of competing warlords. Total War: Three Kingdoms captures more than large battles; it captures the constant question of legitimate rule. Cao Cao presented himself as the protector of the emperor and the effective manager of state power. Liu Bei emphasized his connection to the Han line. The Sun family built its own military and political base in the south.\n\nThe period was not simply a clean war among three sides. As Han authority weakened, regional governors, court factions, local armies, and ambitious commanders all entered the field. A leader's strength depended not only on soldiers, but on grain supply, administration, elite support, marriage alliances, and the ability to absorb rival networks. Figures such as Zhuge Liang became almost legendary in later storytelling, but their historical weight lies more in logistics, administration, and long-term planning than in magic or superhuman genius.\n\nThe game turns that complexity into a readable strategic map. The real world was messier and grayer. Claims of loyalty, family lineage, and legitimate restoration mattered as much as military force. That is why the Three Kingdoms period remains not just war history, but a study of what new power centers emerge when an old state collapses.",
+      "accuracyNote": "The game reflects the balance between personal charisma and political alliance, but much of its popular imagery comes from the later Romance of the Three Kingdoms. Historically, Zhuge Liang was not a wizard, and Cao Cao was more than a villain.",
+      "whyInteresting": "Zhuge Liang often appears as a near-mythic strategist, but his real significance has more to do with logistics, administration, and patience.",
+      "misconception": "The Three Kingdoms period is often imagined as only three factions; in reality, the collapse of Han authority opened space for many regional forces and warlords.",
+      "themes": [
+        "China",
+        "War",
+        "Politics"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "Three Kingdoms period — Britannica",
+          "url": "https://www.britannica.com/event/Three-Kingdoms-period-China",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Early Three Kingdoms Period — World History Encyclopedia",
+          "url": "https://www.worldhistory.org/article/1174/the-early-three-kingdoms-period/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Records vs Romance of the Three Kingdoms — Empirical Study",
+          "url": "https://arxiv.org/abs/2008.10835",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "aoe4-mongol-logistics",
+        "three-kingdoms-legend"
+      ],
+      "nextTopics": [
+        "Cao Cao",
+        "Zhuge Liang",
+        "The Han Dynasty"
+      ],
+      "difficulty": "deep",
+      "era": "Ancient World",
+      "region": "China",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "ancient-world",
+        "china",
+        "war",
+        "politics",
+        "total-war-three-kingdoms"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Total War turns a complex struggle into clear factions and powerful characters; the historical record points to a more fragmented and shifting field of alliances.",
+      "whyItMatters": "The period shows that military power alone is not enough when a state collapses; legitimacy, bureaucracy, grain, and alliances also decide rule.",
+      "quickRealityCheck": "Was the Three Kingdoms era really a simple three-way war, or a fragmented power struggle inside the collapse of the Han order?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27",
+      "reviewerNote": "The sources support reading the Three Kingdoms as a fragmented post-Han power struggle, with a clear distinction between records and later romance."
+    },
+    {
+      "id": "lanoire-postwar-trauma",
+      "title": "Postwar Trauma and the Culture of Policing",
+      "subtitle": "L.A. Noire and the hidden wounds of 1940s Los Angeles",
+      "mediaType": "game",
+      "mediaTitle": "L.A. Noire",
+      "mediaConnection": "This card uses Cole Phelps and the game's police investigations to explore postwar trauma and the social tensions of 1940s Los Angeles.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "Cole Phelps is a Marine veteran working as a detective in 1947 Los Angeles. His wartime memories follow him through interrogations, crime scenes, and the damaged lives of other veterans.",
+      "realHistory": "### A city after victory\n\nL.A. Noire's 1947 Los Angeles carries two versions of postwar America at once. One is triumphant: victory, suburbs, automobiles, new consumption, and the promise of a better life. The other is darker: veterans carrying silent trauma, housing pressure, fear of crime, and the strain of a rapidly growing city. Cole Phelps's story gives that contradiction a personal face. A man associated with wartime courage now moves through interrogation rooms, murder scenes, and the shadow of his own past.\n\nAfter World War II, millions of American service members returned home. The GI Bill opened pathways into education, unemployment support, and housing for many veterans, but it did not make civilian life simple or equal. It also did not erase psychological injury. What we now call PTSD was usually discussed through narrower terms such as battle fatigue or combat fatigue. Expectations of masculinity, discipline, and \"moving on\" made it difficult for many veterans to speak openly about what they had carried home.\n\n### Noir as social atmosphere\n\nLos Angeles intensified these tensions. Hollywood glamour and suburban dreams did not erase class division, racial inequality, policing pressure, and the fear fed by crime reporting. Population growth, the search for housing, and car-based expansion made the city larger and more fragmented. Noir style is therefore not only a look of shadows and cigarette smoke. It is a postwar mood in which trust feels broken, institutions seem compromised, and people cannot escape what they have done or seen.\n\nThe game's police work belongs inside that world. Investigation is never just evidence collection. It is shaped by press pressure, department hierarchy, masculine performance, and habits of hardness learned in war. Some veterans try to hold themselves together through disciplined work; others fall into crime, addiction, anger, or isolation.\n\n### What the game gets right\n\nL.A. Noire does not reduce trauma to a single diagnosis. It lets trauma appear in silence, anger, alcohol, family breakdown, and the pressure to look normal. The cases are dramatized and compressed for play, but the underlying feeling is historically strong: when a war ends, the behaviors and fears it produced do not simply disappear. They return home with the people who fought it.\n\nThat is why the game's 1947 Los Angeles is more than a stylish noir set. It is a city built around the gap between the public story of victory and the private damage left behind. The clean uniform, the badge, and the promotion do not erase memory. They often hide it in plain sight.",
+      "accuracyNote": "The game strongly conveys postwar trauma and noir atmosphere, though its case density and detective structure are compressed for play. The background should be read through the GI Bill, veteran readjustment, battle fatigue/PTSD history, and Los Angeles's rapid growth.",
+      "whyInteresting": "Even at the center of the postwar prosperity story, many veterans carried trauma through work, alcohol, anger, silence, or withdrawal.",
+      "misconception": "The late 1940s are often remembered only as prosperity and Hollywood glamour; they were also shaped by veteran trauma, housing pressure, crime anxiety, and urban tension.",
+      "themes": [
+        "Modern History",
+        "Psychology",
+        "Crime"
+      ],
+      "readingTimeMinutes": 2,
+      "sources": [
+        {
+          "title": "Servicemen’s Readjustment Act / GI Bill — National Archives",
+          "url": "https://www.archives.gov/milestone-documents/servicemens-readjustment-act",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "History of PTSD in Veterans — U.S. Department of Veterans Affairs",
+          "url": "https://www.ptsd.va.gov/understand/what/history_ptsd.asp",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "WWII Post-Traumatic Stress — The National WWII Museum",
+          "url": "https://www.nationalww2museum.org/war/articles/wwii-post-traumatic-stress",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "mafia-immigration-crime",
+        "lanoire-policing"
+      ],
+      "nextTopics": [
+        "PTSD",
+        "Film Noir",
+        "Los Angeles"
+      ],
+      "difficulty": "medium",
+      "era": "Modern Era",
+      "region": "United States",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "united-states",
+        "la-noire",
+        "modern-era",
+        "modern-history",
+        "psychology",
+        "crime"
+      ],
+      "mediaChanged": "The game condenses postwar Los Angeles into noir cases; historically, the larger picture includes veteran return, the GI Bill, urban growth, police culture, and an immature language for trauma.",
+      "whyItMatters": "Victory stories often stop when the war ends; this card shows how war continues in bodies, institutions, and city life.",
+      "isFlagship": true,
+      "quickRealityCheck": "Is L.A. Noire's 1947 Los Angeles only stylish noir, or a game-shaped version of postwar trauma and urban strain?",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "rome-patronage-mobs",
+      "title": "Patronage and the Power of the Crowd in Rome",
+      "subtitle": "The real political engine behind the HBO series: patron-client ties",
+      "mediaType": "series",
+      "mediaTitle": "Rome",
+      "mediaConnection": "This card uses Vorenus, Pullo, and local power in Rome to examine Roman social structure.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "Alongside Caesar and Pompey, the series shows street-level patrons and clients bound by favors, protection, debt, and local power. Lucius Vorenus becomes part of that neighborhood political world.",
+      "realHistory": "Roman politics cannot be understood only through Senate speeches and famous commanders. Everyday power often ran through the relationship between patronus and cliens. A wealthy and influential patron could offer legal help, work connections, money, or protection. In return, clients offered loyalty, votes, public presence, and political support.\n\nThis was not an equal contract in the modern sense. It was hierarchical, but not entirely one-sided. A patron's prestige could be measured by how many people accompanied him, how visibly he was supported in the forum, and how many followers could be mobilized in a crisis. Collegia and neighborhood or occupational associations could also become politically significant inside these networks. The Roman crowd was therefore not just a random mass of anger. It could be organized and directed through social ties.\n\nRome makes this middle layer visible through Vorenus and Pullo. Grand histories often foreground Caesar, Pompey, or Antony, but their power could not last without local leaders, debt relationships, patronage networks, and street support. Roman politics depended not only on ideals, but on who protected whom, who owed whom, and which way the crowd might move.",
+      "accuracyNote": "The series dramatizes ordinary soldiers and neighborhood ties, but the importance of patronage and local power networks in Roman politics is historically well grounded.",
+      "whyInteresting": "The morning salutatio was more than politeness; it was a daily performance of a patron's influence and client network.",
+      "misconception": "Roman politics is often imagined as only an aristocratic game. In reality, popular support, patronage, and neighborhood networks were essential to political power.",
+      "themes": [
+        "Rome",
+        "Politics",
+        "Society"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "The Roman Empire: Social Order — PBS",
+          "url": "https://www.pbs.org/empires/romans/empire/order.html",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Clientela, Roman Republic — Wiley Online Library",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781444338386.wbeah20033",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "gladiator-political-theater",
+        "rome-series-spectacle"
+      ],
+      "nextTopics": [
+        "Clientela",
+        "Collegium",
+        "Bread and Circuses"
+      ],
+      "difficulty": "deep",
+      "era": "Ancient World",
+      "region": "Italy",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "ancient-rome",
+        "ancient-world",
+        "italy",
+        "rome",
+        "politics",
+        "society"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Rome links the decisions of great leaders to street, neighborhood, and patronage relationships; historically, those networks were the everyday political infrastructure of Roman society.",
+      "whyItMatters": "Patronage shows how security, work, law, and politics can be organized through personal bonds when institutions are limited or unequal.",
+      "quickRealityCheck": "Was power in Rome built only in the Senate, or did patron-client networks in the streets also drive politics?",
+      "spoilerNote": "Contains minor hints about Rome's character arcs.",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "gladiator-political-theater",
+      "title": "Gladiator Games as Political Theater",
+      "subtitle": "Why the arena was never just entertainment",
+      "mediaType": "film",
+      "mediaTitle": "Gladiator",
+      "mediaConnection": "This card uses Maximus, Commodus, and the crowd in Gladiator to explain the political function of Roman games.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "Commodus stages huge gladiator games to win popular love. Maximus turns the arena into a kind of resistance stage, while the crowd's reaction seems to decide life and death.",
+      "realHistory": "The Roman arena was not only a place of death and entertainment. It was a political platform where emperor and crowd saw each other at the same time. Gladiator games, or munera, displayed imperial generosity, public order, and the ruler's authority over spectacle and violence. The crowd was not merely passive. Through shouting, cheering, or making demands, it could make the political mood visible.\n\nMany gladiators were enslaved people, prisoners of war, or condemned criminals, though successful fighters could gain fame and followers. Decisions in the arena were not a simple modern image of \"thumbs up\" or \"thumbs down.\" The quality of the fight, crowd response, the sponsor's political calculation, and the ritual frame of the event could all matter. The arena repeated Roman ideas about courage, discipline, punishment, and hierarchy.\n\nGladiator dramatizes this system through Maximus. In the film, the arena becomes a site of defiance. Historically, it more often served as a controlled place where power negotiated with the crowd. Commodus's fascination with the arena has real historical grounding, but the film turns it into a more familiar story of tyranny, popularity, and resistance.",
+      "accuracyNote": "Gladiator moves gladiators closer to modern freedom fighters. Historically, the arena was a ritualized system of spectacle, punishment, hierarchy, and imperial image-making.",
+      "whyInteresting": "The crowd mattered, but not as a democratic court. Its reaction was a political signal that rulers watched carefully.",
+      "misconception": "The arena is often remembered as simple bloodsport; it also staged power, generosity, punishment, and public order.",
+      "themes": [
+        "Rome",
+        "Entertainment",
+        "Politics"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "Gladiators: Types and Training — The Met",
+          "url": "https://www.metmuseum.org/essays/gladiators-types-and-training",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Roman Games: Playing with Animals — The Met",
+          "url": "https://www.metmuseum.org/essays/roman-games-playing-with-animals",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Gladiators in the Arena — Parco archeologico del Colosseo",
+          "url": "https://colosseo.it/en/digital_exhibitions/gladiators-in-the-arena-between-colosseum-and-ludus-magnus/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "rome-patronage-mobs",
+        "gladiator-colosseum",
+        "gladiator-commodus-real"
+      ],
+      "nextTopics": [
+        "Commodus",
+        "Colosseum",
+        "Bread and Circuses"
+      ],
+      "difficulty": "medium",
+      "era": "Ancient World",
+      "region": "Italy",
+      "accuracyType": "fictionalized",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "gladiator",
+        "ancient-rome",
+        "colosseum",
+        "politics",
+        "spectacle"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "The film turns the arena into a heroic resistance stage; historical arenas were more often controlled political spectacles managed by elites.",
+      "whyItMatters": "Gladiator games show how entertainment can become a ritual through which power speaks to the public.",
+      "quickRealityCheck": "The arena was not just sport; it was one of Rome's most visible political theaters.",
+      "spoilerNote": "Contains minor hints about Gladiator's arena plot.",
+      "lastReviewedAt": "2026-06-27",
+      "reviewerNote": "The sources support the arena as a social and political institution rather than simple entertainment."
+    },
+    {
+      "id": "shogun-hostage-politics",
+      "title": "Hostages and Loyalty in Feudal Japan",
+      "subtitle": "Family members as political guarantees",
+      "mediaType": "series",
+      "mediaTitle": "Shogun",
+      "mediaConnection": "This card uses family members held as political guarantees in Shogun to examine power and loyalty in feudal Japan.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "In Shogun, leaders' wives, children, and relatives may remain in Osaka Castle or near rival powers as \"guests.\" Everyone understands that this hospitality is also political leverage.",
+      "realHistory": "The use of family members as political guarantees in feudal Japan was not simply personal cruelty. It was one way to control fragile alliances. In the late Sengoku period and during the transition into Tokugawa rule, trust among daimyo families was often secured not only by promises, but by wives, children, and relatives held in castles or at court. These people could be treated formally as guests, while their political meaning remained unmistakable.\n\nThe system reflects the careful, indirect language of Japanese diplomacy. A hostage might receive status, education, and ceremonial respect, yet still function as a warning: if the family rebelled, the \"guest\" could become a bargaining chip or a victim. The practice did not always mean imprisonment in a dungeon. Its power came from the combination of honor, family obligation, and risk.\n\nShogun captures the tension well because it shows how personal relationships become political instruments. Loyalty in this world is not only a virtue. It is a structure built from residence, marriage, obligation, surveillance, and vulnerability. That is why a quiet scene inside a castle can matter as much as a battle.",
+      "accuracyNote": "The series dramatizes hostage politics, but the basic practice of using family residence and controlled movement to secure daimyo loyalty has a strong historical basis.",
+      "whyInteresting": "A hostage could be honored and endangered at the same time, which makes the practice more subtle than simple imprisonment.",
+      "misconception": "Feudal hostages are often imagined as chained prisoners; many elite hostages lived with ceremony and status while still being political leverage.",
+      "themes": [
+        "Japan",
+        "Politics",
+        "Samurai"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "Sankin-kōtai — Britannica",
+          "url": "https://www.britannica.com/topic/sankin-kotai",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Polity of the Tokugawa Era — Japan Society",
+          "url": "https://japansociety.org/news/the-polity-of-the-tokugawa-era/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Tokugawa Ieyasu on Military Government and the Social Order — Columbia Asia for Educators",
+          "url": "https://afe.easia.columbia.edu/ps/japan/ieyasu_four_classes.pdf",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "shogun2-shinobi",
+        "shogun-edo",
+        "shogun-trade-sakoku"
+      ],
+      "nextTopics": [
+        "Sankin-kotai",
+        "Tokugawa Ieyasu",
+        "Daimyo"
+      ],
+      "difficulty": "deep",
+      "era": "Early Modern Period",
+      "region": "Japan",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "shogun",
+        "japan",
+        "politics",
+        "samurai",
+        "hostage-politics"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Shogun dramatizes hostage-taking through intimate family scenes; historically, residence control and hostage politics were practical tools for managing daimyo loyalty.",
+      "whyItMatters": "The system shows how feudal trust could be built less on personal virtue than on family risk and controlled movement.",
+      "quickRealityCheck": "In feudal Japan, a \"guest\" in a rival's castle could also be a living guarantee of political obedience.",
+      "spoilerNote": "Contains minor hints about Shogun's political setup.",
+      "lastReviewedAt": "2026-06-27",
+      "reviewerNote": "The sources support the broader structure of controlled residence and hostage politics in the Tokugawa order."
+    },
+    {
+      "id": "last-kingdom-alfred-england",
+      "title": "Alfred the Great and the Dream of England",
+      "subtitle": "From divided kingdoms toward a single political idea",
+      "mediaType": "series",
+      "mediaTitle": "The Last Kingdom",
+      "mediaConnection": "This card uses Alfred in The Last Kingdom to examine the path from divided Saxon kingdoms toward the idea of England.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "King Alfred is shown as devout and physically fragile, but strategically brilliant. He fights the Viking threat not only with swords, but with laws, fortifications, literacy, and a vision of Englaland.",
+      "realHistory": "Alfred's importance does not come only from winning a battle against the Vikings. In the late 9th century, Wessex was the main surviving Saxon kingdom under severe Viking pressure. His victory over Guthrum at Edington in 878 gave him breathing room, but his most lasting work came afterward through defense and administration.\n\nAlfred's network of fortified settlements, known as burhs, was designed to break the speed advantage of Viking raids. These places worked as military refuges and administrative nodes. Alfred also promoted learning, legal reform, and the use of written administration. That does not mean he created England in a modern national sense, but he helped build the political and cultural foundations later rulers would use.\n\nThe Last Kingdom dramatizes Alfred's dream through personal conflict and charismatic speeches. Historically, his achievement was more institutional: survival, fortification, law, literacy, and a political imagination that could see beyond Wessex. The idea of a united English realm was not born complete, but Alfred made it more plausible.",
+      "accuracyNote": "The series condenses Alfred's politics into dramatic relationships, but his reforms in defense, law, learning, and royal administration are historically central.",
+      "whyInteresting": "The burh system shows that Alfred answered Viking mobility not only with armies, but with infrastructure and local organization.",
+      "misconception": "Alfred is often remembered only as a warrior king; his lasting importance lies just as much in law, literacy, and administrative reform.",
+      "themes": [
+        "Middle Ages",
+        "England",
+        "Politics"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "Alfred the Great — British Library",
+          "url": "https://www.bl.uk/people/alfred-the-great",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Alfred ‘The Great’ — Royal.uk",
+          "url": "https://www.royal.uk/alfred-great-r-871-899",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Law-code of King Alfred the Great — Cambridge Apollo Repository",
+          "url": "https://www.repository.cam.ac.uk/items/a5b9f0e5-3b11-4785-a4e4-7435dbacf49a",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ac-valhalla-settlement",
+        "last-kingdom-danelaw",
+        "last-kingdom-alfred-dream"
+      ],
+      "nextTopics": [
+        "Wessex",
+        "Danelaw",
+        "Burhs"
+      ],
+      "difficulty": "deep",
+      "era": "Middle Ages",
+      "region": "England",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "the-last-kingdom",
+        "alfred-the-great",
+        "england",
+        "middle-ages",
+        "politics"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "The Last Kingdom turns Alfred's vision into personal drama; historically, his legacy was built through institutions as much as battlefield success.",
+      "whyItMatters": "Alfred's reign shows how a political community can be built through defense, law, and shared administration, not only through conquest.",
+      "quickRealityCheck": "Alfred's dream of England was not a finished nation-state, but a political idea made stronger by crisis.",
+      "spoilerNote": "Contains minor hints about The Last Kingdom's political arc.",
+      "lastReviewedAt": "2026-06-27",
+      "reviewerNote": "The sources support Alfred's role in defense, law, and learning as much as military leadership."
+    },
+    {
+      "id": "chernobyl-bureaucracy-truth",
+      "title": "Bureaucracy and Disaster: Chernobyl's Real Face",
+      "subtitle": "The cost of a state lying to its own people",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "mediaConnection": "Chernobyl emphasizes how a state's attempt to hide the truth can turn a technical failure into a broader social catastrophe.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "After a nuclear explosion, the first instinct of the system is to hide the scale of the event and maintain the image that everything is under control.",
+      "realHistory": "Chernobyl was not simply one operator's mistake or one bad decision. The explosion of 26 April 1986 came from the combination of RBMK reactor design weaknesses, a poorly managed safety test, inadequate safety culture, and a Soviet bureaucratic structure that struggled to move bad news upward. It was therefore an institutional crisis as much as a technical accident.\n\nThe evacuation of Pripyat did not begin immediately. In the first hours, residents continued daily life without understanding the true scale of the danger. Firefighters and plant workers faced extreme exposure, while officials hesitated over what could be admitted. The radioactive plume moving beyond Soviet borders made secrecy increasingly impossible, especially once readings outside the USSR raised alarm.\n\nHBO's Chernobyl gives this story a powerful moral frame: the cost of lies. Some characters are compressed or dramatized, but the central point is historically sound. In high-risk systems, truth is not an abstract virtue. If reports are softened, warnings ignored, and image protected over safety, a technical failure becomes a social disaster.",
+      "accuracyNote": "The series strongly captures the pressure and secrecy around the disaster, while some characters combine the roles of multiple scientists and officials.",
+      "whyInteresting": "Chernobyl became internationally visible not only because Soviet authorities explained it, but because radiation was detected beyond Soviet borders.",
+      "misconception": "Chernobyl is often reduced to one operator error; in reality, reactor design, test conditions, training, and closed crisis management all mattered.",
+      "themes": [
+        "Modern History",
+        "Science",
+        "Politics"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "The Chernobyl Accident: Updating of INSAG-1 — IAEA",
+          "url": "https://www-pub.iaea.org/MTCD/publications/PDF/Pub913e_web.pdf",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Chernobyl Accident FAQ — IAEA",
+          "url": "https://www.iaea.org/topics/chornobyl/faqs",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Chernobyl: Reactions of National Authorities — OECD NEA",
+          "url": "https://www.oecd-nea.org/jcms/pl_28303/chernobyl-chapter-iii-reactions-of-national-authorities",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "oppenheimer-science-state",
+        "chernobyl-disaster",
+        "chernobyl-secrecy"
+      ],
+      "nextTopics": [
+        "Mikhail Gorbachev",
+        "Glasnost",
+        "History of Nuclear Energy"
+      ],
+      "difficulty": "deep",
+      "era": "Modern Era",
+      "region": "Soviet Union",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "chernobyl",
+        "science",
+        "politics",
+        "modern-history",
+        "soviet-union"
+      ],
+      "spoilerNote": "Contains minor hints about the Chernobyl storyline.",
+      "isFlagship": false,
+      "mediaChanged": "The series concentrates events through a few characters and scenes; historical records show a wider crisis where technical design and information control reinforced each other.",
+      "whyItMatters": "Chernobyl shows that safety in high-risk technology depends not only on engineering, but on open information and institutional accountability.",
+      "quickRealityCheck": "Was Chernobyl only a technical accident, or a lesson in how closed state culture can magnify disaster?",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "band-of-brothers-heroism",
+      "title": "The Truth in the Foxholes: Heroism and Combat Fatigue",
+      "subtitle": "Band of Brothers and the real psychology of soldiers in World War II",
+      "mediaType": "series",
+      "mediaTitle": "Band of Brothers",
+      "mediaConnection": "This card uses Band of Brothers and Easy Company to explore combat stress and wartime psychology.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "The soldiers are not shown as war machines. They experience fear, grief, hunger, cold, combat fatigue, and dependence on the men beside them.",
+      "realHistory": "World War II stories often frame heroism as one brave action. Band of Brothers is stronger because it does not hide the psychological weight of war: hunger, sleeplessness, cold, fear of loss, and responsibility toward the soldier next to you. Easy Company's path from Normandy to Bastogne shows that war is not only a moving front line, but a long test of endurance.\n\nFor soldiers at the front, the ability to keep going often depended less on abstract patriotic language than on small-group loyalty. You stayed because your section, platoon, or friend needed you. That bond could be lifesaving, but it also deepened grief when someone was wounded or killed. Combat fatigue was not weakness; it was a reaction to sustained danger, exhaustion, and repeated loss.\n\nThe series dramatizes individual episodes, but its broader emotional truth is strong. Heroism in modern war is not constant fearlessness. It is continuing to function while afraid, tired, cold, and morally overwhelmed. That is why the show resonates: it makes courage look less like invulnerability and more like endurance under pressure.",
+      "accuracyNote": "The series is based on real Easy Company veterans, though dialogue and scenes are dramatized. Its treatment of fear, exhaustion, and group loyalty fits what military historians describe about combat stress.",
+      "whyInteresting": "Small-unit loyalty often mattered more in the moment than grand strategy or national slogans.",
+      "misconception": "Soldiers are often imagined either as fearless heroes or broken victims. The reality was more complex: courage and trauma could exist in the same person.",
+      "themes": [
+        "Modern History",
+        "War",
+        "Psychology"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "Easy Company Exhibit — The National WWII Museum",
+          "url": "https://www.nationalww2museum.org/visit/museum-campus/easy-company-exhibit",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Easy Company PDF — The National WWII Museum",
+          "url": "https://www.nationalww2museum.org/sites/default/files/2017-07/2017-easy-company.pdf",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "History of PTSD in Veterans — U.S. Department of Veterans Affairs",
+          "url": "https://www.ptsd.va.gov/understand/what/history_ptsd.asp",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "lanoire-postwar-trauma",
+        "band-of-brothers-airborne",
+        "band-of-brothers-hedgerows-real"
+      ],
+      "nextTopics": [
+        "Combat Fatigue",
+        "Bastogne",
+        "Easy Company"
+      ],
+      "difficulty": "medium",
+      "era": "Modern Era",
+      "region": "Europe",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "band-of-brothers",
+        "world-war-ii",
+        "psychology",
+        "war",
+        "modern-history"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "The series shapes real memories into television drama; historically, the same experiences were uneven, exhausting, and often carried silently after the war.",
+      "whyItMatters": "It reminds us that war stories should include not only victory and tactics, but also fear, fatigue, and the human cost of survival.",
+      "quickRealityCheck": "Heroism in Band of Brothers is not the absence of fear; it is endurance while fear never leaves.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27",
+      "reviewerNote": "The sources support the Easy Company context and the broader history of combat stress in veterans."
+    },
+    {
+      "id": "oppenheimer-science-state",
+      "title": "Science and the State: The Birth of the Atomic Age",
+      "subtitle": "Oppenheimer and the political capture of scientific discovery",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "mediaConnection": "This card uses Oppenheimer's story to examine how modern science became linked to state power and nuclear strategy.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "Oppenheimer helps create a force that can change the world, then watches control over that force move from scientists to generals, security officials, and politicians.",
+      "realHistory": "The Manhattan Project was one of the clearest moments when modern science fused with state power. From 1942, sites such as Los Alamos, Oak Ridge, and Hanford turned scientific research, military urgency, and industrial production into a single program. Oppenheimer became its most famous face, but the atomic bomb was not the product of one mind. It was the result of a vast state-organized scientific system.\n\nOppenheimer shows both faces of that system. Scientific curiosity and intellectual brilliance make the breakthrough possible, while military secrecy, security clearance, and political decision-making determine how that breakthrough is used. After the war, the same structure that had elevated Oppenheimer began questioning his loyalty and judgment during the security hearings. The scientist who helped build state power became vulnerable to that power.\n\nThe film's central historical value lies here. The atomic age did not begin simply when a bomb exploded. It began when research, industry, the military, and government bureaucracy learned to operate as one machine. The moral problem was not only whether the bomb should be built, but who controls knowledge once it becomes a strategic weapon.",
+      "accuracyNote": "The film condenses personalities and debates, but its core tension is historically grounded: atomic science became inseparable from military secrecy, state authority, and Cold War politics.",
+      "whyInteresting": "Oppenheimer's security hearing shows that scientific prestige did not protect him once the state began treating knowledge as a security problem.",
+      "misconception": "The atomic bomb is often imagined as the achievement of a few geniuses. In reality, it required a massive state, industrial, and military system.",
+      "themes": [
+        "Modern History",
+        "Science",
+        "Politics"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "In the Matter of J. Robert Oppenheimer — Los Alamos National Laboratory",
+          "url": "https://www.lanl.gov/media/publications/national-security-science/0723-in-the-matter-of-j-robert-oppenheimer",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "J. Robert Oppenheimer: Life, Work, and Legacy — Institute for Advanced Study",
+          "url": "https://www.ias.edu/oppenheimer-legacy",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "In the Matter of J. Robert Oppenheimer — Yale Avalon Project",
+          "url": "https://avalon.law.yale.edu/20th_century/opp06.asp",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "chernobyl-bureaucracy-truth",
+        "oppenheimer-trinity",
+        "oppenheimer-trinity-reality"
+      ],
+      "nextTopics": [
+        "Manhattan Project",
+        "Hydrogen Bomb",
+        "Security Hearings"
+      ],
+      "difficulty": "deep",
+      "era": "Modern Era",
+      "region": "United States",
+      "accuracyType": "partly-real",
+      "spoilerLevel": "minor",
+      "isPremium": false,
+      "tags": [
+        "oppenheimer",
+        "manhattan-project",
+        "science",
+        "politics",
+        "modern-history"
+      ],
+      "spoilerNote": "Contains minor hints about Oppenheimer's postwar hearings.",
+      "isFlagship": false,
+      "mediaChanged": "The film centers Oppenheimer's personal burden; the historical context also includes the large state apparatus that turned science into a strategic weapon.",
+      "whyItMatters": "The atomic age shows that scientific discovery can become political power the moment it enters state and military systems.",
+      "quickRealityCheck": "The atomic bomb was not only a scientific breakthrough; it was a new relationship between knowledge and the state.",
+      "lastReviewedAt": "2026-06-27",
+      "reviewerNote": "The sources support the role of Oppenheimer, the security hearing, and the institutional nature of the Manhattan Project."
+    },
+    {
+      "id": "medieval-magic-vs-reason",
+      "title": "The Middle Ages: Superstition or Reason?",
+      "subtitle": "The real rationality inside the medieval worldview",
+      "mediaType": "general",
+      "mediaTitle": "Historical Misconception",
+      "mediaConnection": "This card responds to the way historical media often portrays medieval people as purely superstitious.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "Films and games often show medieval people as hostile to science, explaining every natural event through demons, magic, or superstition.",
+      "realHistory": "It is misleading to imagine medieval people as dark figures who believed only in magic and superstition. Prophecy, miracles, charms, and folk beliefs certainly existed, but the same period also built a sophisticated culture of logic, law, theology, and natural philosophy. From the 12th century onward, universities in places such as Paris, Bologna, and Oxford made textual interpretation and formal argument part of learned life.\n\nScholastic thought was not modern science. Its aims were often theological, and it worked within assumptions very different from ours. Still, it was not irrational. Medieval scholars used disputation, definition, classification, and debate to ask how nature, God, law, and human reason fit together. Medicine, astronomy, optics, and mathematics also circulated through Latin, Arabic, and Greek traditions.\n\nPopular media often needs a simple contrast: modern reason versus medieval darkness. The historical picture is more interesting. Medieval people could accept miracles and still reason carefully about law, nature, and evidence within their intellectual framework. Their world was not ours, but it was not empty of rationality.",
+      "accuracyNote": "Medieval reasoning should not be mistaken for modern scientific method, but reducing the period to blind superstition ignores universities, scholastic debate, law, medicine, and natural philosophy.",
+      "whyInteresting": "The medieval university made argument itself into a discipline: questions were posed, objections listed, and answers defended in formal debate.",
+      "misconception": "The Middle Ages are often imagined as completely anti-rational; in reality, they developed powerful systems of logic, theology, law, and natural philosophy.",
+      "themes": [
+        "Middle Ages",
+        "Science",
+        "Religion"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "Medieval Philosophy — Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/medieval-philosophy/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Natural Philosophy in the Renaissance — Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/natphil-ren/",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Medieval Science — Britannica",
+          "url": "https://www.britannica.com/science/history-of-science/Medieval-science",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "flat-earth-myth-medieval",
+        "vikings-not-only-raiders",
+        "pirates-democracy-myth"
+      ],
+      "nextTopics": [
+        "Scholasticism",
+        "Medieval Universities",
+        "Natural Philosophy"
+      ],
+      "difficulty": "deep",
+      "era": "Middle Ages",
+      "region": "Europe",
+      "accuracyType": "real",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "middle-ages",
+        "science",
+        "religion",
+        "historical-misconception"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Popular media often exaggerates the Middle Ages as irrational darkness; historically, belief and structured reasoning existed together.",
+      "whyItMatters": "This topic helps us avoid the lazy myth that modernity simply replaced ignorance with reason.",
+      "quickRealityCheck": "Medieval people believed in miracles, but that did not mean they had no logic, law, medicine, or philosophy.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    },
+    {
+      "id": "vikings-not-only-raiders",
+      "title": "Vikings: Raiders Only, or Global Traders?",
+      "subtitle": "The world where silver mattered as much as swords",
+      "mediaType": "general",
+      "mediaTitle": "Historical Misconception",
+      "mediaConnection": "This card responds to the common media image of Vikings as only raiders and restores the wider economic world behind it.",
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "whatWeSee": "Vikings are often shown as wild warriors who burn villages, raid monasteries, and live only for battle.",
+      "realHistory": "Thinking of Vikings only as monastery-burning warriors hides much of the Viking Age. In many contexts, the word \"Viking\" was linked to overseas raiding, but most Scandinavian communities lived through farming, fishing, craft, and trade. Raiding, trading, and settlement were not separate worlds. The same ships could serve plunder, commerce, migration, and exploration.\n\nArchaeology shows the reach of these networks. Silver hoards, imported goods, coins, weights, and trading centers reveal connections from the North Atlantic to the Baltic, Byzantium, and the Islamic world. Scandinavian travelers reached places as far apart as Iceland, Greenland, North America, and river routes into Eastern Europe. Their world was violent, but it was also commercial and adaptive.\n\nPopular media prefers the axe and the burning village because they are visually immediate. The historical Viking world is broader: traders, settlers, shipbuilders, craftspeople, farmers, and explorers all belonged to the same society. The sword matters, but so do scales, silver, wool, amber, and shipbuilding skill.",
+      "accuracyNote": "Viking raids were real and often violent, but reducing all Scandinavian activity to raiding ignores trade, settlement, craft, exploration, and farming.",
+      "whyInteresting": "Viking silver hoards show how far trade and exchange reached, linking Scandinavia with markets far beyond northern Europe.",
+      "misconception": "Vikings are often imagined as people who only fought; in reality, they also farmed, traded, settled, and explored across large networks.",
+      "themes": [
+        "Vikings",
+        "Trade",
+        "Exploration"
+      ],
+      "readingTimeMinutes": 1,
+      "sources": [
+        {
+          "title": "L’Anse aux Meadows National Historic Site — UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/4/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Beyond sand and spices: introduction to Silk Roads — British Museum",
+          "url": "https://www.britishmuseum.org/blog/beyond-sand-and-spices-introduction-silk-roads",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Viking silver hoard reveals far-reaching trade links — University of Oxford",
+          "url": "https://www.ox.ac.uk/news/2025-08-11-viking-silver-hoard-reveals-far-reaching-trade-links-between-england-and-islamic",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "relatedCardIds": [
+        "ac-valhalla-settlement",
+        "medieval-magic-vs-reason",
+        "pirates-democracy-myth"
+      ],
+      "nextTopics": [
+        "Viking Trade",
+        "L'Anse aux Meadows",
+        "Silver Hoards"
+      ],
+      "difficulty": "medium",
+      "era": "Middle Ages",
+      "region": "Northern Europe",
+      "accuracyType": "fictionalized",
+      "spoilerLevel": "none",
+      "isPremium": false,
+      "tags": [
+        "vikings",
+        "trade",
+        "exploration",
+        "historical-misconception",
+        "northern-europe"
+      ],
+      "isFlagship": false,
+      "mediaChanged": "Media often favors the raider image because it is dramatic; the historical record also shows merchants, settlers, shipbuilders, and long-distance exchange.",
+      "whyItMatters": "The Viking Age shows how violence and commerce could belong to the same maritime world.",
+      "quickRealityCheck": "The Viking world was not only axes and raids; it was also silver, ships, trade routes, and settlement.",
+      "spoilerNote": "",
+      "lastReviewedAt": "2026-06-27"
+    }
+  ]
+}

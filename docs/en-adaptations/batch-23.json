@@ -1,0 +1,866 @@
+{
+  "meta": {
+    "purpose": "English-native adaptation batch",
+    "sourceChunk": "source-chunk-023.json",
+    "batchNumber": 23,
+    "cardCount": 11,
+    "sourceCardRange": "TR order cards 441-451",
+    "alreadyAuthoredCountBeforeBatch": 440,
+    "authoredCountAfterBatch": 451,
+    "remainingCountAfterBatch": 0,
+    "ids": [
+      "tf26-274-peaky-blinders-postwar-veterans",
+      "tf26-275-narcos-cocaine-trade-drug-war",
+      "tf26-276-the-americans-cold-war-illegals",
+      "tf26-277-rome-late-republic-patronage",
+      "tf26-278-marco-polo-yuan-silk-road",
+      "tf26-279-vikings-valhalla-stamford-1066",
+      "tf26-280-dasboot-battle-of-atlantic",
+      "tf26-281-general-war-propaganda-posters",
+      "tf26-282-general-greek-fire-byzantine-secrecy",
+      "tf26-283-general-maps-as-propaganda",
+      "tf26-284-general-standard-time-railways"
+    ],
+    "notes": "Adapted from Turkish canonical cards. Source URLs and relation IDs preserved; localized text fields adapted into natural English."
+  },
+  "cards": [
+    {
+      "id": "tf26-274-peaky-blinders-postwar-veterans",
+      "title": "Veterans and Birmingham Gangs",
+      "subtitle": "The class tension beneath Peaky Blinders' swagger",
+      "mediaType": "series",
+      "mediaTitle": "Peaky Blinders",
+      "era": "After World War I",
+      "region": "United Kingdom",
+      "themes": [
+        "Class",
+        "Crime",
+        "Postwar Society",
+        "Industry"
+      ],
+      "whatWeSee": "Peaky Blinders turns Birmingham street crime into a stylized saga of family, trauma and upward ambition. Thomas Shelby returns from the front into a world of illegal betting, working-class neighborhoods, police pressure and political change. On screen, the city is smoke, factories, razor-sharp suits and men barely holding themselves together. It almost feels mythic.",
+      "realHistory": "### The Shelby family is fictional; the world is not\n\nPeaky Blinders gives viewers a highly stylized Birmingham in which returning soldiers, illegal betting, class anger and industrial poverty all collide. Thomas Shelby and his family are fictional characters, but the social world behind them is not invented from nothing. The real name “Peaky Blinders” is associated with Birmingham street gangs from the late nineteenth and early twentieth centuries. Historian Carl Chinn’s work is useful here because it cools down the romance: instead of a vast, elegant political crime empire, the real background was poorer, smaller, more local and more brutal. It involved street violence, betting, theft, neighborhood control and young men trying to win status in a city where respect, work and safety were unevenly distributed.\n\n### Coming back from war\n\nThe series becomes more historically interesting because it moves this gang mythology into the aftermath of World War I. Britain did not simply demobilize millions of men and return to normal. Grief, unemployment, disability, anger and psychological trauma came home with the soldiers. Records on shell shock show that the war left a medical and social problem that did not end with the armistice. Museums and archives that study postwar Britain also emphasize how trauma carried into homes, workplaces and neighborhoods. Peaky Blinders turns that reality into melodrama through Tommy Shelby’s silence, control and emotional numbness, but the underlying idea is strong: war did not stay in the trenches.\n\n### Birmingham as more than a backdrop\n\nBirmingham matters because it was not just scenery. Industry, canals, workshops, working-class housing and class divisions shaped how informal and illegal economies could breathe. The show enlarges illegal betting, protection, police corruption and political connections into a grand criminal universe. That is dramatic license, but it connects to real pressures. Demobilized men competed for work, labor politics were tense, and postwar unrest was visible across Britain. The 1919 race riots material from the National Archives shows that postwar tension was not only economic; it also involved racism, labor competition, empire and violence in port cities and urban communities.\n\n### What the show gets right by exaggerating\n\nThe mistake would be to watch Peaky Blinders as a true Tommy Shelby biography. The Shelby family did not exist, and the real Peaky Blinders were not the sleek, almost cinematic empire the series imagines. Yet the show opens a useful historical door. Its strongest truth is not factual precision but social pressure: a broken postwar society in which masculinity, poverty, trauma and ambition could make crime feel like a route to dignity.\n\nThe series also makes violence attractive. Its suits, slow walks and modern music turn deprivation into anti-hero style. Real gang history is less glamorous and more damaging, especially for victims and local communities. That tension is exactly why the subject matters. Peaky Blinders is not a clean history lesson, but it asks a historically serious question: when a society sends men to industrial war, brings them home damaged and offers them little security, why can organized violence start to look like order, family and opportunity?",
+      "accuracyNote": "The Shelby family and many core events are fictional. The real Peaky Blinders belonged to a different scale and partly earlier period, but the postwar Birmingham setting, class pressure, demobilization and trauma are historically meaningful.",
+      "whyInteresting": "The show is strongest not as literal gang history, but as a pop-cultural route into postwar masculinity, unemployment and industrial class tension.",
+      "misconception": "Peaky Blinders is often treated as the true story of Tommy Shelby. In reality, the Shelbys are fictional and the gang history was less romantic, less centralized and more local.",
+      "nextTopics": [
+        "Shell Shock",
+        "Working-Class History",
+        "Illegal Betting"
+      ],
+      "similarMedia": [
+        "Boardwalk Empire",
+        "Gangs of New York",
+        "Babylon Berlin"
+      ],
+      "relatedCardIds": [
+        "tf26-248-mafia2-postwar-gi-bill",
+        "tf26-222-victoria3-industrial-labor",
+        "tf26-260-forhonor-chivalry-myth"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "spoilerLevel": "minor",
+      "mediaConnection": "Peaky Blinders draws on real Birmingham gang history, but its main dramatic force comes from the atmosphere of a post-World War I industrial city and veteran trauma.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "peaky-blinders",
+        "birmingham",
+        "world-war-i",
+        "crime",
+        "true-frame"
+      ],
+      "spoilerNote": "Contains background on the show's general character setup and postwar atmosphere; it does not reveal a specific season finale.",
+      "mediaChanged": "The series enlarges real gang history in time, scale and style; in return, it captures the psychological and class pressure of postwar society in a highly stylized form.",
+      "whyItMatters": "It shows how popular crime stories can turn poverty and trauma into charisma while also pointing back to the real social conditions that made violence believable.",
+      "quickRealityCheck": "Peaky Blinders was a real gang name, but Tommy Shelby's world is a stylized collage of historical pressures rather than a direct biography.",
+      "isFlagship": true,
+      "sources": [
+        {
+          "title": "History West Midlands - Carl Chinn: The Real Peaky Blinders",
+          "url": "https://historywm.com/films/carl-chinn-the-real-peaky-blinders",
+          "type": "history",
+          "verified": true
+        },
+        {
+          "title": "The National Archives - Shell Shock Cases",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/medicine-on-the-western-front-part-two/shell-shock-cases/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Imperial War Museums - Shell-Shocked Britain",
+          "url": "https://www.iwm.org.uk/partnerships/mapping-the-centenary/projects/shell-shocked-britain-understanding-the-lasting-trauma-of-the-first-world-war",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "The National Archives - 1919 Race Riots",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/1919-race-riots/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-275-narcos-cocaine-trade-drug-war",
+      "title": "Cocaine Trade and the Drug War",
+      "subtitle": "The economy behind the Escobar legend",
+      "mediaType": "series",
+      "mediaTitle": "Narcos",
+      "era": "Modern History",
+      "region": "Colombia / United States",
+      "themes": [
+        "Crime",
+        "Politics",
+        "Economy",
+        "Modern History"
+      ],
+      "whatWeSee": "Narcos presents Pablo Escobar's rise, the violence of the Medellin Cartel and the U.S.-backed drug war in a fast, charismatic style that often feels like a gangster biography. Money, smuggling routes, political pressure, police operations and executions all move with the same dramatic rhythm. The series begins with Escobar's personality, but the larger story is a transnational market.",
+      "realHistory": "The real history was not just the story of one criminal genius. The cocaine trade grew through production in the Andean region, processing and trafficking networks in Colombia, demand in the United States, money laundering and weak or compromised state institutions. The power of the Medellin Cartel came not only from Escobar's frightening image, but from bribery, intimidation, assassination, distribution channels and international cash flows. The DEA Museum describes Escobar as one of the leaders of the Medellin Cartel, while DEA historical material emphasizes how Colombian cartels in the 1980s used bribery, intimidation and murder to gain political and social power. That makes Narcos most useful when Escobar is read as both a perpetrator and the face of a larger system. The show sometimes narrows the story into a personal chase, because biography gives the viewer a clear villain and a dramatic arc. History is less tidy. Even when one cartel leader falls, demand, profit, transport routes and laundering systems do not automatically disappear. They adapt. That is the uncomfortable lesson behind the legend: the drug war was not only about catching a man. It was also about consumer demand, state strategy, violence, corruption and the economic incentives that made the market keep regenerating.",
+      "accuracyNote": "The series draws on real people and events, but timelines, composite characters and operational details are compressed for drama.",
+      "whyInteresting": "It moves crime history beyond one charismatic villain and toward global markets, state capacity and political violence.",
+      "misconception": "It is misleading to think the cocaine economy ended when Escobar died. Cartel structures changed, but the market logic continued.",
+      "nextTopics": [
+        "CIA and the Cold War",
+        "Money Laundering",
+        "Colombia's Internal Conflict"
+      ],
+      "similarMedia": [
+        "Traffic",
+        "Sicario",
+        "ZeroZeroZero"
+      ],
+      "relatedCardIds": [
+        "tf26-250-gta-moral-panic",
+        "tf26-246-codbo-bay-of-pigs",
+        "tf26-245-codbo-mkultra"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "spoilerLevel": "minor",
+      "spoilerNote": "Explains the show's broad historical direction without relying on a specific season-ending twist.",
+      "mediaConnection": "Narcos' gangster narrative can be compared with the real cocaine economy and drug war policies that made that violence possible.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "narcos",
+        "pablo-escobar",
+        "medellin-cartel",
+        "cocaine",
+        "drug-war"
+      ],
+      "whyItMatters": "The charisma of crime stories often hides the economic and political structures that make violence profitable.",
+      "isFlagship": false,
+      "quickRealityCheck": "Narcos has a powerful personal legend at its center; the real story is a network of demand, money, state capacity and organized violence.",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "DEA Museum - Pablo Escobar Life Mask",
+          "url": "https://museum.dea.gov/museum-collection/collection-spotlight/artifact/pablo-escobar-life-mask",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "DEA History 1985-1990",
+          "url": "https://www.dea.gov/sites/default/files/2018-07/1985-1990%20p%2058-67custom2.pdf",
+          "type": "official_pdf",
+          "verified": true
+        },
+        {
+          "title": "National Security Archive - Colombia declassified documents",
+          "url": "https://nsarchive.gwu.edu/regions/south-america",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-276-the-americans-cold-war-illegals",
+      "title": "Deep-Cover Spies",
+      "subtitle": "How Cold War KGB 'illegals' worked",
+      "mediaType": "series",
+      "mediaTitle": "The Americans",
+      "era": "Cold War",
+      "region": "United States / Soviet Union",
+      "themes": [
+        "Cold War",
+        "Espionage",
+        "Soviet Union",
+        "Identity"
+      ],
+      "whatWeSee": "The Americans follows two Soviet agents living near Washington as an ordinary married couple. The house, children, neighbors and work life look normal, but beneath that normality are false identities, secret meetings, coded messages and ideological loyalty. The series treats espionage not only as weapons and chases, but as long-term role-playing and divided identity.",
+      "realHistory": "In KGB and later SVR practice, an “illegal” was a deep-cover operative who did not work under diplomatic cover and therefore had no diplomatic immunity. The goal was not always a dramatic assassination or a single stolen file. It could involve building contacts, watching target circles, gathering information and creating access that might become valuable later. The FBI's Operation Ghost Stories file, based on the Russian illegals network uncovered in 2010, is a modern documented example of this method. The U.S. Department of Justice also described the arrests of people accused of long-term deep-cover assignments, and some later admitted acting as illegal agents for the Russian Federation. The Americans moves that logic into the 1980s and turns it into family drama. The action is heightened, but the method is recognizable: a false identity is maintained for years, ordinary social life becomes intelligence work and every relationship can carry operational value. What is most disturbing is not the action but the everyday performance. Marriage, parenting, friendship and career become parts of the mission. That is what the show captures well: the danger is not only being caught. It is the slow erosion of the self under a role that must never slip.",
+      "accuracyNote": "The series uses fictional characters, but deep-cover espionage, covert communication and long-term identity construction are grounded in real intelligence history.",
+      "whyInteresting": "It pulls espionage away from James Bond speed and toward patience, false selfhood and daily performance.",
+      "misconception": "Deep-cover spies are often imagined as running huge operations every day. Much of the work is access, observation, relationship-building and waiting.",
+      "nextTopics": [
+        "Operation Ghost Stories",
+        "Cold War Intelligence",
+        "Coded Communication"
+      ],
+      "similarMedia": [
+        "Tinker Tailor Soldier Spy",
+        "Bridge of Spies",
+        "Deutschland 83"
+      ],
+      "relatedCardIds": [
+        "tf26-273-bridge-of-spies-u2-exchange",
+        "tf26-245-codbo-mkultra",
+        "tf26-230-mgs-nuclear-deterrence"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "spoilerLevel": "none",
+      "spoilerNote": "Explains the show's basic premise without revealing major plot turns.",
+      "mediaConnection": "The Americans connects family melodrama with the documented practice of deep-cover intelligence work.",
+      "accuracyType": "inspired-by-reality",
+      "isPremium": false,
+      "tags": [
+        "the-americans",
+        "kgb",
+        "svr",
+        "operation-ghost-stories",
+        "espionage"
+      ],
+      "whyItMatters": "Spy stories show how personal things such as identity and loyalty can become tools in state rivalry.",
+      "isFlagship": false,
+      "quickRealityCheck": "The Americans is a fictional family story, but deep-cover agents and fake civilian lives are documented intelligence methods.",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "FBI - Operation Ghost Stories: Inside the Russian Spy Case",
+          "url": "https://www.fbi.gov/news/stories/operation-ghost-stories-inside-the-russian-spy-case",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "FBI History - Laptop from Operation Ghost Stories",
+          "url": "https://www.fbi.gov/history/artifacts/laptop-from-operation-ghost-stories",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "U.S. Department of Justice - Ten Alleged Secret Agents Arrested in the United States",
+          "url": "https://www.justice.gov/archives/opa/pr/ten-alleged-secret-agents-arrested-united-states",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-277-rome-late-republic-patronage",
+      "title": "Patronage and the Fall of the Republic",
+      "subtitle": "Why Roman politics was not just Senate speeches",
+      "mediaType": "series",
+      "mediaTitle": "Rome (HBO)",
+      "era": "Ancient History",
+      "region": "Roman Republic",
+      "themes": [
+        "Rome",
+        "Politics",
+        "Democracy",
+        "Empire"
+      ],
+      "whatWeSee": "Rome presents the late Republic through Caesar, Pompey, Antony, Cicero and ordinary soldiers. The series links Senate debate with street violence, family ties with political loyalty, and military victory with personal power. On screen, the Republic looks less like a stable marble institution and more like a dangerous web of debts, favors and fear.",
+      "realHistory": "### The Republic ran on personal networks\n\nThe Roman Republic was not a modern democracy with equal citizens and clean institutional boundaries. It had elections, magistracies, assemblies and the Senate, but political power also moved through family name, wealth, military reputation, debt and patronage. Patron-client relationships were not just private favors. They were part of political mobilization. A powerful person might offer legal support, protection, work, access or public backing; in return, clients could provide loyalty, votes, services and prestige. These ties appeared at many levels, from freedmen and former masters to election campaigns, provincial elites and soldiers attached to a successful general. That is why Rome's constant question of “whose man are you?” is not just television drama. It was one of the languages of Republican power.\n\n### The crisis was bigger than one ambitious man\n\nThe fall of the late Republic is often reduced to Caesar's ambition. Caesar mattered enormously, but the crisis was structural as well as personal. As Rome expanded, war booty, provincial commands, enslaved labor, debt, land distribution and military command created stakes far larger than the older Republican balance could easily contain. Armies could become attached not to an abstract constitution, but to generals who promised pay, plunder, settlement or protection. Sulla, Pompey and Caesar were different expressions of that longer breakdown. The labels populares and optimates should not be treated as modern disciplined parties. They were closer to competing elite strategies and public languages of legitimacy. Caesar crossing the Rubicon was a symbolic rupture, but it only makes sense after decades of conflict over assemblies, Senate authority, courts, debt, land and military command.\n\n### What the show understands\n\nRome compresses events, connects characters dramatically and makes institutional conflict feel personal. Still, it has a powerful historical instinct: in Roman politics, public and private life were not neatly separated. Marriages could be alliances, funerals could be propaganda, military victories could become electoral capital, and debts could become political pressure. Caesar's dictatorship was not just a change of title. It showed how badly the old institutional balance had already been worn down. The British Museum coin naming Caesar as dictator perpetuo is useful here because it captures the way personal authority could become public symbol.\n\n### Why it still feels familiar\n\nThe late Republic remains compelling because it shows how institutions can keep their outward forms while losing the social trust that made them work. Elections still existed, speeches still happened and offices still had names, but violence, patronage and private military loyalty increasingly shaped outcomes. Rome is most valuable when it places ordinary soldiers inside this crisis. The Republic did not collapse only in senatorial speeches. It was felt by men waiting for pay, veterans hoping for land, debtors looking for patrons and elites treating the state as a field for personal competition. The lesson is not simply “Caesar destroyed the Republic.” It is that a republic can begin to fail when law, money, status and armed loyalty stop balancing one another and start serving private power.",
+      "accuracyNote": "The series compresses events and intensifies personal connections, but patronage, military loyalty and elite rivalry were genuinely central to the late Republican crisis.",
+      "whyInteresting": "It moves Rome's fall beyond the simple formula of “good Republic, bad Caesar” and into the social and economic pressures that hollowed out institutions.",
+      "misconception": "It is misleading to imagine the Roman Republic as a modern parliamentary democracy. Status, wealth and personal loyalty were built into the system.",
+      "nextTopics": [
+        "Julius Caesar",
+        "Roman Civil Wars",
+        "Patron-Client Relations"
+      ],
+      "similarMedia": [
+        "Gladiator",
+        "I, Claudius",
+        "Spartacus"
+      ],
+      "relatedCardIds": [
+        "tf26-255-totalwar-condottieri",
+        "tf26-220-ck3-dynastic-marriage",
+        "tf26-251-obradinn-east-india-company"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "spoilerLevel": "minor",
+      "spoilerNote": "Explains the historical direction of the period and the show; it does not recount a scene-by-scene finale.",
+      "mediaConnection": "Rome's world of intrigue and street politics can be read against the real late-Republican crisis of patronage, military command and institutional breakdown.",
+      "accuracyType": "partly-real",
+      "isPremium": true,
+      "tags": [
+        "rome",
+        "roman-republic",
+        "julius-caesar",
+        "patronage",
+        "republic"
+      ],
+      "whyItMatters": "Republics survive not only through written laws, but through the social networks that agree to respect those laws.",
+      "isFlagship": true,
+      "quickRealityCheck": "Rome heightens personal drama, but patronage, military loyalty and elite competition really are essential to understanding the Republic's collapse.",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "World History Encyclopedia - Ancient Roman Society",
+          "url": "https://www.worldhistory.org/article/1463/ancient-roman-society/",
+          "type": "reference",
+          "verified": true
+        },
+        {
+          "title": "World History Encyclopedia - Caesar as Dictator",
+          "url": "https://www.worldhistory.org/article/112/caesar-as-dictator-his-impact-on-the-city-of-rome/",
+          "type": "reference",
+          "verified": true
+        },
+        {
+          "title": "British Museum - Julius Caesar coin",
+          "url": "https://www.britishmuseum.org/collection/object/C_1843-0116-170",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "University of Chicago - The Roman Client",
+          "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA%2A/Cliens.html",
+          "type": "academic_reference",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-278-marco-polo-yuan-silk-road",
+      "title": "Kublai Khan's Court",
+      "subtitle": "Yuan rule, the Silk Road and Marco Polo's contested testimony",
+      "mediaType": "series",
+      "mediaTitle": "Marco Polo",
+      "era": "Middle Ages",
+      "region": "China / Mongol Empire",
+      "themes": [
+        "Mongols",
+        "China",
+        "Silk Road",
+        "Politics"
+      ],
+      "whatWeSee": "Marco Polo places a Venetian traveler inside Kublai Khan's court, with intrigue, war and cultural encounter all filtered through his arrival in an unfamiliar imperial world. The series turns the Silk Road into an exotic adventure route and the Yuan court into a theater of loyalty, ambition and betrayal.",
+      "realHistory": "Marco Polo's account is both influential and difficult to read. Kublai Khan proclaimed the Yuan dynasty in 1271, and Mongol rule over China created an imperial system that was far more complex than a simple military occupation. The Smithsonian describes the Yuan as China's first foreign-led dynasty to rule the whole country, while the Met emphasizes Kublai's world of court culture, religion, cities and cosmopolitan exchange. Polo's Travels opened a powerful European window onto Yuan China, but it was not a neutral camera. It passed through merchant interests, oral reporting, translation, literary shaping and the expectations of European readers. That is why the series raises a useful question even when it exaggerates: Marco Polo shows not only Kublai's court, but also how Europe learned to imagine Asia. The Yuan world was a political and cultural laboratory of trade routes, multilingual administration, Mongol-Chinese rule and court ritual. The drama of the show is heightened, but the historical setting behind it is rich enough without turning everything into exotic spectacle.",
+      "accuracyNote": "The series uses real people and settings, but enlarges court intrigue and Marco's role for dramatic effect.",
+      "whyInteresting": "It shows how one travel account could shape European imagination about a vast part of the world.",
+      "misconception": "Marco Polo's text should not be treated as a complete and neutral eyewitness report. It is valuable, but it is filtered.",
+      "nextTopics": [
+        "Yuan Dynasty",
+        "Silk Road",
+        "Travel Writing"
+      ],
+      "similarMedia": [
+        "Mongol",
+        "The Last Emperor",
+        "Kingdom of Heaven"
+      ],
+      "relatedCardIds": [
+        "tf26-253-civ-tech-tree-myth",
+        "tf26-229-deathstranding-logistics",
+        "tf26-251-obradinn-east-india-company"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "spoilerNote": "Explains the period and premise of the series without revealing character fates.",
+      "mediaConnection": "Marco Polo's court adventure can be compared with Yuan governance and the reliability problems of medieval travel writing.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "marco-polo",
+        "kublai-khan",
+        "yuan",
+        "silk-road",
+        "mongols"
+      ],
+      "whyItMatters": "Travel narratives do not only describe distant worlds; they also shape the imagination of the societies that read them.",
+      "isFlagship": false,
+      "quickRealityCheck": "Marco Polo is a real historical window, but both the show's court drama and the source's point of view need to be questioned.",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "The Met - Khubilai Khan",
+          "url": "https://www.metmuseum.org/perspectives/khubilai-khan",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "National Museum of Asian Art - Yuan dynasty",
+          "url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/explore-by-dynasty/yuan-dynasty/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "World History Encyclopedia - Marco Polo",
+          "url": "https://www.worldhistory.org/Marco_Polo/",
+          "type": "reference",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-279-vikings-valhalla-stamford-1066",
+      "title": "1066 and Stamford Bridge",
+      "subtitle": "Did the Viking Age really end in one day?",
+      "mediaType": "series",
+      "mediaTitle": "Vikings: Valhalla",
+      "era": "Middle Ages",
+      "region": "England / Norway",
+      "themes": [
+        "Vikings",
+        "War",
+        "England",
+        "Middle Ages"
+      ],
+      "whatWeSee": "Vikings: Valhalla dramatizes the late Viking world through war, faith, dynastic claims and overseas expeditions. As the story moves toward 1066, figures such as Harald Hardrada can feel like the last great carriers of an older Viking energy. On screen, the mood is one final reach for a fading age.",
+      "realHistory": "The Battle of Stamford Bridge took place on 25 September 1066 between King Harold Godwinson of England and the forces of King Harald Hardrada of Norway, who was allied with Harold's brother Tostig. Harold Godwinson had to move quickly north while the Norman threat waited in the south. Near York, he caught the Norwegian army by surprise. English Heritage describes the battle as a decisive defeat for Hardrada, who was killed. Only weeks later, Harold had to march south again and was defeated by William of Normandy at Hastings on 14 October. Stamford Bridge is often described as the end of the Viking Age, but that phrase is a symbolic shortcut. Scandinavian traders, settlers, rulers and cultural networks did not disappear in a single afternoon. Norse societies continued to change through Christianization, royal consolidation, trade and integration with European politics. Still, 1066 was a turning point for England. First a Norwegian royal claim was crushed, then Norman conquest reshaped the kingdom. That is why the moment works so well for Vikings: Valhalla. Its characters are not only fighting a battle. They are trying to carry older forms of prestige into a world whose political rules are changing.",
+      "accuracyNote": "The series dramatizes characters and events. Stamford Bridge was a real turning point, but calling it “the end of the Viking Age” is a symbolic compression.",
+      "whyInteresting": "In the same year, a late Viking-style royal claim and the Norman conquest both reshaped English history.",
+      "misconception": "It is wrong to think all Viking culture vanished after Stamford Bridge. What changed was the political balance and the form of Scandinavian claims on England.",
+      "nextTopics": [
+        "Battle of Hastings",
+        "Harald Hardrada",
+        "Norman Conquest"
+      ],
+      "similarMedia": [
+        "The Last Kingdom",
+        "Vikings",
+        "The Northman"
+      ],
+      "relatedCardIds": [
+        "tf26-217-hellblade-picts-norse",
+        "tf26-260-forhonor-chivalry-myth",
+        "tf26-254-aoe-siege-engineering"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "spoilerLevel": "none",
+      "spoilerNote": "Explains the historical outcome without revealing a specific season finale.",
+      "mediaConnection": "Vikings: Valhalla's late Viking atmosphere can be read alongside the 1066 chain of Stamford Bridge and Hastings.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "vikings-valhalla",
+        "stamford-bridge",
+        "1066",
+        "harald-hardrada",
+        "hastings"
+      ],
+      "whyItMatters": "Moments described as “the end of an age” are often transitions in which older power forms lose to new political arrangements.",
+      "isFlagship": false,
+      "quickRealityCheck": "Stamford Bridge was a major break for Viking claims in England, but the wider Viking world did not vanish that day.",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "English Heritage - Stamford Bridge: The Other Battle of 1066",
+          "url": "https://www.english-heritage.org.uk/visit/inspire-me/blog/blog-posts/battle-1066/",
+          "type": "heritage",
+          "verified": true
+        },
+        {
+          "title": "Historic England - Battlefield Report: Stamford Bridge 1066",
+          "url": "https://historicengland.org.uk/content/docs/listing/battlefields/stamford-bridge/",
+          "type": "official_pdf",
+          "verified": true
+        },
+        {
+          "title": "English Heritage - 1066 and the Norman Conquest",
+          "url": "https://www.english-heritage.org.uk/visit/places/1066-battle-of-hastings-abbey-and-battlefield/history-and-stories/1066-and-the-norman-conquest/",
+          "type": "heritage",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-280-dasboot-battle-of-atlantic",
+      "title": "The Battle of the Atlantic and U-Boat Life",
+      "subtitle": "The war of attrition behind submarine tension",
+      "mediaType": "series",
+      "mediaTitle": "Das Boot",
+      "era": "World War II",
+      "region": "Atlantic / Europe",
+      "themes": [
+        "World War II",
+        "Seafaring",
+        "Technology",
+        "Military History"
+      ],
+      "whatWeSee": "Das Boot locks the viewer inside the narrow body of a U-boat: metal noises, oxygen, waiting, panic, discipline and sudden death. Naval war is felt not through grand arrows on a map, but through sweat, pressure, technical failure and fear. The camera often pushes ideology aside and emphasizes the crew's fragility.",
+      "realHistory": "The Battle of the Atlantic was one of the longest and most decisive wars of attrition in World War II. Germany's U-boat strategy aimed to cut Britain and its allies off from seaborne supplies. The Allied response combined convoy systems, escort vessels, air patrols, radar, sonar or ASDIC, codebreaking and industrial ship production. Imperial War Museums describes the struggle as a contest between German submarines and surface raiders on one side and the merchant convoys carrying vital supplies from North America and across the empire on the other. Das Boot's strength is that it reduces this vast campaign to the experience of one crew inside one machine. But the wider war was not decided only by courage, terror or seamanship. Fuel, tonnage, air cover, cryptology and production capacity mattered just as much. U-boat crews faced extreme danger, but the civilian merchant sailors they hunted also carried a huge and often invisible burden. That is why Das Boot is best read not as submarine romance, but as a gateway into modern war's dependence on machines, logistics and supply lines.",
+      "accuracyNote": "The series and film tradition are strong on atmosphere and submarine life, while specific events and characters are arranged for drama.",
+      "whyInteresting": "It shows World War II from inside a claustrophobic struggle over supply, technology and endurance rather than from a conventional front line.",
+      "misconception": "Seeing the Battle of the Atlantic as submarine duels alone misses the central issue: trade, supply and production capacity.",
+      "nextTopics": [
+        "Convoy System",
+        "Enigma and Codebreaking",
+        "Civilian Sailors"
+      ],
+      "similarMedia": [
+        "Greyhound",
+        "The Cruel Sea",
+        "U-571"
+      ],
+      "relatedCardIds": [
+        "tf26-263-imitation-game-bletchley",
+        "tf26-265-master-commander-royal-navy",
+        "tf26-230-mgs-nuclear-deterrence"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "spoilerNote": "Gives historical context without revealing a specific episode ending or character fate.",
+      "mediaConnection": "Das Boot's closed-space tension can be compared with the real convoy, technology and supply history of the Battle of the Atlantic.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "das-boot",
+        "u-boat",
+        "battle-of-the-atlantic",
+        "convoys",
+        "world-war-ii"
+      ],
+      "whyItMatters": "War stories often focus on battlefield heroism; the Atlantic campaign shows how dependent modern societies are on supply routes.",
+      "isFlagship": false,
+      "quickRealityCheck": "Das Boot's narrow-hull tension is powerful, but convoys, technology, codebreaking and ship production shaped the real campaign.",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "Imperial War Museums - Battle of the Atlantic",
+          "url": "https://www.iwm.org.uk/history/second-world-war/battle-of-the-atlantic",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "IWM - What you need to know about the Battle of the Atlantic",
+          "url": "https://www.iwm.org.uk/history/second-world-war/battle-of-the-atlantic/what-you-need-to-know",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Naval History and Heritage Command - Battle of the Atlantic",
+          "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/atlantic.html",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-281-general-war-propaganda-posters",
+      "title": "War Posters and Public Opinion",
+      "subtitle": "How states persuaded people",
+      "mediaType": "general",
+      "mediaTitle": "Propaganda and History",
+      "era": "20th Century",
+      "region": "Global",
+      "themes": [
+        "Propaganda",
+        "Media",
+        "War",
+        "Society"
+      ],
+      "whatWeSee": "In war films and games, propaganda posters often sit in the background: a soldier, a flag, a threatening enemy face or a short command to produce, save or enlist. Sometimes they simply create atmosphere. Sometimes they compress an entire political mood into one image. Viewers notice them, but may not think about how deliberate their design was.",
+      "realHistory": "War posters were not just decoration or simple morale messages. States used them to recruit soldiers, sell war bonds, demand food and fuel conservation, demonize enemies, bring women into production or teach secrecy. The U.S. National Archives exhibition Powers of Persuasion treats World War II posters as a visual archive of persuasion strategies. The UK National Archives collection similarly shows posters being used for food production, recycling, military service and civil defense. Their power came from compression: one image, one command, one emotion. Fear, duty, shame, belonging or hope could be delivered in seconds. That is why poster design matters when it appears in media. A small object on a wall can reveal how a state was trying to shape the citizen. But propaganda was not always harmless. It could dehumanize enemies, spread racist stereotypes and make war look morally simple. For True Frame, looking at the poster means noticing that war is fought not only at the front, but also in public imagination.",
+      "accuracyNote": "This general card does not explain one specific film or game; it explains the historical source behind poster language common in war media.",
+      "whyInteresting": "It shows that wars are fought with visual language and emotional management as well as weapons.",
+      "misconception": "Propaganda posters were not just old-fashioned advertising. Many were state campaigns designed to change behavior.",
+      "nextTopics": [
+        "Radio Propaganda",
+        "War Bonds",
+        "Enemy Caricatures"
+      ],
+      "similarMedia": [
+        "Battlefield 1",
+        "Call of Duty: WWII",
+        "The Man in the High Castle"
+      ],
+      "relatedCardIds": [
+        "tf26-240-bf1-gallipoli",
+        "tf26-241-bf1-arab-revolt-lawrence",
+        "tf26-245-codbo-mkultra"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "spoilerNote": "Gives general historical context and does not spoil a specific story.",
+      "mediaConnection": "It reads the poster decor of war games and period films against real state propaganda campaigns.",
+      "accuracyType": "real",
+      "isPremium": false,
+      "tags": [
+        "propaganda",
+        "war-posters",
+        "world-war-ii",
+        "media-history",
+        "public-opinion"
+      ],
+      "whyItMatters": "Visual propaganda is a key example of how modern mass states try to direct feeling and behavior.",
+      "isFlagship": false,
+      "quickRealityCheck": "War posters were not just background art; they were designed persuasion tools for enlistment, saving, production and obedience.",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "U.S. National Archives - Powers of Persuasion",
+          "url": "https://www.archives.gov/exhibits/powers-of-persuasion",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The National Archives - Second World War propaganda posters",
+          "url": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/second-world-war/second-world-war-propaganda-posters/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Library of Congress - The World War II poster collection",
+          "url": "https://www.loc.gov/item/2003542663/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-282-general-greek-fire-byzantine-secrecy",
+      "title": "Greek Fire and Lost Technology",
+      "subtitle": "What was Byzantium's secret?",
+      "mediaType": "general",
+      "mediaTitle": "Science and History",
+      "era": "Middle Ages",
+      "region": "Byzantium / Eastern Mediterranean",
+      "themes": [
+        "Byzantium",
+        "Technology",
+        "Military History",
+        "Science"
+      ],
+      "whatWeSee": "In games and fantasy histories, Greek fire often looks like a magical superweapon: a flame that burns on water, destroys ships in a single moment and survives as a lost formula. The image is so powerful that it is easy to exaggerate it, as if the Byzantine navy possessed a weapon that worked perfectly in every battle.",
+      "realHistory": "Greek fire was a real incendiary weapon used by the Byzantines, especially in naval warfare. Royal Museums Greenwich notes that its ability to keep burning on water helped make it effective, and that it played an important role in Byzantine defense from the seventh century onward. But the exact formula is unknown. Sources, modern experiments and historians' interpretations still leave uncertainty. That means it is too simple to call it “ancient napalm,” but also too simple to dismiss it as pure legend. Its importance was not only chemical. It was also a matter of secrecy, specialist knowledge and state control. A weapon like this needed ingredients, storage, pumping systems, trained crews, suitable ships, favorable conditions and tactics. The possible loss of the formula reminds us that technology does not always move forward in a straight line. When knowledge is not written openly, and depends on a few specialists or on the continuity of a state institution, it becomes fragile. Greek fire is therefore less a story of a lost superweapon than a story of information management. A secret can protect an empire, but if the institution that carries the secret breaks down, the technology can disappear with it.",
+      "accuracyNote": "Greek fire was a real Byzantine weapon, but many popular claims about its exact formula, effects and use are uncertain or exaggerated.",
+      "whyInteresting": "It shows that technology history is also about secrecy, institutions, expertise and lost knowledge.",
+      "misconception": "It is wrong to assume the exact formula is known, or that Greek fire was an unbeatable weapon in every condition.",
+      "nextTopics": [
+        "Byzantine Navy",
+        "Lost Technologies",
+        "Military Secrets"
+      ],
+      "similarMedia": [
+        "Assassin's Creed Revelations",
+        "Rise of the Tomb Raider",
+        "Total War"
+      ],
+      "relatedCardIds": [
+        "tf26-253-civ-tech-tree-myth",
+        "tf26-254-aoe-siege-engineering",
+        "tf26-255-totalwar-condottieri"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 2,
+      "spoilerLevel": "none",
+      "spoilerNote": "Gives general historical information and is not tied to a specific plot.",
+      "mediaConnection": "It balances the “ancient superweapon” image in games and shows with the real history of Byzantine naval warfare and secret knowledge.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "greek-fire",
+        "byzantium",
+        "lost-technology",
+        "naval-warfare",
+        "military-history"
+      ],
+      "whyItMatters": "Lost technologies remind us that progress is not automatic and that knowledge depends on institutions that can preserve it.",
+      "isFlagship": false,
+      "quickRealityCheck": "Greek fire was real, but its exact formula and battlefield effect are not as clear as popular retellings suggest.",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "Royal Museums Greenwich - Greek Fire",
+          "url": "https://www.rmg.co.uk/stories/maritime-history/greek-fire",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "JSTOR - Greek Fire and the Defense of Byzantium, 678-1204",
+          "url": "https://www.jstor.org/stable/3106585",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "World History Encyclopedia - Greek Fire",
+          "url": "https://www.worldhistory.org/Greek_Fire/",
+          "type": "reference",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-283-general-maps-as-propaganda",
+      "title": "Do Maps Lie?",
+      "subtitle": "Geography, power and selected truths",
+      "mediaType": "general",
+      "mediaTitle": "Geography and Power",
+      "era": "General History",
+      "region": "Global",
+      "themes": [
+        "Geography",
+        "Politics",
+        "Media",
+        "Science"
+      ],
+      "whatWeSee": "In strategy games, war films and history documentaries, the map often looks like a neutral screen of reality. Borders are drawn, arrows move, colors separate countries and names give identity to regions. The viewer or player often accepts the map without argument, as if the world simply looks that way and the only question is who moves where.",
+      "realHistory": "A map never shows the world in a pure state. It selects, reduces, enlarges, names and silently interprets. Projection choices can make some regions appear larger or smaller than they are. Borders can make state claims look natural. Place names reveal whose memory is being centered. The Library of Congress collection of propaganda maps shows how twentieth-century maps were used not only to inform, but to frighten, mobilize and deliver political messages. Cornell's Persuasive Maps collection also emphasizes that some maps aim less at geographic precision than at influencing belief. This does not mean every map is false. It means every map is a chain of choices. What scale will be used? Where will the center be? Which border will be recognized? Which people will disappear? Those questions matter whenever a map appears in media. In war and empire stories especially, maps are one of the strongest ways to make a political claim look like technical fact.",
+      "accuracyNote": "This card does not say maps are useless; it explains that even accurate-looking maps carry political and visual choices.",
+      "whyInteresting": "It questions one of the interfaces viewers and players trust most: the map.",
+      "misconception": "A map is not just objective geography. Every map chooses what to show and what to leave out.",
+      "nextTopics": [
+        "Mercator Projection",
+        "Border Disputes",
+        "Counter-Mapping"
+      ],
+      "similarMedia": [
+        "Civilization",
+        "Europa Universalis IV",
+        "Hearts of Iron IV"
+      ],
+      "relatedCardIds": [
+        "tf26-221-eu4-mercantilism-colonialism",
+        "tf26-223-hoi4-war-economy",
+        "tf26-253-civ-tech-tree-myth"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "spoilerLevel": "none",
+      "spoilerNote": "A general history and media-reading card; it does not spoil a specific story.",
+      "mediaConnection": "It rereads map interfaces in strategy games and historical media through real cartography and propaganda history.",
+      "accuracyType": "real",
+      "isPremium": false,
+      "tags": [
+        "maps",
+        "cartography",
+        "propaganda",
+        "geography",
+        "borders"
+      ],
+      "whyItMatters": "Maps help us understand the world, but they can also carry how power wants the world to be seen.",
+      "isFlagship": false,
+      "quickRealityCheck": "Maps are not simply lies, but every map involves choices about scale, center, borders, names and emphasis.",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "Library of Congress - Propaganda Maps to Strike Fear, Inform, and Mobilize",
+          "url": "https://blogs.loc.gov/maps/2019/09/propaganda-maps-to-strike-fear-inform-and-mobilize-a-special-collection-in-the-geography-and-map-division/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Cornell University Library - Persuasive Maps",
+          "url": "https://persuasivemaps.library.cornell.edu/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Library of Congress - Collections with Maps",
+          "url": "https://www.loc.gov/maps/collections/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "tf26-284-general-standard-time-railways",
+      "title": "What Time Is It? The Invention of Standard Time",
+      "subtitle": "How railways synchronized time",
+      "mediaType": "general",
+      "mediaTitle": "Modernization and Time",
+      "era": "19th Century",
+      "region": "Britain / United States / Global",
+      "themes": [
+        "Modernization",
+        "Technology",
+        "Railways",
+        "Time"
+      ],
+      "whatWeSee": "In period dramas, westerns and industrial-era games, railway time can look like mere decor: a station board, a pocket watch, a steam engine, a late train. Yet that small detail carries one of modern life's biggest transformations. People began to live by networked time rather than only by local solar time, and that change was built rather than natural.",
+      "realHistory": "Before industrial transport, time was local in many places: noon meant the moment when the sun reached its highest point where you were. That system worked reasonably well in a slow-travel world. Railways changed the problem. Different towns connected by one timetable could not safely run on many slightly different local times. The Smithsonian notes that on 18 November 1883 North American railroads adopted Standard Railway Time, with many communities shifting at once. Royal Museums Greenwich explains that from the 1840s many British railway companies adopted Greenwich Mean Time instead of local time, and that telegraph time signals were possible by 1852. This was not just technical convenience. Factory shifts, school schedules, bureaucracy, news, markets and everyday discipline all adjusted around it. Standard time is one of modernity's invisible infrastructures. The clock on a phone now feels natural and unquestionable, but behind it stand railway safety, faster trade, imperial communication and the desire to put society into a shared rhythm. For True Frame, the point is simple: the modern world was built not only by spectacular machines, but by ordinary standards that made everyone live by the same minute.",
+      "accuracyNote": "Standard time did not spread everywhere in a single instant; it strengthened gradually through railways, telegraphy, Greenwich reference time and international agreements.",
+      "whyInteresting": "It shows that the clock system we treat as natural grew out of railway, trade and state-management needs.",
+      "misconception": "Time zones and standard time have not always existed. They are technical and political products of nineteenth-century modernization.",
+      "nextTopics": [
+        "Greenwich Mean Time",
+        "Telegraphy",
+        "Factory Time"
+      ],
+      "similarMedia": [
+        "Hell on Wheels",
+        "The Railway Men",
+        "Anno 1800"
+      ],
+      "relatedCardIds": [
+        "tf26-261-anno1800-industrial-city",
+        "tf26-222-victoria3-industrial-labor",
+        "tf26-229-deathstranding-logistics"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 2,
+      "spoilerLevel": "none",
+      "spoilerNote": "A general history card; it does not explain any specific plot.",
+      "mediaConnection": "It links trains and pocket watches in period media to the real modern history of standard time.",
+      "accuracyType": "real",
+      "isPremium": false,
+      "tags": [
+        "standard-time",
+        "railways",
+        "greenwich",
+        "gmt",
+        "modernization"
+      ],
+      "whyItMatters": "Modern life was built not only through large machines, but through invisible standards such as everyone obeying the same minute.",
+      "isFlagship": false,
+      "quickRealityCheck": "Today's clock order is not natural; it is the result of standardization driven by railways, telegraphy and modern trade.",
+      "lastReviewedAt": "2026-06-28",
+      "sources": [
+        {
+          "title": "Smithsonian National Museum of American History - Time Zones",
+          "url": "https://americanhistory.si.edu/ontime/synchronizing/zones.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Royal Museums Greenwich - What is Greenwich Mean Time?",
+          "url": "https://www.rmg.co.uk/stories/time/greenwich-mean-time-gmt",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Royal Museums Greenwich - History of Royal Observatory Greenwich",
+          "url": "https://www.rmg.co.uk/stories/space-astronomy/history-royal-observatory",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "sourceQuality": "strong",
+      "verificationStatus": "verified"
+    }
+  ]
+}

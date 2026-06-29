@@ -1,0 +1,1465 @@
+{
+  "meta": {
+    "purpose": "English-native adaptation batch",
+    "sourceChunk": "source-chunk-014.json",
+    "batchNumber": 14,
+    "cardCount": 20,
+    "sourceCardRange": "TR order cards 261-280",
+    "alreadyAuthoredCountBeforeBatch": 260,
+    "authoredCountAfterBatch": 280,
+    "remainingCountAfterBatch": 171,
+    "ids": [
+      "tf26-082-blackbeard",
+      "tf26-083-pirate-code",
+      "tf26-084-treasure-myth",
+      "tf26-085-port-royal",
+      "tf26-086-women-pirates",
+      "tf26-087-naval-punishment",
+      "tf26-088-maps-navigation",
+      "tf26-089-enslaved-labor",
+      "tf26-090-pirate-democracy",
+      "tf26-091-bastille",
+      "tf26-093-estates-general",
+      "tf26-094-declaration-rights",
+      "tf26-095-reign-terror",
+      "tf26-096-sans-culottes",
+      "tf26-097-women-march",
+      "tf26-098-revolutionary-calendar",
+      "tf26-099-vendee",
+      "tf26-100-napoleon-rise",
+      "tf26-101-declaration",
+      "tf26-102-hamilton-finance"
+    ]
+  },
+  "cards": [
+    {
+      "id": "tf26-082-blackbeard",
+      "title": "The Blackbeard Legend",
+      "subtitle": "Edward Teach's theater of fear",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Early Modern",
+      "region": "Caribbean",
+      "themes": [
+        "Seafaring",
+        "Crime",
+        "Trade"
+      ],
+      "whatWeSee": "Pirates of the Caribbean ties legendary pirates to supernatural power, cursed ships, and oversized personal myth. In popular culture, Blackbeard becomes almost demonic: smoke in his beard, frightened crews, dark theatrics, and a name that seems to shake whole ports before a shot is fired.",
+      "realHistory": "Edward Teach, also recorded as Thatch, became one of the Atlantic and Caribbean world's most famous pirates between 1716 and 1718. His effectiveness did not come from violence alone. It also came from deliberate image management. Stories of burning slow matches tucked into his beard should be read as psychological warfare: terror could make a target surrender before a fight became costly.\n\nBlackbeard's power also came from material force. With a large, heavily armed vessel such as Queen Anne's Revenge, he could threaten commercial routes rather than merely rob isolated ships. The blockade of Charleston showed that he could disrupt the economic rhythm of a port, not just seize cargo at sea. For colonial authorities, he was therefore not a colorful rogue but a security problem aimed at trade and public authority.\n\nIn 1718, forces organized under Virginia governor Alexander Spotswood and led by Robert Maynard attacked Blackbeard near Ocracoke and killed him. The later display of his severed head was itself propaganda, meant to turn the pirate's own fear theater back against piracy. Popular culture turns Blackbeard into a magical monster. The historical Edward Teach was shorter-lived but more interesting: a pirate captain who combined theatrical fear, naval firepower, and economic pressure.",
+      "accuracyNote": "Blackbeard's death, Queen Anne's Revenge, and the Ocracoke action are documented. Buried treasure and supernatural power belong mostly to later pirate mythology.",
+      "whyInteresting": "One of Blackbeard's strongest weapons was not only his cannon, but the scene he built inside his enemy's mind.",
+      "misconception": "Blackbeard is often imagined as powerful because of hidden treasure or a supernatural curse; his real strength came from fear management, shipboard firepower, and pressure on trade routes.",
+      "nextTopics": [
+        "Privateering",
+        "Blackbeard",
+        "Pirate Codes"
+      ],
+      "sources": [
+        {
+          "title": "National Park Service - Blackbeard (Edward Teach)",
+          "url": "https://www.nps.gov/caha/learn/historyculture/blackbeard-edward-teach.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Royal Museums Greenwich - Who was Blackbeard?",
+          "url": "https://www.rmg.co.uk/stories/maritime-history/who-was-blackbeard",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Queen Anne's Revenge Project - Blackbeard",
+          "url": "https://www.qaronline.org/history/blackbeard-history-dreaded-pirate",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-084-treasure-myth",
+        "tf26-088-maps-navigation"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Pirates of the Caribbean's Blackbeard references, Edward Teach, and the 1718 Ocracoke action.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "piracy",
+        "caribbean",
+        "seafaring",
+        "blackbeard",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain hints about the story of Pirates of the Caribbean; it does not reveal the ending.",
+      "mediaChanged": "The film mythologizes Blackbeard into a larger-than-life pirate figure; the records show a shorter but intense story of violence, blockade, and colonial counteraction.",
+      "whyItMatters": "Blackbeard shows how the pirate myth grew from both conscious fear theater and a real colonial security problem.",
+      "isFlagship": false,
+      "quickRealityCheck": "Why did Blackbeard become more than a raider and turn into a political problem for colonial trade authorities?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-083-pirate-code",
+      "title": "Pirate Codes",
+      "subtitle": "Not chaos, but a contract at sea",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Early Modern",
+      "region": "Caribbean",
+      "themes": [
+        "Seafaring",
+        "Crime",
+        "Trade"
+      ],
+      "whatWeSee": "Pirates of the Caribbean hints at a shipboard world where crews can argue with captains, challenge authority, and appeal to a shared code. Plunder shares, punishment, loyalty, and command are played for comedy, but behind the jokes is a real idea: a pirate ship often needed rules to survive.",
+      "realHistory": "On many Atlantic pirate ships of the seventeenth and eighteenth centuries, crews operated under articles: written or agreed rules for life at sea. These were not romantic decoration. They were a way to regulate an extremely risky workplace. A captain could be powerful during combat, but in daily ship life the quartermaster might balance authority over food, discipline, complaints, and division of plunder.\n\nThe articles associated with captains such as Bartholomew Roberts covered practical details: when lights went out, whether gambling was allowed, how injuries were compensated, how watches worked, and how shares were distributed. Injury compensation is especially revealing. A pirate ship was not only a raiding machine; it was also a risk-sharing labor system for men who knew they might lose a limb, a hand, or an eye.\n\nNone of this makes piracy fair or harmless. Violence, coercion, enslavement, and forced service were part of the world around it. But the image of pirates as completely ruleless is also wrong. On long voyages, water, food, discipline, and shares had to be regulated. Without a working code, a ship could collapse before it ever reached a prize.",
+      "accuracyNote": "The code is not pure fiction; historical pirate articles survive. The films make the idea more theatrical and uniform than it really was.",
+      "whyInteresting": "A state-free community in the middle of the sea creating something like a miniature constitution is unexpectedly modern.",
+      "misconception": "Pirates are often imagined as completely lawless; many crews could not function without shipboard articles.",
+      "nextTopics": [
+        "Privateering",
+        "Blackbeard",
+        "Pirate Codes"
+      ],
+      "sources": [
+        {
+          "title": "Royal Museums Greenwich - Pirate fact or fiction",
+          "url": "https://www.rmg.co.uk/stories/maritime-history/pirates-fact-or-fiction",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "World History Encyclopedia - Bartholomew Roberts",
+          "url": "https://www.worldhistory.org/Bartholomew_Roberts/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Library of Congress - Captain Bartholomew Roberts",
+          "url": "https://www.loc.gov/pictures/item/2007675644/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-084-treasure-myth",
+        "tf26-085-port-royal",
+        "tf26-086-women-pirates"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The film's Pirate Code language gains historical weight when placed next to surviving pirate articles.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "piracy",
+        "caribbean",
+        "seafaring",
+        "pirate-codes",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain hints about the story of Pirates of the Caribbean; it does not reveal the ending.",
+      "mediaChanged": "The film turns the code into charismatic banter and comic ritual; real pirate articles managed death, injury, plunder, and discipline.",
+      "whyItMatters": "Pirate codes show that even a criminal community at sea had to invent contracts and counterweights to authority.",
+      "isFlagship": false,
+      "quickRealityCheck": "Why could a quartermaster become a second center of power beside a pirate captain?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-084-treasure-myth",
+      "title": "Buried Treasure",
+      "subtitle": "The X on the map is often a literary inheritance",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Early Modern",
+      "region": "Caribbean",
+      "themes": [
+        "Seafaring",
+        "Crime",
+        "Trade"
+      ],
+      "whatWeSee": "Pirates of the Caribbean builds piracy around cursed gold, secret chests, hidden maps, and supernatural treasure hunts. It is a powerful fantasy: piracy becomes the search for one huge prize rather than a violent maritime economy built on repeated attacks, resale, ports, and risk.",
+      "realHistory": "### What did pirates actually want?\n\nLate seventeenth- and early eighteenth-century Atlantic piracy was usually not a search for buried gold. It was a business of seizing things that could be used, divided, sold, or traded. Sugar, tobacco, textiles, food, rope, weapons, ship supplies, coin, and sometimes human beings were all part of the maritime economy pirates attacked. A prize did not have to look romantic to be valuable. A cargo of provisions could keep a crew alive; a load of trade goods could be turned into cash through a friendly or corrupt port contact.\n\n### Why burying loot made little sense\n\nBurying treasure on a remote island was often a poor strategy. Crews expected their shares quickly. Ships needed food, rum, powder, repairs, bribes, and market access. Waiting around with heavy loot increased the risk of being caught by naval patrols, privateers, rivals, or colonial authorities. Pirate economics usually depended on speed: take the prize, divide what could be divided, sell what could be sold, and move before the law or a rival captain closed in.\n\n### How the myth grew\n\nThe buried treasure image did not come from nowhere. There were individual rumors and a few stories of hidden goods. But the familiar map, X mark, secret island, and cursed chest were amplified by nineteenth-century pirate fiction, especially the literary tradition surrounding Treasure Island. That fiction cleaned up the dirtier reality of cargo theft, fences, coercion, and port markets, turning piracy into a puzzle adventure. Pirates of the Caribbean knowingly inherits that tradition and pushes it into fantasy.\n\n### The darker reality\n\nThe historical world is less magical and more revealing. Pirate success depended on trade routes, shipboard labor, resale networks, disease, discipline, violence, and imperial rivalry. Nassau and similar ports were not simply romantic havens; they were nodes in a wider economy of illegal trade and maritime labor. The buried treasure myth is entertaining, but it hides the main point: the pirate's real treasure was often not under the sand. It was in cargo that could be converted into money, supplies, influence, or another voyage.\n\n### Why the myth survives\n\nBuried treasure also survives because it makes piracy morally simpler. A chest on an island has no owner visible in the frame; a cargo hold does. Once the prize is sugar, tobacco, supplies, or enslaved labor, the story points back to plantation economies, colonial law, and stolen work. A map with an X lets the audience chase mystery instead of asking who produced the goods and who lost them. That is why the myth is so useful to adventure fiction and so misleading for history.",
+      "accuracyNote": "The films are faithful to pirate folklore, but historical pirate economics depended much more on cargo, share systems, and port intermediaries than on isolated treasure chests.",
+      "whyInteresting": "The buried treasure myth shows how fiction can turn economic violence into a cleaner, more romantic adventure.",
+      "misconception": "Many people imagine pirates burying gold chests marked on secret maps; the documented pattern is closer to salable cargo and rapid division of shares.",
+      "nextTopics": [
+        "Privateering",
+        "Blackbeard",
+        "Pirate Codes"
+      ],
+      "sources": [
+        {
+          "title": "Royal Museums Greenwich - Pirate fact or fiction",
+          "url": "https://www.rmg.co.uk/stories/maritime-history/pirates-fact-or-fiction",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Royal Museums Greenwich - Golden Age of Piracy",
+          "url": "https://www.rmg.co.uk/stories/maritime-history/pirates-history-golden-age-piracy",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "National Geographic - Pirates' Golden Age in the Caribbean",
+          "url": "https://www.nationalgeographic.com/history/article/pirates-golden-age-caribbean",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-088-maps-navigation",
+        "tf26-082-blackbeard"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Pirates of the Caribbean embraces the pirate legend, while the archives point more strongly toward disrupted trade.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "piracy",
+        "caribbean",
+        "seafaring",
+        "buried-treasure",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain hints about the story of Pirates of the Caribbean; it does not reveal the ending.",
+      "mediaChanged": "The film elevates buried treasure mythology; historical piracy relied on the rapid distribution and sale of captured commercial goods.",
+      "whyItMatters": "This card brings the real maritime economy behind pirate romance back into view.",
+      "isFlagship": true,
+      "quickRealityCheck": "Were pirates mostly chasing map-marked gold, or were they after salable cargo and port access?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-085-port-royal",
+      "title": "Port Royal",
+      "subtitle": "Pirate port, imperial warehouse, or both?",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Early Modern",
+      "region": "Caribbean",
+      "themes": [
+        "Seafaring",
+        "Crime",
+        "Trade"
+      ],
+      "whatWeSee": "In Pirates of the Caribbean, Port Royal feels like a busy naval outpost: cannon fire, uniformed guards, crowded docks, and the constant threat of pirate attack. The film turns the port into both a display of order and a doorway into chaos.",
+      "realHistory": "In the later seventeenth century, Port Royal was one of English Jamaica's richest and most controversial ports. Its rise came not only from pirate legend, but from a broader economy of sugar plantations, Atlantic trade, credit networks, privateering, and colonial warfare. Licensed raiders could damage Spanish commerce and serve English interests; when peace returned, some of the same men could suddenly be treated as criminals.\n\nThat flexibility shows how law in the early modern Caribbean often moved with political interest. Warehouses held rum, sugar, timber, weapons, and other goods, while enslaved Africans performed crucial labor on docks, in construction, transport, and plantation production. To call Port Royal simply a pirate town hides the plantation world on land and the state-sponsored violence at sea.\n\nThe 1692 earthquake and tsunami destroyed much of the city, but maritime violence and smuggling did not disappear. Networks shifted through Kingston, Nassau, and other ports. Pirates of the Caribbean gives Port Royal a useful adventure atmosphere. The historical version is harsher: a gray imperial laboratory where war, commerce, slavery, privateering, and colonial capital met on the same waterfront.",
+      "accuracyNote": "The port's military identity is plausible, but the social inequality and labor regime behind that world are much less visible in the film.",
+      "whyInteresting": "The same port could serve official war, semi-legal raiding, plantation commerce, and smuggling at once.",
+      "misconception": "Port Royal is often imagined as an independent city of drinking, fun, and piracy; it was also embedded in imperial trade and plantation wealth.",
+      "nextTopics": [
+        "Privateering",
+        "Blackbeard",
+        "Pirate Codes"
+      ],
+      "sources": [
+        {
+          "title": "View of Port Royal, Jamaica — Royal Museums Greenwich",
+          "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-13320",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Port Royal — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/place/Port-Royal-Jamaica",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Pirates, Privateers and Buccaneers — Royal Museums Greenwich",
+          "url": "https://www.rmg.co.uk/stories/topics/pirates-privateers-buccaneers",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-086-women-pirates",
+        "tf26-087-naval-punishment",
+        "tf26-088-maps-navigation"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The film's port atmosphere works well as an entry point; True Frame adds the economic and colonial foundation beneath it.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "piracy",
+        "caribbean",
+        "seafaring",
+        "port-royal",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain hints about the story of Pirates of the Caribbean; it does not reveal the ending.",
+      "mediaChanged": "The film focuses the port around pirate conflict; the historical picture also depends on plantation economics, colonial law, and licensed privateering.",
+      "whyItMatters": "Port Royal exposes the colonial economy and legal sea violence behind the pirate myth.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was Port Royal made rich mainly by colorful pirates, or by sugar, privateering licenses, and enslaved labor?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Port Royal's 1692 earthquake and its later role as a British naval and mercantile port verified with Royal Museums Greenwich."
+    },
+    {
+      "id": "tf26-086-women-pirates",
+      "title": "Women Pirates",
+      "subtitle": "Rare captains, visible trials, and hidden labor",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Early Modern",
+      "region": "Caribbean",
+      "themes": [
+        "Seafaring",
+        "Crime",
+        "Trade"
+      ],
+      "whatWeSee": "Pirates of the Caribbean gives powerful women room to act inside the pirate world. Elizabeth and other figures turn piracy into a language of freedom, risk, and reinvention. The result is exciting, but it can make women at sea seem more common and more freely placed than the records suggest.",
+      "realHistory": "Women are documented in early modern piracy, but they were far fewer than men and most sources were written through male legal or literary viewpoints. Anne Bonny and Mary Read became famous after their 1720 capture with Calico Jack Rackham's crew. Jamaican trial records describe their participation in piracy, their use of male clothing, and their conviction. Both were sentenced to death, but both pleaded pregnancy, which delayed execution. Mary Read died in prison; Anne Bonny's later fate remains uncertain.\n\nThese cases make it impossible to claim that women had no place in pirate history. They do not prove that women were common on pirate ships. Maritime life could loosen some gender roles compared with life on shore, but that looseness came with violence, legal danger, and constant identity negotiation. Women who entered pirate worlds should be understood through poverty, escape, coercion, opportunity, and the harsh conditions of port societies, not only through a modern freedom fantasy.\n\nPirates of the Caribbean turns this legacy into adventure and empowerment. The records are less glossy. Women pirates were visible because they were unusual, because courts recorded them, and because execution threatened them. Their stories matter precisely because they sit between myth, survival, and colonial law.",
+      "accuracyNote": "Bonny and Read are supported by trial material. Their visibility should not be expanded into a claim that women were common across pirate crews.",
+      "whyInteresting": "Women pirate stories reveal both the openings and the brutal limits inside the freedom myth of the sea.",
+      "misconception": "Women are often imagined as either absent from piracy or common in pirate crews; documented cases are real but limited.",
+      "nextTopics": [
+        "Privateering",
+        "Blackbeard",
+        "Pirate Codes"
+      ],
+      "sources": [
+        {
+          "title": "The Life and Trial of Anne Bonny — Library of Congress",
+          "url": "https://blogs.loc.gov/law/2024/07/the-life-and-trial-of-anne-bonny/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Anne Bonny — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/Anne-Bonny",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Mary Read — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/Mary-Read",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-087-naval-punishment",
+        "tf26-088-maps-navigation",
+        "tf26-089-enslaved-labor"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The film's empowered pirate women can be read beside the eighteenth-century trials of Anne Bonny and Mary Read.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "piracy",
+        "caribbean",
+        "seafaring",
+        "women-pirates",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain hints about the story of Pirates of the Caribbean; it does not reveal the ending.",
+      "mediaChanged": "The film turns the woman pirate into a figure of freedom and charisma; court records place that visibility inside execution, pregnancy pleas, and colonial law.",
+      "whyItMatters": "This topic exposes the tension between romantic adventure and the real histories of gender, class, and colonial punishment.",
+      "isFlagship": false,
+      "quickRealityCheck": "Why were Anne Bonny and Mary Read not immediately executed after their convictions?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Based on a Library of Congress article on the Anne Bonny/Mary Read case and sources referencing contemporary trial records."
+    },
+    {
+      "id": "tf26-087-naval-punishment",
+      "title": "Punishment at Sea",
+      "subtitle": "Gallows, flogging, and law on the ocean",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Early Modern",
+      "region": "Caribbean",
+      "themes": [
+        "Seafaring",
+        "Crime",
+        "Trade"
+      ],
+      "whatWeSee": "Pirates of the Caribbean uses gallows, flogging, and the King's law to show the harsh edge of maritime life. Punishment appears as immediate theater: public fear, quick threats, and bodies made into warnings.",
+      "realHistory": "Discipline at sea did not operate only through a captain's temper. In state navies, written law mattered. The British Royal Navy's Articles of War punished mutiny, desertion, disobedience, and cowardice in battle with severe penalties. Flogging could be carried out publicly on deck, while serious cases moved through formal courts and could end in execution. This violence helped control a closed and dangerous labor system.\n\nPirate ships were not completely ruleless either. Many crews accepted articles that regulated plunder shares, watches, gambling, fights, injury compensation, and the captain's authority. During combat a captain could have wide command power, but in daily life the quartermaster and crew could limit that power. This does not make piracy humane. It means pirate discipline followed a different logic from state naval discipline.\n\nThe film foregrounds sudden gallows, threats, and theatrical punishment. The historical picture is more bureaucratic: punishment was often justified through records, witnesses, courts, and written rules. Maritime punishment is therefore not only a history of cruelty. It is also a history of how authority was built far from land.",
+      "accuracyNote": "Flogging and articles are historical. Keelhauling should not be treated as the central or routine British naval punishment behind every pirate-story image.",
+      "whyInteresting": "On the same ocean, pirates and navies used different legal languages, but both relied on written rules to keep discipline.",
+      "misconception": "Pirates are often imagined as free and unpunished, while navies are imagined as pure arbitrary violence; both worlds had discipline systems.",
+      "nextTopics": [
+        "Privateering",
+        "Blackbeard",
+        "Pirate Codes"
+      ],
+      "sources": [
+        {
+          "title": "Royal Navy Records — UK National Archives",
+          "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "Articles for the Government of the United States Navy — Naval History and Heritage Command",
+          "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/a/articles-for-war.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Pirate Codes — Royal Museums Greenwich",
+          "url": "https://www.rmg.co.uk/stories/topics/pirate-codes",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-082-blackbeard",
+        "tf26-088-maps-navigation"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Pirates of the Caribbean's punishment scenes can be compared with Articles of War, naval courts, and pirate articles.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "piracy",
+        "caribbean",
+        "seafaring",
+        "naval-punishment",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain hints about the story of Pirates of the Caribbean; it does not reveal the ending.",
+      "mediaChanged": "The film uses punishment as quick atmosphere; records show discipline working through written articles, testimony, courts, and shipboard contracts.",
+      "whyItMatters": "Punishment at sea reveals the gap between the freedom myth and the hard reality of enclosed maritime labor.",
+      "isFlagship": false,
+      "quickRealityCheck": "How do the film's sudden gallows scenes compare with Articles of War and naval court procedure?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Keelhauling was not presented as a central, routine practice of the British navy; flogging, the Articles of War, and pirate articles were placed on a safer footing."
+    },
+    {
+      "id": "tf26-088-maps-navigation",
+      "title": "Maps and Navigation",
+      "subtitle": "Charts, stars, and logs: the hidden science of piracy",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Early Modern",
+      "region": "Caribbean",
+      "themes": [
+        "Seafaring",
+        "Crime",
+        "Trade"
+      ],
+      "whatWeSee": "Pirates of the Caribbean romanticizes navigation through magical compasses, secret charts, and captainly instinct. Adventure takes priority over measurement. The audience is left with the sense that courage and intuition can master the ocean, while the technical labor of navigation sits in the background.",
+      "realHistory": "### From magic compass to logbook\n\nPirates of the Caribbean turns navigation into a world of enchanted compasses, hidden maps, and almost supernatural instinct. That works beautifully for adventure, but early modern navigation depended on routine measurement and disciplined recordkeeping. Officers tracked wind, current, estimated speed, heading, and time, then entered those details into logs. A good captain was not simply a daring maneuverer. He was someone who could detect a growing error before the ship drifted into danger.\n\n### Latitude was easier, longitude was harder\n\nLatitude could be estimated through observations of the sun and stars. Longitude was the larger problem. For a long time, dead reckoning remained the everyday method: combine speed, direction, and elapsed time to estimate position. It was practical and inexpensive, but errors accumulated. Over a long voyage, even a small miscalculation could become a dangerous gap. In Caribbean waters, reefs, storms, and shoals made that gap deadly. The later development of marine chronometers, associated most famously with John Harrison's timekeepers, changed the longitude problem because accurate time made position more reliable. Safety at sea was therefore partly astronomy, partly clockmaking, and partly disciplined paperwork.\n\n### A chart was never enough\n\nOwning a chart did not guarantee safety. Many charts were incomplete, outdated, or deliberately limited. Harbor entrances, shoals, reefs, local currents, and seasonal winds often required pilot knowledge. Maritime information was strategic capital for navies, merchants, and trading companies. A good route could mean profit; a bad route could mean wreckage. Charts were not finished magical objects. They were information systems, corrected by many voyages, copied, compared, and sometimes guarded.\n\n### Piracy was also an information economy\n\nPirates were not outside this technical world. Many were former sailors, privateers, or merchant seamen. Knowing passages, winds, seasonal storm risk, resale ports, patrol routes, and hiding places could matter as much as cannon. A pirate captain wanted to know where sugar, silver, or trade goods moved, which harbor officials could be bribed, and where a damaged ship could be repaired without immediate arrest. This knowledge might come from captured logbooks, coerced pilots, port intermediaries, or crew experience.\n\n### Why the myth hides the labor\n\nThe magical compass is memorable because it turns navigation into destiny. Real navigation was more fragile and more collaborative. Someone had to measure, estimate, write, compare, and correct. A missed current or a faulty time estimate could end a voyage. That technical labor does not shrink the pirate myth; it deepens it. The same seas that carried legends also depended on notebooks, instruments, pilots, and accumulated maritime memory.\n\n### The real power of a map\n\nA map was valuable not because it revealed one secret island, but because it compressed labor. It carried previous voyages, risks, and corrections into the hands of a new crew. In that sense, charts were weapons of trade as much as tools of travel. Pirates, merchants, and empires all competed over the same thing: reliable knowledge of movement. Pirates of the Caribbean gives us a compass that points toward desire. History gives us something less magical but more revealing: navigation was power because it turned uncertainty into usable routes.",
+      "accuracyNote": "Caribbean piracy and route competition have historical grounding; magical compasses and destiny-driven instruments are fictional.",
+      "whyInteresting": "The pirate myth becomes richer when set beside chart history, measurement, and maritime logistics.",
+      "misconception": "Pirate success is often reduced to courage, instinct, and firepower; navigation depended heavily on records, instruments, and shared knowledge.",
+      "nextTopics": [
+        "Privateering",
+        "Blackbeard",
+        "Pirate Codes"
+      ],
+      "sources": [
+        {
+          "title": "Traditional Ways to Determine a Ship’s Position — Royal Museums Greenwich",
+          "url": "https://www.rmg.co.uk/stories/maritime-history/traditional-ways-determine-ships-position",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Longitude Found: Harrison's Timekeepers — Royal Museums Greenwich",
+          "url": "https://www.rmg.co.uk/stories/time/harrisons-clocks-longitude-problem",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "History of Nautical Charts — NOAA",
+          "url": "https://nauticalcharts.noaa.gov/learn/history.html",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-084-treasure-myth",
+        "tf26-087-naval-punishment"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Pirates of the Caribbean foregrounds adventure; True Frame adds the technical labor of navigation.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "piracy",
+        "caribbean",
+        "seafaring",
+        "maps-navigation",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain hints about the story of Pirates of the Caribbean; it does not reveal the ending.",
+      "mediaChanged": "The film ties navigation to symbolic objects and fate; historical practice depended on measurement, logs, pilot knowledge, and crew coordination.",
+      "whyItMatters": "Navigation shows that maritime empires and pirate networks were also systems of information production.",
+      "isFlagship": true,
+      "quickRealityCheck": "If captainly instinct was enough, why did logbooks, dead reckoning, and chronometers become so important?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Flagship length was expanded and a heading structure added; the distinction between dead reckoning and the longitude/chronometer problem is supported by Royal Museums Greenwich sources."
+    },
+    {
+      "id": "tf26-089-enslaved-labor",
+      "title": "Enslaved Labor",
+      "subtitle": "Forced labor behind the Caribbean freedom myth",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Early Modern",
+      "region": "Caribbean",
+      "themes": [
+        "Seafaring",
+        "Crime",
+        "Trade"
+      ],
+      "whatWeSee": "Pirates of the Caribbean mostly keeps enslaved labor, plantations, and trade routes in the background. The Caribbean becomes a space of freedom, cursed treasure, and individual adventure, while the labor system that made many ports rich remains largely unseen.",
+      "realHistory": "The seventeenth- and eighteenth-century Caribbean economy depended heavily on the forced labor of enslaved Africans. Sugar, tobacco, coffee, and other plantation products were produced by people transported through the Atlantic slave trade and compelled to work under violent conditions. Barrels on docks and ships in harbors were not just adventure scenery. They were parts of an economic chain linking plantations, credit, insurance, European consumption, and bodily coercion.\n\nPiracy did not exist outside that system. Some pirates attacked slave ships; some enslaved people used ships as spaces of escape or uncertain renegotiation. But pirate networks often fed from the same trade routes, the same ports, and the same colonial economy. Pirate freedom was rarely universal freedom. It was usually freedom for certain groups of seafaring men, while enslaved people's movement remained constrained by law, sale, violence, and surveillance.\n\nThe films largely push this background away and frame the Caribbean as a world of rebellion and personal liberty. The historical reality is heavier: Caribbean wealth rested on forced labor, bodily punishment, separated families, high mortality, and resistance. That resistance also matters. Flight, maroon communities, sabotage, cultural survival, and uprisings show that the system was never silently accepted.",
+      "accuracyNote": "The scale of the slave trade is documented in transatlantic slave trade records and maritime museum sources.",
+      "whyInteresting": "The same sea carried both a freedom legend and histories of chains, forced labor, and resistance.",
+      "misconception": "Pirate stories are often treated as fully separate from slavery; in reality they moved through the same Atlantic world.",
+      "nextTopics": [
+        "Privateering",
+        "Blackbeard",
+        "Pirate Codes"
+      ],
+      "sources": [
+        {
+          "title": "The History of the Transatlantic Slave Trade — Royal Museums Greenwich",
+          "url": "https://www.rmg.co.uk/stories/maritime-history/history-transatlantic-slave-trade",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Slavery in the Caribbean — National Museums Liverpool",
+          "url": "https://www.liverpoolmuseums.org.uk/archaeologyofslavery/slavery-caribbean",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Atlantic Slave Trade — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/Atlantic-slave-trade",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-090-pirate-democracy",
+        "tf26-087-naval-punishment",
+        "tf26-088-maps-navigation"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Pirates of the Caribbean's ports can be read beside the Atlantic slave trade and plantation economy.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "piracy",
+        "caribbean",
+        "seafaring",
+        "enslaved-labor",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain hints about the story of Pirates of the Caribbean; it does not reveal the ending.",
+      "mediaChanged": "The film pushes enslaved labor to the background; historically, plantation production and the Atlantic slave trade were central to the region's economy.",
+      "whyItMatters": "This card centers the forced labor hidden behind Caribbean adventure.",
+      "isFlagship": false,
+      "quickRealityCheck": "What labor system does the pirate freedom myth often make invisible?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Language was framed around 'enslaved people/labor' wherever possible, so as not to reduce people to their legal status."
+    },
+    {
+      "id": "tf26-090-pirate-democracy",
+      "title": "Pirate Democracy",
+      "subtitle": "Freedom, or a contract for shared risk?",
+      "mediaType": "film",
+      "mediaTitle": "Pirates of the Caribbean",
+      "era": "Early Modern",
+      "region": "Caribbean",
+      "themes": [
+        "Seafaring",
+        "Crime",
+        "Trade"
+      ],
+      "whatWeSee": "Pirates of the Caribbean presents pirate councils as colorful anarchy: arguments, votes, codes, jokes, and sudden reversals. It captures the idea that pirate crews did not always accept simple top-down command, but it simplifies the rules behind that tension.",
+      "realHistory": "Shipboard order in seventeenth- and eighteenth-century Atlantic piracy was more structured than the chaotic image suggests. Many crews used articles that set out shares of plunder, injury compensation, watch discipline, gambling rules, fights, punishments, and the limits of a captain's authority. A captain might have broad power in combat, but daily government could be checked by the quartermaster and by crew consent.\n\nThis had democratic features. Captains could be chosen and, in some cases, removed if they were seen as incompetent or cruel. But this was not modern equal citizenship. Women, enslaved people, and coerced recruits often stood outside the real decision-making community. Violence, theft, and coercion remained part of the ship's economy. Even so, compared with the hard hierarchy of many merchant ships and navies, some pirate crews offered seamen a more negotiated model of authority.\n\nPirates of the Caribbean keeps the visual signs: council, code, and captaincy disputes. The historical records show something more practical than romantic freedom. Pirate democracy was a method for keeping a dangerous criminal enterprise together by managing risk, rewards, and discipline.",
+      "accuracyNote": "The pirate council idea has historical inspiration, but real arrangements were harsher, narrower, and more economic than the films imply.",
+      "whyInteresting": "At sea, a criminal crew could still produce rules for pay, injury, discipline, and leadership that look surprisingly contractual.",
+      "misconception": "Pirate democracy is often imagined as fully egalitarian freedom; it was limited by violence, exclusion, and the criminal economy.",
+      "nextTopics": [
+        "Privateering",
+        "Blackbeard",
+        "Pirate Codes"
+      ],
+      "sources": [
+        {
+          "title": "Pirate Codes — Royal Museums Greenwich",
+          "url": "https://www.rmg.co.uk/stories/topics/pirate-codes",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "An-arrgh-chy: The Law and Economics of Pirate Organization — Journal of Political Economy",
+          "url": "https://www.peterleeson.com/an-arrgh-chy.pdf",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "Piracy — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/piracy",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-088-maps-navigation",
+        "tf26-089-enslaved-labor"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Pirate Democracy: the atmosphere of Pirates of the Caribbean compared with the order described in historical records.",
+      "accuracyType": "fictionalized",
+      "isPremium": false,
+      "tags": [
+        "piracy",
+        "caribbean",
+        "seafaring",
+        "pirate-democracy",
+        "true-frame",
+        "war"
+      ],
+      "spoilerNote": "May contain hints about the story of Pirates of the Caribbean; it does not reveal the ending.",
+      "mediaChanged": "The film uses pirate councils as colorful comic anarchy; articles were serious tools for limiting captains and dividing plunder.",
+      "whyItMatters": "This topic makes piracy legible as a negotiation over labor, risk, reward, and authority, not just chaos.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was freedom on a pirate ship really rulelessness, or written rules for sharing risk?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "No direct equation with modern democracy was made; the limits of exclusion, violence, and the criminal economy were specifically noted."
+    },
+    {
+      "id": "tf26-091-bastille",
+      "title": "Bastille Day",
+      "subtitle": "Gunpowder search, symbolic collapse",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Unity",
+      "era": "Modern History",
+      "region": "France",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Society"
+      ],
+      "whatWeSee": "Assassin's Creed Unity turns the area around the Bastille into a sudden explosion of public anger. The player witnesses a moment when history seems to break open in the street. The scene is powerful, but the event was not simply a one-day riot.",
+      "realHistory": "When Parisians marched on the Bastille on 14 July 1789, they were not only looking for a symbol. They needed gunpowder and ammunition. Earlier that day, crowds had taken weapons from the Hotel des Invalides; to use them, they turned toward the Bastille's powder stores. At the same time, financial collapse, high bread prices, poor harvests, and royal troops around Paris had created fear throughout the city. The Third Estate's transformation into the National Assembly had already pushed a dispute over representation into a crisis of sovereignty.\n\nThe prison held very few inmates, and its military value was more limited than later memory suggests. Yet the Bastille embodied the fear of arbitrary imprisonment and royal power. When negotiations failed, fighting broke out. Governor de Launay was killed and the fortress fell. The event accelerated the rise of municipal power in Paris and the National Guard, and it fed into the rural panic known as the Great Fear.\n\nBastille Day is therefore both material and symbolic history. Without the search for powder, the practical cause disappears. Without the symbol of royal coercion, the political impact becomes hard to explain. Unity captures the street rupture; history shows the financial crisis, municipal politics, militia formation, and sovereignty debate behind it.",
+      "accuracyNote": "The event and its importance are real, but the game's pacing naturally compresses timing and relationships among the actors.",
+      "whyInteresting": "A fortress with limited immediate military value became the symbol of an entire regime crisis.",
+      "misconception": "The Bastille is often imagined as full of hundreds of political prisoners; the crowd was also urgently searching for gunpowder.",
+      "nextTopics": [
+        "Bastille Day",
+        "Bread Prices",
+        "Estates-General"
+      ],
+      "sources": [
+        {
+          "title": "Storming of the Bastille — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/event/Storming-of-the-Bastille",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "French Revolution Resources — UK National Archives",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/french-revolution/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "What Happened on the Original Bastille Day — Time",
+          "url": "https://time.com/4402553/bastille-day-history-july-14/",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "ac-unity-revolution",
+        "tf26-093-estates-general",
+        "tf26-094-declaration-rights"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Unity's Bastille scenes read more accurately when placed inside the bread crisis and the search for gunpowder in Paris.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "french-revolution",
+        "paris",
+        "revolution",
+        "bastille-day",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game concentrates the event into street fighting; historically, municipal politics, gunpowder, the National Assembly crisis, and symbolic power all mattered.",
+      "whyItMatters": "The Bastille shows how revolutions can accelerate when practical need and symbolic target collide.",
+      "isFlagship": false,
+      "quickRealityCheck": "Why was the crowd's urgent goal not simply freeing prisoners, but finding gunpowder and ammunition?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "The emphasis on the seven prisoners and the gunpowder store was strengthened; the reduction that 'the Bastille alone started the revolution' was avoided."
+    },
+    {
+      "id": "tf26-093-estates-general",
+      "title": "The Estates-General",
+      "subtitle": "From voting procedure to sovereignty crisis",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Unity",
+      "era": "Modern History",
+      "region": "France",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Society"
+      ],
+      "whatWeSee": "Assassin's Creed Unity makes the Estates-General feel like the point where street anger and court crisis finally meet. As crowds grow, the opening of the institution seems almost like a trigger. The game shows pressure more clearly than procedure.",
+      "realHistory": "The Estates-General was the old French assembly of clergy, nobility, and the Third Estate. It had not met since 1614. Its recall in 1789 came from the monarchy's inability to solve a severe fiscal crisis. War debts, unequal taxation, and blocked revenue made new political consent necessary. The most explosive issue looked technical: how would voting work? If each estate voted as a bloc, the clergy and nobility could outvote the Third Estate, even though the Third Estate represented the overwhelming majority of the population.\n\nThe Third Estate demanded voting by head and joint deliberation. When compromise failed, it declared itself the National Assembly. The Tennis Court Oath turned a procedural dispute into a direct claim that sovereignty belonged to the nation. The cahiers de doleances, local grievance lists gathered before the meeting, also carried local complaints into national politics.\n\nUnity captures the pressure and atmosphere of revolutionary Paris. The institutional break was just as important. The old regime could no longer produce legitimacy through its own procedures. A dispute over voting rules began to dissolve the political foundation of monarchy within months.",
+      "accuracyNote": "The atmosphere of pressure is well captured, but the debt crisis and procedural fight over voting are necessarily compressed.",
+      "whyInteresting": "A debate over voting method helped unravel centuries of monarchical legitimacy.",
+      "misconception": "The Estates-General is often treated as a symbolic meeting; in 1789 it became a live sovereignty crisis.",
+      "nextTopics": [
+        "Bastille Day",
+        "Bread Prices",
+        "Estates-General"
+      ],
+      "sources": [
+        {
+          "title": "Summoning of the Estates General, 1789 — Château de Versailles",
+          "url": "https://en.chateauversailles.fr/discover/history/key-dates/summoning-estates-general-1789",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Estates-General — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/topic/Estates-General",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Tennis Court Oath — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/event/Tennis-Court-Oath",
+          "type": "article",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-094-declaration-rights",
+        "tf26-095-reign-terror",
+        "tf26-096-sans-culottes"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Unity's revolutionary atmosphere gains sharper meaning when read through the Estates-General's representation crisis.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "french-revolution",
+        "paris",
+        "revolution",
+        "estates-general",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game fuses the assembly crisis with street tension; historically, fiscal collapse, voting procedure, and claims of sovereignty all mattered.",
+      "whyItMatters": "Representation fights can become revolutionary precisely when technical procedure decides who counts as the nation.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was the key problem in 1789 only street violence, or did the voting system itself create a legitimacy crisis?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Made shorter and clearer while preserving the line from the Tennis Court Oath to the Third Estate and the National Assembly."
+    },
+    {
+      "id": "tf26-094-declaration-rights",
+      "title": "Declaration of Rights",
+      "subtitle": "A new rights language, with contested boundaries",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Unity",
+      "era": "Modern History",
+      "region": "France",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Society"
+      ],
+      "whatWeSee": "Assassin's Creed Unity presents revolutionary Paris through street tension, club politics, and rumor. The Declaration of the Rights of Man and of the Citizen often remains more like a poster or background idea than a working legal text.",
+      "realHistory": "Adopted on 26 August 1789, the Declaration of the Rights of Man and of the Citizen created a new political language against Old Regime privilege. It located sovereignty in the nation and placed equality before the law, freedom of expression, property, security, and protection against arbitrary arrest at the foundation of the revolutionary order. It was not just a legal list. It was a claim that an abstract citizen stood above kingly will and inherited privilege.\n\nYet its universal language did not immediately produce equal results for everyone. Women remained outside formal political rights. Enslaved people and colonial populations were not fully included in the freedom promised by the text. Olympe de Gouges's 1791 Declaration of the Rights of Woman and of the Female Citizen directly exposed this exclusion. As the Revolution moved through war, economic crisis, and the Reign of Terror, the tension between rights language and emergency state violence grew sharper.\n\nUnity captures the energy of the streets, but the Declaration's importance lies in institutions as well as slogans. It became a reference point for constitutional debate, legal argument, club politics, and later struggles over who counted as a rights-bearing citizen.",
+      "accuracyNote": "The game conveys the revolutionary atmosphere well, while the legal language, exclusions, and later influence of the Declaration are naturally less visible.",
+      "whyInteresting": "The same text helped break the regime of privilege and gave excluded groups a language for later struggle.",
+      "misconception": "The 1789 Declaration is often imagined as applying equally to all people from the start.",
+      "nextTopics": [
+        "Bastille Day",
+        "Bread Prices",
+        "Estates-General"
+      ],
+      "sources": [
+        {
+          "title": "Declaration of Human and Civic Rights of 26 August 1789",
+          "url": "https://www.conseil-constitutionnel.fr/en/declaration-of-human-and-civic-rights-of-26-august-1789",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Declaration of the Rights of Man - 1789",
+          "url": "https://avalon.law.yale.edu/18th_century/rightsof.asp",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "French Revolution Digital Archive",
+          "url": "https://frda.stanford.edu/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-095-reign-terror",
+        "tf26-096-sans-culottes",
+        "tf26-097-women-march"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Assassin's Creed Unity and the Declaration of Rights: the screen image beside the documented text.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "french-revolution",
+        "paris",
+        "revolution",
+        "declaration-of-rights",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Unity treats the Declaration more as part of revolutionary atmosphere; historically its weight lies in redefining institutions and the boundaries of citizenship.",
+      "whyItMatters": "The Declaration shows how modern freedom language can be both foundational and incomplete.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did the rights announced in 1789 really include everyone, or did their scope widen through later struggles?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-095-reign-terror",
+      "title": "The Reign of Terror",
+      "subtitle": "Not only the guillotine, but emergency law",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Unity",
+      "era": "Modern History",
+      "region": "France",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Society"
+      ],
+      "whatWeSee": "In Unity, the Terror appears through crowded Paris streets, execution squares, and the constant sense that betrayal is everywhere. The paranoia feels right, but the institutions that produced it are necessarily simplified.",
+      "realHistory": "The Reign of Terror, from 1793 to 1794, emerged from the Revolution's perception of internal and external threat. The Republic was young, at war with European monarchies, and afraid of counterrevolution at home. Under this pressure, the Committee of Public Safety became a center of emergency executive power. Revolutionary tribunals accelerated, while the Law of Suspects widened the range of people who could be treated as enemies of the Republic.\n\nPolitics was not happening only at the scaffold. Food shortages, price rises, and urban poverty pushed revolutionary government toward price controls on basic goods. Sans-culotte pressure strengthened radical measures, while local committees and Paris sections became everyday arms of emergency rule. The guillotine became the symbol, but the deeper historical weight lies in the expansion of law and administration under the language of temporary security.\n\nThe fall of Robespierre on 9 Thermidor showed that the system could consume its own builders. The Terror was therefore not simply the personal excess of a few leaders. It was the dangerous combination of war, food crisis, representation anxiety, and emergency law.",
+      "accuracyNote": "The game conveys public violence and political paranoia, but the legal and administrative machinery is narrowed by the pace of play.",
+      "whyInteresting": "A revolution defending freedom could reproduce coercive tools under another name.",
+      "misconception": "The Terror is often reduced to Robespierre's personality; war, food crisis, and emergency law worked together.",
+      "nextTopics": [
+        "Bastille Day",
+        "Bread Prices",
+        "Estates-General"
+      ],
+      "sources": [
+        {
+          "title": "Reign of Terror (Britannica)",
+          "url": "https://www.britannica.com/event/Reign-of-Terror",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Law of Suspects",
+          "url": "https://revolution.chnm.org/d/417/",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "The Maximum",
+          "url": "https://revolution.chnm.org/d/415/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-096-sans-culottes",
+        "tf26-097-women-march",
+        "tf26-098-revolutionary-calendar"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Unity's revolutionary Paris conveys street tension while simplifying the institutional chain behind the Terror.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "french-revolution",
+        "paris",
+        "revolution",
+        "reign-of-terror",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game personalizes the period through assassination and conspiracy; historically, expanding security law helped systematize violence.",
+      "whyItMatters": "The Terror shows how a regime founded on liberty can move toward punitive emergency government under pressure.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was 1793 only about the guillotine, or did emergency laws and food policy help structure the violence?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-096-sans-culottes",
+      "title": "Sans-culottes",
+      "subtitle": "Trouser symbol, bread politics",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Unity",
+      "era": "Modern History",
+      "region": "France",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Society"
+      ],
+      "whatWeSee": "In Assassin's Creed Unity, the sans-culottes appear as the face of revolutionary street energy: slogans, bread lines, sudden anger, and pressure from below. The long-trouser symbol becomes a visible anti-elite identity marker. The game presents the crowd as both liberating popular force and risk of uncontrolled violence.",
+      "realHistory": "### A street identity with political weight\n\nThe sans-culottes were not just an angry mob. They were a city-based political force in the French Revolution. Their name came from the long trousers worn by workers and artisans, contrasted with the knee-breeches associated with elites. Clothing became a class statement and a political language. In revolutionary Paris, to dress as the people could also mean claiming the right to speak in the people's name.\n\n### Bread, wages, and sovereignty\n\nThe movement drew strength from artisans, small shopkeepers, wage earners, and active citizens organized through neighborhood sections. Their demands were not limited to abstract republican virtue. Bread prices, shrinking wages, hoarding, war pressure, and access to basic goods made politics immediate. Liberty meant little if a family could not eat. That is why sans-culotte politics often pressed for price controls, action against hoarders, direct representation, and harsher measures against those labeled enemies of the people.\n\n### Allies and pressure from below\n\nBetween 1792 and 1794, Paris sections, clubs, and street demonstrations kept political leaders under pressure. Their relationship with the Jacobins was not a simple command structure. At times they were allies. At other times the central government feared the economic and punitive demands coming from the streets. Sans-culottes were both a crucial source of revolutionary support and an independent force that the revolutionary state wanted to manage.\n\n### The Maximum and emergency politics\n\nSans-culotte pressure helped create the political ground for measures such as the General Maximum, which sought to control prices on key goods. It also strengthened demands for surveillance and punishment during the emergency politics of the Terror. But the movement's power did not last. After Thermidor, neighborhood activism was weakened, price controls were rolled back, and the legitimacy of street politics was systematically attacked.\n\n### Unity's crowd and the historical crowd\n\nUnity captures the sound and danger of the crowd: slogans, poverty, anger, and the possibility of violence move through the same streets. The historical detail adds something important. This energy cannot be explained by ideology alone. The power of the sans-culottes came from linking the bread on the table to the claim that the nation belonged to the people. Their politics turned hunger into a debate over sovereignty.\n\n### Why the image remained contested\n\nLater generations used the sans-culottes as symbols of both revolutionary courage and uncontrollable mass violence. Both readings are incomplete by themselves. They were not pure heroes and not merely criminals. They were the Revolution's popular promise testing the state: cheap bread, dignity, political voice, and accountability for privilege. Their rise and suppression show why economic justice can so quickly become a question of political power.",
+      "accuracyNote": "The game captures the crowd's energy, but it compresses the economic, sectional, and institutional mechanisms behind sans-culotte pressure.",
+      "whyInteresting": "The same clothing symbol carried class identity, economic anger, and a claim to political legitimacy.",
+      "misconception": "Sans-culottes are often reduced to a violent mob; they were also an organized urban pressure force tied to bread, wages, and representation.",
+      "nextTopics": [
+        "Bastille Day",
+        "Bread Prices",
+        "Estates-General"
+      ],
+      "sources": [
+        {
+          "title": "Sansculotte (Britannica)",
+          "url": "https://www.britannica.com/topic/sansculotte",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Sans-Culottes and Popular Politics (EHNE)",
+          "url": "https://ehne.fr/en/encyclopedia/themes/the-french-revolution-and-europe/actors-and-practices/the-sans-culottes",
+          "type": "academic",
+          "verified": true
+        },
+        {
+          "title": "The Maximum",
+          "url": "https://revolution.chnm.org/d/415/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "ac-unity-revolution",
+        "tf26-100-napoleon-rise"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Unity's street politics gain depth when placed beside Paris sections, price controls, and sans-culotte activism.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "french-revolution",
+        "paris",
+        "revolution",
+        "sans-culottes",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game turns the movement into visible street energy; historically, that energy was rooted in bread prices, wages, sections, and emergency politics.",
+      "whyItMatters": "Sans-culottes show how social need can become a direct claim on political sovereignty.",
+      "isFlagship": true,
+      "quickRealityCheck": "Were the sans-culottes only a mob, or an organized urban force demanding bread, dignity, and political voice?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-097-women-march",
+      "title": "The Women's March",
+      "subtitle": "From bakery to palace: 5 October 1789",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Unity",
+      "era": "Modern History",
+      "region": "France",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Society"
+      ],
+      "whatWeSee": "Unity evokes revolutionary Paris as a city where crowds can change events. The Women's March on Versailles is exactly the kind of moment that connects hunger, rumor, and political power, even when a game turns broader social pressure into background movement.",
+      "realHistory": "On 5 October 1789, thousands of women and other Parisians marched to Versailles during a severe bread crisis. The immediate demand was food, but the march quickly became political. Anger over bread prices, distrust of the royal court, and fear that the Revolution could be reversed all moved together.\n\nThe crowd forced its way into the political center of the monarchy. After tense confrontations and violence at the palace, King Louis XVI and the royal family were brought from Versailles to Paris. This mattered enormously. The king was no longer physically distant from the revolutionary capital. He was placed under the watch of the people, the National Assembly, and the politics of Paris.\n\nThe march also shows how women, formally excluded from full political rights, still shaped revolutionary events. They acted through markets, bread lines, neighborhood networks, and public pressure. The episode was not simply hunger turning into riot. It was a moment when food politics changed the location of sovereignty.",
+      "accuracyNote": "The chronology and bread context are well documented; the game's broader revolutionary pacing naturally compresses the social networks behind the march.",
+      "whyInteresting": "People excluded from formal political rights could still force the monarchy to move.",
+      "misconception": "The march is often treated as a spontaneous food riot; it also reshaped the relationship between king, assembly, and Paris.",
+      "nextTopics": [
+        "Bastille Day",
+        "Bread Prices",
+        "Estates-General"
+      ],
+      "sources": [
+        {
+          "title": "March on Versailles (Britannica)",
+          "url": "https://www.britannica.com/event/March-on-Versailles",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Versailles at the Heart of the French Revolution",
+          "url": "https://en.chateauversailles.fr/discover/history/key-dates/versailles-heart-french-revolution",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Women in the French Revolution (Library of Congress)",
+          "url": "https://guides.loc.gov/women-in-the-french-revolution",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-096-sans-culottes",
+        "ac-unity-revolution"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Unity's crowd politics can be read beside the Women's March as an example of hunger becoming constitutional pressure.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "french-revolution",
+        "paris",
+        "revolution",
+        "womens-march",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game tends to show crowd action as atmosphere; the historical march directly moved the royal family and altered revolutionary politics.",
+      "whyItMatters": "The Women's March shows that subsistence politics can become state politics in a single day.",
+      "isFlagship": false,
+      "quickRealityCheck": "How did a bread crisis help pull the king from Versailles to Paris?",
+      "lastReviewedAt": "2026-06-28",
+      "reviewerNote": "Chronology verified with Britannica and the Library of Congress; the bread context cross-checked with a Mount Vernon source."
+    },
+    {
+      "id": "tf26-098-revolutionary-calendar",
+      "title": "The Revolutionary Calendar",
+      "subtitle": "The Revolution renamed even time",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Unity",
+      "era": "Modern History",
+      "region": "France",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Society"
+      ],
+      "whatWeSee": "In Unity, revolutionary Paris is full of renamed streets, new slogans, and visual signs of a world trying to begin again. The Revolutionary Calendar is part of that same impulse: not just changing government, but changing how people measured daily life.",
+      "realHistory": "The French Revolutionary Calendar was introduced to break symbolically and practically with the old Christian and monarchical order. Year I began with the founding of the Republic in 1792. Months were renamed after seasons and natural cycles, and the week was replaced by ten-day decades. Time itself became part of the revolutionary project.\n\nThis was not a quirky design choice. The calendar aimed to secularize public life, weaken the rhythm of saints' days and Sundays, and make the Republic feel like a new historical beginning. It also fit a broader revolutionary desire to rationalize weights, measures, administration, and civic culture.\n\nBut the calendar never fully displaced older habits. Religious rhythms, local routines, work patterns, and ordinary memory resisted the change. The ten-day work cycle was unpopular, and Napoleon eventually abolished the system in 1806. The calendar's failure is revealing: a state can rename time on paper, but lived time depends on labor, worship, markets, families, and habit.",
+      "accuracyNote": "The calendar is historical and fits the revolutionary atmosphere; everyday adoption was uneven and often resisted.",
+      "whyInteresting": "The Revolution tried not only to change laws, but to reset the clock of ordinary life.",
+      "misconception": "The Revolutionary Calendar is often treated as a harmless oddity; it was part of a serious attempt to secularize and rationalize society.",
+      "nextTopics": [
+        "Bastille Day",
+        "Bread Prices",
+        "Estates-General"
+      ],
+      "sources": [
+        {
+          "title": "French Revolutionary Calendar (Britannica)",
+          "url": "https://www.britannica.com/topic/French-revolutionary-calendar",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "French Republican Calendar (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/French_Republican_Calendar/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The French Republican Calendar: A Case Study in the Sociology of Time (JSTOR)",
+          "url": "https://www.jstor.org/stable/2094573",
+          "type": "academic",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-099-vendee",
+        "tf26-100-napoleon-rise",
+        "tf26-096-sans-culottes"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Unity's renamed revolutionary world connects naturally to the calendar's attempt to remake time itself.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "french-revolution",
+        "paris",
+        "revolution",
+        "revolutionary-calendar",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game shows revolutionary symbols in the city; the calendar shows that symbolic politics also reached clocks, weeks, months, and work rhythms.",
+      "whyItMatters": "The calendar shows how deeply revolutions can try to enter everyday life.",
+      "isFlagship": false,
+      "quickRealityCheck": "Can a revolution change society simply by renaming time?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-099-vendee",
+      "title": "The Vendee Revolt",
+      "subtitle": "Civil war opened by the Revolution in the countryside",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Unity",
+      "era": "Modern History",
+      "region": "France",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Society"
+      ],
+      "whatWeSee": "Assassin's Creed Unity mostly frames the Revolution through Paris. The Vendee reminds us that revolutionary France was not one unified street crowd. In the countryside, the same Revolution could be experienced as conscription, anti-clerical pressure, and intrusion from distant power.",
+      "realHistory": "The Vendee uprising of 1793 grew from a mix of religion, local loyalty, conscription, and anger at revolutionary policy. The Civil Constitution of the Clergy had already split communities over priests who accepted or refused the new order. When mass conscription added military pressure, resistance in western France turned into open revolt.\n\nThe conflict was brutal. Royalist and Catholic forces fought Republican armies in a civil war that blurred military action, local vengeance, and ideological punishment. The Republic saw the revolt as a mortal internal threat during a moment of external war. Repression became severe, including mass violence against civilians. The Vendee therefore stands as one of the darkest examples of the Revolution's internal fracture.\n\nThis history complicates the simple story of the Revolution as Paris against monarchy. For some rural communities, revolutionary liberty arrived as taxation, conscription, church conflict, and military occupation. Unity captures the urban energy well, but the Vendee shows that the meaning of revolution changed dramatically depending on where people lived.",
+      "accuracyNote": "The revolt is real and highly contested in interpretation; casualty numbers and terminology require careful handling.",
+      "whyInteresting": "The same revolution that promised liberty in Paris could feel like coercion in parts of the countryside.",
+      "misconception": "The Revolution is often imagined as one unified national movement; the Vendee shows deep regional and religious fracture.",
+      "nextTopics": [
+        "Bastille Day",
+        "Bread Prices",
+        "Estates-General"
+      ],
+      "sources": [
+        {
+          "title": "War of the Vendée (Britannica)",
+          "url": "https://www.britannica.com/event/War-of-the-Vendee",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "War in the Vendée (World History Encyclopedia)",
+          "url": "https://www.worldhistory.org/War_in_the_Vendee/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "French Revolution Digital Archive",
+          "url": "https://frda.stanford.edu/",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-100-napoleon-rise",
+        "tf26-097-women-march",
+        "tf26-098-revolutionary-calendar"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "Unity's Paris-centered revolution becomes more complete when read beside the rural civil war in the Vendee.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "french-revolution",
+        "paris",
+        "revolution",
+        "vendee-revolt",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "The game focuses on urban revolutionary drama; the historical Revolution also produced violent rural resistance and repression.",
+      "whyItMatters": "The Vendee shows that revolutionary legitimacy can collapse when central policy enters local religion, labor, and military obligation.",
+      "isFlagship": false,
+      "quickRealityCheck": "Why did some French communities experience the Revolution as threat rather than liberation?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-100-napoleon-rise",
+      "title": "The Rise of Napoleon",
+      "subtitle": "Officer of the Revolution, emperor of order",
+      "mediaType": "game",
+      "mediaTitle": "Assassin's Creed Unity",
+      "era": "Modern History",
+      "region": "France",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Society"
+      ],
+      "whatWeSee": "Assassin's Creed Unity introduces Napoleon as a young, sharp, and memorable presence inside revolutionary Paris. He appears less as a finished emperor than as a figure of potential, someone already learning how crisis, ambition, army networks, and propaganda can be turned into power.",
+      "realHistory": "### A career opened by revolution\n\nNapoleon Bonaparte's rise was not simply the triumph of a timeless genius. The Revolution broke many old promotion patterns and created space for ambitious officers with talent, risk appetite, and political skill. A Corsican artillery officer could rise quickly because war expanded the army, emigration removed many aristocratic officers, and the Republic needed men who could win. The siege of Toulon in 1793 helped make Napoleon visible. His later role in suppressing the royalist uprising of 13 Vendemiaire in 1795 tied him directly to the survival of revolutionary government.\n\n### War as an engine of promotion\n\nThe Italian campaign turned Napoleon into a national figure. Victory was not only military. It was also communicative. Bulletins, images, and carefully shaped reports presented him as the young commander who could deliver results while politicians in Paris looked weak and divided. The Egyptian campaign was militarily more ambiguous, but it added another layer to the legend: science, antiquity, exoticism, and personal destiny. Even setbacks could be made into part of a larger image.\n\n### From Republic to Consulate\n\nBy 1799 the Directory was exhausted. War, debt, factional conflict, and distrust had made the Republic look unstable. The coup of 18 Brumaire allowed Napoleon to present himself as the man who would save the Revolution from chaos. In practice, it narrowed plural politics and concentrated power in the Consulate. He did not simply restore the Old Regime. He reorganized revolutionary gains into a more centralized, disciplined, and authoritarian state.\n\n### Order, law, and authority\n\nNapoleon's rule preserved and reshaped many revolutionary changes: legal equality for men, administrative centralization, career paths based less on birth, and the rationalized authority of the state. The Civil Code made some revolutionary principles durable and legible. At the same time, political opposition narrowed, the press was controlled, and war became the constant engine of the regime. When Napoleon crowned himself emperor in 1804, he showed how revolutionary legitimacy could borrow monarchical symbols without returning exactly to the old order.\n\n### Why the rise was so fast\n\nNapoleon rose because multiple expectations met in one person. Soldiers wanted victory. Politicians wanted order. Public opinion wanted glory after years of crisis. Creditors and administrators wanted a state that could function. Napoleon converted military success into political authority because the Revolution had created both opportunity and exhaustion. Unity captures the cameo effect of a young man in the right place. History shows the deeper pattern: crisis made a military savior plausible.\n\n### The cost of order\n\nThe same system that rewarded talent also rewarded permanent mobilization. Napoleon promised stability, but he tied France to a wider European war system. He transformed revolutionary energy into empire, using law, bureaucracy, army, and propaganda together. That is why he cannot be read as the pure continuation of the Revolution or as its simple betrayal. He was a transition figure: the officer who rose through revolutionary merit and then limited revolutionary politics in the name of order.",
+      "accuracyNote": "Napoleon's rise as a young officer is historically grounded, but the game compresses the Toulon-Italy-Egypt-18 Brumaire trajectory into cameo rhythm.",
+      "whyInteresting": "Napoleon rose through the meritocratic openings of the Revolution while building a new authority that narrowed revolutionary pluralism.",
+      "misconception": "Napoleon is often treated as the pure and uninterrupted continuation of the French Revolution.",
+      "nextTopics": [
+        "Bastille Day",
+        "Bread Prices",
+        "Estates-General"
+      ],
+      "sources": [
+        {
+          "title": "Napoleon I (Britannica)",
+          "url": "https://www.britannica.com/biography/Napoleon-I",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Coup of 18 Brumaire (Britannica)",
+          "url": "https://www.britannica.com/event/Coup-of-18-Brumaire",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "Napoleon.org - The Life of Napoleon I Timeline",
+          "url": "https://www.napoleon.org/en/young-historians/napodoc/chrono-consulat-1er-empire/",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "ac-unity-revolution",
+        "tf26-096-sans-culottes"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "none",
+      "mediaConnection": "AC Unity's Napoleon cameos can be read beside the 18 Brumaire coup and Napoleon's wider rise.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "french-revolution",
+        "paris",
+        "revolution",
+        "napoleon-rise",
+        "true-frame"
+      ],
+      "spoilerNote": "",
+      "mediaChanged": "Unity presents Napoleon as a brief but striking figure; historically, the transformation lay in turning military success into institutions and propaganda.",
+      "whyItMatters": "Napoleon's rise shows how revolutions searching for order can evolve into authoritarian imperial projects.",
+      "isFlagship": true,
+      "quickRealityCheck": "Did Napoleon save the Revolution at 18 Brumaire, or turn crisis into personal power?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-101-declaration",
+      "title": "The Declaration of Independence",
+      "subtitle": "Freedom manifesto, diplomatic document",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Identity"
+      ],
+      "whatWeSee": "Hamilton presents the Declaration of Independence as a fast, dramatic political break. Stage debates become compressed into a few powerful moments, and the text feels almost as if it appears in one breath of revolutionary courage.",
+      "realHistory": "The Declaration of Independence was not the instant inspiration of a single author on 4 July 1776. It emerged from months of debate over separation and from revisions inside Congress. Thomas Jefferson wrote the main draft, but Adams, Franklin, and other committee members shaped it, and the Continental Congress made important changes to make the document politically acceptable.\n\nThe Declaration was not only a philosophical statement of liberty. It had to justify separation from Britain in a language that could be recognized internationally, especially by potential allies such as France. It was also a diplomatic document designed to show that the colonies were serious political actors.\n\nIts claim that all men are created equal gave revolutionary force to a new political language, but its practical scope in 1776 was deeply limited. Women, enslaved Africans, Native nations, and many propertyless people were excluded from the new political community. Jefferson's condemnation of the slave trade was removed from the final text, showing how unity strategy narrowed the equality claim.\n\nThe Declaration is therefore both a founding document and a document of contradiction. Later abolitionists, women's rights advocates, and civil rights movements used the same language to demand a broader meaning of equality.",
+      "accuracyNote": "The musical captures the document's turning-point role, while the drafting, committee process, and congressional revisions are naturally compressed.",
+      "whyInteresting": "The same text declared equality and later supplied excluded groups with language to demand that equality for themselves.",
+      "misconception": "The Declaration is often imagined as the unchanged product of one person's sudden inspiration.",
+      "nextTopics": [
+        "Hamilton's Financial System",
+        "Federalists",
+        "The Slavery Contradiction"
+      ],
+      "sources": [
+        {
+          "title": "Declaration of Independence: A Transcription",
+          "url": "https://www.archives.gov/founding-docs/declaration-transcript",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "The Declaration of Independence, 1776",
+          "url": "https://history.state.gov/milestones/1776-1783/declaration",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Jefferson's Original Rough Draught of the Declaration",
+          "url": "https://www.loc.gov/exhibits/declara/ruffdrft.html",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-102-hamilton-finance",
+        "tf26-103-federalists",
+        "tf26-104-enslavement-contradiction"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton heightens the emotional impact of the document; True Frame adds diplomacy and internal political context.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "american-revolution",
+        "founders",
+        "hamilton",
+        "declaration-of-independence",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain hints about the story of Hamilton; it does not reveal the ending.",
+      "mediaChanged": "Hamilton adapts the decision process to stage rhythm; the historical process was longer, more diplomatic, and more contradictory.",
+      "whyItMatters": "The Declaration shows that founding texts can be both ideals and political compromises.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did the Declaration's equality sentence actually include everyone in 1776?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-102-hamilton-finance",
+      "title": "Hamilton's Financial System",
+      "subtitle": "Debt, banks, and the new federal state",
+      "mediaType": "film",
+      "mediaTitle": "Hamilton",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Revolution",
+        "Politics",
+        "Identity"
+      ],
+      "whatWeSee": "In Hamilton, cabinet battles and finance songs dramatize Alexander Hamilton's plans for federal debt and a national bank. The dispute with Jefferson turns early American economic policy into a musical duel.",
+      "realHistory": "Hamilton's financial program aimed to turn the scattered war debts left by independence into tools for building the new federal state. As treasury secretary, he argued that the federal government should assume state debts. That would tie creditors not to individual states, but to the survival and credibility of the Union. This was not merely accounting. It created public credit, signaled reliability to investors, and made federal taxation capacity visible.\n\nThe proposal for a national bank followed the same logic. The Bank of the United States was designed to manage public revenue, stabilize credit, and connect commercial centers to federal authority. Jefferson and Madison saw the plan as dangerous centralization, pitting an agrarian republican ideal against Hamilton's commercial and financial vision of state power. The debate was also a constitutional argument over implied powers.\n\nThe Compromise of 1790 showed the political price of the plan: assumption moved forward while the national capital was placed on the Potomac. Hamilton's achievement was not eliminating debt. It was making debt manageable, credible, and politically useful. The musical turns this into brilliant verbal combat. The historical issue was whether the young republic would remain fiscally fragile or build a central credit system.",
+      "accuracyNote": "The musical personalizes the finance debate for stage rhythm; the historical process involved debt, tax, bank design, constitutional argument, and the capital bargain.",
+      "whyInteresting": "Debt was not only a burden for the new state; managed correctly, it could produce loyalty to the Union.",
+      "misconception": "Hamilton's plan is often reduced to helping bankers; one core aim was federal credibility and state capacity.",
+      "nextTopics": [
+        "The Declaration of Independence",
+        "Federalists",
+        "The Slavery Contradiction"
+      ],
+      "sources": [
+        {
+          "title": "U.S. Treasury - Alexander Hamilton",
+          "url": "https://home.treasury.gov/about/history/people/alexander-hamilton",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Mount Vernon - Department of the Treasury",
+          "url": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/department-of-the-treasury",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Bill of Rights Institute - The Compromise of 1790",
+          "url": "https://billofrightsinstitute.org/essays/the-compromise-of-1790/",
+          "type": "educational",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-108-constitution",
+        "tf26-104-enslavement-contradiction"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hamilton's cabinet battle songs beside the 1790 federal debt and bank debates.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "american-revolution",
+        "founders",
+        "hamilton",
+        "hamilton-financial-system",
+        "true-frame"
+      ],
+      "spoilerNote": "May contain hints about the story of Hamilton; it does not reveal the ending.",
+      "mediaChanged": "The musical turns finance into a rap duel; historically, the plan's power lay in converting public debt into a mechanism of national union.",
+      "whyItMatters": "The question of how strong the early federal state would be was decided through budgets, debt, and banking.",
+      "isFlagship": false,
+      "quickRealityCheck": "Why did Hamilton want the federal government to assume debt instead of simply erase it?",
+      "lastReviewedAt": "2026-06-28"
+    }
+  ]
+}

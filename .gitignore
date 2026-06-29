@@ -65,3 +65,22 @@ node_modules/
 # large temporary content import artifacts
 /docs/incoming/*.json
 !/docs/incoming/.gitkeep
+
+# generated build artifacts / screenshots
+/dist/
+
+# generated EN adaptation source chunks
+/docs/en-adaptation-source-chunks/
+
+# local-only IPA inspection + size-check artifacts
+/mobile/.ipa-check/
+/mobile/.ipa-check2/
+/mobile/.ipa-check*.ipa
+/mobile/.ipa-check*.zip
+/mobile/.expo-size-check/
+
+# generated content-quality report outputs
+/docs/content-quality-audit.csv
+/docs/content-quality-audit.json
+/docs/content-mechanical-cleanup-preview.md
+/docs/content-mechanical-cleanup-preview.json

@@ -1,0 +1,1498 @@
+{
+  "meta": {
+    "purpose": "English-native adaptation batch",
+    "sourceChunk": "source-chunk-017.json",
+    "batchNumber": 17,
+    "cardCount": 20,
+    "sourceCardRange": "TR order cards 321-340",
+    "alreadyAuthoredCountBeforeBatch": 320,
+    "authoredCountAfterBatch": 340,
+    "remainingCountAfterBatch": 111,
+    "ids": [
+      "tf26-150-cold-war-start",
+      "tf26-151-reactor-test",
+      "tf26-153-liquidators",
+      "tf26-155-radiation-myth",
+      "tf26-156-soviet-secrecy",
+      "tf26-157-firefighters",
+      "tf26-158-exclusion-zone",
+      "tf26-159-trial",
+      "tf26-160-energy-politics",
+      "tf26-161-human-computers",
+      "tf26-162-segregation",
+      "tf26-163-mercury-program",
+      "tf26-164-apollo-11",
+      "tf26-165-katherine-johnson",
+      "tf26-166-cold-war-prestige",
+      "tf26-167-mission-control",
+      "tf26-168-computers-transition",
+      "tf26-169-risk",
+      "tf26-170-public-memory",
+      "tf26-171-speakeasies"
+    ],
+    "notes": "Adapted from Turkish canonical cards. Source URLs, IDs, relatedCardIds, enums, flags and metadata preserved from TR unless localized text adaptation was required. readingTimeMinutes recomputed from English realHistory."
+  },
+  "cards": [
+    {
+      "id": "tf26-150-cold-war-start",
+      "title": "Cold War Shadow",
+      "subtitle": "From atomic monopoly to the security state",
+      "mediaType": "film",
+      "mediaTitle": "Oppenheimer",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Science",
+        "War",
+        "Ethics"
+      ],
+      "whatWeSee": "In Oppenheimer, the atomic age does not turn into the Cold War through a single conference scene. It settles over the characters as an atmosphere of security, suspicion and state secrecy. Trinity begins as a triumph; then knowledge, loyalty and classified information become part of the same story. The film ties that shift to Oppenheimer's security hearing. The wider history also includes Potsdam, atomic diplomacy, the Baruch Plan and the 1949 Soviet test.",
+      "realHistory": "The atomic bomb did not single-handedly cause the Cold War, but it sharply intensified the postwar rivalry. At Potsdam in July 1945, Truman hinted to Stalin that the United States possessed a new and unusually powerful weapon. As the Truman Library summarizes, Stalin was already aware of the American nuclear program through Soviet intelligence. The bomb therefore was not only a weapon used against Japan. It also became part of the emerging postwar balance of power.\n\nThe 1946 Baruch Plan tried to place atomic energy under international control, but the major terms proved unacceptable to the Soviet Union: when the United States would give up its nuclear monopoly, how inspections would work, and how the Security Council veto would be handled. The plan's failure weakened the possibility of nuclear cooperation. In 1949, the Soviet atomic test ended the American monopoly and made the arms race much more explicit. Oppenheimer's 1954 security hearing was the personal face of that world: wartime scientific prestige gave way to peacetime suspicion. The film compresses this transition into character drama. The historical process moved through diplomacy, espionage, bureaucracy and ideology.",
+      "accuracyNote": "The film concentrates Cold War tension through Oppenheimer's security hearing. Potsdam, the Baruch Plan and the Soviet atomic test form the wider diplomatic setting for that shift.",
+      "whyInteresting": "A weapon associated with ending a war quickly became part of the architecture of permanent peacetime mistrust.",
+      "misconception": "It is often assumed that the atomic bomb alone started the Cold War. A better reading is that it sharpened an existing U.S.-Soviet rivalry through nuclear monopoly, secrecy and arms competition.",
+      "nextTopics": [
+        "Los Alamos",
+        "Trinity Test",
+        "Oak Ridge"
+      ],
+      "sources": [
+        {
+          "title": "Harry S. Truman Library - The Potsdam Conference, 1945",
+          "url": "https://www.trumanlibrary.gov/education/lesson-plans/potsdam-conference-1945",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "U.S. State Department Office of the Historian - Acheson-Lilienthal & Baruch Plans, 1946",
+          "url": "https://history.state.gov/milestones/1945-1952/baruch-plans",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Los Alamos National Laboratory - In the matter of J. Robert Oppenheimer",
+          "url": "https://www.lanl.gov/media/publications/national-security-science/0723-in-the-matter-of-j-robert-oppenheimer",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-148-hiroshima-context",
+        "tf26-144-hanford"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Oppenheimer's post-Trinity security atmosphere should be read alongside Potsdam atomic diplomacy and the 1954 security hearing.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "oppenheimer",
+        "manhattan-project",
+        "science",
+        "cold-war-shadow",
+        "true-frame"
+      ],
+      "spoilerNote": "May include hints about Oppenheimer; does not reveal the ending.",
+      "mediaChanged": "The film compresses a long diplomatic process into Oppenheimer's personal fall. Historically, the same tension widened through Potsdam, the Baruch Plan, Soviet intelligence and the 1949 test.",
+      "whyItMatters": "This topic shows how nuclear weapons reshaped the relationship between science, the state and national security after the war.",
+      "isFlagship": false,
+      "quickRealityCheck": "Why was Truman's hint to Stalin at Potsdam not really the sharing of a secret?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-151-reactor-test",
+      "title": "Reactor Test",
+      "subtitle": "How a safety test became a disaster",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "era": "Modern History",
+      "region": "Ukraine",
+      "themes": [
+        "Technology",
+        "State",
+        "Disaster"
+      ],
+      "whatWeSee": "In Chernobyl, the crucial night is staged as a test that collapses into disaster through a chain of bad decisions in the control room. The series builds the tension second by second and gives the viewer a sense of irreversible failure. That feeling is right, but the accident was not only panic. Shift conditions, reactor design, and a weak safety culture all combined.",
+      "realHistory": "The experiment at Chernobyl Unit 4 on the night of April 26, 1986 was intended to test whether the remaining rotational energy of a slowing turbine could briefly power emergency cooling pumps after shutdown. The test had been delayed, the reactor had been kept at unusual power levels longer than expected, and the task passed into a complicated night-shift situation. When power dropped unexpectedly, operators tried to bring the reactor back toward test conditions. In doing so, they moved the RBMK reactor toward one of its most dangerous operating states.\n\nINSAG-7 does not explain the accident as operator error alone. Instability at low power, a high positive void coefficient, control rods whose graphite tips could initially increase reactivity, and a poor safety culture all mattered. Pressing AZ-5 was supposed to be an emergency shutdown. Under the conditions that had developed, however, the short initial rise in reactivity worsened the power surge instead of stopping it. Fuel channels failed, steam explosions followed, and the reactor was destroyed.\n\nThe series turns the control room into a clear night of escalating pressure. The broader lesson is wider: when flawed design, incomplete training and hierarchical institutional culture meet, a safety test can become the mechanism that triggers collapse.",
+      "accuracyNote": "The series preserves the main arc of the test night, but reading the disaster as one order or one operator mistake weakens the systemic findings of INSAG-7.",
+      "whyInteresting": "One of the harshest lessons in technology history is that a safety test can trigger the failure it was meant to prevent.",
+      "misconception": "The disaster is often blamed only on a few careless operators. Without the design flaws and institutional pressure, a failure on this scale is much harder to explain.",
+      "nextTopics": [
+        "Reactor Test",
+        "RBMK Design",
+        "Liquidators"
+      ],
+      "sources": [
+        {
+          "title": "IAEA - INSAG-7: The Chernobyl Accident, Updating of INSAG-1",
+          "url": "https://www.iaea.org/publications/3786/the-chernobyl-accident-updating-of-insag-1",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "U.S. NRC - Backgrounder on Chernobyl Nuclear Power Plant Accident",
+          "url": "https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/chernobyl-bg",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "World Nuclear Association - RBMK Reactors Appendix",
+          "url": "https://world-nuclear.org/information-library/appendices/rbmk-reactors",
+          "type": "technical",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-153-liquidators",
+        "tf26-155-radiation-myth",
+        "tf26-156-soviet-secrecy"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Chernobyl's control room scenes become clearer when read alongside RBMK design documents and INSAG assessments.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "chernobyl",
+        "nuclear",
+        "disaster",
+        "reactor-test",
+        "true-frame"
+      ],
+      "spoilerNote": "May include hints about Chernobyl; does not reveal the ending.",
+      "mediaChanged": "The series turns the events into a tight one-night drama. Technical assessments include test conditions, RBMK design, control rod behavior and safety culture together.",
+      "whyItMatters": "The accident shows that technology is only as safe as the institutions that design, operate and question it.",
+      "isFlagship": false,
+      "quickRealityCheck": "Why could the AZ-5 button, theoretically a safety action, intensify the power surge under Chernobyl conditions?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-153-liquidators",
+      "title": "Liquidators",
+      "subtitle": "The cleanup carried by human labor",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "era": "Modern History",
+      "region": "Ukraine",
+      "themes": [
+        "Technology",
+        "State",
+        "Disaster"
+      ],
+      "whatWeSee": "Chernobyl shows the liquidators through several unforgettable, compressed images: seconds on the roof, contaminated debris, miners, helicopters and arguments over protective equipment. That gives a real sense of pressure, but the operation was not only a handful of heroic moments. It was a huge human and logistical program that stretched across years.",
+      "realHistory": "The term liquidator refers to the very large group involved in emergency response and recovery after the Chernobyl accident. UNSCEAR and NRC materials describe hundreds of thousands of registered recovery workers; the NRC gives a figure of roughly 600,000 people involved in cleanup and recovery activity. The group included soldiers, firefighters, engineers, health workers, miners, helicopter crews, construction workers and radiation monitoring teams.\n\nThe work was not limited to removing graphite from the reactor roof. Decontamination, removal of contaminated soil, washing settlements, burying equipment, building temporary waste sites, measuring dose levels and constructing the sarcophagus all belonged to the same response chain. Because robots failed in the high-radiation environment, some of the most dangerous tasks had to be performed by humans in short rotations. The series captures that point with force.\n\nThe health risk was not the same for everyone. Those who worked very close to the reactor in the earliest hours received the highest doses; in the larger recovery workforce, exposure varied greatly by task and duration. For that reason, the liquidators should not be reduced to one single fate. The lasting lesson is that in high-technology disasters, human labor often becomes the final safety layer.",
+      "accuracyNote": "The roof and mining sequences draw on real operations, but the liquidator experience was a much broader response network extending into decontamination, waste handling and sarcophagus construction.",
+      "whyInteresting": "One of the most complex crises of the nuclear age depended, when automation failed, on human workers and short risk rotations.",
+      "misconception": "Liquidators are often imagined as only a small group of volunteer soldiers. In reality, they were a very large and varied workforce with very different tasks and doses.",
+      "nextTopics": [
+        "Reactor Test",
+        "RBMK Design",
+        "Pripyat Evacuation"
+      ],
+      "sources": [
+        {
+          "title": "UNSCEAR - The Chornobyl Accident",
+          "url": "https://www.unscear.org/unscear/en/areas-of-work/chernobyl.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "U.S. NRC - Backgrounder on Chernobyl Nuclear Power Plant Accident",
+          "url": "https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/chernobyl-bg",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "IAEA - Chernobyl's Legacy: Health, Environmental and Socio-Economic Impacts",
+          "url": "https://www.iaea.org/sites/default/files/chernobyl.pdf",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-151-reactor-test",
+        "tf26-155-radiation-myth",
+        "tf26-156-soviet-secrecy"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Chernobyl's intense crisis scenes become more accurate when read with UNSCEAR and NRC recovery worker data.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "chernobyl",
+        "nuclear",
+        "disaster",
+        "liquidators",
+        "true-frame"
+      ],
+      "spoilerNote": "May include hints about Chernobyl; does not reveal the ending.",
+      "mediaChanged": "The series highlights the most dangerous moments. Historical records show a much wider program of roof work, decontamination, waste management and sarcophagus construction.",
+      "whyItMatters": "Disaster response often depends on people doing dangerous, unglamorous work after technical systems fail.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was the work of the liquidators limited to brief missions on the reactor roof?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-155-radiation-myth",
+      "title": "Radiation Fear",
+      "subtitle": "Dose, fear and uncertainty are not the same thing",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "era": "Modern History",
+      "region": "Ukraine",
+      "themes": [
+        "Technology",
+        "State",
+        "Disaster"
+      ],
+      "whatWeSee": "In Chernobyl, radiation is staged as an invisible threat that can kill before anyone understands what is happening. Characters often move without knowing what they have been exposed to. That captures uncertainty powerfully. Dramatically, however, different doses can feel equally terrifying. Historically, acute exposure, long-term risk and psychological impact need to be separated.",
+      "realHistory": "After Chernobyl, radiation fear grew on two levels: measurable biological harm and social anxiety created by uncertainty. In the first hours near the reactor, some plant workers and first responders received extremely high doses and developed acute radiation syndrome. UNSCEAR reports that of 600 workers present on the morning of April 26, 134 received high doses and developed radiation sickness, and 28 died in the first three months. That was the heaviest short-term health burden of the disaster.\n\nFor the wider population, the picture is different. The strongest long-term evidence gathered around increased thyroid cancer, especially among children and adolescents exposed to iodine-131. WHO explains that radioactive iodine entered pasture, then cow's milk, and children who drank contaminated milk could receive higher thyroid doses. By contrast, proving the same clear increase across all cancers in broadly lower-dose populations is much harder.\n\nThis distinction does not make the disaster small. Evacuation, stigma, job loss, fears about fertility, delayed official information and long-term health anxiety created a severe psychosocial burden. Chernobyl's radiation fear was neither simply irrational nor reducible to dose tables. The series makes the invisible threat emotionally vivid. The history requires dose, exposure pathway and trustworthy public communication to be considered together.",
+      "accuracyNote": "The series presents radiation as an invisible and widespread threat. Scientific assessments separate acute high dose exposure, thyroid risk, low-dose uncertainty and psychosocial effects.",
+      "whyInteresting": "The disaster was at once a matter of nuclear physics and public psychology.",
+      "misconception": "It is often assumed that everyone exposed to radiation became seriously ill in the same way and at the same speed. Effects vary strongly by dose and exposure pathway.",
+      "nextTopics": [
+        "Reactor Test",
+        "RBMK Design",
+        "Liquidators"
+      ],
+      "sources": [
+        {
+          "title": "UNSCEAR - The Chornobyl Accident",
+          "url": "https://www.unscear.org/unscear/en/areas-of-work/chernobyl.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "WHO - Health effects of the Chernobyl accident: an overview",
+          "url": "https://www.who.int/docs/default-source/documents/publications/health-effects-of-the-chernobyl-accident.pdf",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "IAEA - Chernobyl's Legacy: Health, Environmental and Socio-Economic Impacts",
+          "url": "https://www.iaea.org/sites/default/files/chernobyl.pdf",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-156-soviet-secrecy",
+        "tf26-157-firefighters",
+        "tf26-158-exclusion-zone"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Chernobyl's fear narrative becomes more balanced when read alongside UNSCEAR and WHO dose-based findings.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "chernobyl",
+        "nuclear",
+        "disaster",
+        "radiation-fear",
+        "true-frame"
+      ],
+      "spoilerNote": "May include hints about Chernobyl; does not reveal the ending.",
+      "mediaChanged": "The series heightens the invisible threat. UNSCEAR and WHO show that different exposure pathways cannot be collapsed into one health outcome.",
+      "whyItMatters": "Understanding radiation fear helps avoid both minimizing real health risks and turning uncertainty into panic.",
+      "isFlagship": false,
+      "quickRealityCheck": "Why did the strongest long-term evidence after Chernobyl concentrate especially around childhood thyroid cancer?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-156-soviet-secrecy",
+      "title": "Soviet Secrecy",
+      "subtitle": "Hiding the disaster created a second crisis",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "era": "Modern History",
+      "region": "Ukraine",
+      "themes": [
+        "Technology",
+        "State",
+        "Disaster"
+      ],
+      "whatWeSee": "In Chernobyl, the disaster is not only the reactor explosion; it is also the delay of information. Local officials minimize risk, evacuation waits for approval, and expert warnings collide with hierarchy. The series dramatizes the secrecy reflex strongly. The history also shows that Soviet institutions gave information late, in controlled fragments, especially in the first days.",
+      "realHistory": "### The first hours of information\n\nAfter the explosion at Chernobyl Unit 4 on April 26, 1986, the first Soviet reflex was not to inform the public quickly but to keep the crisis inside a closed administrative chain. Measurements and observations existed locally, yet the danger was not named publicly in a clear, usable way. Daily life in Pripyat continued for a time. Evacuation began on the afternoon of April 27 and was completed within hours. Soviet material later published in the IAEA Bulletin stated that the radiological situation in Pripyat worsened between the night of April 26 and the morning of April 27, and that the evacuation decision was based on expected exposure levels.\n\nThat delay cannot be explained only by technical uncertainty. In the Soviet system, carrying bad news upward, sharing responsibility and making public admissions involved political risk. Nuclear power was tied to state prestige. Admitting the scale of the accident meant admitting not only a technical failure but a failure of institutional reliability. The approval chain between local and central authorities cost valuable hours for public health.\n\n### The Swedish alarm\n\nSecrecy broke on April 28. IAEA accounts of information exchange after Chernobyl describe elevated radiation levels reported in Sweden and Finland, with meteorological evidence pointing toward the Soviet Union. That same evening the USSR confirmed that a serious accident had occurred at Chernobyl. U.S. diplomatic records likewise show that Moscow acknowledged the accident only after radiation had been detected in Scandinavia and questions were raised through international channels.\n\nThe series is therefore right to suggest that outside measurement forced the truth into the open. The process, however, was not one single scene. European monitoring networks, diplomatic contacts, meteorological analysis and gradually expanding Soviet statements all mattered. Early official announcements were short and controlled. The scale of the accident, the reactor fire and the environmental spread became clearer only over time. This partial information flow damaged trust in institutions already under strain.\n\n### The cost of mistrust\n\nThe lack of information did not only shape the first days. Chernobyl Forum assessments stress that reliable information was initially insufficient, which deepened public distrust of official statements. People suffered not only from radiation but from not knowing whom to believe. Health uncertainty, evacuation, resettlement, stigma and economic disruption created long-term psychosocial harm.\n\nThe series turns this into scenes of bureaucracy and fear. Some characters and meetings are representational composites, but the mechanism is historically sound: information that should reduce danger is filtered by regime reflexes. The lesson is concrete. In a nuclear disaster, secrecy adds a second crisis to technical damage. Controlling the reactor matters, but so does telling people when, where and how they need protection.",
+      "accuracyNote": "The series dramatizes Soviet secrecy through compressed meetings and characters. The delayed Pripyat evacuation, Scandinavian radiation measurements and late official admission are supported by historical sources.",
+      "whyInteresting": "Chernobyl is one of the clearest modern examples of hidden information becoming almost as damaging as the technical disaster itself.",
+      "misconception": "It is sometimes assumed Soviet authorities clearly informed the public and neighboring countries immediately. In reality, acknowledgment widened only after international measurements raised pressure.",
+      "nextTopics": [
+        "Reactor Test",
+        "RBMK Design",
+        "Liquidators"
+      ],
+      "sources": [
+        {
+          "title": "IAEA Bulletin - Information exchange after Chernobyl",
+          "url": "https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull28-3/28302741822.pdf",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "U.S. State Department Office of the Historian - Chernobyl aftermath in Western Europe",
+          "url": "https://history.state.gov/historicaldocuments/frus1981-88v05/d220",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "IAEA Bulletin - Radiological consequences of the Chernobyl accident in the Soviet Union",
+          "url": "https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull29-4/29402791724.pdf",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "IAEA - Chernobyl's Legacy: Health, Environmental and Socio-Economic Impacts",
+          "url": "https://www.iaea.org/sites/default/files/chernobyl.pdf",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-151-reactor-test",
+        "tf26-155-radiation-myth",
+        "tf26-158-exclusion-zone"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "major",
+      "mediaConnection": "The series' information-delay narrative connects directly to IAEA accounts of information exchange and Scandinavian radiation measurements.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "chernobyl",
+        "nuclear",
+        "disaster",
+        "soviet-secrecy",
+        "true-frame"
+      ],
+      "spoilerNote": "May reveal major events from Chernobyl.",
+      "mediaChanged": "The series condenses secrecy into a few intense meetings. Historically, local measurements, central approval chains, Scandinavian alarms and diplomatic pressure all mattered.",
+      "whyItMatters": "Secrecy delayed public health decisions and turned a technical accident into a crisis of trust and long-term psychosocial harm.",
+      "isFlagship": true,
+      "quickRealityCheck": "Why did the Soviet admission come after radiation measurements in Sweden and Finland rather than immediately after the explosion?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-157-firefighters",
+      "title": "Firefighters",
+      "subtitle": "A fire call, a nuclear disaster",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "era": "Modern History",
+      "region": "Ukraine",
+      "themes": [
+        "Technology",
+        "State",
+        "Disaster"
+      ],
+      "whatWeSee": "The firefighter scenes in the first episode of Chernobyl bring the invisibility of the disaster down to human scale. Crews called to a fire are in fact working beside a destroyed reactor. The series shows that mix of ignorance and courage harshly. Historical records also confirm that the first responders were among the highest-risk groups.",
+      "realHistory": "On the night of April 26, 1986, fire units from Pripyat and the Chernobyl area were called to the plant. The first crews were more likely to understand the situation as an industrial fire than as a destroyed reactor core surrounded by radioactive graphite and fuel fragments. Clear and usable information about the real radiological danger was not in their hands. Many therefore worked on roofs, around the turbine hall and near the reactor without adequate radiation protection.\n\nUNSCEAR reports that of 600 workers present on the site on the morning of April 26, 134 received doses high enough to develop acute radiation syndrome, and 28 died in the first three months. This number includes not only firefighters but also plant staff and other early responders. It would be wrong to say that all firefighters had the same fate, but the highest exposures were concentrated among those working closest to the reactor in the earliest hours.\n\nThe series personalizes this tragedy through stories inspired by real people such as Vasily Ignatenko. Some dialogue and hospital scenes are dramatized, but the central frame is sound: people were sent into an extraordinary nuclear accident with information and equipment closer to an ordinary fire response.",
+      "accuracyNote": "The first response and high exposure are well documented. The ARS and death figures refer to a wider high-dose group of plant workers and responders, not firefighters alone.",
+      "whyInteresting": "A hidden danger being met with ordinary fire protocol shows the human cost of missing information in technological disasters.",
+      "misconception": "It is often assumed all firefighters knew the full risk or all received the same dose. Records show major information gaps and very different exposure levels.",
+      "nextTopics": [
+        "Reactor Test",
+        "RBMK Design",
+        "Liquidators"
+      ],
+      "sources": [
+        {
+          "title": "UNSCEAR - The Chornobyl Accident",
+          "url": "https://www.unscear.org/unscear/en/areas-of-work/chernobyl.html",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "IAEA - Chernobyl's Legacy: Health, Environmental and Socio-Economic Impacts",
+          "url": "https://www.iaea.org/sites/default/files/chernobyl.pdf",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "WHO - Health effects of the Chernobyl accident: an overview",
+          "url": "https://www.who.int/docs/default-source/documents/publications/health-effects-of-the-chernobyl-accident.pdf",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-151-reactor-test",
+        "tf26-155-radiation-myth",
+        "tf26-156-soviet-secrecy"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Chernobyl's firefighter scenes become more accurate when read with UNSCEAR data on acute radiation syndrome.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "chernobyl",
+        "nuclear",
+        "disaster",
+        "firefighters",
+        "true-frame"
+      ],
+      "spoilerNote": "May include hints about Chernobyl; does not reveal the ending.",
+      "mediaChanged": "The series concentrates on individual tragedy. Health records show that ARS cases belonged to a broader high-dose group of plant personnel and early responders.",
+      "whyItMatters": "For emergency crews, access to accurate information is as vital as protective equipment.",
+      "isFlagship": false,
+      "quickRealityCheck": "Does UNSCEAR's 134 ARS cases refer only to firefighters, or to a wider group of plant staff and responders?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-158-exclusion-zone",
+      "title": "Exclusion Zone",
+      "subtitle": "An evacuation line became a permanent geography",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "era": "Modern History",
+      "region": "Ukraine",
+      "themes": [
+        "Technology",
+        "State",
+        "Disaster"
+      ],
+      "whatWeSee": "In Chernobyl, the Exclusion Zone is not just a backdrop of empty buildings and eerie streets. With the evacuation of Pripyat, homes, schools, work and memory suddenly fall outside an administrative boundary. The camera heightens the ghost-city feeling. The history shows that the zone also became a long-term system of security, cleanup, waste and forced migration.",
+      "realHistory": "After the accident, Soviet authorities first created emergency evacuation areas and then a 30-kilometer Exclusion Zone around the plant. The evacuation of Pripyat began on the afternoon of April 27, 1986. Residents were told it would be temporary, so many left belongings behind. The NRC notes that about 115,000 people were evacuated from the most contaminated areas in 1986, and that another 220,000 were evacuated or resettled in later years.\n\nThe zone eventually became more than an emptied map. Around the reactor, workers removed debris, stripped contaminated soil, built temporary waste sites, took measurements, managed security and constructed containment structures. IAEA environmental assessments stress that radioactive waste management in and around the Chernobyl site remained one of the lasting challenges.\n\nIn popular culture, the zone is often remembered through the ferris wheel, empty apartments and abandoned streets. Those images are powerful but incomplete. The area is also a space where forced migration, state control, ecological return and long-lived contamination overlap. The series uses the zone symbolically. The history shows that the boundary was not only geographic; it was social, legal and emotional.",
+      "accuracyNote": "The series turns the Zone into a powerful visual symbol. Historically, it must also be understood as a 30 km security boundary, an evacuation regime and a long-term waste management problem.",
+      "whyInteresting": "A nuclear accident redrew not only a reactor site but also maps, property, memory and state control.",
+      "misconception": "The Zone is often imagined as entirely empty and inactive after the accident. In reality, cleanup, monitoring, security and waste work continued for years.",
+      "nextTopics": [
+        "Reactor Test",
+        "RBMK Design",
+        "Liquidators"
+      ],
+      "sources": [
+        {
+          "title": "U.S. NRC - Backgrounder on Chernobyl Nuclear Power Plant Accident",
+          "url": "https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/chernobyl-bg",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "IAEA - Environmental Consequences of the Chernobyl Accident and their Remediation",
+          "url": "https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1239_web.pdf",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "IAEA - Chernobyl's Legacy: Health, Environmental and Socio-Economic Impacts",
+          "url": "https://www.iaea.org/sites/default/files/chernobyl.pdf",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-156-soviet-secrecy",
+        "tf26-153-liquidators",
+        "tf26-155-radiation-myth"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Chernobyl's Pripyat and Zone scenes become fuller when read with NRC evacuation figures and IAEA environmental assessments.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "chernobyl",
+        "nuclear",
+        "disaster",
+        "exclusion-zone",
+        "true-frame"
+      ],
+      "spoilerNote": "May include hints about Chernobyl; does not reveal the ending.",
+      "mediaChanged": "The series emphasizes the ghost-city image. Historical sources show the area was also a regime of evacuation, labor, security and radioactive waste management.",
+      "whyItMatters": "The Exclusion Zone shows how disasters create long-term spatial and social rupture, not only immediate casualties.",
+      "isFlagship": false,
+      "quickRealityCheck": "How did telling Pripyat residents the evacuation was temporary affect what they left behind?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-159-trial",
+      "title": "Trial Narrative",
+      "subtitle": "The courtroom scene and the official story of blame",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "era": "Modern History",
+      "region": "Ukraine",
+      "themes": [
+        "Technology",
+        "State",
+        "Disaster"
+      ],
+      "whatWeSee": "The finale of Chernobyl compresses technical explanation into a courtroom scene. Legasov explains the RBMK design flaw, the AZ-5 button and Soviet secrecy in front of a jury, giving viewers a final moment of truth. It is dramatically effective, but it is not a literal transcript of the real trial. The series blends the trial, Legasov's Vienna presentation and later design discussions into one readable scene.",
+      "realHistory": "In 1987, several managers and engineers from the Chernobyl plant were tried in a Soviet court. Plant director Viktor Bryukhanov, chief engineer Nikolai Fomin and deputy chief engineer Anatoly Dyatlov received the harshest sentences; other plant and oversight officials received shorter terms. The trial was real, but it was not the fully transparent technical forum shown in the series finale.\n\nThe key difference is Legasov's role. The series places him at the courtroom center so he can explain the RBMK design problem clearly to the audience. Historically, his most important international explanation is associated with the 1986 Vienna/IAEA presentation. The dramatic courtroom revelation in the series is therefore a narrative fusion. The real argument was more fragmented: early Soviet explanations emphasized operator violations, while later assessments gave greater weight to RBMK design, safety culture, training and communication failures.\n\nThe trial narrative is bigger than the question of who is guilty. Plant staff made procedural errors, but closed circulation of design knowledge, weak independent oversight and an administrative culture that made bad news hard to pass upward were also part of the chain. The series turns the courtroom into one truth explosion. History shows a truth that expanded across years of reports and archives.",
+      "accuracyNote": "The sentences and responsibility debate are real, but Legasov's courtroom exposition is a dramatic combination of several historical channels.",
+      "whyInteresting": "The courtroom scene shows that after a technical disaster, law is also about which story of responsibility becomes official.",
+      "misconception": "The series' final courtroom scene can be mistaken for a literal record. It is actually a dramatic composition combining the trial, technical reports and Legasov's later legacy.",
+      "nextTopics": [
+        "Reactor Test",
+        "RBMK Design",
+        "Liquidators"
+      ],
+      "sources": [
+        {
+          "title": "IAEA - INSAG-7: The Chernobyl Accident",
+          "url": "https://www.iaea.org/publications/3786/the-chernobyl-accident-updating-of-insag-1",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Washington Post - Top Chernobyl Officials Sentenced",
+          "url": "https://www.washingtonpost.com/archive/politics/1987/07/30/top-chernobyl-officials-sentenced/b237aaa7-1d42-405b-8d55-5e7e4e952628/",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "National Security Archive - Top Secret Chernobyl",
+          "url": "https://nsarchive.gwu.edu/briefing-book/nunn-lugar-russia-programs/2019-08-15/top-secret-chernobyl-nuclear-disaster-through-eyes-soviet-politburo-kgb-us-intelligence",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-151-reactor-test",
+        "tf26-156-soviet-secrecy",
+        "tf26-160-energy-politics"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Chernobyl's final trial turns the real 1987 proceedings and Legasov's IAEA-line technical explanations into a readable truth scene.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "chernobyl",
+        "nuclear",
+        "disaster",
+        "trial-narrative",
+        "true-frame"
+      ],
+      "spoilerNote": "May include hints about Chernobyl; does not reveal the ending.",
+      "mediaChanged": "The series presents the trial as one open reckoning. Historically, design flaws and safety culture were debated through partial reports, limited statements and later archives.",
+      "whyItMatters": "Justice after technical disasters depends not only on individual blame but on exposing hidden institutional risk.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was Legasov's courtroom revelation a real transcript, or a dramatic scene built from technical reports and later historical understanding?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-160-energy-politics",
+      "title": "Energy Politics",
+      "subtitle": "When energy policy collides with safety culture",
+      "mediaType": "series",
+      "mediaTitle": "Chernobyl",
+      "era": "Modern History",
+      "region": "Ukraine",
+      "themes": [
+        "Technology",
+        "State",
+        "Disaster"
+      ],
+      "whatWeSee": "Chernobyl presents energy politics through a night shift under pressure, delayed admission and hierarchical orders. The control room scenes make the reactor feel not only like a machine, but like a political system run through institutional decisions. The series turns this into personal conflict. The history links nuclear capacity goals, RBMK design choices, weak independent oversight and crisis communication into the same risk chain.",
+      "realHistory": "### The growth target\n\nThe Soviet nuclear program was important not only for electricity. It also represented technological prestige, heavy industrial capacity and the success of central planning. Large RBMK reactors fit that ambition: they were powerful, could be built in series, and allowed online refueling, which looked attractive for continuous production. But this design required a strong safety culture and open feedback mechanisms. INSAG-7's warning begins there: designers, operators, manufacturers and regulators did not share operating experience in a sufficiently effective way, and safety information remained trapped in closed institutional channels.\n\nFor that reason, Chernobyl cannot be explained only by the last hours in the control room. The decisions on the test night triggered the disaster, but the environment that made those decisions dangerous had formed earlier. Operators worked between production expectations, hierarchical discipline and technical uncertainty. When known reactor problems were not translated clearly enough into training and procedures, the complex system became more vulnerable to human error.\n\n### Design and oversight\n\nThe RBMK's positive void coefficient, instability at low power and control rod design that could briefly increase reactivity formed the technical setting. The series explains this memorably in its final episode; the historical reports are more layered. The issue was not only bad design. It was also how design knowledge reached operators, how test procedures were written, what scenarios training included, and how independent regulators could resist production pressure.\n\nDuring the April 26 test, procedure limits were pushed, the reactor entered low-power conditions, some protections were disabled in the test sequence, and the handover to the night shift added confusion. Still, closing the case as a story of a few people pressing the wrong buttons is misleading. The oversight regime was not strong enough against production goals and institutional prestige. Bad news moving upward could be treated as a career risk, making technical warning slower to become a safety decision.\n\n### From crisis to regime\n\nAfter the explosion, energy politics also became a matter of public communication. The delayed Pripyat evacuation, inadequate early official statements and international radiation measurements that preceded Soviet admission turned a technical crisis into a trust crisis. After Chernobyl, international nuclear safety placed more emphasis on cross-border notification, emergency assistance and transparent reporting. The IAEA Convention on Early Notification of a Nuclear Accident, adopted in 1986 soon after the accident, is a concrete sign of that shift.\n\nThe series moves through personal guilt and fear. The historical lesson is broader: in high-technology systems, safety depends not only on good design but on institutions that do not hide error, on independent oversight, continuous training and timely public responsibility. When energy policy is built around speed, prestige and production while closing down risk information, a technical fault can become a political disaster.",
+      "accuracyNote": "The series ties control room pressure to a real historical feeling. At the policy level, the risk becomes clearer when design flaws, regulatory weakness and crisis communication are read together.",
+      "whyInteresting": "Chernobyl shows that energy safety is not only reactor physics; it is also how institutions carry bad information.",
+      "misconception": "The accident is often explained only as operator carelessness during the test night. Later technical assessments put design, oversight and safety culture at the center too.",
+      "nextTopics": [
+        "Reactor Test",
+        "RBMK Design",
+        "Liquidators"
+      ],
+      "sources": [
+        {
+          "title": "IAEA - INSAG-7: The Chernobyl Accident",
+          "url": "https://www.iaea.org/publications/3786/the-chernobyl-accident-updating-of-insag-1",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "U.S. NRC - Backgrounder on Chernobyl Accident",
+          "url": "https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/chernobyl-bg",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "IAEA - Convention on Early Notification of a Nuclear Accident",
+          "url": "https://www.iaea.org/topics/nuclear-safety-conventions/convention-early-notification-nuclear-accident",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-151-reactor-test",
+        "tf26-156-soviet-secrecy",
+        "tf26-159-trial"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 3,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Chernobyl's control room and bureaucracy scenes open a discussion of how RBMK technical risks met Soviet energy policy and safety culture.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "chernobyl",
+        "nuclear",
+        "disaster",
+        "energy-politics",
+        "true-frame"
+      ],
+      "spoilerNote": "May include hints about Chernobyl; does not reveal the ending.",
+      "mediaChanged": "The series condenses energy politics into pressure and guilt. Historically, production targets, design feedback, regulatory weakness and international notification rules all matter.",
+      "whyItMatters": "Energy systems cannot separate technical design from institutional honesty. When risk knowledge is hidden, small decisions can produce large social harm.",
+      "isFlagship": true,
+      "quickRealityCheck": "Is understanding Chernobyl only a matter of reactor design, or is oversight and information culture part of the same chain?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-161-human-computers",
+      "title": "Human Computers",
+      "subtitle": "The hand-calculated infrastructure of the space age",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Space",
+        "Science",
+        "Equality"
+      ],
+      "whatWeSee": "Hidden Figures balances the spectacle of rockets with the often invisible work of women mathematicians in the computing rooms. Equations are not decoration; they are tied to flight decisions, reentry windows and mission safety. The phrase human computer therefore does not feel nostalgic. It names a vital verification role at a time when electronic computers were still limited.",
+      "realHistory": "At NACA and then NASA, computer originally referred not to a machine but to a person who performed mathematical calculations. At Langley, from the 1930s onward, hundreds of women processed aerodynamic data, wind tunnel results, flight tables and trajectory calculations. The West Area Computing unit, where Black women mathematicians worked, was both a crucial technical workforce and a product of segregation.\n\nKatherine Johnson, Dorothy Vaughan and Mary Jackson represent different parts of that story. Johnson became known for trajectory and reentry calculations. Vaughan led West Area Computing and later moved into FORTRAN and programming during the electronic computing transition. Jackson became one of NASA's first Black women engineers. Their work was not simply calculating numbers. It meant checking results, validating machine output and turning figures into engineering decisions.\n\nThe film rightly focuses on a few people, but the historical picture is wider. Human computers were not rivals to electronic computers. In the transition period, they were the people who checked, trained and interpreted the new systems. The story is therefore not only about representation. It is also about how NASA built a culture of numerical reliability.",
+      "accuracyNote": "The film attaches key contributions to the right people, while naturally narrowing the broader West Area Computing and Langley workforce.",
+      "whyInteresting": "The image of the most advanced space technology rested, at first, on hand calculation, cross-checking and collective verification.",
+      "misconception": "The title human computer can sound like routine clerical work. In fact, these teams handled and verified complex engineering data tied directly to flight safety.",
+      "nextTopics": [
+        "Segregation System",
+        "Mercury Program",
+        "Apollo 11"
+      ],
+      "sources": [
+        {
+          "title": "NASA - Langley’s Computers, 1935–1970",
+          "url": "https://www.nasa.gov/history/langleys-computers-1935-1970/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "NASA - A Human Computer Hidden No More",
+          "url": "https://www.nasa.gov/image-article/human-computer-hidden-no-more/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "National Park Service - Places of Hidden Figures",
+          "url": "https://www.nps.gov/articles/000/places-of-hidden-figures.htm",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-162-segregation",
+        "tf26-163-mercury-program",
+        "tf26-165-katherine-johnson"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hidden Figures' computing room scenes connect to the real institutional history of human computers at NASA Langley.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "space-race",
+        "nasa",
+        "science",
+        "human-computers",
+        "true-frame"
+      ],
+      "spoilerNote": "May include hints about Hidden Figures; does not reveal the ending.",
+      "mediaChanged": "The film makes invisible labor visible through a few central figures. The archival history is a wider network of calculation, checking and programming transition across many years.",
+      "whyItMatters": "Safe spaceflight depended not only on rocket power but on human teams that treated numerical verification as mission-critical.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did electronic computers make human computers unnecessary, or did they become validators and trainers of new systems?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-162-segregation",
+      "title": "Segregation System",
+      "subtitle": "When science at Langley met Jim Crow",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Space",
+        "Science",
+        "Equality"
+      ],
+      "whatWeSee": "Hidden Figures makes segregation at Langley concrete through signs, separate spaces and everyday distances. Katherine Johnson's restroom scenes show technical excellence and institutional exclusion existing on the same campus. The film concentrates some events into one character and a few moments, but the central contradiction is real: the same space program that produced advanced technology also separated its workers by race and gender.",
+      "realHistory": "Langley operated under the influence of Virginia's Jim Crow order. In the NACA period, Black women mathematicians worked in the separate West Area Computing unit; dining spaces, restrooms and some work arrangements were segregated. A 1958 document published by the National Archives records the formal dissolution of the West Area Computing Unit and the integration of its staff into other program offices. That did not mean discrimination ended in one day. Institutional habits, promotion barriers and access to meetings remained harder to see but continued to matter.\n\nDorothy Vaughan's appointment in 1949 as head of West Area Computing showed both technical authority and limited institutional recognition. Mary Jackson's path into engineering required crossing educational and professional barriers. Katherine Johnson's transfer into another technical unit showed that these women were not merely support staff in a separate room; they contributed directly to critical engineering work.\n\nThe film turns segregation into powerful symbols. The history is more systemic. Separate bathrooms or dining spaces were not small inconveniences; they were part of an institutional language deciding who counted as an expert.",
+      "accuracyNote": "West Area Computing, segregated facilities and the 1958 integration document are real. Some everyday discrimination moments are combined for dramatic clarity.",
+      "whyInteresting": "A program reaching toward the Moon was also working inside racial and gender barriers on Earth.",
+      "misconception": "Federal research institutions in the space race are often imagined as pure meritocracies. Langley shows that technical success and institutional inequality could exist together.",
+      "nextTopics": [
+        "Human Computers",
+        "Mercury Program",
+        "Apollo 11"
+      ],
+      "sources": [
+        {
+          "title": "National Archives - Dissolution of the West Area Computers Unit",
+          "url": "https://www.archives.gov/philadelphia/highlights/west-area-computers-unit",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "NASA - Dorothy Vaughan",
+          "url": "https://www.nasa.gov/people/dorothy-vaughan/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "National Park Service - Places of Hidden Figures",
+          "url": "https://www.nps.gov/articles/000/places-of-hidden-figures.htm",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-161-human-computers",
+        "tf26-165-katherine-johnson",
+        "tf26-168-computers-transition"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hidden Figures' restroom and workplace scenes rest on the documented history of West Area Computing and Langley's integration process.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "space-race",
+        "nasa",
+        "science",
+        "segregation-system",
+        "true-frame"
+      ],
+      "spoilerNote": "May include hints about Hidden Figures; does not reveal the ending.",
+      "mediaChanged": "The film uses strong symbolic scenes. Historically, inequality also worked through promotion, meeting access, task assignment and technical recognition.",
+      "whyItMatters": "Technical progress is incomplete when the people producing it are not seen as equal experts.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did the dissolution of West Area Computing in 1958 end discrimination completely, or did it mainly change the formal structure?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-163-mercury-program",
+      "title": "Mercury Program",
+      "subtitle": "The calculation and test discipline behind the first crewed flights",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Space",
+        "Science",
+        "Equality"
+      ],
+      "whatWeSee": "In Hidden Figures, Project Mercury carries both launch excitement and pressure in the computing rooms. The film brings rocket, astronaut and mathematics team into the same time pressure. That feeling has a real historical core, but the program's actual rhythm was not a few big scenes. It was repeated testing, delays, failure analysis and cross-checking.",
+      "realHistory": "Project Mercury, launched in 1958 and completed in 1963, was the first U.S. human spaceflight program. NASA defined its main goals as placing a human in Earth orbit, studying whether a person could function in space, and returning both astronaut and spacecraft safely. Those goals sound simple now, but rocket reliability, reentry heating, communications, medical monitoring and recovery procedures were all experimental challenges at the time.\n\nAlan Shepard's 1961 Freedom 7 flight was the first American human spaceflight. John Glenn's 1962 Friendship 7 mission, with three orbits of Earth, became a major prestige and safety test after Gagarin's Soviet flight. Electronic computers were being used, but their results still needed expert checking. Katherine Johnson's calculation verification symbolizes this transition: it was not human versus machine, but a chain of trust built through repeated confirmation.\n\nMercury also depended on launch crews, tracking stations, medical teams, recovery ships and flight controllers. Hidden Figures compresses this into a few dramatic pressure points. The history shows that putting a human in orbit required not one heroic calculation, but a disciplined system for testing, measuring, checking and correcting error.",
+      "accuracyNote": "Mercury's time pressure and Johnson's verification role are supported by NASA sources; the film naturally compresses repeated testing and institutional structure.",
+      "whyInteresting": "Mercury shows that going to space was not only courage; it was measurement, verification and repeated test discipline.",
+      "misconception": "Mercury is often remembered through astronaut bravery alone. Its safety depended on computing teams, test engineers and mission control chains.",
+      "nextTopics": [
+        "Human Computers",
+        "Segregation System",
+        "Apollo 11"
+      ],
+      "sources": [
+        {
+          "title": "NASA - Project Mercury Overview",
+          "url": "https://www.nasa.gov/project-mercury/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "NASA - John Glenn and Friendship 7",
+          "url": "https://www.nasa.gov/history/60-years-ago-john-glenn-the-first-american-to-orbit-the-earth-aboard-friendship-7/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "NASA - Katherine Johnson Biography",
+          "url": "https://www.nasa.gov/centers-and-facilities/langley/katherine-johnson-biography/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-161-human-computers",
+        "tf26-165-katherine-johnson",
+        "tf26-166-cold-war-prestige"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hidden Figures' launch and calculation scenes fit the Mercury program's real need for trajectory verification and test discipline.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "space-race",
+        "nasa",
+        "science",
+        "mercury-program",
+        "true-frame"
+      ],
+      "spoilerNote": "May include hints about Hidden Figures; does not reveal the ending.",
+      "mediaChanged": "The film dramatizes pressure through a few central moments. The program itself was a long chain of tests, recalculations, tracking and recovery planning.",
+      "whyItMatters": "Mercury makes clear that early spaceflight was an engineering institution, not only a sequence of brave flights.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was John Glenn's flight simply a piloting achievement, or also a test of calculation, tracking and reentry verification?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-164-apollo-11",
+      "title": "Apollo 11",
+      "subtitle": "The Moon landing as the visible tip of a technical chain",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Space",
+        "Science",
+        "Equality"
+      ],
+      "whatWeSee": "Hidden Figures does not restage Apollo 11 directly. Its main dramatic focus is the Mercury era, Langley computing work and segregation. Even so, the film strongly suggests how that labor connects to the longer chain that led to the Moon. For the viewer, Apollo 11 becomes less a mission sequence on screen than the historical horizon of the human computers' work.",
+      "realHistory": "### From Mercury to Apollo\n\nApollo 11 launched on July 16, 1969 with Neil Armstrong, Michael Collins and Buzz Aldrin aboard. The Eagle lunar module landed on the Moon on July 20, and Armstrong and Aldrin became the first humans to walk on the lunar surface. This took place several years after the main timeline of Hidden Figures, so the film should not be read as a direct Apollo 11 story. The better connection is institutional: the calculation, verification and human-machine trust developed in the Mercury era continued into the Apollo program.\n\nKatherine Johnson's NASA career shows that continuity. After trajectory work associated with Alan Shepard and John Glenn, she was also connected with Apollo navigation and flight calculations. But Apollo 11 cannot be explained through one person's notebook. Langley, Johnson Space Center, Kennedy Space Center, the MIT Instrumentation Laboratory, contractors, mission controllers and thousands of engineers all formed part of the system. Hidden Figures matters because it centers the women and Black technical workers who were often left outside the most visible version of that chain.\n\n### The technical chain\n\nApollo 11 required a multi-layered verification system: the Saturn V rocket, the Apollo Guidance Computer, the lunar orbit rendezvous plan, the descent window, the return trajectory and recovery procedures all had to work together. The spacecraft included the command module Columbia, the service module and the lunar module Eagle. Launch windows, trans-lunar injection, lunar orbit, descent, ascent and Earth return were linked. A small error in one stage could grow in the next.\n\nArmstrong's decision during the landing to guide the lunar module toward a safer area shows that the mission was not handed over completely to automation. Computers mattered enormously, but simulations, checklists, ground teams and decision protocols mattered too. The earlier Hidden Figures story reaches Apollo here: trust did not come from one brilliant calculation but from a culture of repeated checking.\n\n### A global image\n\nApollo 11 was also a media and diplomacy event. NASA states that about 650 million people watched Armstrong's first steps on television. The Moon landing became a powerful soft-power image for the United States during the Cold War. State Department narratives frame Apollo 11 not only as a technological achievement but also as a diplomatic moment, presenting the United States as a scientific leader and industrial organizer.\n\nThat image can hide the complexity behind it. Public memory centers on Armstrong's step, but the mission depended on mathematicians, programmers, engineers, technicians, quality teams, tracking stations and flight controllers. Hidden Figures does not tell Apollo 11 directly; it helps restore part of the labor culture that made Apollo possible.",
+      "accuracyNote": "Apollo 11's dates, the 650 million broadcast estimate and the mission architecture are supported by NASA sources. The film does not directly stage Apollo 11; the link is through Johnson's career and NASA's verification culture.",
+      "whyInteresting": "Apollo 11 is remembered as an astronaut moment, but it was made possible by years of calculation, software, testing and mission control work.",
+      "misconception": "Apollo 11 is often reduced to the Cape Kennedy launch and astronaut courage on the Moon. The success came from a multi-center technical verification network.",
+      "nextTopics": [
+        "Human Computers",
+        "Segregation System",
+        "Mercury Program"
+      ],
+      "sources": [
+        {
+          "title": "NASA - Apollo 11 Mission Overview",
+          "url": "https://www.nasa.gov/history/apollo-11-mission-overview/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Smithsonian - Apollo 11 Collection",
+          "url": "https://www.si.edu/spotlight/apollo-11",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "U.S. State Department - Space Diplomacy and Apollo 11",
+          "url": "https://diplomacy.state.gov/events-listing/space-diplomacy-apollo-11-astronauts-michael-collins-and-buzz-aldrin-visit-the-national-museum-of-american-diplomacy/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "NASA - Katherine Johnson Biography",
+          "url": "https://www.nasa.gov/centers-and-facilities/langley/katherine-johnson-biography/",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-161-human-computers",
+        "tf26-165-katherine-johnson",
+        "tf26-166-cold-war-prestige"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "major",
+      "mediaConnection": "Hidden Figures should be connected to Apollo 11 through the calculation and verification culture that NASA carried from Mercury into Apollo.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "space-race",
+        "nasa",
+        "science",
+        "apollo-11",
+        "true-frame"
+      ],
+      "spoilerNote": "May include hints about Hidden Figures; does not reveal the ending.",
+      "mediaChanged": "The film centers earlier Langley labor rather than the Apollo landing. Historically, that labor sits inside a larger chain of navigation, computing, software and mission control.",
+      "whyItMatters": "Apollo 11 shows that the most visible moment in a technological achievement often rests on hidden layers of expertise.",
+      "isFlagship": true,
+      "quickRealityCheck": "Was Apollo 11 only Armstrong's step, or the result of a vast calculation, software and mission control system?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-165-katherine-johnson",
+      "title": "Katherine Johnson",
+      "subtitle": "A visible name inside a wider calculation system",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Space",
+        "Science",
+        "Equality"
+      ],
+      "whatWeSee": "Hidden Figures presents Katherine Johnson as the central figure who produces the right numbers under pressure. Dramatically, that works: she enters rooms, solves equations and becomes a symbol of flight safety. The film gives viewers a clear feeling that an invisible expert became visible at the crucial moment. The history does not reduce that impact; it places Johnson inside a wider NASA computing and verification network.",
+      "realHistory": "Katherine Johnson began working at NACA Langley in 1953 and soon moved into flight path, trajectory and reentry calculations within the Flight Research Division. NASA sources especially emphasize her role in calculations connected to Alan Shepard's 1961 Freedom 7 flight and John Glenn's 1962 Friendship 7 mission. Glenn's request that Johnson manually check electronic computer output captures the safety culture of the early computer age.\n\nThis should not be turned into a one-person miracle story. Behind Johnson stood the mathematical tradition of West Area Computing, Dorothy Vaughan's leadership and programming transition, Mary Jackson's engineering path, and the routine checking of many computers and engineers. Johnson's greatness becomes clearer within that system: she did not only solve equations; she helped turn results into safe mission decisions.\n\nThe segregation context is also essential. Johnson's success was not just individual perseverance. It was the transformation of Black women's technical authority within institutions that had long excluded them. Hidden Figures gives an inspiring focus; the historical reading completes it with team labor, institutional barriers and verification discipline.",
+      "accuracyNote": "Johnson's Mercury and Apollo-era mathematical contributions are documented by NASA. The film compresses chronology and visibility moments for dramatic rhythm.",
+      "whyInteresting": "Johnson's story shows that individual brilliance produces flight safety only when it becomes part of a trusted verification culture.",
+      "misconception": "NASA's critical calculations are sometimes imagined as the work of a few isolated geniuses. Johnson's role makes most sense inside a wider team and checking system.",
+      "nextTopics": [
+        "Human Computers",
+        "Mercury Program",
+        "Apollo 11"
+      ],
+      "sources": [
+        {
+          "title": "NASA - Katherine Johnson Biography",
+          "url": "https://www.nasa.gov/centers-and-facilities/langley/katherine-johnson-biography/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "NASA Science - Katherine Johnson",
+          "url": "https://science.nasa.gov/people/katherine-johnson/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "National Park Service - Places of Hidden Figures",
+          "url": "https://www.nps.gov/articles/000/places-of-hidden-figures.htm",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-161-human-computers",
+        "tf26-163-mercury-program",
+        "tf26-164-apollo-11"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hidden Figures magnifies Johnson's personal visibility moment; True Frame places it inside Langley's computing tradition and NASA's verification culture.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "space-race",
+        "nasa",
+        "science",
+        "katherine-johnson",
+        "true-frame"
+      ],
+      "spoilerNote": "May include hints about Hidden Figures; does not reveal the ending.",
+      "mediaChanged": "The film strengthens the single-hero effect. The history shows Johnson's extraordinary role within a multi-person, long-running calculation system.",
+      "whyItMatters": "Johnson's legacy is not only representation; it is the institutional standard of numerical trust.",
+      "isFlagship": false,
+      "quickRealityCheck": "Was John Glenn's number check about distrust of machines, or about necessary safety verification in the early computer age?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-166-cold-war-prestige",
+      "title": "Cold War Prestige",
+      "subtitle": "Rockets, prestige and the equality test",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Space",
+        "Science",
+        "Equality"
+      ],
+      "whatWeSee": "Hidden Figures tells the NASA story with Soviet pressure in the background. Sputnik and Gagarin are not present in every scene, but launch schedules, newspaper language and the pressure at Langley carry that atmosphere. The film places two things in one frame: the United States trying to display technological superiority abroad while maintaining racial and gender inequality at home.",
+      "realHistory": "Sputnik's launch in 1957 turned space into a visible theater of Cold War competition. For the United States, the issue was not only scientific curiosity. Soviet satellite and crewed-flight successes challenged American technological capacity, missile capability and ideological prestige. NASA's creation, the acceleration of Mercury and Kennedy's Moon goal all formed inside that pressure.\n\nThe space race sent a message about which system represented the future. Apollo contained real exploration aims, but NASA histories also openly describe prestige as a major factor in U.S.-Soviet competition. Apollo 11's global broadcast was therefore not just a scientific event. It was a diplomatic and media demonstration of national capacity.\n\nHidden Figures makes the contradiction visible. The United States projected democracy and freedom through technology while Black women workers inside that technology system faced segregated facilities and professional barriers. The film's strength is that it does not separate the space race from the question of who was allowed to be recognized as an expert.",
+      "accuracyNote": "Sputnik, Mercury, Kennedy's Moon goal and Apollo's prestige context are consistent with NASA histories. The film keeps this political background behind personal stories.",
+      "whyInteresting": "The space race created an international image of progress while exposing internal questions about expertise and equality.",
+      "misconception": "The space race is often remembered as pure curiosity and exploration. Science, military technology and soft-power prestige worked together.",
+      "nextTopics": [
+        "Human Computers",
+        "Segregation System",
+        "Mercury Program"
+      ],
+      "sources": [
+        {
+          "title": "NASA - Dawn of the Space Age",
+          "url": "https://www.nasa.gov/history/dawn-of-the-space-age/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "NASA - Apollo: A Retrospective Analysis",
+          "url": "https://www.nasa.gov/wp-content/uploads/2023/04/sp-4503-apollo.pdf",
+          "type": "archive",
+          "verified": true
+        },
+        {
+          "title": "U.S. State Department - Space Diplomacy and Apollo 11",
+          "url": "https://diplomacy.state.gov/events-listing/space-diplomacy-apollo-11-astronauts-michael-collins-and-buzz-aldrin-visit-the-national-museum-of-american-diplomacy/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "National Park Service - Places of Hidden Figures",
+          "url": "https://www.nps.gov/articles/000/places-of-hidden-figures.htm",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-161-human-computers",
+        "tf26-162-segregation",
+        "tf26-164-apollo-11"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hidden Figures connects Langley computing labor to the wider Cold War race for technological prestige.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "space-race",
+        "nasa",
+        "science",
+        "cold-war-prestige",
+        "true-frame"
+      ],
+      "spoilerNote": "May include hints about Hidden Figures; does not reveal the ending.",
+      "mediaChanged": "The film makes prestige pressure felt through work tempo and personal stakes. The historical background includes Sputnik, NASA's creation, Kennedy's Moon goal and Apollo's global soft-power effect.",
+      "whyItMatters": "The space race tested not only technological superiority, but also whether a country lived up to its claims about equality.",
+      "isFlagship": false,
+      "quickRealityCheck": "Did the U.S. space program accelerate after Sputnik only because of scientific curiosity, or also because of Cold War prestige?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-167-mission-control",
+      "title": "Mission Control",
+      "subtitle": "The calculation network behind the console room",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Space",
+        "Science",
+        "Equality"
+      ],
+      "whatWeSee": "Hidden Figures does not center the classic mission control room. Its focus is Langley's computing labor, Mercury-era flight pressure and invisible technical verification. Still, the film makes clear how numbers on the ground connect to astronaut safety in the capsule. Public memory often reduces mission control to white-shirted men wearing headsets in one room. The film points behind that image to mathematics, data and labor.",
+      "realHistory": "In U.S. human spaceflight, mission control was not one heroic desk but a decision system linking many institutions and specializations. During Mercury, the main flight control center was the Mercury Control Center at Cape Canaveral. Houston's Mission Control became the iconic image during Gemini and Apollo. That distinction matters: Hidden Figures belongs mainly to the Mercury calculation world and should not be read as a direct Apollo Houston room story.\n\nThe power of mission control did not come only from calm people at consoles. It came from verified data flowing into those consoles. Trajectory, communication, medical monitoring, fuel, guidance and reentry were tracked by different specialists. A decision reaching the flight director depended on procedures, simulations and chains of numerical checking. Langley's human computers and early electronic computing systems were part of that invisible data infrastructure.\n\nThe film shows this indirectly. It is less interested in the headset room than in the calculations that made the room trustworthy.",
+      "accuracyNote": "The film shows mission control indirectly. For Mercury, Cape Canaveral control must be distinguished from the Houston/JSC Mission Control associated with Apollo.",
+      "whyInteresting": "A spaceflight decision depends not only on the console, but also on the verification labor that feeds the console trustworthy data.",
+      "misconception": "Mission control is often imagined as only a few male engineers in Houston. Mercury, Langley computing, tracking stations and Houston's later growth were separate links.",
+      "nextTopics": [
+        "Human Computers",
+        "Segregation System",
+        "Mercury Program"
+      ],
+      "sources": [
+        {
+          "title": "NASA - JSC Mission Control Center",
+          "url": "https://www.nasa.gov/johnson/jsc-mission-control-center/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "NASA - Apollo Mission Control Center Restoration",
+          "url": "https://www.nasa.gov/johnson/history/apollo-mcc-restoration/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "NASA - Project Mercury Overview",
+          "url": "https://www.nasa.gov/project-mercury/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Smithsonian National Air and Space Museum - Katherine Johnson, Hidden Figures, and John Glenn's Flight",
+          "url": "https://airandspace.si.edu/stories/editorial/glenn-johnson-hidden-figures",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-161-human-computers",
+        "tf26-163-mercury-program",
+        "tf26-164-apollo-11"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hidden Figures' computing room scenes connect to the data infrastructure behind Mercury control and later Apollo mission control culture.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "space-race",
+        "nasa",
+        "science",
+        "mission-control",
+        "true-frame"
+      ],
+      "spoilerNote": "May include hints about Hidden Figures; does not reveal the ending.",
+      "mediaChanged": "The film foregrounds computing labor rather than staging mission control directly. The one-room image simplifies a multi-center control network.",
+      "whyItMatters": "Space mission safety comes from disciplined ground communication and verification, not only astronaut courage.",
+      "isFlagship": false,
+      "quickRealityCheck": "Is it accurate to equate the Mercury calculations in Hidden Figures directly with the Apollo-era Houston control room?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-168-computers-transition",
+      "title": "Computer Transition",
+      "subtitle": "When machines arrived, human calculation did not simply end",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Space",
+        "Science",
+        "Equality"
+      ],
+      "whatWeSee": "Hidden Figures turns NASA's move toward electronic computers into a powerful dramatic threshold. The IBM room opens, people who can code gain importance, and older computing teams fear being left behind. The film treats the change not only as a technical upgrade but as a struggle for professional survival and equality. That feeling is right, but the real transition was not a single overnight switch from human to machine. It was a long mixed period of learning.",
+      "realHistory": "### The human computer era\n\nIn NACA and early NASA, the word computer first described a person, not a machine. At Langley, from the 1930s onward, women computing teams processed wind tunnel data, prepared flight tables, turned aerodynamic experiments into numerical reports and checked the results engineers used to make decisions. This was not simple office work. It required measurement discipline, repetition, error detection and the ability to understand engineering language. Black women mathematicians in West Area Computing performed this work inside the discriminatory limits of Jim Crow.\n\n### Moving to electronic machines\n\nAfter NASA was created in 1958 and the space race accelerated, the volume of data grew rapidly. Electronic computers, including IBM systems and mainframe rooms, offered much faster processing. But machines did not automatically create trust. Programs had to be written, outputs interpreted, bad inputs detected and mission-critical results checked by human experts. The transition was therefore not human versus machine; it was the reorganization of human expertise around machines.\n\nDorothy Vaughan's story is one of the clearest examples. After leading West Area Computing, Vaughan learned FORTRAN and worked to make herself and her team essential in the electronic computing era. NASA biographies describe how, after segregated facilities were formally removed in 1958, former West Computers moved into more integrated structures such as the Analysis and Computation Division, while Vaughan developed programming expertise. Technological change was therefore also a change in skills and institutional position.\n\n### Equality and the new skill economy\n\nComputerization created both opportunity and risk. New programming roles allowed some women to gain higher technical status, but old patterns of exclusion did not vanish. Access to training, invitations to meetings and recognition in the technical decision chain still depended on institutional culture. Hidden Figures' resistance narrative is historically meaningful for exactly that reason: when technology changed, equality did not appear automatically. People used new skills to fight for a place they already deserved.\n\n### The lesson for today\n\nThis history feels current because it mirrors later automation debates. Electronic computers did not simply remove people from the process. They changed tasks, created new validation layers and made some kinds of expertise more important. Human computers became early users, checkers, programmers and interpreters of electronic systems. Hidden Figures compresses the transition into a dramatic threshold. The real history is more useful: in technological change, survival often depends on translating existing expertise into the language of the new system.\n\nThat is the quieter lesson behind the film's dramatic IBM room.",
+      "accuracyNote": "The film dramatizes the IBM/FORTRAN transition. Historically, human computing, electronic calculation and re-skilling at Langley overlapped for years.",
+      "whyInteresting": "This earlier technology shift offers a useful mirror for today's automation and AI debates.",
+      "misconception": "It is often assumed electronic computers made human calculators obsolete overnight. In reality, the new machines required human verification, programming and training.",
+      "nextTopics": [
+        "Human Computers",
+        "Segregation System",
+        "Mercury Program"
+      ],
+      "sources": [
+        {
+          "title": "NASA - When the Computer Wore a Skirt: Langley’s Computers, 1935–1970",
+          "url": "https://www.nasa.gov/history/langleys-computers-1935-1970/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "NASA - Dorothy Vaughan",
+          "url": "https://www.nasa.gov/people/dorothy-vaughan/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "NASA - A Human Computer Hidden No More",
+          "url": "https://www.nasa.gov/image-article/human-computer-hidden-no-more/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "National Park Service - Places of Hidden Figures",
+          "url": "https://www.nps.gov/articles/000/places-of-hidden-figures.htm",
+          "type": "official",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-161-human-computers",
+        "tf26-162-segregation",
+        "tf26-165-katherine-johnson"
+      ],
+      "difficulty": "deep",
+      "readingTimeMinutes": 2,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hidden Figures' IBM/FORTRAN storyline makes the transition from human computers to electronic computing visible through personal stories.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "space-race",
+        "nasa",
+        "science",
+        "computer-transition",
+        "true-frame"
+      ],
+      "spoilerNote": "May include hints about Hidden Figures; does not reveal the ending.",
+      "mediaChanged": "The film presents the transition as a single career rupture. Archives show human and machine calculation working together for years as teams moved into programming and verification roles.",
+      "whyItMatters": "In technology change, the key question is not only what machine arrives, but how human expertise is revalued inside the new system.",
+      "isFlagship": true,
+      "quickRealityCheck": "When IBM computers arrived at Langley, were human computers pushed aside, or did they become programmers and reviewers of the new systems?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-169-risk",
+      "title": "Space Risks",
+      "subtitle": "Not courage alone, but verified tolerance",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Space",
+        "Science",
+        "Equality"
+      ],
+      "whatWeSee": "In Hidden Figures, risk is not only the chance that a rocket might explode. It begins at the calculation table. A wrong number, a bad reentry angle or a timing error can change an astronaut's life. The film turns that pressure into personal drama. The history shows risk being managed through numbers, tests, simulations and acceptable tolerance margins.",
+      "realHistory": "Early human spaceflight carried risk at every stage. Rocket engine failure, guidance drift, loss of communication, heat shield damage, parachute problems and delayed ocean recovery could each become fatal. Project Mercury's goal was not only to send a person into space. It was to learn whether a human could function there and return safely.\n\nThat made reentry calculations critical. If a capsule entered too steeply, heat and structural loads could become dangerous; if it entered too shallowly, it could miss the intended recovery corridor. Katherine Johnson's manual check of electronic computer results before John Glenn's flight symbolizes this safety culture. The issue was not simply mistrusting machines. It was validating a new technology through human expertise.\n\nRisk management did not mean claiming zero risk. It meant building systems that caught error early: ground tests, simulations, cross-checks, tracking stations and rehearsed procedures. Hidden Figures dramatizes risk through one person's pressure. The historical system spread that pressure across many layers of verification.",
+      "accuracyNote": "The film speeds up technical risks for drama. Mercury safety was managed through reentry calculations, verification chains and system tests.",
+      "whyInteresting": "The boldest part of spaceflight is not only facing danger; it is converting uncertainty into numbers and procedures.",
+      "misconception": "Early spaceflight is often remembered as almost pure astronaut courage. It also depended on layered risk reduction and calculation verification.",
+      "nextTopics": [
+        "Human Computers",
+        "Segregation System",
+        "Mercury Program"
+      ],
+      "sources": [
+        {
+          "title": "NASA - Project Mercury Overview",
+          "url": "https://www.nasa.gov/project-mercury/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "NASA - Katherine Johnson Biography",
+          "url": "https://www.nasa.gov/centers-and-facilities/langley/katherine-johnson-biography/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Smithsonian National Air and Space Museum - Katherine Johnson, Hidden Figures, and John Glenn's Flight",
+          "url": "https://airandspace.si.edu/stories/editorial/glenn-johnson-hidden-figures",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-163-mercury-program",
+        "tf26-165-katherine-johnson",
+        "tf26-167-mission-control"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "The critical calculation scenes in Hidden Figures connect directly to Mercury-era reentry, verification and mission safety risks.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "space-race",
+        "nasa",
+        "science",
+        "space-risks",
+        "true-frame"
+      ],
+      "spoilerNote": "May include hints about Hidden Figures; does not reveal the ending.",
+      "mediaChanged": "The film makes risk personal. Historical sources show the same risk distributed across tests, simulations, electronic computing and human review.",
+      "whyItMatters": "Technological progress requires not only pushing boundaries but measuring them well enough to make safe decisions.",
+      "isFlagship": false,
+      "quickRealityCheck": "What makes a space mission safe: bravery alone, or repeatedly verified tolerance limits?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-170-public-memory",
+      "title": "Space Memory",
+      "subtitle": "The footprint is visible; the calculation notebook is quiet",
+      "mediaType": "film",
+      "mediaTitle": "Hidden Figures",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Space",
+        "Science",
+        "Equality"
+      ],
+      "whatWeSee": "Hidden Figures shifts public memory of the space race away from astronaut portraits and toward Black women mathematicians at Langley. Rockets and live broadcasts still matter, but the film centers calculation desks, segregation barriers and institutional invisibility. Space success is therefore not only a question of who went into space, but also whose labor was remembered.",
+      "realHistory": "Public memory of the U.S. space program long centered on astronauts, flight directors and white male engineers. Apollo 11 became a global media event, and the first step on the Moon became one of the strongest Cold War prestige symbols. Behind that image stood Langley human computers, wind tunnel data, flight tables, reentry calculations and the transition into programming.\n\nThe later visibility of Katherine Johnson, Dorothy Vaughan and Mary Jackson is not only an individual correction. NASA archives, oral histories, museum work and popular culture such as Hidden Figures changed the names through which space history is told. Johnson's 2015 Presidential Medal of Freedom and the later naming of facilities and education programs after these figures show that public memory can be revised.\n\nThat revision matters because technology narratives often turn teamwork into a few heroic images. Hidden Figures does not replace astronauts; it widens the frame. It asks which workers were required for the achievement and why some of them had to wait decades to be named in public.",
+      "accuracyNote": "The contributions of Johnson, Vaughan and Jackson are strongly documented by NASA and museum sources. The film combines some events for time and character economy.",
+      "whyInteresting": "The same space achievement can become both a national epic and a late recognition story about hidden labor.",
+      "misconception": "The space race is often imagined as won only by Cape Canaveral, Houston and astronauts. Langley's computing teams were essential too.",
+      "nextTopics": [
+        "Human Computers",
+        "Segregation System",
+        "Mercury Program"
+      ],
+      "sources": [
+        {
+          "title": "NASA - When the Computer Wore a Skirt: Langley’s Computers, 1935–1970",
+          "url": "https://www.nasa.gov/history/langleys-computers-1935-1970/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "NASA Science - Katherine Johnson",
+          "url": "https://science.nasa.gov/people/katherine-johnson/",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "National Park Service - Places of Hidden Figures",
+          "url": "https://www.nps.gov/articles/000/places-of-hidden-figures.htm",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Smithsonian Magazine - The True Story of Hidden Figures",
+          "url": "https://www.smithsonianmag.com/history/the-true-story-of-hidden-figures-and-the-black-women-who-helped-win-the-space-race-180961339/",
+          "type": "museum",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-161-human-computers",
+        "tf26-162-segregation",
+        "tf26-168-computers-transition"
+      ],
+      "difficulty": "medium",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Hidden Figures works as a bridge between NASA's human-computer archives and popular memory.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "space-race",
+        "nasa",
+        "science",
+        "space-memory",
+        "true-frame"
+      ],
+      "spoilerNote": "May include hints about Hidden Figures; does not reveal the ending.",
+      "mediaChanged": "The film makes hidden labor the emotional center. Archives show a long story of technical work, discrimination and delayed recognition.",
+      "whyItMatters": "Big technology stories are shaped not only by what was achieved, but by who is remembered as making it possible.",
+      "isFlagship": false,
+      "quickRealityCheck": "Who stood behind the visible heroes of Mercury and Apollo in the calculation and verification chain?",
+      "lastReviewedAt": "2026-06-28"
+    },
+    {
+      "id": "tf26-171-speakeasies",
+      "title": "Speakeasies",
+      "subtitle": "The back door opened by prohibition",
+      "mediaType": "series",
+      "mediaTitle": "Boardwalk Empire",
+      "era": "Modern History",
+      "region": "United States",
+      "themes": [
+        "Crime",
+        "Trade",
+        "Society"
+      ],
+      "whatWeSee": "In Boardwalk Empire, a speakeasy is not just a basement where liquor is hidden. It is a stage for invisible agreements among politicians, police, bootleggers, musicians and customers. Passwords, back doors, jazz and crowded tables show how the illegal could become ordinary urban life. The series heightens this through crime drama; the history also shows speakeasies as spaces of entertainment, consumption and social change.",
+      "realHistory": "During Prohibition, the Eighteenth Amendment and the Volstead Act banned the production, sale and transport of alcoholic beverages. Demand did not disappear. That gap helped speakeasy culture grow. In New York, Chicago, Atlantic City and smaller cities, venues worked at very different scales: some were small hidden rooms, while others operated almost openly under political protection and bribery networks.\n\nThe idea that speakeasies were completely secret places nobody knew about is exaggerated. Many were known at the neighborhood level and survived less through invisibility than through the right relationships. Secrecy often meant maintaining legal distance, avoiding rivals and managing a bribery chain. Women's more visible participation in nightlife, the spread of jazz and the mixing of different classes made speakeasies part of cultural history as well as crime history.\n\nThat freedom was unequal. Race, entry fees, police attention and local power decided who could enter safely. Boardwalk Empire uses the speakeasy as crime theater. Historically, it was also where a law rejected by many citizens became a daily negotiation among consumption, corruption and urban modernity.",
+      "accuracyNote": "The series captures the speakeasy atmosphere and corruption context, but size, openness and social function varied widely by city.",
+      "whyInteresting": "An illegal bar could be a cultural innovation space, a bribery economy and a social contact zone at the same time.",
+      "misconception": "Speakeasies are often imagined as fully hidden places known only to gangsters. Many were widely known but officially denied.",
+      "nextTopics": [
+        "Bootlegging",
+        "Temperance Movement",
+        "Federal Enforcement"
+      ],
+      "sources": [
+        {
+          "title": "National Constitution Center - The Eighteenth Amendment",
+          "url": "https://constitutioncenter.org/the-constitution/amendments/amendment-xviii/interpretations/169",
+          "type": "official",
+          "verified": true
+        },
+        {
+          "title": "Britannica - Speakeasy",
+          "url": "https://www.britannica.com/topic/speakeasy",
+          "type": "article",
+          "verified": true
+        },
+        {
+          "title": "The Mob Museum - The Speakeasies of the 1920s",
+          "url": "https://prohibition.themobmuseum.org/the-history/the-prohibition-underworld/the-speakeasies-of-the-1920s/",
+          "type": "museum",
+          "verified": true
+        },
+        {
+          "title": "Library of Congress - 18th Amendment to the U.S. Constitution",
+          "url": "https://guides.loc.gov/18th-amendment",
+          "type": "archive",
+          "verified": true
+        }
+      ],
+      "similarMedia": [],
+      "relatedCardIds": [
+        "tf26-172-bootlegging",
+        "tf26-173-temperance",
+        "tf26-174-federal-enforcement"
+      ],
+      "difficulty": "basic",
+      "readingTimeMinutes": 1,
+      "verificationStatus": "verified",
+      "sourceQuality": "strong",
+      "spoilerLevel": "minor",
+      "mediaConnection": "Boardwalk Empire's speakeasy scenes rest on the history of Prohibition nightlife, jazz, local politics and illegal alcohol markets.",
+      "accuracyType": "partly-real",
+      "isPremium": false,
+      "tags": [
+        "prohibition",
+        "organized-crime",
+        "united-states",
+        "speakeasies",
+        "true-frame"
+      ],
+      "spoilerNote": "May include hints about Boardwalk Empire; does not reveal the ending.",
+      "mediaChanged": "The series concentrates the venues into crime drama. Historically, speakeasies were also everyday entertainment spaces and signs of the gap between law and social practice.",
+      "whyItMatters": "Speakeasy culture shows how a law that lacks social acceptance can create underground markets and informal tolerance.",
+      "isFlagship": false,
+      "quickRealityCheck": "Were speakeasies truly unknown hideouts, or places many city residents knew about while officials pretended not to?",
+      "lastReviewedAt": "2026-06-28"
+    }
+  ]
+}
