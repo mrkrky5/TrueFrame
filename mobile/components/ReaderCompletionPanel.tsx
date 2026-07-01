@@ -26,6 +26,8 @@ function primaryLabel(
       return c.readerExitToSaved ?? c.goBackAndContinue;
     case "routes":
       return c.readerExitToRoutes ?? c.goBackAndContinue;
+    case "settings":
+      return c.readerExitToSettings ?? c.goBackAndContinue;
     case "index":
     default:
       return c.readerExitToHome ?? c.returnHome;

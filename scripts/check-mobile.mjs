@@ -52,7 +52,7 @@ function checkSharedImports() {
   const walk = (dir) => {
     for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
       const full = path.join(dir, entry.name);
-      if (entry.isDirectory() && entry.name !== "node_modules" && entry.name !== ".expo") {
+      if (entry.isDirectory() && entry.name !== "node_modules" && entry.name !== ".expo" && entry.name !== ".expo-e2e") {
         walk(full);
       } else if (/\.(tsx?|jsx?)$/.test(entry.name)) {
         const text = fs.readFileSync(full, "utf8");
@@ -144,7 +144,7 @@ function checkAppRoutes() {
     "app/card/_layout.tsx",
     "app/card/[id].tsx",
     "app/_layout.tsx",
-    "app/settings.tsx",
+    "app/(tabs)/settings.tsx",
     "app/privacy.tsx",
     "app/terms.tsx",
     "app/support.tsx",
@@ -179,7 +179,7 @@ function checkNavigationExit() {
   const walk = (dir) => {
     for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
       const full = path.join(dir, entry.name);
-      if (entry.isDirectory() && entry.name !== "node_modules" && entry.name !== ".expo") {
+      if (entry.isDirectory() && entry.name !== "node_modules" && entry.name !== ".expo" && entry.name !== ".expo-e2e") {
         walk(full);
       } else if (/\.(tsx?|jsx?)$/.test(entry.name)) {
         const rel = path.relative(mobileDir, full);
@@ -202,6 +202,46 @@ function checkNavigationExit() {
     fail("utils/navigationExit.ts eksik");
   } else {
     pass("navigationExit merkezi çıkış modülü mevcut");
+  }
+}
+
+function checkNavigationExitLogic() {
+  section("navigationExit mantığı");
+  const TAB_HREF = {
+    index: "/",
+    explore: "/explore",
+    routes: "/routes",
+    saved: "/saved",
+    settings: "/settings",
+  };
+
+  const navFile = fs.readFileSync(path.join(mobileDir, "utils", "navigationExit.ts"), "utf8");
+  for (const tab of Object.keys(TAB_HREF)) {
+    if (!navFile.includes(`${tab}: "${TAB_HREF[tab]}"`)) {
+      fail(`navigationExit.ts TAB_HREF eksik veya yanlış: ${tab}`);
+      return;
+    }
+  }
+  pass("TAB_HREF tüm primary tab'ları kapsıyor");
+
+  const ctxFile = fs.readFileSync(path.join(mobileDir, "context", "NavigationContext.tsx"), "utf8");
+  const tabUnion = ctxFile.match(/PrimaryTab = ([^;]+)/)?.[1] ?? "";
+  for (const tab of Object.keys(TAB_HREF)) {
+    if (!tabUnion.includes(`"${tab}"`)) {
+      fail(`NavigationContext PrimaryTab "${tab}" eksik`);
+      return;
+    }
+  }
+  pass("PrimaryTab union ile TAB_HREF uyumlu");
+}
+
+function checkUnitTests() {
+  section("Unit testler (navigation + ads cadence)");
+  try {
+    execSync("node --test scripts/navigation-exit.test.mjs", { cwd: root, stdio: "pipe", encoding: "utf8" });
+    pass("navigation-exit.test.mjs geçti");
+  } catch (e) {
+    fail(`Unit testler başarısız:\n${((e.stdout || "") + (e.stderr || "")).trim()}`);
   }
 }
 
@@ -372,7 +412,9 @@ checkQualitySignals();
 checkAppRoutes();
 checkNavigationExit();
 checkIosGestures();
+checkNavigationExitLogic();
 checkTypeScript();
+checkUnitTests();
 
 if (withBuild) {
   checkWebExport();

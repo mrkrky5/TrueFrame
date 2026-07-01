@@ -6,6 +6,7 @@ import { useHistory } from "@/context/HistoryContext";
 import { useLocale } from "@/context/LocaleContext";
 import { useNavigationTab } from "@/context/NavigationContext";
 import { getCards } from "@shared/content";
+import { navigateToCard } from "@/utils/navigationExit";
 import {
   cancelDailyReminder,
   configureNotificationHandler,
@@ -63,8 +64,7 @@ export default function DailyNotificationBootstrap() {
 
         const cardId = response?.notification.request.content.data?.cardId as string | undefined;
         if (cardId) {
-          setReaderReturn({ kind: "tab", tab: "index" });
-          router.push(`/card/${cardId}` as never);
+          navigateToCard(router, cardId, setReaderReturn, { kind: "tab", tab: "index" });
           return;
         }
         const url = response?.notification.request.content.data?.url as string | undefined;

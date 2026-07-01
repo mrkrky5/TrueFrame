@@ -1,0 +1,8 @@
+Place completed rewrite batches per locale:
+
+- `tr/batch-01.json` — Turkish prose patches → `data/cards.tr.json`
+- `en/batch-01.json` — English prose patches → `data/cards.en.json`
+
+Each file: `{ "cards": [ { "id", "whatWeSee", "realHistory", … } ] }`
+
+Apply: `npm run content:voice:apply -- --write`

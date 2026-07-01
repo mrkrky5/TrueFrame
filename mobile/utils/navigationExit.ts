@@ -1,4 +1,5 @@
 import type { PrimaryTab, ReaderReturn } from "@/context/NavigationContext";
+import { maybeShowInterstitial } from "@/utils/interstitial";
 
 type RouterReplace = { replace: (href: never) => void };
 type RouterPushReplace = { push: (href: never) => void; replace: (href: never) => void };
@@ -8,6 +9,7 @@ const TAB_HREF: Record<PrimaryTab, string> = {
   explore: "/explore",
   routes: "/routes",
   saved: "/saved",
+  settings: "/settings",
 };
 
 export function hrefForReaderReturn(target: ReaderReturn): string {
@@ -36,6 +38,12 @@ export function navigateDetailExit(router: RouterReplace, fallbackHref: string):
   router.replace(fallbackHref as never);
 }
 
+/** Open a card without a reader-return target (e.g. related cards in reader). */
+export function pushToCard(router: { push: (href: never) => void }, cardId: string): void {
+  maybeShowInterstitial();
+  router.push(`/card/${cardId}` as never);
+}
+
 export function navigateToCard(
   router: RouterPushReplace,
   cardId: string,
@@ -43,6 +51,7 @@ export function navigateToCard(
   returnTo: ReaderReturn,
   mode: "push" | "replace" = "push"
 ): void {
+  maybeShowInterstitial();
   setReaderReturn(returnTo);
   const href = `/card/${cardId}` as never;
   if (mode === "replace") {

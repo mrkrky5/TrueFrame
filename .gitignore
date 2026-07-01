@@ -54,6 +54,7 @@ node_modules/
 /mobile/.expo
 /mobile/dist
 /mobile/.expo-check-export
+/mobile/.expo-e2e
 /mobile/.vscode
 
 # local editor/workspace
@@ -71,6 +72,9 @@ node_modules/
 
 # generated EN adaptation source chunks
 /docs/en-adaptation-source-chunks/
+/docs/voice-pass/chunks/
+/docs/voice-pass/chunks/tr/
+/docs/voice-pass/chunks/en/
 
 # local-only IPA inspection + size-check artifacts
 /mobile/.ipa-check/

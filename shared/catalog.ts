@@ -34,7 +34,8 @@ export async function preloadCatalog(locale: Locale): Promise<HistoryCard[]> {
       ? import("../data/cards.runtime.en.json")
       : import("../data/cards.runtime.tr.json")
     ).then((mod) => {
-      const cards = ((mod as { default?: HistoryCard[] }).default ?? mod) as HistoryCard[];
+      const cards = ((mod as unknown as { default?: HistoryCard[] }).default ??
+        mod) as HistoryCard[];
       fullCache[locale] = cards;
       return cards;
     });

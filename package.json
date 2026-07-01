@@ -9,13 +9,22 @@
     "mobile:web": "npm run mobile:sync && npm run web --prefix mobile",
     "mobile:windows": "node scripts/run-mobile-windows.mjs",
     "mobile:check": "node scripts/check-mobile.mjs",
+    "test": "node --test scripts/navigation-exit.test.mjs",
+    "test:mobile": "npm test && npm run mobile:check",
+    "e2e:prepare": "node scripts/e2e-prepare.mjs",
+    "e2e": "node scripts/e2e-smoke.mjs",
+    "e2e:playwright": "node scripts/run-e2e.mjs",
+    "e2e:install": "playwright install chromium",
     "pack:mac": "node scripts/pack-mac-drop.mjs",
     "pack:mac:content": "node scripts/pack-mac-drop.mjs --content-only",
     "pack:mac:release": "node scripts/pack-mac-drop.mjs --mobile",
     "pack:mac:project": "node scripts/pack-mac-full.mjs",
     "content:build-index": "node scripts/build-card-index.mjs && node scripts/build-runtime-cards.mjs",
     "content:build-runtime": "node scripts/build-runtime-cards.mjs",
-    "content:quality": "node scripts/content-quality-signals.mjs",
+    "content:voice:scan": "node scripts/content-voice-risk.mjs",
+    "content:voice:export": "node scripts/export-voice-pass-chunks.mjs",
+    "content:voice:export:remaining": "node scripts/export-voice-pass-chunks.mjs --remaining-template",
+    "content:voice:apply": "node scripts/apply-voice-patches.mjs",
     "content:quality:report": "node scripts/content-quality-signals.mjs --report",
     "content:quality:audit": "node scripts/content-quality-audit.mjs",
     "content:cleanup:preview": "node scripts/content-mechanical-cleanup-preview.mjs",
@@ -36,6 +45,7 @@
     "compose:screenshots": "node scripts/compose-app-store-screenshots.mjs"
   },
   "devDependencies": {
+    "@playwright/test": "^1.52.0",
     "@types/node": "^20"
   }
 }

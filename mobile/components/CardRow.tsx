@@ -8,7 +8,7 @@ import { theme } from "@/constants/theme";
 import { type } from "@/constants/typography";
 import { useLocale } from "@/context/LocaleContext";
 import { useNavigationTab, type ReaderReturn } from "@/context/NavigationContext";
-import { navigateToCard } from "@/utils/navigationExit";
+import { navigateToCard, pushToCard } from "@/utils/navigationExit";
 import { flattenStyle } from "@/utils/flattenStyle";
 import { formatMediaType } from "@shared/contentBlocks";
 import type { HistoryCard } from "../../types/index";
@@ -47,7 +47,7 @@ export default function CardRow({
       return;
     }
     beforeNavigate?.();
-    router.push(`/card/${card.id}` as never);
+    pushToCard(router, card.id);
   };
 
   return (
