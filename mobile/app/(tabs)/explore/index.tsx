@@ -51,7 +51,7 @@ const CATALOG_LIST_TUNING = {
   removeClippedSubviews: true,
 } as const;
 
-const MEDIA: Array<MediaType | "all"> = ["all", "game", "film", "series", "book"];
+const MEDIA: Array<MediaType | "all"> = ["all", "game", "film", "series"];
 
 function formatResultsSummary(
   dictionary: Record<string, any>,
@@ -505,20 +505,12 @@ export default function ExploreScreen() {
     ]
   );
 
-  const showAllLabel = (ex.showAllCards ?? "Show all {{count}} cards").replace(
-    "{{count}}",
-    String(filtered.length)
-  );
   const loadMoreCount = Math.min(EXPLORE_CATALOG_PAGE_SIZE, filtered.length - catalogVisibleCount);
-  const loadMoreLabel = (ex.loadMoreCards ?? "Load {{count}} more cards").replace(
+  const expandCatalogLabel = (ex.loadMoreCards ?? "Load {{count}} more cards").replace(
     "{{count}}",
     String(loadMoreCount)
   );
   const hasMoreCatalog = catalogVisibleCount < filtered.length;
-  const expandCatalogLabel =
-    catalogVisibleCount <= EXPLORE_CATALOG_PREVIEW && !isAnyFilterActive
-      ? showAllLabel
-      : loadMoreLabel;
 
   const expandCatalog = () => {
     setCatalogVisibleCount((count) =>

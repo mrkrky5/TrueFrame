@@ -2,7 +2,7 @@
   "expo": {
     "name": "True Frame",
     "slug": "true-frame",
-    "version": "2.0.3",
+    "version": "2.0.4",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "trueframe",
@@ -12,7 +12,7 @@
       "icon": "./assets/images/icon.png",
       "supportsTablet": false,
       "bundleIdentifier": "com.trueframe.app",
-      "buildNumber": "18",
+      "buildNumber": "24",
       "associatedDomains": [
         "applinks:trueframe.app",
         "applinks:www.trueframe.app"

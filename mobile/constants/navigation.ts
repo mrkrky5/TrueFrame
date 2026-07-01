@@ -1,9 +1,8 @@
 /** Paths where the floating tab bar should be hidden (in-tab detail screens). */
-export function shouldHideTabBar(pathname: string): boolean {
-  // Card reader lives on the root stack above tabs — it already covers the bar.
-  // Hiding here unmounts the bar and pathname lags on back, causing a 1–2s gap.
-  if (pathname.startsWith("/routes/") && pathname !== "/routes") return true;
-  if (pathname.startsWith("/explore/media/")) return true;
+export function shouldHideTabBar(_pathname: string): boolean {
+  // Keep the bar mounted on all tab-stack screens. Hiding on /routes/[id] or
+  // /explore/media/* unmounts it; pathname lags on back from /card/* → 1–2s flicker.
+  // Card reader lives on the root stack and covers the bar without hiding here.
   return false;
 }
 

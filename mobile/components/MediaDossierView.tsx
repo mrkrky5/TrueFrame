@@ -80,7 +80,7 @@ export default function MediaDossierView({
 
   const tags = dossier.topTags.slice(0, 3).join(localeTagSep(dictionary));
 
-  const bottomPad = screenBottomInset(insets.bottom, { includeTabBar: false });
+  const bottomPad = screenBottomInset(insets.bottom);
 
   return (
     <ScrollView

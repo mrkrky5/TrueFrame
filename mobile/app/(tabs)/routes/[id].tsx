@@ -51,7 +51,7 @@ export default function RouteDetailScreen() {
     [routeCards, readIds]
   );
   const routeIncomplete = progress.completed < progress.total;
-  const bottomPad = screenBottomInset(insets.bottom, { includeTabBar: false });
+  const bottomPad = screenBottomInset(insets.bottom);
 
   if (!route) {
     return (
