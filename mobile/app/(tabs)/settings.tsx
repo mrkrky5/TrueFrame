@@ -117,7 +117,7 @@ export default function SettingsScreen() {
         <Text style={styles.section}>{s.versionLabel}</Text>
         <Text style={styles.version}>{version}</Text>
 
-        <FeedbackCard showLegalFooter={false} />
+        <FeedbackCard />
       </ScrollView>
     </View>
   );

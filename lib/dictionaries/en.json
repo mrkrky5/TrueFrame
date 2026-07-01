@@ -375,7 +375,11 @@
     "globalEmptyDesc": "Read your first card and save what you like. Finished cards appear here.",
     "globalEmptyPrimaryCta": "Start exploring",
     "globalEmptySecondaryCta": "Go to Explore",
-    "savedSectionHint": "Cards you mark «Save for later» land here."
+    "savedSectionHint": "Cards you mark «Save for later» land here.",
+    "tabSaved": "Saved",
+    "tabRead": "Finished",
+    "emptyReadHint": "Cards you finish reading appear here.",
+    "emptySavedHint": "You have no saved cards yet."
   },
   "routes": {
     "learningJourneys": "LEARNING JOURNEYS",
@@ -449,6 +453,7 @@
     "dossiersExplainer": "Dossiers group cards around one game, film, or series.",
     "catalogSection": "Browse all cards",
     "showAllCards": "Show all {{count}} cards",
+    "loadMoreCards": "Load {{count}} more cards",
     "resultsSummary": "{{total}} results · {{unread}} unread",
     "spoilerFreeFilter": "No spoilers",
     "emptySearchTitle": "Try another word or explore:",

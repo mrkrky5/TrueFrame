@@ -29,7 +29,7 @@ import { useInProgressIds } from "@/hooks/useInProgressIds";
 import { useCards } from "@/context/ContentContext";
 import { sortCardsByReadState } from "@shared/cardSort";
 import { getStrongDossiers } from "@shared/dossier";
-import { EXPLORE_CATALOG_PREVIEW, getExploreSearchSuggestions, getStartHereCards } from "@shared/exploreCurated";
+import { EXPLORE_CATALOG_PREVIEW, EXPLORE_CATALOG_PAGE_SIZE, getExploreSearchSuggestions, getStartHereCards } from "@shared/exploreCurated";
 import { countUnreadCards, filterCards } from "@shared/explore";
 import { sortDossiersByReadState, isDossierComplete } from "@shared/dossierSort";
 import { getDossierReadProgress } from "@shared/homeProgress";
@@ -105,7 +105,7 @@ export default function ExploreScreen() {
   const [spoilerFree, setSpoilerFree] = useState(false);
   const [tag, setTag] = useState<string | null>(null);
   const [showFilters, setShowFilters] = useState(false);
-  const [showAllCatalog, setShowAllCatalog] = useState(false);
+  const [catalogVisibleCount, setCatalogVisibleCount] = useState(EXPLORE_CATALOG_PREVIEW);
   const bottomPad = tabScreenContentPadding(insets.bottom);
   const ex = dictionary.explore ?? {};
 
@@ -154,6 +154,21 @@ export default function ExploreScreen() {
   ].filter(Boolean).length;
   const isAnyFilterActive = activeFilterCount > 0 || query.length > 0;
 
+  useEffect(() => {
+    const filterActive =
+      media !== "all" ||
+      accuracy !== "all" ||
+      onlyFlagships ||
+      spoilerFree ||
+      tag !== null ||
+      query.length > 0;
+    setCatalogVisibleCount(
+      filterActive
+        ? Math.min(EXPLORE_CATALOG_PAGE_SIZE, filtered.length)
+        : EXPLORE_CATALOG_PREVIEW
+    );
+  }, [query, media, accuracy, tag, onlyFlagships, spoilerFree, filtered.length]);
+
   const { inProgressIds } = useInProgressIds(recentIds, readIds);
 
   const sortedStartHere = useMemo(
@@ -162,13 +177,9 @@ export default function ExploreScreen() {
   );
 
   const catalogData = useMemo(() => {
-    const base = (() => {
-      if (isAnyFilterActive) return filtered;
-      if (showAllCatalog) return filtered;
-      return filtered.slice(0, EXPLORE_CATALOG_PREVIEW);
-    })();
+    const base = filtered.slice(0, catalogVisibleCount);
     return sortCardsByReadState(base, readIds, inProgressIds);
-  }, [filtered, isAnyFilterActive, showAllCatalog, readIds, inProgressIds]);
+  }, [filtered, catalogVisibleCount, readIds, inProgressIds]);
 
   const clearAllFilters = () => {
     setQuery("");
@@ -178,7 +189,7 @@ export default function ExploreScreen() {
     setSpoilerFree(false);
     setTag(null);
     setShowFilters(false);
-    setShowAllCatalog(false);
+    setCatalogVisibleCount(EXPLORE_CATALOG_PREVIEW);
   };
 
   const openCardFromExplore = (cardId: string) => {
@@ -498,6 +509,22 @@ export default function ExploreScreen() {
     "{{count}}",
     String(filtered.length)
   );
+  const loadMoreCount = Math.min(EXPLORE_CATALOG_PAGE_SIZE, filtered.length - catalogVisibleCount);
+  const loadMoreLabel = (ex.loadMoreCards ?? "Load {{count}} more cards").replace(
+    "{{count}}",
+    String(loadMoreCount)
+  );
+  const hasMoreCatalog = catalogVisibleCount < filtered.length;
+  const expandCatalogLabel =
+    catalogVisibleCount <= EXPLORE_CATALOG_PREVIEW && !isAnyFilterActive
+      ? showAllLabel
+      : loadMoreLabel;
+
+  const expandCatalog = () => {
+    setCatalogVisibleCount((count) =>
+      Math.min(count + EXPLORE_CATALOG_PAGE_SIZE, filtered.length)
+    );
+  };
 
   const applySuggestion = (suggestion: ReturnType<typeof getExploreSearchSuggestions>[number]) => {
     if (suggestion.query) {
@@ -533,16 +560,14 @@ export default function ExploreScreen() {
         )}
         {...CATALOG_LIST_TUNING}
         ListFooterComponent={
-          !isAnyFilterActive ? (
-            <>
-              {!showAllCatalog && filtered.length > EXPLORE_CATALOG_PREVIEW ? (
-                <Pressable style={styles.showAllBtn} onPress={() => setShowAllCatalog(true)}>
-                  <Text style={styles.showAllBtnText}>{showAllLabel}</Text>
-                </Pressable>
-              ) : null}
-              <MissingMediaRequest />
-            </>
-          ) : null
+          <>
+            {hasMoreCatalog ? (
+              <Pressable style={styles.showAllBtn} onPress={expandCatalog}>
+                <Text style={styles.showAllBtnText}>{expandCatalogLabel}</Text>
+              </Pressable>
+            ) : null}
+            {!isAnyFilterActive ? <MissingMediaRequest /> : null}
+          </>
         }
         ListEmptyComponent={
           <View style={styles.emptyWrap}>

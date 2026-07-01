@@ -51,6 +51,7 @@ export function getStartHereCards(cards: HistoryCard[], limit = 6): HistoryCard[
 }
 
 export const EXPLORE_CATALOG_PREVIEW = 24;
+export const EXPLORE_CATALOG_PAGE_SIZE = 50;
 
 export type ExploreSearchSuggestion = {
   label: string;

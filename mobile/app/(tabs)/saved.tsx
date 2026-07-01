@@ -1,6 +1,6 @@
 import { Link } from "expo-router";
-import React, { Fragment, useMemo, useRef } from "react";
-import { ScrollView, StyleSheet, Text, View } from "react-native";
+import React, { useMemo, useRef, useState } from "react";
+import { FlatList, Pressable, StyleSheet, Text, View } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 import { Ionicons } from "@expo/vector-icons";
 
@@ -21,6 +21,15 @@ import { sortCardsByReadState } from "@shared/cardSort";
 import { useCards } from "@/context/ContentContext";
 import { usePrimaryTabFocus } from "@/hooks/usePrimaryTabFocus";
 import { useTabScrollToTop } from "@/hooks/useTabScrollToTop";
+
+const LIST_TUNING = {
+  initialNumToRender: 8,
+  maxToRenderPerBatch: 10,
+  windowSize: 7,
+  removeClippedSubviews: true,
+} as const;
+
+type LibrarySection = "saved" | "read";
 
 function SavedEmptyCard({ t }: { t: (key: string) => string }) {
   return (
@@ -47,14 +56,56 @@ function SavedEmptyCard({ t }: { t: (key: string) => string }) {
   );
 }
 
+function SectionTabs({
+  section,
+  onChange,
+  savedCount,
+  readCount,
+  t,
+}: {
+  section: LibrarySection;
+  onChange: (s: LibrarySection) => void;
+  savedCount: number;
+  readCount: number;
+  t: (key: string) => string;
+}) {
+  return (
+    <View style={styles.tabs}>
+      <Pressable
+        style={[styles.tab, section === "saved" && styles.tabActive]}
+        onPress={() => onChange("saved")}
+        accessibilityRole="tab"
+        accessibilityState={{ selected: section === "saved" }}
+      >
+        <Text style={[styles.tabText, section === "saved" && styles.tabTextActive]}>
+          {t("tabSaved")}
+          {savedCount > 0 ? ` (${savedCount})` : ""}
+        </Text>
+      </Pressable>
+      <Pressable
+        style={[styles.tab, section === "read" && styles.tabActive]}
+        onPress={() => onChange("read")}
+        accessibilityRole="tab"
+        accessibilityState={{ selected: section === "read" }}
+      >
+        <Text style={[styles.tabText, section === "read" && styles.tabTextActive]}>
+          {t("tabRead")}
+          {readCount > 0 ? ` (${readCount})` : ""}
+        </Text>
+      </Pressable>
+    </View>
+  );
+}
+
 export default function SavedScreen() {
   usePrimaryTabFocus("saved");
-  const scrollRef = useRef<ScrollView>(null);
+  const scrollRef = useRef<FlatList>(null);
   useTabScrollToTop("saved", scrollRef);
   const insets = useSafeAreaInsets();
   const { locale, dictionary } = useLocale();
   const { savedIds, readIds, ready } = useHistory();
   const allCards = useCards();
+  const [section, setSection] = useState<LibrarySection>("saved");
 
   const saved = useMemo(
     () => sortCardsByReadState(allCards.filter((c) => savedIds.includes(c.id)), readIds),
@@ -75,6 +126,25 @@ export default function SavedScreen() {
   const savedReturn = { kind: "tab" as const, tab: "saved" as const };
   const showGlobalEmpty = ready && saved.length === 0 && read.length === 0;
   const bottomPad = tabScreenContentPadding(insets.bottom);
+  const listData = section === "saved" ? saved : read;
+
+  const ListHeader = useMemo(
+    () => (
+      <View style={styles.headerBlock}>
+        <TabHeader title={t("title")} subtitle={t("subtitle")} />
+        {showGlobalEmpty ? null : (
+          <SectionTabs
+            section={section}
+            onChange={setSection}
+            savedCount={saved.length}
+            readCount={read.length}
+            t={t}
+          />
+        )}
+      </View>
+    ),
+    [section, saved.length, read.length, showGlobalEmpty, dictionary]
+  );
 
   if (!ready) {
     return (
@@ -86,85 +156,65 @@ export default function SavedScreen() {
 
   return (
     <View style={[styles.screen, { paddingTop: insets.top + 8, flex: 1 }]}>
-      <ScrollView
+      <FlatList
         ref={scrollRef}
-        style={styles.scroll}
+        data={showGlobalEmpty ? [] : listData}
+        keyExtractor={(item) => item.id}
+        key={section}
         contentContainerStyle={[styles.content, { paddingBottom: bottomPad }]}
         contentInsetAdjustmentBehavior="never"
-      >
-        <View style={styles.headerRow}>
-          <TabHeader title={t("title")} subtitle={t("subtitle")} />
-        </View>
-
-        {showGlobalEmpty ? (
-          <SavedEmptyCard t={t} />
-        ) : (
-          <>
-            <Section title={t("savedItems")}>
-              {saved.length > 0 ? (
-                saved.map((c, index) => (
-                  <Fragment key={c.id}>
-                    <ListInlineAd index={index} placement="saved_inline" />
-                    <CardRow
-                      card={c}
-                      locale={locale}
-                      isRead={readIds.includes(c.id)}
-                      returnTo={savedReturn}
-                    />
-                  </Fragment>
-                ))
-              ) : (
-                <Text style={styles.sectionHint}>{t("savedSectionHint")}</Text>
-              )}
-            </Section>
-
-            {read.length > 0 ? (
-              <Section title={t("completed")}>
-                {read.map((c) => (
-                  <CardRow
-                    key={c.id}
-                    card={c}
-                    locale={locale}
-                    isRead
-                    returnTo={savedReturn}
-                    badge={dictionary.common.readStatus}
-                  />
-                ))}
-              </Section>
-            ) : null}
-          </>
+        ListHeaderComponent={ListHeader}
+        renderItem={({ item, index }) => (
+          <View style={styles.rowWrap}>
+            {section === "saved" ? <ListInlineAd index={index} placement="saved_inline" /> : null}
+            <CardRow
+              card={item}
+              locale={locale}
+              isRead={readIds.includes(item.id)}
+              returnTo={savedReturn}
+              badge={section === "read" ? dictionary.common.readStatus : undefined}
+            />
+          </View>
         )}
-
-        <FeedbackCard />
-      </ScrollView>
-    </View>
-  );
-}
-
-function Section({ title, children }: { title: string; children: React.ReactNode }) {
-  return (
-    <View style={styles.section}>
-      <Text style={styles.sectionTitle}>{title}</Text>
-      {children}
+        ListEmptyComponent={
+          showGlobalEmpty ? (
+            <SavedEmptyCard t={t} />
+          ) : (
+            <Text style={styles.sectionHint}>
+              {section === "saved" ? t("emptySavedHint") : t("emptyReadHint")}
+            </Text>
+          )
+        }
+        ListFooterComponent={showGlobalEmpty ? null : <FeedbackCard />}
+        {...LIST_TUNING}
+      />
     </View>
   );
 }
 
 const styles = StyleSheet.create({
   screen: { flex: 1, backgroundColor: theme.bg },
-  scroll: { flex: 1 },
   content: { paddingHorizontal: 20 },
-  headerRow: { flexDirection: "row", alignItems: "flex-start", justifyContent: "space-between", marginBottom: 24 },
-  headerText: { flex: 1, paddingRight: 12 },
-  settingsBtn: {
-    width: 44,
-    height: 44,
-    borderRadius: 14,
-    ...surfaces.inset,
-    alignItems: "center",
-    justifyContent: "center",
+  headerBlock: { marginBottom: 16 },
+  tabs: {
+    flexDirection: "row",
+    gap: 8,
+    marginTop: 8,
   },
-  title: { ...type.screenTitle, marginBottom: 6 },
+  tab: {
+    flex: 1,
+    paddingVertical: 12,
+    paddingHorizontal: 12,
+    borderRadius: 12,
+    backgroundColor: theme.surfaceMuted,
+    borderWidth: 1,
+    borderColor: theme.border,
+    alignItems: "center",
+  },
+  tabActive: { backgroundColor: theme.ink, borderColor: theme.ink },
+  tabText: { fontSize: 12, fontWeight: "700", color: theme.muted },
+  tabTextActive: { color: theme.white },
+  rowWrap: { marginBottom: 4 },
   emptyIconWrap: {
     width: 72,
     height: 72,
@@ -174,7 +224,6 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     marginBottom: 16,
   },
-  subtitle: { fontSize: 14, color: theme.muted, marginBottom: 24 },
   emptyBox: {
     ...surfaces.card,
     borderRadius: 24,
@@ -193,14 +242,5 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   primaryBtnText: { color: theme.white, fontSize: 14, fontWeight: "700" },
-  section: {
-    marginBottom: 24,
-    padding: 14,
-    borderRadius: 16,
-    backgroundColor: theme.surfaceMuted,
-    borderWidth: 1,
-    borderColor: theme.border,
-  },
-  sectionTitle: { fontSize: 16, fontWeight: "600", color: theme.ink, marginBottom: 12 },
-  sectionHint: { fontSize: 13, lineHeight: 20, color: theme.muted },
+  sectionHint: { fontSize: 13, lineHeight: 20, color: theme.muted, paddingVertical: 8 },
 });

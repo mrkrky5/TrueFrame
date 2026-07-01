@@ -375,7 +375,11 @@
     "globalEmptyDesc": "İlk kartını oku; beğendiklerini kaydet. Okudukların burada birikir.",
     "globalEmptyPrimaryCta": "Keşfetmeye başla",
     "globalEmptySecondaryCta": "Keşfet’e git",
-    "savedSectionHint": "«Sonra bakarım» dediğin kartlar buraya kaydolur."
+    "savedSectionHint": "«Sonra bakarım» dediğin kartlar buraya kaydolur.",
+    "tabSaved": "Kaydettiklerin",
+    "tabRead": "Okudukların",
+    "emptyReadHint": "Bitirdiğin kartlar burada listelenir.",
+    "emptySavedHint": "Henüz kayıtlı kartın yok."
   },
   "routes": {
     "learningJourneys": "ÖĞRENME YOLCULUKLARI",
@@ -449,6 +453,7 @@
     "dossiersExplainer": "Dosyalar bir oyun, film veya diziye ait kartları bir araya getirir.",
     "catalogSection": "Tüm kartlar",
     "showAllCards": "Tüm {{count}} kartı göster",
+    "loadMoreCards": "{{count}} kart daha yükle",
     "resultsSummary": "{{total}} sonuç · {{unread}} okunmamış",
     "spoilerFreeFilter": "Spoiler yok",
     "emptySearchTitle": "Başka bir kelime dene veya şunlara bak:",

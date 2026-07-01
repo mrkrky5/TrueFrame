@@ -1,12 +1,11 @@
 import { Linking, Pressable, StyleSheet, Text, View } from "react-native";
 
-import LegalFooter from "@/components/LegalFooter";
 import { surfaces } from "@/constants/surfaces";
 import { theme } from "@/constants/theme";
 import { useLocale } from "@/context/LocaleContext";
 import { SITE_CONFIG } from "@/constants/site-config";
 
-export default function FeedbackCard({ showLegalFooter = true }: { showLegalFooter?: boolean }) {
+export default function FeedbackCard() {
   const { dictionary } = useLocale();
   const t = dictionary.feedback;
 
@@ -20,7 +19,6 @@ export default function FeedbackCard({ showLegalFooter = true }: { showLegalFoot
       >
         <Text style={styles.btnText}>{t.cta}</Text>
       </Pressable>
-      {showLegalFooter ? <LegalFooter /> : null}
     </View>
   );
 }
